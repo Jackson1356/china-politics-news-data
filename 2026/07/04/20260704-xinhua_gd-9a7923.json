@@ -1,0 +1,106 @@
+{
+  "id": "20260704-xinhua_gd-9a7923",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260704/010ee043bbfb427bb086dd77fb66d7e9/c.html",
+  "title_zh": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+  "title_en": "Three Departments Adjust Vehicle and Vessel Tax Preferential Policies for Energy-Saving and New Energy Vehicles",
+  "summary_zh": "财政部、税务总局、工信部近日公告，自2027年1月1日起取消节能汽车及部分新能源汽车的车船税优惠政策，以促进税收公平。",
+  "summary_en": "The Ministry of Finance, State Taxation Administration, and MIIT announced that vehicle and vessel tax preferences for energy-saving and certain new energy vehicles will be canceled starting January 1, 2027.",
+  "body_zh": "新华社北京7月3日电（记者申铖）记者7月3日从财政部了解到，财政部、税务总局、工业和信息化部近日发布公告明确，自2027年1月1日起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策。\n车船税是一种财产税，对车辆、船舶所有人或者管理人每年征收。为支持新能源汽车产业发展、促进节能减排，自2012年以来，我国明确对符合标准的节能汽车，减半征收车船税；对符合标准的新能源汽车，免征车船税。\n据了解，此次政策调整实施之后，纳税人已取得以及新取得的节能汽车、纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车等，均需按规定缴纳车船税。\n对于纯电动乘用车、燃料电池乘用车这两类车型，因为没有排气量，不属于车船税法规定的征税范围，不受此次政策调整的影响，仍不征收车船税。\n近年来，随着我国新能源汽车产业蓬勃发展、新能源汽车保有量迅速增长，对其给予车船税优惠带来的影响税收公平、弱化税收调节作用等问题日益显现，退出车船税支持政策的必要性不断增强。\n业内人士表示，车船税税额不高，例如对排气量为1.5升的乘用车，北京市车船税额为420元，上海市、广东省为300元。此次政策调整有利于税收公平、引导新能源汽车产业健康发展。",
+  "image_url": null,
+  "published_at": "2026-07-04T12:00:00+00:00",
+  "event_date": "2026-07-03",
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "车船税",
+    "税收政策"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "车船税",
+      "name_en": "Vehicle and Vessel Tax"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "税收政策",
+      "name_en": "Tax Policy"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "工业和信息化部",
+    "北京",
+    "新能源汽车",
+    "车船税",
+    "税收政策"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Industry and Information Technology",
+    "Beijing",
+    "New Energy Vehicles",
+    "Vehicle and Vessel Tax",
+    "Tax Policy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260704-xinhua_gd-9a7923",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/0704/c349771-41629217.html",
+      "title_zh": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+      "published_at": "2026-07-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

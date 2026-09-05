@@ -1,0 +1,123 @@
+{
+  "id": "20260607-cyol-dc9d1f",
+  "source": "cyol",
+  "source_name_zh": "中国青年报",
+  "source_name_en": "China Youth Daily",
+  "source_url": "http://news.cyol.com/gb/articles/2026-06/07/content_4wqGOASWlN.html",
+  "title_zh": "习近平同老挝国家主席通伦举行会谈",
+  "title_en": "Xi Jinping Holds Talks with Lao President Thongloun",
+  "summary_zh": "6月5日，习近平在北京同来华访问的老挝国家主席通伦举行会谈，双方探讨深化互利合作，携手打造新时代全天候中老命运共同体。",
+  "summary_en": "On June 5, Xi Jinping held talks with Lao President Thongloun in Beijing to deepen mutual cooperation and build a new era all-weather China-Laos community with a shared future.",
+  "body_zh": "习近平：携手打造新时代全天候中老命运共同体\n【本期导读】\n6月5日，中共中央总书记、国家主席习近平在北京同来华进行国事访问的老挝人民革命党中央总书记、国家主席通伦举行会谈。习近平指出，中方始终将老挝视作周边外交重要方向，坚定支持老挝走符合自身国情的社会主义道路，愿同老方弘扬传统友谊，深化互利合作，密切团结协作，推动中老关系实现新的跃升，携手打造新时代全天候中老命运共同体。\n近年来，在两党两国最高领导人的关心和引领下，中老命运共同体建设为两国人民带来实实在在的福祉。老方人士认为，中国已成为社会主义制度和发展中国家的引领旗帜，成为维护世界和平和推动构建多极世界的中流砥柱。包括老挝在内的东盟国家应继续深化同中国的合作，造福双方民众，为地区和平稳定和发展繁荣作出更大贡献。\n视觉：曹懿心\n校对：位树理、任丽君、浦海蕊",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "中老命运共同体",
+    "周边外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "老挝",
+      "name_en": "Laos"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中老命运共同体",
+      "name_en": "China-Laos Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "周边外交",
+      "name_en": "Peripheral Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央",
+    "北京",
+    "老挝",
+    "中老命运共同体",
+    "周边外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "Beijing",
+    "Laos",
+    "China-Laos Community with a Shared Future",
+    "Peripheral Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260607-cyol-dc9d1f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-06/07/content_32081064.htm",
+      "title_zh": "【讲习所·中国与世界】习近平：携手打造新时代全天候中老命运共同体",
+      "published_at": "2026-06-07T12:00:00+00:00"
+    },
+    {
+      "source": "cjn",
+      "source_tier": 4,
+      "url": "http://news.cjn.cn/asy/ttxw/202606/t5302122.htm",
+      "title_zh": "【讲习所·中国与世界】习近平：携手打造新时代全天候中老命运共同体",
+      "published_at": "2026-06-07T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-06/07/content_38815278.htm",
+      "title_zh": "【讲习所·中国与世界】习近平：携手打造新时代全天候中老命运共同体",
+      "published_at": "2026-06-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

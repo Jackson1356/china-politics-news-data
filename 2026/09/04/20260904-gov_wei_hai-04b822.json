@@ -1,0 +1,101 @@
+{
+  "id": "20260904-gov_wei_hai-04b822",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/9/4/art_58817_6588707.html",
+  "title_zh": "上海市浙江商会走进威海恳谈会举行",
+  "title_en": "Shanghai Zhejiang Chamber of Commerce Symposium Held in Weihai",
+  "summary_zh": "9月3日，上海市浙江商会走进威海恳谈会举行。威海市委书记张海波出席并讲话，表示希望深化合作，推动项目落地。",
+  "summary_en": "On September 3, a symposium of the Shanghai Zhejiang Chamber of Commerce was held in Weihai. Weihai Party Secretary Zhang Haibo attended and spoke, expressing hopes for deeper cooperation.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）9月3日，上海市浙江商会走进威海恳谈会举行。市委书记张海波、上海市浙江商会党委书记潘建清出席会议并讲话，市领导孔凡萍、李建、于宁、张刚出席。\n会上，有关市领导推介了威海市产业基础和营商环境情况，各区市、国家级开发区、综合保税区进行了特色产业推介。上海市浙江商会有关负责同志介绍了商会基本情况，枫叶海运集团、携程集团、恩然科技、中通快递、凯泉泵业相关负责人作了发言。\n张海波代表市委、市人民政府欢迎上海市浙江商会一行到来，并简要介绍了威海经济社会发展有关情况。他指出，长三角地区是我国经济发展最活跃、开放程度最高、创新能力最强的区域之一。当前，威海正在全力以赴抓经济、促发展，深入实施工业经济“头号工程”，需要集聚高端资源、引入优质项目、深化区域合作。希望双方以此次恳谈会为契机，建立常态化沟通对接机制，深化产业链协同合作，共同开拓东北亚市场，合力做强文旅康养产业，强化资本与专业服务赋能，实现优势互补、资源共享、互利共赢。威海市委、市人民政府将始终坚持“企业为大、服务为本”理念，全力打造一流营商环境，助力企业持续做大做强。\n潘建清指出，威海生态环境良好，产业基础扎实，开放优势突出，营商环境优越，是浙商挖掘商机谋求发展的热土。上海市浙江商会将充分发挥桥梁纽带作用，持续深化政企交流对接，鼓励支持更多企业家了解威海、走进威海、投资威海，为威海高质量发展作出更大贡献。\n与会企业纷纷表示，看好在威发展前景，将更好把自身所长和威海所需结合起来，不断拓展合作领域、深挖合作潜力，推动更多优质资源、优质项目落地威海。\n一审：雅斐 二审：秀英 三审：观达",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "产业合作",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "招商引资",
+    "产业合作",
+    "营商环境"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Investment Attraction",
+    "Industrial Cooperation",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260904-gov_wei_hai-04b822",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wei_hai",
+      "source_tier": 4,
+      "url": "https://www.weihai.gov.cn/art/2026/9/4/art_60663_6590548.html",
+      "title_zh": "上海市浙江商会走进威海恳谈会举行",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

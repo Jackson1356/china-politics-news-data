@@ -1,0 +1,111 @@
+{
+  "id": "20260901-gov_xi_an-658d1a",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2094613534625292289.html",
+  "title_zh": "赵一德会见陕西省第十批“三秦楷模”",
+  "title_en": "Zhao Yide Meets Shaanxi's 10th 'Sanqin Role Models'",
+  "summary_zh": "8月31日，陕西省委书记赵一德在西安会见陕西省第十批“三秦楷模”代表，表示祝贺和敬意，强调发挥榜样引领作用。",
+  "summary_en": "On August 31, Zhao Yide, Secretary of the CPC Shaanxi Provincial Committee, met with representatives of the 10th 'Sanqin Role Models' in Xi'an, expressing congratulations and emphasizing the role of exemplary figures.",
+  "body_zh": "8月31日，省委书记赵一德在西安会见了陕西省第十批“三秦楷模”康振生、王友民和安康市汉滨区汉江志愿者救生联合会代表。\n赵一德代表省委和省政府向受表彰的“三秦楷模”表示热烈祝贺和崇高敬意。他指出，伟大时代呼唤伟大精神，崇高事业需要榜样引领。长期以来，大家扎根陕西红色热土，自觉把个人理想追求融入全省发展大局，在不同岗位矢志拼搏、无私奉献，用感人至深的奋斗事迹树立起可学可做、可追可及的时代标杆。希望大家珍惜荣誉、永葆本色，带动更多人向上向善、实干担当。\n赵一德强调，当前全省上下正深入学习贯彻习近平总书记历次来陕考察重要讲话重要指示，锚定“十五五”开好局、起好步，加压加力、攻坚克难，奋力谱写中国式现代化建设的陕西新篇章。越是在这样的关键时期，越需要榜样的力量。要深入开展向“三秦楷模”学习活动，加强英雄模范选树培育，持续营造尊崇英雄、学习英雄、争做英雄的浓厚氛围，激励广大干部群众更加积极投身高质量发展现代化建设的火热实践。各级党委和政府要关心关爱“三秦楷模”及其家属，用心用情解决好实际困难，为他们再接再厉、再立新功创造良好条件。\n省领导孙大光、李钧，省直有关部门和渭南市、安康市负责同志参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "party",
+  "keywords": [
+    "先进典型表彰",
+    "榜样引领"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-yide",
+      "name_zh": "赵一德",
+      "name_en": "Zhao Yide"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进典型表彰",
+      "name_en": "Recognition of Role Models"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "榜样引领",
+      "name_en": "Exemplary Leadership"
+    },
+    {
+      "kind": "person",
+      "id": "li-jun-shaanxi",
+      "name_zh": "李钧",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "sun-daguang",
+      "name_zh": "孙大光",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "秦楷模",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赵一德",
+    "西安",
+    "先进典型表彰",
+    "榜样引领",
+    "李钧",
+    "孙大光",
+    "秦楷模"
+  ],
+  "tags_en": [
+    "Zhao Yide",
+    "Xi'an",
+    "Recognition of Role Models",
+    "Exemplary Leadership"
+  ],
+  "entities": {
+    "politicians": [
+      "sun-daguang",
+      "zhao-yide",
+      "li-jun-shaanxi",
+      {
+        "id": null,
+        "name_zh": "秦楷模"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-gov_xi_an-658d1a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

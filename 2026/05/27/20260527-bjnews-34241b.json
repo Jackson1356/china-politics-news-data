@@ -1,0 +1,80 @@
+{
+  "id": "20260527-bjnews-34241b",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1779864068129108.html",
+  "title_zh": "外交部称“天宫”迎来首位中国香港航天员是“一国两制”实践硕果",
+  "title_en": "Foreign Ministry: First Hong Kong Astronaut in \"Tiangong\" is a Fruit of \"One Country, Two Systems\"",
+  "summary_zh": "外交部发言人毛宁5月27日在北京表示，神舟二十三号载人飞船成功发射并迎来首位中国香港航天员，体现了“一国两制”的优越性。",
+  "summary_en": "Foreign Ministry spokesperson Mao Ning stated on May 27 in Beijing that the launch of Shenzhou-23 and the first Hong Kong astronaut's arrival in \"Tiangong\" demonstrate the superiority of \"One Country, Two Systems\".",
+  "body_zh": "据新华社北京5月27日电 外交部发言人毛宁27日在例行记者会上答问时表示，神舟二十三号载人飞船成功发射，“天宫”迎来了首位中国香港航天员，这不仅是中国载人航天事业的又一里程碑，也是全体香港同胞的共同荣耀，是“一国两制”实践结出的硕果，显示了“一国两制”的强大生命力和显著优越性。\n毛宁说，香港正在加快推进国际创科中心建设，相信此次航天任务将激励更多的香港青年为国家的科技发展贡献力量。",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "industry",
+  "keywords": [
+    "一国两制",
+    "载人航天"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Manned Spaceflight"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "一国两制",
+    "载人航天"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "One Country, Two Systems",
+    "Manned Spaceflight"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260527-bjnews-34241b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

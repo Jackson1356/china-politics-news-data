@@ -1,0 +1,111 @@
+{
+  "id": "20260622-xinhua_js-434fc9",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260622/57f84eb9ade1450cae9cb51ce0ad51c3/c.html",
+  "title_zh": "刘小涛会见香港特区政府财政司司长陈茂波",
+  "title_en": "Liu Xiaotao Meets Paul Chan Mo-po, Financial Secretary of the HKSAR Government",
+  "summary_zh": "6月19日，江苏省长刘小涛在南京会见香港特区政府财政司司长陈茂波，双方探讨深化苏港在金融、科技、航运等领域的交流合作。",
+  "summary_en": "On June 19, Jiangsu Governor Liu Xiaotao met with Paul Chan Mo-po, Financial Secretary of the HKSAR Government, in Nanjing to discuss deepening cooperation in finance, technology, and shipping.",
+  "body_zh": "6月19日，省长刘小涛在南京会见香港特区政府财政司司长陈茂波。\n刘小涛对陈茂波一行表示欢迎，感谢香港一直以来给予江苏发展的大力支持。他说，香港是重要的国际金融中心、航运中心和贸易中心，已成为江苏企业“走出去”发展的首选地之一。希望共同落实好深化苏港交流合作协议，发挥苏港合作联席会议机制作用，推动江苏企业更好对接香港资本市场，进一步精准导入国际优质资本，加强港口航运、航空航线合作，深化科技金融、人工智能、生物医药、海洋经济等领域创新协作，实现更高水平的互利共赢。\n陈茂波表示，苏港两地一直保持紧密合作关系，经贸往来频繁，在金融、创科、教育等领域取得丰硕成果。希望进一步探索更多合作模式，开展更多合作项目，进一步深化交流合作。\n副省长赵岩，南京市市长李忠军，省政府秘书长赵建军参加会见。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-19",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "economy",
+  "keywords": [
+    "苏港合作",
+    "科技金融",
+    "资本市场"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈茂波",
+      "name_en": "Paul Chan Mo-po"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "苏港合作",
+      "name_en": "Jiangsu-Hong Kong Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技金融",
+      "name_en": "Tech Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "资本市场",
+      "name_en": "Capital Markets"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "陈茂波",
+    "南京",
+    "苏港合作",
+    "科技金融",
+    "资本市场",
+    "李忠军"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Paul Chan Mo-po",
+    "Nanjing",
+    "Jiangsu-Hong Kong Cooperation",
+    "Tech Finance",
+    "Capital Markets"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-zhongjun",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      },
+      {
+        "id": null,
+        "name_zh": "陈茂波"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260622-xinhua_js-434fc9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

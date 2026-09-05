@@ -1,0 +1,78 @@
+{
+  "id": "20260603-peoples_hb-e0e96c",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_url": "http://hb.people.com.cn/n2/2026/0603/c192237-41599472.html",
+  "title_zh": "首个快递领域国际标准化机构成立",
+  "title_en": "First International Standardization Body for Express Delivery Established",
+  "summary_zh": "2026年6月2日，国际标准化组织（ISO）快递服务标准委员会在北京成立，秘书处设在中国并由国家邮政局发展研究中心承担具体工作。",
+  "summary_en": "On June 2, 2026, the ISO Express Service Standards Committee was established in Beijing, with its secretariat located in China and managed by the State Post Bureau's Development Research Center.",
+  "body_zh": "首个快递领域国际标准化机构成立\n秘书处设立在中国\n本报北京6月2日电 （记者韩鑫）2日，国际标准化组织（ISO）创新物流技术委员会快递服务标准委员会正式成立，秘书处设在中国。这是首个快递领域国际标准化机构，标志着快递服务标准国际化工作迈入新阶段。\n快递服务标准委员会秘书处具体工作由国家邮政局发展研究中心承担，秘书处将全面履行ISO赋予的各项职责，着力打造快递服务标准国际化平台。\n《 人民日报 》（ 2026年06月03日 07 版）",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "快递服务标准",
+    "国际标准化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "快递服务标准",
+      "name_en": "Express Delivery Service Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际标准化",
+      "name_en": "International Standardization"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "快递服务标准",
+    "国际标准化"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Express Delivery Service Standards",
+    "International Standardization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260603-peoples_hb-e0e96c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0603/c352664-41599680.html",
+      "title_zh": "首个快递领域国际标准化机构成立",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

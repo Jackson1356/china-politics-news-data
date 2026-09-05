@@ -1,0 +1,84 @@
+{
+  "id": "20260801-chinanews_gn-ec82a3",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-01/10670404.shtml",
+  "title_zh": "水利部针对黑龙江省启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level IV Flood Response for Heilongjiang",
+  "summary_zh": "8月1日，水利部针对黑龙江省启动洪水防御Ⅳ级应急响应，应对松花江、嫩江支流可能发生的编号洪水。",
+  "summary_en": "On August 1, the Ministry of Water Resources activated a Level IV flood response for Heilongjiang Province to address potential numbered floods in tributaries of the Songhua and Nen rivers.",
+  "body_zh": "水利部针对黑龙江省启动洪水防御Ⅳ级应急响应\n记者从水利部了解到，8月1日东北东部将有大到暴雨，2日东北东南部将有小到中雨，3至7日东北中部北部仍将有中到大雨；黑龙江省松花江、嫩江支流甘河可能发生编号洪水。水利部于8月1日13时启动针对黑龙江省的洪水防御Ⅳ级应急响应。\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年07月31日 20:41:53\n- 2026年07月31日 15:43:22\n- 2026年07月31日 15:19:39\n- 2026年07月31日 12:44:21\n- 2026年07月31日 10:15:46\n- 2026年07月31日 08:02:01\n- 2026年07月30日 22:01:28\n- 2026年07月30日 17:26:28\n- 2026年07月30日 16:57:46\n- 2026年07月30日 16:18:12",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "黑龙江",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Heilongjiang",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260801-chinanews_gn-ec82a3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

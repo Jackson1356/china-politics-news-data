@@ -1,0 +1,108 @@
+{
+  "id": "20260520-peoples_gd-033570",
+  "source": "peoples_gd",
+  "source_name_zh": "人民网 广东",
+  "source_name_en": "People's Daily Guangdong",
+  "source_url": "http://gd.people.com.cn/n2/2026/0521/c123932-41586795.html",
+  "title_zh": "粤港澳大湾区数据特区创新合作中心启动",
+  "title_en": "Launch of the Guangdong-Hong Kong-Macao Greater Bay Area Data Special Zone Innovation Cooperation Center",
+  "summary_zh": "2026年5月20日，粤港澳大湾区数据特区创新合作中心在广州启动，由中国联通牵头共建，旨在推动大湾区数据跨境流动与产业融通。",
+  "summary_en": "On May 20, 2026, the GBA Data Special Zone Innovation Cooperation Center was launched in Guangzhou to promote cross-border data flow and industrial integration.",
+  "body_zh": "粤港澳大湾区数据特区创新合作中心启动\n促进三地民生融合、政务协同和产业融通\n本报广州5月20日电 （记者李刚）近日，粤港澳大湾区数据特区创新合作中心启动大会在广东省广州市举办。会上，由中国联通牵头，联合国家数据发展研究院等27家单位共建的“数据特区创新合作中心”正式启动，这标志着粤港澳大湾区数据特区建设从试点成果转化为全省产业优势。\n大湾区数据特区是践行国家战略、探索数据跨境流动的“试验田”，粤港澳大湾区数据特区创新合作中心的成立，正是搭建了一个汇聚资源、协同创新、开放共享的高端平台。\n粤港澳大湾区数据特区创新合作中心致力于解决企业“不敢跨、不会跨、跨不起”的问题，为企业提供数据跨境流通全过程、全链条、全方位服务，全力打造粤港澳大湾区数据跨境服务“总枢纽、总基座、总客服”。\n该中心将重点围绕跨境制造、跨境医疗、跨境科研、跨境教育、跨境电商、来数加工等六大场景应用，推动粤港澳大湾区数据流通，促进三地民生融合、政务协同和产业融通：跨境制造方面，围绕跨国工厂推进生产、质量、设备的协同验证；跨境医疗方面，推动“港人就医、跨境理赔”试点落地；跨境科研方面，围绕生物医疗、人工智能等领域试点联合研发；跨境教育方面，探索学分成绩等教育数据跨境安全核验与互认试点；跨境电商方面，试点探索“关、汇、税”更高效，实现“一单多报”；来数加工方面，实现“境外数据进入—境内可信加工—成果合规输出—全过程监管留痕”新路径。\n《 人民日报 》（ 2026年05月21日 12 版）",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "industry",
+  "keywords": [
+    "数据跨境流动",
+    "粤港澳大湾区"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CHINA-UNICOM",
+      "name_zh": "中国联通",
+      "name_en": "China Unicom"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据发展研究院",
+      "name_en": "National Data Development Research Institute"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据跨境流动",
+      "name_en": "Cross-border Data Flow"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粤港澳大湾区",
+      "name_en": "Guangdong-Hong Kong-Macao Greater Bay Area"
+    }
+  ],
+  "tags_zh": [
+    "中国联通",
+    "国家数据发展研究院",
+    "广州",
+    "广东",
+    "数据跨境流动",
+    "粤港澳大湾区"
+  ],
+  "tags_en": [
+    "China Unicom",
+    "National Data Development Research Institute",
+    "Guangzhou",
+    "Cross-border Data Flow",
+    "Guangdong-Hong Kong-Macao Greater Bay Area"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CHINA-UNICOM"
+    ],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家数据发展研究院",
+        "name_en": "National Data Development Research Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260520-peoples_gd-033570",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0521/c352664-41586582.html",
+      "title_zh": "粤港澳大湾区数据特区创新合作中心启动",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260815-peoples_zj-2cbe51",
+  "source": "peoples_zj",
+  "source_name_zh": "人民网 浙江",
+  "source_name_en": "People's Daily Zhejiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://zj.people.com.cn/n2/2026/0815/c186327-41668712.html",
+  "title_zh": "建设人与自然和谐相处、共生共荣的宜居城市",
+  "title_en": "Hangzhou Advances Construction of Livable City in Harmony with Nature",
+  "summary_zh": "习近平总书记强调建设宜居城市，杭州推进公园绿地、非遗传承、智慧社区等建设，提升城市品质。",
+  "summary_en": "Following Xi Jinping's call for livable cities, Hangzhou has advanced urban renewal, expanded green parks, preserved intangible cultural heritage, and developed smart communities.",
+  "body_zh": "习近平总书记在浙江杭州考察时强调，“在建设人与自然和谐相处、共生共荣的宜居城市方面创造更多经验”“进一步挖掘城市发展潜力，加快建设智慧城市，为全国创造更多可推广的经验”。\n近年来，杭州高质量推进城市建设各项工作，城市更新激发活力，基层治理暖意充盈，科技赋能智慧城市建设。\n让公园成为人民群众共享的绿色空间。杭州纳入名录的城市公园共计747个，市域人均公园绿地面积达15.5平方米。\n把传统手工艺等非物质文化遗产传承好。“十四五”时期，杭州新增人类非遗3项、国家级非遗代表性传承人12人。“杭城千年古都文脉非遗奇妙游”入选国家级非遗旅游线路。\n让城市更聪明一些、更智慧一些。杭州持续推动完整社区（未来社区）建设工作，累计开展建设项目576个、建成476个，受益居民超492万人；深化“人工智能+”应用，不断提高社区服务与基层治理效能，加快推动完整社区成为全民可及、全域可见的普遍形态。\n从老旧小区“微改造”，到城市绿道“生态缝合”，再到地下管网“微创手术”……“十五五”时期，杭州将努力推进小哥友好城市、活力善治城市、志愿最暖城市“三城”建设，聚力打造超大城市基层治理新高地。\n《 人民日报 》（ 2026年08月15日 05 版）",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "welfare",
+  "keywords": [
+    "宜居城市",
+    "智慧城市",
+    "非物质文化遗产"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宜居城市",
+      "name_en": "Livable City"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧城市",
+      "name_en": "Smart City"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "非物质文化遗产",
+      "name_en": "Intangible Cultural Heritage"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "杭州",
+    "宜居城市",
+    "智慧城市",
+    "非物质文化遗产",
+    "习近平"
+  ],
+  "tags_en": [
+    "Hangzhou",
+    "Livable City",
+    "Smart City",
+    "Intangible Cultural Heritage"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "江杭州"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260815-peoples_zj-2cbe51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

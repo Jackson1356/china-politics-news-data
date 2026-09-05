@@ -1,0 +1,108 @@
+{
+  "id": "20260730-xinhua_ah-93fd9f",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.news.cn/20260730/cdf5d61bce3b4bcfa9b516375b31af06/c.html",
+  "title_zh": "王清宪与刘桂清举行工作会谈",
+  "title_en": "Wang Qingxian Holds Working Talks with Liu Guiqing",
+  "summary_zh": "7月29日上午，安徽省长王清宪与中国电信集团总经理刘桂清举行工作会谈，就量子技术、人工智能等领域合作展开交流。副省长李中参加。",
+  "summary_en": "On the morning of July 29, Anhui Governor Wang Qingxian held working talks with Liu Guiqing, General Manager of China Telecom, on cooperation in quantum technology and AI. Vice Governor Li Zhong attended.",
+  "body_zh": "7月29日上午，省长王清宪与中国电信集团总经理刘桂清举行工作会谈。副省长李中参加。\n王清宪指出，“十五五”时期，安徽抢抓量子科技、人工智能等前沿领域发展机遇，推进科技创新和产业创新深度融合，因地制宜培育发展新质生产力，积极抢占科技和产业制高点。希望与中国电信等加强资源对接与优势互补，在量子技术应用、人工智能＋、企业数智化转型、算力网络建设等领域加大合作力度。我们将持续优化服务，全力支持企业在皖实现更大发展。\n刘桂清表示，安徽创新动能强劲、产业生态优越，中国电信将深入对接安徽发展需求，进一步加大在皖战略布局和资源投入，携手打造央地合作新成果新标杆。（记者 吴量亮）",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "industry",
+  "keywords": [
+    "量子科技",
+    "人工智能",
+    "央地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qingxian",
+      "name_zh": "王清宪",
+      "name_en": "Wang Qingxian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "量子科技",
+      "name_en": "Quantum Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-Local Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘桂清",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王清宪",
+    "安徽",
+    "量子科技",
+    "人工智能",
+    "央地合作",
+    "刘桂清"
+  ],
+  "tags_en": [
+    "Wang Qingxian",
+    "Anhui",
+    "Quantum Technology",
+    "Artificial Intelligence",
+    "Central-Local Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-qingxian",
+      {
+        "id": null,
+        "name_zh": "刘桂清"
+      },
+      {
+        "id": null,
+        "name_zh": "李中"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260730-xinhua_ah-93fd9f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

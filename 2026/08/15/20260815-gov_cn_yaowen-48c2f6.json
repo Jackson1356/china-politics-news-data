@@ -1,0 +1,105 @@
+{
+  "id": "20260815-gov_cn_yaowen-48c2f6",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078141.htm",
+  "title_zh": "我国多措并举加快绿色低碳发展",
+  "title_en": "China Takes Multiple Measures to Accelerate Green and Low-Carbon Development",
+  "summary_zh": "8月15日，2026年全国生态日主场活动在内蒙古呼伦贝尔市举办，国家发展改革委等多部门发布生态文明建设成果，明确多项绿色低碳发展举措。",
+  "summary_en": "On August 15, the 2026 National Ecology Day event was held in Hulunbuir, Inner Mongolia. The NDRC and other departments released achievements in ecological civilization and outlined green development measures.",
+  "body_zh": "今天（8月15日），2026年全国生态日主场活动在内蒙古自治区呼伦贝尔市举办，主题为“厚植中国式现代化的绿色底色”。国家发展改革委等多部门发布生态文明建设重要成果：2012年以来，我国以年均3.4%的能耗增速，支撑了年均6.1%的经济增长，成为全球能耗强度、碳排放强度下降最快的国家之一。\n进入“十五五”，我国将扎实开展碳达峰行动，科学开展碳达峰碳中和综合评价考核；统筹推进“能水粮地矿材”一体化节约，加强各类资源全过程管理和全链条节约；加快废旧机电设备、汽车、电器电子等重点再生资源拆解能力改造升级，支持资源循环利用领域全国重点实验室建设，力争到2030年，资源循环利用产业产值达到8万亿元。",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "industry",
+  "keywords": [
+    "绿色低碳发展",
+    "生态文明建设",
+    "碳达峰碳中和"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-HL",
+      "name_zh": "呼伦贝尔",
+      "name_en": "Hulunbuir"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳发展",
+      "name_en": "Green and Low-Carbon Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明建设",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "碳达峰碳中和",
+      "name_en": "Carbon Peak and Carbon Neutrality"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "内蒙古",
+    "呼伦贝尔",
+    "绿色低碳发展",
+    "生态文明建设",
+    "碳达峰碳中和"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Inner Mongolia",
+    "Hulunbuir",
+    "Green and Low-Carbon Development",
+    "Ecological Civilization",
+    "Carbon Peak and Carbon Neutrality"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NM",
+      "CN-NM-HL"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260815-gov_cn_yaowen-48c2f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

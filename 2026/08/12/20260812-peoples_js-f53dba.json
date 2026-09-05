@@ -1,0 +1,87 @@
+{
+  "id": "20260812-peoples_js-f53dba",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0812/c360303-41665364.html",
+  "title_zh": "8月11日太湖水位持续上涨 江苏启动防汛三级应急响应",
+  "title_en": "Taihu Lake Water Level Rises, Jiangsu Activates Level III Emergency Response",
+  "summary_zh": "8月11日，太湖受台风影响水位持续上涨，达警戒水位并编号为2026年第1号洪水，江苏省启动防汛三级应急响应，调度水利工程排水。",
+  "summary_en": "On August 11, Taihu Lake water level kept rising above warning level due to typhoon, prompting Jiangsu to activate a Level III flood-control emergency response and dispatch water conservancy projects for drainage.",
+  "body_zh": "8月11日太湖水位持续上涨 江苏启动防汛三级应急响应\n据《新华日报》报道，受第13号台风“白海豚”强降雨影响，太湖水位持续上涨，已于8月11日11时25分涨至警戒水位3.80米，并将继续上涨，依据水利部《全国主要江河洪水编号规定》，编号为“太湖2026年第1号洪水”。\n江苏省防汛抗旱指挥部决定，11日17时30分起，启动太湖地区防汛三级应急响应，并结束江苏防台风四级应急响应，结束针对南京、无锡、常州、苏州、南通、镇江等6市防汛三级应急响应。\n水利部门调度水利工程持续排水，太湖望亭立交关闭并开启蠡河枢纽，苏南运河沿线圩区限排，缓解苏南运河上涨趋势；太湖地区沿江主要口门闸泵联合排水，武进港等环湖口门、望虞河西岸口门打开排涝，控制区域河网水位上涨幅度，苏南运河水位明显回落。秦淮河、滁河、通南等地区沿江口门全力排水，区域水情稳定。\n受台风“白海豚”影响，10日无锡普降暴雨，多条城市道路积水，京杭运河无锡段水位飙升，创下新中国成立以来最高纪录，堤防、水利设施隐患风险暗藏。无锡水利战线全员坚守岗位，持续开展巡堤查险、设备检修、排水减负工作，筑牢安全防线。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省防汛抗旱指挥部",
+      "name_en": "Jiangsu Provincial Flood Control and Drought Relief Headquarters"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "江苏省防汛抗旱指挥部",
+    "江苏",
+    "防汛",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Jiangsu Provincial Flood Control and Drought Relief Headquarters",
+    "Jiangsu",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省防汛抗旱指挥部",
+        "name_en": "Jiangsu Provincial Flood Control and Drought Relief Headquarters"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260812-peoples_js-f53dba",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

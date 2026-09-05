@@ -1,0 +1,72 @@
+{
+  "id": "20260611-guancha_politics-2c8787",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_11_820117.shtml",
+  "title_zh": "广西兴安县凌晨发生爆炸致7死17伤",
+  "title_en": "Explosion in Xing'an County, Guangxi Leaves 7 Dead and 17 Injured",
+  "summary_zh": "广西兴安县凌晨发生一起爆炸事故，造成7人死亡，17人受伤。",
+  "summary_en": "An explosion occurred in Xing'an County, Guangxi in the early morning, resulting in 7 deaths and 17 injuries.",
+  "body_zh": "今年前5月居民境外收入补税约130亿元2026-06-10 22:02\n中国交建、中国电建被约谈2026-06-10 21:57 安全生产\n涉留神峪煤矿事故，山西省应急管理厅副厅长张和平被查2026-06-10 21:09 廉政风暴\n首次！“我国已补齐台湾岛东部海底地图”2026-06-10 20:30 台湾\n台湾岛东部海域海上交通专项执法和扫测行动圆满结束2026-06-10 20:20 台湾\nApp窗口乱跳转，工信部出手整治！2026-06-10 19:07\n上海市副市长陈宇剑被查2026-06-10 16:26 廉政风暴\n当地通报“残障老人被水泥店老板控制，无薪扛水泥奴役20年”2026-06-10 14:41\n赖清德吹嘘“突访”斯威士兰，国台办回应2026-06-10 11:38\n“数典忘祖、背叛民族的人都将被钉在历史耻辱柱上”2026-06-10 11:09 台湾\n民进党当局称船只与大陆海警船发生对峙，国台办表态2026-06-10 11:03 两岸关系\n5月CPI同比上涨1.2%，PPI同比上涨3.9%2026-06-10 09:54 中国经济\n2人在冰川无人区自驾被困，当地花5天4夜成功救援：将作出行政处罚2026-06-10 07:28\n公布个人手机号的原市委书记主动投案2026-06-09 22:44 廉政风暴\n全球市占率突破30%！“国产LNG船订单排到2030年后”2026-06-09 20:17 中国精造\n“监理单位同意施工方不按图纸施工”，高速桥梁垮塌致62人死亡失踪2026-06-09 19:19 安全生产\n三峡水运新通道：为什么建，要突破哪些难题2026-06-09 19:14 超级工程\n朱雀二号改进型遥六运载火箭发射成功2026-06-09 17:01 航空航天\n台军又出事故，火箭弹刚发射就坠地2026-06-09 15:28 台湾\n“喜剧教父”黄百鸣，被判入狱5个月2026-06-09 14:46",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "广西",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Guangxi",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张和平"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260611-guancha_politics-2c8787",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_11_820120.shtml",
+      "title_zh": "礼赞社科大师｜吴蕴瑞：以科学之眼，带人们认识真正的体育",
+      "published_at": "2026-06-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

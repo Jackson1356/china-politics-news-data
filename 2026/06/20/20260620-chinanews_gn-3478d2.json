@@ -1,0 +1,100 @@
+{
+  "id": "20260620-chinanews_gn-3478d2",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-20/10644278.shtml",
+  "title_zh": "新疆维吾尔自治区政府原副主席朱昌杰被查",
+  "title_en": "Former Vice Chairman of Xinjiang Uygur Autonomous Region Government Zhu Changjie Investigated",
+  "summary_zh": "2026年6月20日，中国官方通报新疆维吾尔自治区政府原副主席朱昌杰涉嫌严重违纪违法，目前正接受中央纪委国家监委调查。",
+  "summary_en": "On June 20, 2026, Chinese authorities announced that Zhu Changjie, former Vice Chairman of the Xinjiang Uygur Autonomous Region government, is under investigation by the CCDI and NSC for suspected serious violations of discipline and law.",
+  "body_zh": "新疆维吾尔自治区政府原副主席朱昌杰被查\n中新社北京6月20日电 中国官方20日通报，新疆维吾尔自治区政府原党组成员、副主席朱昌杰涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n公开资料显示，朱昌杰，1957年6月生，山东东明人，长期在新疆工作。他曾任新疆维吾尔自治区巴音郭楞蒙古自治州党委副书记，阿克苏地委书记，新疆生产建设兵团农一师党委第一书记、第一政委，新疆维吾尔自治区公安厅党委书记、厅长等职。2011年，朱昌杰任新疆维吾尔自治区人民政府副主席，2018年卸任。(完)\n国内新闻精选：\n- 2026年06月21日 11:06:17\n- 2026年06月20日 20:55:49\n- 2026年06月20日 14:34:07\n- 2026年06月19日 22:59:14\n- 2026年06月19日 16:35:46\n- 2026年06月17日 23:46:48\n- 2026年06月17日 17:01:11\n- 2026年06月17日 15:32:31\n- 2026年06月17日 14:33:05\n- 2026年06月17日 14:15:40",
+  "image_url": null,
+  "published_at": "2026-06-20T12:00:00+00:00",
+  "event_date": "2026-06-20",
+  "ingested_at": "2026-06-21T08:55:06Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "朱昌杰",
+      "name_en": "Zhu Changjie"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Inspection"
+    }
+  ],
+  "tags_zh": [
+    "朱昌杰",
+    "中央纪委国家监委",
+    "北京",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Zhu Changjie",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Beijing",
+    "Anti-corruption",
+    "Disciplinary Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方日"
+      },
+      {
+        "id": null,
+        "name_zh": "朱昌杰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260620-chinanews_gn-3478d2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

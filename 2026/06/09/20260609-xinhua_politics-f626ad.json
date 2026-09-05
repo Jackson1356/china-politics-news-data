@@ -1,0 +1,82 @@
+{
+  "id": "20260609-xinhua_politics-f626ad",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260609/630daa2672884254b39764aa1cd07b29/c.html",
+  "title_zh": "《数字中国发展报告（2025年）》全文发布",
+  "title_en": "Full Text of Digital China Development Report (2025) Released",
+  "summary_zh": "国家数据局6月8日发布《数字中国发展报告（2025年）》，总结了2025年数字中国建设的进展成效并展望2026年发展前景。",
+  "summary_en": "The National Data Bureau released the Digital China Development Report (2025) on June 8, summarizing progress in 2025 and outlining prospects for 2026.",
+  "body_zh": "国家数据局6月8日发布了《数字中国发展报告（2025年）》全文。报告从发展基础、赋能效应、发展环境三个方面系统总结了2025年数字中国建设重要进展和工作成效，并展望2026年数字中国发展的形势和前景。\n报告指出，我国算力基础设施建设集聚发展。截至2025年底，全国在用算力设施机架数超过1373万标准机架，建成万卡智算集群42个，智能算力规模达到159万PFlops（FP16），位居全球第二。\n报告数据显示，截至2025年底，我国网民规模达11.25亿人，互联网普及率达80.1%；用人工智能来解答问题、生成图片视频、作为生活助手的用户规模，分别达4.57亿人、2.88亿人和1.84亿人。生成式人工智能正逐渐融入我国各类群体的日常生活中，中青年、高学历用户是核心群体。在所有生成式人工智能用户中，40岁以下中青年用户占比达74.6%。（记者高亢）",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "数字中国",
+    "算力基础设施",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Bureau"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字中国",
+      "name_en": "Digital China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力基础设施",
+      "name_en": "Computing Power Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "数字中国",
+    "算力基础设施",
+    "人工智能"
+  ],
+  "tags_en": [
+    "National Data Bureau",
+    "Digital China",
+    "Computing Power Infrastructure",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260609-xinhua_politics-f626ad",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "20260828-gov_ying_kou-7e101c",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001003/20260828/482920ac-495f-4a0f-a55e-5bb10d678d5f.html",
+  "title_zh": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示",
+  "title_en": "Xi Jinping Gives Important Instructions on Debris Flow Disaster in Shigatse, Tibet",
+  "summary_zh": "8月26日，西藏日喀则市吉隆县因尼泊尔一侧泥石流灾害造成重大人员伤亡失联，习近平作出重要指示要求千方百计搜救，李强作出批示。",
+  "summary_en": "On August 26, a debris flow from Nepal caused heavy casualties at Gyirong Port in Tibet. Xi Jinping gave important instructions to spare no effort in search and rescue, and Li Qiang made instructions.",
+  "body_zh": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示强调\n千方百计搜救失联人员 加强各类风险隐患排查整治\n确保人民群众生命财产安全\n李强作出批示\n新华社北京8月26日电 8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。\n灾害发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视并作出重要指示指出，当务之急要千方百计搜救失联人员，转移安置受威胁群众，抓紧救治伤员，最大限度减少人员伤亡。要加强监测预警，注重科学施救，防止发生次生灾害。\n习近平强调，当前正处防汛关键期，各地区和有关部门要坚持极限思维、底线思维，认真落实防汛防台风各项措施，加强各类风险隐患排查整治，坚决防范重特大灾害事故发生，确保人民群众生命财产安全。\n中共中央政治局常委、国务院总理李强作出批示指出，要抓紧核清失联受灾人数，组织力量全力开展抢险救援，及时有序转移受险群众，同时注意科学施救，严防次生灾害。外交部要加强与有关国家沟通协调，及时通报情况，共同妥善做好救援处置工作。当前仍值主汛期，国家防办、防减救灾办要指导各地深入排查灾害风险隐患，加强险情监测预警和排险避灾，确保人民群众生命安全。\n根据习近平重要指示和李强要求，中共中央政治局委员、国务院副总理张国清率有关部门负责同志赶赴现场指导救援处置工作。西藏已组织力量全力做好现场搜救等工作。目前，有关工作正在进行中。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "party",
+  "keywords": [
+    "防汛救灾",
+    "应急救援",
+    "风险排查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急救援",
+      "name_en": "Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "风险排查",
+      "name_en": "Risk Screening"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "李强",
+    "国务院",
+    "西藏",
+    "防汛救灾",
+    "应急救援",
+    "风险排查"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Li Qiang",
+    "State Council",
+    "Tibet",
+    "Flood Control and Disaster Relief",
+    "Emergency Rescue",
+    "Risk Screening"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260826-gov_ji_nan-12fd5c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

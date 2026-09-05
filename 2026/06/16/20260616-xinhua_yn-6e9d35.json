@@ -1,0 +1,93 @@
+{
+  "id": "20260616-xinhua_yn-6e9d35",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_url": "https://www.news.cn/20260616/854f361060024346a75fe896cdc2d4c2/c.html",
+  "title_zh": "第10届南博会闭幕 实际签约金额逾277亿元",
+  "title_en": "The 10th China-South Asia Expo Closes with Signed Amount Exceeding 27.7 Billion Yuan",
+  "summary_zh": "第10届中国—南亚博览会6月16日在昆明闭幕，实际签约金额逾277亿元，旨在增进中国与南亚经贸合作。",
+  "summary_en": "The 10th China-South Asia Expo closed in Kunming on June 16, with actual signed contracts exceeding 27.7 billion yuan to enhance economic and trade cooperation.",
+  "body_zh": "第10届中国—南亚博览会6月16日圆满闭幕。截至目前，本届南博会实际签约金额逾277亿元，其中，内外贸项目102.51亿元、投资合作项目174.89亿元，分别比上届增长20.9%和28.5%。\n云南省商务厅厅长李朝伟介绍，本届南博会吸引了68个国家、地区和国际组织参展参会，实现南亚、东南亚及RCEP成员国全覆盖。112家世界500强、中国500强及行业龙头企业参展，2301家境内外企业齐聚展会。意大利、乌拉圭等7国驻华使领馆首次以国家展团形式组团参展。德国、巴西、埃及等45个国家，首次有企业参加采购活动，国际合作版图显著扩大。\n中国—南亚博览会由商务部和云南省政府共同主办，是专门面向南亚地区的重要展会，旨在增进中国与南亚经贸合作。本届南博会6月11日在昆明开幕，会期持续6天，进馆人数达50万人次。（记者浦超）",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国—南亚博览会",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "昆明",
+      "name_en": "Kunming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—南亚博览会",
+      "name_en": "China-South Asia Expo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "昆明",
+    "云南",
+    "中国—南亚博览会",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Kunming",
+    "Yunnan",
+    "China-South Asia Expo",
+    "Economic and Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李朝伟"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260616-xinhua_yn-6e9d35",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

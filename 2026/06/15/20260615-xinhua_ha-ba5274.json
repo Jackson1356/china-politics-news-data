@@ -1,0 +1,95 @@
+{
+  "id": "20260615-xinhua_ha-ba5274",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_url": "http://ha.news.cn/20260615/167e291ee2a54ffc8947325eb8614fd7/c.html",
+  "title_zh": "省委常委会召开会议 刘宁主持并讲话",
+  "title_en": "Provincial Party Committee Standing Committee Meeting Held, Presided over by Liu Ning",
+  "summary_zh": "6月14日，河南省委书记刘宁主持召开省委常委会会议，学习习近平总书记关于发展未来产业的重要文章，并部署河南未来产业的前瞻布局与创新引领工作。",
+  "summary_en": "On June 14, Henan Provincial Party Secretary Liu Ning presided over a Standing Committee meeting to study President Xi Jinping's article on future industries and deploy industrial layouts and innovation in Henan.",
+  "body_zh": "6月14日，省委书记刘宁主持召开省委常委会会议。\n会议认真学习习近平总书记在《求是》杂志上发表的重要文章《前瞻布局和发展未来产业》，强调习近平总书记的重要文章深刻阐述了培育发展未来产业的重要意义，并围绕强化产业协同、加快科技成果转化应用、发挥企业主体作用、完善政策支持、健全治理体系等提出明确要求，为我们做好相关工作指明了方向、提供了遵循。要加强统筹谋划，做好前瞻布局。牢牢把握新一轮科技革命趋势、产业变革走势，坚持因地制宜、错位发展，聚焦“十五五”时期我国未来产业发展主攻方向，发挥河南产业基础优势，积极谋划布局，推动我省未来产业蓄势发力、茁壮成长。要深化创新引领，加速成果应用。坚持“产业出题、科技答题”，聚焦制约未来产业发展的“卡脖子”问题，加快构建“基础研究—应用开发—场景开放”全链条创新体系，推动科技创新和产业创新深度融合，加强标准化建设，强化企业创新主体地位，推进专利转化运用，努力将科研创造力转化为现实生产力。要完善政策支持，营造良好环境。加强对培育发展未来产业的要素保障，进一步健全未来产业投入增长机制，完善长期资本投早、投小、投长期、投硬科技的支持政策，深入推进教育、科技、人才领域的深层次改革，依托创新平台载体筑巢引凤，让创新创造的活力充分涌流。\n会议还研究了其他事项。（全媒体记者 刘婵 张笑闻）",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-14",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "未来产业",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-ning-henan",
+      "name_zh": "刘宁",
+      "name_en": "Liu Ning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "未来产业",
+      "name_en": "Future Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-tech Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘宁",
+    "河南",
+    "未来产业",
+    "科技创新"
+  ],
+  "tags_en": [
+    "Liu Ning",
+    "Henan",
+    "Future Industries",
+    "Sci-tech Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-ning-henan",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260615-xinhua_ha-ba5274",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0615/c351638-41610227.html",
+      "title_zh": "河南省委常委会召开会议",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

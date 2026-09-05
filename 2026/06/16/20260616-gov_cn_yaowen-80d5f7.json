@@ -1,0 +1,94 @@
+{
+  "id": "20260616-gov_cn_yaowen-80d5f7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7072339.htm",
+  "title_zh": "前5个月工业企业销售收入增长较快",
+  "title_en": "Industrial Enterprise Sales Revenue Grows Rapidly in First Five Months",
+  "summary_zh": "国家税务总局6月16日发布数据显示，今年前5个月全国工业企业销售收入同比增长6.8%，其中装备制造业和高技术产业增长显著。",
+  "summary_en": "The State Taxation Administration reported on June 16 that national industrial enterprise sales revenue grew by 6.8% in the first five months, driven by significant growth in equipment manufacturing and high-tech sectors.",
+  "body_zh": "新华社北京6月16日电（记者 刘开雄）国家税务总局6月16日发布的发票数据显示，今年前5个月，全国工业企业销售收入同比增长6.8%，实现较快增长。\n前5个月，装备制造业销售收入同比增长8%，占制造业比重46.8%，持续发挥“压舱石”作用。其中，计算机通信设备制造、仪器仪表制造、专用设备制造销售收入同比分别增长15.6%、10.5%和8.8%，制造业高端化进程持续推进。\n同期，机器人、智能车载设备制造销售收入同比分别增长27.7%和46.3%，人工智能赋能工业智能化水平持续提升。高端电子制造加快发展。其中，集成电路、光电子器件、半导体器件制造业销售收入同比分别增长57.7%、32.6%和24.4%。\n与此同时，绿色能源加快转型步伐。前5个月，电力热力燃气及水生产和供应业销售收入同比增长4.2%。其中，以风光水核等为代表的清洁能源销售收入同比增长18.9%，占电力生产销售收入的比重为38.1%，占比较去年同期提高4.2个百分点。\n国家税务总局税收科学研究所副所长李平表示，税收大数据反映出当前工业企业销售收入稳步增长，装备制造业和高技术产业等新动能引领作用明显，产业绿色低碳转型持续纵深推进，体现了我国工业经济发展基础不断夯实、发展质效稳步提升，我国经济稳中向好势头不断巩固拓展。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "economy",
+  "keywords": [
+    "工业经济",
+    "装备制造业",
+    "高技术产业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业经济",
+      "name_en": "Industrial Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "装备制造业",
+      "name_en": "Equipment Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术产业",
+      "name_en": "High-tech Industry"
+    }
+  ],
+  "tags_zh": [
+    "国家税务总局",
+    "北京",
+    "工业经济",
+    "装备制造业",
+    "高技术产业"
+  ],
+  "tags_en": [
+    "State Taxation Administration",
+    "Beijing",
+    "Industrial Economy",
+    "Equipment Manufacturing",
+    "High-tech Industry"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李平"
+      }
+    ],
+    "institutions": [
+      "STA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-80d5f7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

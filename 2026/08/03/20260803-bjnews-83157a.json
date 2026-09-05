@@ -1,0 +1,93 @@
+{
+  "id": "20260803-bjnews-83157a",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1785716375129687.html",
+  "title_zh": "最高法发布典型案例规范平台经营保护消费者合法权益",
+  "title_en": "Supreme People's Court Releases Typical Cases on Regulating Platform Operations and Protecting Consumer Rights",
+  "summary_zh": "最高人民法院8月3日发布5件依法规范平台经营、保护消费者合法权益典型案例，覆盖直播电商、平台经营、市场秩序维护、虚拟财产交易等场景。",
+  "summary_en": "On August 3, the Supreme People's Court released five typical cases on regulating platform operations and protecting consumer rights, covering live-streaming e-commerce, platform compliance, market order, and virtual property transactions.",
+  "body_zh": "据新华社北京8月3日电 最高人民法院8月3日发布5件依法规范平台经营、保护消费者合法权益典型案例，覆盖直播电商、平台依法经营，市场竞争秩序维护，虚拟财产交易等多个场景，为各类经营主体明确行为规则、稳定经营预期提供清晰指引。\n平台账号等网络虚拟财产具有商业价值。但虚拟财产交易中，出卖人掌握账号全部运营数据与瑕疵信息，买受人往往处于信息弱势地位，出卖人隐瞒账号处罚、功能受限等问题引发的纠纷频发，买受人难以追究出卖人违约责任成为常见问题。\n在汪某诉武汉某公司买卖合同纠纷案中，湖北省武汉市洪山区人民法院明确平台账号转让交易中，出卖人负有如实告知影响账号使用效能与商业价值的重要信息的法定义务；出卖人隐瞒账号无法搜索、无法使用推广功能等重大瑕疵，导致买受人商业运营的合同目的落空的，构成根本违约，买受人有权解除合同并要求返还全部价款。案件有效破解了线上虚拟财产交易中买受人维权难的困境，实现交易双方利益平衡，助力形成与数字经济相适应的法治化交易秩序。\n此外，这批案例还明确了电商平台对入驻商户保证金负有必要的监管义务；直播推广方作出的售后兜底、赔付承诺具有法律约束力，应当依法承担相应连带责任等。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "economy",
+  "keywords": [
+    "平台经营规范",
+    "消费者权益保护",
+    "虚拟财产交易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SPC",
+      "name_zh": "最高人民法院",
+      "name_en": "Supreme People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "平台经营规范",
+      "name_en": "Platform Operation Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费者权益保护",
+      "name_en": "Consumer Rights Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "虚拟财产交易",
+      "name_en": "Virtual Property Transactions"
+    }
+  ],
+  "tags_zh": [
+    "最高人民法院",
+    "北京",
+    "平台经营规范",
+    "消费者权益保护",
+    "虚拟财产交易"
+  ],
+  "tags_en": [
+    "Supreme People's Court",
+    "Beijing",
+    "Platform Operation Regulation",
+    "Consumer Rights Protection",
+    "Virtual Property Transactions"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SPC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-bjnews-83157a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

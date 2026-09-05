@@ -1,0 +1,96 @@
+{
+  "id": "20260820-gov_huai_an-a7f5a0",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/17871756011164KRGsYGL.html",
+  "title_zh": "市人大常委会党组会议、第五十六次主任会议召开",
+  "title_en": "Huaian Municipal People's Congress Standing Committee Holds Party Group Meeting and 56th Director Meeting",
+  "summary_zh": "8月19日，淮安市人大常委会党组会议和第五十六次主任会议召开，常务副主任周青主持，传达学习中央政治局会议精神，研究换届选举等工作。",
+  "summary_en": "On August 19, the Party Group Meeting and the 56th Director Meeting of the Standing Committee of Huaian Municipal People's Congress were held, chaired by Executive Deputy Director Zhou Qing, to study the election work and other issues.",
+  "body_zh": "市人大常委会党组会议、第五十六次主任会议召开\n8月19日，市人大常委会党组会议、第五十六次主任会议召开。市人大常委会常务副主任、党组副书记周青主持会议并讲话。市人大常委会副主任范更生、王向红、贺宝祥、朱海波，秘书长江山参加会议。\n会议传达学习中央政治局会议精神，全省市县乡三级人大换届选举工作会议精神；听取全市市县（区）镇三级人大换届选举工作意见、换届选举有关问题决定、市十届人大代表名额分配决定的有关说明，并就换届选举相关工作开展讨论；听取关于市人大常委会第三十五次会议议程、日程的说明，以及第三十六次会议审议内容的初步安排，关于淮安市2026年上半年国民经济和社会发展计划执行情况的调研报告，关于2025年度政府债务管理情况的调研报告，关于2025年度国有资产管理情况的调研报告，关于《淮安市养犬管理条例（草案）》审议结果的报告，关于《市人大常委会关于加强重点场所未成年人保护的决定（草案）》审查意见的报告，关于生活垃圾分类、运输和处置工作情况的调研报告，关于市政府部分工作部门主要负责人履职情况的调研报告，关于市“两院”、经开区“两院”部分员额法官、检察官履职情况的调研报告。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "party",
+  "keywords": [
+    "换届选举",
+    "人大工作",
+    "经济监督"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Election Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济监督",
+      "name_en": "Economic Supervision"
+    }
+  ],
+  "tags_zh": [
+    "淮安",
+    "换届选举",
+    "人大工作",
+    "经济监督"
+  ],
+  "tags_en": [
+    "Huaian",
+    "Election Work",
+    "People's Congress Work",
+    "Economic Supervision"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "任会议"
+      },
+      {
+        "id": null,
+        "name_zh": "周青"
+      },
+      {
+        "id": null,
+        "name_zh": "江山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260820-gov_huai_an-a7f5a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

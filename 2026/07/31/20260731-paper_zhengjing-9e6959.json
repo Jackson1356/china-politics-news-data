@@ -1,0 +1,106 @@
+{
+  "id": "20260731-paper_zhengjing-9e6959",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33691646",
+  "title_zh": "中央纪委国家监委对群众身边不正之风和腐败问题集中整治工作再调度",
+  "title_en": "CCDI and National Supervisory Commission Hold Further Meeting on Rectifying Misconduct and Corruption",
+  "summary_zh": "7月31日，中央纪委国家监委召开会议，传达学习习近平总书记关于集中整治工作的重要批示精神，对集中整治再调度再推动，刘金国出席并讲话。",
+  "summary_en": "On July 31, the CCDI and National Supervisory Commission held a meeting to convey Xi Jinping's instructions on intensifying the campaign against misconduct and corruption, with Liu Jinguo attending and speaking.",
+  "body_zh": "中央纪委国家监委对群众身边不正之风和腐败问题集中整治工作再调度\n新华社\n7月31日，中央纪委国家监委召开会议，传达学习习近平总书记关于群众身边不正之风和腐败问题集中整治工作的重要批示精神，对集中整治再调度再推动。中共中央书记处书记、中央纪委副书记刘金国出席会议并讲话。\n刘金国指出，今年是三年集中整治最后一年，纪检监察机关要牢记习近平总书记谆谆教诲和殷切嘱托，带着对人民群众的深厚感情，以钉钉子精神把集中整治抓紧抓实，一天也不虚度。要发挥好牵头抓总作用，与各方面一道，强力抓好高标准农田建设、农村集体“三资”管理、医保基金管理、养老服务等全国性整治项目和民生领域信访问题集中治理，真正把群众急难愁盼当作自己的事来办，让老百姓更加有形有感地体会到总书记亲、共产党好。要务实唯实、系统抓整治，集中力量突破一批有影响有分量的案件，严惩“蝇贪蚁腐”，推动解决制度缺失、监管缺位等问题。整治工作要请群众参与，推动党务政务公开，整治成效要由群众评判，千好万好老百姓说好才是真的好，千条万条老百姓的感受是第一条。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "群众身边不正之风"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-jinguo",
+      "name_zh": "刘金国",
+      "name_en": "Liu Jinguo"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众身边不正之风",
+      "name_en": "Misconduct Around the People"
+    }
+  ],
+  "tags_zh": [
+    "刘金国",
+    "中央纪委国家监委",
+    "反腐败",
+    "群众身边不正之风"
+  ],
+  "tags_en": [
+    "Liu Jinguo",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Anti-Corruption",
+    "Misconduct Around the People"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-jinguo",
+      {
+        "id": null,
+        "name_zh": "金国"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260731-paper_zhengjing-9e6959",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0801/c64094-40772037.html",
+      "title_zh": "中央纪委国家监委对群众身边不正之风和腐败问题集中整治工作再调度",
+      "published_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0801/c1001-40771961.html",
+      "title_zh": "中央纪委国家监委对群众身边不正之风和腐败问题集中整治工作再调度 --时政--人民网",
+      "published_at": "2026-08-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

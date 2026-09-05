@@ -1,0 +1,91 @@
+{
+  "id": "20260824-gov_cn_yaowen-dc0658",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7079044.htm",
+  "title_zh": "前7个月我国交通出行397.9亿人次",
+  "title_en": "China's Cross-Regional Passenger Trips Reach 39.79 Billion in First 7 Months",
+  "summary_zh": "今年前7个月，我国跨区域人员流动量397.9亿人次，同比增长0.8%；营业性货运量329.7亿吨，同比增长2.8%；港口货物吞吐量105.6亿吨，同比增长1.3%。",
+  "summary_en": "In the first 7 months, China's cross-regional passenger trips reached 39.79 billion, up 0.8% YoY; freight volume hit 32.97 billion tons, up 2.8%; port cargo throughput was 10.56 billion tons, up 1.3%.",
+  "body_zh": "新华社北京8月24日电（记者叶昊鸣）记者24日从交通运输部获悉，今年前7个月，我国跨区域人员流动量为397.9亿人次，同比增长0.8%。其中，公路人员流动量为363.9亿人次，同比增长0.6%；水路客运量为1.5亿人次，同比增长0.6%。\n货运量方面，前7个月，我国完成营业性货运量329.7亿吨，同比增长2.8%。其中，完成公路货运量249.8亿吨，同比增长2.9%；完成水路货运量49.3亿吨，同比增长3%。\n港口货物吞吐量方面，前7个月，我国完成港口货物吞吐量105.6亿吨，同比增长1.3%，其中内、外贸吞吐量同比分别增长0.3%和3.6%。完成集装箱吞吐量2.1亿标箱，同比增长5.1%。\n交通固定资产投资方面，前7个月，我国完成交通固定资产投资18152亿元，其中公路、水运分别完成投资12011亿元和1255亿元。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "交通出行",
+    "货运量",
+    "港口吞吐量"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通出行",
+      "name_en": "Transportation and Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货运量",
+      "name_en": "Freight Volume"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港口吞吐量",
+      "name_en": "Port Throughput"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "交通出行",
+    "货运量",
+    "港口吞吐量"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Transportation and Travel",
+    "Freight Volume",
+    "Port Throughput"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260824-gov_cn_yaowen-dc0658",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20260825/e6f6b23f51864e3e917dfb32646b4aad/c.html",
+      "title_zh": "前7个月我国交通出行397.9亿人次",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

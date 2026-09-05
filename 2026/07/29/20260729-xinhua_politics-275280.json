@@ -1,0 +1,84 @@
+{
+  "id": "20260729-xinhua_politics-275280",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260729/32584802e6b140739e86dd8e556bb334/c.html",
+  "title_zh": "水利部对四川省启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level IV Emergency Response for Flood Control in Sichuan",
+  "summary_zh": "水利部7月29日对四川省启动洪水防御Ⅳ级应急响应，以应对未来几天暴雨可能引发的洪水灾害。",
+  "summary_en": "On July 29, the Ministry of Water Resources activated a Level IV emergency response for flood control in Sichuan, as heavy rain is forecast to cause flooding in the coming days.",
+  "body_zh": "新华社北京7月29日电（记者魏弘毅）记者从水利部了解到，水利部7月29日对四川省启动洪水防御Ⅳ级应急响应。\n据预报，7月30日至8月3日，受西南季风和冷空气共同影响，四川中部和东南部部分地区将有大到暴雨；长江上游干流及支流岷江、沱江、嘉陵江等主要河流将出现明显涨水过程，岷江支流青衣江大渡河、嘉陵江支流涪江等河流可能发生编号洪水，暴雨区内部分中小河流可能发生较大洪水，山洪灾害风险高。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "四川",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Sichuan",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260729-xinhua_politics-275280",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

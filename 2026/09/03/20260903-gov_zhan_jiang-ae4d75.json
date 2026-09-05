@@ -1,0 +1,83 @@
+{
+  "id": "20260903-gov_zhan_jiang-ae4d75",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2218088.html",
+  "title_zh": "湛江市十五届人大常委会召开第五十次会议",
+  "title_en": "Zhanjiang Municipal People's Congress Standing Committee Holds 50th Session",
+  "summary_zh": "9月2日，湛江市十五届人大常委会召开第五十次会议，审议电动自行车管理条例、2025年决算及2026年上半年预算执行等报告，任命黄映霄为市检察院副检察长。",
+  "summary_en": "On September 2, the 15th Zhanjiang Municipal People's Congress Standing Committee held its 50th session to review reports on e-bike regulations, 2025 final accounts, and 2026 H1 budget execution, and appointed Huang Yingxiao as deputy prosecutor general.",
+  "body_zh": "9月2日，市十五届人大常委会召开第五十次会议。市人大常委会副主任刘忠芳主持会议，副主任李更盛、聂兵出席会议。市政府、市监委、市法院、市检察院等有关负责同志列席会议。\n会议审议《湛江市电动自行车管理条例（修改草案）》（一审）。\n会议听取审议市人民政府关于湛江市2025年市级决算草案的报告、关于2025年市级预算执行及其他财政收支的审计工作报告、关于2026年上半年国民经济和社会发展计划执行情况的报告、关于2026年上半年预算执行情况的报告；听取审议市人大常委会代表资格审查委员会关于个别代表的代表资格审查报告。\n会议审议通过关于湛江市2025年市级决算的决议、关于湛江市2026年上半年国民经济和社会发展计划执行情况报告的审议意见、关于湛江市2026年上半年预算执行情况报告的审议意见；审议通过关于湛江市第十六届人民代表大会代表名额和选举问题的决定；审议通过关于接受朱灼新辞去湛江市第十五届人民代表大会常务委员会委员职务的决定；审议通过关于个别代表的代表资格审查决议。\n会议对市工业和信息化局、市审计局开展工作评议。\n会议经表决，任命黄映霄为湛江市人民检察院副检察长、检察委员会委员、检察员。\n会后，举行了宪法宣誓仪式。\n林宇云 张容绸",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "economy",
+  "keywords": [
+    "人大监督",
+    "预算决算",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预算决算",
+      "name_en": "Budget and Final Accounts"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    }
+  ],
+  "tags_zh": [
+    "湛江",
+    "人大监督",
+    "预算决算",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Zhanjiang",
+    "People's Congress Oversight",
+    "Budget and Final Accounts",
+    "Personnel Appointments"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260903-gov_zhan_jiang-ae4d75",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

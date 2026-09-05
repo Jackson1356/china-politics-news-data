@@ -1,0 +1,87 @@
+{
+  "id": "20260819-chinanews_gn-9107e3",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-19/10680104.shtml",
+  "title_zh": "台湾观众希望《八仙！》《欢迎来龙餐馆》早日在岛内上映 国台办回应",
+  "title_en": "Taiwan Audiences Hope Films 'Eight Immortals!' and 'Welcome to Dragon Restaurant' Release Soon; Taiwan Affairs Office Responds",
+  "summary_zh": "8月19日，国务院台办例行新闻发布会上，发言人朱凤莲回应台湾观众期待大陆影片上映，表示支持两岸影视交流，希望相关影片尽快在台湾上映。",
+  "summary_en": "At a regular press conference on Aug 19, spokesperson Zhu Fenglian responded to Taiwan audiences' expectations for mainland films, expressing support for cross-strait film exchanges and hoping the films will be released in Taiwan soon.",
+  "body_zh": "台湾观众希望《八仙！》《欢迎来龙餐馆》早日在岛内上映 国台办回应\n8月19日，国务院台办举行例行新闻发布会。有记者问：截至8月16日，大陆2026暑期档电影总票房已突破100亿元，台湾观众对《八仙！》《欢迎来龙餐馆》等影片充满期待，希望能早日在岛内上映，请发言人介绍有关情况。\n发言人朱凤莲表示，台湾同胞对大陆影片的喜爱，充分说明两岸同胞有着共同的文化基因、历史记忆和深厚的情感共鸣。我们一贯支持两岸影视文化等领域的交流合作，希望相关影片能够尽快在台湾上映，让更多的台湾民众深入感受中华文化的魅力。我们也欢迎更多的台湾同胞来大陆的时候，能够走进电影院去看看电影或者去打卡电影的取景地。\n(总台央视记者 张雪松 朱若梦)\n国内新闻精选：\n- 2026年08月18日 16:38:32\n- 2026年08月18日 14:11:32\n- 2026年08月18日 11:21:45\n- 2026年08月18日 11:15:17\n- 2026年08月18日 11:07:44\n- 2026年08月17日 16:38:14\n- 2026年08月17日 15:15:29\n- 2026年08月17日 14:36:57\n- 2026年08月17日 14:35:15\n- 2026年08月17日 14:26:28",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "两岸影视交流",
+    "中华文化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "TAO",
+      "name_zh": "国务院台办",
+      "name_en": "Taiwan Affairs Office of the State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸影视交流",
+      "name_en": "Cross-Strait Film Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华文化",
+      "name_en": "Chinese Culture"
+    }
+  ],
+  "tags_zh": [
+    "国务院台办",
+    "两岸影视交流",
+    "中华文化"
+  ],
+  "tags_en": [
+    "Taiwan Affairs Office of the State Council",
+    "Cross-Strait Film Exchange",
+    "Chinese Culture"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "朱凤莲"
+      }
+    ],
+    "institutions": [
+      "TAO"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-chinanews_gn-9107e3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680120.shtml",
+      "title_zh": "岛内盼《八仙！》《欢迎来龙餐馆》等影片在台上映 国台办回应",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

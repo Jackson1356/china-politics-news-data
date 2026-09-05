@@ -1,0 +1,100 @@
+{
+  "id": "20260819-gov_wei_hai-25c6f1",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/8/19/art_58817_6556407.html",
+  "title_zh": "张海波会见国家能源集团客人",
+  "title_en": "Zhang Haibo Meets Delegation from China Energy Investment Corporation",
+  "summary_zh": "8月18日，威海市委书记张海波会见国家能源集团副总经理傅振邦一行，就深化能源保供、新能源开发利用等领域合作进行交流。",
+  "summary_en": "On August 18, Zhang Haibo, Party Secretary of Weihai, met with Fu Zhenbang, Vice President of China Energy Investment Corporation, to discuss cooperation in energy supply and new energy development.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 李文思）8月18日，市委书记张海波会见国家能源集团党组成员、副总经理傅振邦一行，市领导李建、于宁参加。\n张海波对客人来威表示欢迎，向国家能源集团长期以来对威海经济社会发展作出的贡献表示感谢。他说，当前，威海深入实施工业经济“头号工程”，做大做强标志性产业链，构建起核风光储新能源体系，绿色低碳高质量发展迈出坚实步伐。希望双方进一步密切沟通对接，在能源保供、新能源开发利用等方面深化务实合作，促进更多资源项目向威海集聚。威海将持续优化营商环境，强化要素保障，推动合作项目投产达效，齐心协力谱写共赢发展新篇章。\n傅振邦表示，将立足自身优势，持续拓宽合作领域、扩大合作成果，做大做强绿色低碳产业，助力威海高质量发展。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "能源合作",
+    "新能源"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "傅振邦",
+      "name_en": "Fu Zhenbang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "傅振邦",
+    "威海",
+    "能源合作",
+    "新能源"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Fu Zhenbang",
+    "Weihai",
+    "Energy Cooperation",
+    "New Energy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "傅振邦"
+      },
+      {
+        "id": null,
+        "name_zh": "于宁"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-gov_wei_hai-25c6f1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

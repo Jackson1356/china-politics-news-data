@@ -1,0 +1,91 @@
+{
+  "id": "20260825-gov_ji_nan-e6d033",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_90df366559c744c8b2c16f7938a6c61d.html",
+  "title_zh": "于海田主持召开市政府常务会议 研究优化营商环境等事项",
+  "title_en": "Yu Haitian Chairs Municipal Government Standing Meeting on Business Environment",
+  "summary_zh": "8月24日，济南市委副书记、市长于海田主持召开市政府常务会议，研究优化营商环境、大气污染防治等事项。",
+  "summary_en": "On August 24, Yu Haitian, Deputy Secretary of the Jinan Municipal Party Committee and Mayor, chaired a standing meeting of the municipal government to discuss optimizing the business environment and air pollution prevention.",
+  "body_zh": "于海田主持召开市政府常务会议\n研究优化营商环境等事项\n8月24日，市委副书记、市长于海田主持召开市政府常务会议，研究优化营商环境、大气污染防治等事项。\n会议听取了《2026年优化营商环境十大突破攻坚任务实施方案》起草情况的汇报，审议了2026年1—7月全市优化营商环境和推进政府职能转变工作情况，指出要深化“高效办成一件事”改革，提升涉企行政执法检查效能，推动惠企政策免申即享、精准兑现，厚植诚实守信的社会信用氛围，健全营商环境监测指标体系，统筹抓好各项政策举措落地见效，着力营造稳定、公平、透明、可预期的良好环境。\n会议审议了全市大气污染防治工作推进情况，强调各级各有关部门要落实落细各自辖区、行业领域大气污染防治任务，加强移动污染源管控，深化工业污染源治理，精细化整治面源污染，持续改善全市空气质量。\n会议听取了关于《济南市户外广告和牌匾标识专项规划（2026—2035年）》修编情况的汇报，指出要强化规划引领，细化配套措施，做好内容审查，加强安全监管，规范资源出让，打造活力空间，强化协同配合，推动规划各项任务落实落细。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "营商环境",
+    "大气污染防治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "于海田",
+      "name_en": "Yu Haitian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大气污染防治",
+      "name_en": "Air Pollution Prevention and Control"
+    }
+  ],
+  "tags_zh": [
+    "于海田",
+    "济南",
+    "营商环境",
+    "大气污染防治"
+  ],
+  "tags_en": [
+    "Yu Haitian",
+    "Jinan",
+    "Business Environment",
+    "Air Pollution Prevention and Control"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "田主持"
+      },
+      {
+        "id": null,
+        "name_zh": "于海田"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260825-gov_ji_nan-e6d033",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

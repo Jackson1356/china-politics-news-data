@@ -1,0 +1,95 @@
+{
+  "id": "20260612-peoples_sc-934a2c",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_url": "http://sc.people.com.cn/n2/2026/0612/c345509-41608676.html",
+  "title_zh": "四川省消防救援总队原党委书记农有良接受审查调查",
+  "title_en": "Former Party Secretary of Sichuan Provincial Fire and Rescue Corps Nong Youliang Under Investigation",
+  "summary_zh": "2026年6月12日，中央纪委国家监委通报四川省消防救援总队原党委书记、政治委员农有良涉嫌严重违纪违法，目前正接受审查调查。",
+  "summary_en": "On June 12, 2026, the CCDI and NSC announced that Nong Youliang, former Party Secretary and Political Commissar of the Sichuan Provincial Fire and Rescue Corps, is under investigation for suspected serious violations of discipline and law.",
+  "body_zh": "中央纪委国家监委：四川1人接受审查调查\n人民网成都6月12日电 （袁菡苓）日前，中央纪委国家监委：四川1人接受审查调查。\n如下：\n四川省消防救援总队原党委书记、政治委员农有良接受审查调查\n据中央纪委国家监委驻应急管理部纪检监察组、四川省纪委监委消息：四川省消防救援总队原党委书记、政治委员农有良涉嫌严重违纪违法，目前正接受中央纪委国家监委驻应急管理部纪检监察组纪律审查和四川省监察委员会监察调查。",
+  "image_url": null,
+  "published_at": "2026-06-12T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川省纪委监委",
+      "name_en": "Sichuan Provincial Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Inspection"
+    }
+  ],
+  "tags_zh": [
+    "中央纪委国家监委",
+    "四川省纪委监委",
+    "四川",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Sichuan Provincial Commission for Discipline Inspection and Supervision",
+    "Sichuan",
+    "Anti-corruption",
+    "Disciplinary Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      },
+      {
+        "name_zh": "四川省纪委监委",
+        "name_en": "Sichuan Provincial Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260612-peoples_sc-934a2c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "20260802-local_si_chuan_zai_xian_cn_sc-1596c2",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202608/83299262.html",
+  "title_zh": "学习·故事丨古厝焕新生",
+  "title_en": "Learning Story: Ancient Houses Reborn",
+  "summary_zh": "习近平总书记强调政绩观为民之本，回顾其上世纪90年代在福州叫停拆迁、保护林觉民故居及三坊七巷的往事。",
+  "summary_en": "Xi Jinping stresses that the fundamental of political achievement is serving the people, recalling his protection of Lin Juemin's former residence and the Three Lanes and Seven Alleys in Fuzhou in the early 1990s.",
+  "body_zh": "“十五五”开局之年“第一课”，习近平总书记指出：“政绩观问题是一个根本性问题，关乎立党为公、执政为民。”\n政绩之本，在于为民。为民造福，一直是习近平总书记矢志不渝的追求。\n上世纪90年代初，时任福州市委书记的习近平得知林觉民故居面临部分拆除，立即叫停拆迁。在林觉民故居召开文物工作现场办公会时，他指出：“要在我们的手里，把全市的文物保护、修复、利用搞好，不仅不能让它们受到破坏，而且还要让它更加增辉添彩，传给后代。”由此展开的三坊七巷历史文化街区保护工作，为福州保存了完整的历史记忆。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "文物保护",
+    "政绩观"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文物保护",
+      "name_en": "Cultural Relics Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政绩观",
+      "name_en": "View on Political Achievements"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "福州",
+    "文物保护",
+    "政绩观"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Fuzhou",
+    "Cultural Relics Protection",
+    "View on Political Achievements"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260802-local_hong_wang_cn_hn-b478c9",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "local_ji_nan_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "http://news.e23.cn/content/2026-08-02/2026080200222.html",
+      "title_zh": "学习·故事丨古厝焕新生",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "local_hong_wang_cn_hn",
+      "source_tier": 3,
+      "url": "https://news.rednet.cn/content/646042/94/16139398.html",
+      "title_zh": "学习·故事丨古厝焕新生",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

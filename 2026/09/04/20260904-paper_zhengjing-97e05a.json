@@ -1,0 +1,116 @@
+{
+  "id": "20260904-paper_zhengjing-97e05a",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34009886",
+  "title_zh": "中央广播电视总台《小喇叭》节目开播70周年座谈会在京举行",
+  "title_en": "Seminar Marks 70th Anniversary of CMG's 'Little Trumpet' Program in Beijing",
+  "summary_zh": "4日，中央广播电视总台《小喇叭》节目开播70周年座谈会在北京举行，李书磊宣读习近平总书记贺信并讲话。",
+  "summary_en": "A seminar marking the 70th anniversary of CMG's 'Little Trumpet' program was held in Beijing on Sept. 4. Li Shulei read Xi Jinping's congratulatory letter and delivered a speech.",
+  "body_zh": "中央广播电视总台《小喇叭》节目开播70周年座谈会在京举行\n新华社\n中央广播电视总台《小喇叭》节目开播70周年座谈会4日在京举行。中共中央政治局委员、中宣部部长李书磊出席，宣读习近平总书记贺信并讲话。\n与会代表认为，党的十八大以来，习近平总书记始终心系少年儿童健康成长，每年都与少年儿童亲切互动，作出一系列重要指示，为新时代少年儿童事业发展提供了根本遵循。在《小喇叭》节目开播70周年之际，习近平总书记专门致贺信，充分体现了党中央对亿万少年儿童的亲切关怀、对少儿文艺工作的高度重视，是对宣传思想文化战线的极大鼓舞。\n与会代表表示，要深入学习贯彻习近平总书记重要贺信精神，落实立德树人根本任务，发挥以文化人、以文育人的作用，培养德智体美劳全面发展的社会主义建设者和接班人。要传承中华优秀传统文化，挖掘红色文化资源，运用人工智能等新技术，多创作有内涵、有童趣的少儿文艺作品，用最好的精神食粮守护孩子们的健康成长。各级党委政府和家庭、学校、社会要协同配合，强化未成年人关爱保护，营造全社会共同支持少年儿童事业发展的良好环境。\n中央有关单位负责同志以及中央广播电视总台负责人、专家学者、节目主创和听众代表共140余人参会。",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "party",
+  "keywords": [
+    "少年儿童事业",
+    "少儿文艺",
+    "立德树人"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-shulei",
+      "name_zh": "李书磊",
+      "name_en": "Li Shulei"
+    },
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "少年儿童事业",
+      "name_en": "Children's Welfare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "少儿文艺",
+      "name_en": "Children's Literature and Art"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立德树人",
+      "name_en": "Fostering Virtue and Nurturing Talent"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李书磊",
+    "中央广播电视总台",
+    "少年儿童事业",
+    "少儿文艺",
+    "立德树人",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Shulei",
+    "China Media Group",
+    "Children's Welfare",
+    "Children's Literature and Art",
+    "Fostering Virtue and Nurturing Talent"
+  ],
+  "entities": {
+    "politicians": [
+      "li-shulei",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260904-paper_zhengjing-97e05a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0905/c64094-40793019.html",
+      "title_zh": "中央广播电视总台《小喇叭》节目开播70周年座谈会在京举行",
+      "published_at": "2026-09-05T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0905/c1001-40792878.html",
+      "title_zh": "中央广播电视总台《小喇叭》节目开播70周年座谈会在京举行 --时政--人民网",
+      "published_at": "2026-09-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

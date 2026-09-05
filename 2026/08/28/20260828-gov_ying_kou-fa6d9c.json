@@ -1,0 +1,83 @@
+{
+  "id": "20260828-gov_ying_kou-fa6d9c",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001001/20260828/117e5ddb-e62e-4ab9-9880-a59dfd5d28d8.html",
+  "title_zh": "市十七届人大常委会第四十二次会议将于9月下旬召开",
+  "title_en": "Yingkou's 17th People's Congress Standing Committee to Hold 42nd Meeting in Late September",
+  "summary_zh": "8月27日，营口市十七届人大常委会召开第九十三次主任会议，决定第四十二次会议于9月下旬召开，建议审议政府债务、交通管理、文旅融合等多项报告。",
+  "summary_en": "On Aug 27, the 93rd director meeting of Yingkou's 17th People's Congress Standing Committee decided that its 42nd session will be held in late September, with agendas including reports on government debt, traffic management, and cultural-tourism integration.",
+  "body_zh": "8月27日，市十七届人大常委会召开第九十三次主任会议，决定市十七届人大常委会第四十二次会议于9月下旬召开。\n主任会议建议本次常委会会议的议程有：1.审议市政府关于我市2025年政府债务管理情况的报告；2.审议市政府关于我市主城区交通管理工作的报告；3.审议市政府关于我市文旅体商融合发展情况的报告并进行专题询问；4.审议《营口市电动自行车管理条例》（二审）；5.审议市政府关于《市人大常委会组成人员对〈市政府关于我市渔业高质量发展情况的报告〉的审议意见》落实情况的报告（书面）；6.审议市政府关于《市人大常委会组成人员对市政府〈关于我市医疗服务能力提升情况的报告〉的审议意见》落实情况的报告（书面）；7.其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "party",
+  "keywords": [
+    "人大监督",
+    "政府债务管理",
+    "交通管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-YK",
+      "name_zh": "营口",
+      "name_en": "Yingkou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政府债务管理",
+      "name_en": "Government Debt Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通管理",
+      "name_en": "Traffic Management"
+    }
+  ],
+  "tags_zh": [
+    "营口",
+    "人大监督",
+    "政府债务管理",
+    "交通管理"
+  ],
+  "tags_en": [
+    "Yingkou",
+    "People's Congress Oversight",
+    "Government Debt Management",
+    "Traffic Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-LN-YK"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260828-gov_ying_kou-fa6d9c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

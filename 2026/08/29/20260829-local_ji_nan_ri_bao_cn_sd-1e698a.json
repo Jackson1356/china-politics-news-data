@@ -1,0 +1,89 @@
+{
+  "id": "20260829-local_ji_nan_ri_bao_cn_sd-1e698a",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-08-29/2026082900017.html",
+  "title_zh": "于海田主持召开市政府常务会议 研究群众身边不正之风和腐败问题集中整治等事项",
+  "title_en": "Yu Haitian Chairs Municipal Government Executive Meeting on Rectifying Misconduct and Corruption Around the People",
+  "summary_zh": "8月28日，济南市市长于海田主持召开市政府常务会议，研究群众身边不正之风和腐败问题集中整治等事项，强调严惩蝇贪蚁腐。",
+  "summary_en": "On August 28, Jinan Mayor Yu Haitian presided over a municipal government executive meeting to address the campaign against misconduct and corruption around the people, emphasizing severe punishment for low-level corruption.",
+  "body_zh": "于海田主持召开市政府常务会议 研究群众身边不正之风和腐败问题集中整治等事项\n本报8月28日讯 今天，市委副书记、市长于海田主持召开市政府常务会议，研究群众身边不正之风和腐败问题集中整治等事项。\n会议传达了中央纪委国家监委群众身边不正之风和腐败问题集中整治工作调度会议、全省集中整治工作调度会议精神，听取了深化养老服务、医保基金管理、农村集体“三资”管理突出问题整治工作情况，指出要以“钉钉子精神”担当尽责，持续深化突出问题集中整治，统筹抓好重点整治项目及重大民生实事，抓紧抓实养老服务、医保基金、农村集体“三资”问题整治，狠纠顽瘴恶疾，严惩“蝇贪蚁腐”，让老百姓切实感受到正风肃纪反腐就在身边。\n会议还研究了其他事项。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "民生实事"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "于海田",
+      "name_en": "Yu Haitian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "People's Livelihood Projects"
+    }
+  ],
+  "tags_zh": [
+    "于海田",
+    "反腐败",
+    "民生实事"
+  ],
+  "tags_en": [
+    "Yu Haitian",
+    "Anti-corruption",
+    "People's Livelihood Projects"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "田主持"
+      },
+      {
+        "id": null,
+        "name_zh": "于海田"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260829-gov_ji_nan-1edc28",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_d7950dacf53f4313804e380f3766255f.html",
+      "title_zh": "于海田主持召开市政府常务会议",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

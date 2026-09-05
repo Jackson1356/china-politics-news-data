@@ -1,0 +1,88 @@
+{
+  "id": "20260801-gov_yan_cheng-19860f",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/8/1/art_60096_11811527.html",
+  "title_zh": "刘小涛走访慰问驻苏部队子弟兵 共同续写军政军民团结崭新篇章",
+  "title_en": "Liu Xiaotao Visits Troops Stationed in Jiangsu, Writing a New Chapter of Military-Civilian Unity",
+  "summary_zh": "八一建军节来临之际，江苏省省长刘小涛走访慰问驻苏部队，向官兵致以节日问候和衷心感谢。",
+  "summary_en": "On the eve of Army Day, Governor Liu Xiaotao of Jiangsu visited troops stationed in the province, extending holiday greetings and heartfelt gratitude to the officers and soldiers.",
+  "body_zh": "当前位置：\n刘小涛走访慰问驻苏部队子弟兵\n共同续写军政军民团结崭新篇章\n八一建军节来临之际，省长刘小涛来到中国人民解放军空军某部走访慰问，看望人民子弟兵，向驻苏部队广大官兵致以节日问候和衷心感谢。\n中国人民解放军空军某部历史悠久、英雄辈出。来到部队，刘小涛向战士们送上节日祝福，对部队长期以来关心支持地方建设、积极服务江苏发展作出的贡献表示感谢。在认真听取部队发展、战备训练、后勤保障等介绍后，刘小涛说，广大官兵告别家乡、扎根军营，舍小家、为大家，为国防事业和国家发展无私奉献，令人由衷敬佩。江苏是浸润着革命荣光的红色热土，支持国防和军队现代化建设是我们义不容辞的政治责任。我们要学习广大官兵对党矢志不渝的忠诚之心、保家卫国的报国之志、迎难而上的争先之气、敢打必胜的履职之能，持续完善拥军支前保障机制、深化军地协同共建、做好退役军人工作，厚植军民鱼水一家亲的浓厚氛围。省有关部门和地方要主动靠前对接、精准服务保障，落实好拥军优属政策，推动备战打仗与产业发展双向赋能，巩固发展坚如磐石的新时代军政军民团结，共同续写爱我人民爱我军崭新篇章。\n省政府秘书长赵建军参加走访慰问。",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-02T07:10:37Z",
+  "topic": "party",
+  "keywords": [
+    "军政军民团结",
+    "拥军优属"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军政军民团结",
+      "name_en": "Military-Civilian Unity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "拥军优属",
+      "name_en": "Supporting the Military and Honoring Veterans"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "军政军民团结",
+    "拥军优属"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Military-Civilian Unity",
+    "Supporting the Military and Honoring Veterans"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260801-gov_yan_cheng-19860f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "20260625-xinhua_js-5cc029",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260625/6c6b39b9ef434709b32ed625df39e609/c.html",
+  "title_zh": "信长星、刘小涛会见新开发银行行长罗塞芙",
+  "title_en": "Xin Changxing and Liu Xiaotao Meet with New Development Bank President Dilma Rousseff",
+  "summary_zh": "6月23日，江苏省委书记信长星、省长刘小涛在南京会见新开发银行行长罗塞芙，双方探讨在绿色、创新及可持续发展等领域的务实合作。",
+  "summary_en": "On June 23, Jiangsu Provincial Party Secretary Xin Changxing and Governor Liu Xiaotao met with New Development Bank President Dilma Rousseff in Nanjing to discuss pragmatic cooperation in green, innovative, and sustainable development.",
+  "body_zh": "6月23日，省委书记信长星、省长刘小涛在南京会见新开发银行行长罗塞芙。\n信长星、刘小涛对罗塞芙一行到访表示欢迎。在介绍江苏经济社会发展情况后，信长星表示，当前，江苏正按照习近平主席重要指示，加快建设具有全球影响力的产业科技创新中心、具有国际竞争力的先进制造业基地、具有世界聚合力的双向开放枢纽，努力在推进中国式现代化中走在前、做示范。我们将持续打造市场化、法治化、国际化一流营商环境，聚焦绿色、创新、可持续发展，加强同新开发银行的沟通交流，推动务实合作。\n罗塞芙介绍了新开发银行发展情况和此次访问江苏的感受。她表示，江苏文化底蕴深厚、科技创新活跃，在新兴产业、未来产业发展等方面积累了诸多优势。希望与江苏加强交流合作，共享发展机遇，实现互利共赢。\n省领导陈忠伟，新开发银行副行长兼首席行政官周强武参加会见。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "务实合作",
+    "可持续发展",
+    "产业科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗塞芙",
+      "name_en": "Dilma Rousseff"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "可持续发展",
+      "name_en": "Sustainable Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业科技创新",
+      "name_en": "Industrial Tech Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "zhou-qiang-cppcc",
+      "name_zh": "周强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "刘小涛",
+    "罗塞芙",
+    "南京",
+    "江苏",
+    "务实合作",
+    "可持续发展",
+    "产业科技创新",
+    "周强"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Liu Xiaotao",
+    "Dilma Rousseff",
+    "Nanjing",
+    "Jiangsu",
+    "Pragmatic Cooperation",
+    "Sustainable Development",
+    "Industrial Tech Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "liu-xiaotao",
+      "chen-zhongwei-jiangsu",
+      "zhou-qiang-cppcc",
+      {
+        "id": null,
+        "name_zh": "武参加"
+      },
+      {
+        "id": null,
+        "name_zh": "罗塞芙"
+      },
+      {
+        "id": null,
+        "name_zh": "周强武"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260625-xinhua_js-5cc029",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

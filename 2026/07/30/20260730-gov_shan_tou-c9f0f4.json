@@ -1,0 +1,88 @@
+{
+  "id": "20260730-gov_shan_tou-c9f0f4",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/styw/content/post_2556247.html",
+  "title_zh": "陈涛带队调研督导重点交通项目建设",
+  "title_en": "Chen Tao Leads Inspection of Key Transportation Projects",
+  "summary_zh": "7月29日上午，汕头市长陈涛赴龙湖区调研督导在建铁路重点项目，强调加快交通建设，助力打造全国性综合交通枢纽。",
+  "summary_en": "On July 29 morning, Shantou Mayor Chen Tao inspected ongoing railway projects in Longhu District, urging faster construction to build a national comprehensive transportation hub.",
+  "body_zh": "7月29日上午，市长陈涛带队赴龙湖区调研督导在建铁路重点项目建设，强调各级各部门要增强加快推进项目建设的责任感和紧迫感，锚定目标、合力攻坚，强化协调破解要素制约，共同努力推进项目建设提质增效，助力汕头打造高水平全国性综合交通枢纽，为汕头高质量发展提供坚实交通支撑。\n陈涛一行先后实地察看漳州至汕头铁路汕头段外砂河潮汕韩江特大桥、汕头火车站枢纽二期、粤东城际铁路汕头段龙湖附中站等在建铁路项目施工现场。每到一处，陈涛都详细了解相关项目征地拆迁、地下排污排水管道迁改、工程施工建设、地块综合开发等工作进展情况，以及存在问题及下一步措施，现场协调解决项目推进过程中遇到的困难和问题。目前，漳汕铁路汕头段5处控制性工点已全部按计划进场施工；汕头火车站枢纽二期基坑已完成开挖和底板浇筑，南高架已完成施工；粤东城际铁路汕头段各个控制性工程已取得明显进展。\n陈涛强调，各级各有关部门要坚持问题导向、目标导向、结果导向，加强统筹协调，形成工作合力，全力以赴推进项目加快建设，加快构建外联内畅、快捷高效的大交通格局。要紧盯目标任务，细化分解责任清单，加快推进征拆工作，为项目建设创造良好条件。要强化要素保障，加大资金投入统筹协调力度，科学优化施工组织，在确保工程质量和安全的前提下，全力以赴抢时间、抓进度，确保项目按既定时间节点顺利推进，力争早日建成投入使用。要统筹协调好相同地点不同建设单位交叉施工的调度工作，以科学施工换取项目总体最大收益。要立足长远，前瞻性做好铁路沿线重要节点的城市景观协调规划设计工作，高起点规划、高标准推进沿线站点地块的综合开发，实现交通功能与城市发展深度融合，切实提升项目的综合经济效益和长远社会效益，为汕头迎头赶上注入强劲动能。\n（记者 黄泽春）",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "交通项目建设",
+    "综合交通枢纽"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-tao-shantou",
+      "name_zh": "陈涛",
+      "name_en": "Chen Tao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通项目建设",
+      "name_en": "Transportation Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "综合交通枢纽",
+      "name_en": "Comprehensive Transportation Hub"
+    }
+  ],
+  "tags_zh": [
+    "陈涛",
+    "汕头",
+    "交通项目建设",
+    "综合交通枢纽"
+  ],
+  "tags_en": [
+    "Chen Tao",
+    "Shantou",
+    "Transportation Project Construction",
+    "Comprehensive Transportation Hub"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-tao-shantou",
+      {
+        "id": null,
+        "name_zh": "龙湖区"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260730-gov_shan_tou-c9f0f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

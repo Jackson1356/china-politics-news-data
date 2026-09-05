@@ -1,0 +1,107 @@
+{
+  "id": "20260809-xinhua_politics-836575",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260809/6beaa2ec11f441f0b3bc548462c4ca17/c.html",
+  "title_zh": "国家防总对上海江西启动防汛防台风四级应急响应",
+  "title_en": "National Flood Control Headquarters Activates Level-IV Typhoon Response in Shanghai and Jiangxi",
+  "summary_zh": "8月9日，国家防总对上海、江西启动防汛防台风四级应急响应，并组织多部门会商部署台风“白海豚”防范应对工作。",
+  "summary_en": "On August 9, the National Flood Control Headquarters activated a Level-IV emergency response for typhoon defense in Shanghai and Jiangxi and held a joint consultation to deploy measures against Typhoon Beluga.",
+  "body_zh": "8月9日，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及浙江、江苏、安徽等重点省份联合会商，研判台风“白海豚”发展趋势，部署防范应对工作。国家防总办公室主任、应急管理部副部长兼水利部副部长陈敏主持会商。\n台风“白海豚”于9日傍晚在浙江沿海两次登陆。会商指出，台风登陆期间风雨猛烈，近岸风险管控、海堤水闸安全面临严峻挑战，城镇洪涝、山洪和地质灾害等可能多发重发，其残余环流可能与北方冷涡结合，给华北、山东半岛甚至东北等地带来降雨，防汛防台风工作形势严峻复杂。\n会商要求，要认真贯彻习近平总书记关于防汛救灾的重要指示批示精神，按照李强总理指示要求，落实国家防办防台风“12条措施”，全力做好“白海豚”防范应对工作。要梯次做好“三个阶段工作”，加强避风船只和上岸避险人员安全管理，做好风险隐患排查整改和陆上人员转移避险，落实重点领域抢险救援力量，确保第一时间开展抢险抢通，及时开展救灾救助。要盯紧看牢“三大薄弱环节”，针对中小河流堤防和中小水库、山洪地质灾害风险区和隐患点、城乡内涝等薄弱环节强化巡查防守和应急处置。要继续抓实“三项防汛责任”，层层落实防汛救灾主体责任，全面压实部门责任，紧紧压实基层一线责任，切实把确保人民生命安全放在第一位落到实处。\n国家防总9日上午针对上海、江西启动防汛防台风四级应急响应，维持针对浙江、福建的防汛防台风三级应急响应和针对江苏、安徽的防汛防台风四级应急响应。国家防总两个工作组继续在浙江、福建一线协助指导防汛防台风工作。",
+  "image_url": null,
+  "published_at": "2026-08-09T12:00:00+00:00",
+  "event_date": "2026-08-09",
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-min-jiangxi",
+      "name_zh": "陈敏",
+      "name_en": "Chen Min"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "陈敏",
+    "应急管理部",
+    "上海",
+    "江西",
+    "防汛防台风",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Chen Min",
+    "Ministry of Emergency Management",
+    "Shanghai",
+    "Jiangxi",
+    "Flood and Typhoon Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-min-jiangxi",
+      {
+        "id": null,
+        "name_zh": "陆会商"
+      }
+    ],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-SH",
+      "CN-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260809-xinhua_politics-836575",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

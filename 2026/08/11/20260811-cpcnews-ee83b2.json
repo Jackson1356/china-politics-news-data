@@ -1,0 +1,84 @@
+{
+  "id": "20260811-cpcnews-ee83b2",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0811/c64387-40777373.html",
+  "title_zh": "上半年完成交通固定资产投资1.5万亿元",
+  "title_en": "Transport Fixed-Asset Investment Reaches 1.5 Trillion Yuan in H1",
+  "summary_zh": "今年上半年，我国交通固定资产投资完成1.5万亿元，其中公路、水运分别完成1.0万亿元和1099亿元。货运量、港口吞吐量、人员流动量均保持增长。",
+  "summary_en": "In H1, China's transport fixed-asset investment hit 1.5 trillion yuan, with highways 1.0 trillion and waterways 109.9 billion. Freight volume, port throughput, and passenger flows all grew.",
+  "body_zh": "本报北京8月10日电 （记者韩鑫）记者从交通运输部获悉：今年以来，在一系列重大工程带动下，我国交通固定资产投资保持高位运行，上半年，完成投资1.5万亿元，其中公路、水运分别完成投资1.0万亿元和1099亿元。\n货运量持续增长。上半年，完成营业性货运量280.7亿吨，同比增长3.2%。\n港口货物吞吐量稳中有增。上半年，全国港口完成货物吞吐量90.7亿吨，同比增长2.0%。完成集装箱吞吐量1.8亿标箱，同比增长5.9%。\n人员流动量保持平稳。上半年，完成跨区域人员流动量341.7亿人次，同比增长1.2%。\n《 人民日报 》（ 2026年08月11日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "economy",
+  "keywords": [
+    "交通固定资产投资",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通固定资产投资",
+      "name_en": "Transport Fixed-Asset Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "北京",
+    "交通固定资产投资",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Beijing",
+    "Transport Fixed-Asset Investment",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-cpcnews-ee83b2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

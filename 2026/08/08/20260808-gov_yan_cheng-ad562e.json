@@ -1,0 +1,108 @@
+{
+  "id": "20260808-gov_yan_cheng-ad562e",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/8/art_49_4445606.html",
+  "title_zh": "严汉平会见国家能源集团氢能事业部总经理刘玮",
+  "title_en": "Yan Hanping Meets Liu Wei, General Manager of Hydrogen Division of National Energy Group",
+  "summary_zh": "8月6日下午，盐城市委书记严汉平会见国家能源集团氢能事业部总经理刘玮，双方就清洁能源开发利用、算电协同等领域深化合作交流。",
+  "summary_en": "On the afternoon of August 6, Yan Hanping, Secretary of the Yancheng Municipal Party Committee, met with Liu Wei, General Manager of Hydrogen Division of National Energy Group, to discuss cooperation in clean energy development and digital-power synergy.",
+  "body_zh": "8月6日下午，市委书记严汉平在盐会见国家能源集团氢能事业部总经理、国华投资总经理刘玮一行。\n严汉平对刘玮表示欢迎，对国家能源集团长期以来给予盐城发展的大力支持表示感谢。他说，新能源是盐城最鲜明的产业标识之一，也是盐城“十五五”时期的重要战略选择。当前，盐城正加快建设江苏沿海重要的综合能源保供基地、最大的绿电保供基地，全力打造绿色能源高地，离不开央企的有力支撑。希望双方立足各自优势，围绕清洁能源开发利用、能源管理服务、算电协同、人才交流等领域，不断深化务实合作，加快在盐布局一批成熟度高、竞争力强的产业项目，在服务国家战略中实现共赢发展。\n刘玮感谢盐城对国家能源集团的大力支持，并介绍了集团转型发展及在盐投资建设项目情况。他表示，国家能源集团高度重视在盐发展，将充分发挥能源全产业链与科技创新优势，积极对接地方发展需求，导入更多先进技术、优质资源，持续加大投资力度和项目布局，拓展合作深度和广度，为盐城高质量发展贡献力量。\n市领导唐敬、张乃文参加。",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "industry",
+  "keywords": [
+    "氢能",
+    "清洁能源",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "氢能",
+      "name_en": "Hydrogen Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘玮",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "盐城",
+    "氢能",
+    "清洁能源",
+    "战略合作",
+    "刘玮"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Yancheng",
+    "Hydrogen Energy",
+    "Clean Energy",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "张乃文"
+      },
+      {
+        "id": null,
+        "name_zh": "刘玮"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260808-gov_yan_cheng-ad562e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260614-peoples_gs-82a113",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0614/c183342-41609885.html",
+  "title_zh": "交通运输部启动强降雨三级防御响应",
+  "title_en": "Ministry of Transport Activates Level III Emergency Response for Heavy Rainfall",
+  "summary_zh": "6月13日，交通运输部针对中央气象台发布的暴雨黄色预警启动强降雨三级防御响应，并调度多地交通部门做好防汛救灾工作。",
+  "summary_en": "On June 13, the Ministry of Transport activated a Level III emergency response to heavy rainfall following a yellow rainstorm warning, coordinating flood prevention and disaster relief across multiple provinces.",
+  "body_zh": "交通运输部启动强降雨三级防御响应\n本报北京6月13日电 （记者韩鑫）中央气象台6月13日6时发布暴雨黄色预警，交通运输部启动强降雨三级防御响应。\n6月12日下午，交通运输部召开视频调度会，对广东、广西、福建、浙江、江西、湖南、贵州、云南等地交通运输主管部门和长江海事局开展调度，要求各地各单位扎实做好防汛救灾工作，切实维护人民群众生命财产安全，紧盯强降雨密集地区和连续降雨高风险区域，加强调度，完善工作机制，压实各方责任，督促“响应、巡查、管控”主动防御措施落实，坚决防范遏制重特大事故发生。要切实做好连续降雨防范应对工作，落实排查、巡查措施，确保力量预置、主动管控到位。",
+  "image_url": null,
+  "published_at": "2026-06-14T12:00:00+00:00",
+  "event_date": "2026-06-13",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "welfare",
+  "keywords": [
+    "强降雨防御",
+    "防汛救灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降雨防御",
+      "name_en": "Heavy Rainfall Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "北京",
+    "强降雨防御",
+    "防汛救灾"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Beijing",
+    "Heavy Rainfall Defense",
+    "Flood Control and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260614-peoples_gs-82a113",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_zj",
+      "source_tier": 3,
+      "url": "http://zj.people.com.cn/n2/2026/0614/c186327-41609940.html",
+      "title_zh": "交通运输部启动强降雨三级防御响应",
+      "published_at": "2026-06-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

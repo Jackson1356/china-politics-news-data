@@ -1,0 +1,96 @@
+{
+  "id": "20260616-gov_cn_yaowen-d24c5b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072208.htm",
+  "title_zh": "王毅出席上海合作组织成立25周年招待会",
+  "title_en": "Wang Yi Attends Reception Celebrating 25th Anniversary of Shanghai Cooperation Organization",
+  "summary_zh": "6月15日，外交部长王毅在北京出席上海合作组织成立25周年招待会并致辞，强调弘扬“上海精神”，促进区域合作与全球治理。",
+  "summary_en": "On June 15, Foreign Minister Wang Yi attended and addressed a reception in Beijing celebrating the 25th anniversary of the Shanghai Cooperation Organization, emphasizing the \"Shanghai Spirit\" and regional cooperation.",
+  "body_zh": "新华社北京6月15日电（记者 董雪）6月15日，中共中央政治局委员、外交部长王毅在北京出席庆祝上海合作组织成立25周年招待会并致辞。\n王毅说，上合组织成立掀开当代国际关系崭新一页。25年来，成员国团结协作，担当道义，共谋发展，互学互鉴，培育出互信、互利、平等、协商、尊重多样文明、谋求共同发展的“上海精神”，探索出毗邻国家结伴而不结盟，共守安全稳定、共促发展繁荣的新型区域合作模式，建立起以相互尊重、公平正义、合作共赢为核心的新型国际关系。\n王毅表示，习近平主席胸怀天下，提出四大全球倡议，倡导构建人类命运共同体，指明时代方向，提供中国方案。上合组织应更好发挥作用，为促进世界和平、发展、合作、共赢作出表率。\n王毅强调，上合组织要弘扬“上海精神”、完善全球治理、维护和平安宁、促进可持续发展、增进睦邻友好合作。今年是中国“十五五”开局之年，中国愿同上合组织各成员国共享发展机遇，实现合作共赢。\n上合组织有关国家驻华使节、国际组织驻华代表等约200人出席招待会。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海精神",
+    "区域合作",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海精神",
+      "name_en": "Shanghai Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域合作",
+      "name_en": "Regional Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "北京",
+    "上海精神",
+    "区域合作",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beijing",
+    "Shanghai Spirit",
+    "Regional Cooperation",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-d24c5b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

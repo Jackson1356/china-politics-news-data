@@ -1,0 +1,118 @@
+{
+  "id": "20260706-qiushi-600788",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_url": "http://www.qstheory.cn/20260706/1d33f89183dd4c6a84987d637da2edb4/c.html",
+  "title_zh": "习近平致电祝贺藤森庆子当选秘鲁总统",
+  "title_en": "Xi Jinping Sends Congratulatory Message to Keiko Fujimori on Election as President of Peru",
+  "summary_zh": "7月6日，国家主席习近平致电祝贺藤森庆子当选秘鲁总统，愿同其共同努力，引领中秘全面战略伙伴关系迈上新台阶。",
+  "summary_en": "On July 6, President Xi Jinping sent a congratulatory message to Keiko Fujimori on her election as President of Peru, expressing a desire to further elevate the China-Peru comprehensive strategic partnership.",
+  "body_zh": "新华社北京7月6日电 7月6日，国家主席习近平致电藤森庆子，祝贺她当选秘鲁共和国总统。\n习近平指出，中国和秘鲁是全面战略伙伴，两国关系保持良好发展势头。双方高层交往频繁，各领域务实合作成果丰硕，人民友好深入人心。今年是中秘建交55周年。我高度重视中秘关系发展，愿同藤森庆子当选总统一道努力，赓续两国传统友谊，引领中秘全面战略伙伴关系不断迈上新台阶，更好造福两国人民。\n同日，国家副主席韩正向秘鲁当选第一副总统加拉雷塔致贺电。\n网站编辑 -\n王慧\n张利英 审核 - 那非丁",
+  "image_url": null,
+  "published_at": "2026-07-06T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "中秘关系",
+    "全面战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "藤森庆子",
+      "name_en": "Keiko Fujimori"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "秘鲁",
+      "name_en": "Peru"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中秘关系",
+      "name_en": "China-Peru Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "藤森庆子",
+    "北京",
+    "秘鲁",
+    "中秘关系",
+    "全面战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Keiko Fujimori",
+    "Beijing",
+    "Peru",
+    "China-Peru Relations",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260706-qiushi-600788",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/07/06/VIDEAtaVpVkKOpnjcYnYtCuH260706.shtml",
+      "title_zh": "[视频]习近平致电祝贺藤森庆子当选秘鲁总统",
+      "published_at": "2026-07-06T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074424.htm",
+      "title_zh": "习近平致电祝贺藤森庆子当选秘鲁总统",
+      "published_at": "2026-07-06T12:00:00+00:00"
+    },
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-07/06/content_32113245.htm",
+      "title_zh": "习近平致电祝贺藤森庆子当选秘鲁总统",
+      "published_at": "2026-07-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

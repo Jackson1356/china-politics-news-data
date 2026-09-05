@@ -1,0 +1,105 @@
+{
+  "id": "20260623-xinhua_tj-49b0aa",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260623/5cb086d95ba240a1b457178049a91d0a/c.html",
+  "title_zh": "张工会见优必选董事会主席周剑",
+  "title_en": "Zhang Gong Meets UBTECH Chairman Zhou Jian",
+  "summary_zh": "6月22日，天津市市长张工会见优必选董事会主席周剑，探讨智能机器人产业合作，随后静海区、天津经开区与优必选签署合作协议。",
+  "summary_en": "On June 22, Tianjin Mayor Zhang Gong met with UBTECH Chairman Zhou Jian to discuss cooperation in the intelligent robot industry, followed by the signing of agreements between UBTECH and local districts.",
+  "body_zh": "6月22日下午，市委副书记、市长张工在迎宾馆会见优必选创始人、董事会主席兼CEO周剑一行。\n张工对客人来津表示欢迎。他说，智能机器人是“十五五”国家重点发展的产业赛道。天津正抢抓北京（京津冀）国际科技创新中心扩围机遇，发挥京津同城化、制造业基础、科教人才、公共服务、应用场景等优势，全力推动智能机器人产业延链强链、能级跃升。希望优必选加大在津战略布局，拓展科技研发、成果转化、产业配套、场景应用、科技租赁等领域务实合作，加速落地项目建设，协力做大产业集群，实现共赢发展。\n周剑介绍了企业在机器人领域发展布局，表示看好天津禀赋优势和产业生态，将加快推进项目建设，不断拓展合作空间，助力天津新质生产力发展。\n会见后，静海区、天津经开区分别与优必选签署相关合作协议。\n副市长翟立新和市政府秘书长胡学明参加。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "智能机器人",
+    "新质生产力",
+    "产业集群"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "周剑",
+      "name_en": "Zhou Jian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能机器人",
+      "name_en": "Intelligent Robots"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业集群",
+      "name_en": "Industrial Cluster"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "周剑",
+    "天津",
+    "智能机器人",
+    "新质生产力",
+    "产业集群"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Zhou Jian",
+    "Tianjin",
+    "Intelligent Robots",
+    "New Quality Productive Forces",
+    "Industrial Cluster"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      {
+        "id": null,
+        "name_zh": "胡学明"
+      },
+      {
+        "id": null,
+        "name_zh": "周剑"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260623-xinhua_tj-49b0aa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

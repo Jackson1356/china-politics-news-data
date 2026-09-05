@@ -1,0 +1,80 @@
+{
+  "id": "20260525-cyol-081760",
+  "source": "cyol",
+  "source_name_zh": "中国青年报",
+  "source_name_en": "China Youth Daily",
+  "source_url": "http://news.cyol.com/gb/articles/2026-05/26/content_wdLMgxHRVx.html",
+  "title_zh": "中塞铁杆友谊独树一帜",
+  "title_en": "China-Serbia Ironclad Friendship is Unique",
+  "summary_zh": "5月25日，国家主席习近平在北京同塞尔维亚总统武契奇举行会谈，并为其颁授“友谊勋章”。",
+  "summary_en": "On May 25, President Xi Jinping held talks with Serbian President Aleksandar Vučić in Beijing and awarded him the \"Medal of Friendship.\"",
+  "body_zh": "学习新语｜中塞铁杆友谊独树一帜\n5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。当晚，习近平主席为武契奇总统举行“友谊勋章”颁授仪式。\n习近平主席指出，中塞铁杆友谊独树一帜，具有深厚的历史逻辑和现实基础。双方要继续坚定相互支持。\n统筹：郭洁宇\n新华社新媒体中心制作\n新华社出品\n习近平主席指出，中塞铁杆友谊独树一帜，具有深厚的历史逻辑和现实基础。双方要继续坚定相互支持。\n统筹：郭洁宇\n新华社新媒体中心制作\n新华社出品",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "铁杆友谊"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Serbia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁杆友谊",
+      "name_en": "Ironclad Friendship"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中塞关系",
+    "铁杆友谊"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Serbia Relations",
+    "Ironclad Friendship"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260525-cyol-081760",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

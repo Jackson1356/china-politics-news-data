@@ -1,0 +1,90 @@
+{
+  "id": "20260611-xinhua_gd-ef21e1",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260611/7fbfa92a4fc0459680a17147ee43ebd7/c.html",
+  "title_zh": "5月我国新能源汽车产销量同比两位数增长",
+  "title_en": "China's New Energy Vehicle Production and Sales See Double-Digit Growth in May",
+  "summary_zh": "中国汽车工业协会6月10日发布数据显示，2026年5月我国新能源汽车产销分别完成155.4万辆和149.6万辆，同比分别增长22.4%和14.4%。",
+  "summary_en": "Data released by the China Association of Automobile Manufacturers on June 10 shows that in May 2026, China's NEV production and sales grew by 22.4% and 14.4% year-on-year.",
+  "body_zh": "新华社北京6月10日电（记者唐诗凝）中国汽车工业协会10日发布数据显示，2026年5月，我国新能源汽车市场企稳回升，产销分别完成155.4万辆和149.6万辆，同比分别增长22.4%和14.4%，新能源汽车新车销量占汽车新车总销量的比例进一步提升，达到56.9%。\n5月，我国汽车产销分别完成261.6万辆和262.9万辆，环比增长、同比小幅下降，但降幅进一步收窄。整体来看，前5个月，汽车产销分别完成1223.5万辆和1220.7万辆，其中，新能源汽车产销分别完成584.1万辆和580.2万辆，同比分别增长2.5%和3.5%。\n近期，国内车市呈现“燃油车冷、新能源车热”的特点，针对这一趋势，中汽协会副秘书长陈士华分析称，高油价抬升燃油车使用成本，凸显新能源车经济属性；同时国内车企深耕创新研发，新能源新车型快速迭代，以差异化产品满足多元需求，不断激活市场潜力。\n汽车出口延续快速增长态势。5月，我国汽车出口93万辆，同比增长68.7%，其中新能源汽车出口44.6万辆，同比增长1.1倍。前5个月，汽车出口405.9万辆，同比增长63%，其中新能源汽车出口183.3万辆，同比增长1.1倍。\n陈士华表示，新能源汽车出海表现亮眼，是我国汽车产业转型升级、综合实力提升的集中体现，这离不开政策引导与产业协同等多重优势的共同支撑。“我国拥有完整且高效的新能源汽车产业链，规模效应突出，供应链抗风险能力强。同时，车机系统、智能驾驶、座舱交互等智能化功能快速迭代，持续适配海外用户需求，推动产品核心竞争力不断提升。”",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-10",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "产业升级",
+    "汽车出口"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车出口",
+      "name_en": "Automobile Exports"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈士华",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "新能源汽车",
+    "产业升级",
+    "汽车出口"
+  ],
+  "tags_en": [
+    "Beijing",
+    "New Energy Vehicles",
+    "Industrial Upgrading",
+    "Automobile Exports"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陈士华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260611-xinhua_gd-ef21e1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

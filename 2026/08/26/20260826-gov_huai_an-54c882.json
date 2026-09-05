@@ -1,0 +1,99 @@
+{
+  "id": "20260826-gov_huai_an-54c882",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787729834304pt8u5zC6.html",
+  "title_zh": "淮安市委书记调研科技创新和产业创新深度融合工作",
+  "title_en": "Huai'an Party Secretary Inspects Work on Integrating Technological and Industrial Innovation",
+  "summary_zh": "8月25日，淮安市委书记史志军到淮安区部分科技型企业调研科技创新和产业创新深度融合工作，强调因地制宜发展新质生产力。",
+  "summary_en": "On Aug 25, Shi Zhijun, Party Secretary of Huai'an, visited tech firms in Huai'an District to research deep integration of tech and industrial innovation, emphasizing developing new quality productive forces.",
+  "body_zh": "8月25日，市委书记史志军到淮安区部分科技型企业、上市苗圃企业，调研科技创新和产业创新深度融合工作。他强调，要深入学习贯彻习近平总书记对江苏工作重要讲话精神、对淮安殷切嘱托，认真落实省委省政府部署要求，积极改革探索，完善体制机制，营造一流生态，提升创新体系整体效能，促进科技创新和产业创新深度融合，因地制宜发展新质生产力，为实现“十五五”良好开局蓄势赋能。",
+  "image_url": null,
+  "published_at": "2026-08-26T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "产业创新",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "淮安区",
+      "name_en": "Huai'an District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "淮安区",
+    "科技创新",
+    "产业创新",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Huai'an District",
+    "Technological Innovation",
+    "Industrial Innovation",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260826-gov_huai_an-54c882",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1787698291916vX6uHehC.html",
+      "title_zh": "淮安市人民政府 市领导调研科技创新和产业创新深度融合工作",
+      "published_at": "2026-08-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

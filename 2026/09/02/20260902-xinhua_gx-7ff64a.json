@@ -1,0 +1,117 @@
+{
+  "id": "20260902-xinhua_gx-7ff64a",
+  "source": "xinhua_gx",
+  "source_name_zh": "新华网 广西",
+  "source_name_en": "Xinhua Guangxi",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gx.news.cn/20260902/1b1396de86bf4fe4916f2f01c25d5926/c.html",
+  "title_zh": "陈刚会见正大集团资深副董事长谢炳",
+  "title_en": "Chen Gang Meets Xie Bing, Senior Vice Chairman of CP Group",
+  "summary_zh": "8月31日，广西壮族自治区党委书记陈刚在南宁会见正大集团资深副董事长谢炳一行，双方就深化绿色化工、面向东盟的人工智能等领域合作进行交流。",
+  "summary_en": "On August 31, Chen Gang, Secretary of CPC Guangxi Committee, met with Xie Bing, Senior Vice Chairman of CP Group, in Nanning to discuss cooperation in green chemicals and AI for ASEAN markets.",
+  "body_zh": "8月31日，自治区党委书记、自治区人大常委会主任陈刚在南宁会见正大集团资深副董事长、正大产业资本管理有限公司董事长谢炳一行。\n陈刚对谢炳一行来桂商谈深化合作表示欢迎，对正大集团对广西发展的支持表示感谢。陈刚表示，广西作为中国面向东盟开放合作的“桥头堡”，正深入贯彻落实习近平总书记关于广西工作论述的重要要求，抢抓国家实施人工智能能力建设普惠计划、高水平共建西部陆海新通道等重大机遇，即将建成运营世纪工程平陆运河，持续扩大对内对外开放，主动拥抱人工智能时代，积极推动“人工智能+”行动，全力打造现代绿色化工等制造业十大现代化支柱产业，因地制宜发展新质生产力，加快推动高质量发展，迎来历史最好发展时期。正大集团是知名侨资企业，与广西合作基础坚实、潜力巨大。希望正大集团进一步扩大在桂投资布局，以平陆运河建成通航为契机， 深化双方在绿色化工、面向东盟的人工智能等领域务实合作，共同拓展东盟国家市场，实现互利共赢、共同发展。\n谢炳感谢广西壮族自治区党委、政府长期以来对正大集团在桂发展给予的大力支持和帮助，介绍了企业发展情况和未来重点发展方向。他表示，广西区位条件独特，资源优势明显，发展潜力巨大，双方合作空间广阔。正大集团将充分发挥资本、技术等优势，持续加大在桂投资、优化投资布局，加快推进绿色化工、清洁能源等领域合作项目落地，积极参与中国—东盟国家人工智能应用合作中心建设，携手开拓东盟市场，助力广西经济社会高质量发展。\n自治区领导蔡允革、周异决等参加会见。（记者罗昌亮）",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "economy",
+  "keywords": [
+    "绿色化工",
+    "人工智能",
+    "面向东盟合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-gang-guangxi",
+      "name_zh": "陈刚",
+      "name_en": "Chen Gang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "谢炳",
+      "name_en": "Xie Bing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-NN",
+      "name_zh": "南宁",
+      "name_en": "Nanning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色化工",
+      "name_en": "Green Chemicals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "面向东盟合作",
+      "name_en": "ASEAN Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "cai-yunge",
+      "name_zh": "蔡允革",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈刚",
+    "谢炳",
+    "南宁",
+    "绿色化工",
+    "人工智能",
+    "面向东盟合作",
+    "蔡允革"
+  ],
+  "tags_en": [
+    "Chen Gang",
+    "Xie Bing",
+    "Nanning",
+    "Green Chemicals",
+    "Artificial Intelligence",
+    "ASEAN Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-yunge",
+      "chen-gang-guangxi",
+      {
+        "id": null,
+        "name_zh": "方向他"
+      },
+      {
+        "id": null,
+        "name_zh": "谢陈刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX-NN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260902-xinhua_gx-7ff64a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

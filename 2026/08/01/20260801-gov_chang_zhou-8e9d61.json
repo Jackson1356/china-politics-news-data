@@ -1,0 +1,102 @@
+{
+  "id": "20260801-gov_chang_zhou-8e9d61",
+  "source": "gov_chang_zhou",
+  "source_name_zh": "常州市政府网",
+  "source_name_en": "常州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/8/1/art_60096_11811525.html",
+  "title_zh": "省领导走访慰问驻苏部队官兵",
+  "title_en": "Provincial Leaders Visit and Greet Troops Stationed in Jiangsu",
+  "summary_zh": "在八一建军节前夕，省委常委、常务副省长马欣和省委常委、政法委书记李耀光分别走访慰问驻苏部队官兵，致以节日祝福。",
+  "summary_en": "On the eve of Army Day, Ma Xin and Li Yaoguang, Jiangsu provincial leaders, visited troops stationed in Jiangsu and conveyed festive greetings.",
+  "body_zh": "当前位置：\n省领导走访慰问驻苏部队官兵\n在八一建军节即将到来之际，省委常委、常务副省长马欣，省委常委、省委政法委书记李耀光分别走访慰问驻苏部队官兵，向大家致以崇高敬意和节日祝福。\n在驻镇江某部，马欣详细了解部队职责任务、队伍建设、新兵训练等情况，与官兵深入交谈，询问学习、训练、生活等情况。他表示，部队官兵聚焦备战打仗主责主业，在教学组训、人才培养方面成效显著，在完成军事任务的同时，把驻地当故乡、视群众为亲人，积极投身地方建设，诠释了军民鱼水情深，为守护一方平安、服务江苏发展大局作出了积极贡献。地方政府和相关部门要以更高标准弘扬双拥光荣传统，全面落实拥军优抚各项政策，精准对接部队急需、官兵急盼，用心用情解决好军人“后路、后院、后代”等现实问题，抓好军地互办实事双清单，持续巩固和发展同呼吸、共命运、心连心的军政军民团结，共同把“爱我人民爱我军”优良传统发扬光大。\n武警江苏总队机动支队自组建以来先后圆满完成了亚青会、世博会、G20峰会等安全保卫任务，在抗击雨雪冰冻灾害、森林灭火、长江流域抗洪抢险等重大任务中贡献力量。李耀光听取部队建设发展历程介绍，察看装备和设施情况，并同基层官兵亲切交谈，询问了解训练工作和生活情况。他说，武警江苏总队机动支队始终把“军魂永不变、军旗永向党”的铮铮誓言镌刻在脑海中、落实在行动上，在抓好练兵备战的同时，部队官兵牢记为民宗旨，强化使命担当，为促进江苏经济高质量发展、保障社会和谐稳定作出了积极贡献。我们将继续全力支持驻苏部队发展，扎实做好双拥和退役军人服务保障工作，满腔热情为广大官兵办实事、解难题，切实当好部队坚强后盾，为部队建设发展创造更加有利条件。",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "双拥工作",
+    "拥军优属"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ma-xin-jiangsu",
+      "name_zh": "马欣",
+      "name_en": "Ma Xin"
+    },
+    {
+      "kind": "person",
+      "id": "li-yaoguang",
+      "name_zh": "李耀光",
+      "name_en": "Li Yaoguang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-ZJ",
+      "name_zh": "镇江",
+      "name_en": "Zhenjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Double Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "拥军优属",
+      "name_en": "Supporting Military and Their Families"
+    }
+  ],
+  "tags_zh": [
+    "马欣",
+    "李耀光",
+    "江苏",
+    "镇江",
+    "双拥工作",
+    "拥军优属"
+  ],
+  "tags_en": [
+    "Ma Xin",
+    "Li Yaoguang",
+    "Jiangsu",
+    "Zhenjiang",
+    "Double Support Work",
+    "Supporting Military and Their Families"
+  ],
+  "entities": {
+    "politicians": [
+      "li-yaoguang",
+      "ma-xin-jiangsu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260801-gov_chang_zhou-8e9d61",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

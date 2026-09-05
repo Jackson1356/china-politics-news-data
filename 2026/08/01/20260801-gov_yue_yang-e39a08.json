@@ -1,0 +1,90 @@
+{
+  "id": "20260801-gov_yue_yang-e39a08",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2392358.html",
+  "title_zh": "市政协党组理论学习中心组开展2026年第七次集体（扩大）学习",
+  "title_en": "CPPCC Party Group Holds 7th Collective Study Session of 2026",
+  "summary_zh": "7月31日，市政协党组理论学习中心组开展集体学习，党组书记、主席汪涛主持并讲授专题党课，传达学习习近平总书记重要讲话精神。",
+  "summary_en": "On July 31, the CPPCC Party Group held a collective study session, with Party Secretary and Chairman Wang Tao presiding and giving a special party lecture, conveying the spirit of General Secretary Xi Jinping's important speech.",
+  "body_zh": "7月31日，市政协党组理论学习中心组开展2026年第七次集体（扩大）学习，市政协党组书记、主席汪涛主持并讲授专题党课。市政协党组和主席会议成员秧励、李文、李运帷、张赟、高鸽子、林军华、朱平波、李永波、向科军出席。\n会议传达学习了习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神、《习近平党建文选》第一卷和第二卷有关内容。四名同志围绕学习主题，结合自身岗位、政协履职实际作研讨发言。\n会前，全体与会人员结合会议主题，自学了相关学习资料。",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "party",
+  "keywords": [
+    "理论学习",
+    "党建"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市政协",
+      "name_en": "Municipal CPPCC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "市政协",
+    "理论学习",
+    "党建",
+    "习近平"
+  ],
+  "tags_en": [
+    "Municipal CPPCC",
+    "Theoretical Study",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "汪涛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "市政协",
+        "name_en": "Municipal CPPCC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260801-gov_yue_yang-e39a08",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20260826-xinhua_politics-1cc8fa",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260826/f94b8abc101448eb886713febd84c65d/c.html",
+  "title_zh": "国家能源局协调指导西藏吉隆县泥石流灾害抢修复电",
+  "title_en": "National Energy Administration Coordinates Power Restoration after Landslide in Gyirong County, Tibet",
+  "summary_zh": "8月26日，国家能源局就西藏日喀则市吉隆县泥石流灾害协调指导抢修复电，已派出发电车和应急照明设备赶赴灾区。",
+  "summary_en": "On August 26, the National Energy Administration coordinated power restoration after a landslide in Gyirong County, Tibet, dispatching generator vehicles and emergency lighting equipment.",
+  "body_zh": "新华社北京8月26日电（记者王悦阳）记者8月26日从国家能源局获悉，西藏日喀则市吉隆县泥石流灾害发生后，国家能源局第一时间调度部署，协调指导相关电力企业全力开展抢修复电和供电保障工作。\n目前，当地电力企业已备好应急照明设备，优先保障临时指挥部照明，并派出1台中压发电车、2台低压发电车赶赴灾区。同时，从周边地区调拨应急照明装备24台，电源装备53台，以及帐篷接电物资、抢修物资，正在赶往现场开展抢修复电和供电保障工作。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-08-26T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "灾害应急",
+    "电力抢修"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-RK",
+      "name_zh": "日喀则",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害应急",
+      "name_en": "Disaster Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力抢修",
+      "name_en": "Power Restoration"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "西藏",
+    "日喀则",
+    "灾害应急",
+    "电力抢修"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Disaster Response",
+    "Power Restoration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [
+      "CN-XZ",
+      "CN-XZ-RK"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260826-xinhua_politics-1cc8fa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "20260824-xinhua_politics-0f693c",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260824/b99c37e6124349d9ae8d04d4d774d3f4/c.html",
+  "title_zh": "中国语言资源保护工程成果展示馆开馆",
+  "title_en": "China Language Resource Protection Project Achievement Hall Opens",
+  "summary_zh": "8月24日，位于湖南长沙的中国语言资源保护工程成果展示馆开馆，展出全国汉语方言、少数民族语言和语言文化1800余点语料，标志语保工程成果实现从“数据库”向“活态展”的跨越。",
+  "summary_en": "On Aug 24, China's Language Resource Protection Project Achievement Hall opened in Changsha, displaying 1,800+ language and culture items, marking a leap from database to living display.",
+  "body_zh": "8月24日，位于湖南长沙的中国语言资源保护工程成果展示馆正式开放。\n该展示馆依托教育部、国家语委“中国语言资源保护工程”（简称语保工程）标志性成果，汇集全国汉语方言、少数民族语言和语言文化共计1800余点海量语料，打造了以“语言长河 生生不息”为主题的专题展览，集中呈现语保工程自2015年启动实施以来的建设成果，标志着语保工程成果实现从“数据库”向“活态展”的跨越。\n记者：张玉洁、张格\n海报制作：李贝思\n新华社国内部、湖南分社联合出品\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "语言资源保护",
+    "文化传承",
+    "语保工程"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家语委",
+      "name_en": "National Language Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-CS",
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "语言资源保护",
+      "name_en": "Language Resource Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化传承",
+      "name_en": "Cultural Heritage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "语保工程",
+      "name_en": "Language Protection Project"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "国家语委",
+    "长沙",
+    "语言资源保护",
+    "文化传承",
+    "语保工程"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "National Language Commission",
+    "Changsha",
+    "Language Resource Protection",
+    "Cultural Heritage",
+    "Language Protection Project"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOE"
+    ],
+    "locations": [
+      "CN-HN-CS"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家语委",
+        "name_en": "National Language Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260824-xinhua_politics-0f693c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_hn",
+      "source_tier": null,
+      "url": "http://hn.news.cn/20260825/8fbb001059d24d8fa305cf2a57c17a87/c.html",
+      "title_zh": "中国语言资源保护工程成果展示馆开馆",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "20260725-gov_cn_yaowen-975cdd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076625.htm",
+  "title_zh": "吉尔吉斯斯坦总统扎帕罗夫会见王毅",
+  "title_en": "Kyrgyz President Zhaparov Meets with Chinese Foreign Minister Wang Yi",
+  "summary_zh": "吉尔吉斯斯坦总统扎帕罗夫7月24日在乔尔蓬阿塔会见中共中央政治局委员、外交部长王毅，双方就深化合作交换意见。",
+  "summary_en": "Kyrgyz President Sadyr Zhaparov met with Chinese Foreign Minister Wang Yi on July 24 in Cholpon-Ata, discussing further cooperation.",
+  "body_zh": "新华社吉尔吉斯斯坦乔尔蓬阿塔7月25日电 吉尔吉斯斯坦总统扎帕罗夫24日会见在吉访问的中共中央政治局委员、外交部长王毅。\n扎帕罗夫请王毅转达对习近平主席的亲切问候，热烈祝贺中国共产党成立105周年，表示在中国共产党领导下，中国人民在社会主义现代化建设中取得辉煌成就，吉方对此由衷钦佩。对华关系是吉方对外政策优先方向。吉方珍视双方相互尊重、平等互利、睦邻友好的战略伙伴关系，愿学习借鉴中国治国理政经验，加强经贸、投资、农业、人文等领域互利合作，大力推进中吉乌铁路等重点项目，为在吉中国企业提供良好营商环境。吉方坚定支持中方维护自身核心利益。吉方加入了世界人工智能合作组织、国际调解院，以实际行动支持中方提出的四大全球倡议，愿进一步加强在联合国、中国－中亚机制等多边框架内的沟通协调，携手促进地区和世界和平发展。\n王毅转达习近平主席对扎帕罗夫的良好祝愿，相信在总统先生领导下，“新吉尔吉斯斯坦”建设必将取得新的更大成就。中方将一如既往坚定支持吉方的独立、主权和领土完整，坚定支持吉方走符合本国国情的发展道路。\n王毅表示，中国刚刚隆重庆祝中国共产党成立105周年。习近平总书记发表重要讲话，全面回顾中国共产党带领全国各族人民走过的光辉历程，深刻揭示中国共产党之所以能够不断铸就辉煌的优秀特质。中方愿同吉方加强发展战略对接，将两国元首重要共识转化为更多可视化成果，提升互利合作水平，扩大人文交流，夯实中吉命运共同体根基。中方祝贺吉方高票当选联合国安理会非常任理事国，将支持吉方办好上海合作组织比什凯克峰会。\n访问期间，王毅还同吉尔吉斯斯坦外长库鲁巴耶夫举行会谈，并共同出席中国驻奥什总领馆复馆揭牌仪式。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "中吉关系",
+    "外交合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "扎帕罗夫",
+      "name_en": "Sadyr Zhaparov"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中吉关系",
+      "name_en": "China-Kyrgyzstan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交合作",
+      "name_en": "Diplomatic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "扎帕罗夫",
+    "吉尔吉斯斯坦",
+    "中吉关系",
+    "外交合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Sadyr Zhaparov",
+    "Kyrgyzstan",
+    "China-Kyrgyzstan Relations",
+    "Diplomatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "周年"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260725-gov_cn_yaowen-975cdd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

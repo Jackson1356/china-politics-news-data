@@ -1,0 +1,80 @@
+{
+  "id": "20260529-xinhua_cq-14141a",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_url": "http://cq.news.cn/20260531/d95bd4539918451d84760d893a47ec24/c.html",
+  "title_zh": "长江朝天门至涪陵河段整治工程竣工验收",
+  "title_en": "Completion Acceptance of Yangtze River Waterway Improvement Project from Chaotianmen to Fuling",
+  "summary_zh": "5月29日，由交通运输部组织的长江朝天门至涪陵河段航道整治工程通过竣工验收并正式运行，实现5000吨级货轮可直达重庆中心城区。",
+  "summary_en": "On May 29, the Yangtze River waterway improvement project from Chaotianmen to Fuling passed completion acceptance by the Ministry of Transport, enabling 5,000-ton cargo ships to reach downtown Chongqing.",
+  "body_zh": "5月29日，长江上游朝天门至涪陵河段航道整治工程（以下简称朝涪段）通过交通运输部组织的竣工验收，正式投入运行。此次整治成功将三峡库区4.5米水深航道上延至重庆中心城区，实现5000吨级货轮从三峡库区可常年直达重庆中心城区，长江黄金水道效能得到进一步提升。\n朝涪段工程河段全长123公里，上连重庆中心城区，下接涪陵港区，串联起果园港、龙头港、寸滩邮轮港三大枢纽。工程总投资9.2亿元，于2020年12月开工，采用筑坝、疏浚、清礁、护岸等措施，对广阳坝、大箭滩、洛碛、王家滩等11处重点碍航滩段进行综合整治，同步建设4处生境营造区并配套完善助航设施，于2024年9月实现主体工程完工并投入试运行，综合效益明显。",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "industry",
+  "keywords": [
+    "航道整治",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航道整治",
+      "name_en": "Waterway Improvement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "重庆",
+    "航道整治",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Chongqing",
+    "Waterway Improvement",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260529-xinhua_cq-14141a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

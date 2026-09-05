@@ -1,0 +1,96 @@
+{
+  "id": "20260808-qianlong-2982ea",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/0808/8709145.shtml",
+  "title_zh": "殷勇调度部署防汛有关工作",
+  "title_en": "Yin Yong Deploys Flood Control Work",
+  "summary_zh": "8月7日，北京市发布暴雨蓝色预警并启动防汛四级应急响应，市长殷勇到市应急指挥中心调度部署强降雨防范应对工作。",
+  "summary_en": "On August 7, Beijing issued a blue rainstorm warning and activated a Level IV flood response. Mayor Yin Yong deployed measures at the emergency command center to address heavy rainfall.",
+  "body_zh": "昨天（7日），北京市发布暴雨蓝色预警信号，并启动防汛四级应急响应。市委副书记、市长殷勇到市应急指挥中心召开防汛调度会议，调度部署强降雨防范应对工作。他强调，当前我市仍处于主汛期，要立足打好防汛遭遇战，落实主汛期防汛措施，全力抓好本轮强降雨防范应对，确保城市安全平稳运行和群众生命财产安全。\n殷勇强调，本轮强降雨落区不确定、局地强降雨突发，要抓好局地突发山洪灾害防御，第一时间开展应急处置。相关区要严密监测上游降雨和水情变化，强化跨区域、全流域信息共享和协同应对。要全力保障城市运行平稳安全，做好高峰时段道路交通出行保障，落实下凹式立交桥等易积水点排水处置责任，严密防范强降雨给城市运行带来的各类风险。从严抓好值班值守，强化夜间值守，确保指令畅通、响应迅速。\n殷勇强调，要保持高度警惕，做好台风“白海豚”防范应对的前置准备工作。强化部门联合会商研判，持续监测、动态研判、滚动更新台风路径和天气形势。根据研判情况，聚焦人员安全，做好相应等级防汛响应启动准备。提前做好转移安置方案、水库调度、应急准备等工作，以防范准备工作的确定性应对台风影响的不确定性。\n市领导夏林茂、文献、唐文弘，市政府秘书长曾劲参加。",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "person",
+      "id": "xia-linmao",
+      "name_zh": "夏林茂",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "殷勇",
+    "北京",
+    "防汛",
+    "应急响应",
+    "夏林茂"
+  ],
+  "tags_en": [
+    "Yin Yong",
+    "Beijing",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong",
+      "xia-linmao",
+      {
+        "id": null,
+        "name_zh": "曾劲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260808-qianlong-2982ea",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

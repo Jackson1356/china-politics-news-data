@@ -1,0 +1,83 @@
+{
+  "id": "20260829-gov_ding_xi-f1a12d",
+  "source": "gov_ding_xi",
+  "source_name_zh": "定西市政府网",
+  "source_name_en": "定西 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ding_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dingxi.gov.cn/art/2026/8/29/art_3_1909785.html",
+  "title_zh": "王旭在定西市检查督导省十六运会筹备工作",
+  "title_en": "Wang Xu Inspects Preparation for 16th Provincial Games in Dingxi",
+  "summary_zh": "8月27日，副省长王旭在定西市调研省十六运会筹备工作，检查场馆、安保等，强调确保圆满成功。",
+  "summary_en": "On August 27, Vice Governor Wang Xu inspected the preparation for the 16th Provincial Games in Dingxi, checking venues and security, and stressed ensuring a successful event.",
+  "body_zh": "|                  8月27日，副省长、省十六运会组委会主任王旭在定西市调研省十六运会筹备工作。 王旭先后到定西市大剧院、定西市体育场和赛事接待酒店，详细了解省十六运会开幕式筹备、场馆安防布置、电力通信保障、应急处置演练等情况。她指出，要深入贯彻习近平总书记关于体育工作的重要论述，按照省委、省政府的安排部署，加强统筹协调，细化任务分工，压实各方责任，以高度的责任感抓实抓细各项工作，确保省十六运会圆满成功。 王旭强调，省十六运会开幕在即，各项筹备工作已进入最后冲刺阶段。有关部门和定西市要坚持底线思维，把安全摆在突出位置，围绕场馆运行、电力通信、消防安保、交通人流、食宿安全等重点领域，开展全覆盖隐患排查，补齐短板弱项，完善应急处置机制，坚决守牢安全底线。要精益求精做好开幕式、赛事运行、接待服务等工作，精雕细琢全流程各环节，确保衔接顺畅、运转高效。要用好城市景观布设、各类媒体平台多渠道讲好省运故事，充分展现陇原儿女昂扬向上的精神风貌。要借助省运平台，充分展现定西人文底蕴与特色资源，深化“体育+”融合，赋能文旅产业提质增效，助力全省经济社会高质量发展。  |",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "省运会筹备",
+    "体育赛事"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xu-tianjin",
+      "name_zh": "王旭",
+      "name_en": "Wang Xu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS-DX",
+      "name_zh": "定西",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省运会筹备",
+      "name_en": "Provincial Games Preparation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "体育赛事",
+      "name_en": "Sports Event"
+    }
+  ],
+  "tags_zh": [
+    "王旭",
+    "定西",
+    "省运会筹备",
+    "体育赛事"
+  ],
+  "tags_en": [
+    "Wang Xu",
+    "Provincial Games Preparation",
+    "Sports Event"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xu-tianjin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS-DX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260829-gov_ding_xi-f1a12d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

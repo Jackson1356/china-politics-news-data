@@ -1,0 +1,93 @@
+{
+  "id": "20260902-gov_cn_yaowen-61ff12",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080037.htm",
+  "title_zh": "彭丽媛同埃及总统塞西夫人依缇萨尔茶叙并参观小型手工艺品展",
+  "title_en": "Peng Liyuan and Egyptian First Lady Intisar Enjoy Tea and Visit Handicraft Exhibition",
+  "summary_zh": "当地时间9月2日上午，国家主席习近平夫人彭丽媛在开罗同埃及总统塞西夫人依缇萨尔茶叙并参观小型手工艺品展，就中埃友好与人文交往亲切交流。",
+  "summary_en": "On the morning of Sept 2, Peng Liyuan, wife of Chinese President, had tea with Egypt's first lady Intisar in Cairo and toured a handicraft exhibition, exchanging views on bilateral friendship and cultural ties.",
+  "body_zh": "新华社开罗9月2日电（记者 温馨、姚兵）当地时间9月2日上午，国家主席习近平夫人彭丽媛在开罗同埃及总统塞西夫人依缇萨尔茶叙并参观小型手工艺品展。\n彭丽媛同依缇萨尔就中埃友好、人文交往等亲切交流。彭丽媛表示，埃及历史悠久、文化底蕴深厚，展品十分精美，充分体现了埃及人民的聪明才智和独特审美。中埃两国文化有很多共通之处，希望两国艺术家加强交流合作，让传统手工艺在传承和互鉴中不断焕发新的光彩。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "中埃友好",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭丽媛",
+      "name_en": "Peng Liyuan"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "依缇萨尔",
+      "name_en": "Intisar"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "开罗",
+      "name_en": "Cairo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃友好",
+      "name_en": "China-Egypt Friendship"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchange"
+    }
+  ],
+  "tags_zh": [
+    "彭丽媛",
+    "依缇萨尔",
+    "开罗",
+    "中埃友好",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Peng Liyuan",
+    "Intisar",
+    "Cairo",
+    "China-Egypt Friendship",
+    "People-to-People Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "彭丽媛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260902-gov_cn_yaowen-61ff12",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

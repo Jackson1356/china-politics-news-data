@@ -1,0 +1,86 @@
+{
+  "id": "20260604-xinhua_sd-7bf86d",
+  "source": "xinhua_sd",
+  "source_name_zh": "新华网 山东",
+  "source_name_en": "Xinhua Shandong",
+  "source_url": "http://sd.news.cn/20260604/38f4e7557fa74f4e9fa8e0a2f6e25a1c/c.html",
+  "title_zh": "山东力争2028年底累计推出50条以上精品旅游公路",
+  "title_en": "Shandong Aims to Launch Over 50 Boutique Tourist Roads by End of 2028",
+  "summary_zh": "2026年6月3日，山东省在泰安召开旅游公路建设推进会议，计划到2028年底建成6000公里旅游公路并推出50条以上精品旅游公路。",
+  "summary_en": "On June 3, 2026, Shandong Province held a meeting in Tai'an to promote tourist road construction, aiming to build 6,000 km of tourist roads and launch over 50 boutique routes by 2028.",
+  "body_zh": "今天（6月3日），2026年山东省旅游公路建设暨旅游交通网建设推进会议在泰安召开。记者从会议上了解到，山东省将持续深耕交旅融合赛道，加力推动旅游交通网建设，持续推动公路从“交通线”向“风景线、经济线、民生线”迭代升级，助力交通强国山东示范区和交通强省、旅游强省建设。\n近几年，山东旅游公路建设和交旅融合发展实现质效双升，全面构建起“快进慢游”的全域交通体系。以“快进”促通达，全省高铁、高速、机场立体交通网络持续完善，高铁运营里程突破3000公里，高速公路里程超过9300公里，运输机场达11个，实现4A级以上景区30分钟通达、A级及以上景区1小时通达；以“慢游”优体验，全省已建成旅游公路超3300公里、旅游驿站285个，串联优质景区190余处，五大廊道主骨架基本成型，一条条“路在景中、景在路旁、路景一体”的风景线、体验线遍布齐鲁。同时，山东精品旅游公路品牌矩阵持续壮大，累计推出28条、2200余公里部省级精品旅游公路。\n据了解，山东省力争2028年底，建成旅游公路6000公里，串联景区500个，累计推出50条以上主题鲜明、特色各异的精品旅游公路。（戚加绚）（完）",
+  "image_url": null,
+  "published_at": "2026-06-04T12:00:00+00:00",
+  "event_date": "2026-06-03",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "industry",
+  "keywords": [
+    "交旅融合",
+    "旅游公路"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "泰安",
+      "name_en": "Tai'an"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交旅融合",
+      "name_en": "Integration of Transport and Tourism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游公路",
+      "name_en": "Tourist Roads"
+    }
+  ],
+  "tags_zh": [
+    "泰安",
+    "山东",
+    "交旅融合",
+    "旅游公路"
+  ],
+  "tags_en": [
+    "Tai'an",
+    "Shandong",
+    "Integration of Transport and Tourism",
+    "Tourist Roads"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260604-xinhua_sd-7bf86d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sd",
+      "source_tier": 3,
+      "url": "http://sd.people.com.cn/n2/2026/0604/c166192-41600811.html",
+      "title_zh": "山东力争2028年底累计推出50条以上精品旅游公路",
+      "published_at": "2026-06-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

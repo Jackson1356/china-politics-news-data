@@ -1,0 +1,93 @@
+{
+  "id": "20260809-gov_chang_chun-e674ed",
+  "source": "gov_chang_chun",
+  "source_name_zh": "长春市政府网",
+  "source_name_en": "长春 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_chun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JL",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.changchun.gov.cn/szf/zfld/szx/gg/zyhd/202608/t20260809_3505119.html",
+  "title_zh": "长春市政府召开常务会议",
+  "title_en": "Changchun Municipal Government Holds Executive Meeting",
+  "summary_zh": "8月7日，长春市市长顾刚主持召开市政府常务会议，讨论并原则通过上半年经济和社会发展计划执行情况报告，部署经济稳增长、财政管理、民生服务等工作。",
+  "summary_en": "On August 7, Changchun Mayor Gu Gang chaired a municipal government executive meeting to discuss and approve the report on the execution of the 2026 economic and social development plan in the first half of the year, and deployed work on stabilizing economic growth, fiscal management, and livelihood services.",
+  "body_zh": "市政府召开常务会议\n8月7日，市委副书记、市长顾刚主持召开市政府常务会议，讨论并原则通过《长春市人民政府关于2026年国民经济和社会发展计划上半年执行情况及下半年主要工作安排的报告》等文件，围绕经济稳增长、财政管理、要素保障、安全建设、民生服务等重点工作作出部署。\n会议指出，当前我市正处于稳增长攻坚阶段，要坚定发展信心，增强时不我待的紧迫感，推动政策聚焦发力、工作加倍努力、各方面齐心协力。坚持存量提质与增量培育互促共进，围绕科技创新和新质生产力，有效推动一二三产稳中向好、扩容增效。充分发挥项目建设的支撑性和带动性作用，围绕“3转4强7新”现代化产业体系建设，细化找准赛道，强化链式精准招商培育新动能。积极回应企业关切，实打实帮助解决问题，提振社会预期，汇聚政企合力，坚决确保经济稳增长。\n要从严抓好财政收支管理，强化零基预算、刚性预算执行。压紧压实财政部门管理责任，严密防范债务风险。\n要规范用好土地储备专项债券，围绕保障重点项目、化解历史遗留问题等领域，科学统筹安排投向，审慎稳妥推进相关工作，提升债券使用效益。\n要推进老年人意定监护制度落地，用心用情保障群众权益。做好政策宣传解读，合理配置养老资源，健全完善配套服务，真正把民生实事办好办实。\n会议还研究了其他事项。\n长春市人民政府 www.changchun.gov.cn\n时间：2026-08-09 08:02",
+  "image_url": null,
+  "published_at": "2026-08-09T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "economy",
+  "keywords": [
+    "经济稳增长",
+    "财政管理",
+    "民生服务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-gang-hainan",
+      "name_zh": "顾刚",
+      "name_en": "Gu Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济稳增长",
+      "name_en": "Economic Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政管理",
+      "name_en": "Fiscal Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生服务",
+      "name_en": "Livelihood Services"
+    }
+  ],
+  "tags_zh": [
+    "顾刚",
+    "长春",
+    "经济稳增长",
+    "财政管理",
+    "民生服务"
+  ],
+  "tags_en": [
+    "Gu Gang",
+    "Changchun",
+    "Economic Stability",
+    "Fiscal Management",
+    "Livelihood Services"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-gang-hainan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260809-gov_chang_chun-e674ed",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

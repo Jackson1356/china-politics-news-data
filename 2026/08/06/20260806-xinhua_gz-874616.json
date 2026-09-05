@@ -1,0 +1,141 @@
+{
+  "id": "20260806-xinhua_gz-874616",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260806/51b7de29218746c1ae02adcf7f4e780a/c.html",
+  "title_zh": "徐麟李炳军会见中国工商银行行长刘珺一行",
+  "title_en": "Xu Lin and Li Bingjun Meet with ICBC President Liu Jun",
+  "summary_zh": "8月5日，贵州省委书记徐麟、省长李炳军在贵阳会见中国工商银行行长刘珺一行，双方就金融支持贵州高质量发展等合作交流。",
+  "summary_en": "On August 5, Guizhou Party Secretary Xu Lin and Governor Li Bingjun met with ICBC President Liu Jun in Guiyang to discuss financial support for Guizhou's high-quality development.",
+  "body_zh": "8月5日，省委书记徐麟，省委副书记、省长李炳军在贵阳会见中国工商银行党委副书记、行长刘珺一行。省领导郭强、胡广杰、石化清参加。\n徐麟、李炳军向刘珺一行表示欢迎和感谢。他们说，当前全省上下正深入贯彻落实习近平总书记考察贵州重要讲话精神和党中央决策部署，大力实施强化比较优势战略，坚定不移围绕“四新”主攻“四化”，奋力在中国式现代化进程中展现贵州新风采。希望中国工商银行一如既往关心支持贵州，以高质量金融服务助力贵州高质量发展，实现更高水平互利共赢。\n刘珺感谢贵州省对中国工商银行的关心支持。他说，近年来贵州发展成效显著、令人振奋。中国工商银行将深入学习贯彻习近平总书记关于金融工作的重要论述，持续加大对贵州经济社会发展的支持力度，助力打造重点产业、巩固壮大实体经济根基，为贵州高质量发展和现代化建设提供更有力金融支撑。\n中国工商银行和省有关部门负责同志参加。（记者 曾书慧）",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "economy",
+  "keywords": [
+    "金融服务",
+    "实体经济",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-lin",
+      "name_zh": "徐麟",
+      "name_en": "Xu Lin"
+    },
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘珺",
+      "name_en": "Liu Jun"
+    },
+    {
+      "kind": "institution",
+      "id": "ICBC",
+      "name_zh": "中国工商银行",
+      "name_en": "ICBC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务",
+      "name_en": "Financial Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "hu-guangjie",
+      "name_zh": "胡广杰",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "guo-qiang-guizhou",
+      "name_zh": "郭强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "徐麟",
+    "李炳军",
+    "刘珺",
+    "中国工商银行",
+    "贵阳",
+    "金融服务",
+    "实体经济",
+    "高质量发展",
+    "胡广杰",
+    "郭强"
+  ],
+  "tags_en": [
+    "Xu Lin",
+    "Li Bingjun",
+    "Liu Jun",
+    "ICBC",
+    "Guiyang",
+    "Financial Services",
+    "Real Economy",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-guangjie",
+      "li-bingjun",
+      "guo-qiang-guizhou",
+      "xu-lin",
+      "xu-lin-guizhou",
+      {
+        "id": null,
+        "name_zh": "石化清"
+      }
+    ],
+    "institutions": [
+      "ICBC"
+    ],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260806-xinhua_gz-874616",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

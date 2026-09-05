@@ -1,0 +1,94 @@
+{
+  "id": "20260815-chinanews_gn-4abed7",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-15/10678093.shtml",
+  "title_zh": "内蒙古自治区人大财政经济委员会主任委员冯玉臻接受审查调查",
+  "title_en": "Feng Yuzhen, Director of Financial and Economic Committee of Inner Mongolia People's Congress, Under Investigation",
+  "summary_zh": "8月15日，据内蒙古自治区纪委监委消息，内蒙古自治区人大财政经济委员会主任委员冯玉臻涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
+  "summary_en": "On August 15, according to the Inner Mongolia Autonomous Region Commission for Discipline Inspection and Supervision, Feng Yuzhen, director of the Financial and Economic Committee of the Regional People's Congress, is suspected of serious disciplinary and legal violations and is under investigation.",
+  "body_zh": "内蒙古自治区人大财政经济委员会主任委员冯玉臻接受审查调查\n中新网8月15日电 据内蒙古自治区纪委监委消息：内蒙古自治区人大财政经济委员会主任委员冯玉臻涉嫌严重违纪违法，目前正接受内蒙古自治区纪委监委纪律审查和监察调查。\n国内新闻精选：\n- 2026年08月14日 18:36:50\n- 2026年08月14日 16:53:39\n- 2026年08月14日 16:18:09\n- 2026年08月14日 14:18:40\n- 2026年08月14日 14:18:36\n- 2026年08月14日 11:07:06\n- 2026年08月14日 08:40:16\n- 2026年08月14日 07:25:11\n- 2026年08月13日 21:58:04\n- 2026年08月13日 21:53:25",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "冯玉臻",
+      "name_en": "Feng Yuzhen"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "内蒙古自治区纪委监委",
+      "name_en": "Inner Mongolia Autonomous Region Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "冯玉臻",
+    "内蒙古自治区纪委监委",
+    "内蒙古",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Feng Yuzhen",
+    "Inner Mongolia Autonomous Region Commission for Discipline Inspection and Supervision",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NM"
+    ],
+    "companies": [
+      {
+        "name_zh": "内蒙古自治区纪委监委",
+        "name_en": "Inner Mongolia Autonomous Region Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260815-chinanews_gn-4abed7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

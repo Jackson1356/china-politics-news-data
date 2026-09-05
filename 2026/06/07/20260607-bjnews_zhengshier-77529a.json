@@ -1,0 +1,79 @@
+{
+  "id": "20260607-bjnews_zhengshier-77529a",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1780794410129990.html",
+  "title_zh": "中央安全生产考核巡查组开展明查暗访",
+  "title_en": "Central Safety Production Inspection Group Conducts Open and Secret Inspections",
+  "summary_zh": "2026年度中央安全生产考核巡查组在江苏、辽宁等地开展明查暗访，发现危化品违规存储等重大隐患，相关部门已启动追责问责。",
+  "summary_en": "The 2026 Central Safety Production Inspection Group conducted inspections in Jiangsu and Liaoning, identifying major hazards such as illegal chemical storage and initiating accountability processes.",
+  "body_zh": "中央考核巡查组现场要求：你把手机拿出来我看看\n近日，2026年度中央安全生产考核巡查季度明查暗访工作启动，各考核巡查组聚焦消防、危化品生产领域安全生产工作，分赴各地开展明查暗访。\n在针对危化品等高危行业领域的明查暗访中，考核巡查组发现部分企业的危化品存在违规超量、超品种存放，一些危化品企业员工甚至缺乏基本的操作安全意识。\n在江苏恩华药业股份有限公司，考核巡查组发现，厂房车间里堆放的丁酮、正庚烷等危险化学品均不在设计存储范围内，属于超品种储存危险化学品，且该车间内的一款产品生产线，未经安全设计便开展建设，属于重大事故隐患。\n在辽宁锦州锦晖石油化工储运有限公司，考核巡查组检查时发现，工作人员在丙烯泵房这类易燃易爆空间里作业时，竟然违规携带了自己的非防爆手机进入。\n中央安全生产考核巡查组专家现场要求工作人员，“你把手机拿出来我看看。”“非防爆的啊！”\n这名工作人员说，“我有个防爆手机，我没拿。”\n专家表示，非防爆手机是禁止带入这类防爆区域的。\n针对危化品行业领域明查暗访发现的各类问题隐患，考核巡查组已第一时间反馈当地，目前，有关地区已部署落实整改，并对问题突出的部门单位同步启动追责问责。",
+  "image_url": null,
+  "published_at": "2026-06-07T09:07:48+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "危化品监管"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Safety Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "危化品监管",
+      "name_en": "Hazardous Chemicals Regulation"
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "辽宁",
+    "安全生产",
+    "危化品监管"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Liaoning",
+    "Safety Production",
+    "Hazardous Chemicals Regulation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260607-bjnews_zhengshier-77529a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

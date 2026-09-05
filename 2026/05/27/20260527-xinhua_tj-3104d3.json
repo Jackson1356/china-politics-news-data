@@ -1,0 +1,125 @@
+{
+  "id": "20260527-xinhua_tj-3104d3",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260528/21e7695b534c46d48999c2a7a1f9ed36/c.html",
+  "title_zh": "天津举行战略合作协议和项目签约活动",
+  "title_en": "Tianjin Holds Strategic Cooperation Agreement and Project Signing Event",
+  "summary_zh": "5月27日，天津市人民政府与中国联通、中国移动等机构签署战略合作协议，市委书记陈敏尔、市长张工出席并见证签约。",
+  "summary_en": "On May 27, the Tianjin Municipal People's Government signed strategic cooperation agreements with China Unicom, China Mobile, and other organizations, witnessed by Party Secretary Chen Min'er and Mayor Zhang Gong.",
+  "body_zh": "我市举行战略合作协议和项目签约活动\n陈敏尔张工出席并见证签约 刘桂平参加有关活动\n5月27日，2026世界智能产业博览会即将召开之际，我市举行战略合作协议和项目签约活动。天津市人民政府与中国联合网络通信集团有限公司、中国移动通信集团有限公司、中国汽车技术研究中心有限公司、中国检验认证（集团）有限公司分别签署战略合作协议。市委书记陈敏尔，市委副书记、市长张工出席并见证签约。\n根据协议，我市将与中国联通协同推进新型基础设施建设、人工智能发展、数据要素赋能、数据安全管理，与中国移动围绕科创生态、数字经济、民生服务、城市治理、乡村振兴等领域深化合作，与中汽中心共同打造智能网联新能源汽车科技创新平台、检测认证公共服务平台，与中国中检加强在检验检测、口岸建设、绿色低碳、城市安全、人才培养等方面合作。天津港保税区还与联想（北京）有限公司签署投资合作框架协议。\n同日，我市还举行了2026世界智能产业博览会重点项目签约活动，85个项目现场签约。张工、市委副书记刘桂平出席并见证签约。\n中国移动董事长陈忠岳，中国联通总经理简勤，中汽中心董事长安铁成、总经理龚进峰，中国中检董事长许增德、总经理李永吉，联想集团执行副总裁、中国区总裁刘军，市领导连茂君、王力军、翟立新，天津大学校长柴立元，市政府秘书长和市有关部门、区负责同志参加。（记者 于春沣 周志强 刘国栋 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-27",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "战略合作",
+    "智能产业",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-miner",
+      "name_zh": "陈敏尔",
+      "name_en": "Chen Min'er"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "institution",
+      "id": "CHINA-UNICOM",
+      "name_zh": "中国联合网络通信集团有限公司",
+      "name_en": "China Unicom"
+    },
+    {
+      "kind": "institution",
+      "id": "CHINA-MOBILE",
+      "name_zh": "中国移动通信集团有限公司",
+      "name_en": "China Mobile"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能产业",
+      "name_en": "Intelligent Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "person",
+      "id": "liu-guiping",
+      "name_zh": "刘桂平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈敏尔",
+    "张工",
+    "中国联合网络通信集团有限公司",
+    "中国移动通信集团有限公司",
+    "天津",
+    "战略合作",
+    "智能产业",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Chen Min'er",
+    "Zhang Gong",
+    "China Unicom",
+    "China Mobile",
+    "Tianjin",
+    "Strategic Cooperation",
+    "Intelligent Industry",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      "chen-min-jiangxi",
+      "liu-guiping",
+      "chen-miner"
+    ],
+    "institutions": [
+      "CHINA-UNICOM",
+      "CHINA-MOBILE"
+    ],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260527-xinhua_tj-3104d3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "20260626-bjnews_zhengshier-3192e0",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1782473740129847.html",
+  "title_zh": "王忠林不再担任湖北省委书记",
+  "title_en": "Wang Zhonglin No Longer Serves as Hubei Provincial Party Secretary",
+  "summary_zh": "中共中央决定，关志鸥任湖北省委书记，王忠林不再担任湖北省委书记等职务，另有任用。",
+  "summary_en": "The CPC Central Committee decided that Guan Zhiou will serve as the Hubei Provincial Party Secretary, while Wang Zhonglin will step down from the post for another appointment.",
+  "body_zh": "王忠林，新职明确\n据新华社5月30日消息，日前，中共中央决定：关志鸥同志任湖北省委委员、常委、书记；王忠林同志不再担任湖北省委书记、常委、委员职务，另有任用。\n公开简历显示，王忠林，男，汉族，1962年8月出生，山东费县人，在职研究生、管理学博士，1984年6月加入中国共产党，1984年7月参加工作。二十届中央委员。\n王忠林2021年5月任湖北省省长，2024年12月任湖北省委书记，至今年5月卸任。",
+  "image_url": null,
+  "published_at": "2026-06-26T19:43:25+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-zhonglin-hubei",
+      "name_zh": "王忠林",
+      "name_en": "Wang Zhonglin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "王忠林",
+    "中共中央",
+    "湖北",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Wang Zhonglin",
+    "CPC Central Committee",
+    "Hubei",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-zhonglin-hubei"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260626-bjnews_zhengshier-3192e0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

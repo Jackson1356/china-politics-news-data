@@ -1,0 +1,105 @@
+{
+  "id": "20260803-beijing_daily-b700bc",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/03/11898885.shtml",
+  "title_zh": "包钢板材厂爆炸事故调查报告公布：62人被追责问责，包头市党委、政府和包钢集团分别向内蒙古自治区党委、政府作出书面检查",
+  "title_en": "Baotou Steel Plate Plant Explosion Investigation Report Released: 62 Held Accountable, Baotou Party Committee, Government and Baotou Steel Group Submit Written Checks",
+  "summary_zh": "2026年1月18日，内蒙古包钢稀土钢板材厂发生爆炸致10死84伤。8月2日公布调查报告，认定为重大生产安全责任事故，对62名相关人员追责问责。",
+  "summary_en": "On January 18, 2026, an explosion at the Inner Mongolia Baotou Steel Rare Earth Plate Plant killed 10 and injured 84. On August 2, the investigation report was released, classifying it as a major production safety responsibility accident and holding 62 people accountable.",
+  "body_zh": "今年1月18日15时，内蒙古包钢稀土钢板材厂发生爆炸。（此前报道）\n8月2日，内蒙古自治区应急管理厅网站发布《内蒙古包头包钢稀土钢板材有限责任公司“1·18”重大容器爆炸事故调查报告》（以下简称《调查报告》）。\n《调查报告》显示，2026年1月18日15时01分许，包头市昆都仑区内蒙古包钢稀土钢板材有限责任公司稀土钢板材厂发生爆炸，造成10人死亡、84人受伤，直接经济损失6723万元。该事故为重大生产安全责任事故，对62名相关人员追责问责。\n经调查认定，该起事故是一起由于内蒙古包钢稀土钢板材有限责任公司稀土钢板材厂饱和水蒸汽球罐内壁腐蚀损伤穿透壁厚导致泄漏，设计先天不足，制造存在缺陷，检验检测不规范，日常维护保养不到位、安全管理混乱、现场处置不当，包头市和昆都仑区两级党委、政府及有关部门履职不力造成的重大容器爆炸生产安全责任事故。\n《调查报告》介绍，因涉嫌犯罪，板材厂7名人员已被包头市昆都仑区检察院批准逮捕，建议对事故相关6名人员移送司法机关调查。21名公职人员被追责问责。\n对包钢集团及其所属企业、事故相关单位，包头市和昆都仑区两级党委、政府、市场监督管理局、应急管理局，自治区市场监督管理局、应急管理厅、国资委有关人员给予相应行政处罚、党纪政务处分、组织处理。\n对包钢钢联、京诚科林、鞍山华信、包头特检院等4家单位给予行政处罚；昆都仑区党委、政府分别向包头市党委、政府作出书面检查；包头市党委、政府和包钢集团分别向自治区党委、政府作出书面检查。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "事故调查",
+    "责任追究"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "内蒙古自治区应急管理厅",
+      "name_en": "Emergency Management Department of Inner Mongolia Autonomous Region"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-BT",
+      "name_zh": "包头",
+      "name_en": "Baotou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "事故调查",
+      "name_en": "Accident Investigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "责任追究",
+      "name_en": "Accountability"
+    },
+    {
+      "kind": "person",
+      "id": "bao-gang",
+      "name_zh": "包钢",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "内蒙古自治区应急管理厅",
+    "包头",
+    "安全生产",
+    "事故调查",
+    "责任追究",
+    "包钢"
+  ],
+  "tags_en": [
+    "Emergency Management Department of Inner Mongolia Autonomous Region",
+    "Baotou",
+    "Work Safety",
+    "Accident Investigation",
+    "Accountability"
+  ],
+  "entities": {
+    "politicians": [
+      "bao-gang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-BT"
+    ],
+    "companies": [
+      {
+        "name_zh": "内蒙古自治区应急管理厅",
+        "name_en": "Emergency Management Department of Inner Mongolia Autonomous Region"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260803-beijing_daily-b700bc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

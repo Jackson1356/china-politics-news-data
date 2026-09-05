@@ -1,0 +1,105 @@
+{
+  "id": "20260902-gov_zi_bo-1db039",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/9/2/art_14322_3018624.html",
+  "title_zh": "省领导出席第30届鲁台经贸洽谈会相关活动",
+  "title_en": "Provincial Leaders Attend Events of the 30th Shandong-Taiwan Economic and Trade Fair",
+  "summary_zh": "8月31日至9月1日，山东省委常委、统战部部长邓云锋和副省长孙喜民在潍坊出席第30届鲁台经贸洽谈会相关活动，包括两岸智能制造产业合作对接会和两岸绿色化工产业合作推进会。",
+  "summary_en": "From August 31 to September 1, Deng Yunfeng, member of the Standing Committee of the Shandong Provincial Party Committee and head of the United Front Work Department, and Vice Governor Sun Ximin attended events of the 30th Shandong-Taiwan Economic and Trade Fair in Weifang, including cross-strait smart manufacturing and green chemical industry cooperation meetings.",
+  "body_zh": "省领导出席第30届鲁台经贸洽谈会相关活动\n8月31日至9月1日，省领导邓云锋、孙喜民出席第30届鲁台经贸洽谈会相关活动。\n9月1日上午，两岸智能制造产业合作对接会在潍坊举行。两岸企业家峰会大陆方面副理事长张平，两岸企业家峰会台湾方面副理事长毛治国，省委常委、统战部部长邓云锋出席。\n8月31日下午，两岸绿色化工产业合作推进会在潍坊举行，两岸企业家峰会大陆方面副理事长张平、两岸企业家峰会台湾方面副理事长毛治国、副省长孙喜民出席。\n作为化工产业大省，山东将聚焦绿色化工、低碳环保等重点领域，搭建更多精准对接平台，畅通交流合作渠道，助力更多项目落地投产，推动鲁台经贸合作提质升级。（记者 董方舟）",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "economy",
+  "keywords": [
+    "鲁台经贸合作",
+    "智能制造",
+    "绿色化工"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "deng-yunfeng",
+      "name_zh": "邓云锋",
+      "name_en": "Deng Yunfeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孙喜民",
+      "name_en": "Sun Ximin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WF",
+      "name_zh": "潍坊",
+      "name_en": "Weifang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "鲁台经贸合作",
+      "name_en": "Shandong-Taiwan Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能制造",
+      "name_en": "Smart Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色化工",
+      "name_en": "Green Chemical Industry"
+    }
+  ],
+  "tags_zh": [
+    "邓云锋",
+    "孙喜民",
+    "潍坊",
+    "鲁台经贸合作",
+    "智能制造",
+    "绿色化工"
+  ],
+  "tags_en": [
+    "Deng Yunfeng",
+    "Sun Ximin",
+    "Weifang",
+    "Shandong-Taiwan Economic and Trade Cooperation",
+    "Smart Manufacturing",
+    "Green Chemical Industry"
+  ],
+  "entities": {
+    "politicians": [
+      "deng-yunfeng",
+      {
+        "id": null,
+        "name_zh": "孙喜民"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260902-gov_zi_bo-1db039",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

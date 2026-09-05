@@ -1,0 +1,97 @@
+{
+  "id": "20260603-cpcnews-3028de",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0603/c64094-40732870.html",
+  "title_zh": "韩正会见英国外交大臣库珀",
+  "title_en": "Han Zheng Meets UK Foreign Secretary David Cooper",
+  "summary_zh": "6月2日，国家副主席韩正在北京会见英国外交大臣库珀，双方就发展中英全面战略伙伴关系、加强战略沟通及共同应对全球挑战进行交流。",
+  "summary_en": "On June 2, Vice President Han Zheng met with UK Foreign Secretary David Cooper in Beijing to discuss developing a comprehensive strategic partnership and strengthening bilateral communication.",
+  "body_zh": "新华社北京6月2日电 6月2日，国家副主席韩正在北京会见英国外交大臣库珀。\n韩正表示，今年1月，习近平主席同斯塔默首相一致同意发展中英长期稳定的全面战略伙伴关系，开启两国关系新篇章。中英关系改善发展符合两国人民利益。双方要携手承担大国责任，加强战略沟通，巩固双边关系良好势头，不断挖掘新机遇，孕育新动能，促进人文交流和民心相通。共同践行真正的多边主义，携手推进全球治理体系改革，为世界注入更多稳定性和确定性。\n库珀表示，英中在经贸投资、人工智能、绿色发展、应对气变等领域拥有广泛共同利益和合作潜力。英方愿同中方推进落实两国领导人达成的重要共识，开展建设性对话和合作，共同应对挑战。\n《 人民日报 》（ 2026年06月03日 01 版）",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "foreign",
+  "keywords": [
+    "中英关系",
+    "全面战略伙伴关系",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "库珀",
+      "name_en": "David Cooper"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中英关系",
+      "name_en": "China-UK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "库珀",
+    "北京",
+    "中英关系",
+    "全面战略伙伴关系",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "David Cooper",
+    "Beijing",
+    "China-UK Relations",
+    "Comprehensive Strategic Partnership",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260603-cpcnews-3028de",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260605-xinhua_sc-654595",
+  "source": "xinhua_sc",
+  "source_name_zh": "新华网 四川",
+  "source_name_en": "Xinhua Sichuan",
+  "source_url": "http://sc.news.cn/20260605/157ebc23da044ebfab385902b02e11fe/c.html",
+  "title_zh": "中国电建四川院揭牌成立电力工程应急救援技术支撑队",
+  "title_en": "PowerChina Sichuan Institute Establishes Power Engineering Emergency Rescue Technical Support Team",
+  "summary_zh": "6月5日，中国电建四川院在成都成立电力工程应急救援技术支撑队，旨在为西部地区电力突发事件提供专业技术保障。",
+  "summary_en": "On June 5, PowerChina Sichuan Institute established a Power Engineering Emergency Rescue Technical Support Team in Chengdu to provide professional technical support for power emergencies in Western China.",
+  "body_zh": "新华网成都6月5日电（记者杨进）6月5日，中国电建四川院电力工程应急救援技术支撑队在成都正式揭牌成立。据介绍，该队伍优选40名跨领域技术骨干组建，以技术研判、抢险方案编制为核心，全面承担各类自然灾害诱发电力突发事件的应急技术保障任务，有效地补充了西部地区专业化电网应急技术救援力量。\n四川地质条件复杂，地震、滑坡、洪涝等灾害多发，区域电网设施分布广、多处高危地带，灾后抢险急需综合化专业技术支撑。依托中国电建四川院在遥感测绘、地质勘察、水文研判、电力工程全链条技术积淀，队伍除统筹电网灾损勘查、损毁评估、抢修设计、灾后电网重建规划外，还可跨领域为交通、自然资源等行业突发事件处置提供全套技术支撑。\n中国电建四川院勘测工程公司副总经理、救援队员林志鹏介绍，队员原先分散在各技术业务板块，集中整编为专职应急队伍后，实现人员、装备统一调度管理，聚力做强西部标志性电网应急技术保障力量。\n区别于传统实操救援队伍，这支队伍主打全维度技术支撑，配备无人机航测、激光雷达、地质勘探设备、无人船等先进应急装备，凭借海量工程技术数据与行业实战经验，精准研判灾情、科学拟定抢险处置方案，有效提升全域灾害抢险科学化水平。\n队伍划设七大专业作业组，搭建前后方双梯队应急出动机制。据介绍，下一步，救援队将持续更新升级应急装备、常态化开展综合应急演练，主动对接省市各级应急主管部门，充分发挥西部首支电网应急技术支撑队伍优势，筑牢四川乃至西部地区防灾减灾技术屏障。（完）",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "电力应急救援",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国电建四川院",
+      "name_en": "PowerChina Sichuan Institute"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力应急救援",
+      "name_en": "Power Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    }
+  ],
+  "tags_zh": [
+    "中国电建四川院",
+    "成都",
+    "四川",
+    "电力应急救援",
+    "防灾减灾"
+  ],
+  "tags_en": [
+    "PowerChina Sichuan Institute",
+    "Chengdu",
+    "Sichuan",
+    "Power Emergency Rescue",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "林志鹏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国电建四川院",
+        "name_en": "PowerChina Sichuan Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260605-xinhua_sc-654595",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

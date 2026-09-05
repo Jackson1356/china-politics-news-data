@@ -1,0 +1,82 @@
+{
+  "id": "20260729-beijing_daily-78dadf",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/07/29/11891105.shtml",
+  "title_zh": "商务部就美国防部将部分中国科研机构列入制裁清单答记者问",
+  "title_en": "Chinese Commerce Ministry Responds to US Defense Department Sanctions on Chinese Research Institutes",
+  "summary_zh": "7月29日，商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单表示强烈不满和坚决反对。",
+  "summary_en": "On July 29, the spokesperson of China's Ministry of Commerce expressed strong dissatisfaction and firm opposition to the US Department of Defense's inclusion of some Chinese research institutions on a sanctions list.",
+  "body_zh": "据商务部网站7月29日消息，7月29日，商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问。\n答：我们注意到这一情况。中方对此强烈不满、坚决反对。\n美方不断泛化国家安全概念，人为设置歧视性壁垒，将科研合作政治化、武器化、工具化，阻碍中美科研领域交流合作，这与全球科技创新合作大势背道而驰。\n中方敦促美方停止对中国科研机构无端抹黑，尽快纠正错误做法，为中国科研机构提供公平、公正、非歧视待遇。中方将采取必要措施，维护中方科研机构的正当合法权益，为正常科技交流合作保驾护航。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "科技制裁"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技制裁",
+      "name_en": "Technology Sanctions"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中美关系",
+    "科技制裁"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "China-US Relations",
+    "Technology Sanctions"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260729-beijing_daily-78dadf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "http://world.gmw.cn/2026-07/29/content_38914245.htm",
+      "title_zh": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

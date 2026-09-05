@@ -1,0 +1,102 @@
+{
+  "id": "20260813-gov_ying_kou-3b7966",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001001/20260813/d52fa8cb-f056-4312-a697-80032ce215e6.html",
+  "title_zh": "李军对仙人岛经开区危化品生产企业开展实名制安全包保",
+  "title_en": "Li Jun Inspects Chemical Firm under Named Safety Responsibility System",
+  "summary_zh": "8月12日，营口市长李军到仙人岛经开区中海沥青公司检查危化品安全生产，落实实名制包保制度。",
+  "summary_en": "On August 12, Li Jun, Mayor of Yingkou, inspected CNOOC Bitumen Co. in Xianrendao Economic Development Zone to enforce hazardous chemical safety and the named responsibility system.",
+  "body_zh": "8月12日，市委副书记、市长李军到仙人岛经开区中海沥青（营口）有限责任公司落实市级党政领导班子实名制包保危化品生产企业制度。他强调，要深入贯彻落实习近平总书记关于安全生产的重要论述，全面落实国家、省安全生产治本攻坚三年行动部署要求，聚焦危化品行业高风险特点，层层压实安全生产主体责任，坚决守住安全生产底线。\n李军一行规范穿戴安全防护装备并佩戴定位卡进入生产厂区，详细听取企业安全生产主体责任落实、隐患排查整治、全员安全培训等工作汇报。\n李军强调，企业要压实主体责任，健全从管理层、班组到一线员工的全链条安全责任体系，细化岗位安全职责、明确分工清单。要抓实全员培训，提升处置能力，让每名员工熟练掌握风险辨识、隐患处置、应急逃生技能。要强化现场管控，严格落实厂区标准化管理，全面完善生产区域硬隔离设施，细化人员、车辆出入闭环管控机制，严控外来风险输入。同时，企业要健全内部隐患自查自纠机制，充分调动一线员工积极性，鼓励全员主动排查、主动上报安全隐患。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "危化品",
+    "实名制包保"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李军",
+      "name_en": "Li Jun"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "仙人岛经开区",
+      "name_en": "Xianrendao Economic Development Zone"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Production Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "危化品",
+      "name_en": "Hazardous Chemicals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实名制包保",
+      "name_en": "Named Responsibility System"
+    }
+  ],
+  "tags_zh": [
+    "李军",
+    "仙人岛经开区",
+    "安全生产",
+    "危化品",
+    "实名制包保"
+  ],
+  "tags_en": [
+    "Li Jun",
+    "Xianrendao Economic Development Zone",
+    "Production Safety",
+    "Hazardous Chemicals",
+    "Named Responsibility System"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李军"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260813-gov_ying_kou-3b7966",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001008/20260813/33218908-1b6a-4ff8-aad6-54c05989359e.html",
+      "title_zh": "李军对仙人岛经开区危化品生产企业开展实名制安全包保",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

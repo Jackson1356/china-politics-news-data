@@ -1,0 +1,102 @@
+{
+  "id": "20260820-gov_cn_yaowen-77ac51",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078740.htm",
+  "title_zh": "韩国总统李在明会见王毅",
+  "title_en": "ROK President Lee Jae-myung Meets with Wang Yi",
+  "summary_zh": "8月20日，韩国总统李在明在首尔青瓦台会见中共中央政治局委员、外交部长王毅。",
+  "summary_en": "South Korean President Lee Jae-myung met with Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, at the Blue House in Seoul on Aug 20.",
+  "body_zh": "新华社首尔8月20日电（记者张粲 黄昕欣）韩国总统李在明20日在首尔青瓦台会见中共中央政治局委员、外交部长王毅。\n李在明表示，我今年1月访华时得到习近平主席热情接待，请转达对习近平主席的感谢和诚挚问候。很高兴看到当前韩中关系正在快速改善和发展。两国经贸合作增长势头强劲，今年国民互访有望突破1千万人次，韩国民众对华认知不断改善，对同中国加强全面合作充满期待。当前国际形势下，韩中两国在经贸、安全等领域都相互需要，韩中加强战略合作，符合两国根本利益，对维护地区和平稳定也很重要。韩中应该成为相互依赖、互惠互补的伙伴。我期待今年11月赴深圳参加亚太经合组织领导人非正式会议，以此为重要契机，同中方一道推动韩中战略合作伙伴关系向更高水平发展。\n访问期间，王毅同韩国外长赵显举行会谈，并与韩国国家安保室长魏圣洛进行了战略对话。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "中韩关系",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李在明",
+      "name_en": "Lee Jae-myung"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "首尔",
+      "name_en": "Seoul"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中韩关系",
+      "name_en": "China-ROK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "李在明",
+    "王毅",
+    "首尔",
+    "中韩关系",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Lee Jae-myung",
+    "Wang Yi",
+    "Seoul",
+    "China-ROK Relations",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "李在明"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260820-gov_cn_yaowen-77ac51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0821/c64094-40783656.html",
+      "title_zh": "韩国总统李在明会见王毅",
+      "published_at": "2026-08-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

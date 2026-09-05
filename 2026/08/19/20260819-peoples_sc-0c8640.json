@@ -1,0 +1,83 @@
+{
+  "id": "20260819-peoples_sc-0c8640",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sc.people.com.cn/n2/2026/0819/c345167-41671261.html",
+  "title_zh": "川企发布机器人任务执行系统",
+  "title_en": "Sichuan Enterprise Releases Robot Task Execution System",
+  "summary_zh": "8月17日，成都人形机器人创新中心发布全球首个复杂语言指令集全自主超长视野机器人任务执行系统，实现自主决策规划，完成长时序任务。",
+  "summary_en": "On August 17, the Chengdu Humanoid Robot Innovation Center released the world's first fully autonomous long-horizon task execution system for complex language instructions, enabling autonomous decision-making and long-sequence task completion.",
+  "body_zh": "川企发布机器人任务执行系统\n可实现自主决策规划，完成长时序任务\n建立了从任务理解到技能选择再到动作执行的完整闭环\n搭载该系统的人形机器人在接收单一复杂指令后，全程自主、稳定执行\n相关技术已取得国家知识产权局发明专利授权\n机器人能否根据人的语言自主决策？这个梦想有望成真。8月17日，成都人形机器人创新中心发布全球首个复杂语言指令集全自主（无遥控）超长视野机器人任务执行系统。这有望让机器人摆脱实验室的“预设摆拍”或“遥控操作”，走进复杂多变的真实场景。据悉，相关技术已取得国家知识产权局发明专利授权。\n人形机器人走出实验室，关键是要摆脱预设环节、任务和动作，学会对复杂环境进行自己理解、自己规划、自己执行。但通常，人形机器人在真实世界中会受到观测不完备、环境动力学未知、任务语义歧义、接触状态突变以及执行器误差累积等因素影响。\n成都人形机器人创新中心首发的这套任务执行系统，将世界模型、VLA等一系列当下流行的技术方案纳入统一的框架之中。该架构将Agent-MCP-Skills分层认知决策体系与世界模型深度融合，建立起从任务理解、资源调度、技能复用到物理感知与预测的完整闭环。\n在演示视频中，搭载该系统的“成都造”人形机器人“贡嘎一号”在接收单一复杂指令后，全程自主、稳定执行，按顺序依次完成三项子任务。全程无遥控、无摆拍，真实展现机器人的全自主作业能力。在成都人形机器人创新中心有关负责人看来，其核心价值不在于堆叠了多少模型，而在于建立了从任务理解到技能选择再到动作执行的完整闭环——解决真实世界中的问题，让机器人真正具备了在陌生环境中自主完成长时序任务的能力。（四川日报全媒体记者 王成栋）",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "industry",
+  "keywords": [
+    "人形机器人",
+    "自主决策",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC-CD",
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人形机器人",
+      "name_en": "Humanoid Robot"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自主决策",
+      "name_en": "Autonomous Decision-making"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "成都",
+    "人形机器人",
+    "自主决策",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Chengdu",
+    "Humanoid Robot",
+    "Autonomous Decision-making",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC-CD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-peoples_sc-0c8640",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

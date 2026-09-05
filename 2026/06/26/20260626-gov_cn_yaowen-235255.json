@@ -1,0 +1,126 @@
+{
+  "id": "20260626-gov_cn_yaowen-235255",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/26/VIDE5wbCaWX1q51xHiGIElwI260626.shtml",
+  "title_zh": "李强会见柬埔寨人民党主席、参议院主席洪森",
+  "title_en": "Li Qiang Meets with Hun Sen, President of the Cambodian People's Party and President of the Senate",
+  "summary_zh": "6月26日下午，国务院总理李强在北京会见柬埔寨人民党主席、参议院主席洪森，双方探讨深化中柬政治互信及各领域务实合作。",
+  "summary_en": "On June 26, Premier Li Qiang met with Hun Sen, President of the Cambodian People's Party and President of the Senate, in Beijing to discuss deepening political trust and practical cooperation between China and Cambodia.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：6月26日下午，国务院总理李强在北京人民大会堂会见柬埔寨人民党主席、参议院主席洪森。\n李强表示，今天上午，习近平总书记同洪森主席举行会晤，就进一步深化两国关系做出规划。中方愿同柬方深化政治互信，加强发展战略对接，拓展贸易、基础设施、农业、清洁能源、数字经济、人文等领域交流合作，更好增进两国人民福祉。当前国际形势愈发动荡不安，中柬应当更加坚定团结在一起，携手应对外部风险挑战，捍卫两国共同利益。\n洪森表示，柬中是铁杆朋友，两国关系已进入构建新时代全天候柬中命运共同体的新阶段。柬方感谢中方长期以来为柬提供的宝贵支持与帮助，愿同中方加强各领域务实合作。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "中柬关系",
+    "务实合作",
+    "命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "洪森",
+      "name_en": "Hun Sen"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中柬关系",
+      "name_en": "China-Cambodia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "洪森",
+    "国务院",
+    "北京",
+    "中柬关系",
+    "务实合作",
+    "命运共同体"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Hun Sen",
+    "State Council",
+    "Beijing",
+    "China-Cambodia Relations",
+    "Practical Cooperation",
+    "Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "洪森"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260626-gov_cn_yaowen-235255",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073449.htm",
+      "title_zh": "李强会见柬埔寨人民党主席、参议院主席洪森",
+      "published_at": "2026-06-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "20260525-chinanews_gn-c2948a",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/05-25/10627816.shtml",
+  "title_zh": "神舟二十三号载人飞船与空间站组合体完成自主快速交会对接",
+  "title_en": "Shenzhou-23 Spacecraft Completes Autonomous Fast Rendezvous and Docking with Space Station",
+  "summary_zh": "2026年5月25日，神舟二十三号载人飞船成功对接于空间站天和核心舱径向端口，3名航天员随后将进入空间站。",
+  "summary_en": "On May 25, 2026, the Shenzhou-23 spacecraft successfully docked with the radial port of the Tianhe core module of the space station, with three astronauts set to enter.",
+  "body_zh": "神舟二十三号载人飞船与空间站组合体完成自主快速交会对接\n中新网甘肃酒泉5月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，神舟二十三号载人飞船入轨后，于北京时间5月25日2时45分，成功对接于空间站天和核心舱径向端口，整个对接过程历时约3.5小时。\n按任务计划，3名航天员随后将从神舟二十三号载人飞船进入空间站天和核心舱。神舟二十一号航天员乘组已做好迎接神舟二十三号航天员乘组进驻各项准备工作。(完)\n国内新闻精选：\n- 2026年05月25日 17:02:09\n- 2026年05月25日 15:37:43\n- 2026年05月25日 15:36:15\n- 2026年05月25日 15:23:12\n- 2026年05月25日 11:04:24\n- 2026年05月25日 10:17:29\n- 2026年05月25日 10:16:55\n- 2026年05月25日 07:50:32\n- 2026年05月25日 05:51:52\n- 2026年05月25日 01:47:05",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "industry",
+  "keywords": [
+    "载人航天",
+    "空间站"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Manned Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空间站",
+      "name_en": "Space Station"
+    }
+  ],
+  "tags_zh": [
+    "甘肃",
+    "载人航天",
+    "空间站"
+  ],
+  "tags_en": [
+    "Gansu",
+    "Manned Spaceflight",
+    "Space Station"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260525-chinanews_gn-c2948a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/05-25/10627820.shtml",
+      "title_zh": "神舟二十三号航天员乘组顺利进驻“天宫” 中国航天员完成第8次“太空会师”",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

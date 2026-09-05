@@ -1,0 +1,102 @@
+{
+  "id": "20260713-xinhua_gd-34ea36",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260713/bcf358750d124097a07d39b95f17209e/c.html",
+  "title_zh": "两部门联合发布红色山洪灾害气象预警",
+  "title_en": "Two Departments Jointly Issue Red Meteorological Warning for Flash Floods",
+  "summary_zh": "水利部和中国气象局于7月12日联合发布红色山洪灾害气象预警，提醒辽宁、吉林、安徽等地做好防汛预警和转移避险工作。",
+  "summary_en": "The Ministry of Water Resources and China Meteorological Administration jointly issued a red flash flood warning on July 12, urging regions like Liaoning, Jilin, and Anhui to take precautions.",
+  "body_zh": "新华社北京7月12日电（记者邹雨沁、魏弘毅）水利部和中国气象局12日18时联合发布红色山洪灾害气象预警。\n预计7月12日20时至13日20时，辽宁东北部、吉林西南部、安徽南部、江西东北部等地部分地区发生山洪灾害可能性大（橙色预警），其中，辽宁东北部、吉林西南部、安徽南部等地部分地区发生山洪灾害可能性很大（红色预警）。其他地区也可能因局地短历时强降水引发山洪灾害。两部门提醒各地注意做好实时监测、防汛预警和转移避险等防范工作。",
+  "image_url": null,
+  "published_at": "2026-07-13T12:00:00+00:00",
+  "event_date": "2026-07-12",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "welfare",
+  "keywords": [
+    "山洪灾害",
+    "气象预警",
+    "防汛"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪灾害",
+      "name_en": "Flash Flood Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气象预警",
+      "name_en": "Meteorological Warning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "中国气象局",
+    "北京",
+    "山洪灾害",
+    "气象预警",
+    "防汛"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "China Meteorological Administration",
+    "Beijing",
+    "Flash Flood Disaster",
+    "Meteorological Warning",
+    "Flood Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260713-xinhua_gd-34ea36",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

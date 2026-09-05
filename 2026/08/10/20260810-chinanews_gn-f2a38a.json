@@ -1,0 +1,93 @@
+{
+  "id": "20260810-chinanews_gn-f2a38a",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-10/10675065.shtml",
+  "title_zh": "国家防总、应急管理部针对湖北、山东启动防汛四级应急响应",
+  "title_en": "National Flood Control Headquarters and Ministry of Emergency Management Initiate Level-IV Emergency Response for Hubei and Shandong",
+  "summary_zh": "受台风“白海豚”影响，国家防总、应急管理部于8月10日8时针对湖北、山东启动防汛四级应急响应。",
+  "summary_en": "Due to Typhoon Baiduhai, the National Flood Control Headquarters and Ministry of Emergency Management initiated a Level-IV flood emergency response for Hubei and Shandong at 8:00 on August 10.",
+  "body_zh": "国家防总、应急管理部针对湖北、山东启动防汛四级应急响应\n据气象部门预报，8月10日至13日，受台风“白海豚”影响，湖北中北部、山东等地有暴雨或大暴雨，局地有特大暴雨，山洪和地质灾害、中小河流洪水等风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月10日8时针对湖北、山东启动防汛四级应急响应。\n(总台央视记者 唐国荣)\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年08月09日 21:12:04\n- 2026年08月09日 19:19:07\n- 2026年08月09日 16:14:36\n- 2026年08月09日 14:30:39\n- 2026年08月09日 07:11:46\n- 2026年08月08日 20:12:26\n- 2026年08月08日 17:05:58\n- 2026年08月08日 13:46:41\n- 2026年08月08日 13:15:44\n- 2026年08月08日 08:50:25",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "湖北",
+    "山东",
+    "防汛救灾",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Hubei",
+    "Shandong",
+    "Flood Control and Disaster Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HB",
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260810-chinanews_gn-f2a38a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

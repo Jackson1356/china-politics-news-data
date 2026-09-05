@@ -1,0 +1,126 @@
+{
+  "id": "20260821-local_si_chuan_zai_xian_cn_sc-7e84ff",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://sichuan.scol.com.cn/gcdt/202608/83308989.html",
+  "title_zh": "王晓晖施小琳会见厄瓜多尔总统诺沃亚",
+  "title_en": "Wang Xiaohui and Shi Xiaolin Meet with Ecuadorian President Noboa",
+  "summary_zh": "8月21日，四川省委书记王晓晖、省长施小琳在成都会见厄瓜多尔总统诺沃亚，双方就加强各领域交流合作交换意见。",
+  "summary_en": "On Aug 21, Wang Xiaohui, Secretary of CPC Sichuan Provincial Committee, and Shi Xiaolin, Governor of Sichuan, met with Ecuadorian President Daniel Noboa in Chengdu to discuss enhancing exchanges and cooperation.",
+  "body_zh": "王晓晖施小琳会见厄瓜多尔总统诺沃亚\n8月21日，省委书记、省人大常委会主任王晓晖，省委副书记、省长施小琳，在成都会见厄瓜多尔总统诺沃亚。\n诺沃亚对四川经济社会发展取得的成就表示赞赏。他说，中国是厄瓜多尔的重要伙伴和朋友，厄方高度重视对华关系。四川是中国西部重要省份，发展势头强劲、开放活力充沛，与厄瓜多尔发展互补性强、合作潜力大，愿积极推动双方加强各领域交流合作，欢迎更多四川企业赴厄投资兴业，不断增进相互了解，巩固传统友谊，实现共同发展。\n厄瓜多尔外交和移民事务部部长库里、驻华大使科尔多瓦，中国驻厄瓜多尔大使孙向阳，省领导田庆盈、任京东，省直有关部门负责同志等参加。\n四川在线记者 付真卿",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交关系",
+    "国际合作",
+    "友好交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xiaohui",
+      "name_zh": "王晓晖",
+      "name_en": "Wang Xiaohui"
+    },
+    {
+      "kind": "person",
+      "id": "shi-xiaolin",
+      "name_zh": "施小琳",
+      "name_en": "Shi Xiaolin"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "诺沃亚",
+      "name_en": "Daniel Noboa"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC-CD",
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交关系",
+      "name_en": "Diplomatic Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好交流",
+      "name_en": "Friendship Exchange"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xiao-shaanxi",
+      "name_zh": "王晓",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "tian-qingying",
+      "name_zh": "田庆盈",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王晓晖",
+    "施小琳",
+    "诺沃亚",
+    "成都",
+    "外交关系",
+    "国际合作",
+    "友好交流",
+    "王晓",
+    "田庆盈"
+  ],
+  "tags_en": [
+    "Wang Xiaohui",
+    "Shi Xiaolin",
+    "Daniel Noboa",
+    "Chengdu",
+    "Diplomatic Relations",
+    "International Cooperation",
+    "Friendship Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "tian-qingying",
+      "wang-xiao-shaanxi",
+      "shi-xiaolin",
+      "wang-xiaohui"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC-CD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260821-local_si_chuan_zai_xian_cn_sc-7e84ff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

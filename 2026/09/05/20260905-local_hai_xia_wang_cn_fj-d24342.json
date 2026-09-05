@@ -1,0 +1,72 @@
+{
+  "id": "20260905-local_hai_xia_wang_cn_fj-d24342",
+  "source": "local_hai_xia_wang_cn_fj",
+  "source_name_zh": "海峡网",
+  "source_name_en": "海峡网",
+  "source_media_id": "cac-cn-fj-148595a132",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.hxnews.com/news/itkj/kjqy/202609/05/2268960.shtml",
+  "title_zh": "美国多家人工智能公司旗下服务同日发生故障",
+  "title_en": "Multiple US AI Companies Experience Service Outages on Same Day",
+  "summary_zh": "美国多家人工智能公司旗下服务9月3日相继发生故障，包括Anthropic、xAI和OpenAI等，部分用户无法使用聊天和API服务，目前均已恢复。",
+  "summary_en": "Several AI companies in the U.S., including Anthropic, xAI, and OpenAI, suffered service outages on September 3, affecting chat and API services. Major services have been restored.",
+  "body_zh": "摘\n要\n新华社旧金山9月3日电（记者 吴晓凌）美国多家人工智能公司旗下服务3日在相近时段发生故障，部分用户一度无法正常使用聊天、应用程序编程接口（API）等服务。目前相关主要服务均已恢复，公开信息尚不能确认几起故障是否存在共同原因。\nAnthropic公司官方状态页面显示，当天早间“克劳德”模型多个型号出现请求错误率升高，受影响的模型包括“克劳德-神话”模型5.1、“克劳德-奥普斯”模型5、4.8和4.6等。公司表示已确认原因并部署修复措施，相关影响于美国太平洋时间3日9时16分（北京时间4日0时16分）结束。该公司随后向媒体表示，此次故障源于基础设施问题。\n大约同一时段，太空XAI公司旗下“格罗克”人工智能聊天机器人也出现故障。公司官方状态页面显示，美国东部和西部API以及“格罗克”人工智能聊天机器人网页端、移动端和X平台等服务受到影响，部分服务故障持续约3个半小时。太空XAI公司随后表示，问题源于当天早间其孟菲斯计算中心发生的一次故障，并称所有系统此后已恢复正常运行。\n开放人工智能研究中心当天也报告ChatGPT和人工智能编程工具Codex出现错误率升高。开放人工智能研究中心向媒体表示，美国太平洋时间7时43分左右开始的一次路由错误导致部分用户无法通过多个平台使用ChatGPT和Codex，约8时17分已实施解决方案。\n开放人工智能研究中心官方状态页面显示，当天下午ChatGPT和Codex再次出现错误率升高，公司随后采取缓解措施，并宣布故障已经解决。\n多家主要人工智能公司旗下服务在相近时间发生故障较为罕见。目前三家公司公布的信息尚不能确认几起故障是否存在共同原因。\n- 俄媒：美国总统特使将于近期访问俄乌2026-09-04\n- 美国7月贸易逆差显著增加2026-09-04\n- 普京：俄美接触仍在继续 有望取得成果2026-09-03",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "人工智能",
+    "服务故障"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务故障",
+      "name_en": "Service Outage"
+    }
+  ],
+  "tags_zh": [
+    "美国",
+    "人工智能",
+    "服务故障"
+  ],
+  "tags_en": [
+    "United States",
+    "Artificial Intelligence",
+    "Service Outage"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260905-local_hai_xia_wang_cn_fj-d24342",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

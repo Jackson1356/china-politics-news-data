@@ -1,0 +1,97 @@
+{
+  "id": "20260828-xinhua_xj-ca31d3",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xj.news.cn/20260828/b12db984f9754c1eb07f5bfaf67f29bc/c.html",
+  "title_zh": "艾尔肯·吐尼亚孜会见乌兹别克斯坦旅游委员会主席",
+  "title_en": "Erkin Tuniyaz Meets Chairman of Uzbekistan Tourism Committee",
+  "summary_zh": "27日下午，新疆维吾尔自治区主席艾尔肯·吐尼亚孜在乌鲁木齐会见乌兹别克斯坦旅游委员会主席阿卜杜勒阿齐兹·阿库洛夫一行，双方就深化旅游合作等交流。",
+  "summary_en": "On the afternoon of August 27, Xinjiang regional chairman Erkin Tuniyaz met with Abdulaziz Akulov, chairman of the Uzbekistan Tourism Committee, in Urumqi to discuss deepening tourism cooperation.",
+  "body_zh": "27日下午，自治区党委副书记、自治区主席艾尔肯·吐尼亚孜在乌鲁木齐会见乌兹别克斯坦旅游委员会主席阿卜杜勒阿齐兹·阿库洛夫一行。\n艾尔肯·吐尼亚孜说，中国和乌兹别克斯坦是真诚互信的好朋友、好伙伴。在习近平主席和米尔济约耶夫总统战略引领下，中乌关系提升至新时代全天候全面战略伙伴关系新高度。中共十八大以来，新疆经济社会发展取得了举世瞩目的重大成就，文化旅游事业快速发展。中国新疆不断加强与乌兹别克斯坦地方间交流合作，特别是旅游领域合作日益升温。希望双方持续落实好两国元首达成的重要共识，互学互鉴旅游规划运营经验，联合打造精品线路，深化游客互送与文旅市场推广，积极探索“旅游+农业”“旅游+文创”“旅游+康养”等融合发展模式，共同培养旅游人才，以此带动产业发展、造福两地人民。\n阿卜杜勒阿齐兹·阿库洛夫表示，来疆参访后，亲眼目睹了中国新疆在文化遗产保护、旅游产业发展等方面取得的成就。乌兹别克斯坦正不断完善旅游基础设施，优化旅游投资营商环境，扩大入境游客规模。希望加强同中国新疆旅游合作，共同开发旅游线路，实施联合项目。热忱欢迎新疆各层级人士和旅游从业者访乌并考察优质文旅资源，加强交流合作。\n克衣色尔·克尤木，自治区有关部门负责同志参加会见。（记者 李杨）",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "旅游合作",
+    "中乌关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "erkin-tuniyaz",
+      "name_zh": "艾尔肯·吐尼亚孜",
+      "name_en": "Erkin Tuniyaz"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "乌兹别克斯坦旅游委员会",
+      "name_en": "Tourism Committee of Uzbekistan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ-WLMQ",
+      "name_zh": "乌鲁木齐",
+      "name_en": "Urumqi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游合作",
+      "name_en": "Tourism Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中乌关系",
+      "name_en": "China-Uzbekistan Relations"
+    }
+  ],
+  "tags_zh": [
+    "艾尔肯·吐尼亚孜",
+    "乌兹别克斯坦旅游委员会",
+    "乌鲁木齐",
+    "旅游合作",
+    "中乌关系"
+  ],
+  "tags_en": [
+    "Erkin Tuniyaz",
+    "Tourism Committee of Uzbekistan",
+    "Urumqi",
+    "Tourism Cooperation",
+    "China-Uzbekistan Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "erkin-tuniyaz"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ-WLMQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "乌兹别克斯坦旅游委员会",
+        "name_en": "Tourism Committee of Uzbekistan"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260828-xinhua_xj-ca31d3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20260804-xinhua_hn-ef34e6",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hn.news.cn/20260804/ee393c647028424f8b0c3efbc26392a5/c.html",
+  "title_zh": "沈晓明会见刚果（布）副总理布亚一行",
+  "title_en": "Shen Xiaoming Meets Congo-Brazzaville Vice Prime Minister Bouya",
+  "summary_zh": "8月3日，湖南省委书记沈晓明在长沙会见刚果（布）副总理布亚一行，就落实合作共识、推动基础设施项目等交换意见。",
+  "summary_en": "On August 3, Hunan Provincial Party Secretary Shen Xiaoming met with Congo-Brazzaville Vice Prime Minister Jean-Jacques Bouya in Changsha, exchanging views on implementing cooperation consensus and advancing infrastructure projects.",
+  "body_zh": "湖南日报8月3日讯（全媒体记者 刘燕娟 杨佳俊）3日，省委书记沈晓明在长沙会见了刚果（布）副总理让-雅克·布亚一行。\n沈晓明代表省委、省政府对布亚一行来访表示欢迎。他说，今年1月，湖南与刚果（布）达成一系列合作共识，并签署基础设施建设合作框架协议。时隔半年，布亚副总理再次率团到访，充分体现了刚果（布）政府对与湖南友好合作的高度重视。湖南是中国对非经贸合作的重要窗口，愿与刚果（布）各方一道认真落实两国元首达成的重要共识，进一步细化合作方案，推动已签约协议尽快落地见效，同时加强双方在北斗应用、人工智能、人文交流等领域的合作，为促进两国经贸人文交流贡献力量。\n布亚感谢湖南的热情接待，表示此次考察访问湖南企业，对湖南在科技创新、智能制造等方面的发展印象深刻，希望进一步推进落实双方达成的一系列合作共识，加快推动基础设施合作项目落地，欢迎更多湖南企业到刚果（布）投资兴业，携手实现互利共赢。\n在湘期间，布亚一行前往长沙、株洲等地考察。来到湖南建设投资集团有限责任公司，布亚一行围绕经贸合作“新一揽子计划”项目深入洽谈交流，并参观了解公司发展历程、国际业务开展等情况。在湖南赛德雷特卫星科技有限公司、湖南新翼智能科技发展有限公司、中车时代电动汽车股份有限公司，布亚一行详细了解“北斗+”产业应用、低空经济场景开发、新能源商用车制造等情况。\n刚果（布）驻华大使西普里安·西尔韦斯特·马米纳等随团访问。省领导王道席、王俊寿参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "中非合作",
+    "基础设施合作",
+    "友好交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-xiaoming",
+      "name_zh": "沈晓明",
+      "name_en": "Shen Xiaoming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-CS",
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作",
+      "name_en": "China-Africa Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施合作",
+      "name_en": "Infrastructure Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好交流",
+      "name_en": "Friendly Exchanges"
+    },
+    {
+      "kind": "person",
+      "id": "wang-daoxi",
+      "name_zh": "王道席",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "沈晓明",
+    "长沙",
+    "中非合作",
+    "基础设施合作",
+    "友好交流",
+    "王道席"
+  ],
+  "tags_en": [
+    "Shen Xiaoming",
+    "Changsha",
+    "China-Africa Cooperation",
+    "Infrastructure Cooperation",
+    "Friendly Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-xiaoming",
+      "wang-daoxi",
+      {
+        "id": null,
+        "name_zh": "王俊寿"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-CS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260804-xinhua_hn-ef34e6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

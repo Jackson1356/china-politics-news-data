@@ -1,0 +1,88 @@
+{
+  "id": "20260829-gov_tai_zhou-ae7248",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_fdf9683034084c8190127b4e97fae257.html",
+  "title_zh": "市六届人大常委会第三十二次会议闭幕",
+  "title_en": "32nd Session of Taizhou Municipal People's Congress Standing Committee Concludes",
+  "summary_zh": "8月28日，泰州市六届人大常委会第三十二次会议闭幕，通过多项地方性法规修改决定，并任命刘子强为市监察委员会副主任、代理主任。",
+  "summary_en": "On August 28, the 32nd session of the Taizhou Municipal People's Congress Standing Committee concluded, passing decisions on local regulations and appointing Liu Ziqiang as deputy director and acting director of the Municipal Supervision Commission.",
+  "body_zh": "泰州要闻\n市六届人大常委会第三十二次会议闭幕\n- 发布日期：2026-08-29 02:13\n- 浏览次数：\n8月28日，为期一天半的市六届人大常委会第三十二次会议闭幕。市人大常委会主任张余松，副主任孔德平、邹祥凤、沈明刚、钱忠、李新美，秘书长李卫国出席会议。副市长孙群，市中级人民法院院长杨昌顺、市人民检察院检察长周合星，市人大常委会党组成员丁志强列席会议。\n会议对部分市人大常委会任命人员履职情况进行满意度测评。会议通过市人大常委会关于废止《泰州市水环境保护条例》的决定，通过市人大常委会关于修改《〈泰州市垛田保护条例〉等三件地方性法规》的决定。通过《泰州市人民代表大会常务委员会关于全市市县乡三级人民代表大会换届选举问题的决定》，通过市人大常委会代表资格审查委员会关于个别代表的代表资格的报告。\n会议任命刘子强为市监察委员会副主任，决定刘子强代理市监察委员会主任职务。会议通过了相关人事任免事项，向被任命人员颁发任命书，被任命人员向宪法宣誓。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "地方立法",
+    "换届选举"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Election"
+    }
+  ],
+  "tags_zh": [
+    "泰州",
+    "人事任免",
+    "地方立法",
+    "换届选举"
+  ],
+  "tags_en": [
+    "Taizhou",
+    "Personnel Appointment",
+    "Local Legislation",
+    "Election"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李卫国"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260829-gov_tai_zhou-ae7248",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

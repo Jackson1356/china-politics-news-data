@@ -1,0 +1,109 @@
+{
+  "id": "20260727-qianlong-8f141e",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://china.qianlong.com/2026/0727/8703009.shtml",
+  "title_zh": "世界规模最大！我国卫生健康四大体系交出亮眼答卷",
+  "title_en": "China Builds World's Largest Health Systems, Says Health Commission Head",
+  "summary_zh": "7月21日，国家卫生健康委主任雷海潮在北京表示，我国建成并持续巩固世界上规模最大的医疗服务、传统医药、疾病预防控制和医疗保障体系。",
+  "summary_en": "On July 21, Lei Haichao, head of the National Health Commission, stated in Beijing that China has built and continues to consolidate the world's largest medical service, traditional medicine, disease prevention and control, and medical security systems.",
+  "body_zh": "7月21日，“在高质量发展中保障和改善民生”形势政策系列报告会第五场报告会在北京举行。国家卫生健康委党组书记、主任雷海潮表示，我国建成并持续巩固世界上规模最大的医疗服务、传统医药、疾病预防控制和医疗保障体系。放眼全球，这四大体系在规模水平、服务可及程度、创新活力等方面取得的成绩，令我们倍感自豪。\n来源标题：世界规模最大！我国卫生健康四大体系交出亮眼答卷",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-21",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "卫生健康体系",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lei-haichao",
+      "name_zh": "雷海潮",
+      "name_en": "Lei Haichao"
+    },
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生健康体系",
+      "name_en": "Health System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "雷海潮",
+    "国家卫生健康委",
+    "北京",
+    "卫生健康体系",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Lei Haichao",
+    "National Health Commission",
+    "Beijing",
+    "Health System",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "lei-haichao"
+    ],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260727-qianlong-8f141e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://china.qianlong.com/2026/0727/8703010.shtml",
+      "title_zh": "13年提升近4岁！我国居民人均预期寿命达79.25岁",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-07/27/content_32133616.htm",
+      "title_zh": "13年提升近4岁！我国居民人均预期寿命达79.25岁",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

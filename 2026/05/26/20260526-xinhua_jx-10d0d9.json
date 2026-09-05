@@ -1,0 +1,104 @@
+{
+  "id": "20260526-xinhua_jx-10d0d9",
+  "source": "xinhua_jx",
+  "source_name_zh": "新华网 江西",
+  "source_name_en": "Xinhua Jiangxi",
+  "source_url": "http://jx.news.cn/20260526/642eaec5d6fb4340b00751485986efe1/c.html",
+  "title_zh": "公安部通报网络谣言典型案例",
+  "title_en": "Ministry of Public Security Reports Typical Cases of Online Rumors",
+  "summary_zh": "2026年5月26日，公安部网安局通报5起打击整治网络谣言典型案例，其中江西一起直播间摆拍“绑架”案导致4人被行政拘留。",
+  "summary_en": "On May 26, 2026, the Cyber Security Bureau of the Ministry of Public Security reported five typical cases of online rumors, including a staged 'kidnapping' livestream in Jiangxi that led to the administrative detention of four individuals.",
+  "body_zh": "新华社北京5月26日电（记者李明辉、刘佳敏）公安部网安局5月26日集中通报5起打击整治网络谣言典型案例。记者注意到，此前发生在江西的直播间虚假摆拍“绑架”谣言案件在列，相关违法行为人已被依法行政拘留。\n目前，江西省萍乡市上栗县公安局已依法对4人作出行政拘留处罚，有关账号也已被封禁。\n公安部网安局呼吁，希望公众拒绝当谣言传声筒，培养理性看待消息、不盲从、不造谣的习惯，避免“情绪裹挟”“盲目跟风”，做网络时代的“清醒者”。\n法律界人士提醒，根据刑法、治安管理处罚法等有关法律法规，故意散布谣言，谎报险情、疫情、灾情、警情或者以其他方法故意扰乱公共秩序的，将被依法追究责任。\n【纠错】",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "网络谣言",
+    "打击整治"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部网安局",
+      "name_en": "Cyber Security Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "上栗县公安局",
+      "name_en": "Shangli County Public Security Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络谣言",
+      "name_en": "Online Rumors"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打击整治",
+      "name_en": "Crackdown and Rectification"
+    }
+  ],
+  "tags_zh": [
+    "公安部网安局",
+    "上栗县公安局",
+    "北京",
+    "江西",
+    "网络谣言",
+    "打击整治"
+  ],
+  "tags_en": [
+    "Cyber Security Bureau of the Ministry of Public Security",
+    "Shangli County Public Security Bureau",
+    "Beijing",
+    "Jiangxi",
+    "Online Rumors",
+    "Crackdown and Rectification"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ",
+      "CN-JX"
+    ],
+    "companies": [
+      {
+        "name_zh": "公安部网安局",
+        "name_en": "Cyber Security Bureau of the Ministry of Public Security"
+      },
+      {
+        "name_zh": "上栗县公安局",
+        "name_en": "Shangli County Public Security Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260526-xinhua_jx-10d0d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

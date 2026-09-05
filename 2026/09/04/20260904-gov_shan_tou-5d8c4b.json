@@ -1,0 +1,84 @@
+{
+  "id": "20260904-gov_shan_tou-5d8c4b",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/styw/content/post_2565121.html",
+  "title_zh": "汕头市政府召开党组（扩大）会议、常务会议",
+  "title_en": "Shantou Municipal Government Holds Party Group (Expanded) Meeting and Executive Meeting",
+  "summary_zh": "9月3日上午，市长陈涛主持召开市政府党组（扩大）会议、常务会议，学习贯彻习近平总书记重要指示，部署网络餐饮食品安全和制售假劣肉制品治理工作。",
+  "summary_en": "On the morning of September 3, Mayor Chen Tao chaired the municipal government's Party group (expanded) meeting and executive meeting, studying the spirit of an important instruction from General Secretary Xi Jinping and deploying work on food safety in online catering and crackdown on fake and substandard meat products.",
+  "body_zh": "9月3日上午，市政府党组书记、市长陈涛主持召开市政府党组（扩大）会议、常务会议，深入学习贯彻习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害的重要指示精神，传达学习上级有关会议精神，部署政府系统贯彻落实工作。\n会议对治理网络餐饮食品安全、制售假劣肉制品问题进行研究部署，强调各级各有关部门要强化攻坚意识、拿出过硬举措，加压发力、久久为功，推动治理工作取得更大实效。要压实责任，守牢食品安全民生底线，严格按照“四个最严”要求，切实把整治工作抓细抓实抓到位。要紧盯重点，推进全链条闭环监管，压实平台审核把关责任，深化“互联网+明厨亮灶”建设，强化线上监测和线下检查，开展滚动式排查。要从严执法，保持高压震慑态势，坚持执法办案与规范引导并重。要标本兼治，健全长效治理机制，举一反三，补齐制度短板，形成齐抓共管格局，切实守护好群众“舌尖上的安全”。\n会议还研究了其他事项。\n（记者 黄泽春）",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "食品安全",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-tao-shantou",
+      "name_zh": "陈涛",
+      "name_en": "Chen Tao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Guarantee"
+    }
+  ],
+  "tags_zh": [
+    "陈涛",
+    "汕头",
+    "食品安全",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Chen Tao",
+    "Shantou",
+    "Food Safety",
+    "Livelihood Guarantee"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-tao-shantou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260904-gov_shan_tou-5d8c4b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

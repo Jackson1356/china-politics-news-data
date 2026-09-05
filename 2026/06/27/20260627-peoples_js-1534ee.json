@@ -1,0 +1,102 @@
+{
+  "id": "20260627-peoples_js-1534ee",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_url": "http://js.people.com.cn/n2/2026/0627/c360300-41622591.html",
+  "title_zh": "刘小涛会见新加坡中华总商会代表团",
+  "title_en": "Liu Xiaotao Meets with Delegation from Singapore Chinese Chamber of Commerce & Industry",
+  "summary_zh": "6月24日下午，江苏省长刘小涛在南京会见新加坡中华总商会代表团，双方探讨深化新苏经贸合作及优化营商环境。",
+  "summary_en": "On the afternoon of June 24, Jiangsu Governor Liu Xiaotao met with a delegation from the Singapore Chinese Chamber of Commerce & Industry in Nanjing to discuss deepening economic and trade cooperation.",
+  "body_zh": "刘小涛会见新加坡中华总商会代表团\n原题：刘小涛会见新加坡中华总商会代表团\n6月24日下午，省长刘小涛在南京会见由会长高泉庆带领的新加坡中华总商会代表团。\n刘小涛对代表团一行表示欢迎，感谢总商会长期以来为新苏经贸合作作出的积极贡献。他说，江苏与新加坡渊源深厚、往来密切，合作空间广阔。希望总商会继续发挥桥梁纽带作用，组织更多企业代表团来苏实地感受发展活力和营商环境，落地更多大项目好项目，助力双方增进互信、加深感情。我们将为企业在苏发展提供便捷高效服务。\n高泉庆表示，江苏产业体系完备、营商环境优越、发展势头强劲。期待组织更多新加坡企业来苏考察投资，帮助更多江苏企业走向东南亚乃至全球市场，为新苏合作走深走实作出新贡献。\n南京市市长李忠军，省政府秘书长赵建军参加会见。",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "economy",
+  "keywords": [
+    "经贸合作",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高泉庆",
+      "name_en": "Gao Quanqing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "高泉庆",
+    "南京",
+    "经贸合作",
+    "营商环境",
+    "李忠军"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Gao Quanqing",
+    "Nanjing",
+    "Economic and Trade Cooperation",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-zhongjun",
+      {
+        "id": null,
+        "name_zh": "高泉庆"
+      },
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260627-peoples_js-1534ee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

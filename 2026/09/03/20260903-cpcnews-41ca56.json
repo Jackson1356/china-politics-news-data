@@ -1,0 +1,115 @@
+{
+  "id": "20260903-cpcnews-41ca56",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0903/c64094-40791606.html",
+  "title_zh": "习近平致电祝贺挪威国王哈康八世即位",
+  "title_en": "Xi Jinping Congratulates Norway's King Haakon VIII on His Accession to Throne",
+  "summary_zh": "9月2日，国家主席习近平致电挪威新任国王哈康八世，对其即位表示祝贺，表示愿同其一道努力，书写中挪友好交往新篇章。",
+  "summary_en": "On September 2, President Xi Jinping sent a congratulatory message to Norway's new King Haakon VIII on his accession, expressing readiness to write a new chapter of China-Norway friendship.",
+  "body_zh": "新华社北京9月2日电 9月2日，国家主席习近平向挪威新任国王哈康八世致贺电，对其即位表示祝贺。\n习近平指出，中挪两国相距虽远，但友谊源远流长。挪威是最早承认并同新中国建交的欧洲国家之一。两国建交72年来，在挪威王室积极推动下，双边关系取得长足进步，各领域合作不断拓展，给两国人民带来实实在在的利益。我高度重视中挪关系发展，愿同哈康八世国王一道努力，书写中挪友好交往新篇章。\n《 人民日报 》（ 2026年09月03日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "中挪关系",
+    "友好交往"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "哈康八世",
+      "name_en": "King Haakon VIII"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中挪关系",
+      "name_en": "China-Norway Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好交往",
+      "name_en": "Friendship and Exchange"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "哈康八世",
+    "中挪关系",
+    "友好交往"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "King Haakon VIII",
+    "China-Norway Relations",
+    "Friendship and Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "哈康八世"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-qiushi-6011b7",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chi_feng",
+      "source_tier": 4,
+      "url": "http://www.chifeng.gov.cn/ywdt/jrtt/202609/t20260903_2813140.html",
+      "title_zh": "习近平致电祝贺挪威国王哈康八世即位",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/448a787d9e7d41eb867f70f43c14a6ce.shtml",
+      "title_zh": "习近平致电祝贺挪威国王哈康八世即位",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202609/t20260903_175979.html",
+      "title_zh": "习近平致电祝贺挪威国王哈康八世即位",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202609/t20260903_175978.html",
+      "title_zh": "习近平圆满结束对埃及的国事访问",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

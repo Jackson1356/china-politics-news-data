@@ -1,0 +1,89 @@
+{
+  "id": "20260528-bjnews-25cde2",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1779951855129932.html",
+  "title_zh": "商务部回应欧盟拟对进口钢铁加税",
+  "title_en": "Ministry of Commerce Responds to EU's Proposed Steel Tariffs",
+  "summary_zh": "5月28日，商务部回应欧盟拟于7月1日实施新钢铁关税政策，称其为贸易保护主义，中方正通过世贸组织框架与欧方谈判以寻求双赢。",
+  "summary_en": "On May 28, China's Ministry of Commerce responded to the EU's plan to implement new steel tariffs on July 1, calling it trade protectionism and stating that negotiations are underway via the WTO.",
+  "body_zh": "据新华社北京5月28日电 商务部新闻发言人何亚东28日在例行新闻发布会上回应欧盟拟于今年7月1日实施新钢铁关税政策的有关提问时说，欧盟此举，本质是贸易保护主义，不仅无法维护钢铁产业竞争力，还将严重冲击中欧钢铁贸易，影响全球产供链稳定。目前，中方正在世贸组织框架内与欧方开展谈判。中方期待通过谈判达成双赢结果，促进中欧经贸关系平稳健康发展。如果欧方歧视性对待中国企业和产品，中方将采取相应措施，坚决维护自身合法权益。（记者谢希瑶、何晓 ）",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "foreign",
+  "keywords": [
+    "贸易保护主义",
+    "中欧经贸关系",
+    "钢铁关税"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易保护主义",
+      "name_en": "Trade Protectionism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "钢铁关税",
+      "name_en": "Steel Tariffs"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "北京",
+    "贸易保护主义",
+    "中欧经贸关系",
+    "钢铁关税"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Beijing",
+    "Trade Protectionism",
+    "China-EU Economic and Trade Relations",
+    "Steel Tariffs"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260528-bjnews-25cde2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

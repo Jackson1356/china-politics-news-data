@@ -1,0 +1,86 @@
+{
+  "id": "20260810-gov_cn_yaowen-a0f388",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077851.htm",
+  "title_zh": "7月先行指标折射经济稳中向优态势明显",
+  "title_en": "July Leading Indicators Reflect Steady Improvement in Economy",
+  "summary_zh": "国家发展改革委国家信息中心数据显示，7月份消费、工业、投资等多领域先行指标平稳向好，经济稳中向优态势明显。",
+  "summary_en": "Data from the National Information Center under the NDRC shows that multiple leading indicators in consumption, industry, and investment improved steadily in July, reflecting a clear trend of steady economic progress.",
+  "body_zh": "国家发展改革委国家信息中心最新数据显示，7月份多领域先行指标平稳向好，经济稳中向优态势明显。\n线下消费大数据显示，7月份各类消费支付金额同比增长2.2%，增速比上月提高0.8个百分点。以旧换新叠加高温需求，家用电器和音像器材类线下支付金额同比增长8.5%，暑期各地促消费举措接续落地，带动商圈、夜经济、文旅出行等场景持续升温，商品和服务消费协同向好。\n工业运行稳健向好，新旧动能转换步伐加快。7月份，工业园区生产热度指数同比增长1.0%，运行总体平稳；半导体、新材料等技术创新型企业活力凸显。人工智能相关专利授权量同比增长六成，企业创新成果加快涌现，为产业端新旧动能转换提供充沛动力。\n投资结构持续优化。与算力、数据、网络等新型基础设施相关的项目中标金额同比持续保持增长。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "economy",
+  "keywords": [
+    "先行指标",
+    "消费增长",
+    "新旧动能转换"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先行指标",
+      "name_en": "Leading Indicators"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费增长",
+      "name_en": "Consumption Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新旧动能转换",
+      "name_en": "Transition of Old and New Growth Drivers"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "先行指标",
+    "消费增长",
+    "新旧动能转换"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Leading Indicators",
+    "Consumption Growth",
+    "Transition of Old and New Growth Drivers"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260810-gov_cn_yaowen-a0f388",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "20260729-xinhua_tj-ca712e",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20260729/70bba67f17ff4c118a9d97463b69284c/c.html",
+  "title_zh": "陈敏尔张工与新紫光集团董事长李滨一行座谈",
+  "title_en": "Chen Min'er and Zhang Gong Meet with Unisplendour Group Chairman Li Bin",
+  "summary_zh": "7月28日，天津市委书记陈敏尔、市长张工与新紫光集团董事长李滨座谈，双方就人工智能、集成电路等领域合作进行交流。",
+  "summary_en": "On July 28, Tianjin Party Secretary Chen Min'er and Mayor Zhang Gong met with Li Bin, Chairman of Unisplendour Group, to discuss cooperation in AI, integrated circuits, and other fields.",
+  "body_zh": "7月28日，市委书记陈敏尔，市委副书记、市长张工与新紫光集团有限公司董事长李滨一行座谈。\n陈敏尔、张工代表市委、市政府欢迎李滨一行来津。陈敏尔、张工说，当前，天津深入贯彻习近平总书记视察天津重要讲话精神，以推进京津冀协同发展为战略牵引，坚持走内涵式发展路子，发挥区位、港口、产业、科教、人才等优势，用好“三新”、“三量”等工作抓手，以金融创新、科技创新赋能产业创新，推进先进制造业与现代服务业深度融合，因地制宜发展新质生产力。希望在已有基础上，把新紫光全产业链优势和我市产业资源、存量载体紧密结合，加强人工智能、集成电路、信创、算力等领域务实合作，在津布局更多创新业务，不断从存量中做出增量，实现互利共赢、共同发展。我们将持续营造市场化、法治化、国际化一流营商环境，丰富应用场景，提供优质高效服务。\n李滨介绍了新紫光集团业务布局和在津发展情况，感谢市委、市政府对企业的大力支持。他表示，新紫光将抓住京津冀协同发展战略机遇，把天津作为发展的重要基地，拓展半导体、人工智能等方面合作空间，助力城市更新提升，做优增量、盘活存量，为天津高质量发展贡献力量。\n新紫光集团陈杰、李涛等有关负责人，市领导王力军、王宝雨、翟立新，市政府秘书长和市有关区、部门负责同志参加。（记者 于春沣 刘国栋）",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "economy",
+  "keywords": [
+    "人工智能",
+    "集成电路",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-miner",
+      "name_zh": "陈敏尔",
+      "name_en": "Chen Min'er"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李滨",
+      "name_en": "Li Bin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "集成电路",
+      "name_en": "Integrated Circuits"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "person",
+      "id": "wang-lijun",
+      "name_zh": "王力军",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-min-jiangxi",
+      "name_zh": "陈敏",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈敏尔",
+    "张工",
+    "李滨",
+    "天津",
+    "人工智能",
+    "集成电路",
+    "新质生产力",
+    "王力军",
+    "陈敏"
+  ],
+  "tags_en": [
+    "Chen Min'er",
+    "Zhang Gong",
+    "Li Bin",
+    "Tianjin",
+    "Artificial Intelligence",
+    "Integrated Circuits",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      "chen-min-jiangxi",
+      "chen-miner",
+      "wang-lijun",
+      {
+        "id": null,
+        "name_zh": "李滨"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260729-xinhua_tj-ca712e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

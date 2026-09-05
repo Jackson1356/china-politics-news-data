@@ -1,0 +1,96 @@
+{
+  "id": "20260819-chinanews_gn-a47f2f",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-19/10680103.shtml",
+  "title_zh": "民进党当局封锁“台青e家” 国台办：本质是惧怕种种抹黑大陆的谎言被戳穿",
+  "title_en": "Taiwan Affairs Office: DPP's Blocking of 'Taiwan Youth e-Home' Shows Fear of Lies Being Exposed",
+  "summary_zh": "8月19日，国务院台办发言人朱凤莲回应民进党当局封锁“台青e家”平台，指责其恶意抹黑、惧怕谎言被戳穿。",
+  "summary_en": "On Aug 19, State Council Taiwan Affairs Office spokesperson Zhu Fenglian responded to the DPP authorities' blocking of the 'Taiwan Youth e-Home' platform, accusing them of malicious slander and fear of being exposed.",
+  "body_zh": "民进党当局封锁“台青e家” 国台办：本质是惧怕种种抹黑大陆的谎言被戳穿\n8月19日，国务院台办举行例行新闻发布会。有记者就民进党当局封锁大陆推出的公益性综合服务平台“台青e家”相关内容提问。\n发言人朱凤莲表示，“台青e家”是为了帮助更多的台湾青年便捷地获取大陆发展机遇而打造的公益性服务平台，是服务台湾青年来大陆求学、实习、就业的便民窗口，是助力台湾青年在大陆追梦、筑梦、圆梦的务实载体。目前已经有不少的台湾青年通过平台查阅资讯、投递简历，并且也有青年已经通过这个平台找到了心仪的工作。\n民进党当局的相关说辞完全颠倒黑白，是彻头彻尾的恶意抹黑，他们不去思考如何为台湾青年开拓发展空间，反而大搞信息封锁，他们无视两岸青年交流的时代潮流，不断地编造谎言。不顾台湾青年寻找发展机遇的现实需求，炮制不实说法，恐吓打压台青。究其本质，他们就是惧怕两岸青年走近交心，增进了解，惧怕越来越多的台湾青年看清“台独”的虚妄，惧怕种种抹黑大陆的谎言被戳穿。\n(总台央视记者 朱若梦 张雪松)\n国内新闻精选：\n- 2026年08月18日 16:38:32\n- 2026年08月18日 14:11:32\n- 2026年08月18日 11:21:45\n- 2026年08月18日 11:15:17\n- 2026年08月18日 11:07:44\n- 2026年08月17日 16:38:14\n- 2026年08月17日 15:15:29\n- 2026年08月17日 14:36:57\n- 2026年08月17日 14:35:15\n- 2026年08月17日 14:26:28",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "台湾青年",
+    "两岸关系",
+    "信息封锁"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "TAO",
+      "name_zh": "国务院台办",
+      "name_en": "Taiwan Affairs Office of the State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾青年",
+      "name_en": "Taiwan Youth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸关系",
+      "name_en": "Cross-Strait Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息封锁",
+      "name_en": "Information Blockade"
+    }
+  ],
+  "tags_zh": [
+    "国务院台办",
+    "台湾青年",
+    "两岸关系",
+    "信息封锁"
+  ],
+  "tags_en": [
+    "Taiwan Affairs Office of the State Council",
+    "Taiwan Youth",
+    "Cross-Strait Relations",
+    "Information Blockade"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "朱凤莲"
+      }
+    ],
+    "institutions": [
+      "TAO"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260819-chinanews_gn-a47f2f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680110.shtml",
+      "title_zh": "国台办回应民进党封锁“台青e家”：民进党惧怕台青看清“台独”虚妄",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

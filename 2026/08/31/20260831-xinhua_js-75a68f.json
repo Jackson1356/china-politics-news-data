@@ -1,0 +1,114 @@
+{
+  "id": "20260831-xinhua_js-75a68f",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260831/325c558998554787a3cec9a98702fd01/c.html",
+  "title_zh": "刘小涛检查秋季开学准备工作",
+  "title_en": "Liu Xiaotao Inspects Preparations for Autumn School Opening",
+  "summary_zh": "8月30日，江苏省省长刘小涛在徐州市检查秋季开学准备工作，强调确保安全平稳有序开学。",
+  "summary_en": "On August 30, Governor Liu Xiaotao of Jiangsu inspected autumn school opening preparations in Xuzhou, emphasizing safe and orderly start.",
+  "body_zh": "8月30日，省长刘小涛在徐州市检查秋季开学准备工作。他强调，要深入贯彻落实习近平总书记关于教育的重要论述，坚持以人民为中心的发展思想，周密细致做好各项服务保障，确保安全、平稳、有序开学。\n刘小涛先后来到徐州市第一中学、徐州市新元中学、江苏师范大学附属大龙湖中学，走进门卫室、教学楼、食堂、心理咨询室和操场，了解教育教学安排、心理咨询专职教师配备、食品安全管理、消防安防设施运行等情况。他强调，要守牢校园安全底线，深化“校园餐”专项整治，严格实行食材源头溯源、食堂闭环管理和全链条监管，常态化组织消防、应急避险演练，加强校园周边综合治理和校内隐患排查治理。精心做好学生服务，落实好困难学生资助帮扶政策，高度重视心理健康教育，保障学生每天综合体育和课间活动时间，促进学生身心健康、成长成才。加强开学条件保障，科学谋划教育教学工作，深化人工智能赋能，抓好师德师风建设，关心关爱教师队伍，努力办好人民满意的教育。\n省政府秘书长赵建军参加。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "秋季开学",
+    "校园安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-XZ",
+      "name_zh": "徐州",
+      "name_en": "Xuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋季开学",
+      "name_en": "Autumn School Opening"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校园安全",
+      "name_en": "Campus Safety"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐州市",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "徐州",
+    "秋季开学",
+    "校园安全",
+    "徐州市"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Xuzhou",
+    "Autumn School Opening",
+    "Campus Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "徐州市"
+      },
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260831-gov_tai_zhou-f6af1d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/31/art_60096_11822600.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛检查秋季开学准备工作",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://jsnews.jschina.com.cn/jsyw/202608/t20260831_s6a94ca00e4b0eb7bb0fa0701.shtml",
+      "title_zh": "刘小涛检查秋季开学准备工作_中国江苏网",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

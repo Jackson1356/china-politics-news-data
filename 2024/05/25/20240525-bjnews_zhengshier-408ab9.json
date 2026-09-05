@@ -1,0 +1,77 @@
+{
+  "id": "20240525-bjnews_zhengshier-408ab9",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1779934245129702.html",
+  "title_zh": "姚高员任浙江省副省长",
+  "title_en": "Yao Gaoyuan Appointed Vice Governor of Zhejiang Province",
+  "summary_zh": "姚高员被任命为浙江省副省长；同时，杜旭亮被任命为杭州市人民政府副市长、代理市长。",
+  "summary_en": "Yao Gaoyuan has been appointed Vice Governor of Zhejiang Province, and Du Xuliang has been appointed Vice Mayor and Acting Mayor of Hangzhou.",
+  "body_zh": "姚高员任浙江省副省长\n此前，姚高员已任浙江省政府党组成员。\n公开信息显示，姚高员，男，汉族，1968年8月生，浙江慈溪人，1993年12月加入中国共产党，1990年8月参加工作，省委党校研究生学历。\n姚高员曾任温州市委常委、组织部长、市委党校校长，温州市委副书记、政法委书记，温州市市长，浙江省经济和信息化厅党组书记、厅长等职，2022年任杭州市市长，至近期调整。\n另据“浙江组工”消息，杭州市第十四届人民代表大会常务委员会第三十五次会议5月25日决定，任命杜旭亮为杭州市人民政府副市长、代理市长。",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2024-05-25",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "姚高员",
+      "name_en": "Yao Gaoyuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "姚高员",
+    "浙江",
+    "杭州",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Yao Gaoyuan",
+    "Zhejiang",
+    "Hangzhou",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20240525-bjnews_zhengshier-408ab9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

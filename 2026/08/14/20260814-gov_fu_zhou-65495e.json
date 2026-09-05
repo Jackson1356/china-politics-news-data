@@ -1,0 +1,105 @@
+{
+  "id": "20260814-gov_fu_zhou-65495e",
+  "source": "gov_fu_zhou",
+  "source_name_zh": "抚州市政府网",
+  "source_name_en": "抚州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fuzhou.gov.cn/zwgk/gzdt/tpxw/202608/t20260814_5359149.htm",
+  "title_zh": "郭宁宁吴贤德与中国邮政集团董事长刘爱力座谈交流",
+  "title_en": "Guo Ningning, Wu Xiande Hold Talks with China Post Group Chairman Liu Aili",
+  "summary_zh": "8月14日，省委副书记、市委书记郭宁宁和市长吴贤德与中国邮政集团董事长刘爱力座谈，双方就深化现代物流、金融服务等领域合作进行交流。",
+  "summary_en": "On Aug 14, Guo Ningning, Wu Xiande and Liu Aili of China Post Group held talks on deepening cooperation in logistics and finance.",
+  "body_zh": "郭宁宁吴贤德与中国邮政集团董事长刘爱力座谈交流\n8月14日，省委副书记、市委书记郭宁宁，市长吴贤德与中国邮政集团有限公司党组书记、董事长刘爱力座谈交流。\n郭宁宁代表市委、市政府对刘爱力一行到来表示欢迎，感谢中国邮政集团长期以来对福州发展的关心与支持，并简要介绍福州经济社会发展情况。她说，福州始终牢记嘱托，认真贯彻落实习近平总书记对福建福州工作的重要指示精神，坚持“3820”战略工程思想精髓，抢抓国家物流枢纽建设、资本市场金融科技创新试点等政策机遇，全方位推动高质量发展，加快建设现代化国际城市。中国邮政集团作为实业与金融紧密结合、业务多元的大型央企，在服务发展、促进开放和创造高品质生活等方面发挥着重要作用。奋进“十五五”，双方合作空间广阔、潜力无限。希望中国邮政集团加强在榕投资布局，共同用好“六张网”建设等支持政策、谋划落地实施重点项目，持续深化现代物流、智慧物流、跨境物流以及综合金融服务、榕台融合发展、乡村全面振兴等领域的务实合作，推动创新应用、场景拓展、产业发展紧密结合，在双向赋能中更好服务全国发展大局。\n刘爱力对福州经济社会发展取得的成绩表示祝贺，并简要介绍中国邮政集团经营发展成效，表示将充分发挥商流、物流、资金流、信息流“四流合一”协同优势，进一步拓展合作广度和深度，助力福州加快建设现代化国际城市，携手谱写央地合作新篇章。\n中国邮政集团副总经理、中国邮政储蓄银行行长芦苇，市领导郑彧、赵明正参加。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "economy",
+  "keywords": [
+    "央地合作",
+    "现代物流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "guo-ningning",
+      "name_zh": "郭宁宁",
+      "name_en": "Guo Ningning"
+    },
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘爱力",
+      "name_en": "Liu Aili"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代物流",
+      "name_en": "Modern Logistics"
+    }
+  ],
+  "tags_zh": [
+    "郭宁宁",
+    "吴贤德",
+    "刘爱力",
+    "福州",
+    "央地合作",
+    "现代物流"
+  ],
+  "tags_en": [
+    "Guo Ningning",
+    "Wu Xiande",
+    "Liu Aili",
+    "Fuzhou",
+    "Central-local Cooperation",
+    "Modern Logistics"
+  ],
+  "entities": {
+    "politicians": [
+      "guo-ningning",
+      "wu-xiande-fuzhou",
+      {
+        "id": null,
+        "name_zh": "赵明正"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260814-gov_fu_zhou-65495e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

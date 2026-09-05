@@ -1,0 +1,82 @@
+{
+  "id": "20260527-guancha_politics-d0afbd",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_27_818463.shtml",
+  "title_zh": "国安部提醒警惕二维码陷阱",
+  "title_en": "Ministry of State Security Warns Against QR Code Traps",
+  "summary_zh": "国安部发布提醒，警示群众防范不法分子利用二维码陷阱窃取个人隐私及涉密信息，以维护国家安全。",
+  "summary_en": "The Ministry of State Security warned the public to be vigilant against QR code traps used by criminals to steal personal data and classified information, posing a threat to national security.",
+  "body_zh": "国安部：这些码不能随便扫\n常见的“二维码陷阱”\n现实生活中，不法分子可能在多场景下布设“二维码陷阱”，常见套路主要有以下三种：\n——扫码办业务。不法分子会打着“便民软件下载”“积分兑换”等旗号，在大街小巷、商圈周围诱导群众扫描二维码并安装非官方APP、插件，在后台静默植入木马病毒，甚至形成对用户手机的远程控制。\n——恶意替换。不法分子会通过粘贴、覆盖等方式，将电梯广告、景区导览、快递面单上的二维码替换为“钓鱼”二维码，诱导群众输入银行卡号、验证码等敏感内容。\n——扫码领福利。不法分子会在党政机关、军队、国防军工单位等涉密单位附近开展“扫码抽大奖”“免费领礼品”等活动，诱导相关人员扫描“定制”二维码，获取涉密敏感信息。\n随意扫码有风险\n——入侵终端，窃取个人隐私。不法分子诱导群众扫描问题二维码，会直接触发跳转钓鱼链接、下载病毒程序、获取用户权限等情形，得手后长期窃取个人隐私数据与涉密敏感信息等。\n——倒卖数据，危害社会安全。不法分子可能将诱导用户扫码所窃取的个人隐私和敏感数据进行批量倒卖。数据流入黑灰产业链后，可能被用于精准诈骗、身份冒用等违法犯罪活动，给人民群众切身利益造成危害。\n——泄露秘密，威胁国家安全。不法分子可根据批量收集的涉密单位人员信息，分析出涉密单位基本情况、人员活动规律，甚至锁定涉密岗位工作人员的准确信息，并据此开展渗透窃密活动，给国家安全带来威胁。\n守好指尖方寸 筑牢安全防线\n建议广大人民群众增强防范意识，认真鉴别各类场景下出现的问题二维码，守住指尖方寸的安全。\n——紧绷安全之弦。警惕在涉密单位周围开展的各类不明背景的扫码活动，不贪图小利，不下载安装非官方APP、插件等，不轻易授权位置、通讯录等敏感权限，避免给不法分子可乘之机。\n——认真核验真伪。扫码前须擦亮双眼，认真查看二维码是否有粘贴、覆盖等痕迹，确认是官方发布的二维码，确保入口安全可靠，坚决不扫来源不明的二维码。\n礼赞社科大师 ｜陈望道：一位语言学家的本心",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-27",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "国家安全",
+    "网络安全",
+    "反诈骗"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国安部",
+      "name_en": "Ministry of State Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全",
+      "name_en": "National Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反诈骗",
+      "name_en": "Anti-fraud"
+    }
+  ],
+  "tags_zh": [
+    "国安部",
+    "国家安全",
+    "网络安全",
+    "反诈骗"
+  ],
+  "tags_en": [
+    "Ministry of State Security",
+    "National Security",
+    "Cybersecurity",
+    "Anti-fraud"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国安部",
+        "name_en": "Ministry of State Security"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260527-guancha_politics-d0afbd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

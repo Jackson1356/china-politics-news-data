@@ -1,0 +1,84 @@
+{
+  "id": "20260607-guancha_politics-be0df8",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_07_819621.shtml",
+  "title_zh": "2026年度中央安全生产考核巡查开展明查暗访",
+  "title_en": "Central Safety Production Assessment Inspection Conducts Open and Secret Visits for 2026",
+  "summary_zh": "2026年度中央安全生产考核巡查组近日在江苏、辽宁等地开展明查暗访，发现危化品违规存储等重大安全隐患，相关部门已启动追责问责。",
+  "summary_en": "The 2026 Central Safety Production Assessment Inspection team recently conducted visits in Jiangsu and Liaoning, uncovering major safety hazards like illegal chemical storage, triggering rectification and accountability.",
+  "body_zh": "巡查组现场要求：你把手机拿出来我看看\n据央视新闻报道，近日，2026年度中央安全生产考核巡查季度明查暗访工作启动，各考核巡查组聚焦消防、危化品生产领域安全生产工作，分赴各地开展明查暗访。\n在针对危化品等高危行业领域的明查暗访中，考核巡查组发现部分企业的危化品存在违规超量、超品种存放，一些危化品企业员工甚至缺乏基本的操作安全意识。\n在江苏恩华药业股份有限公司，考核巡查组发现，厂房车间里堆放的丁酮、正庚烷等危险化学品均不在设计存储范围内，属于超品种储存危险化学品，且该车间内的一款产品生产线，未经安全设计便开展建设，属于重大事故隐患。\n在辽宁锦州锦晖石油化工储运有限公司，考核巡查组检查时发现，工作人员在丙烯泵房这类易燃易爆空间里作业时，竟然违规携带了自己的非防爆手机进入。\n现场，中央安全生产考核巡查组专家孙明亮要求工作人员：“你把手机拿出来我看看。”“非防爆的啊！”\n该工作人员说：“我有个防爆手机，我没拿。”\n孙明亮表示，非防爆手机是禁止带入这类防爆区域的。\n针对危化品行业领域明查暗访发现的各类问题隐患，考核巡查组已第一时间反馈当地，目前，有关地区已部署落实整改，并对问题突出的部门单位同步启动追责问责。\n反制日菲，台湾岛东部海域海上交通专项执法启动",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": "2026-06-07",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "危化品管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Safety Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "危化品管理",
+      "name_en": "Hazardous Chemicals Management"
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "辽宁",
+    "安全生产",
+    "危化品管理"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Liaoning",
+    "Safety Production",
+    "Hazardous Chemicals Management"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孙明亮"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260607-guancha_politics-be0df8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

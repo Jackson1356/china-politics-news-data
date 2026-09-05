@@ -1,0 +1,140 @@
+{
+  "id": "20260812-gov_tai_zhou-a99315",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/8/12/art_60096_11815053.html",
+  "title_zh": "江苏与中国大唐集团签署战略合作协议",
+  "title_en": "Jiangsu, China Datang Sign Strategic Cooperation Agreement",
+  "summary_zh": "8月11日，江苏省与中国大唐集团签署战略合作协议，省委书记信长星、省长刘小涛会见大唐集团董事长吕军、总经理李向良。",
+  "summary_en": "On August 11, Jiangsu Province signed a strategic cooperation agreement with China Datang Corporation. Party Secretary Xin Changxing and Governor Liu Xiaotao met with Datang Chairman Lyu Jun and General Manager Li Xiangliang.",
+  "body_zh": "当前位置：\n我省与中国大唐集团签署战略合作协议\n信长星刘小涛会见吕军李向良\n8月11日，我省与中国大唐集团签署战略合作协议。省委书记信长星、省长刘小涛会见中国大唐集团董事长吕军、总经理李向良。\n信长星、刘小涛感谢大唐集团长期以来为江苏发展作出的贡献。信长星说，当前，江苏正在深入学习贯彻习近平总书记重要讲话精神，加快建设清洁低碳安全高效的新型能源体系，推动经济社会高质量发展。希望双方以此次签约为新起点，更加紧密携手，加快重大能源项目建设，提高绿电供给能力，推动能源科技创新和产业发展，更好服务全国发展大局。\n吕军、李向良表示，大唐集团与江苏合作基础良好，将认真落实国家新型能源体系和新型电力系统建设“十五五”规划，紧扣江苏发展所需，持续深化务实合作，为江苏高质量发展注入新动能。\n省领导马欣、陈忠伟，大唐集团副总经理李建伟分别参加有关活动。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "战略合作",
+    "新型能源体系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "吕军",
+      "name_en": "Lyu Jun"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李向良",
+      "name_en": "Li Xiangliang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型能源体系",
+      "name_en": "New Energy System"
+    },
+    {
+      "kind": "person",
+      "id": "ma-xin-jiangsu",
+      "name_zh": "马欣",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐集团",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "刘小涛",
+    "吕军",
+    "李向良",
+    "江苏",
+    "战略合作",
+    "新型能源体系",
+    "马欣",
+    "陈忠伟",
+    "唐集团"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Liu Xiaotao",
+    "Lyu Jun",
+    "Li Xiangliang",
+    "Jiangsu",
+    "Strategic Cooperation",
+    "New Energy System"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "ma-xin-jiangsu",
+      "liu-xiaotao",
+      "chen-zhongwei-jiangsu",
+      {
+        "id": null,
+        "name_zh": "唐集团"
+      },
+      {
+        "id": null,
+        "name_zh": "李向良"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260811-local_zhong_guo_jiang_su_wang_cn_js-048037",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

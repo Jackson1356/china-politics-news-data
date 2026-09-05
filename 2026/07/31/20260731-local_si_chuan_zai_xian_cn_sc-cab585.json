@@ -1,0 +1,79 @@
+{
+  "id": "20260731-local_si_chuan_zai_xian_cn_sc-cab585",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.scol.com.cn/zlts_ss/202607/83298744.html",
+  "title_zh": "外交部回应日本设立“国家情报局”：日方应深刻汲取历史教训 慎重行事",
+  "title_en": "Foreign Ministry Responds to Japan's Establishment of 'National Intelligence Agency': Japan Should Learn from History and Act with Caution",
+  "summary_zh": "7月31日，外交部发言人毛宁就日本正式设立“国家情报局”回应称，日方应深刻汲取历史教训，慎重行事。",
+  "summary_en": "On July 31, Foreign Ministry spokesperson Mao Ning responded to Japan's establishment of a 'National Intelligence Agency', saying Japan should learn from historical lessons and act prudently.",
+  "body_zh": "7月31日，外交部发言人毛宁主持记者会。针对日本政府于7月31日正式设立“国家情报局”，并召开首次“国家情报会议”。\n毛宁表示，此事是日本在内外安全政策上的又一消极动向。历史上日本情报机构曾经为日本全面推行军国主义，发动对外侵略战争铺路，对亚洲邻国和日本人民犯下罄竹难书的罪行。近一段时间以来，日方以所谓“国家安全”“外部威胁”为借口，加速“再军事化”进程，威胁地区和平稳定，引发国际社会广泛担忧。日本为政者应当深刻汲取历史教训，慎重行事。\n（总台央视记者 朱若梦 赵超逸）",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "国家情报局",
+    "外交回应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家情报局",
+      "name_en": "National Intelligence Agency"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交回应",
+      "name_en": "Diplomatic Response"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "国家情报局",
+    "外交回应"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "National Intelligence Agency",
+    "Diplomatic Response"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260731-local_si_chuan_zai_xian_cn_sc-cab585",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

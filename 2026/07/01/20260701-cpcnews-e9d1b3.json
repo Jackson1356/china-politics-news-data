@@ -1,0 +1,97 @@
+{
+  "id": "20260701-cpcnews-e9d1b3",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0701/c64094-40751382.html",
+  "title_zh": "韩正会见沙特外交大臣费萨尔",
+  "title_en": "Han Zheng Meets Saudi Foreign Minister Faisal",
+  "summary_zh": "6月30日，国家副主席韩正在北京会见沙特外交大臣费萨尔，双方就深化中沙关系、加强高层交往及维护地区和平稳定进行交流。",
+  "summary_en": "On June 30, Vice President Han Zheng met with Saudi Foreign Minister Faisal in Beijing to discuss deepening China-Saudi relations, enhancing high-level exchanges, and maintaining regional peace and stability.",
+  "body_zh": "新华社北京6月30日电 6月30日，国家副主席韩正在北京会见沙特外交大臣费萨尔。\n韩正表示，近年来，在两国最高领导人战略引领下，中沙关系保持良好发展势头。今年是中沙全面战略伙伴关系建立10周年。4月，习近平主席同穆罕默德王储兼首相通话，就深化中沙关系、促进中东和平稳定达成重要共识。中方愿同沙方共同落实好两国领导人重要共识，深化政治互信、加强高层交往、拓展务实合作，推动中沙关系取得新的进展。中国和沙特作为全球南方重要成员，要加强沟通协调，为维护地区和世界和平稳定作出努力。\n费萨尔表示，沙中全面战略伙伴关系发展达到前所未有的高度。沙方坚定恪守一个中国原则，愿同中方继续推进双边关系深入发展。双方要加强多边领域合作，共同促进地区和世界和平稳定。\n《 人民日报 》（ 2026年07月01日 01 版）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中沙关系",
+    "全面战略伙伴关系",
+    "地区和平稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "费萨尔",
+      "name_en": "Faisal"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中沙关系",
+      "name_en": "China-Saudi Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区和平稳定",
+      "name_en": "Regional Peace and Stability"
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "费萨尔",
+    "北京",
+    "中沙关系",
+    "全面战略伙伴关系",
+    "地区和平稳定"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Faisal",
+    "Beijing",
+    "China-Saudi Relations",
+    "Comprehensive Strategic Partnership",
+    "Regional Peace and Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260701-cpcnews-e9d1b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

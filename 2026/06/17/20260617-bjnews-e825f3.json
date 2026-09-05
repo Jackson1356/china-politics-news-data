@@ -1,0 +1,73 @@
+{
+  "id": "20260617-bjnews-e825f3",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1781684528129854.html",
+  "title_zh": "公安部交管局发布端午节假期交通安全提示",
+  "title_en": "Traffic Management Bureau of Ministry of Public Security Issues Traffic Safety Tips for Dragon Boat Festival Holiday",
+  "summary_zh": "公安部交通管理局针对端午节假期强降雨及出行高峰，发布交通安全提示，提醒关注旅游、酒驾及雨天行车等风险。",
+  "summary_en": "The Traffic Management Bureau of the Ministry of Public Security issued traffic safety tips for the Dragon Boat Festival holiday, warning against risks from tourism, drunk driving, and heavy rain.",
+  "body_zh": "新京报讯 端午节假期，群众旅游观赛、返乡探亲出行集中，农村地区务农务工集体出行繁忙，南方强降雨、北方多阵雨，道路交通安全风险突出。公安部交通管理局结合近年来端午节假期交通事故规律特点，对今年端午节假期交通安全形势进行了分析研判，并发布交通安全提示。\n据研判，今年端午节假期道路交通安全主要存在以下突出风险：\n一是旅游交通安全风险。假期群众旅游出行需求旺盛，高考结束、高校毕业，亲子游、家庭游出行增多，龙舟赛等大型民俗活动集中，足协杯、“城超”等体育赛事密集，旅游观赛、返乡探亲等出行叠加，超速超员、疲劳驾驶、非法营运等违法违规问题肇事易发多发。\n二是酒驾醉驾肇事风险。假期亲朋好友聚餐娱乐饮酒多，加上美加墨世界杯赛事多在下半夜，夜间聚集观赛饮酒，酒驾醉驾肇事风险上升。\n三是农村务农务工集体出行风险。“三夏”时节农村地区务农务工出行通勤繁忙，轻型货车、三轮车、拖拉机违法载人以及面包车超员载客等严重交通违法导致群死群伤事故风险高。\n四是雨天车辆追尾侧翻事故风险。端午节前后，南方地区进入“龙舟水”时期，冷暖空气交汇，强降雨天气多发，同时北方地区多阵雨或雷阵雨天气。雨天路面湿滑，视线变差，部分路段还可能因为短时强降雨出现积水，严重影响行车安全，易引发车辆侧滑翻坠、连环追尾事故。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "welfare",
+  "keywords": [
+    "交通安全",
+    "端午节"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部交通管理局",
+      "name_en": "Traffic Management Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通安全",
+      "name_en": "Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "端午节",
+      "name_en": "Dragon Boat Festival"
+    }
+  ],
+  "tags_zh": [
+    "公安部交通管理局",
+    "交通安全",
+    "端午节"
+  ],
+  "tags_en": [
+    "Traffic Management Bureau of the Ministry of Public Security",
+    "Traffic Safety",
+    "Dragon Boat Festival"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "公安部交通管理局",
+        "name_en": "Traffic Management Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260617-bjnews-e825f3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

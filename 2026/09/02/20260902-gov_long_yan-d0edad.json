@@ -1,0 +1,112 @@
+{
+  "id": "20260902-gov_long_yan-d0edad",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260902_2310916.htm",
+  "title_zh": "龙岩市委书记胡盛会见福建省税务局局长白渊一行",
+  "title_en": "Longyan Party Secretary Hu Sheng Meets Fujian Tax Bureau Head Bai Yuan",
+  "summary_zh": "9月1日，龙岩市委书记胡盛在古田山庄会见福建省税务局党委书记、局长白渊一行，双方就税源培育、惠企服务等交流，胡盛希望省税务局继续支持老区发展。",
+  "summary_en": "On Sept 1, Longyan Party Secretary Hu Sheng met Bai Yuan, Director-General of Fujian Provincial Tax Bureau, at Gutian Villa. They discussed tax support and corporate services.",
+  "body_zh": "龙岩市领导会见福建省税务局局长一行\n时间：2026-09-02 11:15\n9月1日，市委书记胡盛在古田山庄会见福建省税务局党委书记、局长白渊一行。\n胡盛代表市委、市政府对白渊一行的到来表示欢迎，感谢福建省税务局长期以来对龙岩老区苏区发展的关心支持。胡盛说，当前，龙岩正持续深入学习贯彻习近平总书记对福建、对老区工作的重要讲话重要指示批示精神，认真贯彻落实党中央决策部署和省委、省政府工作要求，聚力建设闽西革命老区高质量发展示范区。衷心希望省税务局一如既往关心龙岩发展，在税源培育、惠企服务等方面加大指导支持力度，更好助力龙岩经济社会高质量发展。\n白渊感谢龙岩长期以来对税务工作的关心与支持。他表示，省税务局将进一步发挥职能作用，不折不扣落实税费政策，持续优化税费服务，强化合规管理，维护法治公平，营造良好税收营商环境，为龙岩老区苏区高质量发展、振兴发展提供有力保障。\n市领导廖深洪、陈荣水参加。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "economy",
+  "keywords": [
+    "税源培育",
+    "惠企服务",
+    "老区发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "福建省税务局",
+      "name_en": "Fujian Provincial Tax Bureau"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "古田",
+      "name_en": "Gutian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "税源培育",
+      "name_en": "Tax Base Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "惠企服务",
+      "name_en": "Business-friendly Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老区发展",
+      "name_en": "Revolutionary Base Development"
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "福建省税务局",
+    "古田",
+    "税源培育",
+    "惠企服务",
+    "老区发展"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Fujian Provincial Tax Bureau",
+    "Gutian",
+    "Tax Base Development",
+    "Business-friendly Services",
+    "Revolutionary Base Development"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan",
+      {
+        "id": null,
+        "name_zh": "陈荣水"
+      },
+      {
+        "id": null,
+        "name_zh": "田山庄"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "福建省税务局",
+        "name_en": "Fujian Provincial Tax Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260902-gov_long_yan-d0edad",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

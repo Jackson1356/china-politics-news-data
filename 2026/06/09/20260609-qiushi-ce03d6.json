@@ -1,0 +1,116 @@
+{
+  "id": "20260609-qiushi-ce03d6",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_url": "http://www.qstheory.cn/20260609/5e176e011e65442e8aad31777a76c925/c.html",
+  "title_zh": "习近平出席金正恩举行的欢送仪式",
+  "title_en": "Xi Jinping Attends Farewell Ceremony Held by Kim Jong Un",
+  "summary_zh": "6月9日下午，习近平结束对朝鲜国事访问离开平壤，金正恩为其举行隆重的欢送仪式。",
+  "summary_en": "On the afternoon of June 9, Xi Jinping concluded his state visit to North Korea and left Pyongyang, where Kim Jong Un held a grand farewell ceremony.",
+  "body_zh": "新华社平壤6月9日电（记者朱基钗 王超）当地时间6月9日下午，中共中央总书记、国家主席习近平结束对朝鲜的国事访问离开平壤。朝鲜劳动党总书记、国务委员长金正恩和夫人李雪主到机场送行，为习近平和夫人彭丽媛举行隆重的欢送仪式。\n前往机场途中，平壤各界群众聚集在道路两旁，挥舞中朝两国国旗和鲜花，高呼中朝友好口号，热烈欢送。\n在机场，数千名群众和少年儿童整齐列队，热情迎候。在振奋高昂的乐曲声中，习近平在金正恩陪同下检阅仪仗队，同前来送行的朝方高级别官员逐一握手，向送行群众挥手致意。习近平夫妇同金正恩夫妇再次握手，亲切告别，登上舷梯，乘专机离开平壤。\n蔡奇、王毅等出席欢送仪式。\n网站编辑 -\n高淑雅\n张盼 审核 - 那非丁",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金正恩",
+      "name_en": "Kim Jong Un"
+    },
+    {
+      "kind": "person",
+      "id": "cai-qi",
+      "name_zh": "蔡奇",
+      "name_en": "Cai Qi"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "平壤",
+      "name_en": "Pyongyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "金正恩",
+    "蔡奇",
+    "王毅",
+    "平壤",
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Kim Jong Un",
+    "Cai Qi",
+    "Wang Yi",
+    "Pyongyang",
+    "China-DPRK Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-qi",
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王毅等"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-qiushi-ce03d6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/06/09/VIDEbsnglfHmTVbjmMW0erbQ260609.shtml",
+      "title_zh": "[视频]习近平出席金正恩举行的欢送仪式",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

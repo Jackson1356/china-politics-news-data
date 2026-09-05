@@ -1,0 +1,92 @@
+{
+  "id": "20260703-peoples_cq-a2b2c7",
+  "source": "peoples_cq",
+  "source_name_zh": "人民网 重庆",
+  "source_name_en": "People's Daily Chongqing",
+  "source_url": "http://cq.people.com.cn/n2/2026/0703/c365402-41628085.html",
+  "title_zh": "两项电动车新国标7月1日正式实施",
+  "title_en": "Two New National Standards for Electric Vehicles Officially Implemented on July 1",
+  "summary_zh": "两项电动汽车领域强制性国家标准于7月1日起正式实施，旨在从整车操控和电池安全维度全面提升电动汽车安全性能。",
+  "summary_en": "Two mandatory national standards for electric vehicles took effect on July 1, aiming to comprehensively enhance EV safety performance regarding vehicle control and battery safety.",
+  "body_zh": "两项电动车新国标7月1日正式起实施\n昨天，记者从重庆市市场监管局获悉，两项电动汽车领域强制性国家标准已于7月1日起正式实施。新版标准分别为《电动汽车安全要求》（GB18384-2025）、《电动汽车用动力蓄电池安全要求》（GB38031-2025），行业内也将其简称为电动汽车安全新国标、电池新国标，将从整车操控、电池安全两大维度，全面提升国内电动汽车安全性能。\n据了解，电动汽车安全新国标对车辆高压断电机制作出关键性优化升级。新标准明确要求，车辆需实现整车高压回路、驱动系统与可充电储能系统高压回路的物理断开，首次将“一键断电”装置界定为物理断电装置，彻底摒弃以往单纯依靠软件控制的断电模式，大幅提升车辆事故救援的可靠性与效率。同时标准细化使用场景，规定车辆处于静止非充放电状态时，驾驶员可通过点触、长按等单一操作，触发一键断电功能，操作方式更加便捷。\n同步实施的电池新国标，对动力电池的安全测试条件、技术判定标准进行全面细化升级，大幅抬高了动力电池安全准入门槛。标准进一步明确了电池检测的温度条件、上下电状态、观察时长及整车测试环境，将原有“热事件报警前预留五分钟避险时间”的要求，升级为电池故障状态下不起火、不爆炸，同时保障产生的烟气不会对车内乘员造成伤害，且故障状态下仍需正常报警。\n此外，新标准进一步规范适用范围，明确该标准仅适用于电动汽车驱动类动力电池，不适用于非驱动类电池。同时完善电池系统绝缘电阻相关规范，补充交流电路电池系统的绝缘电阻要求，升级电池挤压测试标准，新增绝缘电阻相关判定条件，全方位筑牢电动汽车电池安全防线。（上游财经-重庆晨报记者 杨新宇）",
+  "image_url": null,
+  "published_at": "2026-07-03T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "industry",
+  "keywords": [
+    "电动汽车",
+    "国家标准",
+    "电池安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "重庆市市场监管局",
+      "name_en": "Chongqing Municipal Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电动汽车",
+      "name_en": "Electric Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电池安全",
+      "name_en": "Battery Safety"
+    }
+  ],
+  "tags_zh": [
+    "重庆市市场监管局",
+    "重庆",
+    "电动汽车",
+    "国家标准",
+    "电池安全"
+  ],
+  "tags_en": [
+    "Chongqing Municipal Administration for Market Regulation",
+    "Chongqing",
+    "Electric Vehicles",
+    "National Standards",
+    "Battery Safety"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "重庆市市场监管局",
+        "name_en": "Chongqing Municipal Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260703-peoples_cq-a2b2c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

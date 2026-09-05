@@ -1,0 +1,116 @@
+{
+  "id": "20260627-cpcnews-23569a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0627/c64387-40748686.html",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Appoints and Removes State Personnel",
+  "summary_zh": "2026年6月26日，国务院任免国家工作人员，任命岳修虎、张光军、罗天舒、胡今扬为相关部门副职，免去关志鸥、卞志刚职务。",
+  "summary_en": "On June 26, 2026, the State Council appointed Yue Xiuhu, Zhang Guangjun, Luo Tianshu, and Hu Jinyang to vice-ministerial positions and removed Guan Zhiou and Bian Zhigang from their posts.",
+  "body_zh": "新华社北京6月26日电 国务院任免国家工作人员。\n任命岳修虎为国家发展和改革委员会副主任；任命张光军为科学技术部副部长；任命罗天舒为国家税务总局副局长；任命胡今扬为国家国际发展合作署副署长。\n免去关志鸥的国家自然资源总督察职务；免去卞志刚的国家国防科技工业局副局长职务。\n《 人民日报 》（ 2026年06月27日 04 版）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "NDRC",
+      "name_zh": "国家发展和改革委员会",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MOST",
+      "name_zh": "科学技术部",
+      "name_en": "Ministry of Science and Technology"
+    },
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "CIDCA",
+      "name_zh": "国家国际发展合作署",
+      "name_en": "China International Development Cooperation Agency"
+    },
+    {
+      "kind": "institution",
+      "id": "SASTIND",
+      "name_zh": "国家国防科技工业局",
+      "name_en": "State Administration for Science, Technology and Industry for National Defense"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "国家发展和改革委员会",
+    "科学技术部",
+    "国家税务总局",
+    "国家国际发展合作署",
+    "国家国防科技工业局",
+    "北京",
+    "人事任免"
+  ],
+  "tags_en": [
+    "State Council",
+    "National Development and Reform Commission",
+    "Ministry of Science and Technology",
+    "State Taxation Administration",
+    "China International Development Cooperation Agency",
+    "State Administration for Science, Technology and Industry for National Defense",
+    "Beijing",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL",
+      "NDRC",
+      "MOST",
+      "STA",
+      "CIDCA",
+      "SASTIND"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260626-chinanews_gn-2606e6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

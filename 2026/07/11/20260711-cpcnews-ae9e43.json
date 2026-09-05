@@ -1,0 +1,96 @@
+{
+  "id": "20260711-cpcnews-ae9e43",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "https://cpc.people.com.cn/n1/2026/0711/c435113-40758414.html",
+  "title_zh": "习近平同纳米比亚总统恩代特瓦会谈",
+  "title_en": "Xi Jinping Holds Talks with Namibian President Ndeetowa",
+  "summary_zh": "7月10日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的纳米比亚总统恩代特瓦举行会谈。",
+  "summary_en": "On the afternoon of July 10, President Xi Jinping held talks with Namibian President Ndeetowa, who is on a state visit to China, at the Great Hall of the People in Beijing.",
+  "body_zh": "登录人民网通行证 立即注册\n忘记密码？\n7月10日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的纳米比亚总统恩代特瓦举行会谈。这是会谈前，习近平和夫人彭丽媛同恩代特瓦和丈夫埃帕夫拉斯合影。\n学习路上\n时习之\n习近平系列重要讲话数据库\n中央文件\n学习宣传贯彻党的二十大精神\n跟着总书记学党史数据库\n中央和国家机关建设模范机关\n言之有理\n学习文选",
+  "image_url": null,
+  "published_at": "2026-07-11T12:00:00+00:00",
+  "event_date": "2026-07-10",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "foreign",
+  "keywords": [
+    "中纳米关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "恩代特瓦",
+      "name_en": "Ndeetowa"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中纳米关系",
+      "name_en": "China-Namibia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "恩代特瓦",
+    "北京",
+    "中纳米关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Ndeetowa",
+    "Beijing",
+    "China-Namibia Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260711-cpcnews-ae9e43",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "https://cpc.people.com.cn/n1/2026/0711/c435113-40758415.html",
+      "title_zh": "习近平会见朝鲜内阁总理朴泰成",
+      "published_at": "2026-07-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

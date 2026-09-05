@@ -1,0 +1,74 @@
+{
+  "id": "20260903-local_hong_wang_cn_hn-de40cf",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646043/95/16237958.html",
+  "title_zh": "文明交流书写中埃友好篇章",
+  "title_en": "Civilizational Exchanges Write New Chapter of China-Egypt Friendship",
+  "summary_zh": "9月1日，习近平主席在埃及媒体发表署名文章，强调中埃文明加强交流互鉴，书写两国友好新篇章。",
+  "summary_en": "On September 1, President Xi Jinping published a signed article in Egyptian media, stressing mutual learning between the two ancient civilizations and a new chapter of China-Egypt friendship.",
+  "body_zh": "9月1日，习近平主席在埃及媒体发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章，专门谈及中埃两大古国的悠久历史和灿烂文明。\n“交得其道，千里同好。”习近平主席高度重视文明交流对促进民心相通、增进人民友好的作用，深刻指出“中国和埃及同为文明古国”，“两大文明要加强交流互鉴”。\n在元首外交引领下，中埃两国人文交流丰富多彩，联合考古成果频出，文博、文旅热度渐增，不断书写中埃两国人民友好互鉴新篇章。\n2025年6月，在埃及开罗以南考古遗址区，中埃联合考古萨卡拉项目队员在文物仓库对文物做微痕扫描工作。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "文明交流互鉴",
+    "中埃友好"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文明交流互鉴",
+      "name_en": "Mutual Learning Among Civilizations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃友好",
+      "name_en": "China-Egypt Friendship"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "文明交流互鉴",
+    "中埃友好"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Mutual Learning Among Civilizations",
+    "China-Egypt Friendship"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-xinhua_leaders-0532c8",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

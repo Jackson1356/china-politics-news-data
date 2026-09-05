@@ -1,0 +1,102 @@
+{
+  "id": "20260605-gov_cn_yaowen-c70625",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7071194.htm",
+  "title_zh": "外交部介绍习近平总书记访问朝鲜有关安排",
+  "title_en": "Ministry of Foreign Affairs Announces General Secretary Xi Jinping's Visit to North Korea",
+  "summary_zh": "外交部5日宣布，中共中央总书记、国家主席习近平将于6月8日至9日应金正恩邀请对朝鲜进行国事访问，就双边关系及共同关心的问题交换意见。",
+  "summary_en": "The Ministry of Foreign Affairs announced on June 5 that President Xi Jinping will pay a state visit to North Korea from June 8 to 9 at the invitation of Kim Jong Un to discuss bilateral relations.",
+  "body_zh": "新华社北京6月5日电（记者 董雪、孙楠）应朝鲜劳动党总书记、朝鲜民主主义人民共和国国务委员长金正恩邀请，中共中央总书记、中华人民共和国主席习近平将于6月8日至9日对朝鲜民主主义人民共和国进行国事访问。\n外交部发言人毛宁5日在例行记者会上表示，此次访问是习近平总书记时隔7年再次对朝鲜进行国事访问。访问期间，两党两国最高领导人将就双边关系及共同关心的问题交换意见。\n“近年来，在习近平总书记和金正恩总书记的战略引领下，中朝传统友好合作关系持续健康稳定发展，为两国和两国人民带来实实在在的利益。”毛宁说。\n毛宁表示，今年是《中朝友好合作互助条约》签订65周年，双方将以此访为契机，推动中朝关系与时俱进取得更大发展，增进两国人民福祉，为地区乃至世界的和平稳定和发展繁荣作出更大贡献。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜",
+      "name_en": "North Korea"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "外交部",
+    "朝鲜",
+    "北京",
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Ministry of Foreign Affairs",
+    "North Korea",
+    "Beijing",
+    "China-DPRK Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260605-gov_cn_yaowen-c70625",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

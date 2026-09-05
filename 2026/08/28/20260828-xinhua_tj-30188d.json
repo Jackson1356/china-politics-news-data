@@ -1,0 +1,93 @@
+{
+  "id": "20260828-xinhua_tj-30188d",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20260828/4ab1c7b5808c4f4aa19aac4636d1fd4a/c.html",
+  "title_zh": "天津市政府召开第114次常务会议 张工主持",
+  "title_en": "Tianjin Government Holds 114th Executive Meeting, Zhang Gong Presides",
+  "summary_zh": "8月27日下午，天津市市长张工主持召开市政府第114次常务会议，研究部署防汛减灾工作，审议卫生健康、文商旅体融合“十五五”规划。",
+  "summary_en": "On the afternoon of August 27, Tianjin Mayor Zhang Gong chaired the 114th executive meeting of the municipal government, studying flood prevention and reviewing 15th Five-Year plans for healthcare and culture-tourism-sports integration.",
+  "body_zh": "8月27日下午，市长张工主持召开市政府第114次常务会议。\n会议学习贯彻习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神，落实市委常委会会议要求，研究部署下一步工作。会议强调，要坚持人民至上、生命至上，持续绷紧防汛减灾这根弦，加强气象水文和地质灾害监测预警，保持应急指挥体系高效运转，抓好既定部署措施落实，确保安全平稳度汛。要加强隐患排查整治，做好重点部位、场所、设施巡查除险，强化北部山区山洪沟口、山体边坡等风险管控，持续提升重点水库、行洪河道、城市易积水片区防汛排涝能力。要毫不放松抓好安全稳定各项工作，切实加强旅游安全管理，坚决防范遏制重特大事故发生。\n会议审议《天津市卫生健康发展“十五五”规划》。会议强调，要坚持以人民为中心的发展思想和健康优先发展战略，积极构建更加完善的医疗卫生服务体系，优化资源配置，做优医疗服务，提升医疗应急能力，持续提高群众看病就医便捷度满意度。要深化“三医”协同治理，扎实推进公立医院改革，强化医疗服务监管，守牢医保基金安全底线。要深化“产学研医”协同创新，加强临床研究，提升科技攻关能力。要牢固树立“大健康”理念，全面建设更具成色的健康天津。\n会议审议《天津市文商旅体展融合发展“十五五”规划》。会议强调，要突出因地制宜，用好独特的自然资源，挖掘近现代丰富的历史文化资源，加快建设特色鲜明的文化旅游目的地。要扩大优质供给，大力引育行业龙头企业，加快场景迭代、培育新兴业态，带动文商旅体展全链条消费。要提升服务品质，打造窗口行业标杆，建设游客友好型城市，做好宣传推介，增强城市文旅吸引力。要加强统筹联动，细化工作任务，全力抓出实效，提前做好中秋、国庆假期文旅体、促消费活动筹划，充分释放假日经济活力。\n会议还研究了其他事项。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛减灾",
+    "卫生健康",
+    "文旅融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛减灾",
+      "name_en": "Flood Prevention and Disaster Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生健康",
+      "name_en": "Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文旅融合",
+      "name_en": "Cultural Tourism Integration"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "防汛减灾",
+    "卫生健康",
+    "文旅融合"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "Flood Prevention and Disaster Mitigation",
+    "Healthcare",
+    "Cultural Tourism Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260828-xinhua_tj-30188d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

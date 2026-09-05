@@ -1,0 +1,79 @@
+{
+  "id": "20260630-gov_cn_yaowen-d02592",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073842.htm",
+  "title_zh": "全国夏播粮食进度近八成 夏管全面展开",
+  "title_en": "Nearly 80% of Summer Grain Sowing Completed as Summer Field Management Begins",
+  "summary_zh": "全国夏播粮食进度已近八成，夏季田间管理全面展开，山东、安徽等地通过政策补贴和技术指导夯实秋粮丰收基础。",
+  "summary_en": "Nearly 80% of summer grain sowing has been completed across China, with summer field management underway in provinces like Shandong and Anhui to ensure a bountiful autumn harvest.",
+  "body_zh": "眼下，全国夏播粮食进度近八成，夏季田间管理全面展开。各地因地制宜，夯实秋粮丰收基础。\n今年，山东夏播粮食面积预计稳定在6000万亩以上，当地利用农机购置与应用补贴、农机报废更新补贴等惠农政策，加大推广应用高性能农机装备促进单产提升，新增高性能玉米播种机3000多台。临沭县的这家合作社就购买了3台指夹式玉米播种机。\n三分种七分管，夏播过后，夏季田管也压茬推进。安徽派出8个省级工作组，联合市县乡农技人员开展全覆盖指导服务，推广绿色综合防治等增产提质技术。在霍邱县，当地统筹817万元用于绿色综合防治。\n未来10天，东北和华北地区多阵雨，降水利于补充土壤水分和满足水稻、玉米、大豆等作物生长用水，但低洼农田渍涝风险较高。因此，低温高湿地块要及时中耕松土通气，提升地温，促进根系下扎、壮苗早发。西北、黄淮、内蒙古等高温雨少地区，要加强棉花、玉米田间管理，适当对夏播作物进行浇灌保苗，防范高温的不利影响。",
+  "image_url": null,
+  "published_at": "2026-06-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "夏播",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "夏播",
+      "name_en": "Summer Sowing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "山东",
+    "安徽",
+    "夏播",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "Shandong",
+    "Anhui",
+    "Summer Sowing",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD",
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260630-gov_cn_yaowen-d02592",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

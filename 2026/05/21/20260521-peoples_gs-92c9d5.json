@@ -1,0 +1,108 @@
+{
+  "id": "20260521-peoples_gs-92c9d5",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0522/c183342-41587880.html",
+  "title_zh": "今年全国夏收夏种气象服务启动",
+  "title_en": "National Summer Harvest and Planting Meteorological Services Launched for 2026",
+  "summary_zh": "中国气象局于5月21日在北京启动2026年全国夏收夏种气象服务，由中央气象台发布首份气象服务专报以支持农业生产。",
+  "summary_en": "The China Meteorological Administration launched the 2026 national summer harvest and planting meteorological services in Beijing on May 21, with the Central Meteorological Observatory issuing the first special report.",
+  "body_zh": "今年全国夏收夏种气象服务启动\n本报北京5月21日电 （记者李红梅）记者从中国气象局获悉：中央气象台近日发布了今年首份《全国夏收夏种气象服务专报》，2026年全国夏收夏种气象服务正式启动。\n中央气象台预计，5月下旬夏粮产区降雨偏多。26日前，江汉南部、江淮至江南北部降雨频繁，土壤过湿持续时间长，不利于收获晾晒，油菜收获连阴雨风险较高。6月上中旬，华北东部、黄淮大部以及湖北东北部等地降水接近常年或略偏少，河南东南部、安徽大部、湖北中东部偏少二至五成，对冬小麦集中机收晾晒总体有利。\n今年，中国气象局继续联合农业农村部做好农机作业气象服务，提供未来一周夏粮机收重点省份天气专报。国家气象中心优化完善农业气象灾害监测与预报产品，每周发布两次《全国夏收夏种气象服务专报》，开展精细化气象服务。",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-22T03:17:07Z",
+  "topic": "industry",
+  "keywords": [
+    "夏收夏种",
+    "气象服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "夏收夏种",
+      "name_en": "Summer Harvest and Planting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气象服务",
+      "name_en": "Meteorological Services"
+    }
+  ],
+  "tags_zh": [
+    "中国气象局",
+    "农业农村部",
+    "北京",
+    "夏收夏种",
+    "气象服务"
+  ],
+  "tags_en": [
+    "China Meteorological Administration",
+    "Ministry of Agriculture and Rural Affairs",
+    "Beijing",
+    "Summer Harvest and Planting",
+    "Meteorological Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260521-peoples_gs-92c9d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0522/c352664-41587949.html",
+      "title_zh": "今年全国夏收夏种气象服务启动",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/0522/c349771-41587725.html",
+      "title_zh": "今年全国夏收夏种气象服务启动",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

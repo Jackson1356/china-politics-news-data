@@ -1,0 +1,89 @@
+{
+  "id": "20260626-chinanews_gn-c5802c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-26/10647896.shtml",
+  "title_zh": "外交部：中国发展军力不针对任何国家",
+  "title_en": "Ministry of Foreign Affairs: China's Military Development Does Not Target Any Country",
+  "summary_zh": "2026年6月26日，外交部发言人郭嘉昆在例行记者会上表示，中国发展军力是为了维护国家主权、安全和发展利益，不针对任何国家。",
+  "summary_en": "On June 26, 2026, Foreign Ministry spokesperson Guo Jiakun stated at a regular press conference that China's military development is intended to safeguard national sovereignty, security, and development interests, and does not target any country.",
+  "body_zh": "外交部：中国发展军力不针对任何国家\n中新网北京6月26日电 (记者 郭超凯)中国外交部发言人郭嘉昆26日主持例行记者会。\n郭嘉昆：我不了解你提到的所谓“内部文件”的情况。中国坚持走和平发展道路，中国发展军力是为了维护国家主权、安全和发展利益，不针对任何国家。中国军力的增长是世界和平力量的增长，有助于维护亚太和世界的和平稳定。(完)\n国内新闻精选：\n- 2026年06月27日 13:16:40\n- 2026年06月27日 10:04:38\n- 2026年06月26日 21:41:11\n- 2026年06月26日 20:52:50\n- 2026年06月26日 16:44:24\n- 2026年06月26日 16:22:57\n- 2026年06月26日 14:09:55\n- 2026年06月26日 13:51:53\n- 2026年06月26日 12:52:24\n- 2026年06月26日 08:31:47",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "军力发展",
+    "国家安全",
+    "和平发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军力发展",
+      "name_en": "Military Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全",
+      "name_en": "National Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "和平发展",
+      "name_en": "Peaceful Development"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "军力发展",
+    "国家安全",
+    "和平发展"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Military Development",
+    "National Security",
+    "Peaceful Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260626-chinanews_gn-c5802c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

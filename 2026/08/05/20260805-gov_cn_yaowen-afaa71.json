@@ -1,0 +1,83 @@
+{
+  "id": "20260805-gov_cn_yaowen-afaa71",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077565.htm",
+  "title_zh": "上半年产业创新活力进一步激发",
+  "title_en": "Industrial Innovation Vitality Further Stimulated in First Half of Year",
+  "summary_zh": "国家税务总局数据显示，今年上半年支持科技创新和制造业发展的减税降费及退税超1.9万亿元，数字经济核心产业销售收入同比增长8.7%，传统产业转型提速，新兴产业增势强劲。",
+  "summary_en": "Tax data from the State Taxation Administration shows that in H1, tax and fee reductions and rebates supporting sci-tech innovation and manufacturing exceeded 1.9 trillion yuan, with core digital economy sales revenue up 8.7% year-on-year, traditional industries accelerating transformation, and emerging industries growing strongly.",
+  "body_zh": "国家税务总局发布的税收数据显示，今年上半年，全国支持科技创新和制造业发展政策减税降费及退税超1.9万亿元，政策红利持续释放，传统产业转型提速，新兴产业增势强劲，创新发展活力进一步激发。\n今年以来，数字与产业融合持续加深。发票数据显示，上半年，数字经济核心产业销售收入同比增长8.7%，反映数字产业化进程加快。同时，全国企业采购数字技术同比增长8.3%，反映产业数字化动力增强。\n传统产业转型升级步伐加快，食品制造、服装、造纸行业销售收入同比分别增长11.6%、9.2%和8.9%。新兴产业更是保持高速增长态势，智能车载设备、无人机、机器人行业销售收入同比分别增长43%、36.2%、27.3%。\n此外，企业创新投入和产出也持续加大。上半年，全国企业购进研发设备和研发服务金额增幅超过10%。同时，反映创新产出的科学研究和技术服务业、知识产权（专利）密集型产业销售收入均保持两位数以上增长。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "科技创新",
+    "制造业发展",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-Tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业发展",
+      "name_en": "Manufacturing Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "国家税务总局",
+    "科技创新",
+    "制造业发展",
+    "数字经济"
+  ],
+  "tags_en": [
+    "State Taxation Administration",
+    "Sci-Tech Innovation",
+    "Manufacturing Development",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-gov_cn_yaowen-afaa71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

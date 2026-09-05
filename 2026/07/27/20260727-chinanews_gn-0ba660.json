@@ -1,0 +1,93 @@
+{
+  "id": "20260727-chinanews_gn-0ba660",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-27/10667154.shtml",
+  "title_zh": "一艘越南籍船舶遇险沉没 中方救起47人并全部移交越方",
+  "title_en": "A Vietnamese Ship Sinks in Distress, China Rescues 47 People and Transfers All to Vietnam",
+  "summary_zh": "2026年7月25日，交通运输部南海救助局在永暑礁附近海域救起一艘越南籍沉船上的47名遇险人员，并于27日全部移交越方。",
+  "summary_en": "On July 25, 2026, the Nanhai Rescue Bureau of the Ministry of Transport rescued 47 people from a sunken Vietnamese ship near Yongshu Reef, and transferred them all to Vietnamese authorities by July 27.",
+  "body_zh": "一艘越南籍船舶遇险沉没 中方救起47人并全部移交越方\n记者从交通运输部救助打捞局了解到，7月25日18时23分，交通运输部南海救助局“南海救115”轮返航三亚途中，在永暑礁以北约38海里处发现一个救生筏，筏上有多名遇险人员，随即展开施救，成功救起救生筏上全部29名人员。经了解，他们的船舶于24日遇险沉没，坐救生筏漂流至此，遇险时船上共有62名越南籍人员。南海救助局先后增派救助船、救助直升机前往增援。\n截至目前，中方救援力量已成功救起47名遇险人员。昨日，作为现场搜救指挥船的“南海救115”轮转移41名获救人员至越方船舶。今天上午，救助直升机“B-72CT”分两批次先后将6名获救人员转移至越方船舶。\n现场包括“南海救115”轮和“南海救113”轮在内的各方力量仍在进行搜救工作。\n(总台央视记者 唐颖)\n国内新闻精选：\n- 2026年07月27日 14:12:01\n- 2026年07月27日 13:55:53\n- 2026年07月27日 11:05:53\n- 2026年07月27日 10:47:48\n- 2026年07月27日 09:07:36\n- 2026年07月24日 12:39:42\n- 2026年07月23日 22:15:08\n- 2026年07月23日 20:11:31\n- 2026年07月23日 18:17:43\n- 2026年07月23日 15:16:16",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-25",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "海上救援",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "交通运输部南海救助局",
+      "name_en": "Nanhai Rescue Bureau of the Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南海",
+      "name_en": "South China Sea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海上救援",
+      "name_en": "Maritime Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部南海救助局",
+    "南海",
+    "海上救援",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Nanhai Rescue Bureau of the Ministry of Transport",
+    "South China Sea",
+    "Maritime Rescue",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "交通运输部南海救助局",
+        "name_en": "Nanhai Rescue Bureau of the Ministry of Transport"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260727-chinanews_gn-0ba660",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-27/10667200.shtml",
+      "title_zh": "中方已救起47名越南籍船舶遇险人员",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

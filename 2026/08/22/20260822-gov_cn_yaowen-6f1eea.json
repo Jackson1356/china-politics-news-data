@@ -1,0 +1,74 @@
+{
+  "id": "20260822-gov_cn_yaowen-6f1eea",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078911.htm",
+  "title_zh": "今年1—7月高技术产业吸引外资同比增长32.7%",
+  "title_en": "High-Tech Industries Attract 32.7% More Foreign Investment in Jan-Jul",
+  "summary_zh": "商务部数据显示，1—7月全国实际使用外资4383.3亿元，高技术产业实际使用外资1823.1亿元，同比增长32.7%，占全国比重41.6%。",
+  "summary_en": "According to the Ministry of Commerce, actual foreign investment in China reached 438.33 billion yuan in Jan-Jul, with high-tech industries attracting 182.31 billion yuan, up 32.7% year on year, accounting for 41.6% of the total.",
+  "body_zh": "商务部最新数据显示，今年1—7月，全国实际使用外资金额4383.3亿元人民币；新设立外商投资企业超3.7万家，同比增长4.4%。\n高技术产业实际使用外资1823.1亿元人民币，同比增长32.7%，占全国实际使用外资的41.6%，较去年同期提升12.2个百分点。其中，研发与设计服务、科技成果转化服务、电子及通信设备制造业实际使用外资继续保持较快增长。\n从来源地看，沙特阿拉伯、法国、韩国实际对华投资分别增长343.7%、36.1%、15.8%。",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "economy",
+  "keywords": [
+    "高技术产业",
+    "外商投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术产业",
+      "name_en": "High-Tech Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商投资",
+      "name_en": "Foreign Investment"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "高技术产业",
+    "外商投资"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "High-Tech Industries",
+    "Foreign Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260822-gov_cn_yaowen-6f1eea",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

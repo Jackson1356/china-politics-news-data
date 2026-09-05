@@ -1,0 +1,101 @@
+{
+  "id": "20260730-gov_chang_chun-45de20",
+  "source": "gov_chang_chun",
+  "source_name_zh": "长春市政府网",
+  "source_name_en": "长春 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_chun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JL",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.changchun.gov.cn/szf/zfld/szx/gg/zyhd/202607/t20260730_3503511.html",
+  "title_zh": "市政府召开党组（扩大）会议、常务会议",
+  "title_en": "Municipal Government Holds Party Leadership Group (Expanded) Meeting and Executive Meeting",
+  "summary_zh": "7月29日，长春市委副书记、市长顾刚主持召开市政府党组（扩大）会议、常务会议，部署科技创新、产业提质、城市更新等工作，原则通过支持光电信息产业发展若干措施。",
+  "summary_en": "On July 29, Gu Gang, Deputy Party Secretary and Mayor of Changchun, chaired the municipal government's Party Leadership Group (Expanded) Meeting and Executive Meeting, deploying work on sci-tech innovation, industrial upgrading, urban renewal, and approving measures supporting optoelectronic information industry.",
+  "body_zh": "市政府召开党组（扩大）会议、常务会议\n7月29日，市委副书记、市长顾刚主持召开市政府党组（扩大）会议、常务会议，深入学习贯彻习近平总书记近期重要讲话重要指示精神，安排部署科技创新、产业提质、城市更新、安全生产等工作，讨论并原则通过《长春市支持光电信息产业发展的若干措施（试行）》等文件。\n会议指出，要认真学习习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的重要讲话精神，以科技创新引领新质生产力发展，增强科技创新体系化攻关能力，强化以企业为主体的产学研用协同创新、融合创新，积极营造更加优良的科技创新环境。\n会议强调，要深入贯彻习近平总书记在上海考察时的重要讲话精神，全面践行人民城市理念，高质量推进城市更新，抓好老旧小区改造、围挡整治、加装电梯、养老机构建设等工作，改进物业管理服务，提升城市功能品质。扎实推进供热提质，统筹落实国有、民营供热企业扶持政策，加强宣传引导，切实把好事办好、实事办实。\n会议指出，加快产业转型、积极培育新动能是经济稳增长的关键路径。要大力支持光电信息产业发展，完善配套政策细则，实施重点企业倍增计划。加快布局低空经济，多领域开放应用场景。发挥国有企业作用，加快供热公募REITs发行，提升国有资产运营质效。加大县域扶持力度，巩固县域经济向好态势。稳步推进开发区改革，强化产业、招商主责主业，充分激发内生动力活力。\n会议还研究了其他事项。\n长春市人民政府 www.changchun.gov.cn\n时间：2026-07-30 10:37",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "科技创新",
+    "光电信息产业",
+    "城市更新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-gang-hainan",
+      "name_zh": "顾刚",
+      "name_en": "Gu Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-Tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "光电信息产业",
+      "name_en": "Optoelectronic Information Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "顾刚",
+    "长春",
+    "科技创新",
+    "光电信息产业",
+    "城市更新",
+    "习近平"
+  ],
+  "tags_en": [
+    "Gu Gang",
+    "Changchun",
+    "Sci-Tech Innovation",
+    "Optoelectronic Information Industry",
+    "Urban Renewal"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-gang-hainan",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260730-gov_chang_chun-45de20",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

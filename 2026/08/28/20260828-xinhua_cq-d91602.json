@@ -1,0 +1,119 @@
+{
+  "id": "20260828-xinhua_cq-d91602",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cq.news.cn/20260828/f4467aa9da25492d88ff8751ff4364a8/c.html",
+  "title_zh": "袁家军陈新武会见国务院国资委党委书记、主任程福波",
+  "title_en": "Yuan Jiajun and Chen Xinwu Meet with SASAC Party Secretary Cheng Fubo",
+  "summary_zh": "8月27日上午，重庆市委书记袁家军、市长陈新武在北京会见国务院国资委党委书记、主任程福波，双方就深化央地合作、推动国资国企改革等进行交流。",
+  "summary_en": "On August 27 morning, Chongqing Party Secretary Yuan Jiajun and Mayor Chen Xinwu met in Beijing with Cheng Fubo, SASAC Party Secretary and Director, to discuss deepening central-local cooperation and SOE reform.",
+  "body_zh": "8月27日上午，市委书记袁家军，市委副书记、市长陈新武在北京会见了国务院国资委党委书记、主任程福波一行。\n国务院国资委党委委员、副主任庞骁刚，副市长郑向东参加。\n袁家军代表市委、市政府感谢国务院国资委对重庆经济社会发展的大力支持。袁家军说，当前，全市上下正深化落实习近平总书记视察重庆重要讲话重要指示精神，聚焦做实“两大定位”、发挥“三个作用”，坚持把国资国企改革作为重庆改革发展的重要抓手，大力推动国企战略性重组、专业化整合，精准发力推进国资盘活，创新构建以数字财政为牵引的大财政治理体系和数智化穿透式国资监管体系，全面加强党对国企的领导，加快提升国企履行战略使命能力和创新力控制力竞争力。希望国务院国资委一如既往关心支持重庆，携手打造更多央地合作标志性成果，共同服务全国发展大局。\n程福波代表国务院国资委感谢重庆市对中央企业在渝发展的高度重视和大力支持。他表示，重庆区位优势突出、产业基础雄厚，国资国企改革特色鲜明、成效显著，发展态势持续向新向优向好，令人倍感振奋。国务院国资委将深入贯彻习近平总书记重要讲话重要指示精神，指导推动中央企业胸怀“国之大者”、站位大局全局，加大在渝投资兴业力度，精准谋划实施一批科技含量高、产业带动强、示范效应好的重点项目，促进央地资源互补、优势叠加，共同推动党中央决策部署落地见效。\n国务院国资委有关厅局，市有关部门负责人参加。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "国资国企改革",
+    "央地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yuan-jiajun",
+      "name_zh": "袁家军",
+      "name_en": "Yuan Jiajun"
+    },
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": "Chen Xinwu"
+    },
+    {
+      "kind": "person",
+      "id": "cheng-fubo",
+      "name_zh": "程福波",
+      "name_en": "Cheng Fubo"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院国资委",
+      "name_en": "SASAC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国资国企改革",
+      "name_en": "SOE Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-Local Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "袁家军",
+    "陈新武",
+    "程福波",
+    "国务院国资委",
+    "北京",
+    "国资国企改革",
+    "央地合作"
+  ],
+  "tags_en": [
+    "Yuan Jiajun",
+    "Chen Xinwu",
+    "Cheng Fubo",
+    "SASAC",
+    "Beijing",
+    "SOE Reform",
+    "Central-Local Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xinwu",
+      "cheng-fubo",
+      "yuan-jiajun",
+      {
+        "id": null,
+        "name_zh": "郑向东"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国务院国资委",
+        "name_en": "SASAC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260828-xinhua_cq-d91602",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

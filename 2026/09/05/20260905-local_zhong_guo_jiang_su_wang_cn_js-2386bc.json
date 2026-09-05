@@ -1,0 +1,92 @@
+{
+  "id": "20260905-local_zhong_guo_jiang_su_wang_cn_js-2386bc",
+  "source": "local_zhong_guo_jiang_su_wang_cn_js",
+  "source_name_zh": "中国江苏网",
+  "source_name_en": "中国江苏网",
+  "source_media_id": "cac-cn-js-97d8bc0710",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://jsnews.jschina.com.cn/jsyw/202609/t20260905_s6a9b7205e4b01de36f04a4cc.shtml",
+  "title_zh": "刘小涛会见强生公司高管",
+  "title_en": "Liu Xiaotao Meets with Johnson & Johnson Executives",
+  "summary_zh": "9月3日，江苏省省长刘小涛在南京会见强生公司执行副总裁史明德，双方表示将深化产学研用合作，共建创新平台，推动生物医药产业发展。",
+  "summary_en": "On September 3, Jiangsu Governor Liu Xiaotao met in Nanjing with Johnson & Johnson's executive vice president, agreeing to deepen industry-university-research cooperation and promote biomedical innovation.",
+  "body_zh": "交汇点讯 9月3日，省长刘小涛在南京会见强生公司执行副总裁、医疗科技全球主席史明德。\n双方表示，将依托江苏生物医药产业的优质生态、庞大市场和强生公司的技术优势、国际布局，进一步深化产学研用合作，携手江苏高校、科研院所和医疗卫生机构开展创新平台共建、人才联合培养，带动更多企业融入江苏生物医药产业链上下游，更好助力创新成果走向全球市场，不断增进人民健康福祉。\n副省长赵岩，省政府秘书长赵建军参加会见。\n新华日报·交汇点记者 王拓 李嘉豪\n刘小涛会见强生公司高管",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "economy",
+  "keywords": [
+    "生物医药产业",
+    "产学研合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药产业",
+      "name_en": "Biomedical Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产学研合作",
+      "name_en": "Industry-University-Research Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "生物医药产业",
+    "产学研合作"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "Biomedical Industry",
+    "Industry-University-Research Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260905-local_zhong_guo_jiang_su_wang_cn_js-2386bc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/9/5/art_60096_11825687.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛会见强生公司高管",
+      "published_at": "2026-09-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

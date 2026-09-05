@@ -1,0 +1,95 @@
+{
+  "id": "20260818-gov_yan_tai-c426be",
+  "source": "gov_yan_tai",
+  "source_name_zh": "烟台市政府网",
+  "source_name_en": "烟台 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_tai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yantai.gov.cn/col/col11794/art/2026/art_9bd5d472786142738d9caf9c73d0bb81.html",
+  "title_zh": "中国致公党烟台市第八次代表大会召开",
+  "title_en": "8th Congress of China Zhi Gong Party Yantai Committee Convened",
+  "summary_zh": "8月18日，中国致公党烟台市第八次代表大会召开，选举产生新一届委员会，纪洪芳当选主任委员。",
+  "summary_en": "On August 18, the 8th Congress of the China Zhi Gong Party Yantai Committee was held, electing a new committee with Ji Hongfang as chairwoman.",
+  "body_zh": "8月18日，中国致公党烟台市第八次代表大会召开。致公党中央委员、山东省委会副主委刘光烨，中共烟台市委副书记、政法委书记高建广，民建烟台市委会主委王晓燕出席并致辞。市人大常委会副主任李胜刚，副市长、蓬莱区委书记林钰涛，市政协副主席刘建峰出席。致公党烟台市委会主委张振华致开幕词并作工作报告。\n会上，审议通过了致公党烟台市第七届委员会工作报告和大会决议，选举产生了致公党烟台市第八届委员会，纪洪芳当选主任委员，邵伟伟、黄晨林、马海涛、李卫东当选副主任委员，任命姜斑女为秘书长。\n高建广代表中共烟台市委对大会召开表示祝贺，并通报全市经济社会发展情况。他指出，过去五年，致公党烟台市委会扎实推进自身建设，在海外联谊、建言献策、惠民服务等方面取得明显成效。希望新一届致公党市委会坚守合作初心，凝聚侨海力量，服务发展大局，提升履职效能，为加快建设绿色低碳高质量发展示范城市作出新的更大贡献。\n会议号召，全市广大致公党党员要坚持以习近平新时代中国特色社会主义思想为指导，在致公党山东省委会和中共烟台市委的领导下，传承致公党百年基本经验，致力为公跟党走、侨海报国建新功，奋力谱写新时代烟台多党合作事业新篇章。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作",
+    "民主党派换届"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-YT",
+      "name_zh": "烟台",
+      "name_en": "Yantai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multi-party Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主党派换届",
+      "name_en": "Democratic Party Leadership Transition"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xiao-shaanxi",
+      "name_zh": "王晓",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "烟台",
+    "多党合作",
+    "民主党派换届",
+    "王晓"
+  ],
+  "tags_en": [
+    "Yantai",
+    "Multi-party Cooperation",
+    "Democratic Party Leadership Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xiao-shaanxi",
+      {
+        "id": null,
+        "name_zh": "王晓燕"
+      },
+      {
+        "id": null,
+        "name_zh": "刘建峰"
+      },
+      {
+        "id": null,
+        "name_zh": "贺并"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-YT"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260818-gov_yan_tai-c426be",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

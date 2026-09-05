@@ -1,0 +1,97 @@
+{
+  "id": "20260728-gov_xin_yang-2a4693",
+  "source": "gov_xin_yang",
+  "source_name_zh": "信阳市政府网",
+  "source_name_en": "信阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xin_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xinyang.gov.cn/2026/07-28/796412.html",
+  "title_zh": "张宏伟卢希望会见国网河南电力董事长刘继东",
+  "title_en": "Zhang Hongwei and Lu Xiwang Meet with Liu Jidong, Chairman of State Grid Henan Electric Power",
+  "summary_zh": "7月28日，信阳市委书记张宏伟、市长卢希望会见国网河南省电力公司董事长刘继东，双方围绕电网建设改造和清洁能源开发达成共识。",
+  "summary_en": "On July 28, Xinyang Party Secretary Zhang Hongwei and Mayor Lu Xiwang met with Liu Jidong, Chairman of State Grid Henan Electric Power, reaching consensus on grid construction and clean energy development.",
+  "body_zh": "7月28日，市委书记张宏伟，市委副书记、市长卢希望会见国网河南省电力公司董事长、党委书记刘继东一行，双方围绕电网建设改造和清洁能源开发等工作进行洽谈并达成广泛共识。\n国网河南省电力公司总经理、党委副书记张军六，党委副书记张立庆，市领导于海忠、李新伟参加。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "industry",
+  "keywords": [
+    "电网建设改造",
+    "清洁能源开发"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张宏伟",
+      "name_en": "Zhang Hongwei"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢希望",
+      "name_en": "Lu Xiwang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘继东",
+      "name_en": "Liu Jidong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电网建设改造",
+      "name_en": "Grid Construction and Renovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源开发",
+      "name_en": "Clean Energy Development"
+    }
+  ],
+  "tags_zh": [
+    "张宏伟",
+    "卢希望",
+    "刘继东",
+    "电网建设改造",
+    "清洁能源开发"
+  ],
+  "tags_en": [
+    "Zhang Hongwei",
+    "Lu Xiwang",
+    "Liu Jidong",
+    "Grid Construction and Renovation",
+    "Clean Energy Development"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李新伟"
+      },
+      {
+        "id": null,
+        "name_zh": "卢希望"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260728-gov_xin_yang-2a4693",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

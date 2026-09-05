@@ -1,0 +1,73 @@
+{
+  "id": "20260902-gov_cn_yaowen-c76db5",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/02/VIDEk1qaLbqHUDg75uK6tiBf260902.shtml",
+  "title_zh": "习近平出席埃及总统举行的欢迎仪式",
+  "title_en": "Xi Jinping Attends Welcoming Ceremony Hosted by Egyptian President",
+  "summary_zh": "当地时间9月2日上午，埃及总统塞西在开罗举行隆重仪式，欢迎习近平时隔十年再次对埃及进行国事访问。",
+  "summary_en": "On the morning of September 2 local time, Egyptian President Sisi held a grand ceremony in Cairo to welcome Xi Jinping on his state visit to Egypt after ten years.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间9月2日上午，埃及总统塞西在开罗太阳宫举行隆重欢迎仪式，欢迎中国国家主席习近平时隔十年再次对埃及进行国事访问。\n在元首外交引领下，中埃全面战略伙伴关系实现了跨越式发展，迎来历史最好时期。习近平主席此访，将谱写中埃关系新篇章，也将为维护地区和世界和平稳定作出积极贡献。\n开罗晴空朗照。习近平和夫人彭丽媛乘车抵达太阳宫时，马队和礼兵列队致敬，军乐团奏迎宾曲，鸣21响礼炮。塞西和夫人依缇萨尔热情迎接。\n塞西为习近平举行欢迎仪式。两国元首共同登上检阅台，军乐团奏中埃两国国歌。两国元首分别同对方陪同人员握手致意。两国元首夫妇步入太阳宫大厅，在两国国旗前合影。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "开罗",
+      "name_en": "Cairo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "开罗",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Cairo",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-gov_cn_yaowen-c76db5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

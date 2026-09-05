@@ -1,0 +1,91 @@
+{
+  "id": "20260821-bjnews-c95b01",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1787278955129533.html",
+  "title_zh": "财政部：超2500万名婴幼儿及其家庭领到2026年度育儿补贴",
+  "title_en": "Ministry of Finance: Over 25 Million Infants and Families Receive 2026 Childcare Subsidy",
+  "summary_zh": "财政部在国新办发布会上介绍，2026年超2500万名婴幼儿及其家庭领取育儿补贴，并加大教育、社保、卫生等民生投入。",
+  "summary_en": "At a State Council Information Office press conference, the Ministry of Finance said over 25 million infants and families received the 2026 childcare subsidy, with increased spending on education, social security, and health.",
+  "body_zh": "据央视新闻消息，在今天上午国新办举行“开局起步‘十五五’”系列主题新闻发布会上，财政部有关负责人介绍，我国不断加大保障和改善民生力度，持续增进民生福祉。\n数据显示，2026年，全国一般公共预算安排教育、社保、卫生、住房等方面的资金12.4万亿元，较上年增长5.4%，高于全国一般公共预算支出增幅1个百分点。相关负责人介绍：\n社会保障网越织越密。预计今年全年超4400万人领取低保、特困人员供养等基本生活救助。\n“一老一小”服务保障更加有力。今年专门安排资金，支持农村地区65岁及以上老年人等群体免费接种流感疫苗。超过2500万名婴幼儿及其家庭领到了2026年度育儿补贴。\n在基本医疗卫生服务方面，今年居民医保财政补助标准进一步提高，减轻人民群众看病费用负担。支持落实将双价HPV疫苗纳入国家免疫规划。\n在教育方面，下达学生资助资金超1600亿元，预计全年将有1.5亿人次受益。\n针对“一人失能、全家失衡”的长期护理难题，中央财政推动加快建立长期护理保险制度。同时，安排资金超120亿元，在全国范围内实施向中度以上失能老年人发放养老服务消费补贴项目，惠及失能老年人近200万人。\n（总台央视记者 王楠 孙艳）",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "welfare",
+  "keywords": [
+    "育儿补贴",
+    "民生保障",
+    "社会保障"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "育儿补贴",
+      "name_en": "Childcare Subsidy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会保障",
+      "name_en": "Social Security"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "育儿补贴",
+    "民生保障",
+    "社会保障"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Childcare Subsidy",
+    "Livelihood Security",
+    "Social Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260821-bjnews-c95b01",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-08/21/content_32153055.htm",
+      "title_zh": "财政部：超2500万名婴幼儿及其家庭已领2026年育儿补贴",
+      "published_at": "2026-08-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

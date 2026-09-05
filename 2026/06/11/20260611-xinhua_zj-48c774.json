@@ -1,0 +1,83 @@
+{
+  "id": "20260611-xinhua_zj-48c774",
+  "source": "xinhua_zj",
+  "source_name_zh": "新华网 浙江",
+  "source_name_en": "Xinhua Zhejiang",
+  "source_url": "http://zj.news.cn/20260611/e5e9859f9ef0411eb229bd40cb764b18/c.html",
+  "title_zh": "公安部网安局发布侵犯公民个人信息违法犯罪典型案例",
+  "title_en": "Cybersecurity Bureau of Ministry of Public Security Releases Typical Cases of Personal Information Infringement Crimes",
+  "summary_zh": "6月11日，公安部网安局发布侵犯公民个人信息违法犯罪典型案例，揭露了三种常见的作案类型。",
+  "summary_en": "On June 11, the Cybersecurity Bureau of the Ministry of Public Security released typical cases of crimes infringing on citizens' personal information, revealing three common types of criminal activities.",
+  "body_zh": "新华社北京6月11日电（记者李明辉、马剑）6月11日，公安部网安局发布侵犯公民个人信息违法犯罪典型案例，揭露了3类常见的作案类型。\n一是利用个人疏忽与急迫心理，如借“兼职招聘”诱导受害人主动完成实名认证、填写敏感信息后再行倒卖；二是信息处理者安全责任“失守”，部分平台、企业内部管理不严，出现“内鬼”或技术漏洞，导致海量数据被窃取、转卖；三是以“精准营销”为名的非法获取，个别科技公司假借业务推广、数据分析，违规收集、交换公民个人信息。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "个人信息保护",
+    "网络安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部网安局",
+      "name_en": "Cybersecurity Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "个人信息保护",
+      "name_en": "Personal Information Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    }
+  ],
+  "tags_zh": [
+    "公安部网安局",
+    "北京",
+    "个人信息保护",
+    "网络安全"
+  ],
+  "tags_en": [
+    "Cybersecurity Bureau of the Ministry of Public Security",
+    "Beijing",
+    "Personal Information Protection",
+    "Cybersecurity"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "公安部网安局",
+        "name_en": "Cybersecurity Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260611-xinhua_zj-48c774",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

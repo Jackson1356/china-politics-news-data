@@ -1,0 +1,91 @@
+{
+  "id": "20260728-gov_tai_zhou-29a76c",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_1d03a078c3fd4633a889be5643a9a4ac.html",
+  "title_zh": "姜冬冬会见浙商银行总行客人一行",
+  "title_en": "Jiang Dongdong Meets CZBank Delegation",
+  "summary_zh": "7月27日，泰州市委书记姜冬冬会见浙商银行党委书记、董事长陈海强一行，双方就深化合作进行交流。",
+  "summary_en": "On July 27, Jiang Dongdong, Secretary of the Taizhou Municipal Party Committee, met with Chen Haiqiang, Party Secretary and Chairman of CZBank, to discuss deepening cooperation.",
+  "body_zh": "泰州要闻\n姜冬冬会见浙商银行总行客人一行\n- 发布日期：2026-07-28 07:32\n- 浏览次数：\n7月27日，市委书记姜冬冬会见浙商银行党委书记、董事长陈海强一行，双方就深化合作进行交流。\n姜冬冬代表市委、市政府对陈海强一行的到来表示欢迎，向浙商银行长期以来给予泰州经济社会发展的关心支持表示感谢。他说，今年是“十五五”开局之年，也是地级泰州市组建30周年。当前，泰州正加快构建以“大海新晨”为标志的现代化产业体系和“8+13+X”产业链群体系，奋力打造江苏高质量发展中部支点城市。浙商银行金融业态丰富、市场化运作经验成熟，业务布局与泰州重点产业培育、重大项目建设、市场主体发展等需求高度契合。希望双方进一步拓展合作维度，在更广领域、更深层次推动全方位协同，携手开创双向赋能的崭新局面。泰州将持续打造“到泰州、泰周到”的发展环境，为浙商银行在泰发展提供全方位优质服务和坚实保障。\n陈海强对泰州市委、市政府长期以来给予浙商银行的大力支持表示感谢，并介绍了浙商银行经营发展情况和战略布局方向。他表示，泰州区位优势明显、产业基础扎实、发展势头强劲，是长三角地区极具活力与发展潜力的城市。浙商银行将继续坚定不移扎根泰州、服务泰州、赋能泰州，充分发挥自身金融资本、产业链接、浙商平台的独特优势，持续延伸合作链条、深挖协同潜能，精准对接产业升级与企业成长需求，靶向输送金融活水，助力泰州高质量发展。\n浙商银行党委委员、副行长骆峰，市领导叶冬华等参加会见。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-27",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "economy",
+  "keywords": [
+    "政银合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政银合作",
+      "name_en": "Government-Bank Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "泰州",
+    "政银合作"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Taizhou",
+    "Government-Bank Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "方向他"
+      },
+      {
+        "id": null,
+        "name_zh": "谢并"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260728-gov_tai_zhou-29a76c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_1d03a078c3fd4633a889be5643a9a4ac.html",
+      "title_zh": "姜冬冬会见浙商银行总行客人一行",
+      "published_at": "2026-07-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

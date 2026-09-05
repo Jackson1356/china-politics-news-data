@@ -1,0 +1,77 @@
+{
+  "id": "20260830-gov_cn_yaowen-8919e0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079599.htm",
+  "title_zh": "上半年全国新设外商投资企业3.5万户",
+  "title_en": "China Sees 35,000 New Foreign-Funded Enterprises in H1",
+  "summary_zh": "市场监管总局数据显示，上半年全国新设外商投资企业3.5万户，同比增长7%，消费市场成为吸引外资新方向。",
+  "summary_en": "According to SAMR data, 35,000 new foreign-funded enterprises were established in China in H1, up 7% year-on-year, with the consumer market becoming a new driver for foreign investment.",
+  "body_zh": "市场监管总局公布数据显示，上半年，全国新设外商投资企业3.5万户，同比增长7.0%。上半年，共建“一带一路”国家、阿拉伯国家、非盟国家合计在华新设企业1.1万户，分别增长19.3%、20.6%、42.8%。消费市场成为吸引外资的新方向，上半年，卫生和社会工作、批发和零售业、住宿和餐饮业新设外商投资企业增速分别为27.1%、11.9%和11.7%，中国庞大市场对外资吸引力持续提升。",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "economy",
+  "keywords": [
+    "外商投资",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市场监管总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商投资",
+      "name_en": "Foreign Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    }
+  ],
+  "tags_zh": [
+    "市场监管总局",
+    "外商投资",
+    "一带一路"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Foreign Investment",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "市场监管总局",
+        "name_en": "State Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260830-gov_cn_yaowen-8919e0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

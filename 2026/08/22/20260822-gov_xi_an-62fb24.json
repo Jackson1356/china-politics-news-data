@@ -1,0 +1,93 @@
+{
+  "id": "20260822-gov_xi_an-62fb24",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2091709393751027714.html",
+  "title_zh": "联合国人工智能与人类发展全球对话在西安举办",
+  "title_en": "UN Global Dialogue on AI and Human Development Held in Xi'an",
+  "summary_zh": "8月20日至21日，联合国人工智能与人类发展系列全球对话第三场活动在陕西西安举办，联合国常务副秘书长阿明娜、陕西省省长赵刚致辞。",
+  "summary_en": "From August 20 to 21, the third global dialogue on AI and human development was held in Xi'an, Shaanxi, with UN Deputy Secretary-General Amina Mohammed and Governor Zhao Gang addressing the event.",
+  "body_zh": "8月20日至21日，联合国人工智能与人类发展系列全球对话第三场活动在陕西西安举办。联合国常务副秘书长阿明娜，陕西省省长赵刚致辞。\n阿明娜表示，联合国致力于推动世界各国共同参与这场对话。此前，我们已经在埃及开罗、墨西哥墨西哥城开展了两场对话活动。全球超过半数人口生活在亚洲，亚洲国家的传统智慧，为我们推进人工智能治理提供了启发。希望通过本次西安对话，让各界借鉴亚洲经验，打造一种全新的联结模式，让技术得到共享，推动人工智能以人为本、向上向善。\n赵刚表示，近年来，陕西立足自身优势，持续推动人工智能技术创新，促进人工智能赋能千行百业发展。我们愿以此次对话活动为契机，同各方一道，秉承以人为本、向上向善理念，准确把握、积极应对人工智能发展带来的机遇和挑战，不断推动技术红利更好地普惠全球，让人工智能成为促进共同繁荣、维护共同安全的重要动力源。",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "人工智能",
+    "全球对话",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-gang-shaanxi",
+      "name_zh": "赵刚",
+      "name_en": "Zhao Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球对话",
+      "name_en": "Global Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "赵刚",
+    "西安",
+    "人工智能",
+    "全球对话",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Zhao Gang",
+    "Xi'an",
+    "Artificial Intelligence",
+    "Global Dialogue",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-gang-shaanxi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260822-gov_xi_an-62fb24",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

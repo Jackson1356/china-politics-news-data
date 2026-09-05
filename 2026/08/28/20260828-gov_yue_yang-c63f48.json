@@ -1,0 +1,96 @@
+{
+  "id": "20260828-gov_yue_yang-c63f48",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2396707.html",
+  "title_zh": "市政协召开党组会议暨九届第五十五次主席（扩大）会议",
+  "title_en": "Yueyang CPPCC Holds Party Group Meeting and 55th Chairperson (Enlarged) Meeting",
+  "summary_zh": "8月26日，岳阳市政协主席汪涛主持召开市政协党组会议暨九届第五十五次主席（扩大）会议，传达学习习近平总书记重要讲话精神，审议多项调研报告和协商议题。",
+  "summary_en": "On August 26, Wang Tao, chairman of the Yueyang Municipal CPPCC, chaired a party group meeting and the 55th chairperson (enlarged) meeting to convey Xi Jinping's important speeches and review research reports and consultative topics.",
+  "body_zh": "8月26日，市政协主席、党组书记汪涛主持召开市政协党组2026年第八次（扩大）会议暨九届第五十五次主席（扩大）会议，传达学习习近平总书记近期重要讲话重要指示精神，审议有关议题。市政协党组和主席会议成员秧励、何祚云、李文、李运帷、张赟、高鸽子、朱平波、李永波、向科军出席。\n会议强调，要认真学习贯彻习近平总书记在7月30日中央政治局会议上和7月24日党外人士座谈会上的重要讲话精神，紧密衔接省、市重点工作，积极建言献策、凝聚团结合力，以坚定过硬的政治自觉服务全市经济社会高质量发展。\n会议指出，要把习近平总书记关于侨务工作的重要指示精神作为相关专委会的重点学习内容，准确把握新时代侨务工作的政治方向和核心要求，充分发挥侨联及对外友好界别作用，为岳阳产业转型升级贡献政协力量。\n会议原则通过“扛牢口岸城市责任，做强做优外贸经济”课题调研报告、建议案和协商安排；“发展设施农业，推进农业现代化”课题调研报告及协商安排；“完善制度和工作体系，促进志愿服务健康发展”课题调研报告及协商安排，对调研成果予以充分肯定，要求认真梳理吸纳会议意见建议，促进成果转化。会议听取了“探索城市社区嵌入式养老模式，助推我市养老服务高质量发展”专题协商情况汇报，原则同意调研报告、建议清单，要求进一步优化完善，并按程序报送。同时，组织开展协商成果转化落实情况“回头看”，切实做好协商民主“后半篇文章”。\n会议审议了《省政协履职贡献奖评选表彰岳阳市政协推荐名单》，听取了九届市政协委员履职考核情况汇报。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "party",
+  "keywords": [
+    "传达学习",
+    "协商民主",
+    "侨务工作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传达学习",
+      "name_en": "Convey and Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协商民主",
+      "name_en": "Consultative Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "侨务工作",
+      "name_en": "Overseas Chinese Affairs"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "岳阳",
+    "传达学习",
+    "协商民主",
+    "侨务工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yueyang",
+    "Convey and Study",
+    "Consultative Democracy",
+    "Overseas Chinese Affairs"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "汪涛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260828-gov_yue_yang-c63f48",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

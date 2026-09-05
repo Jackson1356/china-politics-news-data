@@ -1,0 +1,89 @@
+{
+  "id": "20250601-bjnews-d13d33",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780296847129462.html",
+  "title_zh": "司法部发布未成年人法律援助典型案例",
+  "title_en": "Ministry of Justice Releases Typical Cases of Legal Aid for Minors",
+  "summary_zh": "6月1日，司法部发布五个未成年人法律援助典型案例，其中一起校园霸凌案判决监护人依法承担连带赔偿责任。",
+  "summary_en": "On June 1, the Ministry of Justice released five typical cases of legal aid for minors, including a school bullying case where guardians were held jointly liable for compensation.",
+  "body_zh": "新京报讯（记者陈璐）在校园欺凌案件中，未成年人往往面临身体伤害、人格受辱、心理创伤和法治能力不足等多重困境。6月1日，司法部发布五个未成年人法律援助典型案例。在一起校园霸凌案中，受害人被同校同学采取体罚、殴打等方式实施侮辱、伤害，同时被拍摄视频上传网络，致其因严重心理创伤不敢返校读书。\n案情显示，2025年1月，江西省某初中学生蔡某纠集他人围堵叶某，将其拖至巷子和大桥下，采取体罚、殴打等方式对叶某实施侮辱、伤害，同时拍摄视频上传网络。叶某家长知晓后立即报警。公安机关根据鉴定情形，依法对蔡某等人作出行政拘留、罚款决定。事后，叶某因严重心理创伤长期不敢返校读书。\n就蔡某等人给叶某造成的人身及精神损害赔偿问题，叶某母亲与蔡某等人家属协商无果，遂代叶某向江西省某法律援助中心申请法律援助。法律援助中心受理申请后，经审查认为，叶某家庭经济困难，符合法律援助条件，当日作出给予法律援助的决定。\n案件审理中，承办人员指出蔡某未能提供证明叶某存在过错的证据，并根据侵权人参与欺凌程度和行为危害性，按照“过错与责任相适应”原则划分责任比例，因本案中蔡某等侵权人系未成年人，属于限制民事行为能力人，共同实施侵权行为，其监护人应当承担连带责任。同时，欺凌行为给叶某带来严重心理创伤，有权主张精神损害赔偿。\n最终，人民法院采纳了承办人员的代理意见，依法判决蔡某等人及其监护人承担连带赔偿责任，共支付精神损害赔偿等赔偿金1.4万余元。经法律援助中心回访，叶某已恢复身心健康、转至其他学校就读。",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2025-06-01",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "welfare",
+  "keywords": [
+    "法律援助",
+    "校园欺凌",
+    "未成年人保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOJ",
+      "name_zh": "司法部",
+      "name_en": "Ministry of Justice"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法律援助",
+      "name_en": "Legal Aid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校园欺凌",
+      "name_en": "School Bullying"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "未成年人保护",
+      "name_en": "Protection of Minors"
+    }
+  ],
+  "tags_zh": [
+    "司法部",
+    "江西",
+    "法律援助",
+    "校园欺凌",
+    "未成年人保护"
+  ],
+  "tags_en": [
+    "Ministry of Justice",
+    "Jiangxi",
+    "Legal Aid",
+    "School Bullying",
+    "Protection of Minors"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOJ"
+    ],
+    "locations": [
+      "CN-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20250601-bjnews-d13d33",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

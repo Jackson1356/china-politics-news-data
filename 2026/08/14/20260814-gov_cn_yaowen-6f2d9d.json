@@ -1,0 +1,102 @@
+{
+  "id": "20260814-gov_cn_yaowen-6f2d9d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078089.htm",
+  "title_zh": "多地降雨持续 防汛救灾加紧进行",
+  "title_en": "Rainfall Persists in Multiple Regions; Flood Control and Relief Efforts Stepped Up",
+  "summary_zh": "8月13日至14日，河南等地强降雨致堤防溃口，被困人员已全部转移；水利部、应急管理部等部门调拨物资、预拨资金支持抢险救灾。",
+  "summary_en": "From Aug 13 to 14, heavy rain caused levee breaches in Henan and other areas; all trapped people were rescued. Ministries dispatched supplies and funds for flood control and disaster relief.",
+  "body_zh": "目前，降雨还在持续影响我国多地，相关地区积极应对，防汛救灾工作加紧进行。\n从昨天（8月13日）到今天，江淮、江南、华南一带降雨发展增强，河南多地仍有分散性阵雨和雷阵雨。昨晚，周口市贾鲁河沿岸的一处堤防发生溃口，造成当地一家医院和一所驾校被淹，救援人员乘坐橡皮艇、冲锋舟等，加紧搜救转移被困人员。截至目前，455名被困人员已全部成功转移。平顶山市郏县北汝河段民堤12日晚发生溃口，当地现已转移群众2000多人。今天，抢险救援人员正加紧封堵溃口，预计今晚合龙。\n针对淮河流域沙颍河汛情形势和贾鲁河堤防险情，水利部今天启动重大水旱灾害事件调度指挥机制，已派出工作组赴河南一线指导防汛抢险工作。\n今天，国家防减救灾办、应急管理部针对河南周口、许昌等地险情灾情，会同国家粮食和物资储备局调拨3万件中央救灾物资。财政部、应急管理部紧急预拨8000万元中央自然灾害救灾资金，支持河南、湖北、安徽3省开展洪涝、地质灾害应急抢险救灾工作。\n中央气象台预计，明天，随着冷空气继续南下，强降雨将进一步向东收缩，集中在浙江中东部、福建北部等地。16日以后，华东、华南降雨仍然较为频繁，但强度普遍以小雨为主。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "抢险救援",
+    "中央救灾物资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抢险救援",
+      "name_en": "Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央救灾物资",
+      "name_en": "Central Relief Supplies"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "应急管理部",
+    "河南",
+    "防汛救灾",
+    "抢险救援",
+    "中央救灾物资"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Ministry of Emergency Management",
+    "Henan",
+    "Flood Control and Disaster Relief",
+    "Emergency Rescue",
+    "Central Relief Supplies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR",
+      "MEM"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260814-gov_cn_yaowen-6f2d9d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

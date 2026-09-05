@@ -1,0 +1,92 @@
+{
+  "id": "20260806-peoples_hlj-1706fd",
+  "source": "peoples_hlj",
+  "source_name_zh": "人民网 黑龙江",
+  "source_name_en": "People's Daily Heilongjiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hlj.people.com.cn/n2/2026/0806/c220005-41660941.html",
+  "title_zh": "哈尔滨至伊春高铁启动按图运行试验",
+  "title_en": "Harbin-Yichun High-Speed Railway Starts Trial Operation",
+  "summary_zh": "8月6日，哈尔滨至伊春高铁启动按图运行试验，动车组由哈尔滨站始发，2小时02分后到达伊春西站。",
+  "summary_en": "On August 6, the Harbin-Yichun high-speed railway began trial operation, with a test train departing Harbin and arriving at Yichun West in 2 hours 2 minutes.",
+  "body_zh": "哈尔滨至伊春高铁启动按图运行试验\n人民网哈尔滨8月6日电 （记者尚城）来自中国铁路哈尔滨局集团有限公司的消息，8月6日7时40分，D7271次运行试验动车组由黑龙江省哈尔滨站始发，经由哈伊高速铁路，于2小时02分后终到伊春西站，这标志着哈尔滨至伊春高铁启动按图运行试验。\n哈伊高铁运行试验期间，严格参照实际运营标准，开展列车运行图参数测试、故障模拟、应急救援演练、按图行车试验等项目测试，通过模拟线路正式运营状态，全面验证运输组织、列车接发、开行密度、旅服设备状态及各系统匹配性，为线路正式开通运营提供科学依据。\n哈伊高铁是我国目前纬度最高、最北端的在建高速铁路，线路全长318公里，设计时速250公里。哈伊高铁开通后，哈尔滨至伊春的铁路运行时间将从目前的约7小时缩短至2小时左右，两地间将形成“一小时、两小时经济圈”的交通新格局，对助力东北全面振兴、推动沿线旅游和生态资源开发、完善区域路网布局具有重要意义。\n图片由唐守弘、魏来、",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "高速铁路",
+    "基础设施",
+    "东北振兴"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HL-HRB",
+      "name_zh": "哈尔滨",
+      "name_en": "Harbin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL-YC",
+      "name_zh": "伊春",
+      "name_en": "Yichun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速铁路",
+      "name_en": "High-speed Railway"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东北振兴",
+      "name_en": "Northeast Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "哈尔滨",
+    "伊春",
+    "高速铁路",
+    "基础设施",
+    "东北振兴"
+  ],
+  "tags_en": [
+    "Harbin",
+    "Yichun",
+    "High-speed Railway",
+    "Infrastructure",
+    "Northeast Revitalization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL-HRB",
+      "CN-HL-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260806-peoples_hlj-1706fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

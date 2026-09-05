@@ -1,0 +1,119 @@
+{
+  "id": "20260622-peoples_sc-162805",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_url": "http://sc.people.com.cn/n2/2026/0622/c345514-41617268.html",
+  "title_zh": "四川自贡、攀枝花两市发布干部任前公示",
+  "title_en": "Zigong and Panzhihua Cities in Sichuan Release Pre-appointment Publicity for Officials",
+  "summary_zh": "6月18日，四川省自贡市和攀枝花市分别发布干部任前公示，拟任正县级领导职务的人员包括龚弟霞和岳洪。",
+  "summary_en": "On June 18, Zigong and Panzhihua cities in Sichuan Province released pre-appointment notices for officials Gong Dixia and Yue Hong, both proposed for positive county-level leadership positions.",
+  "body_zh": "四川2市发布干部任前公示\n人民网成都6月22日电 （李强强）近日，四川自贡、攀枝花2市发布干部任前公示，具体如下：\n自贡市委组织部发布干部任前公示\n6月18日，自贡市委组织部发布干部任前公示，根据《党政领导干部选拔任用工作条例》《四川省党政领导干部任职管理办法》等规定，为进一步减少用人失察失误，把干部选好选准，现将龚弟霞同志拟任职情况公示如下：\n龚弟霞，女，汉族，1975年5月生，党校大学，中共党员，现任市委宣传部副部长、三级调研员，拟任正县级领导职务。\n攀枝花市委组织部发布干部任前公示\n6月18日，攀枝花市委组织部发布干部任前公示，根据《党政领导干部选拔任用工作条例》和《四川省党政领导干部任职管理办法》等规定，为进一步减少用人失察失误，把干部选好选准，现将岳洪同志拟任职情况公示如下：\n岳洪，女，汉族，1976年12月生，大学、在职硕士，中共党员，现任攀枝花钒钛高新技术产业开发区党工委专职副书记、二级调研员，拟任正县级领导职务。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-18",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任用",
+    "人事公示"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "自贡市委组织部",
+      "name_en": "Organization Department of Zigong Municipal Party Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "攀枝花市委组织部",
+      "name_en": "Organization Department of Panzhihua Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "自贡",
+      "name_en": "Zigong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "攀枝花",
+      "name_en": "Panzhihua"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任用",
+      "name_en": "Official Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事公示",
+      "name_en": "Personnel Publicity"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "自贡市委组织部",
+    "攀枝花市委组织部",
+    "四川",
+    "自贡",
+    "攀枝花",
+    "干部任用",
+    "人事公示"
+  ],
+  "tags_en": [
+    "Organization Department of Zigong Municipal Party Committee",
+    "Organization Department of Panzhihua Municipal Party Committee",
+    "Sichuan",
+    "Zigong",
+    "Panzhihua",
+    "Official Appointment",
+    "Personnel Publicity"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "自贡市委组织部",
+        "name_en": "Organization Department of Zigong Municipal Party Committee"
+      },
+      {
+        "name_zh": "攀枝花市委组织部",
+        "name_en": "Organization Department of Panzhihua Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260622-peoples_sc-162805",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

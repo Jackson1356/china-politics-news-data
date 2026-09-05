@@ -1,0 +1,87 @@
+{
+  "id": "20260901-local_ji_nan_ri_bao_cn_sd-9dde85",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-09-01/2026090100040.html",
+  "title_zh": "刘强调研企业时强调：持续提升服务企业质效 推动经济运行稳中向好",
+  "title_en": "Liu Qiang Emphasizes Improving Enterprise Services and Steady Economic Growth During Enterprise Research",
+  "summary_zh": "8月31日，济南市委书记刘强调研多家企业，强调持续提升服务企业质效，推动经济运行稳中向好。",
+  "summary_en": "On August 31, Jinan Party Secretary Liu Qiang visited multiple enterprises, stressing better enterprise services and steady economic growth.",
+  "body_zh": "本报8月31日讯(记者 王端鹏 卢震)今天，市委书记刘强到企业调研时强调，要深入学习贯彻习近平总书记视察山东重要讲话和重要指示批示精神，全面落实省委、省人民政府部署要求，以“项目赋能年”为总牵引，持续提升服务企业的及时性精准性有效性，推动经济运行稳中向好。\n刘强来到工创中小企业数字化转型(山东)有限公司，察看企业展厅，听取企业经营情况介绍，勉励企业持续深耕细分领域，提升数字化服务供给能力。在绿地国金天地，了解街区招商及运营情况，指出要创新消费场景、丰富业态供给，更好满足群众高品质、多样化消费需求。在山东高速融媒体有限公司，指出要打造更多创新创意项目，建强融媒体传播矩阵，以媒介赋能服务业高质量发展。在山东华杰人力资源管理有限公司，察看企业展厅，希望企业做大做强的同时，在促进高质量充分就业方面发挥更大作用。在山东省冶金设计院股份有限公司，详细了解企业经营和市场开拓情况，指出要持续提升科研实力和服务能力，为行业绿色低碳转型提供技术支撑。在启征新能源汽车(济南)有限公司，现场察看相关车型及产线，鼓励企业加大技术攻关力度，不断提升核心竞争力和市场占有率。在山东出版集团，察看集团精品出版展，勉励企业深耕知识服务、产品营销等领域，加强产品创新和业态创新，更好满足人民群众精神文化需求。在山东未来互联科技有限公司，了解企业确定性网络应用推广情况，指出要推动科技创新和产业创新深度融合，加快技术成果转化和推广应用。\n刘强强调，要突出企业主体地位，落实落细惠企政策，深化精准对接服务，培育壮大优质企业，为全市经济健康发展提供支撑。\n市领导吕涛、韩伟参加。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "economy",
+  "keywords": [
+    "服务企业",
+    "经济运行"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务企业",
+      "name_en": "Enterprise Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "服务企业",
+    "经济运行"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Enterprise Services",
+    "Economic Operation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "韩伟"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-local_ji_nan_ri_bao_cn_sd-9dde85",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_c1a2f0a9a77842e2b6da143c30de08df.html",
+      "title_zh": "刘强调研企业时强调 持续提升服务企业质效 推动经济运行稳中向好",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

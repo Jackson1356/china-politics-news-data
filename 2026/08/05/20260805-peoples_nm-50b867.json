@@ -1,0 +1,107 @@
+{
+  "id": "20260805-peoples_nm-50b867",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/0805/c196667-41659494.html",
+  "title_zh": "自治区政协召开知情明政吹风会",
+  "title_en": "Autonomous Region CPPCC Holds Briefing on Economic Conditions",
+  "summary_zh": "8月4日，内蒙古自治区政协召开知情明政吹风会，通报上半年经济社会发展情况，并部署相关工作。",
+  "summary_en": "On August 4, the Inner Mongolia Autonomous Region CPPCC held a briefing, reporting on H1 economic and social development.",
+  "body_zh": "自治区政协召开知情明政吹风会\n8月4日，自治区政协召开知情明政吹风会。\n受自治区政协党组书记、主席张延昆委托，自治区政协党组副书记、副主席罗志虎主持会议，自治区党委常委、统战部部长、自治区政协党组副书记胡达古拉，自治区政协副主席其其格、魏国楠、安润生、张磊、杨劼出席会议。\n自治区人民政府副主席孙俊青通报上半年自治区经济社会发展情况，自治区发展和改革委员会有关负责同志解析今年自治区经济社会发展形势。\n会议提出，要把思想和行动统一到党中央对经济形势的分析判断和对经济工作的决策部署上来，认真贯彻落实自治区党委十一届十二次全会精神，聚焦自治区党委“1571”工作部署，结合政协年度履职重点，充分发挥职能优势，为自治区高质量发展贡献政协智慧和力量。（记者 白丹）",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "economy",
+  "keywords": [
+    "经济社会发展",
+    "经济形势",
+    "政协履职"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "自治区政协",
+      "name_en": "Inner Mongolia Autonomous Region CPPCC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济社会发展",
+      "name_en": "Economic and Social Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济形势",
+      "name_en": "Economic Situation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协履职",
+      "name_en": "CPPCC Duties"
+    },
+    {
+      "kind": "person",
+      "id": "hudagula",
+      "name_zh": "胡达古拉",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "自治区政协",
+    "经济社会发展",
+    "经济形势",
+    "政协履职",
+    "胡达古拉"
+  ],
+  "tags_en": [
+    "Inner Mongolia Autonomous Region CPPCC",
+    "Economic and Social Development",
+    "Economic Situation",
+    "CPPCC Duties"
+  ],
+  "entities": {
+    "politicians": [
+      "hudagula",
+      {
+        "id": null,
+        "name_zh": "孙俊青"
+      },
+      {
+        "id": null,
+        "name_zh": "杨劼"
+      },
+      {
+        "id": null,
+        "name_zh": "罗志虎"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "自治区政协",
+        "name_en": "Inner Mongolia Autonomous Region CPPCC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260805-peoples_nm-50b867",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

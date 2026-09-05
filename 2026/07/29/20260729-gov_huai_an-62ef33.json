@@ -1,0 +1,93 @@
+{
+  "id": "20260729-gov_huai_an-62ef33",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17828352/17852954857278umla9fG.html",
+  "title_zh": "淮安市领导开展“八一”走访慰问活动",
+  "title_en": "Huai'an Leaders Conduct August 1st Visit and Condolence Activities",
+  "summary_zh": "7月28日，淮安市委书记史志军、市长顾坤分别带队开展“八一”走访慰问，向驻淮部队官兵、消防指战员和军队离退休干部致以节日问候。",
+  "summary_en": "On July 28, Huai'an Party Secretary Shi Zhijun and Mayor Gu Kun led teams to conduct August 1st visits, extending festive greetings to stationed troops, firefighters, and retired military cadres.",
+  "body_zh": "7月28日，市委书记史志军、市长顾坤分别带队开展“八一”走访慰问活动，向驻淮部队官兵、消防指战员、军队离退休干部致以节日问候和美好祝福。市领导赵正兰、李森、吴晓丹、徐子佳、吴茂春、董国喜、张冲林、周青，市政府秘书长马乃骏，市政协秘书长蒋继贵等参加活动。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "双拥工作",
+    "八一慰问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Military-Civilian Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "八一慰问",
+      "name_en": "August 1st Condolence Activities"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "顾坤",
+    "淮安",
+    "双拥工作",
+    "八一慰问"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Gu Kun",
+    "Huai'an",
+    "Military-Civilian Support Work",
+    "August 1st Condolence Activities"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260729-gov_huai_an-62ef33",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

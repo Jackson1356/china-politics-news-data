@@ -1,0 +1,107 @@
+{
+  "id": "20260702-gov_cn_yaowen-a94bdd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074039.htm",
+  "title_zh": "王毅同美国国务卿鲁比奥通电话",
+  "title_en": "Wang Yi Holds Phone Call with US Secretary of State Marco Rubio",
+  "summary_zh": "6月30日，外交部长王毅同美国国务卿鲁比奥通电话，双方就落实两国元首共识、构建中美建设性战略稳定关系及涉台事务进行沟通。",
+  "summary_en": "On June 30, Foreign Minister Wang Yi held a phone call with US Secretary of State Marco Rubio to discuss implementing the consensus of the two heads of state and building a constructive strategic stable relationship.",
+  "body_zh": "新华社北京7月1日电 中共中央政治局委员、外交部长王毅6月30日同美国国务卿鲁比奥通电话。\n王毅表示，今年5月，习近平主席同特朗普总统在北京达成构建中美建设性战略稳定关系等一系列重要共识，为未来3年乃至更长时间的中美关系作出战略指引、明确发展方向。构建建设性战略稳定关系是两国民心所向、国际社会所盼，也是中美根本利益之所系。双方应排除干扰，克服障碍，沿着这一正确方向坚定走下去。\n王毅指出，双方应始终秉持平等、尊重、互惠的精神，将两国元首的重要共识转化为具体的政策和切实的举措。构建建设性战略稳定关系不是一句口号，需要付诸行动，相向而行，久久为功。为此，双方要拉长合作清单，打造更多积极议程，同时压缩问题清单，管控各种风险隐患。台湾问题牵一发动全身，希望美方务必慎之又慎对待涉台事务。\n双方一致认为，两国外长此次通话是积极、建设性的，同意共同落实好两国元首达成的重要共识，继续以灵活方式保持沟通。",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-03T07:43:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "战略稳定",
+    "台湾问题"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "鲁比奥",
+      "name_en": "Marco Rubio"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾问题",
+      "name_en": "Taiwan Issue"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "鲁比奥",
+    "外交部",
+    "北京",
+    "中美关系",
+    "战略稳定",
+    "台湾问题"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Marco Rubio",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-US Relations",
+    "Strategic Stability",
+    "Taiwan Issue"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260702-gov_cn_yaowen-a94bdd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

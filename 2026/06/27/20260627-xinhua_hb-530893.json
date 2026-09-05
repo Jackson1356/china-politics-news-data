@@ -1,0 +1,70 @@
+{
+  "id": "20260627-xinhua_hb-530893",
+  "source": "xinhua_hb",
+  "source_name_zh": "新华网 湖北",
+  "source_name_en": "Xinhua Hubei",
+  "source_url": "http://hb.news.cn/20260627/3f35ccc3893b40feb8bd6ac9f4f10490/c.html",
+  "title_zh": "多国外交官参访岚图汽车",
+  "title_en": "Diplomats from Multiple Countries Visit Voyah Auto",
+  "summary_zh": "6月24日至27日，来自27个国家和国际组织的驻华外交官及智库专家在湖北参访岚图汽车智慧工厂。",
+  "summary_en": "From June 24 to 27, diplomats and think tank experts from 27 countries and international organizations visited the Voyah smart factory in Hubei.",
+  "body_zh": "6月24日-27日“内陆开放高地・战略支点湖北”驻华外交官及国际智库专家参访活动在湖北举行。作为东风旗下高端智慧新能源品牌，岚图汽车为活动全程提供官方用车。\n活动期间，来自土库曼斯坦、科摩罗、保加利亚、阿根廷、英国、西班牙、上海合作组织等27个国家和国际组织的近40名驻华大使、高级别外交官及智库专家深入岚图智慧工厂参观。在岚图，听听外交官们怎么说。（连迅、陈周璇、李诺欣）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-29T09:16:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "内陆开放高地",
+    "新能源汽车"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "内陆开放高地",
+      "name_en": "Inland Open Highland"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    }
+  ],
+  "tags_zh": [
+    "湖北",
+    "内陆开放高地",
+    "新能源汽车"
+  ],
+  "tags_en": [
+    "Hubei",
+    "Inland Open Highland",
+    "New Energy Vehicles"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260627-xinhua_hb-530893",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

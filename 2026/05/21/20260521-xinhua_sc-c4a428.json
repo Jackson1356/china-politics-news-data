@@ -1,0 +1,105 @@
+{
+  "id": "20260521-xinhua_sc-c4a428",
+  "source": "xinhua_sc",
+  "source_name_zh": "新华网 四川",
+  "source_name_en": "Xinhua Sichuan",
+  "source_url": "http://sc.news.cn/20260521/aa5965a5b3ef4d23b611f5e0270e44eb/c.html",
+  "title_zh": "新华网与成都艺术职业大学签署合作协议赋能AIGC人才培养",
+  "title_en": "Xinhua Net and Chengdu Arts Vocational University Sign Agreement to Empower AIGC Talent Cultivation",
+  "summary_zh": "5月21日，新华网与成都艺术职业大学在成都签署合作协议，依托“新华语典”AI智能体，共同探索AIGC领域的人才培养与产教融合新路径。",
+  "summary_en": "On May 21, Xinhua Net and Chengdu Arts Vocational University signed a cooperation agreement in Chengdu to explore new paths for AIGC talent cultivation and industry-education integration using the 'Xinhua Dictionary' AI agent.",
+  "body_zh": "新华网成都5月21日电（李红伟）5月21日，新华网与成都艺术职业大学就“新华语典”赋能高校人才培养签署合作协议。双方将依托新华社主导建设的权威AI时政资讯智能体“新华语典”，在AIGC（人工智能生成内容）等领域开展全方位合作，共同探索“新华语典”赋能高校人工智能人才培养及有关工作的新路径。\n签约仪式上，新华网四川有限公司总经理肖林表示，将充分发挥“新华语典”在权威信息溯源、时政知识检索与智能内容生成等领域的技术优势，与成都艺术职业大学共同探索“权威媒体+职业教育”的产教融合新模式。\n成都艺术职业大学是职业本科试点高校，构建了覆盖传播学、艺术学、管理学等多学科协同发展的专业体系。成都艺术职业大学校长余天翔表示，在AIGC技术加速重塑产业生态的当下，多方合作推动AIGC产教融合已成为行业共识。通过将“新华语典”的权威AI能力引入高校教学，不仅能够提升学生在AIGC领域的实践能力与创新素养，更能推动内容创作与传播实践的融合发展，实现社会效益与人才培养效益的双重提升。\n据了解，相关合作涵盖共建优质教育资源平台、共建协同创新实践基地、共研行业前沿与融合发展、共推内容创作与传播实践、共育高素质复合型人才等五大方向，将有力促进教育链、人才链与产业链、创新链的有机衔接，培养具备创新思维与社会责任感的新时代人才。（完）",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "industry",
+  "keywords": [
+    "AIGC",
+    "产教融合",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "成都艺术职业大学",
+      "name_en": "Chengdu Arts Vocational University"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "AIGC",
+      "name_en": "AIGC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产教融合",
+      "name_en": "Industry-Education Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Cultivation"
+    }
+  ],
+  "tags_zh": [
+    "成都艺术职业大学",
+    "成都",
+    "四川",
+    "AIGC",
+    "产教融合",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Chengdu Arts Vocational University",
+    "Chengdu",
+    "Sichuan",
+    "AIGC",
+    "Industry-Education Integration",
+    "Talent Cultivation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "余天翔"
+      }
+    ],
+    "institutions": [
+      {
+        "code": null,
+        "name_zh": "成都艺术职业大学"
+      }
+    ],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260521-xinhua_sc-c4a428",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "20260701-xinhua_tj-d0f058",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260701/f392fa033c4f4ea394e494c13df7a2d2/c.html",
+  "title_zh": "张工调度强降雨应对工作",
+  "title_en": "Zhang Gong Coordinates Response to Heavy Rainfall",
+  "summary_zh": "6月30日下午，天津市市长张工调度中心城区强降雨应对工作，部署防汛排涝及交通疏导。",
+  "summary_en": "On the afternoon of June 30, Tianjin Mayor Zhang Gong coordinated response efforts to heavy rainfall in the city's central urban area, focusing on flood drainage and traffic management.",
+  "body_zh": "张工调度强降雨应对工作\n加快积水片区排涝 保障群众安全顺畅出行\n6月30日下午，我市中心城区出现强降雨和短时大风天气。市委副书记、市长张工到市政府总值班室通过视频指挥系统调度防汛排涝工作。\n张工察看重点道路、易积水点位等实时画面，连线市有关部门和区，了解城区排涝、交通疏导、气象研判、上游水情等情况。\n市领导王旭、王宝雨、翟立新、王秀峰和市政府秘书长胡学明参加。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛排涝"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛排涝",
+      "name_en": "Flood Control and Drainage"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xu-tianjin",
+      "name_zh": "王旭",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "防汛排涝",
+    "王旭"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Flood Control and Drainage"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      "wang-xu-tianjin",
+      {
+        "id": null,
+        "name_zh": "胡学明"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260701-xinhua_tj-d0f058",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260603-qianlong-a5eb0c",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_url": "https://beijing.qianlong.com/2026/0603/8677946.shtml",
+  "title_zh": "2026世界旅游城市联合会北京香山旅游峰会招待会举行",
+  "title_en": "Reception for the 2026 World Tourism Cities Organization Beijing Xiangshan Tourism Summit Held",
+  "summary_zh": "2026年6月2日，2026世界旅游城市联合会北京香山旅游峰会招待会在北京颐和园举行，市委书记尹力出席并致辞。",
+  "summary_en": "On June 2, 2026, a reception for the 2026 World Tourism Cities Organization Beijing Xiangshan Tourism Summit was held at the Summer Palace in Beijing, where Municipal Party Secretary Yin Li delivered a speech.",
+  "body_zh": "昨晚（2日），2026世界旅游城市联合会北京香山旅游峰会招待会在颐和园举行，市委书记尹力致辞。\n尹力对中外嘉宾的到来表示欢迎，他说，习近平主席高度重视旅游工作，指出旅游是传播文明、交流文化、增进友谊的桥梁。近年来，中国始终以开放姿态迎接八方来客，与各国共享旅游发展新机遇。北京是全国政治中心、文化中心、国际交往中心和科技创新中心，旅游资源十分丰富，古今交融，充满活力，世界文化遗产数量居全球城市之首；教育科技资源富集，创新创造动能强劲，人工智能、超高清视听等前沿技术加速赋能旅游业发展，数字文博、智能导览等为游客带来新体验；基础设施完善，出入境、支付、通信等日益便利，越来越多的游客到访北京。面向未来，北京将加快打造全球数字经济标杆城市和国际一流旅游城市。我们愿与各方一道，进一步打造全球重要旅游目的地，欢迎世界各地游客来中国、来北京，对中国文化、东方文化有更多了解，促进各国民心相通和文明交流。进一步推动科技赋能旅游业发展，加强人工智能、虚拟现实等技术融合应用，推动文化、商业、旅游、体育、展览融合发展，为游客提供更多高品质的旅游产品和服务。发挥世界旅游城市联合会、香山旅游峰会等平台作用，进一步深化旅游交流合作，加强国际经验互学互鉴，为人民美好生活和经济社会发展注入新的力量。\n世界旅游及旅行理事会主席兼首席执行官格瓦拉在致辞中祝贺北京经济社会发展取得的成就，她表示，此次来京感受到了这座城市深厚的历史文化、优美的生态环境和市民的热情友好。世界旅游及旅行理事会愿与各国、各城市加强合作，致力于推动全球旅游业发展，为世界经济发展作出贡献。\n市领导赵磊、司马红，部分世界旅游城市联合会会员城市市长、有关国际组织和机构负责人、境外旅游主管机构代表、旅游企业负责人等参加。",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "旅游业",
+    "国际交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-li",
+      "name_zh": "尹力",
+      "name_en": "Yin Li"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游业",
+      "name_en": "Tourism Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际交流",
+      "name_en": "International Exchange"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "尹力",
+    "北京",
+    "旅游业",
+    "国际交流"
+  ],
+  "tags_en": [
+    "Yin Li",
+    "Beijing",
+    "Tourism Industry",
+    "International Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "yin-li"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260603-qianlong-a5eb0c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "20260606-paper_zhengjing-ba3fba",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33325577",
+  "title_zh": "中央考核巡查组检查建筑施工领域安全生产",
+  "title_en": "Central Inspection Team Inspects Safety Production in Construction Sector",
+  "summary_zh": "中央安全生产考核巡查组在贵州和新疆等地开展明查暗访，指出部分施工现场安全管理薄弱且存在重大安全隐患。",
+  "summary_en": "The Central Safety Production Inspection Team conducted inspections in Guizhou and Xinjiang, identifying weak safety management and significant hazards at construction sites.",
+  "body_zh": "视频丨中央考核巡查组批工地管理人员：全在做样子，没有人去管\n@央视新闻\n近日，2026年度中央安全生产考核巡查季度明查暗访工作启动。在针对建筑施工领域的明查暗访中，考核巡查组发现，一些行业监管部门对施工项目开工许可、备案监管不严，部分施工现场安全管理能力薄弱，存在重大安全隐患。\n在贵州黔南州福泉市百御新天地项目现场，考核巡查组发现，两台塔吊的主臂旋转半径存在回转重叠情况，塔吊间有相撞的风险，且塔吊的旋转半径内有建筑物。进一步检查发现，施工塔吊的水平回转限位制动装置失效，遇到大风或操作失误时吊臂会随意乱转，极易与周边既有建筑物发生碰撞。而检测报告、维修保养记录中却都写着“水平回转限位器合格”，与现场实际严重不符。\n在新疆乌鲁木齐经济技术开发区郁香园项目建设工地，考核巡查组发现该项目2号楼脚手架的基础多处悬空，出现明显下沉，整体垂直度已发生明显偏差，存在架体整体失稳的重大安全风险。中央考核巡查组专家刘家玖当场指出问题：“脚手架全部悬空，没有一块是牢固的。在现场，你们的管理人员都在这做样子，没有人去管，过程中即使有一个人尽心去管了，它也不至于造成这种情况！”",
+  "image_url": null,
+  "published_at": "2026-06-06T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "建筑施工",
+    "监督检查"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Safety Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "建筑施工",
+      "name_en": "Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "监督检查",
+      "name_en": "Supervision and Inspection"
+    }
+  ],
+  "tags_zh": [
+    "贵州",
+    "新疆",
+    "安全生产",
+    "建筑施工",
+    "监督检查"
+  ],
+  "tags_en": [
+    "Guizhou",
+    "Xinjiang",
+    "Safety Production",
+    "Construction",
+    "Supervision and Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260606-paper_zhengjing-ba3fba",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews_zhengshier",
+      "source_tier": 1,
+      "url": "https://m.bjnews.com.cn/detail/1780737927129828.html",
+      "title_zh": "中央考核巡查组专家：你们的管理人员都在这做样子，没有人去管！",
+      "published_at": "2026-06-06T17:26:55+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

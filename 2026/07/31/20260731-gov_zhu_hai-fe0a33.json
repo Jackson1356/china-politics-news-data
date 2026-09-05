@@ -1,0 +1,88 @@
+{
+  "id": "20260731-gov_zhu_hai-fe0a33",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3928997.html",
+  "title_zh": "吴泽桐看望慰问驻珠部队官兵并检查海岛防风防汛工作",
+  "title_en": "Wu Zetong Visits Troops in Zhuhai and Inspects Wind and Flood Prevention Work on Islands",
+  "summary_zh": "7月30日，珠海市委副书记、市长吴泽桐赴高新区、万山区慰问驻珠部队官兵，并检查海岛防风防汛工作，强调防范地质灾害、加强海上安全管理。",
+  "summary_en": "On July 30, Wu Zetong, Deputy Secretary and Mayor of Zhuhai, visited troops stationed in Zhuhai in Gaoxin and Wanshan districts, and inspected island wind and flood prevention work, emphasizing geological disaster prevention and maritime safety.",
+  "body_zh": "吴泽桐看望慰问驻珠部队官兵并检查海岛防风防汛工作\n7月30日，市委副书记、市长吴泽桐带队赴高新区、万山区开展“八一”建军节拥军优属慰问活动并检查海岛防风防汛工作，向驻珠人民解放军指战员、武警部队官兵、文职人员、预备役部队和民兵预备役人员致以节日祝贺和诚挚慰问。珠海警备区大校司令员王承参加活动。\n在武警海警总队某训练基地、驻珠某部队、珠海海警局基层工作站、外伶仃邮政所，吴泽桐与官兵们深入交流，详细了解执勤训练和工作生活情况，还慰问了全国人大代表、优秀退役军人谢坚。他说，近年来广大驻珠部队深入贯彻习近平强军思想，全面贯彻新时代军事战略方针，主动承担抢险救灾、应急救援等急难险重任务，大力支持珠海各项事业建设，生动谱写了军地协同、军民同心的时代篇章。当前，珠海正深入学习贯彻习近平总书记对广东、珠海系列重要讲话、重要指示精神，贯彻落实省委“1310”具体部署和市委“1313”思路举措，凝心聚力推动高质量发展，扎实推进中国式现代化的珠海实践。希望广大官兵一如既往积极支持珠海经济社会发展。珠海将坚定不移支持国防和军队现代化建设，深入细致做好拥军优抚工作，用心用情为广大官兵排忧解难，持续推动军民融合深度发展。\n在外伶仃岛塔湾路口地质灾害风险点，吴泽桐实地察看项目治理修复情况，听取海上防风防汛工作汇报，强调要突出防范地质灾害，对相关风险点进行排查和监控，一旦发现异常情况，迅速果断转移群众。要加快做好风险点治理工作，坚持安全第一，因地制宜选好适用方案，加强警示和绕行指引，最大限度降低灾害影响。要严密海上防汛风险防范，加强海上各类船舶安全管理，严厉打击“三无”船舶，加大联合巡逻监管执法力度，及时精准发布预报预警信息，强化旅游景区、野码头及周边海域安全管控，全方位筑牢安全底线。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "拥军优属",
+    "防风防汛"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-zetong-zhuhai",
+      "name_zh": "吴泽桐",
+      "name_en": "Wu Zetong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "拥军优属",
+      "name_en": "Support for Military and Veterans"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防风防汛",
+      "name_en": "Wind and Flood Prevention"
+    }
+  ],
+  "tags_zh": [
+    "吴泽桐",
+    "珠海",
+    "拥军优属",
+    "防风防汛"
+  ],
+  "tags_en": [
+    "Wu Zetong",
+    "Zhuhai",
+    "Support for Military and Veterans",
+    "Wind and Flood Prevention"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zetong-zhuhai",
+      {
+        "id": null,
+        "name_zh": "王承"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-gov_zhu_hai-fe0a33",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

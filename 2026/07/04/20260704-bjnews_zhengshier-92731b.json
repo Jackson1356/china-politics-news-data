@@ -1,0 +1,101 @@
+{
+  "id": "20260704-bjnews_zhengshier-92731b",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1783160815129637.html",
+  "title_zh": "郑州市政府被约谈",
+  "title_en": "Zhengzhou Municipal Government Summoned for Talk",
+  "summary_zh": "河南省安委办约谈郑州市政府，要求其深刻汲取教训，加强安全生产隐患排查与基层治理，切实筑牢安全底线。",
+  "summary_en": "The Henan Provincial Safety Committee Office summoned the Zhengzhou Municipal Government, demanding stricter safety hazard inspections and improved grassroots governance to ensure safety.",
+  "body_zh": "郑州市政府被约谈\n张敏强调，郑州市要深刻汲取教训，深入剖析原因，着力推动隐患排查再深入，切实把重大事故隐患查出来、改到位，监管执法再严格，基层治理再加强，从严从实抓好整改提升。要铁心铁腕，构建协同联动防控体系，坚决落实好党政领导责任、行业主管责任、部门监管责任和企业主体责任，紧盯“关键少数”，真正抓到实处、抓到痛处、见到效果，推动责任落实到底到边、无漏洞无死角。要真抓实抓，建立健全长效机制，严把源头准入，用好督促问责手段，彻底整治突出问题，切实提高安全生产能力、管理水平，全面筑牢安全底线，为全省安全稳定大局作出应有贡献。\n会上，河南省安委办通报有关情况，郑州市和新密市、高新区、荥阳市、巩义市作表态发言。",
+  "image_url": null,
+  "published_at": "2026-07-04T18:27:30+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "discipline",
+  "keywords": [
+    "安全生产",
+    "隐患排查",
+    "基层治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "河南省安委办",
+      "name_en": "Henan Provincial Safety Committee Office"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "郑州",
+      "name_en": "Zhengzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "隐患排查",
+      "name_en": "Hazard Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层治理",
+      "name_en": "Grassroots Governance"
+    }
+  ],
+  "tags_zh": [
+    "河南省安委办",
+    "郑州",
+    "河南",
+    "安全生产",
+    "隐患排查",
+    "基层治理"
+  ],
+  "tags_en": [
+    "Henan Provincial Safety Committee Office",
+    "Zhengzhou",
+    "Work Safety",
+    "Hazard Inspection",
+    "Grassroots Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-min-henan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": [
+      {
+        "name_zh": "河南省安委办",
+        "name_en": "Henan Provincial Safety Committee Office"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260704-bjnews_zhengshier-92731b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

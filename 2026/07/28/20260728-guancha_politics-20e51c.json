@@ -1,0 +1,106 @@
+{
+  "id": "20260728-guancha_politics-20e51c",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_07_28_825375.shtml",
+  "title_zh": "受贿1.44亿余元，重庆市政协原副主席段成刚被判无期",
+  "title_en": "Former Chongqing CPPCC Vice Chairman Duan Chenggang Sentenced to Life for Bribery of Over 144 Million Yuan",
+  "summary_zh": "重庆市政协原副主席段成刚因受贿1.44亿余元被判处无期徒刑。",
+  "summary_en": "Duan Chenggang, former vice chairman of Chongqing CPPCC, was sentenced to life imprisonment for bribery of over 144 million yuan.",
+  "body_zh": "冒用官方背景，擅自使用“中国”“全国”等字样？民政部出手2026-07-28 16:51\n我国启动人工智能大模型IPv6能力提升专项行动2026-07-28 16:27 人工智能\n六部门发布通告：禁止涉军队退役报废装备销售活动2026-07-28 13:24\n青海兴海20分钟内发生2次5级以上地震2026-07-28 12:05 地震\n上半年全国税收收入超过10万亿元2026-07-28 11:17\n黄海北部执行实弹射击，禁止驶入2026-07-28 10:51\n西瓜滞销，瓜农求助信岂能当“负面舆情”来撤回2026-07-28 10:30\n趵突泉景区致歉2026-07-28 09:33\n衡水市联合调查组发布情况通报2026-07-28 07:43\n全国总工会原副主席张世平被开除党籍，安排亲属不实际工作而获取薪酬2026-07-27 17:44 廉政风暴\n中国海警舰艇编队起航，赴北太平洋开展公海渔业执法巡航2026-07-27 15:12\n黄思明被查2026-07-27 14:14\n亳州连夜通报2026-07-27 10:12\n携程发布公告2026-07-27 09:07\n重庆彭水山体崩塌现场发现人体残骸2026-07-27 08:36\n九寨沟景区局部强降雨引发泥石流，无人员伤亡2026-07-27 06:54\n甘肃渭源山洪已致10人遇难，23人受伤，两部门派出工作组赴现场2026-07-26 19:13\n写二次元、张靓颖，菲尔兹奖得主邓煜的诗火了2026-07-26 18:20\n极氪回应境外锁车事件2026-07-26 14:21\n上海交大医学院：已成立专项工作组，对事件进行全面调查2026-07-26 13:57",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "段成刚",
+      "name_en": "Duan Chenggang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "重庆市政协",
+      "name_en": "Chongqing Municipal Committee of the Chinese People's Political Consultative Conference"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    }
+  ],
+  "tags_zh": [
+    "段成刚",
+    "重庆市政协",
+    "重庆",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Duan Chenggang",
+    "Chongqing Municipal Committee of the Chinese People's Political Consultative Conference",
+    "Chongqing",
+    "Anti-Corruption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "黄思明"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "重庆市政协",
+        "name_en": "Chongqing Municipal Committee of the Chinese People's Political Consultative Conference"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260728-guancha_politics-20e51c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_28_825397.shtml",
+      "title_zh": "教育部：2025年全国累计资助学生近1.6亿人次",
+      "published_at": "2026-07-28T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_28_825387.shtml",
+      "title_zh": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+      "published_at": "2026-07-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

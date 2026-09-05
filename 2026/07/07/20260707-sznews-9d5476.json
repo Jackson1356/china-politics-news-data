@@ -1,0 +1,83 @@
+{
+  "id": "20260707-sznews-9d5476",
+  "source": "sznews",
+  "source_name_zh": "深圳新闻网",
+  "source_name_en": "Shenzhen News",
+  "source_url": "https://www.sznews.com/news/content/2026-07/07/content_32113949.htm",
+  "title_zh": "深圳公益救援队抵达广西横州开展洪涝救援",
+  "title_en": "Shenzhen Public Welfare Rescue Team Arrives in Hengzhou, Guangxi for Flood Relief",
+  "summary_zh": "2026年7月7日，深圳公益救援队抵达广西横州市马岭镇，利用农业无人机向受灾群众运送物资。",
+  "summary_en": "On July 7, 2026, the Shenzhen Public Welfare Rescue Team arrived in Maling Town, Hengzhou, Guangxi, using agricultural drones to deliver supplies to flood victims.",
+  "body_zh": "深圳新闻网2026年7月7日讯（记者 张玲）7月7日下午，深圳公益救援队最早出发驰援广西的队员已经抵达广西横州市马岭镇并发回现场画面。记者从画面里看到，受灾地区道路泥泞，积水还未退却，马岭镇振兴村一处广场被开辟为现场临时指挥部。据悉，这里也是各部门协调调度救援工作的区域。\n当天，深圳公益救援队联合大疆无人机的工作伙伴，用农业无人机向受灾群众被困的区域运送物资。\n（本文图文素材由深圳公益救援队提供）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-07",
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪涝救援",
+    "无人机救援"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西横州",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪涝救援",
+      "name_en": "Flood Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "无人机救援",
+      "name_en": "Drone Rescue"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-ling-tianjin",
+      "name_zh": "张玲",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "广西横州",
+    "深圳",
+    "洪涝救援",
+    "无人机救援"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "Flood Relief",
+    "Drone Rescue"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-ling-tianjin"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260707-sznews-9d5476",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260525-xinhua_js-69abc2",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260527/9b4d2f79fa6a4e6f84f8fd295fca3a41/c.html",
+  "title_zh": "江苏省政府党组（扩大）会议召开 刘小涛主持",
+  "title_en": "Jiangsu Provincial Government Party Group (Expanded) Meeting Held, Chaired by Liu Xiaotao",
+  "summary_zh": "5月25日，江苏省长刘小涛主持召开省政府党组（扩大）会议，学习贯彻习近平总书记重要讲话精神，部署高质量发展及巡视整改工作。",
+  "summary_en": "On May 25, Governor Liu Xiaotao chaired a meeting of the Jiangsu Provincial Government Party Group to study Xi Jinping's instructions and deploy tasks for high-quality development and inspection rectification.",
+  "body_zh": "5月25日，省政府党组（扩大）会议召开，深入学习贯彻习近平总书记近期重要讲话重要指示和重要文章精神，听取中央巡视反馈意见政府系统整改落实情况汇报，研究部署有关工作。省政府党组书记、省长刘小涛主持会议。\n省政府党组成员围绕学习贯彻《习近平总书记在浙江工作期间树立和践行正确政绩观的理论和实践》深入交流学习体会。大家一致表示，要牢固树立和践行正确政绩观，胸怀全局、着眼长远，立足实际、尊重规律，更加主动融入和服务国家战略，科学统筹谋划高质量发展，扎实开展群众身边不正之风和腐败问题集中整治，着力推动省政府党组“1+N”工作清单落地落实，以实干实绩推动“十五五”开好局、起好步。\n会议指出，要认真学习贯彻习近平总书记在中美元首会晤、中俄元首会晤期间的重要讲话精神，拓展合作领域、挖掘合作潜力、培育新增长点，持续抓好外贸“五新”，深入开展“投资江苏”品牌提升行动，努力为国家对外工作大局作出江苏贡献。要认真学习贯彻总书记就推动哲学社会科学高质量发展作出的重要指示精神，加强新型智库建设，推动哲学社会科学与自然科学交叉融合，在前沿领域形成一批标志性成果。要深入学习贯彻总书记在《求是》杂志发表的重要文章《做强做优做大实体经济》，把坚守实体经济、构建现代化产业体系作为强省之要，突出抓好传统产业升级、新兴产业壮大、未来产业培育和人工智能赋能，打通完整创新链路，推动产业能级整体跃升，因地制宜加快发展新质生产力。\n会议审议了中央巡视反馈意见政府系统整改落实工作进展情况台账，强调要以钉钉子精神常态化、长效化抓好巡视整改，全面查漏补缺、保持整改韧劲、深化标本兼治，确保改彻底、改到位、不反弹。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "party",
+  "keywords": [
+    "高质量发展",
+    "新质生产力",
+    "巡视整改"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巡视整改",
+      "name_en": "Inspection Rectification"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "高质量发展",
+    "新质生产力",
+    "巡视整改"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "High-quality Development",
+    "New Quality Productive Forces",
+    "Inspection Rectification"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260525-xinhua_js-69abc2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

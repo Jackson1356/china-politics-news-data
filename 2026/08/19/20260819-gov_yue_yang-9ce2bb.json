@@ -1,0 +1,94 @@
+{
+  "id": "20260819-gov_yue_yang-9ce2bb",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2394379.html",
+  "title_zh": "博鼎岳阳飞轮储能调频电站及产业化项目开工",
+  "title_en": "Boding Yueyang Flywheel Energy Storage Power Station and Industrialization Project Breaks Ground",
+  "summary_zh": "8月18日，博鼎岳阳飞轮储能调频电站及产业化项目在岳阳临港高新区开工，代理市长唐浩然出席并宣布开工。",
+  "summary_en": "On August 18, the Boding Yueyang flywheel energy storage frequency regulation power station and industrialization project broke ground in Yueyang Lingang High-tech Zone; acting Mayor Tang Haoran attended and announced the start.",
+  "body_zh": "8月18日，博鼎岳阳飞轮储能调频电站及产业化项目开工仪式在岳阳临港高新区举行，市委副书记、代理市长唐浩然出席并宣布项目开工，博鼎集团董事长王立峰、山东融汇物产集团党委副书记张雷、海锋集团董事长吴伟锋，市领导李劲松、刘世奇等参加。\n博鼎岳阳飞轮储能调频电站及产业化项目是我市深入贯彻“十五五”规划战略部署、加快构建新型能源体系，推动高端装备制造的重要举措。拟在岳阳布局飞轮储能悬浮设备、农机装备、船舶动力三大总部基地。\n其中，博鼎岳阳飞轮储能独立调频电站（一期）项目，采用全磁悬浮飞轮单体集群技术，具有响应速度快、循环寿命长、安全环保等显著优势，对丰富全省新型储能技术类型，提升电网调频能力和运行稳定性意义重要，也是推动全省新型储能多元化、市场化、规模化的重要试点项目。\n飞轮生产板块，主要从事真空磁悬浮飞轮储能系统研发、核心部件生产、整机装配与调试，为电站提供装备保障；悬浮设备主要生产增氧机、鼓风机、空压机等产品，项目建成后将成为华中首个大型飞轮调频电站及悬浮设备生产基地，有望填补岳阳高端储能装备制造空白。\n农机装备板块，主要生产适用于南方水田和丘陵地形的智能农机研发制造，同时推动农机维修、再制造技术标准和基地项目落地，致力打造面向东南亚、非洲出口的新增长点。\n船舶动力板块聚焦“天然气+电池”混动系统，将为长江绿色航运提供全套解决方案，合作将形成山东产能，岳阳用船，博鼎供“心”的模式，逐步拓展港航物流、物资贸易、供应链金融等领域。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "industry",
+  "keywords": [
+    "飞轮储能",
+    "新型能源体系",
+    "高端装备制造"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "岳阳临港高新区",
+      "name_en": "Yueyang Lingang High-tech Zone"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "飞轮储能",
+      "name_en": "Flywheel Energy Storage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型能源体系",
+      "name_en": "New Energy System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高端装备制造",
+      "name_en": "High-end Equipment Manufacturing"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-shanghai",
+      "name_zh": "吴伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "岳阳临港高新区",
+    "飞轮储能",
+    "新型能源体系",
+    "高端装备制造",
+    "吴伟"
+  ],
+  "tags_en": [
+    "Yueyang Lingang High-tech Zone",
+    "Flywheel Energy Storage",
+    "New Energy System",
+    "High-end Equipment Manufacturing"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-shanghai",
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-gov_yue_yang-9ce2bb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

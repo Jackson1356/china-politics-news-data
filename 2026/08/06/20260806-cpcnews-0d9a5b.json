@@ -1,0 +1,91 @@
+{
+  "id": "20260806-cpcnews-0d9a5b",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0806/c64387-40774775.html",
+  "title_zh": "两部门紧急预拨3.3亿元中央自然灾害救灾资金",
+  "title_en": "Two Ministries Allocate 330 Million Yuan for Disaster Relief",
+  "summary_zh": "8月5日，财政部、应急管理部紧急预拨3.3亿元中央自然灾害救灾资金，支持黑龙江、辽宁等8省（市）开展应急抢险救灾工作。",
+  "summary_en": "On August 5, the Ministry of Finance and the Ministry of Emergency Management allocated 330 million yuan in central disaster relief funds to support 8 provinces and municipalities in emergency rescue operations.",
+  "body_zh": "支持8省（市）开展自然灾害应急抢险救灾工作\n本报北京8月5日电 （记者曲哲涵、刘温馨）当前，我国处于“七下八上”防汛关键期，东北、西南、西北等多地反复遭遇持续性强降雨，引发洪涝、地质灾害，造成人员伤亡和房屋倒损。\n8月5日，财政部、应急管理部紧急预拨3.3亿元中央自然灾害救灾资金，支持黑龙江、辽宁、吉林、重庆、四川、贵州、云南、陕西等8省（市）开展自然灾害应急抢险救灾工作，重点做好搜救转移安置受灾人员、排危除险等应急处置、次生灾害隐患排查整治、倒损民房修复等工作，最大限度减少灾害损失。\n财政部要求上述8省（市）财政部门抓紧将资金拨付灾区，加强救灾资金监管，确保救灾资金全部用于灾区和受灾群众，切实维护人民群众生命财产安全和灾区生产生活秩序。\n《 人民日报 》（ 2026年08月06日 04 版）",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "welfare",
+  "keywords": [
+    "防灾救灾",
+    "自然灾害应急抢险"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾救灾",
+      "name_en": "Disaster Prevention and Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害应急抢险",
+      "name_en": "Natural Disaster Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "防灾救灾",
+    "自然灾害应急抢险"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Disaster Prevention and Relief",
+    "Natural Disaster Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-xinhua_politics-ac8a04",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/lianbo/202608/content_7077561.htm",
+      "title_zh": "两部门紧急预拨3.3亿元中央自然灾害救灾资金",
+      "published_at": "2026-08-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

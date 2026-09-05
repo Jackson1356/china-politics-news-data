@@ -1,0 +1,105 @@
+{
+  "id": "20260822-xinhua_ah-5850fa",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.news.cn/20260822/5174f1df367d4a54b29fb7305912c10f/c.html",
+  "title_zh": "梁言顺在合肥市调研",
+  "title_en": "Liang Yanshun Inspects Flood Control Works in Hefei",
+  "summary_zh": "8月21日，安徽省委书记梁言顺在合肥调研老旧水库改造和城市防洪工程，强调要全面提升防灾减灾救灾能力。",
+  "summary_en": "On August 21, Liang Yanshun, Secretary of Anhui Provincial Party Committee, inspected old reservoir renovation and urban flood control projects in Hefei, emphasizing comprehensive enhancement of disaster prevention and mitigation capabilities.",
+  "body_zh": "8月21日上午，省委书记梁言顺在合肥市调研时强调，要深入贯彻习近平总书记关于防灾减灾救灾的重要论述和考察安徽重要讲话精神，树立和践行正确政绩观，坚持预防为主，树立长远眼光，统筹推进老旧水库改造提升，着力补短板、强弱项，全面提高防灾减灾救灾能力。省领导单向前、张曙光参加。\n董铺水库、大房郢水库分别于1958年、2004年完工蓄水，正常蓄水位常年高于城区地面，是合肥市民头上的“两盆水”，水库安全直接关系群众的生命财产安全。梁言顺走上董铺水库大坝，察看水位库容、隐患整治点位，了解工程运行管理、城市防洪工程、老旧水库改造提升等情况。他说，水库是防治水患的重要工程措施，“百年一遇”不是到一百年才来，要充分考虑极端情况，抢抓政策窗口期、施工最佳期，结合实施全域水患治理工程，深入摸排核查老旧水库，科学评估风险等级，逐库登记建账，多方科学论证，制定周全方案。要坚持分级分类推进，优先将防洪任务重、隐患问题多、风险等级高、下游保护对象重要的水库列入项目库，强化多元投入，抓紧改造提升，确保水库固若金汤、长期安全稳定运行。要强化科技支撑，用好智能监测、巡检等手段，全面提升水库本质安全水平。两座水库还是合肥人民的“大水缸”，梁言顺叮嘱相关部门认真落实河湖长制，以最严标准一体保护水环境、水资源、水生态，让城乡居民喝上干净水、放心水。\n南淝河是合肥城区主要行洪通道，梁言顺现场察看部分河段，了解行洪通道承泄能力提升工程规划、跨河桥梁阻水隐患及改造工程规划等情况。他强调，汛期的行洪河道就是生命通道，不能等灾害发生以后才汲取教训。要坚持标本兼治，把安全韧性要求贯穿各类建设规划之中，合理提高流域防洪、城市排水防涝等标准，因地制宜改造建设跨河桥梁，加快补齐工程体系、基础设施短板，推动灾害治理向事前预防转型，守护城市安全。（宗禾 李浩）",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "welfare",
+  "keywords": [
+    "防灾减灾",
+    "水库安全",
+    "城市防洪"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liang-yanshun",
+      "name_zh": "梁言顺",
+      "name_en": "Liang Yanshun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水库安全",
+      "name_en": "Reservoir Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市防洪",
+      "name_en": "Urban Flood Control"
+    },
+    {
+      "kind": "person",
+      "id": "shan-xiangqian",
+      "name_zh": "单向前",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "梁言顺",
+    "合肥",
+    "防灾减灾",
+    "水库安全",
+    "城市防洪",
+    "单向前"
+  ],
+  "tags_en": [
+    "Liang Yanshun",
+    "Hefei",
+    "Disaster Prevention and Mitigation",
+    "Reservoir Safety",
+    "Urban Flood Control"
+  ],
+  "entities": {
+    "politicians": [
+      "shan-xiangqian",
+      "liang-yanshun",
+      {
+        "id": null,
+        "name_zh": "张曙光"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260822-xinhua_ah-5850fa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

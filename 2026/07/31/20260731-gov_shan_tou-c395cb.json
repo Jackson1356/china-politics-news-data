@@ -1,0 +1,88 @@
+{
+  "id": "20260731-gov_shan_tou-c395cb",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/styw/content/post_2556586.html",
+  "title_zh": "庄悦群率团开展“八一”拥军慰问活动",
+  "title_en": "Zhuang Yuequn Leads Delegation for 'August 1st' Army Day Condolence Visit",
+  "summary_zh": "7月24日上午，汕头市委书记庄悦群率市拥军慰问团到汕头警备区开展“八一”拥军慰问活动，与部队官兵座谈，共谋双拥发展。",
+  "summary_en": "On the morning of July 24, Zhuang Yuequn, Secretary of the Shantou Municipal Party Committee, led a delegation to visit the Shantou Garrison for the August 1st Army Day, discussing military-civilian cooperation.",
+  "body_zh": "您现在所在的位置 :\n在中国人民解放军建军99周年即将到来之际，7月24日上午，市委书记庄悦群率市拥军慰问团到汕头警备区开展走访慰问活动，军地双方亲切座谈，畅叙军民鱼水深情，共谋双拥发展新篇。\n庄悦群代表市委、市政府和全市人民，向汕头警备区、驻汕部队全体官兵致以节日问候和美好祝愿。他表示，一直以来，汕头警备区和驻汕部队坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平强军思想，认真贯彻新时代军事战略方针，狠抓备战训练、苦练打赢本领，推动军事斗争和后备力量建设取得积极成效。广大官兵视驻地为故乡、把群众当亲人，积极支持汕头经济社会发展，赢得了全市人民的广泛赞誉。\n庄悦群指出，当前汕头正深入学习贯彻习近平总书记视察广东、视察汕头重要讲话重要指示精神，奋力在新时代经济特区建设中迎头赶上，推进军民融合发展是汕头加快发展的强大助力。市委、市政府将继续发扬军爱民、民拥军的光荣传统，在双拥工作上续写新篇章，主动开展调查研究，全面了解部队建设和军属生活保障等需求，用心用情做好拥军优属工作，努力提升双拥工作的质量和水平；在军民融合上力求新突破，立足本地产业优势和资源禀赋，积极谋划军民融合发展项目，推动军民融合向多领域、深层次发展，助力经济建设和国防建设互促共进；在军地协作上争取新成效，始终聚焦发展是第一要务，积极畅通资源整合、能力聚合的通道链路，推动军地需求精准对接和高效保障，携手筑牢强国强军根基。希望广大官兵在发挥部队优势上展现新担当，围绕汕头发展所需、群众所盼，踊跃投身“百千万工程”、绿美生态建设等重点工作，为汕头高质量发展和现代化建设再立新功。\n汕头警备区领导宋海军，市领导许宏华、李绿岸、陈严参加活动。\n（记者 李德鹏）",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "双拥工作",
+    "军民融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhuang-yuequn-shantou",
+      "name_zh": "庄悦群",
+      "name_en": "Zhuang Yuequn"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Double Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军民融合",
+      "name_en": "Military-Civilian Integration"
+    }
+  ],
+  "tags_zh": [
+    "庄悦群",
+    "汕头",
+    "双拥工作",
+    "军民融合"
+  ],
+  "tags_en": [
+    "Zhuang Yuequn",
+    "Shantou",
+    "Double Support Work",
+    "Military-Civilian Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "zhuang-yuequn-shantou",
+      {
+        "id": null,
+        "name_zh": "陈严"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-gov_shan_tou-c395cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

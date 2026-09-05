@@ -1,0 +1,104 @@
+{
+  "id": "20260814-local_qing_dao_ri_bao_cn_sd-2db96b",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/468043_1.html",
+  "title_zh": "市政府党组扩大会议召开 任刚主持并讲话",
+  "title_en": "Ren Gang Chairs Enlarged Meeting of Municipal Government Party Group",
+  "summary_zh": "8月13日下午，青岛市委副书记、市长、市政府党组书记任刚主持召开市政府党组会议，传达学习中央有关精神和市委全会部署，研究下步经济工作。",
+  "summary_en": "On the afternoon of August 13, Ren Gang, Deputy Secretary of the Qingdao Municipal Committee and Mayor, chaired a meeting of the Municipal Government Party Group to convey central directives and study next-step economic work.",
+  "body_zh": "市政府党组扩大会议召开 任刚主持并讲话\n作者：刘萍\n青岛日报社/观海新闻8月14日讯 8月13日下午，市委副书记、市长、市政府党组书记任刚主持召开市政府党组会议，传达学习习近平总书记在中共中央政治局会议、党外人士座谈会上的重要讲话精神以及对基础教育工作、侨务工作作出的重要指示精神，认真落实市委十三届十次全会部署，研究下步工作措施。\n会议强调，要坚定扛牢“走在前、挑大梁”使命担当，坚持稳中求进，远近结合、标本兼顾，确保完成全年目标任务。要全力抓好经济运行，稳住重点领域投资，减缓橡胶轮胎、化工、轨道交通等行业波动，创新举措深挖建筑业潜力，围绕“六张网”建设帮助企业多拿订单、放量生产。要强化创新引领，构建适配创新需求的科技金融机制，调动高校院所、重点企业在科创大走廊建设中的积极性，整合释放更多创新资源。要加力数字经济发展，依托国际通信业务出入口局，加快布局外数中算、词元经济，促进工业电商与跨境电商联动发展。要抓好政策落实，推动政策直达快享、免申即享，通过多补、直补、快补，带动更多企业加快技改、智改、数改步伐。\n会议指出，面向“十五五”，要持续放大格局，锚定建设现代化国际大都市的目标定位，以世界眼光、国际标准谋划推进工作。要提前布局，增强工作预见性、前瞻性，把握新的产业风口和未来产业赛道，抢占先机、赢得主动。要应对变局，紧盯外部环境、产业趋势、人口变化，提前研判、制定预案，更加主动识变、求变、塑变。要善于组局，顺应资源要素流动趋势，搭建对接平台，主动“入圈进群”。要积极破局，把人才作为城市发展的关键，以校企合作培养更多高技能人才，吸引海内外校友、青岛籍人才带着项目、技术、资源回青创业。\n韩耀东、赵燕、于瑞波、高健、庄增大出席会议，赵胜村列席。（青岛日报/观海新闻记者 刘萍）",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "party",
+  "keywords": [
+    "经济增长",
+    "数字经济",
+    "创新引领"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "任刚",
+      "name_en": "Ren Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新引领",
+      "name_en": "Innovation-driven"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "任刚",
+    "青岛",
+    "经济增长",
+    "数字经济",
+    "创新引领",
+    "习近平"
+  ],
+  "tags_en": [
+    "Ren Gang",
+    "Qingdao",
+    "Economic Growth",
+    "Digital Economy",
+    "Innovation-driven"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "任刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-QD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260814-local_qing_dao_ri_bao_cn_sd-2db96b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

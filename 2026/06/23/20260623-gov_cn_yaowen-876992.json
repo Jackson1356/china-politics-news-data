@@ -1,0 +1,70 @@
+{
+  "id": "20260623-gov_cn_yaowen-876992",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073154.htm",
+  "title_zh": "我国利用外资结构持续优化",
+  "title_en": "China's Structure of Foreign Capital Utilization Continues to Optimize",
+  "summary_zh": "商务部数据显示，今年1—5月我国新设外资企业超2.5万家，5月实际使用外资同比增速由负转正，高技术产业利用外资结构进一步优化。",
+  "summary_en": "Ministry of Commerce data shows over 25,000 new foreign-invested enterprises from Jan to May, with May's actual foreign capital use returning to growth and high-tech sectors seeing significant optimization.",
+  "body_zh": "商务部发布的最新数据显示，今年1—5月，全国新设立外商投资企业超2.5万家，同比增长5.3%。5月当月，全国实际使用外资同比增长5.9%。实现月度同比增速由负转正。据统计，今年前五个月，近4000家外资企业在华追加投资，在存量基础上持续加码。\n利用外资的结构也在进一步优化。今年前五个月，高技术产业实际使用外资1301.4亿元人民币，同比增长19.4%，占全国实际使用外资的近四成，较去年同期提升9.4个百分点。其中，研发与设计服务、计算机及办公设备制造业、电子及通信设备制造业实际使用外资增长较快。",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "economy",
+  "keywords": [
+    "利用外资",
+    "高技术产业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "利用外资",
+      "name_en": "Foreign Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术产业",
+      "name_en": "High-tech Industry"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "利用外资",
+    "高技术产业"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Foreign Investment",
+    "High-tech Industry"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260623-gov_cn_yaowen-876992",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

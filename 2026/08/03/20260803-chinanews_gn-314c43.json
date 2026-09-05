@@ -1,0 +1,109 @@
+{
+  "id": "20260803-chinanews_gn-314c43",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-03/10671139.shtml",
+  "title_zh": "国家税务总局新疆维吾尔自治区税务局原副局长张英俊被查",
+  "title_en": "Former Deputy Director of Xinjiang Tax Bureau Zhang Yingjun under Investigation",
+  "summary_zh": "中央纪委国家监委驻国家税务总局纪检监察组和新疆维吾尔自治区纪委监委8月3日通报，国家税务总局新疆维吾尔自治区税务局原党委委员、副局长张英俊涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+  "summary_en": "The CCDI's discipline inspection group at the State Taxation Administration and the Xinjiang Disciplinary Inspection Commission announced on Aug 3 that Zhang Yingjun, former deputy director of the Xinjiang tax bureau, is under investigation for serious disciplinary violations.",
+  "body_zh": "国家税务总局新疆维吾尔自治区税务局原副局长张英俊被查\n中新网8月3日电 据中央纪委国家监委驻国家税务总局纪检监察组、新疆维吾尔自治区纪委监委消息：国家税务总局新疆维吾尔自治区税务局原党委委员、副局长张英俊涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家税务总局纪检监察组纪律审查和新疆维吾尔自治区监察委员会监察调查。\n国内新闻精选：\n- 2026年08月03日 11:02:06\n- 2026年08月03日 10:26:02\n- 2026年08月02日 13:19:04\n- 2026年08月02日 13:04:41\n- 2026年08月02日 11:20:10\n- 2026年08月02日 07:19:05\n- 2026年08月01日 19:27:36\n- 2026年08月01日 16:43:34\n- 2026年08月01日 16:09:50\n- 2026年08月01日 08:47:08",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查",
+    "税务系统"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张英俊",
+      "name_en": "Zhang Yingjun"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "新疆维吾尔自治区纪委监委",
+      "name_en": "Xinjiang Uygur Autonomous Region Commission for Discipline Inspection"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Discipline Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "税务系统",
+      "name_en": "Tax System"
+    }
+  ],
+  "tags_zh": [
+    "张英俊",
+    "新疆维吾尔自治区纪委监委",
+    "新疆",
+    "反腐败",
+    "纪律审查",
+    "税务系统"
+  ],
+  "tags_en": [
+    "Zhang Yingjun",
+    "Xinjiang Uygur Autonomous Region Commission for Discipline Inspection",
+    "Xinjiang",
+    "Anti-corruption",
+    "Discipline Review",
+    "Tax System"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张英俊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "新疆维吾尔自治区纪委监委",
+        "name_en": "Xinjiang Uygur Autonomous Region Commission for Discipline Inspection"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260803-chinanews_gn-314c43",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

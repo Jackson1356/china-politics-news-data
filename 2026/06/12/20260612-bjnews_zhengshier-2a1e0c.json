@@ -1,0 +1,103 @@
+{
+  "id": "20260612-bjnews_zhengshier-2a1e0c",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1781273018129824.html",
+  "title_zh": "才让太赴任西藏自治区党委统战部部长",
+  "title_en": "Tsering Tai Appointed Minister of the United Front Work Department of Tibet Autonomous Region Party Committee",
+  "summary_zh": "6月12日，西藏自治区党委书记王君正调研统战部，信息显示才让太已任西藏自治区党委常委、统战部部长。",
+  "summary_en": "On June 12, Wang Junzheng, Secretary of the Tibet Autonomous Region Party Committee, conducted research at the United Front Work Department, confirming Tsering Tai's appointment as the Minister of the department.",
+  "body_zh": "才让太，已赴任西藏\n西藏日报消息，6月12日，西藏自治区党委书记王君正前往自治区党委统战部调研。自治区党委常委、组织部部长赖蛟，自治区党委常委、统战部部长才让太，自治区政协副主席斯朗尼玛参加。\n上述信息显示，才让太已任西藏自治区党委常委、统战部部长。\n公开简历显示，才让太，男，藏族，1968年8月生，管理学学士，中共党员。他是第二十届中央候补委员。\n他曾任青海省玉树州委常委、副州长，玉树州委副书记、州长等职。2021年，才让太任青海省副省长，2022年任青海省委常委、副省长，至近期履新。\n原任西藏自治区党委常委、统战部部长斯朗尼玛，已任西藏自治区政协党组副书记、副主席。",
+  "image_url": null,
+  "published_at": "2026-06-12T22:15:25+00:00",
+  "event_date": "2024-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事变动",
+    "统战工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cairangtai",
+      "name_zh": "才让太",
+      "name_en": "Tsering Tai"
+    },
+    {
+      "kind": "person",
+      "id": "wang-junzheng",
+      "name_zh": "王君正",
+      "name_en": "Wang Junzheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "西藏自治区党委",
+      "name_en": "Tibet Autonomous Region Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事变动",
+      "name_en": "Personnel Change"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统战工作",
+      "name_en": "United Front Work"
+    }
+  ],
+  "tags_zh": [
+    "才让太",
+    "王君正",
+    "西藏自治区党委",
+    "西藏",
+    "人事变动",
+    "统战工作"
+  ],
+  "tags_en": [
+    "Tsering Tai",
+    "Wang Junzheng",
+    "Tibet Autonomous Region Party Committee",
+    "Tibet",
+    "Personnel Change",
+    "United Front Work"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-junzheng",
+      "cairangtai",
+      "silang-nima"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "西藏自治区党委",
+        "name_en": "Tibet Autonomous Region Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260612-bjnews_zhengshier-2a1e0c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

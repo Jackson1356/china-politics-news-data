@@ -1,0 +1,119 @@
+{
+  "id": "20260528-cpcnews-b5795c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0529/c64094-40729882.html",
+  "title_zh": "王沪宁会见英国跨党派议员代表团",
+  "title_en": "Wang Huning Meets with Cross-Party Delegation of British MPs",
+  "summary_zh": "2026年5月28日，全国政协主席王沪宁在京会见出席第十四届中英政党对话的英国跨党派议员代表团，双方探讨加强政党交往与互利合作。",
+  "summary_en": "On May 28, 2026, CPPCC Chairman Wang Huning met with a cross-party delegation of British MPs in Beijing during the 14th China-UK Party Dialogue to discuss strengthening party exchanges and mutual cooperation.",
+  "body_zh": "新华社北京5月28日电 中共中央政治局常委、全国政协主席王沪宁28日在京会见来华出席第十四届中英政党对话的英国跨党派议员代表团。\n王沪宁表示，今年1月，习近平主席会见来华访问的斯塔默首相，双方一致同意发展长期稳定的全面战略伙伴关系，为两国关系发展指明了方向。中方愿同英方共同落实两国领导人重要共识，加强政党交往，增进政治互信，推动两国互利合作取得更多成果。中国全国政协愿为此作出积极贡献。\n英国前首席内阁大臣、英中协会会长利丁顿等表示，此行目睹中国更大发展成就，一个繁荣稳定的中国符合各方利益。英方重视对华合作机遇，赞赏中国为全球治理所作贡献，愿同中方加强互利合作和多边协调，促进共同发展与世界和平稳定。\n王东峰等参加会见。\n《 人民日报 》（ 2026年05月29日 01 版）",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "foreign",
+  "keywords": [
+    "中英关系",
+    "政党对话",
+    "互利合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-huning",
+      "name_zh": "王沪宁",
+      "name_en": "Wang Huning"
+    },
+    {
+      "kind": "institution",
+      "id": "CPPCC",
+      "name_zh": "全国政协",
+      "name_en": "CPPCC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中英关系",
+      "name_en": "China-UK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党对话",
+      "name_en": "Party Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利合作",
+      "name_en": "Mutual Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wang-dongfeng",
+      "name_zh": "王东峰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王沪宁",
+    "全国政协",
+    "北京",
+    "中英关系",
+    "政党对话",
+    "互利合作",
+    "习近平",
+    "王东峰"
+  ],
+  "tags_en": [
+    "Wang Huning",
+    "CPPCC",
+    "Beijing",
+    "China-UK Relations",
+    "Party Dialogue",
+    "Mutual Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-huning",
+      "wang-dongfeng",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "丁顿等"
+      }
+    ],
+    "institutions": [
+      "CPPCC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260528-cpcnews-b5795c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

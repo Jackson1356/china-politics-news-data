@@ -1,0 +1,110 @@
+{
+  "id": "20260520-xinhua_gd-db7ff3",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260521/bf9ec14f65d0435bbb53c2183c5ded50/c.html",
+  "title_zh": "两部门联合发布贯彻实施民营经济促进法典型案例",
+  "title_en": "Two Departments Jointly Release Typical Cases for Implementing the Private Economy Promotion Law",
+  "summary_zh": "2026年5月20日，国家发展改革委与最高人民法院在北京联合发布8件贯彻实施民营经济促进法的典型案例，旨在保护民营企业权益并助力其良性发展。",
+  "summary_en": "On May 20, 2026, the NDRC and the Supreme People's Court jointly released eight typical cases in Beijing to demonstrate the implementation of the Private Economy Promotion Law and support private enterprises.",
+  "body_zh": "新华社北京5月20日电（记者冯家顺）今年5月20日是民营经济促进法实施一周年。国家发展改革委、最高人民法院联合发布8件贯彻实施民营经济促进法典型案例，展现人民法院坚持和落实“两个毫不动摇”、贯彻实施民营经济促进法的工作成效。\n这批案例中，人民法院立足民营经济发展痛点、难点问题，结合企业经营现状、行业发展前景定制纾困方案，助力企业摆脱经营危机、实现良性发展。“某电器公司执行转重整案”中，人民法院通过“缓执行+预重整+府院联动+招商引资”等组合措施，成功引入战略投资盘活优质资产，充分彰显司法对民营企业的产权保护、发展支持与纾困赋能。\n同时，人民法院聚焦保护民营经济组织及其经营者的人身权利、财产权利，依法打击侵权行为、纠正不当举措。“某汽车公司诉微博大V刘某网络侵权责任纠纷案”中，法院准确界定舆论监督边界，依法惩处恶意诋毁、侮辱企业的行为，维护民营企业名誉权。“某房地产公司诉某市人民政府、某市自然资源和规划局行政允诺案”中，法院适用民营经济促进法，确立“行政允诺审查—履行不能认定—补偿责任量化”的裁判规则，判决政府支付民营企业800余万元补偿款，依法保护企业获得行政补偿的权利。\n人民法院还创新解纷模式，整合解纷资源，最大限度降低诉讼对民营企业经营的影响。“某进出口公司与某外商公司及其出资人买卖合同纠纷案”中，人民法院联合贸促会，运用“商事调解+中立评估+司法确认”模式，高效化解涉外纠纷、节省企业诉讼成本，保护民营企业“出海”合法权益。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "economy",
+  "keywords": [
+    "民营经济",
+    "民营经济促进法",
+    "产权保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "SPC",
+      "name_zh": "最高人民法院",
+      "name_en": "Supreme People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营经济",
+      "name_en": "Private Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营经济促进法",
+      "name_en": "Private Economy Promotion Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产权保护",
+      "name_en": "Property Rights Protection"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "最高人民法院",
+    "北京",
+    "民营经济",
+    "民营经济促进法",
+    "产权保护"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Supreme People's Court",
+    "Beijing",
+    "Private Economy",
+    "Private Economy Promotion Law",
+    "Property Rights Protection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SPC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260520-xinhua_gd-db7ff3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0521/c351638-41586408.html",
+      "title_zh": "推动构建公平诚信营商环境",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

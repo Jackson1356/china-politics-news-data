@@ -1,0 +1,105 @@
+{
+  "id": "20260616-xinhua_qh-ec38f5",
+  "source": "xinhua_qh",
+  "source_name_zh": "新华网 青海",
+  "source_name_en": "Xinhua Qinghai",
+  "source_url": "http://qh.news.cn/20260616/9321421cb6c742fd91aec7ea5bf0604b/c.html",
+  "title_zh": "青海海西州6.3级地震发生后应急处置全力开展",
+  "title_en": "Emergency Response Underway Following 6.3-Magnitude Earthquake in Haixi, Qinghai",
+  "summary_zh": "6月16日青海海西州发生6.3级地震，造成1人遇难4人受伤。省委书记吴晓军与省长罗东川部署救灾工作，已启动省级II级应急响应。",
+  "summary_en": "A 6.3-magnitude earthquake struck Haixi, Qinghai on June 16, leaving one dead and four injured. Provincial leaders have activated a Level II emergency response to coordinate rescue efforts.",
+  "body_zh": "新华网西宁6月16日电 6月16日17时6分，青海省海西蒙古族藏族自治州大柴旦发生6.3级地震。截至6月16日20时，地震造成1人遇难、4人受伤。据初步核查，本次地震周边50公里内，交通、通信、供电、供水、供气等基础设施运行正常。目前，已启动省级地震灾害II级应急响应，省、州、行委各类专业救援力量已赶赴灾区开展应急处置工作，当地社会基本平稳有序。\n地震发生后，省委书记、省人大常委会主任吴晓军，省委副书记、省长罗东川第一时间前往省应急指挥部,召开省抗震救灾指挥部第一次会议，视频调度部署抗震救灾工作。\n目前，救灾工作正在有序开展。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗震救灾",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiaojun-qinghai",
+      "name_zh": "吴晓军",
+      "name_en": "Wu Xiaojun"
+    },
+    {
+      "kind": "person",
+      "id": "luo-dongchuan",
+      "name_zh": "罗东川",
+      "name_en": "Luo Dongchuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "海西州",
+      "name_en": "Haixi Prefecture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "吴晓军",
+    "罗东川",
+    "青海",
+    "海西州",
+    "抗震救灾",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Wu Xiaojun",
+    "Luo Dongchuan",
+    "Qinghai",
+    "Haixi Prefecture",
+    "Earthquake Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-xiaojun-qinghai",
+      "luo-dongchuan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260616-xinhua_qh-ec38f5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_qh",
+      "source_tier": 3,
+      "url": "http://qh.people.com.cn/n2/2026/0616/c378418-41612662.html",
+      "title_zh": "青海海西州6.3级地震发生后 应急处置全力开展 社会大局平稳有序",
+      "published_at": "2026-06-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

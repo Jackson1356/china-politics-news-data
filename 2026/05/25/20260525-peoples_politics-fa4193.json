@@ -1,0 +1,113 @@
+{
+  "id": "20260525-peoples_politics-fa4193",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0525/c1001-40727086.html",
+  "title_zh": "王毅会见巴基斯坦国防军司令兼陆军参谋长穆尼尔",
+  "title_en": "Wang Yi Meets Pakistan's Chief of Army Staff General Munir",
+  "summary_zh": "2026年5月25日，外交部长王毅在北京会见巴基斯坦国防军司令兼陆军参谋长穆尼尔，双方探讨深化中巴传统友谊、命运共同体建设及地区和平问题。",
+  "summary_en": "On May 25, 2026, Foreign Minister Wang Yi met with Pakistan's Chief of Army Staff General Munir in Beijing to discuss deepening China-Pakistan friendship and regional peace.",
+  "body_zh": "王毅会见巴基斯坦国防军司令兼陆军参谋长穆尼尔\n新华社北京5月25日电 5月25日，中共中央政治局委员、外交部长王毅在北京会见巴基斯坦国防军司令兼陆军参谋长穆尼尔元帅。\n王毅欢迎穆尼尔元帅同夏巴兹总理联袂访华，表示今年是中巴建交75周年。“疾风知劲草，烈火见真金”。无论国际地区形势如何变化，中巴友谊始终坚如磐石、牢不可破。两国保持高水平政治互信、高水平务实合作、高水平国际协作，树立了国与国关系的典范。巴基斯坦军方一直是促进中巴合作的重要力量，相信将为深化中巴传统友谊和命运共同体建设作出新的贡献。\n穆尼尔表示，巴中铁杆友谊历久弥坚、与日俱深，巴方对此深感自豪。近年来，中国国际地位与影响力日益提升，习近平主席提出的四大全球倡议和“一带一路”倡议为促进世界和平与发展发挥了关键作用，受到国际社会广泛欢迎，巴方坚定支持并积极参与。巴军方将继续全力推动构建巴中命运共同体和中巴经济走廊建设。\n穆尼尔介绍了斡旋美伊战事的最新情况，表示协议已接近达成，巴方愿继续全力以赴，也希中方进一步发挥作用。王毅表示巴方是值得各方信任的合格斡旋方，中方赞赏并支持巴方所做的努力。和平虽然艰难但终将到来。",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中巴关系",
+    "命运共同体",
+    "一带一路",
+    "中巴经济走廊"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "穆尼尔",
+      "name_en": "Munir"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Pakistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴经济走廊",
+      "name_en": "China-Pakistan Economic Corridor"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "穆尼尔",
+    "北京",
+    "中巴关系",
+    "命运共同体",
+    "一带一路",
+    "中巴经济走廊"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Munir",
+    "Beijing",
+    "China-Pakistan Relations",
+    "Community with a Shared Future",
+    "Belt and Road Initiative",
+    "China-Pakistan Economic Corridor"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260525-peoples_politics-fa4193",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

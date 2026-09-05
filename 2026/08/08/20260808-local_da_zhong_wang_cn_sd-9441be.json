@@ -1,0 +1,125 @@
+{
+  "id": "20260808-local_da_zhong_wang_cn_sd-9441be",
+  "source": "local_da_zhong_wang_cn_sd",
+  "source_name_zh": "大众网",
+  "source_name_en": "大众网",
+  "source_media_id": "cac-cn-sd-9149c52ad8",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://sd.dzwww.com/sdnews/202608/t20260808_18003851.htm",
+  "title_zh": "林武会见国家电投集团客人",
+  "title_en": "Lin Wu Meets Chairman of State Power Investment Corporation",
+  "summary_zh": "8月7日下午，山东省委书记林武在济南会见国家电投集团董事长刘明胜，双方就核能、海上风电等合作交换意见，随后山东省政府与国家电投签署战略合作协议。",
+  "summary_en": "On the afternoon of August 7, Shandong Provincial Party Secretary Lin Wu met with Liu Mingsheng, Chairman of State Power Investment Corporation, in Jinan to discuss cooperation on nuclear energy and offshore wind. The provincial government then signed a strategic cooperation agreement with SPIC.",
+  "body_zh": "大众新闻\n林武会见国家电投集团客人\n周乃翔出席签约仪式\n8月7日下午，省委书记林武在济南会见了国家电投集团董事长、党组书记刘明胜一行。林武、刘明胜分别介绍了山东省、国家电投集团发展情况，围绕加快核能产业发展、探索核电直连算力发展路径、优化海上风电布局、推进新能源装备产业发展等交换了意见，表示将在良好合作的基础上，持续深化务实合作，加快重大项目谋划建设，推动更多优质资源在山东聚集，促进双方合作向更广空间、更深层次迈进。\n会见后，山东省人民政府与国家电投集团签署战略合作协议，省委副书记、省长周乃翔出席。根据协议，双方将聚焦胶东半岛核能开发、海陆风光基地建设、能源科技创新等加大合作力度，加快推动山东能源绿色低碳转型，助力经济社会高质量发展。\n省委常委张海波、单义参加。\n审核：蔡溦",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "industry",
+  "keywords": [
+    "核能产业",
+    "战略合作",
+    "新能源"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lin-wu",
+      "name_zh": "林武",
+      "name_en": "Lin Wu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核能产业",
+      "name_en": "Nuclear Energy Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "shan-yi-shandong",
+      "name_zh": "单义",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林武",
+    "济南",
+    "核能产业",
+    "战略合作",
+    "新能源",
+    "张海波",
+    "单义",
+    "周乃翔"
+  ],
+  "tags_en": [
+    "Lin Wu",
+    "Jinan",
+    "Nuclear Energy Industry",
+    "Strategic Cooperation",
+    "New Energy"
+  ],
+  "entities": {
+    "politicians": [
+      "shan-yi-shandong",
+      "zhou-naixiang",
+      "lin-wu",
+      "zhang-haibo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260808-gov_zi_bo-76c3ba",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_zi_bo",
+      "source_tier": 4,
+      "url": "https://www.zibo.gov.cn/art/2026/8/8/art_14322_3014908.html",
+      "title_zh": "淄博市人民政府 省政府要闻 林武会见国家电投集团客人",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

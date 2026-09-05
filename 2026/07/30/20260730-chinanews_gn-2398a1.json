@@ -1,0 +1,98 @@
+{
+  "id": "20260730-chinanews_gn-2398a1",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-30/10669277.shtml",
+  "title_zh": "国防部：今年军校报考热度与生源质量均创历史新高",
+  "title_en": "Defense Ministry: Military Academy Popularity and Quality Hit Record Highs",
+  "summary_zh": "7月30日，国防部例行记者会上，新闻发言人蒋斌介绍今年全国约19.2万人报考军校，22所军校录取1.75万余人，成绩排名平均各省前6%，报考热度与生源质量创历史新高。",
+  "summary_en": "At a routine press conference on July 30, Defense Ministry spokesman Jiang Bin said about 192,000 people applied to military academies this year, with 17,500 admitted from 22 schools, ranking top 6% on average, hitting record highs in popularity and quality.",
+  "body_zh": "国防部：今年军校报考热度与生源质量均创历史新高\n中新网7月30日电 据国防部网站消息，7月30日下午，国防部举行例行记者会，国防部新闻发言人蒋斌大校答记者问。\n记者：每年高考填报志愿，军校始终是很多学生和家长的理想选择。请介绍今年军校招生录取工作情况。\n蒋斌：今年广大学子持续踊跃报考军校，全国31个省(自治区、直辖市)约19.2万人报名，22所军校录取考生1.75万余名，录取考生成绩排名平均位各省前6%，报考热度与生源质量均创历史新高。\n国内新闻精选：\n- 2026年07月31日 12:44:21\n- 2026年07月31日 10:15:46\n- 2026年07月31日 08:02:01\n- 2026年07月30日 22:01:28\n- 2026年07月30日 17:26:28\n- 2026年07月30日 16:57:46\n- 2026年07月30日 16:18:12\n- 2026年07月30日 15:43:12\n- 2026年07月30日 14:29:13\n- 2026年07月30日 13:43:40",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "industry",
+  "keywords": [
+    "军校招生",
+    "国防教育",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军校招生",
+      "name_en": "Military Academy Enrollment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防教育",
+      "name_en": "National Defense Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Development"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "军校招生",
+    "国防教育",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Military Academy Enrollment",
+    "National Defense Education",
+    "Talent Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260730-chinanews_gn-2398a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669479.shtml",
+      "title_zh": "刘国洪任自然资源部党组书记",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-30/10669305.shtml",
+      "title_zh": "国防部：民进党当局越喊“全民防卫” 越是“无人卖命”",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

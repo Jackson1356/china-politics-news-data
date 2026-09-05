@@ -1,0 +1,84 @@
+{
+  "id": "20260901-gov_zi_bo-5a4c22",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/9/1/art_14322_3018362.html",
+  "title_zh": "周乃翔会见西班牙众议院第三副议长",
+  "title_en": "Zhou Naixiang Meets Third Vice President of Spanish Congress of Deputies",
+  "summary_zh": "8月31日，山东省省长周乃翔在济南会见西班牙众议院第三副议长埃丝特·希尔德雷博莱尼奥一行，双方表示将深化多领域合作。",
+  "summary_en": "On August 31, Zhou Naixiang, Governor of Shandong, met in Jinan with Esther Hildreboleño, Third Deputy Speaker of the Spanish Congress of Deputies, to discuss deepening cooperation.",
+  "body_zh": "周乃翔会见西班牙众议院第三副议长\n8月31日，省委副书记、省长周乃翔在济南会见来山东出席亚太民间社会会议的西班牙众议院第三副议长埃丝特·希尔德雷博莱尼奥一行。\n周乃翔代表省委、省人民政府对客人的到访表示欢迎，并简要介绍了山东经济社会发展情况。他说，习近平主席高度重视中西关系，今年4月同桑切斯首相举行会晤，就深化两国关系擘画了蓝图。我们将深入落实两国领导人重要共识，持续深化同西班牙的友好往来，积极发展友好省州和友好城市关系，共同做大贸易投资，聚焦先进制造、现代农业、新能源等领域打造合作新亮点，进一步扩大文化、教育、旅游、青年、体育等领域交流，为中西全面战略伙伴关系发展贡献力量。\n埃丝特·希尔德雷博莱尼奥高度评价了山东经济社会发展取得的成就。她说，希望与山东持续增进交流互鉴，推动双方全方位合作不断取得新的成果，实现更高水平的互利共赢。（记者 毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "对外友好交流",
+    "中西关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外友好交流",
+      "name_en": "Foreign-Friendly Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中西关系",
+      "name_en": "China-Spain Relations"
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "济南",
+    "对外友好交流",
+    "中西关系"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Jinan",
+    "Foreign-Friendly Exchange",
+    "China-Spain Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-gov_zi_bo-5a4c22",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

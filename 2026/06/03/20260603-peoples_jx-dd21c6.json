@@ -1,0 +1,81 @@
+{
+  "id": "20260603-peoples_jx-dd21c6",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_url": "http://jx.people.com.cn/n2/2026/0603/c190262-41599631.html",
+  "title_zh": "江西发布林业生物多样性保护公报",
+  "title_en": "Jiangxi Releases Forestry Biodiversity Protection Report",
+  "summary_zh": "江西省日前发布2026年林业生物多样性保护公报，公布了近两年新增物种数量及就地与迁地保护体系的建设成果。",
+  "summary_en": "Jiangxi Province recently released the 2026 Forestry Biodiversity Protection Report, detailing new species discovered and the achievements of its in-situ and ex-situ conservation systems.",
+  "body_zh": "江西发布林业生物多样性保护公报\n近两年新增高等植物33种\n本报南昌6月2日电 （记者周欢）江西省林业生物多样性保护公报（2026）已于日前发布。公报显示，江西省生物多样性保护取得明显成效。\n江西近两年新增高等植物33种（新物种3种、新记录30种），脊椎动物2种（新物种1种、新记录1种），昆虫52种（新物种7种、新记录45种），大型真菌65种（新物种5种、新记录60种）。\n在就地保护体系方面，江西已建成国家公园1处、自然保护区190个、风景名胜区45个、森林公园182个、湿地公园109个、地质公园15个，省级以上生态公益林332.53万公顷。\n在迁地保护体系方面，江西开展国家重点保护野生植物迁地保护工作的机构达28家，保存各类林木种质资源1.696万份。庐山植物园已建成杜鹃园、松柏园、金缕梅园等26个专类园和3个种质资源圃。\n在生物多样性监测研究设施平台方面，江西已建立286个植物群落标准固定样地，7个森林生态系统大型固定样地、1个湿地生态系统大型固定样地，在5个国家级自然保护区建立了生态系统定位观测研究站。\n《人民日报》（2026年06月03日 第 14 版）",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "生物多样性保护",
+    "林业"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物多样性保护",
+      "name_en": "Biodiversity Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "林业",
+      "name_en": "Forestry"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江西",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江西",
+    "生物多样性保护",
+    "林业"
+  ],
+  "tags_en": [
+    "Jiangxi",
+    "Biodiversity Protection",
+    "Forestry"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江西"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260603-peoples_jx-dd21c6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

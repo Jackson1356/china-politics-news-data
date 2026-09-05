@@ -1,0 +1,109 @@
+{
+  "id": "20260611-chinanews_gn-b25901",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-11/10638361.shtml",
+  "title_zh": "赵乐际就日本前众议长河野洋平逝世向遗属致唁电",
+  "title_en": "Zhao Leji Sends Condolence Message on the Passing of Former Japanese House Speaker Yohei Kono",
+  "summary_zh": "2026年6月11日，全国人大常委会委员长赵乐际就日本前众议院议长河野洋平逝世向其遗属致唁电，对其表示哀悼并希望推动中日关系重回正常轨道。",
+  "summary_en": "On June 11, 2026, Zhao Leji, Chairman of the NPC Standing Committee, sent a message of condolence to the family of former Japanese House Speaker Yohei Kono, expressing mourning and hope for normalizing China-Japan relations.",
+  "body_zh": "赵乐际就日本前众议长河野洋平逝世向遗属致唁电\n新华社北京6月11日电 6月11日，全国人大常委会委员长赵乐际就日本国际贸易促进协会会长、前众议院议长河野洋平逝世向遗属致唁电，对河野洋平逝世表示哀悼。\n赵乐际指出，河野先生是日本资深政治家，也是中国人民的老朋友，长期致力于中日友好事业。1993年河野先生作为时任日本官房长官就“慰安妇”问题发表“河野谈话”，至今仍在发挥积极影响。希望你们继承河野先生遗志，为推动中日关系重回正常轨道发挥积极作用。\n国内新闻精选：\n- 2026年06月11日 12:49:35\n- 2026年06月10日 21:58:49\n- 2026年06月10日 21:47:00\n- 2026年06月10日 21:14:48\n- 2026年06月10日 17:18:17\n- 2026年06月10日 16:05:39\n- 2026年06月10日 12:09:18\n- 2026年06月10日 10:02:46\n- 2026年06月10日 07:50:23\n- 2026年06月09日 18:46:40",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中日关系",
+    "外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-leji",
+      "name_zh": "赵乐际",
+      "name_en": "Zhao Leji"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "河野洋平",
+      "name_en": "Yohei Kono"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交",
+      "name_en": "Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "赵乐际",
+    "河野洋平",
+    "全国人大常委会",
+    "北京",
+    "中日关系",
+    "外交"
+  ],
+  "tags_en": [
+    "Zhao Leji",
+    "Yohei Kono",
+    "NPC Standing Committee",
+    "Beijing",
+    "China-Japan Relations",
+    "Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-leji"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260611-chinanews_gn-b25901",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260611/17f8373582aa4aafb2be436c663d7ada/c.html",
+      "title_zh": "赵乐际就日本前众议长河野洋平逝世向遗属致唁电",
+      "published_at": "2026-06-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

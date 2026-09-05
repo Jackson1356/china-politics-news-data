@@ -1,0 +1,78 @@
+{
+  "id": "20260615-xinhua_sc-de4bb5",
+  "source": "xinhua_sc",
+  "source_name_zh": "新华网 四川",
+  "source_name_en": "Xinhua Sichuan",
+  "source_url": "https://www.news.cn/20260615/d4600a32a7e84f8b96fcb3e10df0b148/c.html",
+  "title_zh": "西宁至成都铁路四川段“四电”工程启动",
+  "title_en": "Four-Electric Engineering Starts for Sichuan Section of Xining-Chengdu Railway",
+  "summary_zh": "6月15日，西宁至成都铁路四川段在阿坝州松潘县启动“四电”工程施工，标志着该路段进入关键建设阶段，为按期通车奠定基础。",
+  "summary_en": "On June 15, the \"Four-Electric\" engineering for the Sichuan section of the Xining-Chengdu Railway commenced in Songpan County, Aba Prefecture, marking a key construction phase for the project.",
+  "body_zh": "6月15日，在四川省阿坝藏族羌族自治州松潘县包座隧道施工现场，中铁电气化局集团有限公司施工人员顺利完成首根高铁接触网支柱组立施工，标志着西成铁路四川段进入“四电”工程施工阶段，为全线后续铺轨、联调联试及按期通车奠定坚实基础。\n中铁电气化局集团有限公司顺利完成首根高铁接触网支柱组立施工。（受访者供图）据了解，铁路“四电”工程是通信、信号、电力、电力牵引供电四大系统的统称，是高速铁路建设的核心关键工程，相当于高铁的“中枢大脑”与“动力之源”，直接保障列车安全、稳定、高效运行。其中，接触网系统是高铁动车稳定获取电能的关键设施，其施工质量、安装精度，直接关系列车运行的安全性与平稳性。\n中铁电气化局西成铁路项目经理王建军说，项目面临高原高寒气候、有效施工工期短、施工环境复杂等多重挑战，为确保首根接触网支柱一次性组立成功，项目部主动对接建设指挥部，多次开展现场踏勘、方案研讨与技术交底，持续优化施工流程。\n西宁至成都铁路是我国“八纵八横”高铁网兰州、西宁至广州的兰（西）广通道的组成部分。全线建成通车后，将极大便利沿线各族群众出行，进一步加强兰州—西宁城市群和成渝地区双城经济圈交流，促进沿线经济社会发展、助力乡村振兴。（记者李杰）",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "industry",
+  "keywords": [
+    "高铁建设",
+    "基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-speed Rail Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "四川",
+    "高铁建设",
+    "基础设施"
+  ],
+  "tags_en": [
+    "Sichuan",
+    "High-speed Rail Construction",
+    "Infrastructure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260615-xinhua_sc-de4bb5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sc",
+      "source_tier": 3,
+      "url": "http://sc.people.com.cn/n2/2026/0615/c345509-41611311.html",
+      "title_zh": "西成铁路“中枢大脑”建设启动 通车后成都至西宁5小时可达",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

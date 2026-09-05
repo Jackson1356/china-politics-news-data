@@ -1,0 +1,121 @@
+{
+  "id": "20260819-gov_chang_chun-5b3ad8",
+  "source": "gov_chang_chun",
+  "source_name_zh": "长春市政府网",
+  "source_name_en": "长春 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_chun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JL",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jl.gov.cn/yaowen/202608/t20260819_3664033.html",
+  "title_zh": "吉林粮食品牌发展大会在长春举行 胡玉亭出席并致辞",
+  "title_en": "Jilin Grain Brand Development Conference Held in Changchun; Governor Hu Yuting Delivers Speech",
+  "summary_zh": "8月19日，吉林粮食品牌发展大会在长春举行，省长胡玉亭出席并致辞，强调打造万亿级农产品加工业，推动粮食产业高质量发展。",
+  "summary_en": "On August 19, the Jilin Grain Brand Development Conference was held in Changchun. Governor Hu Yuting attended and delivered a speech, emphasizing building a trillion-yuan agricultural product processing industry and promoting high-quality development of the grain sector.",
+  "body_zh": "吉林粮食品牌发展大会在长春举行\n胡玉亭出席并致辞\n8月19日，吉林粮食品牌发展大会在长春举行，省委副书记、省长胡玉亭出席并致辞。国家发改委党组成员、国家粮食和物资储备局局长刘焕鑫致辞。副省长刘伟、长春市市长顾刚、省政府秘书长洪庆参加活动。\n胡玉亭首先代表吉林省委、省政府向出席活动的嘉宾表示欢迎。他说，党的十八大以来，习近平总书记四次考察吉林，赋予我们争当现代农业建设“排头兵”、粮食稳产保供“压舱石”使命。本次大会以“绿色 安全 健康 共享”为主题，既是吉林深入贯彻落实习近平总书记重要指示精神的具体实践，也是推进乡村振兴、农民增收的务实举措，吹响了吉林向粮食强省跨越的奋进号角。\n大会上，中国科学院院士李家洋等专家学者作主旨发言；长春市、四平市、松原市、白城市作品牌推介；发布了吉林粮食省级公用品牌、地理标志品牌、企业品牌价值评价；授予吉林大米“央广网地标中国·行业示范标杆品牌”；宣布吉林粮食产业科创专家委员会正式成立。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食产业",
+    "农产品加工",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-yuting",
+      "name_zh": "胡玉亭",
+      "name_en": "Hu Yuting"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食产业",
+      "name_en": "Grain Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农产品加工",
+      "name_en": "Agricultural Product Processing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "gu-gang-hainan",
+      "name_zh": "顾刚",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "liu-wei-transport",
+      "name_zh": "刘伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "胡玉亭",
+    "长春",
+    "粮食产业",
+    "农产品加工",
+    "乡村振兴",
+    "习近平",
+    "顾刚",
+    "刘伟"
+  ],
+  "tags_en": [
+    "Hu Yuting",
+    "Changchun",
+    "Grain Industry",
+    "Agricultural Product Processing",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-wei-transport",
+      "hu-yuting",
+      "xi-jinping",
+      "gu-gang-hainan",
+      {
+        "id": null,
+        "name_zh": "洪庆"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260819-gov_chang_chun-5b3ad8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

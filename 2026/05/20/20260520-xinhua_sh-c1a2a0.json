@@ -1,0 +1,112 @@
+{
+  "id": "20260520-xinhua_sh-c1a2a0",
+  "source": "xinhua_sh",
+  "source_name_zh": "新华网 上海",
+  "source_name_en": "Xinhua Shanghai",
+  "source_url": "https://www.news.cn/world/20260521/20053e6800cb4170beb830f9c4ab5d35/c.html",
+  "title_zh": "中俄双方签署联合声明 共同支持开放贸易和多边主义",
+  "title_en": "China and Russia Sign Joint Statement Supporting Open Trade and Multilateralism",
+  "summary_zh": "5月20日，商务部部长王文涛与俄罗斯经济发展部部长列舍特尼科夫在北京签署联合声明，共同支持开放贸易和多边主义。",
+  "summary_en": "On May 20, China's Minister of Commerce Wang Wentao and Russia's Minister of Economic Development Leshchenikov signed a joint statement in Beijing to support open trade and multilateralism.",
+  "body_zh": "5月20日，在习近平主席和俄罗斯普京总统共同见证下，商务部部长王文涛与俄罗斯经济发展部部长列舍特尼科夫在北京签署关于支持开放贸易和多边主义的联合声明。\n联合声明强调，在当前国际经贸形势下，应坚定维护多边主义，坚持开放和公平贸易。双方承诺共同抵制单边胁迫措施和贸易保护主义，反对以国家安全、环境保护或应对气候变化为名而采取贸易限制措施。双方认为，与第三方的经贸磋商不应针对另一方。双方重申支持以世贸组织为核心、以规则为基础、非歧视、公平、开放、包容、平等、可持续、透明的多边贸易体制，致力于推进双边经贸合作，促进贸易投资增长。双方同意加强在二十国集团、亚太经合组织、金砖国家、上海合作组织等平台的协调配合。\n附件：",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T02:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "开放贸易",
+    "多边主义",
+    "中俄关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-wentao",
+      "name_zh": "王文涛",
+      "name_en": "Wang Wentao"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "俄罗斯经济发展部",
+      "name_en": "Ministry of Economic Development of Russia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放贸易",
+      "name_en": "Open Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    }
+  ],
+  "tags_zh": [
+    "王文涛",
+    "商务部",
+    "俄罗斯经济发展部",
+    "北京",
+    "开放贸易",
+    "多边主义",
+    "中俄关系"
+  ],
+  "tags_en": [
+    "Wang Wentao",
+    "Ministry of Commerce",
+    "Ministry of Economic Development of Russia",
+    "Beijing",
+    "Open Trade",
+    "Multilateralism",
+    "China-Russia Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wentao"
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "俄罗斯经济发展部",
+        "name_en": "Ministry of Economic Development of Russia"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260520-xinhua_sh-c1a2a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

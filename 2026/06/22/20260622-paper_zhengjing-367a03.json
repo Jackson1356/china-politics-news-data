@@ -1,0 +1,70 @@
+{
+  "id": "20260622-paper_zhengjing-367a03",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33428417",
+  "title_zh": "端午假期全社会跨区域人员流动总量超6.4亿人次",
+  "title_en": "Over 640 Million Cross-Regional Trips Recorded During Dragon Boat Festival Holiday",
+  "summary_zh": "交通运输部数据显示，2026年端午假期期间，全社会跨区域人员流动总量超过6.4亿人次，其中公路出行仍占主流。",
+  "summary_en": "According to the Ministry of Transport, over 640 million cross-regional trips were made during the 2026 Dragon Boat Festival holiday, with road travel remaining the primary mode.",
+  "body_zh": "端午假期全社会跨区域人员流动总量超6.4亿人次\n记者从交通运输部获悉，2026年6月19日至6月21日，全社会跨区域人员流动总量为64786.3万人次，日均为21595.4万人次。\n公路出行仍占主流。公路人员流动总量59007万人次，日均19669万人次，同比下降1.21%，其中，公路营业性客运量11346万人次，日均3782万人次，同比增长2.74%；高速公路及普通国省道非营业性小客车人员出行量47661万人次，日均15887万人次。滴滴出行数据显示，端午假期打车需求较平日上涨23%，异地打车需求较平日上涨40%。\n水路出行受到青睐。水路客运总量268.4万人次，日均为89.5万人次。普陀山航线、长江干线客流增幅明显。海事部门持续强化对恶劣天气研判力度，切实守护广大游客水上出行安全。\n铁路客运总量4943.2万人次，日均为1647.7万人次，同比增长2.93%。民航客运总量567.7万人次，日均为189.2万人次，同比增长0.62%。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-19",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "交通运输",
+    "人员流动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人员流动",
+      "name_en": "Population Mobility"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "交通运输",
+    "人员流动"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Transportation",
+    "Population Mobility"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260622-paper_zhengjing-367a03",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

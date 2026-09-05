@@ -1,0 +1,87 @@
+{
+  "id": "20260713-guancha_politics-ee7d96",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_07_13_823528.shtml",
+  "title_zh": "公安机关严厉打击编造传播涉汛涉灾网络谣言",
+  "title_en": "Public Security Organs Crack Down on Online Rumors Regarding Floods and Disasters",
+  "summary_zh": "公安机关采取严厉措施，打击在网络上编造和传播涉汛涉灾谣言的行为，以维护网络秩序和社会稳定。",
+  "summary_en": "Public security organs are taking strict measures to crack down on the fabrication and dissemination of online rumors related to floods and disasters to maintain cyber order and social stability.",
+  "body_zh": "江苏多地发布倡议：非必要不出门，尽量别点外卖2026-07-12 11:44\n“巴威”强度已由台风级减弱为强热带风暴级2026-07-12 06:42 极端天气\n艺人集体讨薪闹上热搜，导演道歉：没有卷钱跑路2026-07-11 22:25\n防范！“巴威”在浙江乐清二次登陆2026-07-11 21:31 观察者头条\n“巴威”来袭：台湾87人受伤，近18万户停电2026-07-11 21:03 台湾\n《功夫女足》首日破亿，知名主持人开喷：好难看！2026-07-11 18:01\n张雪：最迟明年在台开店，邀请台湾车友赴大陆参观2026-07-11 17:23\n长沙通报“公职人员占用他人车位”事件：已停职2026-07-11 17:23\n“挂牛头卖猪肉”？四川警方侦破牛肉造假案：原料近1吨，涉案超百万2026-07-11 16:04\n央媒评长沙公职人员霸占车位：“连车位都霸占，你还指望他为人民服务？”2026-07-11 15:38\n丘成桐：将对招生和考试进行全面改革，希望招到真正热爱数学的学生2026-07-11 15:23\n9个样本错8个！香港知名生殖中心发生样本严重错配事故，重案组介入调查2026-07-11 15:02\n最高级别！今年首个暴雨红色预警2026-07-11 11:33 极端天气\n国务院安委会对福建泉州“7·9”重大火灾查处挂牌督办2026-07-11 11:18 安全生产\nBW2026热度爆表，参展商突破170家创新高2026-07-11 08:52\n网传广西宾阳百合水库主坝已崩塌即将决堤，当地回应：系谣言2026-07-10 23:02\n教育部：“教师全面硕士化”“教师需做好失业准备”等说法不属实2026-07-10 19:53\n京津冀，山洪红色预警！2026-07-10 19:53\n冲上热搜！多名艺人集体公开讨薪、追债，太抽象了…2026-07-10 19:42 新潮观鱼\n涉数据造假、论文买卖等，国家卫健委通报28起科研失信行为2026-07-10 16:35",
+  "image_url": null,
+  "published_at": "2026-07-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "discipline",
+  "keywords": [
+    "网络谣言",
+    "涉汛涉灾"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络谣言",
+      "name_en": "Online Rumors"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉汛涉灾",
+      "name_en": "Flood and Disaster Related"
+    }
+  ],
+  "tags_zh": [
+    "网络谣言",
+    "涉汛涉灾"
+  ],
+  "tags_en": [
+    "Online Rumors",
+    "Flood and Disaster Related"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "苏多地"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260713-guancha_politics-ee7d96",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_13_823546.shtml",
+      "title_zh": "中韩创作者齐聚，这款韩国国民级生存竞技Moba游戏在BW亮相",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_13_823540.shtml",
+      "title_zh": "今年上半年全国铁路发送旅客23.48亿人次，创历史同期新高",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_13_823535.shtml",
+      "title_zh": "中央气象台再发三预警，“巴威”将从山东移入黄海",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

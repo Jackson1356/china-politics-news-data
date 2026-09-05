@@ -1,0 +1,76 @@
+{
+  "id": "20260729-chinanews_gn-ef5802",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-29/10668387.shtml",
+  "title_zh": "国台办：民进党当局恶意限缩台湾特定民众群体来大陆探亲范围 不得人心",
+  "title_en": "Taiwan Affairs Office Criticizes DPP for Restricting Taiwan Compatriots' Visits to Mainland",
+  "summary_zh": "国台办发言人陈斌华批评民进党当局限缩台湾民众来大陆探亲范围，称其开历史倒车、不得人心。",
+  "summary_en": "Chen Binhua, spokesperson for the Taiwan Affairs Office, criticized the DPP authorities for maliciously restricting the scope of Taiwan compatriots' visits to the mainland, calling it a step backwards and unpopular.",
+  "body_zh": "国台办：民进党当局恶意限缩台湾特定民众群体来大陆探亲范围 不得人心\n国务院台办发言人陈斌华表示，明年是开放两岸探亲40周年，民进党当局的做法是在开历史倒车，是其阻挠禁限两岸交流往来的又一恶行。民进党当局费尽心机阻挠限制台湾同胞来大陆，恶意限缩台湾特定民众群体来大陆探亲范围，罔顾人伦亲情，倒行逆施、不得人心。这种滥权妄为的行径，必遭民意唾弃。\n国内新闻精选：\n- 2026年07月29日 10:51:45\n- 2026年07月29日 10:50:39\n- 2026年07月29日 10:35:04\n- 2026年07月29日 10:09:28\n- 2026年07月29日 09:29:26\n- 2026年07月28日 21:10:03\n- 2026年07月28日 19:42:46\n- 2026年07月28日 17:48:53\n- 2026年07月28日 15:13:27\n- 2026年07月28日 14:13:21",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "两岸探亲"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "台湾",
+      "name_en": "Taiwan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸探亲",
+      "name_en": "Cross-strait family visits"
+    }
+  ],
+  "tags_zh": [
+    "台湾",
+    "两岸探亲"
+  ],
+  "tags_en": [
+    "Taiwan",
+    "Cross-strait family visits"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陈斌华"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260729-chinanews_gn-ef5802",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-29/10668438.shtml",
+      "title_zh": "国台办回应陆委会称两岸签约会作秀",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

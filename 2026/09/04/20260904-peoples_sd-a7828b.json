@@ -1,0 +1,92 @@
+{
+  "id": "20260904-peoples_sd-a7828b",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/0904/c166192-41686606.html",
+  "title_zh": "山东省政府第八次全体会议召开",
+  "title_en": "Shandong Provincial Government Holds Eighth Plenary Meeting",
+  "summary_zh": "9月3日，山东省政府第八次全体会议召开，省委副书记、省长周乃翔主持并讲话，部署下半年经济社会发展工作。",
+  "summary_en": "On September 3, the Shandong Provincial Government held its eighth plenary meeting. Governor Zhou Naixiang presided and addressed the meeting, outlining work for economic and social development in the second half of the year.",
+  "body_zh": "山东省政府第八次全体会议召开\n9月3日，山东省政府第八次全体会议召开，深入学习贯彻习近平总书记关于当前经济形势和经济工作的重要讲话精神、视察山东重要讲话和重要指示批示精神，认真落实国务院第十二次全体会议部署，按照省委要求，对做好下半年经济社会发展工作再部署、再推进。省委副书记、省长周乃翔主持并讲话。\n周乃翔指出，今年以来，全省经济运行稳健向好、进中提质、承压前行，呈现动能向新、结构向优的发展态势，为完成全年目标任务打下坚实基础。要锚定“走在前、挑大梁”，增强发展动力、激发社会活力，推动经济持续向新向优向好发展，努力实现“十五五”良好开局，为全国大局多作贡献。\n周乃翔强调，要抓好“十五五”规划落地实施，扎实推进重大工程项目建设，一步一个脚印实现任务目标。要更大力度稳定经济运行，提高为企服务质效，稳住合理投资规模，挖掘释放消费潜能，推动外贸稳规模优结构，高质量做好招商引资。要加快构建现代化产业体系，强化科技赋能，培育壮大新兴产业和未来产业，优化提升传统优势产业，打造智能经济新形态，做优做强生产性服务业。要切实保障和改善民生，抓好稳就业促增收，强化困难群众兜底帮扶，提升公共服务水平。要统筹好发展和安全，保障粮食和能源资源安全，做好风险化解、防灾减灾、安全生产等工作，确保社会大局和谐稳定。\n周乃翔指出，要巩固拓展树立和践行正确政绩观学习教育成果，以正确政绩观干事创业，务实高效、依法依规做好政府工作，推动高质量发展行稳致远。（毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "economy",
+  "keywords": [
+    "经济社会发展",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济社会发展",
+      "name_en": "Economic and Social Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "山东",
+    "经济社会发展",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Shandong",
+    "Economic and Social Development",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260904-peoples_sd-a7828b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_zi_bo",
+      "source_tier": 4,
+      "url": "https://www.zibo.gov.cn/art/2026/9/4/art_14322_3019099.html",
+      "title_zh": "淄博市人民政府 省政府要闻 省政府第八次全体会议召开 周乃翔主持并讲话",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

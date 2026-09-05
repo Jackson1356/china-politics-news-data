@@ -1,0 +1,94 @@
+{
+  "id": "20260602-bjnews-2ab1a3",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780395635129361.html",
+  "title_zh": "国家卫健委健全社区卫生服务体系 落实“日常疾病在基层解决”",
+  "title_en": "National Health Commission to Improve Community Health Service System to Resolve Common Diseases at Primary Level",
+  "summary_zh": "国家卫健委6月2日发布通知，要求到2030年基本实现建制街道社区卫生服务中心全覆盖，落实“日常疾病在基层解决”。",
+  "summary_en": "On June 2, the National Health Commission issued a notice aiming for full coverage of community health service centers by 2030 to ensure common diseases are treated at the primary level.",
+  "body_zh": "据新华社北京6月2日电 国家卫生健康委6月2日公布《关于进一步健全城市社区卫生服务体系 提升服务能力的通知》明确，到2030年，基本实现建制街道社区卫生服务中心全覆盖，社区卫生服务机构基础设施条件明显改善，数智化服务有序推进，服务能力全面提升。\n通知提出落实“日常疾病在基层解决”要求，适应城市人口聚集、需求增加趋势，进一步优化资源配置，完善服务功能，提升服务能力，构建体系完整、布局合理、分工明确、功能互补、运行高效、便利可及的城市社区卫生服务体系。\n通知从实现社区卫生服务中心全覆盖、织密织牢社区卫生服务网络、强化人员配备和培训、根据需要拓展功能提升能力、扩大药品配备、探索区级医院与社区卫生服务机构一体化管理、做好人员下沉派驻、加强数智化赋能等八方面提出主要任务。\n通知要求，各地卫生健康行政部门要积极争取有关部门支持，推动将城市社区卫生服务体系建设纳入本地国民经济和社会发展规划，并作为“十五五”医疗卫生服务体系建设重点。（记者李恒）",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": "2024-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "welfare",
+  "keywords": [
+    "社区卫生服务",
+    "基层医疗",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社区卫生服务",
+      "name_en": "Community Health Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层医疗",
+      "name_en": "Primary Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "北京",
+    "社区卫生服务",
+    "基层医疗",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Beijing",
+    "Community Health Services",
+    "Primary Healthcare",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面"
+      }
+    ],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260602-bjnews-2ab1a3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

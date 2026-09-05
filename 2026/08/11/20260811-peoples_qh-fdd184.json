@@ -1,0 +1,83 @@
+{
+  "id": "20260811-peoples_qh-fdd184",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.people.com.cn/n2/2026/0811/c181467-41664680.html",
+  "title_zh": "青海省深化扫黑除恶专项斗争视频会议召开",
+  "title_en": "Qinghai Holds Video Conference on Deepening Special Campaign against Gang Crimes",
+  "summary_zh": "8月10日，青海省深化扫黑除恶专项斗争视频会议在西宁召开，传达学习中央和省委会议精神，动员部署全省扫黑除恶专项斗争工作。",
+  "summary_en": "On August 10, a video conference on deepening the special campaign against gang crimes was held in Xining, Qinghai, to convey the spirit of central and provincial meetings and mobilize deployment of the work.",
+  "body_zh": "青海省深化扫黑除恶专项斗争视频会议召开\n8月10日，青海省深化扫黑除恶专项斗争视频会议在西宁召开，传达学习中央和省委有关会议精神，动员部署全省深化扫黑除恶专项斗争工作。省领导何录春、李宏亚、张泽军、查庆九出席会议。\n会议肯定了党的二十大以来全省扫黑除恶斗争取得的成效。指出，开展深化扫黑除恶专项斗争，是党中央作出的重大决策部署，重在补短强弱、精准亮剑，是聚焦当前涉黑涉恶行为新表现、新特点、新趋势、新规律的再聚焦、再深挖、再整治，要始终保持高压震慑态势，坚持重拳出击、露头就打，铲除黑恶势力滋生土壤，进一步增强人民群众安全感。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "party",
+  "keywords": [
+    "扫黑除恶",
+    "社会治理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-QH-XN",
+      "name_zh": "西宁",
+      "name_en": "Xining"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Crackdown on Gang Crimes"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会治理",
+      "name_en": "Social Governance"
+    },
+    {
+      "kind": "person",
+      "id": "he-luchun",
+      "name_zh": "何录春",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "西宁",
+    "扫黑除恶",
+    "社会治理",
+    "何录春"
+  ],
+  "tags_en": [
+    "Xining",
+    "Crackdown on Gang Crimes",
+    "Social Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "he-luchun"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-QH-XN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260811-peoples_qh-fdd184",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260829-gov_cn_yaowen-17774d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079538.htm",
+  "title_zh": "我国居民主要健康指标持续向好",
+  "title_en": "China's Key Health Indicators Continue to Improve",
+  "summary_zh": "国家卫健委发布2025年卫生健康统计公报，人均预期寿命达79.25岁，就医负担减轻。",
+  "summary_en": "The National Health Commission released its 2025 statistical bulletin, with average life expectancy reaching 79.25 years and medical burden easing.",
+  "body_zh": "国家卫生健康委最新发布《2025年我国卫生健康事业发展统计公报》。2025年末，我国人均预期寿命达到79.25岁，居民主要健康指标持续向好。群众就医负担持续减轻。医院次均门诊、住院费用同比双双下降，基层门诊费用降幅显著，社区卫生服务中心次均门诊费用150.1元，同比下降11.7%；乡镇卫生院次均门诊费用79.4元，同比下降9.4%。\n全国医疗卫生机构总数达110.8万个，卫生技术人员增至1345.5万人，全年总诊疗人次106.5亿。中医药、托育、老年健康服务供给持续扩容提质。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "卫生健康",
+    "人均预期寿命",
+    "就医负担"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生健康",
+      "name_en": "Health"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人均预期寿命",
+      "name_en": "Life Expectancy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就医负担",
+      "name_en": "Medical Burden"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "卫生健康",
+    "人均预期寿命",
+    "就医负担"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Health",
+    "Life Expectancy",
+    "Medical Burden"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-gov_cn_yaowen-17774d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "20260831-gov_tai_zhou-f6af1d",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/8/31/art_60096_11822600.html",
+  "title_zh": "刘小涛检查秋季开学准备工作",
+  "title_en": "Liu Xiaotao Inspects Fall Semester Opening Preparations",
+  "summary_zh": "8月30日，江苏省省长刘小涛在徐州市检查秋季开学准备工作，强调确保安全平稳有序开学。",
+  "summary_en": "On August 30, Jiangsu Governor Liu Xiaotao inspected fall semester opening preparations in Xuzhou, emphasizing safety and orderly school resumption.",
+  "body_zh": "当前位置：\n刘小涛检查秋季开学准备工作\n8月30日，省长刘小涛在徐州市检查秋季开学准备工作。他强调，要深入贯彻落实习近平总书记关于教育的重要论述，坚持以人民为中心的发展思想，周密细致做好各项服务保障，确保安全、平稳、有序开学。\n刘小涛先后来到徐州市第一中学、徐州市新元中学、江苏师范大学附属大龙湖中学，走进门卫室、教学楼、食堂、心理咨询室和操场，了解教育教学安排、心理咨询专职教师配备、食品安全管理、消防安防设施运行等情况。他强调，要守牢校园安全底线，深化“校园餐”专项整治，严格实行食材源头溯源、食堂闭环管理和全链条监管，常态化组织消防、应急避险演练，加强校园周边综合治理和校内隐患排查治理。精心做好学生服务，落实好困难学生资助帮扶政策，高度重视心理健康教育，保障学生每天综合体育和课间活动时间，促进学生身心健康、成长成才。加强开学条件保障，科学谋划教育教学工作，深化人工智能赋能，抓好师德师风建设，关心关爱教师队伍，努力办好人民满意的教育。\n省政府秘书长赵建军参加。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "教育",
+    "校园安全",
+    "开学准备"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-XZ",
+      "name_zh": "徐州",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育",
+      "name_en": "Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校园安全",
+      "name_en": "Campus Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开学准备",
+      "name_en": "School Opening Preparation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐州市",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "徐州",
+    "教育",
+    "校园安全",
+    "开学准备",
+    "徐州市"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Education",
+    "Campus Safety",
+    "School Opening Preparation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "徐州市"
+      },
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260831-gov_tai_zhou-f6af1d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

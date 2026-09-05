@@ -1,0 +1,120 @@
+{
+  "id": "20260527-xinhua_tj-195770",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260529/f37b44a4c9124225bfe5fe33ff538d58/c.html",
+  "title_zh": "陈敏尔与吉利控股集团董事长李书福一行座谈",
+  "title_en": "Chen Min'er Holds Symposium with Geely Holding Group Chairman Li Shufu",
+  "summary_zh": "5月27日，天津市委书记陈敏尔与吉利控股集团董事长李书福座谈，探讨在新能源汽车、智能出行等领域加强合作，推动天津经济绿色转型。",
+  "summary_en": "On May 27, Tianjin Party Secretary Chen Min'er met with Geely Holding Group Chairman Li Shufu to discuss strengthening cooperation in new energy vehicles and smart mobility to promote Tianjin's green economic transformation.",
+  "body_zh": "5月27日，市委书记陈敏尔与吉利控股集团有限公司董事长李书福一行座谈。\n陈敏尔代表市委、市政府对李书福一行来津出席2026世界智能产业博览会表示欢迎。他说，我们全面贯彻落实习近平总书记视察天津时提出的“一个战略牵引”、“四个善作善成”等重要要求，用足用好中央政策，深入推进科技创新、产业焕新、城市更新，深化盘活存量、做优增量、提升质量，加快形成新质生产力，积极发展新能源汽车等产业，推动经济社会发展全面绿色转型。面向“十五五”，希望吉利在新能源汽车生产、制造、运营方面加强与我市合作，扩大有效产能，不断开拓市场，努力在存量中做出增量。我们将依托区位、港口、产业、科教等资源禀赋，持续优化营商环境，做好场景资源供给，促进新技术、新产品开发应用推广，实现互利共赢、共同发展。\n李书福感谢市委、市政府对企业的大力支持。他表示，天津高质量发展势头强劲，吉利对双方合作前景充满信心，将抓住发展机遇，在津布局更多业务，深化新能源汽车生产应用、智能出行、甲醇生态等领域合作，助力天津交通运输方式绿色转型，为全面建设社会主义现代化大都市作出新贡献。\n吉利控股集团有关负责人，市领导连茂君、王旭、王力军，市有关区、部门负责同志参加。（记者 于春沣 刘国栋）",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-27",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "绿色转型",
+    "智能出行"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-miner",
+      "name_zh": "陈敏尔",
+      "name_en": "Chen Min'er"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李书福",
+      "name_en": "Li Shufu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色转型",
+      "name_en": "Green Transformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能出行",
+      "name_en": "Smart Mobility"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wang-xu-tianjin",
+      "name_zh": "王旭",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "lian-maojun",
+      "name_zh": "连茂君",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈敏尔",
+    "李书福",
+    "天津",
+    "新能源汽车",
+    "绿色转型",
+    "智能出行"
+  ],
+  "tags_en": [
+    "Chen Min'er",
+    "Li Shufu",
+    "Tianjin",
+    "New Energy Vehicles",
+    "Green Transformation",
+    "Smart Mobility"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "wang-xu-tianjin",
+      "chen-min-jiangxi",
+      "lian-maojun",
+      "chen-miner",
+      "wang-lijun"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260527-xinhua_tj-195770",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

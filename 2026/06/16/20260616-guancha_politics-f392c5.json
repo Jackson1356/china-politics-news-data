@@ -1,0 +1,90 @@
+{
+  "id": "20260616-guancha_politics-f392c5",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_16_820620.shtml",
+  "title_zh": "黑龙江省纪委副书记、省监委副主任姜宏伟被查",
+  "title_en": "Jiang Hongwei, Deputy Secretary of Heilongjiang Provincial Commission for Discipline Inspection, Under Investigation",
+  "summary_zh": "黑龙江省纪委副书记、省监委副主任姜宏伟目前接受调查。",
+  "summary_en": "Jiang Hongwei, Deputy Secretary of the Heilongjiang Provincial Commission for Discipline Inspection and Deputy Director of the Provincial Supervisory Commission, is under investigation.",
+  "body_zh": "“紧跟中央，香港迈出历史性一步”2026-06-15 21:29 香港\n从副部级降为副处级近8年后，王铁再次被查2026-06-15 21:27 廉政风暴\n袁家军：全面彻底肃清流毒影响，持续修复净化政治生态2026-06-15 21:16 廉政风暴\n我国首颗聚焦文物保护的定制遥感监测卫星成功发射2026-06-15 18:38 航空航天\n违规打造网红景点、增加政府债务……中央纪委通报2026-06-15 17:31 廉政风暴\n辛芷蕾：《给阿嬷的情书》这样的中国好故事需要被世界看见2026-06-15 17:22 光影皆故事\n两人长期盘踞境外、组织他人偷越国（边）境，被抓获并遣返回国2026-06-15 16:39\n美伊达成有关协议，中方发挥了怎样的作用？外交部回应2026-06-15 15:53 伊朗局势\n中央安全生产考核巡查组已进驻8省份明查暗访2026-06-15 11:52 安全生产\n礼赞社科大师｜郭绍虞：披沙拣金，为中国文学批评史学科奠基2026-06-15 10:37 礼赞社科大师\n致6死！“皮卡车追尾路边停靠的水车”2026-06-14 22:12\n致8死2失踪，辽绥渔35261船重大倾覆事故调查报告公布2026-06-14 20:15 安全生产\n“你能拍到它，是因为它想让你看见”2026-06-14 20:07 两岸关系\n顺利贯通！这条高铁取得关键突破2026-06-14 17:38 高铁世纪\n两岸的事情，中国人自己说了算2026-06-14 14:07\n礼赞社科大师｜刘佛年：奠定教育学教材编写基本框架与原则2026-06-14 13:39 礼赞社科大师\n礼赞社科大师｜张耀翔：以心理学在中国的普及为业2026-06-13 13:58 礼赞社科大师\n1岁男童因感冒输液后离世，海南乐东通报2026-06-13 08:57\n新氧发布《马思纯，享年三十七岁》后道歉，马思纯方起诉2026-06-13 07:25\n市监总局：进一步遏制“大字吸睛、小字免责”等违法广告2026-06-12 19:26",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "姜宏伟",
+      "name_en": "Jiang Hongwei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "黑龙江省纪委",
+      "name_en": "Heilongjiang Provincial Commission for Discipline Inspection"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "姜宏伟",
+    "黑龙江省纪委",
+    "黑龙江",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Jiang Hongwei",
+    "Heilongjiang Provincial Commission for Discipline Inspection",
+    "Heilongjiang",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": [
+      {
+        "name_zh": "黑龙江省纪委",
+        "name_en": "Heilongjiang Provincial Commission for Discipline Inspection"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260616-guancha_politics-f392c5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_16_820703.shtml",
+      "title_zh": "瑞丰新材回应被欧盟列入制裁名单",
+      "published_at": "2026-06-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

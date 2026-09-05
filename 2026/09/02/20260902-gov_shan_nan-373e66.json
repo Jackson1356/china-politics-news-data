@@ -1,0 +1,98 @@
+{
+  "id": "20260902-gov_shan_nan-373e66",
+  "source": "gov_shan_nan",
+  "source_name_zh": "山南市政府网",
+  "source_name_en": "山南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shannan.gov.cn/xwzx/xzyw/202609/t20260902_175927.html",
+  "title_zh": "嘎玛泽登：深切哀悼吉隆泥石流灾害遇难人员活动举行",
+  "title_en": "Mourning for Gyirong Mudslide Victims Held, Attended by Tibet Chairman Gama Zedeng",
+  "summary_zh": "9月1日，深切哀悼吉隆泥石流灾害遇难人员活动在吉隆县吉隆镇举行，西藏自治区主席嘎玛泽登等省军级领导及救援人员参加，向遇难者默哀3分钟。",
+  "summary_en": "On September 1, a mourning ceremony for victims of the Gyirong mudslide was held in Gyirong Town. Gama Zedeng, chairman of the Tibet Autonomous Region, along with other officials and rescue workers, observed three minutes of silence.",
+  "body_zh": "深切哀悼吉隆泥石流灾害遇难人员活动举行\n嘎玛泽登等自治区省军级领导向遇难人员默哀\n本报吉隆9月1日电（记者 唐启胜）江河呜咽，雪域含悲。9月1日，深切哀悼吉隆泥石流灾害遇难人员活动在吉隆县吉隆镇举行。\n自治区党委副书记、自治区主席嘎玛泽登，应急管理部党委委员、中国地震局局长王昆，自治区党委常委、自治区常务副主席任维、旦巴参加。\n参与抢险救援的解放军和武警部队官兵、消防救援指战员、公安民警、医护人员代表等参加，大家神情凝重，肃然而立。\n上午9时55分，防空警报鸣响在吉隆镇上空，现场全体人员怀着无比沉痛的心情，向在吉隆泥石流灾害中遇难的人员默哀3分钟。泥石流灾害核心区域救援现场、道路抢通现场等同步默哀。\n默哀毕，举行了庄严的升国旗、唱国歌仪式。\n哀悼活动结束后，各方人员再次投入到紧张的抢险救援工作中。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "泥石流灾害",
+    "抢险救援"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gama-cedain",
+      "name_zh": "嘎玛泽登",
+      "name_en": "Gama Zedeng"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉隆",
+      "name_en": "Gyirong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "泥石流灾害",
+      "name_en": "Mudslide Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抢险救援",
+      "name_en": "Rescue Operations"
+    },
+    {
+      "kind": "person",
+      "id": "danba-xizang",
+      "name_zh": "旦巴",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "ren-wei-xizang",
+      "name_zh": "任维",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "嘎玛泽登",
+    "吉隆",
+    "泥石流灾害",
+    "抢险救援",
+    "旦巴",
+    "任维"
+  ],
+  "tags_en": [
+    "Gama Zedeng",
+    "Gyirong",
+    "Mudslide Disaster",
+    "Rescue Operations"
+  ],
+  "entities": {
+    "politicians": [
+      "gama-cedain",
+      "danba-xizang",
+      "ren-wei-xizang"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260902-gov_shan_nan-373e66",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20260818-local_fu_zhou_ri_bao_cn_fj-089905",
+  "source": "local_fu_zhou_ri_bao_cn_fj",
+  "source_name_zh": "福州日报",
+  "source_name_en": "福州日报",
+  "source_media_id": "cac-cn-fj-20a27e7754",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.fznews.com.cn/node/12851/20260818/wv5Gs4cb9G.shtml",
+  "title_zh": "市政府召开党组（扩大）会议 深入学习贯彻习近平文化思想",
+  "title_en": "Fuzhou Municipal Government Holds Party Group (Enlarged) Meeting to Study Xi Jinping Thought on Culture",
+  "summary_zh": "8月18日，福州市政府党组（扩大）会议召开，深入学习贯彻习近平文化思想及关于文化和自然遗产保护传承利用的重要指示精神，市长吴贤德主持并发言。",
+  "summary_en": "On August 18, the Fuzhou Municipal Government held a Party Group (Enlarged) meeting to study Xi Jinping Thought on Culture and his important instructions on cultural and natural heritage protection, chaired by Mayor Wu Xiande.",
+  "body_zh": "市政府召开党组（扩大）会议\n深入学习贯彻习近平总书记重要指示精神\n持续加强文化和自然遗产保护传承利用\n福州新闻网8月18日讯（记者 曾庆贤）18日，市政府党组（扩大）会议召开，深入学习贯彻习近平文化思想和习近平总书记对加强文化和自然遗产保护传承利用工作作出的重要指示精神，重温习近平总书记向第44届世界遗产大会致贺信和《〈福州古厝〉序》精神，开展集中学习研讨。市政府党组书记、市长吴贤德主持并发言，市政府党组成员郑鸿、许用贵作交流发言。\n会议指出，福州是习近平文化思想的重要孕育地和实践地。习近平总书记在福州工作期间就高度重视文化和自然遗产保护传承利用工作，亲自推动三坊七巷、林则徐系列遗迹等保护修复，创造了宝贵的思想财富、精神财富和实践成果。要怀着特殊感情、带着特殊责任，传承弘扬习近平总书记在福州工作期间开创的重要理念和重大实践，持续加强文化和自然遗产保护传承利用，守护有福之州的“根”与“魂”，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "party",
+  "keywords": [
+    "文化和自然遗产保护",
+    "习近平文化思想"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化和自然遗产保护",
+      "name_en": "Cultural and Natural Heritage Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "习近平文化思想",
+      "name_en": "Xi Jinping Thought on Culture"
+    }
+  ],
+  "tags_zh": [
+    "吴贤德",
+    "福州",
+    "文化和自然遗产保护",
+    "习近平文化思想"
+  ],
+  "tags_en": [
+    "Wu Xiande",
+    "Fuzhou",
+    "Cultural and Natural Heritage Protection",
+    "Xi Jinping Thought on Culture"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-xiande-fuzhou",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260818-local_fu_zhou_ri_bao_cn_fj-089905",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_zhou",
+      "source_tier": 4,
+      "url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202608/t20260818_5360502.htm",
+      "title_zh": "市政府召开党组（扩大）会议 _ 榕城要闻 _ 福州市人民政府门户网站",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260630-gov_cn_yaowen-9cea56",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/30/VIDEwfZZYN9UdpcZ0gHae1s3260630.shtml",
+  "title_zh": "李强签署国务院令公布《退役军人就业创业促进条例》",
+  "title_en": "Li Qiang Signs State Council Decree to Publish Regulations on Promoting Employment and Entrepreneurship of Veterans",
+  "summary_zh": "国务院总理李强签署国务院令，公布自2026年8月1日起施行的《退役军人就业创业促进条例》，旨在通过教育培训、就业优待和创业扶持鼓励退役军人就业创业。",
+  "summary_en": "Premier Li Qiang signed a State Council decree to publish the Regulations on Promoting Employment and Entrepreneurship of Veterans, effective August 1, 2026, to support veterans through training and employment preferences.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强日前签署国务院令，公布《退役军人就业创业促进条例》（以下简称《条例》），自2026年8月1日起施行。《条例》共6章48条。\n一是明确总体要求。坚持普惠与优待叠加的原则，采取政府推动、市场引导、社会支持相结合的方式，鼓励和扶持退役军人就业创业。二是确定教育培训政策。退役军人参加国家教育考试和接受学历教育时按照国家有关规定享受优待和资助政策。三是完善就业优待措施。机关、群团组织、事业单位和国有企业在招录或者招聘人员时，对退役军人的年龄和学历条件可以适当放宽，同等条件下优先招录、招聘退役军人。各地设置一定数量的基层公务员职位，面向服现役满5年的高校毕业生退役军人招考。明确艰苦边远地区县乡事业单位招聘、国家综合性消防救援队伍消防员等特殊岗位招录时对退役军人的优待政策。四是优化创业扶持举措。明确对退役军人创业给予税收、融资、信贷等扶持政策。",
+  "image_url": null,
+  "published_at": "2026-06-30T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "退役军人",
+    "就业创业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "退役军人",
+      "name_en": "Veterans"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业创业",
+      "name_en": "Employment and Entrepreneurship"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "退役军人",
+    "就业创业"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Veterans",
+    "Employment and Entrepreneurship"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260630-gov_cn_yaowen-9cea56",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073794.htm",
+      "title_zh": "李强签署国务院令 公布《退役军人就业创业促进条例》",
+      "published_at": "2026-06-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

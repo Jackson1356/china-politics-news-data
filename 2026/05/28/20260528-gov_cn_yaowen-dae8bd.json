@@ -1,0 +1,95 @@
+{
+  "id": "20260528-gov_cn_yaowen-dae8bd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070555.htm",
+  "title_zh": "我国开展第三次全国残疾人抽样调查",
+  "title_en": "China to Conduct Third National Sample Survey on Persons with Disabilities",
+  "summary_zh": "国务院办公厅5月28日发布通知，决定自2026年6月起开展第三次全国残疾人抽样调查，旨在为完善相关法律政策提供统计支持。",
+  "summary_en": "The General Office of the State Council issued a notice on May 28 to conduct the third national sample survey on persons with disabilities starting June 2026 to provide statistical support for policy improvements.",
+  "body_zh": "新华社北京5月28日电（记者魏冠宇）国务院办公厅5月28日发布通知，国务院决定自2026年6月起开展第三次全国残疾人抽样调查。调查对象为我国境内抽取调查小区的全部常住人口，全国共抽取约280万人。\n据悉，调查内容涉及调查对象的个人及家庭基本情况，调查对象中残疾人的残疾状况、致残原因、持有残疾人证情况（含未持证原因）、生活状况、服务状况和需求等。\n调查要求全面客观反映我国残疾人及其家庭基本情况和残疾人残疾状况及生活、发展状况等，为完善相关法律、法规和政策，促进人口高质量发展，提供准确的统计信息支持。\n中国残联相关负责人表示，此次全国残疾人抽样调查是继1987年、2006年之后面向残疾人开展的一次重要国情调查，到2028年12月结束。",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "welfare",
+  "keywords": [
+    "残疾人调查",
+    "人口高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾人调查",
+      "name_en": "Survey on Persons with Disabilities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人口高质量发展",
+      "name_en": "High-quality Population Development"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "北京",
+    "残疾人调查",
+    "人口高质量发展"
+  ],
+  "tags_en": [
+    "State Council",
+    "Beijing",
+    "Survey on Persons with Disabilities",
+    "High-quality Population Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260528-gov_cn_yaowen-dae8bd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/zhengce/content/202605/content_7070514.htm",
+      "title_zh": "国务院办公厅关于开展第三次全国残疾人抽样调查的通知_统计",
+      "published_at": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33255393",
+      "title_zh": "我国开展第三次全国残疾人抽样调查",
+      "published_at": "2026-05-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260820-gov_yan_tai-69f740",
+  "source": "gov_yan_tai",
+  "source_name_zh": "烟台市政府网",
+  "source_name_en": "烟台 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_tai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yantai.gov.cn/col/col11794/art/2026/art_d505d6ca50e7400989ceed8e2c7e6e80.html",
+  "title_zh": "烟台市委常委会召开会议传达学习习近平总书记重要讲话精神",
+  "title_en": "Yantai Municipal Party Committee Standing Committee Meets to Convey Xi Jinping's Important Speech",
+  "summary_zh": "8月20日上午，烟台市委常委会召开会议，传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，研究法治烟台建设、审计、全面深化改革等工作。市委书记江成主持并讲话。",
+  "summary_en": "On the morning of August 20, the Yantai Municipal Party Committee Standing Committee met to convey the spirit of Xi Jinping's important speech at the conference commemorating the 100th anniversary of Comrade Jiang Zemin's birth, and discussed the construction of a law-based Yantai, audit work, and deepening comprehensive reform.",
+  "body_zh": "8月20日上午，市委常委会召开会议，传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，研究法治烟台建设、审计、全面深化改革等工作。省人大常委会副主任、党组副书记，市委书记江成主持并讲话。\n会议指出，习近平总书记的重要讲话，深切缅怀江泽民同志的光辉一生和卓越贡献，对认真学习江泽民同志的崇高精神风范、推进中国式现代化宏伟事业提出了明确要求。要深刻理解习近平总书记重要讲话精神的重大意义、科学内涵、实践要求，进一步加深对社会主义建设和党的建设规律的认识，坚持不懈用党的创新理论武装头脑、指导实践、推动工作。要充分认识党的坚强领导是我们战胜一切困难和风险的根本保证，更加紧密地团结在以习近平同志为核心的党中央周围，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。要大力传承老一辈革命家的优良作风和优秀品格，砥砺初心使命、扛牢责任担当，更加奋发有为地做好改革发展稳定工作，不断在新的起点上把烟台各项事业推向前进。\n会议强调，要深学细悟习近平法治思想，加强党对法治建设的领导，抓好精准科学立法，深化法治政府建设，促进严格公正司法，大力倡树法治理念，推动法治烟台建设再上新台阶。要认真学习贯彻习近平总书记关于审计工作的重要论述，准确把握审计工作的政治属性和经济监督、反腐治乱重要作用，扎实履行监督职责，抓紧抓实问题整改，纵深推进从严治审，着力构建集中统一、全面覆盖、权威高效的审计监督体系。要深入贯彻落实习近平总书记关于全面深化改革的重要论述，坚定不移抓好重点领域、关键环节改革任务，积极主动承担更多国家级、省级改革试点，及时研究破解难点堵点问题，不断激发高质量发展动力活力。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "party",
+  "keywords": [
+    "法治建设",
+    "审计监督",
+    "全面深化改革"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-YT",
+      "name_zh": "烟台",
+      "name_en": "Yantai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法治建设",
+      "name_en": "Rule of Law Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "审计监督",
+      "name_en": "Audit Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面深化改革",
+      "name_en": "Deepening Comprehensive Reform"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "烟台",
+    "法治建设",
+    "审计监督",
+    "全面深化改革",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yantai",
+    "Rule of Law Construction",
+    "Audit Supervision",
+    "Deepening Comprehensive Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "江成"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-YT"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260820-gov_yan_tai-69f740",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "20260729-gov_wei_hai-c71fbe",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/7/29/art_58817_6515994.html",
+  "title_zh": "山东省金融支持海洋经济高质量发展政金企对接会在威海举行",
+  "title_en": "Shandong Holds Government-Bank-Enterprise Meeting on Marine Economy in Weihai",
+  "summary_zh": "7月28日，山东省金融支持海洋经济高质量发展政金企对接会在威海举行，中国人民银行、山东省海洋局等机构及威海市领导出席，市长孔凡萍致辞，期待深化金融与海洋产业合作。",
+  "summary_en": "On July 28, Shandong's gov-bank-enterprise meeting on marine economy was held in Weihai, with central bank, provincial marine officials and local leaders attending. Mayor Kong Fanping spoke, seeking deeper financial and industrial cooperation.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯 7月28日，山东省金融支持海洋经济高质量发展政金企对接会在我市举行。中国人民银行信贷市场副司长蹇娜，中国人民银行山东省分行行长曾涛，山东省委海洋办副主任、省海洋局局长王仁堂，山东证监局局长张晓军，市领导孔凡萍、邓勇出席活动。\n孔凡萍在致辞中说，近年来，威海按照习近平总书记“打造现代海洋经济发展高地”的要求，锚定“创新型国际化海洋城市”的目标，坚持科学用海、科技兴海、产业强海、生态护海、开放活海，加快构建现代海洋产业体系。海洋经济高质量发展，离不开金融“活水”的精准浇灌。期待以本次活动为契机，与更多金融机构在产业基金、信贷投放、绿色金融等领域开展务实合作，与更多涉海企业深度交流、共谋发展。威海市将以最优环境、最贴心服务，努力让每份投资、每项合作都结出硕果。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "海洋经济",
+    "金融支持",
+    "绿色金融"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋经济",
+      "name_en": "Marine Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融支持",
+      "name_en": "Financial Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色金融",
+      "name_en": "Green Finance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "威海",
+    "海洋经济",
+    "金融支持",
+    "绿色金融",
+    "习近平"
+  ],
+  "tags_en": [
+    "Weihai",
+    "Marine Economy",
+    "Financial Support",
+    "Green Finance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "高地的"
+      },
+      {
+        "id": null,
+        "name_zh": "邓勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260729-gov_wei_hai-c71fbe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wei_hai",
+      "source_tier": 4,
+      "url": "https://www.weihai.gov.cn/art/2026/7/29/art_60663_6516429.html",
+      "title_zh": "山东省金融支持海洋经济高质量发展政金企对接会在我市举行",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

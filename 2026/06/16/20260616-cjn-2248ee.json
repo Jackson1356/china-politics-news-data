@@ -1,0 +1,83 @@
+{
+  "id": "20260616-cjn-2248ee",
+  "source": "cjn",
+  "source_name_zh": "长江日报",
+  "source_name_en": "Yangtze Daily (Wuhan)",
+  "source_url": "http://news.cjn.cn/bsy/gnxw_19788/202606/t5305847.htm",
+  "title_zh": "公安部网安局公布5起打击“银狐”木马病毒典型案例",
+  "title_en": "Cyber Security Bureau of Ministry of Public Security Announces Five Typical Cases of Crackdown on 'Silver Fox' Trojan Virus",
+  "summary_zh": "公安部网安局6月16日在北京公布5起打击“银狐”木马病毒典型案例，旨在打击新型涉网犯罪，守护网络空间安全。",
+  "summary_en": "On June 16, the Cyber Security Bureau of the Ministry of Public Security announced five typical cases of cracking down on the 'Silver Fox' trojan virus in Beijing to combat cybercrime.",
+  "body_zh": "新华社北京6月16日电（记者李明辉）公安部网安局6月16日公布5起打击“银狐”木马病毒典型案例，坚决打击此类新型涉网违法犯罪嚣张气焰，守护网络空间安全。\n综合5起典型案例，公安部网安局有关负责人表示，该类“银狐”木马病毒伪装性强，专门针对企事业单位工作人员，特别是财务人员实施精准攻击，可实现远程控制计算机、窃取账号密码、拦截短信验证码、盗取私密数据等违法操作，严重侵害群众财产安全、扰乱正常网络秩序。\n据悉，5起案件的属地公安机关均已对涉事犯罪嫌疑人依法采取刑事强制措施。\n值班编辑 王冲",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "industry",
+  "keywords": [
+    "网络安全",
+    "木马病毒"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部网安局",
+      "name_en": "Cyber Security Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "木马病毒",
+      "name_en": "Trojan Virus"
+    }
+  ],
+  "tags_zh": [
+    "公安部网安局",
+    "北京",
+    "网络安全",
+    "木马病毒"
+  ],
+  "tags_en": [
+    "Cyber Security Bureau of the Ministry of Public Security",
+    "Beijing",
+    "Cybersecurity",
+    "Trojan Virus"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "公安部网安局",
+        "name_en": "Cyber Security Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260616-cjn-2248ee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

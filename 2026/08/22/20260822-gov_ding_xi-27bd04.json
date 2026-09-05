@@ -1,0 +1,92 @@
+{
+  "id": "20260822-gov_ding_xi-27bd04",
+  "source": "gov_ding_xi",
+  "source_name_zh": "定西市政府网",
+  "source_name_en": "定西 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ding_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dingxi.gov.cn/art/2026/8/22/art_3_1908694.html",
+  "title_zh": "定西专场新闻发布会举行 李生潜作主题发布",
+  "title_en": "Dingxi Holds Press Conference on 15th Five-Year Plan",
+  "summary_zh": "8月21日上午，定西市在兰州举行“十五五”发展主题新闻发布会，市委副书记、代市长李生潜介绍“十五五”时期定西经济社会发展思路与举措。",
+  "summary_en": "On August 21, Dingxi held a press conference in Lanzhou on its 15th Five-Year Plan, where Acting Mayor Li Shengqian outlined economic and social development strategies.",
+  "body_zh": "|                  开局起步“十五五”奋力谱写中国式现代化甘肃篇章主题系列新闻发布会定西专场举行 李生潜作主题发布  8月21日上午，开局起步“十五五”——奋力谱写中国式现代化甘肃篇章专场新闻发布会定西专场在兰州举行。市委副书记、代市长李生潜围绕“‘一区三地’启新程、‘药都薯乡’绘华章”作主题发布并回答媒体记者提问，介绍“十五五”时期定西经济社会发展的思路与举措。 李生潜说，“十四五”时期，全市上下坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂，始终把习近平总书记视察甘肃重要讲话重要指示精神作为一切工作的“纲”和“魂”，主动将定西置身全国全省发展大局，牢记嘱托，感恩奋进，追赶发展，全市地区生产总值年均增长8.7%、达到793.9亿元，经济总量由全省第10位上升至第6位，17个季度获评省委、省政府“进步奖”“贡献奖”，现代化建设迈出坚实步伐。 李生潜说，“十五五”时期，定西将坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实习近平总书记视察甘肃重要讲话重要指示精神，以“一目标三聚焦四强化六行动一抓实”为路径方略，以“三抓三促”“五比五看”行动为牵引抓手，深入实施“五强”行动，主动融入全省“一核三带、多点支撑”区域发展格局、“七地一屏一通道”建设，坚持高质量追赶发展不动摇，坚定不移固成果促振兴、扩投资促消费、强工业兴产业、优生态筑屏障、惠民生增福祉，加力建设国家中医药传承创新发展样板区、全国马铃薯全产业链发展高地、特色鲜明的陇中工业集聚地、黄土高原水土流失综合治理示范地，力争地区生产总值达到1100亿元，努力让全市经济综合实力再上新台阶、老百姓的日子越过越红火。 李生潜说，站在新的起点上，全市上下将深学细悟、时时对标习近平总书记重要讲话重要指示精神，坚决贯彻落实省委、省政府各项决策部署，牢固树立和践行正确政绩观，夯基培优，克难奋进，勇毅追赶，奋力谱写中国式现代化定西篇章。 发布会上，何英禅、王社宁、贾文举分别回答记者提问。（记者 王霞飞）  |",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "economy",
+  "keywords": [
+    "十五五规划",
+    "中国式现代化",
+    "区域经济发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-LZ",
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域经济发展",
+      "name_en": "Regional Economic Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "兰州",
+    "十五五规划",
+    "中国式现代化",
+    "区域经济发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Lanzhou",
+    "15th Five-Year Plan",
+    "Chinese Modernization",
+    "Regional Economic Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS-LZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260822-gov_ding_xi-27bd04",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

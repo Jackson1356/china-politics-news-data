@@ -1,0 +1,105 @@
+{
+  "id": "20260821-gov_yang_jiang-65e825",
+  "source": "gov_yang_jiang",
+  "source_name_zh": "阳江市政府网",
+  "source_name_en": "阳江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yang_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.yangjiang.gov.cn/yj/ywdt/yjyw/content/post_975351.html",
+  "title_zh": "八届市政府第141次常务会议召开",
+  "title_en": "The 141st Executive Meeting of the 8th Municipal Government Convened",
+  "summary_zh": "8月20日，阳江市市长余金富主持召开八届市政府第141次常务会议，传达学习习近平总书记重要讲话精神，研究经济运行并部署下一步工作。",
+  "summary_en": "On August 20, Yu Jinfu, Mayor of Yangjiang, chaired the 141st executive meeting of the municipal government to convey the spirit of General Secretary Xi Jinping's important speech, study economic operation, and deploy next steps.",
+  "body_zh": "八届市政府第141次常务会议召开\n时间:  2026-08-21 09:47:30\n阅读量:-\n【打印】\n8月20日，市委副书记、市长余金富主持召开八届市政府第141次常务会议，传达学习习近平总书记在中央政治局会议和党外人士座谈会上的重要讲话精神，研究全市经济运行情况，部署下一步工作。\n会议强调，各级各部门要把各项稳增长举措抓紧抓实、落细落小，全力以赴做好下半年特别是三季度经济工作。要坚决稳住投资增长势头，充分发挥市促投资领导小组等机制作用，加快重点项目建设，强化项目谋划储备，做好资金支出管理，强化招商引资质效，持续促进房地产开发投资。要靠前服务工业企业稳产扩量，加强对规上中小企业的追踪服务，稳定电力能源增长，抓好设备更新、技术改造和“小升规”。要加快释放内外需求潜力，继续落实好以旧换新补贴政策，加强对限上企业的精准帮扶，持续拓展多元化消费场景，全周期落实“新稳外贸六条”政策，推动内外贸一体化发展。要切实提升财政保障水平，抓好“四税收入”，加大资源资产盘活力度，切实兜牢基层“三保”底线。\n会议要求，要按时序推进政府工作报告具体任务，进一步提高市十件民生实事实施质效。要继续深入开展爱国卫生运动，落实各项防控措施，防止蚊媒传染病的发生和传播。要抓好生态环保督察整改工作，加强跨区域、跨部门合作，加快完成整改。要抓实安全生产和防灾减灾工作，守护好人民群众生命财产安全和社会大局稳定。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "稳增长",
+    "民生实事"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-jinfu-yangjiang",
+      "name_zh": "余金富",
+      "name_en": "Yu Jinfu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-YJ",
+      "name_zh": "阳江",
+      "name_en": "Yangjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "稳增长",
+      "name_en": "Steady Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "People's Livelihood Projects"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "余金富",
+    "阳江",
+    "经济运行",
+    "稳增长",
+    "民生实事",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yu Jinfu",
+    "Yangjiang",
+    "Economic Operation",
+    "Steady Growth",
+    "People's Livelihood Projects"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "yu-jinfu-yangjiang",
+      {
+        "id": null,
+        "name_zh": "金富"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-YJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260821-gov_yang_jiang-65e825",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "20260905-chinanews_gn-24f5e6",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-05/10690862.shtml",
+  "title_zh": "中国建筑副总经理陈勇任上被查",
+  "title_en": "Chen Yong, Vice President of China State Construction, Put under Investigation",
+  "summary_zh": "9月5日，中国建筑集团有限公司党组成员、副总经理陈勇因涉嫌严重违纪违法，接受中央纪委国家监委纪律审查和监察调查。",
+  "summary_en": "On Sept 5, Chen Yong, Party member and vice president of CSCEC, is under investigation for suspected serious disciplinary and legal violations.",
+  "body_zh": "中国建筑副总经理陈勇任上被查\n中新社北京9月5日电 中国官方5日通报，中国建筑集团有限公司党组成员、副总经理陈勇涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n公开资料显示，陈勇出生于1974年，重庆荣昌人，正高级工程师。\n陈勇长期在建筑领域工作，曾任中国建筑西南设计研究院有限公司党委书记、董事长，中建长江建设投资有限公司党委书记、董事长等职。2025年10月，他履新中国建筑集团有限公司党组成员、副总经理。\n据知，中国建筑集团有限公司正式组建于1982年，是中国专业化发展最久、市场化经营最早、一体化程度最高、全球规模最大的投资建设集团之一。(完)\n国内新闻精选：\n- 2026年09月05日 10:41:17\n- 2026年09月04日 21:53:45\n- 2026年09月04日 21:13:27\n- 2026年09月04日 15:48:44\n- 2026年09月04日 14:11:56\n- 2026年09月04日 13:58:43\n- 2026年09月04日 13:34:52\n- 2026年09月04日 11:18:07\n- 2026年09月04日 10:44:31\n- 2026年09月04日 10:01:49",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-05",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-yong-zhuhai",
+      "name_zh": "陈勇",
+      "name_en": "Chen Yong"
+    },
+    {
+      "kind": "institution",
+      "id": "CSCEC",
+      "name_zh": "中国建筑集团有限公司",
+      "name_en": "China State Construction Engineering Corporation"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Commission of Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "任上",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈勇",
+    "中国建筑集团有限公司",
+    "中央纪委国家监委",
+    "反腐败",
+    "纪律审查",
+    "任上"
+  ],
+  "tags_en": [
+    "Chen Yong",
+    "China State Construction Engineering Corporation",
+    "Central Commission for Discipline Inspection and National Commission of Supervision",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-yong-zhuhai",
+      {
+        "id": null,
+        "name_zh": "任上"
+      }
+    ],
+    "institutions": [
+      "CSCEC"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Commission of Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260905-chinanews_gn-24f5e6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

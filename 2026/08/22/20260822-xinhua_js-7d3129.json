@@ -1,0 +1,142 @@
+{
+  "id": "20260822-xinhua_js-7d3129",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260822/05ff860623bf4abf9045569c95050ea6/c.html",
+  "title_zh": "信长星刘小涛会见中国长安汽车集团董事长朱华荣",
+  "title_en": "Xin Changxing and Liu Xiaotao Meet Chairman of Changan Automobile Group",
+  "summary_zh": "8月20日，江苏省委书记信长星、省长刘小涛在南京会见中国长安汽车集团董事长朱华荣，双方表示将加强产业链合作，推动汽车产业升级。",
+  "summary_en": "On Aug 20, Jiangsu Party Secretary Xin Changxing and Governor Liu Xiaotao met with Changan Auto Chairman Zhu Huarong in Nanjing to discuss enhancing industrial chain cooperation and promoting auto industry upgrading.",
+  "body_zh": "8月20日，省委书记信长星、省长刘小涛在南京会见中国长安汽车集团董事长朱华荣。\n信长星、刘小涛对朱华荣一行表示欢迎。信长星说，当前，江苏正在深入学习贯彻习近平总书记重要讲话精神，加快建设具有全球影响力的产业科技创新中心、具有国际竞争力的先进制造业基地。我们愿与长安汽车集团一道，加强产业链创新链合作，强化人工智能赋能，促进汽车产业高端化、智能化、绿色化升级，为构建现代化产业体系、推动高质量发展注入新动能。\n朱华荣表示，江苏具备完善的产业链供应链，与长安汽车集团合作基础良好。我们将发挥自身优势，持续深化与江苏的合作，推出更多优质产品和服务，更好满足市场需求，实现互利共赢。\n省和南京市领导周红波、陈忠伟、李忠军，长安汽车集团副总经理邓威参加有关活动。（黄伟）",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "economy",
+  "keywords": [
+    "产业合作",
+    "汽车产业升级",
+    "人工智能赋能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "朱华荣",
+      "name_en": "Zhu Huarong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车产业升级",
+      "name_en": "Auto Industry Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能赋能",
+      "name_en": "AI Empowerment"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "zhou-hongbo",
+      "name_zh": "周红波",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "刘小涛",
+    "朱华荣",
+    "南京",
+    "产业合作",
+    "汽车产业升级",
+    "人工智能赋能",
+    "李忠军",
+    "周红波",
+    "陈忠伟"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Liu Xiaotao",
+    "Zhu Huarong",
+    "Nanjing",
+    "Industrial Cooperation",
+    "Auto Industry Upgrading",
+    "AI Empowerment"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "liu-xiaotao",
+      "chen-zhongwei-jiangsu",
+      "li-zhongjun",
+      "zhou-hongbo",
+      {
+        "id": null,
+        "name_zh": "邓威"
+      },
+      {
+        "id": null,
+        "name_zh": "朱华荣"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260822-xinhua_js-7d3129",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

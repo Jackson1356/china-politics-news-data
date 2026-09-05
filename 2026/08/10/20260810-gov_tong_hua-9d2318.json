@@ -1,0 +1,109 @@
+{
+  "id": "20260810-gov_tong_hua-9d2318",
+  "source": "gov_tong_hua",
+  "source_name_zh": "通化市政府网",
+  "source_name_en": "通化 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tong_hua",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jl.gov.cn/yaowen/202608/t20260810_3654704.html",
+  "title_zh": "黄强会见韩国忠清南道议会代表团",
+  "title_en": "Huang Qiang Meets Delegation of South Chungcheong Provincial Council",
+  "summary_zh": "8月10日，吉林省委书记黄强在长春会见韩国忠清南道议会议长赵哲纪率领的代表团，双方就深化友好合作进行交流。",
+  "summary_en": "On August 10, Huang Qiang, Secretary of Jilin Provincial Committee, met with a delegation led by Cho Cheol-gi, Speaker of South Chungcheong Provincial Council, in Changchun to discuss deepening friendly cooperation.",
+  "body_zh": "黄强会见韩国忠清南道议会代表团\n8月10日，省委书记、省人大常委会主任黄强在长春会见韩国忠清南道议会议长赵哲纪率领的代表团一行。\n黄强向代表团一行表示欢迎，并简要介绍吉林省经济社会发展情况。他说，今年是吉林省与韩国忠清南道建立友好交流关系21周年、缔结友好省道关系7周年。多年来，双方在经贸、农业、科技等领域合作不断深化，两地人民在交流交往中结下深厚友谊。今年也是我国“十五五”开局之年。正是因为我们坚持中国共产党领导、人民当家作主、依法治国有机统一，一张蓝图绘到底、一茬接着一茬接续奋斗，才能战胜各种风险挑战，创造经济快速发展和社会长期稳定两大奇迹。面向未来，希望忠清南道与吉林省共同落实两国元首达成的重要共识，充分发挥中韩（长春）国际合作示范区等开放平台作用，深化产业协同，扩大贸易规模，拓展旅游合作，增进人文互鉴，加强立法机构交流，更好造福两地人民。明年长春将举办第33届世界大学生冬季运动会，忠清地区将举办第33届世界大学生夏季运动会，希望双方相互支持，携手奉献青春体育盛会。欢迎韩国青年朋友来吉林参赛观赛，感受可信、可爱、可敬的中国，有情、有趣、有为的吉林。\n赵哲纪表示，吉林省经济社会发展取得的成绩和其中蕴含的无限潜力，令我们印象深刻。希望吉林省与忠清南道加强政府间政策协调，探索创新民间交流和企业合作方式，不断巩固拓展双方友好关系。\n韩国忠清南道议会第一副议长张胜在，省领导王子联、高广滨、刘凯参加会见。（刘宁宁）",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际合作",
+    "友好省道关系",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "huang-qiang",
+      "name_zh": "黄强",
+      "name_en": "Huang Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好省道关系",
+      "name_en": "Friendly Provincial Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wang-zilian",
+      "name_zh": "王子联",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄强",
+    "长春",
+    "国际合作",
+    "友好省道关系",
+    "经贸合作",
+    "王子联"
+  ],
+  "tags_en": [
+    "Huang Qiang",
+    "Changchun",
+    "International Cooperation",
+    "Friendly Provincial Relations",
+    "Economic and Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-zilian",
+      "huang-qiang",
+      {
+        "id": null,
+        "name_zh": "刘凯"
+      },
+      {
+        "id": null,
+        "name_zh": "赵哲纪"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260810-gov_tong_hua-9d2318",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260604-paper_zhengjing-d57c32",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33308744",
+  "title_zh": "民政部公布82个中央财政支持社会服务项目",
+  "title_en": "Ministry of Civil Affairs Announces 82 Approved Projects for Social Services",
+  "summary_zh": "民政部发布2026年中央财政支持社会组织参与社会服务项目立项名单，共82个项目获批，重点面向“一老一小”及乡村振兴等群体。",
+  "summary_en": "The Ministry of Civil Affairs released the 2026 list of 82 approved projects funded by the central government for social services, focusing on the elderly, children, and rural revitalization.",
+  "body_zh": "重点面向“一老一小”等群体，民政部公布82个获批项目\n李玉梅、周培培/央视新闻\n今天，民政部发布2026年中央财政支持社会组织参与社会服务项目立项名单，82个项目正式获批。项目聚焦“一老一小”、乡村振兴、欠发达地区和社会组织能力建设四个方面，推动办好民生实事。其中，80%以上的项目面向困境儿童、困难老人和精神障碍群体，提供包括陪伴和心理支持、专业照护、康复训练与社会融入支持等服务，预计直接受益人数超过15万人。",
+  "image_url": null,
+  "published_at": "2026-06-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "社会服务",
+    "一老一小",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会服务",
+      "name_en": "Social Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一老一小",
+      "name_en": "Elderly and Children Care"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "社会服务",
+    "一老一小",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Social Services",
+    "Elderly and Children Care",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260604-paper_zhengjing-d57c32",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

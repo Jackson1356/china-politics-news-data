@@ -1,0 +1,90 @@
+{
+  "id": "20260901-local_zhong_guo_ji_lin_wang_cn_jl-86f129",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gnyw/202609/4077442.html",
+  "title_zh": "中埃建交70周年，习主席时隔10年再访埃及",
+  "title_en": "China-Egypt 70th Anniversary: President Xi to Visit Egypt Again After 10 Years",
+  "summary_zh": "应塞西总统邀请，习近平主席即将对埃及进行国事访问，此系时隔10年再访，将为深化中埃全面战略伙伴关系擘画新蓝图。",
+  "summary_en": "At President Sisi's invitation, President Xi Jinping will soon visit Egypt, a decade after his last visit, on the 70th anniversary of ties, to deepen the comprehensive strategic partnership.",
+  "body_zh": "应塞西总统邀请，习近平主席即将对埃及进行国事访问。“谁饮尼罗水，他日必重归。”2016年访问埃及时，习近平主席引用这句埃及谚语表达心情。今年是中埃建交70周年，习近平主席此访将为深化中埃全面战略伙伴关系擘画新蓝图。\n初审：  赵新\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中埃关系",
+    "全面战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "埃及",
+      "name_en": "Egypt"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃关系",
+      "name_en": "China-Egypt Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "埃及",
+    "中埃关系",
+    "全面战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Egypt",
+    "China-Egypt Relations",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260901-local_zhong_guo_ji_lin_wang_cn_jl-86f129",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_chang_cheng_wang_cn_he",
+      "source_tier": 3,
+      "url": "https://news.hebccw.cn/system/2026/09/01/102218560.shtml",
+      "title_zh": "经纬线·中埃建交70周年，习主席时隔10年再访埃及_新闻频道_长城网",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

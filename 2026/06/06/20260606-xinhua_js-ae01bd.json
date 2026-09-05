@@ -1,0 +1,154 @@
+{
+  "id": "20260606-xinhua_js-ae01bd",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260606/cca52b178c75433cbfb51081fa4effc5/c.html",
+  "title_zh": "信长星会见天津大学党委书记杨贤金",
+  "title_en": "Xin Changxing Meets with Yang Xianjin, Party Secretary of Tianjin University",
+  "summary_zh": "6月5日，江苏省委书记信长星在南京会见天津大学党委书记杨贤金，双方探讨在人才培养、科技创新和成果转化等方面加强合作。",
+  "summary_en": "On June 5, Xin Changxing, Secretary of the Jiangsu Provincial Party Committee, met with Yang Xianjin, Party Secretary of Tianjin University, in Nanjing to discuss strengthening cooperation in talent cultivation, technological innovation, and achievement transformation.",
+  "body_zh": "6月5日，省委书记信长星在南京会见天津大学党委书记杨贤金。\n信长星对杨贤金一行来江苏考察交流、深化合作表示欢迎。他说，当前，我们正在深入学习贯彻习近平总书记对江苏工作重要讲话精神，一体推进教育科技人才发展，全面融入上海（长三角）国际科技创新中心建设，加强与京津冀协同发展等战略的对接，加快打造发展新质生产力的重要阵地。天津大学办学实力雄厚、学科特色鲜明。希望双方围绕人才培养、科技创新、成果转化等方面进一步加强合作，携手服务全国发展大局。我们将为天津大学师生来江苏施展才华、成就梦想提供良好保障。\n杨贤金表示，天津大学牢记习近平总书记殷殷嘱托，正在加快建设中国特色世界一流大学。江苏经济活跃，产业发展方向与天津大学的学科布局契合度高。我们将持续深化与江苏的务实合作，努力开创校地合作新局面。\n省领导刘建洋、储永宏、赵岩，天津大学党委常委、常务副校长王天友参加会见。（黄伟）",
+  "image_url": null,
+  "published_at": "2026-06-06T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "教育科技人才",
+    "新质生产力",
+    "校地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨贤金",
+      "name_en": "Yang Xianjin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "天津大学",
+      "name_en": "Tianjin University"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育科技人才",
+      "name_en": "Education, Science, Technology and Talent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校地合作",
+      "name_en": "University-Local Government Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chu-yonghong",
+      "name_zh": "储永宏",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "liu-jianyang",
+      "name_zh": "刘建洋",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "杨贤金",
+    "天津大学",
+    "南京",
+    "江苏",
+    "教育科技人才",
+    "新质生产力",
+    "校地合作",
+    "习近平",
+    "储永宏",
+    "刘建洋"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Yang Xianjin",
+    "Tianjin University",
+    "Nanjing",
+    "Jiangsu",
+    "Education, Science, Technology and Talent",
+    "New Quality Productive Forces",
+    "University-Local Government Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "chu-yonghong",
+      "xi-jinping",
+      "liu-jianyang",
+      {
+        "id": null,
+        "name_zh": "杨贤金"
+      },
+      {
+        "id": null,
+        "name_zh": "王天友"
+      },
+      {
+        "id": null,
+        "name_zh": "江苏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "天津大学",
+        "name_en": "Tianjin University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260606-xinhua_js-ae01bd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

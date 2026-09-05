@@ -1,0 +1,106 @@
+{
+  "id": "20260904-chinanews_gn-9a1fd9",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-04/10690341.shtml",
+  "title_zh": "首次！北斗基准站服务数据向社会共享开放",
+  "title_en": "First-Ever Public Sharing of BeiDou Ground Station Service Data",
+  "summary_zh": "9月4日，自然资源部会同国家数据局在北京召开推进会，宣布全国北斗基准站一张网服务数据首次向社会共享开放。",
+  "summary_en": "On Sept 4, the Ministry of Natural Resources and the National Data Administration held a promotion meeting in Beijing, announcing first-ever public sharing of BeiDou ground station network service data.",
+  "body_zh": "首次！北斗基准站服务数据向社会共享开放\n中新网北京9月4日电 9月4日，由自然资源部会同国家数据局联合主办的全国卫星导航定位基准站网服务数据授权运营工作推进会在北京召开。有关行业部门、中央企业、地方主管部门、位置服务商、相关单位及媒体代表参会。\n会上宣布，我国卫星导航定位基准站网服务数据正式启动授权运营，这也意味着全国北斗基准站一张网服务数据首次向社会共享开放。\n卫星导航定位基准站是国家重要的时空信息基础设施，是北斗系统实现高精度服务必不可少的地面支撑。自然资源部统筹整合全国基准站资源，建成了法定权威、标准统一、精准可靠、安全可控的基准站“一张网”并常态化运行，搭建“1+33”的北斗应用与基准服务中心协同运维管理体系，向社会提供国家统一的测绘基准服务，推进全国基准站统一规划、统一标准、统一监管。\n在推进会现场，自然资源部总规划师张兵指出，此次授权运营，为全国公共数据资源授权运营提供了可参考、可借鉴的实践样本，将引领更多领域的数据要素在合规有序的轨道上充分涌流、释放价值。\n国家数据局数据资源司司长张望在会上表示，卫星导航定位基准站网数据是支撑数字中国建设和保障国家时空安全的重要资源，本次授权运营，有利于释放基准站网数据的要素价值。\n授权运营工作推进会同时举办了首批用户意向签约，涵盖公益类、重点行业和企业等领域。用户代表发言表示将充分坚持基准站资源共享，避免重复建站，结合自身业务丰富北斗高精度应用场景，深化时空数据授权运营落地见效。(完)\n国内新闻精选：\n- 2026年09月05日 10:41:17\n- 2026年09月04日 21:53:45\n- 2026年09月04日 21:13:27\n- 2026年09月04日 15:48:44\n- 2026年09月04日 14:11:56\n- 2026年09月04日 13:58:43\n- 2026年09月04日 13:34:52\n- 2026年09月04日 11:18:07\n- 2026年09月04日 10:44:31\n- 2026年09月04日 10:01:49",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "economy",
+  "keywords": [
+    "数据开放",
+    "北斗系统",
+    "数字中国"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据开放",
+      "name_en": "Data Opening"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "北斗系统",
+      "name_en": "BeiDou System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字中国",
+      "name_en": "Digital China"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "国家数据局",
+    "北京",
+    "数据开放",
+    "北斗系统",
+    "数字中国"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "National Data Administration",
+    "Beijing",
+    "Data Opening",
+    "BeiDou System",
+    "Digital China"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260904-chinanews_gn-9a1fd9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

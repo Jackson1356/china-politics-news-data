@@ -1,0 +1,92 @@
+{
+  "id": "20260904-gov_shan_wei-0673c1",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1274135.html",
+  "title_zh": "汕尾市政府党组会议研究部署灾害防范应对、经济运行和招商引资等工作",
+  "title_en": "Shanwei Municipal Government Party Group Meeting Arranges Work on Disaster Prevention, Economic Operation, and Investment Attraction",
+  "summary_zh": "9月3日，广东省汕尾市政府召开党组会议、常务会议，传达学习习近平总书记重要讲话重要指示精神，研究部署灾害防范应对、经济运行、招商引资等工作。",
+  "summary_en": "On September 3, the Shanwei municipal government held a party group meeting and executive meeting to convey General Secretary Xi Jinping's important speech and instructions, and to arrange work on disaster prevention, economic operation, and investment attraction.",
+  "body_zh": "市政府党组会议、常务会议召开\n认真学习贯彻习近平总书记重要讲话重要指示精神\n研究部署灾害防范应对、经济运行、招商引资等工作\n9月3日，市政府召开党组会议、常务会议，传达学习习近平总书记重要讲话重要指示精神，部署抓好灾害防范应对、经济运行、招商引资等工作。\n会议强调\n要深入学习贯彻习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，加快把怀念和敬仰之情转化为推动汕尾高质量发展的强大动力，牢固树立和践行正确政绩观，深入推进市委“1233”规划部署，全力打好“四大会战”，用心用情解决群众急难愁盼问题，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。\n会议强调\n要深入学习贯彻习近平总书记在中央政治局会议上的重要讲话和对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神，坚持“汛期不过、排查不停、整改不止”，紧盯城乡易涝点、地质灾害隐患点等重点部位，全面开展风险隐患排查整治，强化动态预警、预案管理、物资储备、实战演练、跟踪反馈等各项工作，不断提升防灾减灾救灾能力水平。\n会议强调\n要深入学习贯彻习近平总书记对侨务工作作出的重要指示精神，深入推进新时代乡亲回归工程，落实落细就业创业、安居保障等惠侨利侨各项政策，扎实做好引资引智引技引才工作，推动“汕尾人经济”加快反哺“汕尾经济”。\n会议要求\n◆要加强经济运行统筹调度，持续补短强弱、挖潜增效，加力提效稳定工业增长、扩大有效投资、挖掘消费潜能、促进外贸提质、拓宽财源渠道，主动靠前服务企业、服务项目，全力以赴奋战三季度、决胜全年红。\n◆要更大力度抓好招商引资和项目推进工作，坚持数量与质量并重、签约与落地齐抓，持续优化营商环境，加强政策协同、要素保障与政务服务，落实落细分类分级处置调度机制，加快已开工项目建设进度，推动拟新开工项目尽快开工，全力保障项目快签约、快建设、快投产、快见效。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "party",
+  "keywords": [
+    "灾害防范应对",
+    "经济运行",
+    "招商引资"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害防范应对",
+      "name_en": "Disaster Prevention and Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕尾",
+    "灾害防范应对",
+    "经济运行",
+    "招商引资",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shanwei",
+    "Disaster Prevention and Response",
+    "Economic Operation",
+    "Investment Attraction"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260904-gov_shan_wei-0673c1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260811-gov_yan_cheng-ec39d5",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/11/art_49_4446101.html",
+  "title_zh": "吴炜检查防汛防台风工作",
+  "title_en": "Wu Wei Inspects Flood and Typhoon Prevention Work",
+  "summary_zh": "8月10日上午，盐城市代市长吴炜在市区检查防汛防台风工作，强调拧紧责任链条，全力筑牢防汛防台风坚固防线。",
+  "summary_en": "On the morning of August 10, Wu Wei, acting mayor of Yancheng, inspected flood and typhoon prevention work in the urban area, emphasizing tightened responsibility and solid defenses.",
+  "body_zh": "拧紧责任链条 细化措施落实\n全力筑牢防汛防台风坚固防线\n8月10日上午，市委副书记、代市长吴炜在市区检查防汛防台风工作，强调要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，认真落实省、市委最新部署要求，充分认识当前严峻复杂防汛形势，进一步拧紧责任链条，过细检查防范措施落实，全力筑牢防汛防台风坚固防线。\n盐渎路易淹路段雨水管网改造工程已经完成，城市防汛能力得到进一步提升。吴炜详细了解工程规模、收水效率和改造辐射范围等情况，指出已完工投用的改造项目要加强工程检验，配齐各类强排水设备，更好发挥工程项目排涝效能，严防城市内涝发生。要立足“防大汛”要求，滚动更新城市易涝点位，系统谋划推进排水防涝能力建设，动态消除各类风险隐患，补齐城区防洪排涝硬件短板，全面守牢城市安全运行防线。\n宏都花园和盛世华城小区通过改造，有效解决受淹情况。吴炜认真听取小区防汛能力提升情况介绍，与社区负责同志共同研究长效治理方法。他指出，要围绕“家中不进水、车库不受淹”的目标，根据各小区不同情况，前置防汛物资力量，采取差异化防汛举措，进一步排查整治还可能存在的风险隐患，确保险情预警一键响应、快速处置。要坚持标本兼治，严格执行相关改造标准，统筹推进小区管网与市政管网改造衔接，从源头打通排水“堵点”，畅通城市整体排水体系，努力降低城市内涝风险，切实守护人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "城市内涝治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市内涝治理",
+      "name_en": "Urban Waterlogging Control"
+    }
+  ],
+  "tags_zh": [
+    "吴炜",
+    "盐城",
+    "防汛防台风",
+    "城市内涝治理"
+  ],
+  "tags_en": [
+    "Wu Wei",
+    "Yancheng",
+    "Flood and Typhoon Prevention",
+    "Urban Waterlogging Control"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      {
+        "id": null,
+        "name_zh": "方法他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-gov_yan_cheng-ec39d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

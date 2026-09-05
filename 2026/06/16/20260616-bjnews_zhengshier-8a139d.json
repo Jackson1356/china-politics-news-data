@@ -1,0 +1,87 @@
+{
+  "id": "20260616-bjnews_zhengshier-8a139d",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1781579135129541.html",
+  "title_zh": "姜宏伟涉嫌严重违纪违法被查",
+  "title_en": "Jiang Hongwei Investigated for Serious Violations of Discipline and Law",
+  "summary_zh": "6月16日，中央纪委国家监委通报黑龙江省纪委副书记、省监委副主任姜宏伟涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
+  "summary_en": "On June 16, the CCDI and NSC announced that Jiang Hongwei, Deputy Secretary of the Heilongjiang Provincial Commission for Discipline Inspection, is under investigation for serious violations of discipline and law.",
+  "body_zh": "打虎！姜宏伟被查\n中央纪委国家监委网站6月16日消息，黑龙江省纪委副书记、省监委副主任姜宏伟涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n公开简历显示，姜宏伟，男，汉族，1968年1月生，1989年7月参加工作，1987年12月加入中国共产党，管理学博士。\n姜宏伟曾任佳木斯市委常委、纪委书记、市监察委员会主任等职，2020年任黑龙江省纪委副书记、省监委副主任，至此番被查。",
+  "image_url": null,
+  "published_at": "2026-06-16T11:06:44+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "姜宏伟",
+      "name_en": "Jiang Hongwei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "姜宏伟",
+    "中央纪委国家监委",
+    "黑龙江",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Jiang Hongwei",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Heilongjiang",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "姜宏伟"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260616-bjnews_zhengshier-8a139d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

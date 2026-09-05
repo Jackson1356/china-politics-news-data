@@ -1,0 +1,100 @@
+{
+  "id": "20260828-gov_shan_nan-fff162",
+  "source": "gov_shan_nan",
+  "source_name_zh": "山南市政府网",
+  "source_name_en": "山南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shannan.gov.cn/xwzx/ttxw/202608/t20260828_175721.html",
+  "title_zh": "受习近平总书记委托，李强抵达西藏吉隆指导抢险救灾工作",
+  "title_en": "Li Qiang Arrives in Jilong, Tibet to Guide Disaster Relief Work on Behalf of General Secretary Xi Jinping",
+  "summary_zh": "8月27日下午，李强总理受习近平总书记委托，抵达西藏吉隆县泥石流受灾区域，指导抢险救灾工作，看望抢险救援人员和受灾安置群众。",
+  "summary_en": "On the afternoon of August 27, Premier Li Qiang, on behalf of General Secretary Xi Jinping, arrived at the mudslide disaster area in Jilong County, Tibet, to guide relief work and visit rescue workers and affected residents.",
+  "body_zh": "新华社快讯：受习近平总书记委托，中共中央政治局常委、国务院总理李强率有关方面负责同志，于8月27日下午抵达西藏吉隆县吉隆镇泥石流受灾区域，指导抢险救灾工作，看望抢险救援人员和受灾安置群众。\n新闻中心\n国务院信息\n西藏要闻\n国务院文件\n头条新闻\n图片新闻\n山南要闻\n领导活动\n区县动态\n部门动态\n通告公示\n专题报道\n政务公开\n领导之窗\n行政权力运行\n五公开专栏\n重点领域信息公开\n新闻发布会\n政府信息公开指南\n政府信息公开制度\n法定主动公开内容\n政府信息公开年报\n政府工作报告\n政府信息依申请公开\n政府工作报告解读\n政务服务\n个人办事\n法人办事\n行政审批\n高效办成一件事\n阳光政务\n便民查询\n互动交流\n市长信箱\n问卷调查\n民意征集\n回应关切\n常见问题\n招商引资\n招商动态\n招商项目\n招商政策\n企业服务\n走进山南\n山南概况\n特色产业\n城市建设\n经济发展\n援藏工作\n山南旅游\n友情链接：\n中国政府网\n西藏自治区政府网\n山南市人民政府\n乃东区人民政府\n琼结县人民政府\n扎囊县人民政府\n贡嘎县人民政府\n浪卡子县人民政府\n洛扎县人民政府\n措美县人民政府\n错那市人民政府\n隆子县人民政府\n曲松县人民政府\n加查县人民政府\n桑日县人民政府\n山南市发展和改革委员会\n山南市教育局（体育局）\n山南市经济和信息化局\n山南市民政局\n山南市司法局\n山南市财政局\n山南市人力资源和社会保障局\n山南市自然资源局\n山南市住房和城乡建设局\n山南市水利局\n山南市农业农村局\n山南市商务局\n山南市文化和旅游局\n山南市应急管理局\n山南市统计局\n山南市投资促进局",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "抢险救灾"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抢险救灾",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "西藏",
+    "抢险救灾",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260828-gov_shan_nan-fff162",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/8bddb9da24d14853a55bb784f8142288.shtml",
+      "title_zh": "受习近平总书记委托，李强抵达西藏吉隆指导抢险救灾工作",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "20260625-xinhua_leaders-613a0a",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260625/44a8ae1ca3e34ecf86da44028cd2d8b2/c.html",
+  "title_zh": "以扎实举措推进农业农村现代化",
+  "title_en": "Promoting Agricultural and Rural Modernization with Solid Measures",
+  "summary_zh": "6月24日，习近平总书记在山东省德州市考察，强调要以扎实举措推进农业农村现代化，确保粮食稳定供给并建设和美乡村。",
+  "summary_en": "On June 24, General Secretary Xi Jinping inspected Dezhou, Shandong Province, emphasizing the need to promote agricultural and rural modernization and ensure stable food supply.",
+  "body_zh": "6月24日，习近平总书记在山东省德州市考察时强调，农业农村现代化关系中国式现代化全局和成色，要以扎实举措做好各项工作，着力提升农业综合生产能力和质量效益，确保粮食等重要农产品稳定供给，因地制宜推进宜居宜业和美乡村建设，引导广大农民群众用勤劳和智慧创造更加美好生活。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "industry",
+  "keywords": [
+    "农业农村现代化",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德州",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业农村现代化",
+      "name_en": "Agricultural and Rural Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "山东",
+    "德州",
+    "农业农村现代化",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Agricultural and Rural Modernization",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260625-xinhua_leaders-613a0a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://china.qianlong.com/2026/0625/8687940.shtml",
+      "title_zh": "时政画说丨禾下新野",
+      "published_at": "2026-06-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

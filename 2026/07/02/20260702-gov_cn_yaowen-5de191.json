@@ -1,0 +1,98 @@
+{
+  "id": "20260702-gov_cn_yaowen-5de191",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074129.htm",
+  "title_zh": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
+  "title_en": "Liu Guozhong Meets First Deputy Prime Minister of Belarus Snopkov",
+  "summary_zh": "2026年7月2日，国务院副总理刘国中在京会见白俄罗斯第一副总理斯诺普科夫，双方探讨落实两国元首共识，深化务实合作。",
+  "summary_en": "On July 2, 2026, Vice Premier Liu Guozhong met with Belarusian First Deputy Prime Minister Snopkov in Beijing to discuss implementing the consensus of the two heads of state and deepening pragmatic cooperation.",
+  "body_zh": "新华社北京7月2日电 中共中央政治局委员、国务院副总理刘国中7月2日在京会见白俄罗斯第一副总理斯诺普科夫。\n刘国中表示，6月29日，习近平主席同卢卡申科总统举行了富有成果的会见，为中白全天候全面战略伙伴关系发展注入新动力。双方要落实好两国元首重要共识，充分发挥中白政府间合作委员会等机制作用，推动互利合作走深走实，更好促进各自现代化建设和民族振兴。\n斯诺普科夫表示，愿同中方深化各领域务实合作，推动白中关系不断迈上新台阶。",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-02",
+  "ingested_at": "2026-07-03T07:43:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "中白关系",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-guozhong",
+      "name_zh": "刘国中",
+      "name_en": "Liu Guozhong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中白关系",
+      "name_en": "China-Belarus Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘国中",
+    "国务院",
+    "北京",
+    "中白关系",
+    "务实合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Liu Guozhong",
+    "State Council",
+    "Beijing",
+    "China-Belarus Relations",
+    "Pragmatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "liu-guozhong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260702-gov_cn_yaowen-5de191",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

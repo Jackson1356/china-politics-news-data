@@ -1,0 +1,79 @@
+{
+  "id": "20260703-chinanews_gn-c9f074",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-03/10651799.shtml",
+  "title_zh": "加密软件“阅后即焚”保险吗？国家安全部提示",
+  "title_en": "Is 'Burn-After-Reading' Encrypted Software Safe? Ministry of State Security Issues Warning",
+  "summary_zh": "国家安全部提示，所谓的“阅后即焚”加密软件并非绝对安全，可能存在网络劫持和缓存窃取等风险，提醒公众严守保密底线。",
+  "summary_en": "The Ministry of State Security warns that 'burn-after-reading' encrypted software is not absolutely secure and may pose risks such as network hijacking and cache theft.",
+  "body_zh": "加密软件“阅后即焚”保险吗？国家安全部提示\n“阅后即焚”真的保险吗？\n日常私聊、秘密沟通、敏感信息传递，不少人偏爱使用带有所谓“阅后即焚”功能的小众加密软件，认为消息看完即删、不留痕迹，可以保护个人隐私、规避信息泄露风险。然而事实并非如此，看似安全无痕的背后，可能暗藏风险，稍有不慎就有可能导致个人隐私甚至涉密敏感信息泄露，值得警惕。\n“阅后即焚”真的能无痕吗？\n有的用户对“阅后即焚”功能存在认知偏差，认为只要用了这个功能，就能万无一失。但事实上，“阅后即焚”并不能做到真正无痕，不法分子仍有可能通过多种方式窃取数据。\n——劫持网络链路。个别“阅后即焚”软件仅采用HTTPS传输层加密，未实现全程端到端加密。不法分子可通过搭建虚拟公共无线网络、恶意路由节点，利用证书伪造、流量嗅探等手段，在用户连接网络发送“阅后即焚”信息时，拦截手机与服务器之间的传输数据包，完整窃取聊天记录、图片、文件等相关敏感信息，造成用户隐私泄露。\n——窃取缓存残留。用户发送“阅后即焚”的消息解密后，会暂存于系统内存或服务器中。黑客可通过接口漏洞入侵服务器，盗取加密文件及本地密钥，完整恢复备份中的数据，进而窃取个人隐私、商业秘密乃至国家秘密。\n——存储数据脱离监管。部分主打端到端、私密通讯的小众密聊软件、匿名通讯工具，服务器多部署于境外，脱离国内监管，后台可长期留存聊天记录、发送时间、IP地址、设备信息等敏感数据，存在被调取、窃取、泄露的风险。\n谨慎使用“阅后即焚”\n建议广大网友正确看待“阅后即焚”功能，摒弃侥幸心理，坚守合规底线，规范网络行为，有效规避安全风险。\n——不抱侥幸，保护隐私。避免在“阅后即焚”软件中发送身份信息、银行卡号、密码证照等个人隐私信息，摒弃“阅后即焚、万事无忧”的侥幸心理。\n——严守底线，杜绝泄密。严格落实“涉密不上网、上网不涉密”，绝不通过任何互联网通信工具传输或存储工作秘密及内部敏感信息，从源头上杜绝泄密风险。\n——清理缓存，管控权限。定期自查手机软件，卸载清理各类不明来源的小众匿名、密聊焚文软件，关闭非必要的软件权限，筑牢个人网络安全防线。\n国内新闻精选：\n- 2026年07月03日 13:48:04\n- 2026年07月03日 12:30:49\n- 2026年07月03日 10:51:25\n- 2026年07月02日 19:15:28\n- 2026年07月02日 16:45:20\n- 2026年07月02日 15:13:43\n- 2026年07月02日 12:49:09\n- 2026年07月02日 12:25:10\n- 2026年07月02日 11:51:54\n- 2026年07月02日 10:34:17",
+  "image_url": null,
+  "published_at": "2026-07-03T12:00:00+00:00",
+  "event_date": "2026-07-03",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "国家安全",
+    "网络安全",
+    "数据隐私"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MSS",
+      "name_zh": "国家安全部",
+      "name_en": "Ministry of State Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全",
+      "name_en": "National Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据隐私",
+      "name_en": "Data Privacy"
+    }
+  ],
+  "tags_zh": [
+    "国家安全部",
+    "国家安全",
+    "网络安全",
+    "数据隐私"
+  ],
+  "tags_en": [
+    "Ministry of State Security",
+    "National Security",
+    "Cybersecurity",
+    "Data Privacy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MSS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260703-chinanews_gn-c9f074",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

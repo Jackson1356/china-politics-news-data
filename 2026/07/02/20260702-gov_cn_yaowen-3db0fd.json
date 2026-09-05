@@ -1,0 +1,107 @@
+{
+  "id": "20260702-gov_cn_yaowen-3db0fd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202607/content_7074135.htm",
+  "title_zh": "失业保险稳岗扩岗政策举措延续实施",
+  "title_en": "Unemployment Insurance Policies for Job Stabilization and Expansion Extended",
+  "summary_zh": "人力资源社会保障部等四部门近日印发通知，将稳岗返还、扩岗补助及技能提升补贴三项政策延续实施至2026年底，以支持企业稳定岗位并促进就业。",
+  "summary_en": "The Ministry of Human Resources and Social Security and three other departments issued a notice extending three policies, including job stabilization refunds and expansion subsidies, until the end of 2026 to support employment.",
+  "body_zh": "新华社北京7月2日电（记者 张晓洁）记者7月2日获悉，人力资源社会保障部等四部门近日联合印发关于失业保险支持企业稳岗扩岗的通知，明确通过“两延续一优化”实施3项惠企利民政策举措，支持企业稳定岗位，积极吸纳青年就业，助力提升职业技能。\n延续实施稳岗返还政策方面，通知明确，对不裁员少裁员的参保企业继续实施稳岗返还政策至2026年底，中小微企业按不超过企业及其职工上年度实际缴纳失业保险费的60%返还、大型企业按照不超过30%返还；社会组织、律师事务所、会计师事务所以及以单位形式参保的个体工商户参照实施。优化“免申即享”经办模式，主动推送确认领取及政策信息。\n延续实施扩岗补助政策方面，通知明确，延续实施一次性扩岗补助政策至2026年底，对招用毕业年度及离校两年内未就业高校毕业生、16至24岁登记失业青年的企业和社会组织按每吸纳1人不超过1500元的标准发放补助资金。\n优化技能提升补贴政策方面，通知明确，继续放宽技能提升补贴政策参保年限并拓宽受益范围至2026年底，突出“证岗相适”，参保职工或领取失业保险金人员取得职业中类与所在企业行业类别一致、数字和绿色职业、列入当地急需紧缺职业（工种）目录等级证书之一的可申领1次技能提升补贴，取得多项急需紧缺职业（工种）证书的，可再额外增加2次补贴次数，更好服务企业岗位需求、市场就业需要和地区产业发展。\n通知要求加强高品质服务供给，强化基金风险防控，持续做好失业保险金、代缴基本医疗保险（含生育保险）费等保生活待遇发放工作。",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-02",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "失业保险",
+    "稳岗扩岗",
+    "就业补贴"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "失业保险",
+      "name_en": "Unemployment Insurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "稳岗扩岗",
+      "name_en": "Job Stabilization and Expansion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业补贴",
+      "name_en": "Employment Subsidies"
+    }
+  ],
+  "tags_zh": [
+    "人力资源社会保障部",
+    "北京",
+    "失业保险",
+    "稳岗扩岗",
+    "就业补贴"
+  ],
+  "tags_en": [
+    "Ministry of Human Resources and Social Security",
+    "Beijing",
+    "Unemployment Insurance",
+    "Job Stabilization and Expansion",
+    "Employment Subsidies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260702-gov_cn_yaowen-3db0fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260702/fe325cb6fee3485a840c75959865c768/c.html",
+      "title_zh": "失业保险稳岗扩岗政策举措延续实施",
+      "published_at": "2026-07-02T12:00:00+00:00"
+    },
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33503628",
+      "title_zh": "四部门延续实施失业保险稳岗扩岗政策举措",
+      "published_at": "2026-07-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "20260611-bjnews-c6fb17",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1781165251129694.html",
+  "title_zh": "公安部发布新版防电诈手册",
+  "title_en": "Ministry of Public Security Releases New Anti-Telecom Fraud Manual",
+  "summary_zh": "6月11日，公安部刑侦局发布《2026版防范电信网络诈骗宣传手册》，梳理最新作案手法并警示电诈“工具人”的法律后果。",
+  "summary_en": "On June 11, the Criminal Investigation Bureau of the Ministry of Public Security released the 2026 Anti-Telecom and Online Fraud Publicity Manual to update fraud methods and warn against becoming accomplices.",
+  "body_zh": "新京报讯（记者张建林）6月11日，公安部刑侦局编写的《2026版防范电信网络诈骗宣传手册》（以下简称《手册》）正式向社会发布。\n据悉，《手册》在内容上进行了升级：10大高发类案板块对最新的作案手法进行了梳理归纳。反诈利器板块新增了境外来电按需办理服务介绍，详解如何一键关闭或者重新开通境外来电、短信业务的办理方法；新增了“803反诈”智能体App基本功能及智能问答、反诈咨询、反诈辞典等模块介绍。《电信网络诈骗及其关联违法犯罪联合惩戒办法》板块在法条基础上增加真实案例，以案释法，让群众看得懂、记得住。\n此外，《手册》新增“常见电诈工具人形式及法律后果”板块，以漫画描绘常见“工具人”形态，明示相关法律后果，提醒广大群众拒绝成为电信网络诈骗的“帮凶”。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "welfare",
+  "keywords": [
+    "防范电信网络诈骗",
+    "法律后果"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防范电信网络诈骗",
+      "name_en": "Anti-Telecom and Online Fraud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法律后果",
+      "name_en": "Legal Consequences"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "防范电信网络诈骗",
+    "法律后果"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Anti-Telecom and Online Fraud",
+    "Legal Consequences"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260611-bjnews-c6fb17",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

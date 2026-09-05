@@ -1,0 +1,93 @@
+{
+  "id": "20260705-cpcnews-9b3249",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0705/c64094-40753610.html",
+  "title_zh": "瑞典首相克里斯特松会见王毅",
+  "title_en": "Swedish Prime Minister Kristersson Meets Wang Yi",
+  "summary_zh": "2026年7月4日，瑞典首相克里斯特松在斯德哥尔摩会见中国外交部长王毅，双方就加强中瑞对话、扩大共识及推进互利合作进行交流。",
+  "summary_en": "On July 4, 2026, Swedish Prime Minister Kristersson met with Chinese Foreign Minister Wang Yi in Stockholm to discuss strengthening China-Sweden dialogue and promoting mutually beneficial cooperation.",
+  "body_zh": "新华社斯德哥尔摩7月4日电 （记者朱昊晨）瑞典首相克里斯特松4日在斯德哥尔摩会见中共中央政治局委员、外交部长王毅。\n克里斯特松请王毅转达对中国领导人的良好祝愿，表示瑞中两国和两国人民的友好交往有着悠久历史，瑞方钦佩中国文化和创新精神，赞赏中国取得的显著发展成就。瑞政府坚持一个中国政策，愿同中方加强对话，扩大共识，推进各领域互利互惠、富有前景的合作。瑞方支持欧中加强对话，妥处分歧。\n王毅转达中国领导人对克里斯特松首相的问候，表示中瑞交往史可以追溯到古丝绸之路时期。瑞典是第一个同新中国建交的西方国家，这展现了瑞方的独立自主和战略远见，也在世界上发挥了示范作用。中瑞关系近年来遇到一些困难，加强对话、增进了解、重建互信对双方尤显重要，秉持正确的相互认知更是关键。\n王毅说，中国共产党在长期执政中始终得到中国人民衷心拥护，保持内外政策的连续性稳定性，为世界注入宝贵的确定性。中国好，世界会更好，也将为包括瑞典在内的各国提供新机遇。中方愿同瑞方加强各层级交往，发挥互补优势，促进互利合作，推动中瑞关系走上健康、稳定、可持续发展之路。希望瑞方也能为促进中欧关系发挥建设性作用。\n访问期间，王毅还同瑞典外交大臣斯蒂纳加德会谈，会见银瑞达集团董事会主席雅各布·瓦伦堡。\n《 人民日报 》（ 2026年07月05日 03 版）",
+  "image_url": null,
+  "published_at": "2026-07-05T12:00:00+00:00",
+  "event_date": "2026-07-04",
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "foreign",
+  "keywords": [
+    "中瑞关系",
+    "外交对话"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "斯德哥尔摩",
+      "name_en": "Stockholm"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中瑞关系",
+      "name_en": "China-Sweden Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交对话",
+      "name_en": "Diplomatic Dialogue"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "斯德哥尔摩",
+    "中瑞关系",
+    "外交对话"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Stockholm",
+    "China-Sweden Relations",
+    "Diplomatic Dialogue"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260705-cpcnews-9b3249",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0705/c1001-40753481.html",
+      "title_zh": "瑞典首相克里斯特松会见王毅",
+      "published_at": "2026-07-05T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074350.htm",
+      "title_zh": "瑞典首相克里斯特松会见王毅",
+      "published_at": "2026-07-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

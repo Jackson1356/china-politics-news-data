@@ -1,0 +1,83 @@
+{
+  "id": "20260904-gov_zi_bo-154cbc",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/9/4/art_14322_3019112.html",
+  "title_zh": "省领导带头参加2026年“慈心一日捐”活动",
+  "title_en": "Provincial Leaders Lead 2026 Compassionate One-Day Donation Campaign",
+  "summary_zh": "山东省四套班子机关近日举行2026年“慈心一日捐”活动，省委书记林武、省长周乃翔、省政协主席葛慧君等领导带头捐款，干部职工踊跃参加。",
+  "summary_en": "Shandong's top party and government organs recently held the 2026 Compassionate One-Day Donation activity, with Party Secretary Lin Wu, Governor Zhou Naixiang, and CPPCC Chairman Ge Huijun leading donations.",
+  "body_zh": "省领导带头参加2026年“慈心一日捐”活动\n近日，省委、省人大常委会、省人民政府、省政协机关举行2026年“慈心一日捐”活动。省委书记林武，省委副书记、省长周乃翔，省政协主席葛慧君，省委副书记、济南市委书记刘强等省领导同志带头参加捐款活动，广大机关干部职工踊跃捐款。“慈心一日捐”是我省重要的慈善品牌活动，自2004年开展以来，在扶危济困、应急救灾、助力共同富裕等方面发挥了积极作用，在全社会弘扬了崇德向善的良好风尚。（记者 于新悦 李子路）",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "慈心一日捐",
+    "慈善事业",
+    "共同富裕"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "慈心一日捐",
+      "name_en": "Compassionate One-Day Donation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "慈善事业",
+      "name_en": "Charity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "共同富裕",
+      "name_en": "Common Prosperity"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "慈心一日捐",
+    "慈善事业",
+    "共同富裕"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Compassionate One-Day Donation",
+    "Charity",
+    "Common Prosperity"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260904-gov_zi_bo-154cbc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

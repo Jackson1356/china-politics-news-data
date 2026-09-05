@@ -1,0 +1,75 @@
+{
+  "id": "20260701-bjnews-d1dd7a",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1782888306129487.html",
+  "title_zh": "外交部：多国政党政要和各界人士祝贺中国共产党成立105周年",
+  "title_en": "Foreign Ministry: Political Parties and Dignitaries Congratulate CPC on 105th Anniversary",
+  "summary_zh": "外交部表示，多国政党政要和各界人士祝贺中国共产党成立105周年，高度评价其领导中国取得的成就及对世界和平的贡献。",
+  "summary_en": "The Foreign Ministry stated that political parties, dignitaries, and various figures congratulated the CPC on its 105th anniversary, praising its achievements and contributions to global peace.",
+  "body_zh": "郭嘉昆表示，多国政党政要和各界人士以各种方式祝贺中国共产党成立105周年，高度评价中国共产党成立以来，始终以人民为中心，坚持实干兴邦，不断自我完善，领导中国人民取得经济社会发展伟大成就，为世界和平与发展作出重要贡献。事实证明，中国共产党领导的社会主义中国，被公认为世界和平的建设者、全球发展的贡献者、国际秩序的维护者。\n（总台央视记者 赵晶 赵超逸）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "party",
+  "keywords": [
+    "中国共产党成立105周年",
+    "国际关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国共产党成立105周年",
+      "name_en": "105th Anniversary of the CPC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际关系",
+      "name_en": "International Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中国共产党成立105周年",
+    "国际关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "105th Anniversary of the CPC",
+    "International Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260701-bjnews-d1dd7a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

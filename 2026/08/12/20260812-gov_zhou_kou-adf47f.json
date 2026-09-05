@@ -1,0 +1,107 @@
+{
+  "id": "20260812-gov_zhou_kou-adf47f",
+  "source": "gov_zhou_kou",
+  "source_name_zh": "周口市政府网",
+  "source_name_en": "周口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhou_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/sszf/articlee7caae40b2b9470da41562adae0afa48.html",
+  "title_zh": "全市重点项目建设暨企业诉求办理周例会召开",
+  "title_en": "Weekly Meeting on Key Projects and Enterprise Appeals Held in Zhoukou",
+  "summary_zh": "8月10日，市长詹鹏主持召开全市重点项目建设暨企业诉求办理周例会，会商解决企业发展难题，部署下一阶段重点工作。",
+  "summary_en": "On August 10, Mayor Zhan Peng chaired the weekly meeting on key projects and enterprise appeals, addressing development difficulties and deploying priorities.",
+  "body_zh": "全市重点项目建设暨企业诉求办理周例会召开\n8月10日，市长詹鹏主持召开全市重点项目建设暨企业诉求办理周例会，集中会商解决企业发展难题，安排部署下一阶段重点工作。王宏武、张建党、梁建松、王文峰参加会议。\n会议听取益海嘉里、娃哈哈集团企业建设发展及产业链项目谋划，临港开发区生物化工园区建设及项目招引等情况汇报，针对企业发展中存在的问题，逐一研究解决办法、推进举措。\n会议强调，要立足资源禀赋，以“粮头食尾”“畜头肉尾”“农头工尾”为抓手，在高端功能食品、生物制品、生物基新材料等领域深耕细作，持续延伸产业链、提升价值链、融通供应链，真正把农业建成现代化大产业，助力周口高质量发展。要紧扣“双碳”目标，将绿色低碳环保措施落实到企业生产各环节全链条，推进节能降耗和减污降碳，着力构建清洁低碳的能源与产业体系，坚决守牢生态安全和生产安全底线。市直相关部门要立足企业实际，靠前做好业务指导，加快推进企业自主减排申报审批工作，助力企业实现生产经营与生态保护协同共进。要紧盯生物化工园区项目建设的关键环节，加强统筹协调，着力抓重点、攻难点、促落实，确保项目按节点推进；要依托益海嘉里等龙头企业的原料优势与产业吸附力，精准开展以商招商、产业链招商，努力招引一批投资规模大、科技含量高、带动能力强的项目，全力做大做强周口生物产业集群，培育和形成更多新的经济增长点。（记者 李凤霞）",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "economy",
+  "keywords": [
+    "重点项目建设",
+    "企业诉求办理",
+    "产业链"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA-ZK",
+      "name_zh": "周口",
+      "name_en": "Zhoukou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重点项目建设",
+      "name_en": "Key Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "企业诉求办理",
+      "name_en": "Handling Enterprise Appeals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链",
+      "name_en": "Industrial Chain"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "周例会",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "周口",
+    "重点项目建设",
+    "企业诉求办理",
+    "产业链",
+    "周例会"
+  ],
+  "tags_en": [
+    "Zhoukou",
+    "Key Project Construction",
+    "Handling Enterprise Appeals",
+    "Industrial Chain"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "周例会"
+      },
+      {
+        "id": null,
+        "name_zh": "王文峰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA-ZK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260812-gov_zhou_kou-26d51a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_zhou_kou",
+      "source_tier": 4,
+      "url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/zkyw/articlef188490fb3ae494a9c8fe1bed70d6549.html",
+      "title_zh": "全市重点项目建设暨企业诉求办理周例会召开_周口市人民政府",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

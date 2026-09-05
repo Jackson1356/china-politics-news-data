@@ -1,0 +1,90 @@
+{
+  "id": "20260811-chinanews_gn-0413fe",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-11/10675641.shtml",
+  "title_zh": "中国海军第49批护航编队将赴亚丁湾、索马里海域执行护航任务",
+  "title_en": "Chinese Navy's 49th Escort Task Force to Head for Gulf of Aden and Somali Waters",
+  "summary_zh": "据中国国防部消息，8月中旬起，中国海军第49批护航编队将赴亚丁湾、索马里海域，接替第48批编队执行护航任务。",
+  "summary_en": "According to China's Ministry of National Defense, starting mid-August, the 49th Chinese Navy escort task force will head to the Gulf of Aden and Somali waters to replace the 48th task force.",
+  "body_zh": "中国海军第49批护航编队将赴亚丁湾、索马里海域执行护航任务\n中新社北京8月11日电 据中国国防部网站11日消息，8月中旬开始，由中国海军导弹驱逐舰昆明舰、导弹护卫舰岳阳舰、综合补给舰骆马湖舰组成的第49批护航编队，将赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。中国海军是海洋命运共同体理念的坚定建设者、维护者，始终秉持和平、发展、合作、共赢理念，为保障国际海上通道安全、维护地区和平稳定贡献中国力量。(完)\n国内新闻精选：\n- 2026年08月11日 11:07:24\n- 2026年08月11日 10:12:28\n- 2026年08月10日 22:14:45\n- 2026年08月10日 17:14:52\n- 2026年08月10日 16:57:51\n- 2026年08月09日 21:12:04\n- 2026年08月09日 19:19:07\n- 2026年08月09日 16:14:36\n- 2026年08月09日 14:30:39\n- 2026年08月09日 07:11:46",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "护航任务",
+    "海洋命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PLA-NAVY",
+      "name_zh": "中国海军",
+      "name_en": "Chinese Navy"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "亚丁湾",
+      "name_en": "Gulf of Aden"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "索马里海域",
+      "name_en": "Somali Waters"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "护航任务",
+      "name_en": "Escort Mission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋命运共同体",
+      "name_en": "Maritime Community with a Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "中国海军",
+    "亚丁湾",
+    "索马里海域",
+    "护航任务",
+    "海洋命运共同体"
+  ],
+  "tags_en": [
+    "Chinese Navy",
+    "Gulf of Aden",
+    "Somali Waters",
+    "Escort Mission",
+    "Maritime Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PLA-NAVY"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260811-chinanews_gn-0413fe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

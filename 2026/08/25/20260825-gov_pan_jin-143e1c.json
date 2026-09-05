@@ -1,0 +1,92 @@
+{
+  "id": "20260825-gov_pan_jin-143e1c",
+  "source": "gov_pan_jin",
+  "source_name_zh": "盘锦市政府网",
+  "source_name_en": "盘锦 Government Portal",
+  "source_media_id": "gov-cn-prefecture-pan_jin",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.panjin.gov.cn/html/1737/2026-08-25/content-153141.html",
+  "title_zh": "市政府召开九届第113次党组会议",
+  "title_en": "Panjin Municipal Government Holds 113th Party Group Meeting",
+  "summary_zh": "8月25日，盘锦市政府召开九届第113次党组会议，传达学习习近平总书记近期重要讲话和重要文章精神，市长邢鹏主持并讲话。",
+  "summary_en": "On Aug 25, Panjin Municipal Government held its 113th Party Group meeting to convey Xi Jinping's recent speeches and articles, chaired by Mayor Xing Peng.",
+  "body_zh": "市政府召开九届第113次党组会议\n发布时间：2026-08-25\n浏览次数：37次\n8月25日，市政府召开九届第113次党组会议，传达学习习近平总书记近期重要讲话、重要文章精神，市委副书记、市长、市政府党组书记邢鹏主持会议并讲话。\n会议指出，要深刻领会习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，深刻感悟江泽民同志坚定如磐的政治信仰、真挚深厚的为民情怀、与时俱进的创新精神、深谋远虑的战略思维、坚毅果敢的非凡胆略，从中汲取奋进新征程、建功新时代的强大智慧和力量，以务实担当的过硬作风、锐意进取的奋进姿态，凝心聚力抓好盘锦经济社会发展各项工作，为奋进“十五五”、书写中国式现代化盘锦篇章贡献力量。\n会议强调，要深入学习贯彻习近平总书记重要文章《提高防灾减灾救灾能力》精神，树牢底线思维、极限思维，坚决克服麻痹思想和侥幸心理，统筹高质量发展和高水平安全，牢牢守住不发生重特大灾害事故底线。要加强事前预防，常态化开展风险隐患排查整治，补齐防洪排涝抗灾等基础设施短板，压降存量风险、遏制新增风险。要完善应急处置体系，落实监测预警和“叫应”机制，完善各类灾害应急预案，提升灾害处置应对能力。要加强宣传教育，做好舆论引导，增强群众防灾避险意识，推动形成全社会共同参与的防灾减灾救灾工作格局。\n会议还传达学习了国家“十五五”规划有关文件精神。\n市政府党组成员出席会议，相关同志列席会议。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "party",
+  "keywords": [
+    "传达学习",
+    "防灾减灾",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-PJ",
+      "name_zh": "盘锦",
+      "name_en": "Panjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传达学习",
+      "name_en": "Conveying and Learning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盘锦",
+    "传达学习",
+    "防灾减灾",
+    "十五五规划",
+    "习近平"
+  ],
+  "tags_en": [
+    "Panjin",
+    "Conveying and Learning",
+    "Disaster Prevention and Mitigation",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-PJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260825-gov_pan_jin-143e1c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

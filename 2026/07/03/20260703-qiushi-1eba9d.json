@@ -1,0 +1,118 @@
+{
+  "id": "20260703-qiushi-1eba9d",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_url": "http://www.qstheory.cn/20260703/1caabb3a8bff4b5ba5dd8bf0447a8b7c/c.html",
+  "title_zh": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺",
+  "title_en": "Central Military Commission Holds General Rank Promotion Ceremony; Xi Jinping Presents Orders and Congratulates Officers",
+  "summary_zh": "7月3日，中央军委在北京举行晋升上将军衔仪式，习近平出席并向张曙光、王刚颁发命令状。",
+  "summary_en": "On July 3, the Central Military Commission held a promotion ceremony for General rank in Beijing, where Xi Jinping presented orders to Zhang Shuguang and Wang Gang.",
+  "body_zh": "新华社北京7月3日电（记者梅常伟）中央军委晋升上将军衔仪式3日在北京八一大楼举行。中央军委主席习近平出席晋衔仪式。\n上午10时30分许，晋衔仪式在庄严的中华人民共和国国歌声中开始。中央军委副主席张升民主持晋衔仪式，宣读中央军委主席习近平签署的晋升上将军衔命令。\n习近平向晋升上将军衔的中央军委纪律检查委员会书记兼中央军委监察委员会主任张曙光、空军司令员王刚颁发命令状，表示祝贺。佩戴上将军衔的2位军官向习近平敬礼，向参加仪式的全体同志敬礼，全场响起热烈掌声。\n晋衔仪式在嘹亮的中国人民解放军军歌声中结束。随后，习近平等领导同志同晋升上将军衔的军官合影。\n军委机关各部门、军队驻京有关单位主要负责同志等参加晋衔仪式。\n网站编辑 -\n王雅雯\n韩辰 审核 - 刘小畅",
+  "image_url": null,
+  "published_at": "2026-07-03T12:00:00+00:00",
+  "event_date": "2026-07-03",
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "personnel",
+  "keywords": [
+    "军衔晋升",
+    "军队建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-shengmin",
+      "name_zh": "张升民",
+      "name_en": "Zhang Shengmin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央军委",
+      "name_en": "Central Military Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军衔晋升",
+      "name_en": "Military Rank Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军队建设",
+      "name_en": "Military Construction"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "张升民",
+    "中央军委",
+    "北京",
+    "军衔晋升",
+    "军队建设"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Zhang Shengmin",
+    "Central Military Commission",
+    "Beijing",
+    "Military Rank Promotion",
+    "Military Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "zhuang-yan-ningxia",
+      "xi-jinping",
+      "zhang-shengmin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央军委",
+        "name_en": "Central Military Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260703-qiushi-1eba9d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/07/03/VIDEZQQue6pdTmCNLV8OhN4c260703.shtml",
+      "title_zh": "[视频]中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺",
+      "published_at": "2026-07-03T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074235.htm",
+      "title_zh": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺",
+      "published_at": "2026-07-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

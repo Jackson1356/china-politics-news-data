@@ -1,0 +1,111 @@
+{
+  "id": "20260627-gov_cn_yaowen-66668c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073522.htm",
+  "title_zh": "全国人民代表大会常务委员会关于批准2025年中央决算的决议",
+  "title_en": "Resolution of the Standing Committee of the National People's Congress on Approving the 2025 Central Final Accounts",
+  "summary_zh": "2026年6月26日，第十四届全国人大常委会第二十三次会议在北京举行，审议并批准了2025年中央决算。",
+  "summary_en": "On June 26, 2026, the 23rd meeting of the Standing Committee of the 14th NPC in Beijing reviewed and approved the 2025 central final accounts.",
+  "body_zh": "新华社北京6月26日电\n全国人民代表大会常务委员会关于批准2025年中央决算的决议\n（2026年6月26日第十四届全国人民代表大会常务委员会第二十三次会议通过）\n第十四届全国人民代表大会常务委员会第二十三次会议听取了财政部部长蓝佛安受国务院委托作的《国务院关于2025年中央决算的报告》和审计署审计长侯凯受国务院委托作的《国务院关于2025年度中央预算执行和其他财政收支的审计工作报告》。会议结合审议审计工作报告，对2025年中央决算草案和中央决算报告进行了审查。会议同意全国人民代表大会财政经济委员会提出的审查结果报告，决定批准2025年中央决算。",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "economy",
+  "keywords": [
+    "中央决算",
+    "财政监督"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人民代表大会常务委员会",
+      "name_en": "Standing Committee of the National People's Congress"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "NAO",
+      "name_zh": "审计署",
+      "name_en": "National Audit Office"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央决算",
+      "name_en": "Central Final Accounts"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政监督",
+      "name_en": "Fiscal Supervision"
+    }
+  ],
+  "tags_zh": [
+    "全国人民代表大会常务委员会",
+    "国务院",
+    "财政部",
+    "审计署",
+    "北京",
+    "中央决算",
+    "财政监督"
+  ],
+  "tags_en": [
+    "Standing Committee of the National People's Congress",
+    "State Council",
+    "Ministry of Finance",
+    "National Audit Office",
+    "Beijing",
+    "Central Final Accounts",
+    "Fiscal Supervision"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL",
+      "MOF",
+      "NAO"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人民代表大会常务委员会",
+        "name_en": "Standing Committee of the National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260627-gov_cn_yaowen-66668c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

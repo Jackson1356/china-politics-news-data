@@ -1,0 +1,81 @@
+{
+  "id": "20260702-xinhua_ln-14de9a",
+  "source": "xinhua_ln",
+  "source_name_zh": "新华网 辽宁",
+  "source_name_en": "Xinhua Liaoning",
+  "source_url": "http://ln.news.cn/20260702/e50aebe1b52545e98247fc1a4196aa31/c.html",
+  "title_zh": "国铁沈阳局暑运启动 优化运力护航暑期出行",
+  "title_en": "China Railway Shenyang Group Launches Summer Transport to Optimize Capacity",
+  "summary_zh": "7月1日，国铁沈阳局启动暑运，通过启用新运行图和增开临客，预计发送旅客4650万人次，以满足暑期出行需求。",
+  "summary_en": "On July 1, China Railway Shenyang Group launched its summer transport plan, optimizing schedules and increasing trains to handle an estimated 46.5 million passengers.",
+  "body_zh": "全国铁路暑运7月1日正式开启，国铁沈阳局同步启用新列车与暑期运行图，全力护航暑期出行。本次暑运至8月31日结束，国铁沈阳局预计发送旅客4650万人次，同比上涨4.1%。全局计划开行临客103.5对，沈大增开标杆列车，压缩出行时长，延伸高铁线路覆盖辽南多地，优化进京车次，加密沈白高铁班次，全方位满足旅游、学生、探亲出行需求。\n记者：姜兆臣、马浩然\n新华社音视频部制作\n记者：姜兆臣、马浩然\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "industry",
+  "keywords": [
+    "暑运",
+    "交通运输"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国铁沈阳局",
+      "name_en": "China Railway Shenyang Group"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "暑运",
+      "name_en": "Summer Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    }
+  ],
+  "tags_zh": [
+    "国铁沈阳局",
+    "沈阳",
+    "暑运",
+    "交通运输"
+  ],
+  "tags_en": [
+    "China Railway Shenyang Group",
+    "Shenyang",
+    "Summer Transport",
+    "Transportation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国铁沈阳局",
+        "name_en": "China Railway Shenyang Group"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260702-xinhua_ln-14de9a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

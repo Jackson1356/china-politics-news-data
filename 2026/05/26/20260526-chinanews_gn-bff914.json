@@ -1,0 +1,95 @@
+{
+  "id": "20260526-chinanews_gn-bff914",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/05-27/10629384.shtml",
+  "title_zh": "王毅会见哥伦比亚外长比利亚维森西奥",
+  "title_en": "Wang Yi Meets Colombian Foreign Minister Villa Vicencio",
+  "summary_zh": "2026年5月26日，王毅在纽约会见哥伦比亚外长比利亚维森西奥，双方就深化中哥战略伙伴关系及共建“一带一路”合作进行交流。",
+  "summary_en": "On May 26, 2026, Wang Yi met with Colombian Foreign Minister Villa Vicencio in New York to discuss deepening the China-Colombia strategic partnership and Belt and Road cooperation.",
+  "body_zh": "王毅会见哥伦比亚外长比利亚维森西奥\n新华社纽约5月26日电 当地时间26日，中共中央政治局委员、外交部长王毅在纽约主持联合国安理会高级别会议期间会见哥伦比亚外长比利亚维森西奥。\n王毅感谢比利亚维森西奥专程出席此次高级别会议，中方将支持哥方担任安理会6月轮值主席国。在两国元首战略引领下，中哥关系取得突破性进展，特别是哥方加入共建“一带一路”大家庭一年来，务实合作取得丰硕成果，给两国人民带来实实在在福祉。中方始终从战略高度看待和发展中哥关系，支持哥伦比亚国内和平进程，赞赏哥方长期恪守一个中国原则。发展同包括哥方在内的拉美和加勒比国家友好关系始终是中国外交的传统，中拉关系发展不针对第三方。中方愿同哥方在相互尊重、平等互利基础上推进各领域合作，助力中哥战略伙伴关系行稳致远。\n比利亚维森西奥表示很高兴应邀出席此次高级别会议，哥方即将接任安理会轮值主席国，期待得到中方支持。联合国由各国缔造，旨在维护和平，防止战争，当前需要与时俱进革新完善。中国是爱好和平、重信守诺的国家。加强同中国合作，是拉美地区各国的共同选择。佩特罗总统高度重视对华关系，两度访华均取得积极成果。哥方坚持一个中国原则，愿同中方加强经贸投资、基础设施等领域务实合作，倡导文明对话，推进两国战略伙伴关系，并为拉中关系长远发展作出新的贡献。\n国内新闻精选：\n- 2026年05月27日 13:41:32\n- 2026年05月27日 08:21:59\n- 2026年05月27日 07:47:46\n- 2026年05月26日 21:54:27\n- 2026年05月26日 21:45:26\n- 2026年05月26日 20:57:51\n- 2026年05月26日 20:48:39\n- 2026年05月26日 17:13:52\n- 2026年05月26日 17:04:45\n- 2026年05月26日 17:03:07",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中哥关系",
+    "一带一路",
+    "战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "纽约",
+      "name_en": "New York"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中哥关系",
+      "name_en": "China-Colombia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "纽约",
+    "中哥关系",
+    "一带一路",
+    "战略伙伴关系"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "New York",
+    "China-Colombia Relations",
+    "Belt and Road Initiative",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260526-chinanews_gn-bff914",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260527/3ac0addcbd8b4a7fbca7c1585091bcd8/c.html",
+      "title_zh": "王毅会见哥伦比亚外长比利亚维森西奥",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

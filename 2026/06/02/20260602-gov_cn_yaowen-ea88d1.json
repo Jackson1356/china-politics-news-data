@@ -1,0 +1,79 @@
+{
+  "id": "20260602-gov_cn_yaowen-ea88d1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7070947.htm",
+  "title_zh": "助力三夏抢收 设备更新政策发力显效",
+  "title_en": "Equipment Update Policy Boosts 'Three Summers' Grain Harvest",
+  "summary_zh": "中国推进大规模设备更新，将粮食干燥机等农机纳入补贴范围，有效助力夏粮抢收并带动相关产业发展。",
+  "summary_en": "China is promoting large-scale equipment updates, including subsidies for grain dryers and drones, to support the summer grain harvest and boost related industries.",
+  "body_zh": "今年，我国继续加力推进大规模设备更新，最近一段时间，在夏粮主产区，更新上岗的农业设备派上了大用场。\n眼下正值“三夏”抢收关键期，在安徽马鞍山和县，趁着这两天天气转晴，当地正组织加紧抢收小麦。受前期持续阴雨影响，今年不少新收小麦含水率超过30%，存储难度加大，快速烘干成为实现夏粮颗粒归仓的关键。\n2025年，国家将粮食干燥机、植保无人机等6个种类的农机新纳入补贴范围。这家农业企业拿到30万元资金补贴，用于更新粮食烘干设备，为今年“三夏”应对雨情提供了实打实的支撑，同时，政策也带动了新型农机制造、售后服务等配套产业发展。\n截至目前，国家今年已累计安排“两新”设备更新资金1851亿元，占全年计划的92%。工业、能源电力、交通运输、物流等设备更新重点领域也在优化申报条件和审核流程，加大对中小企业设备更新的支持力度。",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "设备更新",
+    "三夏抢收",
+    "农业补贴"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "设备更新",
+      "name_en": "Equipment Update"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三夏抢收",
+      "name_en": "Summer Grain Harvest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业补贴",
+      "name_en": "Agricultural Subsidies"
+    }
+  ],
+  "tags_zh": [
+    "安徽",
+    "设备更新",
+    "三夏抢收",
+    "农业补贴"
+  ],
+  "tags_en": [
+    "Anhui",
+    "Equipment Update",
+    "Summer Grain Harvest",
+    "Agricultural Subsidies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260602-gov_cn_yaowen-ea88d1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

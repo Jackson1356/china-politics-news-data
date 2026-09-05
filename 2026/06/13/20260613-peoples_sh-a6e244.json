@@ -1,0 +1,111 @@
+{
+  "id": "20260613-peoples_sh-a6e244",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_url": "http://sh.people.com.cn/n2/2026/0613/c134768-41609312.html",
+  "title_zh": "中国气象局启动重大气象灾害（暴雨）四级应急响应",
+  "title_en": "China Meteorological Administration Initiates Level IV Emergency Response for Heavy Rain",
+  "summary_zh": "2026年6月12日，中国气象局针对南方强降雨及多地暴雨启动重大气象灾害四级应急响应，并联合水利部、自然资源部发布相关预警。",
+  "summary_en": "On June 12, 2026, the China Meteorological Administration initiated a Level IV emergency response for heavy rain and issued joint warnings with the Ministry of Water Resources and the Ministry of Natural Resources.",
+  "body_zh": "中国气象局启动重大气象灾害（暴雨）四级应急响应\n本报北京6月12日电 （记者蒋雪鸿）气象监测显示，6月12日白天，云南、广东及台湾岛等地出现大雨或暴雨，局地大暴雨，黑龙江、河北、山西等地出现中到大雨，局地暴雨。\n中央气象台预计，12日夜间起，南方地区将进入强降雨集中期。未来3天，东北华北等地多雷阵雨。经综合研判和应急会商，12日，中国气象局启动重大气象灾害（暴雨）四级应急响应。12日18时，中央气象台继续发布暴雨蓝色预警；水利部和中国气象局联合发布黄色山洪灾害气象预警；自然资源部与中国气象局联合发布黄色地质灾害气象风险预警。\n《 人民日报 》（ 2026年06月13日 04 版）",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "industry",
+  "keywords": [
+    "暴雨",
+    "应急响应",
+    "气象灾害"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "暴雨",
+      "name_en": "Heavy Rain"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气象灾害",
+      "name_en": "Meteorological Disaster"
+    }
+  ],
+  "tags_zh": [
+    "中国气象局",
+    "水利部",
+    "自然资源部",
+    "北京",
+    "暴雨",
+    "应急响应",
+    "气象灾害"
+  ],
+  "tags_en": [
+    "China Meteorological Administration",
+    "Ministry of Water Resources",
+    "Ministry of Natural Resources",
+    "Beijing",
+    "Heavy Rain",
+    "Emergency Response",
+    "Meteorological Disaster"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR",
+      "MNR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260613-peoples_sh-a6e244",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
