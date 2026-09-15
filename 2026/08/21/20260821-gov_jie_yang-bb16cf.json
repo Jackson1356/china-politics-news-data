@@ -1,0 +1,90 @@
+{
+  "id": "20260821-gov_jie_yang-bb16cf",
+  "source": "gov_jie_yang",
+  "source_name_zh": "揭阳市政府网",
+  "source_name_en": "揭阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-jie_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jieyang.gov.cn/xwdt/xwtt/content/post_1040680.html",
+  "title_zh": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+  "title_en": "Xi Jinping Congratulates Hakainde Hichilema on Re-election as Zambian President",
+  "summary_zh": "8月20日，国家主席习近平致电哈凯恩德·希奇莱马，祝贺他当选连任赞比亚共和国总统，并表示愿共同推动中赞关系发展。",
+  "summary_en": "On August 20, President Xi Jinping sent a message to Hakainde Hichilema, congratulating him on his re-election as President of Zambia and expressing willingness to advance bilateral ties.",
+  "body_zh": "习近平致电祝贺希奇莱马当选连任赞比亚总统\n作者：\n发布时间：2026-08-21 08:32:59\n浏览次数：-\n【打印】\n8月20日，国家主席习近平致电哈凯恩德·希奇莱马，祝贺他当选连任赞比亚共和国总统。\n习近平指出，近年来，我们两次会晤，共同引领中赞关系发展。两国政治互信持续深化，务实合作成果丰硕，在多边事务中密切协调和配合。我高度重视中赞关系发展，愿同希奇莱马总统一道努力，落实中非合作论坛北京峰会成果，弘扬传统友好，坚定相互支持，持续提升互利合作水平，引领中赞全面战略合作伙伴关系不断迈上新台阶，更好造福两国人民。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中赞关系",
+    "中非合作论坛"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "希奇莱马",
+      "name_en": "Hakainde Hichilema"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中赞关系",
+      "name_en": "China-Zambia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作论坛",
+      "name_en": "Forum on China-Africa Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "希奇莱马",
+    "中赞关系",
+    "中非合作论坛"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Hakainde Hichilema",
+    "China-Zambia Relations",
+    "Forum on China-Africa Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260821-cpcnews-91f98b",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202608/t20260821_175298.html",
+      "title_zh": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+      "published_at": "2026-08-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

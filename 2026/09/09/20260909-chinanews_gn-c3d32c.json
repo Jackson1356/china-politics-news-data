@@ -1,0 +1,97 @@
+{
+  "id": "20260909-chinanews_gn-c3d32c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-09/10693275.shtml",
+  "title_zh": "外交部回应美方涉中国人工智能言论：望美方不要对中国进行不实指责和抹黑",
+  "title_en": "Foreign Ministry Responds to US Remarks on China's AI, Urges No Unfair Accusations",
+  "summary_zh": "9月9日，外交部发言人毛宁在北京例行记者会上回应美方涉华AI言论，表示中国AI发展是高水平科技自立自强的成果，望美方不要不实指责并加强合作。",
+  "summary_en": "On September 9, Foreign Ministry Spokesperson Mao Ning responded to US remarks on China's AI at a regular press conference in Beijing, stating China's AI development stems from self-reliance and openness, urging the US to refrain from unfair accusations and enhance cooperation.",
+  "body_zh": "外交部回应美方涉中国人工智能言论：望美方不要对中国进行不实指责和抹黑\n中新网北京9月9日电 (记者 李京泽)中国外交部发言人毛宁9日主持例行记者会。\n毛宁：具体的报告我没有看。但是，我可以告诉你的是中国人工智能发展是高水平科技自立自强的成果，也得益于我们始终秉持共商、共建、共享和开放、合作的理念。我们始终认为，各方应当加强合作，维护人工智能开放、包容、普惠、向善发展，服务全人类的福祉。\n我们希望美方能够认真落实两国元首达成的重要共识，不要对中国进行不实的指责和抹黑，中美都是人工智能大国，应当加强合作。(完)\n国内新闻精选：\n- 2026年09月09日 13:40:25\n- 2026年09月09日 11:48:12\n- 2026年09月09日 11:30:05\n- 2026年09月09日 11:11:50\n- 2026年09月09日 11:07:44\n- 2026年09月09日 10:20:09\n- 2026年09月08日 17:15:40\n- 2026年09月08日 17:09:50\n- 2026年09月08日 17:03:48\n- 2026年09月08日 11:08:45",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "人工智能",
+    "中美关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "人工智能",
+    "中美关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Artificial Intelligence",
+    "China-US Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁日"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260909-chinanews_gn-c3d32c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693282.shtml",
+      "title_zh": "中方驳斥所谓“抽梯子”言论：立己达人是对外合作价值底色",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

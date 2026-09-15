@@ -1,0 +1,93 @@
+{
+  "id": "20260802-local_hong_wang_cn_hn-b478c9",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/content/646042/94/16139398.html",
+  "title_zh": "学习·故事丨古厝焕新生",
+  "title_en": "Learning Story: Ancient Houses Get New Life",
+  "summary_zh": "习近平总书记强调政绩观关乎立党为公、执政为民，回顾其在福州任上叫停林觉民故居拆迁、保护三坊七巷历史街区的往事。",
+  "summary_en": "President Xi Jinping emphasizes that the view on political achievements concerns serving the people, recalling his past actions in Fuzhou to stop the demolition of Lin Juemin's former residence and protect the Three Lanes and Seven Alleys historic district.",
+  "body_zh": "“十五五”开局之年“第一课”，习近平总书记指出：“政绩观问题是一个根本性问题，关乎立党为公、执政为民。”\n政绩之本，在于为民。为民造福，一直是习近平总书记矢志不渝的追求。\n上世纪90年代初，时任福州市委书记的习近平得知林觉民故居面临部分拆除，立即叫停拆迁。在林觉民故居召开文物工作现场办公会时，他指出：“要在我们的手里，把全市的文物保护、修复、利用搞好，不仅不能让它们受到破坏，而且还要让它更加增辉添彩，传给后代。”由此展开的三坊七巷历史文化街区保护工作，为福州保存了完整的历史记忆。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "party",
+  "keywords": [
+    "文物保护",
+    "政绩观",
+    "历史文化街区"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文物保护",
+      "name_en": "Cultural Relics Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政绩观",
+      "name_en": "View on Political Achievements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史文化街区",
+      "name_en": "Historic Cultural District"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "福州",
+    "文物保护",
+    "政绩观",
+    "历史文化街区"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Fuzhou",
+    "Cultural Relics Protection",
+    "View on Political Achievements",
+    "Historic Cultural District"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260802-local_hong_wang_cn_hn-b478c9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260630-gov_cn_yaowen-b39590",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073844.htm",
+  "title_zh": "2025年我国水运多项指标稳居世界第一",
+  "title_en": "China's Water Transport Indicators Rank First Globally in 2025",
+  "summary_zh": "国务院新闻办公室6月30日举行发布会，交通运输部数据显示2025年我国港口货物吞吐量和集装箱吞吐量均稳居世界第一。",
+  "summary_en": "The State Council Information Office held a press conference on June 30, reporting that China's port cargo and container throughput ranked first globally in 2025.",
+  "body_zh": "国务院新闻办公室今天（6月30日）举行新闻发布会。交通运输部数据显示，2025年，我国水路货物周转量近15万亿吨公里，在综合交通运输体系中的占比超过一半。目前，我国环渤海、长三角、粤港澳三大世界级港口群基本建成。我国国际海运量占全球海运量的三分之一，2025年港口货物吞吐量183亿吨，集装箱吞吐量3.54亿标箱，均稳居世界第一。全球货物吞吐量排名前10的港口中，中国占8个；集装箱吞吐量排名前10的港口中，中国占6个。",
+  "image_url": null,
+  "published_at": "2026-06-30T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "水运",
+    "港口建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水运",
+      "name_en": "Water Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港口建设",
+      "name_en": "Port Construction"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "交通运输部",
+    "水运",
+    "港口建设"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Ministry of Transport",
+    "Water Transport",
+    "Port Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260630-gov_cn_yaowen-b39590",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

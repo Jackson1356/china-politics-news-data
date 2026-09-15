@@ -1,0 +1,113 @@
+{
+  "id": "20260914-cpcnews-f46c5c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://cpc.people.com.cn/n1/2026/0914/c435113-40798134.html",
+  "title_zh": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+  "title_en": "Xi Jinping Attends Second Session of 18th BRICS Leaders' Meeting and Delivers Important Speech",
+  "summary_zh": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+  "summary_en": "On the morning of September 13 local time, President Xi Jinping attended the second session of the 18th BRICS Leaders' Meeting in New Delhi and delivered an important speech titled \"Building a Solid Foundation for BRICS Cooperation and Strengthening the Power of the Global South.\"",
+  "body_zh": "登录人民网通行证 立即注册\n忘记密码？\n当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。\n学习路上\n时习之\n习近平系列重要讲话数据库\n中央文件\n学习宣传贯彻党的二十大精神\n跟着总书记学党史数据库\n中央和国家机关建设模范机关\n言之有理\n学习文选",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-13",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "全球南方",
+    "多边外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球南方",
+      "name_en": "Global South"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边外交",
+      "name_en": "Multilateral Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "新德里",
+    "金砖合作",
+    "全球南方",
+    "多边外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New Delhi",
+    "BRICS Cooperation",
+    "Global South",
+    "Multilateral Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260914-cpcnews-f46c5c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "http://www.xa.gov.cn/xw/jrgz/2099312124711002114.html",
+      "title_zh": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": null,
+      "url": "http://www.qstheory.cn/20260913/b08352093ba2409cb009cff74c1b4683/c.html",
+      "title_zh": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    },
+    {
+      "source": "gov_long_yan",
+      "source_tier": null,
+      "url": "https://www.longyan.gov.cn/qtgn/syttxw/202609/t20260915_2313097.htm",
+      "title_zh": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

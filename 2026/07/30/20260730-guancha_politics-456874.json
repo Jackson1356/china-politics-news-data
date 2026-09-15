@@ -1,0 +1,95 @@
+{
+  "id": "20260730-guancha_politics-456874",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_07_30_825580.shtml",
+  "title_zh": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+  "title_en": "CPC Central Political Bureau Holds Meeting to Decide on Fifth Plenary Session and Analyze Economic Situation",
+  "summary_zh": "中共中央总书记习近平主持召开中共中央政治局会议，决定召开二十届五中全会，并分析研究当前经济形势和经济工作。",
+  "summary_en": "Xi Jinping chaired a CPC Central Political Bureau meeting, deciding to convene the 5th Plenary Session of the 20th Central Committee and reviewing current economic conditions.",
+  "body_zh": "上半年国内游戏市场收入超1884亿元，同比增长12%2026-07-30 13:50 观网游戏\n独家对话：“在大陆10年，我看见一个新世界”2026-07-30 12:00 观察者头条\n首次超四成！我国发电“含绿量”再创新高2026-07-30 11:55 能源战略\n我国成功发射通信技术试验卫星二十七号A/B星2026-07-30 10:29 航空航天\n甘肃陇南升级发布暴雨红色预警2026-07-30 10:29\n中原证券原董事长菅明军去世2026-07-29 22:41\n吉林汪清提升防汛应急响应至一级，进入紧急防汛期2026-07-29 19:59\n脱产读博仍享受单位薪资福利67余万，毕业后违约辞职，法院判了2026-07-29 18:41\n《反网络暴力法》公开征求意见2026-07-29 18:24 依法治国\n福建海警喊话：金门船只蓄意抵近拍摄，请立即调整航向2026-07-29 17:52 两岸关系\n受贿6253万，徐宪平被判刑十五年2026-07-29 17:16 廉政风暴\n重庆彭水00后网格员确认遇难：组织群众转移，自己未及时撤离2026-07-29 16:01\n张莹辞去江西省副省长职务2026-07-29 15:14\n广西日报王虹特稿《王的猜想》火了，一份炒到65元，报社称加急赶印2026-07-29 13:38\n14岁女生提醒同学上课不要睡觉，被巡查老师扯发打脸？当地通报2026-07-29 13:20\nC919高原型首架机完成首飞2026-07-29 11:03 中国大飞机\n安徽省桐城市政府主导违法采砂被约谈2026-07-29 10:53\n重庆两出租车飙车追逐，乘客一家老小吓得尖叫要下车，警方通报：刑拘司机2026-07-29 10:14\n美国防部将部分中国科研机构列入制裁清单，商务部回应2026-07-29 09:19 中美关系\n23日以来 彭水山体崩塌现场累计新搜寻确认出30名遇难者2026-07-29 08:08",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会",
+    "经济形势"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央政治局",
+      "name_en": "CPC Central Political Bureau"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会",
+      "name_en": "5th Plenary Session of the 20th Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济形势",
+      "name_en": "Economic Situation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央政治局",
+    "二十届五中全会",
+    "经济形势"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Political Bureau",
+    "5th Plenary Session of the 20th Central Committee",
+    "Economic Situation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央政治局",
+        "name_en": "CPC Central Political Bureau"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260730-guancha_politics-456874",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/gwyxx.shtml",
+      "title_zh": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

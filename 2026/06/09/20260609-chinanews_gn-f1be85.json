@@ -1,0 +1,118 @@
+{
+  "id": "20260609-chinanews_gn-f1be85",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-09/10636894.shtml",
+  "title_zh": "谌贻琴访问保加利亚",
+  "title_en": "Chen Yiqin Visits Bulgaria",
+  "summary_zh": "6月6日至8日，国务委员谌贻琴率团访问保加利亚，会见保方领导人并签署部门间合作意向书，旨在推动中保战略伙伴关系发展。",
+  "summary_en": "From June 6 to 8, State Councilor Chen Yiqin led a delegation to Bulgaria, meeting with Bulgarian leaders and signing a cooperation memorandum to enhance the strategic partnership.",
+  "body_zh": "谌贻琴访问保加利亚\n新华社索非亚6月8日电 应保加利亚政府邀请，6月6日至8日，国务委员谌贻琴率团访保，同保总统约托娃、总理拉德夫分别会见，同副总理多内夫举行会谈。\n谌贻琴介绍了中国经济社会发展成就和“十五五”规划民生领域重点工作，表示中方高度重视中保关系发展，愿同保方密切政治、经济、民生、人文等各领域交流合作，加强多边对话协调，推动中保战略伙伴关系实现更大发展。保方领导人高度评价保中关系，表示两国各领域合作潜力很大，愿同中方携手持续丰富两国战略伙伴关系内涵，推动两国互利合作结出更多硕果。\n访保期间，谌贻琴同多内夫副总理共同见证中国人力资源和社会保障部与保加利亚劳动和社会政策部签署部门间合作意向书，并调研保加利亚职业技能培训情况。\n国内新闻精选：\n- 2026年06月09日 13:25:16\n- 2026年06月09日 11:53:10\n- 2026年06月09日 11:04:41\n- 2026年06月09日 10:04:09\n- 2026年06月09日 09:39:37\n- 2026年06月08日 14:33:01\n- 2026年06月08日 13:14:49\n- 2026年06月08日 12:32:44\n- 2026年06月08日 11:26:24\n- 2026年06月08日 06:37:30",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-06",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "战略伙伴关系",
+    "外交访问",
+    "民生合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Chen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": "MOHRSS",
+      "name_zh": "人力资源和社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "保加利亚劳动和社会政策部",
+      "name_en": "Ministry of Labour and Social Policy of Bulgaria"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "保加利亚",
+      "name_en": "Bulgaria"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生合作",
+      "name_en": "Livelihood Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "人力资源和社会保障部",
+    "保加利亚劳动和社会政策部",
+    "保加利亚",
+    "战略伙伴关系",
+    "外交访问",
+    "民生合作"
+  ],
+  "tags_en": [
+    "Chen Yiqin",
+    "Ministry of Human Resources and Social Security",
+    "Ministry of Labour and Social Policy of Bulgaria",
+    "Bulgaria",
+    "Strategic Partnership",
+    "Diplomatic Visit",
+    "Livelihood Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "MOHRSS"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "保加利亚劳动和社会政策部",
+        "name_en": "Ministry of Labour and Social Policy of Bulgaria"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260609-chinanews_gn-f1be85",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071581.htm",
+      "title_zh": "谌贻琴访问保加利亚",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20260828-qiushi-eb2eb3",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260828/99336751ed7c4e3585e68892b62c1a08/c.html",
+  "title_zh": "中华人民共和国主席令（第八十四号）",
+  "title_en": "Order of the President of the People's Republic of China (No. 84)",
+  "summary_zh": "国家主席习近平发布主席令，公布全国人大常委会关于修改律师法的决定，自2026年9月1日起施行。",
+  "summary_en": "President Xi Jinping issued an order promulgating the NPC Standing Committee's decision to amend the Lawyers Law, effective September 1, 2026.",
+  "body_zh": "新华社北京8月28日电\n中华人民共和国主席令\n第八十四号\n《全国人民代表大会常务委员会关于修改〈中华人民共和国律师法〉的决定》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十四次会议于2026年8月28日通过，现予公布，自2026年9月1日起施行。\n中华人民共和国主席 习近平",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "party",
+  "keywords": [
+    "律师法修改",
+    "法治建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "律师法修改",
+      "name_en": "Amendment to the Lawyers Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法治建设",
+      "name_en": "Legal System Construction"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "律师法修改",
+    "法治建设"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Amendment to the Lawyers Law",
+    "Legal System Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260828-qiushi-eb2eb3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079442.htm",
+      "title_zh": "中华人民共和国主席令（第八十四号）",
+      "published_at": "2026-08-28T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079434.htm",
+      "title_zh": "中华人民共和国主席令（第八十一号）",
+      "published_at": "2026-08-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

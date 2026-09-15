@@ -1,0 +1,83 @@
+{
+  "id": "20260803-gov_cn_yaowen-e5306e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077364.htm",
+  "title_zh": "《综合运输服务发展“十五五”规划》印发",
+  "title_en": "Comprehensive Transport Service Development Plan for the 15th Five-Year Period Issued",
+  "summary_zh": "交通运输部等四部门近日印发《综合运输服务发展“十五五”规划》，提出到2030年基本建成现代化综合运输服务体系。",
+  "summary_en": "Four departments including the Ministry of Transport issued the 15th Five-Year Plan for comprehensive transport services, aiming to build a modern system by 2030.",
+  "body_zh": "《综合运输服务发展“十五五”规划》印发\n到2030年基本建成现代化综合运输服务体系\n交通运输部等四部门近日印发的《综合运输服务发展“十五五”规划》提出：到2030年，基本建成现代化综合运输服务体系，基本建成多层次、高品质、优体验的公众出行服务系统；到2035年，现代化综合运输服务体系更加完善，“全国123出行交通圈”“全球123快货物流圈”基本形成，更好支撑“人享其行、物畅其流”。\n根据规划，将通过加快旅客联程运输服务升级、提升综合交通枢纽服务质效、推动运输服务与旅游融合发展、促进小微型客车租赁高质量发展、推动多式联运高质量发展、深入推进农村客货邮融合发展等方式推动综合运输协同融合发展。\n规划提出，将从因地制宜确定城市交通发展模式、构建多层次城市公共交通服务网络、提升城市轨道交通运营服务水平、提升都市圈通勤出行效率、强化城市公共交通发展保障、推动出租车网约车协同发展、提升适老化无障碍交通出行服务水平等方面推动城市交通内涵式发展。\n（记者 韩鑫）",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "industry",
+  "keywords": [
+    "综合运输服务",
+    "现代化综合运输体系",
+    "多式联运"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "综合运输服务",
+      "name_en": "Comprehensive Transport Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化综合运输体系",
+      "name_en": "Modern Comprehensive Transport System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多式联运",
+      "name_en": "Multimodal Transport"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "综合运输服务",
+    "现代化综合运输体系",
+    "多式联运"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Comprehensive Transport Services",
+    "Modern Comprehensive Transport System",
+    "Multimodal Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-gov_cn_yaowen-e5306e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

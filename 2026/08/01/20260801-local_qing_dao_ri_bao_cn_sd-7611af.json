@@ -1,0 +1,105 @@
+{
+  "id": "20260801-local_qing_dao_ri_bao_cn_sd-7611af",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/465906_1.html",
+  "title_zh": "市领导参加“军事日”活动并走访慰问驻青部队",
+  "title_en": "Qingdao Municipal Leaders Attend 'Military Day' Event and Visit Garrison Troops",
+  "summary_zh": "8月1日，青岛市委书记曾赞荣、市长任刚等市领导集体参加“军事日”活动，并走访慰问驻青部队，代表市委市政府等向官兵致以节日祝贺。",
+  "summary_en": "On August 1, Qingdao municipal leaders, including Party Secretary Zeng Zanrong and Mayor Ren Gang, participated in the 'Military Day' event and visited troops stationed in Qingdao, extending festive greetings on behalf of the city.",
+  "body_zh": "市领导参加“军事日”活动并走访慰问驻青部队\n作者：薛华飞\n市领导参加“军事日”活动并走访慰问驻青部队\n曾赞荣任刚梅建华张惠参加\n青岛日报社/观海新闻8月1日讯 在庆祝中国人民解放军建军99周年之际，今天上午，市委书记、青岛警备区党委第一书记曾赞荣，市委副书记、市长任刚，市人大常委会主任梅建华，市委副书记、宣传部部长张惠等市领导集体参加“军事日”活动，并走访慰问驻青部队，代表市委、市人大常委会、市人民政府、市政协和全市人民，向驻青广大解放军指战员、武警部队官兵、军队文职人员、民兵预备役人员致以节日祝贺，向全市广大退役军人和其他优抚对象致以诚挚问候。\n活动中，曾赞荣一行来到武警青岛支队，详细了解支队历史沿革、建设发展等情况，参观武器、车辆等装备展示，现场观摩攀登索降、特种射击等军事训练课目，切身感受官兵过硬的军事技能和顽强的战斗作风，深入了解国防和军队现代化建设成果。\n开展“军事日”活动，是落实党管武装制度的一项重要内容，对深化军地协作、加强国防动员和后备力量建设具有重要意义。大家纷纷表示，通过参加本次活动，接受了一次深刻的国防教育，增强了爱国主义信念和国防意识。今后工作中，要深入学习贯彻习近平强军思想，坚决扛牢党管武装政治责任，全力支持部队建设和改革，用心用情为驻青部队官兵做好服务保障，不断深化全民国防教育，大力弘扬拥军优属、拥政爱民光荣传统，持续巩固发展坚如磐石的军政军民团结。\n有关市领导，青岛警备区、武警青岛支队有关负责同志，市国动委部分成员单位负责同志等参加活动。（青岛日报/观海新闻记者 薛华飞）",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "party",
+  "keywords": [
+    "国防教育",
+    "双拥工作",
+    "党管武装"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zeng-zanrong",
+      "name_zh": "曾赞荣",
+      "name_en": "Zeng Zanrong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张惠",
+      "name_en": "Zhang Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防教育",
+      "name_en": "National Defense Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Dual Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党管武装",
+      "name_en": "Party's Leadership over Armed Forces"
+    }
+  ],
+  "tags_zh": [
+    "曾赞荣",
+    "张惠",
+    "青岛",
+    "国防教育",
+    "双拥工作",
+    "党管武装"
+  ],
+  "tags_en": [
+    "Zeng Zanrong",
+    "Zhang Hui",
+    "Qingdao",
+    "National Defense Education",
+    "Dual Support Work",
+    "Party's Leadership over Armed Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "zeng-zanrong",
+      {
+        "id": null,
+        "name_zh": "张惠"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-QD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260801-local_qing_dao_ri_bao_cn_sd-7611af",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

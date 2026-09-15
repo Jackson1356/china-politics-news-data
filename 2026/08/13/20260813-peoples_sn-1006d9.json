@@ -1,0 +1,92 @@
+{
+  "id": "20260813-peoples_sn-1006d9",
+  "source": "peoples_sn",
+  "source_name_zh": "人民网 陕西",
+  "source_name_en": "People's Daily Shaanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sn.people.com.cn/n2/2026/0813/c226647-41667227.html",
+  "title_zh": "西康高铁启动试运行",
+  "title_en": "Xi'an-Ankang High-Speed Railway Starts Trial Operation",
+  "summary_zh": "8月13日，西康高铁正式进入试运行阶段，预计通车后西安至安康运行时间将缩短至1小时以内。",
+  "summary_en": "On Aug 13, the Xi'an-Ankang high-speed railway entered trial operation, cutting travel time to under 1 hour upon opening.",
+  "body_zh": "西康高铁启动试运行\n人民网西安8月13日电 （记者贾凯璐）8月13日，随着55501次试验动车组从西安东站驶出，穿越秦岭山脉驶向安康西站，西安至安康高速铁路（以下简称“西康高铁”）正式进入试运行阶段，为后续线路开通运营奠定基础。\n55501次试验动车组沿西康高铁行驶。\n高铁线路试运行即运行试验，是高速铁路在正式开通运营前，参照实际运营标准开展的全流程、全要素实战检验。“本次试运行周期不少于一个月，将严格按照运行图参数测试、故障模拟与应急救援演练、按图行车三个阶段分步实施，全面检验设备系统稳定性与运输组织适应性。”西安铁路局运输部副主任王宏涛介绍。\n西康高铁是国家中长期铁路网规划“八纵八横”高铁通道中包（银）海通道、京昆通道的重要组成部分，新建正线全长约171公里，设计时速350公里。西康高铁通车后，西安至安康铁路运行时间将由现在的3小时左右缩短至1小时以内，大幅缩短关中城市群与陕南秦巴山区的时空距离。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "industry",
+  "keywords": [
+    "高速铁路",
+    "交通基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "西安铁路局",
+      "name_en": "Xi'an Railway Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速铁路",
+      "name_en": "High-speed Railway"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transportation Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "西安铁路局",
+    "西安",
+    "高速铁路",
+    "交通基础设施"
+  ],
+  "tags_en": [
+    "Xi'an Railway Bureau",
+    "Xi'an",
+    "High-speed Railway",
+    "Transportation Infrastructure"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王宏涛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": [
+      {
+        "name_zh": "西安铁路局",
+        "name_en": "Xi'an Railway Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-peoples_sn-1006d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

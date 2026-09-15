@@ -1,0 +1,104 @@
+{
+  "id": "20240521-bjnews_zhengshier-7560cc",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1779718097129031.html",
+  "title_zh": "张尧学院士称号被撤销",
+  "title_en": "Academician Title of Zhang Yaoxue Revoked",
+  "summary_zh": "中国工程院决定撤销中南大学原校长张尧学的院士称号，此前张尧学因严重违纪违法被开除党籍和公职。",
+  "summary_en": "The Chinese Academy of Engineering has revoked the academician title of Zhang Yaoxue, former president of Central South University, following his expulsion from the Party and public office for serious disciplinary violations.",
+  "body_zh": "张尧学院士称号被撤销\n近日，中国工程院发布关于撤销张尧学院士称号的决定。\n决定称，中央纪委国家监委网站5月21日公布：中南大学原党委常委、校长张尧学严重违纪违法被开除党籍和公职。根据中国工程院有关规定，决定自2026年5月21日起撤销张尧学的院士称号。",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2024-05-21",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "违纪违法"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张尧学",
+      "name_en": "Zhang Yaoxue"
+    },
+    {
+      "kind": "institution",
+      "id": "CAE",
+      "name_zh": "中国工程院",
+      "name_en": "Chinese Academy of Engineering"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中南大学",
+      "name_en": "Central South University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "违纪违法",
+      "name_en": "Disciplinary Violations"
+    }
+  ],
+  "tags_zh": [
+    "张尧学",
+    "中国工程院",
+    "中南大学",
+    "反腐败",
+    "违纪违法"
+  ],
+  "tags_en": [
+    "Zhang Yaoxue",
+    "Chinese Academy of Engineering",
+    "Central South University",
+    "Anti-corruption",
+    "Disciplinary Violations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "程院"
+      }
+    ],
+    "institutions": [
+      "CAE"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中南大学",
+        "name_en": "Central South University"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20240521-bjnews_zhengshier-7560cc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1779714626129015.html",
+      "title_zh": "中国工程院：撤销张尧学院士称号",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

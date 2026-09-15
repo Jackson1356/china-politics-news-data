@@ -1,0 +1,101 @@
+{
+  "id": "20260814-gov_zi_bo-a0ece3",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/14/art_14322_3015695.html",
+  "title_zh": "山东召开重点考察调研成果协商座谈会",
+  "title_en": "Shandong Holds Consultative Symposium on Key Research Findings",
+  "summary_zh": "8月13日下午，山东省重点考察调研成果协商座谈会在济南召开，省委常委、统战部部长邓云锋主持并讲话，各民主党派省委会主委等介绍情况。",
+  "summary_en": "On the afternoon of August 13, Shandong held a consultative symposium on key research findings in Jinan. Deng Yunfeng, member of the Standing Committee and head of the United Front Work Department, presided and spoke.",
+  "body_zh": "山东召开重点考察调研成果协商座谈会\n8月13日下午，山东省重点考察调研成果协商座谈会在济南召开，省委常委、统战部部长邓云锋主持会议并讲话。民革省委会主委孙继业、民盟省委会主委吴立新、民建省委会主委庄文忠、民进省委会主委栾新、农工党省委会主委段青英、致公党省委会主委王桂英、九三学社省委会主委程林、省工商联副主席杨洪余、无党派人士代表刘均刚介绍重点考察调研情况。\n邓云锋充分肯定今年以来重点考察调研成效。希望各民主党派、工商联和无党派人士锚定“走在前、挑大梁”，进一步增强参政议政能力，聚焦经济社会高质量发展的战略重点，善于从全局高度审视问题，从实践维度提出对策，努力形成更多有政治高度、理论深度、实践厚度的高质量调研成果。省委、省人民政府各部门单位要认真履行统战工作责任制，持续深化对口联系，不断完善知情明政、成果采纳和落实反馈工作机制，为各民主党派、工商联和无党派人士履职尽责搭建更加广阔的舞台，齐心协力谱写中国式现代化山东篇章。（记者 董方舟）",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作",
+    "参政议政",
+    "协商座谈"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "deng-yunfeng",
+      "name_zh": "邓云锋",
+      "name_en": "Deng Yunfeng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multi-party Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "参政议政",
+      "name_en": "Political Participation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协商座谈",
+      "name_en": "Consultative Symposium"
+    }
+  ],
+  "tags_zh": [
+    "邓云锋",
+    "济南",
+    "多党合作",
+    "参政议政",
+    "协商座谈"
+  ],
+  "tags_en": [
+    "Deng Yunfeng",
+    "Jinan",
+    "Multi-party Cooperation",
+    "Political Participation",
+    "Consultative Symposium"
+  ],
+  "entities": {
+    "politicians": [
+      "deng-yunfeng",
+      {
+        "id": null,
+        "name_zh": "刘均刚"
+      },
+      {
+        "id": null,
+        "name_zh": "高质量"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260814-gov_zi_bo-a0ece3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

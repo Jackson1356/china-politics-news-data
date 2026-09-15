@@ -1,0 +1,88 @@
+{
+  "id": "20260525-qingdaonews-51cdc4",
+  "source": "qingdaonews",
+  "source_name_zh": "青岛新闻网",
+  "source_name_en": "Qingdao News",
+  "source_url": "http://news.qingdaonews.com/zonghe/2026-05/27/content_23736734.htm",
+  "title_zh": "习近平同塞尔维亚总统武契奇举行会谈并颁授友谊勋章",
+  "title_en": "Xi Jinping Holds Talks with Serbian President Vučić and Awards Medal of Friendship",
+  "summary_zh": "5月25日下午，中国国家主席习近平在北京同塞尔维亚总统武契奇举行会谈，并为其颁授“友谊勋章”，旨在深化中塞全面战略伙伴关系。",
+  "summary_en": "On May 25, Chinese President Xi Jinping held talks with Serbian President Aleksandar Vučić in Beijing and awarded him the Medal of Friendship to deepen the China-Serbia comprehensive strategic partnership.",
+  "body_zh": "【本期导读】\n5月25日下午，中国国家主席习近平在北京同来华进行国事访问的塞尔维亚总统武契奇举行会谈。习近平指出，中塞两个民族都经历过苦难辉煌，都具有坚韧不拔、百折不挠的精神品质，都坚定追求独立自主、捍卫民族尊严，都对坚持和平发展、坚守公理正义有着深刻理解。双方要加强交往、巩固互信、深化合作、相互支持，携手走出一条命运与共、共同繁荣的光明大道，推动中塞全面战略伙伴关系迈向新高度。\n当晚，习近平主席为武契奇总统举行“友谊勋章”颁授仪式，这枚中国国家对外最高荣誉勋章不仅彰显中塞两国“铁杆友谊”底色，也寄托着两国人民对新时代中塞命运共同体建设的殷切期望。塞方人士一致认为，中国是塞尔维亚的真挚朋友，也是最重要、可信赖的经贸合作伙伴。塞中两国友谊深厚，各领域合作成果丰硕，此次元首会晤将为双方带来新的发展与合作机遇。\n视觉：曹懿心\n公安部备案号：37020202000008\n邮编：266071\n邮箱：editor@qingdaonews.com\n增值电信许可证：鲁B2-20040044\n鲁B2-20051014-1",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Serbia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中塞关系",
+    "命运共同体"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Serbia Relations",
+    "Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260525-qingdaonews-51cdc4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-05/27/content_38793289.htm",
+      "title_zh": "【讲习所·中国与世界】“携手走出一条命运与共、共同繁荣的光明大道”",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

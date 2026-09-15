@@ -1,0 +1,96 @@
+{
+  "id": "20260909-peoples_js-839b49",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0909/c360301-41690461.html",
+  "title_zh": "江苏出台制造业企业词元管理参考指引",
+  "title_en": "Jiangsu Issues Reference Guide on Token Management for Manufacturers",
+  "summary_zh": "9月8日，江苏省工信厅解读最新出台的制造业企业Token管理参考指引，为省内企业大模型应用的词元精细化管理提供标准化实操指南。",
+  "summary_en": "On Sept 8, Jiangsu Provincial Department of Industry and Information Technology explained its newly issued Token management reference guide for manufacturers, providing standardized practical guidance for fine-grained word-token management in enterprise large-model applications.",
+  "body_zh": "江苏出台制造业企业词元管理参考指引\n9月8日，江苏省工信厅对最新出台的《江苏省制造业企业Token管理参考指引（2026 年版）》进行官方解读。据《新华日报》报道，该指引由江苏省工信厅联合国家工业信息安全发展研究中心江苏分中心、赛昇数智科技（苏州）有限公司编制，为江苏省内制造企业大模型应用的词元（Token）精细化管理提供标准化实操指南。\n该指引立足制造业生产实时性、周期波动、数据安全等现实约束，提出把Token作为业务需求和物理算力之间的度量纽带，实现业务效率、数据安全、算力成本三者最优平衡。指引围绕事前规划预置、事中运行监控、事后复盘优化三大核心环节，明确全流程管控操作要点。同时从跨部门协同架构、角色访问控制、动态配额管控、标准化闭环流程四个维度给出制度建设建议。针对不同工业业务差异，指引把制造场景划分为生产刚性类、经营优化类、计划决策类、研发仿真类四大类别，对在线智能检测、设备运维、生产计划优化、产品数字化设计等17个高频落地场景，分别梳理Token消耗特征与差异化管理重点。\n下一步，江苏将推动制造企业参照该文件完善内部AI资源管理制度，引导企业改变粗放式调用模式，让Token资源消耗匹配真实业务价值，更好发挥人工智能对制造业转型升级的赋能作用。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "industry",
+  "keywords": [
+    "Token管理",
+    "制造业",
+    "人工智能应用"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省工信厅",
+      "name_en": "Jiangsu Provincial Department of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "Token管理",
+      "name_en": "Token Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业",
+      "name_en": "Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能应用",
+      "name_en": "AI Application"
+    }
+  ],
+  "tags_zh": [
+    "江苏省工信厅",
+    "江苏",
+    "Token管理",
+    "制造业",
+    "人工智能应用"
+  ],
+  "tags_en": [
+    "Jiangsu Provincial Department of Industry and Information Technology",
+    "Jiangsu",
+    "Token Management",
+    "Manufacturing",
+    "AI Application"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省工信厅",
+        "name_en": "Jiangsu Provincial Department of Industry and Information Technology"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260909-peoples_js-839b49",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

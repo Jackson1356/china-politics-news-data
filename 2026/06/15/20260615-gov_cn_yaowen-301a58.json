@@ -1,0 +1,97 @@
+{
+  "id": "20260615-gov_cn_yaowen-301a58",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072086.htm",
+  "title_zh": "缅甸总统敏昂莱抵达北京开始访华",
+  "title_en": "Myanmar President Min Aung Hlaing Arrives in Beijing for State Visit",
+  "summary_zh": "2026年6月15日，缅甸总统敏昂莱应习近平主席邀请抵达北京，开始为期5天的国事访问，旨在深化中缅全面战略合作。",
+  "summary_en": "Myanmar President Min Aung Hlaing arrived in Beijing on June 15 for a five-day state visit at the invitation of President Xi Jinping to deepen comprehensive strategic cooperation.",
+  "body_zh": "新华社北京6月15日电（记者马卓言）应国家主席习近平邀请，缅甸总统敏昂莱6月15日下午抵达北京，开始对中国进行为期5天的国事访问。\n中缅是传统友好邻邦和命运共同体。建交76年来，双方秉持共同倡导的和平共处五项原则精神，同甘共苦、守望相助、团结协作，中缅关系取得长足进展。\n外交部发言人日前表示，中方期待同缅方一道，通过敏昂莱总统这次访问，赓续传统胞波情谊，深化全面战略合作，推动中缅命运共同体建设取得更多务实成果，更好造福两国人民。",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中缅关系",
+    "国事访问",
+    "全面战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "敏昂莱",
+      "name_en": "Min Aung Hlaing"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中缅关系",
+      "name_en": "China-Myanmar Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略合作",
+      "name_en": "Comprehensive Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "敏昂莱",
+    "习近平",
+    "北京",
+    "中缅关系",
+    "国事访问",
+    "全面战略合作"
+  ],
+  "tags_en": [
+    "Min Aung Hlaing",
+    "Xi Jinping",
+    "Beijing",
+    "China-Myanmar Relations",
+    "State Visit",
+    "Comprehensive Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260615-gov_cn_yaowen-301a58",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20260727-gov_cn_yaowen-5a2294",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076701.htm",
+  "title_zh": "谌贻琴在全国妇联常委（扩大）会议上强调 进一步加强妇女儿童合法权益保障",
+  "title_en": "Shen Yiqin Stresses Stronger Protection of Women and Children's Rights at ACWF Meeting",
+  "summary_zh": "全国妇联27日在京召开常委（扩大）会议，谌贻琴出席并讲话，强调要加强妇女儿童合法权益保障。",
+  "summary_en": "Shen Yiqin, State Councilor and President of the All-China Women's Federation, emphasized at a meeting on July 27 to strengthen the protection of women and children's rights.",
+  "body_zh": "谌贻琴在全国妇联常委（扩大）会议上强调\n进一步加强妇女儿童合法权益保障\n新华社北京7月27日电 全国妇联27日在京召开常委（扩大）会议。国务委员、全国妇联主席谌贻琴出席会议并讲话，强调要深入学习贯彻习近平总书记关于妇女儿童和妇联工作的重要论述，树立和践行正确政绩观，进一步加强妇女儿童合法权益保障，为“十五五”开好局起好步、开创中国式现代化建设新局面贡献巾帼力量。\n谌贻琴指出，实现好、维护好、发展好妇女儿童合法权益，是践行以人民为中心的发展思想、夯实中国式现代化民生根基的必然要求。各级妇联要锚定“十五五”时期目标任务，以巾帼维权暖心行动为抓手，推动健全制度体系，积极破解重点难点问题，夯实基层维权服务阵地，做深做实关爱服务，深入推进婚姻家庭纠纷预防化解等工作，全面提升工作质效。要坚持党的全面领导，狠抓责任落实，为做好妇联各项工作提供坚强保障。\n谌贻琴强调，要扎实做好下半年工作，深化“五项行动”、“六件实事”，持续抓好全球妇女峰会成果落地，推进规划纲要实施，协助做好防汛救灾，坚决守牢安全底线。",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-27",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "welfare",
+  "keywords": [
+    "妇女儿童权益保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Shen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": "ACWF",
+      "name_zh": "全国妇联",
+      "name_en": "All-China Women's Federation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "妇女儿童权益保障",
+      "name_en": "Protection of Women and Children's Rights"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "全国妇联",
+    "北京",
+    "妇女儿童权益保障"
+  ],
+  "tags_en": [
+    "Shen Yiqin",
+    "All-China Women's Federation",
+    "Beijing",
+    "Protection of Women and Children's Rights"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "ACWF"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260727-gov_cn_yaowen-5a2294",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076701.htm",
+      "title_zh": "谌贻琴在全国妇联常委（扩大）会议上强调 进一步加强妇女儿童合法权益保障",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "20260729-cjn-ea3fc5",
+  "source": "cjn",
+  "source_name_zh": "长江日报",
+  "source_name_en": "Yangtze Daily (Wuhan)",
+  "source_media_id": "cjn",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "wuhan_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.cjn.cn/asy/lbt/202607/t5323796.htm",
+  "title_zh": "多瑙河布达佩斯段水位创历史新低",
+  "title_en": "Danube River at Budapest Hits Record Low Water Level",
+  "summary_zh": "匈牙利水资源管理总局7月28日发布数据，多瑙河布达佩斯段水位降至31厘米，创历史新低。",
+  "summary_en": "On July 28, Hungary's water authority reported the Danube at Budapest fell to 31 cm, a record low.",
+  "body_zh": "新华社布达佩斯7月28日电（记者陈浩） 匈牙利水资源管理总局28日发布的数据显示，多瑙河布达佩斯段水位已降至31厘米，创下该河段水位历史新低。由于水位下降，多瑙河沿线多地相继发现了二战时期的弹药和沉船等。\n水利部门当天测得的数据打破了该河段2018年10月25日创下的33厘米最低纪录。气象与水利专家预测，未来几天，多瑙河水位可能继续下降。\n鉴于罕见的高温干旱刷新了水位纪录，近日在多瑙河上的玛格丽特岛附近水域清理出一些二战时期遗留炮弹。此外，据当地媒体报道，多瑙河沿线多地近期相继发现了一些沉船残骸。\n近来持续高温与降水不足使欧洲主要河流水位下降。国际科研机构“世界天气归因联盟”23日发布研究报告说，人类活动导致的气候变化加剧了欧洲当前的严重干旱。与降雨量不足相比，异常高温是欧洲多地干旱加重的更重要原因。\n值班编辑 李智恒",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "气候干旱",
+    "水位下降"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "匈牙利水资源管理总局",
+      "name_en": "Hungarian Water Management Authority"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "布达佩斯",
+      "name_en": "Budapest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气候干旱",
+      "name_en": "Climate Drought"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水位下降",
+      "name_en": "Water Level Drop"
+    },
+    {
+      "kind": "person",
+      "id": "chen-hao-huzhou",
+      "name_zh": "陈浩",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "匈牙利水资源管理总局",
+    "布达佩斯",
+    "气候干旱",
+    "水位下降",
+    "陈浩"
+  ],
+  "tags_en": [
+    "Hungarian Water Management Authority",
+    "Budapest",
+    "Climate Drought",
+    "Water Level Drop"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-hao-huzhou"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "匈牙利水资源管理总局",
+        "name_en": "Hungarian Water Management Authority"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260729-cjn-ea3fc5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

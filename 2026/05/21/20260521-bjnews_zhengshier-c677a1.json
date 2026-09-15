@@ -1,0 +1,105 @@
+{
+  "id": "20260521-bjnews_zhengshier-c677a1",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1779351235129208.html",
+  "title_zh": "中南大学原校长张尧学被开除党籍和公职",
+  "title_en": "Former President of Central South University Zhang Yaoxue Expelled from Party and Public Office",
+  "summary_zh": "中央纪委国家监委宣布，中南大学原党委常委、校长张尧学因严重违纪违法被开除党籍和公职，其涉嫌犯罪问题移送检察机关审查起诉。",
+  "summary_en": "The CCDI and National Supervisory Commission announced that Zhang Yaoxue, former President of Central South University, has been expelled from the Party and public office for serious discipline and law violations.",
+  "body_zh": "中南大学原党委常委、校长张尧学，被开除党籍和公职\n中央纪委国家监委网站5月21日消息，经中共中央批准，中央纪委国家监委对中南大学原党委常委、校长张尧学严重违纪违法问题进行了立案审查调查。\n经查，张尧学丧失理想信念，背弃初心使命，对抗组织审查；违反中央八项规定精神，违规接受宴请；在组织函询时不如实说明问题，在干部选拔任用、授予学术称号、荣誉表彰等工作中为他人谋取利益并收受财物，助长学术领域不正之风和腐败问题；廉洁底线失守，违规收受礼品、礼金；毫无纪法底线，将公权力异化为谋取私利的工具，大肆收钱敛财，利用职务便利为他人在企业经营、职务提拔等方面谋利，并非法收受巨额财物。\n张尧学严重违反党的政治纪律、组织纪律、廉洁纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予张尧学开除党籍处分；由国家监委给予其开除公职处分；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。\n公开简历显示，张尧学，男，1956年1月出生，1987年4月入党，1976年10月参加工作，日本东北大学计算机网络通信专业博士研究生毕业，教授，中国工程院院士。他是计算机网络专家，主要从事新型网络计算模式与网络计算系统研究。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "学术腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张尧学",
+      "name_en": "Zhang Yaoxue"
+    },
+    {
+      "kind": "institution",
+      "id": "CCDI",
+      "name_zh": "中央纪委",
+      "name_en": "Central Commission for Discipline Inspection"
+    },
+    {
+      "kind": "institution",
+      "id": "NSC",
+      "name_zh": "国家监委",
+      "name_en": "National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中南大学",
+      "name_en": "Central South University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学术腐败",
+      "name_en": "Academic Corruption"
+    }
+  ],
+  "tags_zh": [
+    "张尧学",
+    "中央纪委",
+    "国家监委",
+    "中南大学",
+    "反腐败",
+    "学术腐败"
+  ],
+  "tags_en": [
+    "Zhang Yaoxue",
+    "Central Commission for Discipline Inspection",
+    "National Supervisory Commission",
+    "Central South University",
+    "Anti-corruption",
+    "Academic Corruption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张尧学"
+      }
+    ],
+    "institutions": [
+      "CCDI",
+      "NSC"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中南大学",
+        "name_en": "Central South University"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260521-bjnews_zhengshier-c677a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

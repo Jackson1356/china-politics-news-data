@@ -1,0 +1,104 @@
+{
+  "id": "20260914-gov_yue_yang-5dc63f",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2400407.html",
+  "title_zh": "岳阳市召开安全生产紧急视频调度会 李劲松出席",
+  "title_en": "Yueyang City Holds Emergency Video Meeting on Workplace Safety; Li Jinsong Attends",
+  "summary_zh": "9月11日下午，岳阳市召开全市安全生产紧急视频调度会，市委常委、常务副市长李劲松出席并要求强化船舶制造等重点领域安全监管。",
+  "summary_en": "On the afternoon of September 11, Yueyang City held an emergency video meeting on workplace safety, attended by Li Jinsong, member of the municipal Party standing committee and executive vice mayor, who urged stronger safety oversight in shipbuilding and other key sectors.",
+  "body_zh": "9月11日下午，我市召开全市安全生产紧急视频调度会，强化当前安全防范工作，全力维护全市安全生产形势持续稳定。市委常委、常务副市长李劲松出席。\n会上，岳阳市应急和安全生产委员会办公室传达学习了习近平总书记对山东青岛市北海造船厂一货轮火灾事故重要指示精神、李强总理批示要求，以及省、市领导相关批示精神。\n李劲松要求，要提高政治站位，牢固树立安全发展理念，深刻汲取事故教训，坚持举一反三，压紧压实各项安全防范措施。要强化船舶制造企业安全监管，由工信会同消防部门，对全市船舶制造、维修、拆解企业开展起底式摸排，紧盯动火动焊、有限空间、高处作业等关键风险环节，压实企业主体责任，提升本质安全水平。要深化重点领域专项整治，聚焦危化品、消防安全、城市运行、人员密集场所及“九小场所”，扎实打好重大事故隐患动态清零、重点领域“一件事”全链条治理、“小切口”专项整治、季节性风险防控四场硬仗。要抓实关键节点安全防范工作，中秋、国庆“两节”临近，市党代会召开在即，突出道路交通、水上交通、文化旅游、城镇燃气、特种设备等重点领域，扎实开展节前安全检查；统筹做好极端灾害性天气防范应对，严格落实值班值守、会商研判、部门联动机制，健全预警叫应反馈闭环管理，坚决防范自然灾害引发人员伤亡事故。",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-11",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "discipline",
+  "keywords": [
+    "安全生产",
+    "船舶制造安全监管",
+    "重大事故隐患排查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李劲松",
+      "name_en": "Li Jinsong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "船舶制造安全监管",
+      "name_en": "Shipbuilding Safety Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大事故隐患排查",
+      "name_en": "Major Hazard Inspection"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李劲松",
+    "岳阳",
+    "安全生产",
+    "船舶制造安全监管",
+    "重大事故隐患排查",
+    "李强"
+  ],
+  "tags_en": [
+    "Li Jinsong",
+    "Yueyang",
+    "Workplace Safety",
+    "Shipbuilding Safety Supervision",
+    "Major Hazard Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李劲松"
+      },
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260914-gov_yue_yang-5dc63f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

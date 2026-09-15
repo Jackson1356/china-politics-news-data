@@ -1,0 +1,94 @@
+{
+  "id": "20260831-gov_cn_yaowen-4acf79",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/31/VIDE31qx2wAswaAdcGHSrROe260831.shtml",
+  "title_zh": "习近平同吉尔吉斯斯坦总统小范围晤谈",
+  "title_en": "Xi Jinping Holds Small-Scale Talks with Kyrgyz President",
+  "summary_zh": "当地时间8月30日晚，习近平夫妇与吉总统夫妇共进晚餐；31日，彭丽媛与吉总统夫人参观国家历史博物馆。",
+  "summary_en": "On the night of Aug 30 local time, Xi Jinping and his wife had dinner with the Kyrgyz president and his wife; on Aug 31, Peng Liyuan visited the National Historical Museum with the first lady.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间8月30日晚，国家主席习近平和夫人彭丽媛应邀同吉尔吉斯斯坦总统扎帕罗夫和夫人扎帕罗娃在总统官邸共进晚餐，在亲切友好的气氛中进行了交流。\n当地时间8月31日上午，国家主席习近平夫人彭丽媛在比什凯克同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆。\n彭丽媛同扎帕罗娃一道欣赏热情友好的迎宾表演。随后，两国元首夫人共同参观吉尔吉斯斯坦传统文化展。彭丽媛表示，博物馆陈列的服饰、织毯等工艺精美、色彩丰富，展现出吉尔吉斯民族悠久的手工艺传统和独特生活习俗。中吉都注重传统文化保护和传承，期待中吉两国不断扩大人文交流、增进民心相通。\n两国元首夫人还参观了中吉双方联合举办的“和合致美——中华古代文明艺术展”，并观看吉尔吉斯民族特色服装展示，都表示要积极推动中吉两国文化交流互鉴。\n吉尔吉斯共和国国家历史博物馆是吉尔吉斯斯坦最高级别的国家博物馆，馆藏文物记录了吉尔吉斯民族发展历程。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中吉关系",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭丽媛",
+      "name_en": "Peng Liyuan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中吉关系",
+      "name_en": "China-Kyrgyzstan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchange"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "彭丽媛",
+    "比什凯克",
+    "中吉关系",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Peng Liyuan",
+    "Bishkek",
+    "China-Kyrgyzstan Relations",
+    "People-to-People Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "彭丽媛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260831-gov_cn_yaowen-4acf79",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260908-xinhua_xj-3a98d1",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xj.news.cn/20260908/466eeec4036943b59f8b56ffae16958b/c.html",
+  "title_zh": "陈小江艾尔肯·吐尼亚孜会见国际知名人士新疆友好交流会参会代表",
+  "title_en": "Chen Xiaojiang and Erkin Tuniyaz Meet Delegates of Xinjiang Friendship Exchange with International Notables",
+  "summary_zh": "9月7日，自治区党委书记陈小江、自治区主席艾尔肯·吐尼亚孜在乌鲁木齐会见国际知名人士新疆友好交流会参会代表。",
+  "summary_en": "On September 7, Chen Xiaojiang, Party Secretary of Xinjiang, and Erkin Tuniyaz, Chairman of the region, met delegates of a Xinjiang friendship exchange with international notables in Urumqi.",
+  "body_zh": "陈小江艾尔肯·吐尼亚孜会见国际知名人士新疆友好交流会参会代表\n祖木热提·吾布力努尔兰·阿不都满金何忠友参加会见\n9月7日，自治区党委书记陈小江、自治区主席艾尔肯·吐尼亚孜在乌鲁木齐会见了国际知名人士新疆友好交流会参会代表。\n自治区人大常委会主任祖木热提·吾布力，自治区政协主席努尔兰·阿不都满金，自治区党委副书记、兵团政委何忠友参加会见。\n中国政府非洲事务特别代表刘显法，自治区领导王建新、张迎春、哈丹·卡宾，中央统战部、中联部、中央外办和外交部、全国对外友协有关同志，国内专家学者代表，自治区有关部门负责同志参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际友好交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-xiaojiang",
+      "name_zh": "陈小江",
+      "name_en": "Chen Xiaojiang"
+    },
+    {
+      "kind": "person",
+      "id": "erkin-tuniyaz",
+      "name_zh": "艾尔肯·吐尼亚孜",
+      "name_en": "Erkin Tuniyaz"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ-WLMQ",
+      "name_zh": "乌鲁木齐",
+      "name_en": "Urumqi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际友好交流",
+      "name_en": "International Friendly Exchange"
+    },
+    {
+      "kind": "person",
+      "id": "he-zhongyou",
+      "name_zh": "何忠友",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈小江",
+    "艾尔肯·吐尼亚孜",
+    "乌鲁木齐",
+    "国际友好交流",
+    "何忠友"
+  ],
+  "tags_en": [
+    "Chen Xiaojiang",
+    "Erkin Tuniyaz",
+    "Urumqi",
+    "International Friendly Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "he-zhongyou",
+      "erkin-tuniyaz",
+      "chen-xiaojiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ-WLMQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-xinhua_xj-3a98d1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

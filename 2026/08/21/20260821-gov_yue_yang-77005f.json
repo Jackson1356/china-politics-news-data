@@ -1,0 +1,94 @@
+{
+  "id": "20260821-gov_yue_yang-77005f",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2394909.html",
+  "title_zh": "全市扫黑除恶专项斗争会议召开",
+  "title_en": "Municipal Meeting on Special Campaign Against Gang Crime Held",
+  "summary_zh": "8月19日，全市扫黑除恶专项斗争会议召开，市领导谢运策出席并讲话，强调深化扫黑除恶专项斗争，增强群众安全感。",
+  "summary_en": "On August 19, the city-wide meeting on the special campaign against gang crime was held; city leader Xie Yunce attended and spoke, emphasizing deepening the campaign to enhance public security.",
+  "body_zh": "8月19日，全市扫黑除恶专项斗争会议召开。市领导谢运策出席并讲话，市级领导秦山成、王东晖、周伟任出席，市纪委监委、市委组织部分管负责同志作工作部署。\n会议指出，2021年常态化开展扫黑除恶斗争以来，全市上下坚持标准不降、力度不减、劲头不松，推动扫黑除恶斗争不断走深走实，工作成效位居全省前列。\n会议强调，要全面贯彻落实习近平总书记关于常态化开展扫黑除恶斗争的重要指示精神，贯彻落实全国、全省扫黑除恶专项斗争视频会议精神和市委工作要求，扎实开展为期一年的深化扫黑除恶专项斗争，严厉打击人民群众反映最强烈、最深恶痛绝的各类黑恶势力违法犯罪，让人民群众的获得感、幸福感、安全感更加充实、更有保障、更可持续。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "party",
+  "keywords": [
+    "扫黑除恶",
+    "专项斗争"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市委",
+      "name_en": "Municipal Party Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Anti-Gang Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专项斗争",
+      "name_en": "Special Campaign"
+    },
+    {
+      "kind": "person",
+      "id": "zhou-wei-changzhou",
+      "name_zh": "周伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "市委",
+    "扫黑除恶",
+    "专项斗争",
+    "周伟"
+  ],
+  "tags_en": [
+    "Municipal Party Committee",
+    "Anti-Gang Crime",
+    "Special Campaign"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-wei-changzhou",
+      {
+        "id": null,
+        "name_zh": "谢运策"
+      },
+      {
+        "id": null,
+        "name_zh": "周伟任"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "市委",
+        "name_en": "Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260821-gov_yue_yang-77005f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

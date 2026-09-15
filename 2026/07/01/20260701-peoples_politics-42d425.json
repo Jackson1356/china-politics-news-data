@@ -1,0 +1,112 @@
+{
+  "id": "20260701-peoples_politics-42d425",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0701/c1001-40751156.html",
+  "title_zh": "王毅同沙特外交大臣费萨尔会谈",
+  "title_en": "Wang Yi Holds Talks with Saudi Foreign Minister Faisal",
+  "summary_zh": "2026年6月30日，外交部长王毅在京同沙特外交大臣费萨尔举行会谈，双方探讨深化中沙战略互信及推动地区长治久安。",
+  "summary_en": "On June 30, 2026, Foreign Minister Wang Yi held talks with Saudi Foreign Minister Faisal in Beijing to deepen strategic trust and promote regional stability.",
+  "body_zh": "王毅同沙特外交大臣费萨尔会谈\n新华社北京6月30日电 （记者马卓言）中共中央政治局委员、外交部长王毅6月30日在京同沙特外交大臣费萨尔举行会谈。\n王毅表示，发展中沙关系是习近平主席同萨勒曼国王、穆罕默德王储兼首相着眼两国人民根本和长远利益作出的战略抉择。中方愿同沙方深化战略互信，紧密沟通协作，推动两国关系不断迈进。中方欢迎美伊开启谈判，愿同沙方一道继续为地区长治久安作出努力。\n费萨尔表示，沙方坚定恪守一个中国原则，愿同中方不断丰富两国关系内涵。沙方支持习近平主席提出的系列全球性倡议，赞赏中方为推动地区局势缓和发挥的建设性作用。\n《 人民日报 》（ 2026年07月01日 03 版）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中沙关系",
+    "战略互信",
+    "地区局势"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "费萨尔",
+      "name_en": "Faisal"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中沙关系",
+      "name_en": "China-Saudi Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略互信",
+      "name_en": "Strategic Trust"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区局势",
+      "name_en": "Regional Situation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "费萨尔",
+    "北京",
+    "中沙关系",
+    "战略互信",
+    "地区局势"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Faisal",
+    "Beijing",
+    "China-Saudi Relations",
+    "Strategic Trust",
+    "Regional Situation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260701-peoples_politics-42d425",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073851.htm",
+      "title_zh": "王毅同沙特外交大臣费萨尔会谈",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

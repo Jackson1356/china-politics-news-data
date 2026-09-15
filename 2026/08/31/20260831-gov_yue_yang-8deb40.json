@@ -1,0 +1,122 @@
+{
+  "id": "20260831-gov_yue_yang-8deb40",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2396955.html",
+  "title_zh": "上海交通大学与岳阳市交流座谈会召开",
+  "title_en": "Shanghai Jiao Tong University and Yueyang Hold Exchange Symposium",
+  "summary_zh": "8月29日，上海交通大学与岳阳市交流座谈会召开，双方共同揭牌两个创新中心，并围绕深化合作、推动高质量发展进行交流。",
+  "summary_en": "On August 29, Shanghai Jiao Tong University and Yueyang City held an exchange symposium, jointly unveiling two innovation centers and discussing deeper cooperation for high-quality development.",
+  "body_zh": "8月29日，上海交通大学与岳阳市交流座谈会召开。上海交通大学党委书记杨振斌出席并讲话，省委副书记、岳阳市委书记谢卫江主持，并共同为上海交通大学湖南高等研究院岳阳市生物医药及医疗器械产业分中心、上海交通大学岳阳绿色能源创新中心揭牌。上海交通大学副校长曾小勤，省政府驻上海办事处党组书记、主任谢君毅，市委副书记、代理市长唐浩然出席。\n杨振斌感谢岳阳市对上海交通大学的支持，并介绍了学校发展情况。他表示，上海交通大学将充分发挥科技创新等方面优势，全力推进合作项目提质增效，与岳阳建立常态化联系机制，深度对接岳阳发展所需，开展更多领域、更深层次的交流合作，共同推动高质量发展。\n谢卫江代表市委、市政府对杨振斌一行表示欢迎，对上海交通大学支持岳阳经济社会发展表示感谢。他说，今年以来，上海交通大学与岳阳加强交流对接，在医药医疗、氢能发展等领域合作取得了积极进展。希望与上海交通大学进一步深化合作，取得更多务实成果。\n会前，杨振斌一行在湖南石化己内酰胺项目、煤制氢装置现场进行了实地调研。\n省科技厅副厅长钱国平，市领导邱虹、张世愚、刘世奇，湖南石化党委书记颜刚参加。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "industry",
+  "keywords": [
+    "校地合作",
+    "科技创新",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨振斌",
+      "name_en": "Yang Zhenbin"
+    },
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "上海交通大学",
+      "name_en": "Shanghai Jiao Tong University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校地合作",
+      "name_en": "University-Local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "杨振斌",
+    "谢卫江",
+    "上海交通大学",
+    "岳阳",
+    "校地合作",
+    "科技创新",
+    "产业合作"
+  ],
+  "tags_en": [
+    "Yang Zhenbin",
+    "Xie Weijiang",
+    "Shanghai Jiao Tong University",
+    "Yueyang",
+    "University-Local Cooperation",
+    "Scientific Innovation",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "杨振斌"
+      },
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "上海交通大学",
+        "name_en": "Shanghai Jiao Tong University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260831-gov_yue_yang-8deb40",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

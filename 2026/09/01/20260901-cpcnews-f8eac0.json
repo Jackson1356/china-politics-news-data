@@ -1,0 +1,107 @@
+{
+  "id": "20260901-cpcnews-f8eac0",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0901/c64387-40789984.html",
+  "title_zh": "《中国数字乡村发展报告（2019—2025年）》发布",
+  "title_en": "Digital Rural Development Report (2019-2025) Released",
+  "summary_zh": "国家网信办、农业农村部近日发布《中国数字乡村发展报告（2019—2025年）》，指出数字乡村建设取得重要进展，并对“十五五”时期作出部署。",
+  "summary_en": "The Cyberspace Administration of China and the Ministry of Agriculture and Rural Affairs recently released the China Digital Rural Development Report (2019-2025), highlighting significant progress in digital village construction and outlining plans for the 15th Five-Year Plan period.",
+  "body_zh": "本报北京8月31日电 （记者金歆）记者31日从国家网信办获悉：国家互联网信息办公室、农业农村部近日发布《中国数字乡村发展报告（2019—2025年）》。\n报告指出，2025年是《数字乡村发展战略纲要》提出的第二阶段目标达成之年。7年来，数字乡村政策机制不断健全，数字乡村发展基础更加坚实，智慧农业建设取得重要进展，乡村数字经济新业态加快发展，乡村数字文化持续繁荣发展，乡村数字治理水平不断提升，推动数字乡村建设取得重要进展。\n报告指出，“十五五”时期，要着力推进乡村产业数字化、乡村建设信息化、乡村治理智慧化一体发展，着力激发数字乡村发展内生动力，推动数字乡村发展迈上新台阶。\n《 人民日报 》（ 2026年09月01日 04 版）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "industry",
+  "keywords": [
+    "数字乡村",
+    "乡村振兴",
+    "智慧农业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "国家互联网信息办公室",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字乡村",
+      "name_en": "Digital Village"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧农业",
+      "name_en": "Smart Agriculture"
+    }
+  ],
+  "tags_zh": [
+    "国家互联网信息办公室",
+    "农业农村部",
+    "数字乡村",
+    "乡村振兴",
+    "智慧农业"
+  ],
+  "tags_en": [
+    "Cyberspace Administration of China",
+    "Ministry of Agriculture and Rural Affairs",
+    "Digital Village",
+    "Rural Revitalization",
+    "Smart Agriculture"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAC",
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260901-cpcnews-f8eac0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0901/c134768-41683308.html",
+      "title_zh": "《中国数字乡村发展报告（2019—2025年）》发布",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0901/c192237-41683081.html",
+      "title_zh": "《中国数字乡村发展报告（2019—2025年）》发布",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

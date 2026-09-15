@@ -1,0 +1,127 @@
+{
+  "id": "20260909-gov_zi_bo-cbfa46",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/9/9/art_14322_3019788.html",
+  "title_zh": "全国新的社会阶层人士“科创中国”服务团山东服务考察启动",
+  "title_en": "New Social Strata 'Innovation China' Service Group Launches Shandong Inspection",
+  "summary_zh": "9月8日，全国新的社会阶层人士“科创中国”服务团山东服务考察在济南启动，中央统战部副部长王瑞军、省委统战部部长邓云锋致辞。",
+  "summary_en": "On September 8, the national new social strata 'Innovation China' service group started its inspection in Jinan, Shandong. Wang Ruijun, deputy head of the CPC Central Committee's United Front Work Department, and Deng Yunfeng, head of Shandong's United Front Work Department, addressed the event.",
+  "body_zh": "全国新的社会阶层人士“科创中国”服务团山东服务考察启动\n9月8日，全国新的社会阶层人士“科创中国”服务团山东服务考察在济南启动。中央统战部副部长王瑞军，省委常委、统战部部长邓云锋出席并致辞。副省长王桂英出席活动。\n王瑞军强调，此次活动旨在引领广大新的社会阶层人士深入学习贯彻习近平总书记在山东考察调研时和在2026世界人工智能大会上的重要讲话精神，自觉服务科技强国战略、践行科技报国价值追求，坚定不移走好自主创新之路，把前沿技术理念、优质创新资源、成熟产业经验带到齐鲁大地，把专业优势、创新优势、资源优势、资本优势转化为推动传统产业升级、新兴产业壮大的现实动能，在参与、担当、作为中展现新时代新阶层新风貌。\n邓云锋指出，近年来，山东坚定扛牢“走在前、挑大梁”使命担当，深入实施创新驱动发展战略，扎实推进科技与产业深度融合，全省创新体系不断完善、创新能级不断提升。衷心期盼服务团成员与山东一道，携手拓展项目合作新空间、打造人才引育新高地、构建创新驱动新生态，齐心协力谱写中国式现代化山东篇章。（记者 董方舟）",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "party",
+  "keywords": [
+    "新的社会阶层人士",
+    "科创中国",
+    "自主创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王瑞军",
+      "name_en": "Wang Ruijun"
+    },
+    {
+      "kind": "person",
+      "id": "deng-yunfeng",
+      "name_zh": "邓云锋",
+      "name_en": "Deng Yunfeng"
+    },
+    {
+      "kind": "institution",
+      "id": "CCUFWD",
+      "name_zh": "中央统战部",
+      "name_en": "United Front Work Department of CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新的社会阶层人士",
+      "name_en": "New Social Strata"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科创中国",
+      "name_en": "Innovation China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自主创新",
+      "name_en": "Independent Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王瑞军",
+    "邓云锋",
+    "中央统战部",
+    "济南",
+    "新的社会阶层人士",
+    "科创中国",
+    "自主创新",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Ruijun",
+    "Deng Yunfeng",
+    "United Front Work Department of CPC Central Committee",
+    "Jinan",
+    "New Social Strata",
+    "Innovation China",
+    "Independent Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "deng-yunfeng",
+      {
+        "id": null,
+        "name_zh": "王桂英"
+      },
+      {
+        "id": null,
+        "name_zh": "王瑞军"
+      }
+    ],
+    "institutions": [
+      "CCUFWD"
+    ],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260909-gov_zi_bo-cbfa46",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

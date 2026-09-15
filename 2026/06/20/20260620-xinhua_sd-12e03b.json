@@ -1,0 +1,91 @@
+{
+  "id": "20260620-xinhua_sd-12e03b",
+  "source": "xinhua_sd",
+  "source_name_zh": "新华网 山东",
+  "source_name_en": "Xinhua Shandong",
+  "source_url": "http://sd.news.cn/20260620/6bbc637a1d9041e8b713eac08601f48e/c.html",
+  "title_zh": "山东启动公务用车公物仓建设试点",
+  "title_en": "Shandong Launches Pilot Program for Official Vehicle Public Warehouse Construction",
+  "summary_zh": "山东省在济南召开推进会，正式启动公务用车公物仓建设试点，旨在通过优化资源配置落实勤俭办政要求。",
+  "summary_en": "Shandong Province launched a pilot program for official vehicle public warehouses in Jinan to optimize resource allocation and implement frugality requirements.",
+  "body_zh": "近日，全省公务用车公物仓建设试点工作推进会在济南召开，标志着山东省公务用车公物仓建设试点工作正式启动。首批建设试点工作涉及5个市5个县，共调拨车辆20台。\n据介绍，构建省市县一体化公务用车公物仓系统，是坚持勤俭办一切事业、落实“习惯过紧日子”要求的具体举措。通过优化公务用车存量资源配置，实现低效运转车辆跨单位、跨区域、跨层级使用，是推动行政事业单位资产节约集约高效利用的有效途径。\n下一步，山东省机关事务局及各试点单位将扎实做好车辆调拨交接、资产划转等工作，高标定位建好、管好、用好公务用车公物仓，逐步实现上下联动、运转高效的省市县三级一体化体系，切实提升公务用车使用效率，推动以资产管理为基础的机关事务工作实现高质量发展。（刘宸）",
+  "image_url": null,
+  "published_at": "2026-06-20T12:00:00+00:00",
+  "event_date": "2026-06-20",
+  "ingested_at": "2026-06-21T08:55:06Z",
+  "topic": "discipline",
+  "keywords": [
+    "公务用车管理",
+    "勤俭办政"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "山东省机关事务局",
+      "name_en": "Shandong Provincial Government Offices Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公务用车管理",
+      "name_en": "Official Vehicle Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "勤俭办政",
+      "name_en": "Frugal Governance"
+    }
+  ],
+  "tags_zh": [
+    "山东省机关事务局",
+    "山东",
+    "济南",
+    "公务用车管理",
+    "勤俭办政"
+  ],
+  "tags_en": [
+    "Shandong Provincial Government Offices Administration",
+    "Shandong",
+    "Jinan",
+    "Official Vehicle Management",
+    "Frugal Governance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "山东省机关事务局",
+        "name_en": "Shandong Provincial Government Offices Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260620-xinhua_sd-12e03b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

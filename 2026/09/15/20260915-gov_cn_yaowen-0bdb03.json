@@ -1,0 +1,123 @@
+{
+  "id": "20260915-gov_cn_yaowen-0bdb03",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081094.htm",
+  "title_zh": "王毅同拉脱维亚外长布拉泽通电话",
+  "title_en": "Wang Yi Speaks by Phone with Latvian Foreign Minister Braže",
+  "summary_zh": "9月14日，中共中央政治局委员、外交部长王毅应约同拉脱维亚外长布拉泽通电话，就双边关系及尼泊尔和中国西藏泥石流灾害中拉方失联人员搜救等交换意见。",
+  "summary_en": "On September 14, Chinese Foreign Minister Wang Yi took a phone call from Latvian Foreign Minister Baiba Braže, discussing bilateral ties and rescue efforts for Latvian nationals missing after mudslides in Nepal and China's Tibet.",
+  "body_zh": "新华社北京9月14日电 中共中央政治局委员、外交部长王毅14日应约同拉脱维亚外长布拉泽通电话。\n布拉泽表示，拉中刚刚共同纪念建交35周年。多年来两国保持良好务实合作关系，在联合国安理会等多边平台也有很好的协作。期待与中方进一步加强沟通交流，推动双边关系不断向前发展。\n布拉泽表示，近日33名拉脱维亚公民在尼泊尔和中国西藏自治区泥石流灾害中失联。灾害发生后，感谢中方所做通报和搜救工作以及对失联人员家属的诚挚慰问。拉方愿同中方加强沟通协作，共同做好后续工作。\n王毅表示，尼泊尔一侧突发冰岩崩引发泥石流灾害，给中国西藏吉隆县造成重大人员伤亡和失联。拉脱维亚是失联人数最多的欧洲国家。面对这一突如其来的悲剧，谨再次向拉方特别是失联人员家属表示诚挚慰问。中方对中外人员一视同仁，全力以赴开展救助。我们将尽最大努力继续搜救拉方等外方失联人员，妥善做好后续处置。\n王毅表示，中拉虽相距遥远，但两国人民传统友谊深厚。中国是最早承认拉脱维亚独立的国家之一。建交以来，两国始终平等相待，相互尊重，保持关系平稳发展。中方对拉方实施单方面免签体现了对拉方的信任，两国人员交往更加频繁，务实合作不断拓展。中方愿同拉方一道，以建交35周年为契机，为中拉关系不断注入新的时代内涵。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "双边关系",
+    "建交35周年",
+    "灾害救援合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "布拉泽",
+      "name_en": "Baiba Braže"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "建交35周年",
+      "name_en": "35th Anniversary of Diplomatic Ties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援合作",
+      "name_en": "Disaster Rescue Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "布拉泽",
+    "外交部",
+    "北京",
+    "双边关系",
+    "建交35周年",
+    "灾害救援合作"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Baiba Braže",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Bilateral Relations",
+    "35th Anniversary of Diplomatic Ties",
+    "Disaster Rescue Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "布拉泽"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260915-gov_cn_yaowen-0bdb03",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081094.htm",
+      "title_zh": "王毅同拉脱维亚外长布拉泽通电话",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

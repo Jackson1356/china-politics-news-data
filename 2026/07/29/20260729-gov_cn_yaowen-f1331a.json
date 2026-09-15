@@ -1,0 +1,109 @@
+{
+  "id": "20260729-gov_cn_yaowen-f1331a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/07/29/VIDE5FJcfhYSmWrDrdhnoDqj260729.shtml",
+  "title_zh": "李强会见斯洛伐克总统",
+  "title_en": "Li Qiang Meets Slovak President",
+  "summary_zh": "国务院总理李强29日下午在京会见来华进行国事访问的斯洛伐克总统佩列格里尼，双方表示深化合作，推动中欧关系发展。",
+  "summary_en": "On the afternoon of July 29, Premier Li Qiang met with Slovak President Pellegrini in Beijing during his state visit, pledging to deepen cooperation and promote China-EU relations.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强29日下午在京会见来华进行国事访问的斯洛伐克总统佩列格里尼。\n李强表示，中斯建交以来，始终相互尊重、平等相待，两国友谊历久弥坚。昨天，习近平主席同总统先生举行会晤，进一步规划双边关系发展。中方愿同斯方一道弘扬传统友谊，巩固战略互信，推动高质量共建“一带一路”，深化互联互通、新能源汽车、人文等领域合作，共促两国发展繁荣。希望斯方推动欧盟对华政策朝着更加积极、理性的方向调整，促进中欧经贸关系稳健发展。\n佩列格里尼表示，斯中关系当前处于历史最好时期。斯方愿同中方加强往来，拓展经贸、人文等领域交流合作。斯方愿为推动欧中对话与合作发挥积极作用。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "中斯关系",
+    "一带一路",
+    "中欧关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中斯关系",
+      "name_en": "China-Slovakia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-EU Relations"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "中斯关系",
+    "一带一路",
+    "中欧关系",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "China-Slovakia Relations",
+    "Belt and Road",
+    "China-EU Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260729-gov_cn_yaowen-f1331a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076976.htm",
+      "title_zh": "李强会见斯洛伐克总统佩列格里尼",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260811-gov_cn_yaowen-4b4712",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077910.htm",
+  "title_zh": "各地抢抓农时做好田间管理",
+  "title_en": "All Regions Seize Farming Season for Field Management",
+  "summary_zh": "近期，东北、河北、陕西、四川等地抢抓农时，通过智能监测、飞防作业、跨区农机调配等措施做好田间管理，夯实粮食丰收基础。",
+  "summary_en": "Recently, regions including Northeast China, Hebei, Shaanxi, and Sichuan have been seizing the farming season to strengthen field management through smart monitoring, drone spraying, and cross-regional machinery dispatch, solidifying the foundation for a bumper grain harvest.",
+  "body_zh": "眼下，各地抢抓农时，分类施策、科学有序做好田间管护工作，夯实粮食丰收基础。\n东北地区水稻相继进入抽穗扬花期。黑龙江省各水稻种植区通过航化作业、监测预警等方式，构建严密的病虫害防控体系。在北大荒集团二九〇农场，今年上新了24小时在线的田间智能监测设备，每4小时自动将水稻生长数据生成一份“电子植保配方”，为水稻量身定制养分供给，增强抗病虫害能力。\n吉林省多地持续出现大范围高温湿热天气。在大安市盐碱地改良水稻种植基地，种植户通过错峰作业、科学管护，全力降低高温热害损失。今年，吉林全省绿色防控、统防统治总规模达240万亩，农作物抗高温能力显著增强。\n各地玉米进入灌浆期，也是病虫害防控的关键期。今年，河北玉米种植面积3600多万亩，面对近期降水偏多易发病虫害的情况，全省大力推广水肥一体化等科技手段，精准开展追肥、化学防控和病虫害防治，多措并举提单产、保丰收。今年，陕西玉米种植面积1900万亩左右，在榆林，当地全面开展植保无人机“一喷多促”飞防作业，植保无人机一次作业即可实现防病防虫和促灌浆增产的双重效果，保障玉米产量不断提升。\n西南地区水稻陆续进入收割期。四川达州280多万亩水稻开镰收割，为抢抓农时，当地今年搭建了跨区作业农机调配平台，调集2300余台（套）农机，组织农机服务队深入田间，打通生产服务“最后一公里”，确保成熟一块、收割一块。贵州赤水宝源梯田水稻迎来丰收，当地通过生态化、精细化种植，让品质更稳定，产量也增加。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食生产",
+    "田间管理",
+    "病虫害防控"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食生产",
+      "name_en": "Grain Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "田间管理",
+      "name_en": "Field Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "病虫害防控",
+      "name_en": "Pest Control"
+    }
+  ],
+  "tags_zh": [
+    "黑龙江",
+    "吉林",
+    "粮食生产",
+    "田间管理",
+    "病虫害防控"
+  ],
+  "tags_en": [
+    "Heilongjiang",
+    "Jilin",
+    "Grain Production",
+    "Field Management",
+    "Pest Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL",
+      "CN-JL"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-gov_cn_yaowen-4b4712",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

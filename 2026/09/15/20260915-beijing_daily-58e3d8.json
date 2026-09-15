@@ -1,0 +1,83 @@
+{
+  "id": "20260915-beijing_daily-58e3d8",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/15/11959677.shtml",
+  "title_zh": "外交部：“中国服务”是中国高水平对外开放的一张崭新名片",
+  "title_en": "Foreign Ministry: \"China Services\" Is a New Calling Card for China's High-Standard Opening-Up",
+  "summary_zh": "9月15日，外交部发言人郭嘉昆在例行记者会上表示，“中国服务”是中国高水平对外开放的一张崭新名片，本届服贸会达成1200余项成果。",
+  "summary_en": "On September 15, MFA spokesperson Guo Jiakun said at a regular press briefing that \"China Services\" is a new calling card for China's high-standard opening-up, with the services trade fair yielding over 1,200 outcomes.",
+  "body_zh": "9月15日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆表示，“中国服务”是中国高水平对外开放的一张崭新名片。本届服贸会吸引1830余家企业线下参展，5300余家企业线上参展，达成1200余项成果，在信息通讯、金融科技、数智医疗、智慧教育、节能环保等领域展示了一系列新技术、新方案、新成果，创造了合作新机遇。中国将继续以优质服务链接国际市场，以互利合作推动成果共享，让“中国服务”更多走出国门、更好惠及全球。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "高水平对外开放",
+    "服务贸易",
+    "服贸会"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Standard Opening-Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Trade in Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服贸会",
+      "name_en": "China International Fair for Trade in Services"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "高水平对外开放",
+    "服务贸易",
+    "服贸会"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "High-Standard Opening-Up",
+    "Trade in Services",
+    "China International Fair for Trade in Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-beijing_daily-58e3d8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

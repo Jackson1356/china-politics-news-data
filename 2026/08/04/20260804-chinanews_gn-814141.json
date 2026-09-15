@@ -1,0 +1,93 @@
+{
+  "id": "20260804-chinanews_gn-814141",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-04/10671604.shtml",
+  "title_zh": "我国核电装机容量达1.35亿千瓦",
+  "title_en": "China's Nuclear Power Installed Capacity Reaches 135 GW",
+  "summary_zh": "8月3日，国家能源局数据显示，我国大陆在运及核准在建核电机组共120台，装机容量1.35亿千瓦，总规模居世界第一。",
+  "summary_en": "On August 3, according to the National Energy Administration, China's mainland has 120 nuclear power units in operation or approved for construction, totaling 135 GW, ranking first globally.",
+  "body_zh": "我国核电装机容量达1.35亿千瓦\n总规模保持世界第一\n本报北京8月3日电 (记者王云杉)记者从国家能源局获悉：截至目前，我国大陆地区在运和核准在建核电机组共120台，装机容量1.35亿千瓦，总规模保持世界第一。其中，在运机组62台、装机6614万千瓦，居世界第二，占全国电力总装机的1.6%；核准在建机组58台、装机6951万千瓦，居世界第一。近年来，我国核电发电量在全国能源结构中的占比稳定在5%左右。2025年全国核电发电量4852亿千瓦时，占总发电量的4.6%。\n《“十五五”碳达峰行动方案》明确，到2030年核电运行装机容量达到1.1亿千瓦左右。为应对更多电力需求和更低碳排放的双重挑战，核电将发挥其碳排放低、能量密度大、基荷电力稳定等优势，在保障能源电力安全稳定供给、高比例新能源接入电网安全等方面发挥重要支撑作用。\n国内新闻精选：\n- 2026年08月04日 12:16:05\n- 2026年08月04日 11:14:47\n- 2026年08月03日 16:43:41\n- 2026年08月03日 13:23:45\n- 2026年08月03日 11:02:06\n- 2026年08月03日 10:26:02\n- 2026年08月02日 13:19:04\n- 2026年08月02日 13:04:41\n- 2026年08月02日 11:20:10\n- 2026年08月02日 07:19:05",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "industry",
+  "keywords": [
+    "核电发展",
+    "能源结构转型",
+    "碳达峰"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核电发展",
+      "name_en": "Nuclear Power Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源结构转型",
+      "name_en": "Energy Structure Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "碳达峰",
+      "name_en": "Carbon Peak"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "北京",
+    "核电发展",
+    "能源结构转型",
+    "碳达峰"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Beijing",
+    "Nuclear Power Development",
+    "Energy Structure Transition",
+    "Carbon Peak"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260804-chinanews_gn-814141",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

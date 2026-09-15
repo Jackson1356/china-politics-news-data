@@ -1,0 +1,75 @@
+{
+  "id": "20260812-chinanews_gn-d5f653",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-12/10676206.shtml",
+  "title_zh": "国家防总、应急管理部将针对河南的防汛应急响应提升至三级",
+  "title_en": "National Flood Control Headquarters and Ministry of Emergency Management Raise Flood Emergency Response to Level III for Henan",
+  "summary_zh": "8月12日，国家防总、应急管理部将针对河南的防汛四级应急响应提升至三级，以应对强降雨。",
+  "summary_en": "On Aug 12, the national flood control headquarters and the Ministry of Emergency Management raised the flood emergency response for Henan from Level IV to Level III due to heavy rain.",
+  "body_zh": "国家防总、应急管理部将针对河南的防汛应急响应提升至三级\n8月11日，河南省中东部等地出现暴雨或大暴雨，平顶山、洛阳等局地特大暴雨。据气象部门预报，12日至15日，黄淮中西部和南部、华北南部等地有暴雨或大暴雨，河南中部和西部沿山等地部分地区有特大暴雨。\n根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月12日9时将针对河南省的防汛四级应急响应提升至三级。\n(总台央视记者 唐国荣)\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年08月12日 11:39:24\n- 2026年08月12日 09:10:13\n- 2026年08月11日 22:14:32\n- 2026年08月11日 22:10:41\n- 2026年08月11日 21:58:00\n- 2026年08月11日 20:36:23\n- 2026年08月11日 20:10:44\n- 2026年08月11日 18:43:44\n- 2026年08月11日 16:27:08\n- 2026年08月11日 15:33:22",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛应急"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛应急",
+      "name_en": "Flood Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "河南",
+    "防汛应急"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Henan",
+    "Flood Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260812-chinanews_gn-d5f653",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

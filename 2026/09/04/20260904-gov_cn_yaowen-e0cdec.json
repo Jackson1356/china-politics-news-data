@@ -1,0 +1,106 @@
+{
+  "id": "20260904-gov_cn_yaowen-e0cdec",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080196.htm",
+  "title_zh": "李强签署国务院令公布修订后的《电力安全事故应急处置和调查处理条例》",
+  "title_en": "Li Qiang Signs State Council Order on Revised Power Accident Regulations",
+  "summary_zh": "国务院总理李强日前签署国务院令，公布修订后的《电力安全事故应急处置和调查处理条例》，自2027年1月1日起施行。",
+  "summary_en": "Premier Li Qiang signed a State Council order promulgating the revised regulations on emergency response and investigation of power accidents, effective January 1, 2027.",
+  "body_zh": "李强签署国务院令\n公布修订后的《电力安全事故应急处置和调查处理条例》\n新华社北京9月4日电 国务院总理李强日前签署国务院令，公布修订后的\n《电力安全事故应急处置和调查处理条例》\n（以下简称《条例》），自2027年1月1日起施行。《条例》共38条，修订的主要内容如下。\n一是明确电力企业、电力用户等应当服从统一调度，严格执行有关标准和技术规范，加强事故隐患排查，电力调度机构严格按规定开展电网运行控制。\n二是统筹考虑电网规模和结构变化、发电设备涉网性能、电网运行控制要求等因素，对事故等级划分标准作了调整完善。\n三是将电力企业、电力用户以外并入电网运行的主体纳入本条例适用范围，明确其相应的电力安全责任。\n四是明确电力调度机构的事故报告责任，要求电力企业制定事故应急救援预案并定期组织演练，加强事故应急救援体系建设。\n五是优化事故调查处理机制，明确事故调查组应向监察机关通报情况并邀请其介入事故调查，事故调查报告应当依法及时向社会公布，有关部门应当对事故防范和整改措施落实情况进行评估，并及时向社会公开评估结果。",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "industry",
+  "keywords": [
+    "电力安全",
+    "事故应急处置"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力安全",
+      "name_en": "Electric Power Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "事故应急处置",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "电力安全",
+    "事故应急处置"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Electric Power Safety",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260904-gov_cn_yaowen-e0cdec",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_he_gang",
+      "source_tier": 4,
+      "url": "https://www.hegang.gov.cn/hegang/xrd/202609/93544.shtml",
+      "title_zh": "李强签署国务院令 公布修订后的《电力安全事故应急处置和调查处理条例》",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shi_zui_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080196.htm",
+      "title_zh": "李强签署国务院令 公布修订后的《电力安全事故应急处置和调查处理条例》",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yu_xi",
+      "source_tier": null,
+      "url": "https://www.yuxi.gov.cn/yxs/tt/20260907/1678820.html",
+      "title_zh": "李强签署国务院令公布修订后的《电力安全事故应急处置和调查处理条例》",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

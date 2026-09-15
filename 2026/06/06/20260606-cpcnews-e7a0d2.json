@@ -1,0 +1,83 @@
+{
+  "id": "20260606-cpcnews-e7a0d2",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://politics.people.com.cn/n1/2026/0606/c461001-40735101.html",
+  "title_zh": "习近平同老挝国家主席通伦举行会谈",
+  "title_en": "Xi Jinping Holds Talks with Laotian President Thongloun Sisoulith",
+  "summary_zh": "6月5日下午，习近平在人民大会堂同来华进行国事访问的老挝国家主席通伦举行会谈，强调中老关系的高度重视。",
+  "summary_en": "On the afternoon of June 5, Xi Jinping held talks with Laotian President Thongloun Sisoulith at the Great Hall of the People during Thongloun's state visit to China.",
+  "body_zh": "习近平：你连任后首访选择中国 体现了对发展中老关系的高度重视\n6月5日下午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的老挝人民革命党中央总书记、国家主席通伦举行会谈。\n习近平指出，你连任后首访选择中国，体现了对发展中老关系的高度重视。今年是中老建交65周年暨“中老友好年”。年初以来，我们通过互致信函、互派特使等形式密切沟通。相信在以你为首的老挝党新一届中央领导集体领导下，老挝将会如期完成老挝党十二大确立的目标任务。\n总监制丨申勇\n监制丨许达\n记者丨史伟 杨紫童 马喆 卢心雨\n摄像丨李铮 胡玮 王哈男 章猛 杨波 陆泓宇\n录音丨李远",
+  "image_url": null,
+  "published_at": "2026-06-06T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "中老关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中老关系",
+      "name_en": "China-Laos Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央",
+    "中老关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "China-Laos Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260606-cpcnews-e7a0d2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

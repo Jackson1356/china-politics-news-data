@@ -1,0 +1,84 @@
+{
+  "id": "20260820-gov_long_yan-7cbe41",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202608/t20260820_2308622.htm",
+  "title_zh": "龙岩市领导调研推进为民办实事工作",
+  "title_en": "Longyan Mayor Inspects Public Welfare Projects",
+  "summary_zh": "8月19日，龙岩市长蔡琳深入中心城区调研为民办实事工作，察看工会驿站、老旧小区电梯加装和精品福道工程，强调高质量办好民生实事。",
+  "summary_en": "On August 19, Longyan Mayor Cai Lin inspected central urban area's people-benefit projects, visiting union service stations, old community elevator installations, and scenic walkways, stressing high-quality livelihood services.",
+  "body_zh": "8月19日，市长蔡琳深入中心城区调研推进为民办实事工作，强调要坚持以人民为中心的发展思想，牢固树立和践行正确政绩观，高质量办好为民办实事项目和群众身边“暖心事”，让民生更有温度、幸福更有质感。副市长詹崇仁参加。\n蔡琳走进西城雁翔领航工会驿站，详细了解驿站日常运行管控和服务劳动者群体等情况。他强调，要持续推进工会驿站规范化、品质化建设，从传统的“歇脚点”向智能化、数字化的“智慧服务站”转型，更好做到“服务一群人，温暖一座城”。要深化与人才市场共建共融，实现岗位对接、技能培训、权益保障等服务深度融合，促进高质量充分就业。\n在中城街道裕锦园小区，蔡琳实地察看了老旧小区电梯加装工程项目。他强调，加装电梯直接关系群众日常出行便利。要耐心细致做好群众工作，充分尊重居民意愿，加强政策宣传解读，因地制宜优化加装方案，严把工程质量关、安全关，同步抓好周边环境整治和配套设施完善，真正把好事实事办到群众心坎上。\n随后，蔡琳现场察看了精品福道工程，了解项目规划建设及服务设施配套等情况。他强调，要统筹抓好福道沿线的功能配套和景观提升，将精品福道建设与城市更新、文化旅游深度融合，因地制宜导入智慧导览、历史人文解说等互动元素，确保市民游客走得进来、歇得下脚、留得住心，把福道建设成为市民的“幸福道”和城市的“新名片”。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "welfare",
+  "keywords": [
+    "为民办实事",
+    "老旧小区改造"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": "Cai Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "为民办实事",
+      "name_en": "People-benefit Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老旧小区改造",
+      "name_en": "Old Community Renovation"
+    }
+  ],
+  "tags_zh": [
+    "蔡琳",
+    "龙岩",
+    "为民办实事",
+    "老旧小区改造"
+  ],
+  "tags_en": [
+    "Cai Lin",
+    "Longyan",
+    "People-benefit Projects",
+    "Old Community Renovation"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-lin-longyan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260820-gov_long_yan-7cbe41",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

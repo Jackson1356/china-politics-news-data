@@ -1,0 +1,92 @@
+{
+  "id": "20260903-beijing_daily-cdb231",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/03/11944464.shtml",
+  "title_zh": "外交部：中国在委内瑞拉的合法权益必须得到保护",
+  "title_en": "Foreign Ministry: China's Legitimate Rights in Venezuela Must Be Protected",
+  "summary_zh": "9月3日，外交部发言人郭嘉昆在例行记者会上表示，中委合作受国际法和两国法律保护，中国在委内瑞拉的合法权益必须得到保护。",
+  "summary_en": "On September 3, Foreign Ministry spokesperson Guo Jiakun said at a regular press conference that China-Venezuela cooperation is protected by international law and that China's legitimate rights in Venezuela must be protected.",
+  "body_zh": "9月3日，外交部发言人郭嘉昆主持例行记者会。\n彭博社记者提问，美国能源部长赖特称，中方将不能对委内瑞拉新生产石油收入拥有任何债务、债权。中方能否介绍计划如何保护在委内瑞拉的利益？是否担心美国在委内瑞拉的行为会为美方违反国际法、在其他国家攫取中国的资产树立先例？\n郭嘉昆表示，中国和委内瑞拉的合作受到国际法和两国法律保护，与第三方无关，更不应该受到第三方干扰。中国在委内瑞拉的合法权益必须得到保护。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "中委合作",
+    "国际法",
+    "海外权益保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中委合作",
+      "name_en": "Sino-Venezuelan Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际法",
+      "name_en": "International Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海外权益保护",
+      "name_en": "Protection of Overseas Rights"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中委合作",
+    "国际法",
+    "海外权益保护"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Sino-Venezuelan Cooperation",
+    "International Law",
+    "Protection of Overseas Rights"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      },
+      {
+        "id": null,
+        "name_zh": "方能否"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260903-beijing_daily-cdb231",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

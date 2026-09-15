@@ -1,0 +1,115 @@
+{
+  "id": "20260529-peoples_cq-b68593",
+  "source": "peoples_cq",
+  "source_name_zh": "人民网 重庆",
+  "source_name_en": "People's Daily Chongqing",
+  "source_url": "http://cq.people.com.cn/n2/2026/0601/c365402-41596958.html",
+  "title_zh": "川渝通报5款违规APP及小程序",
+  "title_en": "Chongqing and Sichuan Authorities Report Five Non-compliant Apps and Mini-programs",
+  "summary_zh": "5月29日，重庆市和四川省通信管理局通报了5款侵害用户权益的违规APP及小程序，要求其在6月9日前完成整改。",
+  "summary_en": "On May 29, the Communications Administrations of Chongqing and Sichuan reported five non-compliant apps and mini-programs for violating user rights, demanding rectification by June 9.",
+  "body_zh": "谨慎使用！川渝通报5款违规APP及小程序\n5月29日，重庆市通信管理局官网通报川渝两地侵害用户权益APP名单（2026年第四期），共有5款APP和小程序在名单中。为避免个人隐私信息泄露，市民最好慎用这些APP和小程序。\n通报称，根据中央网信办、工业和信息化部、公安部、市场监管总局等四部门联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，依据个人信息保护法、网络安全法、电信条例、电信和互联网用户个人信息保护规定等法律法规，重庆市通信管理局和四川省通信管理局组织第三方检测机构，对川渝两地主流应用商店移动互联网应用程序（APP/小程序）进行了检查。截至目前，仍有5款APP和小程序未按要求完成整改。\n通报同时要求，上述APP和小程序应在2026年6月9日前完成整改落实工作。逾期不整改的，将依法依规进行处置。\n四川省某运动健康类APP，全网下载量超过600万次。该应用存在“在获取摄像头权限时，告知用户获取权限的目的不明确”的侵害用户权益行为。\n上述相关行为均违反了工业和信息化部《关于开展纵深推进APP侵害用户权益专项整治行动的通知》中，“违规收集个人信息”的要求。\n业内人士表示，上述APP和小程序的违规行为易导致用户个人隐私信息泄露，市民最好不要使用。（记者 黄光红）",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "industry",
+  "keywords": [
+    "个人信息保护",
+    "APP专项整治"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "重庆市通信管理局",
+      "name_en": "Chongqing Communications Administration"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川省通信管理局",
+      "name_en": "Sichuan Communications Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "个人信息保护",
+      "name_en": "Personal Information Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "APP专项整治",
+      "name_en": "APP Special Rectification"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "程序",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "重庆市通信管理局",
+    "四川省通信管理局",
+    "重庆",
+    "四川",
+    "个人信息保护",
+    "APP专项整治"
+  ],
+  "tags_en": [
+    "Chongqing Communications Administration",
+    "Sichuan Communications Administration",
+    "Chongqing",
+    "Sichuan",
+    "Personal Information Protection",
+    "APP Special Rectification"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "程序"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ",
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "重庆市通信管理局",
+        "name_en": "Chongqing Communications Administration"
+      },
+      {
+        "name_zh": "四川省通信管理局",
+        "name_en": "Sichuan Communications Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260529-peoples_cq-b68593",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

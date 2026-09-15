@@ -1,0 +1,93 @@
+{
+  "id": "20260823-peoples_hi-5b3bc6",
+  "source": "peoples_hi",
+  "source_name_zh": "人民网 海南",
+  "source_name_en": "People's Daily Hainan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hi.people.com.cn/n2/2026/0823/c231190-41675119.html",
+  "title_zh": "水利部对海南等三地启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level IV Emergency Response for Flood Defense in Hainan and Two Other Regions",
+  "summary_zh": "8月22日，水利部对广东、广西、海南启动洪水防御Ⅳ级应急响应，应对台风“紫檀”带来的强降雨和洪水风险。",
+  "summary_en": "On August 22, the Ministry of Water Resources activated a Level IV emergency response for flood defense in Guangdong, Guangxi, and Hainan in response to heavy rain and flood risks from Typhoon \"Zitan\".",
+  "body_zh": "水利部对海南等三地启动洪水防御Ⅳ级应急响应\n新华社北京8月22日电（记者魏弘毅）记者从水利部了解到，水利部22日对广东、广西、海南启动洪水防御Ⅳ级应急响应。\n受19号台风“紫檀”影响，预计8月22日至24日，广西西部南部、广东、海南将有大到暴雨，部分地区将有大暴雨。广西郁江干支流及桂南沿海钦江、防城河、南流江，广东东江、韩江及沿海榕江、鉴江，海南南渡江、昌化江、万泉河等河流将出现涨水过程，其中广西郁江支流左江、明江可能发生超警洪水，暴雨区内部分中小河流可能发生超警以上洪水。\n为应对汛情，水利部督促指导地方水利部门密切监视台风“紫檀”影响态势，强化雨水情监测预报预警，科学调度水工程，突出抓好山洪灾害、中小河流洪水防御和水库安全度汛，针对暑期旅游、汛期施工等情况，切实落实流动人员安全管控措施，动态完善风险区清单，及时转移危险区人员，全力保障人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-08-23T12:00:00+00:00",
+  "event_date": "2026-08-22",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应",
+    "台风防御"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "海南",
+    "防汛",
+    "应急响应",
+    "台风防御"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Hainan",
+    "Flood Control",
+    "Emergency Response",
+    "Typhoon Defense"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260823-peoples_hi-5b3bc6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

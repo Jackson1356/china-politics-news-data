@@ -1,0 +1,99 @@
+{
+  "id": "20260607-chinanews_gn-e7a4a0",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-07/10635762.shtml",
+  "title_zh": "山西省长治市沁源县应急管理局岳晓东被查",
+  "title_en": "Yue Xiaodong of Qinyuan County Emergency Management Bureau in Shanxi Under Investigation",
+  "summary_zh": "2026年6月7日，山西省长治市沁源县纪委监委对沁源县应急管理局党委委员岳晓东进行纪律审查和监察调查。",
+  "summary_en": "On June 7, 2026, the Qinyuan County Commission for Discipline Inspection and Supervisory Commission launched an investigation into Yue Xiaodong for suspected serious violations of discipline and law.",
+  "body_zh": "山西省长治市沁源县应急管理局党委委员、应急管理综合行政执法队副队长岳晓东被查\n中新网6月7日电 据长治市纪委监委网站消息，山西省长治市沁源县应急管理局党委委员、应急管理综合行政执法队副队长(负责日常工作)岳晓东涉嫌严重违纪违法，目前正接受沁县纪委监委纪律审查和监察调查。\n国内新闻精选：\n- 2026年06月07日 14:47:14\n- 2026年06月06日 21:24:40\n- 2026年06月06日 20:54:02\n- 2026年06月06日 18:23:51\n- 2026年06月06日 15:55:45\n- 2026年06月06日 15:53:43\n- 2026年06月06日 15:44:49\n- 2026年06月06日 13:47:05\n- 2026年06月06日 12:25:32\n- 2026年06月06日 09:38:26",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": "2026-06-07",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "discipline",
+  "keywords": [
+    "纪律审查",
+    "监察调查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "岳晓东",
+      "name_en": "Yue Xiaodong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "沁县纪委监委",
+      "name_en": "Qinyuan County Commission for Discipline Inspection and Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SX",
+      "name_zh": "山西",
+      "name_en": "Shanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "监察调查",
+      "name_en": "Supervisory Investigation"
+    }
+  ],
+  "tags_zh": [
+    "岳晓东",
+    "沁县纪委监委",
+    "山西",
+    "纪律审查",
+    "监察调查"
+  ],
+  "tags_en": [
+    "Yue Xiaodong",
+    "Qinyuan County Commission for Discipline Inspection and Supervisory Commission",
+    "Shanxi",
+    "Disciplinary Review",
+    "Supervisory Investigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SX"
+    ],
+    "companies": [
+      {
+        "name_zh": "沁县纪委监委",
+        "name_en": "Qinyuan County Commission for Discipline Inspection and Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260607-chinanews_gn-e7a4a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-07/10635809.shtml",
+      "title_zh": "拾光纪·回顾这些瞬间，感受“中朝一家亲”",
+      "published_at": "2026-06-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

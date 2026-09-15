@@ -1,0 +1,114 @@
+{
+  "id": "20260530-peoples_gs-af2e82",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0531/c183342-41596574.html",
+  "title_zh": "央企科技成果产业化联合体成立",
+  "title_en": "Central Enterprise Technology Achievement Industrialization Consortium Established",
+  "summary_zh": "5月30日，由国务院国资委指导、国家能源集团牵头组建的中央企业科技成果产业化联合体在北京成立，旨在推动科技创新与产业创新深度融合。",
+  "summary_en": "On May 30, the Central Enterprise Technology Achievement Industrialization Consortium, guided by SASAC and led by China Energy Investment Corporation, was established in Beijing to integrate technological and industrial innovation.",
+  "body_zh": "央企科技成果产业化联合体成立\n今年底初步构建成果转化数字生态\n本报北京5月30日电 （记者王云杉）30日，由国务院国资委指导、国家能源集团牵头组建的中央企业科技成果产业化联合体在北京成立。该联合体由全体中央企业参与共建，吸纳科研院所、高校、产业链上下游骨干企业、创新型民营企业等主体，聚焦国家战略部署，推动科技创新和产业创新深度融合，搭建一站式、全链条的科技成果产业化服务体系。\n该联合体贯通3个关键环节：打通基础研究、应用开发、成果转化的创新链条；做实6项核心功能：牵引基础研究、深化场景开放、畅通转化渠道、输出标杆范式、优化创新生态、促进产业提质。\n按计划，到2026年底，该联合体完成规范化组建与平稳运行，初步构建成果转化数字生态；到2028年底，实现成熟规范运行，成为国内科技成果转化交易核心载体、产业升级与新兴产业培育的重要支撑平台；到2030年底，建成开放协同、要素集聚、生态完善、全球辐射的世界一流创新联合体，交易规模、服务能级与辐射带动作用领跑全球。",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-30",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "industry",
+  "keywords": [
+    "科技成果产业化",
+    "中央企业",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院国资委",
+      "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技成果产业化",
+      "name_en": "Industrialization of Scientific and Technological Achievements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央企业",
+      "name_en": "Central Enterprises"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "国务院国资委",
+    "北京",
+    "科技成果产业化",
+    "中央企业",
+    "科技创新"
+  ],
+  "tags_en": [
+    "State-owned Assets Supervision and Administration Commission of the State Council",
+    "Beijing",
+    "Industrialization of Scientific and Technological Achievements",
+    "Central Enterprises",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国务院国资委",
+        "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260530-peoples_gs-af2e82",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0531/c134768-41596465.html",
+      "title_zh": "央企科技成果产业化联合体成立",
+      "published_at": "2026-05-31T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0531/c192237-41596487.html",
+      "title_zh": "央企科技成果产业化联合体成立",
+      "published_at": "2026-05-31T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0531/c378440-41596523.html",
+      "title_zh": "央企科技成果产业化联合体成立",
+      "published_at": "2026-05-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

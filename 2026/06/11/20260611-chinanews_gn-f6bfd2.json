@@ -1,0 +1,103 @@
+{
+  "id": "20260611-chinanews_gn-f6bfd2",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-11/10638357.shtml",
+  "title_zh": "王毅将访问蒙古国",
+  "title_en": "Wang Yi to Visit Mongolia",
+  "summary_zh": "中国外交部11日宣布，外交部长王毅将于6月13日至15日访问蒙古国，与蒙方领导人会见并就双边关系及国际地区问题进行沟通。",
+  "summary_en": "China's Ministry of Foreign Affairs announced on June 11 that Foreign Minister Wang Yi will visit Mongolia from June 13 to 15 to discuss bilateral relations and international issues.",
+  "body_zh": "王毅将访问蒙古国\n中新网北京6月11日电 (记者 张蔚然 黄钰钦)中国外交部发言人11日宣布：应蒙古国外长巴特策策格邀请，中共中央政治局委员、外交部长王毅将于6月13日至15日访问蒙古国。\n在当日举行的例行记者会上，外交部发言人林剑介绍称，访问期间，王毅外长将同蒙方领导人会见，同巴特策策格外长会谈，双方将就双边关系、务实合作及共同关心的国际地区问题进行沟通。\n林剑指出，中蒙是山水相连的友好邻邦。在两国元首战略引领下，中蒙关系保持良好发展势头。中方期待通过此访，进一步落实两国领导人达成的重要共识，推动中蒙全面战略伙伴关系稳定向前发展。(完)\n国内新闻精选：\n- 2026年06月11日 12:49:35\n- 2026年06月10日 21:58:49\n- 2026年06月10日 21:47:00\n- 2026年06月10日 21:14:48\n- 2026年06月10日 17:18:17\n- 2026年06月10日 16:05:39\n- 2026年06月10日 12:09:18\n- 2026年06月10日 10:02:46\n- 2026年06月10日 07:50:23\n- 2026年06月09日 18:46:40",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-13",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中蒙关系",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "蒙古国",
+      "name_en": "Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中蒙关系",
+      "name_en": "China-Mongolia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王毅将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "蒙古国",
+    "中蒙关系",
+    "务实合作",
+    "王毅将"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Mongolia",
+    "China-Mongolia Relations",
+    "Pragmatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "王毅将"
+      },
+      {
+        "id": null,
+        "name_zh": "林剑"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260611-chinanews_gn-f6bfd2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260909-gov_zhou_kou-ecc5d2",
+  "source": "gov_zhou_kou",
+  "source_name_zh": "周口市政府网",
+  "source_name_en": "周口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhou_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/zkyw/articledbc122986871496483e81f4764a39b35.html",
+  "title_zh": "市总工会四届十五次常委（扩大）会议召开",
+  "title_en": "Municipal Federation of Trade Unions Holds 15th Session of Standing Committee (Enlarged) Meeting",
+  "summary_zh": "9月8日，周口市总工会四届十五次常委（扩大）会议召开，市人大常委会副主任、市总工会主席杨雪芹主持并讲话，部署学习贯彻习近平总书记重要讲话精神，推进工会工作。",
+  "summary_en": "On September 8, the Zhoukou Municipal Federation of Trade Unions held its 15th session of the 4th Standing Committee (enlarged) meeting. Yang Xueqin, deputy director of the Municipal People's Congress Standing Committee and chairman of the federation, presided over the meeting and emphasized studying Xi Jinping's important speeches and advancing union work.",
+  "body_zh": "市总工会四届十五次常委（扩大）会议召开\n9月8日，市总工会四届十五次常委（扩大）会议召开。市人大常委会党组副书记、副主任，市总工会主席杨雪芹主持并讲话。\n会议深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神和习近平党建思想，进一步贯彻落实习近平总书记在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会上的重要讲话精神；传达市第六次党代会精神、省总工会十六届九次常委（扩大）会议精神；听取市总工会四届十次全委会议以来工作开展情况和下一步重点工作安排的报告。\n会议要求，全市各级工会要把牢工作正确政治方向，深入学习贯彻习近平总书记重要讲话精神，认真落实上级各项部署要求，引领广大职工找准服务大局的切入点、结合点、着力点，打造具有周口辨识度的工会工作品牌；要聚焦年度目标任务，查漏补缺、加压奋进，纵深推进产业工人队伍建设改革，广泛开展职工劳动和技能竞赛，抓实抓细职工维权服务工作，建好用好各类服务阵地，确保年度各项重点工作落地见效；要持之以恒推进全面从严治党向工会系统延伸，树牢正确政绩观，锻造忠诚干净担当的工会干部队伍，涵养风清气正、干事创业的良好政治生态，以实干实绩推动全市工会工作再上新台阶。（记者 刘昂）",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "party",
+  "keywords": [
+    "工会工作",
+    "党建",
+    "产业工人队伍建设改革"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA-ZK",
+      "name_zh": "周口",
+      "name_en": "Zhoukou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工会工作",
+      "name_en": "Trade Union Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业工人队伍建设改革",
+      "name_en": "Reform of Industrial Worker Force Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "周口",
+    "工会工作",
+    "党建",
+    "产业工人队伍建设改革",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhoukou",
+    "Trade Union Work",
+    "Party Building",
+    "Reform of Industrial Worker Force Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "杨雪芹"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA-ZK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260909-gov_zhou_kou-ecc5d2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

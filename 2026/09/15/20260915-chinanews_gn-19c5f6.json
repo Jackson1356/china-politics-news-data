@@ -1,0 +1,111 @@
+{
+  "id": "20260915-chinanews_gn-19c5f6",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-15/10696768.shtml",
+  "title_zh": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结",
+  "title_en": "Foreign Ministry: Takaichi Sanae's Erroneous Taiwan-Related Remarks Are the Biggest Obstacle in China-Japan Relations",
+  "summary_zh": "9月15日，外交部发言人郭嘉昆在例行记者会上表示，日本首相高市早苗涉台错误言行是当前中日关系严重困难的最大症结，敦促日方恪守中日四个政治文件精神。",
+  "summary_en": "On Sept 15, Foreign Ministry spokesman Guo Jiakun said Japanese PM Takaichi Sanae's erroneous Taiwan-related remarks are the biggest obstacle in China-Japan relations, urging Japan to honor the four political documents.",
+  "body_zh": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结\n9月15日，外交部发言人郭嘉昆主持例行记者会。有记者就中日关系提问。\n对此，郭嘉昆表示，9月14日，中国外交部刘彬部长助理会见来华访问的日中友好议员联盟青年议员代表团。中方强调，日本首相高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结。日方应恪守中日4个政治文件精神，汲取历史教训，以实际行动取信亚洲邻国和国际社会。希望日中议联秉持对华友好传统，展现责任担当，为两国关系重回正轨创造条件和环境。\n国内新闻精选：\n- 2026年09月15日 12:39:29\n- 2026年09月15日 10:31:29\n- 2026年09月15日 09:29:43\n- 2026年09月15日 09:24:27\n- 2026年09月14日 20:38:15\n- 2026年09月14日 10:57:08\n- 2026年09月14日 10:46:53\n- 2026年09月14日 10:23:20\n- 2026年09月14日 09:05:05\n- 2026年09月13日 20:34:53",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "中日关系",
+    "台湾问题",
+    "外交交涉"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高市早苗",
+      "name_en": "Takaichi Sanae"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾问题",
+      "name_en": "Taiwan Issue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交交涉",
+      "name_en": "Diplomatic Representations"
+    }
+  ],
+  "tags_zh": [
+    "高市早苗",
+    "外交部",
+    "中日关系",
+    "台湾问题",
+    "外交交涉"
+  ],
+  "tags_en": [
+    "Takaichi Sanae",
+    "Ministry of Foreign Affairs",
+    "China-Japan Relations",
+    "Taiwan Issue",
+    "Diplomatic Representations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高市早苗"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260915-chinanews_gn-19c5f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1789456755129654.html",
+      "title_zh": "外交部：高市早苗涉台错误言行是中日关系面临严重困难的最大症结",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/09/15/11959652.shtml",
+      "title_zh": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

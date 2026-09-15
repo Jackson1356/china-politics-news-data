@@ -1,0 +1,99 @@
+{
+  "id": "20260729-gov_cn_yaowen-52a59c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076937.htm",
+  "title_zh": "习近平主席特使阴和俊出席秘鲁总统权力交接仪式",
+  "title_en": "Xi's Special Envoy Yin Hejun Attends Peruvian Presidential Power Transfer Ceremony",
+  "summary_zh": "7月28日，习近平主席特使、科技部部长阴和俊在利马出席秘鲁总统权力交接仪式，并与当选总统藤森庆子举行会见，转达习近平主席问候。",
+  "summary_en": "On July 28, Yin Hejun, special envoy of President Xi Jinping and Minister of Science and Technology, attended the Peruvian presidential power transfer ceremony in Lima and met with President-elect Keiko Fujimori, conveying President Xi's greetings.",
+  "body_zh": "新华社利马7月28日电 7月28日，应秘鲁政府邀请，国家主席习近平特使、科技部部长阴和俊在秘鲁首都利马出席秘鲁总统权力交接仪式。27日，藤森庆子当选总统同阴和俊特使举行双边会见。\n阴和俊向藤森庆子转达习近平主席的亲切问候和良好祝愿。阴和俊表示，中秘关系发展长期走在拉美国家前列。中国已连续12年成为秘鲁最大贸易伙伴和最大出口市场，两国高质量共建“一带一路”标志性项目钱凯港表现亮眼。今年是中秘建交55周年。中方愿同秘鲁新一届政府一道共同努力，推动中秘关系取得更多新成果。\n藤森庆子请阴和俊转达她对习近平主席的诚挚问候，衷心感谢习近平主席专程派高级别代表团出席其就职仪式。藤森庆子表示，秘方高度重视发展对华关系，坚定恪守一个中国原则，积极评价中国投资对秘鲁经济社会发展发挥的重要作用，愿同中方深化各领域合作，推动两国关系不断发展。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "中秘关系",
+    "一带一路",
+    "双边合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-hejun",
+      "name_zh": "阴和俊",
+      "name_en": "Yin Hejun"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "利马",
+      "name_en": "Lima"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中秘关系",
+      "name_en": "China-Peru Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边合作",
+      "name_en": "Bilateral Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "阴和俊",
+    "利马",
+    "中秘关系",
+    "一带一路",
+    "双边合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yin Hejun",
+    "Lima",
+    "China-Peru Relations",
+    "Belt and Road",
+    "Bilateral Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-hejun",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260729-gov_cn_yaowen-52a59c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

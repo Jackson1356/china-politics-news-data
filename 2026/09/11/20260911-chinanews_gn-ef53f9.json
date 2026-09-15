@@ -1,0 +1,121 @@
+{
+  "id": "20260911-chinanews_gn-ef53f9",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-11/10694676.shtml",
+  "title_zh": "外交部：一中原则是中意关系、中欧关系的政治基础",
+  "title_en": "Foreign Ministry: One-China Principle Is the Political Foundation of China-Italy and China-EU Relations",
+  "summary_zh": "9月11日，外交部发言人毛宁在北京例行记者会上表示，中方已就“台独”政客赴意大利出席有关会议向意方、欧方提出严正交涉，并敦促有关方面恪守一个中国原则。",
+  "summary_en": "On September 11, Chinese Foreign Ministry spokesperson Mao Ning said in Beijing that China has lodged solemn representations with Italy and the EU over a \"Taiwan independence\" politician attending a meeting in Italy, urging them to uphold the one-China principle.",
+  "body_zh": "外交部：一中原则是中意关系、中欧关系的政治基础\n新华社北京9月11日电(记者邵艺博、万倩仪)外交部发言人毛宁11日在例行记者会上表示，中方已经就“台独”政客赴意大利出席有关会议，向意方、欧方提出严正交涉。民进党当局和个别政客挖空心思四处蹭热度，打着“民主”“自由”的幌子“倚外谋独”，这种行为令人不齿、终归徒劳。\n毛宁说，世界上只有一个中国，台湾是中国领土不可分割的一部分。中方一贯坚决反对建交国与中国台湾地区进行任何形式的官方往来。一个中国原则是公认的国际关系准则和国际社会普遍共识，也是中意关系、中欧关系的政治基础。我们敦促有关方面以实际行动恪守一个中国原则。(完)\n国内新闻精选：\n- 2026年09月11日 14:46:37\n- 2026年09月11日 09:57:06\n- 2026年09月11日 09:36:17\n- 2026年09月11日 09:35:27\n- 2026年09月11日 09:00:15\n- 2026年09月11日 08:40:31\n- 2026年09月11日 08:31:37\n- 2026年09月10日 20:28:21\n- 2026年09月10日 19:20:37\n- 2026年09月10日 14:52:00",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-11",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "一个中国原则",
+    "中欧关系",
+    "台湾问题"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "意大利",
+      "name_en": "Italy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-EU Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾问题",
+      "name_en": "Taiwan Issue"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "意大利",
+    "一个中国原则",
+    "中欧关系",
+    "台湾问题"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Italy",
+    "One-China Principle",
+    "China-EU Relations",
+    "Taiwan Issue"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方欧方"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260911-chinanews_gn-ef53f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694687.shtml",
+      "title_zh": "中方：已就“台独”政客赴意大利出席会议向意方、欧方提出严正交涉",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1789111686129070.html",
+      "title_zh": "外交部：中方已经就“台独”政客赴意大利出席有关会议，向意方、欧方提出严正交涉",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

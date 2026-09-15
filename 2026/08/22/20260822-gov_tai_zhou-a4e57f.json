@@ -1,0 +1,101 @@
+{
+  "id": "20260822-gov_tai_zhou-a4e57f",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_205ef36de2354a6b8709bcaa159b48e5.html",
+  "title_zh": "李晖主持召开市政府党组会议",
+  "title_en": "Li Hui Chairs Meeting of Taizhou Municipal Government Party Group",
+  "summary_zh": "8月21日，泰州市政府党组书记、市长李晖主持召开市政府党组会议，学习贯彻习近平总书记近期重要讲话和重要文章精神，并部署防灾减灾等工作。",
+  "summary_en": "On August 21, Li Hui, Party Group Secretary and Mayor of Taizhou Municipal Government, chaired a Party Group meeting to study Xi Jinping's recent important speeches and articles, and to arrange disaster prevention and reduction work.",
+  "body_zh": "泰州要闻\n李晖主持召开市政府党组会议\n- 发布日期：2026-08-22 07:11\n- 浏览次数：\n8月21日，市政府党组会议召开，深入学习贯彻习近平总书记近期重要讲话重要文章精神，按照省、市委要求，扎实做好政府系统贯彻落实工作。市政府党组书记、市长李晖主持会议。\n会议指出，习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话，全面回顾江泽民同志光辉战斗的一生，高度评价江泽民同志为党和人民建立的不朽功勋，系统概括了江泽民同志的崇高风范，具有很强的政治性、思想性、指导性。我们要深学细悟习近平总书记重要讲话精神，认真落实江苏省纪念江泽民同志诞辰100周年座谈会要求，不忘初心、牢记使命，同心同德、奋勇前进，奋力谱写“强富美高”新泰州现代化建设新篇章。\n会议强调，要深入学习贯彻习近平总书记在《求是》杂志发表的重要文章《提高防灾减灾救灾能力》，强化事前预防、完善应急响应，强化科技支撑、夯实基层基础，进一步提高防范应对各类自然灾害的能力和水平，以高水平安全保障高质量发展。要针对新一轮台风可能带来的影响，加强监测预警，持续抓实隐患排查整治，认真做好防范应对各项准备，全力守护人民群众生命财产安全。\n会议学习了中央党的建设工作领导小组第26次会议精神，强调要深入学习贯彻习近平党建思想，深刻领会习近平总书记关于树立和践行正确政绩观的重要论述，牢牢把握“立党为公、为民造福、科学决策、真抓实干”总要求，实事求是推动问题整改销号，慎终如始做好各项工作，切实将正确政绩观内化于心、外化于行。要既立足当前、又着眼长远，持续深入抓好理论学习、问题整治、建章立制等，久久为功巩固拓展学习教育成果，推动正确政绩观融入日常、抓在经常，以实干实绩检验学习教育成果。",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "防灾减灾",
+    "正确政绩观"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正确政绩观",
+      "name_en": "Correct View of Political Achievements"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "党的建设",
+    "防灾减灾",
+    "正确政绩观",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Party Building",
+    "Disaster Prevention and Reduction",
+    "Correct View of Political Achievements"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260822-gov_tai_zhou-a4e57f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

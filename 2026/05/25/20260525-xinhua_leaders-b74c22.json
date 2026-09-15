@@ -1,0 +1,88 @@
+{
+  "id": "20260525-xinhua_leaders-b74c22",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260525/1d9fbf98d7124ad7983fb4af6ed8ebd6/c.html",
+  "title_zh": "习近平同塞尔维亚总统武契奇会谈",
+  "title_en": "Xi Jinping Holds Talks with Serbian President Aleksandar Vučić",
+  "summary_zh": "5月25日下午，国家主席习近平在北京人民大会堂同塞尔维亚总统武契奇举行会谈，并共同见证签署20多项合作文件。",
+  "summary_en": "On the afternoon of May 25, President Xi Jinping held talks with Serbian President Aleksandar Vučić at the Great Hall of the People in Beijing, witnessing the signing of over 20 cooperation documents.",
+  "body_zh": "5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。这是会谈前，习近平和夫人彭丽媛同武契奇和夫人塔玛拉合影。\n5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。这是会谈前，习近平在人民大会堂北大厅为武契奇举行欢迎仪式。\n5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。这是会谈前，习近平和夫人彭丽媛在人民大会堂北大厅为武契奇和夫人塔玛拉举行欢迎仪式。\n5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。\n5月25日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。会谈后，两国元首共同见证签署政治、经贸、科技、教育、司法、文化等领域20多项合作文件。",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "武契奇",
+      "name_en": "Aleksandar Vučić"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Serbia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "武契奇",
+    "北京",
+    "中塞关系",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Aleksandar Vučić",
+    "Beijing",
+    "China-Serbia Relations",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260525-xinhua_leaders-b74c22",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

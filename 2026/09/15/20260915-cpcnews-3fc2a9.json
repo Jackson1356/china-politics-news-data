@@ -1,0 +1,111 @@
+{
+  "id": "20260915-cpcnews-3fc2a9",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0915/c64387-40798849.html",
+  "title_zh": "2026年国家网络安全宣传周开幕式在山东济南举行",
+  "title_en": "2026 National Cybersecurity Week Opens in Jinan, Shandong",
+  "summary_zh": "9月14日，2026年国家网络安全宣传周开幕式在山东济南举行，集中发布《人工智能安全治理框架3.0》等成果，活动由十部门联合主办。",
+  "summary_en": "On September 14, the opening ceremony of 2026 National Cybersecurity Week was held in Jinan, Shandong, where the AI Security Governance Framework 3.0 and other results were released; the event is co-hosted by ten central departments.",
+  "body_zh": "本报济南9月14日电 （记者金歆）9月14日，2026年国家网络安全宣传周开幕式在山东省济南市举行。中央和国家机关有关部门负责同志，香港特别行政区政府代表，山东省及有关省（区、市）有关方面负责同志，专家学者、企业和高校代表、新闻媒体记者等1200余人参加开幕式。\n开幕式上集中发布了《人工智能安全治理框架3.0》、《2026年人工智能技术赋能网络安全应用测试结果》和消费类网联摄像头网络安全标识备案产品等网络安全成果。开幕式期间，与会领导嘉宾还参观了网络安全技术应用体验区。\n9月14日至20日，2026年国家网络安全宣传周在全国范围内统一开展，主题为“网络安全为人民，网络安全靠人民——智能时代 网安护航”，由中央宣传部、中央网信办、教育部、工业和信息化部、公安部、中国人民银行、国家广播电视总局、全国总工会、共青团中央、全国妇联等十部门联合主办。\n网络安全宣传周期间，还有网络安全技术高峰论坛、网络安全技术应用体验区、网络安全和信息化人才招聘会、“文艺话网安”、主题日和网络安全“七进”等活动。\n《 人民日报 》（ 2026年09月15日 04 版）",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "industry",
+  "keywords": [
+    "网络安全",
+    "人工智能治理",
+    "数据安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "中央网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Publicity Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能治理",
+      "name_en": "AI Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据安全",
+      "name_en": "Data Security"
+    }
+  ],
+  "tags_zh": [
+    "中央网信办",
+    "中央宣传部",
+    "济南",
+    "山东",
+    "网络安全",
+    "人工智能治理",
+    "数据安全"
+  ],
+  "tags_en": [
+    "Cyberspace Administration of China",
+    "Publicity Department of the CPC Central Committee",
+    "Jinan",
+    "Shandong",
+    "Cybersecurity",
+    "AI Governance",
+    "Data Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAC",
+      "CCPD"
+    ],
+    "locations": [
+      "CN-SD-JN",
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260915-cpcnews-3fc2a9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

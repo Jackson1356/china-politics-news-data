@@ -1,0 +1,105 @@
+{
+  "id": "20260915-gov_yue_yang-e6404a",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2400877.html",
+  "title_zh": "岳阳市委召开座谈会征求市第九次党代会报告意见",
+  "title_en": "Yueyang Municipal Committee Holds Symposium to Seek Opinions on Party Congress Report",
+  "summary_zh": "9月14日，受岳阳市委书记谢卫江委托，市委副书记、代理市长唐浩然主持召开座谈会，听取基层代表对市第九次党代会报告的意见建议。",
+  "summary_en": "On Sept 14, acting mayor Tang Haoran, entrusted by Yueyang Party Secretary Xie Weijiang, chaired a symposium to gather grassroots opinions on the report for the city's 9th Party Congress.",
+  "body_zh": "9月14日，受省委副书记、岳阳市委书记谢卫江委托，市委副书记、代理市长唐浩然主持召开座谈会，听取基层市党代表、人大代表、政协委员和基层干部、群众代表对市第九次党代会报告的意见建议。\n会上，10位与会同志先后发言，一致认为党代会报告征求意见稿通篇贯穿高质量发展导向，立意高远、催人奋进，并结合各自工作实际，围绕集体经济、乡村振兴、基层党组织建设、基层治理、民生服务、食品安全、教育教学、产业发展、对外开放等提出意见建议。\n唐浩然认真听取发言，对大家提出的意见建议给予充分肯定，要求报告起草工作专班逐条梳理、认真研究、充分吸纳，让党代会报告更加符合岳阳实际、更加顺应群众期待。\n唐浩然指出，市第八次党代会以来的五年，在以习近平同志为核心的党中央和省委坚强领导下，全市各项事业取得了新成就。成绩来之不易，离不开全市广大基层党代表、人大代表、政协委员和基层干部、群众代表的大力支持和积极贡献。未来五年是岳阳发展的关键时期。希望大家再接再厉、发挥优势，当好基层民意“代言人”、改革发展“助推器”、党代会精神“践行者”，在服务中心大局中展现更大作为，凝心聚力加快建设高质量省域副中心城市，奋力开创中国式现代化“七个岳阳”新局面。市委、市政府将一如既往坚持大抓基层的鲜明导向，推动资源、服务、管理向基层下沉，持续为基层减负赋能。\n市领导李建华，市政府秘书长孙志诚参加。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "party",
+  "keywords": [
+    "党代会报告",
+    "基层治理",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐浩然",
+      "name_en": "Tang Haoran"
+    },
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会报告",
+      "name_en": "Party Congress Report"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层治理",
+      "name_en": "Grassroots Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "唐浩然",
+    "谢卫江",
+    "岳阳",
+    "党代会报告",
+    "基层治理",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Tang Haoran",
+    "Xie Weijiang",
+    "Yueyang",
+    "Party Congress Report",
+    "Grassroots Governance",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      },
+      "xie-weijiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-gov_yue_yang-e6404a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

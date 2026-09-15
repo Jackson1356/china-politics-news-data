@@ -1,0 +1,74 @@
+{
+  "id": "20260804-local_da_he_wang_cn_ha-615e5b",
+  "source": "local_da_he_wang_cn_ha",
+  "source_name_zh": "大河网",
+  "source_name_en": "大河网",
+  "source_media_id": "cac-cn-ha-54cabc1872",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HA",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.dahe.cn/2026/08-04/2116959.html",
+  "title_zh": "宇通首批机场自动驾驶旅客摆渡车在新疆投运",
+  "title_en": "Yutong's First Airport Autonomous Shuttle Buses Put into Operation in Xinjiang",
+  "summary_zh": "7月28日，宇通16辆机场自动驾驶旅客摆渡车在乌鲁木齐天山国际机场投运，开启中国民航自动驾驶载人商业化运营，填补国内空白。",
+  "summary_en": "On July 28, Yutong put 16 autonomous airport shuttle buses into operation at Urumqi Tianshan International Airport, marking China's first commercial autonomous passenger use in civil aviation.",
+  "body_zh": "本报讯（全媒体记者 杨凌 杨亚坤）7月28日，宇通客车16辆机场自动驾驶旅客摆渡车在乌鲁木齐天山国际机场正式投运，标志着中国民航首批机场自动驾驶旅客摆渡车开启商业化运营，填补了国内民航自动驾驶载人应用的空白。\n据了解，相较于城市道路，天山国际机场的机坪堪称自动驾驶的“极限考场”：信号易被遮挡，异形车辆穿梭频繁，加之常年风沙强光，对自动驾驶旅客摆渡车的感知精度要求极高。\n为破解这一难题，宇通客车联合国汽智控（清华科创团队）历经两年攻关，采集上万组机坪数据“喂”给视觉模型，攻克了多道感知难题，并依托云控平台实现了多车高效协同。\n“这是全球首款在民航机坪商用落地的自动驾驶旅客摆渡车。”宇通客车技术总监吴小岭介绍，车辆采用12米纯电平台，转弯半径较常规车型缩小了15%，更适配机坪狭窄通道；搭载了350kWh电池与液冷热管理技术，高度适配新疆高低温极端环境，可满足单日全时段运营；驾乘分离隔断、制动管路双回路冗余等多重安全设计，为行车安全上了“双保险”。\n在此之前，该型车辆已完成了超1万公里的空载测试，实现了安全运行零事故。\n“这批机场自动驾驶旅客摆渡车的投运，不仅革新了机场传统地面服务模式，更为全国民航智慧化转型提供了‘河南样本’。”新疆机场集团总经理吕辉斌说。\n据悉，从打破进口垄断到领跑自动驾驶赛道，宇通客车已在全球多地实现自动驾驶客车常态化运营超1800万公里，成为河南高端装备“走出去”的一张金名片。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "industry",
+  "keywords": [
+    "自动驾驶",
+    "商业化运营"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XJ-WLMQ",
+      "name_zh": "乌鲁木齐",
+      "name_en": "Urumqi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自动驾驶",
+      "name_en": "Autonomous Driving"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商业化运营",
+      "name_en": "Commercial Operation"
+    }
+  ],
+  "tags_zh": [
+    "乌鲁木齐",
+    "自动驾驶",
+    "商业化运营"
+  ],
+  "tags_en": [
+    "Urumqi",
+    "Autonomous Driving",
+    "Commercial Operation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-XJ-WLMQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260804-local_da_he_wang_cn_ha-615e5b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "20260617-gov_cn_yaowen-b0b1dd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072572.htm",
+  "title_zh": "王毅同伊朗外长阿拉格齐通电话",
+  "title_en": "Wang Yi Holds Phone Call with Iranian Foreign Minister Abbas Araghchi",
+  "summary_zh": "6月17日，外交部长王毅同伊朗外长阿拉格齐通电话，就伊美达成第一阶段谅解备忘录及深化中伊全面战略伙伴关系交换意见。",
+  "summary_en": "On June 17, Foreign Minister Wang Yi held a phone call with Iranian Foreign Minister Abbas Araghchi to discuss the first-stage memorandum of understanding between Iran and the US and the deepening of China-Iran strategic partnership.",
+  "body_zh": "新华社北京6月17日电 中共中央政治局委员、外交部长王毅17日应约同伊朗外长阿拉格齐通电话。\n阿拉格齐通报了伊朗和美国达成第一阶段谅解备忘录有关情况，衷心感谢中方为推动谈判和达成协议发挥的积极作用。阿拉格齐表示，有关谅解备忘录应得到切实执行，包括以色列停止对黎巴嫩的军事行动。伊方始终从战略高度看待对华关系，期待同中方增进彼此互信，深化各领域合作，共同推进两国全面战略伙伴关系。\n王毅表示，中方对伊美达成第一阶段谅解备忘录表示欢迎。事实证明，武力和强权解决不了问题，对话谈判才是正确的选择。作为全面战略伙伴，中方始终支持伊朗的合理正当主张，支持伊朗维护自身主权和安全，支持巴基斯坦以及国际社会的斡旋努力，并且一直以自己的方式止战促和。和平的曙光已经出现，下步的关键是各方把承诺真正落到实处，并排除来自各方面的干扰。霍尔木兹海峡通航问题应得到妥善处理，稳妥回应国际社会的普遍关切。中方支持伊朗同地区国家改善关系，探索共同构建地区安全架构。中方愿同伊朗加强沟通协调，在巩固深化中伊关系的同时，为维护和促进地区和平稳定继续作出贡献。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中伊关系",
+    "伊美协议",
+    "地区安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "阿拉格齐",
+      "name_en": "Abbas Araghchi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中伊关系",
+      "name_en": "China-Iran Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "伊美协议",
+      "name_en": "Iran-US Agreement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区安全",
+      "name_en": "Regional Security"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "阿拉格齐",
+    "外交部",
+    "北京",
+    "中伊关系",
+    "伊美协议",
+    "地区安全"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Abbas Araghchi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Iran Relations",
+    "Iran-US Agreement",
+    "Regional Security"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260617-gov_cn_yaowen-b0b1dd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

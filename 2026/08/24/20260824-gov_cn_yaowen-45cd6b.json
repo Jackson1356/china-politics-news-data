@@ -1,0 +1,119 @@
+{
+  "id": "20260824-gov_cn_yaowen-45cd6b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079080.htm",
+  "title_zh": "王毅同科威特外交大臣杰拉赫会谈",
+  "title_en": "Wang Yi Holds Talks with Kuwaiti Foreign Minister Jarrah",
+  "summary_zh": "8月24日，中共中央政治局委员、外交部长王毅在北京同科威特外交大臣杰拉赫举行会谈，就双边关系和地区局势交换看法。",
+  "summary_en": "On August 24, Chinese Foreign Minister Wang Yi met with Kuwaiti Foreign Minister Jarrah in Beijing to exchange views on bilateral ties and regional situation.",
+  "body_zh": "新华社北京8月24日电 中共中央政治局委员、外交部长王毅24日在北京同科威特外交大臣杰拉赫举行会谈。\n王毅说，中方愿同科方以建交55周年为契机，打造基础更牢、质量更高、成色更足的中科战略伙伴关系。\n王毅强调，当前中东海湾局势再次走到关键路口，希望当事方尽快回归对话谈判轨道。中方愿同科方加强协调，继续为恢复地区和平安宁作出贡献。\n杰拉赫说，科方坚定恪守一个中国原则，愿同中方落实好两国元首共识，进一步丰富科中关系内涵。科方赞赏中方在美以伊战事上发挥的建设性作用。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中科战略伙伴关系",
+    "中东局势",
+    "地区和平"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杰拉赫",
+      "name_en": "Jarrah"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中科战略伙伴关系",
+      "name_en": "China-Kuwait Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东局势",
+      "name_en": "Middle East Situation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区和平",
+      "name_en": "Regional Peace"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "杰拉赫",
+    "外交部",
+    "北京",
+    "中科战略伙伴关系",
+    "中东局势",
+    "地区和平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Jarrah",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Kuwait Strategic Partnership",
+    "Middle East Situation",
+    "Regional Peace"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260824-gov_cn_yaowen-45cd6b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0825/c64094-40785563.html",
+      "title_zh": "王毅同科威特外交大臣杰拉赫会谈",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

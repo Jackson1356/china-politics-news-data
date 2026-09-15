@@ -1,0 +1,78 @@
+{
+  "id": "20260521-xinhua_sc-2d8bff",
+  "source": "xinhua_sc",
+  "source_name_zh": "新华网 四川",
+  "source_name_en": "Xinhua Sichuan",
+  "source_url": "http://sc.news.cn/20260521/1361a058780e4069a5adc8e9f6705b00/c.html",
+  "title_zh": "四川发布一批干部任前公示 涉厅级领导职务",
+  "title_en": "Sichuan Publishes Pre-appointment Public Notices for Cadres Including Department-level Positions",
+  "summary_zh": "四川省委组织部发布一批干部任前公示，涉及李辉、宋光辉等拟任厅级及县区领导职务的干部。",
+  "summary_en": "The Organization Department of the CPC Sichuan Provincial Committee released pre-appointment notices for several cadres, including Li Hui and Song Guanghui, for department-level and county-level positions.",
+  "body_zh": "根据《党政领导干部选拔任用工作条例》《四川省党政领导干部任职管理办法》等规定，为进一步减少用人失察失误，把干部选好选准，现将李辉等同志拟任职情况公示如下：\n李辉，男，汉族，1981年3月生，硕士研究生，中共党员，现任省委外办（省外事办）副主任，拟任正厅级领导职务。\n宋光辉，男，汉族，1974年8月生，在职博士研究生，中共党员，现任省委改革办专职副主任，拟任本科高校正职。\n周代军，男，苗族，1974年9月生，大学，中共党员，现任洪雅县委书记，拟任副厅级领导职务。\n邱磊，男，汉族，1982年1月生，党校研究生，中共党员，现任青神县委副书记、县长，拟任县（市、区）党委书记。\n刘俊，男，汉族，1981年2月生，硕士研究生，中共党员，现任黑水县委副书记、县长，拟任县（市、区）党委书记。\n唐浩凌，男，汉族，1976年5月生，大学、在职硕士，中共党员，现任成都市法院执行工作局副局长，拟任县（市、区）人民法院院长。\n谭丽，女，汉族，1981年8月生，党校研究生，中共党员，现任峨眉山市法院党组副书记、常务副院长，拟任县（市、区）人民法院院长。\n李传飞，男，汉族，1977年7月生，在职大学，中共党员，现任乐山市市中区法院党组副书记、常务副院长，拟任县（市、区）人民法院院长。\n叶加庆，男，汉族，1981年10月生，大学，中共党员，现任广安市广安区检察院党组副书记、副检察长，拟任县（市、区）人民检察院检察长。\n中共四川省委组织部",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任用",
+    "任前公示"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任用",
+      "name_en": "Cadre Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "任前公示",
+      "name_en": "Pre-appointment Publicity"
+    }
+  ],
+  "tags_zh": [
+    "四川",
+    "干部任用",
+    "任前公示"
+  ],
+  "tags_en": [
+    "Sichuan",
+    "Cadre Appointment",
+    "Pre-appointment Publicity"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260521-xinhua_sc-2d8bff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sc",
+      "source_tier": 3,
+      "url": "http://sc.people.com.cn/n2/2026/0521/c345514-41587233.html",
+      "title_zh": "四川省委组织部发布干部任前公示",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

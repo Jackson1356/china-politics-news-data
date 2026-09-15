@@ -1,0 +1,103 @@
+{
+  "id": "20260729-local_ji_nan_ri_bao_cn_sd-a32698",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-07-29/2026072900043.html",
+  "title_zh": "市政协专题情况通报会召开 于海田出席 孙开连主持",
+  "title_en": "Jinan Political Consultative Conference Holds Briefing on Economic Situation",
+  "summary_zh": "7月28日，济南市政协专题情况通报会召开，市长于海田通报上半年经济形势，政协主席孙开连主持。",
+  "summary_en": "On July 28, Jinan's Political Consultative Conference held a special briefing where Mayor Yu Haitian reported on the city's economic performance in the first half of the year, chaired by Sun Kailian.",
+  "body_zh": "市政协专题情况通报会召开 于海田出席 孙开连主持\n本报7月28日讯 今天，市政协专题情况通报会召开。市委副书记、市长于海田出席并通报全市上半年经济形势和下半年经济工作重点，市政协主席孙开连主持会议。\n于海田指出，今年以来，全市上下坚持以习近平新时代中国特色社会主义思想为指导，坚决落实习近平总书记视察山东重要讲话和重要指示批示精神，深入开展树立和践行正确政绩观学习教育，全力以赴稳增长、提质效、推改革、防风险、惠民生，较好完成了各项工作任务，强省会建设迈出坚实步伐。\n于海田强调，做好下半年各项工作，要坚持以“项目赋能年”为总牵引，全力稳住经济基本盘，推动工业经济稳中向好，促进服务业扩能提质，抓好项目谋划招引建设，聚力激发消费市场活力，推动外资外贸量稳质升，持续优化创新创业生态，做好财税金融工作，着力保障和改善民生，守好守牢安全发展底线，不断开创省会高质量发展新局面。希望市政协一如既往地支持政府工作，积极建言资政，更好发挥人民政协的优势和作用，为加快建设“强新优富美高”新时代社会主义现代化强省会贡献更多智慧和力量。\n孙开连指出，全市各级政协组织和广大政协委员要进一步深入学习贯彻习近平总书记对山东、对济南工作的重要指示批示要求，牢固树立和践行正确政绩观，锚定市委、市人民政府重点工作部署，在强化思想引领、广泛凝聚共识上持续发力，在提升议政质效、服务中心大局上持续发力，在坚持守正创新、践行履职为民上持续发力，以实际行动为加快建设强省会作出新的更大贡献。\n市政协副主席、省管副厅级干部，市政府秘书长、市政协秘书长，市政协常委，部分市政协委员等参加会议。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "economy",
+  "keywords": [
+    "经济形势"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "于海田",
+      "name_en": "Yu Haitian"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孙开连",
+      "name_en": "Sun Kailian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济形势",
+      "name_en": "Economic Situation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "于海田",
+    "孙开连",
+    "经济形势",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yu Haitian",
+    "Sun Kailian",
+    "Economic Situation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "孙开连"
+      },
+      {
+        "id": null,
+        "name_zh": "于海田"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260729-gov_ji_nan-607611",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col22405/art/2026/art_7c18d3633105a8d67cf09ba563bfa9bd.html",
+      "title_zh": "市政协专题情况通报会召开",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_ee2db0f79070441d8dc6f928b3bebaaf.html",
+      "title_zh": "市政协专题情况通报会召开",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

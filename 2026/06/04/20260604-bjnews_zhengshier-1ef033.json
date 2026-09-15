@@ -1,0 +1,84 @@
+{
+  "id": "20260604-bjnews_zhengshier-1ef033",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1780576807129824.html",
+  "title_zh": "王兵任甘肃省委常委",
+  "title_en": "Wang Bing Appointed Member of the Standing Committee of the Gansu Provincial Party Committee",
+  "summary_zh": "甘肃省政府网站显示，副省长王兵已任甘肃省委常委。",
+  "summary_en": "According to the Gansu Provincial Government website, Vice Governor Wang Bing has been appointed as a member of the Standing Committee of the Gansu Provincial Party Committee.",
+  "body_zh": "王兵已任甘肃省委常委\n甘肃省政府网站最新信息显示，甘肃省副省长王兵已任甘肃省委常委。\n公开简历显示，王兵，男，汉族，1972年1月出生，研究生学历，文学硕士、工商管理硕士，中共党员，现任甘肃省委常委，省政府副省长、党组成员。\n王兵曾任中国银行江苏省分行行长，中银香港（控股）有限公司及中国银行（香港）有限公司副总裁，建设银行副行长等职。",
+  "image_url": null,
+  "published_at": "2026-06-04T20:51:37+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-bing-gansu",
+      "name_zh": "王兵",
+      "name_en": "Wang Bing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "甘肃省委",
+      "name_en": "Gansu Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "王兵",
+    "甘肃省委",
+    "甘肃",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Wang Bing",
+    "Gansu Provincial Party Committee",
+    "Gansu",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-bing-gansu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "甘肃省委",
+        "name_en": "Gansu Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260604-bjnews_zhengshier-1ef033",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

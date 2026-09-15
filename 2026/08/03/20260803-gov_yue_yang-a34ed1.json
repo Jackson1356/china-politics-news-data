@@ -1,0 +1,99 @@
+{
+  "id": "20260803-gov_yue_yang-a34ed1",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2392424.html",
+  "title_zh": "市政协召开党组会议暨九届第五十四次主席（扩大）会议",
+  "title_en": "Municipal CPPCC Holds Party Group Meeting and 54th Chairman (Expanded) Meeting",
+  "summary_zh": "7月31日，岳阳市政协主席汪涛主持召开党组会议暨主席会议，传达学习习近平总书记重要讲话精神和防汛救灾重要指示，审议有关议题。",
+  "summary_en": "On July 31, Yueyang CPPCC Chairman Wang Tao presided over a Party group meeting and the 54th chairman (expanded) meeting, conveying Xi Jinping's important speeches and instructions on flood relief, and reviewing related topics.",
+  "body_zh": "7月31日上午，市政协主席、党组书记汪涛主持召开市政协党组2026年第七次（扩大）会议暨九届第五十四次主席（扩大）会议，传达学习习近平总书记重要讲话重要指示批示精神，省政协有关会议精神，审议有关议题。市政协党组和主席会议成员秧励、李文、李运帷、张赟、高鸽子、林军华、朱平波、李永波、向科军出席。\n会议强调，要认真学习贯彻习近平总书记对防汛救灾工作和福建泉州晋江市一鞋厂火灾事故作出的重要指示批示精神，深刻把握“人民至上、生命至上”理念，切实做到政治站位再提高、服务大局再发力、履职赋能再精准。\n会议指出，习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协十一大上重要讲话精神凝聚团结奋斗力量，要深学细悟讲话精神、立足职能履职尽责，做好“推动产教深度融合，促进教育科技人才一体化发展”专题议政协商成果转化文章。\n会议强调，要深刻领会政协湖南省第十三届委员会常务委员会第二十次会议精神、全省市州政协秘书长会议精神，进一步提高站位抓学习、紧扣中心抓履职，从严从实抓好机关自身建设。\n会议原则通过《岳阳市政协党的建设工作领导小组工作规则》；听取了“体育促进中小学生身心健康”专项视察情况汇报，对此次专项视察成效予以充分肯定，原则同意专项视察报告和建议清单，要求进一步充分吸纳审议意见，进一步修改完善专项视察报告和建议清单，并持续发力、久久为功，做好后续跟踪落实工作。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "防汛救灾",
+    "科技创新",
+    "政协工作"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "党的建设",
+    "防汛救灾",
+    "科技创新",
+    "政协工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Party Building",
+    "Flood Relief",
+    "Technological Innovation",
+    "CPPCC Work"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "康专项"
+      },
+      {
+        "id": null,
+        "name_zh": "汪涛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260803-gov_yue_yang-a34ed1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20260731-local_hong_wang_cn_hn-d635db",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646041/75/16135782.html",
+  "title_zh": "中斯友谊之树根深叶茂",
+  "title_en": "Xi Jinping Holds Talks with Slovak President, Vowing to Deepen Strategic Partnership",
+  "summary_zh": "7月28日，习近平主席在人民大会堂同斯洛伐克总统佩列格里尼举行会谈，强调打造中斯战略伙伴关系。",
+  "summary_en": "On July 28, President Xi Jinping held talks with Slovak President Pellegrini at the Great Hall of the People, vowing to build a China-Slovakia strategic partnership.",
+  "body_zh": "7月28日，习近平主席在人民大会堂同斯洛伐克总统佩列格里尼举行会谈，共同擘画中斯关系未来发展蓝图。此访是佩列格里尼就任总统以来首次访华，也是2024年中斯关系提升为战略伙伴关系后两国元首又一次重要互动。\n斯洛伐克是最早同新中国建交的国家之一。习近平主席在会谈中赞誉“中斯友谊之树根深叶茂”，并表示中方愿同斯方一道，打造互尊互信、平等互利、稳定坚韧的中斯战略伙伴关系，更好造福两国人民。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-08-02T07:10:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中斯关系",
+    "战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中斯关系",
+      "name_en": "China-Slovakia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中斯关系",
+    "战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China-Slovakia Relations",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260728-local_si_chuan_zai_xian_cn_sc-dfffdb",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

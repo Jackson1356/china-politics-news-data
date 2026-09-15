@@ -1,0 +1,84 @@
+{
+  "id": "20260810-gov_cn_yaowen-ff7393",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077852.htm",
+  "title_zh": "各地各部门多举措应对台风“白海豚”影响",
+  "title_en": "Localities and Departments Take Multiple Measures to Respond to Typhoon Baituhai",
+  "summary_zh": "8月10日，今年第13号台风“白海豚”影响浙江等地，国家防减救灾委启动国家四级救灾应急响应，财政部、应急管理部预拨1.2亿元救灾资金，各地各部门开展排涝、抢修、转移群众等工作。",
+  "summary_en": "On August 10, Typhoon Baituhai, the 13th typhoon of the year, hit Zhejiang and other areas. The National Disaster Prevention and Reduction Committee activated a Level IV disaster relief response, and the Ministry of Finance and Ministry of Emergency Management allocated 120 million yuan for relief.",
+  "body_zh": "今年第13号台风“白海豚”于昨天（8月9日）傍晚先后在我国浙江玉环和乐清登陆，目前已减弱为热带风暴级。面对“白海豚”带来的强风雨，各地各部门多举措积极应对。\n受“白海豚”影响，今天，浙江多地降下大到暴雨，排涝保供、隐患排查、灾后处置等各项工作加紧进行。强降雨导致台州玉环清港镇茶头村出现严重内涝，道路阻断、村民被困。救援人员第一时间携带皮划艇逐户摸排，转移被困群众。\n国网浙江电力启动跨区域支援机制，从杭州、金华、嘉兴等地抽调1900多名抢修人员、40多辆发电车驰援受灾较重地区。截至目前，国家电网已累计投入抢修人员3万多人、发电车470多台，全力开展抢修复电工作。\n国家防减救灾委、应急管理部今天针对第13号台风“白海豚”对浙江省造成的严重影响，启动国家四级救灾应急响应，派出救灾工作组赴灾区，指导协助地方做好灾情统计核查、群众安置救助、基本生活保障等救灾救助工作。\n在上海，强风雨天气持续，部分路段积水明显，道路通行受到影响。一些地势低洼地带的小区也出现积水，各方力量全力排水，尽量减少暴雨对居民生活的影响。同时，各防汛泵站满负荷运转，抢险队伍分点值守、连续作业，保障城市防汛安全。从昨天开始，安徽多地出现大风降雨，目前安徽全省共设置了一万多个集中安置点，确保群众安全避险。\n今天上午8时至11时，江苏苏州、无锡、常州等地的17个气象观测站降水量超过100毫米。目前，江苏各地各部门重点盯防行洪河道、山丘区汇流通道、漫水路桥、交通桥梁等风险点位，做好应急准备。\n今天，财政部、应急管理部紧急预拨1.2亿元中央自然灾害救灾资金支持江苏、浙江、安徽、福建、江西5省做好防汛防台风应急抢险救灾工作。\n中央气象台预计，未来三天，受台风“白海豚”影响，湖北中北部、山东等地有暴雨或大暴雨，局地有特大暴雨，山洪和地质灾害、中小河流洪水等风险较高。今天，水利部针对河北、山东、河南、湖北启动洪水防御Ⅳ级应急响应，并组织太湖流域管理局在台风来临前全力排水，降低太湖水位。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "抢险救灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抢险救灾",
+      "name_en": "Emergency Rescue and Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "浙江",
+    "防汛防台风",
+    "抢险救灾"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Zhejiang",
+    "Flood and Typhoon Prevention",
+    "Emergency Rescue and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260810-gov_cn_yaowen-ff7393",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

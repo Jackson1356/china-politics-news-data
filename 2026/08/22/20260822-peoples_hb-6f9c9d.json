@@ -1,0 +1,74 @@
+{
+  "id": "20260822-peoples_hb-6f9c9d",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/0822/c192237-41674798.html",
+  "title_zh": "武汉算力公共服务平台3.0版发布 可调度算力1465P",
+  "title_en": "Wuhan Computing Power Public Service Platform 3.0 Released with 1465P Schedulable Computing Power",
+  "summary_zh": "8月21日，武汉算力公共服务平台3.0版上线，汇聚全国45家算力服务机构，可调度算力达1465P，并接入全国一体化算力网。",
+  "summary_en": "On August 21, the Wuhan Computing Power Public Service Platform 3.0 was launched, aggregating 45 computing service providers nationwide with 1465P schedulable computing power, and connected to the national integrated computing network.",
+  "body_zh": "武汉算力公共服务平台3.0版发布 可调度算力1465P\n8月21日，武汉算力公共服务平台3.0版上线，平台汇聚全国45家算力服务机构，累计可调度算力资源达1465P，累计算力交易额达6240万元，接入全国一体化算力网监测调度平台。\n武汉算力公共服务平台由武汉市数据局指导武汉云公司建设，从2024年7月上线，到如今3.0版的迭代升级，实现从“有”到“优”的跨越式发展。\n武汉算力公共服务平台3.0版在调研企业需求、紧跟技术发展趋势的基础上，对平台并网接入、智能调度、词元（Token）服务、智能体开发、统一运营和算力券全周期管理六大功能进行了升级，形成“算模一体化”和“端云协同”服务能力。\n调度能力“跨域化”。平台并网武汉和8大枢纽节点闲置算力，按需匹配、分布式调拨、毫秒级调度，平台算力价格低于市场价，连通全国一体化算力网运营调度系统，与“东数西算”八大枢纽、三大运营商等算力互联互通。\n服务模式“Token化”。平台创新打造“算数模用”一体化产品和服务体系，实现算力服务的Token化计量与交易。算力将像水电一样“按需取用、按量付费”，极大降低企业特别是中小微企业和创新创业者的用算门槛，让算力真正成为普惠的公共基础资源。\n功能体系“智能化”。平台重点打造了模型广场、智能调度等核心功能模块。企业不仅可以在平台上便捷选购算力资源，还能直接调用DeepSeek、火山引擎、kimi等27种主流大模型和行业模型，预制多款AI工具链和智能体，实现从“买算力”到“用模型”的一站式服务，让AI开发像搭积木一样简单，支撑政务、医疗、教育等多领域智能应用开发。\n算力服务“普惠化”。设立总额1亿元算力券，支持算力服务和Token服务补贴，推进免申即享，补贴及时到账，帮助企业降低用算成本。叠加省市区各级算力券政策，将进一步提高补贴金额和比例。\n武汉市数据局相关负责人表示，将适度超前谋划布局城市算力网，持续推进“汉数宜算”工程，持续丰富平台算力资源供给，与八大国家算力枢纽节点“结对子”，积极融入全国一体化算力网，持续提升平台跨区域调度能力，推动算力向科学、教育、健康等重点应用端延伸，让算力普惠服务千行百业。（武数宣）",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "industry",
+  "keywords": [
+    "算力服务",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB-WH",
+      "name_zh": "武汉",
+      "name_en": "Wuhan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力服务",
+      "name_en": "Computing Power Service"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "武汉",
+    "算力服务",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Wuhan",
+    "Computing Power Service",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HB-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260822-peoples_hb-6f9c9d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

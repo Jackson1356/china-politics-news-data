@@ -1,0 +1,70 @@
+{
+  "id": "20260612-gov_cn_yaowen-80636d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071965.htm",
+  "title_zh": "全国小麦收获过八成 夏播进入高峰",
+  "title_en": "Over 80% of Wheat Harvested Nationwide as Summer Sowing Reaches Peak",
+  "summary_zh": "农业农村部6月12日通报，全国小麦收获进度已过八成，夏播进入高峰，智能高端农机在主产区得到广泛应用。",
+  "summary_en": "The Ministry of Agriculture and Rural Affairs reported on June 12 that over 80% of wheat has been harvested nationwide, with summer sowing peaking and smart machinery widely deployed.",
+  "body_zh": "农业农村部今天（6月12日）的小麦机收进度显示，目前，全国已收获小麦2.78亿亩，收获进度过八成。随着麦收推进，夏播进入高峰。\n眼下，黄淮海主产区延续晴好天气，利于山东、江苏、河北等省集中机收快速推进。\n在山东汶上县，75万亩小麦已集中成熟，一批新型农机装备正在助力当地农民抢收抢种。\n收完小麦，几台新型玉米播种机加紧作业。如今，增施底肥、节水浇灌、精量播种几道工序能一次性完成。\n今年“三夏”，全国1700多万台套农机具投入抢收抢种。智能高端农机加大推广应用，成为不少主产区的突出亮点。\n安徽霍邱种粮大户庞瑞红的2000多亩水稻栽插，全都用上了高速插秧机，大大提高了作业效率。\n农业农村部最新农情调度显示，目前，全国夏播粮食进度近半，总体进展顺利。",
+  "image_url": null,
+  "published_at": "2026-06-12T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "industry",
+  "keywords": [
+    "粮食安全",
+    "农业机械化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "粮食安全",
+    "农业机械化"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Food Security",
+    "Agricultural Mechanization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260612-gov_cn_yaowen-80636d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

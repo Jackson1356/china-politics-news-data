@@ -1,0 +1,88 @@
+{
+  "id": "20260616-xinhua_politics-2fd42a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260616/aed9548266ae45d6ae3627ac12eae11a/c.html",
+  "title_zh": "两部门派出工作组赴青海海西州震区指导抗震救灾工作",
+  "title_en": "Two Departments Send Working Groups to Haixi, Qinghai to Guide Earthquake Relief Efforts",
+  "summary_zh": "2026年6月16日，国务院抗震救灾指挥部办公室与应急管理部对青海海西州6.3级地震启动四级应急响应，并派出工作组指导救灾工作。",
+  "summary_en": "On June 16, 2026, the State Council Earthquake Relief Headquarters Office and the Ministry of Emergency Management activated a Level IV emergency response and dispatched working groups to Haixi, Qinghai, following a 6.3-magnitude earthquake.",
+  "body_zh": "新华社北京6月16日电（记者黄韬铭）记者从应急管理部获悉，国务院抗震救灾指挥部办公室、应急管理部对青海海西州6.3级地震启动国家地震灾害四级应急响应，派出工作组赶赴当地指导处置。\n中国地震台网测定，6月16日17时06分，在青海海西州直辖区（北纬37.80度，东经95.56度）发生6.3级地震，震源深度10公里。\n地震发生后，应急管理部有关负责人立即作出部署，要求加强调度指导，调派力量赶赴灾区，全力搜救被困人员，调拨物资做好受灾群众救助安置，加强震情监测和跟踪研判。\n据悉，国家综合性消防救援队伍已出动救援力量78车、320人、10条搜救犬赶赴现场救援。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗震救灾",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "海西州",
+      "name_en": "Haixi Prefecture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "青海",
+    "海西州",
+    "抗震救灾",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Qinghai",
+    "Haixi Prefecture",
+    "Earthquake Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260616-xinhua_politics-2fd42a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

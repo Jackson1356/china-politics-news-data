@@ -1,0 +1,97 @@
+{
+  "id": "20260909-gov_chang_zhou-33900e",
+  "source": "gov_chang_zhou",
+  "source_name_zh": "常州市政府网",
+  "source_name_en": "常州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/9/9/art_60096_11826973.html",
+  "title_zh": "泰国苏商总会企业代表团来访",
+  "title_en": "Governor Liu Xiaotao Meets Thai Jiangsu Chamber of Commerce Delegation",
+  "summary_zh": "9月7日，江苏省省长刘小涛在南京会见泰国苏商总会主席陈柱率领的企业代表团，双方表示将加强经贸合作，深化新能源、数字经济等领域交流。",
+  "summary_en": "On September 7, Jiangsu Governor Liu Xiaotao met in Nanjing with a business delegation led by Chen Zhu, chairman of the Thai Jiangsu Chamber of Commerce. Both sides expressed willingness to strengthen economic ties and cooperation in new energy and digital economy.",
+  "body_zh": "泰国苏商总会企业代表团来访\n时间：2026-09-09 06:39\n9月7日，省长刘小涛在南京会见由泰国苏商总会主席陈柱率领的企业代表团。\n双方表示，江苏和泰国贸易往来频繁、人文互动融洽，将进一步发挥泰国苏商总会桥梁纽带作用，为江苏企业赴泰投资做好政策咨询、服务对接，推动更多泰国企业来苏考察交流、拓展事业，促进两地产业链供应链深度对接，深化拓展新能源、高端装备、数字经济、文旅教育等领域合作，厚植中泰友好合作务实基础。\n副省长赵岩，省政府秘书长赵建军参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "对外合作",
+    "新能源",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "对外合作",
+    "新能源",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "International Cooperation",
+    "New Energy",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260909-gov_chang_zhou-33900e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

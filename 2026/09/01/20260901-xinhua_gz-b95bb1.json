@@ -1,0 +1,105 @@
+{
+  "id": "20260901-xinhua_gz-b95bb1",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260901/4444a51e7d17434fafbf455fb1728266/c.html",
+  "title_zh": "徐麟会见农民日报社党委书记、社长宁启文一行",
+  "title_en": "Xu Lin Meets Party Secretary and President of Farmers' Daily Ning Qiwen",
+  "summary_zh": "8月31日，贵州省委书记徐麟在贵阳会见农民日报社社长宁启文，双方就宣传贵州“三农”事业和乡村振兴进行交流。",
+  "summary_en": "On August 31, Xu Lin, Secretary of the Guizhou Provincial Party Committee, met with Ning Qiwen, President of Farmers' Daily, in Guiyang to discuss promoting Guizhou's agricultural and rural development.",
+  "body_zh": "8月31日，省委书记徐麟在贵阳会见农民日报社党委书记、社长宁启文一行。省领导卢雍政、杨同光参加。\n徐麟向宁启文一行表示欢迎和感谢。他说，当前全省上下正深入学习贯彻习近平总书记考察贵州重要讲话精神和党中央决策部署，坚持以高质量发展统揽全局，充分发挥比较优势，突出“强一接二连三”发展现代山地特色高效农业，深化“四在农家·和美乡村”建设，奋力在乡村振兴上开新局。希望农民日报社一如既往关心支持，广泛深入宣传贵州“三农”事业生动实践，更好助力全省经济社会发展。\n宁启文感谢贵州对农民日报社的支持帮助。他说，农民日报社将认真贯彻习近平总书记关于“三农”工作的重要论述，丰富创新传播方式手段，全面宣传报道贵州理论宣传创新、红色文化保护、农业产业发展、文明乡风培育等经验做法，为贵州高质量发展贡献更大力量。\n农民日报社和省有关部门负责同志参加。（记者 曾书慧）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "乡村振兴",
+    "三农宣传"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-lin",
+      "name_zh": "徐麟",
+      "name_en": "Xu Lin"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "宁启文",
+      "name_en": "Ning Qiwen"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Vitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三农宣传",
+      "name_en": "Publicity on Agriculture, Rural Areas and Farmers"
+    },
+    {
+      "kind": "person",
+      "id": "lu-yongzheng",
+      "name_zh": "卢雍政",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "徐麟",
+    "宁启文",
+    "贵阳",
+    "乡村振兴",
+    "三农宣传",
+    "卢雍政"
+  ],
+  "tags_en": [
+    "Xu Lin",
+    "Ning Qiwen",
+    "Guiyang",
+    "Rural Vitalization",
+    "Publicity on Agriculture, Rural Areas and Farmers"
+  ],
+  "entities": {
+    "politicians": [
+      "xu-lin",
+      "xu-lin-guizhou",
+      "lu-yongzheng",
+      {
+        "id": null,
+        "name_zh": "杨同光"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-xinhua_gz-b95bb1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

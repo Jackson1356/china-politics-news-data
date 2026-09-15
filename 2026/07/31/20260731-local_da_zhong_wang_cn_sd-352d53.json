@@ -1,0 +1,74 @@
+{
+  "id": "20260731-local_da_zhong_wang_cn_sd-352d53",
+  "source": "local_da_zhong_wang_cn_sd",
+  "source_name_zh": "大众网",
+  "source_name_en": "大众网",
+  "source_media_id": "cac-cn-sd-9149c52ad8",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dzwww.com/xinwen/guoneixinwen/202607/t20260731_17982560.htm",
+  "title_zh": "斯洛伐克总统佩列格里尼用“印象深刻”总结访华之行",
+  "title_en": "Slovak President Pellegrini Sums Up China Visit as 'Impressive'",
+  "summary_zh": "斯洛伐克总统佩列格里尼就任以来首次对中国进行国事访问，他在接受总台记者采访时表示，北京的城市面貌和基础设施建设令其印象深刻，与十年前相比中国变化巨大。",
+  "summary_en": "Slovak President Pellegrini made his first state visit to China since taking office. In an interview with CMG, he said he was deeply impressed by Beijing's urban landscape and infrastructure, and noted China's tremendous changes compared with ten years ago.",
+  "body_zh": "总台记者 邹韵：总统先生，这是您就任斯洛伐克总统以来首次对中国进行国事访问。您会用哪个关键词来概括此次中国之行？\n斯洛伐克总统 佩列格里尼：印象深刻。我内心十分震撼，对比我2015年访问时的景象，再看2026年的北京，这座城市整洁干净、绿意盎然，基础设施建设水平极高。我曾在2015年和2017年到访中国，一次是以国民议会议长的身份，一次是以副总理的身份，所以我能进行直观的对比。我见证了中国在过去十多年间发生的巨大变化。我今天看到的中国，与十年前相比有了更明显的变化，我感到非常震撼。\n审核：高雪婷",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交关系",
+      "name_en": "Diplomatic Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "外交关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Diplomatic Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260731-local_da_zhong_wang_cn_sd-352d53",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

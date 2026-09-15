@@ -1,0 +1,118 @@
+{
+  "id": "20260820-gov_zhan_jiang-8f2a37",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2213784.html",
+  "title_zh": "十二届市委审计委员会第九次全体会议召开",
+  "title_en": "12th Municipal Party Committee Audit Committee Holds 9th Plenary Session",
+  "summary_zh": "8月19日上午，市委书记余钢主持十二届市委审计委员会第九次全体会议，市长李勇毅出席，研究部署审计工作。",
+  "summary_en": "On the morning of August 19, Zhanjiang Municipal Party Secretary Yu Gang chaired the 9th Plenary Session of the 12th Municipal Party Committee Audit Committee, with Mayor Li Yongyi in attendance, to review and deploy audit work.",
+  "body_zh": "8月19日上午，十二届市委审计委员会第九次全体会议召开，深入学习贯彻习近平总书记关于审计工作的重要讲话精神，认真贯彻落实省委审计委员会会议精神，审议有关文件，听取情况汇报，研究部署下一步工作。市委书记、市委审计委员会主任余钢主持会议并讲话，市委副书记、市长、市委审计委员会副主任李勇毅出席会议。\n会议指出，去年以来，市委审计委员会坚持以习近平新时代中国特色社会主义思想为指导，认真贯彻落实党中央及省委部署要求，紧紧围绕全市工作大局，积极履职尽责、勇于担当作为，扎实推动审计工作高质量发展。全市各级审计机关在监督保障重大政策落实、政府重大项目建设、民生资金使用及项目建设等方面发挥了积极作用，特别是在推进各类财政资金规范使用、“百千万工程”、国资国企改革、民生保障等方面做了大量工作，为经济社会高质量发展提供了坚强保障。\n市领导赵辉、李更盛，市委审计委员会委员参加会议。\n林宇云 湛新",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "party",
+  "keywords": [
+    "审计工作",
+    "全面从严治党",
+    "经济监督"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-yongyi-zhanjiang",
+      "name_zh": "李勇毅",
+      "name_en": "Li Yongyi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市委审计委员会",
+      "name_en": "Municipal Party Committee Audit Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "审计工作",
+      "name_en": "Audit Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Comprehensive Strict Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济监督",
+      "name_en": "Economic Supervision"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李勇毅",
+    "市委审计委员会",
+    "湛江",
+    "审计工作",
+    "全面从严治党",
+    "经济监督",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Yongyi",
+    "Municipal Party Committee Audit Committee",
+    "Zhanjiang",
+    "Audit Work",
+    "Comprehensive Strict Party Governance",
+    "Economic Supervision"
+  ],
+  "entities": {
+    "politicians": [
+      "li-yongyi-zhanjiang",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "任余钢"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "市委审计委员会",
+        "name_en": "Municipal Party Committee Audit Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-gov_zhan_jiang-8f2a37",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "20260913-gov_tai_zhou-7d0012",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_cc94235f9e834bbaabae38ef8a0c6460.html",
+  "title_zh": "泰州市第十一期领导干部“前沿大讲堂”举行",
+  "title_en": "Taizhou Holds 11th \"Frontier Lecture\" for Leading Cadres",
+  "summary_zh": "9月12日，泰州市第十一期领导干部“前沿大讲堂”举行，省农业农村厅一级巡视员朱新华就健康食品产业发展作专题授课，市委书记姜冬冬、市长李晖参加学习。",
+  "summary_en": "On Sept 12, Taizhou held its 11th leading-cadre lecture, where Zhu Xinhua of Jiangsu's agriculture department spoke on health food industry; Party Secretary Jiang Dongdong and Mayor Li Hui attended.",
+  "body_zh": "泰州要闻\n第十一期领导干部“前沿大讲堂”举行\n- 发布日期：2026-09-13 07:31\n- 浏览次数：\n9月12日，我市第十一期领导干部“前沿大讲堂”举行，邀请省农业农村厅一级巡视员朱新华作专题授课。市委书记姜冬冬、市长李晖参加学习。副市长周小慧主持。\n近年来，我市农业现代化加快推进，农产品加工业加速发展，农业全产业链产值超1700亿元，健康食品产业集群产值近920亿元，位列全省第二，已成为我市“8+13+X”现代产业链群体系的重要板块。授课中，朱新华围绕“科技引领农产品加工业发展 培育壮大健康食品产业”这一主题，从健康食品产业发展的政策导向、把握高质量发展的新要求、因地制宜找准找实发展新赛道、坚持应用行之有效的方式方法等多个维度，作了深入系统的讲解，特别是对泰州市健康食品产业发展提出了富有前瞻性、针对性的思考和建议。\n市委、市人大常委会、市政府、市政协领导同志，市有关部门单位负责同志，农副食品深加工及预制菜产业链服务团队全体成员，市项目攻坚专班和投资促进工作机制在泰人员参加学习。各市（区）党政负责同志、重点园区负责同志、招商人员和项目服务专员在各市（区）分会场参加。",
+  "image_url": null,
+  "published_at": "2026-09-13T12:00:00+00:00",
+  "event_date": "2026-09-12",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "industry",
+  "keywords": [
+    "健康食品产业",
+    "农产品加工业",
+    "农业现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康食品产业",
+      "name_en": "Health Food Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农产品加工业",
+      "name_en": "Agricultural Product Processing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业现代化",
+      "name_en": "Agricultural Modernization"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "李晖",
+    "泰州",
+    "健康食品产业",
+    "农产品加工业",
+    "农业现代化"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Li Hui",
+    "Taizhou",
+    "Health Food Industry",
+    "Agricultural Product Processing",
+    "Agricultural Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      "jiang-dongdong-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "周小慧"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260913-gov_tai_zhou-7d0012",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_cc94235f9e834bbaabae38ef8a0c6460.html",
+      "title_zh": "第十一期领导干部“前沿大讲堂”举行",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

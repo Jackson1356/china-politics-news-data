@@ -1,0 +1,110 @@
+{
+  "id": "20260818-gov_wei_hai-d12d14",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/8/18/art_58817_6552450.html",
+  "title_zh": "中共威海市委召开党外人士座谈会",
+  "title_en": "CPC Weihai Municipal Committee Holds Symposium with Non-Party Personages",
+  "summary_zh": "8月17日，中共威海市委召开党外人士座谈会，听取各民主党派、工商联和无党派人士代表对市委常委会工作的意见建议，市委书记张海波主持并讲话。",
+  "summary_en": "On August 17, the CPC Weihai Municipal Committee held a symposium with non-party personages to hear opinions from representatives of democratic parties, the Federation of Industry and Commerce, and personages without party affiliation on the work of the Standing Committee. Municipal Party Secretary Zhang Haibo presided and delivered a speech.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）8月17日，中共威海市委召开党外人士座谈会，就今年以来市委常委会工作听取各民主党派、工商联和无党派人士代表的意见建议。市委书记张海波主持会议并讲话。市委常委、秘书长于宁，市委常委、宣传部部长、统战部部长刘光参加会议。\n全媒体新闻中心记者 朱春晓/摄\n会上，民革市委会主委侯进荣，民盟市委会主委周宁，民建市委会主委于国胜，民进市委会主委陈卫萍，农工党市委会主委徐伟，致公党市委会主委赵广洪，九三学社市委会主委朱文娟，市工商联党组书记、常务副主席徐其成，无党派人士代表韩文斐进行了发言，大家一致赞同中共威海市委今年以来的工作，并围绕加强产业链配套、高质量招商引资、促进核电直连算力、提升公共文化服务质效等提出意见建议。\n张海波指出，长期以来，广大党外人士与市委同心同向、同频共振，开展了大量卓有成效的工作，充分展现了党外人士的责任担当。希望各民主党派坚持不懈用习近平新时代中国特色社会主义思想武装头脑、指导实践、推动工作，始终坚持中国共产党领导，进一步巩固团结奋斗的共同思想政治基础。要积极履职尽责，主动参政议政，强化民主监督，不断提高履职能力，当好参谋助手。要充分发挥自身优势，更好助力经济发展、参与民生建设、守牢安全底线，为全市发展大局多作贡献。要强化自身建设，努力抓班子、带队伍，锤炼优良作风，为多党合作事业提供坚强保障。市委将一如既往支持各民主党派、工商联和无党派人士工作，为党外人士履职尽责搭建更多平台、创造更好条件。\n一审：郝暖 二审：史雅斐 三审：史秀英",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作",
+    "协商民主",
+    "统一战线"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共威海市委",
+      "name_en": "CPC Weihai Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multi-party Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协商民主",
+      "name_en": "Consultative Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "中共威海市委",
+    "威海",
+    "多党合作",
+    "协商民主",
+    "统一战线"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "CPC Weihai Municipal Committee",
+    "Weihai",
+    "Multi-party Cooperation",
+    "Consultative Democracy",
+    "United Front"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "刘光"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共威海市委",
+        "name_en": "CPC Weihai Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260818-gov_wei_hai-d12d14",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

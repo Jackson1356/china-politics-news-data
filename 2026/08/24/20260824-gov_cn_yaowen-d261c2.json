@@ -1,0 +1,86 @@
+{
+  "id": "20260824-gov_cn_yaowen-d261c2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/24/VIDEEeywgGIbNsB31RNcMEdl260824.shtml",
+  "title_zh": "习近平举行仪式欢迎约旦国王访华",
+  "title_en": "Xi Jinping Holds Ceremony to Welcome King of Jordan for State Visit",
+  "summary_zh": "国家主席习近平24日下午在人民大会堂举行仪式，欢迎约旦国王阿卜杜拉二世访华。",
+  "summary_en": "President Xi Jinping held a ceremony at the Great Hall of the People on the afternoon of August 24 to welcome King Abdullah II of Jordan on a state visit.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平24日下午在人民大会堂北大厅举行仪式，欢迎约旦哈希姆王国国王阿卜杜拉二世·本·侯赛因对我国进行国事访问。\n天安门广场上鸣礼炮21响。\n陪同阿卜杜拉二世访华的有亲王、公主、副首相兼外交大臣等。\n中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席欢迎仪式。\n军乐团奏约中两国国歌。\n阿卜杜拉二世在习近平陪同下检阅中国人民解放军仪仗队。\n两国元首回到检阅台观看仪仗队分列式。\n阿卜杜拉二世是应习近平的邀请对我国进行国事访问的。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中约关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中约关系",
+      "name_en": "China-Jordan Relations"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "国事访问",
+    "中约关系",
+    "王毅"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "State Visit",
+    "China-Jordan Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王毅等"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260824-gov_cn_yaowen-d261c2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

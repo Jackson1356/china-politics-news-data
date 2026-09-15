@@ -1,0 +1,73 @@
+{
+  "id": "20260804-gov_cn_yaowen-7e211c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077542.htm",
+  "title_zh": "物流业景气指数继续扩张 市场需求进一步向好",
+  "title_en": "Logistics Industry Prosperity Index Continues to Expand, Market Demand Further Improves",
+  "summary_zh": "中国物流与采购联合会8月4日公布，7月份中国物流业景气指数为50.4%，继续保持扩张；新订单指数连续5个月回升，反映市场需求向好。",
+  "summary_en": "The China Federation of Logistics & Purchasing announced on August 4 that China's logistics industry prosperity index for July stood at 50.4%, remaining in expansion territory, with new order index rising for five consecutive months, reflecting improving market demand.",
+  "body_zh": "中国物流与采购联合会今天（8月4日）公布：7月份中国物流业景气指数为50.4%，继续保持扩张。从分项指数看，市场需求进一步向好，新订单指数连续5个月环比回升，7月份扩张加快。\n从物流业态来看，铁路、公路、邮政快递业务总量指数扩张，多式联运业务总量指数处在高景气区间。各地持续开展多式联运方案创新，在铁海联运、数据互联等方面实现进一步突破，反映出货物多式联运需求快速增长，联运效率有效提升。\n另外，产业物流进一步向好，交通运输设备、通信电子、电气机械以及智慧家电等产业物流业务稳中有升，带动铁路高价值零散货、公路整车业务量增长。随着暑期消费需求释放，跨区域商流、物流趋于活跃。旅游户外、地方特产、生鲜产品等物流订单量，环比均有明显回升。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "industry",
+  "keywords": [
+    "物流业",
+    "经济景气",
+    "多式联运"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流业",
+      "name_en": "Logistics Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济景气",
+      "name_en": "Economic Prosperity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多式联运",
+      "name_en": "Multimodal Transport"
+    }
+  ],
+  "tags_zh": [
+    "物流业",
+    "经济景气",
+    "多式联运"
+  ],
+  "tags_en": [
+    "Logistics Industry",
+    "Economic Prosperity",
+    "Multimodal Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260804-gov_cn_yaowen-7e211c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

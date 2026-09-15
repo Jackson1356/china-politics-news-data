@@ -1,0 +1,96 @@
+{
+  "id": "20260901-qianlong-1c2b4f",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/0901/8720551.shtml",
+  "title_zh": "2026首都民营经济创新发展大会举办",
+  "title_en": "2026 Beijing Private Economy Innovation and Development Conference Held",
+  "summary_zh": "日前，北京市工商联举办2026首都民营经济创新发展大会，全国工商联副主席李冰、市委常委马骏致辞，市政协副主席燕瑛出席。",
+  "summary_en": "The Beijing Federation of Industry and Commerce recently held the 2026 Beijing Private Economy Innovation and Development Conference, with Vice Chairman Li Bing of the All-China Federation of Industry and Commerce and Beijing Municipal Party Committee Standing Committee Member Ma Jun delivering speeches.",
+  "body_zh": "日前，北京市工商联举办2026首都民营经济创新发展大会。全国工商联党组成员、副主席李冰，市委常委、统战部部长马骏致辞，市政协副主席、市工商联主席燕瑛出席。\n李冰指出，党的十八大以来，以习近平同志为核心的党中央把高水平科技自立自强摆在突出战略位置。广大民营企业要抢抓科技创新历史机遇，在硬核赛道上锤炼核心竞争力，在协同合作中放大创新倍增效应，在合规守法经营中筑牢健康发展根基。全国工商联将支持北京市民营经济发展，助力首都“两个健康”工作再上新台阶。\n马骏指出，北京市认真贯彻落实党中央决策部署，为创新松绑、为企业减负、为发展赋能，全力支持民营企业在科技创新主战场发挥更大作用。希望广大民营企业积极投身“两新”融合，加快关键核心技术攻关和前沿技术突破，在推动新技术、新业态、新模式发展上大展身手。各部门、各区要以企业需求为牵引，持续优化政策服务，着力营造尊重创新的良好氛围。\n燕瑛通报了首都统一战线“‘两新’融合 向‘新’而行”专项行动进展情况，指出，专项行动要夯实政产学研用金环融通发展基础，以“主题沙龙+闭门会”活动为载体促进对接意向转化为发展实效，进一步走深走实，为创新成果转化落地注入持久动能。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "economy",
+  "keywords": [
+    "民营经济",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李冰",
+      "name_en": "Li Bing"
+    },
+    {
+      "kind": "person",
+      "id": "ma-jun-beijing",
+      "name_zh": "马骏",
+      "name_en": "Ma Jun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营经济",
+      "name_en": "Private Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "李冰",
+    "马骏",
+    "北京",
+    "民营经济",
+    "科技创新"
+  ],
+  "tags_en": [
+    "Li Bing",
+    "Ma Jun",
+    "Beijing",
+    "Private Economy",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "ma-jun-beijing",
+      {
+        "id": null,
+        "name_zh": "李冰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-qianlong-1c2b4f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

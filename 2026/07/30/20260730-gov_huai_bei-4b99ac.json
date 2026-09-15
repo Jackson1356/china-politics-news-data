@@ -1,0 +1,108 @@
+{
+  "id": "20260730-gov_huai_bei-4b99ac",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/zwyw/65082054.html",
+  "title_zh": "汪华东蒋曦会见淮北舰和“攻坚英雄连”官兵代表",
+  "title_en": "Wang Huadong and Jiang Xi Meet Representatives of Huaibei Ship and 'Heroic Assault Company'",
+  "summary_zh": "7月30日上午，淮北市委书记汪华东、市长蒋曦会见淮北舰和“攻坚英雄连”官兵代表，致以节日祝福并介绍经济社会发展情况。",
+  "summary_en": "On the morning of July 30, Huaibei Municipal Party Secretary Wang Huadong and Mayor Jiang Xi met with representatives of the Huaibei Ship and 'Heroic Assault Company,' extending greetings and introducing local economic and social development.",
+  "body_zh": "汪华东蒋曦会见淮北舰和“攻坚英雄连”官兵代表\n7月30日上午，市委书记汪华东，市委副书记、市长蒋曦会见淮北舰、“攻坚英雄连”官兵代表。市领导徐胜利、刘家宏参加。\n汪华东代表市委、市政府和全市人民向官兵代表致以诚挚欢迎和节日祝福，并介绍我市经济社会发展情况。他说，淮北舰、“攻坚英雄连”全体官兵牢记初心使命，圆满完成各项任务，为维护国家安全作出了贡献。淮北是一片红色的热土，历来有着拥军优属、拥政爱民的光荣传统。市委、市政府将一如既往支持国防和军队现代化建设，持续深化双拥共建，加强军政军民团结，当好官兵们的坚强后盾。\n官兵代表感谢淮北长期以来的关心支持，表示将深入学习贯彻习近平强军思想，扎实推进练兵备战，坚决完成党和人民交给的任务，成为更好展示淮北形象的“流动名片”。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "双拥共建",
+    "军政军民团结",
+    "国防建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "汪华东",
+      "name_en": "Wang Huadong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "蒋曦",
+      "name_en": "Jiang Xi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HB",
+      "name_zh": "淮北",
+      "name_en": "Huaibei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥共建",
+      "name_en": "Double Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军政军民团结",
+      "name_en": "Unity between military and civilians"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防建设",
+      "name_en": "National Defense Construction"
+    }
+  ],
+  "tags_zh": [
+    "汪华东",
+    "蒋曦",
+    "淮北",
+    "双拥共建",
+    "军政军民团结",
+    "国防建设"
+  ],
+  "tags_en": [
+    "Wang Huadong",
+    "Jiang Xi",
+    "Huaibei",
+    "Double Support",
+    "Unity between military and civilians",
+    "National Defense Construction"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "刘家宏"
+      },
+      {
+        "id": null,
+        "name_zh": "蒋曦"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260730-gov_huai_bei-4b99ac",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

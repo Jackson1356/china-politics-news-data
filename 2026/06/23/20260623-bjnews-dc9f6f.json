@@ -1,0 +1,108 @@
+{
+  "id": "20260623-bjnews-dc9f6f",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1782216375129496.html",
+  "title_zh": "王毅会见俄罗斯联邦安全会议秘书绍伊古",
+  "title_en": "Wang Yi Meets Russian Federation Security Council Secretary Sergei Shoigu",
+  "summary_zh": "6月23日，王毅在新德里会见俄罗斯联邦安全会议秘书绍伊古，双方就落实中俄元首共识、加强全方位战略协作及推动金砖机制发展进行交流。",
+  "summary_en": "On June 23, Wang Yi met with Russian Federation Security Council Secretary Sergei Shoigu in New Delhi to discuss implementing the consensus of the two heads of state and strengthening BRICS cooperation.",
+  "body_zh": "据新华社新德里6月23日电 6月23日，中共中央政治局委员、中央外办主任王毅在新德里会见俄罗斯联邦安全会议秘书绍伊古。\n王毅说，上个月俄罗斯总统普京成功对华进行国事访问，两国元首进行了深入战略沟通。双方发表两份联合声明，一是为新时代中俄全面战略协作伙伴关系作出战略规划，提供了强劲动力；二是为人类社会发展指出未来方向，明确世界走向多极化的前景。中方愿同俄方一道，落实好两国元首重要共识，持续加强中俄全方位战略协作，促进两国加快发展振兴，为人类和平发展做出中俄贡献。\n王毅表示，金砖国家是国际社会践行多边主义、捍卫公道正义、促进和平安全的重要平台。中俄要加强协调配合，推动金砖机制不断做强做大，真正成为全球南方的第一方阵。金砖安代会应汇聚金砖国家共识，携手应对安全挑战，维护安全环境，为动荡世界注入更多确定性，作出更多“金砖贡献”。\n绍伊古表示，俄中元首持续密切交往，是两国关系持续发展的根本保障，彰显俄中全面战略协作伙伴关系的独特性和高水平。面对百年未有之大变局，俄中要深化相互信任，开展密切合作，共同抵制外部势力在安全领域的各种干涉渗透，反对日本的“再军事化”图谋。俄方愿同中方不断增进在金砖国家等多边机制内的战略协调，共同维护地区及世界的和平与稳定。\n双方还就共同关心的国际和地区问题深入交换意见。（记者陈冬书 伍岳）",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "金砖国家",
+    "多边主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "绍伊古",
+      "name_en": "Sergei Shoigu"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央外办",
+      "name_en": "Office of the Central Foreign Affairs Commission"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖国家",
+      "name_en": "BRICS"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "绍伊古",
+    "中央外办",
+    "新德里",
+    "中俄关系",
+    "金砖国家",
+    "多边主义"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Sergei Shoigu",
+    "Office of the Central Foreign Affairs Commission",
+    "New Delhi",
+    "China-Russia Relations",
+    "BRICS",
+    "Multilateralism"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央外办",
+        "name_en": "Office of the Central Foreign Affairs Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260623-bjnews-dc9f6f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

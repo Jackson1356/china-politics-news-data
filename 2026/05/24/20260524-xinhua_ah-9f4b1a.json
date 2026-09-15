@@ -1,0 +1,110 @@
+{
+  "id": "20260524-xinhua_ah-9f4b1a",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_url": "http://ah.news.cn/20260525/948dd630ad0148a49ef1156cc43b4401/c.html",
+  "title_zh": "今年首个红色预警发布，安徽和湖北局地有特大暴雨",
+  "title_en": "First Red Warning of the Year Issued for Extreme Rainstorms in Anhui and Hubei",
+  "summary_zh": "水利部和中国气象局5月24日联合发布今年首个红色山洪灾害气象预警，预计安徽西部和湖北东部局地将有特大暴雨。",
+  "summary_en": "The Ministry of Water Resources and China Meteorological Administration issued the first red mountain flood warning of the year on May 24, forecasting extreme rainstorms in parts of Anhui and Hubei.",
+  "body_zh": "新华社北京5月24日电（记者刘诗平）水利部和中国气象局24日18时联合发布今年首个红色山洪灾害气象预警，预计24日20时至25日20时，浙江西部、安徽西部和南部、江西东北部、湖北东部等地部分地区发生山洪灾害可能性大（橙色预警），其中安徽西部、湖北东部局地发生山洪灾害可能性很大（红色预警），需注意做好实时监测、防汛预警和转移避险等防范工作。\n从5月23日夜间开始至27日，中东部地区迎来新一轮较大范围降雨过程。24日和25日是这轮降雨最强时段。中央气象台24日18时发布暴雨橙色预警，24日20时至25日20时，河南南部、安徽西部和南部、湖南西北部、江西东北部、重庆东北部等地部分地区预计有大暴雨，安徽西南部、湖北东部等地局地有特大暴雨。",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-24",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "山洪灾害预警",
+    "防汛"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪灾害预警",
+      "name_en": "Mountain Flood Warning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "中国气象局",
+    "安徽",
+    "湖北",
+    "山洪灾害预警",
+    "防汛"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "China Meteorological Administration",
+    "Anhui",
+    "Hubei",
+    "Mountain Flood Warning",
+    "Flood Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-AH",
+      "CN-HB"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260524-xinhua_ah-9f4b1a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_hb",
+      "source_tier": 2,
+      "url": "http://hb.news.cn/20260525/7ba6b5ae94d64e54b969534efce9d67e/c.html",
+      "title_zh": "今年首个红色预警发布，安徽和湖北局地有特大暴雨",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

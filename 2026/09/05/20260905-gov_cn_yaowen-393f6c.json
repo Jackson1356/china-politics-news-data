@@ -1,0 +1,92 @@
+{
+  "id": "20260905-gov_cn_yaowen-393f6c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7080280.htm",
+  "title_zh": "我国粮食企业年工业总产值超4万亿元",
+  "title_en": "China's Grain Enterprises Annual Industrial Output Exceeds 4 Trillion Yuan",
+  "summary_zh": "第八届中国粮食交易大会5日在湖南长沙举行，国家粮食和物资储备局局长刘焕鑫介绍，我国粮食企业年工业总产值已超4万亿元。",
+  "summary_en": "At the 8th China Grain Trade Conference in Changsha on Sept 5, the head of the National Food and Strategic Reserves Administration said China's grain enterprises have annual industrial output over 4 trillion yuan.",
+  "body_zh": "新华社长沙9月5日电（记者周勉）记者从5日在湖南省长沙市举行的第八届中国粮食交易大会了解到，我国粮食企业年工业总产值已超4万亿元。\n国家粮食和物资储备局局长刘焕鑫介绍，截至目前，全国粮食企业达到2.4万家，年实现工业总产值超4万亿元，三分之一以上省份产值超过千亿元，全国共形成33个省级区域公用品牌、117个市县级粮食区域公用品牌。\n我国粮食年产量持续稳定在6.5亿吨以上，2024年、2025年连续两年超过7亿吨，2025年人均粮食占有量达到508.9公斤，超过世界平均水平。粮食库存总体处于较高水平，结构布局不断优化，可以有效满足保供需要。全国粮食标准仓房完好仓容超过7.3亿吨，具备低温准低温储藏能力的仓容达到2.2亿吨，占全国粮食标准仓房完好仓容的30%。\n本届大会从5日持续至7日，将现场展示全国优质特色粮油产品、智能粮机设备，并举办全国脱贫地区优质特色粮油产品展销会。据了解，共有来自全国的3100多家粮油企业参展。",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-05",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食产业",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-CS",
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食产业",
+      "name_en": "Grain Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "国家粮食和物资储备局",
+    "长沙",
+    "粮食产业",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "National Food and Strategic Reserves Administration",
+    "Changsha",
+    "Grain Industry",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "刘焕鑫"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-CS"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260905-gov_cn_yaowen-393f6c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

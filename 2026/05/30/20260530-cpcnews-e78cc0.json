@@ -1,0 +1,114 @@
+{
+  "id": "20260530-cpcnews-e78cc0",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0531/c64094-40730790.html",
+  "title_zh": "习近平同埃及总统塞西就中埃建交70周年互致贺电",
+  "title_en": "Xi Jinping and Egyptian President Sisi Exchange Congratulatory Messages on 70th Anniversary of Diplomatic Ties",
+  "summary_zh": "2026年5月30日，国家主席习近平同埃及总统塞西、国务院总理李强同埃及总理马德布利分别互致贺电，庆祝中埃建交70周年。",
+  "summary_en": "On May 30, 2026, President Xi Jinping and Premier Li Qiang exchanged congratulatory messages with Egyptian President Sisi and Prime Minister Madbouly to celebrate the 70th anniversary of diplomatic ties between China and Egypt.",
+  "body_zh": "李强同埃及总理马德布利互致贺电\n新华社北京5月30日电 5月30日，国家主席习近平同埃及总统塞西互致贺电，庆祝两国建交70周年。\n习近平指出，埃及是最早同新中国建交的阿拉伯和非洲国家。建交70年来，无论国际和地区形势如何变化，两国始终相互尊重、平等相待、彼此信任、守望相助，中埃关系已经成为发展中国家友好相处、团结协作的典范和中阿、中非集体合作的样板，正朝着构建面向新时代命运共同体的目标阔步前行。中埃两国同为世界文明古国和全球南方重要成员，要从历史中汲取智慧和力量，担负起求和平、谋发展、促合作、扬正义的时代使命，为构建人类命运共同体注入强劲动力。\n习近平强调，我高度重视中埃关系发展，愿同塞西总统一道努力，以建交70周年为新起点，赓续传统友谊，加强各领域交流合作，推动中埃关系更具战略引领力、发展聚合力、国际影响力，更好惠及两国人民，为国际和地区和平与发展贡献更大力量。\n塞西表示，埃中两国在各个历史时期都肩并肩站在一起。70年来，在两国领导人的共同引领下，埃中关系持续发展。我对埃中关系取得的重要成就表示赞赏，期待同习近平主席一道，继续推动双边关系取得更多丰硕成果，共同建设一个更加稳定、更有能力应对全球挑战的多极世界，使各国能够共享全面发展成果，共同实现和平与安全。\n同日，国务院总理李强同埃及总理马德布利互致贺电。李强表示，中方愿同埃方一道努力，全面落实两国元首重要共识，加快推进高质量共建“一带一路”，密切各领域交流合作，推动中埃全面战略伙伴关系不断发展，更好造福两国人民。\n马德布利表示，70年来，埃中关系取得长足发展，双边合作取得前所未有的成果。埃方期待同中方继续加强合作，在经济、科技等领域取得更多成就，造福友好的两国和两国人民。\n《 人民日报 》（ 2026年05月31日 01 版）",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-30",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "foreign",
+  "keywords": [
+    "中埃关系",
+    "一带一路",
+    "人类命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "塞西",
+      "name_en": "Sisi"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "埃及",
+      "name_en": "Egypt"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃关系",
+      "name_en": "China-Egypt Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人类命运共同体",
+      "name_en": "Community with a Shared Future for Mankind"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "塞西",
+    "李强",
+    "北京",
+    "埃及",
+    "中埃关系",
+    "一带一路",
+    "人类命运共同体"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Sisi",
+    "Li Qiang",
+    "Beijing",
+    "Egypt",
+    "China-Egypt Relations",
+    "Belt and Road Initiative",
+    "Community with a Shared Future for Mankind"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260530-qiushi-2b0526",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260812-gov_cn_yaowen-61f025",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077950.htm",
+  "title_zh": "我国汽车出口延续强劲增长态势",
+  "title_en": "China's Auto Exports Maintain Strong Growth Momentum",
+  "summary_zh": "7月我国汽车出口104.3万辆，同比增长81.3%；其中新能源汽车出口55.3万辆，同比增长145.5%。出口连续两个月突破100万辆。",
+  "summary_en": "In July, China's auto exports reached 1.043 million units, up 81.3% YoY; NEV exports hit 553,000 units, up 145.5%. Exports exceeded one million for two consecutive months.",
+  "body_zh": "记者今天（8月12日）从中国汽车工业协会获悉，7月份，我国汽车出口延续强劲增长态势，单月汽车出口达104.3万辆，同比增长81.3%。其中，新能源汽车出口55.3万辆，同比增长145.5%。\n自今年4月、5月连续两个月汽车出口超过90万辆后，6月、7月再次迈上新台阶。出口连续两个月突破100万辆，新能源汽车出口占比已连续两个月突破50%。\n中国汽车工业协会相关负责人表示，中国汽车出口之所以能够保持高速增长，主要是中国拥有全球最完整的汽车产业链，从锂矿加工、电池制造、电机电控到整车组装，不仅成本可控，而且供应链抗风险能力强。此外，我国汽车产业的智能化形成了核心竞争力，智能驾驶、座舱交互等功能能够快速迭代，精准适配海外用户的需求。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "汽车出口",
+    "新能源汽车",
+    "产业链"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车出口",
+      "name_en": "Auto Exports"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链",
+      "name_en": "Industry Chain"
+    }
+  ],
+  "tags_zh": [
+    "汽车出口",
+    "新能源汽车",
+    "产业链"
+  ],
+  "tags_en": [
+    "Auto Exports",
+    "New Energy Vehicles",
+    "Industry Chain"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260812-gov_cn_yaowen-61f025",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_12_827050.shtml",
+      "title_zh": "中国汽车出口，连续两个月破百万辆",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    },
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": null,
+      "url": "https://www.dzwww.com/xinwen/guoneixinwen/202608/t20260813_18016647.htm",
+      "title_zh": "我国汽车出口延续强劲增长态势",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

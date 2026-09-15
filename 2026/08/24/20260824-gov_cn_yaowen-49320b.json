@@ -1,0 +1,100 @@
+{
+  "id": "20260824-gov_cn_yaowen-49320b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/24/VIDEfMTEPsvRnPNzyQFx6hb6260824.shtml",
+  "title_zh": "李强会见约旦国王",
+  "title_en": "Li Qiang Meets with King Abdullah II of Jordan",
+  "summary_zh": "8月24日，国务院总理李强在北京会见来华进行国事访问的约旦国王阿卜杜拉二世，双方就深化合作、推动中阿关系发展等交换意见。",
+  "summary_en": "On August 24, Premier Li Qiang met with King Abdullah II of Jordan, who was on a state visit to China, in Beijing. They exchanged views on deepening cooperation and advancing China-Arab relations.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强24日在京会见来华进行国事访问的约旦国王阿卜杜拉二世。\n李强表示，近年来，中约务实合作成果丰硕。习近平主席同国王陛下举行会谈，共同擘画中约关系发展的新蓝图。中方愿同约方弘扬传统友好，坚定相互支持，推动高质量共建“一带一路”，深化经贸、绿色、数字、人文等领域合作，在实现现代化的道路上携手前行。中方愿为推动中东局势降温作出不懈努力。希望约方继续为中国和阿拉伯国家关系发展发挥重要作用，推动构建更高水平的中阿命运共同体。\n阿卜杜拉二世表示，约方坚定奉行一个中国政策，愿同中方加强各层级往来，推进经贸、能源、科技创新等领域合作。约方期待同中方携手推动阿中关系迈上新水平。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中约关系",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中约关系",
+      "name_en": "China-Jordan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "中约关系",
+    "一带一路",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "China-Jordan Relations",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260824-gov_cn_yaowen-49320b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079031.htm",
+      "title_zh": "李强会见约旦国王阿卜杜拉二世",
+      "published_at": "2026-08-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

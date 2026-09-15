@@ -1,0 +1,97 @@
+{
+  "id": "20260702-xinhua_xj-b6e2f8",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_url": "http://xj.news.cn/20260702/6b4f086b17384cbc804e43969cd83f44/c.html",
+  "title_zh": "吾哈斯·苏来曼荣获“七一勋章”",
+  "title_en": "Wuhasi Suleiman Awarded 'July 1st Medal'",
+  "summary_zh": "2026年7月1日，在庆祝中国共产党成立105周年大会上，习近平向包括吾哈斯·苏来曼在内的8名共产党员颁授“七一勋章”。",
+  "summary_en": "On July 1, 2026, President Xi Jinping awarded the 'July 1st Medal' to eight Communist Party members, including Wuhasi Suleiman, during the celebration of the CPC's 105th anniversary in Beijing.",
+  "body_zh": "7月1日上午，庆祝中国共产党成立105周年大会在北京人民大会堂隆重举行，习近平总书记向“七一勋章”获得者颁授勋章并发表重要讲话。这是党中央第二次颁授“七一勋章”，共有8名为党和人民作出杰出贡献的共产党员获得这一荣誉，裕民县牧业医院内科原副主任医师吾哈斯·苏来曼名列其中。\n1955年12月，吾哈斯·苏来曼出生在裕民县阿勒腾也木勒乡白布谢村一个农民家庭。1975年从塔城地区卫校毕业后，他主动放弃留在县城工作的机会，选择到裕民县牧业医院在牧区设立的医疗点工作。牧区方圆数百里，牧民逐水草而居，他骑着马、背着药箱追着牧民走，冬季冒着零下40摄氏度严寒，夏季顶着成群蚊虫叮咬，足迹遍布牧区每一顶毡房。在岗行医期间，他累计巡诊超20万公里，接诊救治各族患者超10万人次，成功抢救危重病人数千名。他亲手接生了3200多个孩子，被牧民们亲切地称为“脐带爸爸”。\n2015年，退休后的吾哈斯·苏来曼依然闲不住、放不下，他建立“吾哈斯健康服务室”，每周至少3天在社区开展义诊活动，把流动义诊变成固定阵地，10年累计接诊群众6.5万余人次。2021年，他又将自家小院改造为宣传教育阵地，讲述边疆医疗卫生事业巨变和民族团结故事。\n2023年，吾哈斯·苏来曼发起“吾哈斯健康惠民行”志愿服务项目，在其感召下，志愿服务队发展至350人，开展健康知识宣传、为居民送诊等，服务各族群众1.5万余人次。他还协调为100名独居老人安装紧急呼叫装置，实现对老人的智能化守护。\n“我是一名共产党员，一个普通医生，做了一辈子该做的事。牧区需要人，我去了；病人在那儿等着，我去了。就这么简单。”吾哈斯·苏来曼说，“现在腿不行了，但只要还能走，我就去，因为牧民需要我。”（热依达）",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:57Z",
+  "topic": "party",
+  "keywords": [
+    "七一勋章",
+    "民族团结",
+    "医疗卫生"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "七一勋章",
+      "name_en": "July 1st Medal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族团结",
+      "name_en": "Ethnic Unity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生",
+      "name_en": "Healthcare"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "七一勋章",
+    "民族团结",
+    "医疗卫生"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "July 1st Medal",
+    "Ethnic Unity",
+    "Healthcare"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260702-xinhua_xj-b6e2f8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_xj",
+      "source_tier": 3,
+      "url": "http://xj.people.com.cn/n2/2026/0702/c186332-41627463.html",
+      "title_zh": "吾哈斯·苏来曼荣获“七一勋章”",
+      "published_at": "2026-07-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "20260830-gov_cn_yaowen-83584d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079541.htm",
+  "title_zh": "王毅同尼泊尔外长希西尔通电话",
+  "title_en": "Wang Yi Holds Phone Call with Nepalese Foreign Minister Sishir",
+  "summary_zh": "8月29日，王毅同尼泊尔外长希西尔通电话，就尼泊尔边境冰川崩塌引发泥石流灾害致两国人员伤亡表示慰问，并通报中方提供紧急援助、开展国际合作。",
+  "summary_en": "On August 29, Wang Yi held a phone call with Nepalese Foreign Minister Sishir, expressing condolences over the transboundary glacier collapse and mudslide causing casualties in both countries, and noting China's emergency aid and international cooperation.",
+  "body_zh": "新华社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。\n王毅表示，尼泊尔边境地区突发冰川崩塌引发严重泥石流灾害，造成两国重大人员伤亡、失联，是近年来两国间发生的最严重跨境灾害，救灾工作复杂性和艰巨性前所未有。中方高度重视，习近平主席立即作出重要指示，对抢险救援和应急处置工作提出明确要求。李强总理赶赴灾区现场指导工作。中方在紧急开展抢险自救的同时，第一时间伸出援手，支持尼方应急救灾。习近平主席已向鲍德尔总统致慰问电，李强总理也向巴伦德拉总理表达慰问。中共中央政治局会议专门指出，要对尼泊尔受灾地区提供紧急援助，开展国际救援合作。这是中方作出的重要政治决定，体现了对尼方的友好情谊。\n希西尔转达尼方领导人向中国政府、人民和遇难者家属的慰问，衷心感谢中方提供紧急人道主义援助，表示尼中都是受灾国，但中方克服困难，第一时间向尼方表示慰问、提供援助，充分展现尼中关系的高水平。尼方再次向中方表达谢意，将继续同中方通力合作，全力救援中方受困失联人员，并合力营救失联外国公民。尼方愿同中方加强灾后重建、防灾减灾、应对气候变化等领域合作，推动两国战略合作伙伴关系不断向前发展。",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "自然灾害救援",
+    "外交合作",
+    "人道主义援助"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "希西尔",
+      "name_en": "Sishir"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救援",
+      "name_en": "Natural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交合作",
+      "name_en": "Diplomatic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人道主义援助",
+      "name_en": "Humanitarian Aid"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "希西尔",
+    "外交部",
+    "北京",
+    "自然灾害救援",
+    "外交合作",
+    "人道主义援助",
+    "李强",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Sishir",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Natural Disaster Relief",
+    "Diplomatic Cooperation",
+    "Humanitarian Aid"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "方表示"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260830-gov_cn_yaowen-83584d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

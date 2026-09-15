@@ -1,0 +1,105 @@
+{
+  "id": "20260831-xinhua_leaders-9abcfa",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260831/808d794134db4ec5a74b9c8e76ec5f33/c.html",
+  "title_zh": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
+  "title_en": "Xi Jinping Holds Talks with Kyrgyz President Sadyr Japarov",
+  "summary_zh": "当地时间8月31日上午，习近平在比什凯克同吉尔吉斯斯坦总统扎帕罗夫会谈，签署联合宣言及永久睦邻友好合作条约。",
+  "summary_en": "On the morning of August 31 (local time), Xi Jinping held talks with Kyrgyz President Sadyr Japarov in Bishkek, signing a joint declaration and a treaty on permanent good-neighborliness and friendly cooperation.",
+  "body_zh": "当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。扎帕罗夫为习近平举行欢迎仪式。这是两国元首检阅仪仗队。\n当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。\n当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。这是习近平和夫人彭丽媛同扎帕罗夫和夫人扎帕罗娃在两国国旗前合影。\n当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。会谈后，两国元首共同签署《中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言》、《中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约》，见证双方交换投资、交通、海关、友城等领域双边合作文本。\n当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "全面战略伙伴关系",
+    "睦邻友好合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "扎帕罗夫",
+      "name_en": "Sadyr Japarov"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "睦邻友好合作",
+      "name_en": "Good-Neighborly and Friendly Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "扎帕罗夫",
+    "比什凯克",
+    "全面战略伙伴关系",
+    "睦邻友好合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Sadyr Japarov",
+    "Bishkek",
+    "Comprehensive Strategic Partnership",
+    "Good-Neighborly and Friendly Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260831-xinhua_leaders-9abcfa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "https://cpc.people.com.cn/n1/2026/0901/c435113-40790014.html",
+      "title_zh": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": null,
+      "url": "http://www.qstheory.cn/20260831/2e2c233400a74b3d8e89fe5c9ed3545f/c.html",
+      "title_zh": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

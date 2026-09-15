@@ -1,0 +1,102 @@
+{
+  "id": "20260603-peoples_gs-6ad095",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0603/c183342-41599766.html",
+  "title_zh": "“2026年高考护航行动”启动实施",
+  "title_en": "\"2026 Gaokao Escort Action\" Launched",
+  "summary_zh": "2026年6月2日，教育部会同网信、公安等部门在北京部署开展“2026年高考护航行动”，旨在通过打击作弊和综合服务保障，确保高考公平与平安。",
+  "summary_en": "On June 2, 2026, the Ministry of Education, along with cyberspace and public security departments, launched the \"2026 Gaokao Escort Action\" in Beijing to ensure a fair and safe National College Entrance Examination.",
+  "body_zh": "“2026年高考护航行动”启动实施\n本报北京6月2日电 （记者丁雅诵）2026年高考在即，教育部会同网信、公安等部门部署开展“2026年高考护航行动”，全面做好考试组织、宣传引导、考生服务等各项工作，全力护航“平安高考”。\n2026年高考期间，各地将集中开展打击手机作弊、净化涉考网络环境、打击销售作弊器材、打击替考作弊、净化考点周边环境、清理整顿涉考培训机构和助考中介等多个专项行动，清理处置助考犯罪、招生诈骗、虚假宣传、网络谣言等不实有害信息，加强治安、出行、食宿、医疗卫生、噪声治理、心理辅导等多方面综合服务保障，营造良好考试环境，坚决维护教育考试公平。",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "welfare",
+  "keywords": [
+    "高考",
+    "考试公平"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高考",
+      "name_en": "Gaokao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "考试公平",
+      "name_en": "Examination Fairness"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "北京",
+    "高考",
+    "考试公平"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "Beijing",
+    "Gaokao",
+    "Examination Fairness"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260602-xinhua_hn-96abc1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0603/c352664-41599675.html",
+      "title_zh": "“2026年高考护航行动”启动实施",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0603/c134768-41599739.html",
+      "title_zh": "“2026年高考护航行动”启动实施",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    },
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://beijing.qianlong.com/2026/0603/8677928.shtml",
+      "title_zh": "“2026年高考护航行动”启动 教育部发典型案例提醒考生勿上当",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

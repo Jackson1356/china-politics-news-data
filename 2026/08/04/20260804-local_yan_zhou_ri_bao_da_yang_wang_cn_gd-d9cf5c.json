@@ -1,0 +1,96 @@
+{
+  "id": "20260804-local_yan_zhou_ri_bao_da_yang_wang_cn_gd-d9cf5c",
+  "source": "local_yan_zhou_ri_bao_da_yang_wang_cn_gd",
+  "source_name_zh": "广州日报大洋网",
+  "source_name_en": "广州日报大洋网",
+  "source_media_id": "cac-cn-gd-61789ee59f",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-GD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.dayoo.com/guangdong/139996.shtml",
+  "title_zh": "乡村发展共创营（广东站）将于8月18日在广州举行",
+  "title_en": "Rural Development Co-creation Camp (Guangdong Station) to Be Held in Guangzhou on August 18",
+  "summary_zh": "广东省农业农村厅8月3日透露，'乡村发展共创营（广东站）'活动将于8月18日在广州举行，由字节跳动公益等联合主办，助力乡村振兴。",
+  "summary_en": "The Agriculture and Rural Affairs Department of Guangdong Province announced on August 3 that the Rural Development Co-creation Camp (Guangdong Station) will be held in Guangzhou on August 18, co-hosted by ByteDance Charity and others to support rural revitalization.",
+  "body_zh": "8月3日，记者从广东省农业农村厅获悉，由省“百千万工程”指挥部办公室、省农业农村厅指导，字节跳动公益与广东省农业对外经济与农民合作促进中心联合主办的“乡村发展共创营（广东站）”活动，将于8月18日在广州华商学院华商会议展览中心举行。\n新时代以来，习近平总书记对加强和改进国际传播工作提出一系列新思想新观点新论断，为做好国际传播工作指明了前进方向、提供了根本遵循。省委“1310”具体部署对扎实推进文化强省建设，面向世界讲好中国故事、大湾区故事、广东故事提出明确要求。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "welfare",
+  "keywords": [
+    "乡村振兴",
+    "公益活动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省农业农村厅",
+      "name_en": "Agriculture and Rural Affairs Department of Guangdong Province"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公益活动",
+      "name_en": "Public Welfare Activities"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "广东省农业农村厅",
+    "广州",
+    "乡村振兴",
+    "公益活动",
+    "习近平"
+  ],
+  "tags_en": [
+    "Agriculture and Rural Affairs Department of Guangdong Province",
+    "Guangzhou",
+    "Rural Revitalization",
+    "Public Welfare Activities"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省农业农村厅",
+        "name_en": "Agriculture and Rural Affairs Department of Guangdong Province"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260804-local_yan_zhou_ri_bao_da_yang_wang_cn_gd-d9cf5c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20260602-gov_cn_yaowen-035615",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7070880.htm",
+  "title_zh": "中央财政下达育儿补贴补助资金999亿元",
+  "title_en": "Central Finance Allocates 99.9 Billion Yuan for Childcare Subsidies",
+  "summary_zh": "6月2日，财政部下达2026年育儿补贴补助资金999亿元，支持各地为符合条件的婴幼儿发放补贴，助力建设生育友好型社会。",
+  "summary_en": "On June 2, the Ministry of Finance allocated 99.9 billion yuan in childcare subsidy funds for 2026 to support local governments in providing subsidies for eligible infants.",
+  "body_zh": "新华社北京6月2日电（记者 申铖）记者6月2日从财政部了解到，为贯彻落实党中央、国务院决策部署，财政部近期下达2026年育儿补贴补助资金999亿元、较上年增长10.6%，支持各地为符合条件的婴幼儿发放育儿补贴，预计全年各级财政共安排补贴资金约1100亿元。\n记者获悉，目前，2026年育儿补贴发放工作正在平稳有序开展。根据相关管理规定，各级卫生健康部门负责育儿补贴审核发放的组织实施，原则上每季度至少集中发放一批；上个季度审核通过的申请，应当于本季度末前发放到位。\n财政部称，将继续会同国家卫生健康委做好育儿补贴制度实施工作，严格资金管理，加强监督检查，发挥政策作用，助力建设生育友好型社会。",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "welfare",
+  "keywords": [
+    "育儿补贴",
+    "生育友好型社会"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "育儿补贴",
+      "name_en": "Childcare Subsidies"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生育友好型社会",
+      "name_en": "Birth-friendly Society"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "国家卫生健康委",
+    "北京",
+    "育儿补贴",
+    "生育友好型社会"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "National Health Commission",
+    "Beijing",
+    "Childcare Subsidies",
+    "Birth-friendly Society"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260602-gov_cn_yaowen-035615",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

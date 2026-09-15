@@ -1,0 +1,92 @@
+{
+  "id": "20260805-peoples_nm-e60110",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/0805/c196667-41659484.html",
+  "title_zh": "内蒙古送电上海配套过江工程开工建设",
+  "title_en": "Construction Starts on River-Crossing Project for Inner Mongolia-Shanghai Power Transmission",
+  "summary_zh": "内蒙古库布齐沙漠基地送电上海工程受端配套过江工程日前开工，工程将下穿长江连接上海崇明岛与江苏太仓，计划2030年底建成。",
+  "summary_en": "The supporting river-crossing project for the Inner Mongolia-to-Shanghai power transmission has started construction, crossing the Yangtze River between Chongming Island, Shanghai and Taicang, Jiangsu, with completion planned by the end of 2030.",
+  "body_zh": "内蒙古送电上海配套过江工程开工建设\n据自治区能源局消息，内蒙古库布齐沙漠基地送电上海工程（简称“蒙电入沪工程”）受端配套过江工程于日前开工建设。\n据悉，蒙电入沪工程作为“沙戈荒”大型风电光伏基地开发、推进绿电远距离外送布局的重要组成部分，总长约1800公里、设计输送容量达800万千瓦，投运后计划每年向上海输送约400亿千瓦时电量，将进一步促进内蒙古绿色电力规模化外送消纳，助力上海能源绿色低碳转型。\n此次开工建设的过江工程，是未来内蒙古库布齐沙漠基地的风电、光电等电力资源穿越长江汇入上海电力主网的“咽喉节点”。工程起于上海崇明岛，下穿长江主航道至江苏太仓，是我国设计输送容量最大、江底埋设最深的电力专用隧道，计划于2030年底建成投运。（记者 康丽娜）",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "industry",
+  "keywords": [
+    "电力外送",
+    "绿色能源",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力外送",
+      "name_en": "Power Transmission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色能源",
+      "name_en": "Green Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "内蒙古",
+    "上海",
+    "电力外送",
+    "绿色能源",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Inner Mongolia",
+    "Shanghai",
+    "Power Transmission",
+    "Green Energy",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NM",
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-peoples_nm-e60110",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

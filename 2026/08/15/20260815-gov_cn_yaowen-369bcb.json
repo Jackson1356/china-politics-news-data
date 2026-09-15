@@ -1,0 +1,74 @@
+{
+  "id": "20260815-gov_cn_yaowen-369bcb",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7078100.htm",
+  "title_zh": "截至6月底电动汽车充电基础设施总数同比增长43.2%",
+  "title_en": "EV Charging Infrastructure Grows 43.2% YoY to 23.057 Million by End of June",
+  "summary_zh": "国家能源局数据显示，截至6月底我国电动汽车充电基础设施总数达2305.7万个，同比增长43.2%；县域充电设施覆盖率达98.61%。",
+  "summary_en": "According to the National Energy Administration, China's EV charging infrastructure reached 23.057 million units by end of June, up 43.2% year-on-year; county coverage reached 98.61%.",
+  "body_zh": "记者从国家能源局获悉：截至6月底，我国电动汽车充电基础设施（枪）总数达到2305.7万个，同比增长43.2%。\n其中，公共充电设施（枪）500.9万个，同比增长22.3%，额定总功率达到2.47亿千瓦，单枪平均功率约为49.35千瓦；私人充电设施（枪）1804.8万个，同比增长50.4%，报装用电容量达到1.55亿千伏安。\n今年上半年，电动汽车充电网络快速发展，服务能力显著提升。大功率充电设施建设取得显著成效；县乡充电网络布局持续优化，截至6月底，县域充电设施覆盖率提升至98.61%，县乡充电网络加快织密，乡镇区域充电服务保障能力稳步增强。（记者 王云杉）",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "industry",
+  "keywords": [
+    "电动汽车充电设施",
+    "县域充电网络"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电动汽车充电设施",
+      "name_en": "EV Charging Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "县域充电网络",
+      "name_en": "County-level Charging Network"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "电动汽车充电设施",
+    "县域充电网络"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "EV Charging Infrastructure",
+    "County-level Charging Network"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260815-gov_cn_yaowen-369bcb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

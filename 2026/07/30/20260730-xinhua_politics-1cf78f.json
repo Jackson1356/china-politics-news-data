@@ -1,0 +1,83 @@
+{
+  "id": "20260730-xinhua_politics-1cf78f",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260730/d3223e7044e246a597be404e7dbd7be4/c.html",
+  "title_zh": "西藏澜沧江上游曲孜卡水电站开工",
+  "title_en": "Construction of Qizika Hydropower Station on Upper Lancang River in Tibet Starts",
+  "summary_zh": "7月30日，西藏开投曲孜卡水电站举行开工仪式，总投资58.95亿元，装机容量40.5万千瓦，建成后年发电量约18.69亿千瓦时。",
+  "summary_en": "On July 30, the Qizika Hydropower Station in Tibet officially started construction, with a total investment of 5.895 billion yuan and an installed capacity of 405 MW. It will generate about 1.869 billion kWh annually.",
+  "body_zh": "新华社拉萨7月30日电（记者普布次仁）西藏开投曲孜卡水电站30日在澜沧江畔举行开工仪式，进入全面建设阶段。项目总投资58.95亿元，装机容量40.5万千瓦。\n西藏开投曲孜卡水电公司党委副书记、总经理别必雄介绍，项目建设总工期54个月，电站多年平均发电量可达18.69亿千瓦时。电站水库枢纽工程由挡水、泄洪、引水发电建筑物组成，大坝最大坝高79.5米、总长411米，具备日调节能力。\n澜沧江水能资源充沛，是澜沧江上游（西藏段）清洁能源基地的重要组成部分。据了解，曲孜卡水电站建成投产后，每年可节约标准煤约56万吨，减少二氧化碳排放约146万吨，可弥补区域电网电力缺口，并为国家“西电东送”战略提供支撑。项目建设阶段预计可直接带动当地农牧民创收约1.98亿元，投产后年纳税约0.37亿元，全生命周期纳税总额8.98亿元。\n曲孜卡水电公司联合各参建单位开展专项科研攻关，聚焦坝基处理、边坡治理、生态保护、文化遗产保护、发电效益等领域集中突破，已形成适配高原复杂地质环境、兼顾文物与生态保护的技术体系。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "清洁能源",
+    "水电站建设",
+    "西电东送"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水电站建设",
+      "name_en": "Hydropower Station Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "西电东送",
+      "name_en": "West-to-East Power Transmission"
+    }
+  ],
+  "tags_zh": [
+    "西藏",
+    "清洁能源",
+    "水电站建设",
+    "西电东送"
+  ],
+  "tags_en": [
+    "Tibet",
+    "Clean Energy",
+    "Hydropower Station Construction",
+    "West-to-East Power Transmission"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260730-xinhua_politics-1cf78f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

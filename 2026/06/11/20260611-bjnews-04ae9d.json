@@ -1,0 +1,81 @@
+{
+  "id": "20260611-bjnews-04ae9d",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1781164206129678.html",
+  "title_zh": "河北辛集某公司厂房内贮存危险废物，当地回应系已被查封闲置厂房",
+  "title_en": "Local Authorities Respond to Reports of Hazardous Waste Storage in Xinji, Hebei",
+  "summary_zh": "6月11日，河北辛集市生态环境局回应某公司厂房贮存危废问题，称该厂房已被查封，3名犯罪嫌疑人已被采取刑事强制措施。",
+  "summary_en": "On June 11, the Xinji Ecology and Environment Bureau in Hebei responded to reports of hazardous waste storage, stating the facility was sealed and three suspects are under criminal compulsory measures.",
+  "body_zh": "新京报讯 据辛集市生态环境局消息，6月11日，网上反映我市某公司厂房内贮存危险废物。该场所系已被查封的闲置厂房，此前公安机关已对违法贮存危险废物行为进行立案查处，现场危险废物已由专业机构完成司法鉴定，李某某等3名犯罪嫌疑人已被采取刑事强制措施，相关刑事案件正在进一步侦办中。\n目前，我局正在依法依规推进环境应急处置和污染治理工作。感谢广大网友对我市生态环境保护工作的关心与监督。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2024-06-11",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "危险废物",
+    "环境治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "辛集市生态环境局",
+      "name_en": "Xinji Ecology and Environment Bureau"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "河北辛集",
+      "name_en": "Xinji, Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "危险废物",
+      "name_en": "Hazardous Waste"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "环境治理",
+      "name_en": "Environmental Governance"
+    }
+  ],
+  "tags_zh": [
+    "辛集市生态环境局",
+    "河北辛集",
+    "危险废物",
+    "环境治理"
+  ],
+  "tags_en": [
+    "Xinji Ecology and Environment Bureau",
+    "Xinji, Hebei",
+    "Hazardous Waste",
+    "Environmental Governance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "辛集市生态环境局",
+        "name_en": "Xinji Ecology and Environment Bureau"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260611-bjnews-04ae9d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

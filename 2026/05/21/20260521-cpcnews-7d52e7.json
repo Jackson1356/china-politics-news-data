@@ -1,0 +1,83 @@
+{
+  "id": "20260521-cpcnews-7d52e7",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0522/c64387-40725025.html",
+  "title_zh": "4月民航旅客运输量超6100万人次",
+  "title_en": "Civil Aviation Passenger Volume Exceeds 61 Million in April",
+  "summary_zh": "中国民航局数据显示，4月民航旅客运输量达6119.9万人次，同比增长0.4%，货邮运输量达85.4万吨，同比增长6.9%。",
+  "summary_en": "The CAAC reported that civil aviation passenger volume reached 61.199 million in April, a 0.4% year-on-year increase, with cargo and mail transport volume rising 6.9% to 854,000 tons.",
+  "body_zh": "本报北京5月21日电 （记者邱超奕）记者从中国民航局获悉：4月，民航旅客运输量达6119.9万人次，同比增长0.4%，其中国际航线旅客运输量678.8万人次，同比增长5.8%。全国民航今年以来累计旅客运输量达25912.8万人次，同比增长5%。\n货邮运输量方面，4月，民航货邮运输量达85.4万吨，同比增长6.9%。其中，国内航线货邮运输量达45.6万吨，同比增长2.1%；国际航线货邮运输量达39.8万吨，同比增长12.9%。\n《 人民日报 》（ 2026年05月22日 01 版）",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-22T03:17:07Z",
+  "topic": "industry",
+  "keywords": [
+    "民航运输",
+    "经济数据"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国民航局",
+      "name_en": "Civil Aviation Administration of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民航运输",
+      "name_en": "Civil Aviation Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济数据",
+      "name_en": "Economic Data"
+    }
+  ],
+  "tags_zh": [
+    "中国民航局",
+    "北京",
+    "民航运输",
+    "经济数据"
+  ],
+  "tags_en": [
+    "Civil Aviation Administration of China",
+    "Beijing",
+    "Civil Aviation Transport",
+    "Economic Data"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国民航局",
+        "name_en": "Civil Aviation Administration of China"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260521-cpcnews-7d52e7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

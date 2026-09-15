@@ -1,0 +1,100 @@
+{
+  "id": "20260813-gov_cn_yaowen-c4a0b1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078012.htm",
+  "title_zh": "我国全面推进美丽中国建设",
+  "title_en": "China Advances Comprehensive Construction of a Beautiful China",
+  "summary_zh": "国务院新闻办今天举行发布会，生态环境部介绍“十五五”开局之年美丽中国建设进展，前7个月全国PM2.5平均浓度同比下降6.2%，地表水优良水体比例达86.5%，并设定2030年目标。",
+  "summary_en": "At a State Council Information Office press conference, the Ministry of Ecology and Environment reported progress on building a Beautiful China, with PM2.5 down 6.2% year-on-year and 86.5% of surface water at good quality in the first seven months.",
+  "body_zh": "国务院新闻办公室今天（8月13日）举行“开局起步‘十五五’”系列主题新闻发布会。生态环境部相关负责人介绍全面推进美丽中国建设有关情况。\n据介绍，“十五五”开局之年，我国生态环境质量持续向好、主要指标明显改善。前7个月，全国PM2.5平均浓度同比下降1.8微克/立方米，下降幅度达6.2%；优良天数比例同比上升3.9个百分点。地表水Ⅰ至Ⅲ类水质断面比例达到86.5%，同比增长2.4个百分点；长江、黄河干流水质继续保持Ⅱ类。生态环境部门推动排查治理6000多处群众身边小微水体污染问题。\n通过系统治理，力争到2030年，全国PM2.5浓度达到27微克/立方米以下，水环境和水生态的优良水体比例指标提高到85%，完成8万个行政村环境整治，切实改善农村人居环境。同时，加强固体废物和新污染物治理，支持200个左右城市开展“无废城市”建设，推动生态系统多样性、稳定性、持续性显著提升，促进经济社会发展全面绿色转型。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "美丽中国建设",
+    "生态环境",
+    "绿色转型"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "美丽中国建设",
+      "name_en": "Beautiful China Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境",
+      "name_en": "Ecological Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色转型",
+      "name_en": "Green Transition"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "生态环境部",
+    "美丽中国建设",
+    "生态环境",
+    "绿色转型"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Ministry of Ecology and Environment",
+    "Beautiful China Initiative",
+    "Ecological Environment",
+    "Green Transition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "MEE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260813-gov_cn_yaowen-c4a0b1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677507.shtml",
+      "title_zh": "【“十五五”开好局起好步】我国全面推进美丽中国建设",
+      "published_at": "2026-08-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

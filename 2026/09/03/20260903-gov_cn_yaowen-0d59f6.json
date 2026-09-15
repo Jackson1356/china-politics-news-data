@@ -1,0 +1,74 @@
+{
+  "id": "20260903-gov_cn_yaowen-0d59f6",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7080104.htm",
+  "title_zh": "促进中小企业发展“十五五”规划发布",
+  "title_en": "15th Five-Year Plan for Promoting SME Development Released",
+  "summary_zh": "工业和信息化部等10部门印发《促进中小企业发展“十五五”规划》，提出到2030年中小企业研发投入年均增长8%以上、专精特新“小巨人”企业达2.2万家等目标。",
+  "summary_en": "MIIT and nine other departments issued a plan to boost SME development in the 15th Five-Year Plan period, targeting over 8% annual R&D growth and 22,000 'little giant' firms by 2030.",
+  "body_zh": "工业和信息化部等10部门近日印发《促进中小企业发展“十五五”规划》。\n规划提出，到2030年，我国中小企业整体发展量质齐升，规模以上中小企业人均营业收入累计增长15%左右；创新发展能力显著增强，规模以上工业中小企业研发费用内部支出年均增长8%以上，专精特新“小巨人”企业达到2.2万家，国家级中小企业特色产业集群达到600个；专精特新中小企业数智化水平二级占比达到95%以上、三级占比达到80%以上；服务体系持续健全，中外中小企业合作区达到50个；发展环境进一步优化，防范化解拖欠中小企业账款长效机制基本建立，中小企业多元化融资渠道进一步拓宽等。（\n记者：周圆、唐诗凝、李倩薇）",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "economy",
+  "keywords": [
+    "中小企业发展",
+    "专精特新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中小企业发展",
+      "name_en": "SME Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专精特新",
+      "name_en": "SRDI Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "中小企业发展",
+    "专精特新"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "SME Development",
+    "SRDI Enterprises"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260903-gov_cn_yaowen-0d59f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

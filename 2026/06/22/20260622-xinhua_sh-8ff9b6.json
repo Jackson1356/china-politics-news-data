@@ -1,0 +1,88 @@
+{
+  "id": "20260622-xinhua_sh-8ff9b6",
+  "source": "xinhua_sh",
+  "source_name_zh": "新华网 上海",
+  "source_name_en": "Xinhua Shanghai",
+  "source_url": "http://sh.news.cn/20260622/1ad83f309b6345e1926618ab6cebe474/c.html",
+  "title_zh": "《山河路漫》首发暨法文版签约仪式举行",
+  "title_en": "Launch Ceremony and French Edition Signing for \"Shan He Lu Man\" Held",
+  "summary_zh": "上海交通大学出版社与四川路桥主办的《山河路漫》首发暨法文版版权输出签约仪式在上海举行，旨在向世界展示中国共产党形象并推动文化走出去。",
+  "summary_en": "A launch ceremony and French edition copyright signing for the book \"Shan He Lu Man\" were held in Shanghai to showcase the image of the CPC and promote Chinese cultural export.",
+  "body_zh": "新华网上海6月21日电（记者刘颖）由上海交通大学出版社主办，四川路桥协办的《山河路漫》首发暨法文版版权输出签约仪式于日前举行。《山河路漫》以丰富的口述史料和扎实的田野调查，还原了一段被岁月尘封的壮阔历史。该书既深情回望红色历程，也向世界生动展示真实、立体的中国共产党形象。\n上海交通大学出版社党委书记、董事长吴彪表示：“作为出版人，肩负着传承红色基因、赓续精神血脉的使命，要以精品力作讲好中国故事。此次《山河路漫》的法文版版权输出，正是践行文化自信、推动中华文化走出去的重要实践。”\n法国Cambli出版社社长巴蒂斯特·雷纳表示，这部作品展现了中国建设者在极端艰苦条件下的奋斗历程，其中蕴含的人性光辉和民族精神具有跨越国界的感染力。\n此次《山河路漫》首发暨法文版签约仪式的举办，不仅为这部优秀作品赋予了更加深远的国际意义，也为中国文化“走出去” 增添了新的光彩。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "文化走出去",
+    "红色基因",
+    "版权输出"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化走出去",
+      "name_en": "Cultural Export"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "红色基因",
+      "name_en": "Red Gene"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "版权输出",
+      "name_en": "Copyright Export"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "文化走出去",
+    "红色基因",
+    "版权输出"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "Cultural Export",
+    "Red Gene",
+    "Copyright Export"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吴彪"
+      },
+      {
+        "id": null,
+        "name_zh": "雷纳"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260622-xinhua_sh-8ff9b6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

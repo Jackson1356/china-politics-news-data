@@ -1,0 +1,93 @@
+{
+  "id": "20260806-gov_zi_bo-b076ca",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/6/art_14322_3014618.html",
+  "title_zh": "山东省人民政府与中国广核集团有限公司签署战略合作协议",
+  "title_en": "Shandong Province and China General Nuclear Power Group Sign Strategic Cooperation Agreement",
+  "summary_zh": "8月5日，山东省人民政府与中国广核集团在济南签署战略合作协议，聚焦核能、风电、新能源等前沿领域，助力山东绿色低碳高质量发展。",
+  "summary_en": "On August 5, the Shandong Provincial People's Government and China General Nuclear Power Group signed a strategic cooperation agreement in Jinan, focusing on nuclear energy, offshore wind, and new energy to support Shandong's green low-carbon high-quality development.",
+  "body_zh": "山东省人民政府与中国广核集团有限公司签署战略合作协议\n周乃翔出席\n8月5日，山东省人民政府与中国广核集团有限公司在济南签署战略合作协议。省委副书记、省长周乃翔，中国广核集团有限公司总经理庞松涛出席签约仪式。省委常委、常务副省长张海波，中国广核集团有限公司副总经理蔡振分别代表双方在协议上签字。\n根据协议，双方将依法依规开展多层次、多领域和多形式的合作交流，重点聚焦核能开发利用、深远海风电、新能源产业和核技术应用等前沿创新领域，加大合作开发力度，助力山东省建设绿色低碳高质量发展先行区。（记者 毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "核能开发利用",
+    "新能源产业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核能开发利用",
+      "name_en": "Nuclear Energy Development and Utilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源产业",
+      "name_en": "New Energy Industry"
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "济南",
+    "战略合作",
+    "核能开发利用",
+    "新能源产业"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Jinan",
+    "Strategic Cooperation",
+    "Nuclear Energy Development and Utilization",
+    "New Energy Industry"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260806-gov_zi_bo-b076ca",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

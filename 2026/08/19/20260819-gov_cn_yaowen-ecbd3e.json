@@ -1,0 +1,120 @@
+{
+  "id": "20260819-gov_cn_yaowen-ecbd3e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078652.htm",
+  "title_zh": "何立峰会见智利外长佩雷斯",
+  "title_en": "He Lifeng Meets with Chilean Foreign Minister Perez",
+  "summary_zh": "8月19日，中共中央政治局委员、国务院副总理何立峰在北京人民大会堂会见智利外长佩雷斯，双方就深化中智关系与务实合作交换意见。",
+  "summary_en": "On August 19, He Lifeng, member of the CPC Central Political Bureau and Vice Premier, met with Chilean Foreign Minister Perez at the Great Hall of the People in Beijing to discuss deepening bilateral relations and practical cooperation.",
+  "body_zh": "新华社北京8月19日电 中共中央政治局委员、国务院副总理何立峰8月19日下午在人民大会堂会见智利外长佩雷斯。\n何立峰表示，在两国元首战略引领下，中智双方政治互信持续深化，各领域务实合作取得积极成果。中智经济互补性强，中方愿同智方赓续传统友谊，加强经济合作，在高质量共建“一带一路”框架下深化贸易、投资、科技等各领域交流合作，推动中智全面战略伙伴关系不断向前发展。\n佩雷斯表示，发展对华关系是智利外交优先方向。智方愿以智中建立全面战略伙伴关系10周年为契机，深化双边各领域合作，推动智中关系迈上新台阶。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "中智关系",
+    "一带一路",
+    "全面战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "佩雷斯",
+      "name_en": "Perez"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中智关系",
+      "name_en": "China-Chile Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "雷斯",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "佩雷斯",
+    "北京",
+    "中智关系",
+    "一带一路",
+    "全面战略伙伴关系",
+    "雷斯"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "Perez",
+    "Beijing",
+    "China-Chile Relations",
+    "Belt and Road",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng",
+      {
+        "id": null,
+        "name_zh": "雷斯"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260819-gov_cn_yaowen-ecbd3e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078652.htm",
+      "title_zh": "何立峰会见智利外长佩雷斯",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

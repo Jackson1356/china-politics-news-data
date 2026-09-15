@@ -1,0 +1,108 @@
+{
+  "id": "20260731-peoples_sh-f7e4c7",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/0731/c134768-41655372.html",
+  "title_zh": "《国家应对气候变化“十五五”规划》印发",
+  "title_en": "National Climate Change 15th Five-Year Plan Issued",
+  "summary_zh": "生态环境部等部门近日联合印发《国家应对气候变化“十五五”规划》，提出到2030年单位GDP二氧化碳排放较2025年降低17%。",
+  "summary_en": "Several ministries including the Ministry of Ecology and Environment recently issued the 15th Five-Year Plan for Addressing Climate Change, aiming to reduce CO2 emissions per unit of GDP by 17% by 2030 compared to 2025.",
+  "body_zh": "《国家应对气候变化“十五五”规划》印发\n到2030年，单位国内生产总值二氧化碳排放较2025年降低17%\n本报北京7月30日电 （记者寇江泽）生态环境部、外交部、国家发展改革委等部门近日联合印发《国家应对气候变化“十五五”规划》。\n规划明确，“十五五”时期，应对气候变化及碳达峰碳中和工作取得新的重大进展，碳达峰目标如期实现，全面完成2030年国家自主贡献。到2030年，单位国内生产总值二氧化碳排放较2025年降低17%，全国碳排放权交易市场覆盖行业单位产品二氧化碳排放比2025年下降3%左右，建成诚信透明、方法统一、参与广泛、与国际接轨的全国温室气体自愿减排交易市场，产品碳足迹管理体系基本建成，加强非二氧化碳温室气体监测管控，形成3000万吨二氧化碳当量减排能力，适应气候变化工作体系更加完善，气候适应型社会建设取得阶段性进展，应对气候变化意识和能力持续增强。\n在控制重点领域二氧化碳排放方面，规划提出，实施碳排放总量和强度双控制度，加快建设新型能源体系，大力发展非化石能源，实施可再生能源消费替代，推动煤炭和石油消费达峰，国家大气污染防治重点区域内新建、改建、扩建用煤项目的，应当实行煤炭等量或减量替代。\n在加强全国碳市场建设方面，规划明确加快建设全国碳排放权交易市场。有序扩大覆盖行业范围和温室气体种类，对碳排放总量相对稳定的行业优先实施配额总量控制，稳妥推行免费和有偿相结合的碳排放配额分配方式，有序提高有偿分配比例，建立配额储备和市场调节机制。\n《 人民日报 》（ 2026年07月31日 14 版）",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "气候变化",
+    "碳达峰碳中和",
+    "碳排放权交易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气候变化",
+      "name_en": "Climate Change"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "碳达峰碳中和",
+      "name_en": "Carbon Peak and Carbon Neutrality"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "碳排放权交易",
+      "name_en": "Emissions Trading"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "北京",
+    "气候变化",
+    "碳达峰碳中和",
+    "碳排放权交易"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Beijing",
+    "Climate Change",
+    "Carbon Peak and Carbon Neutrality",
+    "Emissions Trading"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260731-peoples_sh-f7e4c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0731/c352664-41655436.html",
+      "title_zh": "《国家应对气候变化“十五五”规划》印发",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0731/c378440-41655042.html",
+      "title_zh": "《国家应对气候变化“十五五”规划》印发",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

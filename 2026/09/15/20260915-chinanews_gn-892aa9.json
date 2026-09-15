@@ -1,0 +1,95 @@
+{
+  "id": "20260915-chinanews_gn-892aa9",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-15/10696750.shtml",
+  "title_zh": "马珊珊任沈阳市副市长、代理市长",
+  "title_en": "Ma Shanshan Appointed Deputy Mayor and Acting Mayor of Shenyang",
+  "summary_zh": "9月15日，沈阳市十七届人大常委会第三十四次会议决定接受吕志成辞去市长职务，任命马珊珊为副市长并决定其为代理市长。",
+  "summary_en": "On September 15, the Standing Committee of the 17th Shenyang Municipal People's Congress accepted Lu Zhicheng's resignation as mayor and appointed Ma Shanshan as deputy mayor and acting mayor.",
+  "body_zh": "马珊珊任沈阳市副市长、代理市长\n9月15日，经市十七届人大常委会第三十四次会议通过，决定接受吕志成辞去沈阳市人民政府市长职务的请求，决定任命马珊珊为沈阳市人民政府副市长，并决定其为代理市长。\n国内新闻精选：\n- 2026年09月15日 12:39:29\n- 2026年09月15日 10:31:29\n- 2026年09月15日 09:29:43\n- 2026年09月15日 09:24:27\n- 2026年09月14日 20:38:15\n- 2026年09月14日 10:57:08\n- 2026年09月14日 10:46:53\n- 2026年09月14日 10:23:20\n- 2026年09月14日 09:05:05\n- 2026年09月13日 20:34:53",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "地方治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "马珊珊",
+      "name_en": "Ma Shanshan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方治理",
+      "name_en": "Local Governance"
+    }
+  ],
+  "tags_zh": [
+    "马珊珊",
+    "沈阳",
+    "人事任免",
+    "地方治理"
+  ],
+  "tags_en": [
+    "Ma Shanshan",
+    "Shenyang",
+    "Personnel Appointment",
+    "Local Governance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "马珊珊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260915-chinanews_gn-892aa9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696789.shtml",
+      "title_zh": "马珊珊任沈阳市副市长、代理市长",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

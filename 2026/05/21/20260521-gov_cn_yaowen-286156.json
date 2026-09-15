@@ -1,0 +1,70 @@
+{
+  "id": "20260521-gov_cn_yaowen-286156",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069884.htm",
+  "title_zh": "我国财政收入巩固向好态势",
+  "title_en": "China's Fiscal Revenue Maintains Positive Trend",
+  "summary_zh": "财政部数据显示，今年前四个月全国一般公共预算收入8.34万亿元，同比增长3.5%，财政支出进度为近5年同期最快。",
+  "summary_en": "Ministry of Finance data shows that in the first four months of this year, China's general public budget revenue reached 8.34 trillion yuan, up 3.5% year-on-year, with expenditure pacing the fastest in five years.",
+  "body_zh": "今年，我国靠前实施更加积极的财政政策，合理加快支出进度，推动国民经济持续稳中向好。\n财政部最新数据显示，今年前四个月，全国一般公共预算收入巩固向好态势，累计增幅继续提高。全国一般公共预算收入8.34万亿元，同比增长3.5%，增幅比一季度提高1.1个百分点。其中，全国税收收入6.81万亿元，增长3.9%，增幅比一季度提高1.7个百分点。\n主体税种表现亮眼。受工业服务业持续增长、工业生产者出厂价格逐月回暖等因素带动，国内增值税增长5.9%，增幅连续3个月提高；外贸进口较快增长，带动进口货物增值税、消费税增长11.2%。\n从支出来看，今年，我国保持必要财政支出力度，合理加快支出进度。前四个月，全国一般公共预算支出9.48万亿元，同比增长1.3%；支出规模为年初预算的31.6%，进度为近5年同期最快。卫生健康、社会保障和就业、住房保障等重点民生领域支出得到较好保障。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "economy",
+  "keywords": [
+    "财政政策",
+    "公共预算"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政政策",
+      "name_en": "Fiscal Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共预算",
+      "name_en": "Public Budget"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "财政政策",
+    "公共预算"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Fiscal Policy",
+    "Public Budget"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260521-gov_cn_yaowen-286156",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "20260830-gov_cn_yaowen-6a8d96",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079598.htm",
+  "title_zh": "我国推出新举措加快数据产业发展",
+  "title_en": "China Unveils New Measures to Accelerate Data Industry Development",
+  "summary_zh": "国家数据局宣布新举措，包括在32个城市开展数据标注先行先试、14家央国企开放超60亿条高价值数据等，以加快数据产业发展。",
+  "summary_en": "The National Data Administration announced new measures to accelerate data industry development, including pilot data labeling in 32 cities and opening over 60 billion high-value data records from 14 central state-owned enterprises.",
+  "body_zh": "记者从国家数据局了解到，我国将推出一系列新举措加快数据产业发展：在32个城市启动新一批数据标注先行先试，为人工智能训练提供数据支撑；探索适配产业实际的词元商业模式，更好助力千行百业数智化转型；14家央国企开放超60亿条高价值数据，促进数据在应用场景中发挥价值；完善数据要素相关学科专业布局，实施数据领域高技能人才集群培养计划。\n在2026中国国际大数据产业博览会上发布的《中国数据产业发展报告（2026）》显示，目前我国数据产业规模已超6万亿元，和人工智能高度相关的数据产品与服务占到数据产业总产值的七成以上，全国数据企业数量超过48万家。数据产业生态正不断培育壮大。",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "industry",
+  "keywords": [
+    "数据产业",
+    "人工智能",
+    "数据要素"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据产业",
+      "name_en": "Data Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素",
+      "name_en": "Data Elements"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "数据产业",
+    "人工智能",
+    "数据要素"
+  ],
+  "tags_en": [
+    "National Data Administration",
+    "Data Industry",
+    "Artificial Intelligence",
+    "Data Elements"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260830-gov_cn_yaowen-6a8d96",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

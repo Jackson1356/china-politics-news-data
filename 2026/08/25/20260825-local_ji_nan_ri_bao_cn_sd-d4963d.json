@@ -1,0 +1,112 @@
+{
+  "id": "20260825-local_ji_nan_ri_bao_cn_sd-d4963d",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-08-25/2026082500039.html",
+  "title_zh": "市委常委会2026年调研成果交流会召开 刘强主持 于海田孙开连出席",
+  "title_en": "Jinan Municipal Party Committee Standing Committee Holds 2026 Research Achievement Exchange Meeting",
+  "summary_zh": "8月24日，济南市委常委会召开2026年调研成果交流会，市委书记刘强主持并讲话，市长于海田、市政协主席孙开连出席，交流调研成果，推动“十五五”开好局。",
+  "summary_en": "On August 24, the Standing Committee of the Jinan Municipal Party Committee held its 2026 research achievement exchange meeting. Secretary Liu Qiang presided and spoke; Mayor Yu Haitian and CPPCC Chairman Sun Kailian attended, sharing research findings to support a good start for the 15th Five-Year Plan.",
+  "body_zh": "市委常委会2026年调研成果交流会召开 刘强主持 于海田孙开连出席\n本报8月24日讯 今天，市委常委会召开2026年调研成果交流会，深入学习贯彻习近平总书记关于调查研究的重要论述，按照市委常委会年度调查研究工作安排，在前期调研分析的基础上开展交流研讨，提出解决问题、推动工作的思路举措和方法路径，推动“十五五”开好局、起好步。\n市委书记刘强主持会议并讲话，市委副书记、市长于海田，市政协主席孙开连和市委常委出席。会上，市委常委同志围绕各自调研主题进行了交流发言。\n交流研讨结束后，刘强作了总结讲话。他强调，今年以来，市委常委同志紧扣“十五五”规划目标和强省会建设重点任务，下沉一线、领题调研，深刻剖析问题、提出对策建议，形成了一批高质量的调研成果。要按照党中央决策部署和省委工作要求、市委工作安排，把调研思路建议同“十五五”重点工作任务结合起来，解决好调研中发现的问题，以项目化清单化工程化方式推进落实。要建立调研成果转化运用常态长效机制，加强督查督办和跟踪问效，健全调研成果转化评价机制，推动更多调研成果转化为发展成果、惠及人民群众，为加快建设强省会贡献力量。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "party",
+  "keywords": [
+    "调查研究",
+    "十五五规划",
+    "强省会建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "于海田",
+      "name_en": "Yu Haitian"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孙开连",
+      "name_en": "Sun Kailian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "调查研究",
+      "name_en": "Research and Investigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强省会建设",
+      "name_en": "Strong Provincial Capital Construction"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "于海田",
+    "孙开连",
+    "调查研究",
+    "十五五规划",
+    "强省会建设"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Yu Haitian",
+    "Sun Kailian",
+    "Research and Investigation",
+    "15th Five-Year Plan",
+    "Strong Provincial Capital Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "孙开连"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260825-gov_ji_nan-7cab9b",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_2e9603996b84448cb0a1c692b2661dc0.html",
+      "title_zh": "市委常委会2026年调研成果交流会召开",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

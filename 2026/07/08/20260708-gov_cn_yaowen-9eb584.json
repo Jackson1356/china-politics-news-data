@@ -1,0 +1,106 @@
+{
+  "id": "20260708-gov_cn_yaowen-9eb584",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074719.htm",
+  "title_zh": "纳米比亚总统恩代特瓦抵达北京",
+  "title_en": "Namibian President Ndeetowa Arrives in Beijing",
+  "summary_zh": "7月8日，纳米比亚总统恩代特瓦抵达北京，将与国家主席习近平举行会谈，并分别会见李强总理和赵乐际委员长。",
+  "summary_en": "Namibian President Ndeetowa arrived in Beijing on July 8 for a state visit, where she will hold talks with President Xi Jinping and meet with Premier Li Qiang and Chairman Zhao Leji.",
+  "body_zh": "新华社北京7月8日电（记者邵艺博）7月8日晚，纳米比亚共和国总统内通博·南迪－恩代特瓦抵达北京，继续访华行程。此前，恩代特瓦已赴广东省、四川省参访。\n应国家主席习近平邀请，恩代特瓦于7月5日至11日对中国进行国事访问。习近平主席将为恩代特瓦总统举行欢迎仪式和欢迎宴会，两国元首将举行会谈。李强总理、赵乐际委员长将分别会见恩代特瓦总统。",
+  "image_url": null,
+  "published_at": "2026-07-08T12:00:00+00:00",
+  "event_date": "2026-07-08",
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中纳米关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "恩代特瓦",
+      "name_en": "Netumbo Nandi-Ndaitwah"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-leji",
+      "name_zh": "赵乐际",
+      "name_en": "Zhao Leji"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中纳米关系",
+      "name_en": "China-Namibia Relations"
+    }
+  ],
+  "tags_zh": [
+    "恩代特瓦",
+    "习近平",
+    "李强",
+    "赵乐际",
+    "北京",
+    "国事访问",
+    "中纳米关系"
+  ],
+  "tags_en": [
+    "Netumbo Nandi-Ndaitwah",
+    "Xi Jinping",
+    "Li Qiang",
+    "Zhao Leji",
+    "Beijing",
+    "State Visit",
+    "China-Namibia Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-leji",
+      "xi-jinping",
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260708-gov_cn_yaowen-9eb584",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

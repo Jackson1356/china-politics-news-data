@@ -1,0 +1,74 @@
+{
+  "id": "20260817-cpcnews-55fc8e",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0817/c64387-40780786.html",
+  "title_zh": "前7月全国铁路发送旅客28亿人次",
+  "title_en": "China's Railways Carry 2.8 Billion Passengers in First 7 Months",
+  "summary_zh": "国铁集团数据显示，今年前7月全国铁路发送旅客28亿人次，同比增长4.1%，再创历史同期新高，其中外籍旅客增长32.5%。",
+  "summary_en": "China's railways carried 2.8 billion passengers in the first seven months, up 4.1% year-on-year, a record high, with foreign passengers up 32.5%.",
+  "body_zh": "同比增长4.1%\n本报北京8月16日电 （记者李心萍）记者从中国国家铁路集团有限公司获悉：今年前7月，全国铁路发送旅客28亿人次，同比增长4.1%，再创历史同期新高。发送外籍旅客1485.2万人次，同比增长32.5%；广深港高铁发送跨境旅客2004.9万人次，中老铁路发送跨境旅客21.4万人次，同比分别增长11.5%、38.2%。\n客运能力供给有效增加。前7月，全国铁路日均安排开行旅客列车11462列，同比增加571列、增长5.2%。\n铁旅融合发展成效显著。前7月，全国铁路累计开行旅游列车2159列，其中旅游专列1184列、旅游专线975列；定制化开行“歌迷专列”“球迷专列”等79列，促进服务消费扩能提质。\n《 人民日报 》（ 2026年08月17日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路客运",
+    "服务消费"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路客运",
+      "name_en": "Railway Passenger Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务消费",
+      "name_en": "Service Consumption"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路客运",
+    "服务消费"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Passenger Transport",
+    "Service Consumption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260817-cpcnews-55fc8e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

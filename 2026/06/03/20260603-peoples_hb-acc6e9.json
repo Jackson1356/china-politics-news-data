@@ -1,0 +1,110 @@
+{
+  "id": "20260603-peoples_hb-acc6e9",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_url": "http://hb.people.com.cn/n2/2026/0603/c192237-41599460.html",
+  "title_zh": "中国气象局启动重大气象灾害四级应急响应",
+  "title_en": "China Meteorological Administration Activates Level IV Emergency Response for Major Meteorological Disasters",
+  "summary_zh": "6月2日，中国气象局启动重大气象灾害四级应急响应，并与农业农村部联合发布设施农业风灾和冬小麦倒伏风险预警。",
+  "summary_en": "On June 2, the China Meteorological Administration activated a Level IV emergency response for major meteorological disasters and jointly issued agricultural risk warnings with the Ministry of Agriculture and Rural Affairs.",
+  "body_zh": "中国气象局启动重大气象灾害（强对流、暴雨）四级应急响应\n本报北京6月2日电 （记者蒋雪鸿）中央气象台预计，6月2日夜间至4日，南方地区将有较强降雨过程，贵州、广西、湖南、江西、浙江、福建等地部分地区累计降雨量100—150毫米，局地超过200毫米；华北、黄淮及辽宁等地将有雷暴大风、冰雹等强对流天气，河北、北京、天津、辽宁、山东等地强对流天气具有一定极端性。经综合研判和应急会商，2日18时，中国气象局启动重大气象灾害（强对流、暴雨）四级应急响应。\n6月2日，农业农村部和中国气象局联合发布设施农业风灾和冬小麦倒伏风险预警。预计2日夜间至4日，黑龙江东部、吉林中东部、辽宁、河北大部、北京、天津、山西东部、山东北部和河南北部等地设施农业遭受风灾风险较高，可能造成温室大棚和农田覆膜等损毁；北京、天津、山西东部、山东北部和河南北部等地冬小麦倒伏风险较高。建议及时加固农业设施，确保农业生产安全；冬麦区抓住晴天窗口成熟一片、收获一片。同时，南方地区有较强降雨过程，云南东部、贵州东部和南部、重庆东南部、湖南、湖北东南部、江西中北部、安徽南部、浙江、上海、福建北部、广西北部等地部分地区有大到暴雨，局地大暴雨，低洼农田渍涝害风险较高。建议做好清沟理渠，及时排除田间积水，减轻渍涝危害。\n《 人民日报 》（ 2026年06月03日 04 版）",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "welfare",
+  "keywords": [
+    "气象灾害",
+    "应急响应",
+    "农业预警"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气象灾害",
+      "name_en": "Meteorological Disasters"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业预警",
+      "name_en": "Agricultural Warning"
+    }
+  ],
+  "tags_zh": [
+    "中国气象局",
+    "农业农村部",
+    "北京",
+    "气象灾害",
+    "应急响应",
+    "农业预警"
+  ],
+  "tags_en": [
+    "China Meteorological Administration",
+    "Ministry of Agriculture and Rural Affairs",
+    "Beijing",
+    "Meteorological Disasters",
+    "Emergency Response",
+    "Agricultural Warning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260603-peoples_hb-acc6e9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/0603/c349771-41599526.html",
+      "title_zh": "中国气象局启动重大气象灾害（强对流、暴雨）四级应急响应",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

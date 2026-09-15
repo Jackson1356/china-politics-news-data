@@ -1,0 +1,77 @@
+{
+  "id": "20260828-gov_cn_yaowen-c55680",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7079479.htm",
+  "title_zh": "我国数据产业规模持续稳健增长",
+  "title_en": "China's Data Industry Scale Continues Steady Growth",
+  "summary_zh": "8月28日，国家数据发展研究院院长胡坚波在2026中国国际大数据产业博览会开幕式上介绍，截至2025年底全国数据企业达48.2万家，同比增长17.9%，数据产业规模达6.78万亿元。",
+  "summary_en": "On August 28, Hu Jianbo, head of the National Data Development Institute, said at the opening of the 2026 China International Big Data Industry Expo that by end-2025, China had 482,000 data firms, up 17.9% YoY, with the industry scale reaching 6.78 trillion yuan.",
+  "body_zh": "2023年5.06万亿元、2024年5.86万亿元、2025年6.78万亿元，我国数据产业规模持续稳健增长。\n国家数据发展研究院院长胡坚波8月28日在2026中国国际大数据产业博览会开幕式上介绍，截至2025年底，全国数据企业达48.2万家，同比增长17.9%；东部数据产业规模达到5.23万亿元。数据产业活力持续释放，集群效应越发凸显。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "industry",
+  "keywords": [
+    "数据产业",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据发展研究院",
+      "name_en": "National Data Development Institute"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据产业",
+      "name_en": "Data Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "国家数据发展研究院",
+    "数据产业",
+    "数字经济"
+  ],
+  "tags_en": [
+    "National Data Development Institute",
+    "Data Industry",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据发展研究院",
+        "name_en": "National Data Development Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260828-gov_cn_yaowen-c55680",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

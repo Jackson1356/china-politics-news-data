@@ -1,0 +1,101 @@
+{
+  "id": "20260807-local_ji_nan_ri_bao_cn_sd-ab58f2",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-08-07/2026080700036.html",
+  "title_zh": "刘强看望慰问高温一线工作人员",
+  "title_en": "Liu Qiang Visits and Comforts Frontline Workers in High Temperature",
+  "summary_zh": "8月6日，济南市委书记刘强调研电力保供及防暑设施运行情况，看望慰问高温一线工作人员，要求落实防暑降温措施。",
+  "summary_en": "On August 6, Liu Qiang, Secretary of Jinan Municipal Party Committee, inspected power supply and cooling facilities, and visited frontline workers, urging effective heat prevention measures.",
+  "body_zh": "刘强看望慰问高温一线工作人员\n本报8月6日讯(记者 王端鹏 卢震)连日来，我市天气持续高温，广大一线工作人员坚守岗位，用辛勤汗水保障城市运行。今天，市委书记刘强调研电力保供及防暑设施运行情况，看望慰问高温一线工作人员，代表市委、市人民政府向他们致以诚挚问候和衷心感谢。他强调，要深入贯彻以人民为中心的发展思想，用心用情关爱一线工作人员，落实落细防暑降温各项措施，全力保障城市安全有序运行和群众正常生产生活。\n在220千伏姚家变电站，刘强看望慰问一线电力工作人员，现场察看高温天气电力设施防护及设备运行情况，听取全市电力保供情况汇报，指出当前正值迎峰度夏关键期，要加强电力调度，扎实做好电力供应服务各项工作，为城市平稳有序运行提供坚实保障。\n在济南能源集团南部能源中心，刘强看望慰问一线职工，察看集中供冷设施运转情况，强调要适应城市发展需要，科学保障供冷设施稳定运行，提升经济效益和社会效益。\n在经十路与转山西路路口，刘强看望慰问一线执勤交警，详细了解岗点防暑保障工作，指出要科学优化勤务安排，落实好各项保障措施，为广大执勤人员提供周到服务。\n在历下区生活废弃物转运处理中心，刘强看望慰问一线作业人员，察看垃圾转运处理现场，详细了解全市垃圾转运和12345市民服务热线相关反映问题处置情况，强调要落实落细关爱举措，合理安排工作任务和作业时段，为一线作业人员创造良好工作条件;要认真办理群众意见诉求，及时整治垃圾乱象，维护良好的生产生活环境。\n市领导韩伟、王茂祯参加有关活动。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "welfare",
+  "keywords": [
+    "防暑降温",
+    "电力保供"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防暑降温",
+      "name_en": "Heat Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力保供",
+      "name_en": "Power Supply Guarantee"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "防暑降温",
+    "电力保供"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "Heat Prevention",
+    "Power Supply Guarantee"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "王茂祯"
+      },
+      {
+        "id": null,
+        "name_zh": "谢他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260807-local_ji_nan_ri_bao_cn_sd-ab58f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_c5d62ecf662246468878ed93b06925eb.html",
+      "title_zh": "刘强看望慰问高温一线工作人员",
+      "published_at": "2026-08-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

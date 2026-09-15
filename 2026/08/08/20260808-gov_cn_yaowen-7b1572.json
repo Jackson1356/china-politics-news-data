@@ -1,0 +1,86 @@
+{
+  "id": "20260808-gov_cn_yaowen-7b1572",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077743.htm",
+  "title_zh": "上半年我国经营主体结构持续优化",
+  "title_en": "China's Business Entities Structure Continues to Optimize in H1",
+  "summary_zh": "8月8日，市场监管总局公布数据显示，上半年我国经营主体结构持续优化，新兴产业和未来产业企业保持增长，高技术制造业增势强劲。",
+  "summary_en": "On August 8, the State Administration for Market Regulation released data showing China's business entity structure continued to optimize in H1, with emerging and future industries growing and high-tech manufacturing booming.",
+  "body_zh": "市场监管总局今天（8月8日）公布数据显示，今年上半年，我国经营主体结构持续优化，推动经济向新向好向优发展。以新一代信息技术、高端装备制造等为代表的“8大新兴产业”，以及以人形机器人、生成式人工智能等为代表的“9大未来产业”新设相关企业56.1万户，保持稳定增长态势。其中，生成式人工智能领域新设企业5.5万户，同比增长28.0%；人形机器人领域新设企业11.6万户，同比增长9.5%，正加速形成新的经济增长点。\n上半年，新型消费业态活力迸发，服务业企业共新增395.7万户。其中，文化旅游产业新设相关企业147.5万户。\n此外，高技术制造业增势强劲。航天器及运载火箭制造业，光纤、光缆制造业新设企业同比增长185.7%、129.4%。",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-08",
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "economy",
+  "keywords": [
+    "经营主体",
+    "新兴产业",
+    "高技术制造业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市场监管总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经营主体",
+      "name_en": "Business Entities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新兴产业",
+      "name_en": "Emerging Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术制造业",
+      "name_en": "High-tech Manufacturing"
+    }
+  ],
+  "tags_zh": [
+    "市场监管总局",
+    "经营主体",
+    "新兴产业",
+    "高技术制造业"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Business Entities",
+    "Emerging Industries",
+    "High-tech Manufacturing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "市场监管总局",
+        "name_en": "State Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260808-gov_cn_yaowen-7b1572",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260729-xinhua_gz-f36942",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260729/bc4cc9bb1d864933a255225ee197e00a/c.html",
+  "title_zh": "李炳军会见老挝甘蒙省省委副书记、行政管理委员会主席宋萨阿·恩喜达一行",
+  "title_en": "Li Bingjun Meets with Laos Khammouane Deputy Party Secretary Somsa'a Enxida",
+  "summary_zh": "7月28日，贵州省省长李炳军在贵阳会见老挝甘蒙省省委副书记宋萨阿·恩喜达一行，双方就深化友好省关系及经贸合作等交换意见。",
+  "summary_en": "On July 28, Guizhou Governor Li Bingjun met with Somsa'a Enxida, Deputy Party Secretary of Laos' Khammouane Province, in Guiyang, discussing cooperation in trade, culture, and education.",
+  "body_zh": "7月28日，省委副书记、省长李炳军在贵阳会见老挝甘蒙省省委副书记、行政管理委员会主席宋萨阿·恩喜达一行。副省长张敬平参加。\n李炳军向宋萨阿·恩喜达一行表示欢迎，并简要介绍了贵州省情和经济社会发展情况。他说，中老是山同脉、水同源的社会主义友好邻邦，在两党两国最高领导人的战略引领下，中老友好关系发展取得系列丰硕成果。贵州省和甘蒙省互惠合作空间广阔，希望进一步加强友好省关系建设，用好中老铁路“黄金线路”，在产业、经贸、文化旅游、教育等领域深化务实合作，为构建新时代全天候中老命运共同体作出更大贡献。\n宋萨阿·恩喜达感谢贵州省的热情接待，并介绍甘蒙省经济社会发展情况。他表示，甘蒙省和贵州省产业优势互补、合作基础良好，希望携手深化矿产资源开发、人文教育交往等领域务实合作，推动双方友好省关系建设走深走实。\n省政府秘书长魏树旺，老挝甘蒙省和我省有关部门、企业负责人参加。（记者 陈毓钊）",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际合作",
+    "友好省关系",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好省关系",
+      "name_en": "Sister Province Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "李炳军",
+    "贵阳",
+    "国际合作",
+    "友好省关系",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Li Bingjun",
+    "Guiyang",
+    "International Cooperation",
+    "Sister Province Relations",
+    "Economic and Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "张敬平"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260729-xinhua_gz-f36942",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

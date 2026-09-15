@@ -1,0 +1,96 @@
+{
+  "id": "20260820-qiushi-2e177c",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260820/42f155640deb4f76b9e10fe5780e41e6/c.html",
+  "title_zh": "交通运输部：加快推进人工智能与交通运输深度融合",
+  "title_en": "Transport Ministry Accelerates Deep Integration of AI and Transport",
+  "summary_zh": "8月20日，交通运输部举行专题新闻发布会，介绍“人工智能+交通运输”典型应用场景创新行动有关情况，表示将加快推进人工智能与交通运输深度融合。",
+  "summary_en": "On August 20, the Ministry of Transport held a press conference to introduce the typical application scenario innovation action for 'AI + transportation', vowing to accelerate deep integration of AI and transport.",
+  "body_zh": "8月20日，交通运输部举行专题新闻发布会，介绍“人工智能+交通运输”典型应用场景创新行动有关情况，并回答记者提问。交通运输部科技司司长徐文强表示，交通是国民经济的大动脉，也是人工智能落地的超级实景试验场和规模化应用主阵地。近年来，交通运输部加快推进人工智能与交通运输深度融合。\n记者：叶昊鸣\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "交通运输",
+    "深度融合"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "深度融合",
+      "name_en": "Deep Integration"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "人工智能",
+    "交通运输",
+    "深度融合"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Artificial Intelligence",
+    "Transportation",
+    "Deep Integration"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐文强"
+      }
+    ],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260820-qiushi-2e177c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260820/a0572cb1ca8c409d905fc6c1b18908ba/c.html",
+      "title_zh": "交通运输部：以人工智能推动安全治理从“事后处置”转向“事前预警”",
+      "published_at": "2026-08-20T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
