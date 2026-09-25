@@ -1,0 +1,92 @@
+{
+  "id": "20260915-gov_cn_yaowen-0ba908",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081246.htm",
+  "title_zh": "8月我国国民经济运行总体平稳",
+  "title_en": "China's National Economy Remains Generally Stable in August",
+  "summary_zh": "国务院新闻办9月15日举行新闻发布会，国家统计局数据显示，8月国民经济运行总体平稳，工业生产加快，高技术产业投资和消费持续扩大。",
+  "summary_en": "On Sept 15, the State Council Information Office briefed on National Bureau of Statistics data showing China's economy stayed broadly stable in August, with faster industrial output and expanding high-tech investment and consumption.",
+  "body_zh": "国务院新闻办今天（9月15日）举行新闻发布会，国家统计局数据显示，8月份，国民经济运行总体平稳，延续动能向新、结构向优的发展态势。\n8月份，我国工业生产加快，全国规模以上工业增加值同比增长5.2%，比上月加快0.7个百分点。其中，装备制造业和高技术制造业快速增长，锂离子电池、工业机器人产品产量同比分别增长57.2%、34.6%。\n投资加快向先进制造、数字经济等领域集聚。前八个月，高技术产业投资同比增长5.2%，比1—7月份加快0.2个百分点，累计增速连续三个月在加快。\n消费市场规模持续扩大。前八个月，社会消费品零售总额接近33万亿元，比上年同期增加3600多亿元，有力支撑了国内需求扩大。服务消费在全部消费中比重持续提升。\n就业物价保持总体稳定，发展质效稳步提升。8月份，规模以上工业单位增加值能耗同比下降7.2%，我国以更低的能源消费支撑了更高质量的增长。\n下阶段，国家将强化宏观政策调节，着力扩大内需，推进产业升级，增强发展动力，激发社会活力，推动经济持续向新向优向好发展。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "economy",
+  "keywords": [
+    "国民经济运行",
+    "扩大内需",
+    "产业升级"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国民经济运行",
+      "name_en": "National Economic Performance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩大内需",
+      "name_en": "Expanding Domestic Demand"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办",
+    "国家统计局",
+    "国民经济运行",
+    "扩大内需",
+    "产业升级"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "National Bureau of Statistics",
+    "National Economic Performance",
+    "Expanding Domestic Demand",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260915-gov_cn_yaowen-0ba908",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

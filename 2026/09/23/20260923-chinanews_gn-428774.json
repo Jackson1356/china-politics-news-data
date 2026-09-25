@@ -1,0 +1,115 @@
+{
+  "id": "20260923-chinanews_gn-428774",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-23/10702278.shtml",
+  "title_zh": "外交部：“敌国条款”时至今日仍具有重要现实意义",
+  "title_en": "Foreign Ministry: UN Charter's 'Enemy State Clauses' Still Have Important Practical Significance Today",
+  "summary_zh": "9月23日，外交部发言人郭嘉昆在北京例行记者会上表示，《联合国宪章》“敌国条款”仍是重要制度安排，具有重要现实意义，并敦促日方以史为鉴、深刻反省。",
+  "summary_en": "On September 23, Foreign Ministry spokesperson Guo Jiakun said at a regular briefing in Beijing that the UN Charter's \"enemy state clauses\" remain an important institutional safeguard with real significance today, urging Japan to learn from history.",
+  "body_zh": "外交部：“敌国条款”时至今日仍具有重要现实意义\n新华社北京9月23日电(记者马卓言、王慧慧)针对日本首相高市早苗呼吁删除《联合国宪章》的“敌国条款”，外交部发言人郭嘉昆23日在例行记者会上答问时表示，当年日本以承认军国主义罪行、接受《联合国宪章》全部内容为前提加入联合国。《联合国宪章》中的“敌国条款”是重要制度安排，旨在防止法西斯主义、军国主义再度对国际和平与安全构成威胁，为捍卫战后国际秩序提供了重要制度保障，时至今日仍然具有重要现实意义。中方敦促日方以史为鉴、深刻反省，以实际行动取信于亚洲邻国和国际社会。\n国内新闻精选：\n- 2026年09月23日 15:09:48\n- 2026年09月23日 14:41:56\n- 2026年09月23日 14:21:17\n- 2026年09月23日 13:59:53\n- 2026年09月23日 13:58:33\n- 2026年09月23日 13:41:24\n- 2026年09月23日 13:05:27\n- 2026年09月23日 12:11:59\n- 2026年09月23日 09:49:08\n- 2026年09月22日 23:19:16",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "联合国宪章",
+    "战后国际秩序",
+    "中日关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国宪章",
+      "name_en": "UN Charter"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战后国际秩序",
+      "name_en": "Post-war International Order"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "联合国宪章",
+    "战后国际秩序",
+    "中日关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "UN Charter",
+    "Post-war International Order",
+    "China-Japan Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260923-chinanews_gn-428774",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-23/10702300.shtml",
+      "title_zh": "高市早苗呼吁删除《联合国宪章》中“敌国条款” 中方回应",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1790149464129612.html",
+      "title_zh": "高市早苗呼吁删除《联合国宪章》“敌国条款”，外交部回应",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://www.xmnn.cn/news/gnxw/202609/t20260923_452600.html",
+      "title_zh": "外交部：“敌国条款”时至今日仍具有重要现实意义 _新闻频道_厦门网",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

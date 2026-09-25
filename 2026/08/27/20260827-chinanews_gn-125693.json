@@ -1,0 +1,104 @@
+{
+  "id": "20260827-chinanews_gn-125693",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-27/10685463.shtml",
+  "title_zh": "中国国防部：靖国神社是名副其实的“战犯神社”",
+  "title_en": "China's Defense Ministry: Yasukuni Shrine is a 'Shrine to War Criminals'",
+  "summary_zh": "8月27日，中国国防部发言人张晓刚在例行记者会上批评日本政要参拜靖国神社，并指责民进党当局媚日恋殖。",
+  "summary_en": "On Aug 27, Chinese Defense Ministry spokesman Zhang Xiaogang criticized Japanese politicians' visits to Yasukuni Shrine and accused Taiwan's DPP authorities of being pro-Japanese.",
+  "body_zh": "中国国防部：靖国神社是名副其实的“战犯神社”\n中新社北京8月27日电 (记者 李纯)中国国防部新闻发言人张晓刚在27日的例行记者会上指出，靖国神社是名副其实的“战犯神社”、军国主义招魂所。民进党当局媚日恋殖、认贼作父，令人不齿。\n据报道，多名日本政要在8月15日战败投降日参拜靖国神社，首相高市早苗供奉祭祀费。民进党当局不仅没有予以谴责，反而宣称“尊重日本社会多元看法”。张晓刚回答记者相关提问时作上述表示。\n他还说，日本政客一再集体“拜鬼”，肆意践踏亚太人民感情，严重亵渎历史正义，也让日本右翼势力复活军国主义执念、对外侵略扩张本性暴露无疑。国际社会对此应高度警惕、坚决遏制。\n张晓刚表示，靖国神社不仅供奉着14名甲级战犯，还有双手沾满台湾同胞鲜血的安藤利吉、乃木希典等战犯。民进党当局媚日恋殖、认贼作父，令人不齿。希望广大台湾同胞做堂堂正正的中国人，坚决反对“台独”分裂和外部势力干涉，积极参与到祖国和平统一的正义事业中来。(完)\n国内新闻精选：\n- 2026年08月27日 17:03:14\n- 2026年08月27日 16:50:27\n- 2026年08月27日 15:36:56\n- 2026年08月27日 15:00:02\n- 2026年08月27日 10:23:47\n- 2026年08月27日 10:06:52\n- 2026年08月27日 09:27:53\n- 2026年08月27日 07:25:48\n- 2026年08月27日 05:56:00\n- 2026年08月26日 12:35:28",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "历史问题",
+    "中日关系",
+    "军国主义"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国国防部",
+      "name_en": "China's Ministry of National Defense"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史问题",
+      "name_en": "Historical issues"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "Sino-Japanese relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军国主义",
+      "name_en": "Militarism"
+    }
+  ],
+  "tags_zh": [
+    "中国国防部",
+    "北京",
+    "历史问题",
+    "中日关系",
+    "军国主义"
+  ],
+  "tags_en": [
+    "China's Ministry of National Defense",
+    "Beijing",
+    "Historical issues",
+    "Sino-Japanese relations",
+    "Militarism"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国国防部",
+        "name_en": "China's Ministry of National Defense"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260827-chinanews_gn-125693",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/08/27/11935316.shtml",
+      "title_zh": "国防部答北京日报客户端：靖国神社是名副其实的“战犯神社”",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

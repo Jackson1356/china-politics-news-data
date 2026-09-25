@@ -1,0 +1,114 @@
+{
+  "id": "20260921-gov_zhu_hai-c4b495",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3943827.html",
+  "title_zh": "珠海市领导参加所在选区人大代表换届选举投票",
+  "title_en": "Zhuhai Leaders Cast Ballots in District and Township People's Congress Elections",
+  "summary_zh": "9月20日，珠海市委书记陈勇、市长吴泽桐、市人大常委会主任潘江、市政协主席王开洲、市委副书记杨川分别在各自选区参加区、镇两级人大代表换届选举投票。",
+  "summary_en": "On September 20, Zhuhai Party Secretary Chen Yong, Mayor Wu Zetong, People's Congress Standing Committee Director Pan Jiang, CPPCC Chairman Wang Kaizhou and Deputy Party Secretary Yang Chuan cast their ballots in their respective constituencies for the city's district and township people's congress elections.",
+  "body_zh": "陈勇吴泽桐潘江王开洲杨川等参加所在选区人大代表换届选举投票\n9月20日是珠海市区、镇两级人大代表选举投票日。市委书记、省委横琴工委书记陈勇，市委副书记、市长吴泽桐，市人大常委会主任潘江，市政协主席王开洲，市委副书记杨川分别在各自选区参加投票。\n各选区投票站气氛庄重热烈。在香洲区第十一届人大代表第53选区（东风选区），陈勇、吴泽桐详细了解有关选举事项和代表候选人情况，将选民证交给工作人员核验，仔细填写选票后，依次走向投票箱，郑重投下自己的一票。潘江、王开洲在香洲区第十一届人大代表第57选区（南香选区）进行投票。\n市委、市人大常委会、市政府、市政协领导班子成员等在各自选区投票或委托他人投票。\n珠海市共登记选民近105万名。当天，我市选民在814个选区投票，将选举产生706名区人大代表、1051名镇人大代表，涉及香洲区、金湾区、斗门区3个行政区。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "人大代表换届选举",
+    "基层民主",
+    "投票选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-yong-zhuhai",
+      "name_zh": "陈勇",
+      "name_en": "Chen Yong"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zetong-zhuhai",
+      "name_zh": "吴泽桐",
+      "name_en": "Wu Zetong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "香洲区",
+      "name_en": "Xiangzhou District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大代表换届选举",
+      "name_en": "People's Congress Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层民主",
+      "name_en": "Grassroots Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "投票选举",
+      "name_en": "Voting"
+    }
+  ],
+  "tags_zh": [
+    "陈勇",
+    "吴泽桐",
+    "珠海",
+    "香洲区",
+    "人大代表换届选举",
+    "基层民主",
+    "投票选举"
+  ],
+  "tags_en": [
+    "Chen Yong",
+    "Wu Zetong",
+    "Zhuhai",
+    "Xiangzhou District",
+    "People's Congress Election",
+    "Grassroots Democracy",
+    "Voting"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-yong-zhuhai",
+      "wu-zetong-zhuhai",
+      {
+        "id": null,
+        "name_zh": "杨川等"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_zhu_hai-c4b495",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

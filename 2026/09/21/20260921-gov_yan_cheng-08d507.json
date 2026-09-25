@@ -1,0 +1,109 @@
+{
+  "id": "20260921-gov_yan_cheng-08d507",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/9/21/art_49_4455472.html",
+  "title_zh": "市第九次党代会代表团召集人会议召开",
+  "title_en": "Meeting of Delegation Conveners for the 9th Municipal Party Congress Held",
+  "summary_zh": "9月20日上午，盐城市第九次党代会代表团召集人会议召开，市委书记严汉平主持并讲话，就大会议程草案及主席团建议名单等进行酝酿安排。",
+  "summary_en": "On the morning of September 20, convener meetings for delegations to the 9th Yancheng Municipal Party Congress were held, chaired by Municipal Party Secretary Yan Hanping, to deliberate on the congress agenda draft and proposed presidium名单.",
+  "body_zh": "严汉平主持并讲话 吴炜黄华出席\n9月20日上午，市第九次党代会代表团召集人会议召开。市委书记严汉平主持并讲话。市委副书记、代市长吴炜，市委副书记黄华出席。\n会议就大会议程（草案），大会主席团成员、秘书长、代表资格审查委员会和各代表团正、副团长建议名单等进行酝酿安排。\n会议强调，这次党代会是在基本实现社会主义现代化夯实基础、全面发力的关键时期，“十五五”开局之年，召开的一次十分重要的大会。各代表团召集人要在大会主席团领导下，以高度自觉履好职，组织党代表以饱满的政治热情参与大会各项议程，认真审议市委报告、市纪委工作报告，为全市发展奠定良好思想基础。要以正确导向选好人，充分发扬民主，尊重和保障党员的民主权利，严格依法选举，确保选出好班子、换出新气象。要以严明纪律树清风，组织党代表认认真真学习、原原本本传达、不折不扣执行关于严肃换届纪律加强换届风气监督的通知要求，用铁的纪律保证换届工作风清气正、顺利进行。要以过硬作风守底线，严肃会风会纪，严格执行纪律，确保各项工作万无一失，保证大会顺利进行。\n市委常委，市人大常委会、市政府、市政协党员负责同志，各代表团和列席人员组召集人等参加会议。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "换届纪律"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄华",
+      "name_en": "Huang Hua"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届纪律",
+      "name_en": "Transition Discipline"
+    }
+  ],
+  "tags_zh": [
+    "吴炜",
+    "黄华",
+    "盐城",
+    "党代会",
+    "换届选举",
+    "换届纪律"
+  ],
+  "tags_en": [
+    "Wu Wei",
+    "Huang Hua",
+    "Yancheng",
+    "Party Congress",
+    "Leadership Transition",
+    "Transition Discipline"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      {
+        "id": null,
+        "name_zh": "程认真"
+      },
+      {
+        "id": null,
+        "name_zh": "黄华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260921-gov_yan_cheng-08d507",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

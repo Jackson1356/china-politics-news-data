@@ -1,0 +1,94 @@
+{
+  "id": "20260629-xinhua_politics-da03e9",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260629/bf2135be255841149ce838f2e2c8953a/c.html",
+  "title_zh": "国务院常务会议部署人工智能发展有关工作",
+  "title_en": "State Council Executive Meeting Deploys Work on Artificial Intelligence Development",
+  "summary_zh": "2026年6月29日，国务院常务会议在北京召开，听取人工智能发展情况汇报，部署推进创新突破、实施“人工智能+”行动及完善安全治理等工作。",
+  "summary_en": "On June 29, 2026, the State Council executive meeting in Beijing discussed AI development, deploying measures to promote innovation, implement the \"AI+\" action, and improve security governance.",
+  "body_zh": "新华社北京6月29日电（记者魏玉坤）人工智能是新一轮科技革命和产业变革的重要驱动力量。6月29日召开的国务院常务会议，听取人工智能发展情况汇报，并作出一系列针对性部署。\n近年来，我国人工智能加速与制造业、服务业等千行百业深度融合，正在成为推动高质量发展的重要引擎。2025年，我国人工智能核心产业规模超过1.2万亿元，企业数量超过6200家。会议指出，要深刻把握人工智能演进趋势，完善支持政策和治理体系，牢牢掌握发展主动权。\n会议指出，要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，强化高质量数据供给，加强人才、资金等要素保障，支持企业开展基础研究和前沿探索。要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。\n安全治理，事关人工智能长远发展。会议强调，要守牢人工智能安全底线，完善科技伦理、测试认证等制度规则，构建动态适应、分级分类的安全监管体系，加强国际人工智能治理合作。\n“会议的一系列部署深刻把握人工智能技术和产业演进规律，立足当前、着眼长远，突出让市场有方向、有信心，为进一步推动人工智能发展、塑造国际竞争合作新优势指明了方向和路径。”国家发展改革委宏观经济研究院研究员张林山说。\n国家发展改革委国家信息中心信息化和产业发展部研究员张晓兰表示，紧抓新一轮科技革命和产业变革机遇，加快推进人工智能发展，培育壮大新质生产力，必将为经济高质量发展注入更强劲动力。",
+  "image_url": null,
+  "published_at": "2026-06-29T12:00:00+00:00",
+  "event_date": "2026-06-29",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "新质生产力",
+    "安全治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全治理",
+      "name_en": "Security Governance"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "北京",
+    "人工智能",
+    "新质生产力",
+    "安全治理"
+  ],
+  "tags_en": [
+    "State Council",
+    "Beijing",
+    "Artificial Intelligence",
+    "New Quality Productive Forces",
+    "Security Governance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张晓兰"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260629-xinhua_politics-da03e9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

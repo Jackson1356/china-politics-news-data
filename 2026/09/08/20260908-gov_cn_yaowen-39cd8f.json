@@ -1,0 +1,117 @@
+{
+  "id": "20260908-gov_cn_yaowen-39cd8f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080474.htm",
+  "title_zh": "王毅同卡塔尔首相兼外交大臣穆罕默德会谈",
+  "title_en": "Wang Yi Holds Talks with Qatari Prime Minister and Foreign Minister Mohammed",
+  "summary_zh": "9月8日，中共中央政治局委员、外交部长王毅在北京同卡塔尔首相兼外交大臣穆罕默德举行会谈，双方就战略伙伴关系及中东海湾地区形势交换意见。",
+  "summary_en": "On September 8, Politburo Member and Foreign Minister Wang Yi held talks with Qatari Prime Minister and Foreign Minister Mohammed in Beijing, exchanging views on strategic partnership and regional situation.",
+  "body_zh": "新华社北京9月8日电（记者 万倩仪）中共中央政治局委员、外交部长王毅8日在北京同卡塔尔首相兼外交大臣穆罕默德举行会谈。\n王毅表示，近年来，在两国元首战略引领下，中卡战略伙伴关系取得长足进展。双方要夯实并拓展传统能源和新能源合作，加强投资、高科技、人文交流等领域合作。中方愿同卡方就国际和地区事务保持沟通协作。\n穆罕默德转达塔米姆埃米尔对习近平主席的诚挚问候，表示卡方恪守一个中国原则，将优先保障中方能源供应，支持习近平主席提出的系列全球倡议。\n双方就中东海湾地区形势深入交换意见。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "战略伙伴关系",
+    "能源合作",
+    "地区形势"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "穆罕默德",
+      "name_en": "Mohammed"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区形势",
+      "name_en": "Regional Situation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "穆罕默德",
+    "北京",
+    "战略伙伴关系",
+    "能源合作",
+    "地区形势",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Mohammed",
+    "Beijing",
+    "Strategic Partnership",
+    "Energy Cooperation",
+    "Regional Situation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-gov_cn_yaowen-39cd8f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080474.htm",
+      "title_zh": "王毅同卡塔尔首相兼外交大臣穆罕默德会谈",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

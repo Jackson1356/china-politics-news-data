@@ -1,0 +1,127 @@
+{
+  "id": "20260921-gov_lin_zhi-7909eb",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/9edd536ac9fe4212a23c1b3405a5ee79.shtml",
+  "title_zh": "李强将出席第五届全球数字贸易博览会启动仪式及相关活动",
+  "title_en": "Li Qiang to Attend Launch Ceremony of Fifth Global Digital Trade Expo",
+  "summary_zh": "商务部新闻发言人何亚东9月21日宣布，第五届全球数字贸易博览会将于9月23日至27日在浙江省杭州市举办，国务院总理李强将出席启动仪式及相关活动并致辞。",
+  "summary_en": "China announced the Fifth Global Digital Trade Expo will be held in Hangzhou, Zhejiang from Sept 23 to 27, 2026, with Premier Li Qiang attending the launch ceremony and delivering remarks.",
+  "body_zh": "中国政府网\n西藏自治区人民政府网\n无障碍\n繁\n关怀版\n网站支持IPv6\n新闻\n政策\n服务\n互动\n醉美林芝\n您当前的位置：\n新闻中心\n党中央国务院\n李强将出席第五届全球数字贸易博览会启动仪式及相关活动\n新华社\n发布时间：\n浏览量：\n大\n中\n小\n新华社北京9月21日电商务部新闻发言人何亚东宣布:第五届全球数字贸易博览会将于2026年9月23-27日在浙江省杭州市举办。国务院总理李强将出席启动仪式及相关活动并致辞。\n相关附件\n打印\n相关信息",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "数字贸易",
+    "全球数字贸易博览会"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字贸易",
+      "name_en": "Digital Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球数字贸易博览会",
+      "name_en": "Global Digital Trade Expo"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李强将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "商务部",
+    "国务院",
+    "浙江",
+    "杭州",
+    "数字贸易",
+    "全球数字贸易博览会",
+    "李强将"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Ministry of Commerce",
+    "State Council",
+    "Zhejiang",
+    "Hangzhou",
+    "Digital Trade",
+    "Global Digital Trade Expo"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "李强将"
+      },
+      {
+        "id": null,
+        "name_zh": "何亚东"
+      }
+    ],
+    "institutions": [
+      "MOFCOM",
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-ZJ",
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260921-gov_lin_zhi-7909eb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

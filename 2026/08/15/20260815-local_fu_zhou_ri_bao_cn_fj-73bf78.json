@@ -1,0 +1,126 @@
+{
+  "id": "20260815-local_fu_zhou_ri_bao_cn_fj-73bf78",
+  "source": "local_fu_zhou_ri_bao_cn_fj",
+  "source_name_zh": "福州日报",
+  "source_name_en": "福州日报",
+  "source_media_id": "cac-cn-fj-20a27e7754",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.fznews.com.cn/node/12851/20260815/37593uT2n6.shtml",
+  "title_zh": "郭宁宁吴贤德会见科大讯飞董事长刘庆峰",
+  "title_en": "Guo Ningning and Wu Xiande Meet iFlytek Chairman Liu Qingfeng",
+  "summary_zh": "8月14日，福建省委副书记、福州市委书记郭宁宁和市长吴贤德会见科大讯飞董事长刘庆峰，双方就深化战略合作、培育人工智能产业生态等进行交流。",
+  "summary_en": "On August 14, Guo Ningning, Deputy Secretary of the Fujian Provincial Party Committee and Secretary of the Fuzhou Municipal Party Committee, and Mayor Wu Xiande met with Liu Qingfeng, Chairman of iFlytek, to discuss deepening strategic cooperation and fostering the AI industry ecosystem.",
+  "body_zh": "郭宁宁吴贤德会见科大讯飞董事长刘庆峰\n福州新闻网8月15日讯（记者 严鑫）8月14日，省委副书记、市委书记郭宁宁，市长吴贤德会见科大讯飞股份有限公司董事长刘庆峰一行。\n会见中，双方围绕深化新一轮战略合作，创新政企合作模式，培育人工智能产业生态，推动人工智能赋能千行百业等进行深入交流。双方一致表示，将聚焦算力基础设施建设以及智慧教育、智慧医疗、智慧城市、智能汽车等垂直大模型开发应用，进一步深挖合作潜力、拓展合作领域，携手做大做强数字经济，助力经济社会高质量发展。\n市领导张定锋、郑彧，科大讯飞副总裁孟庆勇参加。",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "数字经济",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "guo-ningning",
+      "name_zh": "郭宁宁",
+      "name_en": "Guo Ningning"
+    },
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘庆峰",
+      "name_en": "Liu Qingfeng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "郭宁宁",
+    "吴贤德",
+    "刘庆峰",
+    "福州",
+    "人工智能",
+    "数字经济",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Guo Ningning",
+    "Wu Xiande",
+    "Liu Qingfeng",
+    "Fuzhou",
+    "Artificial Intelligence",
+    "Digital Economy",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "guo-ningning",
+      "wu-xiande-fuzhou",
+      {
+        "id": null,
+        "name_zh": "方一致"
+      },
+      {
+        "id": null,
+        "name_zh": "孟庆勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260815-local_fu_zhou_ri_bao_cn_fj-73bf78",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_zhou",
+      "source_tier": 4,
+      "url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202608/t20260815_5359230.htm",
+      "title_zh": "郭宁宁吴贤德会见科大讯飞董事长刘庆峰 _ 榕城要闻 _ 福州市人民政府门户网站",
+      "published_at": "2026-08-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260825-gov_huai_an-669b08",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787627879054udmIV9zi.html",
+  "title_zh": "市长顾坤调研推进省市重大产业项目建设",
+  "title_en": "Mayor Gu Kun Promotes Construction of Key Provincial and Municipal Industrial Projects",
+  "summary_zh": "8月21日，淮安市市长顾坤赴盱眙县、洪泽区调研推进省市重大产业项目建设，强调要高效推进项目，带动扩投资稳增长。",
+  "summary_en": "On August 21, Mayor Gu Kun of Huai'an visited Xuyi and Hongze to inspect and advance key provincial and municipal industrial projects, emphasizing efficient implementation to boost investment and growth.",
+  "body_zh": "8月21日，市长顾坤到盱眙县、洪泽区调研推进省市重大产业项目建设，强调要深入学习贯彻习近平总书记关于新型工业化的重要论述，认真落实省委省政府决策部署和市委工作要求，牢固树立和践行正确政绩观，进一步健全机制、优化服务、强化保障，高质高效推进项目建设，持续有力带动扩投资稳增长增后劲，为因地制宜加快发展新质生产力、促进富民强市提供更加坚实支撑。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "重大产业项目",
+    "新质生产力",
+    "扩投资稳增长"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大产业项目",
+      "name_en": "Major Industrial Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩投资稳增长",
+      "name_en": "Expand Investment and Stabilize Growth"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "重大产业项目",
+    "新质生产力",
+    "扩投资稳增长"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Major Industrial Projects",
+    "New Quality Productive Forces",
+    "Expand Investment and Stabilize Growth"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "洪泽区"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260825-gov_huai_an-669b08",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

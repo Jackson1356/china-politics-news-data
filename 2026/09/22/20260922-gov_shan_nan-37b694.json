@@ -1,0 +1,111 @@
+{
+  "id": "20260922-gov_shan_nan-37b694",
+  "source": "gov_shan_nan",
+  "source_name_zh": "山南市政府网",
+  "source_name_en": "山南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shannan.gov.cn/xwzx/ttxw/202609/t20260922_177065.html",
+  "title_zh": "习近平将对美国进行国事访问",
+  "title_en": "Xi Jinping to Make State Visit to the United States",
+  "summary_zh": "外交部9月21日宣布，应美国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问，期间将与特朗普就中美关系和世界和平发展重大问题交换意见。",
+  "summary_en": "China's Foreign Ministry announced on September 21 that President Xi Jinping will pay a state visit to the United States from September 23 to 25 at the invitation of U.S. President Donald Trump, during which the two leaders will exchange views on major issues concerning bilateral ties and world peace and development.",
+  "body_zh": "习近平将对美国进行国事访问\n外交部介绍访美有关安排和中方期待\n新华社北京9月21日电 外交部发言人9月21日宣布：应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。\n新华社北京9月21日电（记者 马卓言 万倩仪）应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。外交部发言人郭嘉昆21日在例行记者会上介绍此访主要安排及中方对发展中美关系的期待。\n郭嘉昆说，访问期间，习近平主席将同特朗普总统就事关中美关系以及世界和平与发展的重大问题深入交换意见。\n郭嘉昆表示，元首外交对中美关系具有不可替代的战略引领作用。中美两国元首在半年内实现互访，具有历史性、里程碑意义。中方愿同美方一道，丰富中美建设性战略稳定关系内涵，加强对话合作，妥善管控分歧，不断增进两国人民的福祉，促进世界的和平、稳定、繁荣。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "元首外交",
+    "中美关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-state diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "外交部",
+    "北京",
+    "美国",
+    "元首外交",
+    "中美关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "United States",
+    "Head-of-state diplomacy",
+    "China-U.S. Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260922-gov_shan_nan-37b694",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

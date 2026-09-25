@@ -1,0 +1,100 @@
+{
+  "id": "20260919-gov_cn_yaowen-a9a9c9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081530.htm",
+  "title_zh": "今年前8个月全国铁路发送旅客33.2亿人次",
+  "title_en": "China's Railways Carry 3.32 Billion Passengers in First Eight Months of 2026",
+  "summary_zh": "中国国家铁路集团有限公司9月19日发布数据，1至8月全国铁路发送旅客33.2亿人次，同比增长3.9%，创历史同期新高。",
+  "summary_en": "China State Railway Group said on Sept 19 that the country's railways carried 332 million...",
+  "body_zh": "新华社北京9月19日电（记者樊曦）记者从中国国家铁路集团有限公司获悉，1至8月，全国铁路发送旅客33.2亿人次，同比增长3.9%，创历史同期新高，全国铁路运输安全平稳有序。\n今年以来，铁路部门统筹高速铁路和普速铁路资源，全国铁路日均安排开行旅客列车11508列，同比增长5.0%。在跨境客运组织方面，广深港高铁发送跨境旅客2340.8万人次，同比增长10.7%，中老铁路发送跨境旅客24.5万人次，同比增长39.1%。\n与此同时，铁路部门积极适应国家过境免签政策带来的客流增长，为外籍旅客出行提供便利，全国铁路发送外籍旅客1668.3万人次，同比增长33.3%。\n此外，铁路部门主动对接各地文旅部门，精心设计旅游列车运行线路，为旅客提供多样化的出行选择和高品质的旅行体验，有力有效服务旅游经济发展。1至8月，全国铁路累计开行旅游列车2501列，其中旅游专列1387列、旅游专线列车1114列。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路客运",
+    "跨境客运",
+    "旅游经济",
+    "过境免签政策"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路客运",
+      "name_en": "Railway Passenger Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境客运",
+      "name_en": "Cross-border Passenger Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游经济",
+      "name_en": "Tourism Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "过境免签政策",
+      "name_en": "Visa-free Transit Policy"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路客运",
+    "跨境客运",
+    "旅游经济",
+    "过境免签政策"
+  ],
+  "tags_en": [
+    "China State Railway Group",
+    "Railway Passenger Transport",
+    "Cross-border Passenger Services",
+    "Tourism Economy",
+    "Visa-free Transit Policy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260919-gov_cn_yaowen-a9a9c9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34102920",
+      "title_zh": "今年前8个月全国铁路发送旅客33.2亿人次",
+      "published_at": "2026-09-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

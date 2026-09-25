@@ -1,0 +1,115 @@
+{
+  "id": "20260714-xinhua_politics-012058",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260714/d4c67ec4181d42b89130354e79bff8b9/c.html",
+  "title_zh": "两部门紧急预拨4.3亿元中央自然灾害救灾资金",
+  "title_en": "Two Departments Urgently Pre-allocate 430 Million Yuan for Central Natural Disaster Relief",
+  "summary_zh": "7月14日，财政部与应急管理部紧急预拨4.3亿元中央自然灾害救灾资金，支持广西、浙江等10省（区、市）开展防汛防台风应急抢险救灾工作。",
+  "summary_en": "On July 14, the Ministry of Finance and the Ministry of Emergency Management pre-allocated 430 million yuan in central relief funds to support flood and typhoon rescue efforts in 10 provinces, including Guangxi and Zhejiang.",
+  "body_zh": "财政部、应急管理部紧急预拨4.3亿元中央自然灾害救灾资金\n支持广西、浙江、河北、辽宁等10省（区、市）做好防汛防台风应急抢险救灾工作\n近期，受台风影响，我国华东、华南、华北、东北等多区域发生强降雨天气，引发严重险情灾情。为深入贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，7月14日，财政部、应急管理部紧急预拨4.3亿元中央自然灾害救灾资金，支持广西、浙江、河北、辽宁、天津、黑龙江、江苏、安徽、江西、四川等10省（区、市）开展防汛防台风应急抢险救灾工作。其中，一是在前期预拨1.9亿元基础上，追加预拨1.5亿元，支持广西继续重点做好受灾群众安置、过渡期生活救助以及倒损民房修复等工作，推动灾区尽快恢复正常生产生活秩序；二是预拨2.8亿元，支持其余9省（市）统筹做好搜救转移安置受灾人员、排危除险等应急处置、开展次生灾害隐患排查和应急整治等，最大限度减少灾害损失。\n财政部要求上述10省（区、市）财政厅（局）抓紧将资金拨付灾区，加强救灾资金监管，确保救灾资金全部用于灾区和受灾群众，切实保障人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-07-14T12:00:00+00:00",
+  "event_date": "2026-07-14",
+  "ingested_at": "2026-07-15T06:22:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "自然灾害救灾",
+    "防汛防台风"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救灾",
+      "name_en": "Natural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "广西",
+    "浙江",
+    "河北",
+    "辽宁",
+    "自然灾害救灾",
+    "防汛防台风"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Guangxi",
+    "Zhejiang",
+    "Hebei",
+    "Liaoning",
+    "Natural Disaster Relief",
+    "Flood and Typhoon Prevention"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [
+      "CN-ZJ",
+      "CN-HE",
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260714-xinhua_politics-012058",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

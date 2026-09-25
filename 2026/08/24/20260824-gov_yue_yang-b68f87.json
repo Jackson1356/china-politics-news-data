@@ -1,0 +1,121 @@
+{
+  "id": "20260824-gov_yue_yang-b68f87",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2395252.html",
+  "title_zh": "谢卫江与国家能源集团氢能事业部主任刘玮、上海交通大学副校长曾小勤一行座谈",
+  "title_en": "Xie Weijiang Holds Talks with Delegation from China Energy and Shanghai Jiao Tong University",
+  "summary_zh": "8月22日，省委副书记、岳阳市委书记谢卫江与国家能源集团氢能事业部主任刘玮、上海交通大学副校长曾小勤一行座谈，就氢能产业、绿色燃料、人才培养等合作事宜进行交流。",
+  "summary_en": "On August 22, Xie Weijiang, Deputy Secretary of Hunan Provincial Committee and Secretary of Yueyang Municipal Committee, held talks with Liu Wei, Director of Hydrogen Energy Division of China Energy, and Zeng Xiaoqin, Vice President of Shanghai Jiao Tong University, on cooperation in hydrogen energy, green fuels, and talent cultivation.",
+  "body_zh": "8月22日，省委副书记、岳阳市委书记谢卫江与国家能源集团氢能事业部主任刘玮，上海交通大学党委常委、副校长曾小勤一行座谈。\n谢卫江代表市委、市政府对刘玮、曾小勤一行表示欢迎，对国家能源集团、上海交通大学支持岳阳经济社会发展表示感谢。他说，当前岳阳正抢抓国家“十五五”规划机遇，依托现有氢气产能和应用场景优势，积极谋划推进氢能产业发展。希望国家能源集团、上海交通大学发挥联合优势，在绿色燃料产业发展、氢谷建设和人才培养等方面与岳阳深化合作，实现互利共赢。市委、市政府将全力支持国家能源集团、上海交通大学合作项目在岳阳加快落地。\n刘玮、曾小勤表示，国家能源集团、上海交通大学将加强与岳阳对接合作，携手打造氢能示范项目，共促科技成果在岳转化，为国家氢能产业发展贡献力量。\n市领导邱虹、刘世奇，湖南理工大学党委书记张国云参加。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-22",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "industry",
+  "keywords": [
+    "氢能产业",
+    "绿色燃料",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "上海交通大学",
+      "name_en": "Shanghai Jiao Tong University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "氢能产业",
+      "name_en": "Hydrogen Energy Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色燃料",
+      "name_en": "Green Fuels"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Cultivation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "曾小勤",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "上海交通大学",
+    "岳阳",
+    "氢能产业",
+    "绿色燃料",
+    "人才培养",
+    "曾小勤"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Shanghai Jiao Tong University",
+    "Yueyang",
+    "Hydrogen Energy Industry",
+    "Green Fuels",
+    "Talent Cultivation"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "曾小勤"
+      },
+      {
+        "id": null,
+        "name_zh": "张国云"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "上海交通大学",
+        "name_en": "Shanghai Jiao Tong University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260824-gov_yue_yang-b68f87",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20260727-cpcnews-20eccb",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0727/c64387-40768525.html",
+  "title_zh": "上半年我国金融市场运行平稳",
+  "title_en": "China's Financial Markets Operate Steadily in First Half of Year",
+  "summary_zh": "中国人民银行发布数据显示，今年上半年我国金融市场运行平稳，熊猫债券累计发行1600.3亿元，新增21家境外机构进入银行间债券市场。",
+  "summary_en": "According to data released by the People's Bank of China, China's financial markets operated steadily in the first half of the year, with panda bond issuance totaling 160.03 billion yuan and 21 new overseas institutions entering the interbank bond market.",
+  "body_zh": "本报北京7月26日电 （记者吴秋余）中国人民银行发布数据显示：今年以来，我国金融市场运行平稳，前6个月，熊猫债券累计发行1600.3亿元，新增21家境外机构进入银行间债券市场。\n熊猫债是境外机构在中国境内发行的、以人民币计价的还本付息的债券，既是推动我国债券市场开放的重要举措，也是拓宽人民币跨境融资渠道、助力人民币国际化进程的重要工具。随着我国金融高水平开放不断深化，熊猫债市场创新日益活跃，制度安排愈加国际化，资金使用更加便利。\n数据显示，今年6月，我国政府债券净融资7683.3亿元，同比减少5825.2亿元；企业债券净融资4011.6亿元，同比增加1589.7亿元。截至6月末，债券市场托管余额205.0万亿元。6月，商业汇票承兑发生额4.0万亿元，贴现发生额3.2万亿元。截至6月末，商业汇票承兑余额21.9万亿元，同比增加13.2%；贴现余额17.3万亿元，同比增加16.8%。\n《 人民日报 》（ 2026年07月27日 02 版）",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-26",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "economy",
+  "keywords": [
+    "金融市场",
+    "熊猫债券",
+    "债券市场"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融市场",
+      "name_en": "Financial Markets"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "熊猫债券",
+      "name_en": "Panda Bonds"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "债券市场",
+      "name_en": "Bond Market"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "北京",
+    "金融市场",
+    "熊猫债券",
+    "债券市场"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Beijing",
+    "Financial Markets",
+    "Panda Bonds",
+    "Bond Market"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260727-cpcnews-20eccb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

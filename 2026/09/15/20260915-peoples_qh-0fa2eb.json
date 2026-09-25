@@ -1,0 +1,130 @@
+{
+  "id": "20260915-peoples_qh-0fa2eb",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.people.com.cn/n2/2026/0915/c181467-41696290.html",
+  "title_zh": "吴晓军罗东川会见布隆迪基特加省代表团一行",
+  "title_en": "Wu Xiaojun and Luo Dongchuan Meet with Delegation from Burundi's Gitega Province",
+  "summary_zh": "9月14日，青海省委书记吴晓军、省长罗东川在西宁会见布隆迪基特加省省长比吉里马纳率领的代表团，双方愿在生态环保、民生、产业等领域深化合作。",
+  "summary_en": "On Sept 14, Qinghai Party Secretary Wu Xiaojun and Governor Luo Dongchuan met in Xining with a delegation led by Gitega Province Governor Liboire Bigirimana of Burundi, with both sides pledging deeper cooperation in ecology, livelihood and industry.",
+  "body_zh": "吴晓军罗东川会见布隆迪共和国基特加省代表团一行\n9月14日，省委书记、省人大常委会主任吴晓军，省委副书记、省长罗东川在西宁会见布隆迪共和国基特加省省长利博雷·比吉里马纳率领的代表团一行。\n吴晓军、罗东川代表省委、省政府和全省各族人民对代表团一行到访表示热烈欢迎。他们说，中布两国传统友好历久弥坚，在习近平主席和布方领导人的战略引领下，青海与基特加省的友好交往成为中非团结合作的典范。今年是中非开启外交关系70周年，也是青海省与基特加省签署建立友好省关系协议35周年，立足习近平主席对中非携手推进“六个现代化”的重大要求，结合两地资源禀赋和发展愿景，青海愿同基特加省在生态环境保护、民生福祉增进、特色产业发展等重点领域深化合作，在互利互惠和共同发展中不断增进双方深厚友谊、造福人民群众。\n利博雷·比吉里马纳表示，青海人民是我们相互支持、共谋发展的好朋友、好伙伴。结好35年以来，两地合作取得了丰硕成果、结下了深厚情谊，特别是青海持续向布隆迪提供医疗援助，为布隆迪人民带来健康，我们对此深表感谢。基特加省愿以此次访问为契机，进一步拓展两地在教育医疗、人文交流、基础设施建设等方面的务实合作，推动双方友好关系不断迈上新台阶。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "中非合作",
+    "友好省关系",
+    "地方外事"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiaojun-qinghai",
+      "name_zh": "吴晓军",
+      "name_en": "Wu Xiaojun"
+    },
+    {
+      "kind": "person",
+      "id": "luo-dongchuan",
+      "name_zh": "罗东川",
+      "name_en": "Luo Dongchuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH-XN",
+      "name_zh": "西宁",
+      "name_en": "Xining"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作",
+      "name_en": "China-Africa Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好省关系",
+      "name_en": "Sister-Province Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方外事",
+      "name_en": "Local Diplomacy"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "马纳",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "吴晓军",
+    "罗东川",
+    "西宁",
+    "青海",
+    "中非合作",
+    "友好省关系",
+    "地方外事",
+    "习近平",
+    "马纳"
+  ],
+  "tags_en": [
+    "Wu Xiaojun",
+    "Luo Dongchuan",
+    "Xining",
+    "Qinghai",
+    "China-Africa Cooperation",
+    "Sister-Province Relations",
+    "Local Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-xiaojun-qinghai",
+      "luo-dongchuan",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "马纳"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-QH-XN",
+      "CN-QH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260915-peoples_qh-0fa2eb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

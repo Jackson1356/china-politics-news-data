@@ -1,0 +1,80 @@
+{
+  "id": "20260711-xinhua_hlj-06258c",
+  "source": "xinhua_hlj",
+  "source_name_zh": "新华网 黑龙江",
+  "source_name_en": "Xinhua Heilongjiang",
+  "source_url": "https://www.news.cn/20260711/67cd1b21611f4889a90404ef46cd61c6/c.html",
+  "title_zh": "水利部对黑龙江启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Launches Level IV Emergency Response for Flood Defense in Heilongjiang",
+  "summary_zh": "水利部7月11日对黑龙江省启动洪水防御Ⅳ级应急响应，以应对台风“巴威”带来的大到暴雨及潜在洪水风险。",
+  "summary_en": "On July 11, the Ministry of Water Resources launched a Level IV emergency response for flood defense in Heilongjiang Province to address heavy rain and flood risks caused by Typhoon Bawi.",
+  "body_zh": "新华社北京7月11日电（记者魏弘毅）记者从水利部了解到，水利部11日对黑龙江省启动洪水防御Ⅳ级应急响应。\n据预报，受台风“巴威”外围水汽和冷空气共同影响，7月11日至15日，黑龙江中部东部部分地区将有大到暴雨，松花江、嫩江、雅鲁河、拉林河、蚂蚁河、牡丹江、汤旺河等河流将出现明显涨水过程，其中拉林河可能发生编号洪水，暴雨区内部分中小河流可能发生较大洪水，山丘区山洪灾害风险大。\n水利部要求地方水利部门和相关流域管理机构密切监视天气变化，滚动加密雨水情监测预报预警，强化会商研判和值班值守，科学精细调度防洪工程，突出抓好水库安全度汛、中小河流洪水和山洪灾害防御等工作，及时提请有关地方提前转移受威胁群众和危险区人员，确保人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-07-11T12:00:00+00:00",
+  "event_date": "2026-07-11",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "黑龙江",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Heilongjiang",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260711-xinhua_hlj-06258c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

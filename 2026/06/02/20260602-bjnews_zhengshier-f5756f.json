@@ -1,0 +1,94 @@
+{
+  "id": "20260602-bjnews_zhengshier-f5756f",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1780367754129923.html",
+  "title_zh": "中央生态环境保护督察通报辽宁葫芦岛污水处理问题",
+  "title_en": "Central Ecological and Environmental Protection Inspection Reports Sewage Treatment Issues in Huludao, Liaoning",
+  "summary_zh": "生态环境部通报辽宁省葫芦岛市生活污水处理短板明显，且当地在多次排查中虚报未发现黑臭水体，被督察组暗查揭露。",
+  "summary_en": "The Ministry of Ecology and Environment reported severe shortcomings in sewage treatment in Huludao, Liaoning, exposing local authorities for falsely reporting the absence of black and odorous water.",
+  "body_zh": "生态环境部6月2日消息，中央生态环境保护督察集中通报典型案例，其中包括辽宁省葫芦岛市生活污水收集处理短板明显问题。\n通报称，兴城市7次排查，均上报未发现黑臭水体。2026年2月督察组暗查发现，兴城市宁海街东侧长约500米水体积存大量灰白色污水。取样监测显示，污水氨氮浓度为39毫克/升，达重度黑臭。\n据报道，经党中央、国务院批准，根据二十届中央生态环境保护督察工作领导小组会议精神，中央第一生态环境保护督察组今年5月进驻辽宁省开展生态环境保护督察。5月9日，督察进驻动员会在沈阳召开，督察组组长蔡名照、副组长徐必久分别就做好督察工作作了讲话，辽宁省委书记许昆林进行了进驻动员。\n中央第一生态环境保护督察组督察辽宁省发现，葫芦岛市生活污水管网建设改造滞后，污水直排问题突出，城市黑臭水体排查整治不到位。\n葫芦岛市主城区有五里河、连山河等河流穿城而过，但城市环境基础设施建设管理比较薄弱，约四分之一区域雨污不分，晴天污水溢流、直排现象多发，部分水体出现黑臭。\n主要问题：\n一是管网建设改造滞后。《城镇污水处理提质增效三年行动方案（2019—2021年）》要求，建立污水管网排查和检测制度，实施管网混错接改造、管网更新、破损修复改造等工程，消除管网空白区。督察发现，截至2025年底，葫芦岛市主城区421.8公里污水管网中，有140.9公里未开展排查检测；2020年以来排查发现的管网混错接和缺陷问题，有3009个未完成修复。\n2026年2月督察组暗查发现，龙港区朝葫路污水提升泵站前200余米配套管道缺失，大量污水通过明渠输送，周边群众反映强烈。",
+  "image_url": null,
+  "published_at": "2026-06-02T10:44:56+00:00",
+  "event_date": "2024-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "discipline",
+  "keywords": [
+    "生态环境保护",
+    "政府问责"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "葫芦岛",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological and Environmental Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政府问责",
+      "name_en": "Government Accountability"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "辽宁",
+    "葫芦岛",
+    "生态环境保护",
+    "政府问责"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Ecological and Environmental Protection",
+    "Government Accountability"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEE"
+    ],
+    "locations": [
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260602-bjnews_zhengshier-f5756f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_02_819120.shtml",
+      "title_zh": "中央生态环保督察通报4省份典型案例",
+      "published_at": "2026-06-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

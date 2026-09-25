@@ -1,0 +1,121 @@
+{
+  "id": "20260916-gov_long_yan-ead166",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260916_2313285.htm",
+  "title_zh": "龙岩市政协党组（扩大）会议召开",
+  "title_en": "Longyan CPPCC Party Group Holds Expanded Meeting",
+  "summary_zh": "9月14日，龙岩市政协党组书记陈金龙主持召开市政协党组（扩大）会议，传达学习习近平总书记近期重要讲话重要指示批示精神，并研究贯彻落实举措。",
+  "summary_en": "On Sept 14, Chen Jinlong, Party secretary of the Longyan CPPCC, chaired an expanded Party group meeting to convey Xi Jinping's recent speeches and directives and to study implementation measures.",
+  "body_zh": "龙岩市政协党组（扩大）会议召开\n时间：2026-09-15 10:35\n9月14日，市政协党组书记陈金龙主持召开市政协党组（扩大）会议，传达学习习近平总书记近期重要讲话重要指示批示精神，以及市委书记胡盛在市政协主要领导任职宣布会议上的讲话精神，研究市政协贯彻落实举措。\n会议强调，要讲政治，以学铸魂强根基。深入学习贯彻习近平总书记重要讲话和重要指示批示精神，持续把准履职方向，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。要讲工作，以干践行显担当。紧扣市委中心工作，聚焦市委“六项重点任务”，充分发挥政协专门协商机构作用，扎实开展政治协商、民主监督、参政议政。要讲制度，守正立规固根本。持续推进机关制度建设工作，健全完善请销假、外出报备、内控管理、财务管理等各项制度，确保机关运行规范有序。要讲廉洁，从严治党树新风。自觉遵守政治纪律和组织纪律，扎实做好政协换届各项筹备工作，确保换届工作风清气正、平稳顺利，以实际行动维护市政协良好形象。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "party",
+  "keywords": [
+    "政协工作",
+    "学习贯彻",
+    "换届筹备"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "龙岩市政协",
+      "name_en": "Longyan Municipal CPPCC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Studying and Implementing Directives"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届筹备",
+      "name_en": "Leadership Transition Preparation"
+    },
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "龙岩市政协",
+    "龙岩",
+    "政协工作",
+    "学习贯彻",
+    "换届筹备",
+    "胡盛"
+  ],
+  "tags_en": [
+    "Longyan Municipal CPPCC",
+    "Longyan",
+    "CPPCC Work",
+    "Studying and Implementing Directives",
+    "Leadership Transition Preparation"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan",
+      {
+        "id": null,
+        "name_zh": "金龙"
+      },
+      {
+        "id": null,
+        "name_zh": "龙主持"
+      },
+      {
+        "id": null,
+        "name_zh": "任职"
+      },
+      {
+        "id": null,
+        "name_zh": "陈金龙"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": [
+      {
+        "name_zh": "龙岩市政协",
+        "name_en": "Longyan Municipal CPPCC"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260916-gov_long_yan-ead166",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

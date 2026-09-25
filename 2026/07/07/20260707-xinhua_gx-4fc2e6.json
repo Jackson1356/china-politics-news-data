@@ -1,0 +1,88 @@
+{
+  "id": "20260707-xinhua_gx-4fc2e6",
+  "source": "xinhua_gx",
+  "source_name_zh": "新华网 广西",
+  "source_name_en": "Xinhua Guangxi",
+  "source_url": "http://gx.news.cn/20260707/5c633381184a40788ee24f068cf44b44/c.html",
+  "title_zh": "水利部部署台风暴雨洪水防御工作",
+  "title_en": "Ministry of Water Resources Deploys Typhoon and Flood Defense Work",
+  "summary_zh": "水利部于7月7日在北京举行专题会商，分析研判台风“美莎克”和“巴威”的影响，部署暴雨洪水防御及险情处置工作。",
+  "summary_en": "On July 7, the Ministry of Water Resources held a special meeting in Beijing to analyze the impact of Typhoons Mashack and Bavi and deploy flood defense and emergency response measures.",
+  "body_zh": "新华社北京7月7日电（记者魏弘毅）记者7日从水利部获悉，水利部举行专题会商，滚动分析研判台风“美莎克”“巴威”发展态势及影响，安排部署暴雨洪水防御及险情处置工作。\n记者了解到，受台风“美莎克”影响，近期珠江流域广西等地遭遇极端暴雨洪水，多座水库发生险情，暴雨洪水持续可能孕育后续风险。\n据综合研判，未来数天影响我国天气系统的主要因素为第10号台风“美莎克”、第9号台风“巴威”及东北冷涡。\n台风“美莎克”影响将持续至7月9日，珠江流域西江、郁江、柳江、桂江、贺江、桂南粤西沿海诸河，长江流域洞庭湖水系资水、沅江，鄂东四水，淮河流域淮河及沂沭泗水系、里下河地区，松辽流域嫩江、松花江吉林段、浑河、太子河、鸭绿江等主要河流将出现明显涨水过程，其中西江干流及支流柳江、桂江、郁江，洞庭湖水系资水可能发生超警洪水；暴雨区内中小河流洪水和山洪灾害风险增高。\n7月10日起，台风“巴威”将靠近登陆我国东部沿海，先后影响太湖、长江、淮河、黄河、海河、松辽等6个流域持续约一周时间，登陆强度大、携带水汽足、致灾风险高。\n面对汛情，水利部相关负责人表示要突出抓好6方面工作：一要做好广西洪水灾害防御，二要强化监测预报预警，三要突出抓好水库安全度汛，四要强化山洪灾害和中小河流洪水防御，五要加强堤防巡查防守和在建工程安全度汛，六要做好珠江、太湖、东南诸河、长江、淮河、海河、松辽等重点流域洪水防御。（完）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-07",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "industry",
+  "keywords": [
+    "洪水防御",
+    "台风预警"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风预警",
+      "name_en": "Typhoon Warning"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "北京",
+    "广西",
+    "洪水防御",
+    "台风预警"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Beijing",
+    "Guangxi",
+    "Flood Defense",
+    "Typhoon Warning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260707-xinhua_gx-4fc2e6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

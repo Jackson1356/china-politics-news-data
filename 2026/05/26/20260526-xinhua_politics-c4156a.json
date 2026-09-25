@@ -1,0 +1,106 @@
+{
+  "id": "20260526-xinhua_politics-c4156a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260526/e696173fc09a491ca283c2337e44796c/c.html",
+  "title_zh": "第七届跨国公司领导人青岛峰会：创新产业对接模式",
+  "title_en": "The 7th Qingdao Summit for Multinational Company Leaders: Innovating Industry Docking Models",
+  "summary_zh": "5月26日，国务院新闻办公室举行发布会，介绍2026年跨国公司领导人青岛峰会将创新产业对接模式，促进前沿技术与山东产业精准对接。",
+  "summary_en": "On May 26, the State Council Information Office held a press conference to introduce the 2026 Qingdao Summit for Multinational Company Leaders, focusing on innovating industry docking models.",
+  "body_zh": "5月26日，国务院新闻办公室举行新闻发布会，介绍2026年跨国公司领导人青岛峰会有关情况，并答记者问。山东省商务厅厅长王磊介绍说，本届跨国公司领导人青岛峰会创新产业对接模式，实现从“全面覆盖”向“精准赋能”转变，促进跨国公司前沿技术与山东产业场景精准对接。\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "industry",
+  "keywords": [
+    "跨国公司",
+    "产业对接"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "山东省商务厅",
+      "name_en": "Shandong Provincial Department of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨国公司",
+      "name_en": "Multinational Companies"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业对接",
+      "name_en": "Industry Docking"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "山东省商务厅",
+    "青岛",
+    "山东",
+    "跨国公司",
+    "产业对接"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Shandong Provincial Department of Commerce",
+    "Qingdao",
+    "Shandong",
+    "Multinational Companies",
+    "Industry Docking"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王磊"
+      }
+    ],
+    "institutions": [
+      "SCIO"
+    ],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "山东省商务厅",
+        "name_en": "Shandong Provincial Department of Commerce"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260526-xinhua_politics-c4156a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

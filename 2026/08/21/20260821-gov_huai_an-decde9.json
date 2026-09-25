@@ -1,0 +1,84 @@
+{
+  "id": "20260821-gov_huai_an-decde9",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787293455653HdvevqjZ.html",
+  "title_zh": "淮安市政府召开经济运行调度会",
+  "title_en": "Huai'an Municipal Government Holds Economic Operation Scheduling Meeting",
+  "summary_zh": "8月20日，淮安市政府召开经济运行调度会，市长顾坤强调贯彻中央政治局会议精神，推动经济高质量发展。",
+  "summary_en": "On August 20, the Huai'an Municipal Government held an economic operation scheduling meeting. Mayor Gu Kun stressed implementing the spirit of the CPC Central Political Bureau meeting and promoting high-quality economic development.",
+  "body_zh": "8月20日，市政府召开经济运行调度会，分析研判当前形势，部署安排近阶段重点任务。市长顾坤强调，要深入学习贯彻习近平总书记近期在中央政治局会议上的重要讲话精神，认真落实国务院全体会议精神，紧紧围绕省委省政府决策部署和市委工作要求，以正确政绩观为引领，牢牢扭住高质量发展这个首要任务，进一步锚定目标、真抓实干，奋力推动经济持续向新向优向好发展。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "经济运行",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Economic Operation",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260821-gov_huai_an-5afb24",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

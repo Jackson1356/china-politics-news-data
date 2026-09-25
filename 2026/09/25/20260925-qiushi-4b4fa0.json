@@ -1,0 +1,109 @@
+{
+  "id": "20260925-qiushi-4b4fa0",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260925/a2faf85af63c4a50ab910c052dcf9fa5/c.html",
+  "title_zh": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+  "title_en": "Peng Liyuan and Melania Trump Visit the National Museum of Asian Art",
+  "summary_zh": "当地时间9月24日中午，习近平主席夫人彭丽媛在华盛顿同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆，并观看美国青少年合唱中国歌曲。",
+  "summary_en": "On September 24 in Washington, Peng Liyuan and U.S. First Lady Melania Trump visited the National Museum of Asian Art and watched American youth sing Chinese songs.",
+  "body_zh": "新华社华盛顿9月24日电（记者冯歆然）当地时间9月24日中午，国家主席习近平夫人彭丽媛在华盛顿同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆。\n两国元首夫人参观了孔雀厅等展厅。彭丽媛对美方近年来多次向中方返还中国文物表示赞赏，希望中美双方继续加强文化交流和文化遗产保护合作，增进两国人民友好。\n参观后，彭丽媛和梅拉尼娅一同观看美国青少年合唱中国歌曲，并同他们亲切交流。彭丽媛鼓励大家继续努力学习中文和中华文化，成为中美友好的使者。\n网站编辑 -\n汤宝兰\n张盼 审核 - 刘小畅",
+  "image_url": null,
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "文化交流",
+    "文化遗产保护"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭丽媛",
+      "name_en": "Peng Liyuan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "华盛顿",
+      "name_en": "Washington"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化交流",
+      "name_en": "Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化遗产保护",
+      "name_en": "Cultural Heritage Protection"
+    }
+  ],
+  "tags_zh": [
+    "彭丽媛",
+    "华盛顿",
+    "中美关系",
+    "文化交流",
+    "文化遗产保护"
+  ],
+  "tags_en": [
+    "Peng Liyuan",
+    "Washington",
+    "China-U.S. Relations",
+    "Cultural Exchange",
+    "Cultural Heritage Protection"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "彭丽媛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260925-qiushi-4b4fa0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082040.htm",
+      "title_zh": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+      "published_at": "2026-09-25T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "https://www.qstheory.cn/20260925/a2faf85af63c4a50ab910c052dcf9fa5/c.html",
+      "title_zh": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+      "published_at": "2026-09-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

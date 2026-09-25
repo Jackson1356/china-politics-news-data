@@ -1,0 +1,95 @@
+{
+  "id": "20260811-gov_yan_tai-57ed88",
+  "source": "gov_yan_tai",
+  "source_name_zh": "烟台市政府网",
+  "source_name_en": "烟台 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_tai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yantai.gov.cn/col/col11794/art/2026/art_5066f329274f49efb55e7975e276b5fd.html",
+  "title_zh": "中国农工民主党烟台市第九次代表大会召开",
+  "title_en": "Yantai Committee of Chinese Peasants' and Workers' Democratic Party Holds 9th Congress",
+  "summary_zh": "8月11日，中国农工民主党烟台市第九次代表大会召开，选举产生新一届委员会，崔伟当选主任委员。",
+  "summary_en": "On August 11, the 9th Congress of the CPWDP Yantai Committee was held, electing a new committee with Cui Wei as chairman.",
+  "body_zh": "8月11日，中国农工民主党烟台市第九次代表大会召开。省政协副秘书长、农工党省委会专职副主委付军，中共烟台市委副书记、政法委书记高建广，市人大常委会副主任、民建烟台市委会主委潘士友出席并致辞。副市长、民革烟台市委会主委隋子林，市政协副主席、市工商联主席李京波出席。\n会上，审议通过了农工党烟台市第八届委员会工作报告和大会决议，选举产生了农工党烟台市第九届委员会，崔伟当选主任委员，王洪波、沈兴海、刘一霞、由国梁当选副主任委员，任命王宁为秘书长。\n高建广代表中共烟台市委对大会召开表示祝贺，并通报全市经济社会发展情况。他指出，过去五年，农工党烟台市委会认真履职尽责，在凝聚共识、资政建言、惠民服务等方面取得明显成效，展现了中国特色社会主义参政党的责任担当。希望新一届农工党市委会大力发扬爱国、革命、奉献的优良传统，深化政治交接，凝聚政治共识，全力服务发展，加强自身建设，不断提升履职能力，切实树立良好形象。\n会议号召，全市各级农工党组织和广大农工党党员要坚持以习近平新时代中国特色社会主义思想为指导，在农工党山东省委会和中共烟台市委的领导下，担当实干、奋发作为，为加快建设绿色低碳高质量发展示范城市作出新的更大贡献。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作",
+    "政治交接"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-YT",
+      "name_zh": "烟台",
+      "name_en": "Yantai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multi-party Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治交接",
+      "name_en": "Political Handover"
+    },
+    {
+      "kind": "person",
+      "id": "wang-ning-yunnan",
+      "name_zh": "王宁",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "烟台",
+    "多党合作",
+    "政治交接",
+    "王宁"
+  ],
+  "tags_en": [
+    "Yantai",
+    "Multi-party Cooperation",
+    "Political Handover"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-ning-yunnan",
+      {
+        "id": null,
+        "name_zh": "潘士友"
+      },
+      {
+        "id": null,
+        "name_zh": "贺并"
+      },
+      {
+        "id": null,
+        "name_zh": "李京波"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-YT"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-gov_yan_tai-57ed88",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

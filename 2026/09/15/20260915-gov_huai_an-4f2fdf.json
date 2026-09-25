@@ -1,0 +1,84 @@
+{
+  "id": "20260915-gov_huai_an-4f2fdf",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17881920/1789462079270XIv31cYT.html",
+  "title_zh": "淮安市市长顾坤调研推进安全生产工作",
+  "title_en": "Huaian Mayor Gu Kun Inspects and Advances Workplace Safety Work",
+  "summary_zh": "9月13日，淮安市市长顾坤以“四不两直”方式赴淮安工业园区、清江浦区、淮阴区现场调研推进安全生产工作，要求深入排查整治风险隐患。",
+  "summary_en": "On September 13, Huaian Mayor Gu Kun made unannounced inspections in Huaian Industrial Park, Qingjiangpu District and Huaiyin District to advance workplace safety work, calling for thorough screening and rectification of risks and hazards.",
+  "body_zh": "9月13日，市长顾坤以“四不两直”方式，到淮安工业园区、清江浦区、淮阴区现场调研推进安全生产工作。他强调，要深入学习贯彻习近平总书记关于安全生产的重要论述和重要指示批示精神，细化落实省委省政府决策部署，始终坚持人民至上、生命至上，牢固树立底线思维、极限思维，以更大力度、更实举措、更高水平，扎实有效推进安全生产“六化”建设，持续深入排查整治各类风险隐患，确保人民群众生命财产安全和经济社会平稳运行。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-13",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "隐患排查整治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "隐患排查整治",
+      "name_en": "Hazard Screening and Rectification"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "安全生产",
+    "隐患排查整治"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huaian",
+    "Workplace Safety",
+    "Hazard Screening and Rectification"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-gov_huai_an-4f2fdf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

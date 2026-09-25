@@ -1,0 +1,83 @@
+{
+  "id": "20260613-gov_cn_yaowen-3b5357",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7071998.htm",
+  "title_zh": "我国世界自然遗产保护状况持续提升",
+  "title_en": "China's World Natural Heritage Protection Status Continues to Improve",
+  "summary_zh": "2026年6月13日，国家林草局表示我国世界自然遗产保护状况持续提升，90%的遗产地综合评估为优良，总数居世界首位。",
+  "summary_en": "On June 13, 2026, the National Forestry and Grassland Administration reported that China's World Natural Heritage protection status continues to improve, with 90% of sites rated as excellent.",
+  "body_zh": "新华社北京6月13日电（记者黄垚）6月13日是2026年文化和自然遗产日。记者从国家林草局了解到，近年来我国不断强化世界自然遗产、自然与文化双遗产的科学性、系统性、整体性保护，保护状况持续提升。世界自然保护联盟评估显示，我国90%遗产地综合评估为优良，明显高于全球61%、亚洲68%的平均水平。\n目前，我国拥有世界自然遗产15项，世界自然与文化双遗产4项，总数居世界首位，总面积达8万多平方公里，遍布20个省份，囊括山岳、森林、湿地、荒漠、海岸等多元生态系统，填补了全球多项空白。\n近年来，我国依托以国家公园为主体的自然保护地体系，持续加大自然遗产保护力度。构建起完善的法治保障体系，持续优化保护路径，超80%的遗产地实施近自然修复，有效维护了生态系统的原真性和完整性。同时不断拓宽惠民渠道，发展生态旅游、自然研学、林下经济等绿色产业，推行社区共管，超过90%的遗产地优先聘用本地居民就业。\n下一步，国家林草局将把世界自然遗产纳入自然保护地监测范围，推进世界自然遗产与自然保护地协同保护发展。建立健全自然遗产保护管理体制机制，实现自然遗产规范化、高标准、高水平管理。在保护的基础上支持对遗产资源的合理利用，依托自然遗产优势资源，发展生态文化旅游、林下经济等特色产业。",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-13",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "世界自然遗产",
+    "生态保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家林草局",
+      "name_en": "National Forestry and Grassland Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界自然遗产",
+      "name_en": "World Natural Heritage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    }
+  ],
+  "tags_zh": [
+    "国家林草局",
+    "北京",
+    "世界自然遗产",
+    "生态保护"
+  ],
+  "tags_en": [
+    "National Forestry and Grassland Administration",
+    "Beijing",
+    "World Natural Heritage",
+    "Ecological Protection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家林草局",
+        "name_en": "National Forestry and Grassland Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260613-gov_cn_yaowen-3b5357",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

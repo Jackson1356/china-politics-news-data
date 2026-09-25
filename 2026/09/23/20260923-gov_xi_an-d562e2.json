@@ -1,0 +1,93 @@
+{
+  "id": "20260923-gov_xi_an-d562e2",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2102572875100774401.html",
+  "title_zh": "蒿慧杰会见京东集团战略执行委员会委员、京东产发集团首席执行官陈若煜一行",
+  "title_en": "Hao Huijie Meets JD Property CEO Chen Ruoyu and Delegation",
+  "summary_zh": "9月22日，西安市委书记蒿慧杰会见京东产发集团首席执行官陈若煜一行，双方表示将深化机器人产业、智慧物流、智慧园区等领域战略合作。",
+  "summary_en": "On Sept 22, Xi'an Party Secretary Hao Huijie met JD Property CEO Chen Ruoyu, with both sides pledging deeper cooperation in robotics, smart logistics and smart industrial parks.",
+  "body_zh": "9月22日，省委常委、市委书记蒿慧杰会见京东集团战略执行委员会委员、京东产发集团首席执行官陈若煜一行。\n蒿慧杰代表市委市政府对陈若煜一行表示欢迎。他说，京东集团是电子商务行业领军企业，社会形象好、员工保障好、发展前景好。京东产发作为其旗下重要平台，在产业基础设施建设、资产管理和产业综合服务等领域具有显著优势。西安是国家重要科研和文教中心、先进制造业基地、国际性综合交通枢纽城市，科教资源富集、产业体系完备、交通区位优势突出，当前正在加快建设国家中心城市和西安区域科技创新中心，双方合作前景广阔。希望深化战略伙伴关系，实现互利共赢发展。一是建立完善常态化工作推进机制，加大项目谋划、协调、推进力度，努力形成更多具有引领性、示范性和带动性的合作成果。二是重点推进机器人产业合作，完善上下游配套，共同推动机器人产业链群做大做强。三是深化智慧物流领域合作，积极布局智能仓储、智慧分拨、无人配送和供应链服务等项目，推动现代物流产业提质增效。四是共同推动智慧园区建设，提升数字化水平，开放更多应用场景，打造特色鲜明、功能完善、运营高效的智慧产业园区标杆。五是围绕智慧停车楼、京东MALL、工业品线上购销等领域加强合作，共同培育更多新的经济增长点。西安将持续优化营商环境，为企业提供优质服务和坚实保障。\n陈若煜感谢西安长期以来给予京东集团的支持和帮助。他说，西安营商环境优良、工业基础扎实、消费潜力巨大，是京东集团国内布局的战略重点。京东集团将坚定深耕西安、持续加码西安，充分发挥自身优势，积极拓展合作领域，推动更多优质项目在西安落地，更好助力西安经济社会高质量发展。\n市领导和文全、肖琦，有关市级部门和开发区负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "机器人产业",
+    "智慧物流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机器人产业",
+      "name_en": "Robotics Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧物流",
+      "name_en": "Smart Logistics"
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "西安",
+    "战略合作",
+    "机器人产业",
+    "智慧物流"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Xi'an",
+    "Strategic Cooperation",
+    "Robotics Industry",
+    "Smart Logistics"
+  ],
+  "entities": {
+    "politicians": [
+      "hao-huijie"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-gov_xi_an-d562e2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

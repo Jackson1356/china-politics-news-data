@@ -1,0 +1,105 @@
+{
+  "id": "20260807-gov_tong_hua-27c660",
+  "source": "gov_tong_hua",
+  "source_name_zh": "通化市政府网",
+  "source_name_en": "通化 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tong_hua",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.tonghua.gov.cn/zwgk/ldhd/sz/202608/t20260807_779733.html",
+  "title_zh": "通化市政府召开党组会议和常务会议",
+  "title_en": "Tonghua Municipal Government Holds Party Group and Executive Meetings",
+  "summary_zh": "8月6日，通化市市长高山主持召开市政府党组会议和常务会议，传达学习中央会议精神，研究长期护理保险等工作。",
+  "summary_en": "On August 6, Mayor Gao Shan of Tonghua chaired the municipal government party group and executive meetings to convey central directives and discuss long-term care insurance and other matters.",
+  "body_zh": "8月6日，市委副书记、市长高山主持召开市政府党组会议和常务会议，传达学习习近平总书记近期重要讲话和重要指示精神，以及7月30日中共中央政治局会议、全国基础教育工作会议、中央纪委国家监委群众身边不正之风和腐败问题集中整治工作调度会议、国家和全省扫黑除恶专项斗争会议精神，安排部署贯彻落实工作，研究讨论《通化市完善长期护理保险制度实施方案》。\n会议强调，要切实把思想和行动统一到党中央关于经济形势的科学判断和决策部署上来，在扩大内需上下功夫、在产业布局上求突破、在优化营商环境上见实效、在保障和改善民生上守底线，持续推动经济稳进提质。要全面践行人民城市理念，牢固树立和践行正确政绩观，聚焦群众“急难愁盼”精准发力，高质量推进城市更新和精细化治理。要加强风险隐患排查整治，抓好防汛减灾、地质灾害防治和高温天气安全生产，拧紧安全责任链条，全力保障人民群众生命财产安全。要全面贯彻党的教育方针，坚持五育并举、五育融合，以习近平新时代中国特色社会主义思想铸魂育人，大力弘扬教育家精神，健全师德师风建设，推动教育事业高质量发展。\n会议强调，要常态化整治群众身边不正之风和腐败问题，融入日常、抓在经常，保持定力、持续发力，找准问题多发点位、制度漏洞和监管盲区，狠抓问题整改，深化矛盾化解，强化群众监督，健全长效机制，推进源头治理，真正让群众感受到正风肃纪反腐就在身边、公平正义就在身边。\n会议要求，要深刻认识黑恶犯罪的顽固性、反复性、复杂性，时刻保持头脑清醒，科学制定工作方案，不断提高对新型黑恶犯罪的发现、打击、惩处能力，在依法严厉打击传统黑恶势力基础上，重点打击利用网络平台和“软暴力”手段有组织实施的黑恶犯罪，发动群众积极参与，以高度的政治责任感、使命感推动常态化扫黑除恶斗争持续走深走实。\n会议还研究了其他事项。（张书源）",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "party",
+  "keywords": [
+    "长期护理保险",
+    "扫黑除恶",
+    "基础教育",
+    "城市治理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-TH",
+      "name_zh": "通化",
+      "name_en": "Tonghua"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长期护理保险",
+      "name_en": "Long-term Care Insurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Crackdown on Gang Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础教育",
+      "name_en": "Basic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市治理",
+      "name_en": "Urban Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "通化",
+    "长期护理保险",
+    "扫黑除恶",
+    "基础教育",
+    "城市治理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Tonghua",
+    "Long-term Care Insurance",
+    "Crackdown on Gang Crime",
+    "Basic Education",
+    "Urban Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "高山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-TH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260807-gov_tong_hua-27c660",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

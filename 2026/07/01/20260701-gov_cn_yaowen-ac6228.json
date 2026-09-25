@@ -1,0 +1,88 @@
+{
+  "id": "20260701-gov_cn_yaowen-ac6228",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073852.htm",
+  "title_zh": "王毅会见下任联合国秘书长候选人埃斯皮诺萨",
+  "title_en": "Wang Yi Meets Candidate for Next UN Secretary-General Espinosa",
+  "summary_zh": "6月30日，外交部长王毅在京会见下任联合国秘书长候选人埃斯皮诺萨，双方就联合国改革及全球治理等议题进行交流。",
+  "summary_en": "On June 30, Foreign Minister Wang Yi met with UN Secretary-General candidate Espinosa in Beijing to discuss UN reform and global governance.",
+  "body_zh": "新华社北京6月30日电（记者马卓言）中共中央政治局委员、外交部长王毅30日在京会见下任联合国秘书长候选人、前联合国大会主席、厄瓜多尔前外长埃斯皮诺萨。\n埃斯皮诺萨表示，中国是国际舞台不可或缺的重要力量，我坚定奉行一个中国原则，支持习近平主席提出的四大全球倡议，愿同国际社会一道，为应对全人类共同挑战发挥更大作用。\n王毅表示，下任联合国秘书长选举关系到未来联合国改革发展走向，更关系到广大会员国切身利益。中国将以负责任态度参与选举进程，支持联合国更好发挥全球治理核心和主导作用。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "联合国秘书长选举",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国秘书长选举",
+      "name_en": "UN Secretary-General Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "北京",
+    "联合国秘书长选举",
+    "全球治理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beijing",
+    "UN Secretary-General Election",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260701-gov_cn_yaowen-ac6228",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

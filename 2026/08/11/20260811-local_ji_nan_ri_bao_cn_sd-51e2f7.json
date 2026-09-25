@@ -1,0 +1,118 @@
+{
+  "id": "20260811-local_ji_nan_ri_bao_cn_sd-51e2f7",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/content/2026-08-11/2026081100249.html",
+  "title_zh": "实干开新局｜新动能顶“梁”立柱",
+  "title_en": "New Momentum Supports the Economy in Practical Work for a New Chapter",
+  "summary_zh": "习近平总书记2026年多次就培育未来产业、发展新质生产力作出部署，上半年新动能对经济增长贡献率超四成。",
+  "summary_en": "In 2026, General Secretary Xi Jinping made multiple deployments on fostering future industries and developing new quality productive forces. In H1, new growth drivers contributed over 40% to economic growth.",
+  "body_zh": "实干开新局｜新动能顶“梁”立柱\n联播+ 2026年年初，习近平总书记就前瞻布局和发展未来产业主持中央政治局集体学习。他明确指出，培育发展未来产业“对于发展新质生产力、建设现代化产业体系”具有重要意义。\n“十五五”开局之年首次考察，总书记深入北京亦庄国家信创园察看人工智能、机器人等科技创新成果展示。在听取北京市委和市政府工作汇报时，他要求“强化科技创新和产业创新深度融合，大力发展新质生产力”。\n2026年全国两会期间，总书记为新时期经济社会发展指明四个“新”的方向，强调“发展新质生产力对于推动高质量发展、增强经济竞争力至关重要”。\n从顶层设计到一线调研再到战略部署，今年以来，总书记一次次为“十五五”时期新质生产力发展把脉定向。上半年，以高端制造、数字经济、现代服务为代表的新动能对经济增长的贡献率超过四成。科技创新这个“关键变量”正加速转化为我国经济高质量发展的“最大增量”。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "未来产业",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央政治局",
+      "name_en": "Political Bureau of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "未来产业",
+      "name_en": "Future Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央政治局",
+    "北京",
+    "新质生产力",
+    "未来产业",
+    "科技创新"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Political Bureau of the CPC Central Committee",
+    "Beijing",
+    "New Quality Productive Forces",
+    "Future Industries",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "方向"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央政治局",
+        "name_en": "Political Bureau of the CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260811-local_ji_nan_ri_bao_cn_sd-51e2f7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-08/11/content_23750663.htm",
+      "title_zh": "实干开新局｜新动能顶“梁”立柱",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

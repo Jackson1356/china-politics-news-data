@@ -1,0 +1,102 @@
+{
+  "id": "20260918-xinhua_tj-4dbc41",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20260918/b4478a9533cb42daa0ca1c974c8247c2/c.html",
+  "title_zh": "天津市政府召开第116次常务会议 张工主持",
+  "title_en": "Tianjin Municipal Government Holds 116th Executive Meeting Chaired by Zhang Gong",
+  "summary_zh": "9月17日下午，天津市市长张工主持召开市政府第116次常务会议，研究部署安全生产隐患排查整治、智慧城市建设“十五五”规划及多部地方性法规草案审议等工作。",
+  "summary_en": "On the afternoon of September 17, Tianjin Mayor Zhang Gong chaired the 116th executive meeting of the municipal government, deploying workplace safety hazard inspections and reviewing the smart city plan for the 15th Five-Year Plan period along with several draft local regulations.",
+  "body_zh": "9月17日下午，市长张工主持召开市政府第116次常务会议。\n会议学习贯彻习近平总书记对山东青岛市北海造船厂一货轮火灾事故作出的重要指示精神，落实市委常委会会议要求，研究部署下一步工作。会议强调，要时刻绷紧安全生产这根弦，深刻汲取事故教训，对全市船舶修造、码头检修、港口装卸、邮轮运营、临港产业等领域深入开展隐患排查整治，强化水上交通、港航服务等安全管理。要紧盯重点场所部位，对高层建筑、商业综合体、养老机构、旅游景区、老旧小区等，全面排查消防隐患，落实落细防范措施。要坚持“三管三必须”要求，压紧压实企业主体责任，严格监管执法，坚决防范重特大事故发生。要扎实做好中秋、国庆假期安全稳定各项工作，保障群众欢乐平安祥和过节。\n会议审议《天津市智慧城市建设“十五五”规划》。会议强调，建设智慧城市是深化“大城三管”、提升城市治理现代化水平的重要抓手。要完善顶层设计，加快建设一体化数据平台和城市智管中心，聚焦城市管理、民生服务、平安法治、经济活动等重点领域，远近结合、突出重点有序实施。要强化场景思维，突出管用、好用，加快打造一批标志性场景，提升终端服务质效。要强化组织统筹，完善调度机制，压实部门责任，细化年度任务，用好各类资源，守牢安全底线，不断提升城市治理智慧化精细化水平。\n会议审议了《天津市民族团结进步促进条例（草案）》、《天津市海洋经济高质量发展促进条例（草案）》、《天津市文商旅融合发展促进条例（草案）》、《天津市数据条例（草案）》、《天津市畜牧条例（修订草案）》，决定进一步修改完善后，提请市人大常委会会议审议。\n会议还研究了其他事项。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "economy",
+  "keywords": [
+    "安全生产",
+    "智慧城市建设",
+    "地方立法",
+    "城市治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧城市建设",
+      "name_en": "Smart City Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市治理",
+      "name_en": "Urban Governance"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "安全生产",
+    "智慧城市建设",
+    "地方立法",
+    "城市治理"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "Workplace Safety",
+    "Smart City Development",
+    "Local Legislation",
+    "Urban Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260918-xinhua_tj-4dbc41",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "20260725-gov_huai_an-883da9",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17828352/1784945068705EwoITiUq.html",
+  "title_zh": "省政府举行“人工智能+交通运输”路演会",
+  "title_en": "Jiangsu Holds 'AI + Transportation' Roadshow, Governor Liu Xiaotao Attends",
+  "summary_zh": "7月23日，江苏省政府举行“人工智能+交通运输”路演会，省长刘小涛出席并讲话，部署推进人工智能赋能交通发展。",
+  "summary_en": "On July 23, the Jiangsu Provincial Government held an 'AI + Transportation' roadshow, where Governor Liu Xiaotao attended and spoke, deploying AI-empowered transportation development.",
+  "body_zh": "省政府举行“人工智能+交通运输”路演会\n7月23日，省政府举行“人工智能+交通运输”路演会，深入学习贯彻习近平总书记关于发展人工智能的重要论述和对江苏工作重要讲话精神，集中展示人工智能赋能交通运输发展创新成果，全面促进人工智能科技创新、产业发展、场景应用，助推交通运输高质量发展和高水平安全。省长刘小涛出席并讲话。省委常委、常务副省长马欣提工作要求。\n现场，省交通运输厅解读《江苏省“人工智能+交通运输”实施方案》，发布首批服务商名录，介绍产业联盟相关情况。省交通运输厅、省公安厅、江苏海事局、江苏交控、满帮集团、魔门塔科技、九识智能、江苏航空产业集团，分别围绕运输审批、交通治理、水运智管、保通保畅、智慧物流、自动驾驶、低空管理进行演示。来自企业、科研院所和有关部门的专家代表现场点评。\n会议指出，要加快推动场景商业化应用，聚焦带动性强、开拓性强、紧迫性强的场景抓落地，提升公铁水空联运调度效率，打造智慧融合应用示范。要进一步夯实数字底座支撑，强化算力算法数据高效供给，打造高质量数据集、算法库、工具链，聚焦细分领域开发高水平行业模型。要持续发展壮大重点产业，加速产业链生态重构、促进产业规模化发展，梯度培育优质企业，加强关键核心技术攻关，强化政产学研对接。要强化全链条服务保障，提供精准政策支持，构建活力创投环境，大力引育复合型人才，加快健全人工智能创新应用和监管机制。要增强安全第一的意识，守牢安全底线，坚持务求实效，以新技术、新场景和商业闭环促进降低成本、提高效率、创造新模式，发展壮大新质生产力。\n副省长马士光主持，副省长胡彬郴，省政府秘书长赵建军，省有关部门单位、各设区市负责同志，有关企业、高校、科研机构负责人，分别在主会场、分会场参加。\n市领导顾坤、颜复，市政府秘书长马乃骏在淮安分会场参加活动。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": "2026-07-23",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "交通运输",
+    "产业升级"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "ma-xin-jiangsu",
+      "name_zh": "马欣",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "人工智能",
+    "交通运输",
+    "产业升级",
+    "顾坤",
+    "马欣"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Artificial Intelligence",
+    "Transportation",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      "ma-xin-jiangsu",
+      {
+        "id": null,
+        "name_zh": "马士光"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260725-gov_huai_an-883da9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

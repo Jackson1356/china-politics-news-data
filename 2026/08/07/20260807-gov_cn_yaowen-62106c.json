@@ -1,0 +1,104 @@
+{
+  "id": "20260807-gov_cn_yaowen-62106c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077680.htm",
+  "title_zh": "《民用航空发展“十五五”规划》发布",
+  "title_en": "Civil Aviation Development Plan for the 15th Five-Year Plan Period Released",
+  "summary_zh": "中国民航局8月7日发布《民用航空发展“十五五”规划》，提出到2030年民航安全、服务、基础设施迈向国际一流，并推进六大体系建设。",
+  "summary_en": "China's Civil Aviation Administration released the 15th Five-Year Plan for civil aviation development on August 7, aiming for world-class safety, services and infrastructure by 2030, with six major systems to be built.",
+  "body_zh": "新华社北京8月7日电（记者 王聿昊）中国民航局7日对外发布《民用航空发展“十五五”规划》，明确到2030年，民航行业安全水平、服务能力、基础设施率先迈向国际一流，技术创新、绿色低碳、治理能力实现重大突破性进展，服务国家重大战略、促进区域经济社会发展和满足人民美好航空出行需要更加有力。\n规划提出，“十五五”时期，民航行业将坚持智能化、绿色化、融合化方向，以安全发展为底线，以提质增效为主线，以改革创新为根本动力，确保推动民航实现质的有效提升和量的合理增长，确保安全、便捷、高效、绿色、经济的现代化民航体系建设取得决定性进展。\n围绕上述目标，民航行业将全力推进坚实可靠的航空安全保障体系、优质高效的航空运输服务体系、系统协同的基础设施体系、自主可控的创新支撑体系、可持续的绿色发展体系、规范有序的民航治理体系等六大体系建设。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "industry",
+  "keywords": [
+    "民航发展",
+    "十五五规划",
+    "现代化民航体系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国民航局",
+      "name_en": "Civil Aviation Administration of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民航发展",
+      "name_en": "Civil Aviation Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化民航体系",
+      "name_en": "Modern Civil Aviation System"
+    }
+  ],
+  "tags_zh": [
+    "中国民航局",
+    "北京",
+    "民航发展",
+    "十五五规划",
+    "现代化民航体系"
+  ],
+  "tags_en": [
+    "Civil Aviation Administration of China",
+    "Beijing",
+    "Civil Aviation Development",
+    "15th Five-Year Plan",
+    "Modern Civil Aviation System"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国民航局",
+        "name_en": "Civil Aviation Administration of China"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_cn_yaowen-62106c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260807/0499e41a6bb14132b5012ffc31e9b52a/c.html",
+      "title_zh": "《民用航空发展“十五五”规划》印发",
+      "published_at": "2026-08-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

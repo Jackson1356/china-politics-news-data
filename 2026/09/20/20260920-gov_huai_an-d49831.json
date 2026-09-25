@@ -1,0 +1,88 @@
+{
+  "id": "20260920-gov_huai_an-d49831",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17881920/1789859172422NzEDYAC8.html",
+  "title_zh": "市九届人大常委会第三十六次会议召开",
+  "title_en": "36th Meeting of the Standing Committee of the 9th Huai'an Municipal People's Congress Convened",
+  "summary_zh": "9月19日，淮安市九届人大常委会第三十六次会议召开，通过有关人事任免事项并举行宪法宣誓仪式。",
+  "summary_en": "On September 19, the 36th meeting of the Standing Committee of the 9th Huai'an Municipal People's Congress was held, passing personnel appointments and removals and holding a constitutional oath ceremony.",
+  "body_zh": "市九届人大常委会第三十六次会议召开\n9月19日，市九届人大常委会第三十六次会议召开。市委书记、市人大常委会党组书记顾坤，市人大常委会常务副主任、党组副书记周青，市人大常委会副主任范更生、王向红、贺宝祥、朱海波，秘书长江山参加会议。市委副书记、市政府党组书记杨新忠，市中级人民法院代理院长马杰，市人民检察院检察长周绪平列席会议。\n会议通过有关人事任免事项，举行宪法宣誓仪式。周青向被任命的同志颁发任命书。\n会议强调，要在市委的正确领导下，贯彻落实好即将召开的党代会各项决策部署，充分发挥人大职能作用，服务中心大局、依法履职尽责，推动我市各项事业迈上新台阶、实现新跨越，努力交出一份无愧于时代、无愧于组织、无愧于人民的满意答卷。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "人大工作",
+    "宪法宣誓"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宪法宣誓",
+      "name_en": "Constitutional Oath"
+    }
+  ],
+  "tags_zh": [
+    "淮安",
+    "人事任免",
+    "人大工作",
+    "宪法宣誓"
+  ],
+  "tags_en": [
+    "Huai'an",
+    "Personnel Appointment and Removal",
+    "People's Congress Work",
+    "Constitutional Oath"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260920-gov_huai_an-d49831",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

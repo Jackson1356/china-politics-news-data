@@ -1,0 +1,102 @@
+{
+  "id": "20260920-gov_cn_yaowen-3cb1f2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081583.htm",
+  "title_zh": "今年前8个月国家铁路发送货物26.9亿吨",
+  "title_en": "National Railway Freight Volume Hits 2.69 Billion Tons in First Eight Months of 2026",
+  "summary_zh": "9月20日，中国国家铁路集团发布数据，今年1至8月国家铁路累计发送货物26.9亿吨，其中煤炭13.89亿吨，中欧班列开行14842列。",
+  "summary_en": "On Sept 20, China State Railway Group reported national rail freight reached 2.69 billion tons in January-August 2026, including 1.389 billion tons of coal and 14,842 China-Europe train trips.",
+  "body_zh": "新华社北京9月20日电 记者20日从中国国家铁路集团有限公司获悉，今年1至8月，国家铁路累计发送货物26.9亿吨，日均装车18.74万车，持续保持高位运行，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑。\n今年以来，铁路部门充分发挥全国铁路一张网、运输集中统一调度指挥的优势，加大晋陕蒙新主产区煤炭外运力度，努力确保电煤运输应装尽装，全力支持各地迎峰度夏，1至8月份国家铁路发送煤炭13.89亿吨，其中电煤9.28亿吨，全国铁路直供电厂存煤均保持较高水平。\n与此同时，铁路部门对国计民生重点物资运输实行运力倾斜、优先保障，确保快速高效送达，1至8月份国家铁路粮食、化工、纺织品类货物运量同比分别增长9.9%、5.5%、21.7%。\n此外，中欧（亚）班列持续稳定开行。1至8月份中欧（亚）班列开行24605列，同比增长9.7%，其中中欧班列开行14842列，同比增长15.9%，中老铁路跨境货物列车和西部陆海新通道铁海联运班列保持稳定开行，为高质量共建“一带一路”和我国高水平对外开放提供了有力的运输保障。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路货运",
+    "物流保供",
+    "中欧班列",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路货运",
+      "name_en": "Railway Freight Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流保供",
+      "name_en": "Logistics Supply Guarantee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧班列",
+      "name_en": "China-Europe Railway Express"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "北京",
+    "铁路货运",
+    "物流保供",
+    "中欧班列",
+    "一带一路"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Beijing",
+    "Railway Freight Transport",
+    "Logistics Supply Guarantee",
+    "China-Europe Railway Express",
+    "Belt and Road Initiative"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260920-gov_cn_yaowen-3cb1f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

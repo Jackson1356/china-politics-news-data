@@ -1,0 +1,100 @@
+{
+  "id": "20260609-chinanews_gn-152900",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-09/10636840.shtml",
+  "title_zh": "习近平参访朝鲜劳动党中央干部学校",
+  "title_en": "Xi Jinping Visits Central Party School of the Workers' Party of Korea",
+  "summary_zh": "2026年6月9日上午，习近平在金正恩陪同下参访位于平壤的朝鲜劳动党中央干部学校。",
+  "summary_en": "On the morning of June 9, 2026, Xi Jinping visited the Central Party School of the Workers' Party of Korea in Pyongyang, accompanied by Kim Jong Un.",
+  "body_zh": "新华图讯丨习近平参访朝鲜劳动党中央干部学校\n当地时间6月9日上午，中共中央总书记、国家主席习近平在朝鲜劳动党总书记、国务委员长金正恩陪同下，参访位于平壤的朝鲜劳动党中央干部学校。\n国内新闻精选：\n- 2026年06月09日 13:25:16\n- 2026年06月09日 11:53:10\n- 2026年06月09日 11:04:41\n- 2026年06月09日 10:04:09\n- 2026年06月09日 09:39:37\n- 2026年06月08日 14:33:01\n- 2026年06月08日 13:14:49\n- 2026年06月08日 12:32:44\n- 2026年06月08日 11:26:24\n- 2026年06月08日 06:37:30",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交访问",
+    "中朝关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "平壤",
+      "name_en": "Pyongyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-North Korea Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "平壤",
+    "外交访问",
+    "中朝关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Pyongyang",
+    "Diplomatic Visit",
+    "China-North Korea Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-chinanews_gn-152900",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260609/51762e89714f48d89ac92f12dfb6fe00/c.html",
+      "title_zh": "习近平参访朝鲜劳动党中央干部学校",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260609/8a8903a9e5724e61900719fb061dca48/c.html",
+      "title_zh": "习近平和彭丽媛参谒中朝友谊塔",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-09/10636841.shtml",
+      "title_zh": "新华图讯丨习近平和彭丽媛参谒中朝友谊塔",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260707-cpcnews-10f4e9",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0707/c64094-40754771.html",
+  "title_zh": "习近平致电祝贺藤森庆子当选秘鲁总统",
+  "title_en": "Xi Jinping Sends Congratulatory Message to Keiko Fujimori on Election as President of Peru",
+  "summary_zh": "2026年7月6日，国家主席习近平致电祝贺藤森庆子当选秘鲁总统，愿同其共同引领中秘全面战略伙伴关系迈上新台阶。",
+  "summary_en": "On July 6, 2026, President Xi Jinping sent a congratulatory message to Keiko Fujimori on her election as President of Peru, seeking to elevate the China-Peru comprehensive strategic partnership.",
+  "body_zh": "新华社北京7月6日电 7月6日，国家主席习近平致电藤森庆子，祝贺她当选秘鲁共和国总统。\n习近平指出，中国和秘鲁是全面战略伙伴，两国关系保持良好发展势头。双方高层交往频繁，各领域务实合作成果丰硕，人民友好深入人心。今年是中秘建交55周年。我高度重视中秘关系发展，愿同藤森庆子当选总统一道努力，赓续两国传统友谊，引领中秘全面战略伙伴关系不断迈上新台阶，更好造福两国人民。\n同日，国家副主席韩正向秘鲁当选第一副总统加拉雷塔致贺电。\n《 人民日报 》（ 2026年07月07日 01 版）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "中秘关系",
+    "全面战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "藤森庆子",
+      "name_en": "Keiko Fujimori"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "秘鲁",
+      "name_en": "Peru"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中秘关系",
+      "name_en": "China-Peru Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "藤森庆子",
+    "北京",
+    "秘鲁",
+    "中秘关系",
+    "全面战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Keiko Fujimori",
+    "Beijing",
+    "Peru",
+    "China-Peru Relations",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260706-qiushi-600788",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

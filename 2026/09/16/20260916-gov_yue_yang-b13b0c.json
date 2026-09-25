@@ -1,0 +1,113 @@
+{
+  "id": "20260916-gov_yue_yang-b13b0c",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2401323.html",
+  "title_zh": "岳阳市九届人大常委会举行第四十一次会议",
+  "title_en": "Yueyang Municipal People's Congress Standing Committee Holds 41st Meeting",
+  "summary_zh": "9月15日，岳阳市九届人大常委会举行第四十一次会议，听取审议国防动员法等执法检查报告，审议城市二次供水管理条例议案，评议多个部门工作并表决通过人事事项。",
+  "summary_en": "On Sept 15, Yueyang's municipal people's congress standing committee held its 41st meeting, reviewing law enforcement inspection reports, a water supply regulation, and personnel appointments.",
+  "body_zh": "9月15日，市九届人大常委会举行第四十一次会议。市人大常委会副主任喻文主持，副主任张中于、王文华、李勇、曾平原、廖星辉，秘书长王亚丹出席。市人民政府副市长陈阁辉、张世愚，市人民检察院党组书记周伟任列席。\n会议听取和审议了市人大常委会执法检查组关于检查《中华人民共和国国防动员法》《中华人民共和国军事设施保护法》实施情况的报告，市人民政府关于提请审议《岳阳市城市二次供水管理条例》的议案，市人民政府关于贯彻落实《湖南省人民代表大会常务委员会关于加强农业小型水利设施建设和管护的决定》情况的报告。\n会议评议了市卫健委医疗机构检查检验结果互认、市住建局中心城区二次供水管理、市林业局自然保护地整合优化和调规工作，审议并表决通过了市人民政府关于《市人大常委会执法检查组检查〈中国（湖南）自由贸易试验区条例〉实施情况报告的审议意见》研究处理情况的报告，市人民政府关于《市人大常委会执法检查组检查职业教育“一法一条例”实施情况报告的审议意见》研究处理情况的报告，市人民政府关于《市人大常委会执法检查组检查2025年大气污染防治“一法两条例一规定”实施情况报告的审议意见》研究处理情况的报告。\n会议还表决通过了有关人事事项，并举行了宪法宣誓仪式。\n会前还召开了市九届人大常委会第89次主任会议。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "party",
+  "keywords": [
+    "人大监督",
+    "地方立法",
+    "执法检查",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "执法检查",
+      "name_en": "Law Enforcement Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "person",
+      "id": "zhou-wei-changzhou",
+      "name_zh": "周伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "岳阳",
+    "人大监督",
+    "地方立法",
+    "执法检查",
+    "人事任免",
+    "周伟"
+  ],
+  "tags_en": [
+    "Yueyang",
+    "People's Congress Oversight",
+    "Local Legislation",
+    "Law Enforcement Inspection",
+    "Personnel Appointments"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-wei-changzhou",
+      {
+        "id": null,
+        "name_zh": "王亚丹"
+      },
+      {
+        "id": null,
+        "name_zh": "任喻文"
+      },
+      {
+        "id": null,
+        "name_zh": "于提请"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260916-gov_yue_yang-b13b0c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

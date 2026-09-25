@@ -1,0 +1,83 @@
+{
+  "id": "20260623-xinhua_politics-25d36b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260623/320079b9b7e44dffb36095d500174ba8/c.html",
+  "title_zh": "北方首个国家级船员评估中心启用",
+  "title_en": "First National-Level Seafarer Assessment Center in Northern China Opens",
+  "summary_zh": "2026年6月23日，我国北方首个国家级船员评估中心——天津海事局船员评估中心在天津启用，旨在提升国际航运软实力并助力船员队伍高质量发展。",
+  "summary_en": "On June 23, 2026, the Tianjin Maritime Safety Administration Seafarer Assessment Center, the first national-level center of its kind in Northern China, was opened in Tianjin to enhance international shipping capabilities.",
+  "body_zh": "新华社天津6月23日电（记者包庆龄）6月23日，我国北方首个国家级船员评估中心——天津海事局船员评估中心启用，对于提升国际航运软实力、助力我国船员队伍高质量发展具有重要意义。\n据了解，天津海事局船员评估中心配备360°全景航海模拟器、自动化机舱、超大型油轮模拟器、双燃料轮机模拟器等国际先进软硬件设施，共建设驾驶、轮机和船舶电子电气专业三大类17个综合评估室和280个机考机位。\n作为北方首个国家级船员评估中心，该中心实现了电子海图、航次计划、航线设计等8个主要科目的智能评估。如实物仿真自动化机舱通过软硬件深度协同，提前预设1000多个故障点位，并通过模块化考核的实操排故流程，实现对考生故障诊断与排除能力的精准评估。\n为确保考试评估结果公平公正、科学权威，天津海事局船员评估中心充分运用智能化技术手段，减少人为干预因素，切实维护船员考试公平公正的根本底线。据介绍，该中心创新搭建了航海仪器智能评估系统、电子海图智能评估系统、货物积载与系固智能评估系统等，全程跟踪记录船员操作行为并自动客观生成评分结果，在提高评估效率的同时避免人工评分的主观偏差。\n据了解，该中心的评估场景不仅涵盖散货船、集装箱船等常规船型，还创新引入了LNG、LPG、双燃料等新能源船型，为未来特种船舶考试评估做好布局。\n天津海事局船员处处长、二级巡视员李智青说：“我们考虑今后船舶发展专业化、大型化的趋势，不仅配置了可预见的船员培训和评估项目，还预留了相关软件及船模研发平台接口，可以精准对接航运发展需求，为新型船舶培养和储备船员人才。”",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "industry",
+  "keywords": [
+    "航运业",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "天津海事局",
+      "name_en": "Tianjin Maritime Safety Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航运业",
+      "name_en": "Shipping Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Cultivation"
+    }
+  ],
+  "tags_zh": [
+    "天津海事局",
+    "天津",
+    "航运业",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Tianjin Maritime Safety Administration",
+    "Tianjin",
+    "Shipping Industry",
+    "Talent Cultivation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "天津海事局",
+        "name_en": "Tianjin Maritime Safety Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260623-xinhua_politics-25d36b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

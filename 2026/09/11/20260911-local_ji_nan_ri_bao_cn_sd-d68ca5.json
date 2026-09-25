@@ -1,0 +1,105 @@
+{
+  "id": "20260911-local_ji_nan_ri_bao_cn_sd-d68ca5",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-09-11/2026091100037.html",
+  "title_zh": "市委常委会召开会议 学习贯彻习近平总书记重要指示重要文章精神 研究绿色低碳高质量发展等事项",
+  "title_en": "Jinan Municipal Party Committee Standing Committee Meets to Study Xi Jinping's Important Instructions and Green Low-Carbon High-Quality Development",
+  "summary_zh": "济南市委常委会召开会议，学习贯彻习近平总书记重要指示重要文章精神，研究绿色低碳高质量发展、党的创新理论学习传播和群团工作等事项，市委书记刘强主持会议并讲话。",
+  "summary_en": "Jinan's Party Standing Committee met to study Xi Jinping's instructions, green low-carbon development, Party theory promotion and mass organization work; Party Secretary Liu Qiang presided.",
+  "body_zh": "市委常委会召开会议 学习贯彻习近平总书记重要指示重要文章精神 研究绿色低碳高质量发展等事项\n市委书记刘强主持会议并讲话。\n会议指出，各级各部门要深入学习贯彻习近平总书记重要指示、重要文章精神，把加强教师队伍建设摆在教育强市建设的突出位置，落实好立德树人根本任务，涵养高尚师德师风，打造高素质专业化教师队伍，营造尊师重教浓厚氛围。要进一步明确管党治党政治责任，层层推动落实，强化责任追究，细化实化举措，不断推动全面从严治党向纵深推进。\n会议研究了《2025年度济南市绿色低碳高质量发展统计监测报告》，强调要紧盯短板弱项，深挖问题根源，采取有效措施，拉高标杆、唯旗是夺，促进全市绿色低碳高质量发展取得新突破。\n会议审议了《关于加强党的创新理论学习研究传播的实施方案》，指出要强化理论武装，紧扣全市经济社会发展重大事项和重点任务，挖掘鲜活素材、提炼实践经验，推出更多理论研究精品力作，丰富传播渠道手段，提升互联网时代主流意识形态引领力，推动党的创新理论在济南落地生根。\n会议听取了上半年全市群团工作情况的汇报，强调要继续走好中国特色社会主义群团发展道路，强化政治引领，延伸服务触角，深化改革创新，更好融入和服务强省会建设，推动全市群团工作再上新水平。\n会议还研究了其他事项。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "party",
+  "keywords": [
+    "绿色低碳高质量发展",
+    "全面从严治党",
+    "党的创新理论",
+    "群团工作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳高质量发展",
+      "name_en": "Green Low-Carbon High-Quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的创新理论",
+      "name_en": "Party Innovation Theory"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群团工作",
+      "name_en": "Mass Organization Work"
+    }
+  ],
+  "tags_zh": [
+    "济南",
+    "绿色低碳高质量发展",
+    "全面从严治党",
+    "党的创新理论",
+    "群团工作"
+  ],
+  "tags_en": [
+    "Jinan",
+    "Green Low-Carbon High-Quality Development",
+    "Full and Rigorous Party Governance",
+    "Party Innovation Theory",
+    "Mass Organization Work"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260911-local_ji_nan_ri_bao_cn_sd-d68ca5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_c66174995b014c038ff17e8b7bd29577.html",
+      "title_zh": "市委常委会召开会议 学习贯彻习近平总书记重要指示重要文章精神 研究绿色低碳高质量发展等事项",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

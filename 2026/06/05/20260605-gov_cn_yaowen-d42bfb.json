@@ -1,0 +1,78 @@
+{
+  "id": "20260605-gov_cn_yaowen-d42bfb",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/05/VIDEVCVNgjQtGSF48I62iMBA260605.shtml",
+  "title_zh": "习近平将对朝鲜民主主义人民共和国进行国事访问",
+  "title_en": "Xi Jinping to Pay State Visit to the Democratic People's Republic of Korea",
+  "summary_zh": "应金正恩邀请，中共中央总书记、国家主席习近平将于6月8日至9日对朝鲜民主主义人民共和国进行国事访问。",
+  "summary_en": "At the invitation of Kim Jong Un, President Xi Jinping will pay a state visit to the Democratic People's Republic of Korea from June 8 to 9.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：应朝鲜劳动党总书记、朝鲜民主主义人民共和国国务委员长金正恩邀请，中共中央总书记、中华人民共和国主席习近平将于6月8日至9日对朝鲜民主主义人民共和国进行国事访问。\n[视频]习近平将对朝鲜民主主义人民共和国进行国事访问\n简介\n视频简介习近平将对朝鲜民主主义人民共和国进行国事访问。\n主要内容",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜民主主义人民共和国",
+      "name_en": "Democratic People's Republic of Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "朝鲜民主主义人民共和国",
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Democratic People's Republic of Korea",
+    "State Visit",
+    "China-DPRK Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260605-gov_cn_yaowen-d42bfb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

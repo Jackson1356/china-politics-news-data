@@ -1,0 +1,118 @@
+{
+  "id": "20260728-gov_cn_yaowen-11fccd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076822.htm",
+  "title_zh": "何立峰出席2026年亚太经合组织林业部长级会议开幕式并致辞",
+  "title_en": "He Lifeng Attends and Addresses 2026 APEC Ministerial Meeting on Forestry",
+  "summary_zh": "中共中央政治局委员、国务院副总理何立峰28日在深圳出席2026年亚太经合组织林业部长级会议开幕式并致辞。",
+  "summary_en": "Chinese Vice Premier He Lifeng attended and addressed the opening ceremony of the 2026 APEC Ministerial Meeting on Forestry in Shenzhen on July 28.",
+  "body_zh": "新华社深圳7月28日电 中共中央政治局委员、国务院副总理何立峰28日在深圳出席2026年亚太经合组织林业部长级会议开幕式并致辞。\n何立峰指出，进入新时代以来，在习近平生态文明思想科学指引下，中国生态文明建设从认识到实践都发生了历史性、转折性、全局性变化，在创造经济快速发展、社会长期稳定这两大奇迹的同时，走出了一条人与自然和谐共生的中国式现代化道路。林业是生态文明建设的主要载体。中国始终把林业发展摆在突出位置，作出全面谋划和系统部署，统筹推进高水平保护和高质量发展，取得了一系列重大成就。\n何立峰强调，亚太是全球森林资源最富集、生态系统类型最多样的地区之一，森林面积占全球一半以上。中国始终致力于维护全球生态安全，传播生态文化和绿色理念，为亚太地区乃至全球生态文明建设贡献了中国智慧、中国方案。在各方共同努力下，亚太地区成为扭转全球森林资源下降趋势的主要力量。\n何立峰指出，面对当前亚太地区生态形势，中国将继续办好自己的事，深入践行习近平生态文明思想，加快经济社会发展全面绿色转型。中国愿同各方一道携手并进、合作共赢，共同推动亚太地区林业高质量发展，共同书写绿色亚太发展新篇章。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "生态文明建设",
+    "林业发展",
+    "亚太合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明建设",
+      "name_en": "Ecological Civilization Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "林业发展",
+      "name_en": "Forestry Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "深圳",
+    "生态文明建设",
+    "林业发展",
+    "亚太合作"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "Shenzhen",
+    "Ecological Civilization Construction",
+    "Forestry Development",
+    "Asia-Pacific Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260728-gov_cn_yaowen-11fccd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076822.htm",
+      "title_zh": "何立峰出席2026年亚太经合组织林业部长级会议开幕式并致辞",
+      "published_at": "2026-07-28T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0729/c64094-40769987.html",
+      "title_zh": "何立峰出席2026年亚太经合组织林业部长级会议开幕式并致辞",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260924-gov_wu_hu-0b158a",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41336866.html",
+  "title_zh": "芜湖市委十一届十二次全会召开 决定市第十二次党代会9月27日召开",
+  "title_en": "Wuhu Municipal Party Committee Holds 12th Plenary Session, Sets 12th Party Congress for Sept 27",
+  "summary_zh": "9月23日，中共芜湖市第十一届委员会第十二次全体会议举行，市委书记徐志讲话。全会审议通过市委、市纪委工作报告，决定市第十二次党代会于9月27日召开。",
+  "summary_en": "On Sept 23, the 12th plenary session of the 11th Wuhu Municipal Party Committee was held with Party Secretary Xu Zhi speaking. It approved work reports and set the city's 12th Party Congress for Sept 27.",
+  "body_zh": "市委十一届十二次全会召开\n本报讯（通讯员 吴正言）中国共产党芜湖市第十一届委员会第十二次全体会议于9月23日举行。出席这次全会的有，市委委员34人，市委候补委员3人。全会由市委常委会主持。市委书记徐志讲话。市委副书记、代市长陈东，市人大常委会主任张峰，市政协主席张东，市委副书记汪冬出席会议。\n全会审议通过了十一届市委报告、十一届市纪委工作报告，决定将这两个报告提请市第十二次党代会审查；通过了芜湖市出席安徽省第十二次党代会代表候选人预备人选名单，提交市第十二次党代会酝酿选举；审议通过了《中国共产党芜湖市第十一届委员会第十二次全体会议决议》，决定市第十二次党代会于2026年9月27日召开。\n全会认为，市第十一次党代会以来，在党中央及省委的坚强领导下，十一届市委坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，认真落实习近平总书记考察安徽重要讲话精神，牢固树立和践行正确政绩观，真抓实干、开拓进取，创先争优、勇挑大梁，省域副中心建设迈出坚实步伐，胜利完成市第十一次党代会确定的目标任务。\n全会强调，即将召开的市第十二次党代会，是在全市上下满怀信心奋进“十五五”、阔步新征程的关键时期，召开的一次十分重要的大会。全市各级各部门要站在政治的全局的高度，深刻认识开好这次党代会的重要意义，全面把握芜湖发展所处的历史方位和肩负的职责使命，全力以赴做好相关工作，确保党代会顺利召开、圆满成功。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "芜湖",
+    "党代会",
+    "党的建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wuhu",
+    "Party Congress",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260924-gov_wu_hu-0b158a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

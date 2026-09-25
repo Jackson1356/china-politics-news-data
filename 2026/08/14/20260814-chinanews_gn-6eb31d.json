@@ -1,0 +1,96 @@
+{
+  "id": "20260814-chinanews_gn-6eb31d",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-14/10677690.shtml",
+  "title_zh": "甘肃省委常委、副省长程晓波接受审查调查",
+  "title_en": "Gansu Vice Governor Cheng Xiaobo Under Investigation",
+  "summary_zh": "甘肃省委常委、副省长程晓波涉嫌严重违纪违法，主动投案，正接受中央纪委国家监委纪律审查和监察调查。",
+  "summary_en": "Cheng Xiaobo, member of the Gansu Provincial Party Committee Standing Committee and vice governor, voluntarily surrendered and is under disciplinary review for suspected serious violations of party discipline and law.",
+  "body_zh": "甘肃省委常委、副省长程晓波接受审查调查\n中新网8月14日电 据中央纪委国家监委网站消息，甘肃省委常委、副省长程晓波涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委纪律审查和监察调查。\n国内新闻精选：\n- 2026年08月14日 18:36:50\n- 2026年08月14日 16:53:39\n- 2026年08月14日 16:18:09\n- 2026年08月14日 14:18:40\n- 2026年08月14日 14:18:36\n- 2026年08月14日 11:07:06\n- 2026年08月14日 08:40:16\n- 2026年08月14日 07:25:11\n- 2026年08月13日 21:58:04\n- 2026年08月13日 21:53:25",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cheng-xiaobo",
+      "name_zh": "程晓波",
+      "name_en": "Cheng Xiaobo"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "程晓波",
+    "中央纪委国家监委",
+    "甘肃",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Cheng Xiaobo",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Gansu",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [
+      "cheng-xiaobo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260814-chinanews_gn-6eb31d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677751.shtml",
+      "title_zh": "甘肃省副省长程晓波被查 系主动投案",
+      "published_at": "2026-08-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260903-qiushi-4449aa",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260903/9a0a8599c81343a39e62e6d373d2a88c/c.html",
+  "title_zh": "第六次中国城乡老年人生活状况抽样调查启动",
+  "title_en": "Sixth National Sample Survey on Living Conditions of Urban and Rural Elderly Launched",
+  "summary_zh": "民政部等五部门近日联合印发通知，启动第六次中国城乡老年人生活状况抽样调查，调查对象为60周岁及以上老年人及社区，样本量33万人。",
+  "summary_en": "Five ministries including the Ministry of Civil Affairs jointly issued a notice to launch the sixth national sample survey on living conditions of urban and rural elderly, covering seniors aged 60+ and their communities, with a sample size of 330,000.",
+  "body_zh": "新华社北京9月2日电（记者朱高祥）记者9月2日从民政部获悉，民政部等五部门近日联合印发通知，决定组织开展第六次中国城乡老年人生活状况抽样调查，旨在为深入实施积极应对人口老龄化国家战略，完善相关法律、法规和政策，提供基础数据保障。\n本次调查对象分为老年人和老年人所在社区（村）。其中，老年人为截至2026年9月1日零时年满60周岁及以上的中国公民。调查范围为全国31个省（区、市）及新疆生产建设兵团；调查设计样本量为33万人，总抽样比约为千分之一。\n调查内容包括老年人的基本情况、家庭成员信息、健康医疗状况、照料护理服务状况、经济状况、宜居环境状况、社会参与状况、维权状况、精神文化生活状况等；老年人所在社区（村）的地理与人口状况，基础设施和活动场所，健康与养老服务体系建设，老年精神文化、教育与社会参与体系建设等。\n网站编辑 -\n闫一涵\n张盼 审核 - 于波",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "welfare",
+  "keywords": [
+    "人口老龄化",
+    "老年人福利"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人口老龄化",
+      "name_en": "Population Aging"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老年人福利",
+      "name_en": "Elderly Welfare"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "北京",
+    "人口老龄化",
+    "老年人福利"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Beijing",
+    "Population Aging",
+    "Elderly Welfare"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260903-qiushi-4449aa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0903/c352664-41685286.html",
+      "title_zh": "第六次中国城乡老年人生活状况抽样调查启动",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0903/c351638-41685228.html",
+      "title_zh": "第六次中国城乡老年人生活状况抽样调查启动",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0903/c378440-41685201.html",
+      "title_zh": "第六次中国城乡老年人生活状况抽样调查启动",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

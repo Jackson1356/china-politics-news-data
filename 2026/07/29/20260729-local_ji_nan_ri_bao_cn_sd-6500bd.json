@@ -1,0 +1,120 @@
+{
+  "id": "20260729-local_ji_nan_ri_bao_cn_sd-6500bd",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-07-29/2026072900044.html",
+  "title_zh": "刘强于海田会见中国东方电气集团客人",
+  "title_en": "Liu Qiang and Yu Haitian Meet with China Dongfang Electric Group Delegation",
+  "summary_zh": "7月28日，济南市委书记刘强、市长于海田会见中国东方电气集团董事长罗乾宜，双方围绕能源合作交换意见。",
+  "summary_en": "On July 28, Jinan Party Secretary Liu Qiang and Mayor Yu Haitian met with Luo Qianyi, Chairman of China Dongfang Electric Group, exchanging views on energy cooperation.",
+  "body_zh": "本报7月28日讯 今天，市委书记刘强，市委副书记、市长于海田在龙奥大厦会见了中国东方电气集团党组书记、董事长罗乾宜一行。 刘强、罗乾宜分别介绍了济南市、中国东方电气集团发展情况，围绕“十五五”时期新型储能、新能源装备、新型电力系统等领域项目合作交换了意见。双方表示，将进一步密切良好合作关系，积极推进能源重大项目谋划建设，持续拓展合作领域，以更大力度促进能源转型，携手实现互利共赢，为绿色低碳高质量发展作出更大贡献。 市领导韩伟、杨丽，市政府秘书长续明参加。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "industry",
+  "keywords": [
+    "能源合作",
+    "新型储能",
+    "新能源装备"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "于海田",
+      "name_en": "Yu Haitian"
+    },
+    {
+      "kind": "institution",
+      "id": "DONGFANG-ELEC",
+      "name_zh": "中国东方电气集团",
+      "name_en": "China Dongfang Electric Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型储能",
+      "name_en": "New Energy Storage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源装备",
+      "name_en": "New Energy Equipment"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "于海田",
+    "中国东方电气集团",
+    "济南",
+    "能源合作",
+    "新型储能",
+    "新能源装备"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Yu Haitian",
+    "China Dongfang Electric Group",
+    "Jinan",
+    "Energy Cooperation",
+    "New Energy Storage",
+    "New Energy Equipment"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong"
+    ],
+    "institutions": [
+      "DONGFANG-ELEC"
+    ],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260729-local_ji_nan_ri_bao_cn_sd-6500bd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_c70732d8b58e46ad839dab17d36bf514.html",
+      "title_zh": "刘强于海田会见中国东方电气集团客人",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

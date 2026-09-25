@@ -1,0 +1,118 @@
+{
+  "id": "20260925-chinanews_gn-2a6901",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-25/10703631.shtml",
+  "title_zh": "韩正会见塞尔维亚总统武契奇",
+  "title_en": "Han Zheng Meets Serbian President Vucic",
+  "summary_zh": "当地时间9月24日，中国国家副主席韩正在纽约出席联合国大会期间会见塞尔维亚总统武契奇，双方表示将深化各领域务实合作。",
+  "summary_en": "On September 24 local time, Chinese Vice President Han Zheng met with Serbian President Aleksandar Vucic in New York during the UN General Assembly, with both sides pledging to deepen practical cooperation.",
+  "body_zh": "韩正会见塞尔维亚总统武契奇\n中新社纽约9月24日电 当地时间9月24日，中国国家副主席韩正在纽约出席联合国大会期间会见塞尔维亚总统武契奇。\n韩正向武契奇转达习近平主席的亲切问候和良好祝愿。韩正表示，长期以来，中国和塞尔维亚在国际形势复杂动荡中同舟共济，树立了国与国之间友好交往的典范。总统先生是中国人民的老朋友、好朋友，长期致力于中塞关系发展，亲自推动各领域务实合作。在习近平主席和总统先生的战略引领下，中塞关系提升到全新高度。中方愿同塞方一道，发扬传统友谊，拓展各领域合作，推动中塞关系不断迈上新台阶。\n武契奇请韩正转达对习近平主席的诚挚问候和崇高敬意，表示由衷钦佩中国在习近平主席领导下取得的伟大发展成就，感谢中方对塞国家建设的大力支持和帮助。中国是塞尔维亚真正的朋友。塞方愿同中方不断深化各领域务实合作，更好惠及两国人民。(完)\n国内新闻精选：\n- 2026年09月24日 20:37:35\n- 2026年09月24日 00:12:16\n- 2026年09月23日 16:03:38\n- 2026年09月23日 15:09:48\n- 2026年09月23日 14:41:56\n- 2026年09月23日 14:21:17\n- 2026年09月23日 13:59:53\n- 2026年09月23日 13:58:33\n- 2026年09月23日 13:41:24\n- 2026年09月23日 13:05:27",
+  "image_url": null,
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "武契奇",
+      "name_en": "Aleksandar Vucic"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "纽约",
+      "name_en": "New York"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "塞尔维亚",
+      "name_en": "Serbia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Serbia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "武契奇",
+    "纽约",
+    "塞尔维亚",
+    "中塞关系",
+    "务实合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Aleksandar Vucic",
+    "New York",
+    "Serbia",
+    "China-Serbia Relations",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng",
+      {
+        "id": null,
+        "name_zh": "武契奇"
+      },
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260925-chinanews_gn-2a6901",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703633.shtml",
+      "title_zh": "韩正会见保加利亚总统约托娃",
+      "published_at": "2026-09-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

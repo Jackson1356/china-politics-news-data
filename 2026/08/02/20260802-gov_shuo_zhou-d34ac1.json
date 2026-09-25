@@ -1,0 +1,100 @@
+{
+  "id": "20260802-gov_shuo_zhou-d34ac1",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202608/t20260802_781418.shtml",
+  "title_zh": "朔州市委召开议军会议研究部署党管武装工作",
+  "title_en": "Shuozhou Municipal Party Committee Holds Military Affairs Meeting",
+  "summary_zh": "7月30日，朔州市委召开议军会议，传达学习习近平总书记关于国防和军队建设的重要讲话重要指示精神，研究部署党管武装工作。市委书记王帅红主持并讲话。",
+  "summary_en": "On July 30, the Shuozhou Municipal Party Committee held a military affairs meeting to convey and study General Secretary Xi Jinping's important speech on national defense and military building, and to deploy party-led armed forces work. Wang Shuaihong, municipal party chief, presided and spoke.",
+  "body_zh": "7月30日，市委召开议军会议，传达学习习近平总书记关于国防和军队建设的重要讲话重要指示精神及省军区相关会议精神，研究部署党管武装工作。市委书记、朔州军分区党委第一书记王帅红主持并讲话。市委副书记、市长、市国防动员委员会主任吴秀玲，市政协主席张立新，市委常委、朔州军分区政委马杰，市领导高喜全、彭雁、任增强、杨波、苏明、张祥出席。\n会议指出，去年市委议军会议以来，全市军地各级全面贯彻落实党中央、中央军委决策部署及省委、省军区工作要求，各项工作取得新成效，为全市经济发展和社会稳定作出了重要贡献。\n会议强调，今年是“十五五”开局之年，也是打好实现建军一百年奋斗目标攻坚战的关键一年。全市军地各级要坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平强军思想，坚决贯彻党管武装原则，进一步提高认识、压实责任，细化举措、推动落实，不断开创全市国防动员和人民武装工作新局面。要把“建设打仗型国防动员”作为贯彻习近平强军思想的检验标准，建强民兵力量、强化动员质效、夯实基础支撑，推动国防动员和后备力量建设高质量发展。要把全民国防教育摆上重要议程，扎实推进国防教育进机关、进学校、进企业、进社区、进乡村、进军营、进网络，在全社会营造关心国防、热爱国防、建设国防、保卫国防的浓厚氛围。要持续擦亮朔州“全国双拥模范城”这一金字招牌，用心用情用力解决好官兵后顾之忧，扎实做好退役军人服务保障工作，不断巩固发展军政军民团结良好局面，加快推进我市国防动员和人民武装工作高质量发展，为如期实现建军一百年奋斗目标贡献朔州力量。\n（文/图 刘晓广 赵娟娟 薛礼伟）",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "党管武装",
+    "国防动员",
+    "双拥工作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党管武装",
+      "name_en": "Party Leadership over Armed Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防动员",
+      "name_en": "National Defense Mobilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Support for Military and Veteran Affairs"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "党管武装",
+    "国防动员",
+    "双拥工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Party Leadership over Armed Forces",
+    "National Defense Mobilization",
+    "Support for Military and Veteran Affairs"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "张祥"
+      },
+      {
+        "id": null,
+        "name_zh": "王帅红"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260802-gov_shuo_zhou-d34ac1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

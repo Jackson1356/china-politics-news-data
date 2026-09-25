@@ -1,0 +1,109 @@
+{
+  "id": "20260923-gov_long_yan-fa6abf",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260923_2314854.htm",
+  "title_zh": "龙岩市公安机关“岩盾”立体巡防体系启动",
+  "title_en": "Longyan Police Launch \"Yandun\" Three-Dimensional Patrol System",
+  "summary_zh": "9月22日上午，龙岩市公安局举行“岩盾”立体巡防体系建设启动仪式，市委常委、政法委书记邱开养和副市长、市公安局局长戴伟荣出席，该体系正式投入运行。",
+  "summary_en": "On the morning of September 22, the Longyan Public Security Bureau launched its \"Yandun\" three-dimensional patrol system, with municipal officials Qiu Kaiyang and Dai Weirong attending the ceremony.",
+  "body_zh": "为深入学习贯彻习近平总书记给福建省“漳州110”全体队员的重要回信精神，推进社会治安整体防控体系和能力现代化，9月22日上午，龙岩市公安局举行“岩盾”立体巡防体系建设启动仪式。市委常委、政法委书记邱开养，副市长、市公安局局长戴伟荣出席仪式。\n龙岩公安持续健全完善“专业+机制+大数据”新型警务运行模式，坚持科技赋能，创新建立“岩盾”立体巡防体系，依托“全资源汇聚、全手段集成、全过程支撑”的智慧警务中台，以智慧警车、无人机等新技术装备作为新质战斗力的增长点，构建“一键发起、数据支撑、中台盯办、空地一体、协同作战”的立体巡防新格局，真正实现“一警牵动全局、全局支撑一警”，使出警更快、处置更准、防控更牢、服务更优。\n仪式现场，《岩盾·守护》专题短片系统呈现立体巡防处置体系建设脉络与实战价值；女子铁骑分队首次亮相、交通警务展演、巡特警战术展示依次开展，充分展现龙岩公安过硬实战能力和昂扬奋进的队伍形象。\n活动现场还为新罗公安分局巡特警反恐大队授予“‘岩盾’巡防”队旗。随着现场无人机编队凌空列阵，街面治安骑巡车队鸣笛集结、分批驶出会场，“岩盾”立体巡防体系正式投入运行。与此同时，全市公安机关同步启动“龙威”之“清源”集中统一行动。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "社会治安防控",
+    "智慧警务",
+    "平安建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "龙岩市公安局",
+      "name_en": "Longyan Public Security Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会治安防控",
+      "name_en": "Public Security Prevention and Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧警务",
+      "name_en": "Smart Policing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "平安建设",
+      "name_en": "Safe Society Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "龙岩市公安局",
+    "龙岩",
+    "社会治安防控",
+    "智慧警务",
+    "平安建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Longyan Public Security Bureau",
+    "Longyan",
+    "Public Security Prevention and Control",
+    "Smart Policing",
+    "Safe Society Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "戴伟荣"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": [
+      {
+        "name_zh": "龙岩市公安局",
+        "name_en": "Longyan Public Security Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260923-gov_long_yan-fa6abf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

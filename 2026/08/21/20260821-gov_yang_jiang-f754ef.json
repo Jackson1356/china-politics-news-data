@@ -1,0 +1,103 @@
+{
+  "id": "20260821-gov_yang_jiang-f754ef",
+  "source": "gov_yang_jiang",
+  "source_name_zh": "阳江市政府网",
+  "source_name_en": "阳江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yang_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.yangjiang.gov.cn/yj/ywdt/yjyw/content/post_975352.html",
+  "title_zh": "卢一先余金富会见阿里云及高德地图高管一行",
+  "title_en": "Lu Yixian and Yu Jinfu Meet with Executives from Alibaba Cloud and AutoNavi",
+  "summary_zh": "8月20日，阳江市委书记卢一先、市长余金富会见阿里云、高德地图高管，就加快推动绿色智算、低空经济产业发展进行交流。",
+  "summary_en": "On August 20, Yangjiang Municipal Party Secretary Lu Yixian and Mayor Yu Jinfu met with executives from Alibaba Cloud and AutoNavi to discuss accelerating green intelligent computing and low-altitude economy development.",
+  "body_zh": "卢一先余金富会见阿里云资深副总裁、政企事业部总裁李津和高德地图副总裁董振宁一行\n时间:  2026-08-21 09:48:06\n阅读量:-\n【打印】\n8月20日，市委书记卢一先，市委副书记、市长余金富会见阿里云资深副总裁、政企事业部总裁李津和高德地图副总裁董振宁一行，双方就进一步加快推动绿色智算、低空经济产业发展等进行了深入交流。\n阿里云副总裁、南部大区总经理韩飞，阿里云副总裁、产业智能首席科学家张磊，高德地图交通及泛政府业务总经理李新辉，洺和科技有限公司董事长黄保东，市领导黄宁、王光飞、郑伟珍等参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "industry",
+  "keywords": [
+    "绿色智算",
+    "低空经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lu-yixian-yangjiang",
+      "name_zh": "卢一先",
+      "name_en": "Lu Yixian"
+    },
+    {
+      "kind": "person",
+      "id": "yu-jinfu-yangjiang",
+      "name_zh": "余金富",
+      "name_en": "Yu Jinfu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-YJ",
+      "name_zh": "阳江",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色智算",
+      "name_en": "Green Intelligent Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "低空经济",
+      "name_en": "Low-altitude Economy"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金富",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "卢一先",
+    "余金富",
+    "阳江",
+    "绿色智算",
+    "低空经济",
+    "金富"
+  ],
+  "tags_en": [
+    "Lu Yixian",
+    "Yu Jinfu",
+    "Green Intelligent Computing",
+    "Low-altitude Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-yixian-yangjiang",
+      "yu-jinfu-yangjiang",
+      {
+        "id": null,
+        "name_zh": "金富"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-YJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260821-gov_yang_jiang-f754ef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

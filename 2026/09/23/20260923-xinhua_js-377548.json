@@ -1,0 +1,132 @@
+{
+  "id": "20260923-xinhua_js-377548",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260923/2545d14feffa4969a4ebd9690fef8315/c.html",
+  "title_zh": "江苏电商创新发展大会开幕 刘小涛出席",
+  "title_en": "Jiangsu E-Commerce Innovation and Development Conference Opens; Governor Liu Xiaotao Attends",
+  "summary_zh": "9月22日，江苏电商创新发展大会在南京开幕，省长刘小涛出席，副省长马士光致辞，大会签约落地合作项目110余个。",
+  "summary_en": "On Sept 22, the Jiangsu E-Commerce Innovation and Development Conference opened in Nanjing; Governor Liu Xiaotao attended and more than 110 cooperation projects were signed.",
+  "body_zh": "9月22日，江苏电商创新发展大会在南京开幕。省长刘小涛出席大会开幕式。副省长马士光致辞，南京市市长李忠军出席。\n本次大会以“智汇电商浪潮 链动产业发展”为主题，汇聚电商平台、人工智能服务商、工业B2B企业、电商生态服务企业等经营主体，吸引700余名省内外嘉宾参会，签约落地合作项目110余个。\n省政府秘书长赵建军，商务部有关司局负责同志，省有关部门单位和设区市负责同志，高校、行业协会、金融机构和企业负责人，电商从业人员参加。（王拓 王梦然 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "电子商务",
+    "数字经济",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电子商务",
+      "name_en": "E-Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "江苏",
+    "电子商务",
+    "数字经济",
+    "产业合作",
+    "李忠军"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "Jiangsu",
+    "E-Commerce",
+    "Digital Economy",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-zhongjun"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ",
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-gov_tai_zhou-ddd14e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/9/23/art_60096_11833733.html",
+      "title_zh": "江苏省人民政府 要闻关注 江苏电商创新发展大会开幕 刘小涛出席",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yan_cheng",
+      "source_tier": 4,
+      "url": "http://www.jiangsu.gov.cn/art/2026/9/23/art_60096_11833733.html",
+      "title_zh": "江苏省人民政府 要闻关注 江苏电商创新发展大会开幕 刘小涛出席",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://jsnews.jschina.com.cn/jsyw/202609/t20260923_s6ab31163e4b0fca8829fe5b6.shtml",
+      "title_zh": "江苏电商创新发展大会开幕_中国江苏网",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

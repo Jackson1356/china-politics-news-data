@@ -1,0 +1,91 @@
+{
+  "id": "20260907-xinhua_js-3b9ca8",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260907/2e7a5711bffd4f138fc6150aa0a91f38/c.html",
+  "title_zh": "刘小涛主持召开第九期政企恳谈会",
+  "title_en": "Liu Xiaotao Chairs the 9th Government-Enterprise Symposium",
+  "summary_zh": "9月4日，江苏省省长刘小涛主持召开第九期政企恳谈会，听取汽车企业意见建议，强调推动汽车产业高质量发展。",
+  "summary_en": "On September 4, Governor Liu Xiaotao of Jiangsu Province chaired the 9th government-enterprise symposium to hear opinions from automakers and promote high-quality development of the automobile industry.",
+  "body_zh": "推动汽车产业特色发展提质增效\n9月4日，省长刘小涛主持召开今年第九期政企恳谈会，深入学习贯彻习近平总书记关于推动汽车产业高质量发展的重要指示精神，围绕推动做大做强汽车产业、塑造产业竞争优势听取相关企业意见建议。\n会上，理想、比亚迪、长安、奇瑞捷豹路虎、悦达起亚、上汽大众、徐工、威孚高科、魔门塔等企业负责人先后发言。大家表示，汽车产业是制造业的龙头产业、实体经济的支柱产业，将坚定发展信心、抢抓转型机遇，持续夯实整车制造基本盘，加快电动化、智能化步伐，加强品牌培育建设，加大海外市场布局力度，不断提升核心竞争力。省有关部门单位和设区市逐项回应企业诉求，表示将强化政策供给，优化全链条服务保障，全力护航我省汽车产业高质量发展。\n会议指出，要统筹扩大国内消费和拓展海外出口，支持创新营销模式、丰富促销场景、激活终端消费潜力，鼓励整车和零部件企业拓宽出口渠道，加强跨境物流、外贸金融、合规风控等服务保障。强化创新驱动引领，聚焦关键核心技术开展补短板攻关，完善整零对接、校企对接机制，推动技术共享、成果转化、协同配套。统筹推进充电桩、换电站、训练场、公共测试中心等基础设施布局建设，厚植产业发展良好生态，引导行业理性竞争、良性发展，聚力打造“江苏智造”公共品牌，促进汽车产业高端化、智能化、绿色化升级。\n副省长沈剑荣，省政府秘书长赵建军，省有关部门单位和部分设区市负责同志参加。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "industry",
+  "keywords": [
+    "汽车产业",
+    "实体经济",
+    "政企恳谈"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车产业",
+      "name_en": "Automobile Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政企恳谈",
+      "name_en": "Government-Enterprise Symposium"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "汽车产业",
+    "实体经济",
+    "政企恳谈"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Automobile Industry",
+    "Real Economy",
+    "Government-Enterprise Symposium"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260907-gov_tai_zhou-522a08",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/9/7/art_60096_11825961.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛主持召开第九期政企恳谈会 推动汽车产业特色发展提质增效",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

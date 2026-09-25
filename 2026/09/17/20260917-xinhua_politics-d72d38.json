@@ -1,0 +1,118 @@
+{
+  "id": "20260917-xinhua_politics-d72d38",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260917/2cef55f01bf04fb48dbac271f994b1a6/c.html",
+  "title_zh": "事关电子产品信息清除 3项标准实践指南发布",
+  "title_en": "Three Cybersecurity Standards Practice Guidelines on Electronic Product Data Erasure Released",
+  "summary_zh": "9月15日，在山东济南举办的2026年国家网络安全宣传周电子产品信息清除分论坛上，3项网络安全标准实践指南正式发布，配套强制性国家标准落地实施。",
+  "summary_en": "On September 15, three cybersecurity standards practice guidelines on erasing data from electronic products were released at a forum in Jinan, Shandong, during the 2026 National Cybersecurity Week, supporting a mandatory national standard.",
+  "body_zh": "9月15日，在山东济南举办的“2026年国家网络安全宣传周——电子产品信息清除分论坛”上，《半导体存储介质块擦除技术指引》《电子产品回收过程中的信息清除管理指引》《移动智能终端信息清除技术指引》等3项网络安全标准实践指南正式向社会发布。\n为配套GB 46864-2025《数据安全技术 电子产品信息清除技术要求》强制性国家标准落地实施，指导规范开展电子产品信息清除活动，在中央网信办、工业和信息化部等部门指导下，全国网安标委秘书处组织30余家存储芯片厂商、电子产品制造商、回收经营者和第三方机构等编制了3项网络安全标准实践指南。\n其中，《半导体存储介质块擦除技术指引》明确了半导体存储介质块擦除技术的实现方法和具体操作指令，适用于指导半导体存储介质厂商、电子产品厂商等适配、调用和验证块擦除指令。《电子产品回收过程中的信息清除管理指引》明确了信息清除日志格式、内容和回收管理要求，以及信息清除标识的样式和使用方法，适用于指导回收经营者生成信息清除日志、使用信息清除标识、规范信息清除行为与经营活动等。《移动智能终端信息清除技术指引》明确了手机、平板电脑等移动智能终端信息清除的具体方法、操作过程和验证要求，适用于移动智能终端产品的信息清除功能设计、开发测试，可为电信设备进网许可监管机构等提供参考。\n上述标准实践指南可在全国网安标委官方网站（www.tc260.org.cn）搜索查询并下载使用。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "industry",
+  "keywords": [
+    "网络安全",
+    "数据安全",
+    "电子产品信息清除",
+    "标准制定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "中央网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据安全",
+      "name_en": "Data Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电子产品信息清除",
+      "name_en": "Electronic Product Data Erasure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "标准制定",
+      "name_en": "Standards Setting"
+    }
+  ],
+  "tags_zh": [
+    "中央网信办",
+    "工业和信息化部",
+    "山东",
+    "济南",
+    "网络安全",
+    "数据安全",
+    "电子产品信息清除",
+    "标准制定"
+  ],
+  "tags_en": [
+    "Cyberspace Administration of China",
+    "Ministry of Industry and Information Technology",
+    "Cybersecurity",
+    "Data Security",
+    "Electronic Product Data Erasure",
+    "Standards Setting"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAC",
+      "MIIT"
+    ],
+    "locations": [
+      "CN-SD",
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260917-xinhua_politics-d72d38",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

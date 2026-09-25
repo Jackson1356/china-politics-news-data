@@ -1,0 +1,88 @@
+{
+  "id": "20260814-gov_huai_an-edc5bb",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1786694925983M2ORq8IL.html",
+  "title_zh": "市领导调研推进省市民生实事项目建设",
+  "title_en": "Municipal Leaders Inspect Provincial and Municipal Livelihood Projects",
+  "summary_zh": "8月11日，市长顾坤到淮安区、清江浦区调研省市民生实事项目建设，强调用心用情用力把实事办好。",
+  "summary_en": "On August 11, Mayor Gu Kun visited Huai'an and Qingjiangpu districts to inspect provincial and municipal livelihood projects, emphasizing efforts to deliver tangible benefits to the public.",
+  "body_zh": "8月11日，市长顾坤到淮安区、清江浦区调研推进省市民生实事项目建设，强调要深入学习贯彻习近平总书记关于保障和改善民生的重要论述，认真落实省委省政府决策部署和市委工作要求，牢固树立以人民为中心的发展思想，更好统筹投资于物和投资于人，用心用情用力把实事办好、好事办实，让发展成果更多更公平惠及广大群众。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "welfare",
+  "keywords": [
+    "民生实事",
+    "项目建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Livelihood Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "项目建设",
+      "name_en": "Project Construction"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "民生实事",
+    "项目建设"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Livelihood Projects",
+    "Project Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "江浦区"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-gov_huai_an-4e3164",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

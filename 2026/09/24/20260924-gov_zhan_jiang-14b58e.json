@@ -1,0 +1,102 @@
+{
+  "id": "20260924-gov_zhan_jiang-14b58e",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2228314.html",
+  "title_zh": "广东省2026年水生生物增殖放流活动在湛江举行",
+  "title_en": "Guangdong's 2026 Aquatic Stock Enhancement and Release Event Held in Zhanjiang",
+  "summary_zh": "9月23日，广东省2026年水生生物增殖放流活动在湛江坡头区丰收海岸举行，放流鱼虾及珍稀物种，助力现代化海洋牧场建设。",
+  "summary_en": "On Sept 23, Guangdong's 2026 aquatic stock enhancement and release event was held in Potou District, Zhanjiang, releasing fish, shrimp and rare species to support modern marine ranching.",
+  "body_zh": "金秋迎丰收，碧海续生机。9月23日，广东省2026年水生生物增殖放流活动在湛江坡头区丰收海岸举行，以实际行动养护水生生物资源，播撒丰收希望，赋能现代化海洋牧场建设。省政府党组成员陈良贤，省农业农村厅厅长王再华，市委书记余钢，市委副书记、市长李勇毅，省政府副秘书长刘华伟，市政协主席李多民出席活动。\n本次活动共放流黑鲷鱼苗140万尾、斜带石斑鱼10万尾、墨吉对虾1000万尾、中国鲎150只、海龟3只。放流台上，一尾尾鱼苗顺着水槽滑入大海，银鳞在阳光下闪过一道道弧线；沙滩边，海龟奋力划动四肢游向深处，中国鲎贴着沙底悄然前行，鱼苗成群散入蔚蓝大海。浪花翻涌间，岸边响起阵阵热烈掌声。\n近年来，广东坚持生态优先、绿色发展，科学规范推进增殖放流，有效落实水生生物资源养护，推动海洋生态保护与渔业高质量发展协同并进。目前，全省已构建覆盖21个地市，由63家经济物种供应单位、9家珍稀濒危物种供应单位组成的苗种供应体系，建成8个水生生物定点放流平台，增殖放流体系不断健全。“十四五”期间，全省累计在自然水域增殖放流水生生物约13亿单位。与此同时，广东积极开展海龟、中华白海豚救助，成功突破海龟、黄唇鱼、硇洲族大黄鱼等珍稀濒危水生生物人工繁育技术，渔业资源养护能力持续提升。\n作为本次活动的承办地，我市近年来积极开展规模性增殖放流，推进3个中央财政海洋牧场建设，近海生态环境持续优化。据统计，2024年以来，全市累计投放鱼类5000余万尾、虾类3.4亿尾、贝螺类1.7亿粒、中国鲎38万只，放流规模与品种数量均居全省前列。\n农业农村部、省直相关部门负责同志，我市部分渔民群众等参加增殖放流活动。\n林宇云 湛新",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "industry",
+  "keywords": [
+    "增殖放流",
+    "海洋生态保护",
+    "现代化海洋牧场"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-yongyi-zhanjiang",
+      "name_zh": "李勇毅",
+      "name_en": "Li Yongyi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "增殖放流",
+      "name_en": "Stock Enhancement and Release"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋生态保护",
+      "name_en": "Marine Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化海洋牧场",
+      "name_en": "Modern Marine Ranching"
+    }
+  ],
+  "tags_zh": [
+    "李勇毅",
+    "湛江",
+    "广东",
+    "增殖放流",
+    "海洋生态保护",
+    "现代化海洋牧场"
+  ],
+  "tags_en": [
+    "Li Yongyi",
+    "Zhanjiang",
+    "Guangdong",
+    "Stock Enhancement and Release",
+    "Marine Ecological Protection",
+    "Modern Marine Ranching"
+  ],
+  "entities": {
+    "politicians": [
+      "li-yongyi-zhanjiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ",
+      "CN-GD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260924-gov_zhan_jiang-14b58e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

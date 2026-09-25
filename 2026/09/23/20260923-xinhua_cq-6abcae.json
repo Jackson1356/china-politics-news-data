@@ -1,0 +1,134 @@
+{
+  "id": "20260923-xinhua_cq-6abcae",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.cq.xinhuanet.com/20260923/a41bf97ebd774bcca562dcbc5f7f99d8/c.html",
+  "title_zh": "袁家军陈新武会见出席第二十届重庆市市长国际经济顾问团会议的重要嘉宾",
+  "title_en": "Yuan Jiajun and Chen Xinwu Meet Guests Attending 20th Chongqing Mayor's International Economic Advisory Council Meeting",
+  "summary_zh": "9月22日下午，重庆市委书记袁家军、市长陈新武会见出席第二十届重庆市市长国际经济顾问团会议的安道拓、奥特斯、康宁等企业负责人。",
+  "summary_en": "On Sept 22, Chongqing Party Secretary Yuan Jiajun and Mayor Chen Xinwu met executives from Adient, AT&S and Corning attending the 20th Chongqing Mayor's International Economic Advisory Council meeting.",
+  "body_zh": "9月22日下午，市委书记袁家军，市委副书记、市长陈新武会见出席第二十届重庆市市长国际经济顾问团会议的重要嘉宾。记者 刘力 摄/视觉重庆\n9月22日下午，市委书记袁家军，市委副书记、市长陈新武会见了出席第二十届重庆市市长国际经济顾问团会议的重要嘉宾。\n安道拓公司全球总裁兼首席执行官杜卓伦，奥特斯集团首席执行官马铭天，康宁公司执行副总裁兼首席企业发展官张铮，市领导刘尚进、黄茂军参加。\n杜卓伦、马铭天、张铮等嘉宾在发言中感谢重庆市对企业在渝发展的大力支持。他们说，重庆是一座充满活力的国际化大都市，是科技创新、先进制造、人才培养等方面的重要枢纽。企业看好重庆发展前景，将坚定在渝发展信心，坚持把重庆作为战略布局重点区域，持续加大在渝技术、人才、创新资源等方面投入，与重庆深化智能网联新能源汽车、人工智能、新型显示、消费电子等领域务实合作，推动互利合作不断迈上新台阶。\n相关企业，市有关部门负责人参加。（记者 王天翊）",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "国际合作",
+    "智能网联新能源汽车",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yuan-jiajun",
+      "name_zh": "袁家军",
+      "name_en": "Yuan Jiajun"
+    },
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": "Chen Xinwu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能网联新能源汽车",
+      "name_en": "Intelligent Connected New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "person",
+      "id": "liu-shangjin",
+      "name_zh": "刘尚进",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "武会见",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "袁家军",
+    "陈新武",
+    "重庆",
+    "招商引资",
+    "国际合作",
+    "智能网联新能源汽车",
+    "人工智能",
+    "刘尚进",
+    "武会见"
+  ],
+  "tags_en": [
+    "Yuan Jiajun",
+    "Chen Xinwu",
+    "Chongqing",
+    "Investment Promotion",
+    "International Cooperation",
+    "Intelligent Connected New Energy Vehicles",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-shangjin",
+      "chen-xinwu",
+      "yuan-jiajun",
+      {
+        "id": null,
+        "name_zh": "黄茂军"
+      },
+      {
+        "id": null,
+        "name_zh": "武会见"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-xinhua_cq-6abcae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

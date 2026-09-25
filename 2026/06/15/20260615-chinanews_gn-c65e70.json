@@ -1,0 +1,106 @@
+{
+  "id": "20260615-chinanews_gn-c65e70",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-15/10640767.shtml",
+  "title_zh": "中方就霍尔木兹海峡重开作出何种贡献？外交部回应",
+  "title_en": "Foreign Ministry Responds to China's Contribution to the Reopening of the Strait of Hormuz",
+  "summary_zh": "2026年6月15日，外交部发言人林剑在北京主持例行记者会，就中方在霍尔木兹海峡重开及美伊谈判中的贡献作出回应。",
+  "summary_en": "On June 15, 2026, Foreign Ministry spokesperson Lin Jian held a regular press conference in Beijing to respond to questions regarding China's contribution to the reopening of the Strait of Hormuz.",
+  "body_zh": "中方就霍尔木兹海峡重开作出何种贡献？外交部回应\n中新网北京6月15日电 (记者 曾玥)中国外交部发言人林剑15日主持例行记者会。\n有记者提问：中方是否参与了霍尔木兹海峡重开一事？在美伊谈判过程中，中方是否为寻求折中方案或解决海峡封锁问题作出了任何贡献？\n林剑指出，自战事爆发以来，中方一直为止战奔走、为和平尽力。习近平主席郑重提出维护和促进中东和平稳定四点主张，体现了中方促和止战、倡导对话、化解分歧的一贯立场和积极努力，贡献了消除战事、争取和平的中国方案，发挥了进一步凝聚国际共识的重要作用，得到地区国家和国际社会的普遍欢迎。\n林剑表示，中方将继续本着习近平主席四点主张精神，秉持公道正义立场，为中东实现持久和平贡献中国力量、彰显大国担当。(完)\n国内新闻精选：\n- 2026年06月15日 15:59:27\n- 2026年06月15日 13:30:52\n- 2026年06月15日 11:21:14\n- 2026年06月15日 10:17:26\n- 2026年06月15日 10:15:24\n- 2026年06月14日 08:37:03\n- 2026年06月14日 08:33:25\n- 2026年06月14日 06:16:30\n- 2026年06月13日 21:22:57\n- 2026年06月13日 19:55:35",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中东和平",
+    "霍尔木兹海峡",
+    "外交斡旋"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东和平",
+      "name_en": "Middle East Peace"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "霍尔木兹海峡",
+      "name_en": "Strait of Hormuz"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交斡旋",
+      "name_en": "Diplomatic Mediation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "中东和平",
+    "霍尔木兹海峡",
+    "外交斡旋",
+    "习近平"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Middle East Peace",
+    "Strait of Hormuz",
+    "Diplomatic Mediation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "郑重"
+      },
+      {
+        "id": null,
+        "name_zh": "林剑"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260615-chinanews_gn-c65e70",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

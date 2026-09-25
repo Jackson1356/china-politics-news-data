@@ -1,0 +1,83 @@
+{
+  "id": "20260730-xinhua_politics-08f871",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260730/95fa0b5311764411aa27a9c510b909cb/c.html",
+  "title_zh": "浙江人形机器人加速多场景应用",
+  "title_en": "Zhejiang Humanoid Robots Accelerate Multi-Scenario Applications",
+  "summary_zh": "浙江人形机器人创新中心研发的人形机器人在服装制造、物流搬运等场景落地应用，并加速推进产业化进程。",
+  "summary_en": "Humanoid robots developed by Zhejiang Humanoid Robot Innovation Center have been applied in garment manufacturing, logistics, auto assembly, and retail, accelerating industrialization.",
+  "body_zh": "走进浙江人形机器人创新中心，人形机器人NAVIAI作业正忙：有的正开展邮包分拣，有的来回运动进行电路板涂覆，有的忙着熨衣服……\n成立两年多来，浙江人形机器人创新中心有限公司聚焦世界模型与具身智能的前沿探索，致力于研发能够真正落地、服务多场景的人形机器人产品。\n“我们提供了一系列覆盖数据处理、模型训练、机器人运维开发的工具链，致力于推进行业加快人形机器人的开发与落地。”浙江人形机器人创新中心有限公司首席科学家熊蓉介绍。\n眼下，人形机器人能在演示场合又跑又跳。但进入制造业后，如何发挥作用? 熊蓉认为，关键在于提高操作的自适应性、精准性和可靠性。\n熊蓉表示，研发的核心思路，是让机器人的“大脑”去适应混杂开放的环境，通过理解环境生成语义行为，并在任务受阻时自主生成探索性行为，同时具备自我纠错能力。而“小脑”则负责将语言、视觉与行为对齐，通过结合专家模型，让机器人具备类人的举一反三能力，而非简单的数据映射。这种“大小脑”协同的顶层设计，赋予了机器人环境适应性与操作精度。\n目前，浙江人形机器人创新中心有限公司的产品已在服装制造、物流搬运、汽车装配、商超零售等多个细分行业实现应用落地，并正依托宁波产业链生态，加速推进产业化进程。\n“宁波市海曙区立足工业基础，不断加大人才引进力度，依托宁波工业互联网研究院、上海交大宁波人工智能研究院等科研院所和机构，构建协同创新生态。同时，为机器人算法训练提供工业、农业等多元试验场景，以‘产业+平台+场景+政策’组合拳，吸引高能级项目落地。”宁波市海曙区科技局副局长、党组成员戴立波说。\n人形机器人赛道“一个人走得快，一群人走得远”。浙江人形机器人创新中心有限公司正联合产业上下游，推动构建协同发展的生态体系，助力具身智能产业蓬勃发展。（记者邹雨沁）",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "industry",
+  "keywords": [
+    "人形机器人",
+    "具身智能",
+    "产业应用"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人形机器人",
+      "name_en": "Humanoid Robots"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "具身智能",
+      "name_en": "Embodied Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业应用",
+      "name_en": "Industrial Application"
+    }
+  ],
+  "tags_zh": [
+    "浙江",
+    "人形机器人",
+    "具身智能",
+    "产业应用"
+  ],
+  "tags_en": [
+    "Zhejiang",
+    "Humanoid Robots",
+    "Embodied Intelligence",
+    "Industrial Application"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260730-xinhua_politics-08f871",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

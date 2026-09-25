@@ -1,0 +1,82 @@
+{
+  "id": "20260831-gov_cn_yaowen-fa8136",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/31/VIDEXeiLThrKCrmdkSjCxSQq260831.shtml",
+  "title_zh": "习近平出席吉尔吉斯斯坦总统举行的欢迎仪式",
+  "title_en": "Xi Jinping Attends Welcome Ceremony Hosted by Kyrgyz President",
+  "summary_zh": "当地时间8月31日，国家主席习近平在比什凯克出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式，两国元首检阅仪仗队。",
+  "summary_en": "On August 31, President Xi Jinping attended a welcome ceremony hosted by Kyrgyz President Japarov in Bishkek, where the two leaders reviewed the honor guard.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：比什凯克秋高气爽。习近平和夫人彭丽媛乘车抵达和谐宫时，扎帕罗夫和夫人扎帕罗娃热情迎接。\n扎帕罗夫为习近平举行欢迎仪式。习近平同扎帕罗夫登上检阅台。军乐团奏中吉两国国歌。两国元首检阅仪仗队。习近平行至仪仗队中央，用吉尔吉斯语向仪仗队员问好，仪仗队员回答：前进！前进！习近平同吉方陪同人员握手，扎帕罗夫同中方陪同人员握手。习近平同扎帕罗夫观看分列式。两国元首夫妇步入和谐宫大厅，在两国国旗前合影。\n[视频]习近平出席吉尔吉斯斯坦总统举行的欢迎仪式\n简介\n视频简介习近平出席吉尔吉斯斯坦总统举行的欢迎仪式。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中吉关系",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中吉关系",
+      "name_en": "China-Kyrgyzstan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "中吉关系",
+    "元首外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "China-Kyrgyzstan Relations",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260831-gov_cn_yaowen-fa8136",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

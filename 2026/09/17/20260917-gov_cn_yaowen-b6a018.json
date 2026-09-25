@@ -1,0 +1,119 @@
+{
+  "id": "20260917-gov_cn_yaowen-b6a018",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081368.htm",
+  "title_zh": "谌贻琴会见越南妇联主席黎氏水",
+  "title_en": "Chen Yiqin Meets with Vietnamese Women's Union President Le Thi Thuy",
+  "summary_zh": "9月17日，国务委员、全国妇联主席谌贻琴在北京会见越南妇联主席黎氏水，双方就落实两国领导人共识、深化妇女领域交流合作交换意见。",
+  "summary_en": "On September 17, State Councilor and All-China Women's Federation President Chen Yiqin met in Beijing with Le Thi Thuy, President of the Vietnam Women's Union, to discuss implementing leaders' consensus and deepening cooperation on women's affairs.",
+  "body_zh": "新华社北京9月17日电 国务委员、全国妇联主席谌贻琴17日在京会见越共中央委员、越南祖国阵线中央委员会副主席、越南妇联主席黎氏水。\n谌贻琴表示，在习近平总书记、国家主席和苏林总书记、国家主席战略引领下，中越关系保持积极发展势头。中方愿同越方一道，落实好两党两国最高领导人重要共识，弘扬全球妇女峰会精神，深化妇女领域交流合作，推动中越命运共同体建设走深走实。\n黎氏水赞赏中国妇女发展成就，表示愿加强交流互鉴，为促进越中关系发展作出贡献。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中越关系",
+    "妇女领域交流合作",
+    "命运共同体建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Chen Yiqin"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黎氏水",
+      "name_en": "Le Thi Thuy"
+    },
+    {
+      "kind": "institution",
+      "id": "ACWF",
+      "name_zh": "全国妇联",
+      "name_en": "All-China Women's Federation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中越关系",
+      "name_en": "China-Vietnam Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "妇女领域交流合作",
+      "name_en": "Women's Exchange and Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体建设",
+      "name_en": "Community with a Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "黎氏水",
+    "全国妇联",
+    "北京",
+    "中越关系",
+    "妇女领域交流合作",
+    "命运共同体建设"
+  ],
+  "tags_en": [
+    "Chen Yiqin",
+    "Le Thi Thuy",
+    "All-China Women's Federation",
+    "Beijing",
+    "China-Vietnam Relations",
+    "Women's Exchange and Cooperation",
+    "Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "ACWF"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260917-gov_cn_yaowen-b6a018",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081368.htm",
+      "title_zh": "谌贻琴会见越南妇联主席黎氏水",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

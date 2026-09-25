@@ -1,0 +1,95 @@
+{
+  "id": "20260813-gov_cn_yaowen-747a32",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077956.htm",
+  "title_zh": "《国家综合气象观测系统建设“十五五”规划》印发",
+  "title_en": "National Comprehensive Meteorological Observation System Construction Plan for the 15th Five-Year Plan Issued",
+  "summary_zh": "近日，中国气象局与国家发展改革委联合印发《国家综合气象观测系统建设“十五五”规划》，对未来5年国家综合气象观测系统建设作出部署。",
+  "summary_en": "Recently, China Meteorological Administration and National Development and Reform Commission jointly issued the plan for the next five years to optimize observation layout and enhance disaster prevention and meteorological services.",
+  "body_zh": "近日，中国气象局与国家发展和改革委员会联合印发《国家综合气象观测系统建设“十五五”规划》，对未来5年国家综合气象观测系统建设作出部署。\n规划着眼气象防灾减灾和经济社会发展需求，提出进一步优化观测布局、强化资源统筹、提升业务协同和产品服务能力，为气象科技能力现代化和社会服务现代化夯实观测基础。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "气象观测系统",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "NDRC",
+      "name_zh": "国家发展和改革委员会",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气象观测系统",
+      "name_en": "Meteorological Observation System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    }
+  ],
+  "tags_zh": [
+    "中国气象局",
+    "国家发展和改革委员会",
+    "气象观测系统",
+    "防灾减灾"
+  ],
+  "tags_en": [
+    "China Meteorological Administration",
+    "National Development and Reform Commission",
+    "Meteorological Observation System",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NDRC"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260813-gov_cn_yaowen-747a32",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0813/c378440-41666499.html",
+      "title_zh": "《国家综合气象观测系统建设“十五五”规划》印发",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

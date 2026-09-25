@@ -1,0 +1,99 @@
+{
+  "id": "20260725-gov_cn_yaowen-81ec87",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076592.htm",
+  "title_zh": "王毅出席上海合作组织外长会",
+  "title_en": "Wang Yi Attends SCO Foreign Ministers' Meeting",
+  "summary_zh": "中共中央政治局委员、外交部长王毅24日在吉尔吉斯斯坦出席上海合作组织外长理事会会议并发表讲话。",
+  "summary_en": "Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, attended the SCO Foreign Ministers' Council Meeting in Kyrgyzstan on July 24 and delivered remarks.",
+  "body_zh": "新华社吉尔吉斯斯坦乔尔蓬阿塔7月24日电 中共中央政治局委员、外交部长王毅24日在吉尔吉斯斯坦出席上海合作组织外长理事会会议。\n王毅表示，上合组织天津峰会对未来10年发展作出战略擘画，开启了上合高质量发展新阶段。一年来，中方落实习近平主席提出的重大倡议，以“中国行动”赋能地区发展。\n王毅表示，今年是上合组织成立25周年。上合组织始终秉持互信、互利、平等、协商、尊重多样文明、谋求共同发展的“上海精神”，将新型国际关系与多边合作之路越走越宽。当前，百年变局加速演进，动乱变革风雷激荡。国际社会期待上合组织促进地区安全发展，破解全球治理难题。\n王毅提出四点建议：一是认准“上海精神”定盘星，以“上海精神”照亮人类命运共同体的前路。二是筑牢和平稳定防火墙，加快“四个安全中心”落地见效。三是激发共赢发展推动力，共同打造更多发展成果。四是开创全球治理示范区，探讨建立各方共同参与的全球治理有效模式。\n王毅表示，今年是中国共产党成立105周年，也是中国“十五五”开局之年。中国共产党领导的中国，将永远是世界和平的建设者、全球发展的贡献者、国际秩序的维护者。\n各方一致认为上合组织是多极世界的重要支柱，为促进地区和国际和平、稳定与发展作出了重要贡献。面对动荡不安的国际形势，应进一步弘扬“上海精神”，更多发出上合声音，积极应对全球性挑战。\n会议发表了《上海合作组织成员国外交部长理事会声明》，并签署了上合组织比什凯克峰会筹备工作相关决议。\n会议期间，王毅还分别同俄罗斯、白俄罗斯、乌兹别克斯坦、塔吉克斯坦、伊朗、巴基斯坦外长举行了双边会见。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "外交合作",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交合作",
+      "name_en": "Diplomatic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "吉尔吉斯斯坦",
+    "上海合作组织",
+    "外交合作",
+    "全球治理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Kyrgyzstan",
+    "Shanghai Cooperation Organization",
+    "Diplomatic Cooperation",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260725-gov_cn_yaowen-81ec87",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20260908-gov_cn_yaowen-8ea086",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080455.htm",
+  "title_zh": "前8个月我国外贸同比增长17.6% 延续快速增长态势",
+  "title_en": "China's Foreign Trade Up 17.6% in First Eight Months, Maintaining Rapid Growth",
+  "summary_zh": "海关总署9月8日公布，今年前8个月我国货物贸易进出口总值34.78万亿元，同比增长17.6%，出口结构持续升级，机电产品占出口总值64%。",
+  "summary_en": "China's total goods imports and exports reached 34.78 trillion yuan in the first eight months of this year, up 17.6% year-on-year, with electromechanical products accounting for 64% of exports, according to the General Administration of Customs on Sept. 8.",
+  "body_zh": "海关总署今天（9月8日）对外公布，今年前8个月，我国货物贸易进出口同比增长17.6%，外贸运行延续两位数快速增长态势。\n据海关统计，今年前8个月，我国货物贸易进出口总值34.78万亿元，同比增长17.6%。其中，出口20.17万亿元，增长14.6%；进口14.61万亿元，增长22%。\n8月当月，进出口4.65万亿元，同比增长19.8%。其中，出口、进口分别增长18.6%、21.7%，进口月度同比增速连续6个月超过出口。\n今年前8个月，我国出口结构不断迭代升级，机电产品出口12.91万亿元，占同期我国出口总值的64%，已连续18个月保持增长。其中，汽车、工业机器人、船舶分别增长47.1%、13%、29.8%。\n我国多元化市场持续拓展。前8个月，我国与112个国家和地区实现出口、进口双增长。我国对共建“一带一路”国家进出口增长15.9%，对东盟、拉美、非洲进出口分别增长20.6%、14.5%、18.5%。截至8月，对美国进出口连续5个月增长，1—8月累计进出口2.76万亿元，增长1.3%。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "对外贸易",
+    "机电产品"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机电产品",
+      "name_en": "Electromechanical Products"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "对外贸易",
+    "机电产品"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "Foreign Trade",
+    "Electromechanical Products"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-gov_cn_yaowen-8ea086",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

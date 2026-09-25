@@ -1,0 +1,92 @@
+{
+  "id": "20260924-paper_zhengjing-266f91",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34140752",
+  "title_zh": "中秋假期预计全社会跨区域人员流动量将达6.5亿人次",
+  "title_en": "Mid-Autumn Holiday Cross-Region Travel Expected to Reach 650 Million Trips",
+  "summary_zh": "9月24日，国务院新闻办公室举行新闻发布会，交通运输部副部长李扬表示，中秋假期预计全社会跨区域人员流动量将达6.5亿人次，以返乡探亲、周边出游为主。",
+  "summary_en": "At a State Council Information Office briefing on Sept 24, Vice Minister of Transport Li Yang said cross-region travel during the Mid-Autumn holiday is expected to reach 650 million trips, mainly family visits and nearby trips.",
+  "body_zh": "今天，国务院新闻办公室举行新闻发布会，交通运输部副部长李扬表示，经综合研判，中秋假期，客流较日常小幅增长，预计全社会跨区域人员流动量将达6.5亿人次，日均约2.2亿人次，主要以返乡探亲、走亲访友为主，近郊游、乡村游等城市周边出行较多。\nAndroid版\niPhone版\niPad版\n沪公网安备31010602008124号",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "welfare",
+  "keywords": [
+    "中秋假期",
+    "交通运输",
+    "人员流动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中秋假期",
+      "name_en": "Mid-Autumn Holiday"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人员流动",
+      "name_en": "Passenger Flow"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "交通运输部",
+    "中秋假期",
+    "交通运输",
+    "人员流动"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Ministry of Transport",
+    "Mid-Autumn Holiday",
+    "Transportation",
+    "Passenger Flow"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260924-paper_zhengjing-266f91",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260908-gov_yue_yang-ddfb83",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2398955.html",
+  "title_zh": "谢卫江与长三角等地企业家座谈",
+  "title_en": "Xie Weijiang Holds Talks with Entrepreneurs from Yangtze River Delta and Other Regions",
+  "summary_zh": "9月7日，省委副书记、岳阳市委书记谢卫江与来岳考察投资的长三角等地企业家座谈，就绿色生态产业、人工智能、对非经贸等领域合作交流。",
+  "summary_en": "On September 7, Xie Weijiang, Deputy Secretary of the Provincial Party Committee and Party Secretary of Yueyang, held talks with entrepreneurs from the Yangtze River Delta and other regions, discussing cooperation in green industries, AI, and trade with Africa.",
+  "body_zh": "9月7日，省委副书记、岳阳市委书记谢卫江与来岳考察投资的长三角等地企业家座谈交流、共商合作。\n谢卫江代表市委、市政府对企业家来岳考察表示欢迎，对大家支持岳阳经济社会发展表示感谢，并简要介绍了岳阳情况。希望各位企业家把自身发展与岳阳机遇优势结合起来，在绿色生态产业发展、人工智能、对非经贸等领域深化合作，在双向奔赴中实现共赢发展。市委、市政府将加强服务保障，为企业发展创造良好环境。\n与会企业家围绕产业投资、资源对接、合作愿景等方面依次发言，表示将以此次考察为契机，与岳阳加强交流、开展务实合作。\n市领导李劲松、刘世奇、林军华参加。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "绿色生态产业",
+    "人工智能",
+    "对非经贸"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色生态产业",
+      "name_en": "Green Ecological Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对非经贸",
+      "name_en": "Trade with Africa"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "绿色生态产业",
+    "人工智能",
+    "对非经贸"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Green Ecological Industry",
+    "Artificial Intelligence",
+    "Trade with Africa"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "林军华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260908-gov_yue_yang-ddfb83",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260821-peoples_nx-0a61be",
+  "source": "peoples_nx",
+  "source_name_zh": "人民网 宁夏",
+  "source_name_en": "People's Daily Ningxia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nx.people.com.cn/n2/2026/0821/c192482-41673735.html",
+  "title_zh": "银川推动政务数据安全有序高效利用",
+  "title_en": "Yinchuan Promotes Safe and Efficient Use of Government Data",
+  "summary_zh": "8月20日，银川市数据局与交警部门利用AI优化交通信号灯测试；银川加快数据湖建设，政务数据流通利用基础设施已建成试运行。",
+  "summary_en": "On Aug 20, Yinchuan's data bureau and traffic police tested AI-optimized traffic signals; the city is advancing its data lake infrastructure for secure government data utilization.",
+  "body_zh": "银川推动政务数据安全有序高效利用\n“以后红绿灯就‘活了’，车多的方向会延长绿灯时间，车少或无车的方向会延长红灯时间，都是通过AI算法自主控制。”8月20日，银川市数据局与银川交警部门紧密配合，持续收集测试数据，利用人工智能生成交通信号灯优化方案。作为国家数据基础设施建设先行先试城市，银川市加快建设“数据湖”，推动政务数据由分散沉淀转向安全流通、开发利用。目前，“一云一湖一平台”数据流通利用基础设施已建成并进入试运行阶段，银川市数据运营平台累计入驻各类数据流通利用主体136家，上架数据产品400个。政务数据正从“可共享”向“可利用、可交易”迈进。\n目前，聚焦数据汇聚、流通、利用，银川市已完成“三统一”区域节点平台部署，预计9月底与国家数据基础设施节点对接，实现统一身份、统一资源目录、统一接口，进一步接入全国数据流通利用主干网络。与此同时，全国产化设备已完成部署，数据湖、数据运营平台均已上线试运行，具备数据上架、需求登记、数据产品和服务交付等功能。\n“平台建起来只是第一步，更重要的是把数据变成社会真正用得上的产品。”银川市数据局负责人说。银川首先瞄准了群众办事中的“小切口”，公积金数据产品正在成为首个落地案例。该市从去年开始探索公积金数据加工与开发路径，目前已跑通公积金数据产品业务，正在进入正式交付阶段。该负责人介绍，经本人授权后，原始公积金数据不会直接对外输出，而是加工形成不包含个人明细的数据产品，银行获取符合业务需要的信息即可，办事效率翻倍，个人隐私也得到了保护。\n同时，银川市围绕公积金、不动产等重点领域，积极对接招商银行、贵州数据宝等经营主体，打通数据供给、产品开发、交易服务、价值分配全链条，其中与招商银行合作的公积金数据产品，标志着银川市公共数据授权运营实现从“0”到“1”的商业闭环，迈出了数据要素变现的关键一步。\n银川还与大连、西安、青岛签订数据要素领域合作框架协议，推动数据资源跨区域协同利用。随着国家节点对接、授权运营和应用场景进一步推进，沉淀在政务系统中的数据正逐步转化为可安全利用的数据产品和城市治理能力。（记者 王文革）",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "政务数据",
+    "数据要素",
+    "智慧交通"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "银川市数据局",
+      "name_en": "Yinchuan Data Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX-YC",
+      "name_zh": "银川",
+      "name_en": "Yinchuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政务数据",
+      "name_en": "Government Data"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素",
+      "name_en": "Data Elements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧交通",
+      "name_en": "Smart Transportation"
+    }
+  ],
+  "tags_zh": [
+    "银川市数据局",
+    "银川",
+    "政务数据",
+    "数据要素",
+    "智慧交通"
+  ],
+  "tags_en": [
+    "Yinchuan Data Bureau",
+    "Yinchuan",
+    "Government Data",
+    "Data Elements",
+    "Smart Transportation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NX-YC"
+    ],
+    "companies": [
+      {
+        "name_zh": "银川市数据局",
+        "name_en": "Yinchuan Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260821-peoples_nx-0a61be",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

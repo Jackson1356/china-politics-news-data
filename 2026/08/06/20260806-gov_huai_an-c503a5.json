@@ -1,0 +1,108 @@
+{
+  "id": "20260806-gov_huai_an-c503a5",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/17859622006117RgWU8FU.html",
+  "title_zh": "淮安市委书记史志军率队赴珠三角开展招商活动",
+  "title_en": "Huai'an Party Secretary Shi Zhijun Leads Investment Promotion Trip to Pearl River Delta",
+  "summary_zh": "8月3日至4日，淮安市委书记史志军率队赴深圳、惠州开展招商活动，考察嘉立创、科翔电子等企业，推动项目落地。",
+  "summary_en": "From Aug 3 to 4, Shi Zhijun, Secretary of Huai'an Municipal Party Committee, led a delegation to Shenzhen and Huizhou for investment promotion, inspecting companies like JLC and Kexiang Electronics to boost project implementation.",
+  "body_zh": "市领导率队赴珠三角开展招商活动\n8月3日至4日，市委书记史志军率队赴深圳、惠州开展招商活动，实地考察企业，宣传推介淮安，拓展产业合作，精准推动项目落地建设。\n史志军一行来到深圳嘉立创科技集团股份有限公司，深入了解企业产业布局、智造平台、科技创新等经营发展情况，并与集团董事长丁会深入交流，共同会商淮安基地高多层精密线路板、CNC及3D打印项目建设。史志军指出，当前，淮安聚焦新型工业化不飘移、不飘然、不飘浮，紧扣智能化、绿色化、融合化方向，切实加大项目引培和科技创新“双轮驱动”攻坚力度，全力攻项目、抓创新、强产业，用源源不断的高质量项目讲好高质量发展的硬道理。我们将始终坚持“做的要比说的好、服务要比需求早”理念，致力打造更加优质“四最”营商环境，为嘉立创科技集团在淮项目建设营造良好环境。丁会对史志军一行的到来表示热烈欢迎，向淮安对嘉立创项目的关心和支持表示感谢，表示将把淮安涟水基地作为集团布局的重要载体，继续深化双方合作，布局落地更多产业项目，不断拓展双方共赢发展新空间。\n在广东科翔电子科技股份有限公司，史志军与公司董事长郑晓蓉深入交流。史志军表示，科翔电子聚焦高端光模块、高阶HDI等AI硬件等领域，与淮安“十五五”期间持续补齐高端基材短板、提升PCB产品层级的产业方向高度一致，希望双方能够发挥好产业链协同效应，推动科翔电子布局更多产业项目落地淮安，实现互惠共赢发展。郑晓蓉表示将立足公司发展实际，认真谋划研究，找准找实双方产业链契合点，加快项目布局落地，为淮安高质量跨越发展贡献力量。\n副市长洪然参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-HZ",
+      "name_zh": "惠州",
+      "name_en": "Huizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "郑晓蓉",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "深圳",
+    "惠州",
+    "招商引资",
+    "产业合作",
+    "郑晓蓉"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Shenzhen",
+    "Huizhou",
+    "Investment Promotion",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      {
+        "id": null,
+        "name_zh": "郑晓蓉"
+      },
+      {
+        "id": null,
+        "name_zh": "洪然"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ",
+      "CN-GD-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260806-gov_huai_an-c503a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

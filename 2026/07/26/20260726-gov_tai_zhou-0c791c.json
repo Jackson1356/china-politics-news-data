@@ -1,0 +1,106 @@
+{
+  "id": "20260726-gov_tai_zhou-0c791c",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_94f8a2fcf5b148d9bae7a1bff84e4457.html",
+  "title_zh": "第四期领导干部“前沿大讲堂”举行",
+  "title_en": "Fourth Session of Leading Cadres' Frontier Lecture Held",
+  "summary_zh": "7月25日，泰州市举办第四期领导干部“前沿大讲堂”，邀请专家张晓康就船舶产业绿色智能化发展授课，市委书记姜冬冬、市长李晖等参加。",
+  "summary_en": "On July 25, Taizhou held the fourth session of the Leading Cadres' Frontier Lecture, inviting expert Zhang Xiaokang to give a lecture on green and intelligent development of the shipbuilding industry. Party Secretary Jiang Dongdong and Mayor Li Hui attended.",
+  "body_zh": "泰州要闻\n第四期领导干部“前沿大讲堂”举行\n- 发布日期：2026-07-26 07:23\n- 浏览次数：\n7月25日，我市第四期领导干部“前沿大讲堂”举行，邀请中国进出口银行江苏省分行公司业务四处四级经理张晓康作专题授课。市委书记姜冬冬、市长李晖、市人大常委会主任张余松、市政协主席张小兵参加学习。\n张晓康长期深耕船舶产业金融服务领域，持续跟踪全球船舶产业的政策导向、市场需求与技术变革，对江苏及泰州地区船舶及配套产业发展有着深入的研究和独到的见解。他长期对接服务我市龙头造船企业，深度参与口岸船舶重组工作，积淀了丰富的实战经验。授课中，张晓康以“拥抱绿色智能浪潮 打造泰州船舶产业新优势”为题，深入剖析了船舶产业绿色化、智能化发展的必然趋势，并从“补链、强链、延链”三个维度，明确了我市船舶产业招商引资的方向和路径。\n大家认为，此次授课内容丰富、重点突出、针对性极强，深受启发。当前，全球船舶产业正经历深刻变革，绿色化、智能化已成为不可逆转的发展潮流，这既是挑战，更是泰州船舶产业转型升级、实现高质量发展的重大机遇。大家表示，要认真组织研讨交流，消化吸收本次授课内容，努力把先进的理念和方法转化为推动我市船舶产业高质量发展的实际成效。\n市委、市人大常委会、市政府、市政协领导同志，市有关部门单位负责同志，市项目攻坚专班和投资促进工作机制全体人员参加学习。",
+  "image_url": null,
+  "published_at": "2026-07-26T12:00:00+00:00",
+  "event_date": "2026-07-25",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "industry",
+  "keywords": [
+    "船舶产业",
+    "绿色智能",
+    "产业转型升级"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "船舶产业",
+      "name_en": "Shipbuilding Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色智能",
+      "name_en": "Green and Intelligent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业转型升级",
+      "name_en": "Industrial Transformation and Upgrading"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "李晖",
+    "泰州",
+    "船舶产业",
+    "绿色智能",
+    "产业转型升级"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Li Hui",
+    "Taizhou",
+    "Shipbuilding Industry",
+    "Green and Intelligent",
+    "Industrial Transformation and Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js",
+      "li-hui-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "张小兵"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260726-gov_tai_zhou-0c791c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

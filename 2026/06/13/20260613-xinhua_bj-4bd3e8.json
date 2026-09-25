@@ -1,0 +1,70 @@
+{
+  "id": "20260613-xinhua_bj-4bd3e8",
+  "source": "xinhua_bj",
+  "source_name_zh": "新华网 北京",
+  "source_name_en": "Xinhua Beijing",
+  "source_url": "http://bj.news.cn/20260613/230378cdf1d64df086f63212d94685e1/c.html",
+  "title_zh": "探访具身智能机器人数据与训练基地",
+  "title_en": "Visiting the Embodied Intelligent Robot Data and Training Base",
+  "summary_zh": "6月12日，北京人形机器人创新中心具身智能机器人数据与训练基地展示了其在多场景下的机器人训练能力及开源数据集。",
+  "summary_en": "On June 12, the Embodied Intelligent Robot Data and Training Base of the Beijing Humanoid Robot Innovation Center showcased its robot training capabilities across multiple scenarios and its open-source dataset.",
+  "body_zh": "6月12日，人形机器人在北京人形机器人创新中心具身智能机器人数据与训练基地外跳舞欢迎来访者。\n在位于北京经济技术开发区的北京人形机器人创新中心具身智能机器人数据与训练基地，120余台机器人在家居、商超、办公、工业、医药、康养六大核心领域的30多个场景接受训练。基地内还建有专业动作捕捉场地，通过高精度动捕技术，为机器人拟人化动作的精细度与流畅度提供“显微镜”级的采集标准。\n随着具身智能从实验室走入真实场景，数据成为影响具身智能落地部署的关键。北京人形机器人创新中心发布并开源的RoboMIND具身智能数据集全球下载量已突破600万。\n6月12日，在北京人形机器人创新中心具身智能机器人数据与训练基地，工作人员对机器人在超市场景中的动作进行数据采集。\n6月12日，在北京人形机器人创新中心具身智能机器人数据与训练基地，工作人员对机器人在移送物品中的动作进行数据采集。\n6月12日，在北京人形机器人创新中心具身智能机器人数据与训练基地，工作人员对机器人在做化学实验中的动作进行数据采集。\n6月12日，在北京人形机器人创新中心具身智能机器人数据与训练基地，一名工作人员在进行动作捕捉操作，用来进行机器人拟人化动作数据采集。\n6月12日，在北京人形机器人创新中心具身智能机器人数据与训练基地大厅门口，人形机器人做出“比心”姿势。\n6月12日，在北京人形机器人创新中心具身智能机器人数据与训练基地，工作人员对机器人在挂衣服中的动作进行数据采集。\n6月12日，人形机器人在北京人形机器人创新中心具身智能机器人数据与训练基地外跳舞欢迎来访者。",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "具身智能",
+    "人形机器人"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "具身智能",
+      "name_en": "Embodied AI"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人形机器人",
+      "name_en": "Humanoid Robots"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "具身智能",
+    "人形机器人"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Embodied AI",
+    "Humanoid Robots"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260613-xinhua_bj-4bd3e8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

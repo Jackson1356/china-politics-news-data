@@ -1,0 +1,127 @@
+{
+  "id": "20260819-cpcnews-546d5c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0819/c64387-40782111.html",
+  "title_zh": "民族地区家庭学用国家通用语言文字展示活动举办",
+  "title_en": "Event Held to Showcase Ethnic Minority Families' Learning and Use of National Common Language",
+  "summary_zh": "近日，教育部、国家语委联合全国妇联、国家民委在新疆举办“传承好家风 共筑家国梦”民族地区家庭学用国家通用语言文字展示活动，旨在提高民族地区家庭使用国家通用语言文字的能力。",
+  "summary_en": "Recently, the Ministry of Education, the State Language Commission, together with the All-China Women's Federation and the National Ethnic Affairs Commission, held an event in Xinjiang to showcase ethnic minority families' learning and use of the national common language, aiming to enhance their language skills.",
+  "body_zh": "本报北京8月18日电 （记者丁雅诵）记者从教育部获悉：近日，教育部、国家语委联合全国妇联、国家民委在新疆举办了“传承好家风 共筑家国梦”民族地区家庭学用国家通用语言文字展示活动。\n今年是《中华人民共和国民族团结进步促进法》与新修订的《中华人民共和国国家通用语言文字法》正式实施之年。本次活动旨在提高民族地区青少年和家庭成员使用国家通用语言文字的意识和能力。活动中，各民族家庭代表携手登台，通过丰富多彩的形式，展示学用国家通用语言文字的成果，引发现场观众强烈共鸣。\n《 人民日报 》（ 2026年08月19日 06 版）",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "welfare",
+  "keywords": [
+    "国家通用语言文字",
+    "民族团结",
+    "家风建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家语委",
+      "name_en": "State Language Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "ACWF",
+      "name_zh": "全国妇联",
+      "name_en": "All-China Women's Federation"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家民委",
+      "name_en": "National Ethnic Affairs Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家通用语言文字",
+      "name_en": "National Common Language"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族团结",
+      "name_en": "Ethnic Unity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "家风建设",
+      "name_en": "Family Values"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "国家语委",
+    "全国妇联",
+    "国家民委",
+    "新疆",
+    "国家通用语言文字",
+    "民族团结",
+    "家风建设"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "State Language Commission",
+    "All-China Women's Federation",
+    "National Ethnic Affairs Commission",
+    "Xinjiang",
+    "National Common Language",
+    "Ethnic Unity",
+    "Family Values"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOE",
+      "ACWF"
+    ],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家语委",
+        "name_en": "State Language Commission"
+      },
+      {
+        "name_zh": "国家民委",
+        "name_en": "National Ethnic Affairs Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-cpcnews-546d5c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

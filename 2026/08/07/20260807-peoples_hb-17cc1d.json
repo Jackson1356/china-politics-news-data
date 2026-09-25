@@ -1,0 +1,99 @@
+{
+  "id": "20260807-peoples_hb-17cc1d",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/0807/c192237-41661436.html",
+  "title_zh": "税务总局发布《国际运输涉税服务指引》",
+  "title_en": "Tax Administration Issues Guide on International Transport Tax Services",
+  "summary_zh": "国家税务总局发布首个跨境税收行业类指引《国际运输涉税服务指引》，为国际航海、航空、陆路运输提供涉税合规参考。",
+  "summary_en": "The State Taxation Administration issued its first cross-border tax industry guide, the International Transport Tax Service Guide, providing tax compliance references for international maritime, aviation, and road transport.",
+  "body_zh": "税务总局发布《国际运输涉税服务指引》\n本报北京8月6日电 （记者王观）国家税务总局近期发布首个跨境税收行业类指引《国际运输涉税服务指引》，为从事国际航海、航空、陆路等跨境运输行业的经营主体提供全链条、标准化、可落地的涉税合规参考。\n指引分为“引进来篇”和“走出去篇”，区分各类运输方式，围绕“该不该缴税、缴什么税、缴多少税、怎么缴税”，从纳税义务、扣缴义务、应税收入、税款计算、税收优惠、协定待遇、办税流程、涉税风险提示等8个维度梳理相关涉税事项。同时，通过编译公开涉税案例，以案释法，直观提示跨境经营税务风险。\n《 人民日报 》（ 2026年08月07日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "economy",
+  "keywords": [
+    "国际运输",
+    "涉税服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际运输",
+      "name_en": "International Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉税服务",
+      "name_en": "Tax Service"
+    }
+  ],
+  "tags_zh": [
+    "国家税务总局",
+    "北京",
+    "国际运输",
+    "涉税服务"
+  ],
+  "tags_en": [
+    "State Taxation Administration",
+    "Beijing",
+    "International Transport",
+    "Tax Service"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260807-peoples_hb-17cc1d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/0807/c349771-41661488.html",
+      "title_zh": "税务总局发布《国际运输涉税服务指引》",
+      "published_at": "2026-08-07T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0807/c134768-41661676.html",
+      "title_zh": "税务总局发布《国际运输涉税服务指引》",
+      "published_at": "2026-08-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

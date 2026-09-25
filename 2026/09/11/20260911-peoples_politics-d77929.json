@@ -1,0 +1,118 @@
+{
+  "id": "20260911-peoples_politics-d77929",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0911/c1001-40796428.html",
+  "title_zh": "退役军人服务保障先进单位及个人表彰大会在京召开 谌贻琴出席并讲话",
+  "title_en": "Commendation Conference for Outstanding Veterans-Service Units and Individuals Held in Beijing; Chen Yiqin Attends and Speaks",
+  "summary_zh": "9月10日，退役军人服务保障先进单位及个人表彰大会在北京召开，国务委员谌贻琴出席并讲话，会上表彰299个先进单位和396名先进个人。",
+  "summary_en": "On Sept 10, a commendation conference for outstanding veterans-service units and individuals was held in Beijing. State Councilor Chen Yiqin attended and spoke; 299 units and 396 individuals were honored.",
+  "body_zh": "退役军人服务保障先进单位及个人表彰大会在京召开 谌贻琴出席并讲话\n新华社北京9月10日电 退役军人服务保障先进单位及个人表彰大会10日在京召开，国务委员谌贻琴出席并讲话。她强调，要深入学习贯彻习近平总书记关于退役军人工作的重要论述，认真落实党中央、国务院决策部署，牢记“国之大者”、军之大事，扎实做好退役军人服务保障各项工作，持续强化荣誉激励、教育引导、典型示范，引领广大退役军人始终与党同心、跟党奋斗。\n谌贻琴指出，近年来，在以习近平同志为核心的党中央坚强领导下，我国退役军人服务保障工作取得积极成效。要牢牢把握退役军人工作正确政治方向，以退役军人工作“十五五”专项规划为牵引，坚持为经济社会发展服务、为国防和军队建设服务，充分激发退役军人干事创业的积极性创造性，不断厚植双拥共建鱼水情深的凝聚力团结力，持续涵养社会各界尊崇尊重的新风尚新气象，推动退役军人工作高质量发展。\n会上，退役军人事务部、中央军委政治工作部、全国双拥办联合表彰了退役军人服务保障299个先进单位和396名先进个人，获奖代表作了发言。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "welfare",
+  "keywords": [
+    "退役军人服务保障",
+    "双拥共建",
+    "荣誉激励"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Chen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "退役军人服务保障",
+      "name_en": "Veterans' Service and Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥共建",
+      "name_en": "Military-Civilian Mutual Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "荣誉激励",
+      "name_en": "Honorary Incentives"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "退役军人事务部",
+    "北京",
+    "退役军人服务保障",
+    "双拥共建",
+    "荣誉激励"
+  ],
+  "tags_en": [
+    "Chen Yiqin",
+    "Ministry of Veterans Affairs",
+    "Beijing",
+    "Veterans' Service and Support",
+    "Military-Civilian Mutual Support",
+    "Honorary Incentives"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "MVA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260910-gov_le_shan-9ddde7",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0911/c1001-40796450.html",
+      "title_zh": "退役军人服务保障先进单位及个人表彰大会在京召开 --时政--人民网",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080683.htm",
+      "title_zh": "退役军人服务保障先进单位及个人表彰大会在京召开 谌贻琴出席并讲话",
+      "published_at": "2026-09-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

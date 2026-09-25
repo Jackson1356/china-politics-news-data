@@ -1,0 +1,99 @@
+{
+  "id": "20260623-peoples_bj-fea23e",
+  "source": "peoples_bj",
+  "source_name_zh": "人民网 北京",
+  "source_name_en": "People's Daily Beijing",
+  "source_url": "http://bj.people.com.cn/n2/2026/0623/c14540-41618163.html",
+  "title_zh": "第四届链博会首设人工智能专区",
+  "title_en": "The 4th China International Supply Chain Expo Features First-Ever AI Zone",
+  "summary_zh": "6月22日至26日，第四届中国国际供应链促进博览会在北京举办，首次设立人工智能专区，展示AI赋能千行百业的实践。",
+  "summary_en": "The 4th China International Supply Chain Expo was held in Beijing from June 22 to 26, featuring its first AI zone to showcase the integration of AI across various industries.",
+  "body_zh": "第四届链博会首设人工智能专区\n本报北京6月22日电 （记者施芳、韩文榕）6月22日至26日，第四届中国国际供应链促进博览会在北京举办。本届链博会设置“6链1展区”，其中“数字科技链”升级为“数智科技链”，并首次设立人工智能专区，全链条展现从数据采集、智能计算到场景落地的完整生态，集聚多家国内外人工智能领域的领军企业。\n除人工智能专区，漫步各展区，处处可见AI（人工智能）赋能千行百业的生动实践：先进制造链，展现AI助力新型工业化的现实场景；绿色农业链，展现AI从田园到餐桌的深度应用；健康生活链，展示AI赋能精准医疗、药物创新和生活质量提升的最新成果；智能汽车链，展示AI在汽车研发、制造、生态协同等方面的创新应用；清洁能源链，呈现AI如何改变能源生产、调度和交易方式的实践；供应链服务展区，展现AI让跨境贸易、物流、金融从人力驱动转向智能调度的新路径。\n中国贸促会副会长李兴乾表示，本届链博会上，数字化、智能化应用覆盖展览展示、研讨交流、产业合作、智库成果以及服务保障的各环节，全面呈现我国以技术创新为驱动、以高质量为导向的新质生产力发展情况。\n《 人民日报 》（ 2026年06月23日 12 版）",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "供应链",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "供应链",
+      "name_en": "Supply Chain"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "人工智能",
+    "供应链",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Artificial Intelligence",
+    "Supply Chain",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李兴乾"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260623-peoples_bj-fea23e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0623/c352664-41618239.html",
+      "title_zh": "第四届链博会首设人工智能专区",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_gd",
+      "source_tier": 3,
+      "url": "http://gd.people.com.cn/n2/2026/0623/c123932-41618100.html",
+      "title_zh": "第四届链博会首设人工智能专区",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

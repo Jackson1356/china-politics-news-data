@@ -1,0 +1,96 @@
+{
+  "id": "20260829-gov_wu_hu-bdc5f6",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41295550.html",
+  "title_zh": "芜湖市委常委会召开会议",
+  "title_en": "Wuhu Municipal Party Committee Holds Standing Committee Meeting",
+  "summary_zh": "8月28日，芜湖市委常委会召开会议，传达学习习近平总书记近期重要讲话重要指示精神，听取经济运行和食品安全工作汇报，研究部署重点工作。市委书记徐志主持会议。",
+  "summary_en": "On August 28, the Standing Committee of the Wuhu Municipal Party Committee held a meeting to convey and study important speeches and instructions of General Secretary Xi Jinping, hear reports on economic operations and food safety, and arrange key tasks. Party Secretary Xu Zhi presided.",
+  "body_zh": "市委常委会召开会议\n本报讯（通讯员 吴正言）8月28日，市委常委会召开会议，传达学习习近平总书记近期重要讲话重要指示精神，听取当前经济运行情况汇报，研究部署重点工作。市委书记徐志主持会议。\n会议传达学习了习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，强调要深刻感悟江泽民同志坚定如磐的政治信仰、真挚深厚的为民情怀、与时俱进的创新精神、深谋远虑的战略思维、坚毅果敢的非凡胆略，切实把怀念和敬仰之情转化为干事创业的强大动力，更加紧密地团结在以习近平同志为核心的党中央周围，全力做好芜湖各项工作，推动现代化省域副中心建设迈上新台阶。\n会议强调，要抢抓机遇，用足用好“两重”“两新”等国家政策，切实把政策红利转化为发展动能。要全力做好企业服务，一企一策帮助企业解决难题，持续创优一流营商环境。要拿出更多时间和精力抓好招商引资，打造新兴支柱产业，培育新的经济增长点。要强化改革创新，适应高质量发展要求，优化工作流程，创新体制机制，提高发展质效。\n会议听取了全市2026年食品安全工作开展情况的报告，强调要深入学习贯彻习近平总书记关于食品安全的重要论述，严格落实“四个最严”要求，以时时放心不下的责任感，强化源头管控、细化排查整治，提升全链条监管水平，切实守护好人民群众“舌尖上的安全”。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "party",
+  "keywords": [
+    "经济工作",
+    "食品安全",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济工作",
+      "name_en": "Economic Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "芜湖",
+    "经济工作",
+    "食品安全",
+    "党的建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wuhu",
+    "Economic Work",
+    "Food Safety",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "徐志"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260829-gov_wu_hu-bdc5f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

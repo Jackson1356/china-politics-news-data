@@ -1,0 +1,104 @@
+{
+  "id": "20260922-xinhua_politics-a33bd2",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260922/3d562a314722432a9fe8f69f88ccd76e/c.html",
+  "title_zh": "公安部交管局提示：中秋国庆假期出行安全第一",
+  "title_en": "Traffic Management Bureau Urges Safety First for Mid-Autumn and National Day Holiday Travel",
+  "summary_zh": "9月22日，公安部交通管理局发布中秋国庆假期交通安全提示，研判旅游探亲客流交织、高速公路流量激增、农村集中出行等主要风险。",
+  "summary_en": "On September 22, the Traffic Management Bureau of the Ministry of Public Security issued holiday travel safety tips, citing risks from overlapping tourist and family-visit traffic, surging highway volumes and rural group travel.",
+  "body_zh": "新华社北京9月22日电（记者孙鹏程）中秋国庆双节将至，旅游探亲出行频繁，部分地区降雨团雾易发，道路交通安全风险交织。公安部交通管理局9月22日提示，假期出行安全第一，要自觉遵规守法，平安文明出行。\n据公安部交管局研判，今年中秋国庆假期道路交通安全主要存在以下风险：一是旅游探亲出行客流交织风险，今年中秋假期与国庆假期接踵而至，部分群众还选择拼假连休，群众出行意愿强烈，旅游出行与返乡流、探亲流叠加，存在疲劳驾驶、超速行驶、超员载客等违法肇事风险。二是高速公路流量激增风险，国庆假期高速公路七座以下小客车免费通行，预计珠三角、长三角、京津冀、成渝等重点城市群进出城高速公路将迎来潮汐式大交通流。三是农村务农务工集中出行风险，秋分节气后农事活动繁忙，跨乡镇、跨县域短期务农务工人员流动频繁，违法载人和面包车超员载客等交通违法易发多发。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "交通安全",
+    "假期出行",
+    "道路交通管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部交通管理局",
+      "name_en": "Traffic Management Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通安全",
+      "name_en": "Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假期出行",
+      "name_en": "Holiday Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "道路交通管理",
+      "name_en": "Road Traffic Management"
+    }
+  ],
+  "tags_zh": [
+    "公安部交通管理局",
+    "北京",
+    "交通安全",
+    "假期出行",
+    "道路交通管理"
+  ],
+  "tags_en": [
+    "Traffic Management Bureau of the Ministry of Public Security",
+    "Beijing",
+    "Traffic Safety",
+    "Holiday Travel",
+    "Road Traffic Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "公安部交通管理局",
+        "name_en": "Traffic Management Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260922-xinhua_politics-a33bd2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-09/22/content_32177424.htm",
+      "title_zh": "事关中秋国庆假期出行 公安部交管局发布最新提示",
+      "published_at": "2026-09-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

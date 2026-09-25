@@ -1,0 +1,91 @@
+{
+  "id": "20260917-xinhua_politics-f7492d",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260917/fb90b494bc37471ea2b29d6d7eb01069/c.html",
+  "title_zh": "我国力争到2030年粮食综合生产能力稳步提升",
+  "title_en": "China Targets Steady Rise in Grain Production Capacity by 2030",
+  "summary_zh": "农业农村部近日印发《全国种植业发展“十五五”规划》，提出到2030年粮食综合生产能力稳步提升，守牢谷物基本自给、口粮绝对安全底线。",
+  "summary_en": "The Ministry of Agriculture and Rural Affairs issued the 15th Five-Year Plan for crop farming, targeting a steady rise in grain production capacity by 2030 and safeguarding food security.",
+  "body_zh": "新华社北京9月17日电（记者古一平）记者17日从农业农村部获悉，农业农村部近日印发《全国种植业发展“十五五”规划》，明确到2030年，我国粮食综合生产能力稳步提升，守牢谷物基本自给、口粮绝对安全底线。\n规划提出，到2030年，我国大豆、油料、棉花、糖料产能巩固提升，保持合理自给水平。蔬菜、水果、茶叶供应均衡、品类丰富、质量安全，多元化供给与消费需求更加适配。农业高效节水稳步发展，化肥农药科学精准施用，种植业绿色生产水平不断提升。农情灾情监测预警更加精准，农业防灾减灾救灾能力全面增强，种植业高质量发展取得显著成效。\n围绕增强粮食等重要农产品供给保障能力，规划作出部署，包括提升粮食生产能力、巩固大豆油料生产、稳定棉花糖料生产、丰富“菜篮子”产品，并分品种、分地区提出针对性的举措。\n绿色是农业的底色。规划提出，深入推进种植业绿色转型。明确推进农业节水增效，分区分类发展节水农业，提高水资源利用效率；提升精准施肥水平；推进精准用药提质增效，持续推进科学选药用药，扩大微生物、植物源等环境友好型农药推广应用。\n当前，科技对我国农业增产的贡献已经超过64%，农业新质生产力正深刻地改变着农业生产面貌。\n规划强调，发挥农业新质生产力引领作用。提出选育推广突破性品种；集成推广引领性技术，推广水稻智能育秧、精准灌溉，小麦微喷灌、保优栽培，玉米精准调控、籽粒机收，大豆大垄密植、水肥一体；研制应用专用性装备，研制推广适于规模化地块的大型高端智能农机装备，以及适于丘陵山区的轻简高效农机装备。\n此外，规划还提出增强农业防灾减灾救灾能力，针对提升灾情监测预警水平、强化气象灾害防范应对、强化病虫害防控减损作出部署。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "十五五规划",
+    "种植业绿色转型"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "种植业绿色转型",
+      "name_en": "Green Transition of Crop Farming"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "粮食安全",
+    "十五五规划",
+    "种植业绿色转型"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Food Security",
+    "15th Five-Year Plan",
+    "Green Transition of Crop Farming"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260917-xinhua_politics-f7492d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34088150",
+      "title_zh": "到2030年，我国粮食综合生产能力将达1.45万亿斤左右",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

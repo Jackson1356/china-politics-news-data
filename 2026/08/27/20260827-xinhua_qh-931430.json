@@ -1,0 +1,129 @@
+{
+  "id": "20260827-xinhua_qh-931430",
+  "source": "xinhua_qh",
+  "source_name_zh": "新华网 青海",
+  "source_name_en": "Xinhua Qinghai",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.news.cn/20260827/f557b5d7217c461a96cd172d9085f937/c.html",
+  "title_zh": "吴晓军罗东川会见海关总署党委书记、署长孙梅君",
+  "title_en": "Wu Xiaojun and Luo Dongchuan Meet with Sun Meijun, Head of General Administration of Customs",
+  "summary_zh": "8月26日，青海省委书记吴晓军、省长罗东川在西宁会见海关总署署长孙梅君，双方就深化对外开放、推进经贸合作等交换意见。",
+  "summary_en": "On August 26, Wu Xiaojun, Secretary of Qinghai Provincial Party Committee, and Luo Dongchuan, Governor, met with Sun Meijun, Director of the General Administration of Customs, in Xining to discuss deepening opening-up and trade cooperation.",
+  "body_zh": "8月26日，省委书记、省人大常委会主任吴晓军，省委副书记、省长罗东川在西宁一同会见海关总署党委书记、署长孙梅君一行。\n吴晓军、罗东川代表省委、省政府向孙梅君一行表示欢迎，对海关总署长期以来的关心支持表示感谢。他们说，青海是生态大省、资源大省、民族大省，地处丝绸之路经济带的重要节点，在深化与共建“一带一路”国家和地区经贸合作中具有独特区位优势。当前，青海正主动融入和服务新发展格局，积极搭建对外开放平台，不断拓展对外经贸合作空间，着力培育外贸新动能。希望海关总署一如既往关心支持青海发展，在畅通国际贸易通道、提升贸易便利化水平、推进海关高级认证企业扩容提质等方面给予更多指导支持，助推青海对外开放迈出更加坚实的步伐。\n孙梅君代表海关总署感谢青海省委、省政府对海关工作的大力支持。她表示，青海区位优势独特，特色产业发展势头强劲，对外开放呈现加速提质的良好态势。海关总署将应青海所需、尽海关所能，履行好守国门、促发展职责使命，在促进贸易便利化、推动综合保税区赋能提质、强化监管制度创新等方面加大支持力度，更好助力青海高质量发展和高水平开放。\n省领导王海红参加会见。（记者 郑思哲）",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "对外开放",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiaojun-qinghai",
+      "name_zh": "吴晓军",
+      "name_en": "Wu Xiaojun"
+    },
+    {
+      "kind": "person",
+      "id": "luo-dongchuan",
+      "name_zh": "罗东川",
+      "name_en": "Luo Dongchuan"
+    },
+    {
+      "kind": "person",
+      "id": "sun-meijun",
+      "name_zh": "孙梅君",
+      "name_en": "Sun Meijun"
+    },
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "青海省委",
+      "name_en": "Qinghai Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH-XN",
+      "name_zh": "西宁",
+      "name_en": "Xining"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "吴晓军",
+    "罗东川",
+    "孙梅君",
+    "海关总署",
+    "青海省委",
+    "西宁",
+    "对外开放",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Wu Xiaojun",
+    "Luo Dongchuan",
+    "Sun Meijun",
+    "General Administration of Customs",
+    "Qinghai Provincial Party Committee",
+    "Xining",
+    "Opening-up",
+    "Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "sun-meijun",
+      "wu-xiaojun-qinghai",
+      "luo-dongchuan",
+      {
+        "id": null,
+        "name_zh": "王海红"
+      }
+    ],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [
+      "CN-QH-XN"
+    ],
+    "companies": [
+      {
+        "name_zh": "青海省委",
+        "name_en": "Qinghai Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-xinhua_qh-931430",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

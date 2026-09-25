@@ -1,0 +1,116 @@
+{
+  "id": "20260903-chinanews_gn-bbeb4e",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-03/10689482.shtml",
+  "title_zh": "中国化工装备有限公司原党委书记蔡挺接受审查调查",
+  "title_en": "Cai Ting, Former Party Secretary of China Chemical Equipment Co., Ltd., Under Investigation",
+  "summary_zh": "中央纪委国家监委驻中国中化控股纪检监察组与湖南省纪委监委通报，中国化工装备原党委书记、董事长、总经理蔡挺涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+  "summary_en": "Cai Ting, former Party Secretary, Chairman and General Manager of China Chemical Equipment Co., Ltd., a subsidiary of Sinochem Holdings, is under disciplinary and supervisory investigation for alleged serious violations of discipline and law.",
+  "body_zh": "中国化工装备有限公司原党委书记蔡挺接受审查调查\n中新网9月3日电 据中央纪委国家监委驻中国中化控股有限责任公司纪检监察组、湖南省纪委监委消息：中国中化控股有限责任公司下属中国化工装备有限公司原党委书记、董事长、总经理蔡挺涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国中化控股有限责任公司纪检监察组纪律审查和湖南省郴州市监察委员会监察调查。\n国内新闻精选：\n- 2026年09月03日 15:00:07\n- 2026年09月03日 13:37:51\n- 2026年09月03日 10:49:19\n- 2026年09月03日 07:09:17\n- 2026年09月02日 11:58:30\n- 2026年09月02日 11:37:21\n- 2026年09月01日 20:42:03\n- 2026年09月01日 20:34:18\n- 2026年09月01日 18:25:12\n- 2026年09月01日 13:07:39",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "蔡挺",
+      "name_en": "Cai Ting"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南省纪委监委",
+      "name_en": "Hunan Provincial Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "蔡挺",
+    "湖南省纪委监委",
+    "湖南",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Cai Ting",
+    "Hunan Provincial Commission for Discipline Inspection and Supervision",
+    "Anti-Corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖南省纪委监委",
+        "name_en": "Hunan Provincial Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260903-chinanews_gn-bbeb4e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689566.shtml",
+      "title_zh": "中方回应帕劳涉中国导弹试射言论：用心险恶、图谋不会得逞",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689553.shtml",
+      "title_zh": "越南声称对西沙群岛拥有主权 中国外交部驳斥",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689513.shtml",
+      "title_zh": "全国学生总体近视率近五年连续下降",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

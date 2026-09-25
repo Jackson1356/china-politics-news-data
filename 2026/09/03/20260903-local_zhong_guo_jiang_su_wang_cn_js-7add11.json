@@ -1,0 +1,91 @@
+{
+  "id": "20260903-local_zhong_guo_jiang_su_wang_cn_js-7add11",
+  "source": "local_zhong_guo_jiang_su_wang_cn_js",
+  "source_name_zh": "中国江苏网",
+  "source_name_en": "中国江苏网",
+  "source_media_id": "cac-cn-js-97d8bc0710",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://jsnews.jschina.com.cn/jsyw/202609/t20260903_s6a98b76ae4b0f3986ee889a1.shtml",
+  "title_zh": "刘小涛调研心理健康服务工作",
+  "title_en": "Liu Xiaotao Investigates Mental Health Services",
+  "summary_zh": "9月1日，省长刘小涛在南京市调研心理健康服务工作，走访南京脑科医院等地，强调聚焦青少年等群体做好心理健康服务。",
+  "summary_en": "On September 1, Governor Liu Xiaotao visited Nanjing Brain Hospital and other facilities in Nanjing to inspect mental health services, stressing better care for adolescents and the public.",
+  "body_zh": "交汇点讯 9月1日，省长刘小涛在南京市调研心理健康服务工作。\n在南京脑科医院、南京市江宁区第二人民医院，刘小涛了解江苏省12356心理援助热线中心热线运行、精神疾病诊疗康复等情况，听取我省心理健康服务工作介绍。他指出，要深入学习贯彻习近平总书记关于卫生健康工作的重要论述，坚持以人民为中心的发展思想，建好用好心理援助热线，健全监测、评估、随访全流程管理，聚焦青少年等重点群体做实做细心理健康服务，推动心理健康问题早预防、早发现、早干预、早康复。持续提升精神卫生医疗服务能力，完善心理健康服务体系，加强心理健康科学研究，建强专业人才队伍，统筹发挥学校、社区、社会组织、志愿者作用，加快推进家庭教育咨询中心建设，为广大群众提供更加优质便捷的心理健康服务。\n新华日报·交汇点记者 王拓 李嘉豪",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "welfare",
+  "keywords": [
+    "心理健康服务",
+    "精神卫生"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "心理健康服务",
+      "name_en": "Mental Health Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "精神卫生",
+      "name_en": "Mental Health"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "心理健康服务",
+    "精神卫生"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Mental Health Services",
+    "Mental Health"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260903-local_zhong_guo_jiang_su_wang_cn_js-7add11",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/9/3/art_60096_11824557.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛调研心理健康服务工作",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

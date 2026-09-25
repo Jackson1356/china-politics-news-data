@@ -1,0 +1,82 @@
+{
+  "id": "20260802-peoples_qh-fe5228",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.people.com.cn/n2/2026/0802/c181467-41656942.html",
+  "title_zh": "国家重点研发计划飞轮储能项目在格尔木开工",
+  "title_en": "National Key R&D Program Flywheel Energy Storage Project Breaks Ground in Golmud",
+  "summary_zh": "8月1日，20兆瓦飞轮储能项目在青海格尔木开工建设，由中国绿发青海分公司等单位联合推进，是国家重点研发计划项目。",
+  "summary_en": "On August 1, a 20MW flywheel energy storage project, a national key R&D program, broke ground in Golmud, Qinghai, jointly promoted by China Green Development Qinghai Branch and other units.",
+  "body_zh": "国家重点研发计划飞轮储能项目在格尔木开工\n8月1日，位于海西蒙古族藏族自治州格尔木市的20兆瓦飞轮储能项目正式开工建设。该项目由中国绿发青海分公司负责建设，是工业和信息化部批复的国家重点研发计划项目，由中国绿发青海分公司、中国电力科学研究院有限公司、清华大学等10家单位联合推进。\n飞轮储能是一种大功率物理储能技术，具有毫秒级响应、高功率密度、长寿命、无污染等特点，被业内认为是解决电网高频次频率波动和惯量支撑最有效的技术路径。此次开工项目采用高速飞轮与惯量飞轮协同技术，着力破解高比例新能源电网惯量缺失难题。\n该项目是格尔木东岳储能电站的重要组成部分。东岳储能电站属于大型混合储能项目，总体建设规模包括150兆瓦/600兆瓦时构网型磷酸铁锂电化学储能系统、20兆瓦飞轮储能系统和5兆瓦锂离子超级电容系统。其中，5兆瓦锂离子超级电容系统采用中国绿发自主研发的国内首款、全球首台5MW级全碳型超级电容功率储能设备。\n东岳储能项目已于2026年4月开工建设，计划2027年建成投产。项目建成后，将与周边已建成的光热电站、构网型储能电站等形成国内新型储能业态集中区，为海西州千万千瓦级新能源基地安全运行提供关键支撑，是青海省落实国家能源转型战略、推动储能技术多元创新的重要举措，也将为我国构建新型电力系统和实现“双碳”目标提供可复制、可推广的示范样板。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-02T07:10:37Z",
+  "topic": "industry",
+  "keywords": [
+    "储能技术",
+    "国家重点研发计划"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "TSINGHUA",
+      "name_zh": "清华大学",
+      "name_en": "Tsinghua University"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "格尔木",
+      "name_en": "Golmud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "储能技术",
+      "name_en": "Energy Storage Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家重点研发计划",
+      "name_en": "National Key R&D Program"
+    }
+  ],
+  "tags_zh": [
+    "清华大学",
+    "格尔木",
+    "储能技术",
+    "国家重点研发计划"
+  ],
+  "tags_en": [
+    "Tsinghua University",
+    "Golmud",
+    "Energy Storage Technology",
+    "National Key R&D Program"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "TSINGHUA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260802-peoples_qh-fe5228",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

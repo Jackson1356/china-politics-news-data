@@ -1,0 +1,100 @@
+{
+  "id": "20260917-gov_shi_zui_shan-d996dd",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/szf/zfcwhy/cwhy/202609/t20260917_5345942.html",
+  "title_zh": "石嘴山市人民政府召开常务会议",
+  "title_en": "Shizuishan Municipal People's Government Holds Executive Meeting",
+  "summary_zh": "9月16日，石嘴山市市长徐龙主持市政府2026年第22次常务会议，传达学习习近平总书记回信精神，听取经济运行汇报，部署保增长、安全生产与生态环保等工作。",
+  "summary_en": "On Sept 16, Mayor Xu Long chaired Shizuishan's 22nd executive meeting in 2026, reviewing economic performance and deploying work on growth, safety and environmental protection.",
+  "body_zh": "9月16日，市委副书记、市长徐龙主持召开市人民政府2026年第22次常务会议，传达学习习近平总书记给福建省“漳州110”全体队员的回信等近期重要讲话精神，听取全市经济运行情况汇报，安排部署相关工作。\n会议强调，公安机关是党和人民手中的“刀把子”，要永葆忠诚之心，坚守为民之心守护人民安全、维护社会稳定，严守法治之心，坚持依法治警从严管理，树牢尊法学法守法用法导向，锻造过硬公安铁军。\n会议强调，全市上下要再强信心、再鼓干劲、再实责任、再细落实、再聚合力，统筹保增长、守安全、护生态、促民生，坚定不移打好打赢百日攻坚战。要聚焦目标真抓实干出实绩。紧盯经济增长、产业发展、民生改善、安全环保目标，全力以赴夯实发展根基、稳固发展态势。要聚焦产业精耕细作出实绩。一产持续巩固提升，扶持特色产业壮大提质；二产强化源头帮扶，做到“重点企业要稳，减产企业要增，停产企业要开，投产企业要入规，区返企业要争，发电企业要挖潜”；三产坚持精准施策，统筹线上线下业态、市内市场与域外消费回流、传统产业与新兴产业融合发展，全面激活三产发展活力。要聚焦安全环保和民生保质保量出实绩。扎实推进安全生产治本攻坚三年行动高质量收官，高标准推进中央生态环保督察反馈问题整改和生态环境部现场督办问题整改，高质量办结民生实事、人大建议和政协提案，切实增进群众福祉。要聚焦作风严格责任担当出实绩。坚持精心精准抓测算研判、精细精确抓企业帮扶、尽心尽力抓落地推进，深入园区、企业一线纾困解难，强化市县协同、县区园区协同、政企协同，凝聚攻坚合力。要聚焦绩效依法依规出实绩。严守底线红线，依法依规开展帮扶和报统，以真抓实干、团结拼搏的务实作风，确保完成全年各项目标任务。（记者 雷永福 姚路路）",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "安全生产",
+    "生态环保"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-SZ",
+      "name_zh": "石嘴山",
+      "name_en": "Shizuishan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环保",
+      "name_en": "Ecological and Environmental Protection"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "石嘴山",
+    "经济运行",
+    "安全生产",
+    "生态环保",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shizuishan",
+    "Economic Operation",
+    "Work Safety",
+    "Ecological and Environmental Protection"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "徐龙"
+      },
+      {
+        "id": null,
+        "name_zh": "龙主持"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-gov_shi_zui_shan-d996dd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

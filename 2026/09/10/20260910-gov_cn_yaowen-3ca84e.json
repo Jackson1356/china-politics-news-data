@@ -1,0 +1,111 @@
+{
+  "id": "20260910-gov_cn_yaowen-3ca84e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7080658.htm",
+  "title_zh": "《金融强国建设“十五五”规划》正式出台",
+  "title_en": "China Officially Releases 15th Five-Year Plan for Building a Financial Power",
+  "summary_zh": "9月10日，国新办发布会披露，在中央金融委部署下，《金融强国建设“十五五”规划》正式出台，提出到2030年形成中国特色现代金融体系总体框架。",
+  "summary_en": "On September 10, China announced the official release of the 15th Five-Year Plan for Building a Financial Power, aiming to form the overall framework of a modern financial system with Chinese characteristics by 2030.",
+  "body_zh": "新华社北京9月10日电（记者吴雨）记者9月10日从国新办举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，在中央金融委统一部署下，中央金融办会同各金融单位制定的《金融强国建设“十五五”规划》正式出台。\n“这是‘十五五’时期金融工作的总体方略和具体谋划。”中国人民银行副行长陆磊在发布会上介绍，规划系统明确了“十五五”时期金融强国建设的重点任务，包括健全金融宏观调控体系、全面加强金融监管、有效防范化解金融风险、积极有效服务实体经济、推动金融高质量发展、扩大金融高水平开放等。\n据介绍，规划明确的总体目标是到2030年，形成中国特色现代金融体系的总体框架，金融调控政策协同有效，金融体系结构合理优化，金融监管严密有力，金融风险防控精准高效，金融支持经济社会发展质效不断提升，金融法治体系完备齐全，金融高水平开放稳步扩大，金融业国际影响力和竞争力持续提高。到2035年，基本建成具有高度适应性、竞争力、普惠性的中国特色现代金融体系，为金融强国建设奠定坚实基础。\n为实施好相关部署，中国人民银行近日制定印发了《中国人民银行“十五五”改革发展规划》，配套出台了9份相关领域的行动方案。\n陆磊表示，“十五五”时期，中国人民银行将全力推动规划重点任务举措落地、落实，加快建设金融强国、服务经济高质量发展。",
+  "image_url": null,
+  "published_at": "2026-09-10T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "金融强国建设",
+    "十五五规划",
+    "金融监管",
+    "实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融强国建设",
+      "name_en": "Building a Financial Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融监管",
+      "name_en": "Financial Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "北京",
+    "金融强国建设",
+    "十五五规划",
+    "金融监管",
+    "实体经济"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Beijing",
+    "Building a Financial Power",
+    "15th Five-Year Plan",
+    "Financial Regulation",
+    "Real Economy"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陆磊在"
+      },
+      {
+        "id": null,
+        "name_zh": "陆磊"
+      }
+    ],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260910-gov_cn_yaowen-3ca84e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

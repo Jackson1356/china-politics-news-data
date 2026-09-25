@@ -1,0 +1,105 @@
+{
+  "id": "20260911-gov_bao_ji-a2f3ed",
+  "source": "gov_bao_ji",
+  "source_name_zh": "宝鸡市政府网",
+  "source_name_en": "宝鸡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_ji",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoji.gov.cn/col46/col52/202609/t20260911_1301146.html",
+  "title_zh": "宝鸡市委理论学习中心组集体学习 重温习近平总书记来宝考察重要讲话重要指示",
+  "title_en": "Baoji Municipal Party Committee Theoretical Study Center Group Holds Collective Study Session",
+  "summary_zh": "9月10日，宝鸡市委理论学习中心组集体学习，重温习近平总书记来宝考察重要讲话重要指示，市委书记陈晓勇主持。",
+  "summary_en": "On Sept 10, the Baoji Municipal Party Committee Theoretical Study Center Group held a collective study, revisiting Xi Jinping's important speeches from his Baoji inspection, chaired by Party Secretary Chen Xiaoyong.",
+  "body_zh": "9月10日，市委理论学习中心组进行集体学习，重温习近平总书记来宝考察重要讲话重要指示并开展交流研讨，学习《党政领导干部生态环境损害责任追究办法》《习近平文化文选》《中国共产党领导全面依法治国工作条例》等内容。市委书记陈晓勇主持会议。\n会议强调，要牢记嘱托、感恩奋进，持续深入学习贯彻习近平总书记来宝考察重要讲话重要指示，贯通落实“五个扎实”“五项要求”“四个着力”等重要要求，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。要自觉在全国全省战略中找准目标定位，主动融入和服务黄河流域生态保护和高质量发展等国家战略，加快建设陕甘川宁毗邻区域中心城市和高质量发展先行区。要紧盯紧抓、抓常抓长，加强文物保护研究和宣传阐释、加强生态环境保护，加快建设国家生态文明建设示范区、国家历史文化名城。要围绕全市发展目标和产业转型升级、新质生产力培育、科技创新引领等关键任务，增强主动、真抓实干，以实干实绩回报习近平总书记的殷切期望。\n会议要求，要坚定不移贯彻总体国家安全观，坚持和加强党对全面依法治市工作的领导，扎实开展深化扫黑除恶专项斗争，扛紧扛牢推动生态文明建设和生态环境保护责任，加快推动社会工作高质量发展，大力支持国防和军队现代化建设，全力维护社会和谐稳定、守护群众幸福安宁。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "party",
+  "keywords": [
+    "理论学习",
+    "生态文明",
+    "依法治国",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-BJ",
+      "name_zh": "宝鸡",
+      "name_en": "Baoji"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "依法治国",
+      "name_en": "Law-based Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "宝鸡",
+    "理论学习",
+    "生态文明",
+    "依法治国",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Baoji",
+    "Theoretical Study",
+    "Ecological Civilization",
+    "Law-based Governance",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "陈晓勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260911-gov_bao_ji-a2f3ed",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

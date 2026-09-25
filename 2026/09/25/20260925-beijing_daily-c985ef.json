@@ -1,0 +1,96 @@
+{
+  "id": "20260925-beijing_daily-c985ef",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/25/11973191.shtml",
+  "title_zh": "中方是否将邀请特朗普总统出席APEC深圳峰会？外交部回应",
+  "title_en": "Foreign Ministry Responds on Whether China Will Invite Trump to APEC Shenzhen Summit",
+  "summary_zh": "9月24日，外交部发言人郭嘉昆在例行记者会上回应《纽约时报》提问，称中美双方就年内两国元首互动安排保持着沟通。",
+  "summary_en": "On September 24, Foreign Ministry spokesperson Guo Jiakun told a regular press briefing that China and the United States are maintaining communication on arrangements for interactions between the two heads of state within the year.",
+  "body_zh": "9月24日，外交部发言人郭嘉昆主持例行记者会。\n《纽约时报》记者提问，10月在香港举行的亚太经合组织财长会议期间，或11月在深圳举行的亚太经合组织领导人非正式会议期间，中美两国是否计划举行更多的经贸磋商？中方是否已正式邀请特朗普总统出席亚太经合组织领导人非正式会议？\n郭嘉昆表示，关于中美经贸磋商，建议向中方主管部门询问。关于你提到的第二个问题，中美双方就年内两国元首互动安排保持着沟通。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交",
+    "亚太经合组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Donald Trump"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    }
+  ],
+  "tags_zh": [
+    "特朗普",
+    "外交部",
+    "中美关系",
+    "元首外交",
+    "亚太经合组织"
+  ],
+  "tags_en": [
+    "Donald Trump",
+    "Ministry of Foreign Affairs",
+    "China-US Relations",
+    "Head-of-State Diplomacy",
+    "APEC"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "特朗普"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260925-beijing_daily-c985ef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

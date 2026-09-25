@@ -1,0 +1,112 @@
+{
+  "id": "20260603-chinanews_gn-95e3a5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-03/10633643.shtml",
+  "title_zh": "韩正会见下任联合国秘书长候选人巴切莱特",
+  "title_en": "Han Zheng Meets UN Secretary-General Candidate Michelle Bachelet",
+  "summary_zh": "2026年6月3日，国家副主席韩正在北京会见下任联合国秘书长候选人巴切莱特，双方就支持联合国发挥核心作用及推动全球治理体系建设进行交流。",
+  "summary_en": "On June 3, 2026, Vice President Han Zheng met with UN Secretary-General candidate Michelle Bachelet in Beijing to discuss supporting the UN's core role and promoting a more just global governance system.",
+  "body_zh": "韩正会见下任联合国秘书长候选人巴切莱特\n新华社北京6月3日电 国家副主席韩正3日在北京会见下任联合国秘书长候选人巴切莱特。\n韩正表示，联合国承载着各国人民对持久和平、共同繁荣的美好向往。习近平主席提出构建人类命运共同体理念和四大全球倡议，同联合国宪章精神一脉相承。中方愿同各方一道，继续坚定支持联合国发挥核心作用，推动构建更加公正合理的全球治理体系。作为联合国安理会常任理事国，中方将切实履行责任，继续秉持公正立场，捍卫联合国权威，维护全球南方共同利益。\n巴切莱特表示，高度赞赏中方长期坚定致力于推动多边主义和联合国事业，支持平衡推进联合国和平、发展、人权三大支柱，坚持会员国主导原则，支持联合国通过改革进一步提质增效。愿同中方一道，遵从联合国根本初心和宗旨，共同强化联合国作用。\n国内新闻精选：\n- 2026年06月03日 15:05:21\n- 2026年06月03日 11:21:44\n- 2026年06月03日 11:12:32\n- 2026年06月02日 20:22:54\n- 2026年06月02日 19:21:00\n- 2026年06月02日 18:56:32\n- 2026年06月02日 14:04:18\n- 2026年06月02日 09:59:42\n- 2026年06月01日 14:52:54\n- 2026年06月01日 10:00:30",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-03",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球治理",
+    "多边主义",
+    "联合国改革"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "巴切莱特",
+      "name_en": "Michelle Bachelet"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国改革",
+      "name_en": "UN Reform"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "巴切莱特",
+    "北京",
+    "全球治理",
+    "多边主义",
+    "联合国改革"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Michelle Bachelet",
+    "Beijing",
+    "Global Governance",
+    "Multilateralism",
+    "UN Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260603-chinanews_gn-95e3a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-06/03/content_38809897.htm",
+      "title_zh": "韩正会见下任联合国秘书长候选人巴切莱特",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

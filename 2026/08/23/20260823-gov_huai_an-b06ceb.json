@@ -1,0 +1,97 @@
+{
+  "id": "20260823-gov_huai_an-b06ceb",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787558023613R4Ihaw5z.html",
+  "title_zh": "淮安市组织开展县区（园区）党（工）委领导干部廉政教育活动",
+  "title_en": "Huaian Holds Integrity Education Activity for Party Committee Leaders",
+  "summary_zh": "8月22日，淮安市组织县区（园区）党（工）委领导干部廉政教育活动，市委书记史志军与全体人员集体谈话，强调推进党风廉政建设。",
+  "summary_en": "On August 22, Huaian organized an integrity education activity for party committee leaders of counties and parks. Party Secretary Shi Zhijun held a collective talk, emphasizing strict party discipline and anti-corruption efforts.",
+  "body_zh": "我市组织开展县区（园区）党（工）委领导干部廉政教育活动\n为进一步增强党员干部的纪律意识和规矩意识，筑牢党员干部拒腐防变思想防线，推进全面从严治党向纵深发展，根据市委统一安排，8月22日，我市组织开展县区（园区）党（工）委领导干部廉政教育活动，实境接受党性锤炼和廉洁洗礼，市委书记史志军与全体人员集体谈话。史志军强调，要深入学习贯彻习近平党建思想，着力推进全市党风廉政建设和反腐败斗争向纵深发展，树牢责任意识、发展意识、为民意识、法治意识、严管意识，以正确政绩观引领“十五五”新征程，为全市高质量发展提供坚强组织保证和纪律保障。市委常委、市纪委书记、市监委主任吴茂春参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-23T12:00:00+00:00",
+  "event_date": "2026-08-22",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "discipline",
+  "keywords": [
+    "廉政教育",
+    "反腐败",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "廉政教育",
+      "name_en": "Integrity Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Comprehensive Strict Party Governance"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "淮安",
+    "廉政教育",
+    "反腐败",
+    "全面从严治党"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Huaian",
+    "Integrity Education",
+    "Anti-Corruption",
+    "Comprehensive Strict Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      {
+        "id": null,
+        "name_zh": "吴茂春"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260823-gov_huai_an-33eeae",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20260924-gov_yue_yang-1f63d4",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2412012.html",
+  "title_zh": "市第九次党代会主席团举行第四次会议",
+  "title_en": "Presidium of the 9th Yueyang Municipal Party Congress Holds Fourth Meeting",
+  "summary_zh": "9月23日晚，中国共产党岳阳市第九次代表大会主席团举行第四次会议，由谢卫江主持，通过了新一届市委委员、候补委员、市纪委委员及出席省第十三次党代会代表的正式选举名单和相关决议草案。",
+  "summary_en": "On the evening of Sept 23, the presidium of the 9th CPC Yueyang Municipal Congress held its fourth meeting, chaired by Xie Weijiang, approving the final candidate lists for the new municipal Party committee, discipline commission and provincial congress delegates, as well as related draft resolutions.",
+  "body_zh": "9月23日晚，中国共产党岳阳市第九次代表大会主席团举行第四次会议。\n会议由谢卫江同志主持。\n会议听取了关于九届市委委员、市纪委委员和岳阳市出席省第十三次党代会代表预选结果的汇报；通过了九届市委委员、候补委员、市纪委委员和岳阳市出席省第十三次党代会代表候选人正式选举名单；继续听取了各代表团讨论八届市委报告、八届市纪委工作报告情况；通过了关于八届市委报告的决议（草案）、八届市纪委工作报告的决议（草案）。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "党内纪律监督"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内纪律监督",
+      "name_en": "Party Discipline Supervision"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "党代会",
+    "换届选举",
+    "党内纪律监督"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Party Congress",
+    "Leadership Election",
+    "Party Discipline Supervision"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260924-gov_yue_yang-1f63d4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yue_yang",
+      "source_tier": 4,
+      "url": "https://www.yueyang.gov.cn/zwdt/content_2412014.html",
+      "title_zh": "市第九次党代会主席团举行第三次会议",
+      "published_at": "2026-09-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20260805-local_yang_zi_wan_bao_wang_cn_js-7fb02b",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202608/t20260805_379497.html",
+  "title_zh": "特朗普敦促美参议院通过全年采用夏令时法案",
+  "title_en": "Trump Urges US Senate to Pass Year-Round Daylight Saving Time Bill",
+  "summary_zh": "美国总统特朗普8月4日在社交媒体发文，敦促国会参议院尽快通过全年采用夏令时的《阳光保护法案》，称绝大多数美国人要求将其永久化。",
+  "summary_en": "US President Trump on Aug 4 urged the Senate to pass the Sunshine Protection Act to make daylight saving time permanent, saying most Americans want it.",
+  "body_zh": "特朗普敦促美参议院通过全年采用夏令时法案\n△美国总统特朗普（资料图）\n美国总统特朗普8月4日在社交媒体发文，敦促国会参议院尽快通过全年采用夏令时的相关法案，称绝大多数美国人都要求将夏令时永久化。\n另有消息称，特朗普还私下致电部分参议员，敦促他们支持该法案。共和党参议员约翰·肯尼迪日前表示，特朗普最近曾致电要求他支持这项法案。肯尼迪说，他会支持通过，但参议院内部存在相当大的反对声音。\n7月14日，美国众议院通过《阳光保护法案》。根据该法案，目前美国实行的夏令时将固定为全年采用的时间，不再每年两次转换，法案同时允许各州申请不实行全年夏令时。在众议院通过后，法案将提交参议院审议，如获通过，将提交总统特朗普签署。\n美国关于调整时制的争论一直存在。美国1974年曾尝试全年采用夏令时，但引起争议，当年秋季即作罢。2022年3月，美国参议院曾通过一项永久采用夏令时法案，但该法案未在众议院进行全体表决。目前，美国绝大部分地区每年有大约8个月实行夏令时，夏威夷州、亚利桑那州大部分地区不实行夏令时。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "夏令时",
+    "美国政治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Trump"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "美国参议院",
+      "name_en": "US Senate"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "夏令时",
+      "name_en": "Daylight Saving Time"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "美国政治",
+      "name_en": "US Politics"
+    }
+  ],
+  "tags_zh": [
+    "特朗普",
+    "美国参议院",
+    "夏令时",
+    "美国政治"
+  ],
+  "tags_en": [
+    "Trump",
+    "US Senate",
+    "Daylight Saving Time",
+    "US Politics"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "曾致电"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "美国参议院",
+        "name_en": "US Senate"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260805-local_yang_zi_wan_bao_wang_cn_js-7fb02b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

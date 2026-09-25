@@ -1,0 +1,100 @@
+{
+  "id": "20260803-chinanews_gn-aeb6dd",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-03/10671224.shtml",
+  "title_zh": "吉林省延边州人大常委会原党组成员刘岩智被查",
+  "title_en": "Liu Yanzhi, Former Party Member of Yanbian Prefecture People's Congress Standing Committee, Under Investigation",
+  "summary_zh": "吉林省纪委监委通报，延边州人大常委会原党组成员、副主任刘岩智涉嫌严重违纪违法，主动交代问题，正接受纪律审查和监察调查。",
+  "summary_en": "Jilin Province disciplinary authorities reported that Liu Yanzhi, former Party member and deputy director of the Standing Committee of the Yanbian Prefecture People's Congress, is under investigation for suspected serious disciplinary and legal violations after voluntarily confessing.",
+  "body_zh": "吉林省延边州人大常委会原党组成员刘岩智被查\n中新网8月3日电 据吉林省纪委监委消息：吉林省延边州人大常委会原党组成员、副主任刘岩智涉嫌严重违纪违法，主动向组织交代问题，目前正接受吉林省纪委监委纪律审查和监察调查。\n【编辑:于晓】\n国内新闻精选：\n- 2026年08月04日 12:16:05\n- 2026年08月04日 11:14:47\n- 2026年08月03日 16:43:41\n- 2026年08月03日 13:23:45\n- 2026年08月03日 11:02:06\n- 2026年08月03日 10:26:02\n- 2026年08月02日 13:19:04\n- 2026年08月02日 13:04:41\n- 2026年08月02日 11:20:10\n- 2026年08月02日 07:19:05",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘岩智",
+      "name_en": "Liu Yanzhi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "吉林省纪委监委",
+      "name_en": "Jilin Provincial Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "刘岩智",
+    "吉林省纪委监委",
+    "吉林",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Liu Yanzhi",
+    "Jilin Provincial Commission for Discipline Inspection and Supervision",
+    "Jilin",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "刘岩智"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL"
+    ],
+    "companies": [
+      {
+        "name_zh": "吉林省纪委监委",
+        "name_en": "Jilin Provincial Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260803-chinanews_gn-aeb6dd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20260902-qiushi-3377b2",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260902/ca2ef991327446679be106d8cdeb9605/c.html",
+  "title_zh": "习近平抵达埃及开罗国际机场发表书面讲话",
+  "title_en": "Xi Jinping Arrives at Cairo International Airport and Delivers Written Remarks",
+  "summary_zh": "9月1日，国家主席习近平抵达埃及开罗，在中埃建交70周年之际对埃及进行国事访问，并发表书面讲话。",
+  "summary_en": "On September 1, President Xi Jinping arrived in Cairo, Egypt, for a state visit marking the 70th anniversary of China-Egypt diplomatic ties and delivered written remarks.",
+  "body_zh": "新华社开罗9月1日电\n抵达埃及开罗国际机场的书面讲话\n（2026年9月1日，开罗）\n中华人民共和国主席 习近平\n很高兴应塞西总统邀请，在中埃建交70周年之际对阿拉伯埃及共和国进行国事访问。10年前，我曾访问埃及，留下许多美好回忆，今天再次踏上这片承载深厚文明的土地，倍感亲切。我谨代表中国政府和中国人民，向友好的埃及政府和埃及人民致以诚挚问候和良好祝愿。\n中国和埃及同为文明古国，传统友谊绵延千年、历久弥坚。1956年，埃及在阿拉伯和非洲国家中率先同新中国建交。70年来，无论国际和地区形势如何变化，两国始终平等互信、友好互鉴、和衷共济、合作共赢。近年来，我同塞西总统一道，引领中埃全面战略伙伴关系实现跨越式发展。两国政治互信牢固，互利合作成果丰硕，多边协作密切有力，成为发展中国家友好相处、团结协作的典范。当前，国际和地区形势变乱交织，各类挑战层出不穷。中国和埃及同为全球南方重要成员，应当践行真正的多边主义，携手捍卫国际公平正义，维护广大发展中国家共同利益，为促进世界和平稳定和发展繁荣作出新贡献。\n这次访问期间，我将同塞西总统就中埃关系、全方位合作以及共同关心的国际和地区问题深入交换意见，共同擘画中埃全面战略伙伴关系发展蓝图。相信在双方共同努力下，访问一定会取得丰硕成果，书写中埃友好的历史新篇。\n网站编辑 -\n朱豫\n张盼 审核 - 于波",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "中埃关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "开罗",
+      "name_en": "Cairo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃关系",
+      "name_en": "China-Egypt Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "开罗",
+    "中埃关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Cairo",
+    "China-Egypt Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-qiushi-3377b2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079948.htm",
+      "title_zh": "习近平抵达埃及开罗国际机场发表书面讲话",
+      "published_at": "2026-09-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

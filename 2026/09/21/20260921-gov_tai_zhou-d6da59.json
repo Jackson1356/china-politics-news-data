@@ -1,0 +1,88 @@
+{
+  "id": "20260921-gov_tai_zhou-d6da59",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_255e635c30ea4047af7d59aecaad0809.html",
+  "title_zh": "姜冬冬看望出席市第七次党代会的老领导",
+  "title_en": "Jiang Dongdong Visits Veteran Leaders Attending Taizhou's 7th Party Congress",
+  "summary_zh": "9月20日上午，泰州市委书记姜冬冬看望出席市第七次党代会的老领导，向他们致以崇高敬意和诚挚问候，感谢其为泰州发展作出的贡献。",
+  "summary_en": "On the morning of Sept. 20, Taizhou Party Secretary Jiang Dongdong visited veteran leaders attending the city's 7th Party Congress, expressing respect and gratitude for their contributions to Taizhou's development.",
+  "body_zh": "泰州要闻\n姜冬冬看望出席市第七次党代会的老领导\n- 发布日期：2026-09-21 07:40\n- 浏览次数：\n9月20日上午，姜冬冬、周恒新、叶冬华看望出席市第七次党代会的老领导，向为泰州经济社会发展作出重要贡献的老同志致以崇高敬意和诚挚问候。\n现场，姜冬冬与陈克勤、高纪明、张兆江等老领导一一握手，关切询问大家的身体状况和日常生活。\n姜冬冬说，各位老领导是泰州发展的奠基者、亲历者，把毕生心血倾注于地方建设，为泰州经济社会发展打下了坚实根基。今年是地级泰州市组建三十周年，泰州发展取得的各项成就，都凝聚着老领导的辛勤汗水与不懈奋斗。大家时至今日仍然牵挂全市发展大局，这份对党忠诚、情系泰州的赤诚情怀，令人由衷敬佩。衷心祝愿各位老领导保重身体、福寿安康，也希望大家一如既往地关心支持泰州各项事业发展，多传经送宝、多建言献策。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "老干部工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老干部工作",
+      "name_en": "Veteran Cadre Affairs"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "泰州",
+    "党代会",
+    "老干部工作"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Taizhou",
+    "Party Congress",
+    "Veteran Cadre Affairs"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "叶冬华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_tai_zhou-d6da59",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

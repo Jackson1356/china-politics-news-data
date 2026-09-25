@@ -1,0 +1,106 @@
+{
+  "id": "20260625-peoples_sh-2195fd",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_url": "http://sh.people.com.cn/n2/2026/0625/c138654-41620465.html",
+  "title_zh": "长三角区域警务一体化领导小组会议在沪召开",
+  "title_en": "Yangtze River Delta Regional Police Integration Leading Group Meeting Held in Shanghai",
+  "summary_zh": "2026年6月24日，长三角区域警务一体化领导小组会议在上海召开，上海市长龚正出席并致辞，强调通过强化区域警务协作提升安全发展能力。",
+  "summary_en": "The Yangtze River Delta Regional Police Integration Leading Group meeting was held in Shanghai on June 24, 2026. Mayor Gong Zheng called for stronger regional police cooperation to enhance security and development capabilities.",
+  "body_zh": "相互赋能 提升安全发展能力\n长三角区域警务一体化领导小组会议召开，龚正致辞\n2026年长三角区域警务一体化领导小组会议昨天在上海召开。上海市委副书记、市长龚正出席并致辞。\n龚正指出，长三角一体化发展是习近平总书记亲自谋划、亲自部署、亲自推动的重大国家战略。提升安全发展能力，是长三角一体化发展的有力保障。近年来，在公安部大力指导支持下，三省一市公安机关加快推进警务一体化，在区域联动、平安联创、执法联勤、服务联通等方面取得显著成效，有力推动长三角高质量发展和高水平安全良性互动。今年是“十五五”开局之年，希望三省一市公安机关更好统筹发展和安全，相互赋能、共拉长板，进一步强化区域警务协作，为谱写中国式现代化长三角新篇章保驾护航。\n龚正指出，期待三省一市公安机关助力打造高质量发展动力源，共同完善涉企风险预警防范、企业法治服务、知识产权保护机制，营造市场化、法治化、国际化的一流营商环境。期待合力探索高效能服务新模式，进一步推动长三角跨省域“一网通办”提质增效，拓展治安户政、交通管理等领域跨省通办事项范围，让数据多跑路、群众少跑腿。期待聚力打造高水平安全城市群，以发起警务数据共享倡议为契机，共同推进公安新质战斗力建设，加强对违法犯罪的联合防范和打击，努力把长三角地区打造成全球最安全的城市群之一。\n上海市副市长、市公安局局长张亚宏，江苏省副省长、省公安厅厅长胡彬郴，浙江省副省长、省公安厅厅长杨青玖，安徽省副省长、省公安厅厅长范付中，公安部治安管理局负责同志出席会议并发言。\n会议通报部署了2026年长三角区域警务一体化重点工作。下一步，三省一市公安机关将共同推动重点实事项目落地见效，包括加强数据共享应用、打造更加安全通畅的区域交通环境、严打涉企违法犯罪、深化反诈联盟运作等，携手维护长三角区域社会大局持续稳定。会上还交流展示了三省一市大数据模型赋能实战应用实例和区域警务合作特色做法，四地公安机关共同发起拓展深化警务数据共享应用合作倡议。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "party",
+  "keywords": [
+    "长三角一体化",
+    "警务一体化",
+    "数据共享"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gong-zheng",
+      "name_zh": "龚正",
+      "name_en": "Gong Zheng"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长三角一体化",
+      "name_en": "Yangtze River Delta Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "警务一体化",
+      "name_en": "Police Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据共享",
+      "name_en": "Data Sharing"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "龚正",
+    "公安部",
+    "上海",
+    "长三角一体化",
+    "警务一体化",
+    "数据共享"
+  ],
+  "tags_en": [
+    "Gong Zheng",
+    "Ministry of Public Security",
+    "Shanghai",
+    "Yangtze River Delta Integration",
+    "Police Integration",
+    "Data Sharing"
+  ],
+  "entities": {
+    "politicians": [
+      "gong-zheng",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260625-peoples_sh-2195fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

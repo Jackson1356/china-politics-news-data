@@ -1,0 +1,101 @@
+{
+  "id": "20260705-xinhua_politics-2d621e",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "http://www.news.cn/politics/20260705/23b4d18ab59b4efd936bbaa8a61673db/c.html",
+  "title_zh": "三部门向广西辽宁调拨中央救灾物资并派出工作组",
+  "title_en": "Three Departments Allocate Central Disaster Relief Materials and Dispatch Working Groups to Guangxi and Liaoning",
+  "summary_zh": "7月5日，国家防减救灾委办公室、应急管理部会同国家粮食和物资储备局向广西、辽宁调拨1.5万件救灾物资并派出工作组指导救灾工作。",
+  "summary_en": "On July 5, the Office of the National Committee for Disaster Prevention, Reduction and Relief, the Ministry of Emergency Management, and the National Grain and Materials Reserves Administration allocated 15,000 relief items and dispatched working groups to Guangxi and Liaoning.",
+  "body_zh": "国家防减救灾委办公室、应急管理部会同国家粮食和物资储备局\n调拨1.5万件中央救灾物资\n并派出工作组 指导和支持广西、辽宁做好救灾救助工作\n针对广西、辽宁等地台风、暴雨洪涝、风雹等灾害情况，7月5日，国家防灾减灾救灾委员会办公室、应急管理部派出工作组赴两省（自治区）实地查看灾情，协助和指导地方做好救灾工作。根据防汛防台风救灾工作需要，会同国家粮食和物资储备局向广西、辽宁等灾区调拨帐篷、折叠床、夏凉被、家庭应急包、家庭照明灯等中央救灾物资1.5万件，支持地方妥善做好受灾群众基本生活救助工作。",
+  "image_url": null,
+  "published_at": "2026-07-05T12:00:00+00:00",
+  "event_date": "2026-07-05",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "救灾救助",
+    "防汛防台风"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Grain and Materials Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "救灾救助",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家粮食和物资储备局",
+    "广西",
+    "辽宁",
+    "救灾救助",
+    "防汛防台风"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Grain and Materials Reserves Administration",
+    "Guangxi",
+    "Liaoning",
+    "Disaster Relief",
+    "Flood and Typhoon Prevention"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-LN"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Grain and Materials Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260705-xinhua_politics-2d621e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

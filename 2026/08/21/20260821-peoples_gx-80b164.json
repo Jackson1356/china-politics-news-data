@@ -1,0 +1,92 @@
+{
+  "id": "20260821-peoples_gx-80b164",
+  "source": "peoples_gx",
+  "source_name_zh": "人民网 广西",
+  "source_name_en": "People's Daily Guangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gx.people.com.cn/n2/2026/0821/c179435-41673734.html",
+  "title_zh": "水利部继续发布洪水黄色预警",
+  "title_en": "Ministry of Water Resources Continues to Issue Yellow Flood Warning",
+  "summary_zh": "水利部8月20日发布洪水黄色预警，预计20日至22日多地有强降雨，部分河流可能超警，并向13省份发出靶向预警。",
+  "summary_en": "The Ministry of Water Resources issued a yellow flood warning on August 20, predicting heavy rain in many areas from Aug 20 to 22 and possible river flooding, and sent targeted alerts to 13 provinces.",
+  "body_zh": "水利部继续发布洪水黄色预警\n本报北京8月20日电 （记者邓剑洋）记者从水利部获悉：预计8月20日至22日，受南海热带低压及季风槽影响，广西南部、广东东部和沿海、福建大部、浙江大部、上海、江苏大部、山东东南部等地累计面降水量将有30毫米至70毫米，海南累计面降水量将有100毫米至150毫米。\n水利部预计，太湖水位维持超警；黑龙江上游呼玛至三道卡江段将超警，开库康至鸥浦江段及中游抚远以下江段将维持超警；珠江流域郁江、韩江、东江及海南南渡江、昌化江、万泉河，广西、广东、福建、浙江沿海诸河，江苏里下河地区，山东沭河等河流将出现涨水过程，暴雨区内部分中小河流可能发生超警洪水。水利部信息中心继续发布洪水黄色预警，提醒相关地区社会公众注意防范。\n20日，水利部组织滚动会商，根据24小时降雨预报，向山西、内蒙古、黑龙江、浙江、福建、广东、广西、重庆、四川、陕西、海南、云南、西藏等13个省份发出“一省一单”靶向预警。水利部维持针对江苏、浙江的洪水防御Ⅲ级应急响应和针对黑龙江、上海、安徽、河南的洪水防御Ⅳ级应急响应。水利部4个工作组正在浙江、河南、黑龙江等地一线协助指导暴雨洪水防御工作。\n《 人民日报 》（ 2026年08月21日 04 版）",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "welfare",
+  "keywords": [
+    "防洪预警",
+    "灾害防范"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防洪预警",
+      "name_en": "Flood Warning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害防范",
+      "name_en": "Disaster Prevention"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "北京",
+    "防洪预警",
+    "灾害防范"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Beijing",
+    "Flood Warning",
+    "Disaster Prevention"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260821-peoples_gx-80b164",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_zj",
+      "source_tier": 3,
+      "url": "http://zj.people.com.cn/n2/2026/0821/c186327-41673554.html",
+      "title_zh": "水利部继续发布洪水黄色预警",
+      "published_at": "2026-08-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "20260923-gov_yan_cheng-25f6ec",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/9/23/art_49_4456673.html",
+  "title_zh": "盐城市第九次党代会主席团举行第三次会议",
+  "title_en": "Presidium of the 9th Yancheng Municipal Party Congress Holds Third Meeting",
+  "summary_zh": "9月22日下午，盐城市第九次党代会主席团举行第三次会议，严汉平主持，决定将选举办法（草案）及市委、市纪委委员等候选人建议名单提交选举大会。",
+  "summary_en": "On the afternoon of Sept 22, the presidium of the 9th Yancheng Municipal Party Congress held its third meeting, chaired by Yan Hanping, deciding to submit the electoral rules and candidate lists to the congress for a vote.",
+  "body_zh": "严汉平主持\n9月22日下午，市第九次党代会主席团举行第三次会议。严汉平同志主持。\n会议听取了大会秘书处关于各代表团讨论大会选举办法（草案）的情况汇报，决定将选举办法（草案）提交选举大会表决通过。\n会议听取了各代表团对九届市委委员、候补委员、市纪委委员和我市出席省第十五次党代会代表候选人建议名单酝酿讨论情况的汇报，决定将上述名单提交选举大会进行选举。\n会议表决通过了选举大会监票人、总监票人和副总监票人名单。\n会议讨论提出八届市委报告的决议（草案）、市纪委工作报告的决议（草案），决定将两个决议（草案）提交各代表团讨论。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党内选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-Party Elections"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "盐城",
+    "党代会",
+    "党内选举"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Yancheng",
+    "Party Congress",
+    "Intra-Party Elections"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260923-gov_yan_cheng-25f6ec",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

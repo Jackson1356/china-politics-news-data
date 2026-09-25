@@ -1,0 +1,104 @@
+{
+  "id": "20260921-chinanews_gn-0315dc",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-21/10700740.shtml",
+  "title_zh": "中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习",
+  "title_en": "Chinese Military to Join ADMM-Plus \"Trident Resolve\" Live Exercise",
+  "summary_zh": "据中国国防部9月21日消息，中国军队将于9月22日至25日派分队赴印尼参加东盟防长扩大会“三叉戟决心”实兵演习，演练地震灾害废墟搜救、联合医疗救治等课目。",
+  "summary_en": "China's Ministry of National Defense announced on Sept 21 that Chinese military personnel will travel to Indonesia from Sept 22 to 25 to take part in the ADMM-Plus \"Trident Resolve\" live exercise, which focuses on earthquake disaster rescue and multinational medical response.",
+  "body_zh": "中国军队将参加东盟防长扩大会“三叉戟决心”实兵演习\n中新社北京9月21日电 据中国国防部网站21日消息，9月22日至25日，中国军队将派分队赴印尼参加东盟防长扩大会“三叉戟决心”实兵演习。\n此次演习以地震及次生复合灾害为背景，主要开展废墟搜救、多国联合野战医疗救治、防疫消杀、灾害通信应急处置等桌面推演和实兵演习，有助于提升各参演方跨国协同人道主义救援实操能力，进一步完善区域灾害应急响应机制，共同维护地区和平与稳定。(完)\n国内新闻精选：\n- 2026年09月20日 16:29:41\n- 2026年09月20日 15:13:34\n- 2026年09月20日 05:56:37\n- 2026年09月19日 21:49:26\n- 2026年09月19日 13:28:05\n- 2026年09月18日 14:04:47\n- 2026年09月18日 10:08:22\n- 2026年09月18日 05:52:36\n- 2026年09月17日 11:28:00\n- 2026年09月17日 11:14:45",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "联合军事演习",
+    "人道主义救援",
+    "区域安全合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国国防部",
+      "name_en": "Ministry of National Defense of China"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "印尼",
+      "name_en": "Indonesia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合军事演习",
+      "name_en": "Joint Military Exercise"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人道主义救援",
+      "name_en": "Humanitarian Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域安全合作",
+      "name_en": "Regional Security Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "中国国防部",
+    "印尼",
+    "北京",
+    "联合军事演习",
+    "人道主义救援",
+    "区域安全合作"
+  ],
+  "tags_en": [
+    "Ministry of National Defense of China",
+    "Indonesia",
+    "Beijing",
+    "Joint Military Exercise",
+    "Humanitarian Rescue",
+    "Regional Security Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国国防部",
+        "name_en": "Ministry of National Defense of China"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260921-chinanews_gn-0315dc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

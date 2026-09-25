@@ -1,0 +1,104 @@
+{
+  "id": "20260812-gov_bao_ji-24b474",
+  "source": "gov_bao_ji",
+  "source_name_zh": "宝鸡市政府网",
+  "source_name_en": "宝鸡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_ji",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoji.gov.cn/col46/col52/202608/t20260812_1292802.html",
+  "title_zh": "牛恺主持召开市政府党组会议",
+  "title_en": "Niu Kai Chairs Baoji Municipal Government Party Group Meeting",
+  "summary_zh": "8月11日，宝鸡市长牛恺主持召开市政府党组会议，学习贯彻中共中央政治局会议和省委全会精神，强调稳增长、推项目、抓党建。",
+  "summary_en": "On August 11, Baoji Mayor Niu Kai chaired a Party Group meeting of the municipal government to study the spirit of the Political Bureau meeting and the provincial Party committee plenary, emphasizing stable growth, project advancement, and Party building.",
+  "body_zh": "8月11日，市长、市政府党组书记牛恺主持召开市政府党组会议，认真学习7月30日中共中央政治局会议精神，传达学习省委十四届十次全会精神，研究贯彻落实工作。\n会议强调，要深入学习贯彻习近平党建思想，对标对表“十四个坚持”，始终以党的政治建设为统领，坚持严的基调不动摇，全面推进政府系统党的建设。要切实把思想和行动统一到党中央关于经济形势的科学判断和决策部署上来，认真落实中省稳增长部署要求，聚焦高质量发展首要任务，坚持目标牵引，强化重点攻坚，持续稳就业、稳企业、稳市场、稳预期。要夯实责任推动落实，加强统筹协调、定期调度和督促指导，点对点调度、穿透式落实，确保重点指标全面完成、重大项目强力推进、重要工作有力有效。\n会议要求，要认真学习领会省委、市委全会精神，与学习贯彻党的二十大和二十届历次全会精神、习近平总书记历次来陕和来宝考察重要讲话重要指示等结合起来，一体贯通落实，确保党中央重大决策部署和省委、市委工作要求落实落细。要聚焦全省区域发展战略，锚定发展坐标，明确主攻方向，完善思路举措，奋力建设陕甘川宁毗邻区域中心城市和高质量发展先行区。要立足谋长远、打基础，加大招商引资力度，加快推进项目建设，抓实抓细稳增长、学习教育、防汛救灾等当前重点工作，攻坚三季度、干好下半年，以最大努力争取最好结果。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "经济稳增长",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "牛恺",
+      "name_en": "Niu Kai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-BJ",
+      "name_zh": "宝鸡",
+      "name_en": "Baoji"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济稳增长",
+      "name_en": "Stable Economic Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "牛恺",
+    "宝鸡",
+    "党的建设",
+    "经济稳增长",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Niu Kai",
+    "Baoji",
+    "Party Building",
+    "Stable Economic Growth",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "牛恺"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260812-gov_bao_ji-24b474",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

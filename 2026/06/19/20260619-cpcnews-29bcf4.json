@@ -1,0 +1,89 @@
+{
+  "id": "20260619-cpcnews-29bcf4",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0619/c64094-40743550.html",
+  "title_zh": "韩正会见加拿大、丹麦客人",
+  "title_en": "Han Zheng Meets with Guests from Canada and Denmark",
+  "summary_zh": "6月18日，国家副主席韩正在北京分别会见加拿大工业部长乔利率领的代表团及丹麦诺和诺德基金会主席索文森，探讨经贸合作与健康中国建设。",
+  "summary_en": "On June 18, Vice President Han Zheng met with Canadian Industry Minister Joly and Novo Nordisk Foundation Chairman Sørensen in Beijing to discuss economic cooperation and the 'Healthy China' initiative.",
+  "body_zh": "新华社北京6月18日电 6月18日，国家副主席韩正在北京分别会见加拿大工业部长乔利率领的知名企业家代表团、丹麦诺和诺德基金会主席兼诺和诺德公司董事会主席索文森。\n在会见乔利一行时，韩正表示，今年1月，习近平主席同卡尼总理在北京成功举行会晤，达成一系列重要共识。中加两国经济互补性强，合作潜力巨大。中方愿同加方一道，落实好两国领导人重要共识，巩固传统领域合作，加强新能源汽车、人工智能等新兴领域合作，推动中加新型战略伙伴关系在健康、稳定、可持续的轨道上向前发展。\n乔利表示，加方高度重视发展对华关系，愿同中方深化企业互利合作，推动加中关系健康稳定发展。\n在会见索文森时，韩正表示，中国政府高度重视人民健康，“十五五”时期将加快建设健康中国，努力使人均预期寿命提高到80岁。希望诺和诺德公司发挥自身优势，积极参与健康中国建设。中方将继续扩大高水平对外开放，持续打造市场化、法治化、国际化一流营商环境，支持包括诺和诺德在内的广大外资企业在华更好发展。\n索文森表示，诺和诺德公司看好中国经济发展前景，将继续拓展在华业务，参与中国医药行业发展，为健康中国建设作出更多贡献。\n《 人民日报 》（ 2026年06月19日 01 版）",
+  "image_url": null,
+  "published_at": "2026-06-19T12:00:00+00:00",
+  "event_date": "2026-06-18",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中加关系",
+    "健康中国",
+    "对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中加关系",
+      "name_en": "China-Canada Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康中国",
+      "name_en": "Healthy China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "北京",
+    "中加关系",
+    "健康中国",
+    "对外开放"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Beijing",
+    "China-Canada Relations",
+    "Healthy China",
+    "Opening-up"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260619-cpcnews-29bcf4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

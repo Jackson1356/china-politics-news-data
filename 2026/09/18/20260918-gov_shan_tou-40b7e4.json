@@ -1,0 +1,90 @@
+{
+  "id": "20260918-gov_shan_tou-40b7e4",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/styw/content/post_2569306.html",
+  "title_zh": "汕头市委常委会召开会议 研究教师工作和安全生产工作",
+  "title_en": "Shantou Municipal Party Standing Committee Meets on Teachers' Work and Workplace Safety",
+  "summary_zh": "9月17日上午，汕头市委书记庄悦群主持召开市委常委会会议，传达学习习近平总书记重要指示精神，研究部署教师队伍建设和安全生产等工作。",
+  "summary_en": "On the morning of Sept 17, Shantou Party Secretary Zhuang Yuequn chaired a meeting of the municipal Party Standing Committee to convey and study General Secretary Xi Jinping's instructions and to plan work on the teaching workforce and workplace safety.",
+  "body_zh": "9月17日上午，市委常委会召开会议，认真传达学习习近平总书记在第四十二个教师节到来之际作出的重要指示和对山东青岛市北海造船厂一货轮火灾事故作出的重要指示精神，传达学习省有关会议、省领导同志有关批示精神，研究我市贯彻落实意见。市委书记庄悦群主持会议并讲话。\n会议强调，要深入学习贯彻习近平总书记关于教育的重要论述，把教师队伍建设摆在重要位置抓紧抓实，为促进汕头教育事业、建设区域教育高地提供强有力支撑。要全面贯彻党的教育方针，加强教师队伍思想政治建设和理想信念教育，以教育家精神铸魂强师，引导广大教师牢记为党育人、为国育才的初心使命，努力培养更多德智体美劳全面发展的社会主义建设者和接班人。要构建素质精良教师队伍，加大优秀教师培养力度，配强中小学校领导班子，开展“人工智能+教育”行动，充分激发教师队伍活力与创造力，涵养高尚师德师风，全面提升教师队伍教书育人的专业素质能力。要优化办学资源配置，顺应学龄人口梯次变化、区域分化趋势，以人口流向定师资投向，推动城乡基础教育均衡发展，提高教育公共服务质量。要营造全社会尊师重教浓厚氛围，保障教师合法权益，持续减轻教师负担，让广大教师安心从教、热心从教、舒心从教。\n会议强调，要始终绷紧安全生产这根弦，做好安全生产事故深度分析研判，以“等不起”、“坐不住”、“放不下”的责任感紧迫感，把安全工作融入日常、严在平常、抓在经常，坚决防范遏制重特大事故发生。要举一反三抓好船舶领域安全生产工作，对停靠维修、改装保养船舶作业进行大起底大检查，加强载运危险货物船舶、渔船、游船等重点船舶和港口码头安全监管，严查“三无”船舶、摩托快艇违法行为，及时消除各类安全隐患。要抓好中秋、国庆假期安全保障工作，紧盯旅游景区、道路交通、酒店民宿、大型群众性活动和森林防火等领域，从严加强风险隐患排查整治和安全科普教育，强化值班值守和应急处置，备齐各类抢险救援力量，切实提升城市安全韧性，全力保障人民群众生命财产安全。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "party",
+  "keywords": [
+    "教师队伍建设",
+    "安全生产",
+    "教育均衡发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教师队伍建设",
+      "name_en": "Teaching Workforce Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育均衡发展",
+      "name_en": "Balanced Education Development"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕头",
+    "教师队伍建设",
+    "安全生产",
+    "教育均衡发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shantou",
+    "Teaching Workforce Development",
+    "Workplace Safety",
+    "Balanced Education Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260918-gov_shan_tou-40b7e4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

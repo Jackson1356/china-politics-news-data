@@ -1,0 +1,110 @@
+{
+  "id": "20260922-gov_zhan_jiang-fc299d",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2227040.html",
+  "title_zh": "余钢李勇毅会见外国驻穗领馆官员",
+  "title_en": "Yu Gang and Li Yongyi Meet with Foreign Consuls General Stationed in Guangzhou",
+  "summary_zh": "9月21日下午，湛江市委书记余钢、市长李勇毅会见老挝、法国、印度三国驻穗总领事一行，就深化经贸、产业、港口物流等领域交流合作举行友好会谈。",
+  "summary_en": "On the afternoon of Sept 21, Zhanjiang Party Secretary Yu Gang and Mayor Li Yongyi met with the consuls general of Laos, France and India in Guangzhou for friendly talks on deepening cooperation in trade, industry and port logistics.",
+  "body_zh": "9月21日下午，市委书记余钢，市委副书记、市长李勇毅会见老挝驻穗总领事潘塔翁、法国驻穗总领事罗宏灵、印度驻穗总领事马经儒一行，就持续促进深化各领域交流合作进行友好会谈。\n长期以来，湛江与老挝、法国、印度等国家保持着真诚友好的合作交流关系，在经贸、人文、产业、港口物流、生态环境保护等领域保持密切往来，深化务实合作。2025年，湛江至老挝万象国际航线开通，为深化双方友好合作奠定基础。今年4月，法国经贸团组到访湛江，推动双方在产业、经贸等领域交流合作。湛江与印度已开通海铁联运班列，构建了稳定高效的陆海联动通道。\n老挝驻穗总领事潘塔翁、法国驻穗总领事罗宏灵、印度驻穗总领事马经儒表示，湛江是一座历史悠久、风景优美的滨海城市，有着得天独厚的区位优势，希望未来持续深化与湛江的交流互鉴，共享发展机遇，进一步拓展双方在各领域的互利合作。\n市领导程凤英、吴国雄参加会见。\n陈彦 湛新",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "对外友好交流",
+    "经贸合作",
+    "地方外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-gang-zhanjiang",
+      "name_zh": "余钢",
+      "name_en": "Yu Gang"
+    },
+    {
+      "kind": "person",
+      "id": "li-yongyi-zhanjiang",
+      "name_zh": "李勇毅",
+      "name_en": "Li Yongyi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外友好交流",
+      "name_en": "Foreign Friendly Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方外交",
+      "name_en": "Local Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "余钢",
+    "李勇毅",
+    "湛江",
+    "对外友好交流",
+    "经贸合作",
+    "地方外交"
+  ],
+  "tags_en": [
+    "Yu Gang",
+    "Li Yongyi",
+    "Zhanjiang",
+    "Foreign Friendly Exchanges",
+    "Trade and Economic Cooperation",
+    "Local Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "yu-gang-zhanjiang",
+      "li-yongyi-zhanjiang",
+      {
+        "id": null,
+        "name_zh": "马经儒"
+      },
+      {
+        "id": null,
+        "name_zh": "吴国雄"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260922-gov_zhan_jiang-fc299d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

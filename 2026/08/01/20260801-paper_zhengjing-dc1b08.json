@@ -1,0 +1,108 @@
+{
+  "id": "20260801-paper_zhengjing-dc1b08",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33693049",
+  "title_zh": "湖南两所高校因学校情况有变临时调整录取通知书签发人",
+  "title_en": "Two Hunan Universities Adjust Admission Letter Signers Due to Changed Circumstances",
+  "summary_zh": "湖南省教育厅近日公告，因学校情况变化，南华大学和益阳医学高等专科学校调整录取通知书签发人，改为党委书记签发。此前南华大学校长夏昆因涉嫌严重违纪违法被查。",
+  "summary_en": "Hunan Education Department adjusted admission letter signers at two universities to their Party secretaries after President Xia Kun of University of South China was investigated for serious discipline violations.",
+  "body_zh": "因学校情况有变，湖南两所高校临时调整录取通知书签发人\n澎湃新闻记者 钟煜豪\n湖南省教育厅近日发布公告称，根据教育部有关规定，前期省教育厅已对2026年湖南省省属高校录取通知书签发人名单予以公布。因学校情况发生变化，南华大学、益阳医学高等专科学校对录取通知书签发人进行了调整。\n目前，南华大学录取通知书的签发人改为党委书记唐忠阳，益阳医学高等专科学校录取通知书签发人改为党委书记周奎。\n为继续实行校长签发录取通知书制度，落实高校招生主体责任，此前的7月21日，湖南省教育厅发布2026年全省132所省属高校录取通知书签发人名单，大部分为学校校长/院长，极少数为党委书记或常务副院长。当时，南华大学录取通知书签发人为校长夏昆，益阳医学高等专科学校录取通知书签发人为校长周志宏。\n不过在7月28日，三湘风纪网站通报称，南华大学党委副书记、校长夏昆涉嫌严重违纪违法，目前正接受湖南省纪委监委纪律审查和监察调查。\n另据益阳医学高等专科学校官网“现任领导”栏目资料，周志宏已不再担任该校校长。",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "discipline",
+  "keywords": [
+    "高校管理",
+    "人事调整",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南省教育厅",
+      "name_en": "Hunan Provincial Education Department"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "南华大学",
+      "name_en": "University of South China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校管理",
+      "name_en": "University Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "湖南省教育厅",
+    "南华大学",
+    "湖南",
+    "高校管理",
+    "人事调整",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Hunan Provincial Education Department",
+    "University of South China",
+    "Hunan",
+    "University Management",
+    "Personnel Adjustment",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖南省教育厅",
+        "name_en": "Hunan Provincial Education Department"
+      },
+      {
+        "name_zh": "南华大学",
+        "name_en": "University of South China"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260801-paper_zhengjing-dc1b08",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

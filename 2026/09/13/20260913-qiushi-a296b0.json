@@ -1,0 +1,97 @@
+{
+  "id": "20260913-qiushi-a296b0",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260913/48e33c7ad79b4daebff036a09b4c358e/c.html",
+  "title_zh": "习近平圆满结束出席金砖国家领导人第十八次会晤",
+  "title_en": "Xi Jinping Concludes Attendance at 18th BRICS Leaders' Summit",
+  "summary_zh": "当地时间9月13日中午，国家主席习近平圆满结束出席在印度新德里举行的金砖国家领导人第十八次会晤，启程返回北京，印度政府高级官员到机场送行。",
+  "summary_en": "At noon local time on September 13, President Xi Jinping concluded his attendance at the 18th BRICS Leaders' Summit in New Delhi, India, and departed for Beijing, seen off at the airport by senior Indian government officials.",
+  "body_zh": "新华社新德里9月13日电 当地时间9月13日中午，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤返回北京。\n离开新德里时，印度政府高级官员到机场送行。\n前往机场途中，当地华侨华人和中资企业代表挥舞中印两国国旗，热烈祝贺习近平主席出席金砖国家领导人第十八次会晤圆满成功。",
+  "image_url": null,
+  "published_at": "2026-09-13T12:00:00+00:00",
+  "event_date": "2026-09-13",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "新德里",
+    "金砖合作",
+    "元首外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New Delhi",
+    "BRICS Cooperation",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260913-qiushi-a296b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/09/13/VIDE18UtHtM6QrQQOAYITezu260913.shtml",
+      "title_zh": "[视频]习近平圆满结束出席金砖国家领导人第十八次会晤",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080965.htm",
+      "title_zh": "习近平圆满结束出席金砖国家领导人第十八次会晤",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

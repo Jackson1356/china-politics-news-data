@@ -1,0 +1,96 @@
+{
+  "id": "20260803-gov_dan_dong-0c81b5",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202608/0178571858761564.html",
+  "title_zh": "蒋冰到驻丹某部和丹东军分区走访慰问",
+  "title_en": "Jiang Bing Visits Military Unit and Dandong Military Subarea",
+  "summary_zh": "8月1日上午，丹东市委书记蒋冰先后到驻丹某部和丹东军分区走访慰问，代表市委、市政府向广大官兵致以节日祝福和诚挚问候。",
+  "summary_en": "On the morning of August 1, Jiang Bing, Party Secretary of Dandong, visited a military unit and the Dandong Military Subarea, expressing festival greetings on behalf of the municipal committee and government.",
+  "body_zh": "8月1日上午，市委书记蒋冰先后到驻丹某部和丹东军分区走访慰问，代表市委、市政府和全市人民，向广大驻丹部队指战员、武警部队官兵、军队文职人员和民兵预备役人员致以节日祝福和诚挚问候。\n在驻丹某部，蒋冰详细了解部队建设发展情况，认真观摩训练科目，亲身体验模拟训练，与一线官兵亲切交谈，关心询问训练安排、日常保障和生活情况，希望大家苦练军事本领，丰富实战经验，创新战斗力建设和运用模式，在强军兴军的新征程上奋飞向前，坚决扛牢守护万家灯火、一方平安的职责使命。\n在丹东军分区，蒋冰表示，丹东是一座红色历史悠久、红色底蕴深厚的英雄城市。一直以来，军分区全体官兵牢记初心使命、传承红色基因、扎根丹东大地，在国防动员、应急处突、抢险救灾、乡村振兴等各项工作中主动担当作为，为丹东经济社会发展作出了重要贡献。今年是中国共产党成立105周年，也是红军长征胜利90周年，明年将迎来建军100周年。军分区要深入学习贯彻习近平强军思想，毫不动摇坚持党对人民军队的绝对领导，聚焦新时代强军目标，扎实推进国防动员和后备力量建设，持续深化军地协同联动，巩固发展军政军民团结的良好局面，积极动员广大官兵和民兵预备役人员参与地方建设，为实现建军一百年奋斗目标、推进中国式现代化丹东实践作出新的更大贡献。\n蒋冰强调，全市各级党委、政府要深入贯彻落实习近平总书记关于双拥工作的重要指示精神，坚定不移做好拥军优抚工作，用心用情落实拥军优属各项政策，加强全民国防教育，在全社会营造尊崇军人、关心军队、支持国防的浓厚氛围，不断谱写新时代军政军民团结的新篇章。\n丹东军分区和驻丹部队官兵感谢市委、市政府和全市人民的关心支持，表示要始终牢记初心使命，坚决锚定建军一百年奋斗目标，持续加强练兵备战，主动融入丹东发展大局，以实际行动守护丹东人民幸福安宁，为丹东高质量发展贡献强军力量。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "双拥工作",
+    "拥军优抚",
+    "国防建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "蒋冰",
+      "name_en": "Jiang Bing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Double Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "拥军优抚",
+      "name_en": "Military Support and Preferential Treatment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防建设",
+      "name_en": "National Defense Construction"
+    }
+  ],
+  "tags_zh": [
+    "蒋冰",
+    "丹东",
+    "双拥工作",
+    "拥军优抚",
+    "国防建设"
+  ],
+  "tags_en": [
+    "Jiang Bing",
+    "Dandong",
+    "Double Support Work",
+    "Military Support and Preferential Treatment",
+    "National Defense Construction"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "蒋冰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260803-gov_dan_dong-0c81b5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

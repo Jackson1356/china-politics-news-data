@@ -1,0 +1,84 @@
+{
+  "id": "20260918-bjnews-7b1d9c",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789736961129263.html",
+  "title_zh": "华源任上海市副市长",
+  "title_en": "Hua Yuan Appointed Deputy Mayor of Shanghai",
+  "summary_zh": "上海市人大常委会会议决定任命华源为上海市副市长，并任免市水务局、文化和旅游局、法院、检察院等一批负责人。",
+  "summary_en": "The Shanghai Municipal People's Congress Standing Committee appointed Hua Yuan as deputy mayor of Shanghai and approved a batch of personnel changes in municipal government, court and procuratorate posts.",
+  "body_zh": "决定任命华源为上海市副市长；\n任命姚卫华为上海市第十六届人民代表大会常务委员会代表工作委员会副主任；免去曹扶生的上海市人民代表大会常务委员会副秘书长、办公厅主任职务；免去张婷婷的上海市第十六届人民代表大会社会建设委员会副主任委员职务；\n决定任命高昊旻为上海市水务局局长；决定任命赵勇为上海市文化和旅游局局长；决定免去史家明的上海市水务局局长职务；决定免去钟晓敏的上海市文化和旅游局局长职务；\n任命朱丹为上海市高级人民法院副院长、审判委员会委员、审判员；免去王光贤的上海市高级人民法院副院长、审判委员会委员、审判员职务；\n决定任命谭滨为上海市第二中级人民法院院长；决定免去郭伟清的上海市第二中级人民法院院长职务；\n任命皇甫长城为上海市人民检察院副检察长、检察委员会委员、检察员；\n批准免去葛建军的嘉定区人民检察院检察长职务。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "地方治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hua-yuan-shanghai",
+      "name_zh": "华源",
+      "name_en": "Hua Yuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方治理",
+      "name_en": "Local Governance"
+    }
+  ],
+  "tags_zh": [
+    "华源",
+    "上海",
+    "人事任免",
+    "地方治理"
+  ],
+  "tags_en": [
+    "Hua Yuan",
+    "Shanghai",
+    "Personnel Appointments",
+    "Local Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "hua-yuan-shanghai"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260918-bjnews-7b1d9c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

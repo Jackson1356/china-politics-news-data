@@ -1,0 +1,101 @@
+{
+  "id": "20260811-peoples_sd-8a849b",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/0811/c166192-41664736.html",
+  "title_zh": "周乃翔主持召开省政府常务会议",
+  "title_en": "Zhou Naixiang Chairs Shandong Provincial Government Executive Meeting",
+  "summary_zh": "8月10日，山东省委副书记、省长周乃翔主持召开山东省政府常务会议，研究群众身边不正之风和腐败问题集中整治、安全生产、防范和打击非法金融活动等工作。",
+  "summary_en": "On August 10, Zhou Naixiang, Deputy Party Secretary and Governor of Shandong, chaired a provincial government executive meeting to discuss anti-corruption campaigns, work safety, and combating illegal financial activities.",
+  "body_zh": "周乃翔主持召开省政府常务会议\n8月10日，山东省委副书记、省长周乃翔主持召开山东省政府常务会议，研究群众身边不正之风和腐败问题集中整治、安全生产、防范和打击非法金融活动等工作。\n会议指出，要深入学习贯彻习近平总书记关于群众身边不正之风和腐败问题集中整治工作的重要指示批示精神，认真落实中央纪委国家监委工作部署，按照省委要求，牢固树立和践行正确政绩观，纵深推进集中整治，着力解决群众反映强烈的突出问题，确保取得实实在在的成效。要坚决抓好高标准农田建设突出问题整治，建立健全建设、运营、管护机制，建好用好信息化智慧监管系统，提升高标准农田建设质效。要加强拖欠农民工工资问题源头治理，坚决纠治各类欠薪行为，持续强化监督管理，维护好农民工合法权益。\n会议强调，要深入学习贯彻习近平总书记关于安全生产的重要论述，按照党中央、国务院部署要求，压紧压实安全生产责任，深入开展安全生产治本攻坚，加强化工、矿山、消防、燃气、建筑施工、道路交通、工贸、文旅、海上等重点领域风险隐患排查整治，周密细致做好台风“白海豚”防范应对工作，坚决防止各类事故发生，全力保障人民群众生命财产安全。\n会议指出，要深入推进防范和打击非法金融活动总体战，坚持防打并举、标本兼治，持续加强源头治理，完善风险监测预警体系，精准识别处置苗头性、倾向性问题，常态化开展普法宣传和风险警示教育，切实维护金融安全和社会大局稳定。\n会议还研究了其他事项。（毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败斗争",
+    "安全生产",
+    "非法金融整治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败斗争",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "非法金融整治",
+      "name_en": "Combating Illegal Financial Activities"
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "山东",
+    "反腐败斗争",
+    "安全生产",
+    "非法金融整治"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Shandong",
+    "Anti-Corruption",
+    "Work Safety",
+    "Combating Illegal Financial Activities"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260811-peoples_sd-8a849b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_zi_bo",
+      "source_tier": null,
+      "url": "https://www.zibo.gov.cn/art/2026/8/10/art_14322_3015108.html",
+      "title_zh": "周乃翔主持召开省政府常务会议",
+      "published_at": "2026-08-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

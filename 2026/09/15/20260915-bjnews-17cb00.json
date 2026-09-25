@@ -1,0 +1,83 @@
+{
+  "id": "20260915-bjnews-17cb00",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789445036129513.html",
+  "title_zh": "国家统计局：8月份经济运行呈现“三稳两快”特点",
+  "title_en": "NBS: August Economy Shows 'Three Stabilities, Two Fast Growths'",
+  "summary_zh": "9月15日，国新办举行新闻发布会，国家统计局新闻发言人付凌晖介绍2026年8月份国民经济运行情况，称经济运行呈现“三稳两快”特点。",
+  "summary_en": "At a Sept 15 State Council Information Office briefing, NBS spokesperson Fu Linghui said China's economy in August showed 'three stabilities and two fast growths,' citing steady output, employment and prices, and rapid growth in emerging industries and trade.",
+  "body_zh": "新京报讯（记者姜慧梓）9月15日，国新办举行新闻发布会，介绍2026年8月份国民经济运行情况。国家统计局新闻发言人、总经济师付凌晖介绍，8月份经济运行主要呈现“三稳两快”的特点。\n“三稳”表现在生产稳、就业稳、物价稳。\n生产方面，受中东地缘政治冲突影响，国际原油市场持续波动，一些重要原材料供应紧张。我国作为全球能源进口大国和制造业大国，保障能源供给和企业生产稳定面临较大压力。在此情况下，我国积极加大国内能源保供力度，推进多元化进口，加之近年来我国能源绿色转型成效明显，有效保障国内能源供给，支撑了生产的稳定。8月份，规模以上工业增加值和服务业生产指数分别增长5.2%和4.1%，保持总体平稳。\n生产稳为就业稳打下了较好基础。8月份，全国城镇调查失业率为5.3%，比上月上升0.1个百分点，主要是由于新毕业学生集中进入劳动力市场带来的季节性影响。就业主体人群，即30-59岁劳动力主体人群的城镇调查失业率为3.9%，与上月、上年同期均持平，保持总体稳定。从行业来看，尽管受到结构调整因素影响，部分行业就业同比有所减少，但制造业就业人数总体稳定，信息传输软件和信息技术服务业就业人数明显增加。\n物价方面，国际地缘政治冲突加剧全球大宗商品市场波动，冲击全球主要国家物价稳定。今年以来，主要发达经济体通胀水平明显提升。我国积极加大市场保供力度，强化民生商品生产，有效保障市场供给，促进了价格稳定。8月份，居民消费价格同比上涨0.8%，工业生产者出厂价格上涨3.8%，从国际比较看，处于比较平稳的水平。\n“两快”指的是新兴产业增长快和进出口增长快。\n新兴产业方面，8月份，规模以上高技术制造业和数字产品制造业增加值同比分别增长16.7%、15.7%，新动能对规模以上工业增长的贡献超过六成，且在继续提升。信息传输、软件和信息技术服务业生产指数增长9.6%，对服务业生产指数增长的贡献超过20%。\n进出口方面，8月份，我国货物进出口总额同比增长19.8%，保持快速增长。从出口看，我国新能源汽车、锂电池等绿色产品出口增长较快；从进口看，我国从东盟、非洲、拉丁美洲等发展中国家进口大幅增长，为发展中国家产业发展提供了新机遇。\n付凌晖表示，尽管外部环境动荡不安、不稳定不确定因素较多，但我国经济克服困难、保持平稳运行，新动能积聚壮大，显示出强大韧性和活力，成为全球发展的重要增长极和稳定源。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "国民经济运行",
+    "新兴产业",
+    "进出口"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国民经济运行",
+      "name_en": "National Economic Performance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新兴产业",
+      "name_en": "Emerging Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进出口",
+      "name_en": "Import and Export"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "国民经济运行",
+    "新兴产业",
+    "进出口"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "National Economic Performance",
+    "Emerging Industries",
+    "Import and Export"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-bjnews-17cb00",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

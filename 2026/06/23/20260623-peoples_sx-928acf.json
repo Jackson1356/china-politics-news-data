@@ -1,0 +1,77 @@
+{
+  "id": "20260623-peoples_sx-928acf",
+  "source": "peoples_sx",
+  "source_name_zh": "人民网 山西",
+  "source_name_en": "People's Daily Shanxi",
+  "source_url": "http://sx.people.com.cn/n2/2026/0623/c352664-41618240.html",
+  "title_zh": "人工智能带来金融服务新体验",
+  "title_en": "AI Brings New Experiences to Financial Services",
+  "summary_zh": "5月26日，支付宝推出AI钱包及相关技术协议，旨在通过人工智能提升金融服务体验并构建AI支付新基建。",
+  "summary_en": "On May 26, Alipay launched the AI Wallet and related technical protocols to enhance financial service experiences and build new AI payment infrastructure.",
+  "body_zh": "AI钱包将成为用户“数字管家”\n人工智能带来金融服务新体验\n地铁上，浙江杭州的程序员石翼点开了支付宝的“AI（人工智能）钱包”功能，这是他的AI“数字管家”，从授权“AI帮抢”的订单，到一句话完成点单的奶茶，每一笔AI代理完成的支出都清晰可查。\n5月26日，支付宝正式推出AI钱包。依托这一新功能，用户可在支付前、支付中对“Agent（智能体）任务”进行实时管理，也能进行支付后的Agent账单查询，实现智能消费全程可视。加上此前落地的AI付、AI收两大核心产品，以及“中国首个智能体商业信任协议”和“智能安全系统”打造智能体可信可溯交易的底座，支付宝正加速推进AI与支付的深度融合。\n手工编织爱好者小曼一直想拥有一个独立电商网站，展示自己的手作编织包。但自建网站、接入支付系统，对她来说门槛太高。最近，她在QoderAI开发平台（一款编码平台）通过自然语言输入：“创建一个手作编织包的独立电商网站”，系统快速搭建起网站并接入了AI收功能。当晚，她的第一笔订单就实现了。\n“在AI时代，用户对顺滑的全场景智能服务体验需求强烈。现在，AI付打通了消费体验的‘最后一公里’，AI收连接了商业变现的‘最初一公里’，而新发布的AI钱包则将成为用户在智能世界的‘数字管家’，三者共同构建起了全覆盖、可普及的全栈AI支付解决方案。”蚂蚁集团AI支付总经理朱林表示。\nAI支付要实现跨终端、跨系统、跨平台运行，离不开底层技术框架的支撑。当AI能力延伸到收付款等场景时，新的问题也随之浮现：AI操作是否足够安全？更换设备或应用后服务体验能否保持连贯？\n为解决这些问题，支付宝积极推动技术标准建设。今年1月，支付宝联合千问、淘宝、大麦、阿里云百炼等伙伴发布了面向Agent商业需求的开放技术协议——ACT协议（智能体商业信任协议），为AI与电商、外卖等服务平台的协同打造了一套“通用语言”。4月，协议升级至2.0版。ACT协议从底层重构了智能体支付的信任机制与能力边界，实现了AI操作全流程可追溯、可验证，让人更放心；支持自动化交易流程，提升服务效率；统一多平台服务标准，避免体验割裂。安全方面，支付宝AgentPayGuard（AI付智能安全系统）已经成功通过中国信通院泰尔实验室两项权威安全认证。\n移动支付是重要的金融基础设施，随着AI时代到来，支付机构率先推出AI支付的“对话即交易”，正在搭建的不仅是一套新产品，更是面向AI时代的“新基建”。\n《 人民日报 》（ 2026年06月23日 12 版）",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-06-23T08:00:31Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "金融科技",
+    "数字支付"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融科技",
+      "name_en": "Fintech"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字支付",
+      "name_en": "Digital Payment"
+    }
+  ],
+  "tags_zh": [
+    "人工智能",
+    "金融科技",
+    "数字支付"
+  ],
+  "tags_en": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Digital Payment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260623-peoples_sx-928acf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_zj",
+      "source_tier": 3,
+      "url": "http://zj.people.com.cn/n2/2026/0623/c186327-41617891.html",
+      "title_zh": "人工智能带来金融服务新体验",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

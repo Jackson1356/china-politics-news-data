@@ -1,0 +1,104 @@
+{
+  "id": "20260727-gov_wei_hai-78a5d3",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/7/27/art_58817_6506966.html",
+  "title_zh": "孔凡萍主持召开市政府常务会议",
+  "title_en": "Kong Fanping Chairs Municipal Government Executive Meeting",
+  "summary_zh": "7月24日，威海市委副书记、市长孔凡萍主持召开市政府常务会议，传达学习习近平总书记重要指示，研究安全生产、经济运行和高标准农田建设等工作。",
+  "summary_en": "On July 24, Kong Fanping, Deputy Secretary of Weihai Municipal Committee and Mayor, presided over the executive meeting of the municipal government to convey Xi Jinping's important instructions and discuss work on safety production, economic operation, and high-standard farmland construction.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯7月24日，市委副书记、市长孔凡萍主持召开市政府第71次常务会议，传达学习习近平总书记近期重要讲话、重要指示精神，落实省委、省人民政府工作部署，研究分析经济运行工作，审议有关事项。\n会议指出，近期习近平总书记接连就安全生产和防灾减灾救灾工作作出重要指示批示，为我们做好安全生产和防灾减灾救灾工作提供了根本遵循。全市各级各部门要深入学习贯彻习近平总书记指示批示精神，深刻汲取教训，以“时时放心不下”的责任感，抓紧抓细抓实安全生产和防灾救灾各项工作。要时刻紧绷安全生产这根弦，坚决克服麻痹思想和侥幸心理，深入排查整治各类风险隐患，更好统筹发展和安全。要扎实做好防灾减灾救灾工作，抓好既定部署措施落实，强化监测预警和应急救援准备，及时做好各类应急响应。\n会议传达省委常委会（扩大）会议暨省委财经委员会会议精神，传达周乃翔省长来威调研精神，强调要进一步扛牢经济稳增长政治责任，强化经济运行分析，做好重点行业和企业帮扶，进一步细化措施，以更精准有力的工作，推动经济稳定增长。要把经济发展制约因素、主观因素、支撑因素、风险因素分析透，保持定力、精准发力、持续用力，以主观工作的确定性，对冲客观因素的不确定性。要完善机制，强化经济运行监测预警，及时发现趋势性问题，做到提前预警、及时应对。\n会议传达全省高标准农田建设突出问题整治推进会议精神，强调要严格按照省委“四个查清”要求，持续开展拉网式排查，彻底摸清高标准农田问题底数，确保所有项目问题都查全查深。要持续加大整改力度，分类制定整改措施，有序整改到位。要健全长效管护机制，聚焦重点领域，分层分类研究出台配套制度措施，全方位堵塞制度漏洞，消除监管盲区。要压紧压实工作责任，合力推动整治工作走深走实、见行见效。",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "economy",
+  "keywords": [
+    "安全生产",
+    "经济运行",
+    "高标准农田建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Safety Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高标准农田建设",
+      "name_en": "High-Standard Farmland Construction"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "安全生产",
+    "经济运行",
+    "高标准农田建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Safety Production",
+    "Economic Operation",
+    "High-Standard Farmland Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260727-gov_wei_hai-78a5d3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

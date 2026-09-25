@@ -1,0 +1,115 @@
+{
+  "id": "20260814-chinanews_gn-ad35fa",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-14/10677735.shtml",
+  "title_zh": "国防部：“台独”死局演不赢、改不了",
+  "title_en": "Ministry of National Defense: 'Taiwan Independence' Deadlock Can't Be Won or Changed",
+  "summary_zh": "8月14日，国防部新闻发言人陈曦就涉军问题表示，“台独”死局演不赢、改不了，解放军持续提升反分裂反干涉实战能力。",
+  "summary_en": "On August 14, Defense Ministry spokesman Chen Xi said the 'Taiwan independence' deadlock cannot be won or changed, and the PLA will continue to enhance its combat capabilities against separatism and interference.",
+  "body_zh": "国防部：“台独”死局演不赢、改不了\n中新社北京8月14日电 (记者 李纯)国防部新闻发言人陈曦14日就近期涉军问题发布消息。他表示，“台独”死局演不赢、改不了。解放军枕戈待旦备实当下，持续提升反分裂反干涉实战能力，始终是捍卫国家主权和领土完整、维护台海和平稳定的稳固底牌。\n陈曦指出，所谓“汉光演习”从来都是装腔作势、劳民伤财的把戏，今年更让我们看清了赖清德假防卫、真逃跑的胆怯本性。民进党当局还肆意妄为地制造战争恐慌，加速把城市变战场、让民众上前线，破坏台湾社会安宁，损害老百姓安全福祉。\n陈曦说，正告民进党当局，“台独”死局演不赢、改不了。解放军枕戈待旦备实当下，持续提升反分裂反干涉实战能力，始终是捍卫国家主权和领土完整、维护台海和平稳定的稳固底牌。(完)\n国内新闻精选：\n- 2026年08月14日 18:36:50\n- 2026年08月14日 16:53:39\n- 2026年08月14日 16:18:09\n- 2026年08月14日 14:18:40\n- 2026年08月14日 14:18:36\n- 2026年08月14日 11:07:06\n- 2026年08月14日 08:40:16\n- 2026年08月14日 07:25:11\n- 2026年08月13日 21:58:04\n- 2026年08月13日 21:53:25",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "foreign",
+  "keywords": [
+    "台独",
+    "反分裂",
+    "国家主权",
+    "国防"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台独",
+      "name_en": "Taiwan Independence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反分裂",
+      "name_en": "Anti-Secession"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家主权",
+      "name_en": "National Sovereignty"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防",
+      "name_en": "National Defense"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "北京",
+    "台独",
+    "反分裂",
+    "国家主权",
+    "国防"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Beijing",
+    "Taiwan Independence",
+    "Anti-Secession",
+    "National Sovereignty",
+    "National Defense"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陈曦"
+      }
+    ],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260814-chinanews_gn-ad35fa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": 3,
+      "url": "https://hb.dzwww.com/p/p7vyqwV036.html",
+      "title_zh": "国防部：“台独”死局演不赢、改不了",
+      "published_at": "2026-08-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

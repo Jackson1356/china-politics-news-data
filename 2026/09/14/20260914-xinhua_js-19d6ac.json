@@ -1,0 +1,101 @@
+{
+  "id": "20260914-xinhua_js-19d6ac",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260914/b0016d2f2f364067a24309383fc621dc/c.html",
+  "title_zh": "江苏省政府召开常务会议 刘小涛主持",
+  "title_en": "Liu Xiaotao Chairs Jiangsu Provincial Government Executive Meeting",
+  "summary_zh": "9月11日，江苏省政府召开常务会议，省长刘小涛主持，研究优化交通运输、财政改革、青年社区等工作。",
+  "summary_en": "On September 11, Jiangsu Governor Liu Xiaotao chaired a provincial government executive meeting to study transport optimization, fiscal reform and youth community development.",
+  "body_zh": "9月11日，省政府召开常务会议，深入学习贯彻习近平总书记重要讲话重要指示精神，按照省委要求，研究优化交通运输、财政改革、青年社区等工作。省长刘小涛主持会议。\n会议审议了《江苏省“十五五”综合交通运输体系发展规划》，指出要统筹推进交通基础设施建设，强化海港、陆港、空港、信息港联动，优化道路航线网络节点布局，促进现代物流降本提质增效，加快培育发展交通领域新质生产力，完善现代化综合交通运输体系，高质量推进交通强省建设。\n会议审议了《关于支持青年社区建设的若干措施》，强调要把促进青年发展全面融入城市工作，分类型推动青年社区建设，布局首店经济等新业态激发活力空间，加大托育、医疗、交通等设施配套力度，打造一批“最懂年轻人”的青年社区。\n会议指出，要牢固树立当家理财意识，深入践行“大财政”理念，加强财政资金统筹，完善事前评估、事中监控、事后评价的闭环机制，更好集中财力办大事，推动更多资金资源“投资于人”、服务民生。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-11",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "交通运输体系规划",
+    "财政改革",
+    "青年社区建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输体系规划",
+      "name_en": "Transport System Planning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政改革",
+      "name_en": "Fiscal Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年社区建设",
+      "name_en": "Youth Community Development"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "交通运输体系规划",
+    "财政改革",
+    "青年社区建设"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Transport System Planning",
+    "Fiscal Reform",
+    "Youth Community Development"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260914-gov_tai_zhou-be860d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/9/14/art_60096_11829285.html",
+      "title_zh": "江苏省人民政府 要闻关注 省政府召开常务会议 刘小涛主持",
+      "published_at": "2026-09-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260811-local_sha_men_ri_bao_cn_fj-d96563",
+  "source": "local_sha_men_ri_bao_cn_fj",
+  "source_name_zh": "厦门日报",
+  "source_name_en": "厦门日报",
+  "source_media_id": "cac-cn-fj-df39a14a77",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.xmnn.cn/news/gnxw/202608/t20260811_444444.html",
+  "title_zh": "外交部就一些菲律宾籍人员涉嫌违法被查处答问",
+  "title_en": "Foreign Ministry Responds to Handling of Philippine Nationals Suspected of Illegal Acts",
+  "summary_zh": "外交部发言人郭嘉昆10日表示，百余名菲律宾公民因非法就业、非法居留被依法处理，并称执法规范文明。",
+  "summary_en": "Foreign Ministry spokesperson Guo Jiakun said on Aug 10 that over 100 Philippine nationals were lawfully handled for illegal employment and residence, noting civilized law enforcement.",
+  "body_zh": "新华社北京8月10日电 外交部发言人郭嘉昆10日回答记者提问时表示，百余名菲律宾公民因非法就业、非法居留被依法处理。\n有记者问：近期，一些菲律宾籍人员涉嫌违法被查处，能否介绍具体情况？此举能否解读为中方对菲律宾频繁抓扣中国公民的回应？\n郭嘉昆表示，全国移民管理机构持续深化在华“三非”外国人治理，依法开展专项行动。百余名菲律宾公民因非法就业、非法居留被依法处理。\n“在专项行动过程中，移民管理工作人员规范文明执法，保障了涉案外籍人员的权益。”郭嘉昆说。\n小\n中\n大\n外交部就一些菲律宾籍人员涉嫌违法被查处答问",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "外籍人员管理",
+    "三非治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外籍人员管理",
+      "name_en": "Foreigner Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三非治理",
+      "name_en": "Three Illegals Governance"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "外籍人员管理",
+    "三非治理"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Foreigner Management",
+    "Three Illegals Governance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260810-bjnews-2001d2",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-08/11/content_38936404.htm",
+      "title_zh": "外交部发言人就一些菲律宾籍人员涉嫌违法被查处答问",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

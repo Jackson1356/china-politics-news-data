@@ -1,0 +1,82 @@
+{
+  "id": "20260907-xinhua_politics-120bbb",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260907/88bb97a93459400198b4893824b45594/c.html",
+  "title_zh": "瑞金至延安“长征高铁”首发",
+  "title_en": "Ruijin-Yan'an High-Speed Railway Launches First Train",
+  "summary_zh": "9月6日，G3998次复兴号列车从江西瑞金站首发，当晚抵达陕西延安站，标志着连接两座红色地标的“长征高铁”开通。",
+  "summary_en": "On September 6, the Fuxing bullet train G3998 departed from Ruijin Station in Jiangxi and arrived at Yan'an Station in Shaanxi that evening, marking the opening of the 'Long March High-Speed Railway' linking two red landmarks.",
+  "body_zh": "9月6日上午11:02，G3998次复兴号列车从瑞金站首发，一路风驰电掣，于当晚22:34正点抵达延安站。从用脚板走完二万五千里，到时速300公里高铁飞驰；从一年有余的远征到11个半小时的直达，从瑞金至延安的这趟高铁，连接起两座红色地标，将信仰的力量注入时代发展的速度。\n这趟“长征高铁”，途经哪些站点？票价如何？沿线有哪些值得打卡的“地标”？跟随这张长图，一起了解。\n统筹：令伟家\n记者：赖星、王自宸、邵瑞\n制作：马发展",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-06",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "industry",
+  "keywords": [
+    "高铁建设",
+    "长征精神"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "瑞金",
+      "name_en": "Ruijin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-YA",
+      "name_zh": "延安",
+      "name_en": "Yan'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-Speed Railway Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    }
+  ],
+  "tags_zh": [
+    "瑞金",
+    "延安",
+    "高铁建设",
+    "长征精神"
+  ],
+  "tags_en": [
+    "Ruijin",
+    "Yan'an",
+    "High-Speed Railway Construction",
+    "Long March Spirit"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SN-YA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-xinhua_politics-120bbb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

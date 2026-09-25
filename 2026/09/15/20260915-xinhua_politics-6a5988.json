@@ -1,0 +1,113 @@
+{
+  "id": "20260915-xinhua_politics-6a5988",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260915/3c608dbfc24b43008bb3f5537130d3d0/c.html",
+  "title_zh": "平陆运河航区正式公布",
+  "title_en": "Pinglu Canal Navigation Area Officially Announced",
+  "summary_zh": "9月15日，广西海事局公布平陆运河航区，运河内河段自南宁横州市平塘江口至河海分界线暂定为内河B级航区，标志着运河航区体系全面确立。",
+  "summary_en": "On Sept 15, the Guangxi Maritime Safety Administration announced the Pinglu Canal navigation area, designating the inland section from Pingtang River mouth in Hengzhou, Nanning to the river-sea boundary as an inland Class B navigation area, marking the full establishment of the canal's navigation zoning system.",
+  "body_zh": "新华社南宁9月15日电（记者郭轶凡）记者从广西海事局获悉，9月15日，平陆运河航区正式对外公布，运河内河段自南宁横州市平塘江口至河海分界线，暂定为内河B级航区，标志着平陆运河航区体系全面确立。\n据了解，我国内河船舶航行区域按水文、气象条件分为A、B、C三级，等级越靠前，风浪条件越复杂，对船舶安全技术标准要求越高，其中A级航区对船舶结构、稳性、安全设备等要求最高。\n平陆运河航区体系形成梯度衔接的通航格局，即运河内河段、上游郁江段为B级航区，下游钦州湾河海交界区为“相当A级”航区。B级及以上航区级别船舶可在运河内河段合法航行，若要继续出海进入钦州湾河海交界区，需满足内河A级技术条件要求。\n据悉，航区划定后，符合条件的内河船舶可经运河直航钦州湾河海交界区，无需中途换船中转，大幅提升物流效率。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "内河航运",
+    "航运管理",
+    "物流效率"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广西海事局",
+      "name_en": "Guangxi Maritime Safety Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-NN",
+      "name_zh": "南宁",
+      "name_en": "Nanning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "内河航运",
+      "name_en": "Inland Shipping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航运管理",
+      "name_en": "Navigation Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流效率",
+      "name_en": "Logistics Efficiency"
+    }
+  ],
+  "tags_zh": [
+    "广西海事局",
+    "广西",
+    "南宁",
+    "内河航运",
+    "航运管理",
+    "物流效率"
+  ],
+  "tags_en": [
+    "Guangxi Maritime Safety Administration",
+    "Guangxi",
+    "Nanning",
+    "Inland Shipping",
+    "Navigation Regulation",
+    "Logistics Efficiency"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GX",
+      "CN-GX-NN"
+    ],
+    "companies": [
+      {
+        "name_zh": "广西海事局",
+        "name_en": "Guangxi Maritime Safety Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-xinhua_politics-6a5988",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34072605",
+      "title_zh": "平陆运河航区正式公布",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

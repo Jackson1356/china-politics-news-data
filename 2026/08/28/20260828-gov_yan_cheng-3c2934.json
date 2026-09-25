@@ -1,0 +1,109 @@
+{
+  "id": "20260828-gov_yan_cheng-3c2934",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/28/art_49_4449893.html",
+  "title_zh": "严汉平会见丹麦驻上海总领事严慕白",
+  "title_en": "Yan Hanping Meets Danish Consul General in Shanghai",
+  "summary_zh": "8月27日，市委书记严汉平在盐城会见丹麦驻上海总领事严慕白一行，双方就现代农业、绿色能源等领域合作展开交流。",
+  "summary_en": "On August 27, Yan Hanping, Party Secretary of Yancheng, met with Danish Consul General in Shanghai Yan Mubai and his delegation to discuss cooperation in modern agriculture and green energy.",
+  "body_zh": "8月27日，市委书记严汉平在盐会见丹麦驻上海总领事严慕白一行。\n严汉平对严慕白一行来访表示欢迎，并简要介绍全市经济社会发展情况。他说，当前，盐城正紧紧围绕“国际湿地、沿海绿城、江淮门户”城市定位，大力发展农业、新能源、汽车等特色产业，持续扩大对外合作交流。丹麦在畜牧业、新能源等领域拥有先进技术和成熟经验，与盐城合作前景广阔。希望双方立足现有合作基础，进一步密切交流交往，推动更多丹麦企业走进盐城、了解盐城、投资盐城，深化现代农业、绿色能源、防灾减灾等领域务实合作，实现互利共赢、共同发展。\n严慕白表示，丹麦高度重视与中国在绿色转型等领域的交流合作，盐城在新能源产业等方面的发展令人印象深刻。丹麦驻上海总领事馆愿积极发挥桥梁纽带作用，促进丹麦企业与盐城在风电产业、现代农业、科技创新等领域加强对接合作，推动双方合作取得更多务实成果。\n在盐期间，严慕白一行实地考察了部分园区和企业。\n副市长唐敬参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "对外合作",
+    "绿色能源",
+    "现代农业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "严慕白",
+      "name_en": "Yan Mubai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色能源",
+      "name_en": "Green Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代农业",
+      "name_en": "Modern Agriculture"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "严慕白",
+    "盐城",
+    "对外合作",
+    "绿色能源",
+    "现代农业"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Yan Mubai",
+    "Yancheng",
+    "International Cooperation",
+    "Green Energy",
+    "Modern Agriculture"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "唐敬"
+      },
+      {
+        "id": null,
+        "name_zh": "严慕白"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260828-gov_yan_cheng-3c2934",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260917-chinanews_gn-795620",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-17/10698247.shtml",
+  "title_zh": "中国成功发射天仪51、52星",
+  "title_en": "China Successfully Launches Tianyi-51 and Tianyi-52 Satellites",
+  "summary_zh": "北京时间9月17日10时40分，中国在酒泉卫星发射中心使用快舟十一号遥三运载火箭成功发射天仪51、52星，卫星顺利进入预定轨道。",
+  "summary_en": "On Sept 17, China launched the Tianyi-51 and Tianyi-52 satellites from the Jiuquan Satellite Launch Center using a Kuaizhou-11 Y3 rocket, and they entered their planned orbits.",
+  "body_zh": "中国成功发射天仪51、52星\n中新社北京9月17日电 (记者 马帅莎)北京时间9月17日10时40分，中国在酒泉卫星发射中心使用快舟十一号遥三运载火箭，成功将天仪51、52星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。\n天仪51、52星是全球首组成功入轨的商用中倾角InSAR(干涉合成孔径雷达)遥感卫星。区别于传统太阳同步轨道InSAR卫星，本组卫星采用中倾角轨道设计，重点面向中低纬度区域开展高频重访监测，适配中国全域及共建“一带一路”国家监测需求。\n据卫星研制方天仪空间介绍，本组卫星实现三项核心能力跃升。一是通过中倾角轨道实现高频重访，破解传统InSAR“重访慢”的行业痛点，可将目标区域干涉重访周期由当前的数天压缩至1天，后续多组卫星组网可进一步缩短至数小时；二是在中倾角观测体系下实现三维形变反演，破解传统InSAR对南北向形变“测不准”的共性难题；三是通过多视角协同成像消除城市高楼区域及高山深谷的观测盲区，破解传统InSAR“看不全”的行业痛点。\n依托上述能力，卫星可服务于山区地质灾害监测、城市风险建筑识别、水电工程巡检、交通干线安全防护等领域，搭建“常规一日一测、应急随时响应”的监测体系，为各行业安全监测提供近实时天基观测支撑。\n快舟十一号运载火箭由快舟航天空间科技有限公司研制，700公里太阳同步轨道运载能力1吨，具有飞行可靠性高、入轨精度高、准备周期短、保障需求少、发射成本低等特点。此次任务是快舟十一号运载火箭的第7次飞行。(完)\n国内新闻精选：\n- 2026年09月17日 11:28:00\n- 2026年09月17日 11:14:45\n- 2026年09月17日 10:41:29\n- 2026年09月17日 10:40:23\n- 2026年09月17日 10:21:28\n- 2026年09月17日 07:40:06\n- 2026年09月16日 15:23:24\n- 2026年09月16日 14:20:13\n- 2026年09月16日 10:05:04\n- 2026年09月16日 09:57:32",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "商业航天",
+    "遥感卫星",
+    "航天发射",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-JQ",
+      "name_zh": "酒泉",
+      "name_en": "Jiuquan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商业航天",
+      "name_en": "Commercial Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "遥感卫星",
+      "name_en": "Remote Sensing Satellites"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航天发射",
+      "name_en": "Space Launch"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    }
+  ],
+  "tags_zh": [
+    "酒泉",
+    "商业航天",
+    "遥感卫星",
+    "航天发射",
+    "一带一路"
+  ],
+  "tags_en": [
+    "Jiuquan",
+    "Commercial Spaceflight",
+    "Remote Sensing Satellites",
+    "Space Launch",
+    "Belt and Road Initiative"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS-JQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-chinanews_gn-795620",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

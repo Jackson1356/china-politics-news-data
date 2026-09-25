@@ -1,0 +1,105 @@
+{
+  "id": "20260922-gov_xi_an-4fc192",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2102214066810486785.html",
+  "title_zh": "蒿慧杰会见太古地产全球行政总裁彭国邦一行",
+  "title_en": "Xi'an Party Secretary Hao Huijie Meets Swire Properties CEO Tim Blackburn",
+  "summary_zh": "9月21日，陕西省委常委、西安市委书记蒿慧杰在西安会见太古地产全球行政总裁彭国邦一行，双方就推进西安太古里项目、深化互利合作进行交流。",
+  "summary_en": "On September 21, Hao Huijie, Party Secretary of Xi'an and a Standing Committee member of the Shaanxi Provincial Party Committee, met in Xi'an with Tim Blackburn, Global CEO of Swire Properties, to discuss the Xi'an Taikoo Li project and deeper cooperation.",
+  "body_zh": "9月21日，省委常委、市委书记蒿慧杰会见太古地产全球行政总裁彭国邦一行。\n彭国邦对市委市政府长期给予企业的关心和支持表示感谢，并介绍了西安太古里项目有关情况。他表示，西安历史底蕴厚重、区位优势凸显、消费动能强劲，与太古地产秉持的尊重历史、融入城市发展理念高度契合，太古地产对在西安发展充满信心，将充分发挥在商业开发运营方面的经验优势，积极践行绿色发展理念，引入更多优质国际品牌和独特体验型项目，营造历史文化与商业交融的独特氛围，共同把西安太古里打造成国际大都会的时尚典范。\n太古地产中国内地行政总裁戴可为，市委常委、市委秘书长和文全，有关市级部门和开发区负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "政企合作",
+    "城市商业开发"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭国邦",
+      "name_en": "Tim Blackburn"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政企合作",
+      "name_en": "Government-Enterprise Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市商业开发",
+      "name_en": "Urban Commercial Development"
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "彭国邦",
+    "西安",
+    "招商引资",
+    "政企合作",
+    "城市商业开发"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Tim Blackburn",
+    "Xi'an",
+    "Investment Attraction",
+    "Government-Enterprise Cooperation",
+    "Urban Commercial Development"
+  ],
+  "entities": {
+    "politicians": [
+      "hao-huijie",
+      {
+        "id": null,
+        "name_zh": "谢并"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260922-gov_xi_an-4fc192",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

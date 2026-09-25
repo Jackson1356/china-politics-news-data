@@ -1,0 +1,102 @@
+{
+  "id": "20260828-gov_shi_zui_shan-213d14",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/qzfxx/202608/t20260828_5325105.html",
+  "title_zh": "自治区政府召开常务会议",
+  "title_en": "Autonomous Region Government Holds Executive Meeting",
+  "summary_zh": "8月26日，自治区主席张雨浦主持召开自治区政府常务会议，研究国防动员建设、中央巡视反馈意见整改、自然灾害调查评估及部分“十五五”专项规划编制等工作。",
+  "summary_en": "On August 26, Chairman Zhang Yupu presided over the regional government executive meeting to discuss national defense mobilization, rectification of inspection feedback, natural disaster assessment, and the compilation of some 15th Five-Year Plan special programs.",
+  "body_zh": "8月26日，自治区主席张雨浦主持召开自治区政府2026年第20次常务会议，深入学习贯彻习近平总书记近期重要讲话精神，研究国防动员建设、中央巡视反馈意见整改、自然灾害调查评估和部分“十五五”专项规划编制等工作。\n会议听取全区国防动员工作情况汇报，强调要深入贯彻习近平强军思想，切实增强做好国防动员工作的使命感、责任感、紧迫感，落实落细各项任务，补齐补强短板弱项，持续巩固军政军民团结，为实现建军一百年奋斗目标贡献宁夏力量。\n会议听取自治区政府领导关于分管领域中央巡视反馈意见整改情况汇报，强调要全面落实巡视工作要求，坚定扛牢整改政治责任，以上率下领办督办重点难点问题，动真碰硬提高整改质效，标本兼治健全制度机制，以更大力度、更实举措推动解决产业发展、生态环保、民生保障等方面突出问题，切实把整改成果转化为推动高质量发展的实绩实效。\n会议审议通过自治区自然灾害调查评估实施办法，强调要坚持人民至上、生命至上，科学严谨、实事求是做好自然灾害调查评估工作，全面提升综合防范能力，加大基础设施建设力度，有效化解重大安全风险，切实维护人民群众生命财产安全和社会稳定。\n会议听取第四十七届世界葡萄与葡萄酒大会暨OIV成员国代表大会、第六届中国（宁夏）国际葡萄酒文化旅游博览会筹备工作情况汇报，指出要充分用好OIV大会首次落地中国、首次在宁举办的契机，积极宣传推介，精准招展招商，深化交流合作，全面提升国际化、专业化水平，努力把盛会办出特色、办出成效，助力中国葡萄酒“当惊世界殊”。\n会议还审议了自治区现代化应急体系建设、宁东能源化工基地等“十五五”专项规划，研究了职业教育优化布局、闲置资产盘活利用、自治区政府参事聘任等事项。（记者 周一青 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "party",
+  "keywords": [
+    "国防动员",
+    "巡视整改",
+    "自然灾害防治",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yupu",
+      "name_zh": "张雨浦",
+      "name_en": "Zhang Yupu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX",
+      "name_zh": "宁夏",
+      "name_en": "Ningxia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防动员",
+      "name_en": "National Defense Mobilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巡视整改",
+      "name_en": "Rectification of Inspection Feedback"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害防治",
+      "name_en": "Natural Disaster Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "张雨浦",
+    "宁夏",
+    "国防动员",
+    "巡视整改",
+    "自然灾害防治",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "Zhang Yupu",
+    "Ningxia",
+    "National Defense Mobilization",
+    "Rectification of Inspection Feedback",
+    "Natural Disaster Prevention",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yupu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260826-gov_yin_chuan-19f448",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

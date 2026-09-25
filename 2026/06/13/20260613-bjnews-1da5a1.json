@@ -1,0 +1,83 @@
+{
+  "id": "20260613-bjnews-1da5a1",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1781312467129862.html",
+  "title_zh": "美国防部将部分中企列入“中国军事企业清单” 商务部回应",
+  "title_en": "Ministry of Commerce Responds to US Department of Defense Adding Chinese Companies to 'Chinese Military Companies' List",
+  "summary_zh": "6月13日，商务部就美国国防部将部分中国企业列入“中国军事企业清单”一事表示强烈不满和坚决反对，敦促美方立即撤销相关措施。",
+  "summary_en": "On June 13, China's Ministry of Commerce expressed strong dissatisfaction and opposition to the US Department of Defense adding several Chinese companies to the 'Chinese Military Companies' list, urging the US to revoke the measures.",
+  "body_zh": "新京报讯 6月13日，商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问。\n有记者问：美东时间6月8日，美国国防部将多家中国企业列入“中国军事企业清单”，请问商务部对此有何回应？\n答：我们注意到这一情况。中方对此强烈不满、坚决反对。\n美方罔顾中美两国元首北京会晤共识，无视中美经贸关系大局，不断泛化国家安全概念，滥用国家力量，对中国企业进行无理打压，美方做法严重破坏国际经贸秩序，严重危害全球产供链稳定，严重损害中国企业正当合法权益。\n中方敦促美方立即停止错误做法，立即撤销有关措施，回到构建中美建设性战略稳定关系的正确轨道上来，为中国企业提供公平、公正、非歧视待遇。否则，中方必将坚决有力反制，由此产生的后果和责任完全由美方承担。",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2024-06-13",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "贸易制裁"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "美国国防部",
+      "name_en": "US Department of Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易制裁",
+      "name_en": "Trade Sanctions"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "美国国防部",
+    "中美关系",
+    "贸易制裁"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "US Department of Defense",
+    "China-US Relations",
+    "Trade Sanctions"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "美国国防部",
+        "name_en": "US Department of Defense"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260613-bjnews-1da5a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

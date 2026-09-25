@@ -1,0 +1,83 @@
+{
+  "id": "20260728-gov_cn_yaowen-afab70",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076848.htm",
+  "title_zh": "APEC林业部长级会议通过联合声明",
+  "title_en": "APEC Forestry Ministers Meeting Adopts Joint Statement",
+  "summary_zh": "2026年APEC林业部长级会议27日至28日在深圳举行，通过联合声明，聚焦生物多样性保护、打击非法林产品贸易及可持续森林管理。",
+  "summary_en": "The 2026 APEC Forestry Ministers Meeting was held in Shenzhen on July 27-28, adopting a joint statement that focuses on biodiversity protection, combating illegal timber trade, and sustainable forest management.",
+  "body_zh": "新华社深圳7月28日电（记者梁希之）2026年亚太经合组织（APEC）林业部长级会议27日至28日在深圳举行。会议通过《2026年APEC林业部长级会议联合声明》，期望各经济体促进生物多样性保护，加强打击林产品非法贸易执法工作，将森林治理和可持续森林管理纳入经济发展计划、政策框架与建议。\n根据联合声明，各经济体结合自身具体情况与发展重点，增加林业发展和合法林产品贸易的投融资机遇；支持林产品加工的转型升级和价值链提升；加强亚太区域在城市林业和水资源管理方面的合作，依托技术创新和可持续森林管理，修复生态系统、缓解栖息地碎片化；在符合可持续森林管理原则下，鼓励发展新兴森林产业、产品和服务。\n此次会议是APEC“中国年”系列重要活动之一，也是APEC时隔15年再次在中国举办的生态领域专业会议，主题为“增强亚太森林韧性 共享全民生态福祉”。\n其间，来自APEC21个经济体和7个国际组织的高级别代表、专家学者，围绕推进全球森林目标和促进科技创新与绿色产业融合等核心议题开展系列对话磋商，并达成广泛共识。\n作为亚太共同体的重要成员，中国积极落实四大全球倡议，推动中国林业发展取得重要成就，为全球贡献25%的新增绿化面积，提前实现2030年国家自主贡献森林蓄积量目标。不断强化科学保护，建设以国家公园为主体的自然保护地体系，将18%的陆域国土面积纳入自然保护地严格保护，正式设立首批5个国家公园。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-27",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "林业合作",
+    "生物多样性保护",
+    "可持续森林管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "林业合作",
+      "name_en": "Forestry Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物多样性保护",
+      "name_en": "Biodiversity Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "可持续森林管理",
+      "name_en": "Sustainable Forest Management"
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "林业合作",
+    "生物多样性保护",
+    "可持续森林管理"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "Forestry Cooperation",
+    "Biodiversity Protection",
+    "Sustainable Forest Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260728-gov_cn_yaowen-afab70",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

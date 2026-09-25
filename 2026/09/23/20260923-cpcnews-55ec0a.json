@@ -1,0 +1,120 @@
+{
+  "id": "20260923-cpcnews-55ec0a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0923/c64387-40804170.html",
+  "title_zh": "西藏等3省区党委主要负责同志职务调整",
+  "title_en": "Party Chief Positions Adjusted in Tibet and Two Other Provincial-Level Regions",
+  "summary_zh": "中共中央决定调整西藏、甘肃、青海三省区党委主要负责人：胡昌升任西藏自治区党委书记，吴晓军任甘肃省委书记，罗东川任青海省委书记。",
+  "summary_en": "The CPC Central Committee adjusted the top Party posts in three provincial-level regions: Hu Changsheng becomes Party Secretary of Tibet, Wu Xiaojun of Gansu, and Luo Dongchuan of Qinghai.",
+  "body_zh": "本报北京9月22日电 日前，中共中央决定：\n胡昌升同志任西藏自治区党委委员、常委、书记，不再担任甘肃省委书记、常委、委员职务；王君正同志不再担任西藏自治区党委书记、常委、委员职务。\n吴晓军同志任甘肃省委委员、常委、书记，不再担任青海省委书记、常委、委员职务。\n罗东川同志任青海省委书记。\n《 人民日报 》（ 2026年09月23日 04 版）",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任免",
+    "地方党委人事调整"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任免",
+      "name_en": "Cadre Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方党委人事调整",
+      "name_en": "Local Party Leadership Changes"
+    }
+  ],
+  "tags_zh": [
+    "中共中央",
+    "西藏",
+    "甘肃",
+    "青海",
+    "干部任免",
+    "地方党委人事调整"
+  ],
+  "tags_en": [
+    "CPC Central Committee",
+    "Tibet",
+    "Gansu",
+    "Qinghai",
+    "Cadre Appointments",
+    "Local Party Leadership Changes"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-XZ",
+      "CN-GS",
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260923-cpcnews-55ec0a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40804304.html",
+      "title_zh": "安徽等3省省委主要负责同志职务调整--时政--人民网",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803805.html",
+      "title_zh": "西藏等3省区党委主要负责同志职务调整 --时政--人民网",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

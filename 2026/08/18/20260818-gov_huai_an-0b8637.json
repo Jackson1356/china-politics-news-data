@@ -1,0 +1,88 @@
+{
+  "id": "20260818-gov_huai_an-0b8637",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787036966970sk4uOWZX.html",
+  "title_zh": "淮安市服务业大会召开",
+  "title_en": "Huai'an Holds Citywide Service Industry Conference",
+  "summary_zh": "8月17日，淮安市服务业大会召开，市委书记史志军讲话强调推动服务业高质量发展，市长顾坤主持。",
+  "summary_en": "On August 17, Huai'an held a citywide service industry conference. Party Secretary Shi Zhijun stressed high-quality development of services, and Mayor Gu Kun presided.",
+  "body_zh": "8月17日，全市服务业大会召开。市委书记史志军出席会议并讲话，强调要深入学习贯彻习近平总书记关于服务业发展的重要论述，全面落实全国、全省服务业大会部署，全力推动我市服务业高质量发展，为推进中国式现代化淮安新实践提供坚实支撑。市长顾坤主持会议。市领导赵正兰、吴晓丹、徐子佳、吴茂春、胡毅、董国喜、张冲林、周青等出席会议。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "economy",
+  "keywords": [
+    "服务业发展",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务业发展",
+      "name_en": "Service Industry Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "服务业发展",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Service Industry Development",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "周青等"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260818-gov_huai_an-0b8637",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

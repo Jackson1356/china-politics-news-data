@@ -1,0 +1,132 @@
+{
+  "id": "20260615-xinhua_politics-13d530",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260615/4b5416f55b0d48b7b0cd4c7bcc061792/c.html",
+  "title_zh": "2026年全国节能宣传周启动",
+  "title_en": "2026 National Energy Saving Publicity Week Launches",
+  "summary_zh": "2026年全国节能宣传周6月15日在重庆启动，会上发布了《重点行业节能降碳改造攻坚三年行动计划》，旨在推进重点行业节能降碳改造。",
+  "summary_en": "The 2026 National Energy Saving Publicity Week launched in Chongqing on June 15, featuring the release of a three-year action plan for energy saving and carbon reduction in key industries.",
+  "body_zh": "新华社重庆6月15日电（记者李晓婷、魏玉坤）2026年全国节能宣传周启动仪式15日在重庆举行，仪式现场发布了《重点行业节能降碳改造攻坚三年行动计划》。今年6月15日至21日是我国第36个全国节能宣传周，主题是“节能新起点 低碳向未来”。\n启动仪式上，国家发展改革委环资司与工业和信息化部节能司、生态环境部气候司、国务院国资委社会责任局、国家能源局规划司共同发布《重点行业节能降碳改造攻坚三年行动计划》，加力部署推进节能降碳改造工作。来自电力、钢铁、建材、有色、石化、化工等重点行业11家企业联合发布“十五五”节能降碳改造承诺。有关金融机构与企业代表现场签署绿色金融赋能节能降碳合作意向书，通过金融工具助力企业节能降碳。行业协会、公共机构、制冷企业等代表发起公共机构制冷改造声明。5家互联网平台企业联合启动“节能低碳生活家”主题行动月，为节能低碳产品、绿色出行等提供惠民补贴。\n据悉，今年全国节能宣传周期间，各地区、各有关部门和单位将聚焦节能降碳工作重点，开展重点行业节能降碳改造、工业领域能效提升、建筑领域节能降碳、交通运输绿色低碳转型、节约型机关建设、绿色低碳知识科普等活动，并结合实际组织开展具有地方特色和行业特点的宣传活动，大力倡导简约适度、绿色低碳、文明健康的生活理念和消费方式，为经济社会发展全面绿色转型提供有力支撑。",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "industry",
+  "keywords": [
+    "节能降碳",
+    "绿色金融",
+    "绿色转型"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院国资委",
+      "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节能降碳",
+      "name_en": "Energy Saving and Carbon Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色金融",
+      "name_en": "Green Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色转型",
+      "name_en": "Green Transformation"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "工业和信息化部",
+    "生态环境部",
+    "国务院国资委",
+    "国家能源局",
+    "重庆",
+    "节能降碳",
+    "绿色金融",
+    "绿色转型"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Ministry of Industry and Information Technology",
+    "Ministry of Ecology and Environment",
+    "State-owned Assets Supervision and Administration Commission of the State Council",
+    "National Energy Administration",
+    "Chongqing",
+    "Energy Saving and Carbon Reduction",
+    "Green Finance",
+    "Green Transformation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT",
+      "MEE",
+      "NEA"
+    ],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      },
+      {
+        "name_zh": "国务院国资委",
+        "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260615-xinhua_politics-13d530",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20260801-beijing_daily-7e4ed6",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/01/11895683.shtml",
+  "title_zh": "商务部回应美国将中国企业列入所谓涉疆法案实体清单",
+  "title_en": "Ministry of Commerce Responds to US Listing Chinese Companies on So-Called Xinjiang-Related Entity List",
+  "summary_zh": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问，强烈谴责美方单边制裁，并表示将采取必要措施维护中国企业合法权益。",
+  "summary_en": "MOFCOM spokesperson responded to the US listing of Chinese companies on the so-called Xinjiang-related entity list, strongly condemning unilateral sanctions and vowing necessary measures to protect Chinese enterprises' rights.",
+  "body_zh": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问\n答：我们注意到有关情况。美方相关做法毫无事实依据，持续借所谓“人权”和“强迫劳动”之名，依据国内法肆意对中国企业实施单边制裁，是典型的经济胁迫行为。美方措施严重损害相关企业的合法权益，严重破坏全球产业链供应链稳定。\n需要特别强调的是，7月30日中美经贸牵头人举行视频通话，双方就保持经贸关系稳定进行了坦诚、深入、富有建设性的交流。仅仅时隔一天，美方即出台损害中方利益的恶劣措施，严重背离两国元首共识。中方对此强烈谴责，坚决反对。\n中方一贯反对强迫劳动。当前新疆社会和谐稳定，经济繁荣发展，人民安居乐业，根本不存在任何形式的所谓“强迫劳动”。中方敦促美方立即停止对新疆的攻击抹黑，停止操弄所谓“强迫劳动”议题，停止无理打压中国企业。中方将采取必要措施，坚决维护中国企业合法权益。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸关系",
+    "单边制裁",
+    "涉疆法案"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸关系",
+      "name_en": "Sino-US Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉疆法案",
+      "name_en": "Xinjiang-Related Bill"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中美经贸关系",
+    "单边制裁",
+    "涉疆法案"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Sino-US Economic and Trade Relations",
+    "Unilateral Sanctions",
+    "Xinjiang-Related Bill"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260801-beijing_daily-7e4ed6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://www.xmnn.cn/news/gnxw/202608/t20260801_442956.html",
+      "title_zh": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问 _新闻频道_厦门网",
+      "published_at": "2026-08-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

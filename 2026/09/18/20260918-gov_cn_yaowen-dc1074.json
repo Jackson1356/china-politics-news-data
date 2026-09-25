@@ -1,0 +1,111 @@
+{
+  "id": "20260918-gov_cn_yaowen-dc1074",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081394.htm",
+  "title_zh": "王毅同美国国务卿鲁比奥通电话",
+  "title_en": "Wang Yi Speaks by Phone with U.S. Secretary of State Rubio",
+  "summary_zh": "9月17日，中共中央政治局委员、外交部长王毅同美国国务卿鲁比奥通电话，着重就两国高层交往深入讨论，并就中东局势等问题交换意见。",
+  "summary_en": "On September 17, Chinese Foreign Minister Wang Yi held a phone call with U.S. Secretary of State Marco Rubio, focusing on high-level exchanges between the two countries and exchanging views on the Middle East and other issues.",
+  "body_zh": "新华社北京9月17日电 中共中央政治局委员、外交部长王毅17日同美国国务卿鲁比奥通电话，双方着重就两国高层交往进行了深入讨论。\n王毅表示，一段时间来，中美关系总体沿着两国元首确定的建设性战略稳定轨道前行，这有利于回应国际社会的期待。王毅强调，元首外交是中美关系的定盘星。双方要本着平等、尊重、互惠的精神，筹备好下阶段高层交往，加强沟通、推进合作、管控分歧，尊重彼此核心利益，发出中美致力于推进建设性战略稳定关系、共促世界和平与发展的正面信息。\n双方还就中东局势等问题交换了意见。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交",
+    "高层交往"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "鲁比奥",
+      "name_en": "Marco Rubio"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层交往",
+      "name_en": "High-Level Exchanges"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "鲁比奥",
+    "外交部",
+    "北京",
+    "中美关系",
+    "元首外交",
+    "高层交往"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Marco Rubio",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-U.S. Relations",
+    "Head-of-State Diplomacy",
+    "High-Level Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260918-gov_cn_yaowen-dc1074",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

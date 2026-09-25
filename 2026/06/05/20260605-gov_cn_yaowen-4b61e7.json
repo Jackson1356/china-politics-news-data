@@ -1,0 +1,88 @@
+{
+  "id": "20260605-gov_cn_yaowen-4b61e7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071063.htm",
+  "title_zh": "王毅会见下任联合国秘书长候选人巴切莱特",
+  "title_en": "Wang Yi Meets UN Secretary-General Candidate Bachelet",
+  "summary_zh": "6月4日，外交部长王毅在京会见下任联合国秘书长候选人、智利前总统巴切莱特，双方就推动多边主义和联合国改革进行交流。",
+  "summary_en": "On June 4, Foreign Minister Wang Yi met with UN Secretary-General candidate and former Chilean President Michelle Bachelet in Beijing to discuss multilateralism and UN reform.",
+  "body_zh": "新华社北京6月4日电 中共中央政治局委员、外交部长王毅4日在京会见下任联合国秘书长候选人、智利前总统巴切莱特。\n巴切莱特说，联合国是合力应对全球性挑战不可或缺的平台。我坚定奉行一个中国政策，高度赞赏中方长期致力于推动多边主义和联合国事业，愿共同强化联合国地位和作用。\n王毅表示，下任秘书长人选事关联合国未来五至十年改革发展走向，事关联合国会员国特别是全球南方国家切身利益。中方将以负责任和建设性态度参与下任秘书长选举，推动联合国重振权威和活力。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-04",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "多边主义",
+    "联合国改革"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "巴切莱特",
+      "name_en": "Michelle Bachelet"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国改革",
+      "name_en": "UN Reform"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "巴切莱特",
+    "北京",
+    "多边主义",
+    "联合国改革"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Michelle Bachelet",
+    "Beijing",
+    "Multilateralism",
+    "UN Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260605-cpcnews-feba90",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

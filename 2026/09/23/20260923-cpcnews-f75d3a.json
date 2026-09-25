@@ -1,0 +1,117 @@
+{
+  "id": "20260923-cpcnews-f75d3a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0923/c64094-40804105.html",
+  "title_zh": "韩正会见柬埔寨国王西哈莫尼和太后莫尼列",
+  "title_en": "Han Zheng Meets Cambodian King Sihamoni and Queen Mother Monineath",
+  "summary_zh": "9月22日，国家副主席韩正在北京会见柬埔寨国王西哈莫尼和太后莫尼列，双方表示将推动新时代全天候中柬命运共同体建设。",
+  "summary_en": "On September 22, Vice President Han Zheng met in Beijing with Cambodian King Norodom Sihamoni and Queen Mother Monineath, with both sides pledging to advance the China-Cambodia community with a shared future.",
+  "body_zh": "新华社北京9月22日电 9月22日，国家副主席韩正在北京会见柬埔寨国王西哈莫尼和太后莫尼列。\n韩正转达了习近平主席和夫人彭丽媛的亲切问候和良好祝愿，表示中柬铁杆友谊由中国老一辈领导人和西哈努克太皇共同缔造和精心培育，历经风雨、坚如磐石。在习近平主席和西哈莫尼国王的战略指引下，两国关系迈入构建新时代全天候中柬命运共同体的新阶段。中方愿同柬方携手推动两国领导人重要共识落地见效，让中柬友好深入人心、世代相传。\n西哈莫尼和莫尼列表示，柬中始终紧密团结，携手巩固老一辈领导人缔造的深厚友谊。去年习近平主席访问柬埔寨，为新时代全天候柬中命运共同体谱写了新篇章。柬方坚定奉行一个中国政策，祝愿中国繁荣昌盛、国泰民安。\n《 人民日报 》（ 2026年09月23日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中柬关系",
+    "命运共同体",
+    "一个中国政策"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "西哈莫尼",
+      "name_en": "Norodom Sihamoni"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "莫尼列",
+      "name_en": "Monineath"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中柬关系",
+      "name_en": "China-Cambodia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国政策",
+      "name_en": "One-China Policy"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "西哈莫尼",
+    "莫尼列",
+    "北京",
+    "中柬关系",
+    "命运共同体",
+    "一个中国政策",
+    "习近平"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Norodom Sihamoni",
+    "Monineath",
+    "Beijing",
+    "China-Cambodia Relations",
+    "Community with a Shared Future",
+    "One-China Policy"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260923-cpcnews-f75d3a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

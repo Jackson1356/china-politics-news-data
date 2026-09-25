@@ -1,0 +1,87 @@
+{
+  "id": "20260829-xinhua_cq-38cc29",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.cq.xinhuanet.com/20260829/44f6c8eb30554929b9071d6d2f763e7a/c.html",
+  "title_zh": "重庆市政府召开第89次常务会议 陈新武主持",
+  "title_en": "Chongqing Municipal Government Holds 89th Executive Meeting Chaired by Chen Xinwu",
+  "summary_zh": "8月28日，重庆市市长陈新武主持召开市政府第89次常务会议，审议经济稳中向好政策举措、现代水网工程建设等，听取群众身边不正之风和腐败问题整治汇报。",
+  "summary_en": "On August 28, Chongqing Mayor Chen Xinwu chaired the 89th executive meeting of the municipal government, reviewing economic stability policies, modern water network projects, and hearing reports on curbing corruption among the people.",
+  "body_zh": "8月28日，市委副书记、市长陈新武主持召开市政府第89次常务会议，深入学习贯彻习近平总书记重要讲话重要指示精神，落实市委部署要求，审议进一步推动经济稳中向好若干政策举措、“十五五”现代水网工程建设政策措施，听取政府系统开展群众身边不正之风和腐败问题集中整治情况汇报。\n会议强调，要着力稳就业、稳企业、稳市场、稳预期，提速推动政策落地，制定实施细则和操作指引，加强宣传解读，加快直达快享，尽快发挥政策效应。要强化政策跟踪问效，统筹跟进存量政策和增量政策落实情况，做好政策实施效果评估，增强政策取向一致性。要精准把握国家政策导向，适度超前谋划储备增量政策包，以优化政策供给推动经济持续向新向优向好发展。\n会议指出，现代水网工程建设事关长远发展大局和群众切身利益。要高质量谋划项目，强化规划引领，把好审批关口，滚动谋划实施一批重大水网项目。要深化投融资改革，用好要素市场化配置综合改革试点机遇，加强银政企对接，探索社会资本参与新机制。要压实各方责任，协同解决项目卡点堵点问题，确保水网工程建设顺利推进。\n会议强调，集中整治群众身边不正之风和腐败问题是关乎民生民心的大事要事。要以钉钉子精神把集中整治抓紧抓实，压实整治责任，注重长效常治，强化建章立制，促进源头治理，强力抓好高标准农田建设、农村集体“三资”管理、医保基金管理、养老服务等全国性整治项目和民生领域信访问题集中治理，切实解决人民群众的急难愁盼，努力取得人民群众满意的成效。\n会议还审议了《重庆市城市更新条例（草案）》和《重庆市建筑垃圾管理条例（草案）》。（记者 王翔）",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "经济稳中向好",
+    "现代水网工程",
+    "群众身边腐败整治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": "Chen Xinwu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济稳中向好",
+      "name_en": "Stable economic growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代水网工程",
+      "name_en": "Modern water network project"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众身边腐败整治",
+      "name_en": "Anti-corruption in people's immediate interests"
+    }
+  ],
+  "tags_zh": [
+    "陈新武",
+    "经济稳中向好",
+    "现代水网工程",
+    "群众身边腐败整治"
+  ],
+  "tags_en": [
+    "Chen Xinwu",
+    "Stable economic growth",
+    "Modern water network project",
+    "Anti-corruption in people's immediate interests"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xinwu",
+      {
+        "id": null,
+        "name_zh": "武主持"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-xinhua_cq-38cc29",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260915-paper_zhengjing-d9018e",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34072416",
+  "title_zh": "电子信息制造业发展“十五五”规划发布",
+  "title_en": "China Releases 15th Five-Year Plan for Electronic Information Manufacturing",
+  "summary_zh": "工业和信息化部、国家发展改革委近日联合印发《电子信息制造业发展“十五五”规划》，提出到2030年规模以上企业营业收入突破30万亿元、研发投入强度达3.5%。",
+  "summary_en": "China's Ministry of Industry and Information Technology and the National Development and Reform Commission jointly issued the 15th Five-Year Plan for the electronic information manufacturing industry, targeting over 30 trillion yuan in revenue for above-scale firms and R&D intensity of 3.5% by 2030.",
+  "body_zh": "电子信息制造业发展“十五五”规划发布\n工业和信息化部、国家发展改革委近日联合印发《电子信息制造业发展“十五五”规划》。\n规划提出，到2030年，我国电子信息制造业高质量发展取得显著成效，在全球产业格局中发挥举足轻重作用。电子信息制造业在工业中的重要地位进一步凸显，规模以上企业营业收入突破30万亿元。在集成电路、先进计算、消费电子、基础电子、能源电子等领域涌现一批长板技术和产品。产业创新效能明显提升，研发投入强度达到3.5%，算力供给能力大幅增长，新一代智能终端应用普及率显著提升。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "industry",
+  "keywords": [
+    "十五五规划",
+    "电子信息制造业",
+    "集成电路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电子信息制造业",
+      "name_en": "Electronic Information Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "集成电路",
+      "name_en": "Integrated Circuits"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "国家发展改革委",
+    "十五五规划",
+    "电子信息制造业",
+    "集成电路"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "National Development and Reform Commission",
+    "15th Five-Year Plan",
+    "Electronic Information Manufacturing",
+    "Integrated Circuits"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260915-gov_cn_yaowen-2c8e85",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260807-gov_cn_yaowen-8a562d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077691.htm",
+  "title_zh": "我国重点生态保护区域保护成效显著",
+  "title_en": "Significant Progress Made in Protecting Key Ecological Areas in China",
+  "summary_zh": "生态环境部公布最新评估，全国452处国家级自然保护区优良率达98.9%，生态保护红线内生态环境总体好转。",
+  "summary_en": "The Ministry of Ecology and Environment released an assessment showing that 98.9% of the 452 national nature reserves rate excellent or good, and the ecological environment within the ecological protection red line is generally improving.",
+  "body_zh": "生态环境部近日公布最新评估结果，我国国家级自然保护区和生态保护红线生态环境保护成效显著，生态安全屏障持续巩固，生态系统质量与服务功能稳步提升。\n国家级自然保护区承载了我国最具代表性、最稀缺的自然生态系统，也是珍稀濒危野生动植物物种的天然集中分布区。从评估结果来看，全国总共452处国家级自然保护区中，236处为“优”，211处为“良”，5处为“中”，优良率达98.9%。\n评估显示，87.1%的保护区主要保护动植物物种种群数量增加，大熊猫、亚洲象、金丝猴、长江江豚、雪豹、东北虎豹等珍稀保护对象分布范围不断扩大。保护区生态系统质量显著改善，97.3%的保护区地表水水质优良，森林、草原、湿地等生态系统得到有效保护与修复，为区域高质量发展提供了坚实的生态支撑。\n此外，我国于2023年完成将水源涵养区等生态功能特别重要区域，以及水土流失等生态特别敏感脆弱区域划入生态保护红线工作。目前，国家级自然保护区已全部划入生态保护红线范围。作为保障和维护国家生态安全的底线与生命线，生态保护红线面积占陆域国土面积比例超过30%。评估显示，全国生态保护红线内生态环境总体好转，面积维持稳定，生态功能稳中向好，环境质量持续改善，监管制度逐步完善。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "生态环境保护",
+    "自然保护区",
+    "生态保护红线"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological Environment Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然保护区",
+      "name_en": "Nature Reserves"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护红线",
+      "name_en": "Ecological Protection Red Line"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "生态环境保护",
+    "自然保护区",
+    "生态保护红线"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Ecological Environment Protection",
+    "Nature Reserves",
+    "Ecological Protection Red Line"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_cn_yaowen-8a562d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

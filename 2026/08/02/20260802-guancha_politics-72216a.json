@@ -1,0 +1,79 @@
+{
+  "id": "20260802-guancha_politics-72216a",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_02_825925.shtml",
+  "title_zh": "王某破坏军婚：与现役军人配偶同居致其怀孕堕胎，被判2年",
+  "title_en": "Wang Sentenced to 2 Years for Destroying Military Marriage by Cohabiting with Active-Duty Soldier's Spouse",
+  "summary_zh": "男子王某与现役军人配偶同居致其怀孕堕胎，构成破坏军婚罪，被判处有期徒刑2年。",
+  "summary_en": "A man named Wang was sentenced to 2 years in prison for living with the spouse of an active-duty soldier, causing pregnancy and abortion, in violation of military marriage protection.",
+  "body_zh": "安徽亳州城管局通报一公职人员涉嫌婚内出轨 2026-08-02 14:01 婚姻故事\n浙江省委原副书记吴敏达逝世，参与研制摄影机记录了首枚氢弹试爆 2026-08-02 13:26\n“公职人员停车受阻撬他人停车位地锁”，官方通报 2026-08-02 12:14\n国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办 2026-08-02 11:28\n军报：小小寰球，有几个苍蝇碰壁，奉劝菲方尽早迷途知返 2026-08-02 10:11\n重庆部署扫黑除恶专项斗争 2026-08-02 09:03 扫黑除恶\n我使馆证实：一中国公民在巴基斯坦遭遇雪崩失联 2026-08-02 07:35\n不开空调室温25℃，江苏徐州一地试点集中供冷 2026-08-02 07:14\n铁路部门回应“老人如厕时掉金戒指”：未找到 2026-08-02 06:48\n景德镇发布情况说明：“16万元一根路灯”纯属不实信息 2026-08-01 20:42\n连云港火灾母女坠楼，事发小区消防通道仍停满车 2026-08-01 19:23\n现场画面！事关黄岩岛，南部战区、中国海警同日行动 2026-08-01 18:19 南海局势\n150年来最强厄尔尼诺事件可能正在形成，2027年或成新的全球最暖年份 2026-08-01 17:13\n24天！广州7月雨日打破1951年以来纪录，新一轮暴雨接踵而至 2026-08-01 16:54\n我国将建立黄岩岛保护区日常巡护制度 2026-08-01 14:59\n与AI同游，2026 ChinaJoy盛大开幕 2026-08-01 14:26 观网游戏\n国家电网：坚决拥护党中央决定 2026-08-01 14:03 廉政风暴\n中国国家博物馆严正声明 2026-08-01 11:57\n甘肃省发布地质灾害气象风险红色预警 2026-08-01 10:35\n南部战区位黄岩岛领海领空和周边海空域组织海空联合演训 2026-08-01 09:07 南海局势",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "discipline",
+  "keywords": [
+    "破坏军婚罪",
+    "司法审判"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "破坏军婚罪",
+      "name_en": "Crime of Undermining Military Marriage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法审判",
+      "name_en": "Judicial Trial"
+    }
+  ],
+  "tags_zh": [
+    "破坏军婚罪",
+    "司法审判"
+  ],
+  "tags_en": [
+    "Crime of Undermining Military Marriage",
+    "Judicial Trial"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260802-guancha_politics-72216a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_02_825943.shtml",
+      "title_zh": "男子到军事禁区拒不配合查验，推搡哨兵打落设备，法院判了",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_02_825941.shtml",
+      "title_zh": "航行警告！南海部分海域进行军事训练，禁止驶入",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

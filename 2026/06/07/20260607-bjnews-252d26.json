@@ -1,0 +1,134 @@
+{
+  "id": "20260607-bjnews-252d26",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780807089129120.html",
+  "title_zh": "水利部启动洪水防御Ⅳ级应急响应 会商部署高考期间暴雨洪水防御工作",
+  "title_en": "Ministry of Water Resources Launches Level IV Flood Emergency Response to Protect Gaokao Sites",
+  "summary_zh": "6月7日，水利部启动针对湖南、广东等6省的洪水防御Ⅳ级应急响应，部署高考期间的暴雨洪水防御工作，确保考点安全。",
+  "summary_en": "On June 7, the Ministry of Water Resources launched a Level IV flood emergency response for six provinces to ensure safety during the Gaokao exams.",
+  "body_zh": "国家防总副总指挥、水利部部长李国英对做好高考期间强降雨过程防御工作提出明确要求。水利部逐日滚动会商，分析研判防汛形势，提前作出安排部署。6月7日，水利部向有关省（自治区、直辖市）水利部门和流域管理机构发出通知，对强降雨防御工作作出具体安排，特别要求突出抓好高考考点及周边江河洪水、山洪灾害防御等工作，确保防洪安全；向吉林、浙江、江西、湖南、广东、广西、重庆、四川、贵州、青海等10省（自治区、直辖市）发出“一省一单”，通报强降雨覆盖范围县（市、区）名单、水库名单、山洪灾害风险区域及点位，提醒针对性加强防御措施；7日10时，针对湖南、广东、广西、重庆、四川、贵州6省（自治区、直辖市）启动洪水防御Ⅳ级应急响应，派出工作组赴湖南省协助指导暴雨洪水防御工作。水利部长江水利委员会、珠江水利委员会启动洪水防御Ⅳ级应急响应，针对性落实各项防御措施。",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "高考安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-guoying",
+      "name_zh": "李国英",
+      "name_en": "Li Guoying"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高考安全",
+      "name_en": "Gaokao Safety"
+    }
+  ],
+  "tags_zh": [
+    "李国英",
+    "水利部",
+    "湖南",
+    "广东",
+    "广西",
+    "重庆",
+    "四川",
+    "贵州",
+    "洪水防御",
+    "高考安全"
+  ],
+  "tags_en": [
+    "Li Guoying",
+    "Ministry of Water Resources",
+    "Hunan",
+    "Guangdong",
+    "Guangxi",
+    "Chongqing",
+    "Sichuan",
+    "Guizhou",
+    "Flood Defense",
+    "Gaokao Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "li-guoying"
+    ],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HN",
+      "CN-GD",
+      "CN-CQ",
+      "CN-SC",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260607-bjnews-252d26",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

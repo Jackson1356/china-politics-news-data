@@ -1,0 +1,100 @@
+{
+  "id": "20260815-xinhua_ha-2d6910",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.news.cn/20260815/c51a0e07551f47ff955fd19ff9f32cea/c.html",
+  "title_zh": "王凯在周口现场研究堤防溃口处置工作",
+  "title_en": "Wang Kai Directs Levee Breach Response in Zhoukou",
+  "summary_zh": "8月14日，河南省省长王凯在周口市现场研究贾鲁河堤防溃口处置工作，强调加快处置、保障群众安全，并看望转移安置群众。",
+  "summary_en": "On August 14, Henan Governor Wang Kai inspected the Jialu River levee breach site in Zhoukou, directed emergency response, and visited relocated residents.",
+  "body_zh": "8月14日，省长王凯和国家防总办公室主任、应急管理部副部长兼水利部副部长陈敏，省人大常委会副主任陈星，在周口市现场研究贾鲁河堤防溃口处置工作。\n在周口市川汇区贾鲁河东岸堤防溃口现场，王凯、陈敏、陈星实地察看溃口水势水情，详细了解处置进展情况，研究细化处置方案。王凯强调，当前正处于溃口抢险的关键时刻，要科学组织调度，加强配合协作，强化现场安全管控，以更高效率、更快速度加快处置。要做好上下游水情监测预警，加密巡堤查险频次，对堤防薄弱部位开展拉网式排查，及时消除各类风险隐患，严防次生灾害发生。\n随后，王凯来到转移避险群众安置点看望慰问，仔细了解群众食宿安排、日常照料情况，叮嘱当地负责同志要周到细致做好服务保障，配足配齐饮食、被褥、药品等生活物资，精心做好医疗服务、情绪安抚，切实保障转移群众基本生活，确保大家住得舒心安心。同时，要加强安置点管理，防止群众擅自返回住所。\n王凯强调，当前我省防汛形势依然严峻复杂，各地各部门要深入贯彻习近平总书记关于防灾减灾救灾工作的重要论述和在河南考察时重要讲话精神，认真落实省委工作安排，树牢“四个宁可”理念，严格落实防汛责任制，加强监测预警、值班值守、会商研判，强化水库、河道安全管理，严防山洪和地质灾害发生，扎实做好抢险救灾救助工作，抓紧开展农田排涝、基础设施修复，千方百计维护人民群众生命财产安全。（全媒体记者 归欣）",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "堤防溃口",
+    "应急处置"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-kai-henan",
+      "name_zh": "王凯",
+      "name_en": "Wang Kai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA-ZK",
+      "name_zh": "周口",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "堤防溃口",
+      "name_en": "Levee Breach"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急处置",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "王凯",
+    "周口",
+    "防汛救灾",
+    "堤防溃口",
+    "应急处置"
+  ],
+  "tags_en": [
+    "Wang Kai",
+    "Flood Control and Disaster Relief",
+    "Levee Breach",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-kai-henan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA-ZK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260815-gov_zhou_kou-3c92fc",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_zhou_kou",
+      "source_tier": 4,
+      "url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/zkyw/article5554439c73574d2786d7f27a67f2d22d.html",
+      "title_zh": "王凯在周口现场研究堤防溃口处置工作_周口市人民政府",
+      "published_at": "2026-08-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

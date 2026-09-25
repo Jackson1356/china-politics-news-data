@@ -1,0 +1,90 @@
+{
+  "id": "20260731-gov_lin_zhi-0b414f",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/list.shtml",
+  "title_zh": "王君正主持召开自治区党委常委会会议",
+  "title_en": "Wang Junzheng Chairs Meeting of CPC Tibet Regional Committee Standing Committee",
+  "summary_zh": "2026年7月31日，西藏自治区党委书记王君正主持召开自治区党委常委会会议。",
+  "summary_en": "On July 31, 2026, Wang Junzheng, Secretary of the CPC Tibet Regional Committee, chaired a meeting of the Standing Committee of the Regional Committee.",
+  "body_zh": "- 王君正主持召开自治区党委常委会会议 2026-07-31\n- 严金海：自治区十二届人大常委会第二十四次会议闭幕 2026-07-31\n- 任维：压紧压实责任细化落实举措有效防范和遏制各类地质灾害发生 2026-07-31\n- 严金海：自治区十二届人大常委会第二十四次会议开幕 2026-07-30\n- 任维：2026中国产业转移发展对接活动（西藏）在拉萨举行 2026-07-30\n- 罗梅：2026年大学生志愿服务西部计划西藏专项志愿者出征仪式在拉萨举行 2026-07-30\n- 王君正：第四次全国民政系统对口支援西藏工作推进会召开 2026-07-29\n- 王君正：在提高履职能力发挥表率作用中展现代表风采为建设社会主义现代化新西藏作出新的更大贡献 2026-07-29\n- 嘎玛泽登：深学细悟笃行习近平党建思想以更高标准当好执行者行动派实干家 2026-07-29\n- 王君正：认真学习贯彻习近平总书记重要讲话重要指示精神 2026-07-28\n- 严金海：全国人大常委会副委员长肖捷一行来藏调研 2026-07-27\n- 王君正与全国政协副主席沈跃跃率队的考察团座谈 2026-07-25\n- 自治区领导赴拉萨市调研城市更新工作张利率队 2026-07-25\n- 嘎玛泽登：锚定目标总结经验坚定信心以务实高效的有力举措推动高原经济高质量发展 2026-07-22\n- 徐志涛：西藏自治区召开学习宣传贯彻《中华人民共和国 民族团结进步促进法》示范宣讲会 2026-07-22\n- 王君正与全国人大常委会副委员长洛桑江村一行座谈 2026-07-21\n- 王君正与出席第五届中国西藏“环喜马拉雅” 国际合作论坛的全国政协副主席王光谦座谈 2026-07-20\n- 王君正会见出席第五届中国西藏“环喜马拉雅”国际合作论坛的外国政要 2026-07-17\n- 严金海：深入学习宣传贯彻民族团结进步促进法推动民族团结进步事业高质量发展 2026-07-15\n- 任维：锚定目标强化攻坚持续推动三季度项目全面提速 2026-07-15",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "party",
+  "keywords": [
+    "党委常委会",
+    "党建工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-junzheng",
+      "name_zh": "王君正",
+      "name_en": "Wang Junzheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党委常委会",
+      "name_en": "Standing Committee Meeting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建工作",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "losang-jamcan",
+      "name_zh": "洛桑江村",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王君正",
+    "党委常委会",
+    "党建工作",
+    "洛桑江村"
+  ],
+  "tags_en": [
+    "Wang Junzheng",
+    "Standing Committee Meeting",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "losang-jamcan",
+      "wang-junzheng"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260731-gov_lin_zhi-0b414f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/c100004/202607/35975d6e91c340dab63f848ee41c9008.shtml",
+      "title_zh": "王君正主持召开自治区党委常委会会议",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

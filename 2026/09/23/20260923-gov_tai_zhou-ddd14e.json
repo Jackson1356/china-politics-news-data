@@ -1,0 +1,110 @@
+{
+  "id": "20260923-gov_tai_zhou-ddd14e",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/9/23/art_60096_11833733.html",
+  "title_zh": "江苏电商创新发展大会开幕 刘小涛出席",
+  "title_en": "Jiangsu E-Commerce Innovation and Development Conference Opens, Liu Xiaotao Attends",
+  "summary_zh": "9月22日，江苏电商创新发展大会在南京开幕，省长刘小涛出席，副省长马士光致辞，现场签约落地合作项目110余个。",
+  "summary_en": "On September 22, the Jiangsu E-Commerce Innovation and Development Conference opened in Nanjing, attended by Governor Liu Xiaotao, with Vice Governor Ma Shiguang delivering remarks and over 110 cooperation projects signed.",
+  "body_zh": "当前位置：\n江苏电商创新发展大会开幕\n刘小涛出席\n9月22日，江苏电商创新发展大会在南京开幕。省长刘小涛出席大会开幕式。副省长马士光致辞，南京市市长李忠军出席。\n本次大会以“智汇电商浪潮 链动产业发展”为主题，汇聚电商平台、人工智能服务商、工业B2B企业、电商生态服务企业等经营主体，吸引700余名省内外嘉宾参会，签约落地合作项目110余个。\n省政府秘书长赵建军，商务部有关司局负责同志，省有关部门单位和设区市负责同志，高校、行业协会、金融机构和企业负责人，电商从业人员参加。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "电子商务",
+    "产业升级",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电子商务",
+      "name_en": "E-Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "江苏",
+    "电子商务",
+    "产业升级",
+    "数字经济",
+    "李忠军"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "Jiangsu",
+    "E-Commerce",
+    "Industrial Upgrading",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-zhongjun"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ",
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-gov_tai_zhou-ddd14e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260807-gov_tai_zhou-a1c741",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_caee8e49ffc14f63ad23d57baf1beb02.html",
+  "title_zh": "市政府召开常务会议",
+  "title_en": "Taizhou Municipal Government Holds Executive Meeting",
+  "summary_zh": "8月6日，泰州市政府召开常务会议，市长李晖主持，学习贯彻习近平总书记重要讲话精神，传达学习社会救助法，部署交通拥堵治理、安全生产等工作。",
+  "summary_en": "On August 6, Taizhou Municipal Government held an executive meeting chaired by Mayor Li Hui to study Xi Jinping's remarks, learn the Social Assistance Law, and address traffic congestion and safety issues.",
+  "body_zh": "泰州要闻\n市政府召开常务会议\n- 发布日期：2026-08-07 07:37\n- 浏览次数：\n8月6日，市政府常务会议召开，深入学习贯彻习近平总书记近期重要讲话重要指示精神，传达学习《中华人民共和国社会救助法》，听取群众身边不正之风和腐败问题集中整治工作情况汇报，部署推进交通拥堵治理、交通沿线环境集中整治、安全生产等工作。市长李晖主持会议。\n会议指出，《社会救助法》是我国社会救助领域首部基础性、综合性法律。要深学细悟法规要义，落细落实政策举措，健全完善长效机制，加快构建规范有序、公开透明、精准高效的社会救助治理新格局，以法治思维、法治方式推动社会救助工作提质增效。\n会议强调，今年是群众身边不正之风和腐败问题三年集中整治攻坚决战、收官决胜之年。要紧盯收官节点全速冲刺攻坚，坚持标本兼治健全长效机制，强化闭环落实提升整治质效，切实解决一批基层堵点、民生痛点，不断厚植民生福祉、净化基层生态，高质量交出三年集中整治收官答卷。\n会议审议了《泰州市治理交通拥堵专项行动工作任务清单》，强调要对照任务清单，系统谋划、综合施策，持续优化路网结构改善“微循环”，发展智慧交通推进交通管理，强化高速公路和普通国省道连接线、延长线、断头路“两线一路”建设，不断提升城市功能品质和群众出行获得感。\n会议听取全市高速公路和铁路沿线环境集中整治工作情况汇报，审议了相关集中整治工作方案，强调要压实各方责任，坚持问题导向，全面排查整治沿线安全隐患和环境顽疾，健全完善源头管控举措，全面提升交通沿线环境综合治理水平。\n会议听取全市油气长输管道和电力设施保护工作情况汇报，要求常态化排查整治安全隐患，全链条规范日常监管管控，全方位筑牢应急安全底线，全力以赴保障油气、电力设施平稳安全运行。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "welfare",
+  "keywords": [
+    "社会救助",
+    "腐败整治",
+    "交通治理",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会救助",
+      "name_en": "Social Assistance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "腐败整治",
+      "name_en": "Anti-Corruption Campaign"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通治理",
+      "name_en": "Traffic Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "社会救助",
+    "腐败整治",
+    "交通治理",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Social Assistance",
+    "Anti-Corruption Campaign",
+    "Traffic Management",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_tai_zhou-a1c741",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

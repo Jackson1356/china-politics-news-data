@@ -1,0 +1,81 @@
+{
+  "id": "20260707-xinhua_ah-736f47",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_url": "http://ah.news.cn/20260707/d1f6614ac778405abbb91c72ae1d6351/c.html",
+  "title_zh": "淮河防总启动防汛四级应急响应",
+  "title_en": "Huaihe Flood Control Headquarters Activates Level IV Emergency Response",
+  "summary_zh": "7月6日，淮河防总和淮委针对台风“美莎克”带来的大到暴雨，启动防汛四级应急响应和洪水防御Ⅳ级应急响应。",
+  "summary_en": "On July 6, the Huaihe Flood Control Headquarters and the Huaihe River Commission activated Level IV emergency responses for flood control and defense due to heavy rains from Typhoon Maisak.",
+  "body_zh": "新华社合肥7月6日电（记者水金辰）记者从水利部淮河水利委员会了解到，7月6日，淮河防总、淮委启动防汛四级应急响应和洪水防御Ⅳ级应急响应。\n据了解，受10号台风“美莎克”倒槽及其残余环流影响，预计7月6日至7日，淮河流域将有一次大到暴雨、局地大暴雨的降雨过程，流域面雨量40至60毫米，其中淮河水系30至50毫米，沂沭泗河水系70至90毫米，山东半岛40至60毫米。受此影响，淮河干流、沂沭河、骆马湖等将出现明显涨水过程，暴雨落区内部分中小河流可能发生超警洪水。\n根据《淮河防汛抗旱总指挥部防汛抗旱应急预案》《淮河水利委员会水旱灾害防御应急预案》，淮河防总、淮委于7月6日12时针对淮河及南部支流、沂沭泗河水系、山东半岛启动防汛四级应急响应和洪水防御Ⅳ级应急响应。",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "淮委",
+      "name_en": "Huaihe River Commission"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "淮河流域",
+      "name_en": "Huaihe River Basin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "淮委",
+    "淮河流域",
+    "防汛",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Huaihe River Commission",
+    "Huaihe River Basin",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "淮委",
+        "name_en": "Huaihe River Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260707-xinhua_ah-736f47",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

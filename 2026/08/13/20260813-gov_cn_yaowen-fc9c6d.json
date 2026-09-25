@@ -1,0 +1,113 @@
+{
+  "id": "20260813-gov_cn_yaowen-fc9c6d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077987.htm",
+  "title_zh": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+  "title_en": "Li Qiang Signs State Council Order to Amend and Repeal Some Administrative Regulations",
+  "summary_zh": "8月13日，国务院总理李强签署国务院令，公布《国务院关于修改和废止部分行政法规的决定》，自8月15日起施行，涉及修改12部、废止3部行政法规以贯彻生态环境法典。",
+  "summary_en": "On August 13, Premier Li Qiang signed a State Council order announcing the decision to amend and repeal some administrative regulations, effective August 15, to implement the Ecological Environment Code.",
+  "body_zh": "李强签署国务院令\n公布《国务院关于修改和废止部分行政法规的决定》\n新华社北京8月13日电 国务院总理李强日前签署国务院令，公布\n《国务院关于修改和废止部分行政法规的决定》\n，自2026年8月15日起施行。\n为全面有效贯彻实施《中华人民共和国生态环境法典》，确保生态环境法律制度体系逻辑统一、规则协调，国务院对涉及的行政法规进行了清理，决定对12部行政法规的部分条款予以修改，对3部行政法规予以废止。\n修改《全国污染源普查条例》、《生态环境监测条例》等行政法规，相关行政法规中引用的法律将于今年8月15日生态环境法典施行之日废止的，相应将引用的法律名称统一修改为生态环境法典；相关行政法规关于法律责任等具体事项的规定与生态环境法典不一致的，依照生态环境法典的规定作相应修改。\n废止《中华人民共和国防治陆源污染物污染损害海洋环境管理条例》等行政法规，更好适应高质量发展和生态文明建设的新要求。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "生态环境法典",
+    "行政法规修改"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境法典",
+      "name_en": "Ecological Environment Code"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "行政法规修改",
+      "name_en": "Administrative Regulations Amendment"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "生态环境法典",
+    "行政法规修改"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Ecological Environment Code",
+    "Administrative Regulations Amendment"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260813-gov_cn_yaowen-fc9c6d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33776592",
+      "title_zh": "李强签署国务院令，公布《国务院关于修改和废止部分行政法规的决定》",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    },
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077987.htm",
+      "title_zh": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_xin",
+      "source_tier": null,
+      "url": "https://www.fuxin.gov.cn/channel/list/13141.html",
+      "title_zh": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/0814/c64094-40779501.html",
+      "title_zh": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+      "published_at": "2026-08-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

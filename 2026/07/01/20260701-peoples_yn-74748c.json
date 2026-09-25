@@ -1,0 +1,116 @@
+{
+  "id": "20260701-peoples_yn-74748c",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_url": "http://yn.people.com.cn/n2/2026/0701/c378440-41626071.html",
+  "title_zh": "多部门会商部署重点地区防汛工作",
+  "title_en": "Multiple Departments Consult and Deploy Flood Control Work in Key Areas",
+  "summary_zh": "6月30日，国家防总办公室、应急管理部等部门联合会商部署防汛工作，并启动针对湖南、云南的防汛四级应急响应。",
+  "summary_en": "On June 30, the State Flood Control and Drought Relief Headquarters Office and the Ministry of Emergency Management held a joint meeting to deploy flood control work and activated Level IV emergency responses for Hunan and Yunnan.",
+  "body_zh": "云贵至江南中北部强降雨持续\n多部门会商部署重点地区防汛工作\n6月30日，国家防总办公室、应急管理部继续组织中国气象局、水利部、自然资源部、住房和城乡建设部、交通运输部等多部门联合会商，研判近期强降雨发展趋势，研究部署重点地区防汛工作。国家防总于30日18时启动针对湖南、云南的防汛四级应急响应，继续维持针对安徽、江西、贵州的防汛四级应急响应。国家防总办公室派出的两个工作组继续在江西、贵州一线协助指导防汛工作。\n会商指出，6月29日至7月3日这轮降雨过程持续时间长、累计雨量大，与前期多轮强降雨落区重叠度高，致灾性强，当前临近暑期和夏季旅游高峰期，流动人员多，防汛形势复杂严峻。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "湖南",
+    "云南",
+    "安徽",
+    "江西",
+    "贵州",
+    "防汛",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Hunan",
+    "Yunnan",
+    "Anhui",
+    "Jiangxi",
+    "Guizhou",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HN",
+      "CN-YN",
+      "CN-AH",
+      "CN-JX",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260701-peoples_yn-74748c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

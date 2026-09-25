@@ -1,0 +1,83 @@
+{
+  "id": "20260604-peoples_bj-32f31b",
+  "source": "peoples_bj",
+  "source_name_zh": "人民网 北京",
+  "source_name_en": "People's Daily Beijing",
+  "source_url": "http://bj.people.com.cn/n2/2026/0604/c14540-41600942.html",
+  "title_zh": "北京太空智算研究院成立",
+  "title_en": "Beijing Space Intelligent Computing Research Institute Established",
+  "summary_zh": "北京太空智算研究院近日在北京经济技术开发区成立，旨在攻关星载算力等关键技术，并计划于2028年前发射首发试验星。",
+  "summary_en": "The Beijing Space Intelligent Computing Research Institute was recently established in the Beijing Economic-Technological Development Area to tackle key space computing technologies and launch its first test satellite by 2028.",
+  "body_zh": "北京太空智算研究院成立\n计划2028年前发射首发试验星\n本报北京6月3日电 （记者王昊男）近日，北京太空智算研究院在北京经济技术开发区注册成立。研究院将围绕星载算力芯片、星间激光通信、太空能源与散热、天地一体化网络及空间安全标准等方向开展关键共性技术攻关，搭建覆盖从技术研发、中试验证、在轨测试到成果转化的全链条服务体系，并计划于2028年前完成首发试验星研制与发射。未来，研究院将进行多颗试验星组网，实现“天地一体化智算网”试运营，为用户提供高效、稳定、安全的算力服务。\n据介绍，该研究院由国家信创园联合京东方、银河航天、蓝箭航天、星河动力、观宇芯算、长鑫集电等多家企业成立。未来，研究院将与太空算力专业委员会一同构建“公司+联盟”协同架构，系统构建太空算力技术体系与产业生态。北京经开区将依托研究院开展全链条技术攻坚，全力推动太空算力前瞻性技术研究、应用场景挖掘和产业生态培育。\n《 人民日报 》（ 2026年06月04日 07 版）",
+  "image_url": null,
+  "published_at": "2026-06-04T12:00:00+00:00",
+  "event_date": "2026-06-03",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "industry",
+  "keywords": [
+    "太空算力",
+    "天地一体化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京太空智算研究院",
+      "name_en": "Beijing Space Intelligent Computing Research Institute"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "太空算力",
+      "name_en": "Space Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "天地一体化",
+      "name_en": "Space-Ground Integration"
+    }
+  ],
+  "tags_zh": [
+    "北京太空智算研究院",
+    "北京",
+    "太空算力",
+    "天地一体化"
+  ],
+  "tags_en": [
+    "Beijing Space Intelligent Computing Research Institute",
+    "Beijing",
+    "Space Computing",
+    "Space-Ground Integration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京太空智算研究院",
+        "name_en": "Beijing Space Intelligent Computing Research Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260604-peoples_bj-32f31b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

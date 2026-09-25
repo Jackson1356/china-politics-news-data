@@ -1,0 +1,104 @@
+{
+  "id": "20260922-gov_bao_shan-945ac9",
+  "source": "gov_bao_shan",
+  "source_name_zh": "保山市政府网",
+  "source_name_en": "保山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoshan.gov.cn/info/1032/10405484.htm",
+  "title_zh": "中国共产党保山市第六次代表大会举行第二次全体会议",
+  "title_en": "Second Plenary Session of the 6th CPC Baoshan City Congress Convened",
+  "summary_zh": "9月22日，中国共产党保山市第六次代表大会举行第二次全体会议，杨军主持，通过大会选举办法并宣布新一届市委委员、市纪委委员及省党代会代表预选候选人名单。",
+  "summary_en": "On Sept 22, the 6th CPC Baoshan City Congress held its second plenary session, chaired by Yang Jun, adopting election rules and announcing preliminary candidate lists for the new city Party committee, discipline commission and provincial congress delegates.",
+  "body_zh": "9月22日，中国共产党保山市第六次代表大会举行第二次全体会议。\n本次大会的执行主席是：杨军、左广、袁建勋、龚翠莲、黄晓东、周耀泉、马子兴、牛永东、杨斌斌、王晓江、杨立本、李维增、胡丽华。\n杨军主持会议。\n大会应到代表360人，因事因病请假10人，实到代表350人，符合规定人数。\n大会通过了《中国共产党保山市第六次代表大会选举办法》、总监票人和监票人名单，指定了计票人。大会宣布了中国共产党保山市第六届委员会委员、中国共产党保山市第六届纪律检查委员会委员和保山市出席中国共产党云南省第十二次代表大会代表预选候选人名单。决定将此预选候选人名单提交各代表团预选。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "党的组织建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨军",
+      "name_en": "Yang Jun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN-BS",
+      "name_zh": "保山",
+      "name_en": "Baoshan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的组织建设",
+      "name_en": "Party Organization Building"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xiao-shaanxi",
+      "name_zh": "王晓",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "杨军",
+    "保山",
+    "党代会",
+    "换届选举",
+    "党的组织建设",
+    "王晓"
+  ],
+  "tags_en": [
+    "Yang Jun",
+    "Baoshan",
+    "Party Congress",
+    "Leadership Election",
+    "Party Organization Building"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xiao-shaanxi",
+      {
+        "id": null,
+        "name_zh": "杨军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN-BS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260922-gov_bao_shan-945ac9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

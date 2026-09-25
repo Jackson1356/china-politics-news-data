@@ -1,0 +1,110 @@
+{
+  "id": "20260918-gov_yan_cheng-e22447",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/9/18/art_49_4454642.html",
+  "title_zh": "盐城市与中国电信江苏公司签署战略合作协议",
+  "title_en": "Yancheng City Signs Strategic Cooperation Agreement with China Telecom Jiangsu",
+  "summary_zh": "9月17日，盐城市政府与中国电信江苏公司在盐城签署共建“智云盐城”战略合作协议，代市长吴炜出席并见证签约。",
+  "summary_en": "On Sept 17, the Yancheng city government and China Telecom Jiangsu signed a strategic cooperation agreement in Yancheng to jointly build the \"Smart Cloud Yancheng\" digital infrastructure.",
+  "body_zh": "9月17日下午，盐城市人民政府与中国电信股份有限公司江苏分公司在盐签署共建“智云盐城”战略合作协议。市委副书记、代市长吴炜，中国电信股份有限公司江苏分公司党委书记、总经理彭鹏出席活动并见证签约。\n此次签署的战略合作协议将围绕新型信息基础设施、“智云盐城”智能底座、网络与数据安全保障、“通感算”一体低空网络、“智改数转网联”以及“数字盐城”建设等方面开展全方位合作，持续提升5G-A、万兆光网、人工智能、算力网络、数据流通利用等能力，进一步推动数字技术与实体经济深度融合，促进数据要素高效流通、算力资源集约利用、应用场景加快落地，为盐城高质量发展注入强劲数字动能。\n副市长祁从峰与中国电信股份有限公司江苏分公司副总经理姚岳代表双方签署协议。大丰区人民政府、盐城大数据集团、悦达起亚还分别与中国电信盐城分公司签署协议，在算力服务和“人工智能+产业”等方面深化合作。\n市政府秘书长潘迎华参加活动。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "数字经济",
+    "新型信息基础设施",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型信息基础设施",
+      "name_en": "New Information Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "吴炜",
+    "盐城",
+    "战略合作",
+    "数字经济",
+    "新型信息基础设施",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Wu Wei",
+    "Yancheng",
+    "Strategic Cooperation",
+    "Digital Economy",
+    "New Information Infrastructure",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      {
+        "id": null,
+        "name_zh": "彭鹏"
+      },
+      {
+        "id": null,
+        "name_zh": "潘迎华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260918-gov_yan_cheng-e22447",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

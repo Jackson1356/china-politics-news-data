@@ -1,0 +1,88 @@
+{
+  "id": "20260922-gov_huai_an-b44879",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17881920/1790032386844B02zdOpi.html",
+  "title_zh": "淮安市第九次党代会举行预备会议和主席团第一次会议",
+  "title_en": "Preparatory Meeting and First Presidium Meeting Held for Huaian's 9th Party Congress",
+  "summary_zh": "9月21日，中国共产党淮安市第九次代表大会举行预备会议，481名代表中467名出席，顾坤主持，通过大会议程、主席团及秘书长名单等，随后主席团举行第一次会议。",
+  "summary_en": "On Sept 21, the preparatory meeting of the 9th CPC Huaian Municipal Congress was held with 467 of 481 delegates present, chaired by Gu Kun, approving the agenda, presidium and secretary-general lists; the presidium then held its first meeting.",
+  "body_zh": "市第九次党代会举行预备会议和主席团第一次会议\n9月21日，中国共产党淮安市第九次代表大会举行预备会议，会议应到代表481名，实到代表467名，符合规定人数。顾坤同志主持会议。\n会议听取了市第九次党代会筹备工作报告，通过了大会议程、大会主席团和秘书长名单、大会代表资格审查委员会名单等。市第九次党代会的议程为：听取和审查中国共产党淮安市第八届委员会的报告，审查中国共产党淮安市第八届纪律检查委员会的工作报告，选举中国共产党淮安市第九届委员会，选举中国共产党淮安市第九届纪律检查委员会，选举淮安市出席中国共产党江苏省第十五次代表大会代表。\n会议强调，全体代表要始终绷紧纪律这根弦，严格遵守“十严禁”等换届纪律要求，自觉接受监督，共同营造风清气正的换届环境。\n会上，代表们集中观看了严肃换届纪律专题教育片《清风护航》。\n预备会议后，大会主席团举行第一次会议。会议通过大会主席团常务委员会成员和执行主席分组名单。大会主席团常务委员会成员是：顾坤、杨新忠、胡毅、李森、吴晓丹、周方舒、徐子佳、吴茂春、还红华、董国喜、张冲林、吴义朋。\n会议通过大会副秘书长名单、秘书处办事机构及其负责人名单、代表资格审查委员会《关于代表资格的审查报告》、《关于大会列席人员和来宾的意见》和《大会日程》。根据日程安排，市第九次党代会于9月22日上午开幕，9月24日下午闭幕。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会换届",
+    "换届纪律"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会换届",
+      "name_en": "Party Congress and Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届纪律",
+      "name_en": "Election Discipline"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "党代会换届",
+    "换届纪律"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huaian",
+    "Party Congress and Leadership Transition",
+    "Election Discipline"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "程为"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260922-gov_huai_an-b44879",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

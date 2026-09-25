@@ -1,0 +1,108 @@
+{
+  "id": "20260731-gov_huai_an-1d2928",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17828352/1785459294181eCKUUaHT.html",
+  "title_zh": "淮安市人民政府 市政协党组理论学习中心组学习会和主席办公会召开",
+  "title_en": "Huai'an Municipal CPPCC Party Group Holds Theoretical Learning Center Group Meeting and Chairman's Office Meeting",
+  "summary_zh": "7月30日，淮安市政协党组理论学习中心组学习会和主席办公会召开，市政协党组书记、主席赵正兰主持会议并讲话，强调树立正确政绩观，部署下一阶段重点工作。",
+  "summary_en": "On July 30, the Huai'an Municipal CPPCC Party Group held its theoretical learning center group meeting and chairman's office meeting. Zhao Zhenglan, Party Group Secretary and Chairman, presided over and delivered a speech, emphasizing a correct view of political achievements and deploying next-stage key tasks.",
+  "body_zh": "市政协党组理论学习中心组学习会和主席办公会召开\n7月30日，市政协党组理论学习中心组学习会和主席办公会召开。市政协党组书记、主席赵正兰主持会议并讲话。\n会议传达学习了习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神、习近平总书记在上海考察时的重要讲话精神和中央党的建设工作领导小组第25次会议精神等。会议听取了各委办室主要工作完成情况，部署推进下一阶段重点工作。\n赵正兰强调，要推动树立和践行正确政绩观学习教育常态化长效化。坚持把学习教育与学习贯彻习近平党建思想紧密结合起来，立足政协专门协商机构职能，将正确政绩观贯穿协商议政、民主监督、凝聚共识、服务群众等履职全链条，着重解决政绩观认知、责任认知、作风建设认知问题，持续加强政协工作制度机制建设，以务实过硬的政协履职践行“为民造福是最大政绩”的时代要求。要高标准组织好年度重点协商议政活动。精心筹备政企协商座谈会、主席专题协商会，深入破解企业经营发展、产教融合提升的堵点难点，精准打磨专题民主监督报告，确保议政建言精准务实、贴合实际。要有力有效推进反映社情民意信息工作争先进位。强化宣传发动，提升组织化水平，精准聚焦上级采编重点，深挖参考价值高的鲜活素材，严格落实多层级审核把关制度，推动信息工作质效双提升、实现新突破。\n市政协副主席张志勇、韩文军、王苏君、毕丰书、徐效文、王建军、郑劲松、李萍，秘书长蒋继贵参加会议。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "理论学习",
+    "正确政绩观",
+    "政协工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赵正兰",
+      "name_en": "Zhao Zhenglan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正确政绩观",
+      "name_en": "Correct View of Political Achievements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赵正兰",
+    "淮安",
+    "理论学习",
+    "正确政绩观",
+    "政协工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhao Zhenglan",
+    "Huai'an",
+    "Theoretical Study",
+    "Correct View of Political Achievements",
+    "CPPCC Work"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "赵正兰"
+      },
+      {
+        "id": null,
+        "name_zh": "蒋继贵"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-gov_huai_an-1d2928",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

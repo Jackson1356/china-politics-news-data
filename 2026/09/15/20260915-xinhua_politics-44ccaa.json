@@ -1,0 +1,82 @@
+{
+  "id": "20260915-xinhua_politics-44ccaa",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260915/e78ae21eecbe45849ed5d02ec81f88ef/c.html",
+  "title_zh": "万米高空，“网上冲浪”咋实现",
+  "title_en": "How Does In-Flight Internet Work at 10,000 Meters?",
+  "summary_zh": "近期国内多家航司优化机上无线网络服务，专家介绍飞机联网主要依靠地对空通信和卫星通信，我国低轨卫星星座加速组网，年内有望实现全球覆盖。",
+  "summary_en": "Chinese airlines are upgrading in-flight WiFi, which relies on air-to-ground and satellite links. China's low-orbit satellite constellations are expanding toward global coverage by the end of the year.",
+  "body_zh": "国内部分航司优化空中无线网络服务\n万米高空，“网上冲浪”咋实现\n近期，不少乘坐东方航空宽体机航班的旅客，享受到了万米高空上流畅的上网服务。飞机上用网络，安全吗？\n东航有关专家表示，目前国内各大航司提供的机上WiFi（无线网络）符合适航安全标准。这是因为现代民用飞机的航电系统与乘客使用的WiFi有严格的频段和物理隔离，旅客按要求将手机切换至飞行模式后再连接机上WiFi，不会对飞机导航、通信等设备造成干扰。\n过去，很多旅客在登机后无法上网。如今，在万米高空也能“网上冲浪”，这是怎么实现的？\n有关专家介绍，飞机联网目前主要有两条技术路径——地对空通信和卫星通信。\n先说地对空通信。飞机上安装特殊天线，地面沿途建基站，信号向天上传输，飞机途经时自动连接。优点是技术成熟、成本较低、时延较短，网速体验接近地面4G网络，刷网页、发消息基本没有卡顿感。不过，地对空通信只能在有地面基站的地方使用，如果飞机要飞越大洋、高原、沙漠等地，信号就断了。\n不过，卫星通信联网也有短板，比如信号发出后，可能要延迟半秒以上，视频通话、在线游戏会略显吃力。再比如，飞机飞越不同国家领空时，分配的卫星、带宽各有差异，上网体验也会不同。\n航科院（北京）科技发展有限公司董事长史亚杰介绍，我国民航飞机主要依托高轨卫星来通信联网，而国外的一些航司已采用低轨卫星联网系统。低轨卫星通信可大幅降低网络时延、提升传输带宽，支持高清影音、视频会议等全场景互联网应用，可实现接近于地面的上网体验。\n记者了解到，目前我国自主低轨卫星星座建设加速推进，中国星网、上海垣信卫星两大主体均已累计发射200多颗低轨卫星。实测数据显示，国产卫星网络带宽性能比肩国际先进水平，预计今年内可完成全球组网覆盖，实现万米高空“地面级”上网体验。\n飞机能在天上联网，背后是一整条产业链支撑。从卫星设计、火箭发射、轨道部署到信号传输、飞机改装，每个环节都是系统工程。这不只是民航业自身的进步，也反映出我国航天工程、材料科学、电子信息等产业的系统性突破升级。\n“我国航空通信产业正全力追赶，随着年内垣信卫星324颗卫星全球组网完成，我们与国际先进航空互联网服务的差距将加快缩小。”史亚杰说。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "industry",
+  "keywords": [
+    "机上无线网络",
+    "卫星互联网",
+    "低轨卫星星座",
+    "航空通信产业"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机上无线网络",
+      "name_en": "In-flight WiFi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星互联网",
+      "name_en": "Satellite Internet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "低轨卫星星座",
+      "name_en": "Low-Orbit Satellite Constellation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空通信产业",
+      "name_en": "Aviation Communications Industry"
+    }
+  ],
+  "tags_zh": [
+    "机上无线网络",
+    "卫星互联网",
+    "低轨卫星星座",
+    "航空通信产业"
+  ],
+  "tags_en": [
+    "In-flight WiFi",
+    "Satellite Internet",
+    "Low-Orbit Satellite Constellation",
+    "Aviation Communications Industry"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-xinhua_politics-44ccaa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

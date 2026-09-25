@@ -1,0 +1,105 @@
+{
+  "id": "20260901-xinhua_cq-fae333",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cq.news.cn/20260901/869f5da6b9f44c52b8112d83a01341c4/c.html",
+  "title_zh": "中国电气装备集团西南有限公司揭牌",
+  "title_en": "China Electrical Equipment Group Southwest Co., Ltd. Inaugurated",
+  "summary_zh": "8月31日下午，中国电气装备集团西南有限公司在重庆揭牌，市委书记袁家军、市长陈新武会见集团董事长李洪凤一行并共同揭牌。",
+  "summary_en": "On August 31 afternoon, China Electrical Equipment Group Southwest Co., Ltd. was inaugurated in Chongqing. Party Secretary Yuan Jiajun and Mayor Chen Xinwu met with Chairman Li Hongfeng and jointly unveiled the plaque.",
+  "body_zh": "8月31日下午，市委书记袁家军，市委副书记、市长陈新武会见中国电气装备集团党委书记、董事长李洪凤，党委副书记、总经理闫华锋一行。记者 苏思 摄/视觉重庆\n8月31日下午，中国电气装备集团西南有限公司在渝揭牌。市委书记袁家军，市委副书记、市长陈新武会见了中国电气装备集团党委书记、董事长李洪凤，党委副书记、总经理闫华锋一行并共同为企业揭牌。\n中国电气装备集团党委常委、副总经理朱安珂，市领导刘尚进、郑向东参加。\n袁家军代表市委、市政府欢迎李洪凤一行来渝深化合作，感谢中国电气装备集团在产业升级、科技创新、新型基础设施建设等方面给予重庆的大力支持。袁家军说，当前，全市上下正深化落实习近平总书记视察重庆重要讲话重要指示精神，聚焦做实“两大定位”、发挥“三个作用”，牢牢把握高质量发展首要任务，加快完善“416”科技创新布局，持续提升“33618”现代制造业集群体系能级，创新构建“203060”重点攻坚突破体系，着力打造人工智能创新应用高地，纵深推进国资国企改革，促进经济社会发展全面绿色转型，扎实推动“十五五”开好局起好步，奋力谱写中国式现代化重庆篇章。希望中国电气装备集团以西南有限公司揭牌为契机，在电气装备产业升级和集群发展、科技创新、电气装备产品出口等方面与重庆深化务实合作，携手打造中央企业与地方合作标志性成果，更好实现高水平互利共赢。\n李洪凤感谢重庆市长期以来对中国电气装备集团发展的关心支持，并对现代化新重庆建设取得的成绩表示祝贺。他表示，中国电气装备集团将深度融入重庆产业体系和创新体系，加快建成西南产业优化升级基地，持续提升科技创新能级，增强产业安全韧性，打造具有重庆辨识度、世界领先的输配电装备集群，更好服务保障国家重大战略工程和新型电力系统建设，助力重庆高质量发展。\n中国电气装备集团，有关区和市相关部门负责人参加。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "economy",
+  "keywords": [
+    "央企合作",
+    "装备制造",
+    "产业升级"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yuan-jiajun",
+      "name_zh": "袁家军",
+      "name_en": "Yuan Jiajun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央企合作",
+      "name_en": "Central-SOEs Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "装备制造",
+      "name_en": "Equipment Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "袁家军",
+    "重庆",
+    "央企合作",
+    "装备制造",
+    "产业升级",
+    "陈新武"
+  ],
+  "tags_en": [
+    "Yuan Jiajun",
+    "Chongqing",
+    "Central-SOEs Cooperation",
+    "Equipment Manufacturing",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xinwu",
+      "yuan-jiajun",
+      {
+        "id": null,
+        "name_zh": "贺他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260901-xinhua_cq-fae333",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260730-gov_huai_an-3168d5",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17828352/1785394811220KiJXyrxc.html",
+  "title_zh": "市领导调研淮安工业园区经济运行情况",
+  "title_en": "City Leaders Inspect Economic Operation of Huai'an Industrial Park",
+  "summary_zh": "7月29日，淮安市委书记史志军到淮安工业园区调研经济运行情况，强调要全力以赴抓好经济工作，确保“十五五”开好局、起好步。",
+  "summary_en": "On July 29, Shi Zhijun, secretary of the Huai'an Municipal Party Committee, inspected the economic operation of Huai'an Industrial Park, emphasizing efforts to ensure a good start to the 15th Five-Year Plan.",
+  "body_zh": "7月29日，市委书记史志军到淮安工业园区调研经济运行情况，强调要深入学习贯彻习近平总书记对江苏工作重要讲话精神、对淮安殷切嘱托，牢牢把握高质量发展首要任务，紧扣“提质效、走前列、开新局”年度目标，全力服务企业稳产提质增效，以更大力度和更实举措抓好经济工作，确保“十五五”开好局、起好步。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "淮安",
+    "经济运行",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Huai'an",
+    "Economic Operation",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260730-gov_huai_an-3168d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": null,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17828352/1785373250939lw1Qasf8.html",
+      "title_zh": "市领导调研淮安工业园区经济运行情况",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
