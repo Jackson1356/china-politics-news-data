@@ -1,0 +1,113 @@
+{
+  "id": "20260911-gov_yan_tai-44fc67",
+  "source": "gov_yan_tai",
+  "source_name_zh": "烟台市政府网",
+  "source_name_en": "烟台 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_tai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yantai.gov.cn/col/col44655/art/2026/art_3ba0b39e766d42e3b6d2839d100477f4.html",
+  "title_zh": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+  "title_en": "Xi Jinping Extends Holiday Greetings to Teachers and Educators Nationwide",
+  "summary_zh": "在第四十二个教师节到来之际，习近平代表党中央向全国广大教师和教育工作者致以节日祝贺，强调弘扬教育家精神、加强教师队伍建设。",
+  "summary_en": "On the 42nd Teachers' Day, Xi Jinping, on behalf of the CPC Central Committee, sent festive greetings to teachers and educators nationwide, urging efforts to strengthen the teaching workforce.",
+  "body_zh": "在第四十二个教师节到来之际\n习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候\n在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。\n习近平指出，长期以来，全国广大教师认真贯彻党的教育方针，躬耕教坛、传道授业，为党和国家事业发展作出了重要贡献。\n习近平强调，新征程上，希望广大教师牢记为党育人、为国育才的初心使命，落实立德树人根本任务，大力弘扬教育家精神，涵养高尚师德师风，提升专业素质能力，努力培养担当民族复兴大任的时代新人。各级党委和政府要重视加强教师队伍建设，在全社会营造尊师重教良好氛围，汇聚起教育强国建设的强大合力。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "教师节",
+    "教育强国",
+    "尊师重教",
+    "立德树人"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "党中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教师节",
+      "name_en": "Teachers' Day"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育强国",
+      "name_en": "Building an Education Powerhouse"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "尊师重教",
+      "name_en": "Respecting Teachers and Valuing Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立德树人",
+      "name_en": "Fostering Virtue Through Education"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "党中央",
+    "教师节",
+    "教育强国",
+    "尊师重教",
+    "立德树人"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "Teachers' Day",
+    "Building an Education Powerhouse",
+    "Respecting Teachers and Valuing Education",
+    "Fostering Virtue Through Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "党中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260911-gov_yan_tai-44fc67",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080532.htm",
+      "title_zh": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

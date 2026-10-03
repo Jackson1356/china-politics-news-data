@@ -1,0 +1,120 @@
+{
+  "id": "20260811-peoples_ha-b5d0d0",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0811/c351638-41664493.html",
+  "title_zh": "水利部对冀鲁豫鄂4省份启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level-IV Emergency Response for Flood Control in Four Provinces",
+  "summary_zh": "水利部于8月10日对河北、山东、河南、湖北启动洪水防御Ⅳ级应急响应，应对台风“白海豚”和冷空气带来的强降雨。",
+  "summary_en": "On August 10, the Ministry of Water Resources activated a Level-IV emergency response for flood control in Hebei, Shandong, Henan, and Hubei provinces to address heavy rainfall from Typhoon \"White Dolphin\" and cold air.",
+  "body_zh": "水利部对冀鲁豫鄂4省份启动洪水防御Ⅳ级应急响应\n据新华社北京8月10日电（记者 魏弘毅）记者从水利部了解到，水利部于10日对河北、山东、河南、湖北启动洪水防御Ⅳ级应急响应。\n据预报，受第13号台风“白海豚”和冷空气共同影响，8月10日至16日，湖北、河南、河北、山东将先后出现大到暴雨，其中湖北西北部、河南东南部和北部、河北中部南部等地部分地区将有大暴雨，局部将有特大暴雨。受降雨影响，长江中游干流及支流汉江，淮河上中游干支流及沂沭泗水系，黄河中下游干流及支流伊洛河、沁河，海河流域漳卫河、徒骇马颊河、大清河等主要河流将出现明显涨水过程；其中沙颍河、伊洛河、黄河、卫河等主要河流可能发生编号洪水，湖北汉江支流北河，河南沙颍河上游支流北汝河、伊洛河支流蛮峪河、卫河支流淇河等中小河流可能发生较大洪水。\n为应对汛情，水利部督促指导地方水利部门和相关流域管理机构强化值班值守和会商研判，及时发布预警信息；科学调度运用水库和水闸枢纽，做好有关蓄滞洪区启用准备；加密水库、堤防巡查防守，及时发现和处置险情；突出抓好中小河流洪水和山洪灾害防御，提醒有关地方及时转移受威胁人员。\n同时，水利部信息中心10日继续发布洪水蓝色预警，提醒浙江、江苏、上海、安徽、湖北、河南、山东、河北、北京、辽宁等省份相关地区社会公众注意防范。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应",
+    "台风防御"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "河北",
+    "山东",
+    "河南",
+    "湖北",
+    "洪水防御",
+    "应急响应",
+    "台风防御"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Hebei",
+    "Shandong",
+    "Henan",
+    "Hubei",
+    "Flood Control",
+    "Emergency Response",
+    "Typhoon Defense"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HE",
+      "CN-SD",
+      "CN-HA",
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260811-peoples_ha-b5d0d0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

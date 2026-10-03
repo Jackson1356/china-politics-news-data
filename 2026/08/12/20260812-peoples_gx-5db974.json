@@ -1,0 +1,91 @@
+{
+  "id": "20260812-peoples_gx-5db974",
+  "source": "peoples_gx",
+  "source_name_zh": "人民网 广西",
+  "source_name_en": "People's Daily Guangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gx.people.com.cn/n2/2026/0812/c179464-41666088.html",
+  "title_zh": "平陆运河实船试验正式启动",
+  "title_en": "Pinglu Canal Real-ship Test Officially Launched",
+  "summary_zh": "8月12日，平陆运河实船试验正式启动，将分阶段完成通航验证与航标效能检测，为2026年9月如期通航奠定基础。",
+  "summary_en": "On August 12, the real-ship test of the Pinglu Canal was officially launched to verify navigation and beacon effectiveness in stages, laying a solid foundation for the canal to open to navigation in September 2026.",
+  "body_zh": "平陆运河实船试验正式启动\n3000吨级船舶进入马道枢纽船闸。人民网\n人民网钦州8月12日电 （冯肖慧、梁章晖）8月12日，平陆运河实船试验正式启动。本次试验将分阶段完成常规工况、不利工况通航验证与全线航标效能检测，全面核验运河航道、船闸、锚地、服务区、助航设施适配性，为运河2026年9月如期通航奠定坚实基础。\n本次试验调配四艘代表性船舶，覆盖5000吨重载与空载、3000吨重载、1000吨重载等主流通航船型。试验航程覆盖了运河沙坪河段、分水岭段、钦江干流段、钦州城区段、入海口段，同步开展三大枢纽双线船闸船舶过闸、弯道会船、同向追越、掉头操纵、潮汐靠离泊、夜间通航全科目实测，并针对枢纽泄水、支流洪水汇流、大风大潮叠加等6类高风险不利工况择机开展预试验，同步完成全线206座代表性航标昼夜视觉、灯质、布设效果专项检测。\n1000吨级船舶（右）、3000吨级船舶（左）、5000吨级船舶（中）正在经过马道枢纽船闸。人民网\n马道枢纽二线船闸上闸首人字门闭门。人民网\n为保障实船试验的顺利进行，试验船舶将全程搭载北斗定位、无人机流场监测、系缆拉力传感器、主机工况采集等高精度设备，实时采集船舶航迹、漂角、横倾角、航道流速、船间安全距离等上百项核心数据。依托全套智能监测设备完成全维度通航数据采集的同时，平陆运河建设管理团队同步构建多层级安全防护体系，建立海事、建设、应急多单位联动保障机制，实行分空间分时段水上交通管制，配备专职应急护航快艇，配齐船舶碰撞、搁浅、溢油、人员落水等全套应急处置装备与预案，同步落实船员资质、船舶适航前置核验，严守水上试验安全底线。\n本次试验结束后，平陆运河建设管理团队将根据试验结果编制《实船适航试验报告》《航标效能测试报告》并完成专家内审。报告将梳理全线通航优化建议、标准化航路航法，明确各航段通航管控要求，补齐运河安全运营技术依据，助力这条世纪工程平稳开启江海联运新篇章，更为后续同类型工程提供技术参考。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "交通运输",
+    "基础设施建设",
+    "通航试验"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GX-QZ",
+      "name_zh": "钦州",
+      "name_en": "Qinzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "通航试验",
+      "name_en": "Navigation Test"
+    }
+  ],
+  "tags_zh": [
+    "钦州",
+    "交通运输",
+    "基础设施建设",
+    "通航试验"
+  ],
+  "tags_en": [
+    "Qinzhou",
+    "Transportation",
+    "Infrastructure Construction",
+    "Navigation Test"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GX-QZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-peoples_gx-5db974",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gx",
+      "source_tier": 3,
+      "url": "http://gx.people.com.cn/n2/2026/0813/c179435-41666636.html",
+      "title_zh": "平陆运河实船试验正式启动",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "20260903-gov_cn_yaowen-fbf519",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/03/VIDEdZlNbZUJGt5KQANSYYJR260903.shtml",
+  "title_zh": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京",
+  "title_en": "Xi Jinping Returns to Beijing After Attending 2026 SCO Summit and State Visits to Kyrgyzstan and Egypt",
+  "summary_zh": "9月3日上午，国家主席习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问，回到北京。",
+  "summary_en": "On the morning of September 3, President Xi Jinping returned to Beijing after successfully attending the 2026 SCO Summit and state visits to Kyrgyzstan and Egypt.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：9月3日上午，国家主席习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问后回到北京。\n习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等陪同人员同机返回。\n[视频]习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京\n简介\n视频简介习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "大国外交",
+    "上海合作组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大国外交",
+      "name_en": "Major-Country Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "大国外交",
+    "上海合作组织",
+    "王毅"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Major-Country Diplomacy",
+    "Shanghai Cooperation Organization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260903-gov_cn_yaowen-fbf519",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/35bf413f87b240198a14a7af73a19577.shtml",
+      "title_zh": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chen_yang",
+      "source_tier": null,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202609/t20260904_5083861.html",
+      "title_zh": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

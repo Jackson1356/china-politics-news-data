@@ -1,0 +1,117 @@
+{
+  "id": "20260929-local_qing_dao_ri_bao_cn_sd-f2c2d7",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/475695_1.html",
+  "title_zh": "开辟大国相处正确之道 书写中美关系历史新篇——习近平主席对美国进行国事访问纪实",
+  "title_en": "Documentary Chronicles President Xi Jinping's State Visit to the United States",
+  "summary_zh": "中央广播电视总台推出时政纪录片，全景记录习近平主席对美国进行国事访问的华盛顿之行，中美元首半年内实现历史性互访。",
+  "summary_en": "China Media Group released a political documentary chronicling President Xi Jinping's state visit to the United States, marking historic reciprocal visits by the two heads of state within six months.",
+  "body_zh": "时政纪录片丨开辟大国相处正确之道 书写中美关系历史新篇——习近平主席对美国进行国事访问纪实\n从北京到华盛顿\n中美元首半年内实现历史性互访\n习近平主席\n时隔11年再次对美国进行国事访问\n拓展中美关系新定位 开辟中美合作新空间\n搭建中美友好新桥梁 展现大国责任新担当\n中央广播电视总台推出特别节目\n全景记录习近平主席华盛顿之行\n出品人丨慎海雄\n总监制丨范昀\n监制丨申勇 龚雪辉\n制片人丨马立飞 郭晗光\n撰稿丨覃思\n编导丨陈汉章 辛乔\n记者丨彭柏闳 李炜 闫耀东 周倜\n摄像丨李铮 张晓鹏 钟锋 石伟明 马超 王哈男 段德文 鄂介甫 郭鸿 程铖 钟锐 周志国 杨立峰 耿小龙 李增仁 曹亚星 韩锐 杨波 刘琦 王策 薛冠南 金雨秋 范一鸣 张垚 范凯 赵龙 张宇\n解说丨贺红梅\n制作丨李铄 赵鹏 孙志伟 庞森\n统筹丨孔征 张建欣 朱超 许永松 王萌萌 李燕 孙正瑜 魏福玫 尤捷\n协助丨李康辉 常天缘 王瀚锋 李元 张琪 王攀 常毅 李云龙 熊健 盛瑾瑜 郭恩友 朱志远\n支持丨总台北美总站",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "华盛顿",
+      "name_en": "Washington"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Summit Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央广播电视总台",
+    "美国",
+    "华盛顿",
+    "中美关系",
+    "元首外交",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China Media Group",
+    "United States",
+    "Washington",
+    "China-US Relations",
+    "Summit Diplomacy",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260929-local_qing_dao_ri_bao_cn_sd-f2c2d7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-09/29/content_39026057.htm",
+      "title_zh": "时政纪录片丨开辟大国相处正确之道 书写中美关系历史新篇——习近平主席对美国进行国事访问纪实",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

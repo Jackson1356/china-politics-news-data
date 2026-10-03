@@ -1,0 +1,101 @@
+{
+  "id": "20260617-chinanews_gn-34e7f5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-17/10642308.shtml",
+  "title_zh": "韩正会见美国前运输部长赵小兰",
+  "title_en": "Han Zheng Meets Former US Transportation Secretary Elaine Chao",
+  "summary_zh": "2026年6月17日，国家副主席韩正在北京会见美国前运输部长赵小兰，双方就加强中美建设性战略稳定关系及经贸人文交流进行探讨。",
+  "summary_en": "On June 17, 2026, Vice President Han Zheng met with former US Transportation Secretary Elaine Chao in Beijing to discuss strengthening the constructive strategic stable relationship and cooperation between China and the US.",
+  "body_zh": "韩正会见美国前运输部长赵小兰\n新华社北京6月17日电 6月17日，国家副主席韩正在北京会见美国前运输部长赵小兰。\n韩正表示，今年5月，习近平主席同特朗普总统共同确定了中美建设性战略稳定关系的新定位，为下阶段中美关系作出了重要战略指引。中方一贯致力于发展稳定的中美关系。落实两国元首共识，需要双方各界共同采取行动，进一步加强经贸等领域的合作，密切人文交流和民间地方往来，为双边关系发展打造更多坚实支撑。\n赵小兰表示，美中元首会晤具有重要意义，保持稳定的美中关系符合各方利益。愿继续为推动美中务实合作、促进民间往来作出努力。\n国内新闻精选：\n- 2026年06月17日 14:33:05\n- 2026年06月17日 14:15:40\n- 2026年06月17日 12:39:12\n- 2026年06月17日 11:19:15\n- 2026年06月16日 22:33:01\n- 2026年06月16日 18:20:35\n- 2026年06月16日 10:41:12\n- 2026年06月16日 10:40:00\n- 2026年06月16日 10:37:33\n- 2026年06月16日 09:17:41",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "战略稳定",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赵小兰",
+      "name_en": "Elaine Chao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-people Exchanges"
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "赵小兰",
+    "北京",
+    "中美关系",
+    "战略稳定",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Elaine Chao",
+    "Beijing",
+    "China-US Relations",
+    "Strategic Stability",
+    "People-to-people Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng",
+      {
+        "id": null,
+        "name_zh": "赵小兰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260617-chinanews_gn-34e7f5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

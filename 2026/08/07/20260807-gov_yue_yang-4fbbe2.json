@@ -1,0 +1,101 @@
+{
+  "id": "20260807-gov_yue_yang-4fbbe2",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2393233.html",
+  "title_zh": "谢卫江与长三角等地企业家座谈",
+  "title_en": "Xie Weijiang Holds Talks with Entrepreneurs from Yangtze River Delta and Other Regions",
+  "summary_zh": "8月6日，湖南省委副书记、岳阳市委书记谢卫江与长三角等地企业家座谈，共商合作，表示将持续优化营商环境。",
+  "summary_en": "On Aug 6, Xie Weijiang, deputy secretary of Hunan Provincial Committee, held talks with entrepreneurs from the Yangtze River Delta and other areas in Yueyang, pledging to optimize the business environment.",
+  "body_zh": "8月6日，省委副书记、岳阳市委书记谢卫江与来岳考察投资的长三角等地企业家座谈交流、共商合作。\n谢卫江代表市委、市政府对企业家来岳考察表示欢迎，对大家支持岳阳经济社会发展表示感谢。他说，当前岳阳正抢抓长江经济带、长三角一体化和长江中游城市群建设发展机遇，发挥“四个优势”、做好“四篇文章”，加快推动高质量发展。希望企业家充分发挥自身优势，与岳阳在推进现代化产业体系提质升级、高质量推进城市更新、营造产业发展良好生态等方面加强合作，在双向奔赴中实现共赢发展。市委、市政府将持续优化营商环境，做好服务保障。\n与会企业家表示，将以此次考察为契机，把企业自身发展与岳阳机遇优势紧密结合起来，进一步加强交流对接、实现合作共赢。\n市领导刘世奇、林军华参加。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳市委",
+    "岳阳",
+    "招商引资",
+    "营商环境"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang Municipal Party Committee",
+    "Yueyang",
+    "Investment Attraction",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "林军华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_yue_yang-4fbbe2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

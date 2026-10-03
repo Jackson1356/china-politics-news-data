@@ -1,0 +1,107 @@
+{
+  "id": "20260903-gov_wu_hu-68b65a",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41302534.html",
+  "title_zh": "陈东赴高新区（弋江区）开展调研",
+  "title_en": "Chen Dong Conducts Investigation in High-tech Zone (Yijiang District)",
+  "summary_zh": "9月2日，芜湖市委副书记、代市长陈东赴高新区（弋江区）调研产业园区和重点企业，了解半导体、新能源汽车等产业发展情况。",
+  "summary_en": "On September 2, Chen Dong, deputy secretary of the Wuhu Municipal Party Committee and acting mayor, visited the High-tech Zone to inspect industrial parks and key enterprises, focusing on semiconductors and NEVs.",
+  "body_zh": "陈东赴高新区（弋江区）开展调研\n本报讯（记者 吕成 张锐）9月2日，市委副书记、代市长陈东赴高新区（弋江区）调研产业园区和重点企业，研究推进项目建设和产业发展。市领导朱子参加。\n在安徽长飞先进半导体股份有限公司，陈东实地察看企业产品和生产线，深入了解技术研发、产能布局、产品应用等情况。他指出，要抢抓半导体产业加速发展机遇期，加快集聚创新人才，促进产业链上下游协同联动，为芜湖半导体产业高质量发展营造良好生态。\n在鸠兹科创湾荆山智慧感知科创园，陈东认真听取高新区（弋江区）新一代信息技术产业发展情况介绍，现场了解园区规划建设情况并走访入驻企业。他强调，要紧扣产业发展方向，强化产业招商和创新平台建设，加快培育壮大新兴产业和未来产业，推动新旧动能接续转换。要认真倾听企业发展诉求，不断加强园区建设服务保障能力，优化为企服务，切实为企业发展赋能。\n在芜湖造船厂有限公司，陈东走进展馆和车间，了解企业发展历程、经营现状、市场开拓等情况，鼓励企业继续发扬开拓进取精神，瞄准行业前沿，加快科技研发和创新应用步伐，提高产品核心竞争力，持续拓展市场空间，推动芜湖造船业向高端化、智能化、国际化方向发展，锻造竞争新优势。\n在奇瑞集团生产基地，陈东详细了解生产经营情况。他强调，要更加突出智能网联新能源汽车的产业地位，提升首位产业的标识度。要加快推动产业资源集聚，加强配套服务供给，持续提升技术创新力、品牌吸引力。要充分发挥龙头企业引领带动作用，促进产业链供应链资源要素高效配置，在构建现代化产业体系中发挥更大作用。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "economy",
+  "keywords": [
+    "产业发展",
+    "半导体产业",
+    "智能网联新能源汽车"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈东",
+      "name_en": "Chen Dong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业发展",
+      "name_en": "Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体产业",
+      "name_en": "Semiconductor Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能网联新能源汽车",
+      "name_en": "Intelligent Connected New Energy Vehicles"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江区",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈东",
+    "芜湖",
+    "产业发展",
+    "半导体产业",
+    "智能网联新能源汽车",
+    "江区"
+  ],
+  "tags_en": [
+    "Chen Dong",
+    "Wuhu",
+    "Industrial Development",
+    "Semiconductor Industry",
+    "Intelligent Connected New Energy Vehicles"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "朱子"
+      },
+      {
+        "id": null,
+        "name_zh": "江区"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260903-gov_wu_hu-68b65a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

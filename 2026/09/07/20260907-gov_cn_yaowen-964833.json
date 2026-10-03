@@ -1,0 +1,101 @@
+{
+  "id": "20260907-gov_cn_yaowen-964833",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7080371.htm",
+  "title_zh": "我国到2030年将全面建成新一代通信网",
+  "title_en": "China to Complete New-Generation Communication Network by 2030",
+  "summary_zh": "工信部9月7日发布信息通信行业发展“十五五”规划，提出到2030年全面建成新一代通信网，并列出13个主要指标。",
+  "summary_en": "MIIT released the 15th Five-Year Plan for ICT on Sept 7, aiming to build a new-generation communication network by 2030 with 13 targets.",
+  "body_zh": "新华社北京9月7日电（记者 周圆、高亢）工业和信息化部7日发布《信息通信行业发展“十五五”规划》。规划提出，到2030年，全面建成覆盖完善、性能领先的新一代通信网，加快形成技术先进、安全可控的信息通信产业体系，信息通信行业现代化迈出坚实步伐。\n规划列出了13个主要指标，包括到2030年，信息通信行业收入达4.1万亿元，信息基础设施累计投资3.8万亿元，电信业务总量年均增速为7%，智能算力规模达9800EFLOPS，5G（含5G-A）用户普及率达95%等。\n规划围绕信息基础设施建设、信息通信产业体系、行业治理体系和治理效能、网络和数据安全保障、融合应用拓展、全球化发展6个方面，提出26项重点任务。具体举措包括：适时启动6G商用，加快全国一体化算力网建设，探索太空算力技术前瞻研究及生态培育，推动“5G+北斗”融合发展，有序推进嵌入式SIM卡（eSIM）、无网通信等新技术应用和新业务备案。\n具体举措还包括：建设行业反诈实验室、支持行业企业深入推动“人工智能+制造”、持续推动国际互联网带宽扩容、加快卫星通信网络全球覆盖、积极稳妥有序推动电信领域扩大自主开放等。\n规划聚焦算力基础设施筑基提质、星地融合发展、智能体互联网络建设、6G技术研发、平台经济创新健康发展、工业互联网应用创新发展等设置了13个专栏，并明确新建5G-A基站50万个，推广手机直连卫星应用，构建智能体网络标识体系，系统性开展无线、网络、安全等6G关键技术研究，构建应急通信大模型等。\n此外，规划还要求加强跨部门协调、部省联动、政企协同，强化各类政策协同配合及用地、用海、用电、用数和频率等资源要素保障，鼓励金融机构等加大支持力度。",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "industry",
+  "keywords": [
+    "信息通信产业",
+    "新一代通信网",
+    "智能算力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息通信产业",
+      "name_en": "Information and Communication Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新一代通信网",
+      "name_en": "New-Generation Communication Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能算力",
+      "name_en": "Intelligent Computing Power"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "北京",
+    "信息通信产业",
+    "新一代通信网",
+    "智能算力"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Beijing",
+    "Information and Communication Industry",
+    "New-Generation Communication Network",
+    "Intelligent Computing Power"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-chinanews_gn-9611b3",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260907/f6c887a946a5444fb4c089214c10df03/c.html",
+      "title_zh": "我国到2030年将全面建成新一代通信网",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

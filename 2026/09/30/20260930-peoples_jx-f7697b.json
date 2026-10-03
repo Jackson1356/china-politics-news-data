@@ -1,0 +1,92 @@
+{
+  "id": "20260930-peoples_jx-f7697b",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jx.people.com.cn/n2/2026/0930/c186330-41712425.html",
+  "title_zh": "南昌1000千伏变电站主变扩建工程投运",
+  "title_en": "Nanchang 1,000 kV Substation Main Transformer Expansion Project Goes into Operation",
+  "summary_zh": "9月29日，南昌1000千伏变电站主变扩建工程建成投运，为“十五五”期间江西首个投运的特高压交流变电工程，总投资3.54亿元。",
+  "summary_en": "On Sept 29, the Nanchang 1,000 kV substation expansion, Jiangxi's first UHV AC substation project of the 15th Five-Year Plan period, began operation with a 354 million yuan investment.",
+  "body_zh": "南昌1000千伏变电站主变扩建工程投运\n9月29日15时36分，随着主变压器第5次送电冲击成功，“十五五”期间江西首个投运的特高压交流变电工程——南昌1000千伏变电站主变扩建工程建成投运。工程的建成投运，将充分发挥华中特高压交流环网优势，增强华中四省电力余缺互济能力，进一步提升江西电网送受电与新能源消纳能力。\n本期扩建1组3000兆伏安主变压器（1号主变），扩建1台1000千伏断路器；500千伏GIS新增4台断路器等设备。项目总投资3.54亿元。\n由于是在已经带电运行的特高压站内开展扩建作业，施工安全与质量管控难度大。建设过程中，国网江西电力克服停电施工复杂、首台套设备质量管控要求高、降雨天气多等困难，安全有序推进工程建设，工程获评国网平安现场，且较里程碑计划提前一个月竣工投运。\n该工程首次在1000千伏GIS单间隔扩建中应用轨道式移动厂房，有效降低天气对停电安装的影响；应用激光点云精准测距、防感应电监控报警等智能装置，压降厂房吊拆过程近电、高空作业叠合交织的风险。同时，工程建设推动主设备关键部件国产化，首次在主变中场强区应用国产化绝缘纸板。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "economy",
+  "keywords": [
+    "特高压电网",
+    "新能源消纳",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX-NC",
+      "name_zh": "南昌",
+      "name_en": "Nanchang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "特高压电网",
+      "name_en": "Ultra-High-Voltage Power Grid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源消纳",
+      "name_en": "Renewable Energy Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "江西",
+    "南昌",
+    "特高压电网",
+    "新能源消纳",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Jiangxi",
+    "Nanchang",
+    "Ultra-High-Voltage Power Grid",
+    "Renewable Energy Consumption",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JX",
+      "CN-JX-NC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260930-peoples_jx-f7697b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

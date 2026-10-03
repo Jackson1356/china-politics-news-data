@@ -1,0 +1,111 @@
+{
+  "id": "20260608-gov_cn_yaowen-2f402a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/08/VIDEsjsYU1Vb4nU4RfDlIfCG260608.shtml",
+  "title_zh": "丁薛祥出席三峡水运新通道工程开工仪式",
+  "title_en": "Ding Xuexiang Attends Groundbreaking Ceremony for Three Gorges Waterway New Channel Project",
+  "summary_zh": "6月8日上午，中共中央政治局常委、国务院副总理丁薛祥在湖北省宜昌市出席三峡水运新通道工程开工仪式并宣布工程正式开工。",
+  "summary_en": "On the morning of June 8, Ding Xuexiang, member of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council, attended the groundbreaking ceremony for the Three Gorges Waterway New Channel Project in Yichang, Hubei.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：三峡水运新通道工程开工仪式8日上午在湖北省宜昌市举行。中共中央政治局常委、国务院副总理丁薛祥出席开工仪式，并宣布工程正式开工。\n开工仪式上，项目业主中国三峡集团、湖北省主要负责同志先后发言。10时12分，丁薛祥宣布三峡水运新通道工程开工，工程建设正式启动。\n中央和国家机关有关部门、有关中央企业负责同志，咨询、设计和建设单位代表，当地群众代表等参加开工仪式。\n三峡水运新通道工程集水利、航运、生态等功能于一体，是三峡工程之后长江干线上最大的综合性工程。工程建成后，三峡枢纽、葛洲坝枢纽都将形成四线船闸格局，有利于提升长江黄金水道通航能力，更好支撑长江经济带高质量发展。",
+  "image_url": null,
+  "published_at": "2026-06-08T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "三峡水运新通道工程",
+    "长江经济带"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "宜昌",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三峡水运新通道工程",
+      "name_en": "Three Gorges Waterway New Channel Project"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长江经济带",
+      "name_en": "Yangtze River Economic Belt"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "湖北",
+    "宜昌",
+    "三峡水运新通道工程",
+    "长江经济带"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "Three Gorges Waterway New Channel Project",
+    "Yangtze River Economic Belt"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260608-gov_cn_yaowen-2f402a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071474.htm",
+      "title_zh": "丁薛祥出席三峡水运新通道工程开工仪式",
+      "published_at": "2026-06-08T12:00:00+00:00"
+    },
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33334392",
+      "title_zh": "丁薛祥出席三峡水运新通道工程开工仪式",
+      "published_at": "2026-06-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

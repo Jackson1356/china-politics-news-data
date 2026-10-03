@@ -1,0 +1,95 @@
+{
+  "id": "20260826-gov_si_ping-e49dfa",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/sj_1/zyhd/202608/t20260826_773918.html",
+  "title_zh": "四平市委常委会会议传达学习习近平总书记重要文章精神",
+  "title_en": "Siping Municipal Party Standing Committee Meeting Conveys Spirit of Xi Jinping's Important Article",
+  "summary_zh": "8月25日，四平市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在《求是》杂志发表的《提高防灾减灾救灾能力》重要文章精神，研究贯彻落实意见。",
+  "summary_en": "On Aug 25, Siping Municipal Party Secretary Wang Xiangmin chaired a Standing Committee meeting to convey Xi Jinping's important article on improving disaster prevention, mitigation and relief and study implementation.",
+  "body_zh": "2026-08-26\n8月25日，市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在《求是》杂志上发表的《提高防灾减灾救灾能力》重要文章精神，研究我市贯彻落实意见。\n会议指出，习近平总书记的重要文章，紧密结合我国防灾减灾救灾实际，总结形成了一系列必须长期坚持、持续丰富发展的宝贵经验，系统阐释了新时代防灾减灾救灾工作的总体要求和重点任务，为我们提供了根本遵循和行动指南。要强化事前预防，牢固树立底线思维、极限思维，全面提升关键基础设施设防标准，抓紧抓实隐患排查整治，聚焦重点点位和关键环节深入开展拉网式排查，常态化开展“回头看”，从源头上规避洪涝、地质等灾害风险。要强化应急处置，进一步完善市级应急预案和多场景应急处置方案，健全精准监测预警体系，常态化开展防灾减灾、防汛救灾等专题培训和实战演练，全方位提升各级干部风险研判、应急处突、统筹协调能力，为做好应急处置提供有力保障。要强化基层基础，健全完善市县乡村四级应急联动机制，建强乡镇、街道专职应急队伍，强化基层应急场所建设和防汛物资、抢险装备保障，深化常态化科普宣传，全面提升全民防灾避险意识和自救互救能力。同时，要保持“时时放心不下”的责任意识、危机意识，一以贯之抓好防汛工作，及时系统地进行复盘总结，为做好今后防汛工作夯实基础。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-26T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "party",
+  "keywords": [
+    "防灾减灾救灾",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾救灾",
+      "name_en": "Disaster Prevention, Mitigation and Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四平",
+    "防灾减灾救灾",
+    "应急管理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Siping",
+    "Disaster Prevention, Mitigation and Relief",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王相民"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260826-gov_si_ping-e49dfa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_si_ping",
+      "source_tier": 4,
+      "url": "http://www.siping.gov.cn/zw/spdt/202608/t20260826_773917.html",
+      "title_zh": "四平市人民政府",
+      "published_at": "2026-08-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

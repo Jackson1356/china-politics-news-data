@@ -1,0 +1,109 @@
+{
+  "id": "20260923-gov_wu_zhong-df2497",
+  "source": "gov_wu_zhong",
+  "source_name_zh": "吴忠市政府网",
+  "source_name_en": "吴忠 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_zhong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+  "title_zh": "国务院办公厅印发《“高效办成一件事”2026年度第二批重点事项清单》",
+  "title_en": "State Council General Office Issues Second Batch of 2026 Key Items List for \"Efficiently Completing One Matter\"",
+  "summary_zh": "国务院办公厅印发国办函〔2026〕84号通知，公布《“高效办成一件事”2026年度第二批重点事项清单》，要求各地区各部门结合实际组织实施，推动在建设全国统一大市场、优化营商环境等领域扩大政务服务改革成效。",
+  "summary_en": "The General Office of the State Council issued Circular No. 84 of 2026, releasing the second batch of 2026 key items for the \"Efficiently Completing One Matter\" government service reform, urging all regions and departments to implement them and extend the reform to areas such as building a unified national market and improving the business environment.",
+  "body_zh": "国务院办公厅关于印发《“高效办成一件事”\n2026年度第二批重点事项清单》的通知\n国办函〔2026〕84号\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n《“高效办成一件事”2026年度第二批重点事项清单》已经国务院同意，现印发给你们，请结合实际认真组织实施。\n各地区各部门要认真贯彻党中央、国务院关于优化政务服务、推动“高效办成一件事”的决策部署，坚持问题导向和目标导向相结合，树立和践行正确政绩观，在持续优化已推出重点事项的基础上，统筹做好2026年度第二批重点事项清单实施工作。要进一步强化“高效办成一件事”理念，稳步拓展适用领域和范围，推动在建设全国统一大市场、扩大高水平对外开放、促进区域协调发展、优化营商环境等更多领域更大范围实现“高效办成一件事”，结合本地区本部门实际逐步推动经营主体和个人全生命周期重点事项总体清单全面落地，持续提升企业和群众满意度、获得感。\n国务院办公厅\n（此件公开发布）\n“高效办成一件事”\n2026年度\n第二批重点事项清单",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "party",
+  "keywords": [
+    "政务服务改革",
+    "高效办成一件事",
+    "优化营商环境",
+    "全国统一大市场"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GOSC",
+      "name_zh": "国务院办公厅",
+      "name_en": "General Office of the State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政务服务改革",
+      "name_en": "Government Service Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高效办成一件事",
+      "name_en": "Efficiently Completing One Matter"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "优化营商环境",
+      "name_en": "Business Environment Optimization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国统一大市场",
+      "name_en": "Unified National Market"
+    }
+  ],
+  "tags_zh": [
+    "国务院办公厅",
+    "国务院",
+    "政务服务改革",
+    "高效办成一件事",
+    "优化营商环境",
+    "全国统一大市场"
+  ],
+  "tags_en": [
+    "General Office of the State Council",
+    "State Council",
+    "Government Service Reform",
+    "Efficiently Completing One Matter",
+    "Business Environment Optimization",
+    "Unified National Market"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GOSC",
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-gov_wu_zhong-df2497",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yin_chuan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+      "title_zh": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知_电子政务",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

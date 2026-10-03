@@ -1,0 +1,83 @@
+{
+  "id": "20260819-gov_cn_yaowen-eb4753",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078570.htm",
+  "title_zh": "今年前7月国家铁路发送货物23.5亿吨",
+  "title_en": "National Railway Freight Volume Reaches 2.35 Billion Tons in First 7 Months",
+  "summary_zh": "2026年1至7月，国家铁路累计发送货物23.5亿吨，同比增长0.7%，为降低全社会物流成本、保障国民经济运行提供支撑。",
+  "summary_en": "China's national railway transported 2.35 billion tons of cargo from January to July 2026, up 0.7% year-on-year, supporting logistics cost reduction and economic stability.",
+  "body_zh": "新华社北京8月19日电（记者 樊曦）记者19日从中国国家铁路集团有限公司获悉，今年1至7月，国家铁路累计发送货物23.5亿吨，同比增长0.7%；日均装车18.7万车，同比增长2.1%，为降低全社会物流成本、保障国民经济平稳运行提供可靠支撑。\n铁路部门充分发挥全国铁路一张网、运输集中统一调度指挥的优势，对国计民生重点物资运输实行运力倾斜、优先保障，确保快速高效送达。加大电煤保供运输力度，1至7月份国家铁路发送煤炭12.16亿吨，其中电煤8.13亿吨，全国铁路直供电厂存煤均保持较高水平，有力支持了各地迎峰度夏。与粮食、化工等头部企业开展“总对总”合作，“一企一策”制定物流解决方案，1至7月份国家铁路粮食、化工、纺织品类运量同比分别增长7.4%、5.4%、21.4%。\n与此同时，铁路部门持续深化改革创新，大力发展多式联运，1至7月份累计上线铁水联运“一单制”产品165个，订舱7.16万标箱，促进集装箱铁水联运量同比增长9.2%；着力培育铁公联运精品线路，铁公联运量完成2.94亿吨，同比增长80.9%。与供销总社开展战略合作，创新棉花集拼运输模式，1至7月份开行疆棉外运班列96列，带动棉花运量同比增长157.3%。大力开行“客车化”快捷班列，在京津冀、长三角、大湾区等主要经济圈之间构建便捷高效的物流通道，较好地服务了全国统一大市场建设。\n此外，中欧（亚）班列持续稳定开行。1至7月份，中欧（亚）班列开行21570列，同比增长10.3%，其中中欧班列开行12988列，同比增长17.6%；中亚班列开行8582列，同比增长0.7%。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路货运",
+    "物流降本",
+    "国民经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路货运",
+      "name_en": "Railway Freight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流降本",
+      "name_en": "Logistics Cost Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国民经济",
+      "name_en": "National Economy"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路货运",
+    "物流降本",
+    "国民经济"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Freight",
+    "Logistics Cost Reduction",
+    "National Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-gov_cn_yaowen-eb4753",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

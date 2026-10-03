@@ -1,0 +1,98 @@
+{
+  "id": "20260712-gov_cn_yaowen-049279",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075154.htm",
+  "title_zh": "刘国中在北京调研强调抓好水库安全度汛工作",
+  "title_en": "Liu Guozhong Emphasizes Reservoir Safety During Flood Season During Inspection in Beijing",
+  "summary_zh": "7月12日，国务院副总理刘国中在北京调研水库安全度汛工作，要求全面落实防洪应对措施，切实保障人民群众生命财产安全。",
+  "summary_en": "On July 12, Vice Premier Liu Guozhong inspected reservoir safety in Beijing, urging the full implementation of flood control measures to protect lives and property.",
+  "body_zh": "刘国中在北京调研时强调\n全力以赴抓好水库安全度汛工作\n切实保障人民群众生命财产安全\n新华社北京7月12日电 中共中央政治局委员、国务院副总理刘国中7月12日到北京调研。他强调，要深入学习贯彻习近平总书记重要指示批示精神和中央政治局会议精神，贯彻落实国务院常务会议部署，牢固树立底线思维、极限思维，全面压实政治责任，落实落细暴雨洪水防御应对措施，全力以赴抓好水库安全度汛工作，切实保障人民群众生命财产安全。\n刘国中先后来到平谷区滑子水库和彰作水库，实地察看土石坝、溢洪道、放水设施和下游河道，详细了解防汛责任落实、雨水情预报和安全管理等情况。他强调，我国水库数量多、分布广，当前正值主汛期，安全度汛任务重。要完善雨水情监测预报体系，落实水库运行管理规定和各项预案，健全指挥决策机制，提升洪水防御和险情处置能力。要全面落实水库大坝安全责任制，强化防洪安全管理，对受暴雨影响区域水库提前预泄腾库，严禁违规超汛限水位运行。要加强病险水库、中小水库监管，病险水库原则上一律空库运行。要加强水库大坝、险工险段等重点部位巡查，及时发现和消除风险隐患，保障溢洪道行洪畅通，提前备足抢险物资装备和人员，一旦出险要果断处置，第一时间转移受威胁群众。要落实南水北调等重要基础设施和在建工程度汛措施，确保安全稳定运行。\n刘国中强调，要强化监测和联合会商，提升短临预报预警能力，及时发布暴雨、洪水、台风等预警，严格落实临灾预警“叫应”和跟踪反馈机制，确保预警信息第一时间直达基层。要抓好山洪灾害和中小河流洪水防御，强化宣传教育，做好人员转移避险工作。要统筹流域上下游、左右岸、干支流，科学调度水利工程拦洪削峰错峰，充分发挥防灾减灾作用。要强化城市洪涝联排联调，严防内涝风险。",
+  "image_url": null,
+  "published_at": "2026-07-12T12:00:00+00:00",
+  "event_date": "2026-07-12",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "水库安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-guozhong",
+      "name_zh": "刘国中",
+      "name_en": "Liu Guozhong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水库安全",
+      "name_en": "Reservoir Safety"
+    }
+  ],
+  "tags_zh": [
+    "刘国中",
+    "国务院",
+    "北京",
+    "防汛",
+    "水库安全"
+  ],
+  "tags_en": [
+    "Liu Guozhong",
+    "State Council",
+    "Beijing",
+    "Flood Control",
+    "Reservoir Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-guozhong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260712-gov_cn_yaowen-049279",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260712/3bf7f49b70cc42159bd70831a5757525/c.html",
+      "title_zh": "刘国中在北京调研时强调 全力以赴抓好水库安全度汛工作 切实保障人民群众生命财产安全",
+      "published_at": "2026-07-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

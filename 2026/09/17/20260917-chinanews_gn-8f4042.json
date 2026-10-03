@@ -1,0 +1,93 @@
+{
+  "id": "20260917-chinanews_gn-8f4042",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-17/10698172.shtml",
+  "title_zh": "中国成功发射卫星互联网低轨25组卫星",
+  "title_en": "China Successfully Launches 25th Batch of Low-Orbit Satellite Internet Satellites",
+  "summary_zh": "9月17日8时32分，中国在海南商业航天发射场用长征十二号运载火箭成功发射卫星互联网低轨25组卫星，卫星进入预定轨道。",
+  "summary_en": "At 8:32 a.m. on September 17, China successfully launched the 25th batch of low-orbit satellite internet satellites from the Hainan Commercial Spacecraft Launch Site using a Long March-12 rocket, placing them in their planned orbits.",
+  "body_zh": "中国成功发射卫星互联网低轨25组卫星\n中新社北京9月17日电 (记者 马帅莎)据中国航天科技集团消息，北京时间9月17日8时32分，中国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨25组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。\n长征十二号运载火箭是中国航天科技集团八院抓总研制的新一代低温液体运载火箭，也是中国首款4米级箭径、单芯级运载火箭。火箭全长约62米，700公里太阳同步轨道运载能力不低于6吨，可根据任务需求选配4.2米、5.2米直径构型的整流罩，支持单星、多星的不同轨道发射任务。\n本次任务是长征系列运载火箭第667次发射。(完)\n国内新闻精选：\n- 2026年09月17日 11:28:00\n- 2026年09月17日 11:14:45\n- 2026年09月17日 10:41:29\n- 2026年09月17日 10:40:23\n- 2026年09月17日 10:21:28\n- 2026年09月17日 07:40:06\n- 2026年09月16日 15:23:24\n- 2026年09月16日 14:20:13\n- 2026年09月16日 10:05:04\n- 2026年09月16日 09:57:32",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "航天发射",
+    "卫星互联网",
+    "商业航天"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CASC",
+      "name_zh": "中国航天科技集团",
+      "name_en": "China Aerospace Science and Technology Corporation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航天发射",
+      "name_en": "Space Launch"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星互联网",
+      "name_en": "Satellite Internet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商业航天",
+      "name_en": "Commercial Space"
+    }
+  ],
+  "tags_zh": [
+    "中国航天科技集团",
+    "海南",
+    "航天发射",
+    "卫星互联网",
+    "商业航天"
+  ],
+  "tags_en": [
+    "China Aerospace Science and Technology Corporation",
+    "Hainan",
+    "Space Launch",
+    "Satellite Internet",
+    "Commercial Space"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CASC"
+    ],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260917-chinanews_gn-8f4042",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "20260818-gov_chi_feng-ec37c0",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202608/t20260818_2804720.html",
+  "title_zh": "市委常委会（扩大）会议传达学习习近平总书记近期重要文章精神 安排部署贯彻落实工作",
+  "title_en": "Municipal Party Committee Standing Committee (Expanded) Meeting Conveys Spirit of Xi Jinping's Recent Important Article and Arranges Implementation",
+  "summary_zh": "8月17日，市委书记唐毅主持召开市委常委会（扩大）会议，传达学习习近平总书记重要文章《提高防灾减灾救灾能力》精神，安排部署贯彻落实工作，并听取全市公安工作汇报。",
+  "summary_en": "On Aug 17, Tang Yi, Secretary of the Chifeng Municipal Party Committee, chaired an enlarged Standing Committee meeting to convey the spirit of Xi Jinping's important article on disaster prevention and relief, arrange implementation, and hear a report on public security work.",
+  "body_zh": "8月17日，市委书记唐毅主持召开市委常委会（扩大）会议，传达学习习近平总书记近期重要文章精神，安排部署贯彻落实工作。\n会议强调，要深入学习贯彻习近平总书记重要文章《提高防灾减灾救灾能力》精神，深刻领会和把握“七个坚持”的实践要义，牢固树立“抓发展是政绩，保安全也是政绩”的理念，加快构建防灾减灾救灾体系，维护好人民群众生命财产安全。要坚持预防为主，注重源头管控，加强各类隐患点巡查排险，抓实对人口相对聚集的高风险地段重点防控，最大限度把问题解决在未发之时、成灾之前。要深入研究把准我市易发多发灾害的衍生次生规律，积极应用大数据、人工智能等新技术，不断提升防灾减灾救灾的科学化、专业化、智能化水平。要压紧压实责任，健全工作机制，加强联动配合，完善应急预案，建强应急队伍，强化应急场所建设和物资装备保障，确保随时应对各类突发灾害。要加大科普宣传力度，用好各类灾害警示案例，创新科普教育方式，增强全民防灾避险意识和能力。\n会议听取了全市公安工作开展情况汇报，强调，全市各级公安机关要坚持党对公安工作的绝对领导，坚决捍卫政治安全，抓实矛盾纠纷排查化解，依法严打违法犯罪，扎实开展深化扫黑除恶专项斗争，持续巩固社会和谐稳定良好局面。要深入推进公安工作现代化，持续优化警务组织管理体系，统筹推动公安基础设施智能化改造，加快形成和提升新质公安战斗力，更好服务全市经济社会高质量发展。要从严管党治警，强化专业化队伍建设，动真碰硬整治各类执法问题，着力锻造素质过硬的公安铁军。\n会议还研究审议了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "party",
+  "keywords": [
+    "防灾减灾救灾",
+    "公安工作"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾救灾",
+      "name_en": "Disaster Prevention and Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公安工作",
+      "name_en": "Public Security Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "防灾减灾救灾",
+    "公安工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Disaster Prevention and Relief",
+    "Public Security Work"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "唐毅"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260818-gov_chi_feng-ec37c0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

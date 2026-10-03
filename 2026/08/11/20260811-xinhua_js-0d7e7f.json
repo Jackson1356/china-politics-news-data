@@ -1,0 +1,121 @@
+{
+  "id": "20260811-xinhua_js-0d7e7f",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260811/aaf3ae3073f14f1c9eeeca05b75124ae/c.html",
+  "title_zh": "刘小涛会见中兴通讯董事长方榕",
+  "title_en": "Liu Xiaotao Meets ZTE Chairman Fang Rong",
+  "summary_zh": "8月9日，江苏省省长刘小涛会见中兴通讯董事长方榕，并共同见证南京市与中兴通讯签署深化战略合作协议。",
+  "summary_en": "On August 9, Jiangsu Governor Liu Xiaotao met with ZTE Chairman Fang Rong and witnessed the signing of a deepened strategic cooperation agreement between Nanjing and ZTE.",
+  "body_zh": "8月9日，省长刘小涛会见中兴通讯董事长方榕一行，并共同见证南京市与中兴通讯签署深化战略合作协议。\n刘小涛对中兴通讯来苏深化合作表示欢迎。他说，江苏正抢抓新一轮科技革命和产业变革机遇，大力实施“人工智能+”行动，聚力打造新一代信息通信产业集群，因地制宜加快发展新质生产力。希望中兴通讯深度参与江苏6G产业布局，拓展人工智能、光电子、信创产业等领域合作，加强新型智能终端产业链供应链协作，实现互利共赢、共同发展。我们将持续优化营商环境，为企业在苏发展创造良好条件。\n方榕表示，中兴通讯扎根南京、深耕江苏，双方合作取得丰硕成果。将以本次签约为契机，加大资源聚集力度，布局更多高端项目，携手打造发展新质生产力的重要阵地。\n省委常委、南京市委书记周红波，南京市市长李忠军，中兴通讯总裁徐子阳，省政府秘书长赵建军参加。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-09",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "6G",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "6G",
+      "name_en": "6G"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "方榕",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "人工智能",
+    "6G",
+    "新质生产力",
+    "李忠军",
+    "方榕"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Artificial Intelligence",
+    "6G",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-zhongjun",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      },
+      {
+        "id": null,
+        "name_zh": "方榕"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260811-xinhua_js-0d7e7f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/11/art_60096_11814713.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛会见中兴通讯董事长方榕",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yan_cheng",
+      "source_tier": 4,
+      "url": "http://www.jiangsu.gov.cn/art/2026/8/11/art_60096_11814713.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛会见中兴通讯董事长方榕",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

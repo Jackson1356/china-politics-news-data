@@ -1,0 +1,83 @@
+{
+  "id": "20260726-gov_cn_yaowen-dc7a82",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202607/content_7076626.htm",
+  "title_zh": "截至6月底我国智能算力规模同比增长177%",
+  "title_en": "China's Intelligent Computing Power Capacity Up 177% YoY by End of June",
+  "summary_zh": "截至今年6月底，我国智能算力规模达2185EFLOPS，同比增长177%，工业和信息化部发布数据。",
+  "summary_en": "China's intelligent computing power capacity reached 2185 EFLOPS (FP16) by the end of June, up 177% year-on-year, according to the Ministry of Industry and Information Technology.",
+  "body_zh": "记者从工业和信息化部获悉：截至今年6月底，我国智能算力规模达2185EFLOPS（FP16），同比增长177%。\n当前，全国算力设施整体上架率达71.4%。相关部门持续推动算力设施高质量建设，加快“枢纽—区域—边缘”算力设施协同布局，引导大型及以上算力设施在枢纽节点集聚。\n加速建设高速宽带网络，深入实施城域“毫秒用算”专项行动，提升算力高效运载能力。近两年围绕国家算力枢纽节点建设超70条算力大通道，相关算力枢纽节点间网络性能提升10%。（记者 王政、刘温馨）",
+  "image_url": null,
+  "published_at": "2026-07-26T12:00:00+00:00",
+  "event_date": "2026-07-26",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "industry",
+  "keywords": [
+    "智能算力",
+    "算力设施",
+    "高速宽带网络"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能算力",
+      "name_en": "Intelligent Computing Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力设施",
+      "name_en": "Computing Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速宽带网络",
+      "name_en": "High-speed Broadband Network"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "智能算力",
+    "算力设施",
+    "高速宽带网络"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Intelligent Computing Power",
+    "Computing Infrastructure",
+    "High-speed Broadband Network"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260726-gov_cn_yaowen-dc7a82",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

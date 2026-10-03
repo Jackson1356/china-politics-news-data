@@ -1,0 +1,92 @@
+{
+  "id": "20260831-chinanews_gn-284934",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-31/10687251.shtml",
+  "title_zh": "外交部驳斥外媒关于吉隆泥石流灾害成因的不当言论",
+  "title_en": "Chinese FM Refutes Foreign Media's Inappropriate Remarks on Gyirong Mudslide Cause",
+  "summary_zh": "8月31日，外交部发言人郭嘉昆在例行记者会上驳斥外媒关于中尼边境吉隆-热索瓦口岸泥石流成因的不当言论，称灾害由尼泊尔境内高位冰川崩塌引发。",
+  "summary_en": "On Aug 31, FM spokesperson Guo Jiakun refuted foreign media's groundless speculation about the cause of the mudslide at the Gyirong-Rasuwa border port, attributing it to glacier collapse in Nepal.",
+  "body_zh": "外交部驳斥外媒关于吉隆泥石流灾害成因的不当言论\n中新网北京8月31日电(记者 郭超凯 曾玥)针对有外国媒体就近日中国和尼泊尔边境吉隆－热索瓦口岸泥石流灾害的成因发表不当言论，中国外交部发言人郭嘉昆8月31日在例行记者会上驳斥道，中国和尼泊尔两国的专家和官方机构对此次灾害的成因已经做出了一些研判，分析是由于尼泊尔境内高位冰川崩塌引发的。在大灾大难面前，我们坚决反对这种没有事实依据的恶意揣测。(完)\n国内新闻精选：\n- 2026年08月31日 16:28:16\n- 2026年08月31日 14:54:26\n- 2026年08月31日 11:41:18\n- 2026年08月31日 07:56:46\n- 2026年08月30日 18:22:57\n- 2026年08月30日 15:33:02\n- 2026年08月30日 15:18:43\n- 2026年08月30日 13:02:05\n- 2026年08月29日 16:29:55\n- 2026年08月29日 13:20:57",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "泥石流灾害",
+    "中尼关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "泥石流灾害",
+      "name_en": "Mudslide Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中尼关系",
+      "name_en": "China-Nepal Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "泥石流灾害",
+    "中尼关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Mudslide Disaster",
+    "China-Nepal Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260831-chinanews_gn-284934",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687255.shtml",
+      "title_zh": "外交部回应美国财长涉华言论：中方从不刻意追求贸易顺差，反对单边关税措施",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

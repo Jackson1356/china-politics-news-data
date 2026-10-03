@@ -1,0 +1,108 @@
+{
+  "id": "20260923-bjnews-99f357",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1790133718129350.html",
+  "title_zh": "黄大发等涉黑案件二审宣判：驳回上诉，维持原判",
+  "title_en": "Second-Instance Verdict in Huang Dafa Organized Crime Case: Appeals Rejected, Original Sentence Upheld",
+  "summary_zh": "2026年9月23日，湖北高院对黄大发等28人涉黑案二审宣判，驳回上诉，维持原判，黄大发死刑立即执行裁定报请最高法核准。",
+  "summary_en": "On Sept 23, 2026, Hubei High People's Court upheld the original verdict for Huang Dafa and 27 others in an organized crime case, rejecting appeals; his death sentence went to Supreme People's Court.",
+  "body_zh": "新京报讯 据湖北省高级人民法院消息，2026年9月23日，湖北省高级人民法院对黄大发等28名被告人进行二审公开宣判。湖北省高级人民法院审理后认为，一审法院判决认定黄大发犯组织、领导黑社会性质组织罪、故意伤害罪、诈骗罪等21项罪名，事实清楚，证据确实、充分，定罪准确，量刑适当，审判程序合法，黄大发等人上诉理由不能成立。裁定驳回黄大发等人的上诉，维持原判。对黄大发判处死刑立即执行的裁定，依法报请最高人民法院核准；裁定核准对任永斌、袁新强、刘汉祥、庄魁判处死刑，缓期二年执行。\n被告人亲属，部分人大代表、政协委员、社会公众等旁听了宣判。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "discipline",
+  "keywords": [
+    "扫黑除恶",
+    "二审宣判",
+    "司法审判"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖北省高级人民法院",
+      "name_en": "Hubei High People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Anti-Organized Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二审宣判",
+      "name_en": "Second-Instance Verdict"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法审判",
+      "name_en": "Judicial Trial"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄大发",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "湖北省高级人民法院",
+    "湖北",
+    "扫黑除恶",
+    "二审宣判",
+    "司法审判",
+    "黄大发"
+  ],
+  "tags_en": [
+    "Hubei High People's Court",
+    "Hubei",
+    "Anti-Organized Crime",
+    "Second-Instance Verdict",
+    "Judicial Trial"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "黄大发"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖北省高级人民法院",
+        "name_en": "Hubei High People's Court"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260923-bjnews-99f357",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

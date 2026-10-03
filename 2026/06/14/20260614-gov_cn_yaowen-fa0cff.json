@@ -1,0 +1,89 @@
+{
+  "id": "20260614-gov_cn_yaowen-fa0cff",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072033.htm",
+  "title_zh": "1至5月份国家铁路发送货物16.7亿吨",
+  "title_en": "National Railways Transport 1.67 Billion Tons of Freight from January to May",
+  "summary_zh": "1至5月国家铁路累计发送货物16.7亿吨，同比增长1.8%，其中新能源汽车出口和中欧（亚）班列增长显著。",
+  "summary_en": "From January to May, China's national railways transported 1.67 billion tons of freight, up 1.8% year-on-year, with significant growth in NEV exports and China-Europe/Asia trains.",
+  "body_zh": "新华社北京6月14日电（记者 樊曦）记者从中国国家铁路集团有限公司获悉，今年1至5月，国家铁路累计发送货物16.7亿吨，同比增长1.8%；日均装车18.63万车，同比增长2.8%，其中5月2日装车20.24万车，创单日装车历史新高。\n铁路部门发挥中国多式联运发展联盟作用，大力发展铁水多式联运，1至5月份国家铁路铁水联运量完成758万标箱、同比增长11.0%，“一单制”物流产品累计订舱4.7万标箱，受到市场欢迎；进一步完善商品汽车运输服务，有效衔接公路和海运，1至5月国家铁路累计发送出口商品车82.4万台，增长55.5%，其中新能源汽车42.2万台，同比增长110.3%，为中国车企搭建产品出海“快车道”。\n此外，铁路部门大力发展物流总包服务，全面融入企业供应链，今年累计签订物流总包合同1185个，合同运量达11.5亿吨；进一步推广中国铁路网络货运物流平台，提供“门到门”物流服务，1至5月份以铁路干线运输为主体的全程物流运量完成2亿吨、同比增长102.2%。今年以来，铁路物流金融服务新增农业、邮储、广发3家合作银行，上线邮储银行运费证、中信银行小微企业运费贷等新产品，累计融资总额已突破100亿元，有效助力实体经济发展。\n在重点物资运输保障方面，铁路部门精心组织“三夏”农资运输，1至5月份国家铁路发送粮食4880.6万吨，同比增长11.9%；积极支持各地迎峰度夏，加大电煤保供运输力度，1至5月份国家铁路发送煤炭8.7亿吨，其中电煤5.8亿吨，全国铁路直供电厂存煤均保持较高水平。\n与此同时，铁路部门优化国际班列运输组织，提升口岸交接水平，保障跨境货物运输稳定畅通。1至5月份中欧（亚）班列开行15506列，同比增长12.6%，其中中欧班列开行9331列，同比增长21%；中亚班列开行6175列，同比增长2.1%。",
+  "image_url": null,
+  "published_at": "2026-06-14T12:00:00+00:00",
+  "event_date": "2026-06-14",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路运输",
+    "跨境贸易",
+    "实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境贸易",
+      "name_en": "Cross-border Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "北京",
+    "铁路运输",
+    "跨境贸易",
+    "实体经济"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Beijing",
+    "Railway Transport",
+    "Cross-border Trade",
+    "Real Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260614-gov_cn_yaowen-fa0cff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

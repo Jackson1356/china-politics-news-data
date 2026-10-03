@@ -1,0 +1,87 @@
+{
+  "id": "20260801-gov_chen_yang-d5b976",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202608/t20260801_5066318.html",
+  "title_zh": "中国民主促进会沈阳市第十五次代表大会召开",
+  "title_en": "Shenyang Congress of China Association for Promoting Democracy Convenes",
+  "summary_zh": "7月30日至31日，中国民主促进会沈阳市第十五次代表大会召开，选举产生新一届委员会，原阳当选主任委员。",
+  "summary_en": "The 15th Congress of the Shenyang Municipal Committee of the China Association for Promoting Democracy was held on July 30-31, electing a new committee with Yuan Yang as chairman.",
+  "body_zh": "7月30日至31日，中国民主促进会沈阳市第十五次代表大会召开。中共沈阳市委常委、统战部部长杨志宏出席大会并讲话。\n大会听取并审议赵凯代表民进沈阳市第十五届委员会所作的工作报告。大会选举产生了民进沈阳市第十六届委员会委员、出席民进辽宁省第十四次代表大会的沈阳市代表。审议通过大会决议。\n经民进沈阳市第十六届委员会第一次全体会议选举：原阳当选为主任委员，李超、赵海千、宗丹、王蕊、刘洋、杨红当选为副主任委员。任命宗丹为秘书长。审议通过了内部监督委员会组成人员名单。\n会议号召全市各级组织和广大会员要更加紧密地团结在以习近平同志为核心的中共中央周围，秉持“为执政党助力、为国家尽责、为人民服务”的使命感，坚定不移接受中国共产党的领导。继承发扬老一辈民进人同中国共产党风雨同舟、亲密合作的优良传统，坚持以党为师，夯实思想根基，提升参政质效，团结奋进，实干争先，不断开创沈阳民进各项事业发展新局面，为实现中华民族伟大复兴、奋力谱写中国式现代化沈阳篇章贡献智慧与力量。（沈阳日报、沈报全媒体主任记者梁馨月）",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "party",
+  "keywords": [
+    "民主党派",
+    "换届选举"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主党派",
+      "name_en": "Democratic Parties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "person",
+      "id": "liu-yang-daxing",
+      "name_zh": "刘洋",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "沈阳",
+    "民主党派",
+    "换届选举",
+    "刘洋"
+  ],
+  "tags_en": [
+    "Shenyang",
+    "Democratic Parties",
+    "Leadership Election"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-yang-daxing",
+      {
+        "id": null,
+        "name_zh": "杨志宏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260801-gov_chen_yang-d5b976",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

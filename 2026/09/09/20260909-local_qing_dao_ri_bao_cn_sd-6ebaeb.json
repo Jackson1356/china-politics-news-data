@@ -1,0 +1,84 @@
+{
+  "id": "20260909-local_qing_dao_ri_bao_cn_sd-6ebaeb",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/472286_1.html",
+  "title_zh": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+  "title_en": "Xi Jinping Extends Festival Greetings to Teachers and Educators Nationwide",
+  "summary_zh": "9月9日，在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
+  "summary_en": "On September 9, on the occasion of the 42nd Teachers' Day, Xi Jinping, General Secretary of the CPC Central Committee, Chinese President and Chairman of the Central Military Commission, on behalf of the CPC Central Committee, extended festive greetings and sincere regards to teachers and educators nationwide.",
+  "body_zh": "新闻中心  >  正文\n习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候\n新华社北京9月9日电 在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。\n习近平指出，长期以来，全国广大教师认真贯彻党的教育方针，躬耕教坛、传道授业，为党和国家事业发展作出了重要贡献。\n习近平强调，新征程上，希望广大教师牢记为党育人、为国育才的初心使命，落实立德树人根本任务，大力弘扬教育家精神，涵养高尚师德师风，提升专业素质能力，努力培养担当民族复兴大任的时代新人。各级党委和政府要重视加强教师队伍建设，在全社会营造尊师重教良好氛围，汇聚起教育强国建设的强大合力。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "party",
+  "keywords": [
+    "尊师重教",
+    "教育强国"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "尊师重教",
+      "name_en": "Respecting Teachers and Valuing Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育强国",
+      "name_en": "Building a Strong Education Nation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "尊师重教",
+    "教育强国"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Respecting Teachers and Valuing Education",
+    "Building a Strong Education Nation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260909-local_qing_dao_ri_bao_cn_sd-6ebaeb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

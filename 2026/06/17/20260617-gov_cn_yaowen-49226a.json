@@ -1,0 +1,93 @@
+{
+  "id": "20260617-gov_cn_yaowen-49226a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7072428.htm",
+  "title_zh": "两部门启动国家地震灾害四级应急响应并向青海调拨救灾物资",
+  "title_en": "Two Departments Activate Level IV National Emergency Response and Dispatch Relief Supplies to Qinghai",
+  "summary_zh": "6月16日青海海西州发生6.3级地震，国务院抗震救灾指挥部办公室与应急管理部启动四级应急响应，调拨1万件中央救灾物资。",
+  "summary_en": "On June 16, a 6.3-magnitude earthquake struck Haixi, Qinghai. The State Council's earthquake relief office and the Ministry of Emergency Management activated a Level IV response and dispatched 10,000 relief items.",
+  "body_zh": "青海海西州直辖区发生6.3级地震\n两部门启动国家地震灾害四级应急响应\n1万件中央救灾物资向青海调拨\n中国地震台网测定，6月16日17时06分，在青海海西蒙古族藏族自治州直辖区（北纬37.80度，东经95.56度）发生6.3级地震，震源深度10公里。国务院抗震救灾指挥部办公室、应急管理部启动国家地震灾害四级应急响应，派出工作组赶赴当地指导处置。\n地震发生后，应急管理部立即作出部署，调派力量赶赴灾区，全力搜救被困人员，调拨物资做好受灾群众救助安置，加强震情监测和跟踪研判。国家防灾减灾救灾委员会办公室、应急管理部会同国家粮食和物资储备局向青海省调拨帐篷、折叠床、被褥、毛毯、家庭应急包、应急照明灯等1万件中央救灾物资，并启动应急物资政社协同保障机制，协调企业、基金会等向灾区援助应急食品、饮用水等，支持做好受灾群众生活救助工作。（记者 刘温馨、王东辉）\n截至6月16日20时，青海海西州直辖区地震造成1人遇难、4人受伤。据初步核查，本次地震周边50公里内交通、通信、供电、供水、供气等基础设施运行正常。青海已启动省级地震灾害Ⅱ级应急响应，各类专业救援力量已赶赴灾区开展应急处置工作，当地社会大局平稳有序。目前，救灾工作正在有序开展。（记者 龚仕建、江萌）",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "welfare",
+  "keywords": [
+    "地震救灾",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Grain and Materials Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家粮食和物资储备局",
+    "青海",
+    "地震救灾",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Grain and Materials Reserves Administration",
+    "Qinghai",
+    "Earthquake Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Grain and Materials Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260616-xinhua_politics-2fd42a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260903-local_si_chuan_zai_xian_cn_sc-22d0d9",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/zgsz/202609/83315875.html",
+  "title_zh": "沪渝蓉高铁沪宁段铺轨启动",
+  "title_en": "Track Laying Starts on Shanghai-Nanjing Section of Shanghai-Chongqing-Chengdu High-Speed Railway",
+  "summary_zh": "9月3日，沪渝蓉高铁沪宁段在江苏南通开始铺轨，首对500米长钢轨精准落位，标志该段铺轨施工正式启动。",
+  "summary_en": "On September 3, the first pair of 500-meter steel rails was laid on the Shanghai-Nanjing section of the Shanghai-Chongqing-Chengdu high-speed railway in Nantong, Jiangsu, marking the start of track-laying work.",
+  "body_zh": "9月3日拍摄的中铁一局江苏南通通泰扬特大桥铺轨作业现场（无人机照片）。\n9月3日，在中铁一局江苏南通通泰扬特大桥铺轨作业现场，首对500米长钢轨在铺轨机牵引下精准落位，标志着沪渝蓉高铁沪宁段铺轨施工启动，为后续全线铺轨贯通奠定坚实基础。\n沪渝蓉高铁是我国“八纵八横”高铁网沿江高铁通道的重要组成部分，线路总长约2100公里，设计时速350公里。\n9月3日拍摄的中铁一局江苏南通通泰扬特大桥铺轨作业现场（无人机照片）。\n9月3日，中铁一局施工人员在铺轨施工现场作业。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "industry",
+  "keywords": [
+    "高速铁路",
+    "基础设施建设",
+    "沿江通道"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中铁一局",
+      "name_en": "China Railway First Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NT",
+      "name_zh": "南通",
+      "name_en": "Nantong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速铁路",
+      "name_en": "High-Speed Railway"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "沿江通道",
+      "name_en": "Yangtze River Corridor"
+    }
+  ],
+  "tags_zh": [
+    "中铁一局",
+    "南通",
+    "高速铁路",
+    "基础设施建设",
+    "沿江通道"
+  ],
+  "tags_en": [
+    "China Railway First Group",
+    "Nantong",
+    "High-Speed Railway",
+    "Infrastructure Construction",
+    "Yangtze River Corridor"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NT"
+    ],
+    "companies": [
+      {
+        "name_zh": "中铁一局",
+        "name_en": "China Railway First Group"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260903-local_si_chuan_zai_xian_cn_sc-22d0d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

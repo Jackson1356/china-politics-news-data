@@ -1,0 +1,75 @@
+{
+  "id": "20260731-xinhua_cq-5affeb",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cq.news.cn/20260731/988df36fa25a457083f0636648fbf488/c.html",
+  "title_zh": "陈新武任重庆市代市长",
+  "title_en": "Chen Xinwu Appointed Acting Mayor of Chongqing",
+  "summary_zh": "重庆市人大常委会7月31日决定，任命陈新武为重庆市人民政府副市长、代理市长。",
+  "summary_en": "On July 31, the Standing Committee of Chongqing Municipal People's Congress decided to appoint Chen Xinwu as Vice Mayor and Acting Mayor of Chongqing.",
+  "body_zh": "陈新武任重庆市代市长-新华网\n新华网\n重庆\n> 正文\n18:43:24\n陈新武任重庆市代市长\n小\n中\n大\n陈新武任重庆市代市长\n新华社重庆7月31日电 重庆市第六届人民代表大会常务委员会第二十五次会议7月31日决定，任命陈新武为重庆市人民政府副市长、代理市长。（完）\n【纠错】\n陈新武任重庆市代市长",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": "Chen Xinwu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "陈新武",
+    "重庆",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Chen Xinwu",
+    "Chongqing",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xinwu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260731-xinhua_cq-5affeb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

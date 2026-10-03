@@ -1,0 +1,90 @@
+{
+  "id": "20260901-gov_shi_zui_shan-4460cf",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/home/toutu/202609/content_7079860.htm",
+  "title_zh": "习近平出席“上海合作组织+”会议并发表重要讲话",
+  "title_en": "Xi Jinping Attends \"SCO+\" Meeting and Delivers Important Speech",
+  "summary_zh": "当地时间9月1日下午，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。",
+  "summary_en": "On the afternoon of September 1 local time, President Xi Jinping attended the \"SCO+\" meeting in Bishkek and delivered an important speech titled \"Jointly Advocating an Equal and Orderly Multipolar World and Achieving More Just and Equitable Global Governance.\"",
+  "body_zh": "当地时间9月1日下午，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。\n当地时间9月1日下午，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。会议开始前，习近平出席扎帕罗夫为与会代表团团长举行的欢迎宴会并集体合影。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "多极化",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多极化",
+      "name_en": "Multipolar World"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "多极化",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Multipolar World",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260901-gov_shi_zui_shan-4460cf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_xi_an",
+      "source_tier": null,
+      "url": "http://www.xa.gov.cn/xw/jrgz/2094958173138497537.html",
+      "title_zh": "习近平出席“上海合作组织+”会议并发表重要讲话",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

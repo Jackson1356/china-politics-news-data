@@ -1,0 +1,92 @@
+{
+  "id": "20260814-gov_yan_cheng-5432f3",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/14/art_49_4446960.html",
+  "title_zh": "盐城市政府党组（扩大）会议召开",
+  "title_en": "Yancheng Municipal Government Party Group Holds Enlarged Meeting",
+  "summary_zh": "8月13日下午，盐城市政府党组（扩大）会议召开，代市长吴炜主持并讲话，深入学习习近平总书记近期重要讲话和文章精神，部署经济发展、基础教育、健康盐城等工作。",
+  "summary_en": "On the afternoon of August 13, Yancheng Municipal Government held an enlarged Party Group meeting, chaired by acting Mayor Wu Wei, to study Xi Jinping's recent speeches and articles and deploy work on economic development, basic education, and health.",
+  "body_zh": "8月13日下午，市政府党组（扩大）会议召开，深入学习习近平总书记近期重要讲话、重要指示、重要文章精神。市政府党组书记、代市长吴炜主持会议并讲话。\n会议强调，要深入贯彻习近平总书记在7月30日中共中央政治局会议上的重要讲话精神，坚定信心、紧抓当前，保持定力、加压前行，挑战更高目标，争取更好结果，推动经济持续向新向优向好。要着力找差补短，剖析深层次原因，采取针对性措施，确保完成全年目标任务。要攻坚突破项目，扎实抓好列省、市重大项目建设，持续做好“两重”“两新”“六张网”项目储备与实施，更好发挥政策性资金撬动作用，为推动高质量发展提供更加有力支撑。\n会议指出，要认真学习习近平总书记对基础教育工作作出的重要指示精神，全面贯彻党的教育方针，落实立德树人根本任务，优化资源布局，强化内涵发展，配强师资队伍力量，深入实施“县中振兴”计划，加快推进基础教育高质量发展，努力办好人民满意的教育。要认真学习贯彻习近平总书记在《求是》杂志发表的重要文章《加快建设健康中国》精神，坚持人民至上、生命至上，进一步健全公共卫生体系，持续提升医疗服务能力，聚力建设高水平医院，扩大康复护理供给，大力发展银发经济，扎实做好重点人群疾病防控，全面筑牢健康盐城坚实屏障。\n有关同志围绕学习贯彻习近平总书记重要讲话精神作交流发言。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "party",
+  "keywords": [
+    "经济发展",
+    "基础教育",
+    "健康盐城"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济发展",
+      "name_en": "Economic Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础教育",
+      "name_en": "Basic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康盐城",
+      "name_en": "Healthy Yancheng"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盐城",
+    "经济发展",
+    "基础教育",
+    "健康盐城",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yancheng",
+    "Economic Development",
+    "Basic Education",
+    "Healthy Yancheng"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260814-gov_yan_cheng-5432f3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

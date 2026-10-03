@@ -1,0 +1,83 @@
+{
+  "id": "20240526-paper_zhengjing-21f6a5",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33241529",
+  "title_zh": "湖南严打烟花爆竹非法生产：对充当“保护伞”的，一律先免职再彻查",
+  "title_en": "Hunan Province Cracks Down on Illegal Fireworks Production and 'Protective Umbrellas'",
+  "summary_zh": "湖南省政府5月26日部署开展至2026年8月底的烟花爆竹非法生产“雷霆”行动，严厉打击非法生产并彻查充当“保护伞”的官员。",
+  "summary_en": "On May 26, the Hunan Provincial Government launched the 'Thunder' action to crack down on illegal fireworks production through August 2026, targeting both illegal operators and corrupt officials.",
+  "body_zh": "湖南严打烟花爆竹非法生产：对充当“保护伞”的，一律先免职再彻查\n湖南省政府5月26日下午召开全省烟花爆竹非法生产“严查严打”任务部署电视电话会议。为坚决落实湖南省委、省政府关于严厉打击烟花爆竹非法生产的决策部署，切实保障人民群众生命财产安全，经省安委会同意，自即日起至2026年8月底，在全省集中开展严厉打击烟花爆竹非法生产“雷霆”行动，后续转入常态化排查整治阶段。\n通知要求，各地要坚决扛牢政治责任，深刻汲取浏阳“5.4”特别重大爆炸事故惨痛教训，清醒认识烟花爆竹生产企业全面停产整顿期间订单外溢、非法生产反弹的风险，以“时时放心不下”的责任感抓好烟花爆竹行业“打非”工作。县乡两级人民政府要切实担负起“促一方发展，保一方平安”的政治责任，主要领导负总责，分管领导具体牵头负责，明确公安、应急管理、市场监管、交通运输等部门“打非”职责，强化部门联动执法和“包村，包户，包人”网格化排查机制。严格落实“三管三必须”要求，把“打非”责任和措施落实到具体区域、具体岗位、具体人员。\n通知要求，严厉打击绝不手软。公安、交通运输部门要在乡镇进出要道、高速出入口、国省道省界市界全面设卡，重点查缉厢式货车、面包车、封闭式三轮车等可疑车辆，严厉打击无证运输、一证多运、伪装运输等违法行为。交通运输、邮政管理部门要同步严查物流寄递渠道，严防烟花爆竹进入物流寄递环节，坚决斩断非法产品流通链条。应急管理、市场监管部门要以经营环节为突破口，对“超标违禁”和非法的烟花爆竹产品追根溯源，深挖非法生产源头和销售网络。所有查获案件均应依法从重追究组织者、参与者、协助者的法律责任。",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2024-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "industry",
+  "keywords": [
+    "烟花爆竹整治",
+    "保护伞"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烟花爆竹整治",
+      "name_en": "Fireworks Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "保护伞",
+      "name_en": "Protective Umbrellas"
+    }
+  ],
+  "tags_zh": [
+    "湖南",
+    "烟花爆竹整治",
+    "保护伞"
+  ],
+  "tags_en": [
+    "Hunan",
+    "Fireworks Regulation",
+    "Protective Umbrellas"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "任务"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20240526-paper_zhengjing-21f6a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_hn",
+      "source_tier": 2,
+      "url": "http://hn.news.cn/20260527/2ffd0a633d6f403f802f3a9716411be7/c.html",
+      "title_zh": "我省部署开展“雷霆”行动严打烟花爆竹非法生产",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

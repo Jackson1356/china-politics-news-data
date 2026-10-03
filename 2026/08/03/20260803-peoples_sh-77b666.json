@@ -1,0 +1,101 @@
+{
+  "id": "20260803-peoples_sh-77b666",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/0803/c138654-41657606.html",
+  "title_zh": "实施好适度宽松的货币政策",
+  "title_en": "Properly Implement a Moderately Accommodative Monetary Policy",
+  "summary_zh": "8月2日，中国人民银行表示将实施适度宽松的货币政策，综合运用政策工具保持流动性充裕，支持上海提升跨境金融和离岸金融服务能力。",
+  "summary_en": "On August 2, the People's Bank of China said it would implement a moderately accommodative monetary policy, use policy tools comprehensively to maintain ample liquidity, and support Shanghai's cross-border and offshore financial services.",
+  "body_zh": "央行提出综合运用并适时调整政策工具，保持流动性充裕\n实施好适度宽松的货币政策\n支持上海提升跨境金融、离岸金融服务能力\n据新华社北京8月2日电 记者8月2日从中国人民银行了解到，中国人民银行将实施好适度宽松的货币政策，充分发挥各项存量政策效能，及时谋划出台务实管用的增量政策，加大逆周期调节力度，推动经济持续向新向优向好发展。\n中国人民银行提出，将综合运用并适时调整货币政策工具，保持流动性充裕，引导金融机构增强信贷投放均衡性，使社会融资规模、货币供应量增长同经济增长和价格总水平预期目标相匹配。\n围绕提高金融服务实体经济质效，会议明确，将用好各项结构性货币政策工具。加强与地方财政、产业部门协同，放大政策激励效能。高质量建设债券市场“科技板”。稳妥实施科技创新与民营企业债券风险分担工具，探索科技金融领域信息开放共享和数据融合运用。健全民营中小企业增信制度，提升中小企业金融服务能力等。\n中国人民银行还将支持上海提升跨境金融、离岸金融服务能力，巩固香港离岸人民币业务枢纽地位。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-02",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "economy",
+  "keywords": [
+    "适度宽松货币政策",
+    "流动性充裕",
+    "金融服务实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "适度宽松货币政策",
+      "name_en": "Moderately Accommodative Monetary Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "流动性充裕",
+      "name_en": "Ample Liquidity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务实体经济",
+      "name_en": "Financial Services for the Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "北京",
+    "适度宽松货币政策",
+    "流动性充裕",
+    "金融服务实体经济"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Beijing",
+    "Moderately Accommodative Monetary Policy",
+    "Ample Liquidity",
+    "Financial Services for the Real Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-peoples_sh-77b666",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://news.gmw.cn/2026-08/03/content_38922934.htm",
+      "title_zh": "中国人民银行：下半年继续实施好适度宽松的货币政策",
+      "published_at": "2026-08-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

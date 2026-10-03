@@ -1,0 +1,100 @@
+{
+  "id": "20260820-xinhua_politics-210830",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260820/f71c353383ab4019b546ca270a3ffe0f/c.html",
+  "title_zh": "两部门发文推动服务类社会救助发展",
+  "title_en": "Two Ministries Issue Document to Promote Development of Service-Based Social Assistance",
+  "summary_zh": "民政部、财政部近日联合印发《关于积极发展服务类社会救助的指导意见》，推动社会救助由单一物质救助向“物质+服务”综合模式转变。",
+  "summary_en": "The Ministry of Civil Affairs and the Ministry of Finance jointly issued a guidance document to promote service-based social assistance, shifting from material aid to a comprehensive \"material + service\" model.",
+  "body_zh": "新华社北京8月20日电（记者朱高祥）记者8月20日从民政部获悉，民政部、财政部近日联合印发《关于积极发展服务类社会救助的指导意见》。这是社会救助法颁布实施后的首个配套政策文件，将推动社会救助由单一物质救助方式向“物质+服务”综合救助模式转变，更好发挥社会救助“保基本、防风险、促发展”作用。\n服务类社会救助是通过提供服务实施社会救助的一种方式，主要面向有需求的各类社会救助对象，以满足其依靠自身能力难以获取的基本生活方面的服务需求。意见明确，现阶段各地可根据实际将分散供养特困人员和最低生活保障家庭成员作为重点对象，有针对性地提供服务类社会救助。\n摸清困难群众需求是开展服务类社会救助的前提。意见提出建立服务类社会救助需求评估体系，要科学设置需求评估指标，细化评估标准；要结合社会救助对象认定和动态管理工作，同步开展服务类社会救助需求评估，做到定期梳理、更新需求台账。\n在制定服务类社会救助供给清单方面，意见提出，各地要结合本地经济社会发展水平、政府财政承受能力、社会救助对象服务需求、服务资源供给能力等因素，编制服务类社会救助供给清单，有针对性地为救助对象提供照护服务、生活服务、关爱服务等；要求制定清单量力而行，与各项社会福利制度和社会保险制度做好统筹衔接。\n意见还就积极引导社会力量有序参与、合理确定筹资渠道和服务模式作出要求。意见提出建立健全政府主导、多元参与的服务类社会救助工作机制；充分利用一般公共预算资金、彩票公益金、社会捐赠等现有资源合理确定服务类社会救助资金筹措渠道，并根据救助对象类型、困难程度等，按需匹配服务模式。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "welfare",
+  "keywords": [
+    "社会救助",
+    "服务类救助",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会救助",
+      "name_en": "Social Assistance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务类救助",
+      "name_en": "Service-Based Assistance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "People's Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "财政部",
+    "社会救助",
+    "服务类救助",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Ministry of Finance",
+    "Social Assistance",
+    "Service-Based Assistance",
+    "People's Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA",
+      "MOF"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260820-xinhua_politics-210830",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33818660",
+      "title_zh": "社会救助法首个配套文件出炉，服务类救助明确五大举措",
+      "published_at": "2026-08-20T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

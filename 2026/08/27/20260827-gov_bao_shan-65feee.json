@@ -1,0 +1,73 @@
+{
+  "id": "20260827-gov_bao_shan-65feee",
+  "source": "gov_bao_shan",
+  "source_name_zh": "保山市政府网",
+  "source_name_en": "保山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoshan.gov.cn/info/1076/10394294.htm",
+  "title_zh": "中国人民银行保山市分行关于江泽民诞辰100周年普通纪念币发行公告",
+  "title_en": "Announcement on Issuance of Commemorative Coin for 100th Anniversary of Jiang Zemin's Birth by Baoshan Branch of PBC",
+  "summary_zh": "中国人民银行保山市分行公告，将于8月31日起线上预约发行江泽民诞辰100周年普通纪念币，共4000枚，每人限约20枚。",
+  "summary_en": "The Baoshan Branch of the People's Bank of China announced online reservation for the commemorative coin of the 100th birthday of Jiang Zemin, with 4,000 coins available and a limit of 20 per person.",
+  "body_zh": "根据《中国人民银行云南省分行货币金银处关于做好江泽民诞辰100周年普通纪念币发行工作的通知》（云银货金〔2026〕24 号）文件精神，保山市近期将公开发行江泽民诞辰100周年普通纪念币，为做好江泽民诞辰100周年普通纪念币发行工作，现将有关工作公告如下：\n一、预约方式\n江泽民诞辰100周年普通纪念币预约兑换发行工作由中国农业银行保山分行、中国建设银行保山分行共同承担。为更好地满足公众需求，公开透明地组织发行工作，将采取线上预约方式发行。欢迎广大市民通过中国建设银行保山分行、中国农业银行保山分行网上银行、手机银行、营业网点自助终端进行预约。\n二、预约兑换数量\n保山市发行江泽民诞辰100周年普通纪念币4000枚（其中：中国建设银行保山分行2000枚，中国农业银行保山分行2000枚），预约兑换网点和每个网点的可预约数量详见承办银行公告。\n三、时间安排\n预约期：2026年8月31日22时至9月1日24时；\n核实期：2026年9月4日至9月8日；\n集中兑换期：2026年10月13日至10月19日。\n四、限额及身份证件要求\n江泽民诞辰100周年普通纪念币每人预约、兑换限额为20枚。预约、兑换、核实的有效身份证件必须为第二代身份证原件。代他人办理的，须持代办人和被代办人的第二代身份证件原件，且代办人数不超过5人。由于第二代居民身份证原件遗失、未成年人未办理第二代居民身份证等原因，无法出具第二代身份证原件的，可以使用户口簿、临时居民身份证办理。同一人在一家承办银行代超过5人办理兑换的，不予兑换。若个人代领数达5人且每人预约兑换20枚，办理预约兑换的网点可以根据公众需要为其不拆盒兑换。\n中国人民银行保山市分行",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "纪念币发行",
+    "预约兑换"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN-BS",
+      "name_zh": "保山",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪念币发行",
+      "name_en": "Commemorative Coin Issuance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预约兑换",
+      "name_en": "Reservation and Exchange"
+    }
+  ],
+  "tags_zh": [
+    "保山",
+    "纪念币发行",
+    "预约兑换"
+  ],
+  "tags_en": [
+    "Commemorative Coin Issuance",
+    "Reservation and Exchange"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN-BS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260827-gov_bao_shan-65feee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

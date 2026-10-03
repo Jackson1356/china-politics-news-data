@@ -1,0 +1,110 @@
+{
+  "id": "20260909-peoples_ha-4a1c5f",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0909/c351638-41690560.html",
+  "title_zh": "三部门部署依法打击伪造优待证等相关违法行为",
+  "title_en": "Three Departments Deploy to Crack Down on Forging Preferential Treatment Certificates",
+  "summary_zh": "退役军人事务部、公安部、最高人民检察院联合印发通知，部署依法打击伪造优待证等违法行为，保障优抚政策落实。",
+  "summary_en": "The Ministry of Veterans Affairs, the Ministry of Public Security, and the Supreme People's Procuratorate jointly issued a notice to crack down on forging preferential treatment certificates and related illegal acts, safeguarding preferential policies.",
+  "body_zh": "三部门部署依法打击伪造优待证等相关违法行为\n本报北京9月8日电 （记者李龙伊）近日，退役军人事务部、公安部、最高人民检察院联合印发《关于依法打击伪造优待证等违法行为的通知》，明确退役军人、其他优抚对象优待证属于国家机关证件以及依法查处相关违法行为的法律适用，部署各地有关部门依法打击伪造优待证等相关违法行为，保障优抚政策落地落实，切实维护优抚对象合法权益。\n通知指出，优待证是退役军人事务部依法制发的国家机关证件。对伪造、变造、买卖优待证的相关行为，将依据《中华人民共和国治安管理处罚法》相关规定处理；涉嫌犯罪的，依据《中华人民共和国刑法》立案侦查。对使用伪造、变造的优待证骗取交通、文旅等优抚对象优待待遇的相关行为，依据《中华人民共和国治安管理处罚法》相关规定处理。退役军人事务部门发放的中华人民共和国残疾军人证、中华人民共和国伤残人民警察证的证件性质与优待证相同，均属于国家机关证件，相关部门也要对有关违法行为依法打击。\n通知要求，各地退役军人事务部门、公安机关和人民检察院要加强协作，合力开展宣传、预防和查处等工作。\n《 人民日报 》（ 2026年09月09日 07 版）",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "welfare",
+  "keywords": [
+    "优抚政策",
+    "打击违法行为"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "institution",
+      "id": "SPP",
+      "name_zh": "最高人民检察院",
+      "name_en": "Supreme People's Procuratorate"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "优抚政策",
+      "name_en": "Preferential Treatment Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打击违法行为",
+      "name_en": "Cracking Down on Illegal Acts"
+    }
+  ],
+  "tags_zh": [
+    "退役军人事务部",
+    "公安部",
+    "最高人民检察院",
+    "北京",
+    "优抚政策",
+    "打击违法行为"
+  ],
+  "tags_en": [
+    "Ministry of Veterans Affairs",
+    "Ministry of Public Security",
+    "Supreme People's Procuratorate",
+    "Beijing",
+    "Preferential Treatment Policy",
+    "Cracking Down on Illegal Acts"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MVA",
+      "MPS",
+      "SPP"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260909-peoples_ha-4a1c5f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0909/c134768-41690892.html",
+      "title_zh": "三部门部署依法打击伪造优待证等相关违法行为",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

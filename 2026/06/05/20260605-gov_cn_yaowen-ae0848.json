@@ -1,0 +1,88 @@
+{
+  "id": "20260605-gov_cn_yaowen-ae0848",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071307.htm",
+  "title_zh": "各地麦收高效推进 助力夏粮颗粒归仓",
+  "title_en": "Wheat Harvesting Progresses Efficiently Across China to Ensure Summer Grain Storage",
+  "summary_zh": "6月5日起，河北、安徽、河南等地加快冬小麦收获进度，通过调配农机和多部门联动确保夏粮颗粒归仓。",
+  "summary_en": "Starting June 5, provinces including Hebei, Anhui, and Henan are accelerating winter wheat harvesting through machinery coordination and inter-departmental cooperation to ensure grain storage.",
+  "body_zh": "当前，我国各地加快冬小麦收获进度，确保夏粮颗粒归仓。\n今天（6月5日）起，河北3300多万亩冬小麦由南向北全面开镰，邯郸永年区小龙马镇小麦长势喜人，麦穗饱满。当地调配联合收割机1200多台，打通收割、转运、入库全链条。针对近期可能出现的短时强对流天气，农业农村与气象等多部门联动，还与周边地区建立互助机制，增加履带式收割机调度储备。\n安徽5.4万多台收割机在麦收一线忙碌，小麦主产区提前摸排生长情况，依据地块位置、成熟先后错峰调配农机、规划作业路线，大幅提升收割效率。宿州、滁州等地还开启昼夜抢收模式，高空照明无人机升空，收割机收割、脱粒、入仓一体化作业，目前全省小麦已收面积超3900万亩，进度过九成。\n为应对降雨和高温叠加影响，河南冬小麦抢收节奏明显加快，大量跨区农机手连夜驰援。多地开启“三夏”农机绿色供油通道，在田间主干道、重点作业片区布设流动供油点，避免停机误工。从5月31日开始，河南连续6天日均收割小麦超千万亩，截至目前，全省小麦收获超7400万亩，进度超87%。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "麦收",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "麦收",
+      "name_en": "Wheat Harvest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "河北",
+    "安徽",
+    "河南",
+    "麦收",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "Hebei",
+    "Anhui",
+    "Henan",
+    "Wheat Harvest",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HE",
+      "CN-AH",
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260605-gov_cn_yaowen-ae0848",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20260903-gov_huai_an-f07faa",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17881920/17884185101984rjFckby.html",
+  "title_zh": "市领导调研推进全域“双高协同”工作",
+  "title_en": "Mayor Gu Kun Surveys City-wide 'Double-High Collaboration' Work",
+  "summary_zh": "9月2日，淮安市市长顾坤到淮安高新区、经开区调研推进全域“双高协同”工作，强调促进开发园区与高校院所双向赋能，推动科技创新和产业创新深度融合。",
+  "summary_en": "On Sept 2, Huai'an Mayor Gu Kun surveyed high-tech and economic zones on the 'Double-High Collaboration' drive, urging synergy between parks and universities to integrate tech and industrial innovation.",
+  "body_zh": "9月2日，市长顾坤到淮安高新区、经开区调研推进全域“双高协同”工作，强调要深入学习贯彻习近平总书记关于科技创新的重要论述，认真落实省委省政府决策部署和市委工作要求，强化系统思维、精准施策，突出示范引领、以点带面，全域推广“双高协同”改革经验，着力促进开发园区与高校院所双向适配、双向赋能，扎实推动科技创新和产业创新深度融合，为因地制宜加快发展新质生产力提供坚实支撑。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "industry",
+  "keywords": [
+    "双高协同",
+    "科技创新",
+    "产业创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双高协同",
+      "name_en": "Double-High Collaboration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "双高协同",
+    "科技创新",
+    "产业创新"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Double-High Collaboration",
+    "Technological Innovation",
+    "Industrial Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260903-gov_huai_an-11b14d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

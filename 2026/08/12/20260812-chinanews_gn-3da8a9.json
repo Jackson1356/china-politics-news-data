@@ -1,0 +1,81 @@
+{
+  "id": "20260812-chinanews_gn-3da8a9",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-12/10676293.shtml",
+  "title_zh": "中国海军第49批护航编队起航赴亚丁湾",
+  "title_en": "Chinese Navy's 49th Escort Flotilla Departs for Aden Gulf",
+  "summary_zh": "8月12日上午，中国海军第49批护航编队从海南三亚某军港起航，赴亚丁湾、索马里海域执行护航任务。编队由昆明舰、岳阳舰和骆马湖舰组成。",
+  "summary_en": "On the morning of August 12, the Chinese Navy's 49th escort flotilla departed from a military port in Sanya, Hainan, for escort missions in the Gulf of Aden and Somali waters. The flotilla consists of destroyer Kunming, frigate Yueyang, and supply ship Luomahu.",
+  "body_zh": "中国海军第49批护航编队起航赴亚丁湾\n中新社北京8月12日电 据中国官媒消息，中国海军第49批护航编队12日上午从海南三亚某军港解缆起航，赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。\n上午10时30分许，在雄壮的军乐声中，编队舰艇依次解缆，缓缓驶离码头。甲板上，护航官兵精神抖擞，整齐列队，向祖国和亲人挥手告别。\n第49批护航编队主要由南部战区海军兵力组成，包括导弹驱逐舰昆明舰、导弹护卫舰岳阳舰和大型远洋综合补给舰骆马湖舰，携带舰载直升机2架、特战队员数十名。3艘军舰均由中国自主设计建造，其中，昆明舰为首次执行护航任务。\n任务准备阶段，编队指挥所紧盯护航行动可能面临的风险挑战与实际威胁，按照全要素实战化训练要求，重点开展了实际使用武器、伴随护航、航行补给等针对性训练。(完)\n国内新闻精选：\n- 2026年08月13日 09:25:04\n- 2026年08月12日 21:45:54\n- 2026年08月12日 21:25:29\n- 2026年08月12日 17:02:53\n- 2026年08月12日 16:17:30\n- 2026年08月12日 13:46:30\n- 2026年08月12日 13:20:11\n- 2026年08月12日 09:10:13\n- 2026年08月11日 22:14:32\n- 2026年08月11日 22:10:41",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "海军护航",
+    "亚丁湾"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海军护航",
+      "name_en": "Naval Escort"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚丁湾",
+      "name_en": "Gulf of Aden"
+    }
+  ],
+  "tags_zh": [
+    "海南",
+    "三亚",
+    "海军护航",
+    "亚丁湾"
+  ],
+  "tags_en": [
+    "Naval Escort",
+    "Gulf of Aden"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HI",
+      "CN-HI-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-chinanews_gn-17ada7",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

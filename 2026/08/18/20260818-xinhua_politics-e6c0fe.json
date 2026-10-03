@@ -1,0 +1,102 @@
+{
+  "id": "20260818-xinhua_politics-e6c0fe",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260818/8eb28e9c050b40bbb5cc924a114a8b93/c.html",
+  "title_zh": "两部门预拨6000万元支持河南应急抢险救灾",
+  "title_en": "Two Ministries Allocate 60 Million Yuan for Emergency Relief in Henan",
+  "summary_zh": "8月18日，财政部、应急管理部预拨6000万元中央自然灾害救灾资金，支持河南防汛应急抢险救灾工作。",
+  "summary_en": "On August 18, the Ministry of Finance and the Ministry of Emergency Management allocated 60 million yuan in central disaster relief funds to support flood emergency response and rescue in Henan.",
+  "body_zh": "新华社北京8月18日电 近期，受强台风“白海豚”残余环流影响，河南出现大范围持续性强降雨，引发灾情险情。在前期预拨4000万元中央自然灾害救灾资金的基础上，8月18日，财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防汛应急抢险救灾工作，重点做好受灾群众转移安置、排危除险等应急处置、过渡期生活救助以及倒损民房修复等工作，切实减轻灾害损失，保障受灾群众基本生活。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急抢险",
+    "自然灾害救助"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急抢险",
+      "name_en": "Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救助",
+      "name_en": "Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "河南",
+    "防汛救灾",
+    "应急抢险",
+    "自然灾害救助"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Henan",
+    "Flood Relief",
+    "Emergency Rescue",
+    "Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260818-xinhua_politics-e6c0fe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

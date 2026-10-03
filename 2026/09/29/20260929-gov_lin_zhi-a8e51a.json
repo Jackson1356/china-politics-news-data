@@ -1,0 +1,110 @@
+{
+  "id": "20260929-gov_lin_zhi-a8e51a",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202609/ec63165dd01e46e0bb90e9a01baa3dbb.shtml",
+  "title_zh": "胡昌升任西藏自治区党委书记",
+  "title_en": "Hu Changsheng Appointed Party Secretary of Tibet Autonomous Region",
+  "summary_zh": "中共中央决定胡昌升任西藏自治区党委委员、常委、书记。9月22日西藏全区领导干部会议上，胡昌升表示将倾情倾力保障和改善民生，解决各族群众急难愁盼问题。",
+  "summary_en": "The CPC Central Committee appointed Hu Changsheng as Party Secretary of the Tibet Autonomous Region. At a regional leadership meeting on Sept 22, Hu pledged to prioritize improving people's livelihoods and resolving pressing public concerns.",
+  "body_zh": "人民网拉萨9月28日电(记者吴雨仁)日前,中共中央决定:胡昌升同志任西藏自治区党委委员、常委、书记。\n9月22日西藏召开的全区领导干部会议上,胡昌升表示,将倾情倾力保障和改善民生,坚持“三个赋予一个有利于”总要求,牢固树立和践行正确政绩观,用心用情解决各族群众急难愁盼问题,深入开展新时代兴边富民行动,统筹推进新型城镇化和乡村全面振兴,千方百计做好就业、教育、医疗、社保、养老、托幼等工作,让改革发展成果更多更公平惠及各族人民。\n一直以来,西藏坚持用好人民网“领导留言板”等平台走好网上群众路线,践行以人民为中心的发展思想,优化群众留言办理机制,推动解决群众住房、交通、医疗、教育等领域的急难愁盼问题,不断提升人民群众的满意度和信任感。同时,积极开展人民建议征集,把群众意见建议转化为党委、政府治理效能。\n您对西藏的发展有何建议和期盼?欢迎来人民网“领导留言板”聊聊您的期盼和建议,为西藏高质量发展献力献策!",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任命",
+    "民生保障",
+    "兴边富民"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": "Hu Changsheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任命",
+      "name_en": "Cadre Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "兴边富民",
+      "name_en": "Prospering Border Areas and Enriching Residents"
+    }
+  ],
+  "tags_zh": [
+    "胡昌升",
+    "中共中央",
+    "西藏",
+    "干部任命",
+    "民生保障",
+    "兴边富民"
+  ],
+  "tags_en": [
+    "Hu Changsheng",
+    "CPC Central Committee",
+    "Tibet",
+    "Cadre Appointment",
+    "Livelihood Protection",
+    "Prospering Border Areas and Enriching Residents"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-changsheng",
+      {
+        "id": null,
+        "name_zh": "于总"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260928-peoples_xz-b309aa",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260606-guancha_politics-d13d68",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_06_819577.shtml",
+  "title_zh": "北京市政协主席魏小东被查",
+  "title_en": "Wei Xiaodong, Chairman of Beijing Municipal CPPCC, Placed Under Investigation",
+  "summary_zh": "北京市政协主席魏小东接受调查。魏小东曾任中央编办副主任、北京市委常委、组织部部长等职。",
+  "summary_en": "Wei Xiaodong, Chairman of the Beijing Municipal CPPCC, is under investigation. He previously served as Deputy Director of the Central Compilation Office and member of the Beijing Municipal Party Committee Standing Committee.",
+  "body_zh": "北京市政协主席魏小东被查\n简历显示，魏小东，男，汉族，1961年5月生，福建漳州人，1983年5月入党，1983年8月参加工作，大学毕业（厦门大学计划统计学专业），经济学学士。\n魏小东曾任人事部地方机构编制司三处副处长，中央编办三司三处处长，一司副司长，综合司副司长、司长，二司司长，四司司长，河南省洛阳市委副书记（正局级），鹤壁市委副书记、代市长、市长、市委书记，商丘市委书记，中央编办副主任，北京市委常委、组织部部长，市人大常委会副主任、党组副书记，市总工会主席。\n2022年1月，魏小东任政协北京市第十三届委员会主席。\n本文系观察者网独家稿件，未经授权，不得转载。\n反制日菲，我在台湾岛东部海域启动海上交通专项执法",
+  "image_url": null,
+  "published_at": "2026-06-06T12:00:00+00:00",
+  "event_date": "2026-06-06",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "魏小东",
+      "name_en": "Wei Xiaodong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市政协",
+      "name_en": "Beijing Municipal CPPCC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "魏小东",
+    "北京市政协",
+    "北京",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Wei Xiaodong",
+    "Beijing Municipal CPPCC",
+    "Beijing",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "魏小东"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市政协",
+        "name_en": "Beijing Municipal CPPCC"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260606-guancha_politics-d13d68",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

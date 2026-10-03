@@ -1,0 +1,91 @@
+{
+  "id": "20260929-gov_cn_yaowen-8284b7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082427.htm",
+  "title_zh": "2026年世界互联网大会乌镇峰会将聚焦开源开放与共建共享",
+  "title_en": "2026 World Internet Conference Wuzhen Summit to Focus on Open Source and Shared Development",
+  "summary_zh": "世界互联网大会国际组织9月29日在北京举行新闻发布会宣布，2026年世界互联网大会乌镇峰会将于11月2日至5日在浙江乌镇举行，主题为“开源开放 共建共享”。",
+  "summary_en": "The World Internet Conference organization announced at a Beijing press conference on Sept 29 that the 2026 Wuzhen Summit will be held Nov 2-5 in Wuzhen, Zhejiang, under the theme of open source and shared development.",
+  "body_zh": "新华社北京9月29日电（记者王思北）记者29日从世界互联网大会国际组织在北京举办的新闻发布会上获悉，2026年世界互联网大会乌镇峰会将于11月2日至5日在浙江乌镇举行。今年峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，将围绕人工智能开源开放发展的理念与实践，邀请国内外与会代表从创新发展、安全治理、文明交流、国际合作等维度展开交流。\n今年峰会紧扣数智时代发展前沿热点议题及国际社会对人工智能发展与治理的普遍关切，围绕全球治理倡议网络空间合作、智能体互信互联互操作全球合作创新、机器人与具身智能、时空智能等举办27场分论坛。主论坛将设置“人工智能乌镇对话”环节，邀请领军科技企业、开源大模型企业负责人等就全球人工智能开源生态构建等议题进行探讨。\n据悉，除举办开幕式外，峰会期间还将举行世界互联网大会领先科技奖、“携手构建网络空间命运共同体精品案例”发布展示活动、世界互联网大会杰出贡献奖、“互联网之光”博览会等活动。\n2026年世界互联网大会乌镇峰会由世界互联网大会主办、浙江省人民政府承办。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "开源开放",
+    "网络空间命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开源开放",
+      "name_en": "Open Source"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络空间命运共同体",
+      "name_en": "A Community with a Shared Future in Cyberspace"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "浙江",
+    "人工智能",
+    "开源开放",
+    "网络空间命运共同体"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Artificial Intelligence",
+    "Open Source",
+    "A Community with a Shared Future in Cyberspace"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ",
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260929-gov_cn_yaowen-8284b7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

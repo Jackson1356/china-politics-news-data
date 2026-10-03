@@ -1,0 +1,102 @@
+{
+  "id": "20260810-xinhua_politics-ea4c1a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260810/13c6271913d64514a6becbcb9b58ba60/c.html",
+  "title_zh": "两部门紧急预拨1.8亿元中央自然灾害救灾资金",
+  "title_en": "Two Ministries Allocate 180 Million Yuan for Natural Disaster Relief",
+  "summary_zh": "财政部、应急管理部8月10日紧急预拨1.8亿元中央自然灾害救灾资金，支持华东多省防汛防台风和内蒙古、新疆等地抗旱救灾。",
+  "summary_en": "On August 10, the Ministry of Finance and the Ministry of Emergency Management urgently allocated 180 million yuan to support flood and typhoon relief in several eastern provinces and drought relief in Inner Mongolia and Xinjiang.",
+  "body_zh": "新华社北京8月10日电 记者8月10日从财政部了解到，财政部、应急管理部当日紧急预拨1.8亿元中央自然灾害救灾资金。\n近日，受今年第13号台风“白海豚”影响，我国华东地区多省份迎来新一轮强降雨，引发严重洪涝灾害；同时，西北地区降雨较少，旱情持续发展。\n两部门此次紧急预拨的资金中，1.2亿元用于支持江苏、浙江、安徽、福建、江西5省做好防汛防台风应急抢险救灾工作，重点做好搜救转移安置受灾人员、排危除险等应急处置、次生灾害隐患排查整治、倒损民房修复等工作；0.6亿元用于支持内蒙古、新疆、新疆生产建设兵团开展抗旱救灾工作，重点用于解决城乡居民用水困难，购买、租赁应急储水、净水、供水设备，组织人员保障城乡居民生活用水。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "自然灾害救灾",
+    "防汛防台风",
+    "抗旱"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救灾",
+      "name_en": "Natural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗旱",
+      "name_en": "Drought Relief"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "北京",
+    "自然灾害救灾",
+    "防汛防台风",
+    "抗旱"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Beijing",
+    "Natural Disaster Relief",
+    "Flood and Typhoon Response",
+    "Drought Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260810-xinhua_politics-ea4c1a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

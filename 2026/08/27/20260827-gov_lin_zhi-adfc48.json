@@ -1,0 +1,93 @@
+{
+  "id": "20260827-gov_lin_zhi-adfc48",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/9d10f7fcb279484c8d8be398dddd3ece.shtml",
+  "title_zh": "自治区领导赴拉萨市堆龙德庆区调研安全生产工作",
+  "title_en": "Autonomous Region Leaders Visit Doilungdêqên District, Lhasa to Inspect Work Safety",
+  "summary_zh": "8月26日上午，西藏自治区副主席罗梅率队赴拉萨市堆龙德庆区调研安全生产工作，实地察看学校、医院等场所并强调抓好民生领域安全生产。",
+  "summary_en": "On the morning of August 26, Luo Mei, Vice Chairwoman of the Tibet Autonomous Region, led a team to Doilungdêqên District, Lhasa to inspect work safety, visiting schools and a hospital and stressing safety in livelihood sectors.",
+  "body_zh": "自治区领导赴拉萨市堆龙德庆区调研安全生产工作\n罗梅率队\n本报拉萨8月26日讯（记者 刘倩茹）26日上午，自治区副主席罗梅率队赴拉萨市堆龙德庆区调研安全生产工作。调研组先后来到拉萨市实验中学、堆龙德庆区第三小学，实地察看教学楼、餐厅、宿舍等重点场所，详细了解校园安全管理、食品安全等情况；随后前往堆龙德庆区人民医院，实地察看新建项目进展。\n罗梅强调，要深入学习贯彻习近平总书记关于安全生产的重要论述，按照自治区党委、政府工作安排，牢固树立安全发展理念，统筹抓好教育和医疗两大民生领域安全生产工作。要切实筑牢校园安全防线，突出抓好校园食品安全全链条管控，严格落实“四个最严”要求，健全食品安全追溯体系，加强学生身心健康教育，用心用情守护学生成长。要坚决守住医院项目建设安全底线，始终把人民至上、生命至上放在首位，加强全流程监管，严把工程质量安全关，坚决防范安全事故发生，为各族群众提供安全舒适的就医环境。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "民生领域"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗梅",
+      "name_en": "Luo Mei"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "堆龙德庆区",
+      "name_en": "Doilungdêqên District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生领域",
+      "name_en": "Livelihood Sectors"
+    }
+  ],
+  "tags_zh": [
+    "罗梅",
+    "堆龙德庆区",
+    "安全生产",
+    "民生领域"
+  ],
+  "tags_en": [
+    "Luo Mei",
+    "Doilungdêqên District",
+    "Work Safety",
+    "Livelihood Sectors"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "罗梅"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260827-gov_lin_zhi-adfc48",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260827_175631.html",
+      "title_zh": "罗梅:自治区领导赴拉萨市堆龙德庆区调研安全生产工作",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

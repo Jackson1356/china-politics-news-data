@@ -1,0 +1,79 @@
+{
+  "id": "20260609-bjnews-b4ea10",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780976418129158.html",
+  "title_zh": "最高法植物新品种维权案：检测报告证明力不足，驳回诉讼请求",
+  "title_en": "Supreme People's Court Dismisses Plant Variety Infringement Case Due to Insufficient Evidence from Test Reports",
+  "summary_zh": "6月9日，最高人民法院发布植物新品种案件典型案例，在“安祖奥利尔”红掌侵权案中，因检测报告证明力不足，法院驳回了原告的诉讼请求。",
+  "summary_en": "On June 9, the Supreme People's Court released typical cases on plant variety rights, dismissing an infringement claim for \"Anzu Oliel\" red palms due to the insufficient evidentiary value of the test reports.",
+  "body_zh": "新京报讯（记者陈璐）6月9日，最高人民法院发布一批植物新品种案件技术事实查明典型案例。“安祖奥利尔”红掌植物新品种侵权案为暂无分子标记检测国标、行标的植物品种案件划定两类检测报告的证明力审查标准。\n案情显示，荷兰安某公司于2014年11月1日获得“安祖奥利尔”花烛属红掌植物新品种的授权。昆明安某公司为荷兰安某公司的全资子公司，并获得在中国独占实施该品种的许可（荷兰安某公司和昆明安某公司以下统称二安某公司）。\n2017年7月至11月，昆明安某公司委托中国科学院昆明植物研究所利用SSR分子标记对其官网销售的200余个红掌品种中的10个进行研究以构建红掌品种指纹图谱，经过分析筛选出29个位点并形成相应引物。2019年5月，二安某公司经公证购买广州卉某公司销售的被诉侵权红掌植株，并将其邮寄至昆明研究所、农业农村部植物新品种测试分中心，分别进行DNA测试和DUS测试。\n昆明研究所作出的DNA实验报告显示，被诉侵权植株与2017年送检的授权品种样本在筛选的29个位点上基因指纹图谱完全一致。上海测试中心将被诉侵权植株和授权品种样本进行测试，DUS测试报告显示两个品种在40个基本性状中有12个存在差异。\n一审判决认为，红掌品种没有DNA测试的国家或行业标准，其同一性判断应采用其他方法进行；DUS测试报告显示两个样品属于不同品种。故驳回二安某公司的全部诉讼请求。二安某公司对一审判决不服，提起上诉。最高人民法院在二审中重点围绕涉案DNA实验报告和DUS测试报告的证明力进行了审理。\n最高人民法院二审认为，昆明研究所构建的红掌品种基因指纹图谱基于昆明安某公司提供的10个红掌品种，样品数量明显不足，难以认定DNA实验报告采用的检测方法具备充分的科学性，DNA实验报告证明力不足。上海测试中心的DUS测试报告显示，两个品种在性状表达上具有明显差异。故该明显差异是否因环境等非遗传变异因素所致这一事实处于真伪不明状态，二安某公司应对此承担举证不能的不利法律后果。故二审驳回上诉，维持原判。",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "植物新品种",
+    "知识产权",
+    "典型案例"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SPC",
+      "name_zh": "最高人民法院",
+      "name_en": "Supreme People's Court"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "植物新品种",
+      "name_en": "Plant New Varieties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "知识产权",
+      "name_en": "Intellectual Property"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "典型案例",
+      "name_en": "Typical Cases"
+    }
+  ],
+  "tags_zh": [
+    "最高人民法院",
+    "植物新品种",
+    "知识产权",
+    "典型案例"
+  ],
+  "tags_en": [
+    "Supreme People's Court",
+    "Plant New Varieties",
+    "Intellectual Property",
+    "Typical Cases"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SPC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260609-bjnews-b4ea10",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

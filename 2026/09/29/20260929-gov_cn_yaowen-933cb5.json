@@ -1,0 +1,94 @@
+{
+  "id": "20260929-gov_cn_yaowen-933cb5",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082375.htm",
+  "title_zh": "何立峰会见日本国际贸易促进协会访华团",
+  "title_en": "He Lifeng Meets Delegation of Japan Association for the Promotion of International Trade",
+  "summary_zh": "9月29日，中共中央政治局委员、国务院副总理何立峰在北京人民大会堂会见日本国际贸易促进协会访华团，双方就扩大中日经贸交流合作交换意见。",
+  "summary_en": "On September 29, Vice Premier He Lifeng met in Beijing with a delegation from the Japan Association for the Promotion of International Trade to discuss expanding China-Japan trade and economic cooperation.",
+  "body_zh": "新华社北京9月29日电 中共中央政治局委员、国务院副总理何立峰29日在人民大会堂会见日本国际贸易促进协会访华团。\n何立峰表示，中日是一衣带水的近邻，互为重要经贸伙伴，中国始终欢迎日本企业来华发展，共享市场机遇。希望日本国际贸易促进协会把握正确历史方向，继续发扬对华友好传统，为推动中日经贸合作发挥更大作用。\n日本国际贸易促进协会新任会长岩屋毅表示，日本工商界愿继续同中方扩大交流，为推动两国经贸关系继续发展、深化互利合作作出贡献。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中日经贸合作",
+    "互利共赢"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日经贸合作",
+      "name_en": "China-Japan Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利共赢",
+      "name_en": "Mutual Benefit"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "北京",
+    "中日经贸合作",
+    "互利共赢"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "Beijing",
+    "China-Japan Economic and Trade Cooperation",
+    "Mutual Benefit"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260929-gov_cn_yaowen-933cb5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260728-gov_cn_yaowen-0c3124",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076880.htm",
+  "title_zh": "上半年税收收入稳步增长 新质生产力发展成效明显",
+  "title_en": "Stable Growth in Tax Revenue in First Half of Year, New Quality Productive Forces Show Results",
+  "summary_zh": "国务院新闻办7月28日举行新闻发布会，国家税务总局介绍上半年税收收入超10万亿元，同比增长4.9%，新质生产力发展成效显著。",
+  "summary_en": "On July 28, the State Council Information Office held a press conference where the State Taxation Administration reported that tax revenue exceeded 10 trillion yuan in the first half of the year, up 4.9% year-on-year, with notable progress in new quality productive forces.",
+  "body_zh": "国务院新闻办公室今天（7月28日）举行“开局起步‘十五五’”系列主题新闻发布会。国家税务总局相关负责人介绍，今年上半年，我国税收收入稳步增长、产业结构持续优化，高质量发展取得扎实成效。\n今年上半年，得益于新兴领域和重点行业发展势头强劲，经济运行总体平稳向好，税务部门征收税收收入超过10万亿元，同比增长4.9%，国家财力保障不断夯实。同时，在养老、医疗、教育、就业等领域实施的惠民税收优惠政策减免税同比增长11.8%；有1.26亿人享受养老、医疗、教育等个人所得税专项附加扣除，减税金额超过3200亿元。\n上半年，我国经营主体活跃度进一步提升，全国已办理涉税事项且正常经营的活跃经营主体数量同比增长20.2%。产业结构高端化转型加快，新质生产力发展势头强劲。\n上半年，外资涉税经营主体户数同比增长10.9%，税务部门为企业办理出口退税同比增长7.7%，反映我国引进外资和外贸出口继续保持较强韧性。同时，税务部门持续优化离境退税“即买即退”服务，上半年办理离境退税的境外旅客数量同比增长366%，退税商品销售额和退税额同比增长69%。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "economy",
+  "keywords": [
+    "税收收入",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "税收收入",
+      "name_en": "Tax Revenue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "国家税务总局",
+    "税收收入",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "State Taxation Administration",
+    "Tax Revenue",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "STA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260728-gov_cn_yaowen-0c3124",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

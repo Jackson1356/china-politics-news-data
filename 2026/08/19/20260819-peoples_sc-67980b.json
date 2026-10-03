@@ -1,0 +1,83 @@
+{
+  "id": "20260819-peoples_sc-67980b",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sc.people.com.cn/n2/2026/0819/c345167-41671377.html",
+  "title_zh": "成都发布人形机器人“大脑”新架构",
+  "title_en": "Chengdu Unveils New 'Brain' Architecture for Humanoid Robots",
+  "summary_zh": "成都人形机器人创新中心发布人形机器人决策规划与作业操作统一架构，旨在解决机器人“出实验室就失灵”难题。",
+  "summary_en": "Chengdu Humanoid Robot Innovation Center released a unified architecture for decision-making and operation of humanoid robots, addressing the issue of robots failing outside labs.",
+  "body_zh": "实现自主决策规划 破解“出实验室就失灵”难题\n成都发布人形机器人“大脑”新架构\n机器人在实验室表现很好，但在陌生的环境却不能像真人一样快速适应，顺利完成任务……记者18日获悉，成都人形机器人创新中心发布的人形机器人决策规划与作业操作统一架构，正好可以有效解决这一问题。作为创新性统一VLA、世界模型、VA、VTA、VTLA的大脑系统，该项技术成果已取得发明专利授权。\n“人形机器人走出实验室，进入真实的生产和生活场景后，面对的是一个远比实验室复杂得多的世界。”成都人形机器人创新中心工作人员向记者介绍，机器人在真实世界中会遇到观测不完备、环境动力学未知、任务语义歧义、接触状态突变以及执行器误差累积等因素影响。\n因此，成都人形机器人创新中心衡量一个机器人是否“聪明”，并不只看站立、行走或抓取等本体运动指标，还要进一步考察机器人在长时序任务中状态估计、层级目标推理、策略选择、约束满足和闭环恢复的能力。\n对此，成都人形机器人创新中心自研的人形机器人决策规划与作业操作统一架构，将机器人的“大脑”分为3个协同工作层次——任务决策层、技能与执行监督层、规划与控制层，分别对应“做什么”“怎么做”等问题。\n关于“做什么”，这款机器人“大脑”并不是直接输出固定的线性动作序列，而是将真实的物理环境状况与人类的自然语言指令深度结合，把复杂的长线任务进行理解和拆解，根据环境的实时感知和反馈保证任务顺利达成。\n在“怎么做”部分，“大脑”将机器人掌握的各种动作封装成一个个可跨任务反复使用的标准技能包，按需加载专业知识、操作规程和调用流程，减少大脑规划的思考负担。\n此外，“大脑”在做任何决定之前，会通过世界模型理解工作环境现在是什么状况、如果机器人做了一个动作会发生什么，并在执行过程中根据实时反馈来修正自己的决策和动作。\n“可以说，过去传统的人形机器人，更多是在实验室里‘预设摆拍’或‘遥控操作’——环境是固定的、任务是预设的、动作是提前编排好的。现在，机器人已经可以在真实的世界中自己理解、自己规划、自己执行任务。”成都人形机器人创新中心工作人员说。（成都日报锦观新闻记者 白洋）",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "industry",
+  "keywords": [
+    "人形机器人",
+    "人工智能",
+    "产业创新"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC-CD",
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人形机器人",
+      "name_en": "Humanoid Robot"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    }
+  ],
+  "tags_zh": [
+    "成都",
+    "人形机器人",
+    "人工智能",
+    "产业创新"
+  ],
+  "tags_en": [
+    "Chengdu",
+    "Humanoid Robot",
+    "Artificial Intelligence",
+    "Industrial Innovation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC-CD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-peoples_sc-67980b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260730-gov_long_yan-ef9069",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202607/t20260730_2305160.htm",
+  "title_zh": "龙岩市领导调研创新驱动发展工作",
+  "title_en": "Longyan Mayor Investigates Innovation-Driven Development Work",
+  "summary_zh": "7月29日，龙岩市长蔡琳调研科创平台和高新技术企业，强调以科技创新引领产业创新，发展新质生产力。",
+  "summary_en": "On July 29, Longyan Mayor Cai Lin visited sci-tech innovation platforms and high-tech enterprises, emphasizing technological innovation to lead industrial innovation and develop new quality productive forces.",
+  "body_zh": "7月29日，市长蔡琳深入我市科创平台、高新技术企业调研创新驱动发展工作，强调要深学细悟笃行习近平总书记关于创新驱动发展的重要论述，在推动科技创新和产业创新深度融合上闯出新路，更高水平建设国家创新型城市。副市长王波参加。\n蔡琳先后来到龙岩市新材料新能源、有色金属、机械装备与专用汽车产业研究院和福建省特种设备检验研究院（龙岩分院）、威而特企业等科创载体，与科创平台、企业负责人深入交流，详细了解平台建设运行、创新成果转化、企业技术创新等情况，并叮嘱大家要以科技创新引领产业创新，积极拓展技术应用新场景和产业发展新模式，因地制宜发展新质生产力。\n蔡琳强调，科技创新是推动高质量发展的核心动力。要坚持创新驱动、提质增效，突出“新新有机”主导产业，高标准运作好四大产业研究院，推动产学研融通创新，强化应用基础研究和关键核心技术攻关，打造产业科技创新高地。要强化企业创新主体地位，健全多层次金融服务体系，推进中试创新服务平台建设，促进中小企业专精特新发展，让科技成果更好转化为现实生产力。要聚焦人才这个第一资源，深化科技特派员制度，加强产业链特聘专家队伍建设，推动形成人尽其才、各展其能的良好局面，助力建设闽西革命老区高质量发展示范区。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "创新驱动",
+    "新质生产力",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": "Cai Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新驱动",
+      "name_en": "Innovation-driven Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "蔡琳",
+    "龙岩",
+    "创新驱动",
+    "新质生产力",
+    "科技创新"
+  ],
+  "tags_en": [
+    "Cai Lin",
+    "Innovation-driven Development",
+    "New Quality Productive Forces",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-lin-longyan",
+      {
+        "id": null,
+        "name_zh": "王波"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260730-gov_long_yan-ef9069",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

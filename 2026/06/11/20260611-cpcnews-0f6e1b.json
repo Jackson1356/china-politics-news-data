@@ -1,0 +1,100 @@
+{
+  "id": "20260611-cpcnews-0f6e1b",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0611/c64387-40738252.html",
+  "title_zh": "海南自贸港推出“掌上通关”服务",
+  "title_en": "Hainan Free Trade Port Launches \"Palm Customs Clearance\" Service",
+  "summary_zh": "海南省商务厅与省大数据发展中心近日依托“海易办”平台推出封关运作专区，实现核心通关业务的移动端办理。",
+  "summary_en": "The Hainan Provincial Department of Commerce and the Provincial Big Data Development Center launched a customs clearance zone on the \"Hai Yi Ban\" platform to enable mobile processing of core customs services.",
+  "body_zh": "本报海口6月10日电 （记者曹文轩）近日，海南省商务厅、海南省大数据发展中心依托“海易办”平台推出封关运作专区。该专区将“二线出岛核放清单申报”等核心通关业务从电脑端延伸至移动端，打造“掌上通关”服务，实现“一部手机畅通关”。\n企业用户可通过企业账户登录海易办APP办理相关业务，操作流程简单便捷：第一步，在屏幕右上角切换至法人频道；第二步，点击屏幕下方居中位置的“自贸港”图标栏；第三步，点击国际贸易单一窗口应用，即可进入封关运作专区办理“二线口岸”通关业务。\n《 人民日报 》（ 2026年06月11日 10 版）",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-10",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "economy",
+  "keywords": [
+    "自贸港",
+    "数字化政务",
+    "贸易便利化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "海南省商务厅",
+      "name_en": "Hainan Provincial Department of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自贸港",
+      "name_en": "Free Trade Port"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字化政务",
+      "name_en": "Digital Government"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易便利化",
+      "name_en": "Trade Facilitation"
+    }
+  ],
+  "tags_zh": [
+    "海南省商务厅",
+    "海南",
+    "自贸港",
+    "数字化政务",
+    "贸易便利化"
+  ],
+  "tags_en": [
+    "Hainan Provincial Department of Commerce",
+    "Hainan",
+    "Free Trade Port",
+    "Digital Government",
+    "Trade Facilitation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": [
+      {
+        "name_zh": "海南省商务厅",
+        "name_en": "Hainan Provincial Department of Commerce"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260611-cpcnews-0f6e1b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_hi",
+      "source_tier": 3,
+      "url": "http://hi.people.com.cn/people/n2/2026/0611/c231194-41606827.html",
+      "title_zh": "海南自贸港推出“掌上通关”服务",
+      "published_at": "2026-06-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

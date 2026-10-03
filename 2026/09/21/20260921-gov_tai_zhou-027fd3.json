@@ -1,0 +1,110 @@
+{
+  "id": "20260921-gov_tai_zhou-027fd3",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_784a0326a44c4ee082c6ec45b39eeccb.html",
+  "title_zh": "泰州市委召开党外人士情况通报会",
+  "title_en": "Taizhou Municipal Committee Holds Briefing for Non-CPC Personages",
+  "summary_zh": "9月20日上午，中共泰州市委召开党外人士情况通报会，市委书记姜冬冬通报市委换届人事安排及代表产生等情况，并主持会议并讲话。",
+  "summary_en": "On the morning of Sept 20, the CPC Taizhou Municipal Committee held a briefing for non-CPC personages, at which Party Secretary Jiang Dongdong reported on personnel arrangements for the municipal Party committee's leadership reshuffle and related matters.",
+  "body_zh": "泰州要闻\n市委召开党外人士情况通报会\n- 发布日期：2026-09-21 07:39\n- 浏览次数：\n9月20日上午，中共泰州市委召开党外人士情况通报会，通报有关情况。市委书记姜冬冬主持会议并讲话。\n会上，姜冬冬通报了中共泰州六届市委报告和市纪委工作报告起草情况、中共泰州市第七次代表大会代表和出席江苏省第十五次党代会代表预备人选产生情况，中共泰州市委、市纪委领导班子人事安排情况，以及中共泰州市“两委”委员安排情况。希望市各民主党派、工商联和无党派人士，对市委换届工作给予关心和支持，主动加强监督，共同营造好风清气正的政治生态。\n市各民主党派、工商联负责同志，无党派人士代表等先后发言，大家一致表示拥护赞同中共江苏省委和泰州市委作出的人事安排方案。\n姜冬冬对大家的支持表示感谢，希望市各民主党派、工商联和无党派人士始终围绕中心、同向同行，继续发挥人才荟萃、智力密集的优势，广泛凝聚智慧和力量，为谱写“强富美高”新泰州现代化建设新篇章作出新的更大贡献。\n市领导周恒新、叶绪江参加会议。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "统战工作",
+    "党委换届",
+    "人事安排"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共泰州市委",
+      "name_en": "CPC Taizhou Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统战工作",
+      "name_en": "United Front Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党委换届",
+      "name_en": "Party Committee Reshuffle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事安排",
+      "name_en": "Personnel Arrangements"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "中共泰州市委",
+    "泰州",
+    "统战工作",
+    "党委换届",
+    "人事安排"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "CPC Taizhou Municipal Committee",
+    "Taizhou",
+    "United Front Work",
+    "Party Committee Reshuffle",
+    "Personnel Arrangements"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "叶绪江"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共泰州市委",
+        "name_en": "CPC Taizhou Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_tai_zhou-027fd3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20260817-cpcnews-a950f0",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0817/c64387-40780787.html",
+  "title_zh": "上半年新改建农村公路3.4万公里",
+  "title_en": "China Rebuilds 34,000 km of Rural Roads in First Half",
+  "summary_zh": "交通运输部8月16日发布数据：上半年全国农村公路完成固定资产投资1443亿元，新改建3.4万公里。",
+  "summary_en": "The Ministry of Transport reported on Aug 16 that rural road investment reached 144.3 billion yuan in H1, with 34,000 km newly built or upgraded.",
+  "body_zh": "本报北京8月16日电 （记者韩鑫）记者从交通运输部获悉：今年上半年，全国农村公路完成固定资产投资1443亿元，完成新改建农村公路3.4万公里，推动“四好农村路”高质量发展迈出新的坚实步伐。\n上半年，全国实施农村公路养护工程总里程6.5万公里；完成农村公路安全生命防护工程2.1万公里，完成全年目标任务的42.2%；改造农村公路危桥1574座，完成全年目标任务的52.5%。\n《 人民日报 》（ 2026年08月17日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "economy",
+  "keywords": [
+    "农村公路",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农村公路",
+      "name_en": "Rural Roads"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "农村公路",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Rural Roads",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260817-cpcnews-a950f0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

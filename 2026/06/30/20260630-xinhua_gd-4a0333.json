@@ -1,0 +1,95 @@
+{
+  "id": "20260630-xinhua_gd-4a0333",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260630/f2f87a7b3d2a4c299c7a06cec0707451/c.html",
+  "title_zh": "七部门启动全国社会救助法宣传周活动",
+  "title_en": "Seven Departments Launch National Social Assistance Law Publicity Week",
+  "summary_zh": "民政部等七部门于6月29日至7月5日在全国开展社会救助法宣传周活动，旨在提升困难群众对该法的知晓度并保障其合法权益。",
+  "summary_en": "Seven departments, including the Ministry of Civil Affairs, launched a National Social Assistance Law Publicity Week from June 29 to July 5 to raise awareness and protect the rights of people in need.",
+  "body_zh": "新华社北京6月29日电（记者吴帅帅、朱高祥）社会救助法自2026年7月1日起施行。记者6月29日从民政部获悉，为深入实施社会救助法，切实保障困难群众合法权益，民政部等七部门日前联合印发通知，决定于6月29日至7月5日在全国开展社会救助法宣传周活动。活动主题为“法护民生·助扶万家”。\n本次宣传周活动，将重点宣传解读社会救助法，通过设立宣传咨询点、设置宣传栏等方式，提升广大群众特别是困难群众对社会救助法的知晓度。同时，加大社会救助政策宣传普及力度，让困难群众充分了解各项救助政策；讲好社会救助故事，进一步凝聚社会共识，弘扬中华民族团结友爱、守望相助的传统美德。",
+  "image_url": null,
+  "published_at": "2026-06-30T12:00:00+00:00",
+  "event_date": "2026-06-29",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "社会救助法",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会救助法",
+      "name_en": "Social Assistance Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "北京",
+    "社会救助法",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Beijing",
+    "Social Assistance Law",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260629-xinhua_politics-45451e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "xinhua_zj",
+      "source_tier": 2,
+      "url": "http://zj.news.cn/20260630/72c9a726442d46d1bd10ac3f9e15e1d2/c.html",
+      "title_zh": "七部门启动全国社会救助法宣传周活动",
+      "published_at": "2026-06-30T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_gd",
+      "source_tier": 3,
+      "url": "http://gd.people.com.cn/n2/2026/0630/c123932-41625009.html",
+      "title_zh": "《中华人民共和国社会救助法》宣传周活动启动",
+      "published_at": "2026-06-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

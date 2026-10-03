@@ -1,0 +1,111 @@
+{
+  "id": "20260916-peoples_ah-0c29ef",
+  "source": "peoples_ah",
+  "source_name_zh": "人民网 安徽",
+  "source_name_en": "People's Daily Anhui",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.people.com.cn/n2/2026/0916/c227131-41698270.html",
+  "title_zh": "2026世界制造业大会智能交通创新技术成果发布暨场景对接会在合肥举行",
+  "title_en": "Intelligent Transportation Innovation Results Release and Scenario Matchmaking Event of 2026 World Manufacturing Convention Held in Hefei",
+  "summary_zh": "9月16日，2026世界制造业大会专项活动——智能交通创新技术成果发布暨场景对接会在合肥举行，现场发布长三角智能交通创新成果并开展项目路演与投资推介。",
+  "summary_en": "On September 16, a special event of the 2026 World Manufacturing Convention on intelligent transportation innovation results and scenario matchmaking was held in Hefei, releasing Yangtze River Delta innovation achievements and holding project roadshows and investment promotions.",
+  "body_zh": "2026世界制造业大会智能交通创新技术成果发布暨场景对接会在合肥举行\n人民网合肥9月16日电 （记者胡雨松、陈若天）9月16日上午，2026世界制造业大会专项活动——智能交通创新技术成果发布暨场景对接会在合肥举行，现场发布长三角智能交通创新成果，开展项目路演和投资推介，邀请智能交通领域专家作主旨报告。\n会议现场。人民网记者\n人工智能是新一轮科技革命和产业变革的重要驱动力量，交通运输部深入实施“人工智能+交通运输”行动，在加强科技攻关、构筑数智底座、布局创新示范等方面为智能交通创新技术发展提供支持。\n近年来，安徽省抢抓长三角一体化发展、中部地区崛起等国家战略机遇，加快建设交通强省，交通能级实现新跃升，全省综合立体交通网总里程突破25万公里，高铁总里程、高速公路总里程双双跃居长三角首位，实现“县县通”“县城通”两个历史性跨越。交通网络实现新拓展，江淮运河建成通航，“空中走廊”通达四方。同时，安徽持续推动交通运输发展向“新”发力、向“绿”而行，“人工智能+交通运输”行动扎实推进，新质生产力在交通运输领域不断培育壮大。\n活动指出，安徽将进一步扩大场景开放、推动科产融合、深耕区域合作，持续塑造智能交通高质量发展新优势，推动现代制造业与交通运输业融合发展，搭建“政产学研金服用”对接平台，打通赛场创新、大会展示、场景落地、产业转化链条，促进高端交通装备、智能基础设施、数智化交通运输服务等新技术新产品落地转化，加快实现“人享其行、物畅其流”美好愿景，推动交通物流持续降本提质增效。\n对接会期间，揭晓第四届“新徽道杯”长三角智能交通创新技术应用大赛获奖名单并颁奖，历届大赛部分优秀项目进行路演。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "智能交通",
+    "人工智能+交通运输",
+    "长三角一体化",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能交通",
+      "name_en": "Intelligent Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能+交通运输",
+      "name_en": "AI Plus Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长三角一体化",
+      "name_en": "Yangtze River Delta Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "合肥",
+    "安徽",
+    "智能交通",
+    "人工智能+交通运输",
+    "长三角一体化",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Hefei",
+    "Anhui",
+    "Intelligent Transportation",
+    "AI Plus Transportation",
+    "Yangtze River Delta Integration",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-AH-HF",
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260916-peoples_ah-0c29ef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

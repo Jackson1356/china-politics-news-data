@@ -1,0 +1,102 @@
+{
+  "id": "20260802-xinhua_politics-d382c0",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260802/8d8cec94c5ff401e91a84b934302ab3c/c.html",
+  "title_zh": "2026年江源综合科学考察启动",
+  "title_en": "2026 Jiangyuan Comprehensive Scientific Expedition Launched",
+  "summary_zh": "2026年江源综合科学考察2日在青海玉树启动，长江科学院牵头，科考队将深入江源高海拔腹地，摸清生态本底，为长江保护提供数据。",
+  "summary_en": "The 2026 comprehensive scientific expedition to the source of the Yangtze River was launched on August 2 in Yushu, Qinghai. Led by the Changjiang River Scientific Research Institute, the team will survey the high-altitude hinterland to assess ecological conditions and support river protection.",
+  "body_zh": "新华社武汉8月2日电（记者 李思远）据水利部长江水利委员会长江科学院消息，由其牵头组织的2026年江源综合科学考察2日在青海省玉树藏族自治州启动。在为期一周的综合科学考察行程中，科考队将深入江源高海拔腹地，摸清生态本底，为江源做系统“体检”。\n扼守长江源区干流通天河出口的直门达河段是综合科学考察的第一站。2日中午，来自多学科的20多名科考队员抵达玉树藏族自治州，简单休整集结后便直奔考察现场。通天河正值汛期，科考队员克服高原缺氧、水流湍急等困难，采集了悬移质泥沙和河床沉积物、水生生物等样品，并用多参数测试仪现场测定河水水质、溶氧量、电导率等数据。\n科考队负责人介绍，在历年的基础上，今年的江源综合科学考察将继续对长江正源沱沱河、南源当曲、北源楚玛尔河和澜沧江源的水资源及生态状况开展系统考察研究，内容包括水文、泥沙含量、河道河势、水土流失、冰川冻土、地形地貌等。与往年相比，今年的综合科学考察观测体系更为完善，首次增加了水体氡的监测，其作为天然示踪剂，可辅助研判江源地表水与地下水的转换特征，为厘清江源地区径流组分构成提供更全面的数据支撑。\n作为我国为长江保护治理提供科技支撑的专门机构，长江科学院近年将江源综合科学考察常态化，积累了大量第一手基础数据及资料。此次综合科学考察将进一步掌握江源地区的生态环境现状，为长江大保护、三江源国家公园建设、揭开江源水资源及生态环境演变机理提供基础数据。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": "2026-08-02",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "welfare",
+  "keywords": [
+    "生态保护",
+    "长江大保护",
+    "科学考察"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "长江科学院",
+      "name_en": "Changjiang River Scientific Research Institute"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "玉树藏族",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长江大保护",
+      "name_en": "Yangtze River Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科学考察",
+      "name_en": "Scientific Expedition"
+    }
+  ],
+  "tags_zh": [
+    "长江科学院",
+    "青海",
+    "玉树藏族",
+    "生态保护",
+    "长江大保护",
+    "科学考察"
+  ],
+  "tags_en": [
+    "Changjiang River Scientific Research Institute",
+    "Ecological Protection",
+    "Yangtze River Protection",
+    "Scientific Expedition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "长江科学院",
+        "name_en": "Changjiang River Scientific Research Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260802-xinhua_politics-d382c0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

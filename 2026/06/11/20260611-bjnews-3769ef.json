@@ -1,0 +1,85 @@
+{
+  "id": "20260611-bjnews-3769ef",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1781163001129662.html",
+  "title_zh": "外交部：日本已经摘下所谓“和平国家”的面具",
+  "title_en": "Foreign Ministry: Japan Has Removed the Mask of the So-called \"Peace State\"",
+  "summary_zh": "外交部发言人林剑表示，日本通过扩充军费和军事力量，实际上已摘下“和平国家”面具，国际社会应对此高度警惕。",
+  "summary_en": "Foreign Ministry spokesperson Lin Jian stated that Japan has effectively removed its \"peace state\" mask by expanding military spending and capabilities, urging international vigilance.",
+  "body_zh": "林剑表示，反对军国主义是国际社会不容撼动的共同意志。日本嘴上喊着“和平”“防卫”，行动上却朝着“再军事化”狂飙突进，持续大幅扩充军费，放宽杀伤性武器出口，推进部署中远程导弹，扩充进攻性军事力量，囤积大量敏感核材料，推动修改“和平宪法”，实际上已经自己摘下了所谓“和平国家”的面具。国际社会应对此高度警惕，绝不允许日本军国主义死灰复燃。\n（总台央视记者 申杨 张雪松）",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "军国主义",
+    "再军事化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "JP",
+      "name_zh": "日本",
+      "name_en": "Japan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军国主义",
+      "name_en": "Militarism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "再军事化",
+      "name_en": "Re-militarization"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "日本",
+    "军国主义",
+    "再军事化"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Japan",
+    "Militarism",
+    "Re-militarization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "林剑"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "JP"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260611-bjnews-3769ef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

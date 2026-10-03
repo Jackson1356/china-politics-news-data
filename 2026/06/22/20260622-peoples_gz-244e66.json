@@ -1,0 +1,80 @@
+{
+  "id": "20260622-peoples_gz-244e66",
+  "source": "peoples_gz",
+  "source_name_zh": "人民网 贵州",
+  "source_name_en": "People's Daily Guizhou",
+  "source_url": "http://gz.people.com.cn/n2/2026/0622/c194831-41616826.html",
+  "title_zh": "多部门会商部署重点地区防汛工作",
+  "title_en": "Multiple Departments Consult to Deploy Flood Control Work in Key Regions",
+  "summary_zh": "6月21日，国家防总办公室与应急管理部在京组织多部门会商，研判降雨趋势并部署重点地区防汛工作。",
+  "summary_en": "On June 21, the State Flood Control and Drought Relief Headquarters Office and the Ministry of Emergency Management held a multi-departmental consultation in Beijing to deploy flood control work in key regions.",
+  "body_zh": "多部门会商部署重点地区防汛工作\n本报北京6月21日电 （记者刘温馨）6月21日，国家防总办公室、应急管理部组织多部门联合会商，研判近期降雨趋势和汛情形势，研究部署重点地区防汛工作。当前，国家防总维持针对江苏、安徽、江西、湖北、湖南、广西、重庆、贵州的防汛四级应急响应，于21日10时终止针对浙江、广东、云南的防汛四级应急响应。\n会商指出，珠江流域柳江发生2026年主要江河第1号洪水，为今年主要江河首次编号洪水。6月21日至26日，西南地区东部和南部、江汉、江淮、江南、华南西部等地将有大到暴雨，局地特大暴雨。未来三天，贵州、湖北、湖南、安徽等地暴雨致灾风险高，需加强防范持续强降雨可能引发的山洪、地质灾害、中小河流洪水和城市内涝。\n原刊于《人民日报》（2026年06月22日 第 04 版）",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-21",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "北京",
+    "防汛",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Beijing",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260622-peoples_gz-244e66",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

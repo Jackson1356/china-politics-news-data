@@ -1,0 +1,102 @@
+{
+  "id": "20260603-peoples_bj-0b064f",
+  "source": "peoples_bj",
+  "source_name_zh": "人民网 北京",
+  "source_name_en": "People's Daily Beijing",
+  "source_url": "http://bj.people.com.cn/n2/2026/0603/c14540-41599672.html",
+  "title_zh": "2026世界旅游城市联合会北京香山旅游峰会开幕",
+  "title_en": "2026 World Tourism Cities Organization Beijing Xiangshan Tourism Summit Opens",
+  "summary_zh": "2026年6月2日，2026世界旅游城市联合会北京香山旅游峰会在北京开幕，市长殷勇出席并就数智引领未来旅游提出建议。",
+  "summary_en": "The 2026 WTCsO Beijing Xiangshan Tourism Summit opened in Beijing on June 2, 2026. Mayor Yin Yong attended and proposed suggestions for the future of digital tourism.",
+  "body_zh": "2026世界旅游城市联合会北京香山旅游峰会开幕\n昨天上午，2026世界旅游城市联合会北京香山旅游峰会在中关村国际创新中心开幕。市委副书记、市长、世界旅游城市联合会理事会主席殷勇出席并致辞。\n殷勇说，旅游是不同国家、不同文化交流互鉴的重要渠道，是发展经济、增加就业的有效手段，也是满足人民美好生活需要的重要产业。近年来，北京持续深化文旅融合，加速推动技术创新，精心营造最优环境，日益成为国际一流旅游城市和全球旅游目的地。当前，数智技术深刻改变着旅游业的现在和未来。他就世界旅游城市的未来发展提出三点建议，一是以数智为翼，共塑未来旅游新形态。深化人工智能等新技术研发应用，推出更多虚拟漫游等新业态，让科技为旅游赋能。二是以服务为本，共创旅游发展新动能。深挖城市文化内涵，丰富旅游产品供给，优化服务标准流程，为游客提供更加优质旅游体验。三是以合作为基，共筑互利共赢新格局。完善全球合作体系，推动旅游资源要素自由流动、协同赋能，让旅游发展成果更好惠及各国人民。他表示，世界旅游城市联合会是旅游城市交流合作的重要平台，将持续发挥桥梁作用，不断提升服务质量，与各位会员共同推动全球旅游业繁荣发展。\n秘鲁马丘比丘市市长拉托雷、世界旅游及旅行理事会主席兼首席执行官格瓦拉、文化和旅游部副部长高政先后致辞。开幕式上还发布了《2026世界旅游目的地数智竞争力报告》、北京文旅科技应用十大场景和《北京倡议》，举行了新会员入会仪式。本次峰会以“数智引领未来旅游”为主题，包括市长论坛、跨境旅游专题论坛、展览展示等活动。\n副市长、世界旅游城市联合会理事会执行副主席司马红，市政府秘书长曾劲参加。（记者 杨旗）",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "数智旅游",
+    "文旅融合",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数智旅游",
+      "name_en": "Digital Tourism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文旅融合",
+      "name_en": "Culture-Tourism Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "殷勇",
+    "北京",
+    "数智旅游",
+    "文旅融合",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Yin Yong",
+    "Beijing",
+    "Digital Tourism",
+    "Culture-Tourism Integration",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong",
+      "sima-hong",
+      {
+        "id": null,
+        "name_zh": "曾劲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260603-peoples_bj-0b064f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://beijing.qianlong.com/2026/0603/8677948.shtml",
+      "title_zh": "2026世界旅游城市联合会北京香山旅游峰会开幕 殷勇致辞",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

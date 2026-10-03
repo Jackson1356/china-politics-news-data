@@ -1,0 +1,80 @@
+{
+  "id": "20260602-xinhua_hn-96abc1",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "http://hn.news.cn/20260602/08c4a7c8d9d64adfb68fa58cb2895090/c.html",
+  "title_zh": "教育部等部门开展护航行动助力“平安高考”",
+  "title_en": "Ministry of Education and Other Departments Launch Escort Action to Ensure 'Safe Gaokao'",
+  "summary_zh": "2026年6月2日，教育部会同网信、公安等部门部署开展“2026年高考护航行动”，通过打击作弊、净化环境和加强服务保障，确保高考公平与安全。",
+  "summary_en": "On June 2, 2026, the Ministry of Education and other departments launched the '2026 Gaokao Escort Action' to ensure exam fairness and security through anti-cheating measures and comprehensive services.",
+  "body_zh": "新华社北京6月2日电（记者王鹏）2026年高考在即。记者6月2日从教育部获悉，教育部会同网信、公安等部门部署开展“2026年高考护航行动”，全面做好考试组织、宣传引导、考生服务等各项工作，全力护航“平安高考”。\n据悉，2026年高考期间，各地教育部门、招生考试机构将联合网信、公安等部门集中开展打击手机作弊、净化涉考网络环境、打击销售作弊器材、打击替考作弊、净化考点周边环境、清理整顿涉考培训机构和助考中介等多个专项行动，清理处置助考犯罪、招生诈骗、虚假宣传、网络谣言等不实有害信息，加强治安、出行、食宿、医疗卫生、噪音治理、心理辅导等多方面综合服务保障，营造良好考试环境，坚决维护教育考试公平。\n根据行动要求，考后，各地将进一步优化志愿填报指导服务，升级完善志愿填报服务系统，多渠道、多形式组织开展系列志愿填报咨询服务活动，面向欠发达地区县中开展“阳光志愿”帮扶行动，全面提升志愿填报服务的普惠性、可及性、便捷性。",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "welfare",
+  "keywords": [
+    "平安高考",
+    "教育公平"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "平安高考",
+      "name_en": "Safe Gaokao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育公平",
+      "name_en": "Educational Fairness"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "北京",
+    "平安高考",
+    "教育公平"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "Beijing",
+    "Safe Gaokao",
+    "Educational Fairness"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260602-xinhua_hn-96abc1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

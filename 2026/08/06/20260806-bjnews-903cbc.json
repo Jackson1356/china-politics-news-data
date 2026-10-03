@@ -1,0 +1,85 @@
+{
+  "id": "20260806-bjnews-903cbc",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1785982618129714.html",
+  "title_zh": "中国黄金协会：上半年我国黄金产量同比下降 消费量同比微增",
+  "title_en": "China Gold Association: H1 Gold Output Down YoY, Consumption Slightly Up",
+  "summary_zh": "8月6日，中国黄金协会发布数据，上半年国内黄金产量152.908吨，同比下降14.62%；消费量511.412吨，同比增长1.23%。",
+  "summary_en": "On August 6, the China Gold Association reported H1 domestic gold output of 152.908 tonnes, down 14.62% YoY, while consumption rose 1.23% to 511.412 tonnes.",
+  "body_zh": "据新华社北京8月6日电 记者8月6日从中国黄金协会了解到，今年上半年我国黄金产量152.908吨，同比下降14.62%；黄金消费量511.412吨，同比增长1.23%。\n从生产端看，上半年国内原料产金152.908吨，同比下降14.62%；进口原料产金77.080吨，同比增长4.62%。\n中国黄金协会表示，今年上半年，重点产金省份开展矿山安全大排查大整治与专项治理等，部分矿山停产自查，在一定程度上影响了国内黄金产量。同时，大型黄金集团境外产能稳步增长，上半年实现矿产金产量48.098吨，同比增长21.43%。\n从消费端看，上半年，我国黄金消费量511.412吨，同比增长1.23%。其中，黄金首饰132.133吨，同比下降33.88%；金条及金币339.336吨，同比增长28.42%；工业及其他用金39.943吨，同比下降2.9%。\n中国黄金协会表示，随着金价高位大幅波动叠加黄金税收新规落地实施，国内黄金消费结构持续分化，金条、金币成为市场热门品类。同时，高金价推高了工业企业用金成本，工业用金量随之下降。\n上半年，我国黄金市场呈现成交量缩减、成交额增长的量价背离特征。上海黄金交易所全部黄金品种成交量双边3.21万吨，同比下降4.37%；成交额双边33.14万亿元，同比上升36.75%。上海期货交易所全部黄金期货期权成交量双边11.71万吨，同比下降22.46%；成交额双边93.15万亿元，同比上升4.80%。\n2026年6月底，上海黄金交易所Au9999黄金收盘价为每克879.03元，较年初开盘价下降11.21%。受金价走弱等因素影响，2026年上半年，国内黄金ETF增仓量为28.677吨，较去年同期下降66.17%。截至6月底，国内黄金ETF持仓量为276.529吨。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "黄金产量",
+    "黄金消费",
+    "黄金市场"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄金产量",
+      "name_en": "Gold Output"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄金消费",
+      "name_en": "Gold Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄金市场",
+      "name_en": "Gold Market"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金协会",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄金产量",
+    "黄金消费",
+    "黄金市场",
+    "金协会"
+  ],
+  "tags_en": [
+    "Gold Output",
+    "Gold Consumption",
+    "Gold Market"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "金协会"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260806-bjnews-903cbc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

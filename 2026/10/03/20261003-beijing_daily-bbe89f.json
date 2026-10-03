@@ -1,0 +1,91 @@
+{
+  "id": "20261003-beijing_daily-bbe89f",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/03/11982378.shtml",
+  "title_zh": "商务部就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问",
+  "title_en": "MOFCOM Spokesperson Answers Questions on Anti-Dumping Investigation into EU-Origin Para-Nitrotoluene Imports",
+  "summary_zh": "2026年10月3日，商务部新闻发言人表示，应国内产业申请，中方对原产于欧盟的进口对硝基甲苯发起反倾销调查，并指出欧盟2025年以来已对中国发起28起贸易救济调查。",
+  "summary_en": "On October 3, 2026, a MOFCOM spokesperson said China has launched an anti-dumping investigation into para-nitrotoluene imports from the EU following a domestic industry petition, noting the EU has opened 28 trade remedy probes against China since 2025.",
+  "body_zh": "答：此次调查是应国内产业申请发起的。申请人提供的初步证据显示，2022至2025年，自欧进口的对硝基甲苯产品数量处于高位，价格累计跌幅近60%，自欧倾销进口产品对中国国内产业生产经营造成了损害。根据中国法律和世贸组织规则，相关申请符合反倾销调查立案条件，中方将依法依规开展调查，充分保障各利害关系方权利，客观公正作出裁决。\n需要强调的是，中方在贸易救济领域一贯坚持审慎克制的立场。与此同时，欧盟2025年以来，已对中国发起28起贸易救济调查，其中约50%为化工产品，特别是近期连续对中国聚氯乙烯等化工产品发起3起调查。中方多次重申，欧盟需正视自身面临的经贸问题，通过对话协商解决彼此关切。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-03T12:00:00+00:00",
+  "event_date": "2026-10-03",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "economy",
+  "keywords": [
+    "反倾销调查",
+    "中欧经贸关系",
+    "贸易救济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反倾销调查",
+      "name_en": "Anti-Dumping Investigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易救济",
+      "name_en": "Trade Remedies"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "反倾销调查",
+    "中欧经贸关系",
+    "贸易救济"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Anti-Dumping Investigation",
+    "China-EU Trade Relations",
+    "Trade Remedies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261003-beijing_daily-bbe89f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1790993549129216.html",
+      "title_zh": "商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问",
+      "published_at": "2026-10-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

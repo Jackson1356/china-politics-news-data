@@ -1,0 +1,94 @@
+{
+  "id": "20260825-cpcnews-4fb454",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0825/c64387-40785593.html",
+  "title_zh": "全国小麦收购量超9000万吨",
+  "title_en": "National Wheat Purchases Exceed 90 Million Tons",
+  "summary_zh": "国家粮食和物资储备局数据显示，全国累计收购小麦超9000万吨，并在江西、湖南、河南、安徽启动最低收购价预案，保护种粮农民利益，稳定市场预期。",
+  "summary_en": "The National Food and Strategic Reserves Administration reported that wheat purchases nationwide have exceeded 90 million tons. Minimum purchase price plans were activated in Jiangxi, Hunan, Henan and Anhui to support farmers and stabilize the market.",
+  "body_zh": "本报北京8月24日电 （记者王东辉）我国夏粮旺季收购进入高峰。国家粮食和物资储备局发布最新数据显示：全国各类粮食经营主体累计收购小麦超9000万吨，南方早籼稻迎来集中上市。各地收购工作有序开展，收购进展整体顺利。\n国家粮食和物资储备局有关负责同志表示，为保护种粮农民利益，8月以来，国家有关部门先后在江西、湖南启动早籼稻最低收购价执行预案，在河南、安徽启动小麦最低收购价执行预案，发挥政策托底作用，稳定市场预期。\n下一步，国家粮食和物资储备局将坚持市场化收购和政策性收储相结合，持续跟踪降雨等天气变化，指导有关省份强化烘干收储，优化收购安排，帮助农户减少粮食产后损失。同时，深化粮食产销合作和农企对接，保障农民售粮顺畅，促进市场平稳运行。\n《 人民日报 》（ 2026年08月25日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食收购",
+    "最低收购价",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食收购",
+      "name_en": "Grain Purchase"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "最低收购价",
+      "name_en": "Minimum Purchase Price"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "国家粮食和物资储备局",
+    "粮食收购",
+    "最低收购价",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "National Food and Strategic Reserves Administration",
+    "Grain Purchase",
+    "Minimum Purchase Price",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260825-cpcnews-4fb454",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/lianbo/202608/content_7078967.htm",
+      "title_zh": "全国累计收购小麦超9000万吨",
+      "published_at": "2026-08-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

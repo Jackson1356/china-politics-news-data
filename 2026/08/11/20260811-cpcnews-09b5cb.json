@@ -1,0 +1,83 @@
+{
+  "id": "20260811-cpcnews-09b5cb",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0811/c64387-40777365.html",
+  "title_zh": "我国已建成国家慢性病综合防控示范区578个",
+  "title_en": "China Builds 578 National Chronic Disease Prevention Demonstration Zones",
+  "summary_zh": "截至8月10日，我国已建成国家慢性病综合防控示范区578个，计划到2035年总数达820个，促进居民健康。",
+  "summary_en": "As of August 10, China has built 578 national demonstration zones for comprehensive chronic disease prevention and control, with a plan to reach 820 by 2035 to improve public health.",
+  "body_zh": "本报北京8月10日电 （记者申少铁）记者10日从国家卫生健康委获悉：截至目前，我国已建成国家慢性病综合防控示范区578个，经过多年持续推进，示范区的带动作用日益显现，健康支持性环境持续改善。\n2010年我国启动国家慢性病综合防控示范区建设以来，各地通过以点带面、示范先行，将健康元素嵌入生活、工作、休闲等场景，健康支持性环境从医疗机构向社会全域拓展，示范区居民健康素养持续提升，高血压、糖尿病等知晓率、治疗率、控制率稳步改善。\n预计到2035年，国家慢性病综合防控示范区总数将达到820个，区县覆盖率近30%，促进居民预期寿命和生命质量持续提升。\n《 人民日报 》（ 2026年08月11日 13 版）",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "慢性病防控",
+    "健康支持性环境",
+    "公共卫生"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "慢性病防控",
+      "name_en": "Chronic Disease Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康支持性环境",
+      "name_en": "Health-supportive Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共卫生",
+      "name_en": "Public Health"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "慢性病防控",
+    "健康支持性环境",
+    "公共卫生"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Chronic Disease Prevention",
+    "Health-supportive Environment",
+    "Public Health"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-cpcnews-09b5cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

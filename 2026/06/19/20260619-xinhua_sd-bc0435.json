@@ -1,0 +1,102 @@
+{
+  "id": "20260619-xinhua_sd-bc0435",
+  "source": "xinhua_sd",
+  "source_name_zh": "新华网 山东",
+  "source_name_en": "Xinhua Shandong",
+  "source_url": "http://sd.news.cn/20260619/5a73e92b32b74e06970b3f70453f9942/c.html",
+  "title_zh": "“蓝鲲智种”蓝色种业大模型平台在青岛发布",
+  "title_en": "\"Lan Kun Zhi Zhong\" Blue Seed Industry Large Model Platform Released in Qingdao",
+  "summary_zh": "6月18日，水产育种专用智能大模型平台“蓝鲲智种”在山东青岛发布，旨在为蓝色种业创新提供数字化、智能化支撑。",
+  "summary_en": "On June 18, the \"Lan Kun Zhi Zhong\" AI large model platform for aquatic breeding was released in Qingdao, Shandong, providing digital and intelligent support for blue seed industry innovation.",
+  "body_zh": "新华社青岛6月18日电（记者王凯）6月18日，水产育种专用智能大模型平台——“蓝鲲智种”在山东青岛发布，标志着我国水产育种领域在专用科学智能模型和智能育种基础平台建设方面取得重要进展。\n“蓝鲲智种”由青岛蓝色种业研究院联合中国海洋大学海洋生物遗传学与育种教育部重点实验室、中国海洋大学三亚海洋研究院共同研发。\n“蓝鲲智种”以生物泛基因多效性大模型OmniG为核心引擎，融合蛋白质语言模型、多组学网络、生物演化信息和统计遗传学方法，构建覆盖“基因功能解析—复杂性状认知—智能育种决策”的一体化技术体系。\n该平台围绕鱼、虾、贝、海参、藻等主要海洋经济物种，建立物种专有模型、智能育种工具链和智慧表型决策系统，为蓝色种业创新提供数字化、智能化支撑。（完）",
+  "image_url": null,
+  "published_at": "2026-06-19T12:00:00+00:00",
+  "event_date": "2026-06-18",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "industry",
+  "keywords": [
+    "蓝色种业",
+    "人工智能",
+    "水产育种"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "青岛蓝色种业研究院",
+      "name_en": "Qingdao Blue Seed Industry Research Institute"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国海洋大学",
+      "name_en": "Ocean University of China"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "蓝色种业",
+      "name_en": "Blue Seed Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水产育种",
+      "name_en": "Aquatic Breeding"
+    }
+  ],
+  "tags_zh": [
+    "青岛蓝色种业研究院",
+    "中国海洋大学",
+    "青岛",
+    "蓝色种业",
+    "人工智能",
+    "水产育种"
+  ],
+  "tags_en": [
+    "Qingdao Blue Seed Industry Research Institute",
+    "Ocean University of China",
+    "Qingdao",
+    "Blue Seed Industry",
+    "Artificial Intelligence",
+    "Aquatic Breeding"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "青岛蓝色种业研究院",
+        "name_en": "Qingdao Blue Seed Industry Research Institute"
+      },
+      {
+        "name_zh": "中国海洋大学",
+        "name_en": "Ocean University of China"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260618-peoples_sd-ac2bff",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

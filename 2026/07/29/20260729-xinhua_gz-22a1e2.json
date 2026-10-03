@@ -1,0 +1,139 @@
+{
+  "id": "20260729-xinhua_gz-22a1e2",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260729/493afb25d59843f7a9542ba95670ec38/c.html",
+  "title_zh": "徐麟李炳军会见海关总署署长、党委书记孙梅君一行",
+  "title_en": "Xu Lin and Li Bingjun Meet with Sun Meijun, Head of General Administration of Customs",
+  "summary_zh": "7月28日，贵州省委书记徐麟、省长李炳军在贵阳会见海关总署署长孙梅君一行，就深化开放合作、口岸建设等交流。",
+  "summary_en": "On July 28, Guizhou Provincial Party Secretary Xu Lin and Governor Li Bingjun met with Sun Meijun, Director of the General Administration of Customs, in Guiyang to discuss opening-up cooperation and port construction.",
+  "body_zh": "7月28日，省委书记徐麟，省委副书记、省长李炳军在贵阳会见海关总署署长、党委书记孙梅君一行。副省长蔡朝林参加。\n徐麟、李炳军代表省委、省政府对孙梅君一行表示欢迎和感谢。他们说，全省上下正深入贯彻落实习近平总书记考察贵州重要讲话精神和党中央决策部署，坚持以国家战略为引领，主动服务和融入陆海内外联动、东西双向互济的全面开放格局，以高水平开放助推走好高质量发展新路。希望海关总署一如既往关心支持贵州发展，在特色优势产品出口、口岸建设等方面给予更多指导，助力贵州对外开放取得更大突破。\n孙梅君感谢贵州省委、省政府对海关工作的大力支持。她说，贵州经济社会发展取得新的重大成就，海关总署将全面履行守国门、促发展职责使命，不断提升监管效能和服务水平，全力支持贵州沿着“一带一路”走出去，助力贵州高水平开放、高质量发展。\n海关总署和省有关部门负责同志参加。（记者 曾书慧）",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "对外开放",
+    "口岸建设",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-lin",
+      "name_zh": "徐麟",
+      "name_en": "Xu Lin"
+    },
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "person",
+      "id": "sun-meijun",
+      "name_zh": "孙梅君",
+      "name_en": "Sun Meijun"
+    },
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "贵州省委",
+      "name_en": "Guizhou Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "口岸建设",
+      "name_en": "Port Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "徐麟",
+    "李炳军",
+    "孙梅君",
+    "海关总署",
+    "贵州省委",
+    "贵阳",
+    "对外开放",
+    "口岸建设",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Xu Lin",
+    "Li Bingjun",
+    "Sun Meijun",
+    "General Administration of Customs",
+    "Guizhou Provincial Party Committee",
+    "Guiyang",
+    "Opening-up",
+    "Port Construction",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xu-lin",
+      "xu-lin-guizhou",
+      "sun-meijun",
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "蔡朝林"
+      }
+    ],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": [
+      {
+        "name_zh": "贵州省委",
+        "name_en": "Guizhou Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260729-xinhua_gz-22a1e2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

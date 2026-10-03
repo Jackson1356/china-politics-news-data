@@ -1,0 +1,81 @@
+{
+  "id": "20260624-peoples_js-97761e",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_url": "http://js.people.com.cn/n2/2026/0624/c360303-41619025.html",
+  "title_zh": "我国科学家实验证实半导体中“电子可分”",
+  "title_en": "Chinese Scientists Experimentally Confirm 'Electron Divisibility' in Semiconductors",
+  "summary_zh": "2026年6月23日，南京大学杜灵杰教授团队在实验中证实半导体中电子在特定条件下可表现为多个部分子，为拓扑量子计算带来新可能。",
+  "summary_en": "On June 23, 2026, Professor Du Lingjie's team at Nanjing University experimentally confirmed that electrons in semiconductors can behave as multiple quasiparticles under specific conditions, offering new possibilities for topological quantum computing.",
+  "body_zh": "我国科学家实验证实半导体中“电子可分”\n《人民日报》（2026年6月24日第12版）\n本报南京6月23日电 （记者姚雪青）电子是否“可分”？单个电子在粒子物理实验中从未被发现具有内部结构，一直被视为基本粒子。然而，在极端量子条件下，这一常识正在被赋予新的内涵。\n6月24日，《人民日报》第12版版面。\n南京大学物理学院杜灵杰教授团队与合作者在实验中证实，当大量电子在半导体中处于极低温、强磁场下，形成强关联的量子集体时，电子可以表现为多个部分子。好比一个人融入交响乐团，我们听到的不再是他本人的独奏，而是他同时奏出的几个声部——电子并没有被物理“切碎”，但在量子集体中，它表现为几个独立行动的“分身”。这一成果近日发表于《自然·物理》，不仅拓展了人类对量子物质的认知边界，也意味着在半导体系统中对电子的利用有望从控制电荷、利用自旋，迈入驾驭其内部“分身”结构的阶段，为拓扑量子计算带来新的可能。",
+  "image_url": null,
+  "published_at": "2026-06-24T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "industry",
+  "keywords": [
+    "半导体",
+    "量子计算"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "南京大学",
+      "name_en": "Nanjing University"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体",
+      "name_en": "Semiconductors"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "量子计算",
+      "name_en": "Quantum Computing"
+    }
+  ],
+  "tags_zh": [
+    "南京大学",
+    "南京",
+    "半导体",
+    "量子计算"
+  ],
+  "tags_en": [
+    "Nanjing University",
+    "Nanjing",
+    "Semiconductors",
+    "Quantum Computing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "南京大学",
+        "name_en": "Nanjing University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260624-peoples_js-97761e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

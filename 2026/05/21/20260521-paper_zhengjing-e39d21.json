@@ -1,0 +1,60 @@
+{
+  "id": "20260521-paper_zhengjing-e39d21",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33204604",
+  "title_zh": "官方发布针对我国用户的“银狐”系列木马病毒攻击预警报告",
+  "title_en": "Official Warning Issued on \"Silver Fox\" Trojan Virus Attacks Targeting Chinese Users",
+  "summary_zh": "国家计算机病毒应急处理中心等机构发布预警，提醒用户警惕伪装成人事文件的“银狐”系列木马病毒，防止被远程控制和窃密。",
+  "summary_en": "The National Computer Virus Emergency Response Center and other agencies issued a warning regarding \"Silver Fox\" trojan viruses disguised as HR documents to prevent remote control and data theft.",
+  "body_zh": "官方发布关于针对我国用户的“银狐”系列木马病毒攻击活动的预警报告\n一、基本情况\n近日，国家计算机病毒应急处理中心和计算机病毒防治技术国家工程实验室依托国家计算机病毒协同分析平台（https://virus.cverc.org.cn）捕获多个文件名中包含“内部调查结果”“违纪名单”“违纪通报信息”“裁员补偿”等词汇的恶意程序，这些恶意程序表面上伪装成快捷方式、文件夹、文档文件或压缩包文件，实际为针对Windows平台用户的远程控制木马病毒。经分析，发现这些木马病毒均为针对我国用户的“银狐”(又名“游蛇”“谷堕大盗”“UTG－Q－1000”“Silver Fox”等）木马病毒攻击活动的最新变种。如果用户不慎运行相关恶意程序文件，将被攻击者实施远程控制、窃密等恶意操作，并可能被网络犯罪分子利用充当进一步实施电信网络诈骗活动的“跳板”。\n图1 攻击活动过程示意图\n二、病毒特征\n1. 文件名特征\n本次发现的木马病毒新变种继续采用钓鱼欺诈手段，大量采用人事业务相关的诱导性文件名，文件名以“XX季度违纪名单”“通报人员信息”“裁员名单”“补偿方案”等为主，并将图标伪装成文件夹、快捷方式、回收站等，并添加“pdf”后缀迷惑用户。如图2所示。\n图2 相关病毒样本\n2. 文件操作特征\n木马病毒运行后，会在“C:\\Program Files\\Internet Explorer\\”文件夹下投放下一步所需的载荷文件。其中关键文件log.dll为下一步运行的加载器，该dll文件通过白文件installer.exe进行加载，如图3所示。\n图3 投放下一阶段恶意载荷\n3. 网络通信特征\n本次发现的病毒样本具有相似的网络通信特征，回联地址URL特征如下所示：\nhttp://[域名]:8880/\nhttp://[域名]:8880/getinstall64\n单位网络安全管理员可通过附录获取更多相关特征，并可通过国家计算机病毒协同分析平台（https://virus.cverc.org.cn）查询相关病毒样本的详细信息。\n三、防范措施\n“银狐”系列木马病毒攻击活动与电信网络诈骗活动联系密切，长期将我国用户作为攻击目标，具有变种速度快、隐蔽性强等特点。本次发现的病毒木马攻击活动的攻击目标较为广泛，重点针对具有一定规模的组织机构工作人员，特别是人事相关业务工作人员，主要目的仍然是通过木马病毒控制大量受害者主机，窃取受害企业敏感数据和公民个人信息，进而实施勒索或欺诈。建议采取以下综合防范措施：\n2.用户可将可疑的文档文件、可执行文件、压缩包文件或解压后的可疑文件先行上传至国家计算机病毒协同分析平台（https://virus.cverc.org.cn）进行安全检测，并保持防病毒软件实时监控功能开启，将计算机操作系统和防病毒软件更新到最新版本。\n3.一旦发现本人即时通讯工具或电子邮件发生被盗用现象，应立即停止使用可能感染病毒的计算机设备，将其断开网络链接，并向单位网络管理员、相关同事和亲友告知相关情况，在备份重要数据的前提下，对相关计算机设备进行杀毒和安全检查，更换常用口令且应具有较高强度。\n本预警报告得到了安天科技集团股份有限公司、北京瑞星网安技术股份有限公司、奇安信科技集团股份有限公司、北京神州绿盟科技有限公司和计算机病毒防治技术国家工程实验室以及国家计算机病毒协同分析平台各共建单位的技术和信息支持，特此致谢。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "industry",
+  "keywords": [
+    "网络安全",
+    "木马病毒"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "木马病毒",
+      "name_en": "Trojan Virus"
+    }
+  ],
+  "tags_zh": [
+    "网络安全",
+    "木马病毒"
+  ],
+  "tags_en": [
+    "Cybersecurity",
+    "Trojan Virus"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260521-paper_zhengjing-e39d21",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

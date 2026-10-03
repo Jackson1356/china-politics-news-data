@@ -1,0 +1,105 @@
+{
+  "id": "20260813-gov_jie_yang-d42a83",
+  "source": "gov_jie_yang",
+  "source_name_zh": "揭阳市政府网",
+  "source_name_en": "揭阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-jie_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jieyang.gov.cn/xwdt/jyxw/content/post_1039099.html",
+  "title_zh": "中共揭阳市委七届十一次全会召开 决定今年12月召开市第八次党代会",
+  "title_en": "Jieyang Municipal Party Committee Holds 11th Plenary Session, Decides to Convene 8th Party Congress in December",
+  "summary_zh": "8月12日，中共揭阳市委七届十一次全会召开，审议通过关于召开市第八次党代会的决议，并追认开除黄锐亮党籍的处分决定。",
+  "summary_en": "On August 12, the 11th Plenary Session of the CPC Jieyang Municipal Committee was held, approving the resolution to convene the 8th Municipal Party Congress and ratifying the expulsion of Huang Ruiliang from the Party.",
+  "body_zh": "中共揭阳市委七届十一次全会召开\n决定今年12月召开市第八次党代会\n8月12日，中国共产党揭阳市第七届委员会第十一次全体会议召开。全会由市委常委会主持，市委书记曾风保，市委副书记、市长曲晓杰等出席会议。\n全会听取了市委常委、组织部部长李俊玲所作的《关于召开中国共产党揭阳市第八次代表大会的决议（草案）》说明，审议通过了《关于召开中国共产党揭阳市第八次代表大会的决议》，决定2026年12月召开中国共产党揭阳市第八次代表大会。\n全会审议通过《中共揭阳市纪律检查委员会关于黄锐亮严重违纪违法问题的审查报告》，并对市委常委会给予黄锐亮开除党籍处分的决定予以追认。\n市委委员、候补委员参加会议。\n相关附件：",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "discipline",
+  "keywords": [
+    "党代会",
+    "纪律处分"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zeng-fengbao-jieyang",
+      "name_zh": "曾风保",
+      "name_en": "Zeng Fengbao"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共揭阳市委",
+      "name_en": "CPC Jieyang Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-JY",
+      "name_zh": "揭阳",
+      "name_en": "Jieyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律处分",
+      "name_en": "Disciplinary Action"
+    },
+    {
+      "kind": "person",
+      "id": "qu-xiaojie-jieyang",
+      "name_zh": "曲晓杰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "曾风保",
+    "中共揭阳市委",
+    "揭阳",
+    "党代会",
+    "纪律处分",
+    "曲晓杰"
+  ],
+  "tags_en": [
+    "Zeng Fengbao",
+    "CPC Jieyang Municipal Committee",
+    "Jieyang",
+    "Party Congress",
+    "Disciplinary Action"
+  ],
+  "entities": {
+    "politicians": [
+      "qu-xiaojie-jieyang",
+      "zeng-fengbao-jieyang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-JY"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共揭阳市委",
+        "name_en": "CPC Jieyang Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260813-gov_jie_yang-d42a83",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

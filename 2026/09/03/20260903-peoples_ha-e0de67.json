@@ -1,0 +1,87 @@
+{
+  "id": "20260903-peoples_ha-e0de67",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0903/c351638-41685197.html",
+  "title_zh": "河南高速首批百余座闪充站投运",
+  "title_en": "First Batch of 100+ Flash Charging Stations Put into Operation on Henan Expressways",
+  "summary_zh": "9月2日，河南高速公路首批百余座闪充站在京港澳高速新郑等119个服务区正式投运，最快9分钟充满电，由河南交投与比亚迪合作建设。",
+  "summary_en": "On September 2, the first batch of over 100 flash charging stations was put into operation at 119 service areas on Henan expressways, cutting charging time to as little as 9 minutes through cooperation between Henan Jiantou and BYD.",
+  "body_zh": "最快9分钟，满电出发\n河南高速首批百余座闪充站投运\n一辆汽车正在河南一服务区闪充站准备充电。\n本报讯（全媒体记者 郭北晨）9月2日，在京港澳高速新郑服务区内，一辆比亚迪汽车驶入闪充车位。充电枪接入后，仪表盘电量数字持续快速攀升，最终仅用时7分25秒完成充电。这是河南高速公路首批百余座闪充站正式投运后，记者现场实测看到的补能效率。\n“这套闪充站最大单枪功率达1500千瓦。”比亚迪集团闪充业务总监余先生介绍，从10%电量到充满，传统快充约需1小时，超级快充约需20分钟，闪充技术可将充电时长压缩至9分钟以内；若车辆自身充电功率受限，设备会自动匹配当前可支持的最高充电功率，兼顾高效与广泛适配性。\n据了解，这批闪充站是河南交投集团与比亚迪战略合作的阶段性重要成果，目前已在全省119个服务区陆续投运，覆盖连霍、沪陕、大广等省内高速公路主干线，辐射郑州、信阳、平顶山、濮阳等地。\n近年来，我国新能源汽车保有量持续攀升，“充电慢”问题成为新能源车主长途出行的普遍痛点。针对这一出行刚需，河南交投新能源发展公司立足全省高速公路路网优势，聚焦充电基础设施补短板、提效能，持续化解新能源车主“里程焦虑”。\n2024年起，河南交投新能源发展公司陆续在全省高速公路服务区新增充电枪3000余把，其中超充枪占比达20%，推动我省高速公路服务区超充网络初步成形。今年，该公司联合比亚迪进一步升级大功率充电服务能力，计划在全省服务区建成投运闪充站点210余座、闪充枪400余把，适配闪充车型可实现“5分钟充好、9分钟充饱”，大幅压缩补能时长。随着大批充电设施陆续投用，以往节假日部分服务区“充电慢、排队久”的痛点得到有效化解，高速公路沿线充电应急保障与服务水平全面提升。\n“下一步，我们将持续推进高速公路服务区充电基础设施提质扩容，结合新能源重卡充换电需求进一步织密重卡补能网络，打造绿色低碳运输通道，助力交通运输行业能源结构绿色低碳转型，降低全社会物流运输成本，护航广大司乘畅行中原。”河南交投新能源发展公司经营部经理冯伟鹏表示。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "industry",
+  "keywords": [
+    "充电基础设施",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "充电基础设施",
+      "name_en": "Charging Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "河南",
+    "充电基础设施",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Henan",
+    "Charging Infrastructure",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "冯伟鹏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260903-peoples_ha-e0de67",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://henan.people.com.cn/n2/2026/0903/c351638-41685197.html",
+      "title_zh": "河南高速首批百余座闪充站投运",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260923-beijing_daily-4270ca",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/23/11970979.shtml",
+  "title_zh": "中国是否会继续允许来自德黑兰的航班降落？外交部回应",
+  "title_en": "Will China Keep Allowing Flights from Tehran to Land? MFA Responds",
+  "summary_zh": "9月23日，外交部发言人郭嘉昆在例行记者会上回应称，中方坚决反对无国际法依据、未经安理会授权的非法单边制裁。",
+  "summary_en": "On Sept 23, MFA spokesperson Guo Jiakun said China firmly opposes illegal unilateral sanctions lacking a basis in international law or UN authorization, in response to US threats over Iranian flights.",
+  "body_zh": "9月23日，外交部发言人郭嘉昆主持例行记者会。\n法新社记者提问，美国此前威胁称，自今日起将对允许伊朗航班在其领土降落的国家实施惩罚。请问中国是否会继续允许来自德黑兰的此类航班降落？\n郭嘉昆表示，中方的立场是一贯的。我们坚决反对没有国际法依据、未经联合国安理会授权的非法单边制裁。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "单边制裁",
+    "伊朗航班",
+    "国际法"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "伊朗航班",
+      "name_en": "Iranian Flights"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际法",
+      "name_en": "International Law"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "单边制裁",
+    "伊朗航班",
+    "国际法"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Unilateral Sanctions",
+    "Iranian Flights",
+    "International Law"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260923-beijing_daily-4270ca",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

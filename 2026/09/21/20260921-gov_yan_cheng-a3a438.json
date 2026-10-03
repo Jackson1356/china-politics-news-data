@@ -1,0 +1,103 @@
+{
+  "id": "20260921-gov_yan_cheng-a3a438",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/9/21/art_49_4455469.html",
+  "title_zh": "盐城市第九次党代会主席团举行第一次会议",
+  "title_en": "Presidium of Yancheng's 9th Party Congress Holds First Meeting",
+  "summary_zh": "2026年9月20日下午，中国共产党盐城市第九次代表大会主席团举行第一次会议，通过主席团常务委员会名单、副秘书长名单及代表资格审查报告等，大会于9月21日开幕。",
+  "summary_en": "On the afternoon of Sept 20, 2026, the presidium of the 9th Party Congress of Yancheng City held its first meeting, approving the standing committee and deputy secretary-general lists and a report on delegate qualifications; the congress opened on Sept 21.",
+  "body_zh": "中国共产党盐城市第九次代表大会主席团20日下午举行第一次会议。\n会议首先由大会秘书长黄华主持。\n会议通过了大会主席团常务委员名单。主席团常务委员会由11人组成，分别是：严汉平、吴炜、黄华、陈卫红、杨雪峰、梁钟巍、王连春、桑昌烈、钟卫华、侍军宁、沈旭东。\n接着，会议由主席团常务委员会主持人严汉平主持。\n会议通过了大会副秘书长名单和大会秘书处工作机构负责人名单。钟卫华、侍军宁、沈旭东为本次大会副秘书长。\n会议听取并表决通过了市第九次党代会代表资格审查委员会关于代表资格的审查报告。\n会议通过了大会列席人员和邀请列席人员名单、大会日程、大会主席团执行主席分次主持名单。本次大会于9月21日开幕，9月23日闭幕。\n主席团第一次会议还通报了《关于全市党费收缴、使用和管理情况的报告》。\n又讯 9月20日下午，市第九次党代会主席团举行第一次会议前，市第九次党代会代表资格审查委员会主任侍军宁主持召开代表资格审查委员会会议，表决通过了市第九次党代会代表资格审查委员会关于代表资格的审查报告。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "代表资格审查",
+    "党费管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代表资格审查",
+      "name_en": "Delegate Qualification Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党费管理",
+      "name_en": "Party Dues Management"
+    },
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄华",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盐城",
+    "党代会",
+    "代表资格审查",
+    "党费管理",
+    "严汉平",
+    "黄华"
+  ],
+  "tags_en": [
+    "Yancheng",
+    "Party Congress",
+    "Delegate Qualification Review",
+    "Party Dues Management"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "黄华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_yan_cheng-a3a438",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

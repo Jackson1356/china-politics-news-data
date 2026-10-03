@@ -1,0 +1,107 @@
+{
+  "id": "20260526-peoples_gs-985fdb",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0527/c183342-41592508.html",
+  "title_zh": "基础电信企业网上营业厅服务国家标准发布",
+  "title_en": "National Standard for Online Business Hall Services of Basic Telecommunications Enterprises Released",
+  "summary_zh": "市场监管总局近日发布《电信和互联网服务 基础电信企业网上营业厅服务规范》国家标准，旨在规范电信服务网上营业厅的信息透明度、无障碍服务及个人信息保护。",
+  "summary_en": "The State Administration for Market Regulation released a national standard to regulate online business halls of basic telecommunications enterprises, focusing on transparency, accessibility, and data protection.",
+  "body_zh": "基础电信企业网上营业厅服务国家标准发布\n禁止使用“免费”“不限量”等易引发误解的表述\n本报北京5月26日电 （记者林丽鹂）市场监管总局近日批准发布《电信和互联网服务 基础电信企业网上营业厅服务规范》国家标准（GB/T 47484—2026），对网站和手机APP形式的电信服务网上营业厅全流程进行规范。\n在信息透明方面，标准提出应醒目地在同一页面明示业务的资费标准、服务内容、适用范围、使用规则等重点事项，不使用“0元”“免费”“不限量”“永久”等易引发用户误解的表述，不通过折叠、隐蔽、模糊等形式隐瞒或淡化限制性条件。\n在无障碍服务方面，标准提出网上营业厅应为用户提供友好的界面设计，如为老年群体提供适老化页面，页面中不出现广告悬窗。\n在个人信息保护方面，标准提出网上营业厅收集使用用户个人信息时应按要求获得用户授权同意，数据使用过程中应采用加密、脱敏、访问控制等技术手段，防范数据被非法获取、篡改或滥用。",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "industry",
+  "keywords": [
+    "行业标准",
+    "消费者权益保护",
+    "个人信息保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市场监管总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "行业标准",
+      "name_en": "Industry Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费者权益保护",
+      "name_en": "Consumer Rights Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "个人信息保护",
+      "name_en": "Personal Information Protection"
+    }
+  ],
+  "tags_zh": [
+    "市场监管总局",
+    "北京",
+    "行业标准",
+    "消费者权益保护",
+    "个人信息保护"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Beijing",
+    "Industry Standards",
+    "Consumer Rights Protection",
+    "Personal Information Protection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "市场监管总局",
+        "name_en": "State Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260526-peoples_gs-985fdb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0527/c351638-41592131.html",
+      "title_zh": "基础电信企业网上营业厅服务国家标准发布",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0527/c194063-41592218.html",
+      "title_zh": "基础电信企业网上营业厅服务国家标准发布",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

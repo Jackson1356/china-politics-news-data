@@ -1,0 +1,96 @@
+{
+  "id": "20260901-gov_chi_feng-141a60",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202609/t20260901_2812330.html",
+  "title_zh": "中国民主建国会赤峰市第六次代表大会召开",
+  "title_en": "The 6th Congress of Chifeng Committee of China Democratic National Construction Association Held",
+  "summary_zh": "8月31日，中国民主建国会赤峰市第六次代表大会召开，选举产生新一届委员会，骆秀燕当选主任委员。",
+  "summary_en": "On August 31, the 6th Congress of the Chifeng Committee of the China Democratic National Construction Association was held, electing a new committee and Luo Xiuyan as chairwoman.",
+  "body_zh": "8月31日，中国民主建国会（以下简称民建）赤峰市第六次代表大会召开，民建内蒙古区委会副主委、自治区发改委副主任李靖靖，市委常委、统战部部长王生才，市人大常委会党组副书记、副主任高希华，民建赤峰市委会主委、市人大常委会副主任骆秀燕，市政府党组成员、副市长任玺，民革赤峰市总支主委、市政协副主席王健出席大会。\n李靖靖充分肯定了五年来民建赤峰市第五届委员会的工作，希望新一届民建赤峰市委会传承优良传统，坚持好发展好完善好中国新型政党制度；强化组织建设，坚持＂三个为主＂，锻造高素质队伍；聚焦中心工作，紧扣自治区党委＂1571＂工作部署和赤峰市总体工作思路务实献策；深化社会服务，擦亮特色品牌，促进＂两个健康＂，为书写中国式现代化新篇章贡献民建力量。\n王生才代表中共赤峰市委向大会表示热烈祝贺。他表示，民建赤峰市委会要把牢正确政治方向，在凝聚思想共识上见到新成效；聚焦中心履职尽责，在服务全市发展上彰显新作为；提高自身建设水平，在锻造过硬队伍上取得新进步，以良好形象、务实履职展现多党合作事业新气象和中国特色社会主义参政党地方组织新面貌。\n会议听取和审议了民建赤峰市第五届委员会工作报告，选举产生了民建赤峰市第六届委员会，通过民建赤峰市第六次代表大会决议，骆秀燕当选为民建赤峰市第六届委员会主任委员。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作",
+    "参政党建设",
+    "组织换届"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multi-party Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "参政党建设",
+      "name_en": "Participating Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "组织换届",
+      "name_en": "Organizational Leadership Transition"
+    },
+    {
+      "kind": "person",
+      "id": "wang-jian-taizhou",
+      "name_zh": "王健",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赤峰",
+    "多党合作",
+    "参政党建设",
+    "组织换届",
+    "王健"
+  ],
+  "tags_en": [
+    "Chifeng",
+    "Multi-party Cooperation",
+    "Participating Party Building",
+    "Organizational Leadership Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jian-taizhou",
+      {
+        "id": null,
+        "name_zh": "贺他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-gov_chi_feng-141a60",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

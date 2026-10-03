@@ -1,0 +1,83 @@
+{
+  "id": "20260831-peoples_xz-b536f3",
+  "source": "peoples_xz",
+  "source_name_zh": "人民网 西藏",
+  "source_name_en": "People's Daily Tibet",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xz.people.com.cn/n2/2026/0831/c138901-41682288.html",
+  "title_zh": "澳门特区政府捐助3000万元支持西藏吉隆灾害救援",
+  "title_en": "Macao SAR Government Donates 30 Million Yuan to Support Disaster Relief in Gyirong, Tibet",
+  "summary_zh": "澳门特区政府29日决定通过澳门基金会向西藏自治区捐助3000万元，支持日喀则市吉隆县泥石流灾害救援及善后工作。",
+  "summary_en": "On Aug. 29, the Macao SAR Government decided to donate 30 million yuan through the Macao Foundation to support disaster relief and recovery in Gyirong County, Tibet.",
+  "body_zh": "澳门特区政府捐助3000万元支持西藏吉隆灾害救援\n本报澳门8月30日电（记者富子梅）西藏日喀则市吉隆县遭受泥石流灾害牵动着澳门同胞的心，澳门特区政府29日决定通过澳门基金会，向西藏自治区捐助3000万元人民币，支持灾害救援及善后工作。\n澳门特区行政长官岑浩辉日前已向西藏自治区党委书记王君正表达慰问，沉痛哀悼遇难者，并对遇难者家属及受灾民众致以深切慰问。岑浩辉表示，除捐助外，澳门特区政府将尽力提供医疗救援等灾区所需的各项支援，积极支持相关工作。\n特区政府呼吁澳门各界积极行动，通过各种方式援助西藏吉隆，支援受灾民众尽早恢复正常生活。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "灾害救援",
+    "公益捐助"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-MO",
+      "name_zh": "澳门",
+      "name_en": "Macao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公益捐助",
+      "name_en": "Charitable Donation"
+    },
+    {
+      "kind": "person",
+      "id": "wang-junzheng",
+      "name_zh": "王君正",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "澳门",
+    "灾害救援",
+    "公益捐助",
+    "王君正"
+  ],
+  "tags_en": [
+    "Macao",
+    "Disaster Relief",
+    "Charitable Donation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-junzheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-MO"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260831-peoples_xz-b536f3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

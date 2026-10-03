@@ -1,0 +1,89 @@
+{
+  "id": "20261001-peoples_politics-0149d4",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808479.html",
+  "title_zh": "《中国发展报告2026》在京首发",
+  "title_en": "China Development Report 2026 Launched in Beijing",
+  "summary_zh": "9月30日，国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行，记录2025年及“十四五”时期中国发展成果。",
+  "summary_en": "On September 30, the Development Research Center of the State Council released the Chinese and English editions of the China Development Report 2026 in Beijing, documenting China's progress in 2025 and during the 14th Five-Year Plan period.",
+  "body_zh": "《中国发展报告2026》在京首发\n本报北京9月30日电（记者刘发为）9月30日，由国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行。\n国务院发展研究中心副主任、党组成员杨正位表示，《中国发展报告2026》记录了2025年中国发展取得的新进步，为各方观察中国发展提供了丰富样本。报告还全面记录了“十四五”时期中国在理论、制度、实践层面取得的发展成果，具有重要的现实意义与史料价值，为世界各国、社会各界了解中国在复杂多变的国际环境下如何把握机遇、应对挑战提供了真实参考。\n芝加哥大学教授、诺贝尔经济学奖获得者詹姆斯·赫克曼认为，《中国发展报告2026》内容丰富翔实，具有前瞻性，对发展的理解十分全面，不仅讲经济发展，还涉及文化发展、健康医疗发展、应对气候变化的各种方法和措施，并对当今世界诸多问题作出积极回应，极具价值。\n国际货币基金组织驻华首席代表马歇尔·米尔斯表示，《中国发展报告2026》分析基础扎实，对外部挑战、内部压力和关键政策选择进行了坦诚审视。他对报告将重点放在提振内需、加强社会保障、投资于人、提高投资效率以及发展服务业上表示赞赏。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "economy",
+  "keywords": [
+    "经济发展",
+    "十四五"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "DRC",
+      "name_zh": "国务院发展研究中心",
+      "name_en": "Development Research Center of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济发展",
+      "name_en": "Economic Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十四五",
+      "name_en": "14th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "国务院发展研究中心",
+    "北京",
+    "经济发展",
+    "十四五"
+  ],
+  "tags_en": [
+    "Development Research Center of the State Council",
+    "Beijing",
+    "Economic Development",
+    "14th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "杨正位"
+      }
+    ],
+    "institutions": [
+      "DRC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-peoples_politics-0149d4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

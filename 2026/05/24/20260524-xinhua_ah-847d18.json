@@ -1,0 +1,89 @@
+{
+  "id": "20260524-xinhua_ah-847d18",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_url": "http://ah.news.cn/20260525/756acac10a3b4c0eb3e7bf153337878b/c.html",
+  "title_zh": "应急管理部针对安徽启动国家地质灾害四级应急响应",
+  "title_en": "Ministry of Emergency Management Launches Level IV National Emergency Response for Geological Disasters in Anhui",
+  "summary_zh": "应急管理部于5月24日针对安徽省启动国家地质灾害四级应急响应，以应对预测的大暴雨及地质灾害风险。",
+  "summary_en": "On May 24, the Ministry of Emergency Management launched a Level IV national emergency response for geological disasters in Anhui Province to address risks from predicted heavy rainfall.",
+  "body_zh": "新华社北京5月24日电（记者黄韬铭）记者从应急管理部获悉，应急管理部24日针对安徽启动国家地质灾害四级应急响应。\n据气象部门预测，5月24日至27日，安徽南部有大暴雨到特大暴雨，应急管理部和自然资源部开展联合会商研判，安徽南部局地发生地质灾害的风险较高。\n应急管理部要求，相关地区要密切监视雨情汛情和地质灾害灾情险情，落实部门协同联动工作机制，压实地方防范应对主体责任，加强会商研判和预警响应联动，预置前置救援力量、物资、装备，强化巡查排查和监测预警，果断组织转移避险，切实做好地质灾害防范应对工作。\n据悉，应急管理部继续维持湖南、广东、广西、湖北、贵州、四川、重庆七省（区、市）地质灾害四级应急响应。",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-24",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害",
+      "name_en": "Geological Disasters"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "自然资源部",
+    "安徽",
+    "地质灾害",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Ministry of Natural Resources",
+    "Anhui",
+    "Geological Disasters",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM",
+      "MNR"
+    ],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260524-xinhua_ah-847d18",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

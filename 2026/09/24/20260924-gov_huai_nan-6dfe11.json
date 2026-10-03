@@ -1,0 +1,104 @@
+{
+  "id": "20260924-gov_huai_nan-6dfe11",
+  "source": "gov_huai_nan",
+  "source_name_zh": "淮南市政府网",
+  "source_name_en": "淮南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huainan.gov.cn/zwgk/jrhn/1261114849.html",
+  "title_zh": "中国共产党淮南市第十一届委员会第十三次全体会议决议",
+  "title_en": "Resolution of the 13th Plenary Session of the 11th Huainan Municipal Committee of the CPC",
+  "summary_zh": "2026年9月23日，中国共产党淮南市第十一届委员会第十三次全体会议在市政务中心举行，决定市第十二次党代会于9月26日召开，并审议通过相关工作报告。",
+  "summary_en": "On Sept 23, 2026, the 13th plenary session of the 11th Huainan Municipal Committee of the CPC decided to convene the city's 12th Party Congress on Sept 26 and approved related work reports.",
+  "body_zh": "中国共产党淮南市第十一届委员会第十三次全体会议决议\n（2026年9月23日中国共产党淮南市第十一届委员会第十三次全体会议通过）\n中国共产党淮南市第十一届委员会第十三次全体会议于2026年9月23日在市政务中心举行。会议决定：\n一、中国共产党淮南市第十二次代表大会于2026年9月26日在市政务中心召开。\n二、全会审议通过了中国共产党淮南市第十一届委员会向中国共产党淮南市第十二次代表大会的工作报告，批准了中国共产党淮南市第十一届纪律检查委员会向中国共产党淮南市第十二次代表大会的工作报告，决定将这两个文件提请中国共产党淮南市第十二次代表大会审查和审议。\n三、全会听取了关于淮南市出席省第十二次党代会代表候选人预备人选情况的说明，投票表决确定了淮南市出席省第十二次党代会代表候选人预备人选。\n全会号召，全市各级党组织和广大党员要坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平总书记考察安徽重要讲话精神，牢固树立和践行正确政绩观，坚持以人民为中心和以经济建设为中心有机统一，进一步压实“三个责任”、提振“四个状态”，统筹发展和安全、突出民生和环保，持之以恒推进全面从严治党，团结带领全市人民笃行实干、矢志追赶，加快推动资源型城市高质量发展，奋力谱写中国式现代化淮南篇章！",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "全面从严治党",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国共产党淮南市第十一届委员会",
+      "name_en": "11th Huainan Municipal Committee of the CPC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HN",
+      "name_zh": "淮南",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中国共产党淮南市第十一届委员会",
+    "淮南",
+    "党代会",
+    "全面从严治党",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "11th Huainan Municipal Committee of the CPC",
+    "Party Congress",
+    "Full and Rigorous Party Governance",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HN"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国共产党淮南市第十一届委员会",
+        "name_en": "11th Huainan Municipal Committee of the CPC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260924-gov_huai_nan-6dfe11",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

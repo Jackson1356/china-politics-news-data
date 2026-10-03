@@ -1,0 +1,97 @@
+{
+  "id": "20260903-gov_wei_hai-cf8903",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/9/3/art_58817_6586185.html",
+  "title_zh": "张海波会见新西兰客人",
+  "title_en": "Zhang Haibo Meets New Zealand Guests",
+  "summary_zh": "9月2日，威海市委书记张海波会见新西兰驻华大使乔文博一行，双方就深化经贸、教育、人文等领域合作交流。",
+  "summary_en": "On Sept 2, Zhang Haibo, Party Secretary of Weihai, met with New Zealand Ambassador to China and his delegation to discuss deepening cooperation in trade, education and cultural exchanges.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 李文思）9月2日，市委书记张海波会见新西兰驻华大使乔文博一行。省委外办副主任林海滨，市领导于宁、张刚会见时在座。\n全媒体新闻中心记者 孙大伟/摄\n张海波对客人的到来表示欢迎，并简要介绍了威海经济社会发展情况。他说，威海是中国首批沿海开放城市之一，区位优势突出，开放特色鲜明，产业基础坚实，城市宜居宜业。一直以来，威海与新西兰始终保持紧密交流，合作基础扎实、潜力巨大。希望双方在经贸、教育、人文等领域进一步深化务实合作，拓宽合作渠道，丰富合作内涵，推动更多项目落地威海，开创互利共赢新局面。\n乔文博表示，将充分发挥新西兰驻华大使馆的桥梁纽带作用，推动双方扩大人文交流，深化互利合作，共同谱写高质量发展新篇章。\n一审：雅斐 二审：秀英 三审：观达",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "对外合作",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外合作",
+      "name_en": "External Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchanges"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "对外合作",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "External Cooperation",
+    "Trade and Economic Cooperation",
+    "People-to-People Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "张刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260903-gov_wei_hai-cf8903",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

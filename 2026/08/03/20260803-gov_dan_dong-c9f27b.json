@@ -1,0 +1,91 @@
+{
+  "id": "20260803-gov_dan_dong-c9f27b",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202608/0178571858761539.html",
+  "title_zh": "陈福茂走访慰问部队官兵",
+  "title_en": "Chen Fumao Visits and Greets Military Officers and Soldiers",
+  "summary_zh": "近日，丹东市人大常委会主任陈福茂走访慰问某部队官兵，共叙军民鱼水深情，推动军地融合高质量发展。",
+  "summary_en": "Recently, Chen Fumao, Director of the Standing Committee of the Dandong Municipal People's Congress, visited and extended regards to military officers and soldiers, emphasizing military-civilian integration and high-quality development.",
+  "body_zh": "在八一建军节来临之际，近日，市人大常委会主任陈福茂走访慰问某部队官兵，共叙军民鱼水深情，携手推动军地融合高质量发展。\n在走访慰问中，陈福茂与官兵们亲切交谈，详细了解部队建设发展及官兵日常生活、工作训练、执勤值守等情况，对大家恪尽职守、默默奉献，全力守护一方平安表示感谢。陈福茂表示，长期以来，某部队认真贯彻习近平强军思想，始终牢记初心使命、忠诚担当履职，大力弘扬拥政爱民光荣传统，把驻地当家乡、把群众当亲人，积极服务助力地方经济社会发展，全力筑牢国防安全防线。丹东有拥军优属的光荣历史和优良传统，军民团结，和衷共济，是发展的坚强保证。我们将一如既往地关心支持部队建设，全力做好各项服务保障工作，也希望广大官兵继续支持地方各项事业发展，为第二故乡建设再立新功。\n某部队官兵表示，衷心感谢丹东市委、市政府和全市人民长期以来对部队的关心厚爱和大力支持。全体官兵将继续发扬听党指挥、能打胜仗、作风优良的优良传统，牢记初心使命，增强保卫祖国、服务人民的能力，积极支持和参与地方建设，以实际行动回报丹东人民的深情厚谊，为丹东高质量发展贡献力量。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "军民融合",
+    "拥军优属"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈福茂",
+      "name_en": "Chen Fumao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军民融合",
+      "name_en": "Military-Civilian Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "拥军优属",
+      "name_en": "Supporting the Military and Their Families"
+    }
+  ],
+  "tags_zh": [
+    "陈福茂",
+    "丹东",
+    "军民融合",
+    "拥军优属"
+  ],
+  "tags_en": [
+    "Chen Fumao",
+    "Dandong",
+    "Military-Civilian Integration",
+    "Supporting the Military and Their Families"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方平安"
+      },
+      {
+        "id": null,
+        "name_zh": "陈福茂"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260803-gov_dan_dong-c9f27b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

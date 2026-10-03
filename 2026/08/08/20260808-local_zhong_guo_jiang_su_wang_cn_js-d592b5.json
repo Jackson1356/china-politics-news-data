@@ -1,0 +1,112 @@
+{
+  "id": "20260808-local_zhong_guo_jiang_su_wang_cn_js-d592b5",
+  "source": "local_zhong_guo_jiang_su_wang_cn_js",
+  "source_name_zh": "中国江苏网",
+  "source_name_en": "中国江苏网",
+  "source_media_id": "cac-cn-js-97d8bc0710",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://jsnews.jschina.com.cn/jsyw/202608/t20260808_s6a7670b6e4b02a27aa59eea3.shtml",
+  "title_zh": "江苏省政府与华为签署深化战略合作协议",
+  "title_en": "Jiangsu Provincial Government and Huawei Sign Deepened Strategic Cooperation Agreement",
+  "summary_zh": "8月6日，江苏省政府与华为在南京签署深化战略合作协议，双方将以人工智能为核心深化全方位合作，省长刘小涛会见华为轮值董事长徐直军并见证签约。",
+  "summary_en": "On Aug 6, Jiangsu and Huawei signed a deepening strategic cooperation agreement in Nanjing, focusing on AI. Governor Liu Xiaotao met Huawei's rotating chairman Xu Zhijun and witnessed the signing.",
+  "body_zh": "省政府与华为签署深化战略合作协议\n刘小涛会见徐直军一行\n交汇点讯 8月6日，省政府与华为技术有限公司在南京签署深化战略合作协议。省长刘小涛会见华为副董事长、轮值董事长徐直军一行，并共同见证签约。\n根据协议，双方将发挥各自优势，以人工智能为核心牵引，协同推进人工智能公共算力中心、城市公共云、数据基础设施、人工智能赋能科学研究及社会治理等重点领域建设。此外，在鸿蒙PC产业和国产化计算产业创新、开源鸿蒙产业和生态构建、数智专业人才培育等方面深化全方位合作，共同打造“人工智能+”创新策源地与产业新高地。\n江苏与华为合作基础深厚，此次签署深化战略合作协议，双方将建立常态化沟通对接机制，持续拓展合作领域、提升合作能级，着力打造标志性合作项目，实现更高水平优势互补、互利共赢。\n副省长赵岩，南京市市长李忠军，省政府秘书长赵建军，华为高级副总裁杨瑞凯，华为江苏总经理赵国辉参加。\n新华日报·交汇点记者 王拓 李嘉豪",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "战略合作",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "人工智能",
+    "战略合作",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "Artificial Intelligence",
+    "Strategic Cooperation",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵国辉"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260808-gov_yan_cheng-2dfa06",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/8/art_60096_11813967.html",
+      "title_zh": "江苏省人民政府 要闻关注 省政府与华为签署深化战略合作协议 刘小涛会见徐直军一行",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yan_cheng",
+      "source_tier": 4,
+      "url": "http://www.jiangsu.gov.cn/art/2026/8/8/art_60096_11813967.html",
+      "title_zh": "江苏省人民政府 要闻关注 省政府与华为签署深化战略合作协议 刘小涛会见徐直军一行",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

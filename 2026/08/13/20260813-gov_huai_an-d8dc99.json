@@ -1,0 +1,84 @@
+{
+  "id": "20260813-gov_huai_an-d8dc99",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1786607728831js2lmUSz.html",
+  "title_zh": "市领导调研淮安海关工作",
+  "title_en": "City Leaders Inspect Huai'an Customs Work",
+  "summary_zh": "8月12日，淮安市委书记史志军调研淮安海关，强调提升监管效能和服务水平，助推外贸稳量提质。",
+  "summary_en": "On August 12, Shi Zhijun, Party Secretary of Huai'an, inspected Huai'an Customs, stressing improving regulation and service to boost foreign trade.",
+  "body_zh": "8月12日，市委书记史志军调研淮安海关工作，强调要认真贯彻落实习近平总书记给红其拉甫海关全体关员重要回信精神，深入学习贯彻习近平总书记对江苏工作重要讲话精神、对淮安殷切嘱托，改革创新、担当实干，不断提升监管效能和服务水平，助推全市外贸稳量提质增效，为淮安全面建设长三角北部现代化中心城市贡献力量。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "海关监管",
+    "外贸发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海关监管",
+      "name_en": "Customs Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外贸发展",
+      "name_en": "Foreign Trade Development"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "淮安",
+    "海关监管",
+    "外贸发展"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Huai'an",
+    "Customs Supervision",
+    "Foreign Trade Development"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-gov_huai_an-d8dc99",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

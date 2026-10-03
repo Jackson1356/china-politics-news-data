@@ -1,0 +1,98 @@
+{
+  "id": "20260907-chinanews_gn-514690",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-07/10691892.shtml",
+  "title_zh": "两部门紧急拨付2.4亿元支持5省做好自然灾害应急抢险救灾工作",
+  "title_en": "Two Ministries Allocate 240 Million Yuan for Disaster Relief in Five Provinces",
+  "summary_zh": "9月7日，财政部、应急管理部紧急拨付2.4亿元中央自然灾害救灾资金，支持浙江、福建、江西、湖南、云南5省开展洪涝、地质灾害应急抢险救灾工作。",
+  "summary_en": "On Sept 7, the Ministry of Finance and Ministry of Emergency Management allocated 240 million yuan to support flood and geological disaster relief in five provinces.",
+  "body_zh": "两部门紧急拨付2.4亿元支持5省做好自然灾害应急抢险救灾工作\n近期，受台风“沙德尔”影响，我国南方多地出现大范围持续性强降雨，降雨极端性突出，引发洪涝、地质灾害，造成人员伤亡和房屋倒损。为深入贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，9月7日，财政部、应急管理部紧急拨付2.4亿元中央自然灾害救灾资金，支持浙江、福建、江西、湖南、云南等5省开展洪涝、地质灾害应急抢险救灾工作，重点做好受灾群众转移安置、排危除险等应急处置、过渡期生活救助以及倒损民房修复等工作，切实保障受灾群众基本生活，推动灾区尽快恢复生产生活秩序。\n(总台央视记者 唐国荣)\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年09月07日 13:50:13\n- 2026年09月07日 13:10:34\n- 2026年09月07日 11:54:07\n- 2026年09月07日 11:49:29\n- 2026年09月07日 11:33:48\n- 2026年09月07日 11:04:39\n- 2026年09月06日 18:45:53\n- 2026年09月05日 20:54:54\n- 2026年09月05日 18:05:14\n- 2026年09月05日 16:14:21",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急抢险"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急抢险",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "防汛救灾",
+    "应急抢险"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Flood Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260907-chinanews_gn-514690",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691917.shtml",
+      "title_zh": "两部门紧急拨付2.4亿元支持5省做好自然灾害应急抢险救灾工作",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    },
+    {
+      "source": "local_yang_zi_wan_bao_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://www.yzwb.net/news/txs/202609/t20260907_390305.html",
+      "title_zh": "财政部、应急管理部紧急拨付2.4亿元中央自然灾害救灾资金 支持福建、江西、湖南等5省做好自然灾害应急抢险救灾工作",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

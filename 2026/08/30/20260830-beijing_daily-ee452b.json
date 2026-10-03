@@ -1,0 +1,89 @@
+{
+  "id": "20260830-beijing_daily-ee452b",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/30/11938705.shtml",
+  "title_zh": "武契奇：感谢中方",
+  "title_en": "Vucic: Thanks to China",
+  "summary_zh": "塞尔维亚与中企智元、敏实集团合作建设的人形机器人工厂29日在沙巴茨启动量产，总统武契奇出席启动仪式并致辞，感谢中方支持。",
+  "summary_en": "Serbia's humanoid robot factory in Sabac, co-built with Chinese firms Zhiyuan and Minth, started mass production on Aug 29. President Vucic attended and thanked China.",
+  "body_zh": "据新华社消息，塞尔维亚与智元创新（上海）科技股份有限公司（简称“智元”）、敏实集团合作建设的人形机器人工厂29日在沙巴茨正式启动量产。塞尔维亚总统武契奇出席启动仪式，参观生产车间和产品展示场馆，并与人形机器人互动。\n武契奇致辞。图源：中国驻塞尔维亚大使馆\n武契奇在致辞中感谢中方对塞尔维亚的支持。他说，敏实集团已为塞尔维亚创造近5000个就业岗位，未来还将进一步扩大就业规模。在中方支持下，塞尔维亚“正在成为欧洲人形机器人规模化量产的先行者”。\n“我们希望，这家工厂未来每年能够组装并生产超过5000台人形机器人。”武契奇说，这些机器人未来可广泛应用于医疗、农业、工业及国防等领域。\n敏实集团创始人秦荣华表示，集团自2018年进入塞尔维亚以来，已建成10座工厂，计划在塞尔维亚建设机器人产业园，并配套建设无人机及先进电池生产设施，产品将面向欧洲及全球市场。\n今年2月，武契奇宣布，塞尔维亚将与智元、敏实集团合作建设欧洲首个人形机器人大规模生产基地。此次沙巴茨工厂启动量产，标志着这一合作项目取得实质性进展。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "人形机器人",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "武契奇",
+      "name_en": "Vucic"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "沙巴茨",
+      "name_en": "Sabac"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人形机器人",
+      "name_en": "Humanoid Robot"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "武契奇",
+    "沙巴茨",
+    "人形机器人",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Vucic",
+    "Sabac",
+    "Humanoid Robot",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "武契奇"
+      },
+      {
+        "id": null,
+        "name_zh": "秦荣华"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260830-beijing_daily-ee452b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

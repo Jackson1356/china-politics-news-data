@@ -1,0 +1,96 @@
+{
+  "id": "20260728-gov_xi_an-b41fcd",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2081929721948483585.html",
+  "title_zh": "蒿慧杰会见香港玉湖集团董事局主席黄向墨一行",
+  "title_en": "Hao Huijie Meets with Chairman of Hong Kong Yuhu Group Huang Xiangmo and Delegation",
+  "summary_zh": "7月27日，陕西省委常委、西安市委书记蒿慧杰会见香港玉湖集团董事局主席黄向墨一行，双方就推动玉湖冷链（西安）交易中心项目等合作进行交流。",
+  "summary_en": "On July 27, Hao Huijie, member of the Standing Committee of the Shaanxi Provincial Party Committee and Secretary of the Xi'an Municipal Party Committee, met with Huang Xiangmo, Chairman of the board of Hong Kong Yuhu Group, to discuss cooperation on the Yuhu Cold Chain (Xi'an) Trading Center project.",
+  "body_zh": "7月27日，省委常委、市委书记蒿慧杰会见香港玉湖集团董事局主席黄向墨一行。\n蒿慧杰代表市委市政府对黄向墨一行到来表示欢迎。他说，玉湖集团是跨国实业投资集团，深耕冷链供应链领域多年，拥有成熟的产业布局、雄厚的资本实力与丰富的运营经验。西安是国家中心城市、“一带一路”重要节点城市，历史文化深厚、科教资源富集、产业基础扎实，正处于城市能级加快跃升、基础设施系统提升、现代化产业体系加速构建的关键阶段。希望双方建立战略伙伴关系，持续深化务实合作，实现互补互惠互利共赢发展。一是共同推动玉湖冷链（西安）交易中心项目加快落地建设，补齐西部地区冷链物流基础设施短板，提升西安冷链物流服务能力和市民群众生活品质。二是依托中欧班列（西安）优势，进一步畅通“中亚、欧洲—西安—西北全域”进口冷链通道，构建双向流通的跨境冷链体系，提升西安国家骨干冷链物流基地建设运行质效，助力中欧班列经济圈建设。三是拓展农产品进出口贸易、食品制造等领域合作。西安将持续营造市场化、法治化、国际化一流营商环境，全力为企业提供优质服务保障。\n黄向墨介绍了集团历史、发展情况和未来方向，感谢西安市委市政府对玉湖集团的认可和支持，表示西安区位优势突出、发展潜力巨大，集团对在西安投资布局充满信心，将紧密对接西安发展需求，发挥冷链供应链全链条优势和链主企业带动作用，推动上下游企业集聚发展，助力西安商贸物流产业高质量发展。\n市领导和文全、肖琦，有关市级部门和开发区负责同志参加会见。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-27",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "industry",
+  "keywords": [
+    "冷链物流",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄向墨",
+      "name_en": "Huang Xiangmo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "冷链物流",
+      "name_en": "Cold Chain Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "黄向墨",
+    "西安",
+    "冷链物流",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Huang Xiangmo",
+    "Xi'an",
+    "Cold Chain Logistics",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "hao-huijie",
+      {
+        "id": null,
+        "name_zh": "黄向墨"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260728-gov_xi_an-b41fcd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

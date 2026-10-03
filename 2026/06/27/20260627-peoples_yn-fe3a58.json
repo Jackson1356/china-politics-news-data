@@ -1,0 +1,123 @@
+{
+  "id": "20260627-peoples_yn-fe3a58",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_url": "http://yn.people.com.cn/n2/2026/0627/c378439-41622734.html",
+  "title_zh": "王宁会见英国驻华大使魏磊",
+  "title_en": "Wang Ning Meets British Ambassador to China Wei Lei",
+  "summary_zh": "6月25日，云南省委书记王宁在昆明会见英国驻华大使魏磊，双方探讨深化在经贸、绿色能源、文旅等领域的互利合作。",
+  "summary_en": "On June 25, Wang Ning, Secretary of the Yunnan Provincial Party Committee, met with British Ambassador to China Wei Lei in Kunming to discuss deepening cooperation in trade, green energy, and cultural tourism.",
+  "body_zh": "王宁会见英国驻华大使魏磊\n6月25日，云南省委书记王宁在昆明会见英国驻华大使魏磊一行。\n王宁对魏磊大使一行到访表示欢迎，介绍了省情特别是清洁能源、特色农业、历史文化、生态环境等优势。他说，今年初，习近平主席同英国领导人举行会晤，就发展两国长期稳定的全面战略伙伴关系作出战略指引。云南与英国交往源远流长，近年来双方在经贸、花卉产业、生物多样性保护等方面取得积极合作成效，未来合作空间广阔。我们希望同英国有关方面、地方一道落实好两国领导人达成的重要共识，建立常态化机制，加强交流互鉴，密切各层级人员往来，深化经贸合作，拓展绿色能源、文化旅游、生态环保、教育科技、青少年体育等领域互利合作。王宁表示，云南愿为包括英国企业在内的各国企业来滇投资创业提供良好环境，欢迎英国友人来滇旅游旅居，感受“有一种叫云南的生活”，感知真实、立体、全面的中国。\n魏磊感谢云南省的热情接待，回顾了英国有关机构、企业与云南友好合作成果。他说，很高兴以大使身份首访云南，期待深入感受“有一种叫云南的生活”。云南生态环境良好，经济社会发展特别是绿色低碳发展成就令人震撼。魏磊表示，英国驻华大使馆愿同云南省共同努力，以两国领导人重要共识为引领，推动英国有关方面、地方和云南加强交流交往，增进相互了解与友谊，深化经贸、文旅、教育、体育、生态环境保护等领域合作，促进友好关系更上一层楼。\n省领导王正英、徐浩，英国驻重庆总领事李遥，省级有关部门负责同志等参加。（记者 左超）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-25",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "经贸合作",
+    "绿色能源",
+    "外交交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-ning-yunnan",
+      "name_zh": "王宁",
+      "name_en": "Wang Ning"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "魏磊",
+      "name_en": "Wei Lei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "云南省委",
+      "name_en": "Yunnan Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "昆明",
+      "name_en": "Kunming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色能源",
+      "name_en": "Green Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交交流",
+      "name_en": "Diplomatic Exchange"
+    }
+  ],
+  "tags_zh": [
+    "王宁",
+    "魏磊",
+    "云南省委",
+    "昆明",
+    "云南",
+    "经贸合作",
+    "绿色能源",
+    "外交交流"
+  ],
+  "tags_en": [
+    "Wang Ning",
+    "Wei Lei",
+    "Yunnan Provincial Party Committee",
+    "Kunming",
+    "Yunnan",
+    "Economic and Trade Cooperation",
+    "Green Energy",
+    "Diplomatic Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-ning-yunnan",
+      "wang-zhengying",
+      {
+        "id": null,
+        "name_zh": "魏磊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": [
+      {
+        "name_zh": "云南省委",
+        "name_en": "Yunnan Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260627-peoples_yn-fe3a58",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

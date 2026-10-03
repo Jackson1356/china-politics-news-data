@@ -1,0 +1,96 @@
+{
+  "id": "20260805-gov_zhu_hai-9bc825",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3930259.html",
+  "title_zh": "市政协召开十届二十七次常委会会议",
+  "title_en": "Zhuhai CPPCC Holds 27th Standing Committee Meeting",
+  "summary_zh": "8月4日，市政协召开十届二十七次常委会会议，学习贯彻习近平党建思想，传达学习习近平总书记重要讲话精神，听取上半年全市经济社会发展情况通报。市政协主席王开洲主持会议。",
+  "summary_en": "On August 4, the Zhuhai CPPCC held its 27th Standing Committee meeting to study Xi Jinping's thought on Party building, convey the spirit of an important speech by Xi Jinping, and hear a briefing on the city's economic and social development in the first half of the year. Wang Kaizhou, chairman of the CPPCC, presided over the meeting.",
+  "body_zh": "市政协召开十届二十七次常委会会议\n8月4日，政协第十届珠海市委员会常务委员会第二十七次会议召开，深入学习贯彻习近平党建思想，认真传达学习习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话及省、市有关会议精神。市政协主席王开洲主持会议并讲话。市委常委、常务副市长黄晓鹏到会通报2026年上半年全市经济和社会发展情况，并听取意见建议。\n会议强调，要认真学习领会习近平总书记重要讲话精神，弘扬伟大建党精神，把党的光荣传统、红色血脉传承好。要坚持和加强党对政协工作的全面领导，坚定拥护“两个确立”、坚决做到“两个维护”。要围绕中心、服务大局，广泛凝聚人心、凝聚共识、凝聚智慧、凝聚力量。要把履职的起点放在基层，深化“香山夜访·委员在行动”协商品牌，推动政协协商与基层协商有效衔接。\n会议认为，2026年上半年，在市委、市政府的正确领导下，全市上下坚决落实“全年都要加力”的要求，积极主动作为，推动全市经济社会发展向新向优向好，各项事业迈出新的坚实步伐。广大委员要继续协同努力，紧紧围绕全市部署的重点工作任务，深入研究、深度协商、积极建言。要密切联系界别群众，广泛听取意见建议，把社会各界的共识和力量统一到推动珠海高质量发展上来。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "party",
+  "keywords": [
+    "党建",
+    "政治协商",
+    "经济社会发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治协商",
+      "name_en": "Political Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济社会发展",
+      "name_en": "Economic and Social Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "珠海",
+    "党建",
+    "政治协商",
+    "经济社会发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhuhai",
+    "Party Building",
+    "Political Consultation",
+    "Economic and Social Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王开洲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260805-gov_zhu_hai-9bc825",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

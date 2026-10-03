@@ -1,0 +1,116 @@
+{
+  "id": "20260611-gov_cn_yaowen-d67a9e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071863.htm",
+  "title_zh": "张国清出席“全球趋同促增长峰会”并发言",
+  "title_en": "Zhang Guoqing Attends and Addresses 'Global Convergence for Growth Summit'",
+  "summary_zh": "6月11日，国务院副总理张国清以视频方式出席由法国主办的“全球趋同促增长峰会”并发言。",
+  "summary_en": "On June 11, Vice Premier Zhang Guoqing attended and addressed the 'Global Convergence for Growth Summit' hosted by France via video link.",
+  "body_zh": "新华社北京6月11日电（记者 王慧慧）6月11日，中共中央政治局委员、国务院副总理张国清应邀以视频方式出席“全球趋同促增长峰会”并发言。\n“全球趋同促增长峰会”由法国主办，法国总统马克龙主持，德国总理默茨、加拿大总理卡尼和美国、巴西、印度、意大利、日本、韩国、英国高级别代表及欧盟机构和国际货币基金组织负责人参会。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球趋同",
+    "经济增长",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-guoqing",
+      "name_zh": "张国清",
+      "name_en": "Zhang Guoqing"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "FR",
+      "name_zh": "法国",
+      "name_en": "France"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球趋同",
+      "name_en": "Global Convergence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "张国清",
+    "国务院",
+    "法国",
+    "北京",
+    "全球趋同",
+    "经济增长",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Zhang Guoqing",
+    "State Council",
+    "France",
+    "Beijing",
+    "Global Convergence",
+    "Economic Growth",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-guoqing",
+      {
+        "id": null,
+        "name_zh": "马克龙"
+      },
+      {
+        "id": null,
+        "name_zh": "方式"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "FR",
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260611-gov_cn_yaowen-d67a9e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

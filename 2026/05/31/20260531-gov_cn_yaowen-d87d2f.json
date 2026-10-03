@@ -1,0 +1,79 @@
+{
+  "id": "20260531-gov_cn_yaowen-d87d2f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070735.htm",
+  "title_zh": "人工智能相关产品拉动外贸增长",
+  "title_en": "AI-Related Products Drive Growth in Foreign Trade",
+  "summary_zh": "今年以来，我国人工智能相关产品和服务加快走向国际市场，成为拉动外贸增长的新动能，集成电路、工业机器人等高附加值产品出口快速增长。",
+  "summary_en": "Since the beginning of the year, China's AI-related products and services have accelerated their expansion into international markets, becoming a new driver for foreign trade growth.",
+  "body_zh": "今年以来，我国人工智能相关产品和服务正加快走向国际市场，成为拉动外贸增长的新动能。\n在上海临港，依托这里的算力服务，来自柬埔寨吴哥古迹的高精度扫描数据正在变成三维场景。不久后，全球观众都能在数字空间里沉浸式体验这座世界文化遗产的美。\n同样在临港，近400位算法工程师正在为海外用户训练专业大模型，业务涵盖自动驾驶、智能制造、医疗等领域。这背后，是电力、算力正在被转化为可跨境交易、可全球调用的高附加值数字服务。算力服务加速出海的同时，我国出口清单上，智能产品表现也非常亮眼。从电脑零部件、电子元器件到工业机器人、3D打印机，高技术含量、高附加值的人工智能产品出口快速增长，产业向着中高端迈进。数据显示，今年前4个月，我国集成电路出口额同比增长78.3%，工业机器人出口额同比增长30%，3D打印机出口额同比增长110.4%。",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "外贸增长",
+    "数字服务"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外贸增长",
+      "name_en": "Foreign Trade Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字服务",
+      "name_en": "Digital Services"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "人工智能",
+    "外贸增长",
+    "数字服务"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "Artificial Intelligence",
+    "Foreign Trade Growth",
+    "Digital Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260531-gov_cn_yaowen-d87d2f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

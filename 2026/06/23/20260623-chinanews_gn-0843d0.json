@@ -1,0 +1,78 @@
+{
+  "id": "20260623-chinanews_gn-0843d0",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-23/10645549.shtml",
+  "title_zh": "铁路端午假期运输收官，累计发送旅客8258.8万人次",
+  "title_en": "Railway Transport for Dragon Boat Festival Concludes with 82.588 Million Passengers",
+  "summary_zh": "6月18日至22日端午假期期间，全国铁路累计发送旅客8258.8万人次，同比增长4.9%，运输安全平稳有序。",
+  "summary_en": "From June 18 to 22, China's national railway network transported 82.588 million passengers during the Dragon Boat Festival, a 4.9% year-on-year increase.",
+  "body_zh": "铁路端午假期运输收官，累计发送旅客8258.8万人次\n中新网北京6月23日电(记者 李京统)记者从中国国家铁路集团有限公司(下称“国铁集团”)获悉，6月18日至22日铁路端午假期运输期间，全国铁路累计发送旅客8258.8万人次、同比增长4.9%，全国铁路运输安全平稳有序。\n国铁集团客运中心负责人介绍，今年端午假期以探亲流、旅游流为主，铁路客流总体保持高位。铁路端午假期运输期间，日均开行旅客列车12659列，累计增开跨局夜间高铁列车520列、动卧列车34列。同时，在热门旅游城市间增开旅客列车，推动“火车向着景区开”，安排开行“星光·燕赵号”“中原铁道·大河之南号”“熊猫专列·成都号”“新东方快车”“秦岭号”“大美上饶”等各具特色的旅游列车49列。\n在客运服务方面，铁路部门持续优化购票、候车、乘降、中转、接驳等各环节流程，加强现场引导，精心做好老幼病残孕等重点旅客出行服务，持续开展“我的铁路风景”优秀作品征集，在部分车站和列车举办“美好旅途‘粽’享端午”文化互动活动，邀请旅客朋友和列车工作人员一起包粽子、编五彩绳、趣味问答，感受别样的端午文化体验。(完)\n国内新闻精选：\n- 2026年06月23日 08:59:37\n- 2026年06月23日 08:50:34\n- 2026年06月23日 07:36:06\n- 2026年06月22日 22:31:03\n- 2026年06月22日 22:01:04\n- 2026年06月22日 20:10:16\n- 2026年06月22日 14:34:23\n- 2026年06月22日 13:37:57\n- 2026年06月22日 13:11:58\n- 2026年06月21日 17:57:39",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:31Z",
+  "topic": "industry",
+  "keywords": [
+    "交通运输",
+    "端午假期"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "端午假期",
+      "name_en": "Dragon Boat Festival Holiday"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "交通运输",
+    "端午假期"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Transportation",
+    "Dragon Boat Festival Holiday"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260623-chinanews_gn-0843d0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33434903",
+      "title_zh": "端午假期全国铁路累计发送旅客8258.8万人次，同比增长4.9%",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

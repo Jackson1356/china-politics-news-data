@@ -1,0 +1,79 @@
+{
+  "id": "20260817-chinanews_gn-f790e7",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-17/10678846.shtml",
+  "title_zh": "神二十三乘组在轨80余天 多项空间科学实（试）验有序推进",
+  "title_en": "Shenzhou-23 Crew Completes 80+ Days in Orbit, Space Experiments Progress",
+  "summary_zh": "神舟二十三号乘组三名航天员已在轨驻留80余天，空间科学实验和在轨训练有序推进。",
+  "summary_en": "The Shenzhou-23 crew of three astronauts has spent over 80 days in orbit, with space science experiments and in-orbit training progressing steadily.",
+  "body_zh": "神二十三乘组在轨80余天 多项空间科学实（试）验有序推进\n央视网消息：目前，中国空间站神舟二十三号乘组三名航天员朱杨柱、张志远、黎家盈已在轨驻留80余天。上周，空间科学实(试)验、在轨训练及演练等工作有序推进。\n国内新闻精选：\n- 2026年08月16日 20:34:16\n- 2026年08月16日 10:52:44\n- 2026年08月15日 11:41:14\n- 2026年08月14日 18:36:50\n- 2026年08月14日 16:53:39\n- 2026年08月14日 16:18:09\n- 2026年08月14日 14:18:40\n- 2026年08月14日 14:18:36\n- 2026年08月14日 11:07:06\n- 2026年08月14日 08:40:16",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "industry",
+  "keywords": [
+    "载人航天",
+    "空间科学实验"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Manned Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空间科学实验",
+      "name_en": "Space Science Experiments"
+    }
+  ],
+  "tags_zh": [
+    "载人航天",
+    "空间科学实验"
+  ],
+  "tags_en": [
+    "Manned Spaceflight",
+    "Space Science Experiments"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260817-chinanews_gn-f790e7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678946.shtml",
+      "title_zh": "纪念江泽民同志诞辰100周年大会开始 现场奏唱国歌",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678938.shtml",
+      "title_zh": "我国成功发射SEO卫星",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

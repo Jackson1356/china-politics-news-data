@@ -1,0 +1,73 @@
+{
+  "id": "20260614-gov_cn_yaowen-39bcca",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7072025.htm",
+  "title_zh": "去年全国活跃数据总量同比增28.46%",
+  "title_en": "China's National Active Data Volume Increased by 28.46% Year-on-Year Last Year",
+  "summary_zh": "国家数据局披露2025年全国活跃数据总量达1.67泽字节，同比增长28.46%，且“数据要素×”三年行动计划提前完成场景打造目标。",
+  "summary_en": "The National Data Bureau reported that China's active data volume reached 1.67 zettabytes in 2025, up 28.46% YoY, with the 'Data Element ×' action plan achieving its goals ahead of schedule.",
+  "body_zh": "记者从国家数据局获悉：2025年，全国活跃数据总量为1.67泽字节，同比增长28.46%；企业数据产品和服务数量同比增长29.29%，交易额同比增长39.8%。\n今年是“数据要素×”三年行动计划的收官之年，行动计划实施两年多来，全社会数据意识明显提升，数据要素价值加快释放。国家数据局累计发布417个典型案例，11个行业领域的760个“数据要素×”典型场景指引，提前完成打造300个以上场景的目标。（记者 王云杉）",
+  "image_url": null,
+  "published_at": "2026-06-14T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "数据要素",
+    "数据要素×"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Bureau"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素",
+      "name_en": "Data Elements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素×",
+      "name_en": "Data Element ×"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "数据要素",
+    "数据要素×"
+  ],
+  "tags_en": [
+    "National Data Bureau",
+    "Data Elements",
+    "Data Element ×"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260614-gov_cn_yaowen-39bcca",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

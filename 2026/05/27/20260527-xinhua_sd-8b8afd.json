@@ -1,0 +1,95 @@
+{
+  "id": "20260527-xinhua_sd-8b8afd",
+  "source": "xinhua_sd",
+  "source_name_zh": "新华网 山东",
+  "source_name_en": "Xinhua Shandong",
+  "source_url": "http://sd.news.cn/20260528/c2c4fada78a549b199baedea6d37113c/c.html",
+  "title_zh": "山东兖州北站扩能改造工程全面竣工",
+  "title_en": "Yanzhou North Station Expansion and Renovation Project in Shandong Fully Completed",
+  "summary_zh": "5月27日，由国铁济南局牵头、中铁十局承建的山东兖州北站扩能改造工程全面竣工，将显著增强鲁南地区的铁路运输能力。",
+  "summary_en": "On May 27, the expansion and renovation project of Yanzhou North Station in Shandong, led by China Railway Jinan Group and built by China Railway 10th Bureau, was fully completed to enhance regional transport capacity.",
+  "body_zh": "5月27日，由国铁济南局牵头建设、中铁十局承建的山东兖州北站扩能改造工程全面竣工。\n兖州北站地处多条国家铁路干线交汇点，联通华北、华中、华东三大区域，是鲁南地区重要的铁路交通枢纽。\n本次改造工程历时两年，对兖州北站、白家店站站场架构进行了系统性优化，并完成了信号控制系统升级改造。工程投用后，车站列车解编、货物中转、列车通行等综合运输能力显著增强，将为山东及周边区域经济高质量发展、现代物流产业提档升级夯实交通基础。",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-27",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "基础设施建设",
+    "铁路交通"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国铁济南局",
+      "name_en": "China Railway Jinan Group"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中铁十局",
+      "name_en": "China Railway 10th Bureau Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路交通",
+      "name_en": "Railway Transport"
+    }
+  ],
+  "tags_zh": [
+    "国铁济南局",
+    "中铁十局",
+    "山东",
+    "基础设施建设",
+    "铁路交通"
+  ],
+  "tags_en": [
+    "China Railway Jinan Group",
+    "China Railway 10th Bureau Group",
+    "Shandong",
+    "Infrastructure Construction",
+    "Railway Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "国铁济南局",
+        "name_en": "China Railway Jinan Group"
+      },
+      {
+        "name_zh": "中铁十局",
+        "name_en": "China Railway 10th Bureau Group"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260527-xinhua_sd-8b8afd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

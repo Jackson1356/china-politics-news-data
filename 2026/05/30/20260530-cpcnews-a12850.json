@@ -1,0 +1,78 @@
+{
+  "id": "20260530-cpcnews-a12850",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0531/c64387-40730795.html",
+  "title_zh": "电力市场交易电量同比增长25.6%",
+  "title_en": "Electricity Market Transaction Volume Increases by 25.6% Year-on-Year",
+  "summary_zh": "国家能源局数据显示，今年前4月全国累计完成电力市场交易电量24307亿千瓦时，同比增长25.6%。",
+  "summary_en": "The National Energy Administration reported that China's electricity market transaction volume reached 2,430.7 billion kWh in the first four months of the year, a year-on-year increase of 25.6%.",
+  "body_zh": "前4月\n本报北京5月30日电 （记者王云杉）记者从国家能源局获悉：前4月，全国累计完成电力市场交易电量24307亿千瓦时，同比增长25.6%。\n4月，全国完成电力市场交易电量5883亿千瓦时，同比增长25.5%。从交易范围看，省内交易电量4730亿千瓦时，同比增长29.4%；跨省跨区交易电量1153亿千瓦时，同比增长11.9%。从交易品种看，中长期交易电量5223亿千瓦时；现货交易电量660亿千瓦时。绿电交易电量297亿千瓦时，同比增长3.6%。\n《 人民日报 》（ 2026年05月31日 01 版）",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-30",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "industry",
+  "keywords": [
+    "电力市场",
+    "能源交易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力市场",
+      "name_en": "Electricity Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源交易",
+      "name_en": "Energy Trading"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "电力市场",
+    "能源交易"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Electricity Market",
+    "Energy Trading"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260530-cpcnews-a12850",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/lianbo/202605/content_7070704.htm",
+      "title_zh": "前4月电力市场交易电量同比增长25.6%",
+      "published_at": "2026-05-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "20260524-peoples_ha-3403e2",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_url": "http://ha.people.com.cn/n2/2026/0525/c351638-41589833.html",
+  "title_zh": "水利部针对安徽、河南、重庆、陕西启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Launches Level IV Emergency Response for Flood Defense in Anhui, Henan, Chongqing, and Shaanxi",
+  "summary_zh": "水利部于5月24日针对安徽、河南、重庆、陕西等省市启动洪水防御Ⅳ级应急响应，并部署相关防御措施以应对强降雨过程。",
+  "summary_en": "On May 24, the Ministry of Water Resources launched a Level IV emergency response for flood defense in Anhui, Henan, Chongqing, and Shaanxi to cope with predicted heavy rainfall.",
+  "body_zh": "水利部针对安徽、河南、重庆、陕西启动洪水防御Ⅳ级应急响应（扎实做好防汛救灾工作）\n本报北京5月24日电 （记者邓剑洋）记者从水利部获悉：据预报，5月24日至27日，西南东部北部、西北东部、黄淮大部、江淮、江南北部西部等地将有一次强降雨过程，以大到暴雨为主；暴雨区内重庆长江支流五布河、陕西汉江上游支流湑水河、河南洪汝河支流洪河、安徽青弋江支流徽水及淮河支流淠河上游等中小河流可能发生超警洪水。\n水利部于24日9时针对安徽、河南、重庆、陕西等4省（直辖市）启动洪水防御Ⅳ级应急响应，并派出工作组赴重庆洪水防御一线协助指导。\n受降雨影响，长江干流及汉江、清江等支流，洞庭湖水系澧水沅江，黄河山陕区间窟野河、无定河，淮河干流及沙颍河、洪汝河、史灌河、淠河等支流，海河南系卫河上游，太湖及周边河网区、钱塘江上游等河流将出现涨水过程，暴雨区内中小河流可能发生超警洪水。\n24日，水利部组织会商，滚动安排部署防御工作，要求有关水利部门落实落细各项防御措施，确保人民生命财产安全。目前，水利部维持针对安徽、江西、河南、湖北、湖南、重庆、陕西7省（直辖市）的洪水防御Ⅳ级应急响应；有3个工作组、专家组在广西和重庆协助指导开展洪水防御工作。\n《 人民日报 》（ 2026年05月25日 04 版）",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-24",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "防汛救灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "安徽",
+    "河南",
+    "重庆",
+    "陕西",
+    "洪水防御",
+    "防汛救灾"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Anhui",
+    "Henan",
+    "Chongqing",
+    "Shaanxi",
+    "Flood Defense",
+    "Flood Control and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-AH",
+      "CN-HA",
+      "CN-CQ",
+      "CN-SN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260524-peoples_ha-3403e2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sn",
+      "source_tier": 3,
+      "url": "http://sn.people.com.cn/n2/2026/0525/c186331-41589975.html",
+      "title_zh": "水利部针对安徽、河南、重庆、陕西启动洪水防御Ⅳ级应急响应（扎实做好防汛救灾工作）",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

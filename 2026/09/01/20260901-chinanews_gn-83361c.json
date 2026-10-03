@@ -1,0 +1,106 @@
+{
+  "id": "20260901-chinanews_gn-83361c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-01/10687902.shtml",
+  "title_zh": "外交部：中国在委内瑞拉的合法权益必须得到保障",
+  "title_en": "Foreign Ministry: China's Legal Rights and Interests in Venezuela Must Be Safeguarded",
+  "summary_zh": "9月1日，外交部发言人郭嘉昆主持例行记者会，回应美委石油合作涉及中企在委业务，强调中国在委合法权益必须得到保障。",
+  "summary_en": "On Sept 1, Foreign Ministry spokesperson Guo Jiakun said at a regular press conference that China's legitimate rights and interests in Venezuela must be safeguarded, in response to US-Venezuela oil cooperation.",
+  "body_zh": "外交部：中国在委内瑞拉的合法权益必须得到保障\n中新网北京9月1日电(记者 邢翀)中国外交部发言人郭嘉昆9月1日主持例行记者会。\n有记者提问：据报道，美国与委内瑞拉近日达成石油合作协议，涉及中企在委石油业务。中方有何回应？\n郭嘉昆：中方注意到有关报道。中方一贯主张，国与国之间关系应该按照联合国宪章宗旨和原则处理，国与国之间开展经贸合作应当遵循平等互利、合作共赢的原则。\n同时我还想强调，中国和委内瑞拉的合作受到国际法和两国法律的保护，中国在委内瑞拉的合法权益必须得到保障。(完)\n国内新闻精选：\n- 2026年09月01日 13:07:39\n- 2026年09月01日 11:33:52\n- 2026年09月01日 11:33:32\n- 2026年08月31日 21:38:06\n- 2026年08月31日 16:38:19\n- 2026年08月31日 16:28:16\n- 2026年08月31日 14:54:26\n- 2026年08月31日 11:41:18\n- 2026年08月31日 07:56:46\n- 2026年08月30日 18:22:57",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交关系",
+    "石油合作",
+    "合法权益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交关系",
+      "name_en": "Diplomatic Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "石油合作",
+      "name_en": "Oil Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "合法权益",
+      "name_en": "Legitimate Rights and Interests"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "外交关系",
+    "石油合作",
+    "合法权益"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Diplomatic Relations",
+    "Oil Cooperation",
+    "Legitimate Rights and Interests"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方有何"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260901-chinanews_gn-83361c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://www.xmnn.cn/news/gnxw/202609/t20260901_448152.html",
+      "title_zh": "外交部：中国在委内瑞拉的合法权益必须得到保障 _新闻频道_厦门网",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

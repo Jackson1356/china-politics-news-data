@@ -1,0 +1,103 @@
+{
+  "id": "20260924-gov_he_gang-638990",
+  "source": "gov_he_gang",
+  "source_name_zh": "鹤岗市政府网",
+  "source_name_en": "鹤岗 Government Portal",
+  "source_media_id": "gov-cn-prefecture-he_gang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.hegang.gov.cn/hegang/xrd/202609/94393.shtml",
+  "title_zh": "李强签署国务院令 公布修订后的《中华人民共和国审计法实施条例》",
+  "title_en": "Li Qiang Signs State Council Decree to Publish Revised Regulations on Implementing the Audit Law",
+  "summary_zh": "国务院总理李强日前签署国务院令，公布修订后的《中华人民共和国审计法实施条例》，自2026年12月1日起施行，共7章64条。",
+  "summary_en": "Premier Li Qiang signed a State Council decree promulgating the revised Regulations on Implementing the Audit Law of the People's Republic of China, effective Dec 1, 2026, comprising 7 chapters and 64 articles.",
+  "body_zh": "发布日期：2026-09-24 19:16\n李强签署国务院令\n公布修订后的《中华人民共和国审计法实施条例》\n新华社北京9月24日电 国务院总理李强日前签署国务院令，公布修订后的《中华人民共和国审计法实施条例》（以下简称《条例》），自2026年12月1日起施行。《条例》共7章64条，修订的主要内容如下。\n一是加强党的领导。明确规定审计工作应当坚持中国共产党的领导，全面贯彻落实党的路线方针政策和党中央决策部署。\n二是细化完善审计监督内容。细化对财政收支的审计范围和内容；将对财政决算草案的审计情况和对国有资源、国有资产管理使用的审计情况纳入审计结果报告；明确审计法中“其他关系国家利益和公共利益的重大公共工程项目”的范围；将国有资源管理使用纳入专项审计调查范围，并完善审计管辖规则。\n三是健全审计工作程序。增加对打探干预审计事项行为实行登记报告制度的规定，确保审计工作不受干扰；细化被审计单位、有关机关协助审计机关开展工作的要求；进一步完善查询单位、个人在金融机构与审计事项相关的存款的程序。\n四是压实审计整改责任。明确被审计单位承担审计整改主体责任，并细化整改不到位的法律责任；规定审计机关应当在审计报告中对审计查出的问题分类提出整改要求，对整改情况进行跟踪检查，及时审核认定；规定国务院各部门和地方各级人民政府以及有关主管机关、单位应当加强统筹协调，督促审计问题整改，建立健全有关制度。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "party",
+  "keywords": [
+    "审计监督",
+    "依法治国",
+    "国有资产监管"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "审计监督",
+      "name_en": "Audit Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "依法治国",
+      "name_en": "Rule of Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有资产监管",
+      "name_en": "State Asset Oversight"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "审计监督",
+    "依法治国",
+    "国有资产监管"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "Audit Supervision",
+    "Rule of Law",
+    "State Asset Oversight"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260924-gov_he_gang-638990",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

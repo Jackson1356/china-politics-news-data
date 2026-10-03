@@ -1,0 +1,78 @@
+{
+  "id": "20260705-gov_cn_yaowen-aac063",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074397.htm",
+  "title_zh": "中国政府援助委内瑞拉首批紧急人道主义救灾物资启运",
+  "title_en": "First Batch of Chinese Government's Emergency Humanitarian Relief Supplies Depart for Venezuela",
+  "summary_zh": "7月5日晚，中国政府向委内瑞拉提供的首批紧急人道主义地震救灾物资从北京启运，以应对委内瑞拉6月24日发生的强烈地震。",
+  "summary_en": "On the evening of July 5, the first batch of emergency humanitarian earthquake relief supplies from the Chinese government departed from Beijing for Venezuela following a strong earthquake on June 24.",
+  "body_zh": "新华社北京7月5日电（记者 董雪、张文）7月5日晚间，中国政府向委内瑞拉提供的首批紧急人道主义地震救灾援助物资从北京首都国际机场启运。\n据了解，首批物资重80余吨，主要包括20台发电机、8套净水车、200个消毒机、200套太阳能照明设备、1700余件帐篷和6700余条毛毯等，由1架民航包机运往委内瑞拉首都加拉加斯。其余批次物资将陆续发运。\n委内瑞拉6月24日发生强烈地震，造成严重人员伤亡和财产损失。地震发生后，中国政府已第一时间向委方提供紧急人道主义地震救灾现汇援助。",
+  "image_url": null,
+  "published_at": "2026-07-05T12:00:00+00:00",
+  "event_date": "2026-07-05",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "人道主义援助",
+    "地震救灾"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "委内瑞拉",
+      "name_en": "Venezuela"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人道主义援助",
+      "name_en": "Humanitarian Aid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地震救灾",
+      "name_en": "Earthquake Relief"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "委内瑞拉",
+    "人道主义援助",
+    "地震救灾"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Venezuela",
+    "Humanitarian Aid",
+    "Earthquake Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260705-gov_cn_yaowen-aac063",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

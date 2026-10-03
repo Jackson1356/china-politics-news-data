@@ -1,0 +1,88 @@
+{
+  "id": "20260830-xinhua_gz-1b2728",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260830/7e017011de9f4d838b04d5b95a3dcfe0/c.html",
+  "title_zh": "李炳军会见京东集团首席执行官许冉一行",
+  "title_en": "Li Bingjun Meets JD.com CEO, Guizhou Signs Strategic Cooperation Agreement",
+  "summary_zh": "8月29日，贵州省委副书记、省长李炳军在贵阳会见京东集团CEO许冉，随后省政府与京东集团签署战略合作框架协议，将在智能物流、数字经济等领域深化合作。",
+  "summary_en": "On August 29, Li Bingjun, Deputy Secretary of the Guizhou Provincial Party Committee and Governor, met with JD.com CEO Xu Ran in Guiyang. The provincial government later signed a strategic cooperation framework agreement with JD.com to deepen cooperation in smart logistics and the digital economy.",
+  "body_zh": "李炳军会见京东集团首席执行官许冉一行\n省政府与京东集团签署战略合作框架协议\n8月29日，省委副书记、省长李炳军在贵阳会见京东集团首席执行官许冉一行。副省长蔡朝林参加。\n李炳军代表省委、省政府对许冉一行表示欢迎和感谢。他说，当前，全省上下正深入贯彻落实习近平总书记在贵州考察时的重要讲话精神，坚持以高质量发展统揽全局，着力扩大有效需求，打造具有贵州特色的现代化产业体系，不断培育新动能。希望与京东集团项目化、清单化落实好战略合作协议，更好实现共赢发展。贵州将全力支持包括京东集团在内的各类企业在黔发展壮大。\n许冉感谢贵州省委、省政府对京东集团的关心支持。她表示，京东集团将进一步发挥自身优势，持续加大在贵州投资布局，更好助力贵州高质量发展。\n会见后，省政府与京东集团签署战略合作框架协议。根据协议，双方将在智能物流、乡村振兴、促进消费、数字经济、跨境电商、人才培养等领域深化合作。\n省政府秘书长魏树旺，京东集团、贵阳市和省有关部门负责人参加会见。（记者 陈毓钊）",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "industry",
+  "keywords": [
+    "战略合作",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "李炳军",
+    "贵阳",
+    "战略合作",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Li Bingjun",
+    "Guiyang",
+    "Strategic Cooperation",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "蔡朝林"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260830-xinhua_gz-1b2728",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

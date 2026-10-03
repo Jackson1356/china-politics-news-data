@@ -1,0 +1,97 @@
+{
+  "id": "20260625-qianlong-5bf990",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_url": "https://beijing.qianlong.com/2026/0625/8687897.shtml",
+  "title_zh": "北京市全面开展共产党员献爱心活动 尹力殷勇李秀领带头捐款",
+  "title_en": "Beijing Launches Communist Party Member Charity Donation Activity, City Leaders Lead by Example",
+  "summary_zh": "6月中旬起，北京市开展共产党员献爱心捐献活动，市委书记尹力、市长殷勇等市领导带头捐款，募款用于医疗救助、慈善助学等。",
+  "summary_en": "Starting mid-June, Beijing launched a charity donation activity for Communist Party members, with city leaders including Yin Li and Yin Yong leading the donations to support medical and educational aid.",
+  "body_zh": "从6月中旬开始，全市各级党组织陆续开展共产党员献爱心捐献活动，引导和动员广大党员坚守初心、奉献爱心，以实际行动彰显先锋模范作用。市委书记尹力，市委副书记、市长殷勇，市人大常委会主任李秀领等市领导带头捐款。\n共产党员献爱心捐献活动由市委组织部、市委宣传部、市慈善协会共同组织开展，自2005年开展至今，已成为首都广大共产党员发挥先锋模范作用、体现党的先进性、弘扬中华民族扶贫济困传统美德、展示社会主义核心价值观的特色活动。捐献活动所募善款主要用于医疗救助、慈善助学、慈善助老、帮扶生活困难党员、急难救助和慈善体系建设，为众多困难家庭和群众解决了实际困难。\n此次捐献活动将持续至7月底，除现场集中捐献外，还开通了线上捐款渠道。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "共产党员献爱心",
+    "慈善捐款"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-li",
+      "name_zh": "尹力",
+      "name_en": "Yin Li"
+    },
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李秀领",
+      "name_en": "Li Xiuling"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "共产党员献爱心",
+      "name_en": "Communist Party Member Charity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "慈善捐款",
+      "name_en": "Charitable Donation"
+    }
+  ],
+  "tags_zh": [
+    "尹力",
+    "殷勇",
+    "李秀领",
+    "北京",
+    "共产党员献爱心",
+    "慈善捐款"
+  ],
+  "tags_en": [
+    "Yin Li",
+    "Yin Yong",
+    "Li Xiuling",
+    "Beijing",
+    "Communist Party Member Charity",
+    "Charitable Donation"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong",
+      "yin-li"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260625-qianlong-5bf990",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

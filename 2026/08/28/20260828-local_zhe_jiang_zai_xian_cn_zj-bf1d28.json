@@ -1,0 +1,110 @@
+{
+  "id": "20260828-local_zhe_jiang_zai_xian_cn_zj-bf1d28",
+  "source": "local_zhe_jiang_zai_xian_cn_zj",
+  "source_name_zh": "浙江在线",
+  "source_name_en": "浙江在线",
+  "source_media_id": "cac-cn-zj-f8a922b59a",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-ZJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tidenews.com.cn/news.html?id=3543194",
+  "title_zh": "刘捷会见美国联邦参议员戴安斯一行",
+  "title_en": "Liu Jie Meets U.S. Senator Steve Daines and Delegation",
+  "summary_zh": "28日下午，浙江省长刘捷在杭州会见美国联邦参议员戴安斯一行，双方表示将加强产业科创、贸易投资等领域合作。",
+  "summary_en": "On the afternoon of Aug. 28, Zhejiang Governor Liu Jie met with U.S. Senator Steve Daines and his delegation in Hangzhou. Both sides pledged to enhance cooperation in industry, sci-tech innovation, trade and investment.",
+  "body_zh": "刘捷会见美国联邦参议员戴安斯一行\n潮新闻 记者 陆乐\n28日下午，省长刘捷在杭州会见了美国联邦参议员戴安斯一行。 潮新闻记者\n28日下午，省长刘捷在杭州会见了美国联邦参议员戴安斯一行。\n刘捷代表省委、省政府对戴安斯一行的到来表示欢迎。他说，今年5月，习近平主席和特朗普总统在北京成功举行历史性会晤，确定了中美建设性战略稳定关系的定位。当前，我们正深入践行习近平主席在浙江工作期间为浙江量身定制的“八八战略”，推动高质量发展建设共同富裕示范区取得决定性进展，率先呈现基本实现社会主义现代化的生动图景。浙江将认真落实两国元首重要共识，加强同美国在产业科创、贸易投资等领域的合作，进一步深化人文交流，为推动中美关系行稳致远作出更多贡献。\n戴安斯参议员对浙江省接待此次访问表示感谢。他表示，愿助力推进中美地方政府之间的友好往来与各领域务实合作。\n美国驻华大使庞德伟、驻上海总领事马志安参加会见。\n“转载请注明出处”",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-jie",
+      "name_zh": "刘捷",
+      "name_en": "Liu Jie"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "戴安斯",
+      "name_en": "Steve Daines"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchange"
+    }
+  ],
+  "tags_zh": [
+    "刘捷",
+    "戴安斯",
+    "杭州",
+    "中美关系",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Liu Jie",
+    "Steve Daines",
+    "Hangzhou",
+    "China-U.S. Relations",
+    "Economic and Trade Cooperation",
+    "People-to-People Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-jie",
+      "liu-jie-zhejiang",
+      {
+        "id": null,
+        "name_zh": "马志安"
+      },
+      {
+        "id": null,
+        "name_zh": "谢他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260828-local_zhe_jiang_zai_xian_cn_zj-bf1d28",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

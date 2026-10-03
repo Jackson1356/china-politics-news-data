@@ -1,0 +1,90 @@
+{
+  "id": "20260601-guancha_politics-7f74d7",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_01_819019.shtml",
+  "title_zh": "袁古洁任中央政府驻港联络办副主任",
+  "title_en": "Yuan Gujie Appointed Deputy Director of the Office of the Central People's Government in the Hong Kong SAR",
+  "summary_zh": "6月1日，国务院任命袁古洁为中央人民政府驻香港特别行政区联络办公室副主任，并免去刘光源该职务。",
+  "summary_en": "On June 1, the State Council appointed Yuan Gujie as Deputy Director of the Office of the Central People's Government in the Hong Kong SAR and removed Liu Guangyuan from the position.",
+  "body_zh": "袁古洁任中央政府驻港联络办副主任\n据人社部网站6月1日消息，国务院任免国家工作人员。\n任命袁古洁（女）为中央人民政府驻香港特别行政区联络办公室副主任。\n免去刘光源的中央人民政府驻香港特别行政区联络办公室副主任职务。\n据中央政府驻港联络办网站介绍，袁古洁，女，汉族，研究生。曾任广东省委统战部副部长、省民族宗教事务委员会主任、党组书记，广东省茂名市委副书记、市长、市委书记、市人大常委会主任，广东省委常委、政法委书记等。二十届中央候补委员。\n教育部：高考命题突出反套路，莫信AI或“专家”押题",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "香港事务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yuan-gujie",
+      "name_zh": "袁古洁",
+      "name_en": "Yuan Gujie"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "香港事务",
+      "name_en": "Hong Kong Affairs"
+    }
+  ],
+  "tags_zh": [
+    "袁古洁",
+    "国务院",
+    "香港",
+    "人事任免",
+    "香港事务"
+  ],
+  "tags_en": [
+    "Yuan Gujie",
+    "State Council",
+    "Hong Kong",
+    "Personnel Appointment",
+    "Hong Kong Affairs"
+  ],
+  "entities": {
+    "politicians": [
+      "yuan-gujie"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260601-guancha_politics-7f74d7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

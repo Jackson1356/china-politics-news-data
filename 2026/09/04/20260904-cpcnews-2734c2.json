@@ -1,0 +1,113 @@
+{
+  "id": "20260904-cpcnews-2734c2",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0904/c64094-40792313.html",
+  "title_zh": "习近平回到北京",
+  "title_en": "Xi Jinping Returns to Beijing",
+  "summary_zh": "9月3日上午，国家主席习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问后回到北京。",
+  "summary_en": "On the morning of September 3, President Xi Jinping returned to Beijing after concluding his attendance at the 2026 SCO Summit and state visits to Kyrgyzstan and Egypt.",
+  "body_zh": "结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问\n本报北京9月3日电 9月3日上午，国家主席习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问后回到北京。\n习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等陪同人员同机返回。\n《 人民日报 》（ 2026年09月04日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "上海合作组织",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Shanghai Cooperation Organization",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260903-gov_cn_yaowen-fbf519",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/011/20260904/674840b1-c407-4432-9517-b896adfcf220.html",
+      "title_zh": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京_抚顺市人民政府",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/ywdt/001005/20260904/674840b1-c407-4432-9517-b896adfcf220.html",
+      "title_zh": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京_抚顺市人民政府",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/ttxw/20260904/cee2a369-43f6-4122-bf50-90ae349377e5.html",
+      "title_zh": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯 斯坦、埃及的国事访问回到北京",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": null,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202609/t20260904_176108.html",
+      "title_zh": "习近平回到北京",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

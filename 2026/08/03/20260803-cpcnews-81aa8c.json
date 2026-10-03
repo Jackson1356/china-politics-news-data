@@ -1,0 +1,106 @@
+{
+  "id": "20260803-cpcnews-81aa8c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0803/c64387-40772681.html",
+  "title_zh": "去年我国基本养老保险参保人数达107591万",
+  "title_en": "China's Basic Pension Insurance Participants Reach 1,075.91 Million Last Year",
+  "summary_zh": "民政部与全国老龄办发布《2025年度国家老龄事业发展公报》显示，截至2025年末全国基本养老保险参保107591万人，60岁及以上老年人口占总人口23.0%。",
+  "summary_en": "The Ministry of Civil Affairs and the National Working Commission on Aging released the 2025 National Aging Program Report, showing basic pension insurance coverage reached 1,075.91 million people by end-2025, with 23.0% of the population aged 60 or above.",
+  "body_zh": "本报北京8月2日电 （记者吴储岐）民政部、全国老龄办近日发布的《2025年度国家老龄事业发展公报》显示：截至2025年末，全国参加基本养老保险107591万人，比上年末增加309万人。\n截至2025年末，全国60周岁及以上老年人口32338万人，占总人口的23.0%；全国65周岁及以上老年人口22365万人，占总人口的15.9%。全国65周岁及以上老年人口抚养比23.1%。全国人均预期寿命达79.25岁。\n公报显示：我国养老服务设施网络进一步健全。截至2025年末，全国共有各类养老机构和设施39.5万个（含医养结合机构），养老床位合计767.9万张。其中，注册登记的养老机构3.92万个，床位498.4万张（护理型床位占比69.9%）；社区养老服务机构和设施35.61万个，床位269.5万张。全国有县级公办养老机构4730个，覆盖率为100%；建成2.05万个乡镇（街道）区域养老服务中心，建有率为53%，5776个敬老院实行“乡院县管”改革；有农村特困供养机构1.6万个、互助型养老服务设施14万余个。投入9亿元支持50个项目地区建设家庭养老床位。“十四五”时期累计建设家庭养老床位57万张，提供居家养老上门服务3000万人次。推进城市居住区养老服务设施建设，2025年新开工改造城镇老旧小区2.71万个，增设养老等各类社区服务设施4300余个。\n《 人民日报 》（ 2026年08月03日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-02",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "welfare",
+  "keywords": [
+    "养老保险",
+    "养老服务",
+    "老龄事业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国老龄办",
+      "name_en": "National Working Commission on Aging"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老保险",
+      "name_en": "Pension Insurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老龄事业",
+      "name_en": "Aging Programs"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "全国老龄办",
+    "北京",
+    "养老保险",
+    "养老服务",
+    "老龄事业"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "National Working Commission on Aging",
+    "Beijing",
+    "Pension Insurance",
+    "Elderly Care Services",
+    "Aging Programs"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国老龄办",
+        "name_en": "National Working Commission on Aging"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-cpcnews-81aa8c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260810-gov_lin_zhi-1066ac",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/3794ab34a22a400b8a302f1bc47c25c9.shtml",
+  "title_zh": "旦巴：促进高质量充分就业维护农民工薪酬权益",
+  "title_en": "Danba Stresses High-Quality Full Employment and Pay Rights for Migrant Workers",
+  "summary_zh": "近日，西藏自治区常务副主席旦巴在拉萨调研就业服务和欠薪治理，强调促进高质量充分就业，维护农民工薪酬权益。",
+  "summary_en": "Recently, Danba, Executive Vice Chairman of Tibet Autonomous Region, inspected employment services and wage arrears governance in Lhasa, emphasizing high-quality full employment and safeguarding migrant workers' pay rights.",
+  "body_zh": "旦巴在调研自治区就业服务中心及相关项目点时强调\n促进高质量充分就业 维护农民工薪酬权益\n本报拉萨8月9日讯（记者 王超）近日，区党委常委、自治区常务副主席旦巴前往自治区就业服务中心和拉萨市城关区、柳梧新区，调研公共就业服务、治理欠薪等工作开展情况。\n在自治区就业服务中心，旦巴详细了解服务大厅窗口设置运行和就业服务信息化系统建设情况。他强调，全区人社系统要认真贯彻落实区党委、政府决策部署，深入实施就业优先战略，完成好年度就业目标任务。信息要核准，充分发挥就业服务信息系统作用，对应届未就业高校毕业生基本信息和就业意愿全面准确登记，提高就业服务的针对性、实效性；岗位要广征，统筹区内区外就业资源，加大岗位征集力度，不断拓宽群众就业渠道；服务要精准，认真开展“1131”就业服务，实施好乐业兴藏技能提升行动，全面落实就业创业补贴政策，不断提升就业服务质效；后续要跟踪，持续健全完善就业跟踪服务体系，对高校毕业生就业情况动态管理、跟踪服务，确保全区就业形势总体稳定。\n在城关区八廓古城设施提升工程、柳梧新区高新大桥项目部，旦巴认真查阅农民工工资发放台账，详细了解企业农民工实名制、工资保证金等落实情况。他强调，治理政府、国企项目拖欠农民工工资问题是群众身边不正之风和腐败问题集中整治工作的一项重点内容，要把集中整治同巩固拓展树立和践行正确政绩观学习教育成果相结合，严格执行《保障农民工工资支付条例》，常态化督促检查工资支付、工资保证金制度落实等情况，积极化解矛盾纠纷，依法依规严肃查处欠薪案件，确保欠薪问题动态清零，全力守护好劳动者合法权益。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "就业优先",
+    "农民工权益"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "danba-xizang",
+      "name_zh": "旦巴",
+      "name_en": "Danba"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业优先",
+      "name_en": "Employment First"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农民工权益",
+      "name_en": "Migrant Workers' Rights"
+    }
+  ],
+  "tags_zh": [
+    "旦巴",
+    "拉萨",
+    "就业优先",
+    "农民工权益"
+  ],
+  "tags_en": [
+    "Danba",
+    "Lhasa",
+    "Employment First",
+    "Migrant Workers' Rights"
+  ],
+  "entities": {
+    "politicians": [
+      "danba-xizang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260810-gov_lin_zhi-1066ac",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260810_174592.html",
+      "title_zh": "旦巴：促进高质量充分就业维护农民工薪酬权益",
+      "published_at": "2026-08-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

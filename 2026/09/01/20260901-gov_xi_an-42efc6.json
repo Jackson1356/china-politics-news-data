@@ -1,0 +1,110 @@
+{
+  "id": "20260901-gov_xi_an-42efc6",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2094613068029894658.html",
+  "title_zh": "赵一德赵刚徐新荣会见港区省级政协委员联谊会经贸文化交流团",
+  "title_en": "Zhao Yide, Zhao Gang and Xu Xinrong Meet Delegation of Hong Kong Provincial CPPCC Members' Association",
+  "summary_zh": "8月31日，陕西省委书记赵一德、省长赵刚、省政协主席徐新荣在西安会见港区省级政协委员联谊会经贸文化交流团，双方就深化陕港合作交流。",
+  "summary_en": "On August 31, Shaanxi Party Secretary Zhao Yide, Governor Zhao Gang, and CPPCC Chairman Xu Xinrong met the delegation of Hong Kong Provincial CPPCC Members' Association in Xi'an to discuss deepening Shaanxi-Hong Kong cooperation.",
+  "body_zh": "8月31日，省委书记赵一德、省长赵刚、省政协主席徐新荣在西安会见了由港区省级政协委员联谊会主席苏清栋、会长霍启山率领的联谊会经贸文化交流团。\n赵一德、赵刚、徐新荣对交流团来陕表示欢迎，对大家长期以来给予陕西发展的关心支持表示感谢。赵一德说，当前，陕西正深入贯彻落实习近平总书记历次来陕考察重要讲话重要指示精神，深度融入高质量共建“一带一路”大格局，加快打造内陆改革开放高地，奋力谱写中国式现代化建设的陕西新篇章。希望港区省级政协委员联谊会和各位委员积极发挥桥梁纽带作用，吸引带动更多香港企业、金融机构、高校院所来陕发展，推动陕港两地携手加强经贸、产业、教育、人才、人文等各领域交流，共同开创陕港合作更加美好的未来。\n苏清栋、霍启山表示，陕西科教实力雄厚、产业基础扎实、发展势头良好，非常看好与陕西的合作前景。港区省级政协委员联谊会将充分发挥联系面广、资源深厚的优势，精准对接陕西发展需求，推动陕港持续深化多层次多领域务实合作，助力更多陕西企业和产品走出去，为陕西高质量发展和港陕合作迈上新台阶贡献更大力量。\n省政协副主席、省委统战部部长李明远，省政府秘书长吕来升，省政协秘书长郑永刚，省直有关部门负责同志等参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "陕港合作",
+    "经贸交流",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-yide",
+      "name_zh": "赵一德",
+      "name_en": "Zhao Yide"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-gang-shaanxi",
+      "name_zh": "赵刚",
+      "name_en": "Zhao Gang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐新荣",
+      "name_en": "Xu Xinrong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "陕港合作",
+      "name_en": "Shaanxi-Hong Kong Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸交流",
+      "name_en": "Economic and Trade Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    }
+  ],
+  "tags_zh": [
+    "赵一德",
+    "赵刚",
+    "徐新荣",
+    "西安",
+    "陕港合作",
+    "经贸交流",
+    "一带一路"
+  ],
+  "tags_en": [
+    "Zhao Yide",
+    "Zhao Gang",
+    "Xu Xinrong",
+    "Xi'an",
+    "Shaanxi-Hong Kong Cooperation",
+    "Economic and Trade Exchange",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-yide",
+      "zhao-gang-shaanxi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-gov_xi_an-42efc6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

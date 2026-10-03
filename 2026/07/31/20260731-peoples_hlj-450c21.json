@@ -1,0 +1,115 @@
+{
+  "id": "20260731-peoples_hlj-450c21",
+  "source": "peoples_hlj",
+  "source_name_zh": "人民网 黑龙江",
+  "source_name_en": "People's Daily Heilongjiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hlj.people.com.cn/n2/2026/0731/c220005-41654999.html",
+  "title_zh": "黑龙江省发布“龙江农知大模型”",
+  "title_en": "Heilongjiang Releases 'Longjiang Agricultural Knowledge AI Model'",
+  "summary_zh": "7月30日，“龙江农知大模型”在哈尔滨正式发布，该模型由省农科院与中国农科院农业信息研究所共同研发，旨在服务黑龙江省现代农业发展。",
+  "summary_en": "On July 30, the 'Longjiang Agricultural Knowledge AI Model' was officially released in Harbin, jointly developed by Heilongjiang Academy of Agricultural Sciences and the Agricultural Information Institute of CAAS, aiming to support modern agriculture.",
+  "body_zh": "黑龙江省发布“龙江农知大模型”\n7月30日，人工智能赋能农业科技创新报告会暨“龙江农知大模型”发布会在哈尔滨举办。会上，由省农科院、中国农科院农业信息研究所共同研发的“龙江农知大模型”正式发布，为黑龙江省现代农业发展提供智力支撑。\n中国农科院农业信息研究所于2024年研发出我国首个农业通用大语言模型“农知大模型”，在此基础上于2026年联合省农科院，融合黑龙江省农业科研领域的高质量文献、专业科学数据资源，共同研发出面向黑龙江区域特色的“龙江农知大模型”。\n该模型以黑龙江省农业科研院所、高校、企业及广大农技人员为服务对象，以服务黑龙江省农业科技创新生产实践、技术推广与农业决策等多元应用场景为目标，重点围绕农知增强检索、农技知识问答、农业数据分析、乡村振兴及智库服务等方向，打造了智能问答、智能写作、科研助手、数据分析、政策解读等一系列智能化服务工具，提供覆盖农业全产业链的智能知识服务。\n“龙江农知大模型”是省农科院落实中央一号文件“促进人工智能与农业发展相结合”部署要求，以数字科技赋能农业强省建设的标志性成果。（记者 梁金池）",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "农业科技",
+    "大模型",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HL-HRB",
+      "name_zh": "哈尔滨",
+      "name_en": "Harbin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业科技",
+      "name_en": "Agricultural Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大模型",
+      "name_en": "Large Model"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "龙江省",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江省",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "哈尔滨",
+    "人工智能",
+    "农业科技",
+    "大模型",
+    "乡村振兴",
+    "龙江省",
+    "江省"
+  ],
+  "tags_en": [
+    "Harbin",
+    "Artificial Intelligence",
+    "Agricultural Technology",
+    "Large Model",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "龙江省"
+      },
+      {
+        "id": null,
+        "name_zh": "江省"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HL-HRB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260731-peoples_hlj-450c21",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260708-cpcnews-44fd83",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0708/c64094-40755594.html",
+  "title_zh": "习近平对防汛救灾工作作出重要指示",
+  "title_en": "Xi Jinping Issues Important Instructions on Flood Control and Disaster Relief",
+  "summary_zh": "2026年7月7日，习近平对广西、湖北、甘肃等地的防汛救灾工作作出重要指示，要求全力组织抢险救援，确保人民群众生命财产安全。",
+  "summary_en": "On July 7, 2026, Xi Jinping issued important instructions on flood control and disaster relief in Guangxi, Hubei, and Gansu, urging all-out rescue efforts to ensure public safety.",
+  "body_zh": "习近平对防汛救灾工作作出重要指示强调\n李强作出批示\n新华社北京7月7日电 中共中央总书记、国家主席、中央军委主席习近平对防汛救灾工作作出重要指示。\n习近平指出，近日，广西、湖北、甘肃等地因降雨大风天气，接连发生水库溃坝、山体滑坡等灾情，造成重大人员伤亡和经济损失。要全力组织抢险救援、伤员救治、群众安置等工作，最大限度减少人员伤亡，防范次生灾害。\n习近平强调，当前防汛形势严峻复杂，各地各有关部门要抓好既定部署措施落实，坚决克服麻痹思想和侥幸心理，盯紧压实防灾救灾责任，深入开展江河湖泊、病险水库、地质灾害易发区等风险隐患排查整治，强化监测预警和应急救援准备，扎实做好防灾救灾各项工作，确保人民群众生命财产安全。\n《 人民日报 》（ 2026年07月08日 01 版）",
+  "image_url": null,
+  "published_at": "2026-07-08T12:00:00+00:00",
+  "event_date": "2026-07-07",
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急救援"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急救援",
+      "name_en": "Emergency Rescue"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "广西",
+    "湖北",
+    "甘肃",
+    "防汛救灾",
+    "应急救援"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Guangxi",
+    "Hubei",
+    "Gansu",
+    "Flood Control and Disaster Relief",
+    "Emergency Rescue"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB",
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260707-cpcnews-34d42e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

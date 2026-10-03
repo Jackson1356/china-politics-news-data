@@ -1,0 +1,83 @@
+{
+  "id": "20260805-gov_xi_an-c3d7da",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2084823312651874305.html",
+  "title_zh": "赵一德在西安调研科技创新工作",
+  "title_en": "Zhao Yide Visits Xi'an to Inspect Sci-Tech Innovation Work",
+  "summary_zh": "8月4日，陕西省委书记赵一德在西安调研科技创新，强调加强创新体系和创新能力建设，勉励科研团队为实现高水平科技自立自强作贡献。",
+  "summary_en": "On August 4, Shaanxi Provincial Party Secretary Zhao Yide visited Xi'an to inspect sci-tech innovation, stressing efforts to strengthen innovation systems and capacity for high-level self-reliance.",
+  "body_zh": "8月4日，省委书记赵一德在西安市调研科技创新工作。他强调，要深入学习贯彻习近平总书记关于科技创新的重要论述和历次来陕考察重要讲话重要指示，认真落实省委十四届十次全会精神，坚持“四个面向”战略导向，全面加强创新体系和创新能力建设，为实现高水平科技自立自强作出更大贡献。\n由西北工业大学魏炳波院士团队完成的“空间极端条件下高温金属材料超常调制技术与科学实验系统”，有效解决了高性能难熔合金加工提纯的世界级难题，获2025年度国家技术发明奖一等奖。赵一德走进省空间材料科学与技术重点实验室，察看实验设备和系统运行情况，详细了解研究方向、技术原理、科研进展和青年科技人才培养情况，勉励团队锚定国家战略需求潜心钻研、再接再厉，为推动我国空间材料科学跻身世界前沿贡献更多“陕西力量”。他强调，重大科技创新成果是国之重器、国之利器，要建强用好国家战略科技力量，优化重大科技创新组织机制和长期稳定投入机制，统筹推进原始创新和关键核心技术体系化攻关，努力取得更多原创性、引领性、标志性成果。\n西安建筑科技大学与金堆城钼业公司长期开展联合创新，建立了具有完全自主知识产权的特种钼合金制备、加工、装备成套工业化生产体系，实现高端钼材料技术的跨越式升级。赵一德走进公司车间，察看智能化生产线，仔细询问生产工艺、流程和产品研发等情况。他强调，科技成果转化是推动科技创新和产业创新深度融合的关键一环，要突出产业需求牵引，支持企业与高校共建平台、共克难题，推动产学研用深度融合，打通技术创新、应用开发、成果转化的全链条，让更多成果走出实验室、转化为新质生产力。\n在中煤科工西安研究院，赵一德走进实验室，听取矿井水灾隐患透明感知与智能防控技术介绍，了解煤矿AI视频监控系统运行情况，与科研人员深入交流，鼓励他们加强技术迭代升级和推广应用，为保障矿山安全提供有力技术支撑。他强调，要注重以科技创新赋能安全治理，充分发挥人工智能等先进技术在安全生产、防灾减灾、公共安全中的重要作用，不断提高各领域本质安全水平。\n赵一德在调研中强调，全省各级各部门要进一步加强科技创新规划、政策措施、重大任务、资源平台等方面统筹，健全科技管理、评价等机制，不断提升创新体系整体效能，更好支撑和引领高质量发展现代化建设。\n省委常委、省委秘书长李钧，西北工业大学党委书记张云明，省直有关部门负责同志等参加调研。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-yide",
+      "name_zh": "赵一德",
+      "name_en": "Zhao Yide"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-Tech Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "li-jun-shaanxi",
+      "name_zh": "李钧",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赵一德",
+    "西安",
+    "科技创新",
+    "李钧"
+  ],
+  "tags_en": [
+    "Zhao Yide",
+    "Xi'an",
+    "Sci-Tech Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-yide",
+      "li-jun-shaanxi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-gov_xi_an-c3d7da",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

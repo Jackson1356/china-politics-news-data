@@ -1,0 +1,92 @@
+{
+  "id": "20260825-cpcnews-32eb60",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0825/c64094-40785562.html",
+  "title_zh": "韩正会见科威特外交大臣杰拉赫",
+  "title_en": "Han Zheng Meets Kuwaiti Foreign Minister Abdullah Ali Al-Yahya",
+  "summary_zh": "8月24日，国家副主席韩正在北京会见科威特外交大臣杰拉赫，双方就中科关系及共同关心的问题进行交流。",
+  "summary_en": "On August 24, Vice President Han Zheng met with Kuwaiti Foreign Minister Abdullah Ali Al-Yahya in Beijing to discuss bilateral ties and issues of mutual concern.",
+  "body_zh": "本报北京8月24日电 8月24日，国家副主席韩正在北京会见科威特外交大臣杰拉赫。\n韩正表示，中国和科威特传统友谊深厚。近年来，在习近平主席和米沙勒埃米尔战略引领下，中科关系保持良好发展势头，各领域交流合作不断取得进展。今年是中科建交55周年，中方愿同科方共同落实两国元首重要共识，夯实政治互信，拓展务实合作，密切多边协作，推动中科战略伙伴关系迈上更高水平。中方愿继续劝和促谈，为早日恢复中东地区和平安宁作出努力。\n杰拉赫表示，科中关系源远流长，感谢中方长期以来对科宝贵支持。科方坚定恪守一个中国原则，高度赞赏中方在国际和地区事务中发挥的重要作用，愿以两国建交55周年为契机，深化双方各领域合作，不断开辟科中战略伙伴关系新前景。\n《 人民日报 》（ 2026年08月25日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中科关系",
+    "战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杰拉赫",
+      "name_en": "Abdullah Ali Al-Yahya"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中科关系",
+      "name_en": "China-Kuwait Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "杰拉赫",
+    "北京",
+    "中科关系",
+    "战略伙伴关系"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Abdullah Ali Al-Yahya",
+    "Beijing",
+    "China-Kuwait Relations",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260825-cpcnews-32eb60",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

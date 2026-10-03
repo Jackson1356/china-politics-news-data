@@ -1,0 +1,96 @@
+{
+  "id": "20260826-gov_tai_zhou-f550dd",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/8/26/art_60096_11820620.html",
+  "title_zh": "信长星在江苏交控和省农垦集团调研时强调 聚焦主责主业 深化改革创新 为建设交通强省农业强省再立新功",
+  "title_en": "Xin Changxing Inspects Jiangsu SOEs, Urges Reform and Innovation for Transport and Agriculture",
+  "summary_zh": "8月25日，江苏省委书记信长星赴江苏交通控股有限公司、省农垦集团调研，强调聚焦主责主业、深化改革创新，为建设交通强省、农业强省再立新功。",
+  "summary_en": "On August 25, Xin Changxing, Secretary of the CPC Jiangsu Provincial Committee, visited Jiangsu Communications Holding Co., Ltd. and the Jiangsu Agricultural Reclamation Group, urging a focus on core responsibilities and reform innovation for building a strong transport and agricultural province.",
+  "body_zh": "当前位置：\n信长星在江苏交控和省农垦集团调研时强调\n聚焦主责主业 深化改革创新 为建设交通强省农业强省再立新功\n8月25日，省委书记信长星到江苏交通控股有限公司、江苏省农垦集团调研。他强调，要深入学习贯彻习近平总书记关于交通强国、关于“三农”工作的重要论述，聚焦主责主业，深化改革创新，为建设交通强省、农业强省再立新功。\n信长星首先来到江苏交通控股有限公司，了解企业经营发展、全省高速公路网及过江通道规划建设等情况。他指出，要围绕完善现代化综合交通运输体系，统筹增量优化和存量提质，稳步推进交通基础设施建设和更新改造，促进多种交通运输方式协同融合，因地制宜发展交通产业，在助力区域协调发展、服务江苏现代化建设中当好开路先锋。在江苏交控大数据共享中心，信长星听取路网运营管理、道路养护、安全风险防范等情况介绍，要求在数智化升级、绿色化转型上下更大功夫，深化安全风险隐患排查治理，不断提升路网通行效率，更好保障群众安心、舒心、顺心出行。\n在省农垦集团，信长星了解企业历史沿革、产业发展、种业创新等情况，观看农情监测平台演示。他指出，要弘扬一代代农垦人艰苦创业的优良传统，发挥农垦在现代农业建设中的骨干作用，大力发展科技农业、绿色农业、质量农业、品牌农业，积极选育和推广优良品种，高质量推进高标准农田建设，丰富人工智能、智慧农业等应用场景，不断提高农业生产效率和效益，切实保障粮食和重要农产品稳定安全供给。信长星还察看了农产品展示中心，要求持续抓好农产品质量安全，挖掘绿色优质农产品的特色亮点，加强宣传推介，拓宽销售渠道，为群众提供多样化、高品质的消费选择。\n省领导陈忠伟、沈剑荣参加调研。",
+  "image_url": null,
+  "published_at": "2026-08-26T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "industry",
+  "keywords": [
+    "交通强省",
+    "农业强省"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通强省",
+      "name_en": "Strong Transport Province"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业强省",
+      "name_en": "Strong Agricultural Province"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "江苏",
+    "交通强省",
+    "农业强省",
+    "陈忠伟"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Jiangsu",
+    "Strong Transport Province",
+    "Strong Agricultural Province"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "chen-zhongwei-jiangsu",
+      {
+        "id": null,
+        "name_zh": "沈剑荣"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260826-gov_tai_zhou-f550dd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

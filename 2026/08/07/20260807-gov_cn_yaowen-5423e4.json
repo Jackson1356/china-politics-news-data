@@ -1,0 +1,88 @@
+{
+  "id": "20260807-gov_cn_yaowen-5423e4",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077650.htm",
+  "title_zh": "我国外贸进出口规模连续5个月超过4万亿元",
+  "title_en": "China's Foreign Trade Exceeds 4 Trillion Yuan for 5 Consecutive Months",
+  "summary_zh": "海关总署8月7日发布数据显示，7月份我国进出口总值4.66万亿元，同比增长19.2%，连续5个月超过4万亿元；出口增长17.8%，进口增长21.2%。",
+  "summary_en": "On August 7, the General Administration of Customs released data showing China's imports and exports reached 4.66 trillion yuan in July, up 19.2% year on year, exceeding 4 trillion for five consecutive months. Exports rose 17.8%, imports 21.2%.",
+  "body_zh": "新华社北京8月7日电（记者邹多为）海关总署7日发布数据显示，7月份，我国外贸延续上半年良好增长态势，进出口总值4.66万亿元，连续5个月超过4万亿元，同比增长19.2%，其中，出口增长17.8%，进口增长21.2%。\n从累计增速看，前7个月，进出口30.13万亿元，同比增长17.3%。其中，出口17.44万亿元，增长14%；进口12.69万亿元，增长22%。\n海关总署统计分析司司长吕大良表示，今年以来，我国经济顶压前行、向新向优，对外贸进出口增长形成有力支撑。\n出口端，机电产品出口保持良好增长势头。前7个月，我国出口机电产品11.12万亿元，同比增长21.2%，占我国整体出口的63.8%，比去年同期提升3.8个百分点。其中，电动汽车、锂电池等绿色低碳产品出口分别增长71.2%、35.8%，3D打印机、工业机器人、船舶出口分别增长1.1倍、13.2%、32.7%。\n进口端，截至目前，我国进口规模连续17年稳居全球第二。今年前7个月，我国进口增速快于出口8个百分点，促进了贸易平衡发展。其中，大宗商品进口量同比增加3%，机电产品进口值为5.31万亿元，同比增长29.7%，占我国进口总值的41.9%。\n民营企业外贸主力军地位稳固。前7个月，我国民营企业进出口17.16万亿元，同比增长17.2%，占全国进出口总值的56.9%，继续保持第一大外贸主体地位。同期，外商投资企业进出口增长17.6%；国有企业进出口增长17.3%。\n各种运输方式进出口全面增长。前7个月，我国以水路、航空、公路、铁路运输方式进出口同比分别增长6.9%、34.6%、40.7%、17.2%，其中，空运和陆运进出口货值占四成。\n此外，前7个月，我国与180多个国家和地区进出口保持增长。其中，对东盟、欧盟、拉美、非洲进出口同比分别增长20%、9.5%、15.4%、18.9%；对共建“一带一路”国家进出口增长15.5%；与APEC其他经济体进出口增长21%；对美国进出口下降1.6%，降幅相比前6个月收窄2个百分点。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "economy",
+  "keywords": [
+    "对外贸易",
+    "进出口",
+    "经济增长"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进出口",
+      "name_en": "Import and Export"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "对外贸易",
+    "进出口",
+    "经济增长"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "Foreign Trade",
+    "Import and Export",
+    "Economic Growth"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吕大良"
+      }
+    ],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260807-gov_cn_yaowen-5423e4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

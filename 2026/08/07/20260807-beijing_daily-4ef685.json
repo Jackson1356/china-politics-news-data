@@ -1,0 +1,80 @@
+{
+  "id": "20260807-beijing_daily-4ef685",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/07/11904611.shtml",
+  "title_zh": "特朗普称继续支持国防部长赫格塞思",
+  "title_en": "Trump Says He Continues to Support Defense Secretary Hegseth",
+  "summary_zh": "当地时间8月6日，美国总统特朗普表示继续支持国防部长赫格塞思，称他是“聪明人”，无意撤换他。",
+  "summary_en": "On August 6, President Trump said he still supports Defense Secretary Hegseth, calling him \"smart\" and indicating no plans to replace him.",
+  "body_zh": "△特朗普与赫格塞思（右）\n当地时间8月6日，央视记者获悉，美国总统特朗普表示，目前仍支持国防部长赫格塞思。\n特朗普在当天接受采访时称赫格塞思是“聪明人”，并表示自己仍站在他一边。\n报道称，尽管伊朗战争在美国国内支持度不高，部分共和党人也对赫格塞思的领导能力有所质疑，但特朗普目前无意撤换他。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "美国政治",
+    "国防人事"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Donald Trump"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赫格塞思",
+      "name_en": "Pete Hegseth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "美国政治",
+      "name_en": "US Politics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防人事",
+      "name_en": "Defense Personnel"
+    }
+  ],
+  "tags_zh": [
+    "特朗普",
+    "赫格塞思",
+    "美国政治",
+    "国防人事"
+  ],
+  "tags_en": [
+    "Donald Trump",
+    "Pete Hegseth",
+    "US Politics",
+    "Defense Personnel"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260807-beijing_daily-4ef685",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

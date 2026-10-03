@@ -1,0 +1,87 @@
+{
+  "id": "20260602-xinhua_tj-015da8",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260602/d092497b4504407da2186eb97d5e760b/c.html",
+  "title_zh": "新规6月起实施 一批网络餐饮违法违规案件曝光",
+  "title_en": "New Regulations on Online Catering Implemented as Illegal Cases Exposed",
+  "summary_zh": "国家市场监管总局新规6月起实施，天津市市场监管委近期查处了一批网络餐饮违法违规案件，涉及假健康证及经营地址不符等问题。",
+  "summary_en": "New SAMR regulations on online catering took effect in June. The Tianjin Municipal Market Supervision Commission has exposed several illegal cases involving fake health certificates and incorrect business addresses.",
+  "body_zh": "国家市场监督管理总局《网络餐饮服务经营者落实食品安全主体责任监督管理规定》（以下简称《规定》）昨天起正式实施。为有效规范网络餐饮服务第三方平台和入网餐饮服务提供者的日常经营行为，市市场监管委今年以来聚焦网络餐饮服务治理重点，坚持以问题为导向，以违法线索摸排、从严执法办案为抓手，查处了一批违法违规案件。\n今年年初，市市场监管委根据案件线索对本市某入网餐饮有限公司开展执法检查时发现，该公司负责人崔某为方便员工入职，通过制假窝点办理多张假健康证，且明知相关人员未取得健康证仍安排参与接触直接入口食品工作，存在主观故意行为。市市场监管委对相关经营主体和负责人崔某依法分别作出行政处罚。同时，属地市场监管部门联合公安机关捣毁了本市一制售假健康证窝点，抓获犯罪嫌疑人4名。\n今年4月，市市场监管委通过线上排查，对南开区某餐饮服务店开展执法检查。经现场核实，其外卖平台页面显示该店地址为南开区某小区，而实际经营地址为南开区某小吃街某号。执法人员同步对该餐饮店入网的网络餐饮服务第三方平台开展执法检查，确认该平台存在登记入网商家店铺公示经营地址与食品经营许可证载明地址不一致现象。经核实，该平台在入网商户相关信息录入过程中因系统问题造成公示地址与实际经营地址不一致且未予以及时纠正。餐饮店与第三方平台上述行为均违反相关规定，市市场监管委对当事人作出行政处罚。\n今年3月，市市场监管委通过平台外卖骑手反馈线索，对静海区某面馆开展执法检查时发现，当事人在经营场所就餐区贮存用于加工制作的食品，且食品原料、半成品、成品摆放混乱，未分隔存放。市市场监管委对当事人作出行政处罚。\n市场监管部门提醒，随着外卖平台迅速崛起，网络餐饮占比日益提升，眼下，《规定》已经正式实施，市民在网络餐饮消费时，要注意查看网店经营资质以及是否有实体经营门店；注意网店名称与实体经营门店招牌名称是否一致；注意网店主页面是否有“无堂食”标识；注意包装封口是否有开启痕迹；注意看是否采取了相应的贮存、配送措施，以保证食品安全。（记者 苏晓梅）",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "网络餐饮服务",
+    "食品安全",
+    "市场监管"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南开区",
+      "name_en": "Nankai District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络餐饮服务",
+      "name_en": "Online Catering Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "市场监管",
+      "name_en": "Market Supervision"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "南开区",
+    "网络餐饮服务",
+    "食品安全",
+    "市场监管"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Nankai District",
+    "Online Catering Services",
+    "Food Safety",
+    "Market Supervision"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260602-xinhua_tj-015da8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

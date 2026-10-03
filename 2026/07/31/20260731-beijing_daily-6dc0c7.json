@@ -1,0 +1,91 @@
+{
+  "id": "20260731-beijing_daily-6dc0c7",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/07/31/11894371.shtml",
+  "title_zh": "国家税务总局发布首个跨境税收行业类指引",
+  "title_en": "State Taxation Administration Issues First Cross-Border Tax Industry Guideline",
+  "summary_zh": "国家税务总局近日发布首个跨境税收行业类指引《国际运输涉税服务指引》，为国际航海、航空、陆路等跨境运输企业提供涉税合规参考。",
+  "summary_en": "China's State Taxation Administration has recently issued its first cross-border tax industry guideline, the International Transport Tax Service Guideline, providing tax compliance references for enterprises in international maritime, aviation, and land transport.",
+  "body_zh": "国家税务总局近期发布首个跨境税收行业类指引《国际运输涉税服务指引》，为从事国际航海、航空、陆路等跨境运输行业的经营主体提供全链条、标准化、可落地的涉税合规参考。\n《指引》分为“引进来篇”和“走出去篇”，区分各类运输方式，从税收优惠、协定待遇、涉税风险提示等八个维度系统梳理相关涉税事项。同时，通过编译公开涉税案例以案释法，直观提示跨境经营税务风险。附录中还归集了全链条涉税政策，并汇总了指引涉及的办税渠道查询链接等内容。\n“我们企业常年承接中国与东盟铁路运输等国际运输业务，跨境涉税事项繁杂，给我们合规经营带来较大挑战。特别是新旧增值税政策衔接时，常对政策变化把握不太准。”陆海新通道运营有限公司财务负责人谭云丹表示，“《指引》系统梳理了各类税费申报流程，配套系列电子资料，手机扫码即可随时查阅，为我们处理各类跨境运输涉税业务提供了清晰指导，有效降低了企业跨境涉税风险。”\n税务总局国际税务司有关负责人表示，在共建“一带一路”倡议推动下，国际运输业态持续丰富，跨境物流往来日益频繁。出台《国际运输涉税服务指引》，是税务部门深耕细分行业、提升专业化跨境税费服务的创新实践，也是主动对接国际运输行业涉税诉求、破解企业跨境办税堵点难点的务实举措。下一步，税务部门将持续跟踪税制更新与行业发展，不断丰富“税路通”服务供给，以精细化跨境税收服务助力国际运输产业高质量发展。\n目前，纳税人可登录国家税务总局官方网站，在“税路通・税收服务‘一带一路’”专栏查阅获取《国际运输涉税服务指引》。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "跨境税收",
+    "国际运输",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境税收",
+      "name_en": "Cross-border Taxation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际运输",
+      "name_en": "International Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    }
+  ],
+  "tags_zh": [
+    "国家税务总局",
+    "跨境税收",
+    "国际运输",
+    "一带一路"
+  ],
+  "tags_en": [
+    "State Taxation Administration",
+    "Cross-border Taxation",
+    "International Transport",
+    "Belt and Road Initiative"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-beijing_daily-6dc0c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1785473511129253.html",
+      "title_zh": "国家税务总局发布首个跨境税收行业类指引",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

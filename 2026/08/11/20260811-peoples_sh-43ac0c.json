@@ -1,0 +1,112 @@
+{
+  "id": "20260811-peoples_sh-43ac0c",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/0811/c138654-41664803.html",
+  "title_zh": "打好打赢台风防御这场大仗硬仗",
+  "title_en": "Win the Tough Battle of Typhoon Defense",
+  "summary_zh": "8月10日，上海市委书记陈吉宁两次到市防汛指挥部检查调度台风“白海豚”防御工作，要求把损失和影响降到最低，全力保障市民安全。",
+  "summary_en": "On August 10, Shanghai Party Secretary Chen Jining twice visited the city's flood control headquarters to inspect typhoon 'White Dolphin' defense work, urging to minimize losses and impact and ensure citizens' safety.",
+  "body_zh": "陈吉宁：把台风可能造成的损失降到最低，把对市民群众的影响降到最低\n打好打赢台风防御这场大仗硬仗\n昨天两次来到市防汛指挥部再抓部署再抓落实，在实战大考中提升系统化应对能力\n冲锋在前坚持坚守\n■指挥体系要坚持扁平高效运转，监测预警要做到实时滚动发布，应急处置要提升快速响应能力，排涝力量要保持闻令而动状态，风险隐患要加紧排查消除，重点区域要坚决严防死守\n■要发扬不怕苦、不怕累、连续作战精神，困难群众在哪里、风险隐患在哪里，各级干部就要冲锋在前、坚持坚守，以决战决胜状态、过硬能力作风、实干苦干劲头打好打赢台风防御这场大仗硬仗\n台风“白海豚”登陆后对上海的影响依然明显，前夜起全市再次出现大雨和暴雨、局部出现大暴雨，昨天上午部分区启动防汛防台一级响应。一早和下午，市委书记陈吉宁两次来到市防汛指挥部，检查调度台风防御工作。陈吉宁指出，要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，坚决落实“四个宁可”理念，始终绷紧安全这根弦，以“时时放心不下”的责任感抓实抓细台风防御各项措施，进一步提升体系化应对的针对性有效性，全力以赴保障人民群众生命财产安全和超大城市安全有序运行。\n在市防汛指挥部，陈吉宁听取台风“白海豚”发展态势、风情雨情走势、局地强降水预测分析和防御工作调整优化情况汇报，视频连线青浦、金山、嘉定、松江、闵行、长宁、浦东、徐汇、普陀、奉贤等区和12345市民服务热线、上海化学工业区管委会等单位，就统筹资源调度、应急抢险救灾、防范内涝积水、人员转移安置、交通排堵保畅等工作再抓部署再抓落实。\n市领导陈金山、李政、华源、张小宏、张亚宏参加。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "台风防御",
+    "防汛救灾"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-jining",
+      "name_zh": "陈吉宁",
+      "name_en": "Chen Jining"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "person",
+      "id": "li-zheng-shanghai",
+      "name_zh": "李政",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-jinshan",
+      "name_zh": "陈金山",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "hua-yuan-shanghai",
+      "name_zh": "华源",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈吉宁",
+    "上海",
+    "台风防御",
+    "防汛救灾",
+    "李政",
+    "陈金山",
+    "华源"
+  ],
+  "tags_en": [
+    "Chen Jining",
+    "Shanghai",
+    "Typhoon Defense",
+    "Flood Control and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-jinshan",
+      "chen-jining",
+      "hua-yuan-shanghai",
+      "li-zheng-shanghai",
+      {
+        "id": null,
+        "name_zh": "张亚宏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260811-peoples_sh-43ac0c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

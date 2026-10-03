@@ -1,0 +1,92 @@
+{
+  "id": "20260820-peoples_sn-3653f9",
+  "source": "peoples_sn",
+  "source_name_zh": "人民网 陕西",
+  "source_name_en": "People's Daily Shaanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sn.people.com.cn/n2/2026/0820/c226647-41673358.html",
+  "title_zh": "西康高铁启动按图试运行",
+  "title_en": "Xi'an-Ankang High-Speed Railway Starts Trial Runs",
+  "summary_zh": "8月20日，西康高铁正式进入按图试运行阶段，西安至安康铁路运行时间将缩短至1小时以内，助力秦巴山区乡村振兴。",
+  "summary_en": "On August 20, the Xi'an-Ankang high-speed railway entered trial runs, cutting travel time between the two cities to under one hour and boosting rural revitalization in the Qinba Mountains.",
+  "body_zh": "西康高铁启动按图试运行\n人民网西安8月20日电 （记者贾凯璐）8月20日，随着55301次试运行动车组列车从西安东站驶出，西安至安康高速铁路（以下简称“西康高铁”）正式进入按图试运行阶段。\n55301次试运行动车组列车从西安东站驶出。\n按图试运行是指在高铁线路开通运营前，按照正式运营的作业程序和作业标准组织列车开行，包括模拟办理旅客上下车、开闭车门，以及车站客运人员接发列车、站车交接、应答呼叫联络等规定作业，全面测试新线路综合运行状态是否满足开通条件。\n55301次试运行动车组列车沿西康高铁行驶。\n西康高铁是国家中长期铁路网规划“八纵八横”高铁通道中包（银）海通道、京昆通道的重要组成部分。新建正线全长约171公里，设计时速350公里，设西安东、牛背梁、柞水西、镇安西、桐木（越行站，不办理客运）、安康西6座车站，其中西安东站为既有站，其余为新建站。\n西康高铁通车后，西安至安康铁路运行时间将由现在的3小时左右缩短至1小时以内，关中与陕南“一小时经济圈”加速成型。将有效提高沿线地区客货运输服务水平，为助力秦巴山区乡村振兴，促进地方经济发展注入新动能。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "industry",
+  "keywords": [
+    "高铁建设",
+    "区域经济",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-AK",
+      "name_zh": "安康",
+      "name_en": "Ankang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-Speed Railway Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域经济",
+      "name_en": "Regional Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "西安",
+    "安康",
+    "高铁建设",
+    "区域经济",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Xi'an",
+    "Ankang",
+    "High-Speed Railway Construction",
+    "Regional Economy",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA",
+      "CN-SN-AK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260820-peoples_sn-3653f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

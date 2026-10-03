@@ -1,0 +1,102 @@
+{
+  "id": "20260525-peoples_hn-8ce6a4",
+  "source": "peoples_hn",
+  "source_name_zh": "人民网 湖南",
+  "source_name_en": "People's Daily Hunan",
+  "source_url": "http://hn.people.com.cn/n2/2026/0526/c208814-41591394.html",
+  "title_zh": "国家防总办公室组织多部门会商部署防汛救灾工作",
+  "title_en": "State Flood Control and Drought Relief Headquarters Office Organizes Multi-Departmental Meeting to Deploy Flood Control and Disaster Relief",
+  "summary_zh": "2026年5月25日，国家防总办公室与应急管理部组织多部门会商部署重点地区防汛救灾工作，水利部与中国气象局联合发布橙色山洪灾害气象预警。",
+  "summary_en": "On May 25, 2026, the State Flood Control and Drought Relief Headquarters Office and the Ministry of Emergency Management coordinated multi-departmental efforts to deploy flood relief, while an orange flash flood warning was issued.",
+  "body_zh": "水利部和中国气象局联合发布橙色山洪灾害气象预警\n国家防总办公室组织多部门滚动会商部署防范应对（扎实做好防汛救灾工作）\n本报北京5月25日电 （记者邓剑洋）记者从水利部获悉：水利部和中国气象局5月25日18时联合发布橙色山洪灾害气象预警。\n预计，5月25日20时至5月26日20时，安徽南部、江西东北部、湖北东南部和西南部、湖南西北部、重庆东北部等地部分地区发生山洪灾害可能性较大，其中，安徽西南部、湖北东南部、湖南西北部局地发生山洪灾害可能性大。其他地区也可能因局地短时强降水引发山洪灾害，各地要注意做好实时监测、防汛预警和转移避险等防范工作。\n本报北京5月25日电 （记者刘温馨）5月25日，国家防总办公室、应急管理部组织多部门滚动会商研判强降雨过程发展态势，研究部署重庆、湖南、湖北、河南、江西、安徽、江苏等重点地区防汛救灾工作。当前，国家防总维持针对安徽、湖南、湖北、重庆的防汛四级应急响应，国家防总办公室前期派出的工作组继续在湖北、重庆两省份开展工作。\n会商指出，本轮降雨过程局地强度大、极端性突出、致灾性强，26日起主雨带将逐步东移南压，未来3天，华北南部、黄淮大部、江汉、江淮、江南中北部、西南地区东部等地部分地区有暴雨或大暴雨，局地特大暴雨，并伴有雷暴大风、短时强降水等强对流天气，防汛形势严峻复杂。\n《 人民日报 》（ 2026年05月26日 04 版）",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "山洪预警"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪预警",
+      "name_en": "Flash Flood Warning"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "水利部",
+    "中国气象局",
+    "北京",
+    "防汛救灾",
+    "山洪预警"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Ministry of Water Resources",
+    "China Meteorological Administration",
+    "Beijing",
+    "Flood Control and Disaster Relief",
+    "Flash Flood Warning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM",
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260525-peoples_hn-8ce6a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

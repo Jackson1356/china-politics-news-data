@@ -1,0 +1,106 @@
+{
+  "id": "20260730-cpcnews-8afd10",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0730/c64094-40770713.html",
+  "title_zh": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
+  "title_en": "Xi Jinping Sends Congratulations to Nova on Re-election as President of São Tomé and Príncipe",
+  "summary_zh": "7月29日，国家主席习近平致电卡洛斯·诺瓦，祝贺他当选连任圣多美和普林西比民主共和国总统，并表示愿推动中圣普战略伙伴关系不断迈上新台阶。",
+  "summary_en": "On July 29, President Xi Jinping sent a message to Carlos Nova, congratulating him on his re-election as President of São Tomé and Príncipe, and expressing willingness to elevate the strategic partnership.",
+  "body_zh": "新华社北京7月29日电 7月29日，国家主席习近平致电卡洛斯·诺瓦，祝贺他当选连任圣多美和普林西比民主共和国总统。\n习近平指出，近年来，中圣普关系发展势头良好，双方政治互信持续深化，在涉及彼此核心利益和重大关切问题上坚定相互支持，各领域务实合作成果显著。我高度重视中圣普关系发展，愿同诺瓦总统一道努力，以落实中非合作论坛北京峰会成果为契机，推动中圣普战略伙伴关系不断迈上新台阶，更好造福两国人民。\n《 人民日报 》（ 2026年07月30日 01 版）",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交关系",
+    "战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交关系",
+      "name_en": "Diplomatic Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "外交关系",
+    "战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Diplomatic Relations",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260729-qiushi-4c9e14",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chi_feng",
+      "source_tier": 4,
+      "url": "http://www.chifeng.gov.cn/ywdt/jrtt/202607/t20260730_2797967.html",
+      "title_zh": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202607/t20260730_174098.html",
+      "title_zh": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yan_tai",
+      "source_tier": 4,
+      "url": "https://www.yantai.gov.cn/col/col11797/art/2026/art_b651f225e1ba47e285aadf55aaa11c78.html",
+      "title_zh": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

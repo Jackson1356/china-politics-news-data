@@ -1,0 +1,93 @@
+{
+  "id": "20260820-xinhua_tj-858a0d",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20260820/df06089da5894470a38a30b71ac06c72/c.html",
+  "title_zh": "天津市政府召开第113次常务会议 张工主持",
+  "title_en": "Tianjin Municipal Government Holds 113th Executive Meeting Chaired by Zhang Gong",
+  "summary_zh": "8月19日下午，天津市市长张工主持召开市政府第113次常务会议，听取安全生产情况，审议应急管理“十五五”规划等。",
+  "summary_en": "On the afternoon of August 19, Mayor Zhang Gong chaired the 113th executive meeting of Tianjin Municipal Government, reviewing work safety and deliberating the 15th Five-Year Plan for emergency management and fire services.",
+  "body_zh": "8月19日下午，市长张工主持召开市政府第113次常务会议。\n会议听取全市安全生产工作情况和中央安全生产考核巡查明查暗访发现问题隐患整改情况。会议强调，要牢固树立安全发展理念，扛牢安全生产责任，落实“三管三必须”要求，坚决防范遏制重特大事故发生。要切实抓好考核巡查反馈问题整改，压实整改责任，全面排查整治风险隐患，形成“查—改—效”闭环，举一反三推进常态长效治理。要从严从紧监管执法，重拳“打非治违”，倒逼责任落实。\n会议审议《天津市应急管理“十五五”规划》、《天津市社会消防事业发展“十五五”规划》。会议强调，要加强应急体系建设，健全应急指挥机制，夯实基层基础，完善预案体系。要强化风险源头防范，注重科技赋能，加强队伍建设和力量布局，做好应急救援处置。要广泛开展安全宣传教育，提升社会参与和群防群治水平。\n会议还研究了其他事项。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "安全生产",
+    "应急管理",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "安全生产",
+    "应急管理",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "Work Safety",
+    "Emergency Management",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-xinhua_tj-858a0d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

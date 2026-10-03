@@ -1,0 +1,103 @@
+{
+  "id": "20260901-peoples_sd-22dcfe",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/0901/c166194-41683135.html",
+  "title_zh": "第三十届鲁台经贸洽谈会在潍坊开幕",
+  "title_en": "30th Shandong-Taiwan Economic and Trade Fair Opens in Weifang",
+  "summary_zh": "8月31日，由山东省政府和国务院台办共同主办的第三十届鲁台经贸洽谈会在山东潍坊开幕，约800位两岸各界人士参加。",
+  "summary_en": "On August 31, the 30th Shandong-Taiwan Economic and Trade Fair, co-hosted by Shandong Provincial Government and the State Council Taiwan Affairs Office, opened in Weifang, with about 800 participants from both sides.",
+  "body_zh": "第三十届鲁台经贸洽谈会在潍坊开幕\n本报济南8月31日电 （记者侯琳良）由山东省人民政府和国务院台办共同主办的第三十届鲁台经贸洽谈会8月31日在山东潍坊开幕。\n山东省委书记林武表示，近年来，我们深入学习贯彻习近平总书记关于对台工作的重要论述，推动鲁台两地交流合作持续深化，取得积极成效。面向未来，我们愿与广大台湾同胞一道，深化产业合作，共拓广阔市场，深耕农业沃土，共促人文交流，不断开创鲁台合作新局面。我们将认真落实有关政策措施，让广大台商台胞在山东放心投资、安心发展、舒心生活。\n中国国民党副主席萧旭岑代表国民党向西藏吉隆泥石流灾害遇难、受灾同胞表达深切哀悼和慰问。他表示，两岸血缘、文化、历史联结深厚，在坚持“九二共识”、反对“台独”的基础上交流合作成果丰硕。希望两岸加强科技、农业、青年等领域交流合作，携手共发展，同心向未来。\n本届鲁台经贸洽谈会在素有“世界风筝之都”“国际动力城”美称的潍坊举办，以“乘势奋进‘十五五’ 鲁台共绘新图景”为主题，包括产业融合、现代农业、绿色化工、海洋经济、智能制造、青年创业、职业教育等一系列交流活动。约800位两岸各界人士参加。\n《 人民日报 》（ 2026年09月01日 07 版）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "鲁台合作",
+    "经贸合作",
+    "两岸关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lin-wu",
+      "name_zh": "林武",
+      "name_en": "Lin Wu"
+    },
+    {
+      "kind": "institution",
+      "id": "TAO",
+      "name_zh": "国务院台办",
+      "name_en": "Taiwan Affairs Office of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WF",
+      "name_zh": "潍坊",
+      "name_en": "Weifang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "鲁台合作",
+      "name_en": "Shandong-Taiwan Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸关系",
+      "name_en": "Cross-Strait Relations"
+    }
+  ],
+  "tags_zh": [
+    "林武",
+    "国务院台办",
+    "潍坊",
+    "鲁台合作",
+    "经贸合作",
+    "两岸关系"
+  ],
+  "tags_en": [
+    "Lin Wu",
+    "Taiwan Affairs Office of the State Council",
+    "Weifang",
+    "Shandong-Taiwan Cooperation",
+    "Economic and Trade Cooperation",
+    "Cross-Strait Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "lin-wu"
+    ],
+    "institutions": [
+      "TAO"
+    ],
+    "locations": [
+      "CN-SD-WF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-peoples_sd-22dcfe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

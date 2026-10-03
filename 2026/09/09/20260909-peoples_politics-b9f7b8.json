@@ -1,0 +1,82 @@
+{
+  "id": "20260909-peoples_politics-b9f7b8",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0909/c1001-40795498.html",
+  "title_zh": "董建华先生逝世",
+  "title_en": "Tung Chee-hwa, Former Hong Kong Chief Executive, Dies at 89",
+  "summary_zh": "'一国两制'杰出贡献者、香港特别行政区第一任行政长官董建华因病于2026年9月8日21时57分在香港逝世，享年89岁。",
+  "summary_en": "Tung Chee-hwa, distinguished contributor to 'One Country, Two Systems' and first Chief Executive of Hong Kong SAR, died in Hong Kong at 21:57 on September 8, 2026, aged 89.",
+  "body_zh": "新华社北京9月9日电 “一国两制”杰出贡献者，著名的爱国人士，杰出的社会活动家，中国共产党的亲密朋友，中国人民政治协商会议第十届、十一届、十二届、十三届全国委员会副主席，香港特别行政区第一任、第二任行政长官董建华先生，因病于2026年9月8日21时57分在香港逝世，享年89岁。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "personnel",
+  "keywords": [
+    "一国两制",
+    "香港事务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "董建华",
+      "name_en": "Tung Chee-hwa"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "香港事务",
+      "name_en": "Hong Kong Affairs"
+    }
+  ],
+  "tags_zh": [
+    "董建华",
+    "香港",
+    "一国两制",
+    "香港事务"
+  ],
+  "tags_en": [
+    "Tung Chee-hwa",
+    "Hong Kong",
+    "One Country, Two Systems",
+    "Hong Kong Affairs"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260909-peoples_politics-b9f7b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

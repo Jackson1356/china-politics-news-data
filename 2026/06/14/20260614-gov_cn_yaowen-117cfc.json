@@ -1,0 +1,69 @@
+{
+  "id": "20260614-gov_cn_yaowen-117cfc",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072045.htm",
+  "title_zh": "前5个月铁路客货运量多项指标创新高",
+  "title_en": "Railway Passenger and Freight Transport Volumes Hit Record Highs in First Five Months",
+  "summary_zh": "今年1至5月，全国铁路客货运量稳步增长，客流量和货运量多项指标创历史新高，有效服务旅游经济和重点物资运输。",
+  "summary_en": "From January to May, China's railway passenger and freight volumes grew steadily, with multiple indicators hitting record highs, supporting tourism and key material transport.",
+  "body_zh": "记者从国铁集团获悉，今年1至5月，铁路客货运量稳步增长，多项指标均创历史新高。\n今年前5个月，受元旦、春节、清明及“五一”等假期带动，铁路客流量大幅增长，全国铁路累计发送旅客19.69亿人次。其中，5月1日当天发送旅客2484.4万人次，客流总量和单日旅客发送量均创历史新高。\n多部门联合推动铁旅融合发展，激发境内及跨境旅游市场活力。前5个月，全国铁路发送外籍旅客1002.4万人次，同比增长35.5%。5月份以来，中老铁路跨境列车趟趟爆满。前5个月，全国铁路累计开行旅游列车1400列，比去年同期增加770列，有效服务旅游经济发展。\n前5个月，国家铁路累计发送货物16.7亿吨，日均装车数量同比增长2.8%。其中，5月2日当天装车数量创单日历史新高。\n5月份，“三夏”物资运输需求旺盛，多地铁路部门开辟农资运输绿色通道，确保不误农时，有力保障重点物资运输。截至5月底，国家铁路今年累计发送粮食4880.6万吨，同比增长11.9%。",
+  "image_url": null,
+  "published_at": "2026-06-14T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "铁路运输",
+    "旅游经济",
+    "物资运输"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游经济",
+      "name_en": "Tourism Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物资运输",
+      "name_en": "Material Transport"
+    }
+  ],
+  "tags_zh": [
+    "铁路运输",
+    "旅游经济",
+    "物资运输"
+  ],
+  "tags_en": [
+    "Railway Transport",
+    "Tourism Economy",
+    "Material Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260614-gov_cn_yaowen-117cfc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260620-gov_cn_yaowen-d9226f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072787.htm",
+  "title_zh": "我国科技创新和产业创新融合发展步伐加快",
+  "title_en": "China Accelerates Integration of Scientific and Technological Innovation with Industrial Innovation",
+  "summary_zh": "我国持续推动科技创新与产业创新深度融合，工信部发布重点培育中试平台，中央企业成立科技成果产业化联合体，以新质生产力支撑高质量发展。",
+  "summary_en": "China is accelerating the integration of sci-tech and industrial innovation, with MIIT launching pilot platforms and central enterprises forming an industrialization consortium to boost high-quality development.",
+  "body_zh": "当前，我国持续推动科技创新和产业创新深度融合，一批创新技术加速走向具体产业，新动能引领作用不断增强。\n在河南许昌这家企业，眼前这片巴掌大的圆片，材料是金刚石，但它的作用却并不是切割石材等传统加工，而是给芯片散热。薄薄一片，就能解决高端算力设备“发烧”的困扰，不久前这项新技术成功走向生产线，也带来了新的产业机遇。\n让创新成果加速向现实生产力转化，今年以来，我国科技创新和产业创新融合发展的支持政策密集发布。围绕着打通成果转化关键堵点，不久前，工业和信息化部发布第二批111家重点培育中试平台，覆盖新材料、新能源、信息技术等多个领域。围绕着协同创新，中央企业科技成果产业化联合体刚刚成立，将聚焦十大重点工程，打通基础研究、应用开发、成果转化的创新链条。\n数据显示，5月份，规模以上高技术制造业增加值同比增长15.1%，对全部规模以上工业增长的贡献率达57%，比上月提高4.9个百分点，新质生产力日益成为高质量发展的有力支撑。",
+  "image_url": null,
+  "published_at": "2026-06-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-21T08:55:06Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "产业创新",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "科技创新",
+    "产业创新",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Sci-tech Innovation",
+    "Industrial Innovation",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260620-gov_cn_yaowen-d9226f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

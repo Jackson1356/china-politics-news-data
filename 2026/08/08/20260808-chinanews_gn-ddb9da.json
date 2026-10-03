@@ -1,0 +1,90 @@
+{
+  "id": "20260808-chinanews_gn-ddb9da",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-08/10674086.shtml",
+  "title_zh": "中国东方电气集团原党组副书记、董事宋致远被查",
+  "title_en": "Song Zhiyuan, Former Deputy Party Secretary of Dongfang Electric, under Investigation",
+  "summary_zh": "中央纪委国家监委8月8日通报，中国东方电气集团原党组副书记、董事宋致远涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+  "summary_en": "On Aug. 8, the CCDI and National Supervisory Commission announced that Song Zhiyuan, former deputy Party secretary and director of Dongfang Electric Group, is under review and investigation for suspected serious disciplinary and legal violations.",
+  "body_zh": "中国东方电气集团原党组副书记、董事宋致远被查\n中新网8月8日电 据中央纪委国家监委网站消息，中国东方电气集团有限公司原党组副书记、董事宋致远涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n国内新闻精选：\n- 2026年08月07日 18:32:55\n- 2026年08月07日 17:28:17\n- 2026年08月07日 15:22:09\n- 2026年08月07日 15:21:03\n- 2026年08月07日 12:22:48\n- 2026年08月07日 11:18:54\n- 2026年08月07日 10:41:17\n- 2026年08月07日 08:59:57\n- 2026年08月07日 06:16:15\n- 2026年08月06日 20:50:13",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-08",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "宋致远",
+      "name_en": "Song Zhiyuan"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "CCDI and National Supervisory Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "宋致远",
+    "中央纪委国家监委",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Song Zhiyuan",
+    "CCDI and National Supervisory Commission",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "宋致远"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "CCDI and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260808-chinanews_gn-ddb9da",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
