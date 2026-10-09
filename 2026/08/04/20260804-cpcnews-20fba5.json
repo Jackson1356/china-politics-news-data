@@ -1,0 +1,111 @@
+{
+  "id": "20260804-cpcnews-20fba5",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0804/c64387-40773391.html",
+  "title_zh": "财政部下达21.54亿元农业防灾减灾和水利救灾资金",
+  "title_en": "Ministry of Finance Allocates 2.154 Billion Yuan for Agricultural Disaster Relief",
+  "summary_zh": "财政部会同农业农村部、水利部下达21.54亿元农业防灾减灾和水利救灾资金，支持多省份灾后恢复；国家防减救灾委办公室、应急管理部向陕西调拨6.5万件中央救灾物资。",
+  "summary_en": "The Ministry of Finance, together with the Ministry of Agriculture and Rural Affairs and the Ministry of Water Resources, allocated 2.154 billion yuan for agricultural disaster prevention and relief. Additionally, 65,000 central relief supplies were dispatched to Shaanxi by the National Disaster Prevention and Relief Committee Office and the Ministry of Emergency Management.",
+  "body_zh": "财政部会同农业农村部、水利部\n国家防减救灾委办公室、应急管理部会同国家粮食和物资储备局向陕西调拨6.5万件中央救灾物资\n本报北京8月3日电 （记者曲哲涵）近日，财政部会同农业农村部、水利部下达农业防灾减灾和水利救灾资金21.54亿元。一是支持广西、湖北、湖南、广东、重庆、贵州等6省份开展水利工程设施水毁修复等洪涝、地震灾后救灾工作。二是支持辽宁、吉林、浙江、广西、湖北等5省份开展在田作物肥水管理、绝收地块改种补种、畜牧渔业补栏补苗、损毁设施修复等灾后生产恢复工作。三是支持山西、新疆、甘肃等3省份及时做好农作物改种补种、畜牧补栏等洪涝、风雹灾后救灾工作。四是聚焦防救衔接，支持河北、内蒙古、吉林、黑龙江、江苏、安徽、江西、山东、河南、湖北、湖南、新疆、四川等13省份及新疆生产建设兵团、北大荒农垦集团实施喷施作业等秋粮防灾举措。\n本报北京8月3日电 （记者刘温馨、王东辉）8月3日，国家防灾减灾救灾委员会办公室、应急管理部针对陕西暴雨洪涝灾害及新一轮持续性强降雨天气影响，派出工作组实地查看灾情，协助和指导地方做好救灾工作。根据灾区救灾救助工作需要，会同国家粮食和物资储备局向陕西调拨帐篷、折叠床、毛毯、家庭应急包等6.5万件中央救灾物资，支持地方妥善做好受灾群众救灾救助和避险转移安置工作。\n《 人民日报 》（ 2026年08月04日 04 版）",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "welfare",
+  "keywords": [
+    "农业救灾",
+    "防灾减灾",
+    "水利救灾",
+    "物资调拨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业救灾",
+      "name_en": "Agricultural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水利救灾",
+      "name_en": "Water Conservancy Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物资调拨",
+      "name_en": "Material Allocation"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "陕西",
+    "农业救灾",
+    "防灾减灾",
+    "水利救灾",
+    "物资调拨"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Shaanxi",
+    "Agricultural Disaster Relief",
+    "Disaster Prevention and Reduction",
+    "Water Conservancy Relief",
+    "Material Allocation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [
+      "CN-SN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-xinhua_politics-1e8fda",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

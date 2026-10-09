@@ -1,0 +1,93 @@
+{
+  "id": "20261004-gov_cn_yaowen-f34565",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202610/content_7082641.htm",
+  "title_zh": "国庆假期过半消费市场平稳有序",
+  "title_en": "Consumer Market Stable and Orderly as National Day Holiday Passes Midpoint",
+  "summary_zh": "10月4日，商务部数据显示，国庆假期前三天全国重点监测步行街客流量、营业额同比分别增长3.4%和5.3%，消费品以旧换新带动销售额196.3亿元，生活必需品货足价稳。",
+  "summary_en": "On October 4, China's Ministry of Commerce reported that in the first three days of the National Day holiday, foot traffic and sales at 78 key shopping areas rose 3.4% and 5.3% year on year, while trade-in programs drove 19.63 billion yuan in sales and daily necessities remained well supplied at stable prices.",
+  "body_zh": "新华社北京10月4日电（记者 谢希瑶）记者4日从商务部获悉，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。\n商务部商务大数据显示，国庆假期前三天（10月1至3日），商务部重点监测的78个步行街（商圈）客流量、营业额同比分别增长3.4%、5.3%。消费品以旧换新带动销售额196.3亿元，惠及348.3万人次。其中，汽车以旧换新4.6万辆，带动新车销售额74.5亿元；家电以旧换新151.1万台，带动销售额65.0亿元；数码和智能产品购新170.9万件，带动销售额49.0亿元。\n各地生活必需品市场供应充足，价格总体平稳。商务部商务大数据显示，节日期间，全国200家大型农副产品批发市场库存充足，粮油、猪肉、牛羊肉、水果价格与节前（9月30日）基本持平，蔬菜、鸡肉价格较节前均下降0.5%，鸡蛋价格下降1.1%。",
+  "image_url": null,
+  "published_at": "2026-10-04T12:00:00+00:00",
+  "event_date": "2026-10-04",
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "economy",
+  "keywords": [
+    "消费市场",
+    "消费品以旧换新",
+    "生活必需品保供稳价"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费市场",
+      "name_en": "Consumer Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费品以旧换新",
+      "name_en": "Consumer Goods Trade-in Program"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生活必需品保供稳价",
+      "name_en": "Essential Goods Supply and Price Stability"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "北京",
+    "消费市场",
+    "消费品以旧换新",
+    "生活必需品保供稳价"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Beijing",
+    "Consumer Market",
+    "Consumer Goods Trade-in Program",
+    "Essential Goods Supply and Price Stability"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261004-gov_cn_yaowen-f34565",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

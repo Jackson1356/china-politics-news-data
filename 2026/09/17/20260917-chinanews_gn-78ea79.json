@@ -1,0 +1,115 @@
+{
+  "id": "20260917-chinanews_gn-78ea79",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-17/10698214.shtml",
+  "title_zh": "商务部：中美经贸团队正就降税等议题保持密切交流",
+  "title_en": "Commerce Ministry: China-U.S. Trade Teams Maintain Close Communication on Tariff Reduction and Other Issues",
+  "summary_zh": "9月17日，商务部在北京举行例行新闻发布会，新闻发言人何亚东表示，中美经贸团队正就300亿美元相互降低关税安排等议题保持密切交流，后续将适时发布进展。",
+  "summary_en": "At a routine press conference in Beijing on September 17, Commerce Ministry spokesperson He Yadong said Chinese and U.S. trade teams are maintaining close communication on issues including a mutual $30 billion tariff-reduction arrangement, with progress to be announced in due course.",
+  "body_zh": "商务部：中美经贸团队正就降税等议题保持密切交流\n新华社北京9月17日电(记者潘洁、谢希瑶)商务部17日举行例行新闻发布会，新闻发言人何亚东在回答有关中美双方300亿美元相互降低关税安排磋商最新进展的提问时说，目前中美双方经贸团队正就有关议题保持密切交流，后续将适时发布有关进展。(完)\n国内新闻精选：\n- 2026年09月17日 11:28:00\n- 2026年09月17日 11:14:45\n- 2026年09月17日 10:41:29\n- 2026年09月17日 10:40:23\n- 2026年09月17日 10:21:28\n- 2026年09月17日 07:40:06\n- 2026年09月16日 15:23:24\n- 2026年09月16日 14:20:13\n- 2026年09月16日 10:05:04\n- 2026年09月16日 09:57:32",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸",
+    "关税磋商",
+    "双边交流"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸",
+      "name_en": "China-U.S. Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "关税磋商",
+      "name_en": "Tariff Negotiations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边交流",
+      "name_en": "Bilateral Communication"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "北京",
+    "中美经贸",
+    "关税磋商",
+    "双边交流"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Beijing",
+    "China-U.S. Trade Relations",
+    "Tariff Negotiations",
+    "Bilateral Communication"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260917-chinanews_gn-78ea79",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698253.shtml",
+      "title_zh": "中方：一贯反对没有国际法依据、没有经过联合国安理会授权的“长臂管辖”",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698237.shtml",
+      "title_zh": "中方：中巴关系实现从全面战略伙伴到命运共同体的跨越式发展",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698231.shtml",
+      "title_zh": "全球金融中心指数香港蝉联亚太区第一 外交部：这是国际社会投下的又一张信任票",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

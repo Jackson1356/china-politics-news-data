@@ -1,0 +1,85 @@
+{
+  "id": "20260903-guancha_politics-bebec8",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_09_03_829826.shtml",
+  "title_zh": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
+  "title_en": "China Coast Guard Conducts Routine Patrols East of Taiwan Island",
+  "summary_zh": "中国海警在中国台湾岛以东海域依法开展常态化执法巡查，维护国家主权和海洋权益。",
+  "summary_en": "China Coast Guard conducts routine law enforcement patrols in waters east of China's Taiwan Island to safeguard national sovereignty and maritime rights.",
+  "body_zh": "女子报火警传视频遭开屏广告耽搁近一分钟，公共安全也要为流量让路？ 2026-09-03 10:28\n台风“沙德尔”第三次登陆我国，南方多地有强降雨 2026-09-03 09:52 极端天气\n今天，致敬伟大胜利！ 2026-09-03 07:58\n港大医科修订入学语言要求：“粤语”变“中文”，允许普通话面试 2026-09-02 21:14 香港\n西藏吉隆泥石流灾害已致21人遇难 541人失联 2026-09-02 20:24\n受贿3806万，李良序被判刑十三年 2026-09-02 19:58 廉政风暴\n埃及“00后”在华7年，“打破对华刻板印象是我的责任” 2026-09-02 17:22\n星宇股份董事长再道歉：已深刻反省，正落实措施 2026-09-02 15:21\n台风“沙德尔”重生后掉头北上，闽浙遭遇破纪录强降雨 2026-09-02 15:21 极端天气\n有消息称“大陆争取周子瑜转换跑道”，国台办回应 2026-09-02 14:07 新潮观鱼\n国家医保局：不要将病种支付标准与医务人员绩效工资挂钩 2026-09-02 13:29\n郑丽文等向吉隆灾区捐款，国台办回应 2026-09-02 13:29\n216国道全线抢通！深层搜救全面展开 2026-09-02 12:46\n黄之锋，当庭认罪 2026-09-02 12:29\n男子闪婚后将千万房产99%赠与女方，离婚后怎么分？法院判了 2026-09-02 11:00\n网信云南辟谣：网传“文山12级台风致2万人死亡”纯属虚假 2026-09-02 10:36\n通往吉隆口岸的216国道预计今日抢通，大规模搜救工作即将全面展开 2026-09-02 08:10\n关于接收吉隆“8‧26”泥石流灾害捐赠资金，官方发布公告 2026-09-01 22:35\n连平：发展离岸金融，中国要把“该赚的钱”赚回来 2026-09-01 21:15 思路打开",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "主权维护",
+    "海洋执法"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "中国台湾岛以东海域",
+      "name_en": "Waters east of China's Taiwan Island"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "主权维护",
+      "name_en": "Safeguarding Sovereignty"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋执法",
+      "name_en": "Maritime Law Enforcement"
+    }
+  ],
+  "tags_zh": [
+    "中国台湾岛以东海域",
+    "主权维护",
+    "海洋执法"
+  ],
+  "tags_en": [
+    "Waters east of China's Taiwan Island",
+    "Safeguarding Sovereignty",
+    "Maritime Law Enforcement"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "金官方"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260903-guancha_politics-bebec8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_09_03_829831.shtml",
+      "title_zh": "在我国台湾岛以东管辖海域，自然资源部组织开展海洋地球物理综合调查",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

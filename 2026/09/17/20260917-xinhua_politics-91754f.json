@@ -1,0 +1,83 @@
+{
+  "id": "20260917-xinhua_politics-91754f",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260917/929ee957c17241e0b67ab0788096d4f4/c.html",
+  "title_zh": "空客在华第二条总装线交付首架飞机 中国供应链支撑产能扩容",
+  "title_en": "Airbus's Second China Final Assembly Line Delivers First Aircraft, Backed by Chinese Supply Chain",
+  "summary_zh": "空客在华第二条总装线完成总装的首架A320neo飞机9月16日在天津交付中国东方航空，空客在华累计交付超800架A320系列飞机。",
+  "summary_en": "The first A320neo assembled at Airbus's second final assembly line in China was delivered to China Eastern Airlines in Tianjin on Sept 16, bringing cumulative A320 deliveries in China to over 800.",
+  "body_zh": "空中客车公司在华第二条总装线完成总装的首架飞机16日在天津顺利交付，这架飞机机型为A320neo，由中国东方航空接收运营。\n空客在全球已布局10条A320系列机型总装线，其中2条位于中国。2008年空客在华启用首条总装线，2025年第二条总装线投产，目前，已累计完成总装并交付超800架A320系列飞机。\n作者：李帅、郝杰\n新华社音视频部制作\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "航空制造",
+    "供应链",
+    "产能扩容"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空制造",
+      "name_en": "Aviation Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "供应链",
+      "name_en": "Supply Chain"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产能扩容",
+      "name_en": "Capacity Expansion"
+    }
+  ],
+  "tags_zh": [
+    "天津",
+    "航空制造",
+    "供应链",
+    "产能扩容"
+  ],
+  "tags_en": [
+    "Tianjin",
+    "Aviation Manufacturing",
+    "Supply Chain",
+    "Capacity Expansion"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-xinhua_politics-91754f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

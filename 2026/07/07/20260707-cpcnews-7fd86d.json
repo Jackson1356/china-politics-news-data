@@ -1,0 +1,100 @@
+{
+  "id": "20260707-cpcnews-7fd86d",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0707/c64094-40754953.html",
+  "title_zh": "中央军委集体学习贯彻习近平主席重要讲话精神和习近平党建思想",
+  "title_en": "Central Military Commission Conducts Collective Study on President Xi Jinping's Important Speech and Party-Building Thought",
+  "summary_zh": "2026年7月6日，中央军委在北京进行集体学习，学习贯彻习近平主席在庆祝中国共产党成立105周年大会上的重要讲话精神和习近平党建思想。",
+  "summary_en": "On July 6, 2026, the Central Military Commission held a collective study session in Beijing to implement President Xi Jinping's speech at the CPC's 105th anniversary and his thoughts on party building.",
+  "body_zh": "中央军委进行集体学习\n新华社北京7月6日电 （记者梅常伟）中央军委6日进行集体学习，学习贯彻习近平主席在庆祝中国共产党成立105周年大会上的重要讲话精神和习近平党建思想。中央军委副主席张升民主持并讲话。\n会议强调，全军要把学习贯彻习主席重要讲话精神和习近平党建思想作为重要政治任务，深刻领会精髓要义，贯彻到建设发展各个方面，在党的旗帜下书写强军兴军新篇章。要毫不动摇坚持党对军队绝对领导，坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂，深入推进政治建军，确保部队坚定拥护“两个确立”、坚决做到“两个维护”，贯彻军委主席负责制。要高质量推进国防和军队现代化，抓好斗争备战和规划建设，坚定不移全面从严治党、全面从严治军，以崭新面貌和优异成绩迎接建军一百周年。\n《 人民日报 》（ 2026年07月07日 04 版）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "party",
+  "keywords": [
+    "党建思想",
+    "政治建军",
+    "国防和军队现代化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央军委",
+      "name_en": "Central Military Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建思想",
+      "name_en": "Party-Building Thought"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治建军",
+      "name_en": "Political Army Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防和军队现代化",
+      "name_en": "National Defense and Military Modernization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中央军委",
+    "北京",
+    "党建思想",
+    "政治建军",
+    "国防和军队现代化"
+  ],
+  "tags_en": [
+    "Central Military Commission",
+    "Beijing",
+    "Party-Building Thought",
+    "Political Army Building",
+    "National Defense and Military Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央军委",
+        "name_en": "Central Military Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260706-paper_zhengjing-30d48e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

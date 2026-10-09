@@ -1,0 +1,91 @@
+{
+  "id": "20261004-xinhua_politics-2144a3",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261004/f738c1bbe24e4c28baf14313c691f2d2/c.html",
+  "title_zh": "2025年全国政府采购规模超3.32万亿元",
+  "title_en": "China's 2025 Government Procurement Scale Exceeds 3.32 Trillion Yuan",
+  "summary_zh": "财政部日前发布2025年全国政府采购简要情况，全年采购规模达33212.96亿元，其中货物、工程、服务分别为7953.92亿元、13045.08亿元和12213.96亿元。",
+  "summary_en": "China's Ministry of Finance released a summary of national government procurement for 2025, showing total procurement of 3.3213 trillion yuan, including 795.39 billion yuan in goods, 1.3045 trillion yuan in works and 1.2214 trillion yuan in services.",
+  "body_zh": "新华社北京10月4日电 财政部日前发布了2025年全国政府采购简要情况。数据显示，2025年全国政府采购规模为33212.96亿元，其中货物、工程、服务政府采购规模分别为7953.92亿元、13045.08亿元和12213.96亿元，占全国政府采购规模比例为23.95%、39.28%和36.77%。\n从组织形式看，政府集中采购、部门集中采购、分散采购规模分别为6244.43亿元、1021.15亿元和25947.38亿元，占全国政府采购规模的18.8%、3.07%和78.12%。从采购方式看，公开招标、邀请招标、竞争性谈判、竞争性磋商、单一来源、询价、框架协议采购规模分别占全国政府采购规模的77.49%、0.89%、1.75%、12.35%、3.12%、0.65%和3.71%。",
+  "image_url": null,
+  "published_at": "2026-10-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "economy",
+  "keywords": [
+    "政府采购",
+    "财政支出",
+    "公共资源配置"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政府采购",
+      "name_en": "Government Procurement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政支出",
+      "name_en": "Fiscal Spending"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共资源配置",
+      "name_en": "Public Resource Allocation"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "政府采购",
+    "财政支出",
+    "公共资源配置"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Government Procurement",
+    "Fiscal Spending",
+    "Public Resource Allocation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261004-xinhua_politics-2144a3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261005/c0c34d9878e845618683f187edea0d7a/c.html",
+      "title_zh": "2025年全国政府采购规模超3.32万亿元",
+      "published_at": "2026-10-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20260827-gov_lin_zhi-3fb076",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/9b9fe2f633a3408abb069a3bc39cbbb6.shtml",
+  "title_zh": "二届市委常委会第134次会议召开",
+  "title_en": "The 134th Meeting of the Standing Committee of the Second Municipal Party Committee Convened",
+  "summary_zh": "8月26日，林芝市委书记巴塔主持召开二届市委常委会第134次会议，传达学习习近平总书记近期重要讲话精神，并安排部署贯彻落实工作。",
+  "summary_en": "On August 26, Bata, Secretary of the Linzhi Municipal Party Committee, chaired the 134th meeting of the Standing Committee of the Second Municipal Party Committee, conveying the spirit of General Secretary Xi Jinping's recent important speeches and arranging implementation.",
+  "body_zh": "8月26日,市委书记巴塔主持召开二届市委常委会第134次会议,传达学习习近平总书记近期重要讲话精神,传达学习自治区有关会议精神,安排部署贯彻落实工作。\n会议强调,全市各级各部门要深刻领悟“两个确立”的决定性意义,增强“四个意识”、坚定“四个自信”、做到“两个维护”,更加紧密地团结在以习近平同志为核心的党中央周围,弘扬理论联系实际的学风,贯彻落实习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神,大力弘扬党的光荣传统和优良作风,树立和践行正确政绩观,坚定信心、接续奋斗、苦干实干,持之以恒抓好“四件大事”落实,推动林芝长治久安和高质量发展不断取得新成效。\n会议强调,要坚持人民至上、生命至上,坚持极限思维、底线思维,严格落实“三管三必须”要求,强化应急、气象、水利等部门信息共享和会商研判,加强各类风险隐患排查整治,做好雨情水情汛情监测预警,突出抓好山洪泥石流易发区、在建工程营地、旅游景区等重点区域防范,组织开展应急演练和科普宣传,从严从实从细抓好安全生产和自然灾害防范各项工作,坚决确保人民群众生命财产安全。要全面贯彻党的教育方针,发挥教育人才“组团式”援藏优势,深入实施基础教育扩优提质计划和教师队伍建设“十大工程”,让教育成果更多更公平惠及各族群众。要认真贯彻《中华人民共和国生态环境法典》、青藏高原保护法及自治区实施办法,加快实施以生态修复工程为重点的国土绿化工程,全面推进“人间桃源·幸福林芝”建设,推动生态文明高地创建走深走实。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "安全生产",
+    "教育发展",
+    "生态文明"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Linzhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育发展",
+      "name_en": "Education Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林芝",
+    "党的建设",
+    "安全生产",
+    "教育发展",
+    "生态文明",
+    "习近平"
+  ],
+  "tags_en": [
+    "Linzhi",
+    "Party Building",
+    "Work Safety",
+    "Education Development",
+    "Ecological Civilization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260827-gov_lin_zhi-3fb076",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

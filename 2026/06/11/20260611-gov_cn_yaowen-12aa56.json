@@ -1,0 +1,88 @@
+{
+  "id": "20260611-gov_cn_yaowen-12aa56",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071853.htm",
+  "title_zh": "我国开展东西部协作30年 成效显著",
+  "title_en": "China's East-West Collaboration Achieves Significant Results Over 30 Years",
+  "summary_zh": "6月11日，国务院新闻办举行发布会，农业农村部介绍我国东西部协作开展30年来在产业合作、劳务协作及消费帮扶等方面的显著成效。",
+  "summary_en": "On June 11, the State Council Information Office held a press conference where the Ministry of Agriculture and Rural Affairs detailed the significant achievements of China's East-West Collaboration over the past 30 years.",
+  "body_zh": "国务院新闻办今天（6月11日）举行新闻发布会，农业农村部有关负责人介绍说，我国东西部协作已开展30年，为打赢脱贫攻坚战、巩固拓展脱贫攻坚成果发挥了重要作用。\n在巩固拓展脱贫攻坚成果同乡村振兴有效衔接过渡期，产业合作水平不断提高，引导企业到西部地区投资7500多亿元，推动产业集群化发展。劳务协作方式更加多元，帮助西部地区500多万农村劳动力实现就业。同时，消费帮扶方式转型升级，东部协作省份采购、帮助销售西部地区农产品近5700亿元。此外，互派干部1.6万名，把理念、技术、经验等引入西部地区。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "东西部协作",
+    "乡村振兴",
+    "脱贫攻坚"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东西部协作",
+      "name_en": "East-West Collaboration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "脱贫攻坚",
+      "name_en": "Poverty Alleviation"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办",
+    "农业农村部",
+    "东西部协作",
+    "乡村振兴",
+    "脱贫攻坚"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Ministry of Agriculture and Rural Affairs",
+    "East-West Collaboration",
+    "Rural Revitalization",
+    "Poverty Alleviation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260611-gov_cn_yaowen-12aa56",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

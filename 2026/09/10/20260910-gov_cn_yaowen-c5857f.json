@@ -1,0 +1,83 @@
+{
+  "id": "20260910-gov_cn_yaowen-c5857f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080678.htm",
+  "title_zh": "2026年APEC工商领导人峰会将于11月17日至18日在深圳举办",
+  "title_en": "2026 APEC CEO Summit to Be Held in Shenzhen on November 17-18",
+  "summary_zh": "中国贸促会9月10日介绍，2026年APEC工商领导人峰会将于11月17日至18日在深圳举办，主题为“共促繁荣，共赢未来”。",
+  "summary_en": "The China Council for the Promotion of International Trade said on Sept 10 that the 2026 APEC CEO Summit will be held in Shenzhen on Nov 17-18 under the theme \"Promoting Prosperity, Sharing the Future\".",
+  "body_zh": "新华社北京9月10日电（记者邹多为）记者9月10日从中国贸促会获悉，2026年亚太经合组织（APEC）工商领导人峰会将于11月17日至18日在深圳举办。\n作为2026年APEC东道主，中方将于11月18日至19日在深圳举行APEC第三十三次领导人非正式会议，2026年APEC工商领导人峰会是此次领导人非正式会议的配套活动。\n中国贸促会新闻发言人介绍，本届工商峰会以“共促繁荣，共赢未来”为主题，由中国贸促会主办，将邀请APEC经济体政商界代表约1000人，围绕亚太自贸区建设、互联互通、人工智能、数字经济、粤港澳大湾区建设、可持续发展等议题开展交流讨论，为促进亚太经济增长建言献策。\n今年以来，亚太工商界已通过APEC工商咨询理事会（ABAC）等渠道持续凝聚建设亚太共同体共识，为APEC“中国年”积累了高质量的工商界成果。11月14日至16日，中国贸促会还将在深圳举办ABAC第四次会议，各经济体ABAC代表将继续围绕“开放·互通·协同”年度主题深入开展研讨，总结全年工作。",
+  "image_url": null,
+  "published_at": "2026-09-10T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "亚太经合组织合作",
+    "数字经济",
+    "粤港澳大湾区"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织合作",
+      "name_en": "APEC Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粤港澳大湾区",
+      "name_en": "Guangdong-Hong Kong-Macao Greater Bay Area"
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "亚太经合组织合作",
+    "数字经济",
+    "粤港澳大湾区"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "APEC Cooperation",
+    "Digital Economy",
+    "Guangdong-Hong Kong-Macao Greater Bay Area"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260910-gov_cn_yaowen-c5857f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

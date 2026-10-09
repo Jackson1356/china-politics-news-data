@@ -1,0 +1,105 @@
+{
+  "id": "20260616-xinhua_js-cf4933",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260616/e5aeb691b0b14cf19d202fda5b54470a/c.html",
+  "title_zh": "国家人工智能应用中试基地（制造领域冶金方向）在南京启动",
+  "title_en": "National AI Application Pilot Base for Metallurgy Launched in Nanjing",
+  "summary_zh": "6月15日，国家人工智能应用中试基地（制造领域冶金方向）在南京启动，旨在推动钢铁行业智能化转型及AI成果产业化。",
+  "summary_en": "On June 15, the National AI Application Pilot Base for Metallurgy was launched in Nanjing to promote the intelligent transformation of the steel industry and the industrialization of AI achievements.",
+  "body_zh": "沈剑荣李忠军出席\n6月15日，国家人工智能应用中试基地（制造领域冶金方向）在南京正式启动。副省长沈剑荣，市长李忠军，工信部科技司副司长杜广达，中国工程院院士干勇、孙优贤、刘正东、姜涛、于海斌及外籍院士余艾冰出席。\n钢铁产业是关系国计民生的基础产业。推动钢铁行业智能化转型，是落实国家“人工智能+”专项行动的具体举措。此次基地的启动，将填补冶金领域AI成果从中试到产业化的关键一环，有力促进人工智能与钢铁产业深度融合。\n下一步，基地将聚焦钢铁产业高端化、智能化、绿色化发展方向，围绕行业共性需求和关键应用场景，聚力建设高质量数据集、行业模型、AI工具链和中试验证平台，加快推动人工智能技术从研发探索走向场景验证、从单点应用走向规模推广，为全国钢铁工业高质量发展注入新动能。\n中国钢研党委书记、董事长高宏斌，省政府副秘书长桂俊，市领导陆卫东、林小明参加。（杨凡）",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "钢铁产业",
+    "智能化转型"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": "Li Zhongjun"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工信部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "钢铁产业",
+      "name_en": "Steel Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能化转型",
+      "name_en": "Intelligent Transformation"
+    }
+  ],
+  "tags_zh": [
+    "李忠军",
+    "工信部",
+    "南京",
+    "人工智能",
+    "钢铁产业",
+    "智能化转型"
+  ],
+  "tags_en": [
+    "Li Zhongjun",
+    "Ministry of Industry and Information Technology",
+    "Nanjing",
+    "Artificial Intelligence",
+    "Steel Industry",
+    "Intelligent Transformation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-zhongjun",
+      {
+        "id": null,
+        "name_zh": "林小明"
+      },
+      {
+        "id": null,
+        "name_zh": "余艾冰"
+      }
+    ],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260616-xinhua_js-cf4933",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

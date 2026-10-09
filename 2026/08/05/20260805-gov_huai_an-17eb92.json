@@ -1,0 +1,88 @@
+{
+  "id": "20260805-gov_huai_an-17eb92",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1785916467954JFe3q3Cg.html",
+  "title_zh": "全市防台防汛复盘暨专题部署会召开",
+  "title_en": "City-wide Typhoon and Flood Prevention Review and Special Deployment Meeting Convened",
+  "summary_zh": "8月3日，淮安市召开防台防汛复盘暨专题部署会，市长顾坤要求复盘总结并扎实做好第13号台风“白海豚”防范应对工作。",
+  "summary_en": "On August 3, Huai'an held a review and deployment meeting on typhoon and flood prevention. Mayor Gu Kun stressed comprehensive review and preparedness for Typhoon No. 13 'Baiji'.",
+  "body_zh": "8月3日，全市防台防汛复盘暨专题部署会召开。市长顾坤强调，要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，认真落实省委省政府决策部署和市委工作要求，坚持人民至上、生命至上，强化底线思维、极限思维，全面复盘总结前一阶段防台防汛工作，以更加完善的机制、更加周密的部署、更加专业的举措，未雨绸缪做好第13号台风“白海豚”和各类灾害性天气防范应对工作，全力守护好人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "welfare",
+  "keywords": [
+    "防台防汛",
+    "灾害应对"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防台防汛",
+      "name_en": "Typhoon and Flood Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害应对",
+      "name_en": "Disaster Response"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "防台防汛",
+    "灾害应对"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Typhoon and Flood Prevention",
+    "Disaster Response"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "周密的"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-gov_huai_an-17eb92",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

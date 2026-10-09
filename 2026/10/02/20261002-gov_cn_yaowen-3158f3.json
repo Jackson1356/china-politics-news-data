@@ -1,0 +1,83 @@
+{
+  "id": "20261002-gov_cn_yaowen-3158f3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082611.htm",
+  "title_zh": "超2500万人次 铁路旅客发送量创单日新高",
+  "title_en": "China Railway Passenger Trips Hit Single-Day Record of Over 25 Million",
+  "summary_zh": "10月1日全国铁路发送旅客2520.4万人次，创单日发送量历史新高；10月2日预计发送2039万人次，加开列车1462列，运输安全平稳有序。",
+  "summary_en": "China's railways carried 25.204 million passengers on Oct 1, a record single-day high; about 20.39 million were expected on Oct 2, with 1,462 extra trains added.",
+  "body_zh": "新华社北京10月2日电（记者樊曦、王优玲）记者2日从中国国家铁路集团有限公司获悉，10月1日全国铁路发送旅客2520.4万人次，创单日旅客发送量历史新高，运输安全平稳有序。10月2日，全国铁路预计发送旅客2039万人次，加开列车1462列。\n10月2日，铁路客流继续保持高位运行，从车票预售情况来看，2日热门出发城市主要有北京、广州、上海、成都、深圳、杭州、武汉、西安、郑州、南京；热门到达城市主要有北京、广州、成都、杭州、上海、武汉、西安、郑州、南京、长沙；广州至南宁，西安至成都往返，北京至沈阳、郑州、青岛，广州至武汉、北京至济南等热门区间客流相对集中。\n各地铁路部门积极应对客流高峰，加强旅客运输组织，落实便民利民惠民举措，努力保障旅客平安便捷温馨出行。国铁太原局与地方交通部门及景区密切联动，加开大同南站往返云冈石窟、恒山等地的接驳大巴。国铁呼和浩特局在包头至银川高铁包头至乌海段增开动车组列车11列，满足旅客出行需求。国铁武汉局以宜兴高铁开通为契机，联合宜昌、兴山两地政府推出“高铁票就是优惠券”活动，旅客凭乘车凭证和身份证可享受景区、酒店、民宿专属优惠。",
+  "image_url": null,
+  "published_at": "2026-10-02T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路客运",
+    "假日经济",
+    "运输保障"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路客运",
+      "name_en": "Railway Passenger Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假日经济",
+      "name_en": "Holiday Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "运输保障",
+      "name_en": "Transport Service Guarantee"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路客运",
+    "假日经济",
+    "运输保障"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Passenger Transport",
+    "Holiday Economy",
+    "Transport Service Guarantee"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-gov_cn_yaowen-796e50",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

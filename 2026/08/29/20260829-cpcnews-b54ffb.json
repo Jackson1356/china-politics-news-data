@@ -1,0 +1,100 @@
+{
+  "id": "20260829-cpcnews-b54ffb",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0829/c64387-40788461.html",
+  "title_zh": "平陆运河顺利通过交工验收",
+  "title_en": "Pinglu Canal Passes Completion Acceptance",
+  "summary_zh": "8月28日，平陆运河在广西南宁通过交工验收，为9月通航奠定坚实基础。",
+  "summary_en": "On August 28, the Pinglu Canal passed its completion acceptance in Nanning, Guangxi, laying a solid foundation for navigation in September.",
+  "body_zh": "本报南宁8月28日电 （记者庞革平、张云河）28日，平陆运河顺利通过交工验收，为9月通航奠定坚实基础。\n通过实地现场核查、查阅内业资料、听取各方工作汇报、集体评议讨论等规定流程，交工验收委员会一致认为：平陆运河航道线形顺直、水域尺度达标，边坡支护稳固、生态护岸绿化景观效果好，枢纽船闸及金属结构设备工程实体质量合格，且各类技术指标满足规范及设计要求，内业资料完整齐全，管理制度健全，一致同意平陆运河通过交工验收。\n本次交工验收于8月27日至28日组织实施。由广西壮族自治区交通运输厅、广西海事局、平陆运河集团等多家单位组成的交工验收委员会共同参与验收工作。\n《 人民日报 》（ 2026年08月29日 06 版）",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "industry",
+  "keywords": [
+    "交通基础设施",
+    "内河航运"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广西壮族自治区交通运输厅",
+      "name_en": "Department of Transport of Guangxi Zhuang Autonomous Region"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-NN",
+      "name_zh": "南宁",
+      "name_en": "Nanning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transportation Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "内河航运",
+      "name_en": "Inland Waterway Shipping"
+    }
+  ],
+  "tags_zh": [
+    "广西壮族自治区交通运输厅",
+    "南宁",
+    "交通基础设施",
+    "内河航运"
+  ],
+  "tags_en": [
+    "Department of Transport of Guangxi Zhuang Autonomous Region",
+    "Nanning",
+    "Transportation Infrastructure",
+    "Inland Waterway Shipping"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方工作"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX-NN"
+    ],
+    "companies": [
+      {
+        "name_zh": "广西壮族自治区交通运输厅",
+        "name_en": "Department of Transport of Guangxi Zhuang Autonomous Region"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-cpcnews-b54ffb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gx",
+      "source_tier": 3,
+      "url": "http://gx.people.com.cn/n2/2026/0829/c179435-41680864.html",
+      "title_zh": "平陆运河顺利通过交工验收",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

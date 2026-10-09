@@ -1,0 +1,97 @@
+{
+  "id": "20260731-gov_yan_cheng-03d737",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/7/31/art_49_4443520.html",
+  "title_zh": "盐城市领导开展“八一”走访慰问活动",
+  "title_en": "Yancheng Leaders Conduct Army Day Visits to Troops and Firefighters",
+  "summary_zh": "7月30日，盐城市委书记严汉平、代市长吴炜等市领导分别走访慰问驻盐部队和消防救援队伍，致以节日问候和崇高敬意。",
+  "summary_en": "On July 30, Yancheng Party Secretary Yan Hanping and acting Mayor Wu Wei visited troops and fire rescue teams stationed in Yancheng to extend festive greetings and high respect.",
+  "body_zh": "八一建军节即将到来，7月30日，市委书记严汉平和市委副书记、代市长吴炜等市领导，分别走访慰问驻盐部队和消防救援队伍，代表市委、市政府和全市人民，向广大官兵、消防指战员致以节日问候和崇高敬意。\n严汉平首先来到市消防救援支队，视频连线察看备勤情况，实地观摩消防装备展示，详细了解火灾防控、应急救援、队伍建设等工作，肯定全体消防指战员在灭火救灾、抢险救援等方面作出的积极贡献，勉励大家牢记职责使命，锤炼过硬本领，提升综合救援能力，做好常态化备勤、应急处置准备，守护人民群众生命财产安全，持续为盐城高质量发展筑牢安全屏障。在武警盐城支队，严汉平认真听取部队建设情况介绍，关切询问官兵训练生活情况，感谢广大官兵长期扎根驻地，在维稳处突、抢险救灾、双拥共建中发挥了不可替代作用，希望广大官兵继续发扬优良传统，强化练兵备战，深化军地协同，为维护社会大局稳定、护航经济高质量发展再立新功。市委、市政府将一如既往全力支持武警盐城支队改革建设发展，为部队履行使命任务、发展新质战斗力提供有力保障。\n吴炜在盐城军分区详细了解部队建设、战备训练、国防动员等工作。他说，长期以来，盐城军分区传承拥政爱民优良传统，积极参与地方建设，各项工作争先进位、走在全省前列，为盐城经济社会发展作出了重要贡献。希望盐城军分区锚定建军一百年奋斗目标，强化使命担当，保持优良作风，更高水平推进军地协同，为全市发展大局凝聚强大合力。我们将一如既往关心支持国防和军队现代化建设，用心用情做好服务保障，推动军民融合深度发展，共同书写新时代军政军民团结新篇章。来到中国人民解放军94565部队，吴炜看望一线执勤官兵，表示将大力弘扬双拥优良传统，切实为部队建设发展创造更加有利条件、营造更加良好环境，全心全意为广大官兵解决后顾之忧，全力为部队练兵备战、履行使命做好服务保障。\n副市长高尚德来到空军94535部队62分队开展慰问。\n盐城军分区司令员吴哲明参加。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "双拥工作",
+    "走访慰问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Dual Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "走访慰问",
+      "name_en": "Visiting and Condolence"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "吴炜",
+    "盐城",
+    "双拥工作",
+    "走访慰问"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Wu Wei",
+    "Yancheng",
+    "Dual Support Work",
+    "Visiting and Condolence"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "吴哲明"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260731-gov_yan_cheng-03d737",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

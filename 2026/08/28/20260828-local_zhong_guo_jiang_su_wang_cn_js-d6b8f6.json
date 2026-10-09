@@ -1,0 +1,116 @@
+{
+  "id": "20260828-local_zhong_guo_jiang_su_wang_cn_js-d6b8f6",
+  "source": "local_zhong_guo_jiang_su_wang_cn_js",
+  "source_name_zh": "中国江苏网",
+  "source_name_en": "中国江苏网",
+  "source_media_id": "cac-cn-js-97d8bc0710",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://jsnews.jschina.com.cn/jsyw/202608/t20260828_s6a9183bae4b0b3294d7a643c.shtml",
+  "title_zh": "中共江苏省委召开民主协商会",
+  "title_en": "Jiangsu Provincial CPC Committee Holds Democratic Consultation Meeting",
+  "summary_zh": "8月28日，中共江苏省委召开民主协商会，省委书记信长星主持并就有关人事安排作说明，各民主党派、工商联和无党派人士一致赞同。",
+  "summary_en": "On August 28, the CPC Jiangsu Provincial Committee held a democratic consultation meeting. Secretary Xin Changxing presided and explained personnel arrangements; attendees unanimously agreed.",
+  "body_zh": "中共江苏省委召开民主协商会\n信长星主持会议\n交汇点讯 8月28日，中共江苏省委召开民主协商会。省委书记信长星主持会议，并就有关人事安排事项作了说明。与会各民主党派省委会、省工商联负责人和无党派人士代表进行了认真协商，一致赞同有关人事安排意见。\n省委常委、省委秘书长陈忠伟出席会议。陈星莺、王学锋、胡刚、周岚等各民主党派省委会、省工商联负责人和无党派人士代表，省有关部门负责同志参加会议。\n新华日报·交汇点记者 黄伟",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "party",
+  "keywords": [
+    "民主协商",
+    "人事安排"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共江苏省委",
+      "name_en": "CPC Jiangsu Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主协商",
+      "name_en": "Democratic Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事安排",
+      "name_en": "Personnel Arrangements"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "苏省委",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "中共江苏省委",
+    "江苏",
+    "民主协商",
+    "人事安排",
+    "陈忠伟",
+    "苏省委"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "CPC Jiangsu Provincial Committee",
+    "Jiangsu",
+    "Democratic Consultation",
+    "Personnel Arrangements"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "chen-zhongwei-jiangsu",
+      {
+        "id": null,
+        "name_zh": "苏省委"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共江苏省委",
+        "name_en": "CPC Jiangsu Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260828-local_zhong_guo_jiang_su_wang_cn_js-d6b8f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

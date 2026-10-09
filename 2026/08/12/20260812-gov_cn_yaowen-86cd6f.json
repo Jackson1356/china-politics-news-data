@@ -1,0 +1,74 @@
+{
+  "id": "20260812-gov_cn_yaowen-86cd6f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077915.htm",
+  "title_zh": "上半年互联网业务收入同比增10.1%",
+  "title_en": "Internet Business Revenue Up 10.1% in First Half of Year",
+  "summary_zh": "工信部数据显示，上半年我国互联网企业业务收入10675亿元，同比增长10.1%，利润总额和研发经费投入均实现两位数增长。",
+  "summary_en": "According to MIIT data, China's internet business revenue reached 1.0675 trillion yuan in H1, up 10.1% year-on-year, with both profits and R&D spending growing by double digits.",
+  "body_zh": "上半年互联网业务收入同比增10.1%\n利润总额、研发经费投入均实现两位数增长\n工业和信息化部数据显示：上半年，我国规模以上互联网和相关服务企业（以下简称“互联网企业”）完成互联网业务收入10675亿元，同比增长10.1%。\n上半年，利润总额增速加快，互联网企业实现利润总额989.9亿元，同比增长16.6%，增速较前5月提高6.9个百分点。研发经费投入稳定增长，互联网企业共投入研发经费595.5亿元，同比增长14.1%。（记者 刘温馨）",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "economy",
+  "keywords": [
+    "互联网产业",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互联网产业",
+      "name_en": "Internet Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "互联网产业",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Internet Industry",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260812-gov_cn_yaowen-86cd6f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

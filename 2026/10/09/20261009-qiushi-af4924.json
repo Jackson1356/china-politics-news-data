@@ -1,0 +1,110 @@
+{
+  "id": "20261009-qiushi-af4924",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20261009/16086fa1add04f729d5981c57301a1d1/c.html",
+  "title_zh": "中国人民银行发布关于人民币汇率的政策立场",
+  "title_en": "People's Bank of China Issues Policy Stance on the RMB Exchange Rate",
+  "summary_zh": "10月8日，中国人民银行在北京发布关于人民币汇率的政策立场，强调实施有管理的浮动汇率制度，中国无意通过汇率贬值获取贸易竞争优势。",
+  "summary_en": "On October 8, the People's Bank of China issued a policy stance on the RMB exchange rate, stressing a managed floating regime and stating that China has no intention of seeking trade advantage through currency depreciation.",
+  "body_zh": "新华社北京10月8日电（记者吴雨、任军）10月8日，中国人民银行发布关于人民币汇率的政策立场，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。\n过去二十多年，人民币汇率双向浮动。2010年以来，人民币汇率经历了多轮升贬值周期，双向浮动特征更加明显，弹性增强。\n中国人民银行表示，中国贸易发展根源于产业国际竞争力的提升，中国没有必要，也无意通过汇率贬值获取贸易竞争优势，从不搞竞争性货币贬值。汇率受经济增长、货币政策、金融市场、地缘政治、突发风险事件等多种因素影响，与经常账户不存在简单线性关系。\n当前，全球经济失衡问题引发广泛讨论。中国人民银行表示，全球经济失衡与全球分工格局演进、国际货币体系固有矛盾、部分国家长期高财政赤字高消费等密切相关，需要各方共同推动解决。将本国产业竞争力下降、财经约束弱化和复杂结构性问题简单归因他国汇率，是对自身调整责任的推诿和回避。\n历经长期发展，学术研究中衍生出多类均衡汇率评估模型。中国人民银行指出，国际上有关汇率均衡水平的评估方法总体尚不成熟，将个别评估结论作为人民币汇率低估的“官方依据”，是对评估结果的曲解和误用。\n中国人民银行表示，中国为全球经济多轮动态平衡作出积极贡献，“十五五”期间，将坚持推进经济增长方式转型，扩大内需，完善营商环境，深化高水平对外开放，促进全球经济向更加开放、包容、平衡的方向发展。\n网站编辑 -\n汤宝兰\n张盼 审核 - 刘小畅",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "人民币汇率",
+    "有管理的浮动汇率制度",
+    "全球经济失衡",
+    "高水平对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民币汇率",
+      "name_en": "RMB Exchange Rate"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "有管理的浮动汇率制度",
+      "name_en": "Managed Floating Exchange Rate Regime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球经济失衡",
+      "name_en": "Global Economic Imbalances"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Standard Opening Up"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "北京",
+    "人民币汇率",
+    "有管理的浮动汇率制度",
+    "全球经济失衡",
+    "高水平对外开放"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Beijing",
+    "RMB Exchange Rate",
+    "Managed Floating Exchange Rate Regime",
+    "Global Economic Imbalances",
+    "High-Standard Opening Up"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261009-qiushi-af4924",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": null,
+      "url": "http://yn.people.com.cn/n2/2026/1009/c378440-41716671.html",
+      "title_zh": "中国人民银行发布关于人民币汇率的政策立场",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

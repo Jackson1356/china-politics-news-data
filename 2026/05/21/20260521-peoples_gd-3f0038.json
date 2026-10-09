@@ -1,0 +1,110 @@
+{
+  "id": "20260521-peoples_gd-3f0038",
+  "source": "peoples_gd",
+  "source_name_zh": "人民网 广东",
+  "source_name_en": "People's Daily Guangdong",
+  "source_url": "http://gd.people.com.cn/n2/2026/0522/c123932-41587643.html",
+  "title_zh": "进一步安排部署重点地区防汛救灾工作",
+  "title_en": "Further Deployment of Flood Control and Disaster Relief Work in Key Areas",
+  "summary_zh": "5月21日，国家防总办公室在北京组织视频会商，调度多个重点省份，部署应对中东部新一轮强降雨的防汛救灾工作。",
+  "summary_en": "On May 21, the Office of the State Flood Control and Drought Relief Headquarters held a video meeting in Beijing to deploy flood control and disaster relief efforts across several key provinces facing heavy rainfall.",
+  "body_zh": "国家防总办公室\n进一步安排部署重点地区防汛救灾工作\n本报北京5月21日电 （记者刘温馨）5月21日晚，国家防总办公室组织防汛专题视频会商调度，与自然资源部、水利部、中国气象局联合会商，调度福建、江西、湖北、湖南、广东、广西、四川、贵州、陕西、甘肃等重点省份，分析研判中东部新一轮较大范围降雨过程发展趋势，安排部署重点地区防汛救灾工作。\n会商指出，刚刚过去的强降雨过程，是今年以来最强降雨过程，范围广、强度大，极端性明显。新一轮降雨过程将影响中东部多个省份，局地将出现暴雨或大暴雨，并伴有雷暴大风、短时强降水等强对流天气，特别是部分地区降雨叠加、致灾风险高，防汛形势严峻复杂。会议强调，要压紧压实防汛救灾责任，突出重点严格落实各项防范应对措施。\n目前，国家防总、国家防减救灾委维持针对湖北、湖南、广西的防汛四级应急响应和国家四级救灾应急响应，国家防总办公室、国家防减救灾委办公室前期派出的工作组继续在重点地区开展工作。\n《 人民日报 》（ 2026年05月22日 04 版）",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "水利部",
+    "中国气象局",
+    "北京",
+    "防汛救灾",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Ministry of Water Resources",
+    "China Meteorological Administration",
+    "Beijing",
+    "Flood Control and Disaster Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR",
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260521-peoples_gd-3f0038",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gs",
+      "source_tier": 3,
+      "url": "http://gs.people.com.cn/n2/2026/0522/c183342-41587834.html",
+      "title_zh": "进一步安排部署重点地区防汛救灾工作",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "20260729-local_hai_xia_wang_cn_fj-dc5afb",
+  "source": "local_hai_xia_wang_cn_fj",
+  "source_name_zh": "海峡网",
+  "source_name_en": "海峡网",
+  "source_media_id": "cac-cn-fj-148595a132",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.hxnews.com/news/gn/szxw/202607/29/2263620.shtml",
+  "title_zh": "总书记心系侨务工作",
+  "title_en": "Xi Jinping Emphasizes Overseas Chinese Affairs Work",
+  "summary_zh": "近日，习近平总书记对侨务工作作出重要指示，强调更好凝聚侨心侨力，促进海内外中华儿女团结奋斗。",
+  "summary_en": "Recently, General Secretary Xi Jinping gave important instructions on overseas Chinese affairs, emphasizing the need to better unite the hearts and strengths of overseas Chinese and promote unity among Chinese people at home and abroad.",
+  "body_zh": "近日，习近平总书记对侨务工作作出重要指示强调，更好凝聚侨心侨力，促进海内外中华儿女团结奋斗。\n侨务工作是党和国家一项长期性、战略性工作，始终与国家经济社会发展、对外友好交流合作紧密相连，始终与时代发展脉搏同频共振。党的十八大以来，习近平总书记始终高度重视侨务工作，在不同场合作出一系列重要论述。一起学习领会。\n- 最新时政新闻 频道推荐\n全国政协十四届四次会议闭幕 习近平等出席2026-07-29\n- 进入图片频道最新图文\n- 进入视频频道最新视频\n- 一周热点新闻",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "party",
+  "keywords": [
+    "侨务工作",
+    "凝聚侨心侨力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "侨务工作",
+      "name_en": "Overseas Chinese Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "凝聚侨心侨力",
+      "name_en": "Unite Overseas Chinese Hearts and Strengths"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "侨务工作",
+    "凝聚侨心侨力"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Overseas Chinese Affairs",
+    "Unite Overseas Chinese Hearts and Strengths"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260729-local_hai_xia_wang_cn_fj-dc5afb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-07/29/content_9431959.html",
+      "title_zh": "学习新语丨总书记心系侨务工作",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20261008-xinhua_politics-8b7cd7",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261008/0750e0bd556f4998bedb4cfbac094381/c.html",
+  "title_zh": "国庆假期全国安全形势总体平稳",
+  "title_en": "National Safety Situation Generally Stable During National Day Holiday",
+  "summary_zh": "应急管理部10月8日通报，截至10月7日22时，国庆假期全国安全形势总体平稳，未发生重大以上灾害事故。",
+  "summary_en": "China's Ministry of Emergency Management reported on Oct 8 that as of 22:00 on Oct 7, the national safety situation remained generally stable during the National Day holiday, with no major or larger-scale disasters or accidents.",
+  "body_zh": "新华社北京10月8日电（记者黄韬铭）记者8日从应急管理部获悉，截至10月7日22时，国庆假期全国安全形势总体平稳，未发生重大以上灾害事故。\n假期期间，国家综合性消防救援队伍在重点部位和场所设立5096个前置执勤点，接警出动5.4万次，出动消防救援人员50.2万人次，营救疏散转移群众3500余人。国家安全生产应急救援队伍出动8100余人次，为1048家（次）企业提供风险防范和安全技术服务。\n国务院安委办、应急管理部节前专题部署国庆假期前后安全防范重点工作，国家防减救灾办、应急管理部会同相关部门对国庆假期全国自然灾害风险形势进行会商研判，针对性部署洪涝、地质灾害、森林草原火灾等防范应对工作。假期期间每日会商调度，派出工作组赴地方进行暗访检查，发现各类问题隐患1900余个，及时督促立行立改、强化安全管控。",
+  "image_url": null,
+  "published_at": "2026-10-08T12:00:00+00:00",
+  "event_date": "2026-10-07",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "welfare",
+  "keywords": [
+    "安全生产",
+    "应急救援",
+    "自然灾害防范"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院安委办",
+      "name_en": "Work Safety Committee Office of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急救援",
+      "name_en": "Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害防范",
+      "name_en": "Natural Disaster Prevention"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国务院安委办",
+    "北京",
+    "安全生产",
+    "应急救援",
+    "自然灾害防范"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Work Safety Committee Office of the State Council",
+    "Beijing",
+    "Work Safety",
+    "Emergency Rescue",
+    "Natural Disaster Prevention"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国务院安委办",
+        "name_en": "Work Safety Committee Office of the State Council"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261008-xinhua_politics-8b7cd7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

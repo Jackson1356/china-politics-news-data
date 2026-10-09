@@ -1,0 +1,97 @@
+{
+  "id": "20260921-gov_wei_hai-0313b9",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/9/21/art_58817_6628927.html",
+  "title_zh": "威海召开高层次专家人才座谈会 张海波出席并讲话",
+  "title_en": "Weihai Holds Symposium with High-Level Expert Talents, Zhang Haibo Attends and Addresses",
+  "summary_zh": "9月20日，威海市召开高层次专家人才座谈会，市委书记张海波出席并讲话，多位院士专家围绕产业升级、校地合作、人才引育等建言献策。",
+  "summary_en": "On September 20, Weihai held a symposium with high-level experts and academicians. Municipal Party Secretary Zhang Haibo attended and called for cooperation on industrial upgrading, talent recruitment and research commercialization.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）9月20日，高层次专家人才座谈会召开，邀请两院院士等高层次专家人才，为威海经济社会高质量发展建言献策。市委书记张海波出席会议并讲话，市领导闫金明、于宁、张善东、刘奎忠、张刚参加。\n全媒体新闻中心记者 朱春晓/摄\n会上，任露泉、蹇锡高、刘建亚、张国范、许云霄、朱敏红等6位院士、专家先后发言，结合自身研究领域，聚焦产业升级、校地合作、人才引育、资本赋能等方面，为我市经济社会发展提出意见建议。\n在认真聆听各位院士、专家的发言后，张海波代表市委、市人民政府对大家长期以来给予威海的关心支持表示感谢。他指出，大家的发言立足各自研究领域，紧扣威海发展实际，站位高、针对性强，听后很受启发。我们将认真梳理、学习吸纳，落实到具体工作中。希望各位院士、专家一如既往关心威海、支持威海，共同助力威海经济社会高质量发展。当好威海发展战略决策的“智囊”，立足全国全省发展大局，围绕重大规划、重大事项、重大项目多做前瞻性思考，帮助威海更好地将比较优势转化为发展优势。助力威海提升产业竞争力，聚焦优势产业和薄弱环节给予专业指导，加大与威海企业务实合作，实现产业能级不断跃升。推动科研成果在威海落地转化，用好各类创新平台载体，实现产业创新与科技创新深度融合，促进更多创新成果从实验室走向生产线。当好威海“双招双引”的桥梁纽带，积极推介威海产业机遇和政策环境，招引更多项目、人才汇聚威海，构建“以产聚才、以才兴产”的良性循环。威海将进一步畅通对接渠道，全力以赴做好服务保障，为大家在威开展工作创造更好条件，努力实现合作共赢。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "人才引育",
+    "产业升级",
+    "校地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才引育",
+      "name_en": "Talent Recruitment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校地合作",
+      "name_en": "University-Locality Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "人才引育",
+    "产业升级",
+    "校地合作"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Talent Recruitment",
+    "Industrial Upgrading",
+    "University-Locality Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "张刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_wei_hai-0313b9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20260805-gov_wei_hai-a99878",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/8/5/art_58817_6527605.html",
+  "title_zh": "威海军分区党委第一书记任职会议召开 张海波任第一书记",
+  "title_en": "Zhang Haibo Appointed First Secretary of CPC Committee of Weihai Military Subarea",
+  "summary_zh": "8月4日，威海军分区党委第一书记任职会议召开，省军区政委赵东斌宣读任职通知，张海波任军分区党委第一书记。",
+  "summary_en": "On August 4, the appointment meeting for the First Secretary of the CPC Committee of Weihai Military Subarea was held. Zhao Dongbin read the appointment notice, and Zhang Haibo assumed the post.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）8月4日，威海军分区党委第一书记任职会议召开，省军区少将政治委员赵东斌宣读省军区党委任职通知，增补张海波同志为中共威海军分区委员会委员、常务委员会委员，任第一书记。市委书记、军分区党委第一书记张海波作表态讲话，市和威海军分区领导于宁、张建础、李孟良、袁志勇出席，张建础主持。\n全媒体新闻中心记者 孙大伟/图\n赵东斌充分肯定威海市人民武装工作取得的成绩，指出，张海波同志担任军分区党委第一书记，是对威海市人民武装工作的有力加强，是军分区党委班子建设的一个新起点。希望军分区党委在第一书记的领导下，强化责任担当、振奋精神状态、务实工作作风，奋力开创全市国防动员和后备力量建设新局面。要牢牢把握政治建设根本统领，深入贯彻新时代政治建军方略，全面深入贯彻军委主席负责制，不断提升人民武装工作质效。要聚力抓好备战打仗主责主业，坚持党委领战、突出体系应战、深化动员为战，切实做好应对各种复杂局面的准备。要筑牢军地团结奋斗坚实根基，强化军地协同发展，抓好全民国防教育，积极遂行急难险重任务，为“第二故乡”发展作出应有贡献。\n张海波表示，完全服从、坚决拥护省军区党委的任职决定。一定不辱使命、不负重托，团结带领军分区党委一班人，干事创业、担当尽责，努力开创全市人民武装工作新局面。强化政治引领，坚定扛牢党管武装第一责任。聚焦主责主业，全面提升援战保战能力水平。深化双拥共建，巩固军政军民团结良好局面。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "party",
+  "keywords": [
+    "党管武装",
+    "国防动员"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赵东斌",
+      "name_en": "Zhao Dongbin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党管武装",
+      "name_en": "Party Leadership over Armed Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防动员",
+      "name_en": "National Defense Mobilization"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "赵东斌",
+    "威海",
+    "党管武装",
+    "国防动员"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Zhao Dongbin",
+    "Weihai",
+    "Party Leadership over Armed Forces",
+    "National Defense Mobilization"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "张建础"
+      },
+      {
+        "id": null,
+        "name_zh": "袁志勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-gov_wei_hai-a99878",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

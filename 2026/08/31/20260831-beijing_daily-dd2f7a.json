@@ -1,0 +1,79 @@
+{
+  "id": "20260831-beijing_daily-dd2f7a",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/31/11940106.shtml",
+  "title_zh": "有外媒对泥石流灾害成因发表不当言论，外交部：在大灾大难面前，坚决反对没有事实依据的恶意揣测",
+  "title_en": "Foreign Ministry Rejects Baseless Speculation on Landslide Cause",
+  "summary_zh": "8月31日，外交部发言人郭嘉昆主持例行记者会，回应外媒对中尼边境泥石流灾害成因的不当言论，坚决反对没有事实依据的恶意揣测，并通报中方救援进展。",
+  "summary_en": "On August 31, Foreign Ministry Spokesperson Guo Jiakun held a regular press conference, responding to inappropriate remarks by foreign media on the cause of the Sino-Nepal border landslide, firmly opposing baseless speculation, and updating on China's rescue efforts.",
+  "body_zh": "8月31日，外交部发言人郭嘉昆主持例行记者会。\n近日，有外媒对尼泊尔和中国边境地区泥石流灾害的成因发表不当言论。会上，彭博社记者就此提问。\n郭嘉昆\n郭嘉昆表示，我们注意到，中国和尼泊尔两国的专家和官方机构对此次灾害的成因已经作出了一些研判，分析是由于尼泊尔境内高位冰川崩塌引发的。\n“在大灾大难面前，我们坚决反对没有事实依据的恶意揣测。”郭嘉昆说。\n会上，路透社记者提问，据报道，上周尼泊尔发生泥石流灾害后，有大约900人被困在水电项目的隧道内。外交部能否确认，是否有中国工人被困？\n郭嘉昆介绍，尼方一侧受灾地区失联中国公民近百人，尼方正在设法全力搜救失联或被困人员。中方隧道专家已经抵达尼泊尔灾区，协助开展相关的救援工作。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "灾害救援",
+    "外交回应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援",
+      "name_en": "Disaster Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交回应",
+      "name_en": "Diplomatic Response"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "灾害救援",
+    "外交回应"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Disaster Rescue",
+    "Diplomatic Response"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260831-beijing_daily-dd2f7a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

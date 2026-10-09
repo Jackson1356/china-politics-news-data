@@ -1,0 +1,93 @@
+{
+  "id": "20260810-gov_lin_zhi-c0f5a0",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/96a7e7ba1ad6451abdd8b2818e294be3.shtml",
+  "title_zh": "嘎玛泽登主持召开会议专题研究农业农村重点工作",
+  "title_en": "Gama Zedeng Chairs Meeting on Key Agricultural and Rural Work",
+  "summary_zh": "8月7日，西藏自治区党委副书记、自治区主席嘎玛泽登在拉萨主持召开会议，专题研究农业农村重点工作，强调推动农牧业增效益、农牧民增收入、农牧区增活力。",
+  "summary_en": "On August 7, Gama Zedeng, deputy secretary of the regional Party committee and chairman of the Tibet Autonomous Region, chaired a meeting in Lhasa on key agricultural and rural work, urging efforts to increase agricultural efficiency, farmers' income, and rural vitality.",
+  "body_zh": "嘎玛泽登主持召开会议专题研究农业农村重点工作时强调\n强化协调联动凝聚发展合力 千方百计推动 农牧业增效益农牧民增收入农牧区增活力\n本报拉萨8月7日讯（记者 唐启胜）7日，区党委副书记、自治区主席嘎玛泽登主持召开会议专题研究农业农村重点工作。他强调，要深入贯彻落实习近平总书记关于“三农”工作的重要论述，将“三农”工作融入稳定、发展、生态、强边四件大事大局中思考谋划推进，强化协调联动，凝聚发展合力，千方百计推动农牧业增效益、农牧民增收入、农牧区增活力。\n嘎玛泽登指出，要站在坚定拥护“两个确立”、坚决做到“两个维护”的政治高度，深刻领会“三农”工作“重中之重”的战略定位、准确把握“三农”工作“国之大者”的深刻内涵、坚决落实“三农”工作“大有可为”的政治责任，以更大决心、更明确目标、更有力举措，扎实做好各项工作，确保党中央决策部署在西藏不折不扣落地生根、开花结果。\n嘎玛泽登强调，要严守安全底线，落实粮食安全责任，夯实粮食安全根基。要抓牢中心任务，加力落实农牧民增收“七大行动”，确保全年目标如期实现。要凝聚工作合力，推动责任链条上下贯通，加强部门联动，把发展成效体现到农牧民增收上来。要持续改进作风，牢固树立和践行正确政绩观，以实干实绩交出经得起实践、历史、人民检验的合格答卷。\n次仁平措出席。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "economy",
+  "keywords": [
+    "三农工作",
+    "农牧民增收"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gama-cedain",
+      "name_zh": "嘎玛泽登",
+      "name_en": "Gama Zedeng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三农工作",
+      "name_en": "Three Rural Issues"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农牧民增收",
+      "name_en": "Income Increase for Farmers"
+    }
+  ],
+  "tags_zh": [
+    "嘎玛泽登",
+    "拉萨",
+    "三农工作",
+    "农牧民增收"
+  ],
+  "tags_en": [
+    "Gama Zedeng",
+    "Lhasa",
+    "Three Rural Issues",
+    "Income Increase for Farmers"
+  ],
+  "entities": {
+    "politicians": [
+      "gama-cedain",
+      "gama-zedeng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260810-gov_lin_zhi-c0f5a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260810_174588.html",
+      "title_zh": "嘎玛泽登：强化协调联动凝聚发展合力千方百计推动农牧业增效益农牧民增收入农牧区增活力",
+      "published_at": "2026-08-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

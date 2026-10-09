@@ -1,0 +1,104 @@
+{
+  "id": "20260816-gov_cn_yaowen-27cf48",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078189.htm",
+  "title_zh": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
+  "title_en": "The Body of Comrade Zhu Rongji to Be Cremated on the 18th; Flags to Fly at Half-Mast in Tiananmen and Other Places",
+  "summary_zh": "新华社北京8月16日电，朱镕基同志遗体将于18日在北京火化，天安门、新华门等地将下半旗志哀。",
+  "summary_en": "According to Xinhua News Agency, Beijing, Aug. 16 - The body of Comrade Zhu Rongji will be cremated in Beijing on the 18th, and flags will fly at half-mast at Tiananmen, Xinhua Gate and other places.",
+  "body_zh": "朱镕基同志遗体18日火化\n天安门等地将下半旗志哀\n新华社北京8月16日电 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志的遗体，将于18日在北京火化。\n为悼念朱镕基同志，18日，首都天安门、新华门、人民大会堂、外交部，各省、自治区、直辖市党委和政府所在地，香港特别行政区、澳门特别行政区，各边境口岸，对外海空港口，中国驻外使领馆将下半旗志哀。",
+  "image_url": null,
+  "published_at": "2026-08-16T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "party",
+  "keywords": [
+    "悼念活动",
+    "下半旗志哀"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "朱镕基",
+      "name_en": "Zhu Rongji"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "悼念活动",
+      "name_en": "Mourning Activities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "下半旗志哀",
+      "name_en": "Flags at Half-Mast"
+    }
+  ],
+  "tags_zh": [
+    "朱镕基",
+    "北京",
+    "悼念活动",
+    "下半旗志哀"
+  ],
+  "tags_en": [
+    "Zhu Rongji",
+    "Beijing",
+    "Mourning Activities",
+    "Flags at Half-Mast"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260816-gov_cn_yaowen-27cf48",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "https://www.qstheory.cn/20260816/c67faf9850004d97954779dea9fac709/c.html",
+      "title_zh": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
+      "published_at": "2026-08-16T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/0817/c64036-40780949.html",
+      "title_zh": "朱镕基同志遗体18日火化",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": null,
+      "url": "https://www.guancha.cn/politics/2026_08_16_827500.shtml",
+      "title_zh": "朱镕基同志遗体18日火化，天安门等地将下半旗志哀",
+      "published_at": "2026-08-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

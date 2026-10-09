@@ -1,0 +1,121 @@
+{
+  "id": "20260526-peoples_sh-621c96",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_url": "http://sh.people.com.cn/n2/2026/0527/c138654-41592406.html",
+  "title_zh": "第48届世界技能大赛使节招待会在京举行",
+  "title_en": "Diplomatic Reception for the 48th WorldSkills Competition Held in Beijing",
+  "summary_zh": "5月26日，第48届世界技能大赛使节招待会在北京举行。人社部部长王晓萍、上海市市长龚正等出席，邀请各方参加将于9月在上海举办的世赛。",
+  "summary_en": "A diplomatic reception for the 48th WorldSkills Competition was held in Beijing on May 26. Minister Wang Xiaoping and Mayor Gong Zheng invited international guests to the event in Shanghai this September.",
+  "body_zh": "诚邀各方共赴上海技能之约\n第48届世赛预注册参赛选手超1400人 王晓萍龚正乌汉出席使节招待会\n新华社北京5月26日电（记者 张晓洁 周乾宪）记者从日前在京举办的第48届世界技能大赛使节招待会上获悉，目前大赛预注册各类人员近5900人，其中参赛选手超过1400人，来自74个国家和地区。\n9月22日至27日，第48届世界技能大赛将在上海举办。人力资源社会保障部部长王晓萍在此次招待会上表示，诚邀各方共同见证全球技能青年的高光时刻，共赴上海技能之约。\n“上海正扎实有序推进世赛筹办工作，力争为世界留下丰富的技能成果。”上海市市长龚正说。\n世界技能组织主席乌汉说，中国正在生动践行世界技能大赛的初心使命，将世界技能大赛打造为推进技能强国的重要支撑，将世界技能职业标准融入中国的职业教育与培训体系，持续夯实技能人才培养根基，统筹推进各类技能人才培育，书写着中国深耕技能事业的宏大篇章。\n会上，多名外国嘉宾表示，期待以世赛为契机，与中国加强技能合作。中国美国商会会长何迈可说，雄厚的技术技能人才储备是众多外资企业选择落地中国、持续发展的核心原因，也让中国市场极具竞争力，培育出了大批本土优秀企业。从电子产业、高端制造业到各类服务业，美中技能合作空间十分广阔。鉴于广阔的发展机遇以及优质的技术劳动力资源，多数会员企业愿意继续在华投资。\n近60个国家的驻华使节和国际组织驻华机构、在华商会代表出席了本次招待会。\n《解放日报》 2026-05-27 01版：要闻",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "industry",
+  "keywords": [
+    "世界技能大赛",
+    "技能人才",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xiaoping",
+      "name_zh": "王晓萍",
+      "name_en": "Wang Xiaoping"
+    },
+    {
+      "kind": "person",
+      "id": "gong-zheng",
+      "name_zh": "龚正",
+      "name_en": "Gong Zheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界技能大赛",
+      "name_en": "WorldSkills Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技能人才",
+      "name_en": "Skilled Talent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王晓萍",
+    "龚正",
+    "人力资源社会保障部",
+    "北京",
+    "上海",
+    "世界技能大赛",
+    "技能人才",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Wang Xiaoping",
+    "Gong Zheng",
+    "Ministry of Human Resources and Social Security",
+    "Beijing",
+    "Shanghai",
+    "WorldSkills Competition",
+    "Skilled Talent",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "gong-zheng",
+      "wang-xiaoping",
+      "wang-xiao-shaanxi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ",
+      "CN-SH"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260526-peoples_sh-621c96",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20260616-peoples_sc-8d1a5b",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_url": "http://sc.people.com.cn/n2/2026/0616/c345509-41611890.html",
+  "title_zh": "中央纪委办公厅公开通报5起政绩观偏差典型案件",
+  "title_en": "General Office of the CCDI Publicizes Five Typical Cases of Deviant Performance Views",
+  "summary_zh": "中央纪委办公厅日前公开通报5起政绩观偏差典型案件，其中涉及四川省攀枝花市原副市长龙勇，其因急功近利、招商引资形式主义等问题被开除党籍和公职。",
+  "summary_en": "The General Office of the CCDI publicized five typical cases of deviant performance views, including Long Yong, former Vice Mayor of Panzhihua, Sichuan, who was expelled from the Party and public office for superficial achievements.",
+  "body_zh": "中央纪委办公厅公开通报5起政绩观偏差典型案件，涉四川1起\n人民网成都6月16日电 （袁菡苓）日前，中央纪委办公厅对5起典型案件进行公开通报。其中，涉四川1起。\n如下：\n四川省攀枝花市政府原党组成员、副市长龙勇未经科学论证铺摊子、急功近利求显绩、招商引资重形式轻实效等问题。2013年至2021年，龙勇任攀枝花市西区区长、区委书记期间，未组织调研、未经专家论证、未充分听取其他班子成员意见，即决定发展钒钛铸造、钒钛新材料、康复辅具等产业集群并发放大量补助资金，部分项目因不符合国家政策，生产线建成即停产。在举办商贸洽谈会、开展招商引资工作中，龙勇急功近利，重签约、轻落实，牵头组织招商活动数十场，签约项目协议投资额达数十亿元，实际落地不足7%。龙勇还存在其他严重违纪违法问题，被开除党籍、开除公职，涉嫌犯罪问题被移送检察机关依法审查起诉。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "discipline",
+  "keywords": [
+    "政绩观",
+    "反腐败",
+    "招商引资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委办公厅",
+      "name_en": "General Office of the Central Commission for Discipline Inspection"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政绩观",
+      "name_en": "Performance View"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    }
+  ],
+  "tags_zh": [
+    "中央纪委办公厅",
+    "四川",
+    "政绩观",
+    "反腐败",
+    "招商引资"
+  ],
+  "tags_en": [
+    "General Office of the Central Commission for Discipline Inspection",
+    "Sichuan",
+    "Performance View",
+    "Anti-corruption",
+    "Investment Attraction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委办公厅",
+        "name_en": "General Office of the Central Commission for Discipline Inspection"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260616-peoples_sc-8d1a5b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0616/c378440-41611509.html",
+      "title_zh": "中央纪委办公厅公开通报5起政绩观偏差典型案件",
+      "published_at": "2026-06-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

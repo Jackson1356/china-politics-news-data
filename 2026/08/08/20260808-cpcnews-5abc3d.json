@@ -1,0 +1,83 @@
+{
+  "id": "20260808-cpcnews-5abc3d",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0808/c64387-40775993.html",
+  "title_zh": "上半年规上轻工业实现营收11.2万亿元",
+  "title_en": "Light Industry Above Designated Size Achieves Revenue of 11.2 Trillion Yuan in H1",
+  "summary_zh": "中国轻工业联合会发布数据显示，上半年规模以上轻工业增加值同比增长5.0%，营业收入11.2万亿元，可穿戴智能设备零售额增速超一倍。",
+  "summary_en": "China Light Industry Council data shows H1 value-added output above designated size grew 5.0% YoY, revenue reaching 11.2 trillion yuan, with wearable device retail sales more than doubling.",
+  "body_zh": "可穿戴智能设备零售额增速超一倍\n本报北京8月7日电 （记者韩鑫）中国轻工业联合会近日发布数据显示：上半年，规模以上轻工业增加值同比增长5.0%，实现营业收入11.2万亿元。\n今年以来，消费品以旧换新政策优化实施，带动消费提质升级。上半年，轻工11类商品零售额43282亿元，同比增长4.4%。其中，高能效等级家电零售额增速超30%，可穿戴智能设备（含智能眼镜）零售额增速超一倍。\n上半年，轻工商品出口4870.4亿美元，同比增长6.7%，较前5月加快0.9个百分点，7个行业出口增速超10%。其中，家用电器出口同比增长13%，电池及零件出口同比增长38.6%。\n《 人民日报 》（ 2026年08月08日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "industry",
+  "keywords": [
+    "轻工业",
+    "消费升级",
+    "出口贸易"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "轻工业",
+      "name_en": "Light Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费升级",
+      "name_en": "Consumption Upgrade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出口贸易",
+      "name_en": "Export Trade"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "轻工业",
+    "消费升级",
+    "出口贸易"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Light Industry",
+    "Consumption Upgrade",
+    "Export Trade"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260808-cpcnews-5abc3d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

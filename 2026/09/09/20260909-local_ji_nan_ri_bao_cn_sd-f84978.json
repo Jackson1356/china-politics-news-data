@@ -1,0 +1,106 @@
+{
+  "id": "20260909-local_ji_nan_ri_bao_cn_sd-f84978",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-09-09/2026090900027.html",
+  "title_zh": "刘强到济南新旧动能转换起步区调研时强调：用心用情服务群众企业 推动经济社会高质量发展",
+  "title_en": "Liu Qiang Inspects Jinan New & Old Kinetic Energy Conversion Pilot Zone, Stressing High-Quality Development",
+  "summary_zh": "9月8日，济南市委书记刘强到济南新旧动能转换起步区调研，强调以项目赋能年推动经济社会高质量发展，并考察社区和产业项目。",
+  "summary_en": "On Sept 8, Liu Qiang, Party chief of Jinan, inspected the Jinan New & Old Kinetic Energy Conversion Pilot Zone and stressed high-quality development, covering community governance and industrial projects.",
+  "body_zh": "刘强到济南新旧动能转换起步区调研时强调：用心用情服务群众企业 推动经济社会高质量发展\n本报9月8日讯 今天，市委书记、济南新旧动能转换起步区党工委书记刘强在起步区调研时强调，要深入学习贯彻习近平总书记视察山东重要讲话和重要指示批示精神，全面落实省委、省人民政府部署要求，以“项目赋能年”为总牵引，统筹推进民生保障与产业发展，推动起步区建设不断取得新成效。\n在清宁理想社区，刘强察看党群服务中心，听取社区建设治理有关情况汇报，强调要坚持和发展新时代“枫桥经验”，强化数智赋能，提升基层治理效能，不断提升群众的获得感幸福感安全感。在山东铁投智能科技园区项目建设现场，刘强详细了解项目规划建设情况，指出要强化要素服务保障，推动项目尽快投产达效。在工业母机产业园项目一期，刘强察看项目建设进度，了解规划和投资情况，强调要主动靠前服务，提前谋划产业链招商布局，为项目顺利推进创造良好条件。\n刘强强调，要始终坚持以人民为中心的发展思想，牢固树立和践行正确政绩观，用心用情解决好群众急难愁盼问题，让群众共享新城建设红利。要持续提升公共服务配套和基层治理水平，加快构建高水平公共服务体系。要全力推动项目建设提速增效，精心抓好项目谋划招引，持续强化产业导入，集聚优质要素资源，提升综合承载能力，不断开创起步区高质量发展新局面。\n市领导韩伟、常绪扩参加活动。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "项目建设",
+    "产业发展",
+    "基层治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "项目建设",
+      "name_en": "Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业发展",
+      "name_en": "Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层治理",
+      "name_en": "Grassroots Governance"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "项目建设",
+    "产业发展",
+    "基层治理"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "Project Construction",
+    "Industrial Development",
+    "Grassroots Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "常绪扩"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260909-local_ji_nan_ri_bao_cn_sd-f84978",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_199675ecf7614861a41bee99caf9b54c.html",
+      "title_zh": "刘强到济南新旧动能转换起步区调研时强调 用心用情服务群众企业 推动经济社会高质量发展",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

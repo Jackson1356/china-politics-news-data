@@ -1,0 +1,83 @@
+{
+  "id": "20260626-bjnews_zhengshier-8f0eff",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1782478396129887.html",
+  "title_zh": "陈宇剑被免职",
+  "title_en": "Chen Yujian Removed from Office",
+  "summary_zh": "上海市第十六届人民代表大会终止陈宇剑的代表资格，陈宇剑曾任上海市副市长，并于今年6月被查。",
+  "summary_en": "The 16th Shanghai Municipal People's Congress terminated the representative qualification of Chen Yujian, former Vice Mayor of Shanghai, who was placed under investigation in June.",
+  "body_zh": "陈宇剑，被免职\n会议还审议并表决通过关于个别代表的代表资格的报告，依照代表法的有关规定，陈宇剑的上海市第十六届人民代表大会代表资格终止。\n公开信息显示，陈宇剑，男，1970年2月生，汉族，山东郯城人，中共党员，1993年7月参加工作，大学，公共管理硕士，高级经济师。\n陈宇剑曾任上海市松江区区长，闵行区区长，闵行区委书记等职，2023年12月任上海市副市长。\n今年6月10日消息，陈宇剑被查。",
+  "image_url": null,
+  "published_at": "2026-06-26T21:04:06+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "discipline",
+  "keywords": [
+    "人事变动",
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈宇剑",
+      "name_en": "Chen Yujian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事变动",
+      "name_en": "Personnel Change"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "陈宇剑",
+    "上海",
+    "人事变动",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Chen Yujian",
+    "Shanghai",
+    "Personnel Change",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陈宇剑"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260626-bjnews_zhengshier-8f0eff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

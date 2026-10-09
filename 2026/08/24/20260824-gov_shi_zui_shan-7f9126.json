@@ -1,0 +1,91 @@
+{
+  "id": "20260824-gov_shi_zui_shan-7f9126",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/qzfxx/202608/t20260824_5320201.html",
+  "title_zh": "自治区政府召开常务会议",
+  "title_en": "Autonomous Region Government Holds Executive Meeting",
+  "summary_zh": "8月21日，自治区主席张雨浦主持召开自治区政府常务会议，研究生态保护、项目谋划及整治群众身边不正之风等工作。",
+  "summary_en": "On August 21, Chairman Zhang Yupu chaired the regional government's executive meeting to discuss ecological protection, project planning, and rectification of misconduct.",
+  "body_zh": "8月21日，自治区主席张雨浦主持召开自治区政府2026年第19次常务会议，深入学习贯彻习近平总书记近期重要讲话精神，认真落实国务院全体会议部署要求，研究“三山”生态保护和黄河“几字弯”攻坚战、“六张网”项目谋划推进、政府系统集中整治群众身边不正之风和腐败问题、行政执法规范化建设达标活动试点等工作。\n会议听取贺兰山、六盘山、罗山“三山”生态保护和黄河“几字弯”攻坚战推进情况汇报，强调要深入学习贯彻习近平生态文明思想和相关法律法规，扛牢压实各级责任，加力推进攻坚行动，精准防范生态环境风险，依法依规查处各类生态环境损害问题，推动美丽宁夏建设取得新成效。\n会议听取算力网、新一代通信网、城市地下管网、物流网项目谋划推进情况汇报，强调要全面落实党中央、国务院部署和“十五五”专项规划要求，积极融入国家战略，强化集成融合，强化项目建设，强化要素保障，着力促进“六张网”连点成线、深度耦合、相互赋能，更好支撑产业发展、服务百姓生活、提升全区整体安全保障能力。\n会议审议通过深化养老服务领域突出问题整治工作方案，听取高标准农田建设、农村集体“三资”管理、医保基金管理、养老服务和民生领域信访问题集中治理情况汇报，对政府系统集中整治群众身边不正之风和腐败问题工作成效予以肯定，强调政府系统要带头落实中央纪委国家监委集中整治工作调度会要求，抓紧用好攻坚决战关键期契机，集中时间、集中力量整治突出问题，以扎扎实实的整改成效提升人民群众获得感、满意度。\n会议强调，要坚持把严格规范公正文明执法作为法治政府建设的刚性要求，以开展行政执法规范化建设达标活动试点工作为抓手，全面提升行政执法质量和效能，切实保障人民群众和市场主体的合法权益。\n会议学习了新修订的《党政领导干部生态环境损害责任追究办法》，审议了自治区参与共建“一带一路”、闽宁协作、教育发展、国民健康等“十五五”专项规划，研究了其他事项。（记者 周一青 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "生态保护",
+    "项目谋划",
+    "腐败整治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yupu",
+      "name_zh": "张雨浦",
+      "name_en": "Zhang Yupu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "项目谋划",
+      "name_en": "Project Planning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "腐败整治",
+      "name_en": "Anti-Corruption Rectification"
+    }
+  ],
+  "tags_zh": [
+    "张雨浦",
+    "生态保护",
+    "项目谋划",
+    "腐败整治"
+  ],
+  "tags_en": [
+    "Zhang Yupu",
+    "Ecological Protection",
+    "Project Planning",
+    "Anti-Corruption Rectification"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yupu"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260824-gov_shi_zui_shan-7f9126",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yin_chuan",
+      "source_tier": null,
+      "url": "https://www.nx.gov.cn/zwxx_11337/nxyw/202608/t20260822_5320103.html",
+      "title_zh": "自治区政府召开常务会议",
+      "published_at": "2026-08-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

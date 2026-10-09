@@ -1,0 +1,110 @@
+{
+  "id": "20260922-gov_cn_yaowen-3fb136",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081827.htm",
+  "title_zh": "各地秋粮收获陆续展开",
+  "title_en": "Autumn Grain Harvest Gets Underway Across China",
+  "summary_zh": "2026年9月，我国西南、东北及黄淮海地区秋粮陆续进入收获季，各地调度农机、抢收抢烘，确保粮食颗粒归仓。",
+  "summary_en": "In September 2026, the autumn grain harvest began across southwest, northeast and Huang-Huai-Hai regions of China, with local authorities deploying machinery, emergency teams and drying facilities to ensure the crop is fully gathered in.",
+  "body_zh": "眼下，秋粮陆续进入收获季。各地抢抓农时、调度农机，确保粮食颗粒归仓。\n我国西南地区水稻进入收获高峰，针对西南地区多山地丘陵的地貌特点，各地采取了不同的措施。\n丘陵地貌适合小型收获类机械作业，贵州持续加大此类农机的购机补贴力度，今年新增超22万台（套）。在三都，不少边角零散梯田，用上了小型收割机、微小型机动脱粒机，预计较去年提前10天完成收获。四川水稻种植丘陵地区占比超六成，当地因地制宜，分坡度、分片推进高标准农田建设，一条条机耕路让秋收更便捷，目前全省丘陵地区水稻收获超1100万亩。\n东北地区水稻也开始收获。吉林柳河今年夏天受洪水影响，部分农田被淹。农业部门指导农户抢排田间积水，疏通沟渠，防止渍涝造成水稻早衰和倒伏。现在，这里的水稻开始收割，准备在中秋节前后上市销售。在黑龙江同江，汛期过后，农户对受影响的稻田积极开展促灌浆、增粒重、防病虫，加快水稻长势恢复。眼下，全市9万亩水稻迎来丰收，产量预计稳中有升。\n黄淮海地区的玉米陆续成熟。气象部门预计收获期间多地将出现阴雨天气，为此，各地抓紧这几天晴好天气窗口，抢收抢烘。河南滑县的1900余台收割机持续工作，全省配备763支应急服务队、4.56万台应急机械，保障应急作业。山东郓城120万亩玉米收割过后，加紧抢烘，全县48处粮食烘干点全力运转，确保颗粒归仓。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "秋粮收获",
+    "粮食安全",
+    "农业机械化",
+    "高标准农田建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮收获",
+      "name_en": "Autumn Grain Harvest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高标准农田建设",
+      "name_en": "High-Standard Farmland Construction"
+    }
+  ],
+  "tags_zh": [
+    "贵州",
+    "四川",
+    "黑龙江",
+    "秋粮收获",
+    "粮食安全",
+    "农业机械化",
+    "高标准农田建设"
+  ],
+  "tags_en": [
+    "Guizhou",
+    "Sichuan",
+    "Heilongjiang",
+    "Autumn Grain Harvest",
+    "Food Security",
+    "Agricultural Mechanization",
+    "High-Standard Farmland Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GZ",
+      "CN-SC",
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260922-gov_cn_yaowen-3fb136",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

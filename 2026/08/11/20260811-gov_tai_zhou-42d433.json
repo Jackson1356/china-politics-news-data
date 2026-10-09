@@ -1,0 +1,84 @@
+{
+  "id": "20260811-gov_tai_zhou-42d433",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_10774950bc0048d3b7e9442c0b0ddaa0.html",
+  "title_zh": "李晖调度防汛防台风工作",
+  "title_en": "Li Hui Directs Flood and Typhoon Prevention Work",
+  "summary_zh": "8月10日，泰州市领导李晖调度防汛防台风工作，要求落实防御措施，保障人民群众安全。",
+  "summary_en": "On August 10, Li Hui directed flood and typhoon prevention work in Taizhou, urging thorough implementation of defensive measures to protect public safety.",
+  "body_zh": "泰州要闻\n李晖调度防汛防台风工作\n- 发布日期：2026-08-11 07:05\n- 浏览次数：\n10日上午10时，市气象台升级发布暴雨黄色预警，市防指决定将防汛应急响应提升至Ⅲ级。会上，市气象局通报台风“白海豚”影响下的全市风雨趋势，市防办汇报全市防汛防台风工作最新进展，靖江市、泰兴市分别汇报防汛防台风工作情况。\n在听取相关工作情况汇报后，李晖指出，台风“白海豚”影响时间跨度长、风雨影响风险高。各地各部门要牢固树立底线思维、极限思维，进一步完善工作预案和应对措施，切实把各项台风防御工作落实落细落到位，严防局地强降雨、大风带来的不利影响，坚决筑牢城市安全屏障，全力守护人民群众平安。\n副市长周小慧、市政府秘书长包亚参加调度会。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "防汛防台风",
+    "应急管理"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Flood and Typhoon Prevention",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260811-gov_tai_zhou-42d433",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

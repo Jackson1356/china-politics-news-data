@@ -1,0 +1,88 @@
+{
+  "id": "20260611-chinanews_gn-1c043b",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-11/10638360.shtml",
+  "title_zh": "外媒报道称中方取消本月与欧盟的高层会晤 中方：中欧保持着沟通",
+  "title_en": "China Responds to Foreign Reports on Cancellation of High-Level Meeting with EU",
+  "summary_zh": "2026年6月11日，外交部发言人林剑在例行记者会上表示，中欧双方就相关对话保持着沟通，回应了外媒关于中方取消本月与欧盟高层会晤的报道。",
+  "summary_en": "On June 11, 2026, Foreign Ministry spokesperson Lin Jian stated that China and the EU maintain communication regarding relevant dialogues, responding to foreign reports about the cancellation of a high-level meeting.",
+  "body_zh": "外媒报道称中方取消本月与欧盟的高层会晤 中方：中欧保持着沟通\n中新网北京6月11日电 (记者 张蔚然)中国外交部发言人林剑11日主持例行记者会。\n有记者提问：据外媒报道，由于贸易紧张局势加剧，中国已取消了本月与欧盟的高层会晤。发言人对此有何看法？另外，商务部部长王文涛是否仍会在本月晚些时候出访欧盟？\n林剑：关于你提到的第一个问题，据目前了解，中欧双方就相关对话保持着沟通。关于你提到的第二个问题，建议向中方的主管部门询问。(完）\n国内新闻精选：\n- 2026年06月11日 12:49:35\n- 2026年06月10日 21:58:49\n- 2026年06月10日 21:47:00\n- 2026年06月10日 21:14:48\n- 2026年06月10日 17:18:17\n- 2026年06月10日 16:05:39\n- 2026年06月10日 12:09:18\n- 2026年06月10日 10:02:46\n- 2026年06月10日 07:50:23\n- 2026年06月09日 18:46:40",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧关系",
+    "外交沟通"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-EU Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交沟通",
+      "name_en": "Diplomatic Communication"
+    },
+    {
+      "kind": "person",
+      "id": "wang-wentao",
+      "name_zh": "王文涛",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "中欧关系",
+    "外交沟通"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-EU Relations",
+    "Diplomatic Communication"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wentao"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260611-chinanews_gn-1c043b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

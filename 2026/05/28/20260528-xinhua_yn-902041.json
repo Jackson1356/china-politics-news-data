@@ -1,0 +1,103 @@
+{
+  "id": "20260528-xinhua_yn-902041",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_url": "http://yn.news.cn/20260529/a89c1fc1f4904d039017c016eb655880/c.html",
+  "title_zh": "云南挂牌督办一起致4人死亡道路交通事故查处",
+  "title_en": "Yunnan Launches Supervised Investigation into Fatal Road Traffic Accident",
+  "summary_zh": "云南省安全生产委员会决定对2026年4月28日发生在昆明市寻甸县、致4人死亡的道路交通事故查处进行挂牌督办。",
+  "summary_en": "The Yunnan Provincial Safety Production Committee has decided to launch a supervised investigation into a road traffic accident in Xundian County, Kunming, which killed four people on April 28, 2026.",
+  "body_zh": "新华社昆明5月28日电 记者28日从云南省应急管理厅了解到，云南省安全生产委员会日前决定对一起发生于2026年4月28日致4人死亡的道路交通事故查处进行挂牌督办。\n据介绍，2026年4月28日，银昆高速昆明市寻甸县境内发生一起涉12类车辆的道路交通事故，造成4人死亡。根据较大事故查处挂牌督办办法，云南省安全生产委员会决定对该起事故查处进行挂牌督办。\n云南省安全生产委员会要求有关方面依照生产安全事故报告和调查处理条例等有关法律法规规定，组成事故调查组，抓紧开展事故调查，尽快查明事故原因。（完）\n【纠错】",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "挂牌督办"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "云南省安全生产委员会",
+      "name_en": "Yunnan Provincial Safety Production Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "云南省应急管理厅",
+      "name_en": "Yunnan Provincial Emergency Management Department"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "昆明",
+      "name_en": "Kunming"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Safety Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "挂牌督办",
+      "name_en": "Supervised Investigation"
+    }
+  ],
+  "tags_zh": [
+    "云南省安全生产委员会",
+    "云南省应急管理厅",
+    "云南",
+    "昆明",
+    "安全生产",
+    "挂牌督办"
+  ],
+  "tags_en": [
+    "Yunnan Provincial Safety Production Committee",
+    "Yunnan Provincial Emergency Management Department",
+    "Yunnan",
+    "Kunming",
+    "Safety Production",
+    "Supervised Investigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": [
+      {
+        "name_zh": "云南省安全生产委员会",
+        "name_en": "Yunnan Provincial Safety Production Committee"
+      },
+      {
+        "name_zh": "云南省应急管理厅",
+        "name_en": "Yunnan Provincial Emergency Management Department"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260528-xinhua_yn-902041",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

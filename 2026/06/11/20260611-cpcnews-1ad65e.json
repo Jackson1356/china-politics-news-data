@@ -1,0 +1,93 @@
+{
+  "id": "20260611-cpcnews-1ad65e",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0611/c64387-40738248.html",
+  "title_zh": "推动“人工智能+信息通信”创新发展",
+  "title_en": "Promoting the Innovative Development of \"AI + Information and Communications\"",
+  "summary_zh": "工业和信息化部印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，部署推动信息通信行业智能化升级及夯实人工智能发展底座等任务。",
+  "summary_en": "The Ministry of Industry and Information Technology issued implementation opinions (2026-2028) to promote the intelligent upgrade of the information and communications industry and strengthen the AI foundation.",
+  "body_zh": "工业和信息化部印发意见\n本报北京6月10日电 （记者刘温馨）工业和信息化部印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，提出到2028年，信息通信智能运营和服务能力达到国际先进水平，信息通信网络初步实现高等级自智，形成30个以上高价值典型场景，打造一批典型应用和特色智能体。网络、算力等信息基础设施支撑人工智能能力进一步提升，城域算力1毫秒时延圈覆盖率不低于75%。\n意见坚持智能化、绿色化、融合化方向，围绕推动信息通信行业智能化升级、夯实人工智能发展底座、深化融合应用创新推广、增强信息通信行业治理能力等4个方面部署17项具体任务，从网络、算力、算网供给等3个方面夯实人工智能发展底座。\n意见指出，到2030年，人工智能与信息通信网络融合关键核心技术取得显著突破，通感算智一体化服务能力大幅提升，形成完备的协同创新和产业生态体系，“人工智能+信息通信”步入技术引领、产业繁荣、安全可靠、智能普惠的发展新阶段。\n《 人民日报 》（ 2026年06月11日 10 版）",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-10",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "信息通信"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息通信",
+      "name_en": "Information and Communications"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "北京",
+    "人工智能",
+    "信息通信"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Beijing",
+    "Artificial Intelligence",
+    "Information and Communications"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面"
+      }
+    ],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260611-cpcnews-1ad65e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/lianbo/202606/content_7071789.htm",
+      "title_zh": "工业和信息化部印发意见 推动“人工智能+信息通信”创新发展",
+      "published_at": "2026-06-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

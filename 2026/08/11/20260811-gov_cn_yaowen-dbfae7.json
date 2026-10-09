@@ -1,0 +1,97 @@
+{
+  "id": "20260811-gov_cn_yaowen-dbfae7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/11/VIDEO2g6bRMoszRKBRrhYA2u260811.shtml",
+  "title_zh": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统致慰问电",
+  "title_en": "Xi Jinping Sends Condolences to Colombian President over Strong Earthquake",
+  "summary_zh": "8月11日，国家主席习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电，表达深切哀悼和诚挚慰问。",
+  "summary_en": "On August 11, President Xi Jinping sent a condolence message to Colombian President de la Espriella over the strong earthquake, expressing deep mourning and sincere sympathy.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：8月11日，国家主席习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电。\n习近平表示，惊悉哥伦比亚发生强烈地震，造成严重人员伤亡和财产损失。我谨代表中国政府和中国人民，对遇难者表示深切哀悼，向遇难者家属和伤者表示诚挚慰问。相信在德拉埃斯普列亚总统领导的哥伦比亚政府带领下，哥伦比亚人民一定会齐心协力，早日战胜灾害、重建家园。\n[视频]习近平就哥伦比亚发生强烈地震向哥伦比亚总统致慰问电\n简介\n视频简介习近平就哥伦比亚发生强烈地震向哥伦比亚总统致慰问电。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "地震慰问",
+    "中哥关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "哥伦比亚",
+      "name_en": "Colombia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地震慰问",
+      "name_en": "Earthquake Condolence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中哥关系",
+      "name_en": "China-Colombia Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "哥伦比亚",
+    "地震慰问",
+    "中哥关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Colombia",
+    "Earthquake Condolence",
+    "China-Colombia Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260811-gov_cn_yaowen-dbfae7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077895.htm",
+      "title_zh": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2087350929936465921.html",
+      "title_zh": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

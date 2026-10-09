@@ -1,0 +1,92 @@
+{
+  "id": "20260928-gov_cn_yaowen-ad11cc",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082211.htm",
+  "title_zh": "41金11银4铜 中国创参加世界技能大赛最好成绩",
+  "title_en": "China Wins 41 Golds at WorldSkills, Its Best-Ever Result",
+  "summary_zh": "第48届世界技能大赛9月27日晚在上海闭幕，中国代表团获41金11银4铜及6个优胜奖，第五次位居金牌榜和团体总分世界第一。",
+  "summary_en": "The 48th WorldSkills Competition closed in Shanghai on the evening of Sept 27, with China's delegation taking 41 gold, 11 silver and 4 bronze medals and ranking first in both gold count and team score for the fifth time.",
+  "body_zh": "新华社上海9月27日电（记者 周蕊、张晓洁）第48届世界技能大赛于9月27日晚在上海闭幕，中国代表团获得41枚金牌、11枚银牌、4枚铜牌，6个优胜奖，第五次位居金牌榜和团体总分世界第一，创造了我国参加世界技能大赛以来的历史最好成绩。\n本届大赛共设64个比赛项目，涵盖结构与建筑技术、制造与工程技术、信息与通信技术、创意艺术与时尚、社会与个人服务、运输与物流六大领域。中国代表团派出71名选手参加全部比赛项目，是我国第3次参加全部项目的比赛。\n在具体项目上，数控铣项目实现六连冠，砌筑、时装技术项目实现五连冠，电气装置、电子技术、自主移动机器人项目实现四连冠。中国选手何晓嫚在轨道车辆技术项目中以全场最高分荣获阿尔伯特·维达大奖，该奖项授予每届大赛所有参赛项目最高分得主，这也是我国第3次获得该奖项。车身修理项目选手焦娇获中国代表团最佳选手奖。\n何晓嫚说，一路走来的成长和经历，比成绩本身要宝贵得多。她希望，自己未来能投身轨道车辆技术行业，用自身经历带动更多年轻人，尤其是带动更多女性走进工科领域，让大家的发展道路越走越宽。\n焦娇来自贵州正安，16岁时来到上海学习车身修理。焦娇说，受益于职业教育对口支援，自己才能在世赛舞台摘下金牌，“技能让我走出大山，我要把手艺传给更多孩子”。\n人力资源社会保障部有关负责人介绍，从成绩分布来看，我国在结构与建筑技术、制造与工程技术两大领域持续保持绝对优势，合计贡献了近半数金牌，充分彰显了中国制造业的发展水平；信息与通信技术、创意艺术与时尚领域同样表现亮眼，金牌数量稳步提升，折射出数字经济与创意产业蓬勃发展的强劲动能；社会与个人服务、运输与物流领域实现新突破，多个项目刷新历史最好成绩，与我国现代服务业扩能提质和物流网加速建设密不可分。\n第48届世界技能大赛9月22日到27日在上海举办，来自68个国家和地区的1385名选手参加了64个项目的角逐。",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-27",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "industry",
+  "keywords": [
+    "世界技能大赛",
+    "职业技能人才",
+    "制造业",
+    "职业教育"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界技能大赛",
+      "name_en": "WorldSkills Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业技能人才",
+      "name_en": "Skilled Talent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业",
+      "name_en": "Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业教育",
+      "name_en": "Vocational Education"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "世界技能大赛",
+    "职业技能人才",
+    "制造业",
+    "职业教育"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "WorldSkills Competition",
+    "Skilled Talent",
+    "Manufacturing",
+    "Vocational Education"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260928-gov_cn_yaowen-ad11cc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

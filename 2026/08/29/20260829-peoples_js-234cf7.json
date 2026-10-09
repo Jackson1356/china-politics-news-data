@@ -1,0 +1,104 @@
+{
+  "id": "20260829-peoples_js-234cf7",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0829/c360302-41680848.html",
+  "title_zh": "2026版江苏省标准地图发布 总数增至72幅",
+  "title_en": "2026 Edition of Jiangsu Provincial Standard Maps Released, Total Reaches 72",
+  "summary_zh": "8月28日，江苏省自然资源厅联合省数据局发布2026版江苏省标准地图，总数增至72幅。",
+  "summary_en": "On August 28, the Department of Natural Resources of Jiangsu Province and the Provincial Data Bureau released the 2026 edition of Jiangsu standard maps, totaling 72 maps.",
+  "body_zh": "2026版江苏省标准地图发布 总数增至72幅\n据《新华日报》报道，8月28日，江苏省自然资源厅联合江苏省数据局发布2026版江苏省标准地图。\n2026版江苏省标准地图总数增至72幅，包含六大类、6种比例尺、4种版本地图表现形式，以及中、英文两个版本，可广泛应用于政务挂图、新闻宣传等各种场景。江苏省基础地理信息中心测绘工程师张芷瑜介绍，目前，全套标准地图已在江苏自然资源官网、“天地图·江苏”上线，供免费浏览和下载。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "industry",
+  "keywords": [
+    "标准地图",
+    "地理信息"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省自然资源厅",
+      "name_en": "Department of Natural Resources of Jiangsu Province"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省数据局",
+      "name_en": "Jiangsu Provincial Data Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "标准地图",
+      "name_en": "Standard Maps"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地理信息",
+      "name_en": "Geographic Information"
+    }
+  ],
+  "tags_zh": [
+    "江苏省自然资源厅",
+    "江苏省数据局",
+    "江苏",
+    "标准地图",
+    "地理信息"
+  ],
+  "tags_en": [
+    "Department of Natural Resources of Jiangsu Province",
+    "Jiangsu Provincial Data Bureau",
+    "Jiangsu",
+    "Standard Maps",
+    "Geographic Information"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张芷瑜"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省自然资源厅",
+        "name_en": "Department of Natural Resources of Jiangsu Province"
+      },
+      {
+        "name_zh": "江苏省数据局",
+        "name_en": "Jiangsu Provincial Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260829-peoples_js-234cf7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20260828-xinhua_politics-85a047",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260828/e0d07f089dc3416ba85146779bef9971/c.html",
+  "title_zh": "国家防总、应急管理部针对江西湖南启动防汛四级应急响应",
+  "title_en": "National Flood Control HQ and Emergency Management Ministry Activate Level-IV Response for Jiangxi and Hunan",
+  "summary_zh": "8月28日，受台风“沙德尔”影响，国家防总、应急管理部针对江西、湖南启动防汛四级应急响应。",
+  "summary_en": "On August 28, due to Typhoon Shadel, the National Flood Control Headquarters and the Ministry of Emergency Management activated a Level-IV emergency response for Jiangxi and Hunan.",
+  "body_zh": "今年第18号台风“沙德尔”已于8月28日上午登陆浙江沿海。据气象部门预测，受台风“沙德尔”影响，未来三天，江西、湖南两省大部将出现大到暴雨，其中江西北部和西南部、湖南东北部和南部等地部分地区大暴雨。\n根据《国家防汛抗旱应急预案》有关规定，国家防总、应急管理部决定于8月28日14时针对江西、湖南启动防汛四级应急响应。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛应急响应",
+    "台风防御"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛应急响应",
+      "name_en": "Flood Control Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "江西",
+    "湖南",
+    "防汛应急响应",
+    "台风防御"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Jiangxi",
+    "Hunan",
+    "Flood Control Emergency Response",
+    "Typhoon Defense"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-JX",
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260828-xinhua_politics-85a047",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

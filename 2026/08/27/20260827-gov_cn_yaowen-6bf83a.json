@@ -1,0 +1,74 @@
+{
+  "id": "20260827-gov_cn_yaowen-6bf83a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079344.htm",
+  "title_zh": "我国经济发展新动能指数保持较快增长",
+  "title_en": "China's New Economic Momentum Index Keeps Fast Growth",
+  "summary_zh": "国家统计局8月27日发布2025年经济发展新动能指数，测算结果显示该指数为153.0，同比增长12.5%，新动能继续培育壮大。",
+  "summary_en": "The National Bureau of Statistics released the 2025 new economic momentum index on August 27, showing the index reached 153.0, up 12.5% year on year, as new growth drivers continue to expand.",
+  "body_zh": "国家统计局今天（8月27日）发布2025年我国经济发展新动能指数。最新测算结果显示，2025年我国经济发展新动能指数为153.0，同比增长12.5%。新动能继续培育壮大。\n从组成新动能指数的各分项数据来看，2025年转型升级指数为156.8，比上年增长22.7%，战略性新兴产业加快成长，未来产业持续发展，现代服务业与先进制造业加快融合，转型升级步伐加快。\n2025年创新驱动指数156.3，比上年增长12.9%。创新投入力度持续加大，加强基础前沿领域体系化布局和关键核心技术攻关，国家战略科技力量不断壮大，科技整体实力持续提升。数据显示，创新驱动引领作用彰显，经济发展活力持续释放，正助力我国经济高质量发展取得新成效。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "经济发展新动能",
+    "创新驱动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济发展新动能",
+      "name_en": "New Economic Momentum"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新驱动",
+      "name_en": "Innovation-driven Development"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "经济发展新动能",
+    "创新驱动"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "New Economic Momentum",
+    "Innovation-driven Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-gov_cn_yaowen-6bf83a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20260914-gov_cn_yaowen-29ecd7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7081010.htm",
+  "title_zh": "今年将新增1000家基层医疗卫生机构提供儿科诊疗服务",
+  "title_en": "China to Add 1,000 Primary Health Facilities Offering Pediatric Care This Year",
+  "summary_zh": "国家卫生健康委主任雷海潮9月14日在北京介绍，今年将新增1000家社区卫生服务中心和乡镇卫生院提供儿科诊疗服务，已向基层下沉派驻3100名儿科医生。",
+  "summary_en": "China will add 1,000 community and township health centers offering pediatric care this year, with 3,100 pediatricians deployed to grassroots clinics, health chief Lei Haichao said Sept 14.",
+  "body_zh": "新华社北京9月14日电 国家卫生健康委主任雷海潮9月14日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，今年要在去年基础上新增1000家社区卫生服务中心和乡镇卫生院提供儿科诊疗服务。预计到年底，95%以上的乡镇卫生院、社区卫生服务中心可提供儿科诊疗服务。同时，已向基层医疗卫生机构下沉派驻3100名儿科医生。",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "welfare",
+  "keywords": [
+    "基层医疗",
+    "儿科诊疗",
+    "优质医疗资源下沉"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层医疗",
+      "name_en": "Primary Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "儿科诊疗",
+      "name_en": "Pediatric Care"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "优质医疗资源下沉",
+      "name_en": "Sinking of Medical Resources"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "北京",
+    "基层医疗",
+    "儿科诊疗",
+    "优质医疗资源下沉"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Beijing",
+    "Primary Healthcare",
+    "Pediatric Care",
+    "Sinking of Medical Resources"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260914-gov_cn_yaowen-29ecd7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260914/148fd317428541bdb516c720d76a7802/c.html",
+      "title_zh": "国家卫健委：进一步营造生育友好环境",
+      "published_at": "2026-09-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

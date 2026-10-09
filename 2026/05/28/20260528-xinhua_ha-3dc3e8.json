@@ -1,0 +1,80 @@
+{
+  "id": "20260528-xinhua_ha-3dc3e8",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_url": "https://www.news.cn/20260528/c27ecaf4803d43dd9483a7e2f1862d49/c.html",
+  "title_zh": "河南“十五五”规划纲要明确地区生产总值年均增长目标为5%左右",
+  "title_en": "Henan's 15th Five-Year Plan Sets Annual GDP Growth Target at Around 5%",
+  "summary_zh": "5月28日，河南省省长王凯在新闻发布会上介绍，河南省“十五五”规划纲要已正式印发，明确生产总值年均增长目标为5%左右。",
+  "summary_en": "On May 28, Henan Governor Wang Kai announced the official release of the province's 15th Five-Year Plan, setting an annual GDP growth target of around 5%.",
+  "body_zh": "5月28日，河南省人民政府新闻办公室举行“开局起步‘十五五’——奋力谱写中原大地推进中国式现代化新篇章”专题新闻发布会，并回答记者提问。河南省委副书记、省长王凯介绍，河南省国民经济和社会发展第十五个五年规划纲要已正式印发，纲要明确“十五五”时期河南生产总值年均增长5%左右，执行中努力争取更好结果。\n记者：杨琳\n新华社音视频部制作\n记者：杨琳\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "economy",
+  "keywords": [
+    "十五五规划",
+    "经济增长"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-kai-henan",
+      "name_zh": "王凯",
+      "name_en": "Wang Kai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    }
+  ],
+  "tags_zh": [
+    "王凯",
+    "河南",
+    "十五五规划",
+    "经济增长"
+  ],
+  "tags_en": [
+    "Wang Kai",
+    "Henan",
+    "15th Five-Year Plan",
+    "Economic Growth"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-kai-henan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260528-xinhua_ha-3dc3e8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

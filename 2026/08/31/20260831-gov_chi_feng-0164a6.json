@@ -1,0 +1,87 @@
+{
+  "id": "20260831-gov_chi_feng-0164a6",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202608/t20260831_2811787.html",
+  "title_zh": "九三学社赤峰市第八次代表大会召开",
+  "title_en": "8th Congress of Jiusan Society Chifeng Municipal Committee Held",
+  "summary_zh": "8月29日，九三学社赤峰市第八次代表大会召开，选举产生第八届委员会，孙德欣当选主任委员。",
+  "summary_en": "On August 29, the 8th Congress of the Jiusan Society Chifeng Municipal Committee was held, electing a new committee with Sun Dexin as chairman.",
+  "body_zh": "8月29日，九三学社赤峰市第八次代表大会召开，九三学社内蒙古自治区委员会副主委、内蒙古大学化学化工学院教授陈树峰，市委常委、统战部部长王生才，市委常委、市政府副市长朴英，民建赤峰市委员会主委、市人大常委会副主任骆秀燕，九三学社内蒙古自治区委员会社会建设专委会副主任、市政协副主席韩勇，民革赤峰市总支部委员会主委、市政协副主席王健出席大会。\n陈树峰充分肯定了九三学社赤峰市第七届委员会的工作，希望九三学社赤峰市新一届委员会接续传承优良传统、坚守合作初心，团结带领全市广大社员把思想政治建设摆在首要位置，紧扣发展大局，全面提升履职尽责质效，夯实组织建设坚实根基，持续正风肃纪，在新征程上展现新担当、实现新作为。\n王生才代表中共赤峰市委向大会表示热烈祝贺。他表示，过去五年，九三学社赤峰市第七届委员会团结带领广大社员，秉承“爱国、民主、科学”优良传统，推动各项工作取得显著成绩。希望九三学社赤峰市新一届委员会继续筑牢思想根基，在凝聚政治共识上持续用力；充分发挥界别优势，在服务全市发展上奋发有为；锻造过硬队伍，在强化自身建设上力求实效，以更加昂扬的精神状态、更加务实的履职成效，为奋力书写中国式现代化赤峰新篇章贡献力量。\n会议听取和审议了孙德欣代表九三学社赤峰市第七届委员会作的工作报告，选举产生了九三学社赤峰市第八届委员会，孙德欣当选为九三学社赤峰市第八届委员会主任委员。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "民主党派代表会议",
+    "换届选举"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主党派代表会议",
+      "name_en": "Democratic Parties Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "person",
+      "id": "wang-jian-taizhou",
+      "name_zh": "王健",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赤峰",
+    "民主党派代表会议",
+    "换届选举",
+    "王健"
+  ],
+  "tags_en": [
+    "Chifeng",
+    "Democratic Parties Congress",
+    "Leadership Election"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jian-taizhou",
+      {
+        "id": null,
+        "name_zh": "贺他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260831-gov_chi_feng-0164a6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

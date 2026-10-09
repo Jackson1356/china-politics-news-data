@@ -1,0 +1,70 @@
+{
+  "id": "20260613-gov_cn_yaowen-442519",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071997.htm",
+  "title_zh": "1至5月全国铁路发送旅客超19亿人次",
+  "title_en": "National Railway Passenger Volume Exceeds 1.9 Billion from January to May",
+  "summary_zh": "1至5月，全国铁路发送旅客19.69亿人次，同比增长5.7%，创历史同期新高，跨境客运及外籍旅客出行显著增长。",
+  "summary_en": "From January to May, China's national railway transported 1.969 billion passengers, a 5.7% year-on-year increase, marking a record high for the period.",
+  "body_zh": "新华社北京6月13日电（记者樊曦）记者13日从中国国家铁路集团有限公司获悉，今年以来，铁路部门积极适应旅客多样化出行需求，精准高效投放运力资源，服务保障旅客平安便捷温馨出行。1至5月，全国铁路发送旅客19.69亿人次、同比增长5.7%，创历史同期新高。\n1至5月全国铁路日均开行旅客列车11541列、同比增长5.9%，其中，5月1日发送旅客2484.4万人次，创单日旅客发送量历史新高。跨境客运组织方面，中老铁路发送跨境旅客16.7万人次、同比增长35.0%，广深港高铁发送跨境旅客1453.4万人次、同比增长14.5%。铁路部门积极适应国家过境免签政策带来的客流增长，为外籍旅客出行提供便利，全国铁路发送外籍旅客1002.4万人次、同比增长35.5%。\n与此同时，铁路部门积极对接各地文旅部门，大力推动铁旅融合发展，精心设计运行线路。1至5月，全国铁路累计开行旅游列车1400列，其中旅游专列705列、旅游专线695列。\n在提升站车服务品质方面，铁路部门推出老年旅客享受淡季周中优惠政策，在京张高铁试点推行“自行车随身行”服务，“静音车厢”服务拓展至超8000列动车组列车，“爱宠行”服务覆盖高铁车站增至126座、列车增至265趟，“轻装行”服务试点覆盖111座车站。",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-13",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "铁路运输",
+    "跨境客运"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境客运",
+      "name_en": "Cross-border Passenger Transport"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路运输",
+    "跨境客运"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Transport",
+    "Cross-border Passenger Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260613-chinanews_gn-7ffc52",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

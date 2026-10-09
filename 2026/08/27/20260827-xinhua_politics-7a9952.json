@@ -1,0 +1,101 @@
+{
+  "id": "20260827-xinhua_politics-7a9952",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260827/1c3dcfd3a5fd4151995b7b5b4679e758/c.html",
+  "title_zh": "我国首版全国几何基准影像成果发布",
+  "title_en": "China Releases First National Geometric Reference Imagery",
+  "summary_zh": "自然资源部8月27日在京发布我国首版覆盖全部陆地国土的几何基准影像，全国空间分辨率整体达到0.5米，定位精度提升1倍以上。",
+  "summary_en": "The Ministry of Natural Resources released China's first national geometric reference imagery covering all land territory on Aug 27, with spatial resolution reaching 0.5 meters and positioning accuracy improved over 100%.",
+  "body_zh": "新华社北京8月27日电（记者王立彬）在8月29日全国测绘法宣传日到来前夕，我国首版覆盖全部陆地国土的国家级几何基准影像正式发布。全国空间分辨率整体达到0.5米，遥感影像定位精度整体提升1倍以上。\n自然资源部国土卫星中心副主任于德全8月27日在自然资源部例行新闻发布会上说，由自然资源部会同省级自然资源主管部门共同构建的全国几何基准影像，是服务数字中国建设、推动测绘地理信息事业转型升级的重大标志性成果，也是面向社会服务的测绘地理信息新型公共产品。\n全国几何基准影像成果有两个特点：一是空间分辨率高，通过利用国家和地方的高分辨率影像，全国空间分辨率整体达到0.5米；二是定位精度高，突破了山区、高原、稀少控制区及无人区精度控制的技术难题，实现全国遥感影像定位精度整体提升1倍以上，解决了西部地区长期以来正射影像几何精度不高的问题。\n几何基准影像主要用于卫星遥感数据生产，通过高精度配准，可以将原始卫星影像数据处理成为具有准确位置坐标的成果。在这个过程中，几何基准影像主要作为底图模板用来校准坐标，从而形成位置精度统一的影像数据成果，类似于雕版印刷中的模具，确保不同批次的生产成果实现严格的位置套合。\n这一成果可以让不同企业和单位生产的遥感影像数据成果准确配准套合，形成全国统一精度的卫星遥感影像底图产品，确保基于卫星遥感影像采集的信息空间位置一致，还可以提升数据生产效率，更好地实现自动化匹配，大幅降低企业和单位生产高分辨遥感影像数据的成本。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "industry",
+  "keywords": [
+    "几何基准影像",
+    "测绘地理信息",
+    "数字中国"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "几何基准影像",
+      "name_en": "Geometric Reference Imagery"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "测绘地理信息",
+      "name_en": "Surveying and Mapping Geoinformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字中国",
+      "name_en": "Digital China"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "北京",
+    "几何基准影像",
+    "测绘地理信息",
+    "数字中国"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Beijing",
+    "Geometric Reference Imagery",
+    "Surveying and Mapping Geoinformation",
+    "Digital China"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260827-xinhua_politics-7a9952",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20260828/09b14fdb95d6410c8ce7ae2743e85956/c.html",
+      "title_zh": "我国首版全国几何基准影像成果发布",
+      "published_at": "2026-08-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20261009-peoples_sn-83d9eb",
+  "source": "peoples_sn",
+  "source_name_zh": "人民网 陕西",
+  "source_name_en": "People's Daily Shaanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sn.people.com.cn/n2/2026/1009/c186331-41716910.html",
+  "title_zh": "在陕单位参编的2项网络安全国家标准获批发布",
+  "title_en": "Two National Cybersecurity Standards Co-Authored by Shaanxi Institution Approved for Release",
+  "summary_zh": "10月8日，据陕西省网络与信息安全测评中心消息，国家市场监督管理总局、国家标准化管理委员会批准发布由其参编的2项网络安全国家标准，将于2027年2月1日起实施。",
+  "summary_en": "On October 8, the Shaanxi Provincial Network and Information Security Evaluation Center announced that two national cybersecurity standards it co-authored were approved and released by China's market regulator and standards administration, taking effect on February 1, 2027.",
+  "body_zh": "在陕单位参编的2项网络安全国家标准获批发布\n10月8日，记者从陕西省网络与信息安全测评中心获悉：日前，国家市场监督管理总局、国家标准化管理委员会发布2026年第30号《中华人民共和国国家标准公告》，陕西省网络与信息安全测评中心参编的GB/T 20985.2-2026《网络安全技术 网络安全事件管理 第2部分：事件响应规划和准备指南》、GB/T 47744-2026《网络安全技术 互联网恶意软件定义与描述格式》2项网络安全国家标准获批发布，并将于2027年2月1日起正式实施。\nGB/T 20985.2-2026《网络安全技术 网络安全事件管理 第2部分：事件响应规划和准备指南》，给出了规划和准备事件响应以及事件响应经验总结的指南。该中心主要参与“建立事件管理能力”章节修订，提出了建立事件管理组织结构的目的，事件管理团队的结构、主要活动、角色与职责，为组织建立事件管理小组提供规范化参考。\nGB/T 47744-2026《网络安全技术 互联网恶意软件定义与描述格式》提出了互联网恶意软件的定义和分类，规定了其命名格式和关于捕获来源、行为、危害等描述格式。该中心主要参与标准全文编制，为互联网恶意软件安全管理、安全检测、上报、预警通报等提供规范化参考。\n作为全国网络安全标准化技术委员会成员单位、全国数据标准化技术委员会成员单位、陕西省信息安全标准化技术委员会秘书处单位、西安市信息技术和网络安全标准化技术委员会秘书处单位，陕西省网络与信息安全测评中心已累计参与60项网络安全国家标准、14项省级地方标准制修订项目，其中43项国家标准、10项地方标准获批发布。该中心相关负责人表示，中心将再接再厉，持续加强网络安全标准化研究，积极承担网络安全国家标准制修订任务，为国家网络安全标准化体系建设贡献陕西力量。（记者 张梅）\n热门排行",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "industry",
+  "keywords": [
+    "网络安全",
+    "国家标准",
+    "标准化建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家标准化管理委员会",
+      "name_en": "Standardization Administration of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "标准化建设",
+      "name_en": "Standardization"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "国家标准化管理委员会",
+    "陕西",
+    "网络安全",
+    "国家标准",
+    "标准化建设"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Standardization Administration of China",
+    "Shaanxi",
+    "Cybersecurity",
+    "National Standards",
+    "Standardization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [
+      "CN-SN"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家标准化管理委员会",
+        "name_en": "Standardization Administration of China"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261009-peoples_sn-83d9eb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

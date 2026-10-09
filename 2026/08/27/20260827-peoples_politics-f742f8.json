@@ -1,0 +1,110 @@
+{
+  "id": "20260827-peoples_politics-f742f8",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0827/c1001-40786757.html",
+  "title_zh": "王毅会见乌兹别克斯坦总统办公厅主任米尔济约耶娃",
+  "title_en": "Wang Yi Meets Head of Uzbek Presidential Administration",
+  "summary_zh": "8月26日，中共中央政治局委员、外交部长王毅在北京会见乌兹别克斯坦总统办公厅主任米尔济约耶娃，双方就双边关系与合作交换意见。",
+  "summary_en": "On August 26, Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, met with the Head of the Uzbek Presidential Administration Saida Mirziyoyeva in Beijing, exchanging views on bilateral relations and cooperation.",
+  "body_zh": "王毅会见乌兹别克斯坦总统办公厅主任米尔济约耶娃\n新华社北京8月26日电（记者邵艺博）中共中央政治局委员、外交部长王毅26日在北京会见乌兹别克斯坦总统办公厅主任米尔济约耶娃。\n王毅转达习近平主席对米尔济约耶夫总统的亲切问候，表示在两国领导人战略引领下，中乌关系取得跨越式发展。中国始终是乌方可信赖、可依靠的真诚伙伴，相信乌方在涉及中方核心利益问题上将继续予以坚定支持。中方愿同乌方一道，书写中乌友好合作新篇章。\n米尔济约耶娃转达米尔济约耶夫总统对习近平主席的诚挚问候，表示乌方期待同中方保持高层交往，深化各领域务实合作。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "中乌关系",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中乌关系",
+      "name_en": "China-Uzbekistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "北京",
+    "中乌关系",
+    "务实合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Uzbekistan Relations",
+    "Pragmatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260827-peoples_politics-f742f8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079259.htm",
+      "title_zh": "王毅会见乌兹别克斯坦总统办公厅主任米尔济约耶娃",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

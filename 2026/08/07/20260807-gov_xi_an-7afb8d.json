@@ -1,0 +1,87 @@
+{
+  "id": "20260807-gov_xi_an-7afb8d",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2085539513124835330.html",
+  "title_zh": "西安市委常委会召开议军会议 强调深化跨军地改革推动军地共建协同发展",
+  "title_en": "Xi'an Municipal Party Committee Holds Military Work Meeting to Deepen Civil-Military Reform",
+  "summary_zh": "8月6日，西安市委常委会召开议军会议，省委常委、市委书记蒿慧杰主持并讲话，研究部署新时代人民武装等工作，强调深化跨军地改革，推动军地共建协同发展。",
+  "summary_en": "On August 6, the Standing Committee of the Xi'an Municipal Party Committee held a military work meeting, chaired by Hao Huijie, to study people's armed forces work and emphasize deepening cross-military-civilian reform.",
+  "body_zh": "8月6日，市委常委会召开议军会议。会议深入学习贯彻习近平强军思想和习近平总书记在中共中央政治局第二十七次集体学习时的重要讲话精神，认真落实省委常委会议军会议精神，审议有关文件，研究部署加强新时代人民武装等工作。\n省委常委、市委书记、西安警备区党委第一书记蒿慧杰主持会议并讲话。市长叶牛平，市人大常委会主任赵璟，市政协主席王吉德出席。\n会议指出，要始终把习近平强军思想作为统领武装工作的“魂”、指导动员建设的“纲”，深入学习贯彻习近平总书记关于国防和军队建设的重要论述，进一步深化跨军地改革，加强军地战略规划统筹、政策制度衔接、资源要素共享，推动军地共建、协同发展，以更强担当服务国防和军队现代化建设，为实现建军一百年奋斗目标贡献西安力量。\n会议强调，要坚持政治建军，毫不动摇坚持党对军队的绝对领导，全面落实新时代政治建军方略，坚决贯彻军委主席负责制，扛牢党管武装政治责任，善始善终抓好树立和践行正确政绩观学习教育，推进思想整风、深化政治整训，切实筑牢强军兴军之魂。要聚焦练兵备战，扎实做好军事斗争准备，不断优化军地联合指挥机制，加强应战应急使命课题联演联训，大力发展新域新质作战力量，加强国防动员和后备力量建设，不断提升支援保障打赢能力。要锐意改革创新，有效促进“军转民”“民参军”，实现新质生产力同新质战斗力高效融合、双向拉动，推动经济建设与国防建设协调发展、富民强市与兴武强军互促共赢。要深化双拥共建，大力弘扬拥军优属、拥政爱民的光荣传统，用心用情用力做好军转干部安置、军属随迁随调、子女入学等工作，结合纪念红军长征胜利90周年加强全民国防教育，积极营造关心国防、热爱国防、尊崇军人的良好社会氛围，共同谱写新时代军民鱼水情深新篇章。\n市级有关领导同志，西安警备区副司令员，警备区有关部门负责同志，各区县、西咸新区、各开发区和市级有关部门主要负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "party",
+  "keywords": [
+    "跨军地改革",
+    "军民融合"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨军地改革",
+      "name_en": "Cross-Military-Civilian Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军民融合",
+      "name_en": "Civil-Military Integration"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "西安",
+    "跨军地改革",
+    "军民融合",
+    "习近平"
+  ],
+  "tags_en": [
+    "Xi'an",
+    "Cross-Military-Civilian Reform",
+    "Civil-Military Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王吉德"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_xi_an-7afb8d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

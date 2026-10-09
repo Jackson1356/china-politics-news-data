@@ -1,0 +1,93 @@
+{
+  "id": "20260905-gov_zi_bo-10b5d4",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/9/5/art_14322_3019411.html",
+  "title_zh": "2026年年中省直老干部情况通报会召开",
+  "title_en": "Mid-2026 Briefing Meeting for Provincial Retired Officials Held",
+  "summary_zh": "9月4日，2026年年中省直老干部情况通报会在济南召开。省委常委张海波、单义代表省委、省政府向老干部通报上半年全省经济社会发展情况。",
+  "summary_en": "On Sept 4, a briefing meeting for retired provincial officials was held in Jinan, with Zhang Haibo and Shan Yi representing the provincial Party committee and government to report on H1 economic and social progress.",
+  "body_zh": "2026年年中省直老干部情况通报会召开\n9月4日，2026年年中省直老干部情况通报会在济南召开，通报上半年全省经济社会发展情况。省委常委、常务副省长张海波，省委常委、秘书长单义出席会议，代表省委、省人民政府向老干部们致以诚挚问候和美好祝福。\n会议指出，今年是“十五五”开局之年，全省上下深入学习贯彻习近平总书记视察山东重要讲话和重要指示批示精神，统筹推进稳增长、提质效、抓改革、防风险、惠民生各项工作，上半年主要指标高于全国，高质量发展迈出新的坚实步伐。希望老领导、老同志一如既往关心支持全省经济社会发展，积极建言献策、凝心聚力，为新时代社会主义现代化强省建设贡献更多智慧和力量。（记者 毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "party",
+  "keywords": [
+    "老干部工作",
+    "经济社会发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "person",
+      "id": "shan-yi-shandong",
+      "name_zh": "单义",
+      "name_en": "Shan Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老干部工作",
+      "name_en": "Work with Retired Officials"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济社会发展",
+      "name_en": "Economic and Social Development"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "单义",
+    "济南",
+    "老干部工作",
+    "经济社会发展"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Shan Yi",
+    "Jinan",
+    "Work with Retired Officials",
+    "Economic and Social Development"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      "shan-yi-shandong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260905-gov_zi_bo-10b5d4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

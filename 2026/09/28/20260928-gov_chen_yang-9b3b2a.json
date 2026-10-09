@@ -1,0 +1,118 @@
+{
+  "id": "20260928-gov_chen_yang-9b3b2a",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/szfxx/zydt/202609/t20260928_5096038.html",
+  "title_zh": "王新伟会见蒙古国库苏古尔省代表团一行",
+  "title_en": "Wang Xinwei Meets with Delegation from Mongolia's Khuvsgul Province",
+  "summary_zh": "9月24日，辽宁省省长王新伟在沈阳会见蒙古国库苏古尔省省长图穆尔巴特尔率领的代表团，双方就深化经贸、能源矿产、基础设施及人文等领域合作交换意见。",
+  "summary_en": "On September 24, Liaoning Governor Wang Xinwei met in Shenyang with a delegation led by Tumerbaatar, Governor of Mongolia's Khuvsgul Province, to discuss cooperation in trade, energy and minerals, infrastructure and cultural exchanges.",
+  "body_zh": "9月24日，省委副书记、省长王新伟在沈阳会见蒙古国库苏古尔省省长图穆尔巴特尔率领的代表团一行。\n王新伟代表省委、省政府对图穆尔巴特尔一行来访表示欢迎。他说，在习近平主席和呼日勒苏赫总统的战略引领下，中蒙全面战略伙伴关系不断向前发展。辽宁与库苏古尔省经贸互补性强，互动往来扎实推进。当前，辽宁正深入贯彻落实习近平主席对辽宁的重要讲话和重要指示精神，坚持以科技创新引领高质量发展，优化提升传统产业、发展壮大新兴支柱产业、前瞻布局未来产业，建设具有辽宁特色优势的现代化产业体系，充分发挥东北亚开放合作枢纽作用，积极参与中蒙俄经济走廊建设，全面提升对外开放水平，加快实现全面振兴取得新突破。辽宁愿与库苏古尔省一道，落实好两国元首重要共识，围绕高质量共建“一带一路”，持续深化省际、市际友好往来，加强能源矿产、畜牧业深加工、基础设施、生态环保等领域投资贸易合作，推动两地优势产业、优质项目深度对接，密切文旅、艺术、教育、体育、青少年等交流交往，为两地人民创造更多福祉。\n图穆尔巴特尔表示，库苏古尔省与辽宁合作基础良好，发展空间广阔。希望两省深化拓展经贸、产业、人文等领域合作，支持企业双向投资，打造更多互利合作增长点，推动友好关系向更深层次更高水平迈进。\n蒙古国库苏古尔省副省长钢德力格尔参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中蒙合作",
+    "一带一路",
+    "省际友好往来"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xinwei-liaoning",
+      "name_zh": "王新伟",
+      "name_en": "Wang Xinwei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中蒙合作",
+      "name_en": "China-Mongolia Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省际友好往来",
+      "name_en": "Inter-provincial Friendship Exchanges"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "bater-hainan",
+      "name_zh": "巴特尔",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王新伟",
+    "沈阳",
+    "辽宁",
+    "中蒙合作",
+    "一带一路",
+    "省际友好往来",
+    "习近平",
+    "巴特尔"
+  ],
+  "tags_en": [
+    "Wang Xinwei",
+    "Shenyang",
+    "Liaoning",
+    "China-Mongolia Cooperation",
+    "Belt and Road Initiative",
+    "Inter-provincial Friendship Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "bater-hainan",
+      "wang-xinwei-liaoning",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY",
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260928-gov_chen_yang-9b3b2a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

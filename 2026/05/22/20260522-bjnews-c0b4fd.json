@@ -1,0 +1,82 @@
+{
+  "id": "20260522-bjnews-c0b4fd",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1779416892129710.html",
+  "title_zh": "国家发改委：从未要求中国科技企业不得接受外商投资",
+  "title_en": "NDRC: China Has Never Required Tech Companies to Refuse Foreign Investment",
+  "summary_zh": "5月22日，国家发改委在新闻发布会上表示，支持中国企业融入全球创新网络，从未要求中国科技企业不得接受外商投资。",
+  "summary_en": "On May 22, the NDRC stated at a press conference that it supports Chinese enterprises integrating into global innovation networks and has never prohibited tech companies from accepting foreign investment.",
+  "body_zh": "据人民财讯5月22日电，5月22日，国家发展改革委召开新闻发布会。会上，国家发展改革委政策研究室副主任李超表示，对外开放是中国的基本国策，我们支持中国企业融入全球创新网络，开展互利共赢的国际交流合作，从未要求中国科技企业不得接受外商投资。同时，外商投资也必须遵守中国的法律和法规，不得损害中国国家安全和利益。中国开放的大门只会越开越大。我们将持续深入落实外商投资法及其实施条例，持续打造市场化、法治化、国际化的营商环境，并做好风险防控。（证券时报 韩忠楠）",
+  "image_url": null,
+  "published_at": null,
+  "event_date": null,
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "economy",
+  "keywords": [
+    "对外开放",
+    "外商投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商投资",
+      "name_en": "Foreign Investment"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "对外开放",
+    "外商投资"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Opening-up",
+    "Foreign Investment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "任李超"
+      },
+      {
+        "id": null,
+        "name_zh": "李超"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260522-bjnews-c0b4fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

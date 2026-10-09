@@ -1,0 +1,88 @@
+{
+  "id": "20260731-gov_huai_an-d7e3b9",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17828352/1785489238584TTKK5KAA.html",
+  "title_zh": "双高协同·校（院）企双进产学研对接活动淮安专场举行",
+  "title_en": "Huaian Hosts Industry-University-Research Matchmaking Event",
+  "summary_zh": "7月30日，'双高协同·校（院）企双进'产学研对接活动淮安专场举行，市委书记史志军致辞，中国工程院院士沈政昌作主旨演讲，推动科技成果转化。",
+  "summary_en": "On July 30, Huaian hosted an industry-university-research matchmaking event. City Party Secretary Shi Zhijun addressed the event, and CAE academician Shen Zhengchang delivered a keynote speech to promote tech transfer.",
+  "body_zh": "“双高协同·校（院）企双进”——“科技专家进企业”产学研对接活动淮安专场暨火炬科技成果直通车（淮安站）举行\n7月30日，“双高协同·校（院）企双进”——“科技专家进企业”产学研对接活动淮安专场暨火炬科技成果直通车（淮安站）举行。全国人大常委会委员、中国工程院院士、矿冶科技集团有限公司首席科学家沈政昌作主旨演讲。市委书记史志军出席会议并致辞。中国工程院院士、中国科学院武汉岩土力学研究所研究员杨春和，工业和信息化部火炬中心副总工程师李文雷，省科技厅党组成员、副厅长高飞，省新质生产力促进中心主任赵志强，副市长许宏、洪然出席活动。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "industry",
+  "keywords": [
+    "产学研对接",
+    "科技成果转化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产学研对接",
+      "name_en": "Industry-University-Research Collaboration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技成果转化",
+      "name_en": "Technology Transfer"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "淮安",
+    "产学研对接",
+    "科技成果转化"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Huaian",
+    "Industry-University-Research Collaboration",
+    "Technology Transfer"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      {
+        "id": null,
+        "name_zh": "洪然"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260731-gov_huai_an-5b647b",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "20260623-chinanews_gn-836bda",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-23/10645547.shtml",
+  "title_zh": "中国邮政储蓄银行厦门分行原行长陈建宏接受审查调查",
+  "title_en": "Former President of Postal Savings Bank of China Xiamen Branch Chen Jianhong Under Investigation",
+  "summary_zh": "2026年6月23日，中国邮政储蓄银行厦门分行原党委书记、行长陈建宏因涉嫌严重违纪违法，接受纪律审查和监察调查。",
+  "summary_en": "On June 23, 2026, Chen Jianhong, former Party Secretary and President of the Xiamen Branch of the Postal Savings Bank of China, was placed under investigation for suspected serious violations of discipline and law.",
+  "body_zh": "中国邮政储蓄银行厦门分行原行长陈建宏接受审查调查\n中新网6月23日电 据中央纪委国家监委驻中国邮政集团有限公司纪检监察组、福建省纪委监委消息：中国邮政储蓄银行厦门分行原党委书记、行长陈建宏涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国邮政集团有限公司纪检监察组纪律审查和福建省厦门市监委监察调查。\n国内新闻精选：\n- 2026年06月23日 08:59:37\n- 2026年06月23日 08:50:34\n- 2026年06月23日 07:36:06\n- 2026年06月22日 22:31:03\n- 2026年06月22日 22:01:04\n- 2026年06月22日 20:10:16\n- 2026年06月22日 14:34:23\n- 2026年06月22日 13:37:57\n- 2026年06月22日 13:11:58\n- 2026年06月21日 17:57:39",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-23T08:00:31Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈建宏",
+      "name_en": "Chen Jianhong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "厦门市监委",
+      "name_en": "Xiamen Municipal Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "PSBC",
+      "name_zh": "中国邮政储蓄银行",
+      "name_en": "Postal Savings Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "厦门",
+      "name_en": "Xiamen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Inspection"
+    }
+  ],
+  "tags_zh": [
+    "陈建宏",
+    "中央纪委国家监委",
+    "厦门市监委",
+    "中国邮政储蓄银行",
+    "厦门",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Chen Jianhong",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Xiamen Municipal Supervisory Commission",
+    "Postal Savings Bank of China",
+    "Xiamen",
+    "Anti-corruption",
+    "Disciplinary Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PSBC"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      },
+      {
+        "name_zh": "厦门市监委",
+        "name_en": "Xiamen Municipal Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260623-chinanews_gn-836bda",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-23/10645548.shtml",
+      "title_zh": "国网江西省电力有限公司原党委委员梁剑接受审查调查",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

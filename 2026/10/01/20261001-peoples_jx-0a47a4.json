@@ -1,0 +1,92 @@
+{
+  "id": "20261001-peoples_jx-0a47a4",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jx.people.com.cn/n2/2026/1001/c186330-41713096.html",
+  "title_zh": "“赣鄱词元工厂”发布仪式在九江举行",
+  "title_en": "Launch Ceremony of \"Ganpo Token Factory\" Held in Jiujiang",
+  "summary_zh": "9月30日，由江西省发展改革委（省数据局）、九江市人民政府、中国电信江西公司主办的“赣鄱词元工厂”发布仪式在江西九江举行，标志江西在数据要素价值化和人工智能产业生态构建上迈出关键一步。",
+  "summary_en": "On September 30, the launch ceremony of the \"Ganpo Token Factory,\" co-hosted by Jiangxi's Development and Reform Commission (Provincial Data Bureau), the Jiujiang Municipal Government and China Telecom Jiangxi, was held in Jiujiang, marking a key step in Jiangxi's data factor value realization and AI industry ecosystem.",
+  "body_zh": "“赣鄱词元工厂”发布仪式在九江举行\n9月30日，由江西省发展改革委（省数据局）、九江市人民政府、中国电信江西公司主办的“数启赣鄱·智创未来——‘赣鄱词元工厂’发布仪式”在江西省九江市举行。\n该项目落地九江，标志着江西在数据要素价值化和人工智能产业生态构建上迈出关键一步。下一步，中国电信江西公司将加快建设新型数字信息基础设施，年内算力规模力争达到700P，推动人工智能与新型工业化、数字政务、低空经济、智慧教育、智慧医疗等深度融合。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "数据要素",
+    "算力基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JX-JJ",
+      "name_zh": "九江",
+      "name_en": "Jiujiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素",
+      "name_en": "Data Factors"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力基础设施",
+      "name_en": "Computing Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "九江",
+    "江西",
+    "人工智能",
+    "数据要素",
+    "算力基础设施"
+  ],
+  "tags_en": [
+    "Jiujiang",
+    "Jiangxi",
+    "Artificial Intelligence",
+    "Data Factors",
+    "Computing Infrastructure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JX-JJ",
+      "CN-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-peoples_jx-0a47a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

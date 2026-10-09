@@ -1,0 +1,100 @@
+{
+  "id": "20260623-xinhua_gd-7e706a",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260623/903d77ed2a9b4d2cbcc3944013c2eb06/c.html",
+  "title_zh": "全国首个新型电力系统国家质检中心通过验收",
+  "title_en": "China's First National Quality Inspection Center for New Power Systems Passes Acceptance",
+  "summary_zh": "国家市场监督管理总局近日对依托南方电网科学研究院筹建的国家新型电力系统数字传感及控制产品质量检验检测中心进行了现场验收并予以通过。",
+  "summary_en": "The State Administration for Market Regulation recently completed the on-site acceptance of China's first national quality inspection center for new power system digital equipment, built by the China Southern Power Grid Science and Technology Research Institute.",
+  "body_zh": "新华网广州6月23日电（李幸子）近日，依托南方电网科学研究院筹建的国家新型电力系统数字传感及控制产品质量检验检测中心，通过国家市场监督管理总局现场验收。这是全国首个聚焦新型电力系统数字装备的国家级质检平台，也是南方电网首个获批的国家质检中心，将进一步惠及产业赋能、民生用电、绿色生活等方面。\n当前，我国新型能源体系建设进入提质升级关键阶段，电力系统呈现高比例新能源接入、高电力电子化、源网荷储协同互动的全新特征。此次验收的国家级质检中心，实现了电力质检从传统设备核验向新型电力系统数字化装备全维度质检的升级，破解传统质检“检不了、测不准、覆盖不全”的行业痛点，为新型电力系统安全稳定运行、能源绿色低碳转型、电力产业链高质量发展筑牢质量根基。\n据介绍，该中心依托超2万平方米专业实验室、6500余项CMA、CNAS权威认证资质，检测范围覆盖新能源并网设备、储能系统、智能配电终端、数字计量设备等源网荷储新型装备，涵盖核心元器件、整机设备、配套软件系统等层级。通过融合数字仿真、大数据核验等技术，复刻新能源波动、多设备协同运行等复杂电网场景，实现电力装备全工况、高精度检测，适配新型电力装备快速迭代、场景复杂的运行特点。\n该中心负责人表示，后续将依托该国家级平台，持续迭代核心检测技术，深耕安全保障、能源转型、产业升级、国际合作、民生服务五大领域，打造具有全球影响力的电力质检高地，为质量强国战略落地、能源事业高质量发展提供坚实支撑。",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-23T08:00:31Z",
+  "topic": "industry",
+  "keywords": [
+    "新型电力系统",
+    "质量强国",
+    "能源转型"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "南方电网科学研究院",
+      "name_en": "China Southern Power Grid Science and Technology Research Institute"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型电力系统",
+      "name_en": "New Power System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "质量强国",
+      "name_en": "Quality Powerhouse Strategy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源转型",
+      "name_en": "Energy Transition"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "南方电网科学研究院",
+    "广州",
+    "新型电力系统",
+    "质量强国",
+    "能源转型"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "China Southern Power Grid Science and Technology Research Institute",
+    "Guangzhou",
+    "New Power System",
+    "Quality Powerhouse Strategy",
+    "Energy Transition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "南方电网科学研究院",
+        "name_en": "China Southern Power Grid Science and Technology Research Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260623-xinhua_gd-7e706a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

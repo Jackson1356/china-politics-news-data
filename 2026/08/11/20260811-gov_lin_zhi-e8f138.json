@@ -1,0 +1,95 @@
+{
+  "id": "20260811-gov_lin_zhi-e8f138",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/3f46527c4a664ccba4dd4c3ef295d7a9.shtml",
+  "title_zh": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函",
+  "title_en": "Reply of the General Office of the State Council on the Annual Forest Harvest Quota for Key Forest Areas during the 15th Five-Year Plan Period",
+  "summary_zh": "国务院办公厅复函同意国家林草局编制的重点林区“十五五”期间森林年采伐限额，要求严格执行、不得突破，并加强管理推进生态保护。",
+  "summary_en": "The State Council approved the forest harvest quota for key forest areas (2026-2030), requiring strict enforcement and enhanced forest management for ecological protection.",
+  "body_zh": "国务院办公厅关于重点林区\n“十五五”期间森林年采伐限额的复函\n国办函〔2026〕71号\n自然资源部、国家林草局：\n《自然资源部关于重点林区“十五五”期间森林年采伐限额的请示》（自然资发〔2026〕90号）收悉。经国务院批准，现函复如下：\n一、国务院原则同意国家林草局编制的重点林区“十五五”期间森林年采伐限额，请认真贯彻执行。\n二、重点林区“十五五”期间森林年采伐限额是重点林区每年采伐林地上森林、消耗林木蓄积的最大限量，国家林草局和各有关单位必须严格执行，不得突破。因重大自然灾害等特殊情况需要采伐林木且在采伐限额内无法解决的，应上报国务院批准。\n三、国家林草局要进一步优化完善森林年采伐限额管理方式，全面实施森林可持续经营，科学开展生态保护修复，确保重点林区森林资源总量持续增长、质量不断提高、生态功能稳步提升。\n四、国家林草局要加强指导，督促各省（自治区、直辖市）严格执行限额采伐、凭证采伐制度，对乱砍滥伐等破坏森林资源行为依法依规追究责任，引导节约集约利用森林资源，统筹推进高质量发展和高水平保护，加快推进生态文明和美丽中国建设。\n附件：重点林区“十五五”期间森林年采伐限额表\n国务院办公厅\n（此件公开发布）\n附 件",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "森林采伐限额",
+    "生态保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GOSC",
+      "name_zh": "国务院办公厅",
+      "name_en": "General Office of the State Council"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家林草局",
+      "name_en": "National Forestry and Grassland Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "森林采伐限额",
+      "name_en": "Forest Harvest Quota"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    }
+  ],
+  "tags_zh": [
+    "国务院办公厅",
+    "国家林草局",
+    "森林采伐限额",
+    "生态保护"
+  ],
+  "tags_en": [
+    "General Office of the State Council",
+    "National Forestry and Grassland Administration",
+    "Forest Harvest Quota",
+    "Ecological Protection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GOSC"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家林草局",
+        "name_en": "National Forestry and Grassland Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260811-gov_cn_yaowen-f8d35c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/zhengce/content/202608/content_7077887.htm",
+      "title_zh": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函_林业",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

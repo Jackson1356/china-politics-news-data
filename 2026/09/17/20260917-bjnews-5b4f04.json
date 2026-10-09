@@ -1,0 +1,115 @@
+{
+  "id": "20260917-bjnews-5b4f04",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789630942129200.html",
+  "title_zh": "中方接收美国国土安全调查局返还的58件文物艺术品和古生物化石",
+  "title_en": "China Receives 58 Cultural Relics, Artworks and Fossils Returned by US Homeland Security Investigations",
+  "summary_zh": "2026年9月16日，中国驻美国大使馆举办文物返还交接仪式，接收美方返还的58件文物艺术品和古生物化石，谢锋大使出席并致辞。",
+  "summary_en": "On September 16, 2026, the Chinese Embassy in the United States held a handover ceremony to receive 58 cultural relics, artworks and paleontological fossils returned by US Homeland Security Investigations. Ambassador Xie Feng attended and spoke.",
+  "body_zh": "新京报讯 据中国驻美国大使馆消息，2026年9月16日，中国驻美国大使馆隆重举办文物返还交接仪式，中方成功接收美国国土安全调查局“文化财产、艺术品与古物项目组”返还的58件文物艺术品和古生物化石。谢锋大使出席并致辞。\n谢锋说，文物返还是正义之灯，守护人类共同的文明瑰宝；是进步之梯，见证中华文脉的赓续新生；是合作之桥，拓宽互利共赢的光明大道。习近平主席强调，“保护文物功在当代、利在千秋。”伴随着民族复兴的东风浩荡，流失海外的中国文物不仅越来越多踏上归途，而且得到越来越好的保护利用，焕发新的时代光彩。\n谢锋说，此次文物返还是中美落实两国元首北京会晤共识、践行建设性战略稳定关系新定位的可视化成果，体现了双方对历史的负责、对文明的尊重、对正义的坚守，为各国树立了积极示范，再次证明中美合作可以办成许多大事、实事、好事，造福两国、惠及世界。\n中国文化和旅游部副部长、国家文物局局长饶权，美国国土安全调查局助理局长马约拉尔分别致辞并签署交接证书。饶权表示，此次返还合作是中美在文化遗产领域落实两国元首北京会晤共识的最新成果，也是两国政府部门依据关于限制中国文物非法入境美国的政府间谅解备忘录开展的重要合作，将进一步促进中美人文交流，推动两国民心相通。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "文物返还",
+    "中美关系",
+    "文化遗产保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "美国国土安全调查局",
+      "name_en": "US Homeland Security Investigations"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家文物局",
+      "name_en": "National Cultural Heritage Administration"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文物返还",
+      "name_en": "Return of Cultural Relics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化遗产保护",
+      "name_en": "Cultural Heritage Protection"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "美国国土安全调查局",
+    "国家文物局",
+    "美国",
+    "文物返还",
+    "中美关系",
+    "文化遗产保护",
+    "习近平"
+  ],
+  "tags_en": [
+    "US Homeland Security Investigations",
+    "National Cultural Heritage Administration",
+    "United States",
+    "Return of Cultural Relics",
+    "China-US Relations",
+    "Cultural Heritage Protection"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "美国国土安全调查局",
+        "name_en": "US Homeland Security Investigations"
+      },
+      {
+        "name_zh": "国家文物局",
+        "name_en": "National Cultural Heritage Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260917-bjnews-5b4f04",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

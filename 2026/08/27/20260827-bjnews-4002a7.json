@@ -1,0 +1,91 @@
+{
+  "id": "20260827-bjnews-4002a7",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1787826834129071.html",
+  "title_zh": "卫生健康部门开展西藏吉隆县泥石流受灾医疗应急工作",
+  "title_en": "Health Authorities Carry Out Medical Emergency Response for Landslide Victims in Gyirong County, Tibet",
+  "summary_zh": "8月26日，尼泊尔一侧泥石流造成西藏吉隆县吉隆口岸重大伤亡，国家卫健委安排医疗救援，委负责同志已赴西藏指导应急处置。",
+  "summary_en": "On Aug 26, a landslide on the Nepalese side caused heavy casualties at Gyirong Port, Gyirong County, Tibet. The National Health Commission dispatched medical teams and sent officials to guide emergency response.",
+  "body_zh": "据央视新闻消息，8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。国家卫生健康委坚决贯彻落实习近平总书记重要指示精神和李强总理批示要求，立即对伤员救治、心理疏导、灾区群众医疗服务保障等工作作出安排，委负责同志已赶赴西藏指导医学救援和应急处置工作。\n国家卫生健康委会同西藏自治区统筹调度医疗卫生资源，全面做好各项工作。派出西藏自治区人民医院、自治区疾控中心专业技术人员携带急救物资、消杀药品和专业车辆前往灾区支援；组织调派日喀则吉隆县以及邻近的萨嘎县、聂拉木县、定日县救护车、医护及心理工作人员紧急赶赴灾区，尽全力保证一线伤员转运、救治及心理干预需要。西藏自治区开通心理援助热线，24小时值班值守。安排有关医院随时做好伤员救治准备，血液保障同步到位，另有多支国家紧急医学救援队随时增援，并做好会诊准备。\n（总台央视记者 文永毅 史迎春）",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "医疗应急",
+    "灾害救援"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉隆县",
+      "name_en": "Gyirong County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗应急",
+      "name_en": "Medical Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "吉隆县",
+    "医疗应急",
+    "灾害救援",
+    "李强"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Gyirong County",
+    "Medical Emergency Response",
+    "Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260827-bjnews-4002a7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

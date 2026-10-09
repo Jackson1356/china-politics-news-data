@@ -1,0 +1,84 @@
+{
+  "id": "20260804-local_zhe_jiang_zai_xian_cn_zj-dcc700",
+  "source": "local_zhe_jiang_zai_xian_cn_zj",
+  "source_name_zh": "浙江在线",
+  "source_name_en": "浙江在线",
+  "source_media_id": "cac-cn-zj-f8a922b59a",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-ZJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.chinanews.com.cn/sh/shipin/2026/08-04/news1064258.shtml",
+  "title_zh": "绿色电力7毫秒就能从金沙江畔抵达长三角",
+  "title_en": "Green Power from Jinsha River Reaches Yangtze River Delta in 7 Milliseconds",
+  "summary_zh": "白鹤滩水电站累计发电量突破2500亿度，清洁电能通过输电线路仅7毫秒即可从金沙江畔抵达长三角，每年可向华东输送超600亿度电。",
+  "summary_en": "Baihetan Hydropower Station's cumulative generation exceeds 250 billion kWh. Clean power travels from the Jinsha River to the Yangtze River Delta in just 7 milliseconds via UHV lines, delivering over 60 billion kWh annually.",
+  "body_zh": "（长江十年行）绿色电力7毫秒就能从金沙江畔抵达长三角\n白鹤滩水电站位于云南省巧家县和四川省宁南县交界处，总装机容量1600万千瓦，位居世界第二；16台百万千瓦水轮发电机组，单机容量全球第一。每台机组运转一小时，就能发出100万度电。\n截至目前，白鹤滩水电站累计发电量突破2500亿度。这些清洁电能没有停留在西南大山里，而是通过两条“电力高速路”直奔华东。电流从金沙江畔出发，仅需7毫秒就能抵达长三角，两条线路每年可向华东输送超600亿度清洁电能。\n记者 杜潇潇\n(中国互联网发展基金会中国正能量网络传播专项基金支持项目）\n本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件，务经书面授权。\n未经授权禁止转载、摘编、复制及建立镜像，违者将依法追究法律责任。\nchinanews.com. All Rights Reserved",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "industry",
+  "keywords": [
+    "清洁能源",
+    "特高压输电"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "金沙江",
+      "name_en": "Jinsha River"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "特高压输电",
+      "name_en": "UHV Transmission"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江畔",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "金沙江",
+    "清洁能源",
+    "特高压输电",
+    "江畔"
+  ],
+  "tags_en": [
+    "Jinsha River",
+    "Clean Energy",
+    "UHV Transmission"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江畔"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260804-local_zhe_jiang_zai_xian_cn_zj-dcc700",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

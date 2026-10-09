@@ -1,0 +1,108 @@
+{
+  "id": "20260814-gov_tai_zhou-a8d776",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/8/14/art_60096_11816131.html",
+  "title_zh": "刘小涛会见中金公司董事长陈亮",
+  "title_en": "Liu Xiaotao Meets CICC Chairman Chen Liang",
+  "summary_zh": "8月12日，江苏省省长刘小涛在南京会见中金公司董事长陈亮，双方就金融赋能新质生产力发展、深化资本市场合作等交流。",
+  "summary_en": "On August 12, Jiangsu Governor Liu Xiaotao met with CICC Chairman Chen Liang in Nanjing to discuss financial support for new quality productive forces and capital market cooperation.",
+  "body_zh": "当前位置：\n刘小涛会见中金公司董事长陈亮\n8月12日，省长刘小涛在南京会见中国国际金融股份有限公司董事长陈亮。\n刘小涛对陈亮一行表示欢迎。他说，江苏正加快培育发展新质生产力、促进科技创新和产业创新深度融合，需要更大力度的多层次、专业化金融赋能。希望中金公司发挥全球资源优势，充分链接国际主权基金、顶尖投资机构和长期耐心资本，聚焦新兴支柱产业和未来产业提供全方位、定制化综合金融服务，引导更多优质科创项目落地，进一步提升江苏资本市场的集聚效应和核心能级。我们将持续优化投融资生态，携手搭建精准对接平台，共同提升金融服务实体经济质效。\n陈亮表示，中金公司始终将江苏作为布局的重要区域，将围绕国家发展战略和江苏实际需求，依托丰富的国内外网络，助力壮大资本市场“江苏板块”，为江苏高质量发展注入更多金融活水。\n省政府秘书长赵建军参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "金融服务实体经济",
+    "资本市场合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务实体经济",
+      "name_en": "Financial Services for Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "资本市场合作",
+      "name_en": "Capital Market Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈亮",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "新质生产力",
+    "金融服务实体经济",
+    "资本市场合作",
+    "陈亮"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "New Quality Productive Forces",
+    "Financial Services for Real Economy",
+    "Capital Market Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      },
+      {
+        "id": null,
+        "name_zh": "陈亮"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260814-gov_tai_zhou-a8d776",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

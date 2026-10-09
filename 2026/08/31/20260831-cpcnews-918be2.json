@@ -1,0 +1,93 @@
+{
+  "id": "20260831-cpcnews-918be2",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0831/c64387-40789272.html",
+  "title_zh": "规上工业企业利润同比增长17.6%",
+  "title_en": "Profits of Industrial Enterprises Above Designated Size Rise 17.6%",
+  "summary_zh": "国家统计局数据显示，今年前7月规模以上工业企业利润同比增长17.6%，其中高技术制造业利润增长50.1%，电子行业利润增长1.1倍。",
+  "summary_en": "According to the National Bureau of Statistics, profits of industrial enterprises above designated size grew 17.6% year on year in the first seven months, with high-tech manufacturing up 50.1% and electronics up 110%.",
+  "body_zh": "前7月\n本报北京8月30日电 （记者刘志强）记者从国家统计局获悉：今年前7月，规模以上工业企业营业收入同比增长6.5%，规模以上工业企业利润同比增长17.6%。7月，全国规模以上工业企业利润同比增长11.2%。\n电子相关行业利润高速增长。前7月，电子行业利润同比增长1.1倍，拉动全部规模以上工业企业利润增长9.3个百分点。其中，以算力芯片、存储芯片为代表的集成电路行业利润同比增长18.5倍，对全部电子行业利润增长贡献率超过八成。\n高技术制造业引领作用明显。前7月，制造业向产业链、价值链中高端转型持续推进，规模以上高技术制造业利润同比增长50.1%，拉动全部规模以上工业企业利润增长9.6个百分点。\n《 人民日报 》（ 2026年08月31日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "economy",
+  "keywords": [
+    "工业企业利润",
+    "高技术制造业",
+    "集成电路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业企业利润",
+      "name_en": "Industrial Enterprise Profits"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术制造业",
+      "name_en": "High-tech Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "集成电路",
+      "name_en": "Integrated Circuits"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "北京",
+    "工业企业利润",
+    "高技术制造业",
+    "集成电路"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Beijing",
+    "Industrial Enterprise Profits",
+    "High-tech Manufacturing",
+    "Integrated Circuits"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260831-cpcnews-918be2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

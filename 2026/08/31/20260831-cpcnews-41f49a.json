@@ -1,0 +1,113 @@
+{
+  "id": "20260831-cpcnews-41f49a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0831/c461001-40789464.html",
+  "title_zh": "习近平主席赴比什凯克出席2026年上海合作组织峰会",
+  "title_en": "President Xi Jinping Attends 2026 SCO Summit in Bishkek",
+  "summary_zh": "习近平主席赴比什凯克出席2026年上海合作组织峰会，传承上海精神，推动构建上合组织命运共同体。",
+  "summary_en": "President Xi Jinping attends the 2026 SCO Summit in Bishkek, promoting the Shanghai Spirit and building an SCO community with a shared future.",
+  "body_zh": "2013年，习近平主席首次出席上海合作组织峰会，地点就是比什凯克。今年是上海合作组织成立25周年，习近平主席赴比什凯克出席2026年上海合作组织峰会。这次峰会将为各方进一步传承和发扬“上海精神”、推动构建上海合作组织命运共同体注入新动力。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "上海精神",
+    "命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海精神",
+      "name_en": "Shanghai Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community of Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "上海合作组织",
+    "上海精神",
+    "命运共同体"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Shanghai Cooperation Organization",
+    "Shanghai Spirit",
+    "Community of Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260831-cpcnews-41f49a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-08/31/content_23753815.htm",
+      "title_zh": "经纬线·比什凯克，习主席第一次出席上合峰会的地方",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-08/31/content_38975410.htm",
+      "title_zh": "经纬线·比什凯克，习主席第一次出席上合峰会的地方",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://focus.scol.com.cn/gcdt/202608/83313602.html",
+      "title_zh": "经纬线·比什凯克,习主席第一次出席上合峰会的地方",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

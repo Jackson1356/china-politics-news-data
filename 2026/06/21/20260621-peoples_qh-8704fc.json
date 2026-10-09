@@ -1,0 +1,92 @@
+{
+  "id": "20260621-peoples_qh-8704fc",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_url": "http://qh.people.com.cn/n2/2026/0621/c182775-41616596.html",
+  "title_zh": "青海实现国内首次多构网设备弱电网黑启动",
+  "title_en": "Qinghai Achieves China's First Black Start of Weak Grid Using Multiple Grid-Forming Devices",
+  "summary_zh": "6月15日，国网青海省电力公司等单位在果洛州成功完成国内首次末端弱支撑电网多构网型设备协同黑启动试验，探索了高比例新能源电网失电重启的新路径。",
+  "summary_en": "On June 15, State Grid Qinghai Electric Power Company and other entities successfully completed China's first collaborative black start test for weak-support end grids, exploring new technical paths for restarting remote grids with high proportions of new energy.",
+  "body_zh": "青海实现国内首次多构网设备弱电网黑启动\n6月15日，在国网西北分部统筹指导下，国网青海省电力公司联合国能青海黄河玛尔挡水电开发有限公司，在果洛110千伏骅麦光储电站，圆满完成“构网型储能+静止同步调相机”装置协同黑启动及联合并网运行试验。本次试验系国内首次末端弱支撑电网多构网型设备协同黑启动试验，成功探索高比例新能源偏远电网失电重启全新技术路径。\n青海作为国家重要清洁能源产业基地，风光水能资源禀赋优越，新能源产业迈入规模化高速发展阶段。受高原地域广袤、新能源站点布局分散客观条件制约，个别区域末端电网网架支撑能力偏弱，叠加新能源“双高”运行特性，对电网安全稳定运行提出更高要求。极端工况下，高原末端电网因新能源装机占比极高、常规调节支撑电源紧缺，电网停电后，现有恢复供电途径单一。\n本次试验所在的110千伏骅麦光储电站地处青海省果洛藏族自治州，站点海拔超4200米，电站地处电网末端，与省级主网联络网架薄弱，当地新能源装机占比高、常规支撑电源匮乏，是高原高比例新能源弱支撑末端电网的典型样本。试验筹备阶段，国网青海电力完成局部电网全电磁精细化建模，闭环开展构网储能、静止同步调相机联动黑启动全流程仿真推演，提前校验方案安全性、适配性。试验期间，工作人员首先利用站内构网储能系统的黑启动功能，带动站内光伏电站，将站内电网提升至额定电压；再利用静止同步调相机，辅助储能装置建立并维持稳定电网电压，从而带动电站所属末端电网完成黑启动并实现孤网运行，满足重要负荷用电需求。\n本次试验从设备启动至完成电网黑启动仅用时33秒；从局部电网全域失电，到成功实现负荷带电，全程耗时约2小时。",
+  "image_url": null,
+  "published_at": "2026-06-21T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-21T08:55:06Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源",
+    "电网安全",
+    "黑启动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国网西北分部",
+      "name_en": "State Grid Northwest Division"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电网安全",
+      "name_en": "Grid Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黑启动",
+      "name_en": "Black Start"
+    }
+  ],
+  "tags_zh": [
+    "国网西北分部",
+    "青海",
+    "新能源",
+    "电网安全",
+    "黑启动"
+  ],
+  "tags_en": [
+    "State Grid Northwest Division",
+    "Qinghai",
+    "New Energy",
+    "Grid Security",
+    "Black Start"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "国网西北分部",
+        "name_en": "State Grid Northwest Division"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260618-peoples_qh-96ec87",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

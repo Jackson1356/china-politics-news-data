@@ -1,0 +1,91 @@
+{
+  "id": "20260603-guancha_politics-589c42",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_03_819309.shtml",
+  "title_zh": "私挖盗采矿产致5死，云南省安委会挂牌督办",
+  "title_en": "Yunnan Provincial Safety Committee Supervises Investigation into Illegal Mining Accident That Killed Five",
+  "summary_zh": "6月2日，云南省安委会决定对曲靖市一起导致5人死亡的私挖盗采矿产事故查处进行挂牌督办。",
+  "summary_en": "On June 2, the Yunnan Provincial Safety Committee announced a supervised investigation into an illegal mining accident in Qujing that resulted in five deaths.",
+  "body_zh": "私挖盗采矿产致5死，云南省安委会挂牌督办\n6月2日，云南省应急管理厅网站发布较大生产安全事故查处挂牌督办通知书（云安事故督办〔2026〕7号）：\n曲靖市人民政府：\n根据《较大事故查处挂牌督办办法》，省安委会决定对该起事故查处进行挂牌督办。请依照《生产安全事故报告和调查处理条例》等有关法律法规规定，组成事故调查组，抓紧开展事故调查，尽快查明事故原因，严格按事故调查规定要求研究提出处理意见。事故结案前，请将事故调查报告（稿）报省安委会办公室审核同意后，按照规定批复结案，并依法向社会公布。结案后，事故调查报告和事故处理决定落实情况要及时报省安委会办公室备案。\n云南省安全生产委员会",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "industry",
+  "keywords": [
+    "生产安全",
+    "私挖盗采"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "云南省安全生产委员会",
+      "name_en": "Yunnan Provincial Safety Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "曲靖",
+      "name_en": "Qujing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生产安全",
+      "name_en": "Production Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "私挖盗采",
+      "name_en": "Illegal Mining"
+    }
+  ],
+  "tags_zh": [
+    "云南省安全生产委员会",
+    "云南",
+    "曲靖",
+    "生产安全",
+    "私挖盗采"
+  ],
+  "tags_en": [
+    "Yunnan Provincial Safety Committee",
+    "Yunnan",
+    "Qujing",
+    "Production Safety",
+    "Illegal Mining"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": [
+      {
+        "name_zh": "云南省安全生产委员会",
+        "name_en": "Yunnan Provincial Safety Committee"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260603-guancha_politics-589c42",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

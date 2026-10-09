@@ -1,0 +1,122 @@
+{
+  "id": "20260917-gov_shan_tou-edcdcf",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/qxdt/content/post_2568855.html",
+  "title_zh": "汕头国际纺织城综治中心揭牌启用",
+  "title_en": "Shantou International Textile City Comprehensive Governance Center Inaugurated",
+  "summary_zh": "9月12日，汕头国际纺织城综治中心揭牌启用，整合多方政务资源构建一体化联动治理阵地，护航潮阳纺织服装产业集群发展。",
+  "summary_en": "On Sept 12, the comprehensive governance center of Shantou International Textile City was inaugurated, pooling government resources to safeguard the Chaoyang textile and garment industry cluster.",
+  "body_zh": "9月12日，汕头国际纺织城综治中心正式揭牌启用。该中心深入践行新时代“枫桥经验”，依托“1+6+N”社会治安综合治理工作体系，紧扣市委关于谷饶小城市试点立起“城”的格局、完善“市”的功能的部署要求，整合多方政务资源，构建一体化联动治理阵地，为汕头国际纺织城平稳有序运行、打造潮阳千亿级纺织服装产业集群筑牢平安根基。\n区委书记尤朝东，区委副书记、区长查晶晶，区委副书记方文宏，区委常委、政法委书记郑再泽，区委常委、副区长魏思超，副区长、公安分局局长陈伟鸿参加揭牌仪式，并为“汕头国际纺织城综治中心”揭牌。潮阳公安分局政委林少林主持揭牌仪式。\n同时，潮阳公安分局同步配套建设交管大队国际纺织城执勤点、谷饶派出所国际纺织城警务室。通过综治中心与警务室、交管执勤点毗邻布局、联动办公的创新模式，健全完善警调对接工作机制，构建起矛盾化解、治安防控、案件处置、交通治理“四位一体”的合成作战体系，精准高效防范化解各类风险隐患，全力护航潮阳纺织服装产业高质量、可持续发展。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-12",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "社会治安综合治理",
+    "枫桥经验",
+    "纺织服装产业",
+    "平安建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "潮阳公安分局",
+      "name_en": "Chaoyang Public Security Sub-bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会治安综合治理",
+      "name_en": "Comprehensive Social Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "枫桥经验",
+      "name_en": "Fengqiao Experience"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纺织服装产业",
+      "name_en": "Textile and Garment Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "平安建设",
+      "name_en": "Safe Society Development"
+    },
+    {
+      "kind": "person",
+      "id": "chen-wei-jiaxing",
+      "name_zh": "陈伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "潮阳公安分局",
+    "汕头",
+    "社会治安综合治理",
+    "枫桥经验",
+    "纺织服装产业",
+    "平安建设",
+    "陈伟"
+  ],
+  "tags_en": [
+    "Chaoyang Public Security Sub-bureau",
+    "Shantou",
+    "Comprehensive Social Governance",
+    "Fengqiao Experience",
+    "Textile and Garment Industry",
+    "Safe Society Development"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-wei-jiaxing",
+      {
+        "id": null,
+        "name_zh": "林少林"
+      },
+      {
+        "id": null,
+        "name_zh": "陈伟鸿"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": [
+      {
+        "name_zh": "潮阳公安分局",
+        "name_en": "Chaoyang Public Security Sub-bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-gov_shan_tou-edcdcf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

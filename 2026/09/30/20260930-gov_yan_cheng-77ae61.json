@@ -1,0 +1,132 @@
+{
+  "id": "20260930-gov_yan_cheng-77ae61",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/9/30/art_60096_11836865.html",
+  "title_zh": "江苏省十四届人大常委会第二十五次会议举行第二次全体会议",
+  "title_en": "Jiangsu Provincial People's Congress Standing Committee Holds Second Plenary Session of Its 25th Meeting",
+  "summary_zh": "9月29日上午，江苏省十四届人大常委会第二十五次会议举行第二次全体会议，听取人事任免案说明、任命人员履职情况报告及专项监督报告。",
+  "summary_en": "On the morning of Sept 29, the Standing Committee of the 14th Jiangsu Provincial People's Congress held the second plenary session of its 25th meeting, hearing personnel appointment matters, performance reports and special oversight reports.",
+  "body_zh": "当前位置：\n省十四届人大常委会第二十五次会议举行第二次全体会议\n9月29日上午，省十四届人大常委会第二十五次会议举行第二次全体会议，受省委书记、省人大常委会主任信长星委托，省人大常委会常务副主任樊金龙主持会议，副主任张爱军、储永宏、魏国强、夏心旻、周广智、王学锋和秘书长陈建刚出席会议。副省长马士光、省法院院长王红卫、省检察院检察长赵铁实到会作人事任免案说明。副省长沈剑荣、省监委有关负责同志列席会议。\n会议听取有关人事任免案说明，拟任命人员作了发言。会议听取5位省人大常委会任命人员作的履职情况报告。\n省人大社会委负责同志作了关于优化提升省“双创计划”、扩面升级省高层次人才培养计划等工作专项监督情况的报告，省人大常委会代表资格审查委员会负责同志作了关于个别代表的代表资格的报告。\n省政府、省法院向本次会议提交了4件审议意见落实情况的反馈报告，省人大有关委员会分别提交了审查报告。\n全体会议结束后，常委会组成人员赴南京钢铁集团考察。\n下午，召开联组会议，围绕2025年度农业农村领域财政重点专项资金使用绩效情况开展专题询问。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "人大监督",
+    "高层次人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层次人才培养",
+      "name_en": "High-level Talent Training"
+    },
+    {
+      "kind": "person",
+      "id": "xia-xinmin",
+      "name_zh": "夏心旻",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "zhang-aijun-zhaoqing",
+      "name_zh": "张爱军",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chu-yonghong",
+      "name_zh": "储永宏",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "人事任免",
+    "人大监督",
+    "高层次人才培养",
+    "夏心旻",
+    "张爱军",
+    "储永宏",
+    "信长星"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Personnel Appointments",
+    "People's Congress Oversight",
+    "High-level Talent Training"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "zhang-aijun-zhaoqing",
+      "xia-xinmin",
+      "chu-yonghong",
+      {
+        "id": null,
+        "name_zh": "金龙"
+      },
+      {
+        "id": null,
+        "name_zh": "陈建刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260930-gov_tai_zhou-dec8d5",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/9/30/art_60096_11836865.html",
+      "title_zh": "江苏省人民政府 要闻关注 省十四届人大常委会第二十五次会议举行第二次全体会议",
+      "published_at": "2026-09-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

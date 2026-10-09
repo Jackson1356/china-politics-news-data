@@ -1,0 +1,97 @@
+{
+  "id": "20260801-gov_wu_xi-8bd703",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/08/01/4813019.shtml",
+  "title_zh": "市政府召开第86次常务会议",
+  "title_en": "Municipal Government Holds 86th Executive Meeting",
+  "summary_zh": "7月31日，无锡市市长蒋锋主持召开市政府第86次常务会议，听取民生实事项目进展，审议健康城市创建和交通拥堵治理方案。",
+  "summary_en": "On July 31, Mayor Jiang Feng chaired the 86th executive meeting of Wuxi Municipal Government, reviewing livelihood projects and approving plans for healthy city and traffic congestion management.",
+  "body_zh": "发布时间：2026-08-01 07:53 文字大小： [ 大 中 小 ] 浏览次数：\n7月31日，市长蒋锋主持召开市政府第86次常务会议，听取今年上半年民生实事项目进展情况汇报，审议《无锡市全国健康城市创建工作方案》《无锡市治理交通拥堵专项行动方案》，部署相关工作。\n会议指出，办好今年10类49项民生实事项目，是市政府向全市人民作出的庄严承诺，是补齐民生短板、增进民生福祉的重要抓手。要紧盯年度目标任务，清单化、节点化抓紧推进，统筹抓好建设质量与配套完善，强化项目整体运营，健全长效管理机制，全方位做好宣传推广，确保按期保质落地见效，让群众早受益、多受益、更有获得感。要紧贴百姓需求，围绕急难愁盼问题启动新一轮民生实事项目征集，广泛倾听意见建议，用心谋划储备项目，接续办好群众“心头事”。\n会议强调，创建全国健康城市是贯彻健康中国战略的具体实践，要坚持把提升群众身心健康水平作为出发点和落脚点，严格对照国家评审标准，紧盯时序节点、细化职责分工，高质量完成各项创建任务，力争早日跻身全国健康城市行列。要以创建促进工作提升，加强健康知识普及，倡导健康生活方式，积极推广癌症筛查和早诊早治，不断丰富全民健身场景，努力打造更多具有无锡特色的标志性成果，更好惠及全市人民。\n会议指出，要扎实开展治理交通拥堵专项行动，进一步完善路网体系，围绕打通“神经末梢”、畅通微循环，加快实施一批“断头路”贯通、瓶颈路口微改造等工程；进一步优化出行结构，深化轨道交通与公交“两网融合”，大力倡导公共交通优先；进一步创新治理模式，注重精细化、智能化治理，全面推广“警校e家”智慧接学模式，科学扩大“绿波带”覆盖范围，充分挖掘共享停车资源，切实提高群众出行满意度。\n会议还审议《无锡市网络预约出租汽车经营服务管理实施细则》，讨论《无锡市蠡湖景区条例（修订草案）》，听取市级财政决算、预算有关情况汇报，研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "民生实事",
+    "健康城市",
+    "交通拥堵治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-feng-wuxi",
+      "name_zh": "蒋锋",
+      "name_en": "Jiang Feng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Livelihood Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康城市",
+      "name_en": "Healthy City"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通拥堵治理",
+      "name_en": "Traffic Congestion Management"
+    }
+  ],
+  "tags_zh": [
+    "蒋锋",
+    "无锡",
+    "民生实事",
+    "健康城市",
+    "交通拥堵治理"
+  ],
+  "tags_en": [
+    "Jiang Feng",
+    "Wuxi",
+    "Livelihood Projects",
+    "Healthy City",
+    "Traffic Congestion Management"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-feng-wuxi",
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260801-gov_wu_xi-8bd703",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

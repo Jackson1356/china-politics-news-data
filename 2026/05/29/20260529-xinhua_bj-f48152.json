@@ -1,0 +1,107 @@
+{
+  "id": "20260529-xinhua_bj-f48152",
+  "source": "xinhua_bj",
+  "source_name_zh": "新华网 北京",
+  "source_name_en": "Xinhua Beijing",
+  "source_url": "http://bj.news.cn/20260530/27f32a1713074bc1a7a660c348084391/c.html",
+  "title_zh": "北京三部门发布医保骗保典型案例",
+  "title_en": "Three Beijing Departments Release Typical Cases of Medical Insurance Fraud",
+  "summary_zh": "北京市医疗保障局、市人民检察院、市公安局联合发布5起医保骗保典型案例，旨在严厉打击欺诈骗保行为，引导医保基金使用主体强化法治观念。",
+  "summary_en": "The Beijing Medical Insurance Bureau, People's Procuratorate, and Public Security Bureau jointly released five typical cases of medical insurance fraud to crack down on illegal fund usage and strengthen legal awareness.",
+  "body_zh": "新华社北京5月29日电（记者陈旭）为持续严厉打击各类欺诈骗保、违规使用医保基金行为，北京市医疗保障局、北京市人民检察院、北京市公安局日前联合发布5起依法惩治医保骗保犯罪典型案例，以案促改、以案促治，引导医保基金各使用主体进一步强化法治观念。\n据悉，此次通报的典型案例涉及利用已亡人员医保卡虚开药品、虚开医保目录内医疗机构制剂并出售牟利、虚构诊疗项目、“回流药”等。不法分子长期冒名刷医保卡开药、非法收购他人利用医保骗保购买的药品、非法收购老年人通过个人医保开出的药品，严重侵害群众切身利益，破坏医保基金使用秩序。\n随着医保覆盖面持续扩大，诈骗医保基金犯罪涉及医疗领域愈发分散，部分犯罪嫌疑人将诈骗目标锁定医疗机构制剂领域，虚开医保目录内医疗机构制剂后，高价转卖至下游收药人或利用网络交易平台出售。2022年底至2024年7月，李某某伙同张某某收集他人医保卡，冒名前往医院虚开医保目录内医疗机构制剂并出售牟利，骗取医保基金人民币30万余元。通州区法院分别判处李某某有期徒刑三年、张某某有期徒刑一年六个月，并处罚金。\n目前，北京市检察院联合北京市医保局，指导多部门联合建立大数据法律监督模型，从海量电子数据中深挖下游违法收药信息，及时遏制新型医保诈骗，打击“回流药”灰黑产业全链条，守护群众“看病钱”“救命钱”。",
+  "image_url": null,
+  "published_at": "2026-05-30T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "welfare",
+  "keywords": [
+    "医保骗保",
+    "法律监督"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市医疗保障局",
+      "name_en": "Beijing Municipal Medical Insurance Bureau"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市人民检察院",
+      "name_en": "Beijing Municipal People's Procuratorate"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市公安局",
+      "name_en": "Beijing Municipal Public Security Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医保骗保",
+      "name_en": "Medical Insurance Fraud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法律监督",
+      "name_en": "Legal Supervision"
+    }
+  ],
+  "tags_zh": [
+    "北京市医疗保障局",
+    "北京市人民检察院",
+    "北京市公安局",
+    "北京",
+    "医保骗保",
+    "法律监督"
+  ],
+  "tags_en": [
+    "Beijing Municipal Medical Insurance Bureau",
+    "Beijing Municipal People's Procuratorate",
+    "Beijing Municipal Public Security Bureau",
+    "Beijing",
+    "Medical Insurance Fraud",
+    "Legal Supervision"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市医疗保障局",
+        "name_en": "Beijing Municipal Medical Insurance Bureau"
+      },
+      {
+        "name_zh": "北京市人民检察院",
+        "name_en": "Beijing Municipal People's Procuratorate"
+      },
+      {
+        "name_zh": "北京市公安局",
+        "name_en": "Beijing Municipal Public Security Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260529-xinhua_bj-f48152",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

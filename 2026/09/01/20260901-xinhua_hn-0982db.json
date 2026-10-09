@@ -1,0 +1,83 @@
+{
+  "id": "20260901-xinhua_hn-0982db",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hn.news.cn/20260901/50fac5e3164248469922eae078774c05/c.html",
+  "title_zh": "9月1日起 一批国家标准开始实施",
+  "title_en": "National Standards Take Effect Starting September 1",
+  "summary_zh": "9月1日起，59项强制性国家标准和375项推荐性国家标准开始实施，覆盖家电、机器人智能控制、智能终端等领域，为产业高质量发展提供标准支撑。",
+  "summary_en": "Starting September 1, 59 mandatory and 375 recommended national standards take effect, covering home appliances, robot intelligent control, smart terminals, and more, providing standard support for high-quality industrial development.",
+  "body_zh": "新华社北京8月31日电（记者赵怡宁、戴小河）记者31日从国家市场监督管理总局获悉，9月1日起，59项强制性国家标准和375项推荐性国家标准开始实施。其中，家用电器、机器人智能控制、智能终端软件平台、电子商务等重要国家标准，将为引领相关产业高质量发展、提高产品质量、满足人民美好生活需要等提供标准支撑。\n《家用和类似用途电器 健康技术规范》强制性国家标准规定了家用和类似用途电器涉及健康技术的总体要求，紫外线泄漏量、噪声等指标要求。《家用和类似用途电器 节能环保规范》强制性国家标准规定了家用和类似用途电器在生产阶段、安装阶段、回收再利用阶段等生命周期阶段的节能环保要求及产品本身的节能环保要求。两项标准的实施有利于引导家电行业充分考虑用户的健康卫生和节能环保要求，提升产品品质，保护消费者合法权益。\n《机器人智能控制系统总体架构》推荐性国家标准规定了机器人智能控制系统总体架构，以及硬件层、操作系统层、中间层和算法层的逻辑架构与主要功能。标准的实施有利于规范我国机器人智能控制系统的研发和应用，推动相关产品落地使用。\n《智能终端软件平台技术要求 第1部分：操作系统》推荐性国家标准规定了智能终端软件平台操作系统框架，以及内核、运行时、服务等要求。标准的实施将推动智能终端软件平台更好为百姓日常生活、工作提供智慧化服务。\n《电子商务商品口碑指数评测指南》推荐性国家标准规定了电子商务商品口碑指数评测工作的基本原则、评测指标、评测数据等。有助于引导消费者作出理性决策，切实维护消费者合法权益。\n《羽绒羽毛》推荐性国家标准规定了羽绒羽毛的产品分类、外观特征等技术要求。《羽绒羽毛检验方法》推荐性国家标准规定了精洗羽绒羽毛和粗洗羽绒羽毛的取样、成分分析、重要指标测定等。两项标准的实施，有助于提升羽绒羽毛产品检验的准确性，引领相关产业高质量发展。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "industry",
+  "keywords": [
+    "国家标准",
+    "产业高质量发展",
+    "消费者权益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业高质量发展",
+      "name_en": "High-Quality Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费者权益",
+      "name_en": "Consumer Rights"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "国家标准",
+    "产业高质量发展",
+    "消费者权益"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "National Standards",
+    "High-Quality Industrial Development",
+    "Consumer Rights"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-xinhua_hn-0982db",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

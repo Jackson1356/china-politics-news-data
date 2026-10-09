@@ -1,0 +1,92 @@
+{
+  "id": "20260525-cpcnews-fe7e7a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://fanfu.people.com.cn/n1/2026/0526/c64371-40727298.html",
+  "title_zh": "4月全国查处违反中央八项规定精神问题21889起",
+  "title_en": "21,889 Cases of Violating Central Eight-Point Regulation Handled Nationwide in April",
+  "summary_zh": "中央纪委国家监委5月25日公布数据显示，今年4月全国共查处违反中央八项规定精神问题21889起，批评教育和处理27852人。",
+  "summary_en": "On May 25, the CCDI and NSC reported that 21,889 cases of violating the central eight-point regulation were handled nationwide in April, with 27,852 people criticized or processed.",
+  "body_zh": "本报北京5月25日电 （记者赵成）中央纪委国家监委25日公布全国查处违反中央八项规定精神问题情况月报数据。通报显示，今年4月，全国共查处违反中央八项规定精神问题21889起，批评教育和处理27852人（包括1名省部级干部、110名地厅级干部），给予党纪政务处分18649人。\n根据通报，今年4月全国共查处形式主义、官僚主义问题11308起，批评教育和处理14914人。其中，查处“在履职尽责、服务经济社会发展和生态环境保护方面不担当、不作为、乱作为、假作为，严重影响高质量发展”方面问题最多，查处9448起，批评教育和处理12603人。\n根据通报，今年4月全国共查处享乐主义、奢靡之风问题10581起，批评教育和处理12938人。其中，查处违规收送名贵特产和礼品礼金问题6205起，违规发放津补贴或福利问题1239起，违规吃喝问题2113起。\n《 人民日报 》（ 2026年05月26日 04 版）",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "中央八项规定",
+    "形式主义",
+    "官僚主义"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央八项规定",
+      "name_en": "Central Eight-Point Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "形式主义",
+      "name_en": "Formalism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "官僚主义",
+      "name_en": "Bureaucracy"
+    }
+  ],
+  "tags_zh": [
+    "中央纪委国家监委",
+    "北京",
+    "中央八项规定",
+    "形式主义",
+    "官僚主义"
+  ],
+  "tags_en": [
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Beijing",
+    "Central Eight-Point Regulation",
+    "Formalism",
+    "Bureaucracy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260525-cpcnews-fe7e7a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

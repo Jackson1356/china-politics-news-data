@@ -1,0 +1,115 @@
+{
+  "id": "20261001-paper_zhengjing-79063e",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34186768",
+  "title_zh": "南昌国庆烟花晚会当日，江西省委书记尹弘赴指挥部调研",
+  "title_en": "Jiangxi Party Secretary Yin Hong Inspects Command Center on Day of Nanchang National Day Fireworks Show",
+  "summary_zh": "10月1日南昌国庆烟花晚会当日，江西省委书记尹弘赴指挥部调研，强调绷紧安全弦、深入排查隐患，确保活动万无一失、精彩呈现。",
+  "summary_en": "On October 1, the day of Nanchang's National Day fireworks show, Jiangxi Party Secretary Yin Hong visited the command center, urging rigorous safety controls and thorough hazard checks to ensure the event runs flawlessly.",
+  "body_zh": "南昌国庆烟花晚会当日，江西省委书记尹弘赴指挥部调研\n尹弘强调，要始终绷紧安全这根弦，严阵以待、决不松懈，保持如履薄冰、如临深渊的高度警觉，把组织每场烟花晚会当作是“第一次”，坚决克服麻痹思想、厌战情绪、侥幸心理，持续优化组织管理，切实把风险想在前、把工作做得更细。要加强单元网格管理，紧盯重点区域和关键环节，深入细致开展隐患排查整治，强化重点部位安全管控，有效应对突发情况，确保活动万无一失、精彩呈现。\n今年南昌国庆烟花晚会以“新征程 勇前行”为主题，以天为幕、以江为台、以城为景。约45分钟的演出里，烟花、无人机、灯光秀与音乐喷泉将交织联动，绘就一幅献礼祖国、致敬时代的壮美画卷。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "公共安全",
+    "隐患排查",
+    "国庆活动保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-hong",
+      "name_zh": "尹弘",
+      "name_en": "Yin Hong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江西省委",
+      "name_en": "Jiangxi Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX-NC",
+      "name_zh": "南昌",
+      "name_en": "Nanchang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共安全",
+      "name_en": "Public Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "隐患排查",
+      "name_en": "Hazard Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆活动保障",
+      "name_en": "National Day Event Security"
+    }
+  ],
+  "tags_zh": [
+    "尹弘",
+    "江西省委",
+    "南昌",
+    "江西",
+    "公共安全",
+    "隐患排查",
+    "国庆活动保障"
+  ],
+  "tags_en": [
+    "Yin Hong",
+    "Jiangxi Provincial Party Committee",
+    "Nanchang",
+    "Jiangxi",
+    "Public Safety",
+    "Hazard Inspection",
+    "National Day Event Security"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-hong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JX-NC",
+      "CN-JX"
+    ],
+    "companies": [
+      {
+        "name_zh": "江西省委",
+        "name_en": "Jiangxi Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261001-paper_zhengjing-79063e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

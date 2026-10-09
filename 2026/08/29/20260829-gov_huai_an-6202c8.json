@@ -1,0 +1,96 @@
+{
+  "id": "20260829-gov_huai_an-6202c8",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1787964848832Lj370gaI.html",
+  "title_zh": "省领导来淮调研就业工作",
+  "title_en": "Executive Vice Governor Ma Xin Investigates Employment Work in Huai'an",
+  "summary_zh": "8月27日，江苏省委常委、常务副省长马欣到淮安调研就业工作，走访企业和培训机构，强调强化就业优先导向，促进高质量充分就业。",
+  "summary_en": "On August 27, Ma Xin, Executive Vice Governor of Jiangsu Province, visited Huai'an to inspect employment work, touring companies and training institutions, emphasizing employment-first orientation and high-quality full employment.",
+  "body_zh": "省领导来淮调研就业工作\n8月27日，省委常委、常务副省长马欣来淮调研就业工作。马欣先后来到江苏宇特光电科技股份有限公司、瀚唐软件职业培训学校、臻鼎科技集团淮安科技城，实地察看生产车间、培训教室、人才公寓等场所，详细了解企业经营、招工用工、工资收入、培训赋能及住宿环境等情况。\n马欣充分肯定淮安以项目带动就业取得的成效，强调要深入贯彻党中央、国务院关于就业工作的决策部署，围绕促进高质量充分就业的目标，强化就业优先导向，实现经济社会发展与就业促进良性循环。要加强产业和就业协同，积极招引培育重大产业项目，进一步扩大就业容量。要落实落细稳就业各项政策，加强重点企业用工监测和服务，促进人力资源供需精准匹配。要发挥企业稳就业主体作用，规范用工管理，依法保障职工劳动就业、社会保障等合法权益。要深化职业技能培训，推动培训项目与岗位需求适配对接，有效缓解结构性就业矛盾。\n每到一处，马欣都深入查看企业和单位的安全通道、消防设施等，强调要更好统筹发展和安全，压实安全生产主体责任，深入推进“六化”建设，特别要扎实做好劳动密集型企业风险隐患排查和安全演练等工作，织牢织密安全防护网，营造安全稳定的发展环境。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "就业优先",
+    "职业技能培训"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ma-xin-jiangsu",
+      "name_zh": "马欣",
+      "name_en": "Ma Xin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业优先",
+      "name_en": "Employment Priority"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业技能培训",
+      "name_en": "Vocational Skills Training"
+    }
+  ],
+  "tags_zh": [
+    "马欣",
+    "淮安",
+    "就业优先",
+    "职业技能培训"
+  ],
+  "tags_en": [
+    "Ma Xin",
+    "Huai'an",
+    "Employment Priority",
+    "Vocational Skills Training"
+  ],
+  "entities": {
+    "politicians": [
+      "ma-xin-jiangsu",
+      {
+        "id": null,
+        "name_zh": "施等"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-gov_huai_an-6202c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": null,
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/28/art_60096_11821634.html",
+      "title_zh": "省领导赴淮安调研就业工作",
+      "published_at": "2026-08-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

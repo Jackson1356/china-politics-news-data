@@ -1,0 +1,93 @@
+{
+  "id": "20260806-gov_yue_yang-283b85",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2393039.html",
+  "title_zh": "谢卫江会见华能集团湖南分公司总经理相立军一行",
+  "title_en": "Xie Weijiang Meets with Huaneng Group Hunan Branch General Manager Xiang Lijun and Delegation",
+  "summary_zh": "8月5日，湖南省委副书记、岳阳市委书记谢卫江会见华能集团湖南分公司总经理相立军一行，双方就加强能源合作、支持岳阳发展进行交流。",
+  "summary_en": "On August 5, Xie Weijiang, Deputy Secretary of Hunan Provincial Committee and Secretary of Yueyang Municipal Committee, met with Xiang Lijun, General Manager of Huaneng Group Hunan Branch, to discuss energy cooperation and support for Yueyang's development.",
+  "body_zh": "8月5日，省委副书记、岳阳市委书记谢卫江会见中国华能集团有限公司湖南分公司党委副书记、总经理相立军一行。\n谢卫江代表市委、市政府对相立军一行表示欢迎，对华能集团湖南分公司支持岳阳经济社会发展表示感谢。希望华能集团湖南分公司发挥优势，加大投资布局力度，一如既往支持岳阳发展。市委、市政府将加强服务保障，全力支持企业在岳发展。\n相立军介绍了华能集团湖南分公司发展情况。他表示，将加快重点项目建设，全面落实提速绿色低碳转型步伐，为岳阳高质量发展提供综合能源保障。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "能源合作",
+    "绿色低碳转型",
+    "地方发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳转型",
+      "name_en": "Green and Low-carbon Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方发展",
+      "name_en": "Local Development"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "能源合作",
+    "绿色低碳转型",
+    "地方发展"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Energy Cooperation",
+    "Green and Low-carbon Transition",
+    "Local Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260806-gov_yue_yang-283b85",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

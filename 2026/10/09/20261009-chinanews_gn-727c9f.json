@@ -1,0 +1,117 @@
+{
+  "id": "20261009-chinanews_gn-727c9f",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-09/10709772.shtml",
+  "title_zh": "广东省能源集团原纪委书记李辉接受纪律审查和监察调查",
+  "title_en": "Former Discipline Chief of Guangdong Energy Group Li Hui Under Investigation",
+  "summary_zh": "2026年10月9日，广东省纪委监委通报，广东省能源集团原党委委员、纪委书记李辉涉嫌严重违纪违法，主动向组织交代问题，正接受纪律审查和监察调查。",
+  "summary_en": "On October 9, 2026, Guangdong's discipline watchdog announced that Li Hui, former Party committee member and discipline chief of Guangdong Energy Group, is under investigation for serious violations of discipline and law after turning himself in.",
+  "body_zh": "广东省能源集团原纪委书记李辉接受纪律审查和监察调查\n中新网广州10月9日电 (记者 程景伟)据广东省纪委监委“南粤清风网”9日通报，驻省能源集团有限公司纪检监察组原组长，省能源集团有限公司原党委委员、纪委书记李辉涉嫌严重违纪违法，主动向组织交代问题，目前正接受广东省纪委监委纪律审查和监察调查。(完)\n【编辑:胡寒笑】\n国内新闻精选：\n- 2026年10月08日 20:38:21\n- 2026年10月08日 16:14:15\n- 2026年10月08日 11:56:27\n- 2026年10月08日 11:13:29\n- 2026年10月08日 10:25:32\n- 2026年10月07日 17:43:11\n- 2026年10月07日 17:20:21\n- 2026年10月07日 15:45:33\n- 2026年10月07日 15:11:29\n- 2026年10月07日 14:31:49",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查",
+    "国有企业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李辉",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省纪委监委",
+      "name_en": "Guangdong Provincial Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Discipline Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有企业",
+      "name_en": "State-owned Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "李辉",
+    "广东省纪委监委",
+    "广东",
+    "反腐败",
+    "纪律审查",
+    "国有企业"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Guangdong Provincial Commission for Discipline Inspection and Supervision",
+    "Guangdong",
+    "Anti-corruption",
+    "Discipline Inspection",
+    "State-owned Enterprises"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李辉"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省纪委监委",
+        "name_en": "Guangdong Provincial Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261009-chinanews_gn-727c9f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": null,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709766.shtml",
+      "title_zh": "广东省纪委监委驻省能源集团有限公司纪检监察组原组长李辉被查",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

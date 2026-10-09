@@ -1,0 +1,120 @@
+{
+  "id": "20260908-gov_wei_hai-88b256",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/9/8/art_58817_6595707.html",
+  "title_zh": "“聚势共赢·链动未来”——山东财金集团与威海战略合作恳谈会举行",
+  "title_en": "Shandong Finance Group and Weihai Hold Strategic Cooperation Symposium",
+  "summary_zh": "9月7日，山东财金集团与威海市举行战略合作恳谈会，市政府与企业签署战略合作协议，市委书记张海波出席并讲话。",
+  "summary_en": "On September 7, the strategic cooperation symposium between Shandong Finance Group and Weihai was held, during which the municipal government signed a strategic cooperation agreement with the enterprises. Municipal Party Secretary Zhang Haibo attended and spoke.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 沈道远）9月7日，“聚势共赢·链动未来”——山东财金集团与威海战略合作恳谈会举行。市委书记张海波，山东财金集团董事长、德邦证券董事长梁雷出席会议并讲话，市委副书记、市长孔凡萍主持，山东财金集团总经理崔朋朋，市委常委、常务副市长李建出席。\n全媒体新闻中心记者 朱春晓/摄\n张海波代表市委、市人民政府对山东财金集团、德邦证券长期以来给予威海发展的关心支持表示衷心感谢。他说，威海产业结构合理、开放优势明显，发展定位与两家企业的主营业务、战略布局高度契合。希望持续巩固扩大合作成果，围绕做强实体经济、防范化解风险、盘活存量资产、建强金融生态等方面协同发力，努力实现共赢发展。威海将持续优化营商环境、细化服务举措，全力为企业在威发展、深耕布局提供最优保障。\n梁雷介绍了山东财金集团和德邦证券的业务布局、主要经营指标和与威海市合作情况。他表示，威海区位优势明显、资源禀赋突出，具备优质投资环境，将围绕金融服务、产业培育、项目投资等方面深化务实合作，推动政企合作不断迈上新台阶。\n会上，双方有关负责同志分别介绍了工作情况，对接了合作需求，市人民政府与山东财金集团、德邦证券签署战略合作协议。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "金融服务",
+    "实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务",
+      "name_en": "Financial Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "梁雷",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "战略合作",
+    "金融服务",
+    "实体经济",
+    "梁雷"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Strategic Cooperation",
+    "Financial Services",
+    "Real Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "李建"
+      },
+      {
+        "id": null,
+        "name_zh": "梁雷"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260908-gov_wei_hai-0df91e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_wei_hai",
+      "source_tier": 4,
+      "url": "https://www.weihai.gov.cn/art/2026/9/8/art_60663_6596726.html",
+      "title_zh": "“聚势共赢·链动未来”——山东财金集团与威海战略合作恳谈会举行",
+      "published_at": "2026-09-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

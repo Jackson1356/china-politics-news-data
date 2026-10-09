@@ -1,0 +1,96 @@
+{
+  "id": "20260810-gov_tai_an-81028d",
+  "source": "gov_tai_an",
+  "source_name_zh": "泰安市政府网",
+  "source_name_en": "泰安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taian.gov.cn/art/2026/8/10/art_46736_10365746.html",
+  "title_zh": "邓云锋来泰调研 杨洪涛陪同",
+  "title_en": "Deng Yunfeng Inspects Tai'an, Accompanied by Yang Hongtao",
+  "summary_zh": "8月7日，山东省委常委、统战部部长邓云锋到泰安调研，泰安市委书记杨洪涛陪同，实地考察东平湖、戴村坝等地，强调落实黄河战略、发展民营经济等。",
+  "summary_en": "On August 7, Deng Yunfeng, member of the Standing Committee of the Shandong Provincial Committee and head of the United Front Work Department, visited Tai'an for research, accompanied by Yang Hongtao, secretary of the Tai'an Municipal Committee. They inspected Dongping Lake and Daicun Dam, emphasizing the Yellow River strategy and development of the private economy.",
+  "body_zh": "邓云锋来泰调研 杨洪涛陪同\n发布日期：2026-08-10 14:37\n浏览次数：\n8月7日，省委常委、统战部部长邓云锋来泰调研，泰安市委书记杨洪涛陪同。\n在东平县，邓云锋现场调研东平湖自然保护区，实地察看戴村坝工程，详细了解泰安市落实黄河流域生态保护和高质量发展战略情况，要求各有关方面提高政治站位，以支持配合民主党派中央开展黄河流域生态保护和高质量发展民主监督为契机，积极搭平台、建载体，聚资源、展优势，引导广大统战成员围绕生态惠民、产业提质、文化传承、兴河富民等工作深入调研、科学献策、精准助力，以统战之能服务中心大局、赋能先行区建设。\n在肥城市，邓云锋现场调研肥城市民中心、蔚蓝科技产业园和桃源观，强调要树立和践行正确政绩观，始终站稳人民立场，持续提升服务质效，切实增进民生福祉。要大力宣传贯彻民营经济促进法，立足地方产业特色，注重发挥归国留学人员等人才智力优势，培育壮大新质生产力，聚力突破民营企业创新发展瓶颈，更好促进“两个健康”。要牢牢坚持我国宗教中国化方向，聚焦思想引领、制度建设、文化浸润，着力推进我国宗教中国化走深走实。\n市领导成丽、张颖参加活动。\n打印",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "party",
+  "keywords": [
+    "黄河流域生态保护",
+    "民营经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "deng-yunfeng",
+      "name_zh": "邓云锋",
+      "name_en": "Deng Yunfeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨洪涛",
+      "name_en": "Yang Hongtao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-TA",
+      "name_zh": "泰安",
+      "name_en": "Tai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河流域生态保护",
+      "name_en": "Ecological Protection of the Yellow River Basin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营经济",
+      "name_en": "Private Economy"
+    }
+  ],
+  "tags_zh": [
+    "邓云锋",
+    "杨洪涛",
+    "泰安",
+    "黄河流域生态保护",
+    "民营经济"
+  ],
+  "tags_en": [
+    "Deng Yunfeng",
+    "Yang Hongtao",
+    "Tai'an",
+    "Ecological Protection of the Yellow River Basin",
+    "Private Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "deng-yunfeng",
+      {
+        "id": null,
+        "name_zh": "张颖"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-TA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260810-gov_tai_an-81028d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

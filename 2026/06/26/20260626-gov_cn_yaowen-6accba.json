@@ -1,0 +1,88 @@
+{
+  "id": "20260626-gov_cn_yaowen-6accba",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073506.htm",
+  "title_zh": "到2030年我国将初步建成新型能源体系",
+  "title_en": "China to Preliminarily Establish New Energy System by 2030",
+  "summary_zh": "6月26日，国务院新闻办公室举行发布会，国家能源局介绍“十五五”规划，目标到2030年初步建成新型能源体系，新能源装机比重将超过50%。",
+  "summary_en": "On June 26, the State Council Information Office held a press conference where the National Energy Administration outlined plans to establish a new energy system by 2030, with renewables exceeding 50% of power capacity.",
+  "body_zh": "国务院新闻办公室今天（6月26日）举行“开局起步‘十五五’”系列主题新闻发布会，国家能源局相关负责人介绍“十五五”时期加快新型能源体系建设有关规划情况。\n据介绍，到2030年，我国将初步建成清洁低碳安全高效的新型能源体系。电力装机规模将达到54亿千瓦，其中，新能源装机比重超过50%，成为电力装机主体。煤炭和石油消费达峰。能源体系安全韧性更足，能源结构更优。\n“十五五”时期，我国将推动非化石能源规模化发展，同时要巩固煤炭、油气等化石能源生产基础，加强西电东送、西气东输等能源输送“大动脉”建设，加快建设新型电网，积极建设新产业新业态项目。预计“十五五”能源重点项目和新业态投资保持稳步增长态势，总规模超过20万亿元。",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "十五五规划",
+    "新型能源体系",
+    "能源转型"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型能源体系",
+      "name_en": "New Energy System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源转型",
+      "name_en": "Energy Transition"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "国家能源局",
+    "十五五规划",
+    "新型能源体系",
+    "能源转型"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "National Energy Administration",
+    "15th Five-Year Plan",
+    "New Energy System",
+    "Energy Transition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260626-gov_cn_yaowen-6accba",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

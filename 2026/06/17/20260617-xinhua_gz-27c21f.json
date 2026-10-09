@@ -1,0 +1,105 @@
+{
+  "id": "20260617-xinhua_gz-27c21f",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_url": "http://gz.news.cn/20260617/9c68193e243e4df59000525e62ef0fd7/c.html",
+  "title_zh": "贵州省举行人工智能应用场景培育和开放系列宣讲活动",
+  "title_en": "Guizhou Province Holds Promotional Activities for AI Application Scenario Cultivation and Opening",
+  "summary_zh": "6月17日，贵州省在贵阳举行人工智能应用场景培育和开放系列宣讲活动，旨在落实“人工智能+”战略，推动人工智能产业创新发展。",
+  "summary_en": "On June 17, Guizhou Province held a series of promotional activities in Guiyang to cultivate and open AI application scenarios, aiming to implement the \"AI+\" strategy and promote industrial innovation.",
+  "body_zh": "新华网贵阳6月17日电（记者施钱贵）6月17日，贵州省人工智能应用场景培育和开放系列宣讲活动（首场）在贵州大数据应用展示中心成功举行。本次活动由贵州省大数据发展管理局指导，贵州省人工智能应用推广中心主办，旨在全面落实国家“人工智能+”战略部署，加快推动贵州省人工智能应用场景培育和开放，构建人工智能产业创新发展新格局。\n贵州省政府副秘书长、省大数据局局长朱宗尧表示，场景是人工智能技术落地生根、迭代成长的核心载体，“十五五”时期，贵州发展人工智能就是要坚持有所为、有所不为，坚定锚定为全国人工智能“供算、供数、率先应用”的核心定位，走“东部研发、贵州应用”技术协同发展模式。开放场景就是打开发展新空间，东西协同就是壮大产业新动能，希望各方主体主动作为、协同发力，深度参与全省人工智能场景开放培育工作，深化东部技术落地应用、强化政企联动赋能，共同以场景开放撬动产业升级，以人工智能新质生产力赋能贵州经济社会高质量发展。\n贵阳市人民政府副市长付涛表示，贵阳贵安作为全国首个国家大数据综合试验区核心区，正深入实施“人工智能+”行动，大力推广人工智能技术规模化应用，积极推进商用场景、政用场景、民用场景创新。未来，贵阳贵安将认真落实贵州省加快人工智能应用场景培育和开放的工作要求，学习借鉴全省各地的好思路、好做法，立足实际、制订场景计划，强化场景培育、加强组织征集场景清单，持续开展供需对接，及时开放各类人工智能应用场景，深挖合作空间，携手推动更多优质人工智能应用场景落地生根。\n据悉，贵州省将持续开展人工智能应用场景培育和开放系列宣讲活动，为场景培育和开放搭建重要的交流合作平台。随着系列政策措施的落地实施和“四张清单”机制的有序推进，贵州省将以场景为牵引、产业为导向、创新为核心，打通技术落地、供需对接、产业赋能全链条，加速激发人工智能创新活力，为全省经济社会高质量发展注入强劲数字动能。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "应用场景",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "贵州省大数据发展管理局",
+      "name_en": "Guizhou Provincial Big Data Development Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应用场景",
+      "name_en": "Application Scenarios"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "贵州省大数据发展管理局",
+    "贵州",
+    "贵阳",
+    "人工智能",
+    "应用场景",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Guizhou Provincial Big Data Development Administration",
+    "Guizhou",
+    "Guiyang",
+    "Artificial Intelligence",
+    "Application Scenarios",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "朱宗尧"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "贵州省大数据发展管理局",
+        "name_en": "Guizhou Provincial Big Data Development Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260617-xinhua_gz-27c21f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

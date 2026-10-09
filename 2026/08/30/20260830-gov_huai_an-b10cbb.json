@@ -1,0 +1,101 @@
+{
+  "id": "20260830-gov_huai_an-b10cbb",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1788162099374uBwbRCB6.html",
+  "title_zh": "淮安市政府常务会议召开",
+  "title_en": "Huai'an Municipal Government Holds Executive Meeting",
+  "summary_zh": "8月28日，市长顾坤主持召开市政府九届第59次常务会议，研究法治政府建设、工业项目服务、消防安全、耕地保护及群众身边不正之风和腐败问题集中整治等工作。",
+  "summary_en": "On Aug 28, Mayor Gu Kun chaired the 59th municipal government executive meeting, covering legal governance, industrial projects, fire safety, farmland protection, and anti-corruption efforts.",
+  "body_zh": "您所在的位置：\n新闻资讯\n图片新闻\n市政府常务会议召开\n发布日期：2026-08-30 15:41\n大\n中\n小\n关联阅读:\n8月28日，市长顾坤主持召开市政府九届第59次常务会议，研究推进法治政府建设、工业项目“五新”全周期服务管理、消防安全、耕地保护、群众身边不正之风和腐败问题集中整治攻坚等工作。",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "industry",
+  "keywords": [
+    "法治政府",
+    "工业项目",
+    "耕地保护"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法治政府",
+      "name_en": "Law-based Government"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业项目",
+      "name_en": "Industrial Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "耕地保护",
+      "name_en": "Farmland Protection"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "法治政府",
+    "工业项目",
+    "耕地保护"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Law-based Government",
+    "Industrial Projects",
+    "Farmland Protection"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260830-gov_huai_an-b10cbb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": null,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1788047561160uWI6CFnD.html",
+      "title_zh": "淮安市政府常务会议召开",
+      "published_at": "2026-08-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

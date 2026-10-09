@@ -1,0 +1,79 @@
+{
+  "id": "20260717-gov_cn_yaowen-e70edb",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075944.htm",
+  "title_zh": "上半年涉外收支规模创新高 外汇市场交易量稳步增长",
+  "title_en": "Foreign Exchange Receipts and Payments Reach Record High in First Half of Year, Trading Volume Grows Steadily",
+  "summary_zh": "国务院新闻办于2026年7月17日举行发布会，介绍上半年我国涉外收支规模创新高，外汇市场交易量稳步增长。",
+  "summary_en": "The State Council Information Office held a press conference on July 17, 2026, reporting record highs in China's foreign exchange receipts and payments and steady growth in trading volume for the first half of the year.",
+  "body_zh": "国务院新闻办今天（7月17日）举行新闻发布会，介绍2026年上半年我国外汇收支情况。国家外汇管理局数据显示，上半年我国涉外收支规模创新高，银行代客涉外收入和支出合计9.2万亿美元，同比增长21%；银行结汇和售汇规模合计2.9万亿美元，同比增长24%。\n上半年，外汇市场交易量稳步增长。境内人民币外汇市场交易量总计22.1万亿美元，同比增长5%，增速较2025年全年提高1.5个百分点。\n上半年，跨境资金净流入2472亿美元。我国对外净资产超过4万亿美元，在全球各经济体中位居第二位。",
+  "image_url": null,
+  "published_at": "2026-07-17T12:00:00+00:00",
+  "event_date": "2026-07-17",
+  "ingested_at": "2026-07-19T06:43:06Z",
+  "topic": "economy",
+  "keywords": [
+    "外汇收支",
+    "跨境资金流动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "SAFE",
+      "name_zh": "国家外汇管理局",
+      "name_en": "State Administration of Foreign Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外汇收支",
+      "name_en": "Foreign Exchange Balance of Payments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境资金流动",
+      "name_en": "Cross-border Capital Flows"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办",
+    "国家外汇管理局",
+    "外汇收支",
+    "跨境资金流动"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "State Administration of Foreign Exchange",
+    "Foreign Exchange Balance of Payments",
+    "Cross-border Capital Flows"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "SAFE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260717-gov_cn_yaowen-e70edb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

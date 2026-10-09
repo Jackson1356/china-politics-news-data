@@ -1,0 +1,104 @@
+{
+  "id": "20260902-gov_cn_yaowen-0e1e33",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/02/VIDE1ns8LYxnBYMMYXxNvfdP260902.shtml",
+  "title_zh": "《平“语”近人——习近平喜欢的典故》(阿拉伯语版)在埃及主流媒体播出",
+  "title_en": "Arabic Version of Program on Xi Jinping's Favorite Allusions Launched in Egypt",
+  "summary_zh": "9月1日，《平“语”近人——习近平喜欢的典故》阿拉伯语版启播活动在埃及开罗举行，埃及总统塞西发贺信祝贺。节目即日起在埃及及非洲主流媒体播出。",
+  "summary_en": "On September 1, the Arabic version launch of \"Ping Yu Jin Ren: Xi Jinping's Favorite Allusions\" was held in Cairo, Egypt. Egyptian President Abdel Fattah el-Sisi sent a congratulatory letter. The program airs on mainstream Egyptian and African media.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：由中国中央广播电视总台制作的《平“语”近人——习近平喜欢的典故》（阿拉伯语版）启播活动9月1日在埃及首都开罗举行。埃及总统塞西发贺信表示祝贺。\n《平“语”近人——习近平喜欢的典故》（阿拉伯语版）精心选取习近平主席重要讲话、文章和谈话中所引用的中国古籍经典名句，聚焦经济发展、科技创新、生态文明、社会民生等主题，展现习近平主席广博厚重的文化底蕴和人民至上的深厚情怀，提炼阐释中华文明的独特精神标识、新时代内涵和全球化价值。\n即日起，节目在埃及国家电视台等埃及主流媒体及非洲广播联盟等非洲主流媒体落地播出。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "中华文化传播",
+    "中埃媒体合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "开罗",
+      "name_en": "Cairo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华文化传播",
+      "name_en": "Chinese Culture Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃媒体合作",
+      "name_en": "China-Egypt Media Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央广播电视总台",
+    "开罗",
+    "中华文化传播",
+    "中埃媒体合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China Media Group",
+    "Cairo",
+    "Chinese Culture Promotion",
+    "China-Egypt Media Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "贺信"
+      }
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260902-gov_cn_yaowen-0e1e33",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080009.htm",
+      "title_zh": "《平“语”近人——习近平喜欢的典故》（阿拉伯语版）在埃及主流媒体播出",
+      "published_at": "2026-09-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

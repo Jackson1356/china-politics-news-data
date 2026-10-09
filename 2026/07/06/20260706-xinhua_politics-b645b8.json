@@ -1,0 +1,106 @@
+{
+  "id": "20260706-xinhua_politics-b645b8",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "http://www.news.cn/politics/20260706/51bcbb6f6ef744f29ec647dafce54c60/c.html",
+  "title_zh": "多部门联合部署开展安全生产“打非治违”工作",
+  "title_en": "Multiple Departments Jointly Deploy Crackdown on Illegal Activities and Violations in Work Safety",
+  "summary_zh": "国务院安委会办公室等六部门近日印发通知，部署在矿山、化工、消防、工贸等重点行业领域开展安全生产“打非治违”工作。",
+  "summary_en": "Six departments, including the State Council Safety Committee Office, recently issued a notice to launch a crackdown on illegal activities and violations in work safety across key sectors such as mining, chemicals, and fire safety.",
+  "body_zh": "国务院安委会办公室、中央政法委、最高人民法院、最高人民检察院、公安部、司法部联合部署开展安全生产“打非治违”工作\n从应急管理部获悉，国务院安委会办公室联合中央政法委、最高人民法院、最高人民检察院、公安部、司法部近日印发通知，部署各地区、各有关部门认真贯彻落实习近平总书记关于安全生产的重要指示批示精神，严格落实全国安全生产视频会议精神，结合安全生产治本攻坚三年行动以及重大事故隐患排查整治等工作，聚焦矿山、化工、消防、工贸等重点行业领域，深入开展安全生产“打非治违”工作。\n通知要求，各地区、各有关部门要结合实际情况，按照“三管三必须”等要求，重点打击安全生产有关资质或条件不满足要求、安全生产弄虚作假，以及恶意违法、强令违章、冒险作业等共性问题。针对矿山、化工、消防、工贸等重点行业领域，要求重点打击煤矿隐瞒工作面、无证开采、重大灾害治理不到位组织生产，未依法取得安全生产许可从事化工和危险化学品生产、超许可范围生产使用经营危险化学品、危险化学品经营企业违法从事生产经营活动，高层民用建筑违规使用易燃可燃外墙外保温材料、人员密集场所违规动火作业、养老机构消防设施缺失损坏、经营性餐饮场所油烟管道安全措施不落实，以及粉尘涉爆企业作业现场积尘严重、擅自拆除、停用监测报警设施设备等突出问题。",
+  "image_url": null,
+  "published_at": "2026-07-06T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "打非治违"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CCPLAC",
+      "name_zh": "中央政法委",
+      "name_en": "Central Political and Legal Affairs Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "SPC",
+      "name_zh": "最高人民法院",
+      "name_en": "Supreme People's Court"
+    },
+    {
+      "kind": "institution",
+      "id": "SPP",
+      "name_zh": "最高人民检察院",
+      "name_en": "Supreme People's Procuratorate"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "institution",
+      "id": "MOJ",
+      "name_zh": "司法部",
+      "name_en": "Ministry of Justice"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打非治违",
+      "name_en": "Crackdown on Illegal Activities and Violations"
+    }
+  ],
+  "tags_zh": [
+    "中央政法委",
+    "最高人民法院",
+    "最高人民检察院",
+    "公安部",
+    "司法部",
+    "安全生产",
+    "打非治违"
+  ],
+  "tags_en": [
+    "Central Political and Legal Affairs Commission",
+    "Supreme People's Court",
+    "Supreme People's Procuratorate",
+    "Ministry of Public Security",
+    "Ministry of Justice",
+    "Work Safety",
+    "Crackdown on Illegal Activities and Violations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CCPLAC",
+      "SPC",
+      "SPP",
+      "MPS",
+      "MOJ"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260706-xinhua_politics-b645b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

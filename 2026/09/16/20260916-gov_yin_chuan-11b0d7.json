@@ -1,0 +1,97 @@
+{
+  "id": "20260916-gov_yin_chuan-11b0d7",
+  "source": "gov_yin_chuan",
+  "source_name_zh": "银川市政府网",
+  "source_name_en": "银川 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yin_chuan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.nx.gov.cn/zwxx_11337/nxyw/202609/t20260916_5344171.html",
+  "title_zh": "张雨浦在银川检查督办推进民生实事等工作",
+  "title_en": "Zhang Yupu Inspects Progress on Public Livelihood Programs in Yinchuan",
+  "summary_zh": "9月10日，宁夏回族自治区主席张雨浦在银川市检查督办民生实事推进情况，察看全民健身设施、医疗保障、保障性住房和普惠托育等工作。",
+  "summary_en": "On Sept 10, Ningxia Chairman Zhang Yupu inspected livelihood programs in Yinchuan, reviewing fitness facilities, medical insurance services, subsidized housing and affordable childcare.",
+  "body_zh": "张雨浦检查督办推进民生实事等工作\n紧盯短板弱项改善民生 聚焦急难愁盼办好实事\n9月10日，自治区党委副书记、自治区主席张雨浦在银川市检查督办推进民生实事等工作，强调要始终坚持以人民为中心的发展思想，加力落实自治区政府工作报告各项民生任务，聚焦群众急难愁盼，扎实办好民生实事，持续增进民生福祉。\n按照今年民生实事关于推动全民健身的部署，截至8月底，全区已更新群众健身设施200套、举办县级以上体育赛事活动590项次，提前超额完成年度任务。贺兰山全民（冰雪）健身中心计划今年10月底建成，将填补我区标准滑冰馆的空白。张雨浦现场察看项目建设、设施配备和停车场规划等情况，强调要充分发挥功能作用，统筹群众运动开展、专业赛事运营等需要，严把安全关、环保关、质量关，确保项目如期投用，让群众就近享受便民优质的冰雪体育设施。\n张雨浦先后来到西夏区医疗保障服务中心和金凤区高桥社区卫生服务站，与社区居民、工作人员面对面交流，详细了解常住地基本医疗保障政策落实情况，要求相关部门持续深化医疗卫生强基工程，促进医疗、医保、医药协同发展和治理，进一步畅通常住地参保和异地就医结算渠道，全面提升医疗卫生服务水平。\n在保障性住房小区金凤区中海城连湖花园十二区，张雨浦随机走访住户，关切询问居住体验和生活状况，要求相关部门精准对接新市民、青年人、低收入家庭等群体住房需求，稳步扩大公租房保障范围，完善社区配套设施，统筹保障性住房建设和改善性住房供给，让群众住有所居、住有宜居。\n在金凤区彩云社区，张雨浦详细了解普惠性托育等便民服务情况，强调要加快建设生育友好型社会，持续减轻生育、养育、教育负担。同时，要围绕稳步推动基本公共服务均等化目标，加力推行常住地提供基本公共服务，切实解决好就医、养老、托育等“关键小事”，健全覆盖全人群、全生命周期的人口服务体系，促进人口高质量发展，进一步增强群众的获得感、幸福感、安全感。\n自治区副主席马宗保参加。（记者 周一青 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "民生实事",
+    "全民健身",
+    "基本公共服务均等化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yupu",
+      "name_zh": "张雨浦",
+      "name_en": "Zhang Yupu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX-YC",
+      "name_zh": "银川",
+      "name_en": "Yinchuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Public Livelihood Programs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全民健身",
+      "name_en": "National Fitness"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基本公共服务均等化",
+      "name_en": "Equal Access to Basic Public Services"
+    }
+  ],
+  "tags_zh": [
+    "张雨浦",
+    "银川",
+    "民生实事",
+    "全民健身",
+    "基本公共服务均等化"
+  ],
+  "tags_en": [
+    "Zhang Yupu",
+    "Yinchuan",
+    "Public Livelihood Programs",
+    "National Fitness",
+    "Equal Access to Basic Public Services"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yupu",
+      {
+        "id": null,
+        "name_zh": "马宗保"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260916-gov_yin_chuan-11b0d7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

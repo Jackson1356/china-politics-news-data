@@ -1,0 +1,83 @@
+{
+  "id": "20260920-gov_cn_yaowen-454b54",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081620.htm",
+  "title_zh": "前八个月高技术产业实际使用外资同比增长35.1%",
+  "title_en": "High-Tech Industry FDI Up 35.1% Year-on-Year in First Eight Months",
+  "summary_zh": "商务部数据显示，今年1—8月全国新设立外商投资企业42582家，实际使用外资4799.5亿元，其中高技术产业实际使用外资2002.6亿元，同比增长35.1%。",
+  "summary_en": "Ministry of Commerce data show that in the first eight months of the year, 42,582 foreign-invested enterprises were newly established in China, with actual FDI of 479.95 billion yuan; high-tech industry FDI reached 200.26 billion yuan, up 35.1 percent year-on-year.",
+  "body_zh": "商务部最新数据显示，今年1—8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元人民币。\n我国引资结构持续优化。高技术产业实际使用外资2002.6亿元人民币，同比增长35.1%，占全国实际使用外资的41.7%，较去年同期提升12.4个百分点。其中，研发与设计服务、科技成果转化服务、电子及通信设备制造业实际使用外资增长较快。\n从来源地看，法国、瑞士实际对华投资增长较快，分别增长39.2%、16.7%。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "economy",
+  "keywords": [
+    "外商直接投资",
+    "高技术产业",
+    "引资结构优化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商直接投资",
+      "name_en": "Foreign Direct Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术产业",
+      "name_en": "High-Tech Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "引资结构优化",
+      "name_en": "Optimization of Investment Structure"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "外商直接投资",
+    "高技术产业",
+    "引资结构优化"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Foreign Direct Investment",
+    "High-Tech Industry",
+    "Optimization of Investment Structure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260920-gov_cn_yaowen-454b54",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

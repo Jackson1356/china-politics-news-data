@@ -1,0 +1,114 @@
+{
+  "id": "20260911-gov_lin_zhi-d58cda",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/bcf5ca56c5204b5db503c917839440bf.shtml",
+  "title_zh": "习近平将赴印度出席金砖国家领导人第十八次会晤",
+  "title_en": "Xi Jinping to Attend 18th BRICS Leaders' Summit in India",
+  "summary_zh": "外交部9月10日宣布，应印度总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+  "summary_en": "The Foreign Ministry announced on September 10 that, at the invitation of Indian Prime Minister Narendra Modi, President Xi Jinping will attend the 18th BRICS Leaders' Summit in New Delhi, India, on September 12-13.",
+  "body_zh": "中国政府网\n西藏自治区人民政府网\n无障碍\n繁\n关怀版\n网站支持IPv6\n新闻\n政策\n服务\n互动\n醉美林芝\n您当前的位置：\n新闻中心\n党中央国务院\n习近平将赴印度出席金砖国家领导人第十八次会晤\n新华社\n发布时间：\n浏览量：\n大\n中\n小\n新华社北京9月10日电 外交部发言人10日宣布：应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。\n相关附件\n打印\n相关信息",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-12",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "印度新德里",
+      "name_en": "New Delhi, India"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "外交部",
+    "印度新德里",
+    "金砖合作",
+    "元首外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Ministry of Foreign Affairs",
+    "New Delhi, India",
+    "BRICS Cooperation",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260911-gov_lin_zhi-d58cda",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wu_hu",
+      "source_tier": 4,
+      "url": "https://www.wuhu.gov.cn/xwzx/mtjj/41316400.html",
+      "title_zh": "习近平将赴印度出席金砖国家领导人第十八次会晤",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "http://www.xa.gov.cn/xw/jrgz/2098220437706174465.html",
+      "title_zh": "习近平将赴印度出席金砖国家领导人第十八次会晤",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2098220437706174465.html",
+      "title_zh": "习近平将赴印度出席金砖国家领导人第十八次会晤",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

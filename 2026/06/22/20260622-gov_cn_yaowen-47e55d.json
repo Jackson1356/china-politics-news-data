@@ -1,0 +1,124 @@
+{
+  "id": "20260622-gov_cn_yaowen-47e55d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/22/VIDE5xp4VBVbsQ8jasQ9BU2Z260622.shtml",
+  "title_zh": "丁薛祥出席第四届中国国际供应链促进博览会开幕式并作主旨讲话",
+  "title_en": "Ding Xuexiang Attends Opening Ceremony of 4th China International Supply Chain Expo and Delivers Keynote Speech",
+  "summary_zh": "6月22日，国务院副总理丁薛祥在北京出席第四届中国国际供应链促进博览会开幕式并作主旨讲话，强调维护全球产业链供应链稳定畅通。",
+  "summary_en": "On June 22, Vice Premier Ding Xuexiang attended the opening ceremony of the 4th China International Supply Chain Expo in Beijing and delivered a keynote speech on maintaining global supply chain stability.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：第四届中国国际供应链促进博览会22日在北京开幕，中共中央政治局常委、国务院副总理丁薛祥出席并作主旨讲话。\n丁薛祥表示，当前世界形势复杂多变，产业链供应链碎片化风险增加。习近平主席指出，维护全球产业链供应链韧性和稳定是推动世界经济发展的重要保障，符合世界各国人民共同利益。中国作为负责任大国，有效发挥完整产业体系、超大规模市场等优势，努力畅通世界经济运行脉络，以实际行动坚定维护全球产业链供应链稳定畅通。\n丁薛祥对各方共同维护产业链供应链稳定畅通提出四点建议。一是加强相互信任，防止将经贸问题政治化、武器化、泛安全化，共同维护产业链供应链的全球公共产品属性。二是加强贸易畅通，维护和践行真正的多边主义，反对以绿色低碳为名、行保护主义之实，促进贸易投资自由化便利化。三是加强融合发展，齐心协力推动创新链与产供链深度融合，共同打造优势互补、互利共赢的产业生态。四是加强资源共享，积极维护全球能源和关键矿产市场平稳运行，为保障全球产业链供应链稳定畅通创造良好条件。\n随后，丁薛祥宣布第四届中国国际供应链促进博览会开幕。\n南非副总统马沙蒂莱，以及国际商会等机构负责人出席开幕式并致辞。\n开幕式前，丁薛祥到链博会展馆巡馆并同有关企业负责人互动交流。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "产业链供应链",
+    "多边主义",
+    "贸易自由化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链供应链",
+      "name_en": "Industrial and Supply Chains"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易自由化",
+      "name_en": "Trade Liberalization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "国务院",
+    "北京",
+    "产业链供应链",
+    "多边主义",
+    "贸易自由化"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "State Council",
+    "Beijing",
+    "Industrial and Supply Chains",
+    "Multilateralism",
+    "Trade Liberalization"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260622-gov_cn_yaowen-47e55d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072893.htm",
+      "title_zh": "丁薛祥出席第四届中国国际供应链促进博览会开幕式并作主旨讲话",
+      "published_at": "2026-06-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

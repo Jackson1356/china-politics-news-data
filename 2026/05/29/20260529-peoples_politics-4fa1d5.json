@@ -1,0 +1,105 @@
+{
+  "id": "20260529-peoples_politics-4fa1d5",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0601/c1001-40731604.html",
+  "title_zh": "陈文清访问哈萨克斯坦",
+  "title_en": "Chen Wenqing Visits Kazakhstan",
+  "summary_zh": "中共中央政治局委员、中央政法委书记陈文清于5月29日至6月1日访问哈萨克斯坦，会见哈方官员并探讨深化执法安全合作。",
+  "summary_en": "Chen Wenqing, Politburo member and Secretary of the Central Political and Legal Affairs Commission, visited Kazakhstan from May 29 to June 1 to discuss deepening law enforcement and security cooperation.",
+  "body_zh": "陈文清访问哈萨克斯坦\n新华社阿斯塔纳6月1日电（记者张继业）中共中央政治局委员、中央政法委书记陈文清5月29日至6月1日访问哈萨克斯坦。访问期间，陈文清分别会见哈萨克斯坦安全会议秘书努尔达乌列托夫和阿拉木图市长萨特巴尔德等。\n陈文清表示，在习近平主席和托卡耶夫总统的战略引领下，中哈两国政治互信持续深化，各领域交往合作日益密切，高质量共建“一带一路”取得丰硕成果，中哈关系不断实现跨越式发展。中哈两国是山水相连的友好邻邦、唇齿相依的永久全面战略伙伴，都处在各自发展振兴的关键阶段。中方愿与哈方齐心协力全方位推进执法安全合作，维护两国和平安宁，以多元化人文交流夯实中哈友好根基，更好造福两国人民。\n哈方高度评价两国合作成果，赞赏中方在解决国际安全问题上发挥的重要作用，表示哈方将持续巩固中哈友好，愿同中方一道深化执法安全及各领域务实合作，推动两国永久全面战略伙伴关系不断向前发展。",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "foreign",
+  "keywords": [
+    "执法安全合作",
+    "一带一路",
+    "中哈关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-wenqing",
+      "name_zh": "陈文清",
+      "name_en": "Chen Wenqing"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPLAC",
+      "name_zh": "中央政法委",
+      "name_en": "Central Political and Legal Affairs Commission"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "哈萨克斯坦",
+      "name_en": "Kazakhstan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "执法安全合作",
+      "name_en": "Law Enforcement and Security Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中哈关系",
+      "name_en": "China-Kazakhstan Relations"
+    }
+  ],
+  "tags_zh": [
+    "陈文清",
+    "中央政法委",
+    "哈萨克斯坦",
+    "执法安全合作",
+    "一带一路",
+    "中哈关系"
+  ],
+  "tags_en": [
+    "Chen Wenqing",
+    "Central Political and Legal Affairs Commission",
+    "Kazakhstan",
+    "Law Enforcement and Security Cooperation",
+    "Belt and Road Initiative",
+    "China-Kazakhstan Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-wenqing"
+    ],
+    "institutions": [
+      "CCPLAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260529-peoples_politics-4fa1d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260601/6d7445910a864088ac5502b20b0171f9/c.html",
+      "title_zh": "陈文清访问哈萨克斯坦",
+      "published_at": "2026-06-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

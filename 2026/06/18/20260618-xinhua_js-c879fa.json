@@ -1,0 +1,111 @@
+{
+  "id": "20260618-xinhua_js-c879fa",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260618/a0edf686d54e410186ccc8a0c502e320/c.html",
+  "title_zh": "江苏与中国东航签署战略合作协议",
+  "title_en": "Jiangsu and China Eastern Airlines Group Sign Strategic Cooperation Agreement",
+  "summary_zh": "6月17日，江苏省与中国东方航空集团签署战略合作协议，省委书记信长星、省长刘小涛会见中国东航董事长王志清一行。",
+  "summary_en": "On June 17, Jiangsu Province and China Eastern Airlines Group signed a strategic cooperation agreement. Provincial Party Secretary Xin Changxing and Governor Liu Xiaotao met with Wang Zhiqing, Chairman of China Eastern Airlines.",
+  "body_zh": "信长星刘小涛会见王志清一行\n6月17日，我省与中国东方航空集团签署战略合作协议。省委书记信长星、省长刘小涛会见中国东方航空集团董事长王志清一行。\n信长星、刘小涛感谢中国东航长期以来对江苏发展的大力支持。信长星说，当前，江苏正在深入学习贯彻习近平总书记重要讲话精神，加快建设具有全球影响力的产业科技创新中心、具有国际竞争力的先进制造业基地、具有世界聚合力的双向开放枢纽。在这一过程中，航空运输发挥着重要作用。希望双方以此次签约为新起点，更加紧密携手，进一步完善航线网络，提升运力保障水平，加快发展航空物流，合力建设航空枢纽，更好满足群众出行和产业发展需求，更好服务全国发展大局。\n王志清表示，中国东航高度重视与江苏的深度合作。我们将围绕落实国家重大发展战略，结合江苏“十五五”规划实施，加大资源投入，提供优质服务，共同推动合作协议落到实处、见到实效，为江苏高质量发展作出新贡献。\n省领导陈忠伟、马士光，中国东方航空集团副总经理万庆朝分别参加有关活动。（黄伟 王拓）",
+  "image_url": null,
+  "published_at": "2026-06-18T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "industry",
+  "keywords": [
+    "战略合作",
+    "航空枢纽",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王志清",
+      "name_en": "Wang Zhiqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空枢纽",
+      "name_en": "Aviation Hub"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "刘小涛",
+    "王志清",
+    "江苏",
+    "战略合作",
+    "航空枢纽",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Liu Xiaotao",
+    "Wang Zhiqing",
+    "Jiangsu",
+    "Strategic Cooperation",
+    "Aviation Hub",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "chen-zhongwei-jiangsu",
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "王志清"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260618-xinhua_js-c879fa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

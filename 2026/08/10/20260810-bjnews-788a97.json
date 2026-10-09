@@ -1,0 +1,83 @@
+{
+  "id": "20260810-bjnews-788a97",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1786366308129815.html",
+  "title_zh": "公安部深化扫黑除恶专项斗争第一轮集中收网 抓获犯罪嫌疑人8200余名",
+  "title_en": "Public Security Ministry Deepens Anti-Gang Campaign, Arrests 8,200+ Suspects in First Round",
+  "summary_zh": "公安部开展扫黑除恶专项斗争第一轮集中收网行动，抓获犯罪嫌疑人8200余名，重点打击网络套路贷、软暴力催收等新型黑恶犯罪。",
+  "summary_en": "The Ministry of Public Security launched the first round of concentrated operations in the anti-gang campaign, arresting over 8,200 suspects, targeting new types of crimes such as online loan fraud and soft violence debt collection.",
+  "body_zh": "近年来，全国公安机关始终保持对黑恶犯罪严打高压态势，黑恶犯罪得到有效遏制，社会治安形势持续向好。但一些黑恶犯罪隐秘变形，不断变换手法、更新形态，通过网络或软暴力手段快速发展，特别是网络“套路贷”、软暴力催收、舆情敲诈、恶意索赔、劳务碰瓷、强迫消费、网络暴力等新型犯罪已成为黑恶犯罪的重要形式，严重破坏正常的经济社会秩序，严重影响人民群众安全感。\n公安部有关负责人表示，公安机关将充分发挥打击犯罪主力军作用，对黑恶犯罪主动出击、露头就打，不间断地组织开展集中打击行动，切实打出声威、打出实效，推动专项斗争走深走实。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "discipline",
+  "keywords": [
+    "扫黑除恶",
+    "打击犯罪",
+    "新型黑恶犯罪"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Anti-Gang Campaign"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打击犯罪",
+      "name_en": "Crime Crackdown"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型黑恶犯罪",
+      "name_en": "New-Type Gang Crimes"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "扫黑除恶",
+    "打击犯罪",
+    "新型黑恶犯罪"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Anti-Gang Campaign",
+    "Crime Crackdown",
+    "New-Type Gang Crimes"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260810-bjnews-788a97",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

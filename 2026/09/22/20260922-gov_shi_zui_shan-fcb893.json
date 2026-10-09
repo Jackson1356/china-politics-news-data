@@ -1,0 +1,91 @@
+{
+  "id": "20260922-gov_shi_zui_shan-fcb893",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/qzfxx/202609/t20260922_5352442.html",
+  "title_zh": "自治区政府召开常务会议专题研究民生保障工作",
+  "title_en": "Autonomous Region Government Holds Executive Meeting on Livelihood Security",
+  "summary_zh": "9月21日，宁夏自治区主席张雨浦主持召开自治区政府2026年第23次常务会议，专题研究民生保障，决定提高最低工资、城乡低保等4项标准。",
+  "summary_en": "On Sept 21, regional chairman Zhang Yupu chaired the 23rd executive meeting of the regional government in 2026, focusing on livelihood security and deciding to raise four standards including the minimum wage and urban-rural subsistence allowances.",
+  "body_zh": "9月21日，自治区主席张雨浦主持召开自治区政府2026年第23次常务会议，专题研究民生保障工作，强调要深入学习贯彻习近平总书记关于保障和改善民生的重要论述，认真落实党中央、国务院决策部署和相关政策，从财力实际出发，聚焦群众最关心、最直接、最现实的利益问题，加强普惠性、基础性、兜底性民生建设，不断提升群众的获得感、幸福感、安全感。\n会议决定提高全区最低工资、城乡低保、残疾人两项补贴4个标准，新增城镇独生子女父母奖励扶助，强调要加力推动自治区政府工作报告确定的民生任务如期保质完成，及时解决困难群体、特殊群体的实际问题，切实兜住兜准兜牢民生底线。\n会议研究了农村供水水价补贴、环卫工人待遇保障落实等工作，强调要坚持问题导向，强化立行立改，全面落实政策，更好保障农村群众饮水安全；要积极回应环卫工人等群体实际需求，有力改善工作条件，有效保障各项合法权益。\n会议研究了市县“三保”等重点民生资金保障、贺兰山东麓交通环线基础设施配套完善等工作，强调要坚持投资于人与投资于物紧密结合，认真倾听群众意见建议，加快补齐基础设施、公共服务短板，着力解决基层面临的困难和问题，让群众切实感受到生活变化，实现民生福祉与内需扩容双向促进。\n以上事项在完成审批程序后，分期实施。\n会议还研究了其他事项。（记者 周一青 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "民生保障",
+    "最低工资与低保标准",
+    "基础设施与公共服务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yupu",
+      "name_zh": "张雨浦",
+      "name_en": "Zhang Yupu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "最低工资与低保标准",
+      "name_en": "Minimum Wage and Subsistence Allowance Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施与公共服务",
+      "name_en": "Infrastructure and Public Services"
+    }
+  ],
+  "tags_zh": [
+    "张雨浦",
+    "民生保障",
+    "最低工资与低保标准",
+    "基础设施与公共服务"
+  ],
+  "tags_en": [
+    "Zhang Yupu",
+    "Livelihood Security",
+    "Minimum Wage and Subsistence Allowance Standards",
+    "Infrastructure and Public Services"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yupu"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260922-gov_shi_zui_shan-fcb893",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yin_chuan",
+      "source_tier": null,
+      "url": "https://www.nx.gov.cn/zwxx_11337/nxyw/202609/t20260921_5352400.html",
+      "title_zh": "宁夏自治区政府召开常务会议研究民生保障工作",
+      "published_at": "2026-09-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

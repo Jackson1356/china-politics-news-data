@@ -1,0 +1,103 @@
+{
+  "id": "20260930-gov_si_ping-7bf060",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/zw/spdt/202609/t20260930_776989.html",
+  "title_zh": "四平市人大常委会党组召开第十九次（扩大）会议",
+  "title_en": "Siping Municipal People's Congress Party Group Holds 19th Expanded Meeting",
+  "summary_zh": "9月29日，四平市人大常委会党组召开第十九次（扩大）会议，传达学习习近平总书记近期重要讲话及赵乐际在吉林、黑龙江调研讲话精神，陶立春主持并讲话。",
+  "summary_en": "On Sept 29, Siping's Municipal People's Congress Party group held its 19th expanded meeting to convey recent speeches by Xi Jinping and Zhao Leji's Jilin-Heilongjiang inspection remarks, chaired by Tao Lichun.",
+  "body_zh": "2026-09-30\n9月29日下午，市人大常委会党组召开第十九次（扩大）会议，传达学习习近平总书记近期重要讲话、重要指示、重要文章精神，传达学习全国人大常委会委员长赵乐际在吉林、黑龙江调研时的讲话精神。市人大常委会党组副书记、代理主任陶立春主持会议并讲话。\n会议强调，要深入学习贯彻习近平总书记重要讲话、重要指示、重要文章精神，进一步提高政治站位，把思想和行动统一到党中央决策部署上来。要坚持把加强基础研究摆在突出位置，强化创新驱动，更好发挥人大在推动高水平科技自立自强中的职能作用；要深入落实科教兴国战略，关心支持高校建设发展，助力培育更多高素质人才；要坚持以人民为中心，大力弘扬新时代“漳州110”精神，扎实做好维护社会安全稳定各项工作，加快建设更高水平的平安四平；要完整准确全面贯彻新发展理念，助力发展先进制造业、推进乡村全面振兴，统筹做好改革发展稳定各项工作。\n会议要求，要认真学习领会全国人大常委会委员长赵乐际在吉林、黑龙江调研时的讲话精神，紧密结合人大工作实际抓好贯彻落实，坚持党的领导、人民当家作主、依法治国有机统一，依法履职尽责，扎实做好立法、监督、代表等工作，以高质量人大工作助推全市经济社会高质量发展。\n会议还研究了其他事项。\n郭晶、刘宝双、毕志杰出席会议。市人大常委会副秘书长，市纪委监委驻市人大常委会机关纪检监察组负责同志，市人大各专门委员会、常委会办事机构和工作机构负责同志列席会议。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "party",
+  "keywords": [
+    "人大工作",
+    "科技自立自强",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技自立自强",
+      "name_en": "Scientific and Technological Self-Reliance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-leji",
+      "name_zh": "赵乐际",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "龙江",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四平",
+    "人大工作",
+    "科技自立自强",
+    "乡村振兴",
+    "赵乐际",
+    "龙江"
+  ],
+  "tags_en": [
+    "Siping",
+    "People's Congress Work",
+    "Scientific and Technological Self-Reliance",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-leji",
+      {
+        "id": null,
+        "name_zh": "龙江"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260930-gov_si_ping-7bf060",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

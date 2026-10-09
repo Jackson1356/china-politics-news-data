@@ -1,0 +1,119 @@
+{
+  "id": "20260730-gov_cn_yaowen-6fcec7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077110.htm",
+  "title_zh": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+  "title_en": "He Lifeng Holds Video Call with U.S. Treasury Secretary Bessent and Trade Representative Greer",
+  "summary_zh": "北京时间7月30日晚，国务院副总理何立峰与美国财长贝森特、贸易代表格里尔视频通话，就中美经贸关系等交换意见。",
+  "summary_en": "On the evening of July 30 Beijing time, Vice Premier He Lifeng held a video call with U.S. Treasury Secretary Bessent and Trade Representative Greer to discuss bilateral trade ties.",
+  "body_zh": "新华社北京7月30日电 北京时间7月30日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话，双方围绕落实好中美两国元首北京会晤重要共识，就下一阶段中美双方保持经贸关系稳定、拓展务实合作、妥善解决彼此关切，进行了坦诚、深入、富有建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，进一步发挥好中美经贸磋商机制作用，加强沟通、增信释疑、拓展合作，推动中美经贸关系稳定向好，助力构建中美建设性战略稳定关系。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸合作",
+    "经贸磋商机制"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "贝森特",
+      "name_en": "Bessent"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "格里尔",
+      "name_en": "Greer"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸合作",
+      "name_en": "China-US Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸磋商机制",
+      "name_en": "Trade Consultation Mechanism"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "贝森特",
+    "格里尔",
+    "中美经贸合作",
+    "经贸磋商机制"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "Bessent",
+    "Greer",
+    "China-US Trade Cooperation",
+    "Trade Consultation Mechanism"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260730-gov_cn_yaowen-6fcec7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077110.htm",
+      "title_zh": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0731/c64094-40771442.html",
+      "title_zh": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "http://world.gmw.cn/2026-07/31/content_38919055.htm",
+      "title_zh": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20260731/60712304-7704-4cea-b407-da0d40dfece4.html",
+      "title_zh": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260525-guancha_politics-618402",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_25_818300.shtml",
+  "title_zh": "行贿犯罪嫌疑人薛国泉被遣返回国",
+  "title_en": "Bribery Suspect Xue Guoquan Repatriated to China",
+  "summary_zh": "近日，行贿犯罪嫌疑人薛国泉在境外落网并被遣返回国，目前湖南省监察机关对其涉嫌行贿犯罪问题立案调查。",
+  "summary_en": "Bribery suspect Xue Guoquan was captured abroad and repatriated to China; Hunan provincial supervisory organs have launched an investigation into his alleged crimes.",
+  "body_zh": "行贿犯罪嫌疑人薛国泉，被遣返回国\n中央纪委国家监委网站25日消息，近日，在中央反腐败协调小组国际追逃追赃工作办公室统筹协调和公安部协助下，经湖南省监察机关与有关国家执法机关密切合作，行贿犯罪嫌疑人薛国泉在境外落网并被遣返回国。湖南省监察机关正在对薛国泉涉嫌行贿犯罪问题立案调查。\n中央追逃办负责人表示，将落实二十届中央纪委五次全会精神，深化受贿行贿一起查，加大对外执法司法合作力度，对行贿犯罪嫌疑人有逃必追、一追到底，坚决铲除“围猎”污染源。\n留神峪爆炸瞬间监控公布",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "discipline",
+  "keywords": [
+    "行贿犯罪",
+    "国际追逃追赃"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛国泉",
+      "name_en": "Xue Guoquan"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "行贿犯罪",
+      "name_en": "Bribery Crimes"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际追逃追赃",
+      "name_en": "International Pursuit and Recovery"
+    }
+  ],
+  "tags_zh": [
+    "薛国泉",
+    "公安部",
+    "湖南",
+    "行贿犯罪",
+    "国际追逃追赃"
+  ],
+  "tags_en": [
+    "Xue Guoquan",
+    "Ministry of Public Security",
+    "Hunan",
+    "Bribery Crimes",
+    "International Pursuit and Recovery"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260525-guancha_politics-618402",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

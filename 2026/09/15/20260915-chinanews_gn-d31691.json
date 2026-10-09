@@ -1,0 +1,111 @@
+{
+  "id": "20260915-chinanews_gn-d31691",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-15/10696769.shtml",
+  "title_zh": "美方称已拥有“在轨”太空控制武器 中方回应",
+  "title_en": "China Responds to US Claim of Possessing \"On-Orbit\" Space Control Weapons",
+  "summary_zh": "9月15日，外交部发言人郭嘉昆在北京例行记者会上回应美方称已拥有“在轨”太空控制武器，表示中国反对外空武器化和军备竞赛，敦促美方停止外空扩军备战。",
+  "summary_en": "On September 15, Chinese Foreign Ministry spokesperson Guo Jiakun told a regular briefing in Beijing that China opposes the weaponization of outer space and arms racing, urging the US to halt its military buildup in space.",
+  "body_zh": "美方称已拥有“在轨”太空控制武器 中方回应\n中新网北京9月15日电 (记者 曾玥)中国外交部发言人郭嘉昆15日主持例行记者会。有记者就美方称已拥有“在轨”太空控制武器一事提问。\n郭嘉昆：中国一贯坚持和平利用外空，维护外空安全，反对外空“武器化”“战场化”和军备竞赛。我们敦促美方停止在外空扩军备战，以实际行动维护全球战略稳定。(完)\n国内新闻精选：\n- 2026年09月15日 12:39:29\n- 2026年09月15日 10:31:29\n- 2026年09月15日 09:29:43\n- 2026年09月15日 09:24:27\n- 2026年09月14日 20:38:15\n- 2026年09月14日 10:57:08\n- 2026年09月14日 10:46:53\n- 2026年09月14日 10:23:20\n- 2026年09月14日 09:05:05\n- 2026年09月13日 20:34:53",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "外空安全",
+    "军备竞赛",
+    "中美关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国外交部",
+      "name_en": "Chinese Foreign Ministry"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外空安全",
+      "name_en": "Outer Space Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军备竞赛",
+      "name_en": "Arms Race"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    }
+  ],
+  "tags_zh": [
+    "中国外交部",
+    "北京",
+    "外空安全",
+    "军备竞赛",
+    "中美关系"
+  ],
+  "tags_en": [
+    "Chinese Foreign Ministry",
+    "Beijing",
+    "Outer Space Security",
+    "Arms Race",
+    "China-US Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国外交部",
+        "name_en": "Chinese Foreign Ministry"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260915-chinanews_gn-d31691",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696785.shtml",
+      "title_zh": "外交部：将继续让“中国服务”更多走出国门、更好惠及全球",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696778.shtml",
+      "title_zh": "外交部：高市早苗涉台错误言行是当前中日关系面临严重困难的最大症结",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

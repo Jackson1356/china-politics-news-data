@@ -1,0 +1,84 @@
+{
+  "id": "20260825-xinhua_politics-d1662f",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260825/d660786a4fdc47b2b5e067d2917358dc/c.html",
+  "title_zh": "水利部对5省份启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level-IV Emergency Response for Flood Control in 5 Provinces",
+  "summary_zh": "水利部8月25日对河北、山西、内蒙古、陕西、青海启动洪水防御Ⅳ级应急响应，应对新一轮强降雨过程。",
+  "summary_en": "On Aug 25, the Ministry of Water Resources activated a Level-IV emergency response for flood control in Hebei, Shanxi, Inner Mongolia, Shaanxi and Qinghai in response to heavy rainfall.",
+  "body_zh": "新华社北京8月25日电（记者魏弘毅）记者从水利部了解到，水利部25日对河北、山西、内蒙古、陕西、青海等5省份启动洪水防御Ⅳ级应急响应。\n据预报，8月25日至28日，西北中部东部、华北中部北部将有一次较强降雨过程。受其影响，黄河上中游干流及支流湟水、大黑河、皇甫川、窟野河，海河流域永定河、大清河、滹沱河等河流将出现涨水过程，暴雨区内部分中小河流可能发生超警以上洪水，山洪灾害和淤地坝安全度汛风险高。\n为应对汛情，水利部指导督促地方水利部门和相关流域管理机构密切监视天气变化，滚动加密雨水情监测预报预警，强化会商研判和值班值守，科学精细调度防洪工程，突出抓好水库和淤地坝安全度汛、中小河流洪水和山洪灾害防御等工作，及时提请地方政府提前转移受威胁群众和危险区人员，确保人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "河北",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Hebei",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HE"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260825-xinhua_politics-d1662f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20261007-xinhua_politics-73e523",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261007/d3339e34ad8b45f9bd15a7cb5ddd5929/c.html",
+  "title_zh": "国庆假期全国道路交通总体平稳有序",
+  "title_en": "National Road Traffic Generally Stable and Orderly During National Day Holiday",
+  "summary_zh": "据公安部交通管理局10月7日消息，截至当日19时，国庆假期全国道路交通总体平稳有序，未发生重大道路交通事故，未接报长时间大范围交通拥堵。",
+  "summary_en": "As of 19:00 Oct 7, China's road traffic was generally stable and orderly during the National Day holiday, with no major accidents or prolonged large-scale congestion, the Ministry of Public Security said.",
+  "body_zh": "新华社北京10月7日电（记者孙少龙）记者10月7日从公安部交通管理局获悉，截至10月7日19时，全国道路交通总体平稳有序，除局部时段、路段车辆缓行外，未接报长时间大范围交通拥堵，未发生重大道路交通事故。\n2026年中秋、国庆双节旅游流、探亲流、学生流叠加，长途游、自驾游出行集中，全国普遍迎来大客流、大车流，交通安全风险突出。全国公安交管部门按照公安部部署要求，聚焦防事故、护安全、保畅通，结合假期出行规律、地域交通特点以及交通流量变化情况，加强分析研判、严管重点路段、严查重点违法、强化应急管理，全力确保全国主干公路通行顺畅。",
+  "image_url": null,
+  "published_at": "2026-10-07T12:00:00+00:00",
+  "event_date": "2026-10-07",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "welfare",
+  "keywords": [
+    "交通安全",
+    "假期出行",
+    "交通管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通安全",
+      "name_en": "Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假期出行",
+      "name_en": "Holiday Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通管理",
+      "name_en": "Traffic Management"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "交通安全",
+    "假期出行",
+    "交通管理"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Traffic Safety",
+    "Holiday Travel",
+    "Traffic Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261007-xinhua_politics-73e523",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

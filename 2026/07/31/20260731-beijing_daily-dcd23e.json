@@ -1,0 +1,82 @@
+{
+  "id": "20260731-beijing_daily-dcd23e",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/07/31/11894184.shtml",
+  "title_zh": "国家发改委：今年7550亿元中央预算内投资已基本下达完毕",
+  "title_en": "NDRC: 755 Billion Yuan Central Budgetary Investment Basically Allocated This Year",
+  "summary_zh": "7月31日，国家发展改革委在发布会上表示，今年7550亿元中央预算内投资已基本下达完毕，并加大民生类投资，其中以工代赈资金395亿元已下达。",
+  "summary_en": "On July 31, the NDRC said at a press conference that this year's 755 billion yuan of central budgetary investment has been basically allocated, with increased livelihood investment, including 39.5 billion yuan for work-relief programs.",
+  "body_zh": "7月31日上午，国家发展改革委举行7月份新闻发布会，国家发展改革委新闻发言人蒋毅表示，今年7550亿元中央预算内投资已基本下达完毕。\n蒋毅说，我们坚持投资于物和投资于人紧密结合，进一步加大民生类政府投资力度。比如，在抢险救灾方面，今年入汛以来，国家发展改革委已紧急下达14批中央预算内投资，合计7.5亿元，支持有关受灾地区开展基础设施和公共服务设施灾后应急恢复。又比如，在以工代赈方面，今年已下达资金395亿元，实施项目7800余个，吸纳带动务工人数达150万人，人均增收1万元以上，充分发挥促就业、助增收、惠民生的综合效能。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "中央预算内投资",
+    "以工代赈"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央预算内投资",
+      "name_en": "Central Budgetary Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "以工代赈",
+      "name_en": "Work-Relief Programs"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "中央预算内投资",
+    "以工代赈"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Central Budgetary Investment",
+    "Work-Relief Programs"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "蒋毅"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260731-beijing_daily-dcd23e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

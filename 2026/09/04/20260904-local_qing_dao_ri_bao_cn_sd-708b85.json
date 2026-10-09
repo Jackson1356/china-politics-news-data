@@ -1,0 +1,100 @@
+{
+  "id": "20260904-local_qing_dao_ri_bao_cn_sd-708b85",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/471531_1.html",
+  "title_zh": "市委常委会召开会议 传达学习习近平总书记重要讲话重要指示精神",
+  "title_en": "Qingdao Municipal Party Committee Meeting Conveys Xi Jinping's Important Remarks and Instructions",
+  "summary_zh": "9月4日下午，青岛市委常委会召开会议，传达学习习近平总书记在中央政治局会议上的重要讲话和对西藏泥石流灾害的重要指示精神，市委书记曾赞荣主持并讲话。",
+  "summary_en": "On the afternoon of September 4, the Standing Committee of the CPC Qingdao Municipal Committee held a meeting to convey and study General Secretary Xi Jinping's important speech at a CPC Central Political Bureau meeting and his instructions on the mudslide disaster in Gyirong County, Tibet. Municipal Party Secretary Zeng Zanrong presided and delivered a speech.",
+  "body_zh": "市委常委会召开会议 传达学习习近平总书记重要讲话重要指示精神\n作者：薛华飞\n市委常委会召开会议\n传达学习习近平总书记重要讲话重要指示精神\n曾赞荣主持会议并讲话\n青岛日报社/观海新闻9月4日讯 今天下午，市委常委会召开会议，传达学习习近平总书记在8月28日中共中央政治局会议上的重要讲话精神、对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神和《求是》杂志重要署名文章《坚持落实管党治党政治责任》，研究审议有关工作事项。市委书记曾赞荣主持会议并讲话。\n会议指出，习近平总书记的重要讲话、重要指示，充分彰显了人民至上、生命至上的深厚为民情怀，为我们做好防灾减灾救灾工作提供了根本遵循。我们要认真学习领会，树牢极限思维、底线思维，以“时时放心不下”的责任感，抓实抓细防灾减灾救灾工作措施，切实维护人民群众生命财产安全。要健全监测预警体系，深入开展重点领域隐患排查整治，做到险情早发现、早处置。要充分做好应急救援准备，完善工作预案，备齐备足人员、设备和物资，不断提高应急救援能力。要统筹做好安全生产工作，坚决防范遏制重特大事故发生。\n会议强调，要认真学习领会习近平总书记关于落实管党治党责任的重要论述，深入贯彻习近平党建思想，压紧压实党委（党组）主体责任、纪委监督责任、党委（党组）书记第一责任人责任和班子成员“一岗双责”，一级抓一级、层层抓落实，以责任主体到位、责任要求到位、考核问责到位，推动管党治党责任落实到位。\n会议还研究了其他事项。（青岛日报/观海新闻记者 薛华飞）",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "party",
+  "keywords": [
+    "传达学习",
+    "防灾减灾",
+    "管党治党"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传达学习",
+      "name_en": "Study and Convey"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "管党治党",
+      "name_en": "Party Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "青岛",
+    "传达学习",
+    "防灾减灾",
+    "管党治党",
+    "习近平"
+  ],
+  "tags_en": [
+    "Qingdao",
+    "Study and Convey",
+    "Disaster Prevention and Reduction",
+    "Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-QD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260904-local_qing_dao_ri_bao_cn_sd-708b85",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_zi_bo",
+      "source_tier": 4,
+      "url": "https://www.zibo.gov.cn/art/2026/9/4/art_10_3019302.html",
+      "title_zh": "市委常委会召开会议",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

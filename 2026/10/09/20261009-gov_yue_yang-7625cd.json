@@ -1,0 +1,106 @@
+{
+  "id": "20261009-gov_yue_yang-7625cd",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2413573.html",
+  "title_zh": "谢卫江与北京岳阳商会和京津冀等地企业家一行座谈",
+  "title_en": "Xie Weijiang Holds Symposium with Beijing Yueyang Chamber of Commerce and Entrepreneurs from Beijing-Tianjin-Hebei",
+  "summary_zh": "10月8日，湖南省委副书记、岳阳市委书记谢卫江与北京岳阳商会及京津冀等地企业家座谈，希望企业用好岳阳区位、政策、生态、成本优势，深化合作共赢。",
+  "summary_en": "On Oct 8, Xie Weijiang, Deputy Secretary of the Hunan Provincial Party Committee and Secretary of the Yueyang Municipal Party Committee, met with the Beijing Yueyang Chamber of Commerce and entrepreneurs from Beijing-Tianjin-Hebei, urging them to leverage Yueyang's location, policy, ecology and cost advantages for deeper win-win cooperation.",
+  "body_zh": "10月8日，省委副书记、岳阳市委书记谢卫江与北京岳阳商会和京津冀等地企业家一行座谈。\n谢卫江代表市委、市政府对各位企业家表示欢迎，对大家支持岳阳经济社会发展表示感谢。希望各位企业家充分利用岳阳的区位、政策、生态、成本四大比较优势，深化双方合作，实现共赢发展。市委、市政府将加强服务保障，为企业发展创造良好环境。\n与会企业家立足自身实际，就产业发展、合作愿景等方面依次发言，表示将把更多优质资源导入岳阳，深挖双方合作潜力，拓宽双方合作领域，助力岳阳高质量发展。\n市领导秦国良、肖湘晖、张世愚参加。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "政企合作",
+    "招商引资",
+    "区域合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政企合作",
+      "name_en": "Government-Enterprise Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域合作",
+      "name_en": "Regional Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳市委",
+    "岳阳",
+    "政企合作",
+    "招商引资",
+    "区域合作"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang Municipal Party Committee",
+    "Yueyang",
+    "Government-Enterprise Cooperation",
+    "Investment Attraction",
+    "Regional Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261009-gov_yue_yang-7625cd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

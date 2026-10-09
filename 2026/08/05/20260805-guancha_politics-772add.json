@@ -1,0 +1,90 @@
+{
+  "id": "20260805-guancha_politics-772add",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_05_826285.shtml",
+  "title_zh": "副校长下场撮合，笔试第一被第二花钱劝弃考，广东雷州启动问责",
+  "title_en": "Vice Principal Mediates as Top Scorer Paid to Withdraw from Exam, Leizhou Launches Accountability Investigation",
+  "summary_zh": "广东雷州发生考试违规事件，副校长介入撮合，笔试第一名被第二名花钱劝弃考，当地已启动问责。",
+  "summary_en": "In Leizhou, Guangdong, an exam violation occurred where a vice principal mediated and the top scorer was paid to withdraw by the second-place candidate; local authorities have launched accountability proceedings.",
+  "body_zh": "马某林，出狱前8天被改判死缓 2026-08-05 18:55\n依法从轻 国家国防科工局原副局长张建华被判10年 2026-08-05 17:23 廉政风暴\n高温少雨持续，中央调拨百余台抗旱设备支持新疆 2026-08-05 15:35 极端天气\n官方通报西安赛格商场坠亡事件 2026-08-05 15:11\n景德镇申遗成功，游戏如何用“数字之火”照亮千年瓷都？ 2026-08-05 14:31 观网游戏\n19岁女孩身中三十余刀遇害，家属10年后才知道“一审被判死刑”的凶手已改判，最新进展：申诉已获受理 2026-08-05 14:05\n费大厨“全国小炒肉大王”称号，原来是线上比赛靠视频赢的… 2026-08-05 13:42\n云南晋宁通报“一公司在黄磷装卸过程中发生火情事故” 2026-08-05 13:21\n旅客充电宝自燃致航班备降武汉，长安航空通报 2026-08-05 13:06\n男子抢劫致人死亡获刑10年，出狱前8天改判死缓，最高检披露详情 2026-08-05 11:35 依法治国\n一在逃人员来沪观看时代少年团演唱会，已被警方抓获 2026-08-05 10:17\n“消毒级”高端卫生巾被曝有虫卵，桂林通报：已对涉事企业开展现场核查 2026-08-05 09:03\n茶叶圈再无“大师” 2026-08-05 06:43\n鸿蒙智行回应“竹知了”事件 2026-08-04 22:24\n国家邮政局：对申通立案调查 2026-08-04 19:24\n村支书李杨防汛中遇难，年仅30多岁 2026-08-04 16:23\n奖励一颗小行星命名！中国科学家首获威廉 · 诺德伯格奖章 2026-08-04 16:01\n国家网信办：“电车小飞”抹黑某汽车企业，被封号 2026-08-04 11:36\n五年期大额存单，“限量”回归！ 2026-08-04 11:31\n“东北抗联战士的步枪枪托上为啥贴着铁皮？考证后我们才知道” 2026-08-04 11:12 观网游戏",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "discipline",
+  "keywords": [
+    "考试违规",
+    "问责",
+    "教育公平"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "考试违规",
+      "name_en": "Exam Violation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "问责",
+      "name_en": "Accountability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育公平",
+      "name_en": "Education Fairness"
+    }
+  ],
+  "tags_zh": [
+    "广东",
+    "考试违规",
+    "问责",
+    "教育公平"
+  ],
+  "tags_en": [
+    "Exam Violation",
+    "Accountability",
+    "Education Fairness"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260805-guancha_politics-772add",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_05_826296.shtml",
+      "title_zh": "“梅姨”真实姓名曝光，案件已进入审查起诉环节",
+      "published_at": "2026-08-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

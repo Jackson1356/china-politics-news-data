@@ -1,0 +1,129 @@
+{
+  "id": "20260928-bjnews-5aac42",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1790553104129003.html",
+  "title_zh": "公安部网安局发布拒不履行信息网络安全管理义务典型案例",
+  "title_en": "MPS Cybersecurity Bureau Releases Typical Cases of Refusing to Fulfill Information Network Security Management Obligations",
+  "summary_zh": "9月28日，公安部网安局披露江苏盐城卢某斌案、河南三门峡张某东案两起拒不履行信息网络安全管理义务典型案例。",
+  "summary_en": "On September 28, the Cybersecurity Bureau of the Ministry of Public Security disclosed two typical cases of refusing to fulfill information network security management obligations, involving Lu Moubin in Yancheng, Jiangsu, and Zhang Moudong in Sanmenxia, Henan.",
+  "body_zh": "据新华社消息，9月28日，公安部网安局披露2起拒不履行信息网络安全管理义务典型案例。\n这2起案例分别是江苏盐城公安网安部门侦办的卢某斌案、河南三门峡公安网安部门侦办的张某东案。经查，2起案件所涉公司违反网络安全法等相关法律、行政法规规定，在未履行身份信息核验义务的情况下对外提供服务器租赁服务，或被诈骗团伙雇佣多次发布违法有害信息。在公安机关依法对其进行行政处罚并责令其限期改正后，有关公司仍未按要求进行及时整改，造成不良后果。（记者李明辉）",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "discipline",
+  "keywords": [
+    "网络安全",
+    "信息网络安全管理义务",
+    "行政处罚"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部网安局",
+      "name_en": "Cybersecurity Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA-SM",
+      "name_zh": "三门峡",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息网络安全管理义务",
+      "name_en": "Information Network Security Management Obligations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "行政处罚",
+      "name_en": "Administrative Penalties"
+    }
+  ],
+  "tags_zh": [
+    "公安部网安局",
+    "公安部",
+    "江苏",
+    "盐城",
+    "河南",
+    "三门峡",
+    "网络安全",
+    "信息网络安全管理义务",
+    "行政处罚"
+  ],
+  "tags_en": [
+    "Cybersecurity Bureau of the Ministry of Public Security",
+    "Ministry of Public Security",
+    "Cybersecurity",
+    "Information Network Security Management Obligations",
+    "Administrative Penalties"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-JS",
+      "CN-JS-YC",
+      "CN-HA",
+      "CN-HA-SM"
+    ],
+    "companies": [
+      {
+        "name_zh": "公安部网安局",
+        "name_en": "Cybersecurity Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260928-bjnews-5aac42",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

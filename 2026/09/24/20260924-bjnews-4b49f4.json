@@ -1,0 +1,91 @@
+{
+  "id": "20260924-bjnews-4b49f4",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1790249572129767.html",
+  "title_zh": "新西兰军舰过航台湾海峡，国防部回应",
+  "title_en": "Defense Ministry Responds to New Zealand Warship's Taiwan Strait Transit",
+  "summary_zh": "9月24日下午，国防部举行例行记者会，发言人蒋斌大校就新西兰军舰过航台湾海峡表示中国军队全程跟监警戒，并敦促新方恪守一个中国原则。",
+  "summary_en": "At a routine Defense Ministry press conference on the afternoon of Sept 24, spokesperson Senior Colonel Jiang Bin said Chinese forces monitored and warned a New Zealand warship transiting the Taiwan Strait throughout, urging New Zealand to uphold the one-China principle.",
+  "body_zh": "新京报讯 据@国防部发布 消息，9月24日下午，国防部举行例行记者会，国防部新闻发言人蒋斌大校答记者问。\n蒋斌：关于第一个问题，中国军队依法依规组织海空兵力，对过航台湾海峡的新西兰军舰全程跟监警戒，有效应对处置。我们敦促新方恪守一个中国原则，不要向“台独”分裂势力发出错误信号。\n关于第二个问题，《开罗宣言》《波茨坦公告》和《日本投降书》等一系列具有国际法效力的文件明确规定，日本应完全解除武装，不得维持能使其重新武装的产业。这是战后国际秩序的重要组成部分，是国际社会防止日本军国主义死灰复燃的重要屏障。近年来，日方军费预算持续暴涨，大力发展进攻性能力，甚至以发展经济之名大肆扩张军工产业，与当年日本发动对外侵略前的迹象何其相似。国际社会应对此高度警惕，坚决遏阻日本“新型军国主义”为祸人间。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "一个中国原则",
+    "台湾海峡航行",
+    "日本再军事化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "台湾海峡",
+      "name_en": "Taiwan Strait"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾海峡航行",
+      "name_en": "Taiwan Strait Transit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "日本再军事化",
+      "name_en": "Japan's Remilitarization"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "台湾海峡",
+    "一个中国原则",
+    "台湾海峡航行",
+    "日本再军事化"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Taiwan Strait",
+    "One-China Principle",
+    "Taiwan Strait Transit",
+    "Japan's Remilitarization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260924-bjnews-4b49f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

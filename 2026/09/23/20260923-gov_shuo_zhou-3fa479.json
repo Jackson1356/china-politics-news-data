@@ -1,0 +1,92 @@
+{
+  "id": "20260923-gov_shuo_zhou-3fa479",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202609/t20260923_789286.shtml",
+  "title_zh": "中国共产党朔州市第八次代表大会胜利闭幕",
+  "title_en": "8th CPC Shuozhou Municipal Congress Concludes, Elects New Municipal Committee",
+  "summary_zh": "中国共产党朔州市第八次代表大会在朔州闭幕，选举产生第八届市委和市纪委，并确立今后五年工作的指导思想与主要任务。",
+  "summary_en": "The 8th CPC Shuozhou Municipal Congress concluded in Shuozhou, Shanxi, electing a new municipal committee and discipline inspection commission and setting the priorities for the next five years.",
+  "body_zh": "金秋送爽，盛会收官；蓝图绘就，重任在肩。\n中国共产党朔州市第八次代表大会圆满完成各项议程，胜利闭幕。我们对大会的圆满成功致以热烈祝贺！\n这是一次高举旗帜、继往开来的大会，是一次团结民主、务实高效的大会，更是一次凝心聚力、开拓奋进的大会。大会坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平总书记对山西工作的重要讲话重要指示精神，全面回顾了过去五年发展取得的成就，确立了今后五年工作的指导思想和主要任务，绘就了朔州推进中国式现代化的美好蓝图。大会严格执行党中央及省委对换届工作的部署要求，选举产生了中国共产党朔州市第八届委员会和纪律检查委员会，为推动朔州高质量发展提供了坚强组织保证。代表们忠诚履职、严守纪律，以实际行动营造了风清气正的良好会风，汇聚起全市上下团结奋斗的磅礴伟力。\n大会明确提出围绕“两大任务”、突出“两个抓手”、构建“两个体系”总体思路，这是把中国式现代化朔州实践推向前进的行动宣言。全市上下要切实把思想和行动统一到大会部署要求上来，更加紧密地团结在以习近平同志为核心的党中央周围，在省委坚强领导下，勠力同心、笃行实干，以永不懈怠的精神状态和一往无前的奋斗姿态，全力把大会擘画的发展蓝图变为美好现实，奋力谱写中国式现代化朔州新篇章！",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese-style Modernization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "党代会",
+    "换届选举",
+    "中国式现代化",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Party Congress",
+    "Leadership Election",
+    "Chinese-style Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-gov_shuo_zhou-3fa479",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

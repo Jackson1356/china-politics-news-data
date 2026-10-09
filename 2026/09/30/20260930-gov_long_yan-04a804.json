@@ -1,0 +1,95 @@
+{
+  "id": "20260930-gov_long_yan-04a804",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260930_2316712.htm",
+  "title_zh": "中国共产党龙岩市第七次代表大会举行第二次全体会议",
+  "title_en": "Second Plenary Session of the 7th CPC Longyan City Congress Held",
+  "summary_zh": "9月29日，中国共产党龙岩市第七次代表大会举行第二次全体会议，选举产生新一届市委委员、市纪委委员及出席福建省第十二次党代会代表，胡盛主持。",
+  "summary_en": "On Sept 29, the 7th CPC Longyan City Congress held its second plenary session, electing new municipal Party committee and discipline inspection committee members and delegates to Fujian's 12th Party congress.",
+  "body_zh": "9月29日上午，中国共产党龙岩市第七次代表大会举行第二次全体会议，选举产生了中国共产党龙岩市第七届委员会委员、中国共产党龙岩市第七届纪律检查委员会委员和龙岩市出席福建省第十二次党代会代表。省纪委监委、省委组织部有关同志到会指导。\n大会执行主席胡盛、蔡琳、汪志红、陈荣水、马勇、乔晓明、邱开养、王波、潘登、陈奋强、王战平、林俊金、赖永刚在主席台前排就座，主席团其他成员在主席台就座。\n会议由胡盛主持。\n大会应到代表419名，实到代表412名，符合规定。\n会议以举手表决方式，通过了大会选举办法；通过了中国共产党龙岩市第七届委员会委员、中国共产党龙岩市第七届纪律检查委员会委员和龙岩市出席福建省第十二次党代会代表候选人名单；通过了监票人、总监票人名单；宣布了计票人、总计票人名单。\n随后，会议以无记名投票方式进行选举。经投票选举46名同志当选中国共产党龙岩市第七届委员会委员，38名同志当选中国共产党龙岩市第七届纪律检查委员会委员，35名同志当选龙岩市出席福建省第十二次党代会代表。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党内选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-Party Elections"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "龙岩市",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "龙岩",
+    "党代会",
+    "党内选举",
+    "龙岩市"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Longyan",
+    "Party Congress",
+    "Intra-Party Elections"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan",
+      {
+        "id": null,
+        "name_zh": "龙岩市"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260930-gov_long_yan-04a804",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

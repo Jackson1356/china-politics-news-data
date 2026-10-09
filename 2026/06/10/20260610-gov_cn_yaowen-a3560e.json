@@ -1,0 +1,70 @@
+{
+  "id": "20260610-gov_cn_yaowen-a3560e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071779.htm",
+  "title_zh": "5月居民消费价格指数总体平稳 工业生产者出厂价格指数继续上涨",
+  "title_en": "May CPI Remains Stable and PPI Continues to Rise",
+  "summary_zh": "国家统计局6月10日发布数据显示，5月份我国居民消费价格指数（CPI）同比上涨1.2%，工业生产者出厂价格指数（PPI）同比上涨3.9%。",
+  "summary_en": "The National Bureau of Statistics reported on June 10 that China's Consumer Price Index (CPI) rose 1.2% and the Producer Price Index (PPI) rose 3.9% year-on-year in May.",
+  "body_zh": "国家统计局今天（6月10日）发布的数据显示，5月份，我国消费市场运行总体平稳，居民消费价格指数（CPI）同比上涨1.2%，涨幅与上月相同。其中，工业消费品价格同比上涨3.9%，涨幅比上月扩大0.4个百分点。服务中，出行服务价格同比上涨2.8%，其他服务价格涨幅总体稳定。应季蔬菜大量上市，猪肉供应充足，带动食品价格环比有所下降。\n5月份，工业生产者出厂价格指数（PPI）同比上涨3.9%，自3月份由负转正后，连续3个月同比上涨，涨幅比上月扩大1.1个百分点。其中，有色金属行业在绿色转型、人工智能发展等带动下，价格保持上涨态势。电气机械和器材制造业、计算机通信和其他电子设备制造业出厂价格同比由去年底的下降转为上涨，连续五个月改善。",
+  "image_url": null,
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "event_date": "2026-06-10",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "economy",
+  "keywords": [
+    "居民消费价格指数",
+    "工业生产者出厂价格指数"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "居民消费价格指数",
+      "name_en": "Consumer Price Index"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业生产者出厂价格指数",
+      "name_en": "Producer Price Index"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "居民消费价格指数",
+    "工业生产者出厂价格指数"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Consumer Price Index",
+    "Producer Price Index"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260610-gov_cn_yaowen-a3560e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

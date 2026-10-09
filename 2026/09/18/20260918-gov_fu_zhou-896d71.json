@@ -1,0 +1,110 @@
+{
+  "id": "20260918-gov_fu_zhou-896d71",
+  "source": "gov_fu_zhou",
+  "source_name_zh": "抚州市政府网",
+  "source_name_en": "抚州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fuzhou.gov.cn/zwgk/gzdt/tpxw/202609/t20260918_5372740.htm",
+  "title_zh": "福州市与天津大学签署合作协议",
+  "title_en": "Fuzhou Signs Cooperation Agreement with Tianjin University",
+  "summary_zh": "9月17日，福州市与天津大学签署共建高校区域技术转移转化中心合作协议，市委书记郭宁宁与天津大学校长柴立元座谈并见证签约。",
+  "summary_en": "On Sept 17, Fuzhou signed an agreement with Tianjin University to jointly build a regional technology transfer and commercialization center, witnessed by Fuzhou Party Secretary Guo Ningning and Tianjin University President Chai Liyuan.",
+  "body_zh": "福州市与天津大学签署合作协议\n郭宁宁与柴立元座谈交流并见证签约\n9月17日，福州市与天津大学签署共建高校区域技术转移转化中心合作协议。省委副书记、市委书记郭宁宁与天津大学校长柴立元一行座谈交流并见证签约。\n郭宁宁代表市委、市政府对柴立元一行到来表示欢迎，并简要介绍福州经济社会发展情况。她说，福州与天津大学渊源深厚、合作密切，近年来双方在科技创新、人才培养、产学研融合等领域取得了丰硕的合作成果，为福州全方位推动高质量发展提供了有力支撑。“十五五”是福州加快建设现代化国际城市的关键时期，全市上下正深入学习贯彻习近平总书记在福建考察时的重要讲话精神，抢抓“多区叠加”政策机遇，统筹教育科技人才一体发展，推动科技创新和产业创新深度融合，努力在中国式现代化建设中奋勇争先。希望以此次签约为契机，与天津大学共同聚焦新型功能材料等前沿领域，携手共建产业科技创新平台，推动更多科创成果在福州转化应用，助力培育和发展新质生产力；共同推动天津大学福州国际联合学院建设，携手培养更多高素质、应用型、创新型、复合型人才，共谱新时代市校合作新篇章。\n柴立元感谢福建省及福州市对天津大学发展的关心支持。他说，福州创新氛围浓厚、发展动能澎湃，校地合作前景广阔。天津大学将深入落实合作协议，充分发挥自身优势，围绕福州发展所需，持续深化各领域务实合作，项目化清单化推动科技成果转化落地，为福州高质量发展贡献更多天大力量。\n天津大学原党委书记李家俊，天津大学原党委书记杨贤金，天津大学校长助理、党办校办主任、天津大学福州国际联合学院院长黄辉，市领导张定锋、郑鸿出席。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "industry",
+  "keywords": [
+    "产学研合作",
+    "科技成果转化",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "guo-ningning",
+      "name_zh": "郭宁宁",
+      "name_en": "Guo Ningning"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "天津大学",
+      "name_en": "Tianjin University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产学研合作",
+      "name_en": "Industry-University-Research Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技成果转化",
+      "name_en": "Technology Transfer"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "郭宁宁",
+    "天津大学",
+    "福州",
+    "产学研合作",
+    "科技成果转化",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Guo Ningning",
+    "Tianjin University",
+    "Fuzhou",
+    "Industry-University-Research Cooperation",
+    "Technology Transfer",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "guo-ningning",
+      {
+        "id": null,
+        "name_zh": "郑鸿"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "天津大学",
+        "name_en": "Tianjin University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260918-gov_fu_zhou-896d71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

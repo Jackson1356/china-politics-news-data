@@ -1,0 +1,83 @@
+{
+  "id": "20260901-gov_cn_yaowen-02f085",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079830.htm",
+  "title_zh": "全国铁路暑运累计发送旅客9.54亿人次",
+  "title_en": "National Railway Summer Transport Carries 954 Million Passengers",
+  "summary_zh": "7月1日至8月31日，全国铁路暑运累计发送旅客9.54亿人次，国家铁路发送货物6.8亿吨，运输安全平稳有序。",
+  "summary_en": "From July 1 to Aug 31, China's railways carried 954 million passengers and 680 million tons of cargo during the summer period, with safe and orderly operations.",
+  "body_zh": "新华社北京9月1日电（记者樊曦）记者1日从中国国家铁路集团有限公司获悉，8月31日，为期62天的铁路暑运圆满结束。7月1日至8月31日，全国铁路累计发送旅客9.54亿人次，国家铁路累计发送货物6.8亿吨，铁路运输安全平稳有序。\n国铁集团运输部负责人介绍，今年暑运，铁路部门在三季度列车运行图的基础上，同步实施暑期列车运行图，统筹用好武汉至西安高铁西安东至十堰东段、金华至建德高铁兰溪东至建德段等新线开通新增的运力资源，加大运力投放，全国铁路日均安排开行旅客列车11623列。\n与此同时，铁路部门积极适应暑期亲子游、研学游、红色游、康养游等市场需求，累计开行旅游列车699列，其中旅游专列415列、旅游专线284列，并精准对接各地赛事、展会、文艺演出活动安排，定制化开行“歌迷专列”“球迷专列”等351列，有效拉动沿线文旅消费，促进了服务消费扩能提质。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "industry",
+  "keywords": [
+    "铁路暑运",
+    "旅客运输",
+    "货物运输"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路暑运",
+      "name_en": "Railway Summer Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅客运输",
+      "name_en": "Passenger Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货物运输",
+      "name_en": "Freight Transport"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路暑运",
+    "旅客运输",
+    "货物运输"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Summer Transport",
+    "Passenger Transport",
+    "Freight Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-gov_cn_yaowen-02f085",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

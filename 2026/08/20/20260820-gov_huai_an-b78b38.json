@@ -1,0 +1,101 @@
+{
+  "id": "20260820-gov_huai_an-b78b38",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787210624259jcqDleSh.html",
+  "title_zh": "市委书记史志军调研企业科技创新和上市工作",
+  "title_en": "Party Secretary Shi Zhijun Investigates Enterprise Sci-tech Innovation and Listing Work",
+  "summary_zh": "8月19日，淮安市委书记史志军调研企业科技创新和上市工作，强调促进科技创新和产业创新融合，因地制宜发展新质生产力。",
+  "summary_en": "On August 19, Shi Zhijun, Secretary of Huai'an Municipal Party Committee, inspected enterprises' scientific innovation and listing work, emphasizing deeper integration of technology and industry innovation to develop new quality productive forces.",
+  "body_zh": "8月19日，市委书记史志军调研企业科技创新和上市工作，强调要深入学习贯彻习近平总书记对江苏工作重要讲话精神、对淮安殷切嘱托，认真落实省委省政府部署要求，积极改革探索，完善体制机制，营造一流生态，提升创新体系整体效能，促进科技创新和产业创新深度融合，因地制宜发展新质生产力，为“十五五”时期淮安经济社会高质量发展注入强劲动能。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "企业上市",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "企业上市",
+      "name_en": "Enterprise Listing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "淮安",
+    "科技创新",
+    "企业上市",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Huai'an",
+    "Scientific and Technological Innovation",
+    "Enterprise Listing",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260820-gov_huai_an-3bfaf1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1787175661414ilrpgsm8.html",
+      "title_zh": "淮安市人民政府 市领导调研企业科技创新和上市工作",
+      "published_at": "2026-08-20T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

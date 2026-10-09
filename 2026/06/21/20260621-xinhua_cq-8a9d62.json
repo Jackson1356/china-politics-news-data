@@ -1,0 +1,144 @@
+{
+  "id": "20260621-xinhua_cq-8a9d62",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_url": "http://cq.news.cn/20260621/504ca64999054c1995d7096e2fb5163d/c.html",
+  "title_zh": "“法学+外语”涉外法治人才培养联盟在渝成立",
+  "title_en": "Alliance for 'Law + Foreign Language' Foreign-related Legal Talent Cultivation Established in Chongqing",
+  "summary_zh": "6月16日，“法学+外语”涉外法治人才培养联盟在重庆西南政法大学成立，由13所高校共同发起，旨在构建跨校协同育人体系。",
+  "summary_en": "On June 16, the 'Law + Foreign Language' Alliance for Foreign-related Legal Talent Cultivation was established at Southwest University of Political Science and Law in Chongqing, involving 13 universities to build a collaborative education system.",
+  "body_zh": "6月16日，“法学+外语”涉外法治人才培养联盟成立暨涉外法治人才培养座谈会在西南政法大学两江校区举行。会上，来自全国13所联盟高校的代表共同按下启动键，标志着联盟正式成立。\n据悉，该联盟由西南政法大学和北京外国语大学、上海外国语大学等8所外语院校，以及中央民族大学、西北民族大学等4所民族院校共同发起成立。\n“当前，涉外法治人才培养存在结构性矛盾：法学专业学生外语能力与区域国别视野不足，而外语专业学生缺乏系统的法律知识储备。”西南政法大学校长林维表示，“法学+外语”涉外法治人才培养联盟将致力于构建“法学+外语+区域国别+实务能力”四位一体的跨校协同育人体系，联盟成员高校将在特色课程开发、双语教材编撰、师资互聘、学分互认及实务平台共建等方面深化合作。（新重庆-重庆日报记者 李志峰）",
+  "image_url": null,
+  "published_at": "2026-06-21T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-21T08:55:06Z",
+  "topic": "industry",
+  "keywords": [
+    "涉外法治人才",
+    "协同育人"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "西南政法大学",
+      "name_en": "Southwest University of Political Science and Law"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京外国语大学",
+      "name_en": "Beijing Foreign Studies University"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "上海外国语大学",
+      "name_en": "Shanghai International Studies University"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央民族大学",
+      "name_en": "Minzu University of China"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "西北民族大学",
+      "name_en": "Northwest Minzu University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉外法治人才",
+      "name_en": "Foreign-related Legal Talent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协同育人",
+      "name_en": "Collaborative Education"
+    }
+  ],
+  "tags_zh": [
+    "西南政法大学",
+    "北京外国语大学",
+    "上海外国语大学",
+    "中央民族大学",
+    "西北民族大学",
+    "重庆",
+    "涉外法治人才",
+    "协同育人"
+  ],
+  "tags_en": [
+    "Southwest University of Political Science and Law",
+    "Beijing Foreign Studies University",
+    "Shanghai International Studies University",
+    "Minzu University of China",
+    "Northwest Minzu University",
+    "Chongqing",
+    "Foreign-related Legal Talent",
+    "Collaborative Education"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "林维"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "西南政法大学",
+        "name_en": "Southwest University of Political Science and Law"
+      },
+      {
+        "name_zh": "北京外国语大学",
+        "name_en": "Beijing Foreign Studies University"
+      },
+      {
+        "name_zh": "上海外国语大学",
+        "name_en": "Shanghai International Studies University"
+      },
+      {
+        "name_zh": "中央民族大学",
+        "name_en": "Minzu University of China"
+      },
+      {
+        "name_zh": "西北民族大学",
+        "name_en": "Northwest Minzu University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260621-xinhua_cq-8a9d62",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_cq",
+      "source_tier": 3,
+      "url": "http://cq.people.com.cn/n2/2026/0621/c365402-41616559.html",
+      "title_zh": "“法学+外语”涉外法治人才培养联盟在渝成立",
+      "published_at": "2026-06-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

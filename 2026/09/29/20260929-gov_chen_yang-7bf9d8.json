@@ -1,0 +1,101 @@
+{
+  "id": "20260929-gov_chen_yang-7bf9d8",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202609/t20260929_5096574.html",
+  "title_zh": "市十七届人大常委会举行第三十五次会议",
+  "title_en": "Shenyang Municipal People's Congress Standing Committee Holds 35th Meeting",
+  "summary_zh": "9月28日，沈阳市第十七届人大常委会第三十五次会议召开，审议通过召开市十七届人大六次会议的决定及相关议程，并进行人事任职和宪法宣誓。",
+  "summary_en": "On Sept 28, Shenyang's municipal legislature held its 35th meeting, approving the sixth congress session agenda, personnel appointments and a constitutional oath.",
+  "body_zh": "9月28日，市十七届人大常委会举行第三十五次会议。市人大常委会主任范继英、副主任冯守权分别主持两次全体会议。\n会议审议并表决通过了《沈阳市人民代表大会常务委员会关于召开沈阳市第十七届人民代表大会第六次会议的决定》，审议并表决通过了沈阳市第十七届人民代表大会第六次会议议程（草案）和日程（草案），听取和审议并表决通过了沈阳市人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告，审议并表决通过了沈阳市第十七届人民代表大会第六次会议主席团和秘书长、主席团常务主席、副秘书长及列席人员建议名单，进行了人事任职事项并进行了宪法宣誓。\n会议强调，要充分认识开好这次市人代会的重要意义，在市委的领导下，加强统筹谋划、协调联动，严谨细致、规范有序做好大会各项筹备工作。要严肃会风会纪，严格落实中央八项规定及其实施细则精神，确保大会风清气正、圆满成功。\n市人大常委会副主任高伟、杨宇新、陈世海、刘旭辉、王新北、朱翎，秘书长孟昭贵参加会议。市领导王间、陈学勇、李成富列席会议。市监察委员会负责同志，各区、县（市）人大常委会主要负责同志列席会议。（记者唐心萌）",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "personnel",
+  "keywords": [
+    "地方人大",
+    "会议筹备",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "沈阳市人民代表大会常务委员会",
+      "name_en": "Shenyang Municipal People's Congress Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方人大",
+      "name_en": "Local People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "会议筹备",
+      "name_en": "Meeting Preparations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    }
+  ],
+  "tags_zh": [
+    "沈阳市人民代表大会常务委员会",
+    "沈阳",
+    "地方人大",
+    "会议筹备",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Shenyang Municipal People's Congress Standing Committee",
+    "Shenyang",
+    "Local People's Congress",
+    "Meeting Preparations",
+    "Personnel Appointments"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孟昭贵"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY"
+    ],
+    "companies": [
+      {
+        "name_zh": "沈阳市人民代表大会常务委员会",
+        "name_en": "Shenyang Municipal People's Congress Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260929-gov_chen_yang-7bf9d8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

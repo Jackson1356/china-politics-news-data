@@ -1,0 +1,106 @@
+{
+  "id": "20260803-gov_cn_yaowen-e08819",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077431.htm",
+  "title_zh": "西部多地持续强降雨 各地积极应对",
+  "title_en": "Heavy Rain Continues in Western China, Localities Respond Actively",
+  "summary_zh": "连日来陕西、四川、重庆等地出现强降雨，多地提前转移群众并调拨救灾物资。国家防灾减灾救灾委员会办公室和应急管理部派出工作组赴陕西指导救灾。",
+  "summary_en": "Continuous heavy rain hit western China; local governments evacuated residents and dispatched relief supplies. A national work group was sent to Shaanxi to assist disaster relief.",
+  "body_zh": "连日来，我国西部多地出现强降雨，各地采取措施积极应对。\n从7月30日开始，陕西汉中、商洛等地出现持续强降雨天气。在宁强县，部分河流水位上涨，当地迅速转移沿河低洼区域群众，并集中安置在小学校舍内。目前，本轮降雨已造成汉中6个县区82个镇街受灾，全市2.7万余名党员干部、网格员巡查排险。今天（8月3日），国家防灾减灾救灾委员会办公室、应急管理部针对陕西暴雨洪涝灾害派出工作组，协助和指导地方做好救灾工作，会同国家粮食和物资储备局向陕西调拨6.5万件中央救灾物资。\n在四川巴中，为应对降雨可能引发的地质灾害风险，巴中南江县启动防汛应急响应，镇村干部、驻村工作队分批将地质灾害隐患点住户转移至安置点，提前转移危险区域群众8000余名。\n从昨天下午开始，重庆开州区出现暴雨天气，最大雨量100至150毫米。当地党员干部分成多个组，对低洼地带、临河临崖等群众逐户排查，镇村巡逻队伍对降雨区域加密巡查频次，对地质灾害隐患点实行24小时盯守。\n中央气象台预计，明天起，陕西、四川、重庆等地降雨减弱，但仍需持续警惕滑坡、泥石流等次生灾害。此外，未来三天，内蒙古中东部、东北地区、华北等地仍多对流性天气，公众避免在强对流活跃时段外出。\n据气象部门预报，8月3日至6日，云南持续多降雨，部分地区有大到暴雨、局地大暴雨，国家防总、应急管理部针对云南启动防汛四级应急响应。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家粮食和物资储备局",
+    "陕西",
+    "四川",
+    "防汛救灾",
+    "应急管理"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Food and Strategic Reserves Administration",
+    "Shaanxi",
+    "Sichuan",
+    "Flood Control and Disaster Relief",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-SN",
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260803-gov_cn_yaowen-e08819",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

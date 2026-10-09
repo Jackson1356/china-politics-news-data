@@ -1,0 +1,105 @@
+{
+  "id": "20260525-gov_cn_yaowen-0fea16",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070219.htm",
+  "title_zh": "王毅分别同新加坡外长维文、巴基斯坦国防军司令兼陆军参谋长穆尼尔会谈会见",
+  "title_en": "Wang Yi Meets with Singaporean Foreign Minister Vivian and Pakistani Army Chief Munir",
+  "summary_zh": "5月25日，外交部长王毅在北京分别同新加坡外长维文和巴基斯坦国防军司令穆尼尔会谈会见，讨论双边关系、地区稳定及全球挑战。",
+  "summary_en": "On May 25, Foreign Minister Wang Yi met with Singaporean Foreign Minister Vivian and Pakistani Army Chief Munir in Beijing to discuss bilateral relations, regional stability, and global challenges.",
+  "body_zh": "新华社北京5月25日电 中共中央政治局委员、外交部长王毅25日在北京分别同新加坡外长维文、巴基斯坦国防军司令兼陆军参谋长穆尼尔会谈会见。\n在同维文会谈时，王毅表示，在两国领导人战略引领下，中新全方位高质量的前瞻性伙伴关系保持良好势头。中新都是世界的稳定因素，应共同应对当前层出不穷的全球挑战，维护好地区和平稳定大局。维护全球产业链供应链安全和海上航行畅通是世界各国共同愿望，中方愿继续为此作出努力。中方期待新方为促进中国东盟合作继续发挥积极作用。\n维文说，新方恪守一个中国政策。新加坡支持马六甲海峡和其他国际航道自由通行。新方愿推动中国东盟全面战略伙伴关系取得更大进展。\n会见穆尼尔时，王毅欢迎穆尼尔元帅同夏巴兹总理联袂访华，表示无论国际地区形势如何变化，中巴友谊始终坚如磐石、牢不可破。相信巴基斯坦军方将为深化中巴传统友谊和命运共同体建设作出新的贡献。\n穆尼尔表示，巴军方将继续全力推动构建巴中命运共同体和中巴经济走廊建设。\n穆尼尔介绍了斡旋美伊战事的最新情况，表示协议已接近达成。王毅表示中方赞赏并支持巴方所做努力。",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中新关系",
+    "中巴关系",
+    "地区稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "维文",
+      "name_en": "Vivian"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "穆尼尔",
+      "name_en": "Munir"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中新关系",
+      "name_en": "China-Singapore Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Pakistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区稳定",
+      "name_en": "Regional Stability"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "维文",
+    "穆尼尔",
+    "北京",
+    "中新关系",
+    "中巴关系",
+    "地区稳定"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Vivian",
+    "Munir",
+    "Beijing",
+    "China-Singapore Relations",
+    "China-Pakistan Relations",
+    "Regional Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260525-peoples_politics-fa4193",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

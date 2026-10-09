@@ -1,0 +1,111 @@
+{
+  "id": "20260520-xinhua_politics-06ecd9",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260520/88ec7e1945994a94939450267947e42c/c.html",
+  "title_zh": "三部门开展2026年“数贸汇英才”面向高校毕业生招聘活动",
+  "title_en": "Three Departments Launch 2026 'Digital Trade Talent Gathering' Recruitment for College Graduates",
+  "summary_zh": "商务部、教育部、人力资源社会保障部于2026年5月20日发布通知，将于5月至12月联合举办面向高校毕业生的数字贸易和服务外包企业招聘活动。",
+  "summary_en": "The Ministry of Commerce, Ministry of Education, and Ministry of Human Resources and Social Security announced a joint recruitment campaign for college graduates in digital trade and service outsourcing from May to December 2026.",
+  "body_zh": "新华社北京5月20日电（记者谢希瑶）商务部20日发布通知，商务部、教育部、人力资源社会保障部将于5月至12月联合举办2026年“数贸汇英才”数字贸易和服务外包企业面向高校毕业生招聘系列活动。\n根据通知，活动期间，商务部、教育部、人力资源社会保障部在国家大学生就业服务平台、高校毕业生就业服务平台、“就业在线”平台举办“数贸汇英才”数字贸易和服务外包企业面向高校毕业生线上专场招聘活动，开设专题页面免费发布数字贸易和服务外包企业招聘信息。\n通知就组织校园线下招聘、开展校企供需对接等提出系列要求。各地商务、人力资源社会保障主管部门要积极引导本地区数字贸易和服务外包园区和企业走进行政区域内高校，开展就业公共服务进校园百日行动，因地制宜组织“小而精、专而优”的线下招聘活动。深化校企合作，建设一批数字贸易和服务外包就业实习基地。\n通知还提出，用好就业创业支持政策。积极引导服务外包企业为毕业生提供见习岗位，按规定给予见习补贴支持。对符合条件的吸纳高校毕业生就业的数字贸易和服务外包企业，按规定给予职业培训补贴、社会保险补贴等政策支持。对在数字贸易和服务外包领域创业、灵活就业的高校毕业生，按规定落实税收优惠、创业担保贷款及灵活就业社会保险补贴等政策。",
+  "image_url": null,
+  "published_at": "2026-05-20T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T02:35:56Z",
+  "topic": "industry",
+  "keywords": [
+    "数字贸易",
+    "服务外包",
+    "高校毕业生就业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字贸易",
+      "name_en": "Digital Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务外包",
+      "name_en": "Service Outsourcing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校毕业生就业",
+      "name_en": "College Graduate Employment"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "教育部",
+    "人力资源社会保障部",
+    "北京",
+    "数字贸易",
+    "服务外包",
+    "高校毕业生就业"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Ministry of Education",
+    "Ministry of Human Resources and Social Security",
+    "Beijing",
+    "Digital Trade",
+    "Service Outsourcing",
+    "College Graduate Employment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM",
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260520-xinhua_politics-06ecd9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

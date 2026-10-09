@@ -1,0 +1,110 @@
+{
+  "id": "20260825-gov_yue_yang-66dfc8",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2395521.html",
+  "title_zh": "谢卫江会见滴普科技董事长赵杰辉等企业家一行",
+  "title_en": "Xie Weijiang Meets Entrepreneur Delegation Led by Dipu Technology Chairman Zhao Jiehui",
+  "summary_zh": "8月24日，省委副书记、岳阳市委书记谢卫江会见滴普科技等企业负责人一行，就深化人工智能产业合作进行交流。",
+  "summary_en": "On August 24, Xie Weijiang, Deputy Secretary of the Provincial Party Committee and Secretary of the Yueyang Municipal Party Committee, met with entrepreneurs from Dipu Technology and other firms to discuss deepening cooperation in the AI industry.",
+  "body_zh": "8月24日，省委副书记、岳阳市委书记谢卫江会见滴普科技股份有限公司董事长赵杰辉、云知声智能科技股份有限公司副总裁吴恒、海锋集团有限公司董事长吴伟锋、苏州黑云智能科技有限公司董事长谢绍韫等企业家一行。\n谢卫江代表市委、市政府对赵杰辉等企业家一行表示欢迎，对大家支持岳阳经济社会发展表示感谢。他说，当前岳阳正积极抢抓人工智能发展的历史性机遇，抢占人工智能新赛道，纵深推进“人工智能+”行动，加快推动产业向新向优发展。希望大家把企业优势与岳阳场景优势结合起来，加强对接合作，实现共赢发展。\n赵杰辉等企业家表示，将把岳阳作为投资布局的重要区域，加快推动合作事宜落地，为岳阳人工智能产业发展助力赋能。\n市领导段宁参加。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "人工智能产业",
+    "产业合作",
+    "招商引资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能产业",
+      "name_en": "AI Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳市委",
+    "岳阳",
+    "人工智能产业",
+    "产业合作",
+    "招商引资"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang Municipal Party Committee",
+    "Yueyang",
+    "AI Industry",
+    "Industrial Cooperation",
+    "Investment Promotion"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "段宁"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260825-gov_yue_yang-66dfc8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

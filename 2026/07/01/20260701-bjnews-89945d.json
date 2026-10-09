@@ -1,0 +1,79 @@
+{
+  "id": "20260701-bjnews-89945d",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1782890918129508.html",
+  "title_zh": "外交部：中日关系面临严重困难 责任完全在日方",
+  "title_en": "Foreign Ministry: China-Japan Relations Face Serious Difficulties, Responsibility Lies Entirely with Japan",
+  "summary_zh": "7月1日，外交部发言人郭嘉昆在例行记者会上表示，中日关系面临严重困难的责任完全在日方，呼吁日方尊重中国核心利益并停止干涉中国内政。",
+  "summary_en": "On July 1, Foreign Ministry spokesperson Guo Jiakun stated that Japan is entirely responsible for the serious difficulties in China-Japan relations, urging Japan to respect China's core interests and stop interfering in its internal affairs.",
+  "body_zh": "据央视新闻消息，7月1日，外交部发言人郭嘉昆主持例行记者会。有记者就近期中日经贸关系提问。\n郭嘉昆表示，中方多次指出，当前中日关系面临严重困难，根源在于日本执政当局在涉及中国台湾和军事安全领域的一系列错误言行，责任完全在日方。我们也想请你问问日本为政者，能否尊重中国核心利益，停止干涉中国内政？能否恪守中日四个政治文件精神，维护中日关系的政治基础和经贸合作的必要环境？能否反思纠错，以实际行动展现推动中日关系重回正轨的诚意？\n（总台央视记者 赵超逸 赵晶）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2024-07-01",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中日关系",
+    "核心利益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核心利益",
+      "name_en": "Core Interests"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中日关系",
+    "核心利益"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "China-Japan Relations",
+    "Core Interests"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方多次"
+      },
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260701-bjnews-89945d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

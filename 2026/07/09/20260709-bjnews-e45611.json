@@ -1,0 +1,99 @@
+{
+  "id": "20260709-bjnews-e45611",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1783578914129149.html",
+  "title_zh": "中国移动通信集团北京有限公司原副总经理郭旗、刘南被查",
+  "title_en": "Former Deputy General Managers of China Mobile Beijing Guo Qi and Liu Nan Under Investigation",
+  "summary_zh": "中国移动通信集团北京有限公司原副总经理郭旗、刘南涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
+  "summary_en": "Former Deputy General Managers of China Mobile Beijing, Guo Qi and Liu Nan, are under disciplinary review and supervisory investigation for suspected serious violations of discipline and law.",
+  "body_zh": "新京报讯 据中央纪委国家监委驻中国移动纪检监察组、北京市纪委监委消息：中国移动通信集团北京有限公司原党委委员、董事、副总经理郭旗涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国移动纪检监察组纪律审查和北京市东城区监察委员会监察调查。\n据中央纪委国家监委驻中国移动纪检监察组、北京市纪委监委消息：中国移动通信集团北京有限公司原党委委员、董事、副总经理刘南涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国移动纪检监察组纪律审查和北京市东城区监察委员会监察调查。",
+  "image_url": null,
+  "published_at": "2026-07-09T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "郭旗",
+      "name_en": "Guo Qi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘南",
+      "name_en": "Liu Nan"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市纪委监委",
+      "name_en": "Beijing Municipal Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "郭旗",
+    "刘南",
+    "北京市纪委监委",
+    "北京",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Guo Qi",
+    "Liu Nan",
+    "Beijing Municipal Commission for Discipline Inspection and Supervision",
+    "Beijing",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市纪委监委",
+        "name_en": "Beijing Municipal Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260709-bjnews-e45611",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

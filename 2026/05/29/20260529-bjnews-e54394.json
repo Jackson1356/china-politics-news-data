@@ -1,0 +1,78 @@
+{
+  "id": "20260529-bjnews-e54394",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780022816129561.html",
+  "title_zh": "外交部提醒中国公民近期谨慎前往刚果（金）",
+  "title_en": "Ministry of Foreign Affairs Warns Chinese Citizens to Exercise Caution When Traveling to DR Congo",
+  "summary_zh": "外交部和中国驻刚果（金）使馆提醒中国公民近期谨慎前往刚果（金），非必要不前往，并警示避开埃博拉疫区。",
+  "summary_en": "The Ministry of Foreign Affairs and the Chinese Embassy in DR Congo advise Chinese citizens to exercise caution and avoid non-essential travel to DR Congo, particularly Ebola-affected areas.",
+  "body_zh": "外交部和中国驻刚果（金）使馆提醒中国公民近期谨慎前往刚果（金），非必要不前往。在刚及周边国家同胞切勿前往刚伊图里省、北基伍省等埃博拉疫区，避免接触野生动物、可疑病人，降低感染风险。出现发热、呕吐、腹泻、腹痛、出血等症状时，及时就医或寻求中国医疗队帮助。回国途中如出现相关症状，请主动向机组、口岸工作人员报告。\n联系方式\n外交部全球领事保护与服务应急热线（24小时）：\n+86-10-12308\n+86-10-65612308\n驻刚果（金）使馆领事保护与协助电话：\n+243-851474669",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "foreign",
+  "keywords": [
+    "领事保护",
+    "埃博拉疫情"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "刚果（金）",
+      "name_en": "Democratic Republic of the Congo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领事保护",
+      "name_en": "Consular Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "埃博拉疫情",
+      "name_en": "Ebola Outbreak"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "刚果（金）",
+    "领事保护",
+    "埃博拉疫情"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Democratic Republic of the Congo",
+    "Consular Protection",
+    "Ebola Outbreak"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260529-bjnews-e54394",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

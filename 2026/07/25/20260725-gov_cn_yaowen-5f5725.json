@@ -1,0 +1,74 @@
+{
+  "id": "20260725-gov_cn_yaowen-5f5725",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076612.htm",
+  "title_zh": "全国秋粮田管有序推进",
+  "title_en": "National Autumn Grain Field Management Proceeds Orderly",
+  "summary_zh": "2026年7月，全国秋粮进入生长关键期，农业农村部调度显示秋粮面积稳中略增，各地分类施策推进田间管理，努力夯实丰产基础。",
+  "summary_en": "In July 2026, China's autumn grain crops entered a critical growth period. The Ministry of Agriculture and Rural Affairs reported stable acreage with slight increase, and local authorities implemented targeted field management to ensure a good harvest.",
+  "body_zh": "秋粮产量占到全年粮食产量的四分之三。眼下，全国秋粮陆续进入生长关键期，各地分类施策，有序推进田间管理，努力夯实丰产基础。\n我国秋粮作物主要包括水稻、玉米、大豆等，从南到北覆盖广。农业农村部最新农情调度显示，今年秋粮基本种在了丰产期，预计面积稳中略增，目前苗情长势整体正常。\n安徽组织创建350个单产提升攻关点，示范带动大面积均衡增产。在黟县，6万亩水稻中，高产新品种就超过了1万亩。\n今年，各类新型农机装备有效提高了田管质量。山东夏津县77万亩玉米进入小喇叭口期，正是追肥关键期。在新盛店镇玉米田里，智能无人机集成了厘米级定位、地形自适应跟随等技术，能够精准开展田管作业。\n新疆皮山18万亩玉米陆续进入抽穗至灌浆期。针对近期的持续高温干旱，当地组织农技人员包片指导农民开展肥水管理、病虫害防治，最大程度缓解高温干旱带来的不利影响。\n黑龙江今年夏季降水偏多，部分大豆生育期有所延缓。在北大荒军川农场，4万多亩大豆用上了专属“营养配方”，时速160公里的航化飞机掠过豆田，将防病、防虫、补肥一次完成。\n今年主汛期我国极端气候事件偏多，旱涝并重，局部有可能旱涝急转。农业农村部已制定防灾减灾技术意见，并组织专家、农技人员赴重点区域巡回指导，分作物分环节强化田管技术服务，全力夺取秋粮丰收。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "industry",
+  "keywords": [
+    "秋粮生产",
+    "田间管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮生产",
+      "name_en": "Autumn Grain Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "田间管理",
+      "name_en": "Field Management"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "秋粮生产",
+    "田间管理"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Autumn Grain Production",
+    "Field Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260725-gov_cn_yaowen-5f5725",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

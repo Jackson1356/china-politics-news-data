@@ -1,0 +1,90 @@
+{
+  "id": "20260827-gov_shan_nan-4dbacd",
+  "source": "gov_shan_nan",
+  "source_name_zh": "山南市政府网",
+  "source_name_en": "山南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260827_175630.html",
+  "title_zh": "王君正第一时间赶赴受灾现场指挥救援工作",
+  "title_en": "Wang Junzheng Rushes to Disaster Scene to Command Rescue Work",
+  "summary_zh": "8月26日，西藏日喀则市吉隆县吉隆口岸因尼泊尔一侧泥石流造成重大人员伤亡失联，自治区党委书记王君正第一时间赶赴现场指挥救援，强调贯彻习近平总书记重要指示，全力搜救。",
+  "summary_en": "On Aug 26, a mudslide from Nepal caused heavy casualties and missing at Gyirong Port in Tibet's Gyirong County. Wang Junzheng, secretary of the regional Party committee, rushed to the scene to direct rescue, stressing implementation of Xi Jinping's instructions.",
+  "body_zh": "认真贯彻落实习近平总书记对日喀则市吉隆县遭受泥石流灾害作出的重要指示精神\n王君正第一时间赶赴受灾现场指挥救援工作\n本报拉萨8月26日讯（记者 张黎黎 刘文涛 张尚华）8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。灾害发生后，习近平总书记高度重视并作出重要指示指出，当务之急要千方百计搜救失联人员，转移安置受威胁群众，抓紧救治伤员，最大限度减少人员伤亡。要加强监测预警，注重科学施救，防止发生次生灾害。\n自治区党委书记王君正第一时间赶赴现场指挥救援工作，强调要认真贯彻落实习近平总书记重要指示精神，坚持人民至上、生命至上，全力搜救失联人员，及时转移、妥善安置受灾群众，抓紧抢修受损基础设施，尽快恢复受灾区域生产生活秩序。要进一步加强监测预警，强化防范应对，防止发生次生灾害，最大限度保障人民群众生命财产安全和社会大局稳定。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "灾害救援",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-junzheng",
+      "name_zh": "王君正",
+      "name_en": "Wang Junzheng"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉隆县",
+      "name_en": "Gyirong County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援",
+      "name_en": "Disaster Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王君正",
+    "吉隆县",
+    "灾害救援",
+    "应急管理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Junzheng",
+    "Gyirong County",
+    "Disaster Rescue",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-junzheng",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260827-gov_lin_zhi-7c9882",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260617-xinhua_cq-a3a707",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_url": "http://cq.news.cn/20260617/9b8b39eff47a4864a677312f11be6427/c.html",
+  "title_zh": "重庆实施七项重点工程建设新型能源算力枢纽",
+  "title_en": "Chongqing Implements Seven Key Projects to Build New Energy Computing Power Hub",
+  "summary_zh": "6月16日，重庆市印发《重庆市建设新型能源算力枢纽实施方案》，计划通过七项重点工程，到2027年建成高水平的新型能源算力枢纽。",
+  "summary_en": "On June 16, Chongqing issued an implementation plan to build a new energy computing power hub through seven key projects, aiming for high-level infrastructure by 2027.",
+  "body_zh": "重庆新型能源算力枢纽建设有了“施工图”——6月16日，《重庆市建设新型能源算力枢纽实施方案》（以下简称《实施方案》）正式印发。\n《实施方案》提出到2027年，全市可调度智算规模达到10万P，AI+综合场景数量达到100个，“用算”企业超过1万家，高水平建成基础设施先进集约、算力调度高效智能、产业发展集聚融合、能源利用绿色低碳、跨域协同互惠互利的新型能源算力枢纽。\n为了实现上述目标，重庆将实施七项重点工程：\n实施“算力汇渝”工程，打造西部算力核心引擎。重庆将支持算力企业以市场化方式参与重庆（新疆）算力基地建设，建设万卡级超大规模智算集群，支持渝东南、渝东北区县因地制宜布局建设绿色算力设施。\n实施“算力织网”工程，建设算力传输调度网络。重庆将打造“疆算入渝”数据高速公路，升级重庆与全国一体化算力网络国家枢纽节点间的传输网络，推动全市算力资源并网池化。\n实施“算力促需”工程，激活“人工智能+”场景算力需求。重庆将开展“普惠算力”行动，加大算力券等政策支持力度，进一步降低模型研发和算力使用成本。\n实施“算力扩圈”工程，拓展算力合作“朋友圈”。重庆将推动成渝两地数据中心集群共建共享共用，打通“中亚—新疆—重庆—东南亚”算力传输通道，联动国内算力供给地区、需求地区的“一线两圈多联”跨境算力网。\n实施“算力强产”工程，构筑高水平算力产业集群。重庆将加快培育具有全国影响力的人工智能产品，加快引育国际国内专业化算力服务商，积极发展行业垂类大模型与智能体，支持一人公司（OPC）发展。\n实施“算电协同”工程，推动算力与新能源一体化融合。重庆将强化“疆算入 渝”“疆电入渝”联动，探索“算—电—碳”协同联动机制，推动数据中心积极开展绿电直连、绿电绿证交易、碳汇互认，确保新建数据中心绿电占比超过80%。\n实施“安全可控”工程，统筹算力发展和安全保障。重庆将打造车规级芯片检测适配验证平台，探索建设集自主可控芯片、通信网络、训练框架于一体的万卡级算力集群，持续提升算力产业链的安全性和稳定性。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "industry",
+  "keywords": [
+    "新型能源算力枢纽",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型能源算力枢纽",
+      "name_en": "New Energy Computing Power Hub"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "重庆",
+    "新型能源算力枢纽",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Chongqing",
+    "New Energy Computing Power Hub",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方案"
+      },
+      {
+        "id": null,
+        "name_zh": "施方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260617-xinhua_cq-a3a707",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

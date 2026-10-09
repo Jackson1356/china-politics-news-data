@@ -1,0 +1,73 @@
+{
+  "id": "20260830-gov_cn_yaowen-9f88ff",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079600.htm",
+  "title_zh": "科技助力田管 推动粮食稳产增收",
+  "title_en": "Technology Drives Field Management for Stable Grain Harvest",
+  "summary_zh": "8月下旬，秋粮进入产量形成关键期，河南、安徽、山西、云南、四川等地运用无人机、智慧监测平台等科技手段加强田间管理，推动粮食稳产增收。",
+  "summary_en": "In late August, as autumn grain enters its critical yield-formation period, regions including Henan, Anhui, Shanxi, Yunnan, and Sichuan use drones and smart monitoring platforms for field management to ensure stable and increased grain harvests.",
+  "body_zh": "8月下旬，秋粮进入产量形成关键期。各地依靠科技，加强智慧化田间管理，推动粮食稳产增收。\n当前，河南南阳700万亩玉米正值灌浆期。在南阳各处农田里，一架架植保无人机成为田间管护的“主力军”。一次喷施作业，可同步实现防病治虫、补充养分、促进灌浆、增加粒重等多重功效，省工省时又高效。在安徽亳州涡阳，今年当地使用了搭载毫米波雷达的新型无人机，能感知农田地形起伏、植株高度变化，动态作出调整，大大提升药液喷施的穿透性和吸附性。\n天上无人机精准飞防，地下智慧管护平台实时监测。在山西运城，依靠土壤监测系统，农户可随时调取每一块田的墒情曲线，判断是否缺水、缺肥，以此确定最佳作业时间，实现智慧种田。\n眼下，南方水稻陆续进入成熟期。在云南红河县，万亩梯田依山铺展、稻穗金黄，无人机空中运输替代传统转运方式，让秋收更高效、更省心；在四川眉山东坡区，千亩高标准水稻开镰，今年当地引入适应性好、抗倒伏、结实率高的优质水稻品种，亩产超过850公斤。",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "industry",
+  "keywords": [
+    "智慧农业",
+    "粮食安全",
+    "田间管理"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧农业",
+      "name_en": "Smart Agriculture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "田间管理",
+      "name_en": "Field Management"
+    }
+  ],
+  "tags_zh": [
+    "智慧农业",
+    "粮食安全",
+    "田间管理"
+  ],
+  "tags_en": [
+    "Smart Agriculture",
+    "Food Security",
+    "Field Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260830-gov_cn_yaowen-9f88ff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

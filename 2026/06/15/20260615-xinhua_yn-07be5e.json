@@ -1,0 +1,92 @@
+{
+  "id": "20260615-xinhua_yn-07be5e",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_url": "http://yn.news.cn/20260615/04390d08dbe74df69e42e77663985a26/c.html",
+  "title_zh": "274个新能源项目纳入云南省今年第一批建设清单",
+  "title_en": "274 New Energy Projects Included in Yunnan's First Construction List for the Year",
+  "summary_zh": "云南省发展改革委、省能源局印发2026年第一批新能源项目开发建设方案，计划实施274个项目，总装机规模约2094万千瓦。",
+  "summary_en": "The Yunnan Provincial Development and Reform Commission and Provincial Energy Bureau issued a plan to implement 274 new energy projects with a total capacity of approximately 20.94 million kW.",
+  "body_zh": "为持续推动新能源高质量开发建设，有力支撑能源安全供应和绿色低碳转型，助力“十五五”时期经济社会发展，省发展改革委、省能源局近日印发《云南省2026年第一批新能源项目开发建设方案》，提出将实施274个新能源项目，装机规模共计2094.435万千瓦。\n274个新能源项目包括：新民光伏发电场等118个集中式光伏项目，装机1111.5万千瓦；洒渔风电场等156个集中式风电项目，装机982.935万千瓦。这些项目主要分布在全省16个州（市），其中，普洱市涉及43个项目，装机499.475万千瓦，楚雄彝族自治州涉及46个项目，装机292.16万千瓦。\n《方案》明确，有关州（市）和部门要规范资源配置，加强要素保障，提高审批效率，强化调度监测，推动项目加快建设、按期投产。光伏项目自本《方案》印发之日起1年内未开工建设的，由省级调出开发建设方案，风电项目自本《方案》印发之日起1年内应具备核准条件；有序推动绿电直连、源网荷储等就近就地消纳新模式及绿电制氢（氨醇）等非电利用新业态，促进新能源与产业融合集成发展；持续巩固拓展光伏项目“板上发电、板下种植、板间养殖、固土保水”立体发展模式，健全完善联农带农机制，助力乡村振兴；守住安全生产底线，严禁未批先建等情况，不得将产业配套等违反公平竞争的事项作为项目开发建设的前置条件；严禁以非正当手段干预和插手工程项目建设，依法依规推进项目开发建设。（记者 段晓瑞）\n【纠错】",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源",
+    "绿色低碳转型",
+    "能源安全"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳转型",
+      "name_en": "Green and Low-carbon Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源安全",
+      "name_en": "Energy Security"
+    }
+  ],
+  "tags_zh": [
+    "云南",
+    "新能源",
+    "绿色低碳转型",
+    "能源安全"
+  ],
+  "tags_en": [
+    "Yunnan",
+    "New Energy",
+    "Green and Low-carbon Transition",
+    "Energy Security"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260615-xinhua_yn-07be5e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0615/c378439-41610287.html",
+      "title_zh": "274个新能源项目纳入云南省今年第一批建设清单",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

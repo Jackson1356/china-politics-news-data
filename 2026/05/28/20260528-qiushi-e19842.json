@@ -1,0 +1,113 @@
+{
+  "id": "20260528-qiushi-e19842",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_url": "http://www.qstheory.cn/20260528/01a98087749748a59c4b98c48a5452b7/c.html",
+  "title_zh": "习近平同苏里南总统西蒙斯就中苏建交50周年互致贺电",
+  "title_en": "Xi Jinping and Suriname President Simons Exchange Congratulatory Messages on 50th Anniversary of Diplomatic Ties",
+  "summary_zh": "5月28日，国家主席习近平同苏里南总统西蒙斯互致贺电，庆祝两国建交50周年，并表示愿增进战略互信，推动各领域务实合作取得更多成果。",
+  "summary_en": "On May 28, President Xi Jinping and Suriname President Simons exchanged congratulatory messages to celebrate the 50th anniversary of diplomatic ties, pledging to enhance strategic trust and pragmatic cooperation.",
+  "body_zh": "新华社北京5月28日电 5月28日，国家主席习近平同苏里南总统西蒙斯互致贺电，庆祝两国建交50周年。\n习近平指出，中苏友谊源远流长、历久弥坚。半个世纪以来，双方始终相互尊重、平等相待，在涉及彼此核心利益和重大关切问题上坚定相互支持，持续深化互利合作，为两国人民带来实实在在的福祉。我高度重视中苏关系发展，愿同西蒙斯总统一道努力，以两国建交50周年为新起点，增进战略互信，赓续传统友谊，推动各领域务实合作取得更多成果，共同书写中苏战略合作伙伴关系新篇章。\n西蒙斯表示，建交50年来，苏中关系持续深入发展，两国友谊牢固深厚，战略合作日益紧密。我十分珍视两国在各领域合作的丰硕成果，展望下一个50年，期待双方进一步增进团结、深化和拓展合作，实现繁荣发展的共同愿景。\n网站编辑 -\n王雅雯\n张盼 审核 - 张西立",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "foreign",
+  "keywords": [
+    "中苏关系",
+    "建交50周年",
+    "战略合作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "西蒙斯",
+      "name_en": "Simons"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "苏里南",
+      "name_en": "Suriname"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中苏关系",
+      "name_en": "China-Suriname Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "建交50周年",
+      "name_en": "50th Anniversary of Diplomatic Ties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作伙伴关系",
+      "name_en": "Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "西蒙斯",
+    "北京",
+    "苏里南",
+    "中苏关系",
+    "建交50周年",
+    "战略合作伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Simons",
+    "Beijing",
+    "Suriname",
+    "China-Suriname Relations",
+    "50th Anniversary of Diplomatic Ties",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260528-qiushi-e19842",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070481.htm",
+      "title_zh": "习近平同苏里南总统西蒙斯就中苏建交50周年互致贺电",
+      "published_at": "2026-05-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

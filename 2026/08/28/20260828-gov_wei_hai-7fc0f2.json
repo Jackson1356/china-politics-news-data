@@ -1,0 +1,100 @@
+{
+  "id": "20260828-gov_wei_hai-7fc0f2",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/8/28/art_58817_6574129.html",
+  "title_zh": "孔凡萍会见韩国锦湖石油化学集团客人",
+  "title_en": "Kong Fanping Meets with Guests from Kumho Petrochemical",
+  "summary_zh": "8月27日，威海市市长孔凡萍会见韩国锦湖石油化学集团会长朴赞求一行，双方就合成橡胶、新能源电池材料等领域合作进行交流。",
+  "summary_en": "On August 27, Weihai Mayor Kong Fanping met with Kumho Petrochemical Chairman Park Chan-koo and his delegation, discussing cooperation in synthetic rubber and new energy battery materials.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 李文思）8月27日，市委副书记、市长孔凡萍会见韩国锦湖石油化学集团会长朴赞求一行，副市长张善东会见时在座。\n孔凡萍说，威海对韩开放优势明显，对韩经贸合作取得积极成效。当前威海加快打造高水平现代产业城市，建设以先进制造、新材料、新能源等为重点的现代化产业体系，与锦湖石化集团合作前景广阔。希望双方进一步深化对接，围绕合成橡胶与轮胎材料、新能源电池材料、绿色能源等重点领域，深挖合作契合点，共拓合作新空间。威海将一如既往为锦湖石化集团提供优质服务保障，实现互惠互利、合作共赢。\n朴赞求表示，锦湖石化集团将充分发挥自身技术、资源和市场优势，推动更多优质项目落地威海，实现企业发展与地方产业升级的双向赋能。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "对韩经贸合作",
+    "新材料",
+    "新能源"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对韩经贸合作",
+      "name_en": "Economic and Trade Cooperation with South Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新材料",
+      "name_en": "New Materials"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "对韩经贸合作",
+    "新材料",
+    "新能源"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Economic and Trade Cooperation with South Korea",
+    "New Materials",
+    "New Energy"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "张善东"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260828-gov_wei_hai-7fc0f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

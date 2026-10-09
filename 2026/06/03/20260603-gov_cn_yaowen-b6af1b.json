@@ -1,0 +1,113 @@
+{
+  "id": "20260603-gov_cn_yaowen-b6af1b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7070955.htm",
+  "title_zh": "《习近平的文化情缘》等纪录片在老挝启播",
+  "title_en": "Documentaries Including \"Xi Jinping's Cultural Ties\" Premiere in Laos",
+  "summary_zh": "6月1日，由中央广播电视总台制作的《习近平的文化情缘》等三部纪录片在老挝主流媒体启播，老挝国家主席通伦对此发来贺信。",
+  "summary_en": "On June 1, three Chinese documentaries produced by CMG, including \"Xi Jinping's Cultural Ties,\" premiered in Lao mainstream media, with Lao President Thongloun Sisoulith sending a congratulatory letter.",
+  "body_zh": "新华社万象6月2日电（记者 赵旭 马淮钊）6月1日，由中国中央广播电视总台制作的《习近平的文化情缘》《领航（国际版）》《典籍里的新思想》等三部中国纪录片，在老挝国家电视台等老挝主流媒体启播。老挝人民革命党中央总书记、国家主席通伦发来贺信，对节目播出表示祝贺。\n通伦在贺信中表示，《习近平的文化情缘》等纪录片中蕴含着中国哲思智慧，体现了习近平总书记对文化遗产保护的高度重视、在治国理政中的远见卓识和深厚炽热的爱国主义情怀，以及他对中华五千年悠久文明历史发自内心的无限热爱。同时，纪录片也彰显了中华文明作为民族的根脉和不竭动力，正推动中国实现民族复兴的伟大梦想。这对老挝在经济社会发展的同时，保护和弘扬自己独特的民族文化，推进老挝社会主义事业的建设，是极好的借鉴。\n今年是中老建交65周年，也是中老两党两国领导人共同开启的“中老友好年”。6月2日，中国中央广播电视总台与老挝人民革命党中央宣传部在老挝万象举办启播仪式。由中央广播电视总台制作的《习近平的文化情缘》《领航（国际版）》《典籍里的新思想》等三部纪录片在老挝国家电视台、老挝国家通讯社、老挝国家电台和万象电视台等主流媒体陆续播出。",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "文化交流",
+    "中老关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "老挝人民革命党中央宣传部",
+      "name_en": "Central Propaganda Department of the Lao People's Revolutionary Party"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "老挝",
+      "name_en": "Laos"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "万象",
+      "name_en": "Vientiane"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化交流",
+      "name_en": "Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中老关系",
+      "name_en": "China-Laos Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央广播电视总台",
+    "老挝人民革命党中央宣传部",
+    "老挝",
+    "万象",
+    "文化交流",
+    "中老关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China Media Group",
+    "Central Propaganda Department of the Lao People's Revolutionary Party",
+    "Laos",
+    "Vientiane",
+    "Cultural Exchange",
+    "China-Laos Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "贺信中"
+      }
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "老挝人民革命党中央宣传部",
+        "name_en": "Central Propaganda Department of the Lao People's Revolutionary Party"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260603-cpcnews-4db188",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "20260819-gov_huai_an-10ac02",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787124267955dBcBklaC.html",
+  "title_zh": "淮安市政府专题推进物业管理服务提质增效",
+  "title_en": "Huai'an Municipal Government Special Meeting on Improving Property Management Services",
+  "summary_zh": "近日，淮安市政府召开物业管理服务突出问题专项整治暨物业提质增效现场推进会，市长顾坤强调要持续推动物业管理服务提质增效。",
+  "summary_en": "Recently, Huai'an Municipal Government held a site meeting on special rectification of property management issues and improvement, where Mayor Gu Kun stressed continuous efforts to enhance property services.",
+  "body_zh": "近日，市政府组织召开物业管理服务突出问题专项整治暨物业提质增效现场推进会。市长顾坤强调，要深入学习贯彻习近平总书记关于整治群众身边不正之风和腐败问题的重要指示批示精神，全面贯彻落实省委省政府决策部署和市委工作要求，牢固树立和践行正确政绩观，坚持真抓实干、久久为功，用心用情用力为群众办实事、解难事，持续推动物业管理服务提质增效，不断增强人民群众的获得感幸福感安全感。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "welfare",
+  "keywords": [
+    "物业管理",
+    "专项整治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物业管理",
+      "name_en": "Property Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专项整治",
+      "name_en": "Special Rectification"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "物业管理",
+    "专项整治"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Property Management",
+    "Special Rectification"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-gov_huai_an-10ac02",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

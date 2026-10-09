@@ -1,0 +1,102 @@
+{
+  "id": "20260605-xinhua_hlj-0b459a",
+  "source": "xinhua_hlj",
+  "source_name_zh": "新华网 黑龙江",
+  "source_name_en": "Xinhua Heilongjiang",
+  "source_url": "http://hlj.news.cn/20260605/ebd2d9c973e449e087ba38f0e3a841c5/c.html",
+  "title_zh": "首届注册会计师行业胜任能力青年挑战赛举办",
+  "title_en": "First CPA Industry Competency Youth Challenge Held in Heilongjiang",
+  "summary_zh": "6月2日，由黑龙江省财政厅、省教育厅联合主办的首届黑龙江省注册会计师行业胜任能力青年挑战赛正式启动，旨在储备高素质财会人才。",
+  "summary_en": "On June 2, the first Heilongjiang CPA Industry Competency Youth Challenge, co-hosted by the Provincial Department of Finance and Department of Education, was launched to cultivate professional accounting talent.",
+  "body_zh": "2日，由黑龙江省财政厅、省教育厅联合主办的首届黑龙江省注册会计师行业胜任能力青年挑战赛正式启动。大赛设初赛、选拔赛和参加全国大赛三个阶段，将持续至今年11月。\n据悉，大赛突出党建引领，参赛人员不限身份、不限年龄、不限地域，邀请省内在校学生、行业从业人员，以及省内外有意参与比赛的所有人员。\n大赛立足行业发展需求与青年成长特点，紧扣注册会计师岗位核心胜任能力要求，聚焦财会政策法规、专业实操技能、风险防控研判、综合职业素养等核心内容，将“以赛促学、以赛促练、以赛促建、以赛促升”作为宗旨，打造专业化、规范化、实战化的竞技平台。\n同时，大赛将以竞技选拔为抓手，搭建校企联动、行业互通的交流桥梁，打通高校人才培养与行业岗位需求的衔接通道，助力构建“教育培养、岗位历练、赛事赋能”的全链条人才培育体系，为黑龙江省注册会计师行业储备高素质、专业化、复合型青年后备人才。（记者孙思琪）",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "industry",
+  "keywords": [
+    "注册会计师",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "黑龙江省财政厅",
+      "name_en": "Heilongjiang Provincial Department of Finance"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "注册会计师",
+      "name_en": "Certified Public Accountant"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Cultivation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "任能力",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黑龙江省财政厅",
+    "黑龙江",
+    "注册会计师",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Heilongjiang Provincial Department of Finance",
+    "Heilongjiang",
+    "Certified Public Accountant",
+    "Talent Cultivation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "任能力"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": [
+      {
+        "name_zh": "黑龙江省财政厅",
+        "name_en": "Heilongjiang Provincial Department of Finance"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260605-xinhua_hlj-0b459a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_hlj",
+      "source_tier": 3,
+      "url": "http://hlj.people.com.cn/n2/2026/0605/c220005-41601595.html",
+      "title_zh": "黑龙江省首届注册会计师行业胜任能力青年挑战赛举办",
+      "published_at": "2026-06-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

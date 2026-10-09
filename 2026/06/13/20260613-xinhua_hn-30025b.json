@@ -1,0 +1,142 @@
+{
+  "id": "20260613-xinhua_hn-30025b",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "http://hn.news.cn/20260613/068ae33a68934e3585d6611d7f921306/c.html",
+  "title_zh": "水利部对七省份启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Launches Level IV Emergency Response for Flood Defense in Seven Provinces",
+  "summary_zh": "水利部5月19日对江西、湖北、湖南、广东、广西、贵州、海南等七省份启动洪水防御Ⅳ级应急响应，以应对持续强降雨。",
+  "summary_en": "On May 19, the Ministry of Water Resources launched a Level IV emergency response for flood defense in seven provinces to cope with continuous heavy rainfall.",
+  "body_zh": "新华社北京5月19日电（记者魏弘毅）记者从水利部获悉，为应对近期持续强降雨，水利部19日对江西、湖北、湖南、广东、广西、贵州、海南等七省份启动洪水防御Ⅳ级应急响应。\n据预报，5月19日至21日，江西北部、湖南、贵州东部、广西北部及沿海、广东北部及沿海、海南南部等地将有持续强降雨。受其影响，珠江流域西江中下游干流及支流柳江、桂江，北江干流，长江流域洞庭湖水系沅江上游、鄱阳湖水系饶河及赣江将出现涨水过程，广西防城河、湖南沅江上游支流沱江、湖北内荆河及长湖等暴雨区内中小河流可能发生超警以上洪水。",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-05-19",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "北京",
+    "江西",
+    "湖北",
+    "湖南",
+    "广东",
+    "广西",
+    "贵州",
+    "海南",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Beijing",
+    "Jiangxi",
+    "Hubei",
+    "Hunan",
+    "Guangdong",
+    "Guangxi",
+    "Guizhou",
+    "Hainan",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ",
+      "CN-JX",
+      "CN-HB",
+      "CN-HN",
+      "CN-GD",
+      "CN-GZ",
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260613-xinhua_hn-30025b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

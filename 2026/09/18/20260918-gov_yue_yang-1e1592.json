@@ -1,0 +1,95 @@
+{
+  "id": "20260918-gov_yue_yang-1e1592",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2401974.html",
+  "title_zh": "岳阳市代理市长唐浩然主持召开市政府第58次常务会议",
+  "title_en": "Yueyang Acting Mayor Tang Haoran Chairs 58th Municipal Government Executive Meeting",
+  "summary_zh": "9月17日，岳阳市代理市长唐浩然主持召开市政府第58次常务会议，传达学习中央有关精神，听取支持三荷机场临时航空口岸国际航线发展、市本级政府固定资产投资项目立项等工作汇报。",
+  "summary_en": "On September 17, Yueyang Acting Mayor Tang Haoran chaired the 58th executive meeting of the municipal government, conveying central directives and hearing reports on international routes at Sanhe Airport's temporary air port and on government fixed-asset investment projects.",
+  "body_zh": "9月17日，市委副书记、代理市长唐浩然主持召开市政府第58次常务会议，学习贯彻习近平总书记近期重要讲话和重要指示批示精神，传达党中央、国务院有关文件精神，听取支持三荷机场临时航空口岸国际航线发展、市本级政府固定资产投资项目立项等工作情况汇报，审议有关规范性文件和协议。\n会议传达学习了习近平总书记在中共中央政治局第二十七次集体学习时的重要讲话、对山东青岛市北海造船厂一货轮发生火灾事故作出的重要批示精神。会议强调，要把习近平强军思想列入党组理论学习中心组必学内容，将党管武装工作融入地方经济社会发展统筹推进，持续提升领导干部国防素养和管武兴武能力。要紧盯重点行业，深化专项整治，督促企业主体常态化开展重大隐患自查自改，加强员工安全技能培训和应急演练，不断提升本质安全水平，坚决防范各类安全事故发生。\n会议集中学习了中共中央办公厅、国务院办公厅关于印发《党政领导干部生态环境损害责任追究办法》的通知精神，全国财政科学管理试点座谈会精神，中纪委办公厅、财政部办公厅公开通报六起地方政府隐性债务追责问题典型案例精神。会议指出，要自觉扛起省域副中心城市生态担当，将《办法》与生态环境法典一体学习，紧盯“夏季攻势”滞后任务，加快推进督察问题销号，持续改善全市生态环境质量。要在深化认识中扛牢理财责任，在开源节流中提升保障能力，在科学管理中守牢安全底线，以财政科学管理成效服务全市高质量发展大局。要强化源头治理，压实管控责任，坚决守住不新增隐性债务的刚性底线。\n会议听取了支持三荷机场临时航空口岸国际航线发展情况汇报。会议强调，要坚决落实全省“南客北货”航空发展战略，凝聚工作合力，做大航空货量、做强枢纽功能、做实产业带动，推动航空物流高质量发展。\n会议审议了《铁山灌区“十四五”续建配套与现代化改造工程（二期）岳阳县坪费湖泵站运行管理方案》等文件。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "party",
+  "keywords": [
+    "安全生产",
+    "生态环境保护",
+    "财政科学管理",
+    "航空物流"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological and Environmental Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政科学管理",
+      "name_en": "Scientific Fiscal Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空物流",
+      "name_en": "Aviation Logistics"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "安全生产",
+    "生态环境保护",
+    "财政科学管理",
+    "航空物流",
+    "习近平"
+  ],
+  "tags_en": [
+    "Work Safety",
+    "Ecological and Environmental Protection",
+    "Scientific Fiscal Management",
+    "Aviation Logistics"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260918-gov_yue_yang-1e1592",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260528-guancha_politics-60da8c",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_28_818606.shtml",
+  "title_zh": "一超载客车追尾货车致13死3伤，公安部派工作组赴河南南阳",
+  "title_en": "Overloaded Passenger Bus Rear-ends Truck Killing 13 in Henan; Ministry of Public Security Sends Working Group to Nanyang",
+  "summary_zh": "2026年5月28日凌晨，河南南阳发生一起超载客车追尾货车事故，致13死3伤，公安部已派工作组赴现场指导调查处置工作。",
+  "summary_en": "On May 28, 2026, an overloaded passenger bus rear-ended a truck in Nanyang, Henan, killing 13 and injuring 3. The Ministry of Public Security has dispatched a working group to guide the investigation.",
+  "body_zh": "一超载客车追尾货车致13死3伤，公安部派工作组赴河南南阳\n公安部交通管理局通报，2026年5月28日凌晨2时40分左右，G40沪陕高速河南省南阳市桐柏毛集段K991+800处，一辆车牌号为鄂F8A7L8号大通客车（核载9人，实载16人）追尾前方一辆半挂货车，目前已致13人死亡、3人受伤。\n事故发生后，公安部高度重视，迅速派出由交通管理局领导带队的工作组赶赴南阳，指导事故调查处置工作。\n“关心”天气也会违法？",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "welfare",
+  "keywords": [
+    "交通安全",
+    "事故调查"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南阳",
+      "name_en": "Nanyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通安全",
+      "name_en": "Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "事故调查",
+      "name_en": "Accident Investigation"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "河南",
+    "南阳",
+    "交通安全",
+    "事故调查"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Henan",
+    "Nanyang",
+    "Traffic Safety",
+    "Accident Investigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260528-guancha_politics-60da8c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

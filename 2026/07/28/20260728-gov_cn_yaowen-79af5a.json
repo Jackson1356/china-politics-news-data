@@ -1,0 +1,86 @@
+{
+  "id": "20260728-gov_cn_yaowen-79af5a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/07/28/VIDE3g0p2r5a0fi8QtMkI5W6260728.shtml",
+  "title_zh": "习近平举行仪式欢迎斯洛伐克总统访华",
+  "title_en": "Xi Jinping Holds Ceremony to Welcome Slovak President on State Visit",
+  "summary_zh": "国家主席习近平28日上午在人民大会堂举行仪式，欢迎斯洛伐克总统佩列格里尼访华。",
+  "summary_en": "President Xi Jinping held a ceremony at the Great Hall of the People on the morning of July 28 to welcome Slovak President Peter Pellegrini on a state visit to China.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平28日上午在人民大会堂北大厅举行仪式，欢迎斯洛伐克共和国总统佩列格里尼对我国进行国事访问。\n天安门广场上鸣礼炮21响。\n陪同佩列格里尼访华的有驻华大使、总统办公厅主任等。\n中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席欢迎仪式。\n军乐团奏斯中两国国歌。\n佩列格里尼在习近平陪同下检阅中国人民解放军仪仗队。\n两国元首回到检阅台观看仪仗队分列式。\n佩列格里尼是应习近平的邀请对我国进行国事访问的。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "双边关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "国事访问",
+    "双边关系",
+    "王毅"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "State Visit",
+    "Bilateral Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王毅等"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260728-gov_cn_yaowen-79af5a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

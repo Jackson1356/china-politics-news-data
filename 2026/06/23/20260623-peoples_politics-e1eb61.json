@@ -1,0 +1,88 @@
+{
+  "id": "20260623-peoples_politics-e1eb61",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0623/c461001-40745685.html",
+  "title_zh": "政府采购法迎来修订",
+  "title_en": "Government Procurement Law to be Revised",
+  "summary_zh": "6月23日，政府采购法修订草案提请十四届全国人大常委会第二十三次会议初次审议，旨在完善政府采购体制机制，构建全国统一大市场。",
+  "summary_en": "On June 23, the draft revision of the Government Procurement Law was submitted for initial review at the 23rd meeting of the Standing Committee of the 14th NPC to improve procurement mechanisms.",
+  "body_zh": "政府采购法迎来修订\n政府采购法修订草案6月23日提请十四届全国人大常委会第二十三次会议初次审议。\n政府采购法修改坚持党的领导，坚持问题导向，坚持权责统一，坚持稳中求进，系统完善政府采购体制机制，为统一市场基础制度规则、构建全国统一大市场提供法治保障。\n修订草案共10章104条。修改的主要内容包括：调整优化法律适用范围，强化政府采购政策功能作用，加强全过程管理，推动交易规则规范高效，完善公平竞争机制，强化权力监督与制度反腐等。\n记者：申铖\n海报制作：申铖\n新华社国内部出品",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-23T08:00:31Z",
+  "topic": "economy",
+  "keywords": [
+    "政府采购",
+    "全国统一大市场"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "十四届全国人大常委会",
+      "name_en": "Standing Committee of the 14th National People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政府采购",
+      "name_en": "Government Procurement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国统一大市场",
+      "name_en": "Unified National Market"
+    }
+  ],
+  "tags_zh": [
+    "十四届全国人大常委会",
+    "政府采购",
+    "全国统一大市场"
+  ],
+  "tags_en": [
+    "Standing Committee of the 14th National People's Congress",
+    "Government Procurement",
+    "Unified National Market"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "十四届全国人大常委会",
+        "name_en": "Standing Committee of the 14th National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260623-peoples_politics-e1eb61",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-23/10645595.shtml",
+      "title_zh": "中国拟修改政府采购法 消除设租寻租制度空间",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-23/10645552.shtml",
+      "title_zh": "我国拟修改政府采购法 消除设租寻租制度空间",
+      "published_at": "2026-06-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

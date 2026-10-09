@@ -1,0 +1,83 @@
+{
+  "id": "20260802-gov_cn_yaowen-6d0d4d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077349.htm",
+  "title_zh": "我国美丽乡村建设实现良好开局",
+  "title_en": "China Achieves Good Start in Beautiful Village Construction",
+  "summary_zh": "自2025年1月《美丽乡村建设实施方案》发布以来，全国完成2.4万余个行政村环境整治，农村生活污水治理率提升至55%，近970万群众直接受益。",
+  "summary_en": "Since the Beautiful Village Construction Action Plan took effect in January 2025, over 24,000 villages have been renovated, rural sewage treatment rate reached 55%, benefiting nearly 9.7 million people.",
+  "body_zh": "记者日前从生态环境部了解到，自2025年1月《美丽乡村建设实施方案》发布以来，农村人居环境整治工作持续纵深推进。一年来，全国完成2.4万余个行政村环境整治；农村生活污水治理率提升至55%，较“十三五”末期实现翻倍增长；房前屋后较大面积农村黑臭水体基本消除，治理率达98%。近970万群众直接受益。农业绿色发展方面，我国科学施肥水平进一步提升，农业废弃物资源化利用水平不断提高。与此同时，全国水土保持率、农村卫生厕所普及率稳步提升。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "welfare",
+  "keywords": [
+    "美丽乡村建设",
+    "农村人居环境整治"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "美丽乡村建设",
+      "name_en": "Beautiful Village Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农村人居环境整治",
+      "name_en": "Rural Living Environment Improvement"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "美丽乡村建设",
+    "农村人居环境整治"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Beautiful Village Construction",
+    "Rural Living Environment Improvement"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方案"
+      },
+      {
+        "id": null,
+        "name_zh": "施方案"
+      }
+    ],
+    "institutions": [
+      "MEE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260802-gov_cn_yaowen-6d0d4d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

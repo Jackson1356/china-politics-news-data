@@ -1,0 +1,91 @@
+{
+  "id": "20260907-peoples_ha-5c6307",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0907/c351638-41688330.html",
+  "title_zh": "工信部发布人工智能中小企业创业支持计划",
+  "title_en": "MIIT Launches Entrepreneurship Support Plan for AI SMEs",
+  "summary_zh": "工业和信息化部近日发布《人工智能中小企业创业支持计划（2026—2028年）》，提出三年内培育科技和创新型中小企业1万家以上，专精特新‘小巨人’企业突破2000家。",
+  "summary_en": "The Ministry of Industry and Information Technology recently issued the AI SME Entrepreneurship Support Plan (2026-2028), aiming to cultivate over 10,000 tech-innovative SMEs and 2,000 specialized 'little giant' firms in three years.",
+  "body_zh": "工业和信息化部：\n开展人工智能中小企业创业支持计划\n据新华社北京电（记者周圆）工业和信息化部近日发布《人工智能中小企业创业支持计划（2026—2028年）》，提出通过三年，在行业应用、数据服务、智能算力等重点领域，培育形成一大批创新活力强、成长潜力大的人工智能创业企业，新培育科技和创新型中小企业1万家以上，专精特新“小巨人”企业突破2000家，涌现一批瞪羚企业和独角兽企业。\n支持计划还明确，聚焦人工智能领域，高标准建设10个科技型企业孵化器、10个国家中小企业公共服务示范平台（基地），新培育10个国家级中小企业特色产业集群。",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "中小企业",
+    "创业支持"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中小企业",
+      "name_en": "SMEs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创业支持",
+      "name_en": "Entrepreneurship Support"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "人工智能",
+    "中小企业",
+    "创业支持"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Artificial Intelligence",
+    "SMEs",
+    "Entrepreneurship Support"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-peoples_ha-5c6307",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0907/c192237-41688390.html",
+      "title_zh": "开展人工智能中小企业创业支持计划",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

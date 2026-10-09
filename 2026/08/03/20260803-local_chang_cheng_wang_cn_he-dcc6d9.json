@@ -1,0 +1,114 @@
+{
+  "id": "20260803-local_chang_cheng_wang_cn_he-dcc6d9",
+  "source": "local_chang_cheng_wang_cn_he",
+  "source_name_zh": "长城网",
+  "source_name_en": "长城网",
+  "source_media_id": "cac-cn-he-08a0b47b56",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HE",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://heb.hebccw.cn/system/2026/08/03/102210239.shtml",
+  "title_zh": "王正谱主持召开河北省政府常务会议",
+  "title_en": "Wang Zhengpu Chairs Hebei Provincial Government Executive Meeting",
+  "summary_zh": "河北省省长王正谱主持召开省政府常务会议，研究经济运行、人工智能发展、基础教育、防灾减灾救灾等工作。",
+  "summary_en": "Hebei Governor Wang Zhengpu chaired a provincial government executive meeting to discuss economic operation, AI development, basic education, and disaster prevention and relief.",
+  "body_zh": "王正谱主持召开河北省政府常务会议\n小\n中\n大\n王正谱主持召开省政府常务会议\n研究经济运行、人工智能发展、基础教育、防灾减灾救灾等工作\n会议强调，要切实把思想和行动统一到习近平总书记重要讲话精神上来，认真贯彻7月30日中共中央政治局会议部署，按照省委常委会扩大会议要求，狠抓各项举措落实，谋划好推进好“两重”建设、“两新”工作和“六张网”项目，围绕扩大内需、现代化产业体系建设、优化营商环境、稳定外贸外资、“三农”工作、民生保障、防风险等领域，谋深载体抓手，细化完善举措，努力完成全年目标任务。要推动人工智能赋能我省特色产业，强化算力保障，深挖数据潜力，形成一批可复制、可推广的行业专用大模型典型示范，把算力优势转化为发展实效。要扎实做好全省基础教育资源优化配置和高质量发展工作，落实立德树人根本任务，坚持健康第一教育理念，积极适应人口变化趋势，统筹做好经费保障、学校布局、学位供给、师资调配工作，推进基础教育扩优提质。\n会议强调，要牢记习近平总书记殷切嘱托，全面落实李强总理在唐山调研慰问时的讲话要求，弘扬伟大抗震救灾精神，强化应急救援准备，毫不松懈抓好防汛工作，持续提升防灾减灾救灾能力。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "人工智能发展",
+    "基础教育",
+    "防灾减灾救灾"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-zhengpu",
+      "name_zh": "王正谱",
+      "name_en": "Wang Zhengpu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能发展",
+      "name_en": "AI Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础教育",
+      "name_en": "Basic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾救灾",
+      "name_en": "Disaster Prevention and Relief"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王正谱",
+    "河北",
+    "经济运行",
+    "人工智能发展",
+    "基础教育",
+    "防灾减灾救灾",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Zhengpu",
+    "Hebei",
+    "Economic Operation",
+    "AI Development",
+    "Basic Education",
+    "Disaster Prevention and Relief"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-zhengpu",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "唐山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HE"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260803-local_chang_cheng_wang_cn_he-dcc6d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260813-peoples_zj-f6996f",
+  "source": "peoples_zj",
+  "source_name_zh": "人民网 浙江",
+  "source_name_en": "People's Daily Zhejiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://zj.people.com.cn/n2/2026/0813/c186327-41666536.html",
+  "title_zh": "浙江推出外卖聚集区管理模式",
+  "title_en": "Zhejiang Introduces Management Model for Food Delivery Clusters",
+  "summary_zh": "8月12日，浙江省市场监管局推出外卖聚集区管理模式，采取证照校验、电子证照公示、AI非现场监管等措施，治理无堂食外卖乱象。",
+  "summary_en": "On August 12, the Zhejiang Provincial Market Supervision Administration introduced a management model for food delivery clusters, featuring license verification, electronic license display, and AI-based off-site supervision to tackle irregularities in delivery-only restaurants.",
+  "body_zh": "针对无堂食外卖监管难等问题\n浙江推出外卖聚集区管理模式\n本报杭州8月12日电 （记者窦皓）记者从浙江省市场监管局获悉：浙江以数字化改革为牵引，从准入把关、信息公示、智慧监管到社会共治全链条发力，探索推出主体资质自动校验、“电子证照”公示、无堂食外卖聚集区建设、“AI+非现场监管”等多项治理举措，有效治理外卖后厨脏乱差、商家证照造假以及“幽灵外卖”等问题。\n针对一些外卖商家用假证照、冒用证件就能上线接单的问题，浙江省与部分外卖平台建立证照核验比对机制，打通政企数据壁垒。商家申请入驻时，平台通过数据接口比对校验证照资质信息；校验不成功的，由平台业务员线下核查。\n浙江于2024年起推行“电子证照”公示制度，依托全省统一电子证照库，建立与外卖平台的“电子证照”共享机制，平台在商家资质校验通过后，自动调用市场监管数据库中的“电子证照”并在页面公示，从源头杜绝假证、套证等问题。截至目前，各平台累计拦截异常入驻申请4.2万家次，调用“电子证照”超40万家次，电子证照公示率近95%。\n针对无堂食外卖商户散布在街头巷尾，经营隐蔽、监管难度大的问题，浙江创新推出外卖聚集区管理模式，首创“管理方+商户”自治机制。管理方取得“餐饮服务管理”许可资质，对区内商户实施“一档一证”管理。\n针对人工巡查覆盖面有限、夜间无法监管的问题，浙江推行“AI+非现场监管”，建立全国首个“明厨AI”垂直大模型，自主研发视频诊断、环境评估、鼠迹识别、操作规范四大算法。系统对接入“阳光厨房”的19万家商户全量开展“静态+动态”自动巡检后厨卫生、人员违规操作等。\n《 人民日报 》（ 2026年08月13日 13 版）",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "外卖监管",
+    "数字化改革",
+    "食品安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "浙江省市场监管局",
+      "name_en": "Zhejiang Provincial Market Supervision Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外卖监管",
+      "name_en": "Food Delivery Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字化改革",
+      "name_en": "Digital Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    }
+  ],
+  "tags_zh": [
+    "浙江省市场监管局",
+    "浙江",
+    "外卖监管",
+    "数字化改革",
+    "食品安全"
+  ],
+  "tags_en": [
+    "Zhejiang Provincial Market Supervision Administration",
+    "Zhejiang",
+    "Food Delivery Regulation",
+    "Digital Reform",
+    "Food Safety"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "浙江省市场监管局",
+        "name_en": "Zhejiang Provincial Market Supervision Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-peoples_zj-f6996f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

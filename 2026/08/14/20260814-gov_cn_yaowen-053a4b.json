@@ -1,0 +1,83 @@
+{
+  "id": "20260814-gov_cn_yaowen-053a4b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078088.htm",
+  "title_zh": "前7个月金融总量合理增长 社会融资环境保持宽松",
+  "title_en": "Financial Aggregate Grows Rationally in First Seven Months, Social Financing Stays Loose",
+  "summary_zh": "中国人民银行8月14日发布数据显示，7月末M2同比增长7.7%，社融存量同比增长7.4%，融资环境宽松，贷款利率保持低位。",
+  "summary_en": "On Aug 14, the People's Bank of China reported M2 up 7.7% y/y and outstanding social financing up 7.4% y/y at end-July, with lending rates at historic lows.",
+  "body_zh": "中国人民银行今天（8月14日）发布的数据显示，2026年7月末，广义货币（M2）余额355.51万亿元，同比增长7.7%；社会融资规模存量463.27万亿元，同比增长7.4%。两项指标增速均高于名义GDP增速，同经济增长、价格总水平预期目标相匹配，社会融资条件保持在较为宽松的状态。\n7月末，人民币各项贷款余额282.29万亿元，同比增长5.1%，贷款规模保持合理增长。金融“活水”加速流向扩大内需、科技创新、中小微企业等重点领域。\n7月份，企业新发放贷款加权平均利率略低于3.0%，比上年同期低约0.2个百分点；个人住房新发放贷款加权平均利率约为3.1%，贷款利率保持在历史低位水平。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "economy",
+  "keywords": [
+    "金融总量",
+    "社会融资",
+    "贷款利率"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融总量",
+      "name_en": "Financial Aggregate"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会融资",
+      "name_en": "Social Financing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贷款利率",
+      "name_en": "Lending Rates"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "金融总量",
+    "社会融资",
+    "贷款利率"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Financial Aggregate",
+    "Social Financing",
+    "Lending Rates"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260814-gov_cn_yaowen-053a4b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

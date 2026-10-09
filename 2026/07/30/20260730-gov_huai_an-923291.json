@@ -1,0 +1,92 @@
+{
+  "id": "20260730-gov_huai_an-923291",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17828352/1785394703710gKjR2blp.html",
+  "title_zh": "淮安市安全生产工作专题调度会召开",
+  "title_en": "Huai'an Holds Special Work Meeting on Production Safety",
+  "summary_zh": "7月28日，淮安市市长顾坤主持召开安全生产工作专题调度会，强调落实安全生产“六化”闭环机制，提升本质安全水平。",
+  "summary_en": "On July 28, Mayor Gu Kun chaired a special work safety meeting in Huai'an, emphasizing the implementation of the \"six-oriented\" closed-loop mechanism to enhance intrinsic safety.",
+  "body_zh": "7月28日，市长顾坤主持召开安全生产工作专题调度会，强调要深入学习贯彻习近平总书记关于安全生产的重要论述和重要指示批示精神，认真落实省委省政府决策部署，细化对照省安委会全体（扩大）会议和市委工作要求，进一步提高站位、压实责任，突出主动预防、精准治理，扎实有效推进落实安全生产“六化”闭环机制，持续提升本质安全水平，切实维护人民群众生命财产安全和社会大局稳定。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "安全生产",
+    "六化闭环机制"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "六化闭环机制",
+      "name_en": "Six-Oriented Closed-Loop Mechanism"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "安全生产",
+    "六化闭环机制"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Work Safety",
+    "Six-Oriented Closed-Loop Mechanism"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260730-gov_huai_an-8e39c6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17828352/1785373190395UHsyf39p.html",
+      "title_zh": "淮安市人民政府 全市安全生产工作专题调度会召开",
+      "published_at": "2026-07-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

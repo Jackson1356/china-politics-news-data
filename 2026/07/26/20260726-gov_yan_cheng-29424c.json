@@ -1,0 +1,105 @@
+{
+  "id": "20260726-gov_yan_cheng-29424c",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/7/26/art_49_4442163.html",
+  "title_zh": "严汉平吴炜会见江苏交控董事长王先正",
+  "title_en": "Yan Hanping and Wu Wei Meet with Jiangsu Communications Holding Chairman Wang Xianzheng",
+  "summary_zh": "7月24日下午，盐城市委书记严汉平、代市长吴炜会见江苏交控董事长王先正，双方就深化交通等领域务实合作进行交流。",
+  "summary_en": "On the afternoon of July 24, Yancheng municipal Party secretary Yan Hanping and acting mayor Wu Wei met with Wang Xianzheng, chairman of Jiangsu Communications Holding, to discuss deepening practical cooperation in transportation and other fields.",
+  "body_zh": "7月24日下午，市委书记严汉平，市委副书记、代市长吴炜在盐会见江苏交通控股有限公司党委书记、董事长王先正，双方就深化务实合作进行交流。\n严汉平、吴炜对王先正一行表示欢迎，对江苏交控长期关心支持盐城发展表示感谢。严汉平说，交通运输对经济社会发展具有基础性、先导性、战略性作用。近年来，盐城加快重大交通基础设施项目建设，构建内畅外联交通运输体系，推动交通物流降本提质增效，不断增强交通运输对经济社会发展的支撑保障能力。希望双方充分发挥自身优势，立足当下、着眼未来，深耕交通、发力“交通+”，进一步挖掘合作空间、拓展合作广度，携手实现更高水平、更深层次互利共赢。我们将持续营造一流营商环境，全力以赴做好江苏交控在盐产业项目建设的服务保障工作。\n王先正感谢盐城市委、市政府长期以来对江苏交控的支持。他表示，江苏交控作为全省重点交通基础设施投融资“主渠道”、高速路网运营管理“主平台”、培育发展交通新质生产力“主阵地”，一直以来与盐城保持紧密的合作关系。希望双方立足“十五五”新起点，在交通基础设施建设、科产融合、新能源开发利用、低空经济发展等领域，持续深化交流合作，共同推动更多交通新技术、新业态、新场景落地，为交通强省建设贡献力量。\n江苏交控党委委员、副总经理陈云江，市领导王连春、黄正桂参加。",
+  "image_url": null,
+  "published_at": "2026-07-26T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "industry",
+  "keywords": [
+    "交通合作",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王先正",
+      "name_en": "Wang Xianzheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通合作",
+      "name_en": "Transportation Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "吴炜",
+    "王先正",
+    "盐城",
+    "交通合作",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Wu Wei",
+    "Wang Xianzheng",
+    "Yancheng",
+    "Transportation Cooperation",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "黄正桂"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260726-gov_yan_cheng-29424c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

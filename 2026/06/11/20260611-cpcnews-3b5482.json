@@ -1,0 +1,153 @@
+{
+  "id": "20260611-cpcnews-3b5482",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0611/c64387-40738239.html",
+  "title_zh": "第三轮第六批中央生态环保督察完成进驻",
+  "title_en": "The Sixth Batch of the Third Round of Central Ecological and Environmental Protection Inspections Completes Deployment",
+  "summary_zh": "经党中央、国务院批准，第三轮第六批中央生态环保督察组于5月8日至9日进驻辽宁、广东等7省（区）及新疆生产建设兵团。",
+  "summary_en": "Approved by the CPC Central Committee and State Council, the sixth batch of the third round of central ecological and environmental protection inspection teams entered seven provinces/regions and the Xinjiang Production and Construction Corps from May 8 to 9.",
+  "body_zh": "经党中央、国务院批准，第三轮第六批7个中央生态环境保护督察组于5月8日至9日陆续进驻辽宁、吉林、黑龙江、广东、广西、西藏、新疆7省（区）和新疆生产建设兵团。\n有关省（区）和新疆生产建设兵团高度重视中央生态环境保护督察工作，将督察作为推动高质量发展的重要契机，主要领导通过督察动员、现场督办、召开专题会议等方式，大力推动整改落实。在解决群众信访问题中，既认真查处、坚决整改，也实事求是、分类施策，做到精准科学依法。\n《 人民日报 》（ 2026年06月11日 07 版）",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-05-08",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "discipline",
+  "keywords": [
+    "生态环保",
+    "中央环保督察"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "党中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环保",
+      "name_en": "Ecological and Environmental Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央环保督察",
+      "name_en": "Central Environmental Inspection"
+    }
+  ],
+  "tags_zh": [
+    "党中央",
+    "国务院",
+    "辽宁",
+    "吉林",
+    "黑龙江",
+    "广东",
+    "广西",
+    "西藏",
+    "新疆",
+    "生态环保",
+    "中央环保督察"
+  ],
+  "tags_en": [
+    "CPC Central Committee",
+    "State Council",
+    "Liaoning",
+    "Jilin",
+    "Heilongjiang",
+    "Guangdong",
+    "Guangxi",
+    "Tibet",
+    "Xinjiang",
+    "Ecological and Environmental Protection",
+    "Central Environmental Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-LN",
+      "CN-JL",
+      "CN-HL",
+      "CN-GD",
+      "CN-XZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "党中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260611-cpcnews-3b5482",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0611/c1001-40738019.html",
+      "title_zh": "第三轮第六批中央生态环保督察完成进驻",
+      "published_at": "2026-06-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260911-local_ji_nan_ri_bao_cn_sd-194c11",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-09-11/2026091100038.html",
+  "title_zh": "刘强会见瑞典斯凯孚集团客人",
+  "title_en": "Liu Qiang Meets with SKF Group Delegation from Sweden",
+  "summary_zh": "9月10日，济南市委书记刘强在龙奥大厦会见瑞典斯凯孚集团副董事长哈坎·布斯克一行，双方就深化智能制造、汽车产业合作进行交流。",
+  "summary_en": "On September 10, Jinan Party Secretary Liu Qiang met with Hakan Busk, Vice Chairman of Sweden's SKF Group, in Jinan to discuss deeper cooperation in smart manufacturing and the automotive industry.",
+  "body_zh": "刘强会见瑞典斯凯孚集团客人\n本报9月10日讯 今天，市委书记刘强在龙奥大厦会见了瑞典主权基金公司首席执行官，瑞典斯凯孚集团副董事长、斯凯孚汽车董事长哈坎·布斯克一行。\n刘强对客人的到来表示欢迎，并简要介绍了济南市经济社会发展情况。他说，济南交通区位便利、产业基础雄厚、人力资源充裕、发展前景广阔。一直以来，斯凯孚集团与济南市保持了良好的合作关系，希望双方加快推进已有项目建设，在智能制造、汽车产业等领域进一步深化对接交流、拓展合作范围，携手实现互利共赢发展。\n哈坎·布斯克表示，济南经济发展势头良好，市场空间广阔。斯凯孚集团将充分发挥自身优势，拓展产业版图，将更多优质项目布局济南，持续扩大在济投资、深耕中国市场。\n中国重汽集团党委书记、董事长刘正涛，市领导常绪扩、任广锋参加活动。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "外资合作",
+    "智能制造",
+    "汽车产业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外资合作",
+      "name_en": "Foreign Investment Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能制造",
+      "name_en": "Smart Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车产业",
+      "name_en": "Automotive Industry"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "外资合作",
+    "智能制造",
+    "汽车产业"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "Foreign Investment Cooperation",
+    "Smart Manufacturing",
+    "Automotive Industry"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "任广锋"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260911-local_ji_nan_ri_bao_cn_sd-194c11",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_029b28e63ce3472db3fb2c3b8bdaf26d.html",
+      "title_zh": "刘强会见瑞典斯凯孚集团客人",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

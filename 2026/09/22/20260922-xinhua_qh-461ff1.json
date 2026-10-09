@@ -1,0 +1,94 @@
+{
+  "id": "20260922-xinhua_qh-461ff1",
+  "source": "xinhua_qh",
+  "source_name_zh": "新华网 青海",
+  "source_name_en": "Xinhua Qinghai",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260922/7f93247c9c144571a1978714101e2e4c/c.html",
+  "title_zh": "青海省委主要负责同志职务调整 罗东川任青海省委书记",
+  "title_en": "Leadership Change in Qinghai Provincial Party Committee: Luo Dongchuan Appointed Party Secretary",
+  "summary_zh": "2026年9月22日，青海省召开领导干部会议，中央决定罗东川任青海省委书记，吴晓军不再担任青海省委书记、常委、委员职务。",
+  "summary_en": "On September 22, 2026, Qinghai Province held a leadership meeting at which the Central Committee announced that Luo Dongchuan will serve as Secretary of the Qinghai Provincial Party Committee, replacing Wu Xiaojun.",
+  "body_zh": "新华网西宁9月22日电 日前，中央对青海省委主要负责同志职务进行了调整。罗东川同志任青海省委书记，吴晓军同志不再担任青海省委书记、常委、委员职务。\n9月22日，青海省召开领导干部会议，中央组织部副部长吴浩同志在会上宣布了中央决定，称这次调整是中央从大局出发，根据工作需要和青海省领导班子建设实际，经过通盘考虑、慎重研究决定的。\n罗东川同志1965年10月出生，重庆人。曾任中国应用法学研究所所长，最高人民法院政治部副主任，审判委员会委员、民事审判第四庭庭长，2015年7月后任中央纪委案件审理室主任（副部长级），新疆自治区党委常委、区纪委书记、区监委主任，最高人民法院副院长，福建省委常委、政法委书记，省委副书记，2025 年1月任青海省省长。是十九届中央纪委委员，二十届中央候补委员。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事调整",
+    "地方党委领导班子建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "luo-dongchuan",
+      "name_zh": "罗东川",
+      "name_en": "Luo Dongchuan"
+    },
+    {
+      "kind": "institution",
+      "id": "CCOD",
+      "name_zh": "中央组织部",
+      "name_en": "Organization Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Change"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方党委领导班子建设",
+      "name_en": "Local Party Leadership Building"
+    }
+  ],
+  "tags_zh": [
+    "罗东川",
+    "中央组织部",
+    "青海",
+    "人事调整",
+    "地方党委领导班子建设"
+  ],
+  "tags_en": [
+    "Luo Dongchuan",
+    "Organization Department of the CPC Central Committee",
+    "Qinghai",
+    "Personnel Change",
+    "Local Party Leadership Building"
+  ],
+  "entities": {
+    "politicians": [
+      "luo-dongchuan"
+    ],
+    "institutions": [
+      "CCOD"
+    ],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260922-xinhua_qh-461ff1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

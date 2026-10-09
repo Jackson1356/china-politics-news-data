@@ -1,0 +1,107 @@
+{
+  "id": "20260814-local_sha_men_ri_bao_cn_fj-25d7e3",
+  "source": "local_sha_men_ri_bao_cn_fj",
+  "source_name_zh": "厦门日报",
+  "source_name_en": "厦门日报",
+  "source_media_id": "cac-cn-fj-df39a14a77",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.xmnn.cn/news/gjxw/202608/t20260814_445028.html",
+  "title_zh": "外交部发言人就厄瓜多尔总统诺沃亚访华答记者问",
+  "title_en": "Foreign Ministry Spokesperson Answers Questions on Ecuadorian President Noboa's Visit to China",
+  "summary_zh": "应习近平主席邀请，厄瓜多尔总统诺沃亚将于8月16日至23日对中国进行国事访问。外交部发言人14日就相关问题答记者问。",
+  "summary_en": "At the invitation of President Xi Jinping, Ecuadorian President Daniel Noboa will pay a state visit to China from August 16 to 23. The Foreign Ministry spokesperson answered questions on August 14.",
+  "body_zh": "新华社北京8月14日电 应国家主席习近平邀请，厄瓜多尔共和国总统丹尼尔·罗伊-希尔克里斯特·诺沃亚·阿辛将于8月16日至23日对中国进行国事访问。外交部发言人14日就诺沃亚总统访华回答记者提问。\n有记者问：中方发布了厄瓜多尔总统诺沃亚访华的消息，请问中方如何看待当前中厄关系？能否介绍此访安排和中方期待？\n发言人表示，厄瓜多尔是拉美重要国家，中国和厄瓜多尔是全面战略伙伴。近年来，在两国元首战略引领下，中厄关系保持良好发展势头，双方签署了共建“一带一路”合作文件和自由贸易协定，两国各领域务实合作成果丰硕，人民友好不断加深。\n发言人说，此访是诺沃亚总统首次对中国进行国事访问。习近平主席将同诺沃亚总统举行会谈，李强总理、赵乐际委员长将分别同他会见。今年是中厄建立全面战略伙伴关系十周年。“中方期待通过此访进一步夯实两国政治互信，赓续传统友谊，推动中厄全面战略伙伴关系不断取得新进展，更好造福两国人民。”",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "foreign",
+  "keywords": [
+    "中厄关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "诺沃亚",
+      "name_en": "Daniel Noboa"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中厄关系",
+      "name_en": "China-Ecuador Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "zhao-leji",
+      "name_zh": "赵乐际",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "诺沃亚",
+    "外交部",
+    "中厄关系",
+    "国事访问",
+    "李强",
+    "赵乐际"
+  ],
+  "tags_en": [
+    "Daniel Noboa",
+    "Ministry of Foreign Affairs",
+    "China-Ecuador Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-leji",
+      "li-qiang"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260814-local_sha_men_ri_bao_cn_fj-25d7e3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://world.gmw.cn/2026-08/14/content_38943402.htm",
+      "title_zh": "外交部发言人就厄瓜多尔总统诺沃亚将访华答记者问",
+      "published_at": "2026-08-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

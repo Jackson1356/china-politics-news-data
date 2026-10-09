@@ -1,0 +1,121 @@
+{
+  "id": "20260825-gov_tai_zhou-f15a15",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_60ab8490773346d4a7f4a706930c326a.html",
+  "title_zh": "李晖在靖江市检查长江堤防",
+  "title_en": "Li Hui Inspects Yangtze River Levee in Jingjiang",
+  "summary_zh": "8月24日，泰州市长李晖在靖江市检查长江堤防，强调压实责任、落实措施，筑牢长江堤防安全屏障。",
+  "summary_en": "On August 24, Li Hui, mayor of Taizhou, inspected the Yangtze River levee in Jingjiang, emphasizing responsibility and measures to ensure levee safety.",
+  "body_zh": "泰州要闻\n李晖在靖江市检查长江堤防\n- 发布日期：2026-08-25 01:44\n- 浏览次数：\n8月24日，市长李晖在靖江市检查长江堤防，强调要深入学习贯彻习近平总书记重要讲话重要指示精神，认真落实省、市委要求，坚持人民至上、生命至上，树牢底线思维、极限思维，压紧压实责任、落实落细措施，坚决筑牢长江堤防安全屏障，全力守护江河安澜。\n上九圩港泵站是靖江西片沿江圩区关键防洪工程，与周边上青龙港、文东港、夹港等骨干河道和水利工程形成区域防洪排涝体系，有效提高了沿江圩区用水安全及新桥镇区防洪排涝能力。在检查泵站运行、了解区域引排功能后，李晖强调，要扎实做好防洪排涝设施设备的检修维护，认真做好区域引排体系规划建设，密切监测长江水情、干支流汛情，打足提前量、打好主动仗，全面提升区域防洪排涝抗灾韧性。\n副市长周小慧，市政府秘书长包亚参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "长江堤防",
+    "防洪排涝",
+    "水利安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "靖江市",
+      "name_en": "Jingjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长江堤防",
+      "name_en": "Yangtze River Levee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防洪排涝",
+      "name_en": "Flood Control and Drainage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水利安全",
+      "name_en": "Water Conservancy Safety"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江堤防",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江市",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "靖江市",
+    "长江堤防",
+    "防洪排涝",
+    "水利安全",
+    "江堤防",
+    "江市"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Jingjiang",
+    "Yangtze River Levee",
+    "Flood Control and Drainage",
+    "Water Conservancy Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "江堤防"
+      },
+      {
+        "id": null,
+        "name_zh": "江市"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260825-gov_tai_zhou-61b882",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_60ab8490773346d4a7f4a706930c326a.html",
+      "title_zh": "李晖在靖江市检查长江堤防",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

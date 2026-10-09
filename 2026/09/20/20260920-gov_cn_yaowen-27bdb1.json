@@ -1,0 +1,106 @@
+{
+  "id": "20260920-gov_cn_yaowen-27bdb1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7081568.htm",
+  "title_zh": "到2026年底全国省级层面均应开设罕见病门诊",
+  "title_en": "All Provincial-Level Regions to Have Rare Disease Clinics by End of 2026",
+  "summary_zh": "国家卫生健康委9月20日公布通知，要求到2026年底各省区市及新疆生产建设兵团至少依托1家省属及以上医院开设罕见病门诊，并部署罕见病预防与诊疗体系建设。",
+  "summary_en": "China's National Health Commission published a notice on Sept 20 requiring every provincial-level region to open at least one rare disease clinic by the end of 2026, along with measures to strengthen prevention and diagnosis.",
+  "body_zh": "新华社北京9月20日电（记者李恒）根据国家卫生健康委9月20日公布的通知，到2026年底前，各省、自治区、直辖市及新疆生产建设兵团均应当至少依托1家省属及以上医院开设罕见病门诊，辖区内300万人口以上的地市均应当至少依托1家医院开设罕见病门诊，安排相关专科医师坐诊，提供规范的罕见病诊疗服务。\n这份由国家卫生健康委办公厅、国家中医药局综合司近日联合印发的《关于进一步加强罕见病防治工作的通知》，从强化罕见病预防、推进罕见病诊疗体系建设、提升罕见病诊疗能力水平等方面作出具体部署。\n通知明确，要深入实施优生优育服务基本公共卫生服务项目，做好孕前优生健康检查工作，孕前检查发现有遗传病家族史、不良生育史高风险夫妇的，要加强咨询指导和追踪随访，确保孕期接受产前筛查和产前诊断。有条件地区针对单基因遗传病、罕见病高风险人群探索开展孕前筛查。\n同时，要进一步加强产前筛查管理，提升出生缺陷和罕见病排查识别能力，引导高风险人群及时进行产前诊断，规范提供遗传咨询服务，从源头减少出生缺陷和罕见病发生。\n在优化罕见病诊疗资源布局方面，通知明确，鼓励有条件的医疗机构积极推进罕见病病房建设，通过多学科诊疗、中西医协同等方式提供罕见病诊疗服务。\n根据通知，各有关机构要依托国家科技重大项目、生物医学新技术临床研究和临床转化应用等，推进出生缺陷和罕见病预防、筛查、诊断、治疗等技术科研创新。加强中西医协作攻关，深入挖掘中医药诊疗方法，总结推广中西医结合诊疗方案。积极推动人工智能技术在辅助出生缺陷和罕见病诊断领域的研究应用。推进基因检测在罕见病诊疗中的规范应用。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "罕见病防治",
+    "医疗卫生服务",
+    "优生优育"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家中医药局",
+      "name_en": "National Administration of Traditional Chinese Medicine"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "罕见病防治",
+      "name_en": "Rare Disease Prevention and Treatment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生服务",
+      "name_en": "Healthcare Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "优生优育",
+      "name_en": "Reproductive Health"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "国家中医药局",
+    "北京",
+    "罕见病防治",
+    "医疗卫生服务",
+    "优生优育"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "National Administration of Traditional Chinese Medicine",
+    "Beijing",
+    "Rare Disease Prevention and Treatment",
+    "Healthcare Services",
+    "Reproductive Health"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家中医药局",
+        "name_en": "National Administration of Traditional Chinese Medicine"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260920-gov_cn_yaowen-27bdb1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

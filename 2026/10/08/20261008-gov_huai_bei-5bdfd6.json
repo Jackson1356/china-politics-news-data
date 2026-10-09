@@ -1,0 +1,110 @@
+{
+  "id": "20261008-gov_huai_bei-5bdfd6",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/tpxw/65178921.html",
+  "title_zh": "黄韡调研督导秋收秋种和秸秆禁烧工作",
+  "title_en": "Huang Wei Inspects Autumn Harvest, Sowing and Straw Burning Control Work",
+  "summary_zh": "10月8日下午，淮北市委副书记、代市长黄韡赴濉溪县和烈山区，调研督导秋收秋种和秸秆禁烧工作，要求扛牢粮食安全政治责任。",
+  "summary_en": "On the afternoon of October 8, Huang Wei, deputy Party secretary and acting mayor of Huaibei, inspected autumn harvest, sowing and straw-burning control work in Suixi County and Lieshan District, urging solid implementation of food security responsibilities.",
+  "body_zh": "黄韡调研督导秋收秋种和秸秆禁烧工作\n10月8日下午，市委副书记、代市长黄韡前往濉溪县和烈山区，调研督导秋收秋种和秸秆禁烧工作。他强调，要深入学习贯彻习近平总书记关于“三农”工作的重要论述，认真落实市第十次党代会部署要求，扛牢粮食安全政治责任，抓实抓细秋收秋种各环节工作，确保秋粮颗粒归仓、秋播种足种好；坚持疏堵结合、标本兼治，扎实推进秸秆禁烧与综合利用，推动农业绿色可持续发展。副市长杨春杰，市政府秘书长郭海磊参加。",
+  "image_url": null,
+  "published_at": "2026-10-08T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "秋收秋种",
+    "秸秆禁烧"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄韡",
+      "name_en": "Huang Wei"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "濉溪县",
+      "name_en": "Suixi County"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "烈山区",
+      "name_en": "Lieshan District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋收秋种",
+      "name_en": "Autumn Harvest and Sowing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秸秆禁烧",
+      "name_en": "Straw Burning Ban"
+    }
+  ],
+  "tags_zh": [
+    "黄韡",
+    "濉溪县",
+    "烈山区",
+    "粮食安全",
+    "秋收秋种",
+    "秸秆禁烧"
+  ],
+  "tags_en": [
+    "Huang Wei",
+    "Suixi County",
+    "Lieshan District",
+    "Food Security",
+    "Autumn Harvest and Sowing",
+    "Straw Burning Ban"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "黄韡"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261008-gov_huai_bei-5bdfd6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_bei",
+      "source_tier": null,
+      "url": "https://www.huaibei.gov.cn/xwzx/zwyw/65178918.html",
+      "title_zh": "黄韡调研督导秋收秋种和秸秆禁烧工作",
+      "published_at": "2026-10-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

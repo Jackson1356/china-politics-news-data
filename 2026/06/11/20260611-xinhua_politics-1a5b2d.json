@@ -1,0 +1,80 @@
+{
+  "id": "20260611-xinhua_politics-1a5b2d",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260611/8ac42c21dfee47d0a4d3e51e54ee6a48/c.html",
+  "title_zh": "水利部会商部署强降雨防范应对工作",
+  "title_en": "Ministry of Water Resources Deploys Response Measures for Heavy Rainfall",
+  "summary_zh": "水利部于6月11日在北京举行防汛会商，部署应对未来几天我国南北方强降雨过程的防范工作。",
+  "summary_en": "The Ministry of Water Resources held a flood control consultation in Beijing on June 11 to deploy prevention and response measures for upcoming heavy rainfall across northern and southern China.",
+  "body_zh": "新华社北京6月11日电（记者魏弘毅）记者从水利部获悉，未来几天受冷暖空气共同影响，我国南北方将同时出现降雨过程。水利部11日举行防汛会商，部署防范应对工作。\n记者了解到，6月12日至14日，我国西南东部南部、江南大部、华南大部将有一次移动性强降雨过程；受冷空气东移影响，华北中部东部、东北中部南部将有一次较强降雨过程。受降雨影响，长江上游支流乌江，洞庭湖水系沅江中游、湘江上中游，鄱阳湖水系赣江、抚河、信江、饶河；珠江流域西江及支流郁江、柳江、桂江、贺江，北江，东江，韩江；福建闽江、瓯江；松花江流域松花江吉林段、牡丹江等河流将出现明显涨水过程，暴雨区内福建闽江支流富屯溪建溪及贵州乌江支流野纪河、江西信江支流泸溪水等中小河流可能发生超警以上洪水。\n水利部研判显示，本轮强降雨南方落区与上一轮部分重叠，重叠区域江河底水较高、土壤趋于饱和，发生中小河流洪水及山洪灾害的可能性进一步增大；华北地区正值冬小麦收获关键时期，东北地区局地降雨较强，防汛形势较为严峻，需高度重视，全力做好防范应对。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "强降雨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降雨",
+      "name_en": "Heavy Rainfall"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "北京",
+    "防汛",
+    "强降雨"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Beijing",
+    "Flood Control",
+    "Heavy Rainfall"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260611-xinhua_politics-1a5b2d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
