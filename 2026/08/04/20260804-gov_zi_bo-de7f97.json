@@ -1,0 +1,93 @@
+{
+  "id": "20260804-gov_zi_bo-de7f97",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/4/art_14322_3014305.html",
+  "title_zh": "周乃翔会见非洲国家驻华使节代表团",
+  "title_en": "Zhou Naixiang Meets African Envoys Delegation to China",
+  "summary_zh": "8月3日，山东省省长周乃翔在济南会见非洲国家驻华使节代表团，表示愿深化与非洲在贸易、农业、基础设施等领域的合作。",
+  "summary_en": "On August 3, Zhou Naixiang, Governor of Shandong Province, met with a delegation of African envoys to China in Jinan, expressing willingness to deepen cooperation with Africa in trade, agriculture, infrastructure and other fields.",
+  "body_zh": "周乃翔会见非洲国家驻华使节代表团\n8月3日，省委副书记、省长周乃翔在济南会见来山东出席“2026中非友好走进山东——鲁非文化嘉年华”活动的非洲国家驻华使节代表团。\n周乃翔代表省委、省人民政府，对各位使节的到来表示欢迎，并简要介绍了山东经济社会发展情况。他说，习近平主席高度重视中非关系，亲自擘画、亲力亲为，引领中非关系行稳致远。近年来，山东深入落实习近平主席和非洲国家领导人达成的重要共识，持续深化与非洲交流交往，推动互利合作走深走实，取得丰硕成果。我们愿以2026年“中非人文交流年”为契机，密切与非洲国家友好往来，深化贸易、农业、基础设施、先进制造等领域合作，加强文化、青年、教育、旅游等交流，为推动构建新时代全天候中非命运共同体贡献力量。\n索马里驻华大使和丹·奥斯曼·阿布迪代表驻华使节对山东的热情接待表示感谢，高度评价山东经济社会发展取得的成就。她说，非常高兴来山东参加活动，希望与山东进一步增进了解、巩固友谊、深化合作，实现更高水平的互利共赢。（记者 毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "中非关系",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非关系",
+      "name_en": "China-Africa Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchange"
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "济南",
+    "中非关系",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Jinan",
+    "China-Africa Relations",
+    "Economic and Trade Cooperation",
+    "People-to-People Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260804-gov_zi_bo-de7f97",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

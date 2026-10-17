@@ -1,0 +1,96 @@
+{
+  "id": "20260707-bjnews_zhengshier-3e136a",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1783413811129564.html",
+  "title_zh": "周立伟任四川省委常委",
+  "title_en": "Zhou Liwei Appointed Member of Standing Committee of Sichuan Provincial Party Committee",
+  "summary_zh": "近日，中共中央批准周立伟任中共四川省委委员、常委，此前他担任山东省委常委、委员。",
+  "summary_en": "The CPC Central Committee recently approved the appointment of Zhou Liwei as a member and standing committee member of the Sichuan Provincial Party Committee.",
+  "body_zh": "中共中央批准：周立伟任四川省委常委\n据川观新闻7月7日消息，近日，中共中央批准：周立伟同志任中共四川省委委员、常委。\n另据山东省委组织部7月7日消息，日前，中共中央批准：周立伟同志不再担任山东省委常委、委员职务。另有任用。\n公开简历显示，周立伟，男，汉族，1971年10月出生，黑龙江省双城人，1996年3月毕业于天津大学化工系，获工学硕士学位，2009年12月获休斯顿大学EMBA，教授级高级工程师。\n他曾任中国海洋石油集团有限公司副总经理、党组成员兼任中海石油炼化有限责任公司党委书记、董事长，山东省副省长等职。\n2024年12月，周立伟任山东省委常委、省委组织部部长，至此番调整。",
+  "image_url": null,
+  "published_at": "2026-07-07T16:45:10+00:00",
+  "event_date": "2024-07-07",
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-liwei",
+      "name_zh": "周立伟",
+      "name_en": "Zhou Liwei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川省委",
+      "name_en": "Sichuan Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "周立伟",
+    "中共中央",
+    "四川省委",
+    "四川",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Zhou Liwei",
+    "CPC Central Committee",
+    "Sichuan Provincial Party Committee",
+    "Sichuan",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-liwei"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      },
+      {
+        "name_zh": "四川省委",
+        "name_en": "Sichuan Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260707-bjnews_zhengshier-3e136a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

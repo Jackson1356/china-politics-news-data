@@ -1,0 +1,100 @@
+{
+  "id": "20260821-chinanews_gn-8a876c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-21/10681459.shtml",
+  "title_zh": "新疆维吾尔自治区伊犁哈萨克自治州政协原党组成员张新成被查",
+  "title_en": "Former Xinjiang CPPCC Official Zhang Xincheng Under Investigation",
+  "summary_zh": "新疆维吾尔自治区纪委监委消息，伊犁哈萨克自治州政协原党组成员张新成涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+  "summary_en": "The disciplinary commission of Xinjiang announced that Zhang Xincheng, former Party member of the CPPCC in Yili Kazakh Autonomous Prefecture, is under investigation for suspected serious disciplinary and legal violations.",
+  "body_zh": "新疆维吾尔自治区伊犁哈萨克自治州政协原党组成员张新成被查\n中新网8月21日电 据新疆维吾尔自治区纪委监委消息：新疆维吾尔自治区伊犁哈萨克自治州政协原党组成员张新成涉嫌严重违纪违法，目前正接受新疆维吾尔自治区纪委监委纪律审查和监察调查。\n国内新闻精选：\n- 2026年08月20日 21:46:59\n- 2026年08月20日 19:53:46\n- 2026年08月20日 17:42:46\n- 2026年08月20日 15:55:55\n- 2026年08月20日 14:44:32\n- 2026年08月19日 21:42:54\n- 2026年08月19日 14:35:13\n- 2026年08月19日 13:45:18\n- 2026年08月19日 11:33:20\n- 2026年08月19日 11:10:13",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张新成",
+      "name_en": "Zhang Xincheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "新疆维吾尔自治区纪委监委",
+      "name_en": "Discipline Inspection Commission of Xinjiang Uygur Autonomous Region"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "张新成",
+    "新疆维吾尔自治区纪委监委",
+    "新疆",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Zhang Xincheng",
+    "Discipline Inspection Commission of Xinjiang Uygur Autonomous Region",
+    "Xinjiang",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张新成"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "新疆维吾尔自治区纪委监委",
+        "name_en": "Discipline Inspection Commission of Xinjiang Uygur Autonomous Region"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260821-chinanews_gn-8a876c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

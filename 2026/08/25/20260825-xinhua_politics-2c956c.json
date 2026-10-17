@@ -1,0 +1,84 @@
+{
+  "id": "20260825-xinhua_politics-2c956c",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260825/636a2634e6574fbebb880c6bc99852a8/c.html",
+  "title_zh": "我国交通强国指数稳步增长位列世界第五",
+  "title_en": "China Ranks Fifth Globally in Transport Power Index",
+  "summary_zh": "交通运输部8月25日在湖北武汉举行加快建设交通强国大会，发布交通强国指数为90.8，较上年提升0.9，位列全球第五。",
+  "summary_en": "On Aug 25, the Ministry of Transport released the Transport Power Index of 90.8 at a conference in Wuhan, Hubei, ranking fifth globally, up 0.9 from last year.",
+  "body_zh": "新华社武汉8月25日电（记者张阳、叶昊鸣）交通运输部25日发布的最新交通强国指数显示，我国交通强国指数为90.8，较上年提升0.9，在全球主要国家中排名第五。\n这是记者25日在交通运输部于湖北武汉举行的2026年加快建设交通强国大会上获悉的。具体来看，班轮运输连通性指数、铁路电化率、新能源汽车占比、港口集装箱年吞吐量占比等方面均达到国际领先水平。\n大会发布了交通强国指数省域评价指标，从综合维度来看，浙江、江苏、广东、福建、四川评价相对较高。大会公布了12个交通强国建设试点典型案例。其中，江苏“AI+智慧路网”智护高速公路平安通畅、湖北创新“铁水公空”高效衔接模式、陕西建设秦岭隧道安全防控体系等被收纳进典型案例。\n大会还发布了《加快建设交通强国报告（2025）》等系列成果。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "交通强国",
+    "交通强国指数"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB-WH",
+      "name_zh": "武汉",
+      "name_en": "Wuhan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通强国",
+      "name_en": "Transport Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通强国指数",
+      "name_en": "Transport Power Index"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "武汉",
+    "交通强国",
+    "交通强国指数"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Wuhan",
+    "Transport Power",
+    "Transport Power Index"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-HB-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260825-xinhua_politics-2c956c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

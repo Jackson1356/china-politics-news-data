@@ -1,0 +1,111 @@
+{
+  "id": "20261017-peoples_politics-e86360",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1017/c1001-40816360.html",
+  "title_zh": "王毅会见巴勒斯坦外长法尔辛",
+  "title_en": "Wang Yi Meets Palestinian Foreign Minister Varsen in Baku",
+  "summary_zh": "10月15日，中共中央政治局委员、外交部长王毅在巴库出席亚信峰会期间会见巴勒斯坦外长法尔辛，表示中方将继续支持巴勒斯坦正义事业。",
+  "summary_en": "On October 15, Chinese Foreign Minister Wang Yi met with Palestinian Foreign Minister Varsen on the sidelines of the CICA summit in Baku, pledging continued Chinese support for the Palestinian cause.",
+  "body_zh": "王毅会见巴勒斯坦外长法尔辛\n新华社巴库10月16日电 （记者周良、刘书辰）中共中央政治局委员、外交部长王毅15日在巴库出席亚信峰会期间会见巴勒斯坦外长法尔辛。\n王毅表示，中国是最早承认巴勒斯坦的国家之一。无论国际风云如何变幻，中国人民始终同巴勒斯坦人民站在一起，坚定支持巴人民争取恢复民族合法权利的正义事业。\n王毅说，巴勒斯坦问题是延宕最久的热点问题，是二战以来世界最大的历史不公。如果这一问题得不到公正解决，中东就无法实现持久的和平稳定。当前中东局势持续紧张，给解决巴勒斯坦问题带来新的困难。巴勒斯坦问题不应被边缘化，世界不能忘记加沙挣扎在死亡线上的200万巴勒斯坦民众。正义也许会迟到，但绝不会缺席。中方作为负责任大国，将继续站在国际正义一边，站在被压迫民族一边，继续在多边舞台上为巴方正义事业积极发声。\n法尔辛通报了巴勒斯坦问题的最新情况，高度赞赏中方在巴勒斯坦问题上坚持的公正立场。法尔辛表示，巴方感谢中方长期以来为巴勒斯坦人民恢复民族合法权利提供的大力支持，感谢在国际多边场合坚持为巴方发声，感谢在加沙人道援助方面提供无私帮助。期待中方在巴勒斯坦问题上继续为巴方主持公道，为实现“两国方案”发挥更重要作用。\n《 人民日报 》（ 2026年10月17日 03 版）",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "巴勒斯坦问题",
+    "两国方案",
+    "加沙人道援助"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "法尔辛",
+      "name_en": "Varsen"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "巴库",
+      "name_en": "Baku"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巴勒斯坦问题",
+      "name_en": "Palestinian Question"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两国方案",
+      "name_en": "Two-State Solution"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "加沙人道援助",
+      "name_en": "Gaza Humanitarian Aid"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "法尔辛",
+    "巴库",
+    "巴勒斯坦问题",
+    "两国方案",
+    "加沙人道援助"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Varsen",
+    "Baku",
+    "Palestinian Question",
+    "Two-State Solution",
+    "Gaza Humanitarian Aid"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "法尔辛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261017-peoples_politics-e86360",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083511.htm",
+      "title_zh": "王毅会见巴勒斯坦外长法尔辛",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

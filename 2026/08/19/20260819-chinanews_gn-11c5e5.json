@@ -1,0 +1,85 @@
+{
+  "id": "20260819-chinanews_gn-11c5e5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-19/10680098.shtml",
+  "title_zh": "中国首次实现重复使用运载火箭陆地回收",
+  "title_en": "China Achieves First Land Recovery of Reusable Carrier Rocket",
+  "summary_zh": "8月19日，朱雀三号运载火箭在东风商业航天创新试验区成功发射，实现中国首次重复使用运载火箭陆地可控回收。",
+  "summary_en": "On Aug 19, the Zhuque-3 rocket launched from Dongfeng Commercial Aerospace Innovation Experimental Zone, achieving China's first controlled land recovery of a reusable rocket booster.",
+  "body_zh": "中国首次实现重复使用运载火箭陆地回收\n中新社北京8月19日电 (记者 马帅莎)据中国国家航天局消息，北京时间8月19日7时35分，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，运载火箭全程飞行正常，一子级成功着陆于回收场预定位置，二子级将搭载的鸿鹄03星顺利送入预定轨道，飞行试验任务取得圆满成功。\n本次任务是继7月10日长征十号乙运载火箭一子级海上网系成功回收后，中国首次成功实施重复使用运载火箭一子级着陆腿方式陆地可控回收，标志着中国重复使用火箭技术取得重大突破。\n朱雀三号运载火箭是由中国民营火箭公司蓝箭航天自主研制的一款重复使用液氧甲烷运载火箭。该火箭采用单芯级两级串联构型，箭体材料以不锈钢为主，全部采用液氧甲烷动力，全箭长66.1米，一二子级箭体直径4.5米，整流罩直径5.2米。火箭一子级装有返回控制系统、栅格舵与着陆支腿，可在完成轨道发射后实施垂直回收与再利用。\n本次任务中，火箭一二级分离后，一子级按照预定飞行程序进入返回段，先后完成高空返回调姿、再入点火动力减速、气动滑行控制、着陆点火减速和着陆支腿展开缓冲等关键动作，最终依靠着陆支腿稳定落地。任务对一子级从高速飞行状态返回陆地着陆场坪的全过程进行了系统验证。\n此次任务是朱雀三号运载火箭的第2次飞行。(完)\n国内新闻精选：\n- 2026年08月18日 16:38:32\n- 2026年08月18日 14:11:32\n- 2026年08月18日 11:21:45\n- 2026年08月18日 11:15:17\n- 2026年08月18日 11:07:44\n- 2026年08月17日 16:38:14\n- 2026年08月17日 15:15:29\n- 2026年08月17日 14:36:57\n- 2026年08月17日 14:35:15\n- 2026年08月17日 14:26:28",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "industry",
+  "keywords": [
+    "重复使用火箭",
+    "商业航天"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国国家航天局",
+      "name_en": "China National Space Administration"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "东风商业航天创新试验区",
+      "name_en": "Dongfeng Commercial Aerospace Innovation Experimental Zone"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重复使用火箭",
+      "name_en": "Reusable Rocket"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商业航天",
+      "name_en": "Commercial Spaceflight"
+    }
+  ],
+  "tags_zh": [
+    "中国国家航天局",
+    "东风商业航天创新试验区",
+    "重复使用火箭",
+    "商业航天"
+  ],
+  "tags_en": [
+    "China National Space Administration",
+    "Dongfeng Commercial Aerospace Innovation Experimental Zone",
+    "Reusable Rocket",
+    "Commercial Spaceflight"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国国家航天局",
+        "name_en": "China National Space Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260819-chinanews_gn-11c5e5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

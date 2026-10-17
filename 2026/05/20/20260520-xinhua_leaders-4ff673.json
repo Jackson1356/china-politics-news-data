@@ -1,0 +1,80 @@
+{
+  "id": "20260520-xinhua_leaders-4ff673",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260521/0d20abd4256847f5bfe2151cc3979e02/c.html",
+  "title_zh": "中俄关系迈上新起点",
+  "title_en": "China-Russia Relations Reach a New Starting Point",
+  "summary_zh": "5月20日下午，国家主席习近平在北京人民大会堂同俄罗斯总统普京会谈后共同会见记者，强调推动中俄关系实现更高质量发展。",
+  "summary_en": "On the afternoon of May 20, President Xi Jinping and President Vladimir Putin held a joint press conference at the Great Hall of the People in Beijing, emphasizing the high-quality development of China-Russia relations.",
+  "body_zh": "5月20日下午，国家主席习近平在北京人民大会堂同俄罗斯总统普京会谈后共同会见记者。\n习近平指出，在我和普京总统的共同战略引领下，中俄关系已经迈上新起点。双方要顺应和平、发展、合作、共赢的时代潮流，推动中俄关系实现更高质量发展。\n新华社音视频部制作\n5月20日下午，国家主席习近平在北京人民大会堂同俄罗斯总统普京会谈后共同会见记者。\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中俄关系",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Russia Relations",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260520-xinhua_leaders-4ff673",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

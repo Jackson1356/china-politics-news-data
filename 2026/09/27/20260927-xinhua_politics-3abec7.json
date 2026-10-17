@@ -1,0 +1,83 @@
+{
+  "id": "20260927-xinhua_politics-3abec7",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260927/8401487e1d924abaa42ae15f487cbd7e/c.html",
+  "title_zh": "中国蝉联世界技能大赛金牌榜榜首",
+  "title_en": "China Tops WorldSkills Competition Gold Medal Table for Fifth Consecutive Time",
+  "summary_zh": "9月27日晚，第48届世界技能大赛在上海闭幕，中国代表团登顶金牌榜，连续5届位居榜首。",
+  "summary_en": "China topped the gold medal table at the 48th WorldSkills Competition, which closed in Shanghai on the evening of Sept 27, marking its fifth consecutive first-place finish.",
+  "body_zh": "记者从9月27日晚于上海举行的第48届世界技能大赛闭幕式上获悉，中国登顶本届大赛金牌榜。至此，中国已连续5届位居世界技能大赛金牌榜榜首。\n本届大赛，中国代表团派出71名选手参加了全部64个比赛项目。\n记者：张晓洁、周蕊\n海报制作：王聿昊\n新华社国内部、新华社上海分社联合出品",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": "2026-09-27",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "industry",
+  "keywords": [
+    "世界技能大赛",
+    "职业技能",
+    "技能人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界技能大赛",
+      "name_en": "WorldSkills Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业技能",
+      "name_en": "Vocational Skills"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技能人才培养",
+      "name_en": "Skilled Talent Development"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "世界技能大赛",
+    "职业技能",
+    "技能人才培养"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "WorldSkills Competition",
+    "Vocational Skills",
+    "Skilled Talent Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260927-xinhua_politics-3abec7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20261010-gov_cn_yaowen-083e91",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082898.htm",
+  "title_zh": "我国将加强出生缺陷和发育障碍致残防控",
+  "title_en": "China to Strengthen Prevention of Disabilities from Birth Defects and Developmental Disorders",
+  "summary_zh": "国务院残工委近日印发《国家残疾预防行动计划（2026—2030年）》，将出生缺陷和发育障碍致残源头防控列为主要行动，加强婚前孕前保健、产前筛查诊断和新生儿早期筛查干预。",
+  "summary_en": "The State Council's disability committee issued a 2026-2030 national disability prevention plan, prioritizing prevention of birth defects and developmental disabilities via screening and early intervention.",
+  "body_zh": "新华社北京10月10日电（记者魏冠宇）记者10月10日获悉，国务院残工委近日印发的《国家残疾预防行动计划（2026—2030年）》将出生缺陷和发育障碍致残源头防控列为主要行动，将加强婚前、孕前保健与早孕关爱服务，做好产前筛查、诊断，加强新生儿早期筛查和干预，强化儿童健康和发育障碍全周期管理。\n此外，疾病致残全链条防控行动将加强慢性病致残防控，加强社会心理和精神卫生服务，加强传染病、地方病致残防控，加强职业病防治和健康环境促进；伤害致残重点领域防控行动将强化安全生产、消防安全管理和防灾减灾能力，强化道路交通、运输安全管理，加强儿童伤害和老年跌倒致残防控；康复服务提升行动将健全康复医疗服务及保障体系，提升残疾人基本康复服务水平，优化无障碍环境建设。\n残疾预防科普、赋能提质增效等行动，还将强化重点领域专业人员科普能力建设，开展残疾预防监测与调查，强化科技赋能与适宜技术推广等。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "残疾预防",
+    "出生缺陷防控",
+    "康复服务"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾预防",
+      "name_en": "Disability Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出生缺陷防控",
+      "name_en": "Birth Defect Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "康复服务",
+      "name_en": "Rehabilitation Services"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "残疾预防",
+    "出生缺陷防控",
+    "康复服务"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Disability Prevention",
+    "Birth Defect Prevention",
+    "Rehabilitation Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261010-gov_cn_yaowen-083e91",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20261010/1ef19437fd714036ae93395dd2902cd8/c.html",
+      "title_zh": "我国将加强出生缺陷和发育障碍致残防控",
+      "published_at": "2026-10-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

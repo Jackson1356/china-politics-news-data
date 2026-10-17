@@ -1,0 +1,92 @@
+{
+  "id": "20260804-peoples_politics-60179b",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0804/c461001-40773324.html",
+  "title_zh": "全国地质灾害防治“十五五”实施方案公布",
+  "title_en": "National Plan for Geological Disaster Prevention and Control during 15th Five-Year Plan Released",
+  "summary_zh": "自然资源部8月4日公布《全国地质灾害防治“十五五”实施方案》，规划工程治理4200余处、排危除险6100余处，实施避险搬迁5万户。",
+  "summary_en": "The Ministry of Natural Resources released the 15th Five-Year Plan for geological disaster prevention on August 4, planning over 4,200 engineering treatments, 6,100 emergency risk eliminations, and relocation of 50,000 households.",
+  "body_zh": "《全国地质灾害防治“十五五”实施方案》公布\n新华社北京8月4日电（记者王立彬）“十五五”期间，全国将实施地质灾害综合治理能力提升工程，部署地质灾害工程治理4200余处、排危除险6100余处，实施地质灾害避险搬迁5万户。\n根据自然资源部8月4日公布的《全国地质灾害防治“十五五”实施方案》，“十五五”期间将健全完善高效科学的地质灾害防治体系，全面提高基层抵御地质灾害的综合能力，实施地质灾害点和风险区动态调查工程、地质灾害监测预警能力提升工程、地质灾害综合治理能力提升工程，实施“灾害点+风险区”双控管理，提升地质灾害防御响应能力和基层防灾能力，加强地质灾害防治科学理论与技术方法创新，建设完善“一张图”地质灾害防治子场景。\n实施方案划分了“十五五”期间全国21个地质灾害重点防治区。其中，滑坡、崩塌、泥石流、地面塌陷重点防治区17个，总面积约297万平方千米；地面沉降和地裂缝重点防治区4个，总面积约28万平方千米。实施方案将东南丘陵、西南山区重点防治区进行了细化，增加了雅下水电工程建设、高位远程地质灾害链、燕山—太行山等重点防治区域，体现了近年来重大工程建设、高位远程链式隐蔽性灾害以及北方地区防灾的紧迫性和重要性。\n我国地形地貌多样、地质条件复杂、构造活动强烈，加之气候类型复杂多样、极端天气频发、人为工程活动强烈，地质灾害易发、多发、频发。截至2025年底，全国登记入库地质灾害点近28万处，威胁着1148万人和7601亿元财产的安全。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害防治",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害防治",
+      "name_en": "Geological Disaster Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "北京",
+    "地质灾害防治",
+    "防灾减灾"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Beijing",
+    "Geological Disaster Prevention",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260804-gov_cn_yaowen-75529f",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260804/d6ca5d205a68459c9cf0ccdf82616bc0/c.html",
+      "title_zh": "《全国地质灾害防治“十五五”实施方案》公布",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

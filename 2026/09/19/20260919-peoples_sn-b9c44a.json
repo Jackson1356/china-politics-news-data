@@ -1,0 +1,87 @@
+{
+  "id": "20260919-peoples_sn-b9c44a",
+  "source": "peoples_sn",
+  "source_name_zh": "人民网 陕西",
+  "source_name_en": "People's Daily Shaanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sn.people.com.cn/n2/2026/0919/c186331-41701235.html",
+  "title_zh": "陕西秋季统筹统招自主就业退役士兵职业技能培训工作启动",
+  "title_en": "Shaanxi Launches Fall Vocational Skills Training for Self-Employed Demobilized Soldiers",
+  "summary_zh": "9月17日，陕西省退役军人事务厅宣布启动秋季统筹统招自主就业退役士兵职业技能培训，报名时间为9月21日至10月9日，在6市18个学校开办20个专业培训班。",
+  "summary_en": "On Sept 17, the Shaanxi Provincial Department of Veterans Affairs announced the launch of fall vocational skills training for self-employed demobilized soldiers, with registration from Sept 21 to Oct 9 at 20 programs in 18 schools across six cities.",
+  "body_zh": "陕西秋季统筹统招自主就业退役士兵职业技能培训工作启动\n9月17日，记者从陕西省退役军人事务厅获悉：陕西秋季统筹统招自主就业退役士兵职业技能培训工作启动。培训报名时间为9月21日至10月9日。\n本次职业技能培训的报名条件为：2011年11月1日后退出现役，且安置地为陕西省的自主就业退役士兵；未参加过陕西省退役军人事务部门或退役军人事务部门成立前民政部门组织的免费职业技能培训，且未达到法定退休年龄的自主就业退役士兵。同时满足以上两个条件的退役士兵，不分市、县地域，均可申请参加本次培训。\n陕西省退役军人事务厅相关处室负责人介绍，本次职业技能培训的报名人数达到招生计划的，即可成班。报名人数超过招生计划的，按报名先后顺序录取，或视情况分期分班次组织培训。报名人数不足招生计划60%的，该班次取消，或者征得退役士兵同意后与其他专业合班。\n本次职业技能培训在6市18个学校（机构）开办20个专业培训班，专业包括无人机应用技术、全媒体运营师、AI动画制作、新能源汽车维修等。其中，开设专业中14个为免费培训项目，6个培训项目因收费超出补助标准，需个人承担部分费用。参加以上培训期间包住宿，享受免费伙食或生活补助，往返交通费自理。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "welfare",
+  "keywords": [
+    "退役军人就业",
+    "职业技能培训"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "陕西省退役军人事务厅",
+      "name_en": "Shaanxi Provincial Department of Veterans Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "退役军人就业",
+      "name_en": "Veterans' Employment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业技能培训",
+      "name_en": "Vocational Skills Training"
+    }
+  ],
+  "tags_zh": [
+    "陕西省退役军人事务厅",
+    "陕西",
+    "退役军人就业",
+    "职业技能培训"
+  ],
+  "tags_en": [
+    "Shaanxi Provincial Department of Veterans Affairs",
+    "Shaanxi",
+    "Veterans' Employment",
+    "Vocational Skills Training"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SN"
+    ],
+    "companies": [
+      {
+        "name_zh": "陕西省退役军人事务厅",
+        "name_en": "Shaanxi Provincial Department of Veterans Affairs"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260919-peoples_sn-b9c44a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

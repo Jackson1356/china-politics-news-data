@@ -1,0 +1,102 @@
+{
+  "id": "20260929-local_zhe_jiang_zai_xian_cn_zj-7a2d24",
+  "source": "local_zhe_jiang_zai_xian_cn_zj",
+  "source_name_zh": "浙江在线",
+  "source_name_en": "浙江在线",
+  "source_media_id": "cac-cn-zj-f8a922b59a",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-ZJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://zjnews.zjol.com.cn/202609/t20260929_31941011.shtml",
+  "title_zh": "中华人民共和国成立77周年",
+  "title_en": "77th Anniversary of the Founding of the People's Republic of China",
+  "summary_zh": "国庆假期临近，预计全社会跨区域人员流动量达21.3亿人次；1—8月规模以上工业企业利润同比增长15.7%；香港及各地节日氛围渐浓。",
+  "summary_en": "Ahead of National Day, cross-regional trips are expected to hit 2.13 billion, industrial profits rose 15.7% in Jan-Aug, and festive decorations went up in Hong Kong and across China.",
+  "body_zh": "国庆假期出行会高位运行，预计全社会跨区域人员流动量将达21.3亿人次，日均约3亿人次。出行人次最高时间在国庆第一天，达到3.4亿人次，是平日出行人数的近2倍。\n9月28日上午，国家统计局发布数据显示，1至8月份，工业企业利润保持较快增长。1—8月份，全国规模以上工业企业实现利润总额52719.8亿元，同比增长15.7%，2026年以来累计增速保持两位数增长。\n国庆临近，香港街头节日气氛日渐浓厚。记者在香港街头看到，香港多处已挂上国庆装饰，包括旗帜、灯饰等，迎接新中国成立77周年。\n中秋、国庆双节来临之际，嘉兴秀洲新塍老街又上新了。9月24日，记者走进新塍老街，河岸鱼形灯笼、墙上福字灯彩营造出浓厚节日氛围。二期区域，枇杷里、椿花奶奶等商铺正为开业做最后准备。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "economy",
+  "keywords": [
+    "国庆假期出行",
+    "工业经济效益",
+    "节日庆祝"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-JX",
+      "name_zh": "嘉兴",
+      "name_en": "Jiaxing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期出行",
+      "name_en": "National Day Holiday Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业经济效益",
+      "name_en": "Industrial Profit Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节日庆祝",
+      "name_en": "Festive Celebrations"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "香港",
+    "嘉兴",
+    "国庆假期出行",
+    "工业经济效益",
+    "节日庆祝"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Hong Kong",
+    "Jiaxing",
+    "National Day Holiday Travel",
+    "Industrial Profit Growth",
+    "Festive Celebrations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [
+      "CN-HK",
+      "CN-ZJ-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260929-local_zhe_jiang_zai_xian_cn_zj-7a2d24",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

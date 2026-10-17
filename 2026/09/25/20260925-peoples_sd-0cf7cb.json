@@ -1,0 +1,92 @@
+{
+  "id": "20260925-peoples_sd-0cf7cb",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/0925/c166192-41707917.html",
+  "title_zh": "济滨高铁启动联调联试",
+  "title_en": "Jibin High-Speed Railway Begins Joint Debugging and Testing",
+  "summary_zh": "9月24日13时，55101次检测列车从济南东站驶出，津潍高铁济南联络线（济滨高铁）全面启动联调联试，为全线开通运营做准备。",
+  "summary_en": "At 13:00 on September 24, a test train departed from Jinan East Station, marking the start of joint debugging and testing for the Jinan-Binzhou high-speed rail link of the Tianjin-Weifang line, a step toward full operation.",
+  "body_zh": "济滨高铁启动联调联试\n9月24日13时，随着55101次检测列车从济南东站稳稳驶出，津潍高铁济南联络线（以下简称“济滨高铁”）全面启动联调联试工作，距离全线开通运营更进一步。\n济滨高铁从济南东站引出，向北经济南市历城区、遥墙机场、章丘区，上跨黄河经济南市济阳区、商河县，向东经滨州市惠民县、滨城区，接入滨州站津潍场。正线全长145.293km，设计时速350公里。全线设济南东、遥墙机场、济阳、商河、惠民、滨州6座车站。其中，济南东、滨州2座车站为既有车站，其余4座车站为新建车站。（范薇）",
+  "image_url": null,
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "高铁建设",
+    "基础设施",
+    "区域交通一体化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-BZ",
+      "name_zh": "滨州",
+      "name_en": "Binzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-Speed Rail Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域交通一体化",
+      "name_en": "Regional Transport Integration"
+    }
+  ],
+  "tags_zh": [
+    "济南",
+    "滨州",
+    "高铁建设",
+    "基础设施",
+    "区域交通一体化"
+  ],
+  "tags_en": [
+    "Jinan",
+    "Binzhou",
+    "High-Speed Rail Construction",
+    "Infrastructure",
+    "Regional Transport Integration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN",
+      "CN-SD-BZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260925-peoples_sd-0cf7cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

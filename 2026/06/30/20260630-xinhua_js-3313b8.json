@@ -1,0 +1,70 @@
+{
+  "id": "20260630-xinhua_js-3313b8",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260630/c409edf902054ece81890f4d101ef10c/c.html",
+  "title_zh": "盐宜高铁长江隧道启动盾构掘进",
+  "title_en": "Shield Tunneling Begins for Yan-Yi High-Speed Railway Yangtze River Tunnel",
+  "summary_zh": "6月30日，盐宜高铁长江隧道正式启动盾构掘进施工，该隧道连接江苏省靖江市与江阴市。",
+  "summary_en": "On June 30, shield tunneling commenced for the Yan-Yi High-Speed Railway Yangtze River Tunnel, connecting Jingjiang and Jiangyin in Jiangsu Province.",
+  "body_zh": "6月30日，随着国产超大直径盾构机苏铁“奋楫号”刀盘缓缓转动，盐宜高铁长江隧道进入盾构掘进施工阶段。\n盐宜高铁长江隧道是盐宜高铁全线控制性工程，北连江苏省靖江市，南接江阴市，全长8130米，采用单洞双线设计，设计时速250公里，是国内首条采用承插式管片的高速铁路盾构隧道。\n记者：毛俊 黄培锋\n新华社音视频部制作\n盐宜高铁长江隧道启动盾构掘进\n06/30\n记者：毛俊 黄培锋\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-06-30T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "高铁建设",
+    "基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-speed Railway Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "高铁建设",
+    "基础设施"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "High-speed Railway Construction",
+    "Infrastructure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260630-xinhua_js-3313b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20261015-local_zhong_guo_ji_lin_wang_cn_jl-252742",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gj/202610/4089993.html",
+  "title_zh": "视频丨日本民间组织负责人：推动修改“无核三原则”与和平理念背道而驰",
+  "title_en": "Video: Japanese Civil Group Leader Says Pushing to Revise the 'Three Non-Nuclear Principles' Betrays Pacifism",
+  "summary_zh": "日本民间和平组织负责人谷雅志批评日本政府推动重新审视“无核三原则”、讨论拥有核动力潜艇，认为这与和平理念背道而驰并将加剧地区紧张。",
+  "summary_en": "Yasushi Tani, head of a Japanese civil peace group, criticized Tokyo's push to revisit the 'three non-nuclear principles' and debate nuclear submarines, saying it betrays pacifism and raises regional tensions.",
+  "body_zh": "近期，日本政府不断推动修改“无核三原则”，日本防卫大臣小泉进次郎近期在多个公开场合表示，关于日本是否要拥有核动力潜艇，在修改“安保三文件”的相关讨论研究中将“不排除任何选项”。日本民间和平组织负责人谷雅志表示，引入核潜艇不会给日本带来和平，反而会更加推动地区局势紧张，日本政府推动重新审视“无核三原则”的相关动向，与和平理念背道而驰。\n民间和平组织负责人 谷雅志：如果认为日本连核动力潜艇都必须拥有，那么再往后甚至可能会有人认为，日本也必须拥有核武器。我认为这将导致军事上的升级，如果重新审视“无核三原则”，就如同中国此前所指出的那样，日本会更加鲜明地展现出“新军国主义”的趋势。我们认为，重新审视“无核三原则”与和平方向背道而驰。\n谷雅志还表示，反对日本政府推动扩军修宪的动向，日本社会必须警惕“新型军国主义”复活。\n民间和平组织负责人 谷雅志：在人们没有察觉到变化的情况下，逐渐把日本建设成一个有一天能够发动战争的国家，我认为这就是“新型军国主义”。日本宪法的理念并没有发生改变，“日本不发动战争，不拥有军队”，我们仍然生活在这样的日本宪法框架之下。从这个意义上来说，我认为不允许“新型军国主义”的存在，也是在坚定维护日本和平宪法。\n初审：  梁欢欢\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "无核三原则",
+    "军备扩张",
+    "和平宪法"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "JP",
+      "name_zh": "日本",
+      "name_en": "Japan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "无核三原则",
+      "name_en": "Three Non-Nuclear Principles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军备扩张",
+      "name_en": "Military Expansion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "和平宪法",
+      "name_en": "Pacifist Constitution"
+    }
+  ],
+  "tags_zh": [
+    "日本",
+    "无核三原则",
+    "军备扩张",
+    "和平宪法"
+  ],
+  "tags_en": [
+    "Japan",
+    "Three Non-Nuclear Principles",
+    "Military Expansion",
+    "Pacifist Constitution"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "JP"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20261015-local_zhong_guo_ji_lin_wang_cn_jl-252742",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://www.scol.com.cn/zlts_ss/202610/83340135.html",
+      "title_zh": "日本民间组织负责人：推动修改“无核三原则”与和平理念背道而驰",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

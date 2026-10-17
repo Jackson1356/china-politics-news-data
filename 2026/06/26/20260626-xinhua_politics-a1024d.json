@@ -1,0 +1,91 @@
+{
+  "id": "20260626-xinhua_politics-a1024d",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260626/e036f6db014447a2a48fb5693ec94b8d/c.html",
+  "title_zh": "两部门就养老服务师职业资格制度出台暂行规定",
+  "title_en": "Two Departments Issue Interim Provisions on Professional Qualification System for Aged Care Service Providers",
+  "summary_zh": "6月26日，民政部与人力资源社会保障部公布《养老服务师职业资格制度暂行规定》，明确设置初、中、高级三个级别的职业资格及相关管理规定。",
+  "summary_en": "On June 26, the Ministry of Civil Affairs and the Ministry of Human Resources and Social Security released interim provisions establishing a three-level professional qualification system for aged care service providers.",
+  "body_zh": "6月26日，民政部、人力资源社会保障部公布《养老服务师职业资格制度暂行规定》，明确设置养老服务师职业资格，并从总则、考试、职业能力、登记及附则等5个方面对养老服务师职业资格制度作出23条具体规定。暂行规定自发布之日起施行。\n暂行规定明确，养老服务师职业资格为水平评价类职业资格，适用于在居家、社区、机构等养老服务场景中从事养老服务工作的专业技术人员；明确该职业资格设置为初级、中级、高级等三个级别，其中初级、中级实行全国统一大纲、统一命题、统一组织的考试制度，高级养老服务师职业资格有关规定另行制定。\n暂行规定还分别明确了参加初级和中级考试的学历条件与从事养老服务工作年限要求，以及养老服务师的职业能力要求等。（朱高祥、钟悦歌）",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "welfare",
+  "keywords": [
+    "养老服务",
+    "职业资格"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Aged Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业资格",
+      "name_en": "Professional Qualification"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "人力资源社会保障部",
+    "养老服务",
+    "职业资格"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Ministry of Human Resources and Social Security",
+    "Aged Care Services",
+    "Professional Qualification"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260626-xinhua_politics-a1024d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33457696",
+      "title_zh": "两部门明确设置养老服务师职业资格",
+      "published_at": "2026-06-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

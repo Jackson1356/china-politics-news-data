@@ -1,0 +1,86 @@
+{
+  "id": "20260627-peoples_politics-969bc0",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0627/c1001-40748754.html",
+  "title_zh": "中国音乐家、舞蹈家、杂技家协会全国代表大会在北京召开",
+  "title_en": "National Congresses of China's Musicians, Dancers, and Acrobats Associations Convene in Beijing",
+  "summary_zh": "2026年6月27日，中国音乐家、舞蹈家和杂技家协会全国代表大会在北京召开，中宣部部长李书磊出席开幕式并讲话。",
+  "summary_en": "On June 27, 2026, the national congresses of the China Musicians, Dancers, and Acrobats Associations were held in Beijing, with Li Shulei, Minister of the Publicity Department, attending and delivering a speech.",
+  "body_zh": "中国音乐家协会第十次全国代表大会、中国舞蹈家协会第十二次全国代表大会、中国杂技家协会第九次全国代表大会在北京召开 李书磊出席开幕式并讲话\n新华社北京6月27日电 中国音乐家协会第十次全国代表大会、中国舞蹈家协会第十二次全国代表大会、中国杂技家协会第九次全国代表大会27日在北京召开。中共中央政治局委员、中宣部部长李书磊出席开幕式并讲话。\n代表们认为，近年来广大音乐、舞蹈、杂技工作者深入学习实践习近平文化思想，围绕中心、服务大局，以声传情、以形塑魂、以技赋美，推出许多反映时代、讴歌人民的艺术佳作，在提高大众审美、凝聚奋进力量、深化对外交流等方面发挥了重要作用，为繁荣发展社会主义文艺作出了积极贡献。\n代表们表示，要锚定2035年建成文化强国的宏伟目标，不断满足人民群众精神文化需求，弘扬民族精神、奏响时代强音。要用多姿多彩的艺术创作展现奋斗图景、表达群众心声，推出更多无愧于时代、无愧于人民的优秀作品。要坚定文化自信，进一步传承和展现中华审美风范。要以具有中国特色、符合海外受众需求的音乐、舞蹈和杂技作品，有声有色讲好中国故事，在促进中外文明交流互鉴中发挥更大作用。要培养造就高水平领军人才，培育基层、青年和新兴领域人才，为他们活跃文化创作、投身新大众文艺提供更多舞台。\n全国人大常委会副委员长、中国文联主席铁凝出席开幕式。",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-27",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "party",
+  "keywords": [
+    "文化强国",
+    "社会主义文艺"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李书磊",
+      "name_en": "Li Shulei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化强国",
+      "name_en": "Cultural Powerhouse"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会主义文艺",
+      "name_en": "Socialist Literature and Art"
+    }
+  ],
+  "tags_zh": [
+    "李书磊",
+    "北京",
+    "文化强国",
+    "社会主义文艺"
+  ],
+  "tags_en": [
+    "Li Shulei",
+    "Beijing",
+    "Cultural Powerhouse",
+    "Socialist Literature and Art"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260627-peoples_politics-969bc0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-27/10648349.shtml",
+      "title_zh": "中国音乐家协会第十次全国代表大会、中国舞蹈家协会第十二次全国代表大会、中国杂技家协会第九次全国代表大会在北京召开 李书磊出席开幕式并讲话",
+      "published_at": "2026-06-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

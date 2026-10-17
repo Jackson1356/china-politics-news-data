@@ -1,0 +1,100 @@
+{
+  "id": "20260803-chinanews_gn-5db6f9",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-03/10671203.shtml",
+  "title_zh": "广州南航建设有限公司副总经理胡继红被查",
+  "title_en": "Hu Jihong, Deputy General Manager of Guangzhou China Southern Airlines Construction Co., Ltd., Under Investigation",
+  "summary_zh": "8月3日，据中央纪委国家监委网站消息，广州南航建设有限公司党委委员、副总经理胡继红涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+  "summary_en": "On August 3, Hu Jihong, Party Committee Member and Deputy General Manager of Guangzhou China Southern Airlines Construction Co., Ltd., is under disciplinary and supervisory investigation for suspected serious violations of discipline and law, according to the CCDI website.",
+  "body_zh": "广州南航建设有限公司副总经理胡继红被查\n中新网8月3日电 据中央纪委国家监委网站消息，中央纪委国家监委驻南航集团纪检监察组、广东省纪委监委发布消息：广州南航建设有限公司党委委员、副总经理胡继红涉嫌严重违纪违法，目前正接受中央纪委国家监委驻南航集团纪检监察组纪律审查和广东省广州市监察委员会监察调查。\n国内新闻精选：\n- 2026年08月04日 12:16:05\n- 2026年08月04日 11:14:47\n- 2026年08月03日 16:43:41\n- 2026年08月03日 13:23:45\n- 2026年08月03日 11:02:06\n- 2026年08月03日 10:26:02\n- 2026年08月02日 13:19:04\n- 2026年08月02日 13:04:41\n- 2026年08月02日 11:20:10\n- 2026年08月02日 07:19:05",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "胡继红",
+      "name_en": "Hu Jihong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "胡继红",
+    "中央纪委国家监委",
+    "广州",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Hu Jihong",
+    "Central Commission for Discipline Inspection",
+    "Guangzhou",
+    "Anti-Corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "胡继红"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260803-chinanews_gn-5db6f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

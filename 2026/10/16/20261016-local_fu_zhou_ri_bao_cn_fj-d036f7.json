@@ -1,0 +1,128 @@
+{
+  "id": "20261016-local_fu_zhou_ri_bao_cn_fj-d036f7",
+  "source": "local_fu_zhou_ri_bao_cn_fj",
+  "source_name_zh": "福州日报",
+  "source_name_en": "福州日报",
+  "source_media_id": "cac-cn-fj-20a27e7754",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.fznews.com.cn/node/12851/20261016/94S724476d.shtml",
+  "title_zh": "福建省海洋经济产业合作创新发展大会在福州举行",
+  "title_en": "Fujian Marine Economy Industry Cooperation and Innovation Conference Held in Fuzhou",
+  "summary_zh": "10月16日，福建省海洋经济产业合作创新发展大会在福州举行，省委书记赵龙等出席，会上发布全球可持续海事创新案例与展望。",
+  "summary_en": "On October 16, the Fujian Marine Economy Industry Cooperation and Innovation Conference was held in Fuzhou, attended by provincial party secretary Zhao Long and other officials, releasing global sustainable maritime innovation cases and outlook.",
+  "body_zh": "福建省海洋经济产业合作创新发展大会举行\n10月16日，作为2026世界航海装备大会主要活动之一，福建省海洋经济产业合作创新发展大会在福州举行。省委书记赵龙，省政协主席滕佳材，省委副书记、福州市委书记郭宁宁出席。\n本次会议是展示世界航海装备大会成果的重要平台，旨在深化海洋经济产业对接合作，推动一批具有影响力的海洋经济龙头企业及重大项目落地。省委常委、副省长赵增连介绍了全省海洋经济发展情况。大会发布了《2026全球可持续海事创新优秀实践案例》《2026全球可持续海事创新展望》。行业研究机构代表、院士专家学者、高校负责人等围绕加快航运绿色转型、深化海洋产业合作、推动海洋领域创新、服务海洋强国战略等作了主旨演讲。\n国家有关部委和央企领导、国外嘉宾代表、福建省有关领导、专家学者代表等参加。（记者 刘必然）",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "海洋经济",
+    "产业合作",
+    "航运绿色转型",
+    "海洋强国战略"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-long-fujian",
+      "name_zh": "赵龙",
+      "name_en": "Zhao Long"
+    },
+    {
+      "kind": "person",
+      "id": "guo-ningning",
+      "name_zh": "郭宁宁",
+      "name_en": "Guo Ningning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋经济",
+      "name_en": "Marine Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航运绿色转型",
+      "name_en": "Green Shipping Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋强国战略",
+      "name_en": "Maritime Power Strategy"
+    }
+  ],
+  "tags_zh": [
+    "赵龙",
+    "郭宁宁",
+    "福州",
+    "福建",
+    "海洋经济",
+    "产业合作",
+    "航运绿色转型",
+    "海洋强国战略"
+  ],
+  "tags_en": [
+    "Zhao Long",
+    "Guo Ningning",
+    "Fuzhou",
+    "Fujian",
+    "Marine Economy",
+    "Industrial Cooperation",
+    "Green Shipping Transition",
+    "Maritime Power Strategy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-long-fujian",
+      "guo-ningning"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ",
+      "CN-FJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-local_fu_zhou_ri_bao_cn_fj-d036f7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_zhou",
+      "source_tier": 4,
+      "url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202610/t20261016_5383036.htm",
+      "title_zh": "福建省海洋经济产业合作创新发展大会举行 _ 榕城要闻 _ 福州市人民政府门户网站",
+      "published_at": "2026-10-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

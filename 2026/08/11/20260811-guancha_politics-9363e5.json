@@ -1,0 +1,79 @@
+{
+  "id": "20260811-guancha_politics-9363e5",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_11_826897.shtml",
+  "title_zh": "内蒙古警方通报“一辆警车擅自更换车标”：立即成立调查组",
+  "title_en": "Inner Mongolia Police Report Unauthorized Replacement of Police Car Emblem, Investigation Team Established",
+  "summary_zh": "内蒙古警方通报一辆警车擅自更换车标，已立即成立调查组。",
+  "summary_en": "Inner Mongolia police reported a police car with unauthorized emblem replacement and immediately established an investigation team.",
+  "body_zh": "胖东来再发“委屈奖”，补偿3名员工7万元 2026-08-11 11:59\n男子去世后父母两次鉴定孙子非亲生，法院却不支持？法律不能辜负老实人 2026-08-11 10:24\n台风“白海豚”深入内陆，中央气象台三预警齐发 2026-08-11 09:34 极端天气\n明天，C919将首次执行国际商业航班 2026-08-11 09:19 中国大飞机\n刘德华，获颁荣誉文学博士 2026-08-11 08:26\n中星4B卫星发射失利 2026-08-11 06:29 航空航天\n我国发现多起“Sorry”勒索病毒攻击事件 2026-08-10 22:13\n易烊千玺、卫诗雅获百花奖最佳男女主 2026-08-10 22:09 中国电影\n受贿6798万余元，中国一重原副总经理陆文俊被判15年 2026-08-10 17:45 廉政风暴\n香港街头一赤膊男子无差别挥刀伤人，致2人受伤 2026-08-10 17:29\n台军演习再出意外，48枚炮弹运输途中掉落路面 2026-08-10 16:51\n极兔被罚7万元，此前一网点工人误将油门当刹车致1死 2026-08-10 16:05\n演员秦焰去世，曾出演《狂飙》《知否》《庆余年》等多部热剧 2026-08-10 15:58\n费大厨，不再自称“大王” 2026-08-10 15:29\n南华大学两所直属三甲医院原院长同日被查 2026-08-10 14:01 廉政风暴\n余华凌晨辟谣 2026-08-10 13:23\n新疆生产建设兵团生态环境局原党组书记、局长吴彬被查 2026-08-10 11:05 廉政风暴\n武汉通报天桥打人事件：街道城管协管员金某等3人被刑拘 2026-08-10 10:50\n黑社会集团涉洗黑钱超6亿港元，香港警方卧底调查，拘捕147人 2026-08-10 08:43 香港\n江西一夜市发生车祸，警方通报：7名群众和肇事司机受伤 2026-08-10 07:54",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "警车管理",
+    "纪律调查"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "警车管理",
+      "name_en": "Police Vehicle Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律调查",
+      "name_en": "Disciplinary Investigation"
+    }
+  ],
+  "tags_zh": [
+    "内蒙古",
+    "警车管理",
+    "纪律调查"
+  ],
+  "tags_en": [
+    "Inner Mongolia",
+    "Police Vehicle Management",
+    "Disciplinary Investigation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吴彬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260811-guancha_politics-9363e5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

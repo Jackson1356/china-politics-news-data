@@ -1,0 +1,97 @@
+{
+  "id": "20260520-xinhua_politics-7f160c",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260520/ceb208adc648458b88bd8199c05e5743/c.html",
+  "title_zh": "两部门发文推动多用户绿电直连发展",
+  "title_en": "Two Departments Issue Document to Promote Multi-user Green Power Direct Connection",
+  "summary_zh": "国家发展改革委、国家能源局发布通知，有序推动多用户绿电直连发展，旨在实现更高水平、更大范围的新能源就近消纳利用。",
+  "summary_en": "The NDRC and National Energy Administration issued a notice to promote multi-user green power direct connection to enhance the local consumption of renewable energy.",
+  "body_zh": "新华社北京5月20日电（记者王悦阳）记者5月20日从国家能源局获悉，国家发展改革委、国家能源局日前发布《关于有序推动多用户绿电直连发展有关事项的通知》，推动消费侧新模式新业态新场景创新发展，实现更高水平、更大范围新能源就近消纳利用。\n多用户绿电直连是指风电、太阳能发电、生物质发电等新能源发电不直接接入公共电网，通过专用线路和变电设施向多个用户供给绿电，实现供给电量清晰溯源和分配的模式。\n通知在适用范围、规划投资与建设、运行管理、交易与价格机制等方面提出明确要求。其中，在交易与价格机制方面，明确项目作为整体参与电力市场，允许内部协调优化运行方式、灵活调整发用电曲线，明确计量结算要求并按就近消纳价格机制缴纳相关费用；同时，探索基于分时计量的绿电溯源机制，与绿证、碳核算等做好衔接。\n新能源就地平衡、就近利用是破解高比例消纳难题的重要举措。通知提出就近消纳要求，其中规定，并网型项目投产运行后，年上网电量原则上不超过总可用发电量的20%。\n国家能源局有关负责同志表示，通知清晰界定项目和大电网的责任边界，强调项目内部自平衡、自调节特性，减轻电力系统平衡压力，引导项目合理申报接入容量，减少对公共电网的容量占用，提升项目自身经济性的同时，一定程度提高公共电网资产投资效率。\n据了解，下一步，相关部门将指导地方结合实际细化文件要求，优化项目管理机制，做好与规划、市场、绿证等的衔接协同，有序推动项目建设。",
+  "image_url": null,
+  "published_at": "2026-05-20T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T02:35:56Z",
+  "topic": "industry",
+  "keywords": [
+    "绿电直连",
+    "新能源消纳"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿电直连",
+      "name_en": "Green Power Direct Connection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源消纳",
+      "name_en": "Renewable Energy Consumption"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "国家能源局",
+    "北京",
+    "绿电直连",
+    "新能源消纳"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "National Energy Administration",
+    "Beijing",
+    "Green Power Direct Connection",
+    "Renewable Energy Consumption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "任边界"
+      }
+    ],
+    "institutions": [
+      {
+        "code": null,
+        "name_zh": "国家发展改革委"
+      },
+      "NEA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260520-xinhua_politics-7f160c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

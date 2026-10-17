@@ -1,0 +1,100 @@
+{
+  "id": "20260614-xinhua_hn-74c861",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "https://www.news.cn/fortune/20260614/eb2c2456e3f74a079fcf0ea5277e1096/c.html",
+  "title_zh": "第10届南博会现场签约超257亿元能源项目",
+  "title_en": "10th China-South Asia Expo Signs Energy Projects Worth Over 25.7 Billion Yuan",
+  "summary_zh": "6月13日，第10届南博会绿色能源馆在昆明举行签约仪式，现场签约18个能源项目，总金额超257亿元，重点涵盖跨境能源合作。",
+  "summary_en": "On June 13, the 10th China-South Asia Expo held a signing ceremony in Kunming, securing 18 energy projects worth over 25.7 billion yuan, with a focus on cross-border energy cooperation.",
+  "body_zh": "新华社昆明6月13日电（记者浦超）中国—南亚博览会执委会13日发布消息，第10届南博会绿色能源馆当天举行项目签约仪式，现场签约18个项目，协议总金额超257亿元，项目涵盖风电、光伏、抽水蓄能电站开发及跨境能源合作等领域。\n现场签约的项目中，跨境能源合作成为亮点。老挝博胶省100MW光伏项目、中广核老挝二期风电项目风机设备供应合作等跨境合作项目先后签约。另外，南方电网澜湄国际能源有限责任公司与老挝国家电力公司签署了绿色电力与绿色证书联合可行性研究谅解备忘录。\n云南省能源局有关负责人表示，跨境能源合作项目签约，将进一步深化云南与周边国家在跨境电力互联互通、清洁能源联合开发等领域的务实合作，加快推进中国面向东南亚能源大通道建设的进程。",
+  "image_url": null,
+  "published_at": "2026-06-14T12:00:00+00:00",
+  "event_date": "2026-06-13",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "绿色能源",
+    "跨境能源合作",
+    "中国—南亚博览会"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "云南省能源局",
+      "name_en": "Yunnan Provincial Energy Bureau"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "昆明",
+      "name_en": "Kunming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色能源",
+      "name_en": "Green Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境能源合作",
+      "name_en": "Cross-border Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—南亚博览会",
+      "name_en": "China-South Asia Expo"
+    }
+  ],
+  "tags_zh": [
+    "云南省能源局",
+    "昆明",
+    "云南",
+    "绿色能源",
+    "跨境能源合作",
+    "中国—南亚博览会"
+  ],
+  "tags_en": [
+    "Yunnan Provincial Energy Bureau",
+    "Kunming",
+    "Yunnan",
+    "Green Energy",
+    "Cross-border Energy Cooperation",
+    "China-South Asia Expo"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": [
+      {
+        "name_zh": "云南省能源局",
+        "name_en": "Yunnan Provincial Energy Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260614-xinhua_hn-74c861",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

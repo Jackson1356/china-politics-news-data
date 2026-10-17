@@ -1,0 +1,74 @@
+{
+  "id": "20260615-cyol-bb2954",
+  "source": "cyol",
+  "source_name_zh": "中国青年报",
+  "source_name_en": "China Youth Daily",
+  "source_url": "http://news.cyol.com/gb/articles/2026-06/15/content_4wq9GjFWl7.html",
+  "title_zh": "中国攻克硅基量子芯片关键材料",
+  "title_en": "China Achieves Breakthrough in Key Materials for Silicon-Based Quantum Chips",
+  "summary_zh": "2026年6月15日，中核集团宣布我国首次成功实现丰度超过99.99%的硅-28同位素自主量产，攻克了硅基量子芯片的关键材料。",
+  "summary_en": "On June 15, 2026, CNNC announced the first independent mass production of Silicon-28 isotopes with over 99.99% abundance, a key material for silicon-based quantum chips.",
+  "body_zh": "中国“纯硅”成功突破！我国攻克硅基量子芯片关键材料\n记者今天（15日）从中核集团了解到，我国科学家在稳定同位素富集领域取得关键性突破，首次成功实现丰度超过99.99%的硅-28同位素自主量产，产品关键指标达国际先进水平。标志着我国在构建自主可控、协同高效的稳定同位素产业格局方面迈出实质性步伐。\n硅是一种非金属元素，天然硅中有三种同位素：硅-28、硅-29和硅-30，其中硅-28占比92.2%，这种同位素可极大降低量子计算中的环境噪声干扰，被誉为“世界上最纯净的硅”。而天然硅中的另一种稳定同位素——硅-29会对量子计算产生干扰。因此，要把干扰降到最低，就必须将硅-28丰度从92.2%提高到99.99%以上。\n中核集团核工业理化工程研究院院长姜宏民介绍，提纯硅-28，不是靠物质反应把硅-29变成硅-28，而是像筛豆子一样把三种同位素分离开——硅-28富集到一侧，硅-29和硅-30到另一侧。总量不变，各组分丰度却变了。\n据介绍，除量子计算外，超高丰度硅-28在先进制程半导体、高端导航、计量基准等前沿领域也有重要应用前景。完成此项突破的中核集团核工业理化工程研究院团队，此前已先后实现钼、碲、镍等12种元素、26种稳定同位素的生产，持续推动稳定同位素分离技术的工程化与产业化。\n（总台央视记者 崔霞 陶嘉树）",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "industry",
+  "keywords": [
+    "量子计算",
+    "稳定同位素",
+    "关键材料"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "量子计算",
+      "name_en": "Quantum Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "稳定同位素",
+      "name_en": "Stable Isotopes"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "关键材料",
+      "name_en": "Key Materials"
+    }
+  ],
+  "tags_zh": [
+    "量子计算",
+    "稳定同位素",
+    "关键材料"
+  ],
+  "tags_en": [
+    "Quantum Computing",
+    "Stable Isotopes",
+    "Key Materials"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "姜宏民"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260615-cyol-bb2954",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

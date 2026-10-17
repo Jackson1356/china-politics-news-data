@@ -1,0 +1,94 @@
+{
+  "id": "20260530-bjnews_zhengshier-2da5b3",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1780143497129647.html",
+  "title_zh": "王益华涉嫌严重违纪违法被查",
+  "title_en": "Wang Yihua Investigated for Serious Violations of Discipline and Law",
+  "summary_zh": "5月30日，中央纪委国家监委通报中国华能集团有限公司原党组成员、总会计师王益华涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
+  "summary_en": "On May 30, the CCDI and NSC announced that Wang Yihua, former party group member and chief accountant of China Huaneng Group, is under investigation for suspected serious violations of discipline and law.",
+  "body_zh": "打虎！王益华被查\n中央纪委国家监委网站5月30日晚消息，中国华能集团有限公司原党组成员、总会计师王益华涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n公开简历显示，王益华出生于1966年3月，曾任国家核电技术公司总会计师、党组成员，国家电力投资集团公司总会计师、党组成员，中国华能集团有限公司总会计师、党组成员等职。",
+  "image_url": null,
+  "published_at": "2026-05-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-31T08:01:48Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王益华",
+      "name_en": "Wang Yihua"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Inspection"
+    }
+  ],
+  "tags_zh": [
+    "王益华",
+    "中央纪委国家监委",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Wang Yihua",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Anti-corruption",
+    "Disciplinary Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王益华"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260530-bjnews_zhengshier-2da5b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_05_30_818877.shtml",
+      "title_zh": "中国华能集团有限公司原党组成员、总会计师王益华被查",
+      "published_at": "2026-05-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20260929-chinanews_gn-91740c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-29/10705608.shtml",
+  "title_zh": "西香高速泸沽湖特大桥主塔顺利封顶",
+  "title_en": "Main Tower of Lugu Lake Bridge on Xichang-Shangri-La Expressway Tops Out",
+  "summary_zh": "9月29日，位于四川凉山州盐源县的西香高速泸沽湖特大桥主塔封顶，标志大桥下部结构完工，转入上部结构施工。",
+  "summary_en": "On Sept 29, the main tower of the Lugu Lake Bridge on the Xichang-Shangri-La Expressway in Yanyuan County, Sichuan, was capped, marking completion of the bridge's substructure and the start of superstructure work.",
+  "body_zh": "西香高速泸沽湖特大桥主塔顺利封顶\n9月29日，经过1年零9个月的建设，四川西昌至云南香格里拉的西香高速泸沽湖特大桥主塔顺利封顶。这座大桥位于四川凉山州盐源县境内，海拔约2600米。大桥全长1921米，主跨1680米，是目前世界最大跨径山区悬索桥。此次主塔顺利封顶，标志着大桥全面完成下部结构建设，正式转入上部结构施工阶段。\n西香高速全长233.13公里，预计2029年底建成通车。项目建成后，将结束四川盐源县、木里县不通高速公路的历史。届时，西昌市到盐源县的车程将由3小时缩短至1小时以内，到泸沽湖的车程将由5小时缩短至2小时以内，进一步串联泸沽湖、香格里拉等重要旅游目的地，促进沿线文旅资源开发和区域经济发展。\n(总台记者 赵雄)\n国内新闻精选：\n- 2026年09月29日 16:46:58\n- 2026年09月29日 13:27:44\n- 2026年09月29日 12:17:31\n- 2026年09月29日 10:35:29\n- 2026年09月29日 10:33:23\n- 2026年09月28日 16:53:24\n- 2026年09月28日 15:54:28\n- 2026年09月28日 14:57:02\n- 2026年09月27日 16:07:16\n- 2026年09月27日 11:15:16",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "交通基础设施",
+    "高速公路建设",
+    "区域经济发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "盐源县",
+      "name_en": "Yanyuan County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transport Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速公路建设",
+      "name_en": "Expressway Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域经济发展",
+      "name_en": "Regional Economic Development"
+    }
+  ],
+  "tags_zh": [
+    "四川",
+    "盐源县",
+    "交通基础设施",
+    "高速公路建设",
+    "区域经济发展"
+  ],
+  "tags_en": [
+    "Sichuan",
+    "Yanyuan County",
+    "Transport Infrastructure",
+    "Expressway Construction",
+    "Regional Economic Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260929-chinanews_gn-91740c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

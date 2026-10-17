@@ -1,0 +1,85 @@
+{
+  "id": "20260831-gov_lin_zhi-be3b24",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/7a4216c0f3c64b81b6a5abe497b12e3f.shtml",
+  "title_zh": "习近平总书记重要指示精神激励西藏干部群众落实抢险救援部署",
+  "title_en": "Xi's Instructions Inspire Tibetans in Rescue Efforts",
+  "summary_zh": "近日，西藏吉隆县发生泥石流灾害，吉隆县公安局和边检站救援人员坚守一线，落实习近平总书记重要指示，全力搜救受灾群众。",
+  "summary_en": "Recently, a mudslide hit Gyirong County, Tibet. Police and border inspection officers are on the front line, implementing Xi Jinping's instructions to rescue victims.",
+  "body_zh": "连日来,吉隆县公安局民(辅)警队伍坚守救援一线,开展人员搜救、现场秩序维护,对现场搜寻物品逐一登记、妥善保管,全力保障救援力量、应急物资车辆通行顺畅。吉隆县公安局党委委员、常务副局长扎西旺扎表示,全县公安机关将始终坚持人民至上、生命至上,坚定信心、迎难而上,持续发扬连续作战的优良作风,压紧压实职责任务,不折不扣执行抢险救援各项部署,坚决守护人民群众生命财产安全。\n驻守国门的移民管理警察同样冲在最前沿。西藏出入境边防检查总站吉隆出入境边防检查站迅速组建18人党员突击队,携带轻便装备挺进吉隆口岸泥石流重灾区,全力开展抢险搜救工作。搜救队成员、吉隆出入境边防检查站副站长桂新伟说:“我们的战友、我们的群众在最一线,跟我们朝夕相处,现在他们处于失联状态,我心里很着急。哪怕一天两天三天四天五天不睡觉,能够把他们平安地带回来,我们都愿意付出。”他顿了顿,声音有些哽咽,但也更加坚定:“一生只做一件事,我为祖国守国门。这就是我们边检的决心,也是我们西藏边检人的初心。”",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "welfare",
+  "keywords": [
+    "抢险救援",
+    "灾害应对"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "吉隆县公安局",
+      "name_en": "Gyirong County Public Security Bureau"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉隆县",
+      "name_en": "Gyirong County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抢险救援",
+      "name_en": "Rescue and Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害应对",
+      "name_en": "Disaster Response"
+    }
+  ],
+  "tags_zh": [
+    "吉隆县公安局",
+    "吉隆县",
+    "抢险救援",
+    "灾害应对"
+  ],
+  "tags_en": [
+    "Gyirong County Public Security Bureau",
+    "Gyirong County",
+    "Rescue and Relief",
+    "Disaster Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "吉隆县公安局",
+        "name_en": "Gyirong County Public Security Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260831-gov_lin_zhi-be3b24",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

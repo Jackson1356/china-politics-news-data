@@ -1,0 +1,91 @@
+{
+  "id": "20260818-local_qing_dao_ri_bao_cn_sd-505c9a",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/468581_1.html",
+  "title_zh": "任刚会见国家能源集团客人",
+  "title_en": "Ren Gang Meets Guest from China Energy Group",
+  "summary_zh": "8月18日，青岛市市长任刚会见国家能源集团副总经理傅振邦一行，双方就新能源领域合作洽谈，并签署战略合作协议。",
+  "summary_en": "On August 18, Mayor Ren Gang of Qingdao met with Fu Zhenbang, Vice President of China Energy Group, to discuss new energy cooperation and signed a strategic cooperation agreement.",
+  "body_zh": "新闻中心  >  正文\n青岛日报社/观海新闻8月18日讯 18日上午，市委副书记、市长任刚会见了国家能源集团党组成员、副总经理傅振邦一行。双方围绕加强新能源领域合作进行了深入洽谈。一致表示，将立足青岛海洋资源优势，聚焦海上风电开发、绿色燃料加注、波浪能利用等方面，体系化布局绿电消纳全链条项目，带动更多企业、技术、人才集聚，努力实现互利共赢发展。会见后，青岛市人民政府、国华能源投资公司、山东港口集团签署战略合作协议。\n高健参加会见。（青岛日报/观海新闻记者 刘萍）",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源合作",
+    "海上风电"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "任刚",
+      "name_en": "Ren Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源合作",
+      "name_en": "New Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海上风电",
+      "name_en": "Offshore Wind Power"
+    }
+  ],
+  "tags_zh": [
+    "任刚",
+    "青岛",
+    "新能源合作",
+    "海上风电"
+  ],
+  "tags_en": [
+    "Ren Gang",
+    "Qingdao",
+    "New Energy Cooperation",
+    "Offshore Wind Power"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高健"
+      },
+      {
+        "id": null,
+        "name_zh": "任刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-QD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260818-local_qing_dao_ri_bao_cn_sd-505c9a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260905-xinhua_js-8734c6",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260905/06096a7e96d04163b63fe99436e1608e/c.html",
+  "title_zh": "刘小涛会见强生公司高管",
+  "title_en": "Liu Xiaotao Meets Senior J&J Executive",
+  "summary_zh": "9月3日，江苏省省长刘小涛在南京会见强生公司执行副总裁史明德，双方表示将深化产学研用合作，助力创新成果走向全球市场。",
+  "summary_en": "On September 3, Governor Liu Xiaotao of Jiangsu met with Johnson & Johnson Executive Vice President Shimingde in Nanjing, pledging to deepen industry-university-research collaboration and bring innovations to the global market.",
+  "body_zh": "9月3日，省长刘小涛在南京会见强生公司执行副总裁、医疗科技全球主席史明德。\n双方表示，将依托江苏生物医药产业的优质生态、庞大市场和强生公司的技术优势、国际布局，进一步深化产学研用合作，携手江苏高校、科研院所和医疗卫生机构开展创新平台共建、人才联合培养，带动更多企业融入江苏生物医药产业链上下游，更好助力创新成果走向全球市场，不断增进人民健康福祉。\n副省长赵岩，省政府秘书长赵建军参加会见。（王拓 李嘉豪）\n刘小涛会见强生公司高管\n09/05",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "industry",
+  "keywords": [
+    "生物医药产业",
+    "产学研合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药产业",
+      "name_en": "Biopharmaceutical Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产学研合作",
+      "name_en": "Industry-University-Research Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "南京",
+    "生物医药产业",
+    "产学研合作"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Nanjing",
+    "Biopharmaceutical Industry",
+    "Industry-University-Research Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260905-local_zhong_guo_jiang_su_wang_cn_js-2386bc",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

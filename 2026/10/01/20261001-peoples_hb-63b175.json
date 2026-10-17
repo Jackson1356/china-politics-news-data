@@ -1,0 +1,118 @@
+{
+  "id": "20261001-peoples_hb-63b175",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/1001/c192237-41712750.html",
+  "title_zh": "湖北省举行烈士纪念日向英雄烈士敬献花篮仪式",
+  "title_en": "Hubei Holds Martyrs' Day Ceremony to Lay Flower Baskets for Heroes and Martyrs",
+  "summary_zh": "9月30日上午，2026年湖北省烈士纪念日向英雄烈士敬献花篮仪式在红安县黄麻起义和鄂豫皖苏区纪念园举行，省委书记关志鸥、省长李殿勋等省领导出席。",
+  "summary_en": "On Sept 30, Hubei Province held a Martyrs' Day flower basket ceremony at the Huangma Uprising and Hubei-Henan-Anhui Soviet Area Memorial Park in Hong'an County, attended by Party Secretary Guan Zhi'ou, Governor Li Dianxun and other provincial leaders.",
+  "body_zh": "湖北省举行烈士纪念日向英雄烈士敬献花篮仪式\n关志鸥李殿勋孙伟诸葛宇杰出席\n今年是中国共产党成立105周年、中国工农红军长征胜利90周年。9月30日上午，2026年湖北省烈士纪念日向英雄烈士敬献花篮仪式在红安县黄麻起义和鄂豫皖苏区纪念园举行。省委书记关志鸥，省委副书记、省长李殿勋，省政协党组书记、主席孙伟，省委副书记诸葛宇杰，省人大常委会党组书记、常务副主任马国强等出席仪式，同各界代表一道致敬英烈荣光，汲取奋进力量。\n纪念园广场内松柏苍翠，五星红旗鲜艳夺目，革命烈士纪念碑巍然耸立。伴着绵绵秋雨，省领导与老战士、烈属、劳模、先进人物和驻鄂部队官兵、机关干部、学生等各方面代表，面向纪念碑列队肃立，现场庄严肃穆。\n在深沉悠远的《烈士纪念日号角》声中，12名礼兵迈着铿锵有力的步伐，正步行进至纪念碑前整齐伫立。\n10时，向英雄烈士敬献花篮仪式正式开始。仪式由李殿勋主持。\n现场奏响雄壮的《义勇军进行曲》，全场齐声高唱中华人民共和国国歌。\n国歌唱毕，全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的英雄烈士默哀。（记者张进）",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "烈士纪念日",
+    "革命传统教育",
+    "红色文化传承"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "guan-zhiou",
+      "name_zh": "关志鸥",
+      "name_en": "Guan Zhi'ou"
+    },
+    {
+      "kind": "person",
+      "id": "li-dianxun",
+      "name_zh": "李殿勋",
+      "name_en": "Li Dianxun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "红安县",
+      "name_en": "Hong'an County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烈士纪念日",
+      "name_en": "Martyrs' Day"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "革命传统教育",
+      "name_en": "Revolutionary Tradition Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "红色文化传承",
+      "name_en": "Red Culture Inheritance"
+    },
+    {
+      "kind": "person",
+      "id": "zhuge-yujie",
+      "name_zh": "诸葛宇杰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "关志鸥",
+    "李殿勋",
+    "湖北",
+    "红安县",
+    "烈士纪念日",
+    "革命传统教育",
+    "红色文化传承",
+    "诸葛宇杰"
+  ],
+  "tags_en": [
+    "Guan Zhi'ou",
+    "Li Dianxun",
+    "Hubei",
+    "Hong'an County",
+    "Martyrs' Day",
+    "Revolutionary Tradition Education",
+    "Red Culture Inheritance"
+  ],
+  "entities": {
+    "politicians": [
+      "guan-zhiou",
+      "li-dianxun",
+      "zhuge-yujie"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261001-peoples_hb-63b175",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

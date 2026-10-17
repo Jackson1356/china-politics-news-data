@@ -1,0 +1,120 @@
+{
+  "id": "20260911-qiushi-fa4c91",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.qstheory.cn/20260911/9d7c12098f4e4698ba2247cbc58cc466/c.html",
+  "title_zh": "习近平将赴印度新德里出席金砖国家领导人第十八次会晤",
+  "title_en": "Xi Jinping to Attend 18th BRICS Leaders' Summit in New Delhi",
+  "summary_zh": "应印度总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+  "summary_en": "At the invitation of Indian Prime Minister Modi, President Xi Jinping will travel to New Delhi on September 12-13 to attend the 18th BRICS Leaders' Summit.",
+  "body_zh": "应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。\n2013年以来，习近平主席多次主持或出席金砖国家领导人会晤，在多个场合就深化金砖国家在各领域务实合作作出一系列生动阐述，引领推动金砖国家合作机制不断发展。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-12",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "多边外交",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "印度新德里",
+      "name_en": "New Delhi, India"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边外交",
+      "name_en": "Multilateral Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "印度新德里",
+    "金砖合作",
+    "多边外交",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New Delhi, India",
+    "BRICS Cooperation",
+    "Multilateral Diplomacy",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260911-qiushi-fa4c91",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/11/content_9455644.html",
+      "title_zh": "学习新语丨习近平主席深刻阐述“金砖合作”",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-09/11/content_38995338.htm",
+      "title_zh": "学习新语丨习近平主席深刻阐述“金砖合作”",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-09/11/content_38996301.htm",
+      "title_zh": "习近平：金砖国家走到一起，是基于共同追求",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": null,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694690.shtml",
+      "title_zh": "习近平将赴印度新德里出席金砖国家领导人第十八次会晤",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260903-local_yang_zi_wan_bao_wang_cn_js-cfe7a7",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202609/t20260903_389036.html",
+  "title_zh": "商务部：中方敦促美方撤销对有关中国企业和公民的制裁",
+  "title_en": "Commerce Ministry Urges US to Lift Sanctions on Chinese Firms, Citizens",
+  "summary_zh": "9月3日，商务部例行新闻发布会上，发言人表示中方强烈不满美方以涉伊朗为由制裁中国企业和公民，敦促美方撤销制裁。",
+  "summary_en": "At a regular press conference on Sept 3, the Ministry of Commerce voiced strong opposition to US sanctions on Chinese companies and citizens over Iran, urging Washington to lift them.",
+  "body_zh": "商务部：中方敦促美方撤销对有关中国企业和公民的制裁\n今天（9月3日）下午，商务部举行例行新闻发布会，新闻发言人介绍，中方已多次声明，坚决反对没有国际法依据，未经联合国安理会授权的单边制裁，美方不顾中方反复交涉，多次以涉伊朗为由制裁中国企业和公民，中方对此强烈不满，坚决反对。\n美单边制裁措施不当干涉有关国家间正常经贸往来，严重干扰全球能源安全和稳定供应，中方敦促美方立即纠正错误做法，撤销对有关中国企业和公民的制裁，中方将坚定维护我企业和公民正当合法权益。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "单边制裁",
+    "中美经贸",
+    "涉伊朗问题"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸",
+      "name_en": "China-US Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉伊朗问题",
+      "name_en": "Iran-Related Issues"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "单边制裁",
+    "中美经贸",
+    "涉伊朗问题"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Unilateral Sanctions",
+    "China-US Trade",
+    "Iran-Related Issues"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260903-local_yang_zi_wan_bao_wang_cn_js-cfe7a7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "20260908-gov_yue_yang-be2418",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2398956.html",
+  "title_zh": "全市大气污染防治工作会议召开",
+  "title_en": "Yueyang Work Meeting on Air Pollution Prevention and Control Held",
+  "summary_zh": "9月7日，湖南省委副书记、岳阳市委书记谢卫江督导检查大气污染防治工作并出席全市大气污染防治工作会议，强调确保完成年度目标任务。",
+  "summary_en": "On Sept. 7, Xie Weijiang, deputy secretary of the CPC Hunan Provincial Committee and secretary of the Yueyang Municipal Party Committee, inspected air pollution control work and chaired a citywide meeting, urging solid efforts to meet annual targets.",
+  "body_zh": "9月7日，省委副书记、岳阳市委书记谢卫江督导检查大气污染防治工作并出席全市大气污染防治工作会议，强调要深学笃行习近平生态文明思想，认真落实省委、省政府部署要求，扛牢政治责任，强化系统治理，以钉钉子精神抓好大气污染防治，确保完成年度目标任务。市委副书记、代理市长唐浩然主持。\n谢卫江先后来到君山区大气国控站点和金耀洞庭工地，督导检查全域空气质量提升和建筑工地扬尘防治等工作。\n会上，听取有关情况汇报后，谢卫江强调，各级各有关部门要切实把思想和行动统一到党中央决策部署和省委、省政府工作要求上来，扎实抓好大气污染防治各项工作。要提升思想认识，以正确政绩观引领推动大气污染防治各项工作落实落地。要坚持系统治理，深入推进大气防治“五大标志性战役”，加快破解产业、能源、交通运输结构和禁烧、禁放难题。要压实企业主体责任，加强指导和服务，确保稳定达标排放，实现绿色低碳发展。要强化问题导向，抓实问题整改，严格监督执法，坚决完成全年任务。要完善群众参与环保治理的体制机制，打一场生态环境保护的人民战争。要加强组织领导，压紧压实责任，提升治理效能，强化督导问效，凝聚齐抓共管的强大合力。\n唐浩然在主持时指出，大气污染防治是习近平总书记亲自部署、亲自推动的重大政治任务，岳阳地处湖南“北大门”“上风口”，要扛牢政治责任抓落实，聚焦重点任务抓落实，从严执法监管抓落实，推动大气污染防治各项工作落地见效。\n会议以视频会议形式召开，各县市区设分会场。市领导陈阁辉、雷欣、林军华，市政府秘书长孙志诚分别参加有关活动。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "大气污染防治",
+    "生态文明建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大气污染防治",
+      "name_en": "Air Pollution Prevention and Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明建设",
+      "name_en": "Ecological Civilization Construction"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐浩然",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳市委",
+    "岳阳",
+    "大气污染防治",
+    "生态文明建设",
+    "唐浩然"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang Municipal Committee",
+    "Yueyang",
+    "Air Pollution Prevention and Control",
+    "Ecological Civilization Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "江督导"
+      },
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-gov_yue_yang-be2418",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

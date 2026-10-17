@@ -1,0 +1,84 @@
+{
+  "id": "20260807-gov_huai_an-3e8694",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/17860849720780rNMkUXi.html",
+  "title_zh": "市领导调研重点工业企业运行情况",
+  "title_en": "Huai'an Mayor Gu Kun Visits Key Industrial Enterprises",
+  "summary_zh": "近日，淮安市市长顾坤赴淮安经开区等地调研重点工业企业运行情况，强调强化创新赋能、优化服务保障，支持企业做大做强。",
+  "summary_en": "Recently, Mayor Gu Kun of Huai'an visited key industrial enterprises in Huai'an Economic Development Zone and other districts, emphasizing innovation empowerment and service optimization to support enterprise growth.",
+  "body_zh": "近日，市长顾坤先后到淮安经开区、清江浦区、淮安区、淮阴区，调研重点工业企业运行情况，强调要深入学习贯彻习近平总书记关于新型工业化的重要论述，认真落实省委省政府决策部署和市委工作要求，牢牢把握新型工业化第一方略，进一步强化创新赋能、优化服务保障，精准有力支持企业挖潜增效、做大做强，全力巩固工业经济稳中有进、向新向好态势，为因地制宜加快发展新质生产力提供有效支撑。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "economy",
+  "keywords": [
+    "新型工业化",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型工业化",
+      "name_en": "New Industrialization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "新型工业化",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "New Industrialization",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260807-gov_huai_an-3e8694",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

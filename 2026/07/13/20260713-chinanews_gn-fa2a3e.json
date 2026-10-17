@@ -1,0 +1,114 @@
+{
+  "id": "20260713-chinanews_gn-fa2a3e",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-13/10658288.shtml",
+  "title_zh": "山东省济宁市委常委白平和接受纪律审查和监察调查",
+  "title_en": "Bai He-ping, Standing Committee Member of Jining Municipal Committee, Under Investigation",
+  "summary_zh": "山东省纪委监委消息，济宁市委常委、统战部部长、政法委书记白平和涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
+  "summary_en": "Bai He-ping, a member of the Standing Committee of the Jining Municipal Committee in Shandong Province, is under investigation for suspected serious violations of discipline and law.",
+  "body_zh": "山东省济宁市委常委、统战部部长、政法委书记白平和接受纪律审查和监察调查\n中央纪委国家监委网站讯 据山东省纪委监委消息：山东省济宁市委常委、统战部部长、政法委书记白平和涉嫌严重违纪违法，目前正接受山东省纪委监委纪律审查和监察调查。\n国内新闻精选：\n- 2026年07月13日 10:18:11\n- 2026年07月13日 10:15:22\n- 2026年07月12日 17:34:07\n- 2026年07月12日 16:19:01\n- 2026年07月11日 19:06:11\n- 2026年07月11日 18:51:40\n- 2026年07月11日 11:46:25\n- 2026年07月11日 11:42:57\n- 2026年07月11日 10:30:50\n- 2026年07月11日 10:12:41",
+  "image_url": null,
+  "published_at": "2026-07-13T12:00:00+00:00",
+  "event_date": "2026-07-13",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "discipline",
+  "keywords": [
+    "纪律审查",
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "白平和",
+      "name_en": "Bai He-ping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "山东省纪委监委",
+      "name_en": "Shandong Provincial Commission for Discipline Inspection and Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "济宁",
+      "name_en": "Jining"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "白平和",
+    "山东省纪委监委",
+    "山东",
+    "济宁",
+    "纪律审查",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Bai He-ping",
+    "Shandong Provincial Commission for Discipline Inspection and Supervisory Commission",
+    "Shandong",
+    "Jining",
+    "Disciplinary Review",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "山东省纪委监委",
+        "name_en": "Shandong Provincial Commission for Discipline Inspection and Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260713-chinanews_gn-fa2a3e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-13/10658319.shtml",
+      "title_zh": "全国46条河流发生超警以上洪水",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-13/10658306.shtml",
+      "title_zh": "水利部发布红色山洪灾害气象预警 这些地区注意防范",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

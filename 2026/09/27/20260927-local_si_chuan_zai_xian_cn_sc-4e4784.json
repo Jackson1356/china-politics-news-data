@@ -1,0 +1,91 @@
+{
+  "id": "20260927-local_si_chuan_zai_xian_cn_sc-4e4784",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.scol.com.cn/zlts_ss/202609/83331426.html",
+  "title_zh": "中美元首历史性会晤，多国专家点赞访美成果",
+  "title_en": "Historic China-US Summit: Experts Praise Outcomes of Xi's State Visit",
+  "summary_zh": "国家主席习近平圆满结束对美国的国事访问，两国元首同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”，多国专家积极评价此访成果。",
+  "summary_en": "President Xi Jinping concluded his state visit to the United States, where the two heads of state agreed to build a constructive strategic stability relationship based on respect, fairness and reciprocity, drawing praise from experts.",
+  "body_zh": "国家主席习近平圆满结束对美国的国事访问。访问期间，两国元首进一步丰富中美关系定位的内涵，同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”。专家表示，本次中美元首会晤意义深远，对世界和平稳定与全球经济发展具有积极影响。",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交",
+    "战略稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Summit Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "美国",
+    "中美关系",
+    "元首外交",
+    "战略稳定"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "United States",
+    "China-US Relations",
+    "Summit Diplomacy",
+    "Strategic Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260927-local_si_chuan_zai_xian_cn_sc-4e4784",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

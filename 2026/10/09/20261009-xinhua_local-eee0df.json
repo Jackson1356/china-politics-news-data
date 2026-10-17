@@ -1,0 +1,114 @@
+{
+  "id": "20261009-xinhua_local-eee0df",
+  "source": "xinhua_local",
+  "source_name_zh": "新华网 地方",
+  "source_name_en": "Xinhua Local Aggregate",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/local/20261009/6bfa6e2131de45efb70bf48e79016faf/c.html",
+  "title_zh": "“十五五”北京城市副中心将继续保持每年千亿投资",
+  "title_en": "Beijing Sub-Center to Keep 100 Billion Yuan Annual Investment in 15th Five-Year Plan",
+  "summary_zh": "10月9日，北京市政府新闻办举行发布会，通州区区长郑皓介绍，“十五五”时期北京城市副中心将保持每年千亿级投资，滚动实施约500个重大项目。",
+  "summary_en": "On Oct 9, Tongzhou District Governor Zheng Hao said Beijing's sub-center will keep annual investment at around 100 billion yuan during the 15th Five-Year Plan, rolling out about 500 major projects.",
+  "body_zh": "新华社北京10月9日电（记者张骁）“十五五”时期，北京城市副中心将继续保持每年千亿级投资规模，社会投资占比保持在七成以上，预计滚动实施重大项目约500个。这是记者9日从北京市政府新闻办召开的首都开局起步“十五五”系列新闻发布会（北京通州区专场）获悉的。\n通州区委副书记、区长郑皓介绍，产业发展方面，北京城市副中心将进一步扩大制造业、科技创新、文商旅体投资规模。加快北京银行、北京农商行、北京金控、同仁堂集团等8家第二批北京市属国企总部建设。建成京津冀软通信创智造基地，高水平运营数智北京创新中心。完善运河商务区功能，实现中国信通院、运河壹号等重点项目全面完工。推动北京环球主题公园一期后续项目建设，建成顶点公园、海昌海洋公园、城市运动中心，推动更多优质项目落地文化旅游区。\n交通方面，围绕保畅通目标，有序实施一批轨道交通、高速路等重点项目。“十五五”时期，力争开工建设北京轨道交通M102线，实现轨道交通22号线、M101线一期通车运行。完成京秦高速西延（机场二高速－东六环）、姚家园路东延一期、通燕高速北关立交改造工程建设，力争建成东部发展带联络线（京平高速－京哈高速），基本实现内外道路通达便捷。\n公共服务方面，全面建成中国人民大学通州校区二期，全力推进北京舞蹈学院通州校区建设。围绕重点功能区、人口集聚区，持续引入优质教育资源，推进首师大附中潞苑校区、北京101中学通州分校、育英学校通州分校等中小学项目建设。加快北京市级优质医疗资源落地，实现首儿所通州院区开诊。\n郑皓介绍，2016年北京城市副中心启动建设至今，固定资产投资累计超过1万亿元。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "economy",
+  "keywords": [
+    "十五五规划",
+    "城市副中心建设",
+    "固定资产投资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zheng-hao-tongzhou",
+      "name_zh": "郑皓",
+      "name_en": "Zheng Hao"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市政府新闻办",
+      "name_en": "Information Office of the Beijing Municipal Government"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "通州",
+      "name_en": "Tongzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市副中心建设",
+      "name_en": "Sub-Center Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "固定资产投资",
+      "name_en": "Fixed-Asset Investment"
+    }
+  ],
+  "tags_zh": [
+    "郑皓",
+    "北京市政府新闻办",
+    "北京",
+    "通州",
+    "十五五规划",
+    "城市副中心建设",
+    "固定资产投资"
+  ],
+  "tags_en": [
+    "Zheng Hao",
+    "Information Office of the Beijing Municipal Government",
+    "Beijing",
+    "Tongzhou",
+    "15th Five-Year Plan",
+    "Sub-Center Development",
+    "Fixed-Asset Investment"
+  ],
+  "entities": {
+    "politicians": [
+      "zheng-hao-tongzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市政府新闻办",
+        "name_en": "Information Office of the Beijing Municipal Government"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261009-xinhua_local-eee0df",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

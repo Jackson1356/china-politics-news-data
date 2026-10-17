@@ -1,0 +1,108 @@
+{
+  "id": "20260811-gov_zhan_jiang-182a0e",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/qxdt/content/post_2211501.html",
+  "title_zh": "杨杰东主持召开2026年第十八次党工委（扩大）会议",
+  "title_en": "Yang Jiedong Chairs 2026 18th Party Working Committee (Enlarged) Meeting",
+  "summary_zh": "8月11日上午，湛江经开区党工委副书记、管委会主任杨杰东主持召开党工委（扩大）会议，传达学习习近平总书记重要指示精神，研究部署防灾减灾工作。",
+  "summary_en": "On the morning of August 11, Yang Jiedong, Deputy Secretary and Director of the Administrative Committee of Zhanjiang Economic Development Zone, chaired the 18th Party Working Committee (Enlarged) Meeting to convey and study General Secretary Xi Jinping's important instructions and arrange disaster prevention and reduction work.",
+  "body_zh": "8月11日上午，湛江经开区党工委副书记、管委会主任杨杰东主持召开2026年第十八次党工委（扩大）会议，传达学习习近平总书记近期重要讲话重要指示精神，以及上级有关会议精神，研究经开区贯彻落实意见。\n会议传达学习了习近平总书记对重庆彭水县发生山体崩塌作出的重要指示精神，强调当前正值“七下八上”防汛关键期，台风、强降雨、强对流天气频发，地质灾害风险持续攀升，全区各单位、各镇街要提高政治站位，保持高度警惕，始终坚持人民至上、生命至上，以底线思维、极限思维，坚决扛起防灾减灾救灾政治责任，切实做好防灾减灾救灾各项工作，全力保障人民群众生命财产安全。\n会议要求，要聚焦关键点位，全域深化隐患排查整治，加快防灾工程完工投用，加强重点水域巡查管控和宣传教育，高度重视开渔期海上风险防范，坚决筑牢重点领域安全防线。要坚持预警宣传先行，加密监测预警频次，各级三防指挥机构发挥统筹协调作用，强化响应联动机制。临灾时要严格按照“主动避让、提前避让、预防避让”的要求，落实责任对接“三个联系”、特殊群体临灾转移“四个一”、避险转移“四个一律”等硬性规定，各单位、各镇街坚决、果断、提前、彻底转移危险区域群众，做到应转尽转、应转早转，牢牢守住“零伤亡”底线。\n会议还审议了其他事项。\n区党政领导班子成员，区法检“两长”，区直及驻区各单位主要负责人，区总经济师、总工程师，区消防救援大队、各镇（街道）党（工）委主要负责人参加会议。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "party",
+  "keywords": [
+    "防灾减灾",
+    "防汛"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨杰东",
+      "name_en": "Yang Jiedong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湛江经开区党工委",
+      "name_en": "Zhanjiang Economic Development Zone Party Working Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "杨杰东",
+    "湛江经开区党工委",
+    "湛江",
+    "防灾减灾",
+    "防汛",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yang Jiedong",
+    "Zhanjiang Economic Development Zone Party Working Committee",
+    "Zhanjiang",
+    "Disaster Prevention and Reduction",
+    "Flood Control"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "杨杰东"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "湛江经开区党工委",
+        "name_en": "Zhanjiang Economic Development Zone Party Working Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260811-gov_zhan_jiang-182a0e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

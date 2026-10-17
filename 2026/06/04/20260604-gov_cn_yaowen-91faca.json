@@ -1,0 +1,107 @@
+{
+  "id": "20260604-gov_cn_yaowen-91faca",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071058.htm",
+  "title_zh": "我国自贸试验区持续提升对外开放水平",
+  "title_en": "China's Free Trade Zones Continue to Enhance Opening-up Levels",
+  "summary_zh": "今年以来，我国自贸试验区通过制度创新和扩大开放，在口岸通关、利用外资及数据出境管理等方面取得进展，开放型经济质量稳步提升。",
+  "summary_en": "Since the beginning of the year, China's Free Trade Zones have enhanced the quality of the open economy through institutional innovation and expanded opening-up in customs clearance, foreign investment, and data export management.",
+  "body_zh": "今年以来，我国自贸试验区建设不断优化布局，在制度创新、扩大开放等方面持续发力，开放型经济质量和发展活力稳步提升。\n最近一段时间，在今年新设立的内蒙古自贸试验区满洲里片区，口岸通关便利化等一系列改革举措加快落地。以往企业线下报审、多卡口重复核验等环节被打通，进出口货物通关更顺畅。\n不仅在内蒙古，商务部最新数据显示，今年前4个月，全国自贸试验区整体利用外资总额、外贸进出口总额同比增长超过30%，占全国比重分别上升至27.4%和22.3%，达到历史新高。\n持续扩大高水平开放，提升自贸试验区辐射带动能力。今年，北京、上海自贸试验区发布新版数据出境负面清单并复制推广至全市。截至目前，全国已有9个自贸试验区和海南自由贸易港制定实施数据出境负面清单，涵盖零售、再保险等28个领域。与此同时，各自贸试验区还推动生物技术等领域扩大开放试点，加快落地见效。",
+  "image_url": null,
+  "published_at": "2026-06-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "economy",
+  "keywords": [
+    "自贸试验区",
+    "对外开放",
+    "制度创新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自贸试验区",
+      "name_en": "Free Trade Zones"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制度创新",
+      "name_en": "Institutional Innovation"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "内蒙古",
+    "北京",
+    "上海",
+    "自贸试验区",
+    "对外开放",
+    "制度创新"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Inner Mongolia",
+    "Beijing",
+    "Shanghai",
+    "Free Trade Zones",
+    "Opening-up",
+    "Institutional Innovation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-NM",
+      "CN-BJ",
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260604-gov_cn_yaowen-91faca",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

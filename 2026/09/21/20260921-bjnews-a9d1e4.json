@@ -1,0 +1,97 @@
+{
+  "id": "20260921-bjnews-a9d1e4",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789961935129548.html",
+  "title_zh": "王心富任广西壮族自治区党委副书记",
+  "title_en": "Wang Xinfu Appointed Deputy Secretary of the Guangxi Zhuang Autonomous Region Party Committee",
+  "summary_zh": "中央批准，王心富任广西壮族自治区党委副书记，张冬云任自治区党委常委、纪委书记，房灵敏被免去自治区党委常委、纪委书记职务。",
+  "summary_en": "Approved by the central leadership, Wang Xinfu was appointed deputy secretary of the Guangxi Zhuang Autonomous Region Party Committee, while Zhang Dongyun became a standing committee member and the region's discipline inspection chief, replacing Fang Lingmin.",
+  "body_zh": "据广西日报消息，中央批准，王心富同志任广西壮族自治区党委副书记，廖志伟同志任广西壮族自治区党委委员、常委，张冬云同志任广西壮族自治区党委委员、常委和自治区纪委书记，刘艳红同志任广西壮族自治区党委委员、常委，免去房灵敏同志的广西壮族自治区党委常委和自治区纪委书记职务。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "干部调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xinfu",
+      "name_zh": "王心富",
+      "name_en": "Wang Xinfu"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广西壮族自治区党委",
+      "name_en": "Guangxi Zhuang Autonomous Region Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部调整",
+      "name_en": "Cadre Reshuffle"
+    }
+  ],
+  "tags_zh": [
+    "王心富",
+    "广西壮族自治区党委",
+    "广西",
+    "人事任免",
+    "干部调整"
+  ],
+  "tags_en": [
+    "Wang Xinfu",
+    "Guangxi Zhuang Autonomous Region Party Committee",
+    "Guangxi",
+    "Personnel Appointment and Removal",
+    "Cadre Reshuffle"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xinfu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX"
+    ],
+    "companies": [
+      {
+        "name_zh": "广西壮族自治区党委",
+        "name_en": "Guangxi Zhuang Autonomous Region Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260921-bjnews-a9d1e4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20260901-peoples_hb-af9859",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/0901/c192237-41683305.html",
+  "title_zh": "世界首座四主缆悬索桥燕矶长江大桥启动荷载试验",
+  "title_en": "World's First Four-Main-Cable Suspension Bridge Yanji Yangtze River Bridge Starts Load Test",
+  "summary_zh": "8月30日晚，由湖北交投集团投资建设的燕矶长江大桥启动荷载试验，180台重型载重车同步加载，全面评估桥梁承载力与安全性。",
+  "summary_en": "On the evening of August 30, the Yanji Yangtze River Bridge, invested by Hubei Communications Investment Group, started load tests with 180 heavy trucks loading simultaneously to assess its bearing capacity and safety.",
+  "body_zh": "世界首座四主缆悬索桥燕矶长江大桥启动荷载试验\n8月30日晚，由湖北交投集团投资建设的燕矶长江大桥启动荷载试验。180台重型载重车在上下层桥面同步布设、同时加载，静态荷载试验正式展开。\n本次荷载试验自8月30日起，为期5天，旨在对大桥承载力和安全性进行全面评估，为桥梁竣工验收提供科学依据。\n燕矶长江大桥采用双塔单跨设计，一跨过江，主跨1860米。上层设计为高速公路，下层为城市快速路。该桥为鄂州国际物流核心枢纽的综合配套工程，是鄂东空铁、空陆联运立体交通运输体系的重要过江通道，也是推动黄冈、鄂州、黄石三市跨江联动开发、促进三市一体化发展的关键工程。（杜涛、陈欣雨、蔡河）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "industry",
+  "keywords": [
+    "交通基础设施",
+    "桥梁工程"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transport Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "桥梁工程",
+      "name_en": "Bridge Engineering"
+    }
+  ],
+  "tags_zh": [
+    "湖北",
+    "交通基础设施",
+    "桥梁工程"
+  ],
+  "tags_en": [
+    "Hubei",
+    "Transport Infrastructure",
+    "Bridge Engineering"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-peoples_hb-af9859",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

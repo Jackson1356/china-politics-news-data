@@ -1,0 +1,96 @@
+{
+  "id": "20260923-local_si_chuan_zai_xian_cn_sc-3c47e7",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202609/83329137.html",
+  "title_zh": "习近平复信美国高校青年学生 鼓励促进中美相知相亲",
+  "title_en": "Xi Jinping Replies to Young US Students, Urging Them to Promote China-US Mutual Understanding",
+  "summary_zh": "习近平主席复信美国哈佛大学等10所高校近百名青年学生，勉励他们成为中美友好合作的传承者、维护者、发展者，促进两国人民相知相亲。",
+  "summary_en": "President Xi Jinping replied to nearly 100 students from 10 US universities, including Harvard, urging them to carry forward China-US friendship and deepen mutual understanding between the two peoples.",
+  "body_zh": "近期，美国哈佛大学等10所高校的近百名青年学生致信习近平主席，讲述来华参加“2026中美青年亚太同心之旅”等主题交流活动的收获和体会，表达为促进中美友好作贡献的意愿。近日，他们收到了习近平主席的复信。\n习近平主席在复信中强调，中美青年同处一个地球，共担时代使命。希望你们继续同两国广大青年一道，努力成为中美友好合作的传承者、维护者、发展者，携手促进两国人民相知相亲、两国关系行稳致远，为建设更加美好的世界贡献青春力量。\n2023年11月习近平主席提出“5年邀请5万名美国青少年来华交流学习”倡议以来，已有超过5万名美国青少年来华参访，提前两年半实现预期目标。近年来，从体育交流“以球会友”到“跟着熊猫游中国”，从飞虎队青年领袖对话会到青年音乐家联合音乐会，在不同形式的交流交往中，中美两国青少年双向奔赴，加深相互了解和理解，结下深厚友谊，书写了两国人民友好交流的崭新篇章。\n记者：李贺 卢烨 丁磊 毛思倩 郭绪雷 关晖 张昕怡 卢汉欣 杨文斌 王晓 张凤国 陈诚 曾慧 邵瑞 刘尊拴 徐剑梅 李睿",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "青年交流",
+    "民间外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "哈佛大学",
+      "name_en": "Harvard University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年交流",
+      "name_en": "Youth Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民间外交",
+      "name_en": "People-to-People Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "哈佛大学",
+    "中美关系",
+    "青年交流",
+    "民间外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Harvard University",
+    "China-US Relations",
+    "Youth Exchange",
+    "People-to-People Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "哈佛大学",
+        "name_en": "Harvard University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260923-local_si_chuan_zai_xian_cn_sc-3c47e7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

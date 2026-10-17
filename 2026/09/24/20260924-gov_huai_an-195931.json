@@ -1,0 +1,93 @@
+{
+  "id": "20260924-gov_huai_an-195931",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17881920/1790205629076yuymai6s.html",
+  "title_zh": "淮安市第九次党代会主席团举行第二次第三次会议",
+  "title_en": "Presidium of Huai'an 9th Party Congress Holds 2nd and 3rd Meetings",
+  "summary_zh": "9月23日，淮安市第九次党代会主席团举行第二、三次会议，顾坤作提名讲话，通过选举办法并确定市委、市纪委及省党代会代表候选人名单。",
+  "summary_en": "On Sept 23, the presidium of the 9th CPC Huai'an City Congress held its second and third meetings, adopting election rules and confirming candidate lists for municipal Party and discipline committees.",
+  "body_zh": "市第九次党代会主席团举行第二次第三次会议\n9月23日上午，市第九次党代会主席团举行第二次会议。大会主席团成员出席会议。\n顾坤同志作关于九届市委委员、候补委员和市纪委委员、淮安市出席省第十五次党代会代表候选人预备人选的提名讲话。\n会议听取各代表团审议市委报告、市纪委工作报告的情况汇报；讨论通过大会《选举办法（草案）》；审议通过九届市委委员、候补委员和市纪委委员、淮安市出席省第十五次党代会代表候选人建议名单；布置推选大会选举监票人；审议通过党费收缴使用管理情况报告。\n9月23日下午，市第九次党代会主席团举行第三次会议。大会主席团成员出席会议。\n会议听取各代表团讨论大会《选举办法（草案）》情况的汇报，通过《选举办法》；通过监票人、总监票人名单；听取各代表团审议关于市委报告和市纪委工作报告《决议（草案）》的情况汇报；听取各代表团酝酿候选人建议名单情况汇报，确定九届市委委员和市纪委委员、淮安市出席省第十五次党代会代表候选人名单。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "党代会",
+    "换届选举",
+    "党的建设"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Party Congress",
+    "Leadership Election",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260924-gov_huai_an-195931",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

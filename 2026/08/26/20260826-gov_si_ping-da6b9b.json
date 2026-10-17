@@ -1,0 +1,97 @@
+{
+  "id": "20260826-gov_si_ping-da6b9b",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/zw/spdt/202608/t20260826_773915.html",
+  "title_zh": "金华市委书记朱重烈率团赴四平考察对接对口合作",
+  "title_en": "Zhu Chonglie, Secretary of Jinhua Municipal Party Committee, Leads Delegation to Siping for Counterpart Cooperation",
+  "summary_zh": "8月25日，金华市委书记朱重烈率代表团赴吉林四平考察，四平市长陈德明陪同，双方共商产业协作、农业合作与红色文旅等对口合作事宜。",
+  "summary_en": "On Aug. 25, Zhu Chonglie, secretary of Jinhua Municipal Party Committee, led a delegation to Siping, Jilin, for inspection and cooperation talks, accompanied by Mayor Chen Deming, to deepen counterpart cooperation.",
+  "body_zh": "2026-08-26\n为深入贯彻落实吉浙对口合作战略部署，进一步深化四平与金华对口合作，拓展合作领域、凝聚发展合力，8月25日，金华市委书记朱重烈率金华市代表团来我市开展学习考察与合作对接。市委副书记、市长陈德明陪同考察。\n代表团一行先后走进企业生产一线、农业示范基地、红色教育场馆，实地了解我市产业发展、黑土地保护、现代农业建设以及红色文化传承等方面工作情况，共商两地深化对口合作新思路、新路径。\n在吉林世宝机械制造有限公司，代表团走进生产车间，实地察看企业生产运行状况，详细了解汽车零部件产业发展布局、产业链配套建设及企业经营发展情况，围绕产业协作、供需对接、技术协同等内容开展交流探讨，探寻两地制造业互补发展的结合点。\n在四平战役纪念馆，代表团认真参观展陈，回望四战四平烽火岁月，深入了解那段波澜壮阔的红色史实，感悟革命精神，共同探讨红色资源挖掘、红色文旅融合发展的有效途径。\n考察中，两地围绕产业协同、农业合作、红色文旅互鉴、资源要素互通等方面开展交流。双方表示，四平与金华虽相隔千里，但对口合作基础扎实、前景广阔，将持续用好对口合作平台，立足两地资源禀赋，坚持优势互补、双向赋能，找准合作切入点，在产业联动、农产品产销对接、红色文化交流互鉴等方面深化务实合作，推动两地对口合作不断走深走实，携手实现共赢发展。\n金华市领导叶帮锐、陆品能，市领导熊伟威、付永久参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-26T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "对口合作",
+    "产业协作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhu-chonglie-jinhua",
+      "name_zh": "朱重烈",
+      "name_en": "Zhu Chonglie"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "金华市委",
+      "name_en": "Jinhua Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口合作",
+      "name_en": "Counterpart Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业协作",
+      "name_en": "Industrial Collaboration"
+    }
+  ],
+  "tags_zh": [
+    "朱重烈",
+    "金华市委",
+    "四平",
+    "对口合作",
+    "产业协作"
+  ],
+  "tags_en": [
+    "Zhu Chonglie",
+    "Jinhua Municipal Party Committee",
+    "Siping",
+    "Counterpart Cooperation",
+    "Industrial Collaboration"
+  ],
+  "entities": {
+    "politicians": [
+      "zhu-chonglie-jinhua"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": [
+      {
+        "name_zh": "金华市委",
+        "name_en": "Jinhua Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260826-gov_si_ping-da6b9b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

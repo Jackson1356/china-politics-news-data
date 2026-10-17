@@ -1,0 +1,94 @@
+{
+  "id": "20260609-gov_cn_yaowen-0c9d3a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7071645.htm",
+  "title_zh": "前5月我国货物贸易进出口延续稳定增长",
+  "title_en": "China's Goods Trade Imports and Exports Maintain Stable Growth in First Five Months",
+  "summary_zh": "海关总署6月9日发布数据显示，今年前5个月我国货物贸易进出口总值20.68万亿元，同比增长15.3%，延续稳定增长态势。",
+  "summary_en": "The General Administration of Customs reported on June 9 that China's total goods trade imports and exports reached 20.68 trillion yuan in the first five months of the year, a year-on-year increase of 15.3%.",
+  "body_zh": "新华社北京6月9日电（记者 邹多为）海关总署9日发布数据显示，今年前5个月，我国货物贸易进出口总值20.68万亿元，同比增速继续上行至15.3%，较前4个月加快0.4个百分点。其中，5月单月进出口4.45万亿元，同比增速较上月扩大2.7个百分点至16.9%。\n对于我国外贸表现，海关总署统计分析司司长吕大良用“延续稳定增长”来评价。他说，今年以来，在元首外交战略引领下，我国积极深化和全球经贸伙伴的务实合作，为国际经贸运行注入稳定力量。截至5月，月度进出口已连续3个月超过4万亿元，保持良好运行态势。\n从出口侧看，前5个月11.91万亿元出口额同比增长11.8%。其中，高技术、高附加值机电产品出口7.58万亿元，同比增长18.4%，占我国整体出口的超六成，锂电池、风力发电机组等绿色产品出口增长四成左右。\n从进口侧看，随着国内需求总体改善，前5个月累计进口8.77万亿元，同比增长20.5%，其中，5月当月进口增长21.5%，连续3个月同比增长超两成。\n机制灵活、市场敏锐、勇于创新的民营企业继续保持中国第一大外贸主体地位。前5个月，民营企业进出口11.81万亿元，同比增长15.5%。作为我国外贸的重要力量，同期，外资企业进出口6.02万亿元，增长15.7%，进出口比重占我国外贸总值的近三成。\n前5个月，我国对东盟、欧盟、美国进出口分别为同比增长16.6%、10.3%和下降6.6%，对共建“一带一路”国家进出口增长13.6%。\n值得注意的是，前5个月，我国对非洲国家进出口1.14万亿元，历史同期首次突破1万亿元，同比增长18.2%。5月当月，自非洲进口951.3亿元，同比增长15%，为连续9个月增长。\n吕大良表示，5月份，我国对非洲建交国全面实施零关税举措，自非洲进口优质特色产品增速进一步加快，像水果、水产品等环比增长均超三成。",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "economy",
+  "keywords": [
+    "货物贸易",
+    "对外贸易",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货物贸易",
+      "name_en": "Goods Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "北京",
+    "货物贸易",
+    "对外贸易",
+    "一带一路"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "Beijing",
+    "Goods Trade",
+    "Foreign Trade",
+    "Belt and Road Initiative"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吕大良"
+      }
+    ],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260609-gov_cn_yaowen-0c9d3a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

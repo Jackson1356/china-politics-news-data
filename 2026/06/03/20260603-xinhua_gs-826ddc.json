@@ -1,0 +1,115 @@
+{
+  "id": "20260603-xinhua_gs-826ddc",
+  "source": "xinhua_gs",
+  "source_name_zh": "新华网 甘肃",
+  "source_name_en": "Xinhua Gansu",
+  "source_url": "http://gs.news.cn/20260603/aff14345ae924b048ae48a263eb54276/c.html",
+  "title_zh": "甘肃省人民政府关于谢兴文等同志职务任免的通知",
+  "title_en": "Notice of the Gansu Provincial People's Government on Personnel Appointments and Removals of Xie Xingwen and Others",
+  "summary_zh": "甘肃省人民政府决定任免谢兴文、汪聚应、廖林峰等同志的职务。",
+  "summary_en": "The Gansu Provincial People's Government announced the appointment and removal of officials, including Xie Xingwen, Wang Juying, and Liao Linfeng.",
+  "body_zh": "各市、自治州人民政府，甘肃矿区办事处，兰州新区管委会，省政府各部门，中央在甘各单位：\n甘肃省人民政府决定：\n谢兴文任甘肃省中医院院长（副厅长级，保留试用期），免去其甘肃中医药大学副校长职务。\n免去：\n汪聚应的天水师范大学校长职务；\n廖林峰的甘肃省人民政府研究室副主任职务。\n甘肃省人民政府\n各市、自治州人民政府，甘肃矿区办事处，兰州新区管委会，省政府各部门，中央在甘各单位：\n甘肃省人民政府决定：\n谢兴文任甘肃省中医院院长（副厅长级，保留试用期），免去其甘肃中医药大学副校长职务。\n免去：\n汪聚应的天水师范大学校长职务；\n廖林峰的甘肃省人民政府研究室副主任职务。\n甘肃省人民政府",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-03",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "干部调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "谢兴文",
+      "name_en": "Xie Xingwen"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "甘肃省中医院",
+      "name_en": "Gansu Provincial Hospital of Traditional Chinese Medicine"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "甘肃中医药大学",
+      "name_en": "Gansu University of Chinese Medicine"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "天水师范大学",
+      "name_en": "Tianshui Normal University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部调整",
+      "name_en": "Cadre Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "谢兴文",
+    "甘肃省中医院",
+    "甘肃中医药大学",
+    "天水师范大学",
+    "甘肃",
+    "人事任免",
+    "干部调整"
+  ],
+  "tags_en": [
+    "Xie Xingwen",
+    "Gansu Provincial Hospital of Traditional Chinese Medicine",
+    "Gansu University of Chinese Medicine",
+    "Tianshui Normal University",
+    "Gansu",
+    "Personnel Appointment and Removal",
+    "Cadre Adjustment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "甘肃省中医院",
+        "name_en": "Gansu Provincial Hospital of Traditional Chinese Medicine"
+      },
+      {
+        "name_zh": "甘肃中医药大学",
+        "name_en": "Gansu University of Chinese Medicine"
+      },
+      {
+        "name_zh": "天水师范大学",
+        "name_en": "Tianshui Normal University"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260603-xinhua_gs-826ddc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

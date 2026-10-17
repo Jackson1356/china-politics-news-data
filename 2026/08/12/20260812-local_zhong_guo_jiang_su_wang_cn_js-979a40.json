@@ -1,0 +1,123 @@
+{
+  "id": "20260812-local_zhong_guo_jiang_su_wang_cn_js-979a40",
+  "source": "local_zhong_guo_jiang_su_wang_cn_js",
+  "source_name_zh": "中国江苏网",
+  "source_name_en": "中国江苏网",
+  "source_media_id": "cac-cn-js-97d8bc0710",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://jsnews.jschina.com.cn/jsyw/202608/t20260812_s6a7bb276e4b02a27aa5a076a.shtml",
+  "title_zh": "刘小涛会见哈电集团董事长黄伟",
+  "title_en": "Jiangsu Governor Liu Xiaotao Meets with Huang Wei, Chairman of Harbin Electric Group",
+  "summary_zh": "8月10日，江苏省省长刘小涛会见哈电集团董事长黄伟，并共同见证镇江市与哈电集团签署战略合作协议。",
+  "summary_en": "On August 10, Jiangsu Governor Liu Xiaotao met with Huang Wei, Chairman of Harbin Electric Group, and witnessed the signing of a strategic cooperation agreement between Zhenjiang and Harbin Electric Group.",
+  "body_zh": "交汇点讯 8月10日，省长刘小涛会见哈尔滨电气集团有限公司董事长黄伟一行，并共同见证镇江市与哈电集团签署战略合作协议。\n刘小涛对哈电集团长期以来给予江苏发展的支持表示感谢。刘小涛说，江苏正深入推进制造业智能化、绿色化、融合化发展，大力实施“人工智能+制造”，加快经济社会发展全面绿色转型，与哈电集团深化合作空间广阔。希望以此次签约为契机，聚焦高端装备制造、新能源等领域携手拓展产业布局，共同推进关键核心技术攻关，积极搭建电力装备产业链供应链合作平台，打造央地合作新标杆。我们将持续优化营商环境，全力保障企业在苏更好发展。\n黄伟表示，哈电集团将紧扣国家重大战略，围绕江苏发展需要，积极推动科技创新和产业创新深度融合，不断深化央地合作，共同促进装备制造业高质量发展，为保障国家能源安全作出积极贡献。\n哈电集团总经理刘清勇，哈电集团副总经理陈辉，省政府秘书长赵建军参加。\n新华日报·交汇点记者 王拓 李嘉豪",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "industry",
+  "keywords": [
+    "高端装备制造",
+    "新能源",
+    "央地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高端装备制造",
+      "name_en": "High-end Equipment Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-local Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "高端装备制造",
+    "新能源",
+    "央地合作",
+    "黄伟"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "High-end Equipment Manufacturing",
+    "New Energy",
+    "Central-local Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "黄伟"
+      },
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-gov_yan_cheng-816252",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/12/art_60096_11815052.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛会见哈电集团董事长黄伟",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yan_cheng",
+      "source_tier": 4,
+      "url": "http://www.jiangsu.gov.cn/art/2026/8/12/art_60096_11815052.html",
+      "title_zh": "江苏省人民政府 要闻关注 刘小涛会见哈电集团董事长黄伟",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

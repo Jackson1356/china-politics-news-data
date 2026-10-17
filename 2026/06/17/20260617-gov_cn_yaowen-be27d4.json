@@ -1,0 +1,107 @@
+{
+  "id": "20260617-gov_cn_yaowen-be27d4",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072555.htm",
+  "title_zh": "多项金融开放举措发布",
+  "title_en": "Multiple Financial Opening-up Measures Released",
+  "summary_zh": "2026年6月17日，2026陆家嘴论坛发布多项金融改革和开放举措，由中国人民银行、国家金融监督管理总局、证监会和国家外汇管理局共同推出。",
+  "summary_en": "On June 17, 2026, the 2026 Lujiazui Forum announced several financial reform and opening-up measures introduced by the PBOC, NFRA, CSRC, and SAFE.",
+  "body_zh": "今天（6月17日）举行的2026陆家嘴论坛发布多项金融改革和开放举措。\n中国人民银行将推出多项政策举措，包括完善短端利率调控机制、创设境外央行回购工具、在上海自贸区开展离岸人民币外汇交易试点等，将更好助力经济高质量发展和金融市场开放。\n国家金融监督管理总局将聚力攻坚防范化解风险，有力有序处置中小金融机构风险，支持配合化解房地产、地方政府债务风险；着力消除监管空白和盲区，确保全覆盖、无例外。\n证监会将扩大科创板第五套标准适用范围至人工智能领域，有序推进深化创业板改革，深化再融资改革，推出主动ETF、商业不动产REITs试点，加快研究推进人民币外汇期货试点。\n国家外汇管理局将全面改革外商直接投资跨境政策，进一步简化对外直接投资、外债等汇兑管理，发放新一批合格境内机构投资者投资额度，更好推进跨境投融资便利化。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "economy",
+  "keywords": [
+    "金融开放",
+    "金融改革",
+    "风险防范"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "institution",
+      "id": "NFRA",
+      "name_zh": "国家金融监督管理总局",
+      "name_en": "National Financial Regulatory Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "SAFE",
+      "name_zh": "国家外汇管理局",
+      "name_en": "State Administration of Foreign Exchange"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融开放",
+      "name_en": "Financial Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融改革",
+      "name_en": "Financial Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "风险防范",
+      "name_en": "Risk Prevention"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "国家金融监督管理总局",
+    "国家外汇管理局",
+    "上海",
+    "金融开放",
+    "金融改革",
+    "风险防范"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "National Financial Regulatory Administration",
+    "State Administration of Foreign Exchange",
+    "Shanghai",
+    "Financial Opening-up",
+    "Financial Reform",
+    "Risk Prevention"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC",
+      "NFRA",
+      "SAFE"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260617-gov_cn_yaowen-be27d4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

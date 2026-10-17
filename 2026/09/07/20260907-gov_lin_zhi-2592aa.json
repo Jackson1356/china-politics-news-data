@@ -1,0 +1,104 @@
+{
+  "id": "20260907-gov_lin_zhi-2592aa",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202609/0a565004c4c3411ea8a2e89a2f115678.shtml",
+  "title_zh": "自治区政协召开“我区边境地区产业发展”专题协商座谈会",
+  "title_en": "Regional CPPCC Holds Symposium on Industrial Development in Border Areas",
+  "summary_zh": "9月3日，西藏自治区政协在拉萨召开边境地区产业发展专题协商座谈会，自治区副主席韦秀长讲话，自治区政协副主席郎福宽主持。",
+  "summary_en": "On September 3, the CPPCC Tibet Regional Committee held a symposium in Lhasa on industrial development in border areas. Vice Chairman of the regional government Wei Xiuchang spoke, and CPPCC Vice Chairman Lang Fukuan presided.",
+  "body_zh": "自治区政协召开“我区边境地区 产业发展”专题协商座谈会\n韦秀长讲话 郎福宽主持\n本报拉萨9月6日讯（记者 史金茹）3日下午，自治区政协召开“我区边境地区产业发展”专题协商座谈会。自治区副主席韦秀长出席并讲话，自治区政协副主席郎福宽主持。\n会议指出，要深入贯彻落实习近平总书记关于西藏工作的重要指示和新时代党的治藏方略，深刻把握边境地区产业发展的重大意义，立足资源禀赋，补齐短板弱项，加快构建边境特色产业体系，以产业发展夯实守边固边坚实基础。广大政协委员要持续发挥好“参谋助手”“桥梁纽带”“民主监督员”作用，紧盯边境地区产业发展重点难点，围绕边境产业升级、口岸建设等课题，多提前瞻性、可操作性强的对策建议，广泛宣传党的兴边富民各项政策，以履职实效助力边境地区产业提质增效。\n会议通报了我区边境地区产业发展总体情况，自治区政协委员与有关部门同志互动交流、建言协商。",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "economy",
+  "keywords": [
+    "边境产业发展",
+    "兴边富民",
+    "守边固边"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "韦秀长",
+      "name_en": "Wei Xiuchang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "边境产业发展",
+      "name_en": "Border Area Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "兴边富民",
+      "name_en": "Prosper Border Areas and Enrich Residents"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "守边固边",
+      "name_en": "Guard and Stabilize Borders"
+    }
+  ],
+  "tags_zh": [
+    "韦秀长",
+    "拉萨",
+    "边境产业发展",
+    "兴边富民",
+    "守边固边"
+  ],
+  "tags_en": [
+    "Wei Xiuchang",
+    "Lhasa",
+    "Border Area Industrial Development",
+    "Prosper Border Areas and Enrich Residents",
+    "Guard and Stabilize Borders"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "韦秀长"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-gov_lin_zhi-2592aa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202609/t20260907_176164.html",
+      "title_zh": "韦秀长:自治区政协召开“我区边境地区 产业发展”专题协商座谈会",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

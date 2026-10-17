@@ -1,0 +1,101 @@
+{
+  "id": "20260920-peoples_js-6426b3",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0920/c360301-41701522.html",
+  "title_zh": "江苏发布70个数字经济创新发展典型案例",
+  "title_en": "Jiangsu Releases 70 Model Cases of Digital Economy Innovation",
+  "summary_zh": "9月17日，江苏省公布2026年度数字经济创新发展典型案例70个，由江苏省数据局组织征集，覆盖数据要素市场化、数字产业等7大类别。",
+  "summary_en": "On September 17, Jiangsu Province announced 70 model cases of digital economy innovation for 2026, selected by the Jiangsu Provincial Data Bureau across seven categories including data factor market reform and digital industry development.",
+  "body_zh": "江苏发布70个数字经济创新发展典型案例\n据《新华日报》报道，9月17日，2026年江苏省数字经济创新发展典型案例公布。70个入选案例均为江苏近三年内落地实施并取得显著经济社会效益，在制度、技术、模式或应用场景方面具有重大创新的项目，充分彰显了江苏数字经济发展的创新活力和实践成效。\n今年5月，江苏省数据局面向全省组织开展2026年度数字经济创新发展典型案例征集工作，重点围绕数据要素市场化配置改革、数据基础设施建设运营、数字产业高质量发展、实体经济与数字经济融合发展、适数化改革、平台经济健康发展、数字经济国际合作7大类别进行征集。\n经层层遴选，“‘技术+运营’双轮驱动的南京市公共数据授权运营实践”等70个案例入选。此次入选的“‘苏晓智’金融监管超级专家体系——基于AI的智慧监管创新实践”案例，由国家金融监督管理总局江苏监管局、南京大学工程管理学院、国家金融监督管理总局南通监管分局联合申报。“苏晓智”平台基于大语言模型与RAG技术，构建涵盖1300项制度文件、3.6万例行政处罚案例、1.7万多个知识点的监管知识库，可实现银行回单OCR识别、股权穿透递归查询等功能，为金融监管提供高标准、高效率、高质量的决策依据，助力金融监管数字化智能化转型。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "economy",
+  "keywords": [
+    "数字经济",
+    "数据要素市场化",
+    "产业创新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省数据局",
+      "name_en": "Jiangsu Provincial Data Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素市场化",
+      "name_en": "Data Factor Marketization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    }
+  ],
+  "tags_zh": [
+    "江苏省数据局",
+    "江苏",
+    "数字经济",
+    "数据要素市场化",
+    "产业创新"
+  ],
+  "tags_en": [
+    "Jiangsu Provincial Data Bureau",
+    "Jiangsu",
+    "Digital Economy",
+    "Data Factor Marketization",
+    "Industrial Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江苏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省数据局",
+        "name_en": "Jiangsu Provincial Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260920-peoples_js-6426b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

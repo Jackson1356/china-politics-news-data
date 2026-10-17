@@ -1,0 +1,109 @@
+{
+  "id": "20260821-gov_zi_bo-b71f60",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/21/art_14322_3016718.html",
+  "title_zh": "林武会见国家能源集团客人",
+  "title_en": "Lin Wu Meets National Energy Group Guests",
+  "summary_zh": "8月20日下午，山东省委书记林武在济南会见国家能源集团董事长邹磊一行，双方就深化能源合作、推动能源转型和绿色低碳高质量发展等交换意见。",
+  "summary_en": "On the afternoon of August 20, Shandong Provincial Party Secretary Lin Wu met with Zou Lei, Chairman of National Energy Group, in Jinan to deepen energy cooperation and promote green, low-carbon high-quality development.",
+  "body_zh": "林武会见国家能源集团客人\n8月20日下午，省委书记林武在济南会见了国家能源集团党组书记、董事长邹磊，总经理、党组副书记冯来法一行。林武、邹磊分别介绍了山东省、国家能源集团发展情况，围绕强化能源供应保障、推动新一代煤电机组改造升级、加快新能源项目开发、推进绿电直连发展、打造绿色港口群等交换了意见，表示将在良好合作的基础上，全面深化战略合作，进一步加强“十五五”时期重大项目谋划建设，携手促进能源转型和绿色低碳高质量发展。省委常委张海波、单义参加。（记者 于新悦 李子路）",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "industry",
+  "keywords": [
+    "能源合作",
+    "战略合作",
+    "新能源开发"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lin-wu",
+      "name_zh": "林武",
+      "name_en": "Lin Wu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源开发",
+      "name_en": "New Energy Development"
+    },
+    {
+      "kind": "person",
+      "id": "shan-yi-shandong",
+      "name_zh": "单义",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林武",
+    "济南",
+    "能源合作",
+    "战略合作",
+    "新能源开发",
+    "单义",
+    "张海波"
+  ],
+  "tags_en": [
+    "Lin Wu",
+    "Jinan",
+    "Energy Cooperation",
+    "Strategic Cooperation",
+    "New Energy Development"
+  ],
+  "entities": {
+    "politicians": [
+      "shan-yi-shandong",
+      "lin-wu",
+      "zhang-haibo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260821-gov_zi_bo-b71f60",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

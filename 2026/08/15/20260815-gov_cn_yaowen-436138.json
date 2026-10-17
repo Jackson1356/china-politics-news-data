@@ -1,0 +1,74 @@
+{
+  "id": "20260815-gov_cn_yaowen-436138",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078124.htm",
+  "title_zh": "今年前7月全国铁路发送旅客28亿人次",
+  "title_en": "Passenger Trips on National Railways Reach 2.8 Billion in First Seven Months",
+  "summary_zh": "8月15日从国铁集团获悉，1至7月全国铁路发送旅客28亿人次，同比增长4.1%，创历史同期新高。",
+  "summary_en": "China's national railways carried 2.8 billion passenger trips in the first seven months of this year, up 4.1% year on year, setting a record high for the period, according to China State Railway Group on August 15.",
+  "body_zh": "新华社北京8月15日电（记者樊曦）记者15日从中国国家铁路集团有限公司获悉，今年以来，铁路部门积极适应旅客多样化出行需求，精心组织旅客运输，1至7月，全国铁路发送旅客28亿人次、同比增长4.1%，再创历史同期新高。\n前7月，铁路部门统筹用好武汉至西安高铁西安东至十堰东段、金华至建德高铁兰溪东至建德段等新线新站资源，加大运力投放，全国铁路日均安排开行旅客列车11462列，同比增加571列、增长5.2%。\n跨境旅客运输方面，广深港高铁发送跨境旅客2004.9万人次，中老铁路发送跨境旅客21.4万人次，同比分别增长11.5%、38.2%。铁路部门积极适应国家过境免签政策带来的客流增长，为外籍旅客出行提供便利，全国铁路发送外籍旅客1485.2万人次、同比增长32.5%。\n与此同时，铁旅融合发展成效显著。铁路部门积极对接各地文旅部门，强化与景区、酒店的衔接，催生“铁路+旅游”新场景、新业态，有效拉动文旅消费。1至7月全国铁路累计开行旅游列车2159列，其中旅游专列1184列、旅游专线975列。",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路客运",
+    "客流增长"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路客运",
+      "name_en": "Rail Passenger Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "客流增长",
+      "name_en": "Passenger Flow Growth"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路客运",
+    "客流增长"
+  ],
+  "tags_en": [
+    "China State Railway Group",
+    "Rail Passenger Transport",
+    "Passenger Flow Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260815-gov_cn_yaowen-436138",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

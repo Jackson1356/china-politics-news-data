@@ -1,0 +1,122 @@
+{
+  "id": "20260922-cpcnews-8c5e34",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0922/c64094-40803357.html",
+  "title_zh": "习近平复信美国10所高校青年学生",
+  "title_en": "Xi Jinping Replies to Letter from Young Students of 10 U.S. Universities",
+  "summary_zh": "国家主席习近平复信来华参加中美青年主题交流活动的美国10所高校青年学生，希望他们成为中美友好合作的传承者、维护者、发展者。",
+  "summary_en": "President Xi Jinping replied to a letter from young students of 10 U.S. universities who took part in China-U.S. youth exchange activities, urging them to carry forward, safeguard and advance friendly China-U.S. cooperation.",
+  "body_zh": "新华社北京9月21日电 近日，国家主席习近平复信来华参加中美青年主题交流活动的美国10所高校青年学生。\n习近平指出，很高兴得知大家在中国经历了一段愉快难忘的旅程。你们在来信中表达了对中华文明的喜爱，对中美两国友好合作的期待，表示愿做跨越太平洋的友谊使者，我对此感到欣慰。\n习近平强调，中美青年同处一个地球，共担时代使命。希望你们继续同两国广大青年一道，努力成为中美友好合作的传承者、维护者、发展者，携手促进两国人民相知相亲、两国关系行稳致远，为建设更加美好的世界贡献青春力量。\n近期，美国哈佛大学等10所高校的近百名青年学生致信习近平主席，讲述来华参加“2026中美青年亚太同心之旅”等主题交流活动的收获和体会，表达为促进中美友好作贡献的意愿。\n《 人民日报 》（ 2026年09月22日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "青年交流",
+    "民间外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年交流",
+      "name_en": "Youth Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民间外交",
+      "name_en": "People-to-People Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中美关系",
+    "青年交流",
+    "民间外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-U.S. Relations",
+    "Youth Exchange",
+    "People-to-People Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260921-qiushi-f88a59",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081818.htm",
+      "title_zh": "“愿做跨越太平洋的友谊使者”——习近平主席复信为中美友好合作汇聚青春力量",
+      "published_at": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202609/t20260922_5093264.html",
+      "title_zh": "习近平复信美国10所高校青年学生-总书记信息-沈阳市人民政府",
+      "published_at": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2102208054137819137.html",
+      "title_zh": "习近平复信美国10所高校青年学生",
+      "published_at": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/09/21/VIDE6miRwyznAgFZZYGuRUYL260921.shtml",
+      "title_zh": "习近平复信美国10所高校青年学生",
+      "published_at": "2026-09-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "20261010-gov_cn_yaowen-7eff2d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082921.htm",
+  "title_zh": "谌贻琴看望慰问即将出征第5届亚残运会的中国体育代表团",
+  "title_en": "Shen Yiqin Visits Chinese Delegation Ahead of 5th Asian Para Games",
+  "summary_zh": "10月10日，国务委员、国务院残疾人工作委员会主任谌贻琴到中国残疾人体育运动管理中心，看望慰问即将出征名古屋亚残运会的中国体育代表团并作赛前动员。",
+  "summary_en": "On October 10, State Councilor Shen Yiqin visited the China Administration of Sports for Persons with Disabilities in Beijing to encourage the Chinese delegation heading to the Nagoya Asian Para Games.",
+  "body_zh": "新华社北京10月10日电 国务委员、国务院残疾人工作委员会主任谌贻琴10日到中国残疾人体育运动管理中心，看望慰问即将出征名古屋亚残运会的中国体育代表团并作动员，勉励大家牢记习近平总书记关怀嘱托，大力弘扬残奥精神和中华体育精神，全力以赴做好备战参赛工作，为祖国和人民赢得更大荣光。\n谌贻琴先后走进田径场、游泳馆、举重馆，观看有关项目训练，与残疾人运动员及教练员亲切交流，询问赛前训练安排、身体状态调整、后勤服务保障等情况，鼓励大家敢打敢拼、全力以赴，坚定信心、乘势而上，争创最好成绩。\n谌贻琴强调，要着眼洛杉矶残奥会，以亚残运会实战锤炼能战能胜的中国残奥队伍。坚持公平竞赛，保持良好的赛风赛纪和文明礼仪，拿道德的金牌、风格的金牌、干净的金牌，实现运动成绩和精神文明双丰收。加强友好交流，讲好中国故事和中国残疾人故事，展现我国残疾人事业和人权事业发展新成就。切实防范化解各类风险，细致周密做好服务保障工作，确保我国代表团安全顺利完赛。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "残疾人事业",
+    "残疾人体育"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Shen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院残疾人工作委员会",
+      "name_en": "State Council Working Committee on Disability"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾人事业",
+      "name_en": "Disability Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾人体育",
+      "name_en": "Para Sports"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "国务院残疾人工作委员会",
+    "北京",
+    "残疾人事业",
+    "残疾人体育"
+  ],
+  "tags_en": [
+    "Shen Yiqin",
+    "State Council Working Committee on Disability",
+    "Beijing",
+    "Disability Affairs",
+    "Para Sports"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国务院残疾人工作委员会",
+        "name_en": "State Council Working Committee on Disability"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261010-gov_cn_yaowen-7eff2d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/1011/c64094-40812263.html",
+      "title_zh": "谌贻琴看望慰问即将出征第5届亚残运会的中国体育代表团",
+      "published_at": "2026-10-11T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/1011/c1001-40812185.html",
+      "title_zh": "谌贻琴看望慰问即将出征第5届亚残运会的中国体育代表团 --时政--人民网",
+      "published_at": "2026-10-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

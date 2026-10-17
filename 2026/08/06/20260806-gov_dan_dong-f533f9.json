@@ -1,0 +1,96 @@
+{
+  "id": "20260806-gov_dan_dong-f533f9",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202608/0178598001437959.html",
+  "title_zh": "丹东市政府召开第89次常务会议",
+  "title_en": "Dandong Municipal Government Holds 89th Executive Meeting",
+  "summary_zh": "8月5日，丹东市市长张丹主持召开市政府常务会议，传达学习习近平总书记重要讲话精神，研究科技创新、城市更新、人工智能、安全等工作。",
+  "summary_en": "On August 5, Mayor Zhang Dan of Dandong chaired a municipal executive meeting to convey the spirit of General Secretary Xi Jinping's important speeches, discussing sci-tech innovation, urban renewal, AI, and safety work.",
+  "body_zh": "8月5日，市政府召开常务会议，传达学习习近平总书记重要讲话和重要指示批示精神，按照市委要求，研究市政府系统贯彻落实工作。市委副书记、市长张丹主持会议并讲话。\n会议指出，要深入学习习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的重要讲话精神，强化科技创新与产业创新深度融合，深化科技企业梯度培育行动，引导企业加大研发投入，及时兑现激励政策。要推动成果转化，做实产学研撮合对接，大力推进关键核心技术攻关，强化中试平台建设，打造专业化孵化器。要加大资金争取力度，常态化开展银企对接，加快培养“丹东工匠”和高技能实用人才，激发科技创新动能。\n会议强调，要深入贯彻落实习近平总书记在上海考察时的重要讲话精神，全面践行人民城市理念，高质量推进城市更新，稳步推进老旧小区、城中村和危旧房改造等工作，不折不扣完成民生实事中确定的更新改造任务。要提升小区物业管理和便民服务水平，加强物业行业管理和行业自律，持续治理物业服务突出问题，加强无物业小区、散楼、独栋楼房的管理服务。要进一步强化党建引领，推动资源、服务、管理等下沉基层一线，用心用情为居民做好事、办实事、解难事。\n会议指出，要认真贯彻落实习近平总书记在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话精神，深入实施“人工智能+”行动，推动赋能千行百业。要谋划制定全市人工智能产业布局，积极向上对接，争取算力布局、数据标注、垂直大模型等落户丹东，加快算力基础设施迭代升级。要重点打造智慧口岸等标杆场景，高标准推进智慧边海防等特色项目建设，构建具有丹东辨识度的智能应用生态。\n会议强调，要深刻领会、全面贯彻习近平总书记对重庆彭水山体崩塌作出的重要指示精神，坚决克服麻痹思想和侥幸心理，对隐患点和风险区开展拉网式复查，严密监测、精准预警，严格落实值班值守制度。要强化对隐患点位的监管，落实渡口码头和营运船舶、海上渔船安全防范举措，抓好矿山防汛和危化品储运安全，做好暑期学生防溺水、景区安全管理等，持续加强道路交通、消防、燃气等领域安全整治。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "economy",
+  "keywords": [
+    "科技创新",
+    "人工智能",
+    "城市更新"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丹东",
+    "科技创新",
+    "人工智能",
+    "城市更新",
+    "习近平"
+  ],
+  "tags_en": [
+    "Dandong",
+    "Sci-tech Innovation",
+    "Artificial Intelligence",
+    "Urban Renewal"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "张丹"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260806-gov_dan_dong-2df8ef",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

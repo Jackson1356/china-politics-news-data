@@ -1,0 +1,111 @@
+{
+  "id": "20260928-gov_yue_yang-0cd9e9",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.hunan.gov.cn/hnszf/hnyw/ywtj/202609/t20260928_34073249.html",
+  "title_zh": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
+  "title_en": "Li Qiang Attends Launch Ceremony of 5th Global Digital Trade Expo and Delivers a Speech",
+  "summary_zh": "9月24日上午，国务院总理李强在杭州出席第五届全球数字贸易博览会启动仪式并致辞，呼吁以开放胸怀推动数字时代全球贸易更好发展。",
+  "summary_en": "On the morning of September 24, Premier Li Qiang attended the launch ceremony of the 5th Global Digital Trade Expo in Hangzhou and delivered a speech urging open cooperation to advance global trade in the digital era.",
+  "body_zh": "新华社杭州9月24日电（记者董雪、魏一骏）国务院总理李强9月24日上午在杭州出席第五届全球数字贸易博览会启动仪式并致辞。\n第一，透过数字贸易洞察国际经贸发展的新变化新趋势。数字贸易的蓬勃兴起带来新的动力和机遇，世界经济迎来广袤蓝海，各国市场对接更加便利，全球贸易加快创新发展。与之相伴，新的发展分化、新的经贸壁垒、新的规则缺失等一些问题和挑战也更加凸显、更趋复杂。\n第二，以开放的胸怀推动数字时代全球贸易更好发展。在经济全球化潮流面前，国际社会应当精诚协作。要加强数字联通，推动更加自由的贸易。坚定推进标准等对接互认，促进各国市场有机协同。要弥合数字鸿沟，推动更加普惠的贸易。加强数字贸易领域南北合作，在技术、基建、人员培训等方面加大对发展中国家支持。要完善数字治理，推动更加有序的贸易。尊重各国实际，更好发挥世贸组织等机制作用，加快推进数字贸易等规则磋商，反对阵营化、排他性安排，努力找到最大公约数，构建公正合理的经贸秩序。\n马来西亚总理安瓦尔、吉尔吉斯斯坦总理卡瑟马利耶夫等出席启动仪式并致辞，联合国工发组织总干事穆勒等视频致辞，来自近50个国家和地区及有关国际组织的1200多名各界代表出席启动仪式。\n启动仪式前，李强同与会外国领导人共同巡馆。\n吴政隆参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "数字贸易",
+    "对外开放",
+    "经济全球化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字贸易",
+      "name_en": "Digital Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济全球化",
+      "name_en": "Economic Globalization"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杭州",
+    "数字贸易",
+    "对外开放",
+    "经济全球化",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Hangzhou",
+    "Digital Trade",
+    "Opening Up",
+    "Economic Globalization"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "wu-zhenglong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260924-gov_cn_yaowen-348b41",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260607-peoples_yn-ceab1f",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_url": "http://yn.people.com.cn/n2/2026/0607/c378440-41603387.html",
+  "title_zh": "国家防总对重庆贵州启动防汛四级应急响应",
+  "title_en": "State Flood Control and Drought Relief Headquarters Initiates Level IV Emergency Response for Chongqing and Guizhou",
+  "summary_zh": "国家防总于6月6日针对重庆、贵州启动防汛四级应急响应，应急管理部同步启动或维持针对重庆、广西、贵州的地质灾害四级应急响应。",
+  "summary_en": "On June 6, the State Flood Control and Drought Relief Headquarters initiated a Level IV emergency response for Chongqing and Guizhou, while the Ministry of Emergency Management activated or maintained geological disaster responses for Chongqing, Guangxi, and Guizhou.",
+  "body_zh": "国家防总对重庆贵州启动防汛四级应急响应\n据气象部门预报：6月6日至9日，南方地区有新一轮强降雨过程，重庆、贵州等地部分地区有大到暴雨，局地有大暴雨，山洪和地质灾害、中小河流洪水以及城市内涝等灾害风险高。根据《国家防汛抗旱应急预案》及有关规定，国家防总于6日15时针对重庆、贵州启动防汛四级应急响应。\n应急管理部和自然资源部开展联合会商研判，重庆中部、广西北部和东南部、贵州西部局部等发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于6日针对重庆、广西启动国家地质灾害四级应急响应，维持针对贵州的国家地质灾害四级应急响应。\n应急管理部要求，相关强降水地区要切实做好地质灾害防范应对工作，压实地方防范应对主体责任，落实部门协同联动工作机制，密切监视雨情汛情和地质灾害灾情险情，加强会商研判和预警响应联动，预置前置救援力量、物资、装备，强化巡查排查和监测预警，坚决果断组织转移避险，确保应转尽转、应转早转。\n《 人民日报 》（ 2026年06月07日 04 版）",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": "2026-06-06",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "地质灾害",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害",
+      "name_en": "Geological Disasters"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "重庆",
+    "贵州",
+    "广西",
+    "防汛",
+    "地质灾害",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Chongqing",
+    "Guizhou",
+    "Guangxi",
+    "Flood Control",
+    "Geological Disasters",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-CQ",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260607-peoples_yn-ceab1f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

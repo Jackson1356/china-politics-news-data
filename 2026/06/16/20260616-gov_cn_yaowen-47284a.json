@@ -1,0 +1,101 @@
+{
+  "id": "20260616-gov_cn_yaowen-47284a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072400.htm",
+  "title_zh": "王毅会见下任联合国秘书长候选人格林斯潘",
+  "title_en": "Wang Yi Meets UN Secretary-General Candidate Greenspan",
+  "summary_zh": "6月16日，外交部长王毅在北京会见下任联合国秘书长候选人格林斯潘，双方就联合国改革及秘书长选举等议题进行交流。",
+  "summary_en": "On June 16, Foreign Minister Wang Yi met with UN Secretary-General candidate Greenspan in Beijing to discuss UN reform and the upcoming Secretary-General election.",
+  "body_zh": "新华社北京6月16日电 中共中央政治局委员、外交部长王毅16日在北京会见下任联合国秘书长候选人、联合国贸发会议秘书长、哥斯达黎加前副总统格林斯潘。\n格林斯潘全面介绍其竞选主张，表示联合国需要与时俱进推动改革，更加聚焦和平、发展和未来。我坚定奉行一个中国原则，赞赏中方始终支持多边主义、支持联合国宪章。\n王毅表示，联合国秘书长责任重大，具有国际影响，应当恪守宪章、能力出众、公道正派、履职担当。中国作为负责任大国和安理会常任理事国，将秉持建设性态度参与下任秘书长选举。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "联合国秘书长选举",
+    "多边主义",
+    "联合国改革"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "格林斯潘",
+      "name_en": "Greenspan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国秘书长选举",
+      "name_en": "UN Secretary-General Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国改革",
+      "name_en": "UN Reform"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "格林斯潘",
+    "北京",
+    "联合国秘书长选举",
+    "多边主义",
+    "联合国改革"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Greenspan",
+    "Beijing",
+    "UN Secretary-General Election",
+    "Multilateralism",
+    "UN Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "潘全面"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-47284a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "20260907-chinanews_gn-cc1c71",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-07/10691930.shtml",
+  "title_zh": "外交部：赖清德当局惯于拿着台湾百姓的血汗钱滥施“金元外交”",
+  "title_en": "Foreign Ministry: Lai Ching-te Administration Habitually Uses Taiwanese People's Hard-Earned Money for 'Dollar Diplomacy'",
+  "summary_zh": "9月7日，外交部发言人毛宁在例行记者会上批评赖清德当局滥用台湾百姓血汗钱搞“金元外交”，并指其服务“台独”分裂。",
+  "summary_en": "On Sept 7, Foreign Ministry spokesperson Mao Ning criticized the Lai Ching-te administration at a regular press conference for abusing Taiwanese people's money for 'dollar diplomacy' in service of 'Taiwan independence'.",
+  "body_zh": "外交部：赖清德当局惯于拿着台湾百姓的血汗钱滥施“金元外交”\n中新网北京9月7日电 (记者 郭超凯)中国外交部发言人毛宁9月7日主持例行记者会。\n毛宁：有关报道再次证明，赖清德当局惯于拿着台湾百姓的血汗钱滥施“金元外交”，并通过“金元外交”搞腐败营私、利益输送和权钱交易，为“台独”分裂和个人的政治算计服务。帕劳等个别国家同台保持所谓关系，不是为了国家和民众的根本利益，而是为少数既得利益者圈钱。(完)\n国内新闻精选：\n- 2026年09月07日 13:50:13\n- 2026年09月07日 13:10:34\n- 2026年09月07日 11:54:07\n- 2026年09月07日 11:49:29\n- 2026年09月07日 11:33:48\n- 2026年09月07日 11:04:39\n- 2026年09月06日 18:45:53\n- 2026年09月05日 20:54:54\n- 2026年09月05日 18:05:14\n- 2026年09月05日 16:14:21",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "台湾问题",
+    "金元外交",
+    "反对台独"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赖清德",
+      "name_en": "Lai Ching-te"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾问题",
+      "name_en": "Taiwan issue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金元外交",
+      "name_en": "Dollar Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反对台独",
+      "name_en": "Against Taiwan Independence"
+    }
+  ],
+  "tags_zh": [
+    "赖清德",
+    "外交部",
+    "北京",
+    "台湾问题",
+    "金元外交",
+    "反对台独"
+  ],
+  "tags_en": [
+    "Lai Ching-te",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Taiwan issue",
+    "Dollar Diplomacy",
+    "Against Taiwan Independence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260907-chinanews_gn-cc1c71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691959.shtml",
+      "title_zh": "外交部：中委合作不应受第三方干扰，中国在委内瑞拉的合法权益必须得到保护",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691945.shtml",
+      "title_zh": "中方：将继续及时发布西藏吉隆泥石流灾情和救援行动最新情况",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691938.shtml",
+      "title_zh": "中方：督促日方尽早全面、干净、彻底销毁遗弃在中国的化学武器",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20261016-gov_cn_yaowen-b63558",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083461.htm",
+  "title_zh": "我国进一步规范养老服务价格",
+  "title_en": "China Further Standardizes Pricing of Elderly Care Services",
+  "summary_zh": "国家发展改革委、民政部、国家卫生健康委10月16日联合公布指导意见，将养老机构划分为兜底保障型、普惠支持型和完全市场型三类，分类完善养老服务价格形成机制，并推行收费目录清单公示。",
+  "summary_en": "The National Development and Reform Commission, the Ministry of Civil Affairs and the National Health Commission jointly released guidelines on October 16, dividing elderly care institutions into three categories and improving pricing mechanisms, with a mandatory public fee list.",
+  "body_zh": "由国家发展改革委、民政部、国家卫生健康委三部门联合印发的《关于进一步完善价格形成机制 推动普惠养老服务提质扩面的指导意见》今天（10月16日）对外公布。《指导意见》将养老机构划分为兜底保障型、普惠支持型、完全市场型三类，分类完善养老服务价格形成机制，满足多层次多样化服务需求。发挥价格政策牵引作用，让老年群体享受到价格可负担、质量有保障、运营可持续的普惠养老服务，促进养老服务高质量发展。推动养老机构建立养老服务收费目录清单，在经营场所显著位置和门户网站公示，清单之外一律不得收费，未按规定公示或公示内容与政策不符的不得收费。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "养老服务",
+    "价格形成机制",
+    "普惠养老"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "价格形成机制",
+      "name_en": "Pricing Mechanism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "普惠养老",
+      "name_en": "Affordable Elderly Care"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "民政部",
+    "国家卫生健康委",
+    "养老服务",
+    "价格形成机制",
+    "普惠养老"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Ministry of Civil Affairs",
+    "National Health Commission",
+    "Elderly Care Services",
+    "Pricing Mechanism",
+    "Affordable Elderly Care"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA",
+      "NHC"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_cn_yaowen-b63558",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

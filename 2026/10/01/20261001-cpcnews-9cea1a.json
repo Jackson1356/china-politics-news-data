@@ -1,0 +1,101 @@
+{
+  "id": "20261001-cpcnews-9cea1a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1001/c64387-40808559.html",
+  "title_zh": "国家广播电视总局发布促进公益广告高质量发展意见",
+  "title_en": "National Radio and Television Administration Issues Guidelines on High-Quality Development of Public Service Advertising",
+  "summary_zh": "9月29日，国家广播电视总局发布《关于促进广播电视和网络视听公益广告高质量发展的意见》，自发布之日起施行。",
+  "summary_en": "On September 29, China's National Radio and Television Administration issued guidelines on promoting the high-quality development of public service advertising in radio, television and online audio-visual services, effective immediately.",
+  "body_zh": "本报北京9月30日电 （记者刘阳）9月29日，国家广播电视总局发布《关于促进广播电视和网络视听公益广告高质量发展的意见》，并自发布之日起施行。\n《意见》强调，广播电视和网络视听公益广告是党的宣传工作的重要组成部分。《意见》要求，坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平文化思想，围绕中心、服务大局，凝聚协同各方力量，不断提升广电视听公益广告的传播力、引导力、影响力、公信力。\n《意见》明确，一要聚焦主题主线。坚持正确方向导向、坚持守正创新，推动党的创新理论深入人心，弘扬和践行社会主义核心价值观，传承中华优秀传统文化。二要加强组织引导。改进扶持项目，强化综合评价。拓展资金来源，优化资金使用，支持社会力量广泛参与。三要推动创作高质量作品。发布重点选题、创作指引，拓宽选题范围。鼓励运用新技术、新业态创新表达方式，提升思想深度、艺术高度。四要构建全媒体传播体系。强化广电视听主流媒体示范引领作用，发挥网络视听平台优势。统筹线上线下，促进共享共用，提升传播效能。\n《 人民日报 》（ 2026年10月01日 05 版）",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "公益广告",
+    "宣传工作",
+    "网络视听"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NRTA",
+      "name_zh": "国家广播电视总局",
+      "name_en": "National Radio and Television Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公益广告",
+      "name_en": "Public Service Advertising"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宣传工作",
+      "name_en": "Propaganda Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络视听",
+      "name_en": "Online Audio-Visual Services"
+    }
+  ],
+  "tags_zh": [
+    "国家广播电视总局",
+    "北京",
+    "公益广告",
+    "宣传工作",
+    "网络视听"
+  ],
+  "tags_en": [
+    "National Radio and Television Administration",
+    "Beijing",
+    "Public Service Advertising",
+    "Propaganda Work",
+    "Online Audio-Visual Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NRTA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261001-cpcnews-9cea1a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808520.html",
+      "title_zh": "《关于促进广播电视和网络视听公益广告高质量发展的意见》发布 --时政--人民网",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

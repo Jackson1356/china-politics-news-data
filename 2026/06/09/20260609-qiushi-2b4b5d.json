@@ -1,0 +1,107 @@
+{
+  "id": "20260609-qiushi-2b4b5d",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_url": "http://www.qstheory.cn/20260609/c91a34741d9041dbb5edefe6665a468b/c.html",
+  "title_zh": "习近平夫妇出席金正恩夫妇举行的小范围午宴",
+  "title_en": "President Xi Jinping and Spouse Attend Small-scale Luncheon Hosted by Kim Jong Un and Spouse",
+  "summary_zh": "6月9日，习近平夫妇在平壤出席金正恩夫妇举行的小范围午宴，双方就巩固中朝传统友谊及发展新时代中朝关系达成重要共识。",
+  "summary_en": "On June 9, President Xi Jinping and his spouse attended a small-scale luncheon hosted by Kim Jong Un and his spouse in Pyongyang to discuss consolidating China-DPRK friendship and relations.",
+  "body_zh": "新华社平壤6月9日电（记者郝薇薇 王天僚）当地时间6月9日，中共中央总书记、国家主席习近平和夫人彭丽媛在平壤锦绣山迎宾馆出席朝鲜劳动党总书记、国务委员长金正恩和夫人李雪主举行的小范围午宴。\n12时30分许，金正恩夫妇来到习近平夫妇下榻的锦绣山迎宾馆，在细雨蒙蒙中，共同乘坐电瓶车前往锦绣山迎宾馆宴会厅。\n席间，两党两国最高领导人就巩固传承中朝传统友谊深入交流。\n习近平感谢金正恩为此访所作精心周到安排，表示通过此访，我们更加感受到朝鲜党、政府和人民对中国党、政府和人民的热情和友谊。我同金正恩总书记就发展新时代中朝关系达成了重要共识，并就维护地区和世界和平稳定深入交换意见。中朝双方相互理解更加深刻全面，未来发展方向更加明确清晰。我愿同金正恩总书记一道，共同引领中朝关系实现更大发展，为两国社会主义事业注入新的强劲动力。\n网站编辑 -\n高淑雅\n张盼 审核 - 那非丁",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "外交访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金正恩",
+      "name_en": "Kim Jong Un"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "平壤",
+      "name_en": "Pyongyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "金正恩",
+    "中共中央",
+    "平壤",
+    "中朝关系",
+    "外交访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Kim Jong Un",
+    "CPC Central Committee",
+    "Pyongyang",
+    "China-DPRK Relations",
+    "Diplomatic Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-qiushi-2b4b5d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/06/09/VIDENnLmDK7lQdEgJfgyxgpP260609.shtml",
+      "title_zh": "[视频]习近平夫妇出席金正恩夫妇举行的小范围午宴",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

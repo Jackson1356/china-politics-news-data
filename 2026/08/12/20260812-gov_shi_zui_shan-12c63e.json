@@ -1,0 +1,100 @@
+{
+  "id": "20260812-gov_shi_zui_shan-12c63e",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/szfxx/202608/t20260812_5310852.html",
+  "title_zh": "石嘴山市人民政府召开常务会议",
+  "title_en": "Shizuishan Municipal Government Holds Executive Meeting",
+  "summary_zh": "8月11日，市委副书记、市长徐龙主持召开石嘴山市人民政府2026年第19次常务会议，学习《习近平党建文选》，听取人大代表建议、政协委员提案办理和民生实事落实情况汇报。",
+  "summary_en": "On August 11, Xu Long, Deputy Secretary of the Municipal Party Committee and Mayor, chaired the 19th executive meeting of Shizuishan Municipal Government, studying Xi Jinping's Selected Works on Party Building and hearing reports on handling of NPC deputies' suggestions, CPPCC proposals, and livelihood projects.",
+  "body_zh": "8月11日，市委副书记、市长徐龙主持召开市人民政府2026年第19次常务会议，学习《习近平党建文选》，听取人大代表建议、政协委员提案办理、民生实事落实情况汇报，安排部署相关工作。\n会议强调，习近平党建思想是加强新时代党的建设的根本遵循，全市政府系统要把学习贯彻习近平党建思想作为当前和今后一个时期的一项重要政治任务。要深学细悟重武装，认真读原著、学原文、悟原理，在常学常悟中感受思想的伟力，在学思践悟中感受真理的力量，切实做到入脑入心。要研讨交流重提高，组织党员干部开展领学、互学、交流学，共同畅谈学习体会、感悟学习收获，实现思想的启迪、心灵的共鸣，切实做到互学互促。要深抓实干重实效，坚持学用结合，切实把学习成果转化为稳发展、促转型、保安全、惠民生的工作实效，切实做到落实落地。要深笃实行重引领，领导干部坚持以上率下，抓思想强政治、抓班子带队伍、抓作风严纪律，发挥示范引领作用，切实做到见行见效。\n会议指出，办理好人大代表建议和政协委员提案，是政府自觉接受监督、依法履职的内在要求。民生实事是市委、市政府向全市人民作出的庄严承诺，必须不折不扣办理到位。要严格组织领导加力办，分管领导牵头统筹，承办单位主要负责人一线推进，对已办结事项常态化开展“回头看”，查漏补缺巩固办理成效。要严格责任担当加力办，坚守为民初心，压实各项责任，确保民生实事等限时高质量办结。要严格质量成效加力办，聚焦薄弱环节固强补弱，抓实抓细办理质量，确保成果经得起群众和实践检验。要严格督查督办加力办，强化督导问效，对推进迟缓、落实不力的严肃追责问责，以过硬作风保障办理工作落实落地。\n会议还研究部署了财政收支审计查出问题整改工作、美丽蓝天项目等事宜。（记者 雷永福 姚路路）",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "party",
+  "keywords": [
+    "党建学习",
+    "民生实事",
+    "建议提案办理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-SZ",
+      "name_zh": "石嘴山",
+      "name_en": "Shizuishan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建学习",
+      "name_en": "Party Building Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Livelihood Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "建议提案办理",
+      "name_en": "Handling of Suggestions and Proposals"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "石嘴山",
+    "党建学习",
+    "民生实事",
+    "建议提案办理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shizuishan",
+    "Party Building Study",
+    "Livelihood Projects",
+    "Handling of Suggestions and Proposals"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "龙主持"
+      },
+      {
+        "id": null,
+        "name_zh": "徐龙"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260812-gov_shi_zui_shan-12c63e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

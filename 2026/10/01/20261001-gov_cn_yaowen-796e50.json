@@ -1,0 +1,93 @@
+{
+  "id": "20261001-gov_cn_yaowen-796e50",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082576.htm",
+  "title_zh": "国庆假期首日全国铁路预计发送旅客2480万人次",
+  "title_en": "China's Railways Expect 24.8 Million Passenger Trips on First Day of National Day Holiday",
+  "summary_zh": "10月1日国庆假期首日，全国铁路预计发送旅客2480万人次，客流保持高位运行，计划加开旅客列车2324列。",
+  "summary_en": "On October 1, the first day of the National Day holiday, China's railways are expected to handle 24.8 million passenger trips, with 2,324 additional trains scheduled to cope with the travel peak.",
+  "body_zh": "新华社北京10月1日电（记者 樊曦）记者从中国国家铁路集团有限公司获悉，10月1日，全国铁路预计发送旅客2480万人次，客流保持高位运行，计划加开旅客列车2324列。9月30日，全国铁路发送旅客1954.2万人次，运输安全平稳有序。\n10月1日是国庆节，全国铁路迎来出行高峰，从火车票预售情况来看，热门出发城市主要有北京、广州、上海、成都、深圳、武汉、西安、杭州、郑州、重庆；热门到达城市主要有广州、北京、成都、上海、杭州、武汉、西安、长沙、深圳、郑州；深圳至香港、广州至南宁、北京至沈阳、北京至上海、西安至成都、成都至西安、北京至太原、上海至武汉、北京至大同、上海至北京等热门区间客流相对集中。\n各地铁路部门积极应对国庆假期出行高峰，及时在热门方向、区间和时段增加运力投放，即日起至10月12日，在北京至深圳、南宁、湛江、珠海、潮汕、昆明、香港，上海至惠州、佛山、广州、珠海，深圳至太原，北京至成都、贵阳，上海至宜宾，成都至深圳、珠海等区间每日开行高铁动卧。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路运输",
+    "国庆假期",
+    "客流高峰"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期",
+      "name_en": "National Day Holiday"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "客流高峰",
+      "name_en": "Passenger Flow Peak"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "北京",
+    "铁路运输",
+    "国庆假期",
+    "客流高峰"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Beijing",
+    "Railway Transport",
+    "National Day Holiday",
+    "Passenger Flow Peak"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261001-gov_cn_yaowen-796e50",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

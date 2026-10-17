@@ -1,0 +1,109 @@
+{
+  "id": "20261001-local_zhong_guo_ji_lin_wang_cn_jl-9527e5",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gj/202610/4086722.html",
+  "title_zh": "俄外交部发言人用中文祝贺中国国庆",
+  "title_en": "Russian Foreign Ministry Spokeswoman Congratulates China on National Day in Chinese",
+  "summary_zh": "9月30日，俄罗斯外交部发言人扎哈罗娃在莫斯科例行记者会上用中文祝贺中国国庆，并祝贺俄中建交77周年，高度评价两国新时代全面战略协作伙伴关系。",
+  "summary_en": "On September 30, Russian Foreign Ministry spokeswoman Maria Zakharova congratulated China on its National Day in Chinese at a regular briefing in Moscow, marking 77 years of Russia-China diplomatic ties and praising the bilateral strategic partnership.",
+  "body_zh": "新华社莫斯科10月1日电（记者黄河）俄罗斯外交部发言人扎哈罗娃9月30日在例行记者会上向中国朋友们致以节日问候，并祝贺俄中建交77周年。她用中文说：“国庆节快乐！”\n扎哈罗娃积极评价中国发展成就。她说，过去几十年里，中国走过一段不平凡历程，取得令人瞩目的成就。在中国共产党领导下，依靠中国人民的勤劳与坚韧，中国完全有能力克服任何困难。\n扎哈罗娃说，俄中新时代全面战略协作伙伴关系已达到前所未有的高水平，并继续保持强劲发展势头。俄中两国务实合作正在稳步推进，双边贸易额已连续三年稳超2000亿美元。俄中战略协作在国际事务中发挥着重要的稳定作用，俄方正不断加强同中方在联合国、上合组织、金砖国家、二十国集团、亚太经合组织等多边平台上的外交协调。\n初审：  孙晓云\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "战略协作",
+    "国庆节"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "俄罗斯外交部",
+      "name_en": "Russian Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "莫斯科",
+      "name_en": "Moscow"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略协作",
+      "name_en": "Strategic Coordination"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆节",
+      "name_en": "National Day"
+    }
+  ],
+  "tags_zh": [
+    "俄罗斯外交部",
+    "莫斯科",
+    "中俄关系",
+    "战略协作",
+    "国庆节"
+  ],
+  "tags_en": [
+    "Russian Ministry of Foreign Affairs",
+    "Moscow",
+    "China-Russia Relations",
+    "Strategic Coordination",
+    "National Day"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "俄罗斯外交部",
+        "name_en": "Russian Ministry of Foreign Affairs"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-local_zhong_guo_ji_lin_wang_cn_jl-9527e5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": 3,
+      "url": "https://www.dzwww.com/synr/zy/202610/t20261001_18174815.htm",
+      "title_zh": "俄外交部发言人用中文祝贺中国国庆_时政头条_大众网",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    },
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://www.scol.com.cn/zlts_ss/202610/83334429.html",
+      "title_zh": "俄外交部发言人用中文祝贺中国国庆",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20260907-local_yang_zi_wan_bao_wang_cn_js-5a6aad",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/kj/202609/t20260907_390260.html",
+  "title_zh": "华为新一代麒麟芯片性能大幅提升",
+  "title_en": "Huawei's New Kirin Chip Delivers Major Performance Leap",
+  "summary_zh": "9月7日华为新品发布会推出麒麟9050 Pro芯片，采用逻辑折叠技术，性能较上代提升42%，功耗大幅降低。",
+  "summary_en": "At a Huawei launch event on Sept 7, the Kirin 9050 Pro debuted with logic folding technology, boosting performance by 42% and cutting power use.",
+  "body_zh": "华为新一代麒麟芯片性能大幅提升\n在9月7日举行的华为新品发布会上，华为新一代麒麟9050 Pro芯片正式亮相。据了解，麒麟9050Pro在单芯片内将逻辑单元分层排布，实现性能与能效双重跃升，整机性能较上代提升42%。\n9月4日在中国科学院科技论文预发布平台上发布的论文中，华为公司董事、半导体业务部总裁何庭波表示，实测结果显示，麒麟9050 Pro芯片相比上一代麒麟芯片（麒麟 9030 Pro），在每平方毫米上多容纳了55%的晶体管，运行中却更冷，并在部分关键任务上将功耗大幅降低了66%。\n麒麟9050Pro是首款采用逻辑折叠技术的高性能芯片。其晶体管密度在一代之内从每平方毫米约1.55亿个提升到约2.38亿个。“这一增幅相当于我们此前三年依靠几何尺寸缩小所取得的成果总和。按直觉，功耗密度本应同步攀升，但它反而下降了。”何庭波介绍，与平面工艺的前代产品相比，在性能对齐的条件下，麒麟9050Pro在真实负载基准测试中实现的功耗降低分别为：NPU 66%、GPU 58%、CPU性能核41%。\n这也是2020年华为Mate40发布后，华为时隔六年在旗舰手机发布会上详解麒麟芯片，也是时隔六年华为再度开启发布会全球直播。华为公司常务董事余承东介绍，麒麟9050 Pro芯片涵盖超快灵犀CPU、马良GPU计算单元、达芬奇架构NPU等，在大文件加载、多任务并行、渲染性能、端侧AI等方面，性能大幅提升。",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "industry",
+  "keywords": [
+    "芯片",
+    "半导体",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "芯片",
+      "name_en": "Chip"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体",
+      "name_en": "Semiconductor"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "何庭波",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "芯片",
+    "半导体",
+    "科技创新",
+    "何庭波"
+  ],
+  "tags_en": [
+    "Chip",
+    "Semiconductor",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "何庭波"
+      },
+      {
+        "id": null,
+        "name_zh": "余承东"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-local_yang_zi_wan_bao_wang_cn_js-5a6aad",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

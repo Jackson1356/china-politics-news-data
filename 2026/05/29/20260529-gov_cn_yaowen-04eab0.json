@@ -1,0 +1,128 @@
+{
+  "id": "20260529-gov_cn_yaowen-04eab0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202605/content_7070654.htm",
+  "title_zh": "四部门部署2026年提升全民数字素养与技能工作",
+  "title_en": "Four Departments Deploy Work to Improve National Digital Literacy and Skills for 2026",
+  "summary_zh": "中央网信办、教育部、工信部、人社部近日联合印发《2026年提升全民数字素养与技能工作要点》，部署了6个方面15项重点任务。",
+  "summary_en": "The CAC, Ministry of Education, MIIT, and MOHRSS jointly issued the \"2026 Key Points for Improving National Digital Literacy and Skills,\" outlining 15 key tasks across six areas.",
+  "body_zh": "新华社北京5月29日电 记者29日获悉，中央网信办、教育部、工业和信息化部、人力资源社会保障部近日联合印发《2026年提升全民数字素养与技能工作要点》，部署了6个方面15项重点任务。\n6个方面重点任务为：完善数字素养培育体系、深化数字应用场景建设、提升全民人工智能素养、促进数字普惠包容发展、营造安全有序网络空间、健全协同联动工作机制。\n具体包括：强化数字资源供给开放、拓宽数字素养提升渠道；提升数字生活品质、提升数字工作能力、激发数字创新活力；强化人工智能赋能教育、加快人工智能人才培育、深化人工智能普及应用；深化信息无障碍环境建设、打造数字助老惠民公益项目；引导全民文明依法上网用网、筑牢全民网络安全防护意识、促进人工智能安全规范发展；完善多方协作机制、深化国际交流合作。",
+  "image_url": null,
+  "published_at": "2026-05-30T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "industry",
+  "keywords": [
+    "数字素养",
+    "人工智能",
+    "数字普惠"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "中央网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字素养",
+      "name_en": "Digital Literacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字普惠",
+      "name_en": "Digital Inclusion"
+    }
+  ],
+  "tags_zh": [
+    "中央网信办",
+    "教育部",
+    "工业和信息化部",
+    "人力资源社会保障部",
+    "北京",
+    "数字素养",
+    "人工智能",
+    "数字普惠"
+  ],
+  "tags_en": [
+    "Cyberspace Administration of China",
+    "Ministry of Education",
+    "Ministry of Industry and Information Technology",
+    "Ministry of Human Resources and Social Security",
+    "Beijing",
+    "Digital Literacy",
+    "Artificial Intelligence",
+    "Digital Inclusion"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAC",
+      "MOE",
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260529-gov_cn_yaowen-04eab0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_gd",
+      "source_tier": 2,
+      "url": "http://gd.news.cn/20260530/3209eef490684078ad9fefa107b80ec6/c.html",
+      "title_zh": "四部门部署2026年提升全民数字素养与技能工作",
+      "published_at": "2026-05-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

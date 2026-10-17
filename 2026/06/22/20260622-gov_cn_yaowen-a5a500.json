@@ -1,0 +1,120 @@
+{
+  "id": "20260622-gov_cn_yaowen-a5a500",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7072844.htm",
+  "title_zh": "三部门出台利用外资固稳促优行动方案",
+  "title_en": "Three Departments Issue Action Plan to Stabilize and Optimize Foreign Investment",
+  "summary_zh": "商务部、国家发展改革委、财政部于6月22日发布利用外资固稳促优行动方案，提出15条举措以扩大市场准入并提升外商投资便利度。",
+  "summary_en": "The Ministry of Commerce, NDRC, and Ministry of Finance released an action plan on June 22, proposing 15 measures to expand market access and improve foreign investment convenience.",
+  "body_zh": "新华社北京6月22日电（记者谢希瑶、黄韬铭）商务部、国家发展改革委、财政部近日印发的利用外资固稳促优行动方案22日对外发布，围绕扩大市场准入、提升外商投资便利度、提高投资促进水平、健全外商投资服务保障体系、优化外资管理五方面提出15条举措。\n方案聚焦服务业、金融业、医药产业等扩大市场准入。方案提出稳步扩大职业技能培训机构、职业院校、高水平理工农医类大学对外开放试点；支持更多外资机构利用包括国债期货在内的风险管理工具，加强金融风险管理；支持外资机构依法开展基金投资顾问业务；抓紧研究报批进一步扩大生物技术、外商独资医院领域开放试点区域范围等。\n方案针对外资并购、数据跨境流动、外资境内再投资等热点关切，加力提升外商投资便利度。明确加快修订出台关于外国投资者并购境内企业的规定；支持自贸试验区、国家服务业扩大开放试点城市探索在更多领域制定数据出境负面清单；落实境外投资者以分配利润直接投资税收优惠政策；完善外资研发中心支持政策等。\n方案还就推动“投资中国”品牌行动、统筹做好外资项目规范招引、全面落实外资企业国民待遇、支持外资企业参与提振消费行动、强化重大和重点外资项目服务保障等提出一系列具体措施。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "economy",
+  "keywords": [
+    "利用外资",
+    "市场准入",
+    "对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "利用外资",
+      "name_en": "Foreign Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "市场准入",
+      "name_en": "Market Access"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "国家发展改革委",
+    "财政部",
+    "北京",
+    "利用外资",
+    "市场准入",
+    "对外开放"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "National Development and Reform Commission",
+    "Ministry of Finance",
+    "Beijing",
+    "Foreign Investment",
+    "Market Access",
+    "Opening-up"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面"
+      },
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [
+      "MOFCOM",
+      "MOF"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260622-gov_cn_yaowen-a5a500",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260626-xinhua_leaders-2523c5",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260626/d321c20c03b64ff39e8357264244f802/c.html",
+  "title_zh": "习近平在山东德州考察乡村振兴工作",
+  "title_en": "Xi Jinping Inspects Rural Revitalization Efforts in Dezhou, Shandong",
+  "summary_zh": "6月24日，习近平总书记在山东德州考察，强调要发挥党建引领作用，推进宜居宜业和美乡村建设。",
+  "summary_en": "On June 24, General Secretary Xi Jinping inspected Dezhou, Shandong, emphasizing the leading role of Party building in constructing livable and business-friendly beautiful villages.",
+  "body_zh": "6月24日，习近平总书记在山东德州考察时，走进西于架村党群服务中心，细致询问村党组织建设和开展便民服务等情况，了解当地探索片区化推进乡村振兴的做法。习近平总书记希望村党组织进一步发挥党建引领作用，充分调动村民群众的积极性，在推进宜居宜业和美乡村建设中不断取得新成绩。\n党的十九大报告首次提出实施乡村振兴战略。习近平总书记指出，办好农村的事情，实现乡村振兴，关键在党。我们选取党的十九大以来，习近平总书记深入乡村考察时关于抓党建促乡村振兴的重要论述，一起学习领会。\n统筹：黄庆华 袁军宝 周年钧\n新华社新媒体中心、山东分社联合制作\n新华社出品",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "party",
+  "keywords": [
+    "乡村振兴",
+    "党建引领"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德州",
+      "name_en": "Dezhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建引领",
+      "name_en": "Party Building Leadership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "山东",
+    "德州",
+    "乡村振兴",
+    "党建引领"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shandong",
+    "Dezhou",
+    "Rural Revitalization",
+    "Party Building Leadership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260626-xinhua_leaders-2523c5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

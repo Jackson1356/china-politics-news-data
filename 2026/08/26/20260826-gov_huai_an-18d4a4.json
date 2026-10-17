@@ -1,0 +1,92 @@
+{
+  "id": "20260826-gov_huai_an-18d4a4",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1787698164602GkxoMEq4.html",
+  "title_zh": "淮安市九届人大常委会第三十五次会议召开",
+  "title_en": "Huaian Municipal People's Congress Standing Committee Holds 35th Meeting",
+  "summary_zh": "8月25日，淮安市九届人大常委会第三十五次会议召开，通过人事任免事项，审议多项报告，表决通过养犬管理条例和换届选举相关决定。",
+  "summary_en": "On August 25, the 35th meeting of Huaian Municipal People's Congress Standing Committee was held, approving personnel appointments and dismissals, deliberating reports, and passing regulations on dog management and election decisions.",
+  "body_zh": "市九届人大常委会第三十五次会议召开\n8月25日，市九届人大常委会第三十五次会议召开。市人大常委会常务副主任、党组副书记周青主持会议并讲话。市人大常委会副主任范更生、王向红、贺宝祥、朱海波，秘书长江山出席会议。副市长邱华康、市法院代理院长马杰、市人民检察院检察长周绪平列席会议。\n会议通过有关人事任免事项并举行宪法宣誓仪式。会议听取并审议市政府关于淮安市2026年上半年国民经济和社会发展计划执行情况的报告、关于2025年度政府债务管理情况的报告，以及关于2025年度国有资产管理情况的综合报告，开展满意度表决；听取市人大财经委关于淮安市2026年上半年国民经济和社会发展计划执行情况的调研报告、关于2025年度政府债务管理情况的调研报告、关于2025年度国有资产管理情况的调研报告；听取市人大法制委关于《淮安市养犬管理条例（草案）》审议结果的报告，审议并表决通过《淮安市养犬管理条例》；听取市政府关于《淮安市人民代表大会常务委员会关于加强重点场所未成年人保护的决定（草案）》起草情况的说明，市人大监察和司法委关于《淮安市人民代表大会常务委员会关于加强重点场所未成年人保护的决定（草案）》审查意见的报告，并审议该草案；听取并审议市政府关于生活垃圾分类、运输和处置工作情况的报告，开展满意度表决；听取市人大常委会环资城建委关于生活垃圾分类、运输和处置工作情况的调研报告；听取市政府部分工作部门主要负责人履职情况的报告，市“两院”、经开区“两院”部分员额法官、员额检察官履职情况的报告，开展满意度表决；听取《淮安市人民代表大会常务委员会关于全市市县（区）镇三级人民代表大会换届选举问题的决定（草案）》《淮安市人民代表大会常务委员会关于淮安市第十届人民代表大会代表名额分配的决定（草案）》的说明，审议并表决通过两项决定。会议通报下一次市人大常委会议题初步安排意见。",
+  "image_url": null,
+  "published_at": "2026-08-26T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "party",
+  "keywords": [
+    "人大会议",
+    "人事任免",
+    "地方立法"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大会议",
+      "name_en": "People's Congress Meeting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    }
+  ],
+  "tags_zh": [
+    "淮安",
+    "人大会议",
+    "人事任免",
+    "地方立法"
+  ],
+  "tags_en": [
+    "Huaian",
+    "People's Congress Meeting",
+    "Personnel Appointments",
+    "Local Legislation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "周青"
+      },
+      {
+        "id": null,
+        "name_zh": "江山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260826-gov_huai_an-18d4a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

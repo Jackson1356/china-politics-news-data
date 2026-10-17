@@ -1,0 +1,95 @@
+{
+  "id": "20260711-xinhua_ha-8d73f7",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_url": "https://www.news.cn/20260711/f302c305b5fd42ff8e05e0d2bac9069b/c.html",
+  "title_zh": "河南发布农田渍涝灾害风险预警",
+  "title_en": "Henan Issues Farmland Waterlogging Disaster Risk Warning",
+  "summary_zh": "河南省农业农村厅与气象局于7月10日联合发布农田渍涝灾害风险预警，提醒受台风“巴威”影响的地区加强防范。",
+  "summary_en": "The Henan Provincial Department of Agriculture and Rural Affairs and the Meteorological Bureau issued a farmland waterlogging risk warning on July 10 due to the impact of Typhoon Bawi.",
+  "body_zh": "新华社郑州7月11日电（记者马意翀）河南省农业农村厅、河南省气象局10日联合发布农田渍涝灾害风险预警。\n据介绍，受台风“巴威”及其外围云系影响，预计7月12日至15日，河南省南部、东部和中北部将先后出现暴雨及强对流天气，豫南、豫东、豫中北及豫西局部农田渍涝灾害风险等级达到中等以上，其中信阳、驻马店、商丘大部，周口及安阳部分地区达到高风险等级，需加强防范。\n防御措施包括：提前疏浚田间沟渠和通河沟渠，做到内联外通，保障排水畅通，加快雨后沥水散墒，尽量做到雨止无积水，减轻土壤渍涝危害。加强玉米南方锈病、水稻“两迁”害虫、细菌性病害、根茎病害等监测防控，预防病虫害暴发风险。一旦发生倒伏，要以保根为主，避免盲目扶直造成二次损伤。渍涝田块雨后及时追施速效氮肥，防止作物后期脱肥。",
+  "image_url": null,
+  "published_at": "2026-07-11T12:00:00+00:00",
+  "event_date": "2026-07-10",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "industry",
+  "keywords": [
+    "农田渍涝",
+    "灾害预警"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "河南省农业农村厅",
+      "name_en": "Henan Provincial Department of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "河南省气象局",
+      "name_en": "Henan Provincial Meteorological Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农田渍涝",
+      "name_en": "Farmland Waterlogging"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害预警",
+      "name_en": "Disaster Warning"
+    }
+  ],
+  "tags_zh": [
+    "河南省农业农村厅",
+    "河南省气象局",
+    "河南",
+    "农田渍涝",
+    "灾害预警"
+  ],
+  "tags_en": [
+    "Henan Provincial Department of Agriculture and Rural Affairs",
+    "Henan Provincial Meteorological Bureau",
+    "Henan",
+    "Farmland Waterlogging",
+    "Disaster Warning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": [
+      {
+        "name_zh": "河南省农业农村厅",
+        "name_en": "Henan Provincial Department of Agriculture and Rural Affairs"
+      },
+      {
+        "name_zh": "河南省气象局",
+        "name_en": "Henan Provincial Meteorological Bureau"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260711-xinhua_ha-8d73f7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

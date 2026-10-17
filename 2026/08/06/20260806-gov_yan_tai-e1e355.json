@@ -1,0 +1,86 @@
+{
+  "id": "20260806-gov_yan_tai-e1e355",
+  "source": "gov_yan_tai",
+  "source_name_zh": "烟台市政府网",
+  "source_name_en": "烟台 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_tai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yantai.gov.cn/col/col11794/art/2026/art_24cd47233a51425e8453bd2ae92e9bd9.html",
+  "title_zh": "烟台市委常委会召开会议研究扫黑除恶等工作",
+  "title_en": "Yantai Municipal Party Standing Committee Holds Meeting on Anti-Gang Work",
+  "summary_zh": "8月6日，烟台市委常委会召开会议，传达学习习近平总书记近期重要讲话和指示精神，研究扫黑除恶专项斗争等工作，市委书记江成主持。",
+  "summary_en": "On August 6, the Yantai Municipal Party Standing Committee held a meeting to convey and study Xi Jinping's recent important speeches and instructions, and to discuss anti-crime special operations. Jiang Cheng presided.",
+  "body_zh": "8月6日，市委常委会召开会议，传达学习习近平总书记在中央政治局会议、中央政治局第二十七次集体学习、党外人士座谈会上的重要讲话精神，对基础教育工作、侨务工作作出的重要指示精神,学习贯彻省委十二届十一次全会精神，研究扫黑除恶专项斗争等工作。省人大常委会副主任、党组副书记，市委书记江成主持并讲话。\n会议指出，习近平总书记的重要讲话、重要指示，为做好相关工作提供了根本遵循。要深学细悟习近平党建思想，深刻领会新时代全面从严治党的历史性成就和重大意义，以党的政治建设为统领，全面推进党的各方面建设。要把思想和行动高度统一到中央关于当前经济形势的科学判断和对经济工作的决策部署上来，坚定信心、真抓实干，奋力实现“十五五”良好开局。要扛牢党管武装政治责任，统筹抓好练兵备战、国防动员、双拥共建等工作。要聚焦立德树人根本任务，抓紧抓实教育资源配置、师资力量建设、校园安全防范等，推动基础教育高质量发展。要扎实做好新时代侨务工作，大力开展以侨引智、以侨引资、以侨引商，更好发挥海外侨胞和归国侨眷作用。\n会议强调，要全面贯彻落实省委十二届十一次全会部署要求，把深入学习贯彻习近平总书记视察山东重要讲话、重要指示批示精神作为重大政治任务，更加奋发有为地做好各项工作，扛牢经济大市挑大梁的责任担当。要加力推动农业农村现代化，把粮食安全放在首位，大力发展乡村特色产业，以片区化推进乡村振兴，促进农民稳定增收，加快建设农业强市。要全力抓好当前重点工作，强化经济运行调度分析，巩固拓展树立和践行正确政绩观学习教育成果，深化整治形式主义为基层减负，攻坚群众身边不正之风和腐败问题集中整治，守住守牢各项工作底线，坚定不移完成全年目标任务。\n会议强调，要按照中央和省委部署要求，扎实开展深化扫黑除恶专项斗争，坚持“打伞”、反腐、“拍蝇”同步发力，严厉打击黑恶犯罪，重拳整治行业乱象，加强案件全流程办理质量控制，确保专项斗争取得实实在在成效。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "party",
+  "keywords": [
+    "党建",
+    "扫黑除恶",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Anti-Gang Campaign"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "党建",
+    "扫黑除恶",
+    "乡村振兴",
+    "习近平"
+  ],
+  "tags_en": [
+    "Party Building",
+    "Anti-Gang Campaign",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "江成"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260806-gov_yan_tai-e1e355",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

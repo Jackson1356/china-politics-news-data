@@ -1,0 +1,104 @@
+{
+  "id": "20260624-bjnews_zhengshier-79b3c7",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1782291794129087.html",
+  "title_zh": "韩国总理金民锡访问清华大学",
+  "title_en": "South Korean Prime Minister Kim Min-seok Visits Tsinghua University",
+  "summary_zh": "6月23日，韩国国务总理金民锡访问母校清华大学，与党委书记邱勇举行会谈，探讨加强中韩教育科技合作与人文交流。",
+  "summary_en": "On June 23, South Korean Prime Minister Kim Min-seok visited his alma mater, Tsinghua University, and held talks with Party Secretary Qiu Yong to discuss strengthening education, technology cooperation, and humanities exchange between China and South Korea.",
+  "body_zh": "韩国总理：回到母校清华园，心中满是欣喜\n清华新闻网消息，“重临缔结珍贵缘分的清华园，心中满是欣喜。在这里的学习时光是我人生中最美好的记忆之一。”6月23日上午，韩国国务总理金民锡访问清华大学。\n清华大学党委书记邱勇同金民锡在主楼327会议室举行会谈。韩国外交部第一次官朴润柱、韩国驻华大使卢载宪，中国驻韩国大使戴兵等参加会谈。\n邱勇代表学校对金民锡总理回到母校表示热烈欢迎。他说，习近平主席指出，中国和韩国是搬不走的近邻，也是分不开的合作伙伴。此次金民锡总理到访，我们真切感受到总理先生对母校的深厚感情。邱勇说，一流大学不仅要有创新高度，也要有人文厚度。\n近年来，清华大学扎实推进高水平对外开放，社会影响力和全球声誉持续提升。立足建校115周年的新起点，清华愿同韩国各界加强教育科技合作与人文交流，为推动中韩战略合作伙伴关系行稳致远贡献更多力量。\n金民锡回顾了在清华园求学的点滴并表示，清华大学是享誉全球的一流学府，在科技创新方面取得的成绩令人印象深刻。去年11月和今年1月，两国元首两次见面并实现互访，为韩中关系发展擘画蓝图、指明方向。\n韩国政府高度重视与中国的教育科技合作。希望清华大学发挥自身优势，进一步加强与韩国高校的往来互动，也期待两国青年在历史、政治、文化各领域持续深化交流，增进理解和互信。“相信自己与清华的缘分会继续生根发芽，推动两国关系不断向前发展，结出更多硕果。”金民锡说。\n会后，金民锡前往法学院进行了参观。\n韩国国务调整室、国务总理秘书室、外交部，清华大学法学院、国际关系研究院、国际处有关负责人参加活动。\n金民锡于2007年至2010年在法学院攻读LL.M.中国法项目，获法律硕士学位。",
+  "image_url": null,
+  "published_at": "2026-06-24T17:06:08+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "教育科技合作",
+    "人文交流",
+    "中韩关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金民锡",
+      "name_en": "Kim Min-seok"
+    },
+    {
+      "kind": "institution",
+      "id": "TSINGHUA",
+      "name_zh": "清华大学",
+      "name_en": "Tsinghua University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育科技合作",
+      "name_en": "Education and Technology Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "Humanities Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中韩关系",
+      "name_en": "China-South Korea Relations"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "金民锡",
+    "清华大学",
+    "教育科技合作",
+    "人文交流",
+    "中韩关系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Kim Min-seok",
+    "Tsinghua University",
+    "Education and Technology Cooperation",
+    "Humanities Exchange",
+    "China-South Korea Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "戴兵等"
+      },
+      {
+        "id": null,
+        "name_zh": "金民锡"
+      }
+    ],
+    "institutions": [
+      "TSINGHUA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260624-bjnews_zhengshier-79b3c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

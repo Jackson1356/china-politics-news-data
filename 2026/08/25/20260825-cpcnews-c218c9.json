@@ -1,0 +1,105 @@
+{
+  "id": "20260825-cpcnews-c218c9",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0825/c64094-40785564.html",
+  "title_zh": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+  "title_en": "Xi Jinping Sends Congratulations to Alamgir on His Inauguration as Bangladesh President",
+  "summary_zh": "8月24日，国家主席习近平致电阿拉姆吉尔，祝贺他就任孟加拉国总统，表示愿赓续传统友谊，推进共建“一带一路”，深化合作，引领新时代中孟命运共同体建设走深走实。",
+  "summary_en": "On August 24, President Xi Jinping sent a congratulatory message to Alamgir on his inauguration as President of Bangladesh, expressing willingness to enhance traditional friendship, advance Belt and Road cooperation, and deepen the China-Bangladesh community with a shared future.",
+  "body_zh": "新华社北京8月24日电 8月24日，国家主席习近平致电阿拉姆吉尔，祝贺他就任孟加拉人民共和国总统。\n习近平指出，中国和孟加拉国是传统友好邻邦。建交51年来，两国始终相互尊重、平等相待，双方在涉及彼此核心利益和重大关切问题上相互支持，在实现各自现代化道路上携手同行，两国关系经受住国际风云变幻考验。我高度重视中孟关系发展，愿同阿拉姆吉尔总统一道努力，赓续传统友谊，加强战略沟通，推进高质量共建“一带一路”，深化各领域交流合作，引领新时代中孟命运共同体建设不断走深走实，更好造福两国人民。\n《 人民日报 》（ 2026年08月25日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "中孟关系",
+    "一带一路",
+    "命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中孟关系",
+      "name_en": "China-Bangladesh Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中孟关系",
+    "一带一路",
+    "命运共同体"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China-Bangladesh Relations",
+    "Belt and Road",
+    "Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260824-qiushi-c237b1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/b9d5a7085b424d23bc91a0d37357ee82.shtml",
+      "title_zh": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202608/t20260825_175497.html",
+      "title_zh": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2092057222940004353.html",
+      "title_zh": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

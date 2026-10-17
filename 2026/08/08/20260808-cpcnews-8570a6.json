@@ -1,0 +1,74 @@
+{
+  "id": "20260808-cpcnews-8570a6",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0808/c64387-40775992.html",
+  "title_zh": "我国外汇储备规模为34188亿美元",
+  "title_en": "China's Foreign Exchange Reserves Hit $3.4188 Trillion",
+  "summary_zh": "截至7月末，我国外汇储备规模为34188亿美元，较6月末上升25亿美元，升幅0.07%，经济展现韧性和活力。",
+  "summary_en": "As of end-July, China's foreign exchange reserves reached $3,418.8 billion, up $2.5 billion from end-June, reflecting economic resilience.",
+  "body_zh": "截至7月末\n本报北京8月7日电 （记者葛孟超）国家外汇管理局统计数据显示：截至7月末，我国外汇储备规模为34188亿美元，较6月末上升25亿美元，升幅为0.07%。\n7月，受全球宏观形势、主要经济体货币政策等因素影响，美元指数下跌，全球主要金融资产价格涨跌互现。汇率折算和资产价格变化等因素综合作用，当月外汇储备规模上升。我国经济呈现动能向新、结构向优的发展态势，展现出强大韧性和活力，有利于外汇储备规模保持基本稳定。\n《 人民日报 》（ 2026年08月08日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "economy",
+  "keywords": [
+    "外汇储备",
+    "金融稳定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAFE",
+      "name_zh": "国家外汇管理局",
+      "name_en": "State Administration of Foreign Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外汇储备",
+      "name_en": "Foreign Exchange Reserves"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融稳定",
+      "name_en": "Financial Stability"
+    }
+  ],
+  "tags_zh": [
+    "国家外汇管理局",
+    "外汇储备",
+    "金融稳定"
+  ],
+  "tags_en": [
+    "State Administration of Foreign Exchange",
+    "Foreign Exchange Reserves",
+    "Financial Stability"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAFE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260808-cpcnews-8570a6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

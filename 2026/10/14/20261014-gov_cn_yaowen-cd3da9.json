@@ -1,0 +1,83 @@
+{
+  "id": "20261014-gov_cn_yaowen-cd3da9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083277.htm",
+  "title_zh": "前三季度我国物价保持平稳运行",
+  "title_en": "China's Prices Remain Stable in First Three Quarters",
+  "summary_zh": "国家统计局10月14日发布数据，前三季度全国CPI同比上涨0.9%，PPI同比上涨2.3%，物价总水平保持平稳运行。",
+  "summary_en": "The National Bureau of Statistics said on Oct 14 that China's CPI rose 0.9 percent year on year in the first three quarters, while PPI rose 2.3 percent, keeping overall prices stable.",
+  "body_zh": "国家统计局今天（10月14日）发布的数据显示，今年前三季度，全国居民消费价格指数CPI同比上涨0.9%，9月份当月同比上涨0.9%，涨幅比上月扩大0.1个百分点，物价总水平保持平稳运行。\n分品类看，9月份，鲜菜、鲜果市场供应充足，食品价格有所下降；能源价格受国际原油价格持续高位运行影响，涨幅有所扩大。在养老、托育等生活服务需求稳步增长带动下，服务价格相比去年实现温和回升，同比上涨0.8%。\n从生产领域看，今年前三季度，全国工业生产者出厂价格指数PPI同比上涨2.3%，9月份当月同比上涨5.0%，已连续七个月保持上涨态势。人工智能、算电协同等领域加快发展，市场竞争秩序持续优化，推动电气机械、计算机等下游制造业价格持续改善。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "物价稳定",
+    "居民消费价格指数",
+    "工业生产者出厂价格指数"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物价稳定",
+      "name_en": "Price Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "居民消费价格指数",
+      "name_en": "Consumer Price Index"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业生产者出厂价格指数",
+      "name_en": "Producer Price Index"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "物价稳定",
+    "居民消费价格指数",
+    "工业生产者出厂价格指数"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Price Stability",
+    "Consumer Price Index",
+    "Producer Price Index"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261014-gov_cn_yaowen-cd3da9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

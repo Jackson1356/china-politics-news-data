@@ -1,0 +1,112 @@
+{
+  "id": "20260922-xinhua_js-09fce4",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260922/4d7852b0ae274ca5804cceb145f6a026/c.html",
+  "title_zh": "江苏省政府举行“人工智能+安全生产应急管理”路演",
+  "title_en": "Jiangsu Provincial Government Holds Roadshow on \"AI Plus Work Safety and Emergency Management\"",
+  "summary_zh": "2026年9月，江苏省政府在南京举行“人工智能+安全生产应急管理”路演，省长刘小涛出席并讲话，会上“人工智能+安全生产应急管理”产业创新联盟正式成立。",
+  "summary_en": "In September 2026, the Jiangsu Provincial Government held a roadshow on AI-enabled work safety and emergency management, with Governor Liu Xiaotao attending and delivering a speech; an industry innovation alliance was officially launched.",
+  "body_zh": "现场播放了“人工智能+安全生产应急管理”行动专题片，中国工程院院士张来斌作专题辅导，省应急管理厅解读行动实施方案并发布重点应用场景清单，部分单位和企业分别围绕监测预警、应急大模型、特种作业、智慧城市、应急处置等进行演示，有关专家现场点评。“人工智能+安全生产应急管理”产业创新联盟正式成立。\n会议指出，要聚焦关键环节精准发力，将人工智能深度嵌入应急监测、决策、处置全流程；面向重点领域拓展应用场景，增强安全生产智能治理、自然灾害智能防治、应急救援智慧化能力；强化核心要素供给保障，夯实数据基座、优化算法模型、畅通算力供给；推动多元主体协同共建，政府先行先用促进成果转化，企业牵头拓展创新应用，面向全社会普及推广，多管齐下持续夯实本质安全根基。\n省委常委、省政府党组副书记张文兵主持。省政府秘书长赵建军，应急管理部有关司局负责同志，省有关部门单位、各设区市负责同志，部分企业、高校负责人，分别在主会场、分会场参加。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "安全生产",
+    "应急管理",
+    "产业创新联盟"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新联盟",
+      "name_en": "Industry Innovation Alliance"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "张文兵",
+    "人工智能",
+    "安全生产",
+    "应急管理",
+    "产业创新联盟"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Zhang Wenbing",
+    "Artificial Intelligence",
+    "Work Safety",
+    "Emergency Management",
+    "Industry Innovation Alliance"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing",
+      {
+        "id": null,
+        "name_zh": "方案并"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260922-xinhua_js-09fce4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_xin_hua_ri_bao_cn_js",
+      "source_tier": 3,
+      "url": "https://www.xhby.net/content/s6ab3900ee4b02e2ec97f5ee4.html",
+      "title_zh": "江苏省政府举行“人工智能＋安全生产应急管理”路演 刘小涛出席并讲话",
+      "published_at": "2026-09-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

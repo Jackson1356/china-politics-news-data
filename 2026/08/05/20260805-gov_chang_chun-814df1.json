@@ -1,0 +1,97 @@
+{
+  "id": "20260805-gov_chang_chun-814df1",
+  "source": "gov_chang_chun",
+  "source_name_zh": "长春市政府网",
+  "source_name_en": "长春 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_chun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JL",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.changchun.gov.cn/szf/zfld/szx/gg/zyhd/202608/t20260805_3504505.html",
+  "title_zh": "第25届长春农博会组委会工作会议召开",
+  "title_en": "Organizing Committee Meeting for 25th Changchun Agricultural Expo Held",
+  "summary_zh": "8月3日，第25届长春农博会组委会工作会议召开，副省长刘伟、市长顾刚出席并讲话，部署展会筹备工作，强调打造高质量农业盛会。",
+  "summary_en": "On August 3, the organizing committee meeting for the 25th Changchun Agricultural Expo was held, attended by Vice Governor Liu Wei and Mayor Gu Gang, who delivered speeches on preparations to build a high-quality agricultural event.",
+  "body_zh": "第25届长春农博会组委会工作会议召开\n8月3日，第25届长春农博会组委会工作会议召开。强调坚持资源聚合、部门协同，全力以赴把本届农博会打造成为高质量、高水平、高品质的农业盛会。副省长刘伟，市长顾刚出席会议并讲话。副市长曹武主持会议。\n会上，省农业农村厅、省粮食和储备局、省供销合作社、吉林农业大学分别就农博会前期筹备、粮食企业参展、特色展厅布展、农业科技成果展览等工作发言，长春农博园汇报整体办展和会场建设等情况。\n会议指出，长春农博会历经二十余年深耕培育，已成为促进农业合作交流、推动产品贸易流通、赋能地方经济发展的重要平台。当前展会筹办进入冲刺关键阶段，要锚定市场化、专业化、品牌化方向，以改革创新思路优化全流程，强化展会带动产业作用，激活高质量发展新动能。\n要深化长春现代化都市圈农业协同联动、资源共享、优势互补，凝聚都市圈农业发展合力。要立足科技兴农、科创强农，组织举办科企对接、科普大集、科技小院等系列活动，以科技创新引领现代化大农业发展。\n要全方位、矩阵式做好宣传推广，深挖农业科创成果、特色农产品、新农人典型故事等鲜活素材，强化农文旅融合等，持续擦亮农博会品牌、扩大展会影响力。统筹抓好食品、消防、交通等工作，科学完善应急预案，加强隐患排查整治，确保展会取得圆满成功。\n长春市人民政府 www.changchun.gov.cn\n时间：2026-08-05 10:14",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "industry",
+  "keywords": [
+    "农业博览会",
+    "农业合作",
+    "科技兴农"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-wei-transport",
+      "name_zh": "刘伟",
+      "name_en": "Liu Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业博览会",
+      "name_en": "Agricultural Expo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业合作",
+      "name_en": "Agricultural cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技兴农",
+      "name_en": "Technology-driven agriculture"
+    }
+  ],
+  "tags_zh": [
+    "刘伟",
+    "长春",
+    "农业博览会",
+    "农业合作",
+    "科技兴农"
+  ],
+  "tags_en": [
+    "Liu Wei",
+    "Changchun",
+    "Agricultural Expo",
+    "Agricultural cooperation",
+    "Technology-driven agriculture"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-wei-transport",
+      {
+        "id": null,
+        "name_zh": "曹武"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260805-gov_chang_chun-814df1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

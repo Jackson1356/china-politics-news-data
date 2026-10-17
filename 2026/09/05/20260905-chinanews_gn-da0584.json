@@ -1,0 +1,97 @@
+{
+  "id": "20260905-chinanews_gn-da0584",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-05/10690890.shtml",
+  "title_zh": "两部门针对福建提升国家自然灾害救助应急响应级别至三级",
+  "title_en": "Two Departments Upgrade National Disaster Relief Emergency Response to Level III in Fujian",
+  "summary_zh": "9月5日，国家防减救灾委、应急管理部针对台风及强降雨对福建造成的严重影响，将国家自然灾害救助应急响应级别提升至三级，并派工作组赴灾区指导救助。",
+  "summary_en": "On September 5, two national departments upgraded the natural disaster relief emergency response to Level III in Fujian due to typhoon and extreme rainfall, sending a work team to guide local relief.",
+  "body_zh": "两部门针对福建提升国家自然灾害救助应急响应级别至三级\n按照《国家自然灾害救助应急预案》，针对近期台风及极端强降雨对福建莆田、宁德等地造成的严重影响，9月5日，国家防减救灾委、应急管理部将针对福建的国家自然灾害救助应急响应级别提升至三级，增派救灾工作组紧急赶赴灾区实地查看灾情，指导和协助地方做好受灾群众基本生活保障及灾后应急恢复等灾害救助工作。\n(总台央视记者 唐国荣)\n国内新闻精选：\n- 2026年09月05日 10:41:17\n- 2026年09月04日 21:53:45\n- 2026年09月04日 21:13:27\n- 2026年09月04日 15:48:44\n- 2026年09月04日 14:11:56\n- 2026年09月04日 13:58:43\n- 2026年09月04日 13:34:52\n- 2026年09月04日 11:18:07\n- 2026年09月04日 10:44:31\n- 2026年09月04日 10:01:49",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-05",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "自然灾害救助",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家防减救灾委",
+      "name_en": "National Commission for Disaster Prevention, Reduction and Relief"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救助",
+      "name_en": "Natural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "国家防减救灾委",
+    "应急管理部",
+    "福建",
+    "自然灾害救助",
+    "应急响应"
+  ],
+  "tags_en": [
+    "National Commission for Disaster Prevention, Reduction and Relief",
+    "Ministry of Emergency Management",
+    "Fujian",
+    "Natural Disaster Relief",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-FJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家防减救灾委",
+        "name_en": "National Commission for Disaster Prevention, Reduction and Relief"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260905-chinanews_gn-da0584",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

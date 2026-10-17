@@ -1,0 +1,139 @@
+{
+  "id": "20261016-gov_yan_cheng-27d747",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/10/16/art_60096_11842608.html",
+  "title_zh": "江苏省与南方航空集团签署战略合作协议 信长星刘小涛会见马须伦一行",
+  "title_en": "Jiangsu Province Signs Strategic Cooperation Agreement with China Southern Airlines Group; Xin Changxing and Liu Xiaotao Meet Ma Xulun",
+  "summary_zh": "10月14日，江苏省与中国南方航空集团签署战略合作协议，省委书记信长星、省长刘小涛会见南航集团董事长马须伦一行，双方将深化航线网络、智慧物流、航空文旅等合作。",
+  "summary_en": "On October 14, Jiangsu Province signed a strategic cooperation agreement with China Southern Airlines Group. Party Secretary Xin Changxing and Governor Liu Xiaotao met Chairman Ma Xulun to deepen cooperation in route networks, smart logistics and aviation tourism.",
+  "body_zh": "当前位置：\n我省与中国南方航空集团签署战略合作协议\n信长星刘小涛会见马须伦一行\n10月14日，我省与中国南方航空集团签署战略合作协议。省委书记信长星、省长刘小涛会见中国南方航空集团董事长马须伦一行。\n信长星、刘小涛感谢南航集团多年来对江苏发展的大力支持。信长星说，当前，江苏正在深入贯彻落实习近平总书记重要指示精神，持续推动高水平对外开放，加快建设具有世界聚合力的双向开放枢纽。在这一过程中，离不开航空运输的支撑。希望双方围绕航线网络布局、智慧物流服务、航空文旅融合等方面进一步深化合作，更好满足群众高品质出行和产业发展需求，更好服务全国发展大局。\n马须伦表示，南航集团高度重视与江苏的合作，将聚焦国家重大战略实施，紧扣江苏经济社会发展所需，加大资源投入，提供优质服务，共同推动合作协议落到实处，为江苏高质量发展注入新动能。\n省领导陈忠伟、马士光，中国南方航空集团副总经理梁爽分别参加有关活动。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "航空运输",
+    "智慧物流",
+    "高水平对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "马须伦",
+      "name_en": "Ma Xulun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空运输",
+      "name_en": "Air Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧物流",
+      "name_en": "Smart Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Level Opening Up"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "liang-shuang-huairou",
+      "name_zh": "梁爽",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "刘小涛",
+    "马须伦",
+    "江苏",
+    "战略合作",
+    "航空运输",
+    "智慧物流",
+    "高水平对外开放",
+    "陈忠伟",
+    "梁爽"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Liu Xiaotao",
+    "Ma Xulun",
+    "Jiangsu",
+    "Strategic Cooperation",
+    "Air Transport",
+    "Smart Logistics",
+    "High-Level Opening Up"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "马须伦"
+      },
+      "chen-zhongwei-jiangsu",
+      "liang-shuang-huairou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_yan_cheng-27d747",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

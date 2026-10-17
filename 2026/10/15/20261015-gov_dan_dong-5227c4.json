@@ -1,0 +1,105 @@
+{
+  "id": "20261015-gov_dan_dong-5227c4",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202610/0179196260299478.html",
+  "title_zh": "张丹调研文化惠民和产业振兴工作",
+  "title_en": "Zhang Dan Inspects Public Cultural Services and Industrial Revitalization Work",
+  "summary_zh": "10月14日，丹东市委副书记、市长张丹到市图书馆和辽宁东方测控集团有限公司，调研文化惠民与先进制造业高质量发展工作。",
+  "summary_en": "On Oct 14, Dandong Mayor Zhang Dan visited the city library and Liaoning Dongfang Measurement & Control Group to inspect public cultural services and high-quality development of advanced manufacturing.",
+  "body_zh": "按照市委工作部署，10月14日，市委副书记、市长张丹到市图书馆和辽宁东方测控集团有限公司，实地调研文化惠民与先进制造业高质量发展等工作。张丹强调，要深入践行习近平文化思想，加快文化产业发展，提升公共文化服务水平；要全面贯彻落实习近平总书记对辽宁振兴发展的重要讲话和重要指示精神，以科技创新和产业创新深度融合发展新质生产力，加快构建现代化产业体系，为高质量发展提供坚实支撑。\n在市图书馆，张丹实地察看借阅区、文化活动展区等服务场所，详细了解场馆开放运营、惠民文化活动、馆藏资源建设等情况。张丹指出，图书馆是重要的公共文化服务阵地，是市民的精神家园，也是城市文明的重要地标。要坚持以人民为中心的发展思想，立足城市发展规划，聚焦群众文化需求，持续优化场馆服务供给，创新开展形式多样的全民阅读活动和公共文化活动，不断提升公共文化服务的覆盖面和实效性。要增强文化保护传承意识，深化科技赋能，加快文化场馆数字化改造，打造场景多样的公共阅读空间，构建便捷高效的品质文化生活圈，让公共文化设施更好惠及全体市民，更好满足人民群众精神文化需求。\n辽宁东方测控集团有限公司长期深耕矿山智能测控装备研发制造，多项核心技术国内领先。张丹与企业相关负责人深入交谈，仔细询问市场订单、技术研发、产业链配套等情况，对东方测控坚持自主创新、深耕细分赛道取得的成果给予肯定。张丹强调，先进制造业是构建现代化产业体系的重要支撑。要牢牢把握科技创新这一关键，持续攻关核心技术，不断延伸产业链条、拓展应用场景，培育新质生产力，做大做强智能测控装备产业，助力我市仪器仪表产业集群发展。要搭建好产学研协同创新平台，吸引集聚更多优质创新资源，加速科技成果转化落地，不断完善和丰富产业生态，培育发展新动能、塑造竞争新优势。相关地区和部门要主动靠前服务，围绕企业发展需求落实好各项惠企政策，支持企业更好对接市场需求，助力企业做大做优做强，为丹东全面振兴贡献产业力量。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "industry",
+  "keywords": [
+    "文化惠民",
+    "先进制造业",
+    "新质生产力",
+    "产业振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张丹",
+      "name_en": "Zhang Dan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化惠民",
+      "name_en": "Public Cultural Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业振兴",
+      "name_en": "Industrial Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "张丹",
+    "丹东",
+    "文化惠民",
+    "先进制造业",
+    "新质生产力",
+    "产业振兴"
+  ],
+  "tags_en": [
+    "Zhang Dan",
+    "Dandong",
+    "Public Cultural Services",
+    "Advanced Manufacturing",
+    "New Quality Productive Forces",
+    "Industrial Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张丹"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261015-gov_dan_dong-5227c4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

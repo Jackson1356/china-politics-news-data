@@ -1,0 +1,96 @@
+{
+  "id": "20260831-gov_dan_dong-4727f7",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202608/0178813658681783.html",
+  "title_zh": "丹东市委常委会召开会议 传达学习习近平总书记重要讲话和重要指示精神",
+  "title_en": "Dandong Municipal Party Committee Holds Meeting to Convey Xi Jinping's Important Speech and Instructions",
+  "summary_zh": "8月28日，丹东市委常委会召开会议，传达学习习近平总书记重要讲话和重要文章精神，研究贯彻落实意见。市委书记蒋冰主持并讲话。",
+  "summary_en": "On August 28, the Standing Committee of the Dandong Municipal Party Committee held a meeting to convey the spirit of Xi Jinping's important speeches and articles, and to study implementation measures. Party Secretary Jiang Bing presided and delivered a speech.",
+  "body_zh": "8月28日，市委常委会召开会议，传达学习习近平总书记重要讲话、重要指示批示和重要文章精神，研究贯彻落实意见。市委书记蒋冰主持并讲话。\n会议指出，要深入学习贯彻习近平总书记在中共中央政治局第二十七次集体学习时的重要讲话精神，深入学习贯彻习近平强军思想，坚持政治建军根本要求，扛牢“兴边富民、强边固防”政治使命，自觉把地方工作融入强军大局，提升服务备战打仗、保障国防建设能力。要落实军地常态化会商机制，深化军地协同创新，破解军民融合发展堵点，推动经济建设与国防建设双向赋能。要做实拥军优抚工作，落实退役军人安置、随军家属就业、军人子女教育政策，厚植国防建设氛围，创新国防教育，深化双拥共建，巩固拓展全国双拥模范城“九连冠”创建成果。\n会议强调，要深入学习贯彻习近平总书记《提高防灾减灾救灾能力》重要文章精神，站在统筹高质量发展和高水平安全的战略高度，坚持人民至上、生命至上，结合城市更新和“六张网”建设，补齐工程体系和基础设施短板，推动灾害治理向事前预防转型。要树牢底线思维，强化预案演练以及队伍、物资保障，全面增强应急处置效能。要坚决克服麻痹厌战情绪，压紧压实各级各方责任，健全协同处置机制，闭环落实各项工作。要加强防灾减灾科普宣传，切实提升防灾减灾救灾综合能力，守牢人民群众生命财产安全底线。\n会议强调，要认真学习贯彻习近平总书记对西藏日喀则市吉隆县泥石流灾害作出的重要指示精神，与《提高防灾减灾救灾能力》重要文章精神贯通领会、一体落实。要树牢极限思维、底线思维和系统思维，针对地质灾害高风险点位开展隐患复核，推行清单化动态管理，从严落实避险转移相关举措。要健全多部门联合会商、监测预警机制，做实水情灾情应急联动。要严格执行值班值守和险情报送工作要求，坚决防范重特大灾害事故发生。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻习近平总书记重要讲话精神",
+    "强军建设",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻习近平总书记重要讲话精神",
+      "name_en": "Studying and Implementing Xi Jinping's Important Speech Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强军建设",
+      "name_en": "Military Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丹东",
+    "学习贯彻习近平总书记重要讲话精神",
+    "强军建设",
+    "防灾减灾",
+    "习近平"
+  ],
+  "tags_en": [
+    "Dandong",
+    "Studying and Implementing Xi Jinping's Important Speech Spirit",
+    "Military Building",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "蒋冰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260831-gov_dan_dong-4727f7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

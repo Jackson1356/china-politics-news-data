@@ -1,0 +1,100 @@
+{
+  "id": "20260803-gov_yu_xi-47e61f",
+  "source": "gov_yu_xi",
+  "source_name_zh": "玉溪市政府网",
+  "source_name_en": "玉溪 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yuxi.gov.cn/yxs/ywdtsy/20260803/1673780.html",
+  "title_zh": "市政府召开党组会议常务会议 研究经济运行和城市更新等工作",
+  "title_en": "Yuxi Municipal Government Holds Party Group and Executive Meetings on Economic Operation and Urban Renewal",
+  "summary_zh": "8月1日，玉溪市市长胡江辉主持召开市政府党组会议和常务会议，传达学习习近平总书记近期重要讲话和重要指示精神，研究经济运行、城市更新等工作。",
+  "summary_en": "On Aug 1, Yuxi Mayor Hu Jianghui chaired municipal government party group and executive meetings to convey Xi Jinping's recent important speeches and study economic operation and urban renewal.",
+  "body_zh": "市政府召开党组会议常务会议 研究经济运行和城市更新等工作\n8月1日，市政府党组书记、市长胡江辉主持召开市政府党组2026年第15次会议、市政府第81次常务会议，传达学习习近平总书记近期重要讲话和重要指示精神，研究我市经济运行、城市更新等工作。\n会议强调，要深入学习贯彻习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的重要讲话精神，认真落实党中央决策部署和省、市工作要求，立足玉溪实际，全面加强科技创新发展。要深入学习贯彻习近平总书记在上海考察时的重要讲话精神，践行人民城市理念，高质量推进玉溪城市更新建设。要深入贯彻落实习近平总书记对防汛救灾和安全生产工作作出的重要指示精神，抓实隐患排查、预警叫应、应急准备、抢险救援等工作，全力维护人民群众生命财产安全。\n会议传达学习《中华人民共和国民族团结进步促进法》，强调要认真学法用法，扎实推动法律宣传进机关、进校园、进企业、进社区。要把法治理念、法治方式贯穿工作各环节，加快推进民族团结进步创建工作，助推玉溪高质量发展。\n会议传达学习《城市更新“十五五”规划》，强调要吃透政策、积极争取、认真谋划，抓好高铁新城、新兴州城、玉溪大河等项目建设，以重大项目为牵引、以重点片区为突破推动城市更新，持续夯实现代化宜居生态城市建设根基。\n会议听取上半年全市经济运行情况，指出今年以来玉溪经济增长质效提升、发展态势向好，成绩来之不易。各级各地要紧扣目标任务，以更强担当、更实举措抢抓三季度、奋战下半年。要围绕工业打头阵、农业作提质、文旅抓突破等重点，进一步抓好项目攻坚、招商引资、园区建设、民生保障等工作，不断改进干部作风，提升工作效率，推动各项事业取得新成效。\n会议强调，要持续深化改革，加快推动市属国有企业从“融资平台”向“实体产业”转型，多措并举盘活闲置资产，提升管理质效，推动国有企业高质量发展。\n会议还研究了其他事项。（玉溪市融媒体中心记者 夏娜）",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "城市更新",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN-YX",
+      "name_zh": "玉溪",
+      "name_en": "Yuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "玉溪",
+    "经济运行",
+    "城市更新",
+    "科技创新",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yuxi",
+    "Economic Operation",
+    "Urban Renewal",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "胡江辉"
+      },
+      {
+        "id": null,
+        "name_zh": "江辉"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN-YX"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260803-gov_yu_xi-47e61f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

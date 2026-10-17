@@ -1,0 +1,110 @@
+{
+  "id": "20260526-cpcnews-7a66b8",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0527/c64094-40728199.html",
+  "title_zh": "张升民会见巴基斯坦国防军司令兼陆军参谋长",
+  "title_en": "Zhang Shengmin Meets with Pakistan's Chief of Army Staff",
+  "summary_zh": "2026年5月26日，中央军委副主席张升民在京会见巴基斯坦国防军司令兼陆军参谋长穆尼尔，双方探讨深化中巴两军关系与务实合作。",
+  "summary_en": "On May 26, 2026, Zhang Shengmin, Vice Chairman of the CMC, met with Pakistan's Chief of Army Staff General Munir in Beijing to discuss deepening military relations and practical cooperation.",
+  "body_zh": "新华社北京5月26日电 （记者梅常伟）中央军委副主席张升民26日在京会见来访的巴基斯坦国防军司令兼陆军参谋长穆尼尔。\n张升民表示，习近平主席高度重视中巴关系发展，同巴方领导人共同领航定向，推动中巴全天候战略合作伙伴关系不断深化。中方愿同巴方赓续传统友谊，加强战略沟通，深化务实合作，推动中巴两军关系高水平高质量发展。\n穆尼尔说，巴方将始终坚定做中国的好朋友、好伙伴，同中方进一步深化防务安全等领域务实合作，不断把巴中铁杆友谊推向新高度。\n《 人民日报 》（ 2026年05月27日 02 版）",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中巴关系",
+    "军事合作",
+    "战略沟通"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-shengmin",
+      "name_zh": "张升民",
+      "name_en": "Zhang Shengmin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央军委",
+      "name_en": "Central Military Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Pakistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军事合作",
+      "name_en": "Military Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略沟通",
+      "name_en": "Strategic Communication"
+    }
+  ],
+  "tags_zh": [
+    "张升民",
+    "中央军委",
+    "北京",
+    "中巴关系",
+    "军事合作",
+    "战略沟通"
+  ],
+  "tags_en": [
+    "Zhang Shengmin",
+    "Central Military Commission",
+    "Beijing",
+    "China-Pakistan Relations",
+    "Military Cooperation",
+    "Strategic Communication"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-shengmin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央军委",
+        "name_en": "Central Military Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260526-cpcnews-7a66b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0527/c1001-40727944.html",
+      "title_zh": "张升民会见巴基斯坦国防军司令兼陆军参谋长",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

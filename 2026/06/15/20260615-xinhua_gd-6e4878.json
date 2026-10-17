@@ -1,0 +1,98 @@
+{
+  "id": "20260615-xinhua_gd-6e4878",
+  "source": "xinhua_gd",
+  "source_name_zh": "新华网 广东",
+  "source_name_en": "Xinhua Guangdong",
+  "source_url": "http://gd.news.cn/20260615/3d8dfdb16ed84cb5a06cc662a59b49c5/c.html",
+  "title_zh": "公安部网安局公布10起网络谣言违法犯罪典型案例",
+  "title_en": "Cyber Security Bureau of Ministry of Public Security Releases 10 Typical Cases of Online Rumor Crimes",
+  "summary_zh": "公安部网安局6月15日在北京公布10起打击整治网络谣言违法犯罪典型案例，旨在维护清朗网络空间与社会秩序。",
+  "summary_en": "On June 15, the Cyber Security Bureau of the Ministry of Public Security released 10 typical cases of online rumor crimes in Beijing to maintain a clean cyberspace and social order.",
+  "body_zh": "新华社北京6月15日电（记者李明辉）公安部网安局6月15日公布10起打击整治网络谣言违法犯罪典型案例。\n这10起典型案例反映出一些不法分子随意编造、传播涉人身伤亡、不实政策、食品安全等虚假信息，严重扰乱社会秩序，触碰法律红线。\n对这类散布网络谣言违法犯罪行为，全国公安网安部门将持续加大打击整治力度，全力维护清朗网络空间与社会秩序。\n网警提示，广大网民要恪守网络言行底线，坚持不信谣、不传谣、不造谣，切勿为博取流量虚构事实，共同维护清朗有序的网络环境。",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "discipline",
+  "keywords": [
+    "网络谣言",
+    "打击整治"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部网安局",
+      "name_en": "Cyber Security Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络谣言",
+      "name_en": "Online Rumors"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打击整治",
+      "name_en": "Crackdown and Rectification"
+    }
+  ],
+  "tags_zh": [
+    "公安部网安局",
+    "北京",
+    "网络谣言",
+    "打击整治"
+  ],
+  "tags_en": [
+    "Cyber Security Bureau of the Ministry of Public Security",
+    "Beijing",
+    "Online Rumors",
+    "Crackdown and Rectification"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "公安部网安局",
+        "name_en": "Cyber Security Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260615-xinhua_gd-6e4878",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://china.qianlong.com/2026/0615/8683271.shtml",
+      "title_zh": "公安部网安局公布10起网络谣言违法犯罪典型案例",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-06/15/content_38827859.htm",
+      "title_zh": "公安部网安局公布10起网络谣言违法犯罪典型案例",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

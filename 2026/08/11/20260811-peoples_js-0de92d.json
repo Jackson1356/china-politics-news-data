@@ -1,0 +1,83 @@
+{
+  "id": "20260811-peoples_js-0de92d",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0811/c360303-41664365.html",
+  "title_zh": "台风“白海豚”持续影响江苏 8月14日前仍有较强降水",
+  "title_en": "Typhoon 'Baihaitun' Continues to Affect Jiangsu with Heavy Rainfall Expected Until Aug 14",
+  "summary_zh": "受第13号台风“白海豚”影响，8月10日至14日江苏有明显降水过程，省气象台发布台风蓝色、暴雨黄色等预警，10日多地降水量居全国前列。",
+  "summary_en": "Affected by Typhoon Baihaitun (No. 13), Jiangsu has experienced significant rainfall from Aug 10 to 14. The provincial meteorological observatory issued typhoon and rainstorm warnings; several cities ranked top nationally in precipitation on Aug 10.",
+  "body_zh": "台风“白海豚”持续影响江苏 8月14日前仍有较强降水\n据《扬子晚报》报道，受第13号台风“白海豚”及登陆后的残余涡旋影响，10日至14日，江苏有明显降水过程。江苏省气象台发布的台风蓝色预警、暴雨黄色预警以及海区大风预警持续生效中。另外，受降雨天气影响，江苏气温有所回落，本周全省无高温天气。\n10日江苏进入“白海豚”最强影响时段，降水强度稳居全国前列。8时，常州金坛区以74.6毫米的降水量拿下全国雨量第一；9时，无锡市凭借53.3毫米的降水量领跑全国；10时，常州市以61.6毫米的降水量再次登顶全国榜单。截至10日上午11时，全国降水量前十榜单中，江苏独占六席，分别为苏州张家港市、苏州吴江区、镇江丹阳市、泰州靖江市、苏州市区以及镇江丹徒区。本轮降雨呈现出覆盖面广、强度大的显著特征。\n台风“白海豚”登陆后强度迅速减弱，10日7时已减弱为热带风暴。但为什么江苏的风雨依然如此强劲？江苏省气象台首席预报员吴海英在接受记者采访时表示，台风减弱并不意味着影响结束。由于台风环流范围较广，目前江苏正处在台风北侧的东风急流中，因此降水仍然明显。\n吴海英介绍，预计11日至14日，江苏仍将有明显降雨过程。其中，淮河以南地区雨势将减弱为小到中雨，而沿淮及淮北地区仍有中到大雨，局部可达暴雨量级。11日全省风力较大，大部分地区阵风可达7至8级，江河湖库及沿海海面阵风风力可达9至10级。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "台风预警",
+    "强降水"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风预警",
+      "name_en": "Typhoon Warning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降水",
+      "name_en": "Heavy Rainfall"
+    },
+    {
+      "kind": "person",
+      "id": "wu-haiying",
+      "name_zh": "吴海英",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "台风预警",
+    "强降水",
+    "吴海英"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Typhoon Warning",
+    "Heavy Rainfall"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-haiying"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260811-peoples_js-0de92d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

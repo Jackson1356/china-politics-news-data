@@ -1,0 +1,95 @@
+{
+  "id": "20260528-xinhua_politics-147f37",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260528/fe3c61f6e9de466b92403cca7f933bb8/c.html",
+  "title_zh": "深圳用电负荷创历史新高 新质生产力成重要拉动力",
+  "title_en": "Shenzhen's Power Load Hits Record High Driven by New Quality Productive Forces",
+  "summary_zh": "5月28日，深圳电网用电负荷创历史新高，达2430.19万千瓦。新质生产力及数字经济的快速发展成为用电量增长的主要拉动力。",
+  "summary_en": "On May 28, Shenzhen's power load hit a record high of 24.3 million kW, driven primarily by the growth of new quality productive forces and the digital economy.",
+  "body_zh": "新华社深圳5月28日电（记者王丰）南方电网深圳供电局数据显示，28日17时10分，深圳电网用电负荷创历史新高，达2430.19万千瓦，连续两年突破2400万千瓦，较去年最高负荷（2401.12万千瓦）增长1.21%。本次负荷创新高较去年提前40天。\n今年以来，深圳经济发展稳健向好，特别是新质生产力不断壮大，叠加近期持续性高温天气带来的降温需求，深圳电网电力负荷、用电量持续快速攀升。根据预测，今年深圳电网最高负荷或将达到2620万千瓦，较去年最高负荷增长9.1%。\n数据显示，今年5月1日至27日期间，深圳全市信息传输、软件和信息技术服务业用电量达3.23亿千瓦时，同比增长26.71%，成为用电量增长的重要拉动力。其中，互联网数据服务业增势突出，同比激增80.27%；此外，深圳充换电服务业同期用电量达3.75亿千瓦时，同比增长45.10%。\n数字经济提速发展，算力产业用电迎来爆发式增长，而能源保供与算力产业的协同互促效应也愈发凸显。南方电网深圳供电局通过深化“数字电网+虚拟电厂”融合应用，部署本地化AI模型“灵曦”，依托其精准的负荷预测能力，将调度需求、可调节资源高效匹配，为电网“减压”。\n“该模型的预测结果可实时联动深圳虚拟电厂管理中心，让调度员提前知道哪里会堵、什么时候是高峰。”深圳虚拟电厂管理中心总经理程韧俐介绍，一旦识别出电网存在重过载风险，即启动虚拟电厂精准响应机制，向接入的虚拟电厂运营商传递明确的调用资源类型及量化指标，虚拟电厂运营商可根据资源特性，评估充电桩、楼宇空调、分布式储能等不同资源的调节能力，制定差异化调度策略，满足整体调节需求。\n目前，深圳虚拟电厂管理平台接入容量规模510万千瓦，实时可调负荷超140万千瓦，在算力的赋能下，可有效缓解电网局部重过载、削减尖峰负荷，同时为相关区域的数据中心提供供电保障。",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "新质生产力",
+    "数字经济",
+    "能源保供"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "南方电网深圳供电局",
+      "name_en": "Southern Power Grid Shenzhen Power Supply Bureau"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源保供",
+      "name_en": "Energy Supply Guarantee"
+    }
+  ],
+  "tags_zh": [
+    "南方电网深圳供电局",
+    "深圳",
+    "新质生产力",
+    "数字经济",
+    "能源保供"
+  ],
+  "tags_en": [
+    "Southern Power Grid Shenzhen Power Supply Bureau",
+    "Shenzhen",
+    "New Quality Productive Forces",
+    "Digital Economy",
+    "Energy Supply Guarantee"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "程韧俐"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "南方电网深圳供电局",
+        "name_en": "Southern Power Grid Shenzhen Power Supply Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260528-xinhua_politics-147f37",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

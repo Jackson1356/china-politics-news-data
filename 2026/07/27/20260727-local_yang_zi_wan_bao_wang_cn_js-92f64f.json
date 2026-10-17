@@ -1,0 +1,96 @@
+{
+  "id": "20260727-local_yang_zi_wan_bao_wang_cn_js-92f64f",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202607/t20260727_376435.html",
+  "title_zh": "王毅将出席全球发展倡议5周年高级别会议",
+  "title_en": "Wang Yi to Attend High-Level Meeting on 5th Anniversary of Global Development Initiative",
+  "summary_zh": "外交部宣布，全球发展倡议5周年高级别会议将于7月28日在北京举行，中共中央政治局委员、外交部长王毅将出席并致辞。",
+  "summary_en": "The Foreign Ministry announced that the high-level meeting on the 5th anniversary of the Global Development Initiative will be held in Beijing on July 28, with Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, attending and delivering a speech.",
+  "body_zh": "王毅将出席全球发展倡议5周年高级别会议\n外交部发言人宣布：\n全球发展倡议5周年高级别会议将于7月28日在北京举行。中共中央政治局委员、外交部长王毅将出席高级别会议并致辞。\n会议以“全球发展倡议5周年再出发，构建可持续发展的美好未来”为主题。联合国高级官员、“全球发展倡议之友小组”成员国驻华使节、联合国发展系统驻华机构代表、知名专家学者等中外嘉宾将出席会议，围绕全球发展倡议落实成效、合作重点及其世界贡献进行深入交流。\n要闻\n更多>>",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球发展倡议"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球发展倡议",
+      "name_en": "Global Development Initiative"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王毅将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "北京",
+    "全球发展倡议",
+    "王毅将"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Global Development Initiative"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "王毅将"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260727-local_yang_zi_wan_bao_wang_cn_js-92f64f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

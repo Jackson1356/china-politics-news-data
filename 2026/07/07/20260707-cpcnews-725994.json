@@ -1,0 +1,91 @@
+{
+  "id": "20260707-cpcnews-725994",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0707/c64387-40754846.html",
+  "title_zh": "国家文物局印发《国有文物资源数据管理办法》",
+  "title_en": "National Cultural Heritage Administration Issues Administrative Measures for State-owned Cultural Relics Resource Data",
+  "summary_zh": "国家文物局近日印发《国有文物资源数据管理办法》，旨在规范国有文物资源数据的生产、安全保障及有序开放利用，将于2026年11月1日起施行。",
+  "summary_en": "The National Cultural Heritage Administration issued the \"Administrative Measures for State-owned Cultural Relics Resource Data\" to regulate data production, security, and open utilization, effective November 1, 2026.",
+  "body_zh": "新华社北京7月6日电 （记者徐壮）记者6日从国家文物局获悉，国家文物局近日印发《国有文物资源数据管理办法》。办法将于2026年11月1日起正式施行。\n据介绍，国有文物资源数据规模庞大、内容丰富、应用场景广泛、社会需求强烈。为规范国有文物资源数据生产，保障国有文物资源数据安全，引导国有文物资源数据有序开放利用，激活国有文物资源数据潜能，国家文物局依据《中华人民共和国文物保护法》《中华人民共和国数据安全法》《中华人民共和国网络安全法》等法律法规研究出台了办法。\n办法明确，国有文物资源数据是指由国有文物管理机构组织的以电子方式对所管理的文物资源信息的记录，包括原始数据、加工后数据、衍生数据；国有文物资源数据属于国家所有，由国有文物管理机构承担具体管理职责。\n办法提出，数据服务应遵循公正、公平、便民的原则，按照“原始数据不出域、数据可控可计量”的要求，将加工后数据面向社会提供服务。办法规定了可开放和不可开放的国有文物资源数据类型，明晰了主动公开、非营利性使用、营利性使用的应用场景和服务方式。\n办法要求文物行政部门、国有文物管理机构和相关主体应按照国家相关法律法规规定，秉持“谁管理、谁负责”和“谁使用、谁负责”的原则，严格落实国有文物资源数据管理责任。涉及国家秘密的数据，按照国家有关保密规定执行。\n《 人民日报 》（ 2026年07月07日 04 版）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "industry",
+  "keywords": [
+    "国有文物资源",
+    "数据管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家文物局",
+      "name_en": "National Cultural Heritage Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有文物资源",
+      "name_en": "State-owned Cultural Relics Resources"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据管理",
+      "name_en": "Data Management"
+    }
+  ],
+  "tags_zh": [
+    "国家文物局",
+    "北京",
+    "国有文物资源",
+    "数据管理"
+  ],
+  "tags_en": [
+    "National Cultural Heritage Administration",
+    "Beijing",
+    "State-owned Cultural Relics Resources",
+    "Data Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家文物局",
+        "name_en": "National Cultural Heritage Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260706-xinhua_politics-8b9678",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0707/c351638-41631166.html",
+      "title_zh": "国家文物局印发《国有文物资源数据管理办法》",
+      "published_at": "2026-07-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

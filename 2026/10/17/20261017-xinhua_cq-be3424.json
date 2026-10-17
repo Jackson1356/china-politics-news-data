@@ -1,0 +1,93 @@
+{
+  "id": "20261017-xinhua_cq-be3424",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.cq.xinhuanet.com/20261017/105b1811f8c0407f90da38202fc99cd1/c.html",
+  "title_zh": "重庆市政府召开第93次常务会议 陈新武主持",
+  "title_en": "Chongqing Mayor Chen Xinwu Chairs 93rd Municipal Government Executive Meeting",
+  "summary_zh": "10月16日，重庆市市长陈新武主持召开市政府第93次常务会议，审议物流枢纽经济区建设行动方案和促进词元驱动的数据产业高质量发展行动计划。",
+  "summary_en": "On Oct 16, Chongqing Mayor Chen Xinwu chaired the 93rd municipal government executive meeting, reviewing action plans for a logistics hub economic zone and a token-driven data industry.",
+  "body_zh": "10月16日，市委副书记、市长陈新武主持召开市政府第93次常务会议，审议物流枢纽经济区建设行动方案、促进词元驱动的数据产业高质量发展行动计划。\n会议强调，要深入贯彻习近平总书记视察重庆重要讲话重要指示精神，落实市委部署，围绕高水平构建“一区两体系”，创新管理体制，优化政策环境，推动“通道+枢纽+产业”融合发展，加快建设具有全国影响力和重庆辨识度的物流枢纽经济区，打造内陆开放综合枢纽重要支撑。要健全协同推进机制，强化市级统筹、区县落实、市场主体运营，扎实做好规划实施、开发建设、产业招商等工作。要扩能升级集疏运体系，加快推进枢纽互联成网，着力解决枢纽建设“最后一公里”问题，持续增强运营组织效能。要大力发展枢纽偏好型产业，培育壮大先进制造业集群，聚力打造优势生产性服务业，协同推进供应链生态培育。要深化重点领域改革创新，推进“一单制”规模化应用，培育创新场景，优化外贸外资综合服务体系，打造更多标志性成果。\n会议指出，词元是AI时代城市竞争力的重要体现。要抢抓发展机遇，用好数字重庆建设成果，探索词元交易、词元产业、词元出海等新模式新业态。要夯实基础底座，打造一体化高质量算力供给体系，持续推进高质量数据集供给。要发展壮大产业，把培育市场主体作为重要抓手，深化词元赋能，探索适配产业发展的商业模式。要强化支撑保障，出台专项政策，建立标准体系，加强全链条安全防护。\n会议还听取了耕地保护和粮食安全工作情况汇报，研究了2026年世界科技与发展论坛筹备工作，分析了前三季度全市经济形势，安排部署了有关工作。（记者 王翔）",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "物流枢纽经济区",
+    "数据产业",
+    "内陆开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": "Chen Xinwu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流枢纽经济区",
+      "name_en": "Logistics Hub Economic Zone"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据产业",
+      "name_en": "Data Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "内陆开放",
+      "name_en": "Inland Opening-Up"
+    }
+  ],
+  "tags_zh": [
+    "陈新武",
+    "重庆",
+    "物流枢纽经济区",
+    "数据产业",
+    "内陆开放"
+  ],
+  "tags_en": [
+    "Chen Xinwu",
+    "Chongqing",
+    "Logistics Hub Economic Zone",
+    "Data Industry",
+    "Inland Opening-Up"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xinwu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261017-xinhua_cq-be3424",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

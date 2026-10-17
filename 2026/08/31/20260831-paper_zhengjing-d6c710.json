@@ -1,0 +1,82 @@
+{
+  "id": "20260831-paper_zhengjing-d6c710",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33977634",
+  "title_zh": "上海警备区原政委张立志逝世，享年83岁",
+  "title_en": "Former Shanghai Garrison Political Commissar Zhang Lizhi Dies at 83",
+  "summary_zh": "正军职退休干部、上海警备区原政委张立志因病医治无效，于2026年8月19日在上海逝世，享年83岁。",
+  "summary_en": "Zhang Lizhi, former political commissar of the Shanghai Garrison, died of illness in Shanghai on August 19, 2026, at the age of 83.",
+  "body_zh": "上海警备区原政委张立志逝世，享年83岁\n澎湃新闻记者 岳怀让\n澎湃新闻记者从相关方面获悉，正军职退休干部、上海警备区原政委张立志同志，因病医治无效，于2026年8月19日在上海逝世，享年83岁。\n张立志，男，山东邹平人，1943年2月出生，1960年7月入伍，1961年10月加入中国共产党，少将军衔。\n张立志历任上海警备区政治部主任、福建省军区副政委、南京军区政治部副主任、31集团军政委、上海警备区政委等职。\n张立志曾当选九届全国人大代表、中共十六大代表、上海市十二届人大代表。1965年荣立三等功一次，1984年被南京军区评为“优秀师主官”并通报表彰，1984年赴老山前线参加对越自卫反击战，1998年率部队参加九江抗洪抢险。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "personnel",
+  "keywords": [
+    "军队干部",
+    "逝世"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张立志",
+      "name_en": "Zhang Lizhi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军队干部",
+      "name_en": "Military Cadre"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "逝世",
+      "name_en": "Death"
+    }
+  ],
+  "tags_zh": [
+    "张立志",
+    "上海",
+    "军队干部",
+    "逝世"
+  ],
+  "tags_en": [
+    "Zhang Lizhi",
+    "Shanghai",
+    "Military Cadre",
+    "Death"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260831-paper_zhengjing-d6c710",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

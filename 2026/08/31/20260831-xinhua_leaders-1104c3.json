@@ -1,0 +1,90 @@
+{
+  "id": "20260831-xinhua_leaders-1104c3",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260831/568752db810644ed9631ec9e63432b32/c.html",
+  "title_zh": "高规格欢迎 吉尔吉斯斯坦马队护送习近平主席专车",
+  "title_en": "High-Spec Welcome: Kyrgyz Mounted Guard Escorts President Xi's Car",
+  "summary_zh": "当地时间8月31日上午，国家主席习近平在吉尔吉斯斯坦出席总统扎帕罗夫举行的欢迎仪式，马队护送专车进入总统府。",
+  "summary_en": "On the morning of Aug 31 local time, President Xi Jinping attended a welcoming ceremony hosted by Kyrgyz President Japarov; a mounted guard escorted his car to the presidential palace.",
+  "body_zh": "当地时间8月31日上午，国家主席习近平出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式。欢迎仪式开始前，吉尔吉斯斯坦马队护送习近平主席乘坐的专车进入总统府。（记者：谢环驰、杨依军、李任滋、李亚光、李涛、郑开君、张文、翟健岚；视频：淡然、杨依然、操兰漪、王申、凌馨、雷明宇、崔宸硕）",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "欢迎仪式"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "欢迎仪式",
+      "name_en": "Welcoming Ceremony"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "吉尔吉斯斯坦",
+    "国事访问",
+    "欢迎仪式"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Kyrgyzstan",
+    "State Visit",
+    "Welcoming Ceremony"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260831-xinhua_leaders-1104c3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-08/31/content_9449368.html",
+      "title_zh": "近镜头丨高规格欢迎 吉尔吉斯斯坦马队护送习近平主席专车",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

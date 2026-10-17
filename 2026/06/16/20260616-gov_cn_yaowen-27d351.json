@@ -1,0 +1,92 @@
+{
+  "id": "20260616-gov_cn_yaowen-27d351",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/16/VIDEe9WYvZ2nFT63mW2s91Ck260616.shtml",
+  "title_zh": "习近平举行仪式欢迎缅甸总统访华",
+  "title_en": "Xi Jinping Holds Ceremony to Welcome Myanmar President's Visit to China",
+  "summary_zh": "2026年6月16日上午，国家主席习近平在人民大会堂举行仪式，欢迎缅甸总统敏昂莱对中国进行国事访问。",
+  "summary_en": "On the morning of June 16, 2026, President Xi Jinping held a ceremony at the Great Hall of the People to welcome Myanmar President Min Aung Hlaing for a state visit to China.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平16日上午在人民大会堂北大厅举行仪式，欢迎缅甸联邦共和国总统敏昂莱对我国进行国事访问。\n天安门广场上鸣礼炮21响。\n陪同敏昂莱访华的有总统办公室主任、外交部部长、财政和税收部部长等。\n中共中央政治局委员、中央外事工作委员会办公室主任王毅，中央书记处书记、国务委员王小洪等出席欢迎仪式。\n军乐团奏缅中两国国歌。\n敏昂莱在习近平陪同下检阅中国人民解放军仪仗队。\n两国元首回到检阅台观看仪仗队分列式。\n敏昂莱是应习近平的邀请对我国进行国事访问的。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中缅关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xiaohong",
+      "name_zh": "王小洪",
+      "name_en": "Wang Xiaohong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中缅关系",
+      "name_en": "China-Myanmar Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "王毅",
+    "王小洪",
+    "国事访问",
+    "中缅关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Wang Yi",
+    "Wang Xiaohong",
+    "State Visit",
+    "China-Myanmar Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      "wang-xiaohong",
+      {
+        "id": null,
+        "name_zh": "洪等"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-27d351",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

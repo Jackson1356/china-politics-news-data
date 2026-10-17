@@ -1,0 +1,95 @@
+{
+  "id": "20260812-xinhua_politics-3f8d3a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260812/9f4923c5179b46f480b8e05a7a075f3d/c.html",
+  "title_zh": "“人民艺术家”郭兰英逝世",
+  "title_en": "Guo Lanying, 'People's Artist', Passes Away",
+  "summary_zh": "中国歌剧舞剧院发布讣告，著名歌剧表演艺术家郭兰英因病于8月11日在广州逝世，享年97岁。",
+  "summary_en": "China Opera and Dance Drama Theater announced that renowned opera performer Guo Lanying, holder of the 'People's Artist' title, died of illness in Guangzhou on August 11 at age 97.",
+  "body_zh": "讣 告\n中国共产党优秀党员，“人民艺术家”国家荣誉称号获得者，“最美奋斗者”荣誉称号获得者，“中国文联终身成就戏剧家”荣誉称号获得者，第一、二、三、五、六届全国人民代表大会代表，中国歌剧舞剧院一级演员，著名歌剧表演艺术家郭兰英同志，因病于2026年8月11日17时14分在广州逝世，享年97岁。\n遵照郭兰英同志生前“不设灵堂、不举行追悼会和遗体告别仪式”遗愿，丧事一切从简。\n特此讣告。\n中国歌剧舞剧院\n二〇二六年八月十一日",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "industry",
+  "keywords": [
+    "人民艺术家",
+    "歌剧表演"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "郭兰英",
+      "name_en": "Guo Lanying"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国歌剧舞剧院",
+      "name_en": "China Opera and Dance Drama Theater"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民艺术家",
+      "name_en": "People's Artist"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "歌剧表演",
+      "name_en": "Opera Performance"
+    }
+  ],
+  "tags_zh": [
+    "郭兰英",
+    "中国歌剧舞剧院",
+    "广州",
+    "人民艺术家",
+    "歌剧表演"
+  ],
+  "tags_en": [
+    "Guo Lanying",
+    "China Opera and Dance Drama Theater",
+    "Guangzhou",
+    "People's Artist",
+    "Opera Performance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国歌剧舞剧院",
+        "name_en": "China Opera and Dance Drama Theater"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260812-xinhua_politics-3f8d3a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

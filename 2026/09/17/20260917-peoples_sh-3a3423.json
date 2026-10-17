@@ -1,0 +1,123 @@
+{
+  "id": "20260917-peoples_sh-3a3423",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/0917/c134768-41698689.html",
+  "title_zh": "首个人工智能+脑机接口标准发布",
+  "title_en": "China Releases First Standard Combining AI and Brain-Computer Interfaces",
+  "summary_zh": "国家药监局批准发布我国第三个脑机接口医疗器械标准，系首个采用人工智能技术处理脑电数据的产品标准，天津大学脑机海河实验室参与起草，标准将于2027年9月1日实施。",
+  "summary_en": "China's NMPA approved the country's third brain-computer interface medical device standard, the first to use AI for EEG data processing, with Tianjin University's Haihe lab as a core drafter; it takes effect on Sept 1, 2027.",
+  "body_zh": "首个人工智能+脑机接口标准发布\n本报北京9月16日电 （记者申少铁、龚相娟）日前，国家药监局批准发布我国第三个脑机接口医疗器械标准，也是首个采用人工智能技术处理脑电数据的脑机接口医疗器械产品标准。天津大学脑机海河实验室作为核心起草团队，深度参与了该标准的研究与编制工作，推动非侵入式脑机接口数据集建设与质量评价的规范化、标准化，提升脑电数据的一致性、可追溯性与可用性，为人工智能算法研发评价和脑机接口医疗器械创新应用筑牢高质量数据基础。\n新标准系统规范了脑机接口医疗器械的数据采集、处理、标注、存储和访问等全流程的技术要求和测试方法，帮助企业破解脑机接口医疗器械在数据集质量控制尺度不统一、建设过程不规范等共性问题，新标准将于明年9月1日起正式实施。脑机接口既是修复生命功能的“医学桥梁”，也是突破人机交互边界的“科技革命”，作为前沿技术，正处于快速发展阶段。国家及行业标准则是其规范发展、保障安全的关键支撑。\n《 人民日报 》（ 2026年09月17日 06 版）",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "脑机接口",
+    "医疗器械标准"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家药监局",
+      "name_en": "National Medical Products Administration"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "天津大学",
+      "name_en": "Tianjin University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "脑机接口",
+      "name_en": "Brain-Computer Interface"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗器械标准",
+      "name_en": "Medical Device Standards"
+    }
+  ],
+  "tags_zh": [
+    "国家药监局",
+    "天津大学",
+    "北京",
+    "人工智能",
+    "脑机接口",
+    "医疗器械标准"
+  ],
+  "tags_en": [
+    "National Medical Products Administration",
+    "Tianjin University",
+    "Beijing",
+    "Artificial Intelligence",
+    "Brain-Computer Interface",
+    "Medical Device Standards"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家药监局",
+        "name_en": "National Medical Products Administration"
+      },
+      {
+        "name_zh": "天津大学",
+        "name_en": "Tianjin University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-peoples_sh-3a3423",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_tj",
+      "source_tier": 3,
+      "url": "http://tj.people.com.cn/n2/2026/0917/c375366-41698789.html",
+      "title_zh": "首个人工智能+脑机接口标准发布",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0917/c352664-41698688.html",
+      "title_zh": "首个人工智能+脑机接口标准发布",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

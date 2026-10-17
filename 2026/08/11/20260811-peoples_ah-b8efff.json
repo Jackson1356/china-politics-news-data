@@ -1,0 +1,83 @@
+{
+  "id": "20260811-peoples_ah-b8efff",
+  "source": "peoples_ah",
+  "source_name_zh": "人民网 安徽",
+  "source_name_en": "People's Daily Anhui",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.people.com.cn/n2/2026/0811/c358428-41664576.html",
+  "title_zh": "淮阜高铁启动接触网热滑试验",
+  "title_en": "Huaifu High-Speed Railway Starts Overhead Contact Line Hot-Run Test",
+  "summary_zh": "8月9日，安徽境内新建淮蚌、淮阜高铁同时启动全线接触网热滑试验，8月10日试验列车在蒙城县进行热滑，为联调联试创造条件。",
+  "summary_en": "On Aug 9, the new Huai-Beng and Huai-Fu high-speed railways in Anhui simultaneously started full-line contact wire hot-run tests. On Aug 10, a test train ran the test in Mengcheng County, paving the way for joint commissioning.",
+  "body_zh": "淮阜高铁启动接触网热滑试验\n8月10日，试验列车在蒙城县境内淮阜高铁进行接触网热滑试验。8月9日，安徽省境内新建淮蚌高铁、淮阜高铁同时启动全线接触网热滑试验，为下一步开展联调联试创造了条件。\n淮蚌高铁、淮阜高铁开通运营后，将成为皖北城市群连接合肥都市圈及沪宁杭等地区的便捷通道，对推动皖北城市群与合肥都市圈深度融合，打造“轨道上的长三角”具有重要意义。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-09",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "economy",
+  "keywords": [
+    "高铁建设",
+    "交通基础设施",
+    "长三角一体化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-speed Rail Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transportation Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长三角一体化",
+      "name_en": "Yangtze River Delta Integration"
+    }
+  ],
+  "tags_zh": [
+    "安徽",
+    "高铁建设",
+    "交通基础设施",
+    "长三角一体化"
+  ],
+  "tags_en": [
+    "Anhui",
+    "High-speed Rail Construction",
+    "Transportation Infrastructure",
+    "Yangtze River Delta Integration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-peoples_ah-b8efff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

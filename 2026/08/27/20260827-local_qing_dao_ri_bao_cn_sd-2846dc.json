@@ -1,0 +1,106 @@
+{
+  "id": "20260827-local_qing_dao_ri_bao_cn_sd-2846dc",
+  "source": "local_qing_dao_ri_bao_cn_sd",
+  "source_name_zh": "青岛日报",
+  "source_name_en": "青岛日报",
+  "source_media_id": "cac-cn-sd-2a8f167f55",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dailyqd.com/guanhai/470032_1.html",
+  "title_zh": "曾赞荣会见徐鹏一行",
+  "title_en": "Zeng Zanrong Meets Xu Peng and Delegation",
+  "summary_zh": "8月27日上午，山东省委常委、青岛市委书记曾赞荣会见中国船舶集团党组书记、董事长徐鹏一行，双方就深化海工装备等领域合作进行交流。",
+  "summary_en": "On the morning of August 27, Zeng Zanrong, member of the Standing Committee of the Shandong Provincial Party Committee and Secretary of Qingdao Municipal Party Committee, met with Xu Peng, Party Secretary and Chairman of China State Shipbuilding Corporation, to discuss deepening cooperation in marine engineering equipment.",
+  "body_zh": "新闻中心  >  正文\n青岛日报社/观海新闻8月27日讯 今天上午，省委常委、市委书记曾赞荣会见了中国船舶集团党组书记、董事长徐鹏一行。\n曾赞荣对客人来青表示欢迎。他说，当前，我们正深入贯彻落实习近平总书记对山东、对青岛工作的重要指示要求，坚持以科技创新引领现代化产业体系建设，加快推动海洋装备等新兴产业向产业链和价值链中高端迈进。中船集团是我国船舶工业发展的国家队、主力军，与青岛有着良好合作基础。希望双方进一步加强沟通交流，持续深化海工装备、海洋科技创新等领域合作，推动央地合作走深走实，实现更高水平共赢发展。\n徐鹏表示，青岛具有发展船舶与海工装备产业的良好基础，中船集团将深入对接青岛发展需求，积极拓展在青业务布局，推动双方合作取得更多务实成效。\n市领导宋明杰、刘昌松、卞成参加会见。（青岛日报/观海新闻记者 薛华飞）",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "海工装备",
+    "央地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zeng-zanrong",
+      "name_zh": "曾赞荣",
+      "name_en": "Zeng Zanrong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐鹏",
+      "name_en": "Xu Peng"
+    },
+    {
+      "kind": "institution",
+      "id": "CSSC",
+      "name_zh": "中国船舶集团",
+      "name_en": "China State Shipbuilding Corporation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海工装备",
+      "name_en": "Marine Engineering Equipment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-Local Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "曾赞荣",
+    "徐鹏",
+    "中国船舶集团",
+    "青岛",
+    "海工装备",
+    "央地合作"
+  ],
+  "tags_en": [
+    "Zeng Zanrong",
+    "Xu Peng",
+    "China State Shipbuilding Corporation",
+    "Qingdao",
+    "Marine Engineering Equipment",
+    "Central-Local Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "zeng-zanrong",
+      {
+        "id": null,
+        "name_zh": "徐鹏"
+      }
+    ],
+    "institutions": [
+      "CSSC"
+    ],
+    "locations": [
+      "CN-SD-QD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-local_qing_dao_ri_bao_cn_sd-2846dc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

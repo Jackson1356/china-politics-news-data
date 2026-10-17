@@ -1,0 +1,127 @@
+{
+  "id": "20260922-gov_cn_yaowen-22ae6a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/22/VIDEVWKGxbVEGzW38PJGaPTV260922.shtml",
+  "title_zh": "李强会见世界技能组织主席和首席执行官",
+  "title_en": "Li Qiang Meets WorldSkills President and CEO",
+  "summary_zh": "9月22日，国务院总理李强在上海会见世界技能组织主席乌汉和首席执行官霍伊。陈吉宁、吴政隆、谌贻琴参加会见。",
+  "summary_en": "On September 22, Premier Li Qiang met in Shanghai with WorldSkills President Uhan and CEO Hoy. Chen Jining, Wu Zhenglong and Shen Yiqin also attended.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强22日在上海会见世界技能组织主席乌汉和首席执行官霍伊。\n乌汉和霍伊高度赞赏中国技能事业蓬勃发展，并为其他国家提供借鉴。相信中方将向国际社会呈现一场前所未有的世界技能大赛，期待同中方携手为全球发展繁荣贡献力量。\n陈吉宁、吴政隆、谌贻琴参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "职业技能",
+    "世界技能大赛",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职业技能",
+      "name_en": "Vocational Skills"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界技能大赛",
+      "name_en": "WorldSkills Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-jining",
+      "name_zh": "陈吉宁",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "上海",
+    "职业技能",
+    "世界技能大赛",
+    "国际合作",
+    "吴政隆",
+    "谌贻琴",
+    "陈吉宁"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Shanghai",
+    "Vocational Skills",
+    "WorldSkills Competition",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "wu-zhenglong",
+      "chen-jining",
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260922-gov_cn_yaowen-22ae6a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

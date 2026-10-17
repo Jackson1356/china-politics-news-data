@@ -1,0 +1,87 @@
+{
+  "id": "20260731-gov_long_yan-537a59",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202607/t20260731_2305313.htm",
+  "title_zh": "龙岩市六届人大常委会第三十一次会议召开",
+  "title_en": "Longyan Municipal People's Congress Standing Committee Holds 31st Session",
+  "summary_zh": "7月30日，龙岩市六届人大常委会第三十一次会议召开，听取多项报告并决定任命乔晓明为副市长。",
+  "summary_en": "On July 30, the 31st session of the 6th Longyan Municipal People's Congress Standing Committee was held, hearing reports and appointing Qiao Xiaoming as vice mayor.",
+  "body_zh": "7月30日，市六届人大常委会第三十一次会议召开，市人大常委会主任陈厦生主持并讲话，副主任陈泽亮、张子平、苏炎洪、马桂秋，秘书长张亮春和其他组成人员出席会议。副市长詹崇仁，市法院院长陈明聪，市监委、市检察院负责人，市人大各专委成员，各县（市、区）人大常委会、市直有关部门和市人大常委会委室负责人，部分市人大代表列席会议。\n会议听取了市政府关于2026年上半年国民经济和社会发展计划执行情况的报告、2025年市级决算草案和2026年上半年预算执行情况的报告、2025年度市本级预算执行和其他财政收支的审计工作报告，市人大财经委关于2025年市级决算草案的审查结果报告；听取了市人大常委会执法检查组关于检查食品安全“一法一例”实施情况的报告、检查《龙岩市汀江保护条例》实施情况的报告；听取了市人大常委会视察组关于“聚力幸福河湖建设，助力打造‘山水龙岩’”工作情况的视察报告；听取了市人大法制委关于《龙岩市文化旅游融合发展促进条例（草案）》《龙岩市地下水污染防治条例（草案）》修改情况的报告；听取了市中级人民法院关于全市法院诉讼服务工作情况的报告；听取了市委组织部关于人事安排的说明，市政府关于提请市人民政府组成人员职务任免议案的说明，市人大常委会关于提请市人大常委会机关工作人员免职议案的说明，市中级人民法院关于提请审判人员任职报告的说明。\n会议表决批准2025年市级决算。\n会议决定任命乔晓明同志为龙岩市人民政府副市长，表决通过关于接受高丁博同志辞去龙岩市人民政府副市长职务请求的决定和其他人事任免事项。表决前，拟任命人员作了供职发言。会议举行了任命书颁发仪式和宪法宣誓仪式。\n会议指出，今年以来，全市上下贯彻落实党中央决策部署和省委、市委工作要求，深入开展“三争”行动，推动上半年经济运行基本平稳，高质量发展步伐更加稳健。会议要求，要加强下半年经济分析监测，有效应对不稳定不确定因素，确保完成全年目标任务。\n会议强调，要把学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神作为当前重大政治任务，始终在把牢政治方向上坚定坚决；要坚持围绕中心、服务大局，始终在依法对标履职上尽职尽责；要坚决扛起全面从严治党政治责任，始终在“四个机关”建设上从严从实。\n当天，常委会组成人员分组审议了有关法规案、议案、报告、决定决议（草案）和人事事项等。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "人大监督",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "NPC Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "龙岩",
+    "人大监督",
+    "人事任免",
+    "习近平"
+  ],
+  "tags_en": [
+    "Longyan",
+    "NPC Oversight",
+    "Personnel Appointments"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "陈厦生"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-gov_long_yan-537a59",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20261001-local_zhong_guo_ji_lin_wang_cn_jl-913e56",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gnyw/202610/4086717.html",
+  "title_zh": "香港特区政府举行升旗仪式 庆祝中华人民共和国成立77周年",
+  "title_en": "Hong Kong SAR Government Holds Flag-Raising Ceremony to Mark 77th Anniversary of the PRC",
+  "summary_zh": "10月1日上午，香港特区政府在金紫荆广场举行升旗仪式，庆祝中华人民共和国成立77周年，行政长官李家超及中央驻港机构负责人出席。",
+  "summary_en": "On the morning of October 1, the Hong Kong SAR government held a flag-raising ceremony at Golden Bauhinia Square to mark the PRC's 77th anniversary, with Chief Executive John Lee and central government agencies' heads in Hong Kong attending.",
+  "body_zh": "10月1日上午，香港特区政府在金紫荆广场举行升旗仪式，庆祝中华人民共和国成立77周年。\n总台记者 金东：今天，香港特别行政区行政长官李家超、中央驻港机构负责人以及香港社会各界人士出席升旗仪式，共同祝愿国家繁荣昌盛，国泰民安。\n上午8时，香港警察乐队奏响《义勇军进行曲》，鲜艳的中华人民共和国国旗和香港特别行政区区旗冉冉升起。嘉宾们行注目礼，唱国歌。悬挂着国旗和区旗的特区政府飞行服务队直升机飞过维多利亚港上空，消防处灭火轮喷洒着水花驶过水面。升旗仪式结束后，观礼嘉宾前往香港会议展览中心出席国庆酒会。\n当天，香港中联办、驻港国家安全公署、外交部驻港特派员公署、解放军驻港部队，香港大中小学以及社会团体等也举行了升国旗仪式。（总台记者 周伟琪 金东）\n初审：  孙晓云\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "国庆庆祝",
+    "一国两制",
+    "升旗仪式"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆庆祝",
+      "name_en": "National Day Celebration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "升旗仪式",
+      "name_en": "Flag-Raising Ceremony"
+    }
+  ],
+  "tags_zh": [
+    "香港",
+    "国庆庆祝",
+    "一国两制",
+    "升旗仪式"
+  ],
+  "tags_en": [
+    "Hong Kong",
+    "National Day Celebration",
+    "One Country, Two Systems",
+    "Flag-Raising Ceremony"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261001-gov_cn_yaowen-c1384c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+      "source_tier": 3,
+      "url": "https://news.cnjiwang.com/gnyw/202610/4086718.html",
+      "title_zh": "视频丨澳门特区政府举行升旗仪式 庆祝中华人民共和国成立77周年",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

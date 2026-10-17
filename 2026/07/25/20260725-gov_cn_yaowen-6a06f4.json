@@ -1,0 +1,101 @@
+{
+  "id": "20260725-gov_cn_yaowen-6a06f4",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076594.htm",
+  "title_zh": "王毅会见俄罗斯外长拉夫罗夫",
+  "title_en": "Wang Yi Meets with Russian Foreign Minister Lavrov",
+  "summary_zh": "7月24日，中共中央政治局委员、外交部长王毅在吉尔吉斯斯坦出席上海合作组织外长会期间会见俄罗斯外长拉夫罗夫，双方就中俄关系、上合组织及国际事务交换意见。",
+  "summary_en": "On July 24, Chinese Foreign Minister Wang Yi met with Russian Foreign Minister Lavrov on the sidelines of the SCO Foreign Ministers' Meeting in Kyrgyzstan, discussing bilateral relations, SCO cooperation, and international affairs.",
+  "body_zh": "新华社吉尔吉斯斯坦乔尔蓬阿塔7月24日电 中共中央政治局委员、外交部长王毅24日在吉尔吉斯斯坦出席上海合作组织外长会期间会见俄罗斯外长拉夫罗夫。\n王毅表示，今年5月，习近平主席同普京总统在北京举行重要会晤，推动中俄关系进入更有作为、更快发展的新阶段。今年是中俄签署睦邻友好合作条约和上海合作组织成立25周年。在条约指引下，中俄树立起新型国与国关系和大国关系的典范。双方要共同支持上合组织发展壮大，弘扬“上海精神”，为完善全球治理、构建人类命运共同体注入生机活力。\n王毅表示，双方要以两国元首重要共识为遵循，走好独立自主的发展振兴之路，走好全面战略协作的互信之路。要谋划好下阶段高层交往，延续务实合作增长态势，增强合作定力和韧性。要加强战略协作，维护二战胜利成果，绝不允许日本重新武装。要密切多边协调，期待俄方继续支持APEC“中国年”各项活动，加强在联合国等多边平台的相互支持。\n拉夫罗夫表示，元首外交是俄中关系的重要引擎。两国领导人会晤累计超过50次，引领两国关系不断跨上新台阶。俄方祝贺中方成功举办世界人工智能大会，已加入世界人工智能合作组织，期待借此深化两国创新科技合作。俄方高度警惕和坚决反对日本加速“再军事化”和拥核图谋。俄中双方可进一步加强多边框架内战略协作，推动构建更加民主公正的多极世界。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "上海合作组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "拉夫罗夫",
+      "name_en": "Sergey Lavrov"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "Sino-Russian Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗夫",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "拉夫罗夫",
+    "吉尔吉斯斯坦",
+    "中俄关系",
+    "上海合作组织",
+    "罗夫"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Sergey Lavrov",
+    "Kyrgyzstan",
+    "Sino-Russian Relations",
+    "Shanghai Cooperation Organization"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "罗夫"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260725-gov_cn_yaowen-6a06f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

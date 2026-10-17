@@ -1,0 +1,102 @@
+{
+  "id": "20261012-gov_cn_yaowen-2d5244",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083022.htm",
+  "title_zh": "何立峰会见苹果公司执行董事长蒂姆·库克",
+  "title_en": "He Lifeng Meets Apple Executive Chairman Tim Cook",
+  "summary_zh": "10月12日下午，中共中央政治局委员、国务院副总理何立峰在人民大会堂会见美国苹果公司执行董事长蒂姆·库克，双方就中美经贸关系及苹果在华发展交换意见。",
+  "summary_en": "On the afternoon of October 12, Chinese Vice Premier He Lifeng met with Apple Executive Chairman Tim Cook at the Great Hall of the People, discussing China-US economic ties and Apple's long-term development in China.",
+  "body_zh": "新华社北京10月12日电 中共中央政治局委员、国务院副总理何立峰12日下午在人民大会堂会见美国苹果公司执行董事长蒂姆·库克。\n何立峰表示，落实好两国元首共识，构建“基于尊重、公平、对等的中美建设性战略稳定关系”，有利于两国乃至全球经济的稳定和发展，将为跨国企业提供稳定预期和良好经营环境。欢迎包括苹果公司在内的各国科技企业持续深化对华互利共赢合作，共享中国式现代化发展机遇。\n库克表示，苹果公司对在华长期发展充满信心，将发挥工商界沟通桥梁作用，为推动美中经贸关系稳定健康发展贡献更多力量。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "economy",
+  "keywords": [
+    "中美经贸关系",
+    "外资合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸关系",
+      "name_en": "China-US Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外资合作",
+      "name_en": "Foreign Investment Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "北京",
+    "中美经贸关系",
+    "外资合作"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "Beijing",
+    "China-US Economic and Trade Relations",
+    "Foreign Investment Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261012-gov_cn_yaowen-2d5244",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083022.htm",
+      "title_zh": "何立峰会见苹果公司执行董事长蒂姆·库克",
+      "published_at": "2026-10-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

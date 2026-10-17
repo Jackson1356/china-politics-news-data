@@ -1,0 +1,103 @@
+{
+  "id": "20260623-xinhua_politics-86152a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260623/a9cfb16dfdf243e6a1f0b401d2b70d59/c.html",
+  "title_zh": "三部门发文进一步加强金融支持妇女就业发展",
+  "title_en": "Three Departments Issue Document to Further Strengthen Financial Support for Women's Employment and Development",
+  "summary_zh": "2026年6月23日，中国人民银行、金融监管总局、全国妇联印发实施意见，旨在通过优化融资渠道和保险机制，加强金融资源对妇女就业发展的支持。",
+  "summary_en": "On June 23, 2026, the PBOC, NFRA, and All-China Women's Federation issued guidelines to strengthen financial support for women's employment by optimizing financing channels and insurance mechanisms.",
+  "body_zh": "新华社北京6月23日电（记者吴雨）记者6月23日从中国人民银行获悉，为撬动更多金融资源赋能妇女就业发展，中国人民银行、金融监管总局、全国妇联近日印发《关于进一步加强金融支持妇女就业发展的实施意见》，作出一系列针对性部署。\n在加大金融资源投入力度方面，实施意见提出，加强创业孵化基地等创业载体建设融资支持，为女性创业项目落地提供保障。鼓励各地结合实际优化创业担保贷款政策，对信用良好的女性创业者适当降低或取消反担保要求。拓宽妇女就业创业多元化融资渠道，支持符合条件的妇女创业企业注册发行债务融资工具、开展供应链票据业务。\n在健全保险保障机制方面，实施意见提出，鼓励保险机构针对各阶段妇女需求，优化投保病种年龄、保障时间、保费等要素。推广“四癌”等女性特定疾病专项保险，提高覆盖范围。完善生育、医疗、养老、失业、工伤等社会保险保障体系，支持创新妇女灵活就业保险，加强商业保险与生育保险有效衔接。\n在强化服务能力建设方面，实施意见要求，加强金融科技手段运用，防止模型算法中的性别偏见，提升获客、风险评估能力和贷款审批效率。依托信贷市场服务平台等，充分整合税务、工商、妇联等多部门信息，优化对以妇女为主导的经营主体信用评价，促进信用贷款投放。鼓励具备条件的地区设立贷款风险补偿基金，为妇女创业贷款提供分险支持。\n中国人民银行表示，下一步将加强与金融监管总局、全国妇联等部门的协同配合，加快推动实施意见各项工作落实落细，及时总结推广经验做法，引导金融资源精准有力支持妇女就业发展。",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "economy",
+  "keywords": [
+    "金融支持",
+    "妇女就业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "institution",
+      "id": "NFRA",
+      "name_zh": "金融监管总局",
+      "name_en": "National Financial Regulatory Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "ACWF",
+      "name_zh": "全国妇联",
+      "name_en": "All-China Women's Federation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融支持",
+      "name_en": "Financial Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "妇女就业",
+      "name_en": "Women's Employment"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "金融监管总局",
+    "全国妇联",
+    "北京",
+    "金融支持",
+    "妇女就业"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "National Financial Regulatory Administration",
+    "All-China Women's Federation",
+    "Beijing",
+    "Financial Support",
+    "Women's Employment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "施意见"
+      }
+    ],
+    "institutions": [
+      "PBOC",
+      "NFRA",
+      "ACWF"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260623-xinhua_politics-86152a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

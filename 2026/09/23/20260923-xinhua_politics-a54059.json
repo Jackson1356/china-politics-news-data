@@ -1,0 +1,102 @@
+{
+  "id": "20260923-xinhua_politics-a54059",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260923/47ca7dc794f445b09235d4741be5f0fa/c.html",
+  "title_zh": "2025年全国共查办各类价格违法案件4.1万件",
+  "title_en": "China Handles 41,000 Price Violation Cases Nationwide in 2025",
+  "summary_zh": "国家市场监督管理总局近日发布《中国价格监督检查和反不正当竞争执法年度报告（2025）》，显示2025年全国市场监管系统共查办各类价格违法案件4.1万件，罚没款24.8亿元。",
+  "summary_en": "China's State Administration for Market Regulation released its 2025 annual report on price supervision and anti-unfair competition enforcement, showing 41,000 price violation cases handled nationwide with 2.48 billion yuan in fines and confiscations.",
+  "body_zh": "新华社北京9月23日电（记者赵怡宁）记者23日了解到，国家市场监督管理总局近日发布《中国价格监督检查和反不正当竞争执法年度报告（2025）》，报告显示，2025年，全国市场监管系统强化价格监管执法，全年共查办各类价格违法案件4.1万件，罚没款24.8亿元。\n报告系统总结了2025年度全国市场监管部门价格监督检查和反不正当竞争（规范直销与打击传销）执法工作情况。报告显示，为切实减轻企业负担，全国市场监管部门接续开展涉企收费专项治理，立案查处违法违规收费案件近6000件，退还企业超13亿元。紧扣建设全国统一大市场部署，全年查办各类反不正当竞争案件近1.5万件，罚没款6.15亿元，其中，查办网络不正当竞争案件1932件，罚没款7152.94万元。在规范直销打击传销方面保持高压态势，全年查办相关案件近4000件，罚没款2.6亿元。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "价格监管",
+    "反不正当竞争",
+    "涉企收费治理",
+    "全国统一大市场"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "价格监管",
+      "name_en": "Price Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反不正当竞争",
+      "name_en": "Anti-Unfair Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉企收费治理",
+      "name_en": "Corporate Fee Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国统一大市场",
+      "name_en": "Unified National Market"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "北京",
+    "价格监管",
+    "反不正当竞争",
+    "涉企收费治理",
+    "全国统一大市场"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Beijing",
+    "Price Supervision",
+    "Anti-Unfair Competition",
+    "Corporate Fee Governance",
+    "Unified National Market"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260923-xinhua_politics-a54059",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

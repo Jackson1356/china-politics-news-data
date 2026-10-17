@@ -1,0 +1,83 @@
+{
+  "id": "20260911-peoples_js-ca6433",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0911/c360302-41692843.html",
+  "title_zh": "南京推出三方协同“网约公交” 系全国首创",
+  "title_en": "Nanjing Launches China's First Three-Party Collaborative On-Demand Bus Service",
+  "summary_zh": "9月10日，南京公交集团在浦口大学城推出全国首个由公交企业、数字平台与车企三方协同打造的“网约公交”项目，推动公交数智化转型。",
+  "summary_en": "On Sept 10, Nanjing Public Transport Group launched China's first three-party on-demand bus service in Pukou University Town, jointly built by the bus operator, a digital platform and an automaker to advance digitalized public transport.",
+  "body_zh": "南京推出三方协同“网约公交” 系全国首创\n9月10日，南京公交集团在浦口大学城片区正式推出“小蓝鲸·滴滴网约公交”项目，这是国内首个由“公交运营为核心、数字平台为纽带、车企定制为载体”三方协同打造的网约公交项目，标志着南京公交数智化转型迈出关键一步，也为特大城市公共交通精细化运营提供了可复制、可推广的南京实践方案。\n据《南京晨报》报道，此前，南京公交已在仙林片区试点运营“网约动态公交”两年多，累计服务近50万人次、完成订单超30万笔，创下国内动态公交拼单峰值31单的行业纪录。此次落地浦口大学城的项目，是在前期试点基础上迭代升级的3.0版本，彻底跳出传统公交“人等车”的固定模式，不再设置固定线路与固定发车时间，依托450余个实体及虚拟站点（站点平均间隔100至200米），通过算法实时匹配就近车辆、规划最优路径，将同时段同方向的零散出行需求集约拼成班次，在保障出行效率的同时进一步降低运营成本。\n不同于传统公共出行项目的单一主体运营模式，该项目通过机制设计实现三方资源能力互补、利益共享、风险共担：南京公交输出成熟的安全运维体系与统一服务标准，始终坚守公共交通公益属性底线；滴滴出行开放海量出行数据算法与线上流量入口；车企投入适配短途出行场景的定制化新能源车辆。这一模式有效破解了行业长期存在的“增服务即增成本”的运营困境，树立了公共出行领域跨界协同、降本增效的全新标杆。\n项目同步推出“微车辆、微线路、微笑容”三微服务体系，把精细化服务落到实处。本次投用的6米级新能源微公交采用活力橙色专属涂装，车身灵动穿行于街巷，安静环保且乘坐空间舒适，专为城市“毛细血管”短途出行场景量身打造。运营范围聚焦浦口大学城近20平方公里区域，串联南京审计大学、南京工业大学、龙华路及雨山路地铁站等高频出行节点，通过虚实交错的站点布局，补齐片区“最后一公里”出行短板。服务团队从安全操作到服务礼仪制定全流程精细标准，统一规范着装，全面推行“微笑服务”，让市民在短途出行中感受到实实在在的温度。\n目前，“小蓝鲸·滴滴网约公交”的落地，推动南京公交正式从“供给驱动”的固定线路运营模式，转向“需求驱动”的弹性网络服务模式。下一步，南京公交将持续深耕社区、园区、校区等多元出行场景，逐步扩大网约公交覆盖范围，以数智化手段持续提升公共交通整体运营效能，为南京交通强市建设注入更多动力。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "industry",
+  "keywords": [
+    "公共交通数智化",
+    "网约公交",
+    "三方协同"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共交通数智化",
+      "name_en": "Digitalized Public Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网约公交",
+      "name_en": "On-Demand Bus"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三方协同",
+      "name_en": "Three-Party Collaboration"
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "公共交通数智化",
+    "网约公交",
+    "三方协同"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "Digitalized Public Transport",
+    "On-Demand Bus",
+    "Three-Party Collaboration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260911-peoples_js-ca6433",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

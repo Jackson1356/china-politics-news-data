@@ -1,0 +1,96 @@
+{
+  "id": "20260807-local_fu_zhou_ri_bao_cn_fj-529e8a",
+  "source": "local_fu_zhou_ri_bao_cn_fj",
+  "source_name_zh": "福州日报",
+  "source_name_en": "福州日报",
+  "source_media_id": "cac-cn-fj-20a27e7754",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.fznews.com.cn/node/12851/20260807/z26D4qT9AE.shtml",
+  "title_zh": "市政府召开8月份重大项目协调例会",
+  "title_en": "Fuzhou Municipal Government Holds Monthly Major Project Coordination Meeting",
+  "summary_zh": "8月7日，市长吴贤德主持召开市政府8月份重大项目协调例会，听取福银高速马尾亭江至晋安新店段建设等项目汇报，研究协调项目建设有关问题。",
+  "summary_en": "On August 7, Mayor Wu Xiande chaired the August major project coordination meeting, hearing reports on projects including the Fuyin Expressway section and addressing construction issues.",
+  "body_zh": "市政府召开8月份重大项目协调例会\n吴贤德主持并讲话\n福州新闻网8月7日讯（记者 曾庆贤）7日，市长吴贤德主持召开市政府8月份重大项目协调例会，听取福银高速马尾亭江至晋安新店段建设等项目情况汇报，研究协调项目建设有关问题。\n吴贤德指出，重大项目建设是推动经济社会高质量发展的重要支撑。全市各级各部门要深入学习贯彻习近平总书记关于交通强国的重要论述和对福建福州工作的重要讲话重要指示批示精神，牢固树立和践行正确政绩观，贯彻落实省委十一届十次全会精神，深入开展“三争”、持续推进“奋勇争先”行动，以“奋勇争先突破年”为抓手，全力以赴推动重大项目提速提质提效，为加快建设现代化国际城市注入强劲动能。\n吴贤德强调，要坚持立足当下、适度超前、分期实施，综合考量城市空间布局、生态保护等多重因素，夯实路线规划设计等基础工作，进一步强化与既有高铁、机场、地铁、城市道路等衔接融合，着力构建内联外通、便捷高效的综合立体交通网络，加快打造全国性交通枢纽城市。要坚持大抓项目、抓大项目，积极盘活资源资产，创新投融资模式，发挥国企支撑引领作用，持续扩大有效投资。要坚持尽力而为、量力而行，有所为、有所不为，靶向破解项目建设过程中的难点堵点，用心用情办好民生实事，着力解决好群众急难愁盼问题。\n福州市和福州新区领导张定锋、郑鸿、赵明正、胡旭彬参加。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "economy",
+  "keywords": [
+    "重大项目",
+    "综合交通网络"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大项目",
+      "name_en": "Major Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "综合交通网络",
+      "name_en": "Comprehensive Transportation Network"
+    }
+  ],
+  "tags_zh": [
+    "吴贤德",
+    "福州",
+    "重大项目",
+    "综合交通网络"
+  ],
+  "tags_en": [
+    "Wu Xiande",
+    "Fuzhou",
+    "Major Projects",
+    "Comprehensive Transportation Network"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-xiande-fuzhou",
+      {
+        "id": null,
+        "name_zh": "胡旭彬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-local_fu_zhou_ri_bao_cn_fj-529e8a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_zhou",
+      "source_tier": null,
+      "url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202608/t20260808_5356158.htm",
+      "title_zh": "市政府召开8月份重大项目协调例会",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

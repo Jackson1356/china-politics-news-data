@@ -1,0 +1,78 @@
+{
+  "id": "20260603-xinhua_ah-cf277f",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_url": "http://ah.news.cn/20260603/51278417fc9348f4b08b80cd08065d10/c.html",
+  "title_zh": "安徽合肥全户内500千伏变电站投运在即",
+  "title_en": "All-Indoor 500kV Substation in Hefei, Anhui Soon to be Operational",
+  "summary_zh": "安徽合肥市骆岗公园的500千伏园博变电站建设进入收官阶段，即将投运，旨在提升供电可靠性并助力迎峰度夏。",
+  "summary_en": "The 500kV Yuanbo Substation in Luogang Park, Hefei, Anhui is nearing completion and will soon be operational to enhance power reliability and support summer peak demand.",
+  "body_zh": "这是位于合肥市骆岗公园的500千伏园博变电站（6月2日摄，无人机照片）。\n日前，位于安徽省合肥市骆岗公园的500千伏园博变电站建设进入收官阶段，即将投运，助力迎峰度夏。该变电站是安徽首座全户内500千伏变电站，全户内变电站可大幅降低外界环境对设备影响，显著提升供电可靠性和运维检修便捷度。\n6月2日，安徽送变电工程有限公司施工人员在500千伏园博变电站建设现场对设备进行调试验收。\n6月2日，安徽送变电工程有限公司施工人员在500千伏园博变电站建设现场对设备进行调试验收（无人机照片）。",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "电力基础设施",
+    "能源安全"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力基础设施",
+      "name_en": "Power Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源安全",
+      "name_en": "Energy Security"
+    }
+  ],
+  "tags_zh": [
+    "合肥",
+    "安徽",
+    "电力基础设施",
+    "能源安全"
+  ],
+  "tags_en": [
+    "Hefei",
+    "Anhui",
+    "Power Infrastructure",
+    "Energy Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260603-xinhua_ah-cf277f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

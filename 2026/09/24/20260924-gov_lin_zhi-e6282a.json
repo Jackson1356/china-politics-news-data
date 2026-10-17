@@ -1,0 +1,100 @@
+{
+  "id": "20260924-gov_lin_zhi-e6282a",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/1cd0d18624a04766bb51bc0639faed70.shtml",
+  "title_zh": "国务院办公厅印发《“高效办成一件事”2026年度第二批重点事项清单》的通知",
+  "title_en": "State Council General Office Issues 2026 Second Batch List of Key Items for \"Efficiently Handling One Matter\"",
+  "summary_zh": "国务院办公厅印发通知，部署《“高效办成一件事”2026年度第二批重点事项清单》实施，要求在优化政务服务基础上向全国统一大市场、营商环境等领域拓展。",
+  "summary_en": "China's State Council General Office issued a notice on implementing the 2026 second batch of key items under the \"Efficiently Handling One Matter\" reform, urging broader rollout in government services, market integration and the business environment.",
+  "body_zh": "国务院办公厅关于印发《“高效办成一件事”\n2026年度第二批重点事项清单》的通知\n国办函〔2026〕84号\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n《“高效办成一件事”2026年度第二批重点事项清单》已经国务院同意，现印发给你们，请结合实际认真组织实施。\n各地区各部门要认真贯彻党中央、国务院关于优化政务服务、推动“高效办成一件事”的决策部署，坚持问题导向和目标导向相结合，树立和践行正确政绩观，在持续优化已推出重点事项的基础上，统筹做好2026年度第二批重点事项清单实施工作。要进一步强化“高效办成一件事”理念，稳步拓展适用领域和范围，推动在建设全国统一大市场、扩大高水平对外开放、促进区域协调发展、优化营商环境等更多领域更大范围实现“高效办成一件事”，结合本地区本部门实际逐步推动经营主体和个人全生命周期重点事项总体清单全面落地，持续提升企业和群众满意度、获得感。\n国务院办公厅\n（此件公开发布）\n“高效办成一件事”2026年度\n第二批重点事项清单",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "高效办成一件事",
+    "优化营商环境",
+    "全国统一大市场",
+    "政务服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GOSC",
+      "name_zh": "国务院办公厅",
+      "name_en": "General Office of the State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高效办成一件事",
+      "name_en": "Efficiently Handling One Matter"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "优化营商环境",
+      "name_en": "Business Environment Optimization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国统一大市场",
+      "name_en": "National Unified Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政务服务",
+      "name_en": "Government Services"
+    }
+  ],
+  "tags_zh": [
+    "国务院办公厅",
+    "高效办成一件事",
+    "优化营商环境",
+    "全国统一大市场",
+    "政务服务"
+  ],
+  "tags_en": [
+    "General Office of the State Council",
+    "Efficiently Handling One Matter",
+    "Business Environment Optimization",
+    "National Unified Market",
+    "Government Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GOSC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260924-gov_lin_zhi-e6282a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": null,
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+      "title_zh": "国务院办公厅印发《“高效办成一件事”2026年度第二批重点事项清单》",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

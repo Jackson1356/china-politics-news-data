@@ -1,0 +1,101 @@
+{
+  "id": "20261011-xinhua_ha-cc2041",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.news.cn/20261011/c28ed68063d14d22be72d7493960068d/c.html",
+  "title_zh": "张敏到临颍县调研乡村振兴工作",
+  "title_en": "Zhang Min Inspects Rural Revitalization Work in Linying County, Henan",
+  "summary_zh": "10月10日，河南省委常委、常务副省长张敏到临颍县调研乡村振兴工作，实地察看农文旅融合项目并走访农产品加工企业。",
+  "summary_en": "On Oct 10, Zhang Min, executive vice governor of Henan Province, inspected rural revitalization work in Linying County, visiting village tourism projects and agricultural processing firms.",
+  "body_zh": "10月10日，省委常委、常务副省长张敏到联系的国家乡村振兴示范县创建单位临颍县调研乡村振兴工作。\n张敏首先来到瓦店镇大李村，实地察看村容村貌、农文旅融合项目、盘活利用闲置资源等情况，并深入村民家中了解就业增收、生活保障等情况。她随后来到河南中大恒源生物科技股份有限公司、颐海（漯河）食品有限公司，详细询问农产品精深加工、研发创新、原材料收购、吸纳农村劳动力就业等情况。",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "乡村振兴",
+    "产业发展",
+    "农文旅融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-min-henan",
+      "name_zh": "张敏",
+      "name_en": "Zhang Min"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "临颍县",
+      "name_en": "Linying County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业发展",
+      "name_en": "Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农文旅融合",
+      "name_en": "Agriculture-Culture-Tourism Integration"
+    }
+  ],
+  "tags_zh": [
+    "张敏",
+    "河南",
+    "临颍县",
+    "乡村振兴",
+    "产业发展",
+    "农文旅融合"
+  ],
+  "tags_en": [
+    "Zhang Min",
+    "Henan",
+    "Linying County",
+    "Rural Revitalization",
+    "Industrial Development",
+    "Agriculture-Culture-Tourism Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-min-henan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261011-xinhua_ha-cc2041",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

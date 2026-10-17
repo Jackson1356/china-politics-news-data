@@ -1,0 +1,111 @@
+{
+  "id": "20260929-chinanews_gn-7c9958",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-29/10705576.shtml",
+  "title_zh": "科技部：我国成为创新力上升最快的国家之一",
+  "title_en": "Ministry of Science and Technology: China Becomes One of the Fastest-Rising Countries in Innovation Capacity",
+  "summary_zh": "9月29日，国新办举行新闻发布会，科技部部长阴和俊介绍“十五五”时期推进科技强国建设情况，称2025年全社会研发投入超3.92万亿元，占GDP比重2.8%。",
+  "summary_en": "At a State Council Information Office briefing on Sept 29, Science and Technology Minister Yin Hejun outlined plans to build China into a science and technology powerhouse, saying 2025 R&D spending exceeded 3.92 trillion yuan, or 2.8% of GDP.",
+  "body_zh": "科技部：我国成为创新力上升最快的国家之一\n中新网9月29日电 9月29日，国新办就“十五五”时期推进科技强国建设有关情况举行新闻发布会。会上，科技部部长阴和俊表示，过去五年，我国科技创新跃上新台阶，科技强国建设迈出坚实步伐，有力支撑高质量发展和民生改善。\n阴和俊介绍，2025年全社会研发投入超过3.92万亿元，占GDP的比重达到2.8%，首次超过经济合作与发展组织(OECD)成员国的平均水平；PCT国际专利申请量和高水平国际期刊论文数连续多年保持世界第一；九章、天问、嫦娥等重大原创成果加速涌现，芯片攻关取得新突破，开源大模型领跑全球，新能源汽车、机器人等新兴产业蓬勃发展，创新药、农作物新品种等一批科技成果惠及广大民众。\n中国科技发展战略研究院《国家创新指数报告2025》显示，我国国家创新能力综合排名位居全球第9位。我国正从全球科技参与者、贡献者向开拓者、引领者加速转变，成为创新力上升最快的国家之一。\n国内新闻精选：\n- 2026年09月29日 16:46:58\n- 2026年09月29日 13:27:44\n- 2026年09月29日 12:17:31\n- 2026年09月29日 10:35:29\n- 2026年09月29日 10:33:23\n- 2026年09月28日 16:53:24\n- 2026年09月28日 15:54:28\n- 2026年09月28日 14:57:02\n- 2026年09月27日 16:07:16\n- 2026年09月27日 11:15:16",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "十五五规划",
+    "研发投入"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-hejun",
+      "name_zh": "阴和俊",
+      "name_en": "Yin Hejun"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "科技部",
+      "name_en": "Ministry of Science and Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "研发投入",
+      "name_en": "R&D Investment"
+    }
+  ],
+  "tags_zh": [
+    "阴和俊",
+    "科技部",
+    "科技创新",
+    "十五五规划",
+    "研发投入"
+  ],
+  "tags_en": [
+    "Yin Hejun",
+    "Ministry of Science and Technology",
+    "Scientific and Technological Innovation",
+    "15th Five-Year Plan",
+    "R&D Investment"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-hejun"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "科技部",
+        "name_en": "Ministry of Science and Technology"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260929-chinanews_gn-7c9958",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705584.shtml",
+      "title_zh": "科技部：重点做好六方面工作 推动科技强国建设不断迈上新台阶",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1790669532129212.html",
+      "title_zh": "科技部定调“十五五”：抢占科技发展制高点，推动重点领域攻关",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

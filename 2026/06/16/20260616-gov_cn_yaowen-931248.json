@@ -1,0 +1,109 @@
+{
+  "id": "20260616-gov_cn_yaowen-931248",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072209.htm",
+  "title_zh": "王毅同尼泊尔外长希西尔会谈",
+  "title_en": "Wang Yi Holds Talks with Nepalese Foreign Minister Hishil",
+  "summary_zh": "6月15日，外交部长王毅在北京同尼泊尔外长希西尔举行会谈，双方探讨高质量共建“一带一路”及中尼战略合作伙伴关系。",
+  "summary_en": "On June 15, Foreign Minister Wang Yi held talks with Nepalese Foreign Minister Hishil in Beijing to discuss the high-quality Belt and Road Initiative and China-Nepal strategic partnership.",
+  "body_zh": "新华社北京6月15日电（记者 冯歆然）中共中央政治局委员、外交部长王毅15日在北京同尼泊尔外长希西尔举行会谈。\n王毅表示，2019年，习近平主席对尼泊尔成功进行历史性访问，两国确立面向发展与繁荣的世代友好的战略合作伙伴关系，为中尼关系明确了共同努力方向。中方愿同尼方高质量共建“一带一路”，聚焦电网、公路、口岸、航空等合作。\n希西尔表示，尼方坚定不移奉行一个中国政策，绝不允许任何势力利用尼领土损害中国利益，愿为中国企业提供公平、法治、友善的营商环境。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "一带一路",
+    "中尼关系",
+    "战略合作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "希西尔",
+      "name_en": "Hishil"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中尼关系",
+      "name_en": "China-Nepal Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "希西尔",
+    "北京",
+    "一带一路",
+    "中尼关系",
+    "战略合作伙伴关系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Hishil",
+    "Beijing",
+    "Belt and Road Initiative",
+    "China-Nepal Relations",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "史性"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-931248",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

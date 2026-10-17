@@ -1,0 +1,93 @@
+{
+  "id": "20261016-gov_long_yan-eed0c7",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202610/t20261016_2319189.htm",
+  "title_zh": "龙岩市委书记胡盛到市信访局接待来访群众",
+  "title_en": "Longyan Party Secretary Hu Sheng Receives Petitioners at City Letters and Visits Bureau",
+  "summary_zh": "10月15日，龙岩市委书记胡盛到市信访局接待来访群众，面对面听取诉求，现场协调解决问题，强调用心用情维护群众合法权益。",
+  "summary_en": "On Oct 15, Longyan Party Secretary Hu Sheng visited the city's letters and visits bureau to receive petitioners, hearing their concerns face to face, coordinating on-site solutions and pledging to protect people's lawful rights.",
+  "body_zh": "民生无小事，枝叶总关情。10月15日，市委书记胡盛到市信访局接待来访群众，面对面听取群众诉求，现场协调解决问题。他强调，要深入学习贯彻习近平法治思想和习近平总书记关于加强和改进人民信访工作的重要思想，把树立和践行正确政绩观贯穿信访工作全过程各方面，扎实推动信访工作高质量发展，用心用情维护人民群众合法权益。\n市领导王波参加。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "信访工作",
+    "群众诉求",
+    "正确政绩观"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信访工作",
+      "name_en": "Letters and Visits Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众诉求",
+      "name_en": "Public Grievances"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正确政绩观",
+      "name_en": "Correct View of Political Achievements"
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "龙岩",
+    "信访工作",
+    "群众诉求",
+    "正确政绩观"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Longyan",
+    "Letters and Visits Work",
+    "Public Grievances",
+    "Correct View of Political Achievements"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261016-gov_long_yan-eed0c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260630-gov_cn_yaowen-1f1d51",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7073829.htm",
+  "title_zh": "八部门提出到2030年建设5万张工业5G专网",
+  "title_en": "Eight Departments Propose Building 50,000 Industrial 5G Private Networks by 2030",
+  "summary_zh": "工业和信息化部等八部门于6月30日在北京发布《关于推动工业互联网高质量发展的实施意见》，目标到2030年建设5万张工业5G专网。",
+  "summary_en": "Eight departments, including the Ministry of Industry and Information Technology, issued guidelines in Beijing on June 30 to build 50,000 industrial 5G private networks by 2030.",
+  "body_zh": "新华社北京6月30日电（记者 唐诗凝、周圆）工业和信息化部等八部门30日公开发布《关于推动工业互联网高质量发展的实施意见》，提出到2030年，建设5万张工业5G专网，打造5个左右具有国际影响力的综合型平台，融合应用实现207个工业中类全覆盖，核心产业增加值突破2.5万亿元。\n工业互联网一头连着制造强国建设，一头连着网络强国建设，是实体经济和数字经济深度融合的关键底座。记者了解到，近年来，我国工业互联网发展取得积极成效，但也要看到，工业互联网在细分行业的深度适配和工艺融合有待加强，人工智能工业应用对工业互联网网络互联、数据汇聚、资源配置等能力提出新要求。\n据介绍，此次印发的实施意见立足新形势新特点，把握人工智能发展机遇，推动工业互联网高质量发展。实施意见提出，到2030年，工业互联网实现更广范围、更深程度、更高水平发展，推动实体经济和数字经济深度融合迈上新台阶；培育一批分级分类、特色鲜明的5G工厂，重点行业规上工业企业安全分类分级普及率达到80%等。到2035年，建成全球领先的工业互联网基础设施体系和国际先进的技术产业体系，融合应用实现国民经济重点行业领域广泛深度覆盖，全面形成对新型工业化的支撑能力。\n实施意见围绕基础设施、技术创新、融合应用、安全保障、产业生态等五个方面，系统部署18项具体任务。具体包括推动企业建设新型工业网络，积极有序开展工业5G独立专网建设，按需部署内嵌先进通信模组的融合工业设备；打造新型工业网络技术产品，建设一批工业互联网技术创新中试中心；加快推广平台化设计、智能化生产、个性化定制等模式业态，深入挖掘精细化投融、可视化治理等新模式新业态等。",
+  "image_url": null,
+  "published_at": "2026-06-30T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "工业互联网",
+    "5G专网",
+    "新型工业化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业互联网",
+      "name_en": "Industrial Internet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "5G专网",
+      "name_en": "5G Private Networks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型工业化",
+      "name_en": "New Industrialization"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "北京",
+    "工业互联网",
+    "5G专网",
+    "新型工业化"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Beijing",
+    "Industrial Internet",
+    "5G Private Networks",
+    "New Industrialization"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260630-gov_cn_yaowen-1f1d51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

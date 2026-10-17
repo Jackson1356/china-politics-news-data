@@ -1,0 +1,101 @@
+{
+  "id": "20261016-gov_xi_an-bf6003",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2110904686169681922.html",
+  "title_zh": "西安市政府党组（扩大）会议召开",
+  "title_en": "Xi'an Municipal Government Party Group Holds Expanded Meeting",
+  "summary_zh": "10月15日，西安市政府党组召开扩大会议，常务副市长杨建强主持，传达学习习近平总书记国庆招待会讲话精神，并研究市属国企提质发展工作。",
+  "summary_en": "On Oct 15, Xi'an's municipal government Party group held an expanded meeting chaired by Vice Mayor Yang Jianqiang, conveying Xi Jinping's National Day reception speech and studying reform of a municipal state-owned asset firm.",
+  "body_zh": "10月15日，受市长、市政府党组书记叶牛平委托，常务副市长、市政府党组副书记杨建强主持召开市政府党组（扩大）会议，传达学习习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话精神，安排部署我市贯彻落实措施；研究陕西长安资产投资运营管理有限公司提质发展有关工作。\n会议强调，要深入学习领会习近平总书记重要讲话精神，自觉从伟大发展成就中坚定历史自信、增强历史主动、汲取奋进力量，进一步强化“西部示范、西安先行”的使命担当，以实干实绩坚定拥护“两个确立”、坚决做到“两个维护”。要把习近平总书记重要讲话精神转化为推动发展的强大动力，深刻把握党中央对经济形势的科学判断和对经济工作的决策部署，紧盯四季度目标任务，全力冲刺、靶向攻坚，着力提升经济组织效能，统筹做好稳增长、促改革、惠民生、防风险、保稳定各项工作，推动经济持续向新向优向好发展。要扎实抓好“十五五”规划贯彻实施，项目化、清单化、责任化推进各项规划任务落地落实，着力扬优势、育新机、补短板、增动能、守底线，努力把规划蓝图转化为发展成果。要切实保障和改善民生，坚持投资于物和投资于人紧密结合，加强普惠性、基础性、兜底性民生保障，健全基本公共服务体系，提高公共服务水平，用心用情办好为民实事，不断提升市民群众的获得感、幸福感、安全感。\n会议强调，推动陕西长安资产投资运营管理有限公司提质发展，是市委、市政府深化国企改革、盘活存量资产的重要举措，对提升区域发展效能具有重要意义。要准确把握公司的功能定位和任务要求，坚持市场化运营、增强规模化效益、健全法治化制度，合规有序做好增资扩股、基金设立、银行授信落地及专业子公司组建各项工作，壮大资本资产规模，提升融资运营能力，健全法人治理体系，更好服务全市高质量发展大局。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻重要讲话精神",
+    "国企改革",
+    "稳增长",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻重要讲话精神",
+      "name_en": "Studying Key Speech"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国企改革",
+      "name_en": "SOE Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "稳增长",
+      "name_en": "Stabilizing Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "西安",
+    "学习贯彻重要讲话精神",
+    "国企改革",
+    "稳增长",
+    "十五五规划",
+    "习近平"
+  ],
+  "tags_en": [
+    "Xi'an",
+    "Studying Key Speech",
+    "SOE Reform",
+    "Stabilizing Growth",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_xi_an-bf6003",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

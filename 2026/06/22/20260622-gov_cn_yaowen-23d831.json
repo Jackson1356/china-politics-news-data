@@ -1,0 +1,80 @@
+{
+  "id": "20260622-gov_cn_yaowen-23d831",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7072907.htm",
+  "title_zh": "前5个月全国财政收入向好态势继续巩固",
+  "title_en": "National Fiscal Revenue Maintains Positive Trend in First Five Months",
+  "summary_zh": "财政部6月22日发布数据显示，今年前5个月全国一般公共预算收入100465亿元，同比增长4%，收入向好态势继续巩固。",
+  "summary_en": "The Ministry of Finance reported on June 22 that China's general public budget revenue reached 10.0465 trillion yuan in the first five months, a year-on-year increase of 4%.",
+  "body_zh": "新华社北京6月22日电（记者申铖）财政部6月22日发布数据显示，今年前5个月，全国一般公共预算收入100465亿元，同比增长4%，增幅比前4个月提高0.5个百分点，收入向好态势继续巩固。\n其中，全国税收收入82617亿元，同比增长4.4%；非税收入17848亿元，同比增长2.2%。分中央和地方看，中央一般公共预算收入43850亿元，同比增长5.7%；地方一般公共预算本级收入56615亿元，同比增长2.7%。\n财政支出方面，前5个月，全国一般公共预算支出113877亿元，同比增长0.8%，重点领域支出得到较好保障。分中央和地方看，中央一般公共预算本级支出16815亿元，同比增长6.5%；地方一般公共预算支出97062亿元，同比下降0.1%。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "economy",
+  "keywords": [
+    "财政收入",
+    "公共预算"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政收入",
+      "name_en": "Fiscal Revenue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共预算",
+      "name_en": "Public Budget"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "北京",
+    "财政收入",
+    "公共预算"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Beijing",
+    "Fiscal Revenue",
+    "Public Budget"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260622-gov_cn_yaowen-23d831",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

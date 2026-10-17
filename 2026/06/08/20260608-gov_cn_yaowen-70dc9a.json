@@ -1,0 +1,105 @@
+{
+  "id": "20260608-gov_cn_yaowen-70dc9a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/08/VIDECC0jmvGvWVMlkxnawjpd260608.shtml",
+  "title_zh": "习近平离京对朝鲜进行国事访问",
+  "title_en": "Xi Jinping Leaves Beijing for State Visit to North Korea",
+  "summary_zh": "6月8日上午，国家主席习近平应朝鲜劳动党总书记金正恩邀请，离京对朝鲜进行国事访问。",
+  "summary_en": "On the morning of June 8, President Xi Jinping left Beijing for a state visit to North Korea at the invitation of General Secretary Kim Jong Un.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：6月8日上午，中共中央总书记、国家主席习近平乘专机离开北京，应朝鲜劳动党总书记、朝鲜民主主义人民共和国国务委员长金正恩邀请，对朝鲜进行国事访问。\n陪同出访的有：习近平总书记、国家主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等。\n[视频]习近平离京对朝鲜进行国事访问\n简介\n视频简介习近平离京对朝鲜进行国事访问。\n主要内容",
+  "image_url": null,
+  "published_at": "2026-06-08T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜",
+      "name_en": "North Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-North Korea Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "王毅",
+    "北京",
+    "朝鲜",
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Wang Yi",
+    "Beijing",
+    "North Korea",
+    "State Visit",
+    "China-North Korea Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260608-gov_cn_yaowen-70dc9a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071418.htm",
+      "title_zh": "习近平离京对朝鲜进行国事访问",
+      "published_at": "2026-06-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

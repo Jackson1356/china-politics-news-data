@@ -1,0 +1,70 @@
+{
+  "id": "20260704-xinhua_sc-60e0fc",
+  "source": "xinhua_sc",
+  "source_name_zh": "新华网 四川",
+  "source_name_en": "Xinhua Sichuan",
+  "source_url": "http://sc.news.cn/20260704/4014672f14a54f2d81beb44306db4c5d/c.html",
+  "title_zh": "四川省人民政府发布一批人事任免",
+  "title_en": "Sichuan Provincial People's Government Announces Personnel Appointments and Removals",
+  "summary_zh": "2026年7月4日，四川省人民政府发布通知，任免邹青、崔大鹏等多名官员及事业单位负责人职务。",
+  "summary_en": "On July 4, 2026, the Sichuan Provincial People's Government issued a notice regarding the appointment and removal of several officials and institution heads, including Zou Qing and Cui Dapeng.",
+  "body_zh": "7月4日，四川省人民政府网站发布一批人事任免。具体如下：\n四川省人民政府关于任免邹青等职务的通知\n川府函〔2026〕118号\n各市（州）人民政府，省政府各部门、各直属机构，有关单位：\n四川省人民政府决定：\n任命：\n邹青为四川省人民政府台湾事务办公室副主任（试用期一年）；\n崔大鹏为四川省铁路和机场建设办公室专职副主任、四川省发展和改革委员会副主任（兼）；\n陈代文为广安经济技术开发区管理委员会主任；\n代勇为四川警察学院副院长（试用期一年）；\n周相兵为四川旅游学院副院长（试用期一年）。\n免去：\n李辉的四川省外事办公室副主任职务；\n付东的成都体育学院副院长职务。\n特此通知。\n四川省人民政府",
+  "image_url": null,
+  "published_at": "2026-07-04T12:00:00+00:00",
+  "event_date": "2026-07-04",
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "干部调整"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部调整",
+      "name_en": "Cadre Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "四川",
+    "人事任免",
+    "干部调整"
+  ],
+  "tags_en": [
+    "Sichuan",
+    "Personnel Appointment and Removal",
+    "Cadre Adjustment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260704-xinhua_sc-60e0fc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

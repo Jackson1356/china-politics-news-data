@@ -1,0 +1,93 @@
+{
+  "id": "20260814-gov_long_yan-b2be04",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202608/t20260814_2307595.htm",
+  "title_zh": "龙岩市政府党组会议和常务会议召开",
+  "title_en": "Longyan Municipal Government Holds Party Group and Executive Meetings",
+  "summary_zh": "8月13日，龙岩市市长蔡琳主持召开市政府党组会议和常务会议，研究禁毒示范城市创建、城市更新和深化医改等工作。",
+  "summary_en": "On August 13, Mayor Chai Lin chaired the municipal government's Party group and executive meetings, deliberating on anti-drug demonstration city, urban renewal, and healthcare reform.",
+  "body_zh": "8月13日，市政府党组书记、市长蔡琳主持召开市政府党组会议和常务会议，深入学习贯彻习近平总书记近期系列重要讲话和重要指示精神，研究全国禁毒示范城市创建、城市更新、深化医改等工作。\n会议强调，禁毒工作事关人民幸福安康、社会和谐稳定。要深入学习贯彻习近平总书记关于禁毒工作的重要论述，高标准推进全国禁毒示范城市创建工作，依法严厉打击毒品违法犯罪，坚决打赢新时代禁毒人民战争。要坚持关口前移、预防为先，广泛开展禁毒宣传教育，严格落实逢嫌必检、酒毒同检等日常排查措施，不断提高全民识毒、防毒、拒毒意识和能力，助力建设更高水平的平安龙岩。\n会议强调，城市不仅要有高度，更要有温度。要深入学习贯彻习近平总书记关于城市工作的重要论述，高质量实施城市更新行动，突出抓好老旧小区和城中村改造、危旧房屋整治、城市地下管网更新、完整社区建设、历史文脉保护等工作，提升城市综合承载能力。要以“绣花”功夫推进城市精细化管理，推动城市治理重心和配套资源下沉，引导群众养成生活垃圾分类等好习惯，实现城市内涵式高质量发展。\n会议强调，健康是幸福生活最重要的指标。要深入学习贯彻习近平总书记关于深化医改和卫生健康工作的重要论述，把保障人民健康放在优先发展的战略位置，持续深化医药卫生体制改革，加快建设健康龙岩。要高水平抓好公立医院改革与高质量发展示范项目，促进优质医疗资源扩容下沉和区域均衡布局，改善基层基础设施条件，发展壮大医疗卫生人才队伍，为人民健康提供可靠保障。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "party",
+  "keywords": [
+    "全国禁毒示范城市创建",
+    "城市更新",
+    "深化医改"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": "Cai Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国禁毒示范城市创建",
+      "name_en": "National Anti-drug Demonstration City Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "深化医改",
+      "name_en": "Deepening Healthcare Reform"
+    }
+  ],
+  "tags_zh": [
+    "蔡琳",
+    "龙岩",
+    "全国禁毒示范城市创建",
+    "城市更新",
+    "深化医改"
+  ],
+  "tags_en": [
+    "Cai Lin",
+    "Longyan",
+    "National Anti-drug Demonstration City Initiative",
+    "Urban Renewal",
+    "Deepening Healthcare Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-lin-longyan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260814-gov_long_yan-b2be04",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

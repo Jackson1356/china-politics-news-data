@@ -1,0 +1,106 @@
+{
+  "id": "20260818-gov_cn_yaowen-10cfee",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7078508.htm",
+  "title_zh": "三部门发文优化城乡社区岗位吸纳高校毕业生就业",
+  "title_en": "Three Ministries Issue Notice to Promote Graduate Employment in Urban and Rural Communities",
+  "summary_zh": "人力资源社会保障部、中央社会工作部、民政部近日联合印发通知，提出系列政策举措，促进高校毕业生到城乡社区就业。",
+  "summary_en": "The Ministry of Human Resources and Social Security, the Central Social Work Department, and the Ministry of Civil Affairs jointly issued a notice with policy measures to encourage college graduates to work in urban and rural communities.",
+  "body_zh": "新华社北京8月18日电（记者张晓洁）记者8月18日获悉，人力资源社会保障部、中央社会工作部、民政部近日联合印发关于优化城乡社区岗位吸纳高校毕业生就业工作的通知，提出系列政策举措，全力促进更多高校毕业生到城乡社区就业，为加强基层治理体系和治理能力现代化提供坚实人才支撑。\n畅通高校毕业生到城乡社区就业各类渠道方面，通知提出，聚焦组织动员、矛盾调解、链接资源、应急处突、议事协商、“一老一小”服务、特殊群体关爱帮扶、心理慰藉等重点任务，加大社会学、社会工作、心理学、法学、劳动社保、社区管理与服务等专业高校毕业生招聘力度。原则上所有新招聘岗位全部面向高校毕业生开放，鼓励各地拿出较多数量岗位定向招聘有志于投身社区治理和服务的高校毕业生。\n通知明确，鼓励有条件的地方聚焦充实城乡社区工作力量、提升精细化管理能力，重点开发一批适合高校毕业生的就业岗位。支持城乡社区服务领域企业和专业化社会组织，通过政府购买服务、项目合作等方式承接城乡社区服务，加大招聘高校毕业生力度。在村（社区）开发就业见习岗位，为高校毕业生提供更多实践锻炼机会。\n加大高校毕业生到城乡社区就业支持保障方面，通知提出，健全城乡基层岗位归集发布机制。支持符合条件人员参加社会工作者职业资格评价，按规定落实相关职业津贴。定期组织高校毕业生到城乡社区开展实习实践、志愿服务、社会公益等活动。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "welfare",
+  "keywords": [
+    "高校毕业生就业",
+    "基层治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "institution",
+      "id": "CCSWD",
+      "name_zh": "中央社会工作部",
+      "name_en": "Central Social Work Department"
+    },
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校毕业生就业",
+      "name_en": "College Graduate Employment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层治理",
+      "name_en": "Grassroots Governance"
+    }
+  ],
+  "tags_zh": [
+    "人力资源社会保障部",
+    "中央社会工作部",
+    "民政部",
+    "北京",
+    "高校毕业生就业",
+    "基层治理"
+  ],
+  "tags_en": [
+    "Ministry of Human Resources and Social Security",
+    "Central Social Work Department",
+    "Ministry of Civil Affairs",
+    "Beijing",
+    "College Graduate Employment",
+    "Grassroots Governance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CCSWD",
+      "MCA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260818-gov_cn_yaowen-10cfee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260929-peoples_js-8be05e",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0929/c360300-41710051.html",
+  "title_zh": "《南京都市圈发展规划（2026—2035）》实施",
+  "title_en": "Nanjing Metropolitan Area Development Plan (2026-2035) Implemented",
+  "summary_zh": "9月28日，《南京都市圈发展规划（2026—2035）》由南京都市圈城市发展联盟印发实施，规划覆盖南京、镇江、扬州等8市全域，明确到2030年地区生产总值超7万亿元。",
+  "summary_en": "On Sept 28, the Nanjing Metropolitan Area Development Plan (2026-2035) was issued, covering eight cities including Nanjing, Zhenjiang and Yangzhou, and targeting GDP of over 7 trillion yuan by 2030.",
+  "body_zh": "《南京都市圈发展规划（2026—2035）》实施\n9月28日，《南京都市圈发展规划（2026—2035）》由南京都市圈城市发展联盟印发实施。\n据《扬子晚报》报道，规划明确核心区域以南京市为中心，包括镇江市京口区、润州区、丹徒区和句容市，扬州市广陵区、邗江区、江都区和仪征市等，总面积2.7万平方公里。规划范围覆盖南京、镇江、扬州、淮安、芜湖、马鞍山、滁州、宣城8市全域及常州市金坛区和溧阳市，总面积约6.6万平方公里，2025年常住人口约3580万人。\n规划明确两个阶段发展目标：到2030年，都市圈综合实力和区域协同水平显著提升，地区生产总值超过7万亿元，多中心、组团式空间格局基本成形，同城化建设水平位居全国前列，基本形成宜居宜业、富有活力的现代化都市圈；到2035年，都市圈整体发展迈上新台阶，基本实现社会主义现代化目标，地区生产总值超过9万亿元，全面建成具有竞争力的创新型、枢纽型、国际化、现代化都市圈。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "区域协同发展",
+    "都市圈建设",
+    "同城化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域协同发展",
+      "name_en": "Regional Coordinated Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "都市圈建设",
+      "name_en": "Metropolitan Area Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "同城化",
+      "name_en": "City Integration"
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "区域协同发展",
+    "都市圈建设",
+    "同城化"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "Regional Coordinated Development",
+    "Metropolitan Area Development",
+    "City Integration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260929-peoples_js-8be05e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

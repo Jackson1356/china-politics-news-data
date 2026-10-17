@@ -1,0 +1,105 @@
+{
+  "id": "20260924-gov_cn_yaowen-a138b9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7081990.htm",
+  "title_zh": "商务部门加强中秋国庆生活必需品市场供应保障",
+  "title_en": "Commerce Departments Strengthen Market Supply of Daily Necessities for Mid-Autumn Festival and National Day",
+  "summary_zh": "商务部近日召开电视电话会议，部署各地商务主管部门加强中秋国庆期间生活必需品市场供应保障，并会同相关部门在少数民族地区投放中央储备冻牛羊肉5100吨。",
+  "summary_en": "China's Ministry of Commerce recently held a teleconference directing local commerce authorities to secure supplies of daily necessities for the Mid-Autumn Festival and National Day holidays, releasing 5,100 tonnes of central frozen beef and mutton reserves in ethnic minority regions.",
+  "body_zh": "商务部近日召开电视电话会议，组织各地商务主管部门加强生活必需品市场供应保障。指导重点保供企业加强产销衔接，拓宽货源渠道，根据节日消费特点加大生鲜、月饼等热销品备货力度，满足群众多元化消费需求。针对重点城市和旅游热门地区消费集中、游客增多特点，指导相关地方提前锁定货源，做好应需调运准备。会同相关部门在少数民族地区组织出库中央储备冻牛羊肉5100吨，增加节日肉类市场供应。\n目前，全国生活必需品市场供应充足，价格总体平稳。据商务部监测，9月14日至20日，大型超市肉蛋菜奶库存量较月初增加3%至8%。大型农副产品批发市场粮油、肉类批发均价基本平稳，鸡蛋、蔬菜价格小幅上涨，水果、水产品价格有所回落。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "市场保供",
+    "生活必需品",
+    "中央储备投放"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "市场保供",
+      "name_en": "Market Supply Guarantee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生活必需品",
+      "name_en": "Daily Necessities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央储备投放",
+      "name_en": "Central Reserve Release"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "市场保供",
+    "生活必需品",
+    "中央储备投放"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Market Supply Guarantee",
+    "Daily Necessities",
+    "Central Reserve Release"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260924-gov_cn_yaowen-a138b9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/lianbo/202609/content_7081990.htm",
+      "title_zh": "商务部门加强中秋国庆生活必需品市场供应保障",
+      "published_at": "2026-09-24T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0925/c378440-41707769.html",
+      "title_zh": "商务部门加强中秋国庆生活必需品市场供应保障",
+      "published_at": "2026-09-25T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-09/25/content_39020513.htm",
+      "title_zh": "商务部门加强中秋国庆生活必需品市场供应保障",
+      "published_at": "2026-09-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

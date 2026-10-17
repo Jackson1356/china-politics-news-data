@@ -1,0 +1,118 @@
+{
+  "id": "20260924-gov_cn_yaowen-348b41",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/24/VIDEHQYoOkoEk5cn4EVrE6aW260924.shtml",
+  "title_zh": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
+  "title_en": "Li Qiang Attends Launch Ceremony of the 5th Global Digital Trade Expo and Delivers Remarks",
+  "summary_zh": "9月24日，国务院总理李强在杭州出席第五届全球数字贸易博览会启动仪式并致辞，马来西亚总理安瓦尔等外国领导人及1200多名代表出席。",
+  "summary_en": "On September 24, Premier Li Qiang attended and addressed the launch ceremony of the 5th Global Digital Trade Expo in Hangzhou, joined by Malaysian Prime Minister Anwar and over 1,200 delegates.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强24日在杭州出席第五届全球数字贸易博览会启动仪式并致辞。\n第一，透过数字贸易洞察国际经贸发展的新变化新趋势。数字贸易的蓬勃兴起带来新的动力和机遇，世界经济迎来广袤蓝海，各国市场对接更加便利，全球贸易加快创新发展。与之相伴，新的发展分化、新的经贸壁垒、新的规则缺失等一些问题和挑战也更加凸显、更趋复杂。\n第二，以开放的胸怀推动数字时代全球贸易更好发展。在经济全球化潮流面前，国际社会应当精诚协作，加强数字联通，促进各国市场有机协同，弥合数字鸿沟，加强数字贸易领域南北合作，完善数字治理，更好发挥世贸组织等机制作用，构建公正合理的经贸秩序，推动更加自由、普惠、有序的贸易。\n马来西亚总理安瓦尔、吉尔吉斯斯坦总理卡瑟马利耶夫，以及来自近50个国家和地区及有关国际组织的1200多名代表出席启动仪式。\n启动仪式前，李强同与会外国领导人共同巡馆。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "数字贸易",
+    "经济全球化",
+    "对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字贸易",
+      "name_en": "Digital Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济全球化",
+      "name_en": "Economic Globalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杭州",
+    "数字贸易",
+    "经济全球化",
+    "对外开放"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Hangzhou",
+    "Digital Trade",
+    "Economic Globalization",
+    "Opening Up"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260924-gov_cn_yaowen-348b41",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081968.htm",
+      "title_zh": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
+      "published_at": "2026-09-24T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/0925/c64094-40805444.html",
+      "title_zh": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
+      "published_at": "2026-09-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

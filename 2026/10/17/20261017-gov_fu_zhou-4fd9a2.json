@@ -1,0 +1,110 @@
+{
+  "id": "20261017-gov_fu_zhou-4fd9a2",
+  "source": "gov_fu_zhou",
+  "source_name_zh": "抚州市政府网",
+  "source_name_en": "抚州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202610/t20261017_5383041.htm",
+  "title_zh": "福州市与法国佩皮尼昂市签署加强友好交流合作的谅解备忘录",
+  "title_en": "Fuzhou and France's Perpignan Sign Memorandum of Understanding on Strengthening Friendly Exchanges and Cooperation",
+  "summary_zh": "10月16日，福州市市长吴贤德与法国佩皮尼昂市市长路易·阿里奥特在福州签署加强友好交流合作的谅解备忘录，推动经贸、教育、文化和海洋产业合作。",
+  "summary_en": "On Oct 16, Fuzhou Mayor Wu Xiande and Perpignan Mayor Louis Aliot signed an MOU in Fuzhou to strengthen exchanges and cooperation in trade, education, culture and maritime industries.",
+  "body_zh": "福州市与法国佩皮尼昂市签署 加强友好交流合作的谅解备忘录\n16日，市长吴贤德与来榕参加2026世界航海装备大会的法国佩皮尼昂地中海都会区主席兼佩皮尼昂市市长路易·阿里奥特签署加强友好交流合作的谅解备忘录。\n据悉，福州市与法兰西共和国佩皮尼昂市自2025年12月9日签署建立友好城市关系意向书以来，就开展经贸、教育、文化等合作保持密切沟通。作为世界航海装备大会首个外国主宾市，此次路易·阿里奥特率佩皮尼昂政企代表团一行11人来榕参加2026世界航海装备大会，双方就进一步加强福州市与佩皮尼昂市的友好交流与合作进行了会谈，同意在2025年签署的意向书的框架下继续共同努力，增进两地人民相互了解，促进双方友好关系发展。\n根据备忘录，双方鼓励互派代表团参加对方国际性活动，进一步促进经贸合作和人文交流，支持有关企业在海洋产业等领域依法开展合作。双方支持有关中小学、艺术机构建立联系机制，进一步增进福州市与佩皮尼昂市教育文化交流合作，鼓励两地青少年开展交流，促进民心相通。",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "友好城市",
+    "经贸合作",
+    "人文交流",
+    "海洋产业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好城市",
+      "name_en": "Friendship Cities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "Cultural and People-to-People Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋产业",
+      "name_en": "Marine Industry"
+    }
+  ],
+  "tags_zh": [
+    "吴贤德",
+    "福州",
+    "友好城市",
+    "经贸合作",
+    "人文交流",
+    "海洋产业"
+  ],
+  "tags_en": [
+    "Wu Xiande",
+    "Fuzhou",
+    "Friendship Cities",
+    "Trade Cooperation",
+    "Cultural and People-to-People Exchanges",
+    "Marine Industry"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-xiande-fuzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261017-gov_fu_zhou-4fd9a2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_fu_zhou_ri_bao_cn_fj",
+      "source_tier": null,
+      "url": "https://news.fznews.com.cn/node/12851/20261016/701Zy4Z954.shtml",
+      "title_zh": "福州市与法国佩皮尼昂市签署加强友好交流合作的谅解备忘录",
+      "published_at": "2026-10-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

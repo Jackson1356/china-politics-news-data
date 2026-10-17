@@ -1,0 +1,99 @@
+{
+  "id": "20261001-gov_huai_hua-4c11b4",
+  "source": "gov_huai_hua",
+  "source_name_zh": "怀化市政府网",
+  "source_name_en": "怀化 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_hua",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaihua.gov.cn/huaihua/c101115/202610/a6189797a2ee4210908fdc6c37b099b3.shtml",
+  "title_zh": "怀化高新区部署安全生产和消防安全工作",
+  "title_en": "Huaihua High-tech Zone Deploys Work on Production and Fire Safety",
+  "summary_zh": "9月30日上午，湖南怀化高新区召开2026年第三季度安全生产暨消防安全工作会议，部署四季度及国庆假期重点工作，管委会主任赵湘玲出席并讲话。",
+  "summary_en": "On the morning of Sept 30, Huaihua High-tech Zone in Hunan held its Q3 2026 meeting on production and fire safety, deploying key tasks for the fourth quarter and the National Day holiday.",
+  "body_zh": "怀化高新区部署安全生产和消防安全工作\n9月30日上午，怀化高新区召开2026年第三季度安全生产暨消防安全工作会议，传达全市安全生产和森林防灭火视频会议暨市安委会2026年第三次全会精神，部署四季度及国庆假期重点工作。怀化高新区党工委副书记、管委会主任赵湘玲出席会议并讲话，园区各部门负责人、各企业负责人及安全派驻员参加。\n会议指出，要全闭环推进隐患清仓销号。发挥“安全管家”作用，聚焦工贸、危化、建筑施工、消防等重点领域，限期清零未销号重大隐患。要全方位压实安全生产责任。严格落实“党政同责、一岗双责”和“三管三必须”，强化联合监管检查、督导问责；进一步压实企业主体责任，将安全投入达标情况与助企政策兑现挂钩，杜绝责任悬空、投入缩水。要全领域深化专项整治攻坚。狠抓有限空间专项整治，严格执行“先通风、再检测、后作业”；整治“厂中厂”“多合一”消防顽疾；规范动火、高处作业等特殊作业，严防违章及盲目施救。要全时段守好关键节点关口。做好国庆假期24小时值班值守，督促企业节前自查、人离断电等措施；强化秋冬防火巡查，备足应急物资，完善处置预案，提升应急响应能力。\n会议强调，要统筹发展和安全，将安全生产与经济运行、项目建设一体推进，严防企业重生产轻安全。强化安全培训演练，提升全员安全意识，全力防范化解风险，筑牢园区高质量发展安全屏障。\n（莫平蔚）",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "消防安全",
+    "隐患排查整治"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HN-HH",
+      "name_zh": "怀化",
+      "name_en": "Huaihua"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消防安全",
+      "name_en": "Fire Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "隐患排查整治",
+      "name_en": "Hazard Inspection and Rectification"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高新区",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "怀化",
+    "安全生产",
+    "消防安全",
+    "隐患排查整治",
+    "高新区"
+  ],
+  "tags_en": [
+    "Huaihua",
+    "Work Safety",
+    "Fire Safety",
+    "Hazard Inspection and Rectification"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高新区"
+      },
+      {
+        "id": null,
+        "name_zh": "赵湘玲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-HH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261001-gov_huai_hua-4c11b4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

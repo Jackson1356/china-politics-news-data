@@ -1,0 +1,112 @@
+{
+  "id": "20260611-peoples_qh-68d351",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_url": "http://qh.people.com.cn/n2/2026/0611/c182775-41607147.html",
+  "title_zh": "海西电网三台“稳压器”正式投运",
+  "title_en": "Three \"Voltage Stabilizers\" Officially Put into Operation in Haixi Power Grid",
+  "summary_zh": "6月6日，海西蒙古族藏族自治州托素变电站三组SVG动态无功补偿装置正式投运，有效提升了海西电网的输送能力与新能源消纳水平。",
+  "summary_en": "On June 6, three SVG dynamic reactive power compensation devices were officially put into operation at the Tuosu substation in Haixi, enhancing the power grid's transmission capacity and renewable energy integration.",
+  "body_zh": "海西电网三台“稳压器”正式投运\n6月6日，海西蒙古族藏族自治州750千伏托素变电站3组66千伏SVG动态无功补偿装置，顺利通过人工单相瞬时短路试验并正式投运。这一装置相当于“电网稳压器”，投运后有效提升海西电网输送能力45万千瓦，预计年增发新能源电量超10亿千瓦时，可满足约80万户青海居民家庭全年用电需求。\n本次试验由国家电网有限公司西北分部指导，国网青海省电力公司联合中国电力科学研究院共同开展。SVG装置依托电力电子技术实现动态无功补偿，是新能源大规模并网场景下，保障电网电压稳定与安全运行的重要设备。此次试验全程落实全闭环安全管控，测试团队提前完成现场勘查，科学制定调度、试验、测试及应急处置等各类方案，逐一排查SVG一二次设备与电压控制定值，并组织实操演练，有效保障了试验工作高效协同、安全落地。\n瞬时短路试验结果表明，750千伏变电站66千伏SVG装置暂态电压支撑性能表现优异，故障工况下协同响应能力突出，有效补齐了大规模新能源并网区域动态无功支撑短板，全面提升系统电压稳定水平，可为海西地区新能源消纳与并网能力升级提供坚实保障。\n青海是国家重要的清洁能源生产基地，海西是青海两个千万千瓦级可再生能源基地之一，目前，海西电网总装机3044万千瓦，其中风光新能源装机2741万千瓦，占比超90%；光伏装机1667万千瓦、风电装机1017万千瓦、光热装机56万千瓦。\n750千伏托素变电站作为海西电网核心枢纽变电站，国网青海电力根据其新能源外送实际需求，创新采用固定补偿+动态补偿相结合的无功配置模式，为全站装设4组66千伏SVG动态无功补偿装置，装置稳态总容量为360兆乏。本次率先投运3组，直接提升海西电网输送能力45万千瓦，剩余1组计划于今年四季度完成投运。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-06",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源消纳",
+    "电网升级",
+    "清洁能源"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家电网有限公司西北分部",
+      "name_en": "State Grid Northwest Division"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国电力科学研究院",
+      "name_en": "China Electric Power Research Institute"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "海西蒙古族藏族自治州",
+      "name_en": "Haixi Mongol and Tibetan Autonomous Prefecture"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源消纳",
+      "name_en": "Renewable Energy Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电网升级",
+      "name_en": "Power Grid Upgrade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    }
+  ],
+  "tags_zh": [
+    "国家电网有限公司西北分部",
+    "中国电力科学研究院",
+    "海西蒙古族藏族自治州",
+    "青海",
+    "新能源消纳",
+    "电网升级",
+    "清洁能源"
+  ],
+  "tags_en": [
+    "State Grid Northwest Division",
+    "China Electric Power Research Institute",
+    "Haixi Mongol and Tibetan Autonomous Prefecture",
+    "Qinghai",
+    "Renewable Energy Integration",
+    "Power Grid Upgrade",
+    "Clean Energy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家电网有限公司西北分部",
+        "name_en": "State Grid Northwest Division"
+      },
+      {
+        "name_zh": "中国电力科学研究院",
+        "name_en": "China Electric Power Research Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260611-peoples_qh-68d351",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

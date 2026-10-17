@@ -1,0 +1,92 @@
+{
+  "id": "20260807-peoples_sx-fb2ebd",
+  "source": "peoples_sx",
+  "source_name_zh": "人民网 山西",
+  "source_name_en": "People's Daily Shanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sx.people.com.cn/n2/2026/0807/c189130-41661349.html",
+  "title_zh": "山西省首批快速充放电桩太原投运",
+  "title_en": "Shanxi's First Fast Charging and Discharging Piles Put into Operation in Taiyuan",
+  "summary_zh": "8月3日，国网太原供电公司迎西充电站新一代V2G双向直流快速充放电桩正式投运，为山西省首批同类设备，有助于电网削峰填谷。",
+  "summary_en": "On August 3, the Yingxi charging station of State Grid Taiyuan Power Supply Company put into operation a new generation of V2G bidirectional DC fast charging and discharging piles, the first of their kind in Shanxi, helping to peak shave for the grid.",
+  "body_zh": "山西省首批快速充放电桩太原投运\n8月3日，国网太原供电公司迎西充电站全新一代V2G（车网互动）双向直流快速充放电桩正式建成投运。该设备是省内首家落地的同类型双向快充快放设备，凭借先进的双向交互技术，让新能源汽车化身电网移动储能单元，为城市电力平稳运行注入全新动能。\n据了解，这次投运的8台充放电桩硬件性能突出，电压兼容覆盖500V至750V主流车型区间，一体化集成快充快放双重功能，同时支持单枪、双枪灵活切换使用，后期场站扩容、设备拓展便捷灵活，充分适配不同品牌、不同容量新能源车辆使用需求，兼容2011版、2015版两大电动汽车充电国标，可全面支撑各类并网型双向能量变换场景。\n依托全新双向快充快放设备，有助于供电公司引导新能源车主在凌晨用电低谷时段低价充电储能，在日间用电高峰时段有序开展车辆反向放电上网，依靠分散式车载电池聚合可调电力资源，精准完成电网削峰填谷，有效平抑区域用电峰谷差值，提升清洁能源消纳水平。对于新能源车主而言，峰谷充放电模式能够降低日常用车成本，停放的闲置车辆可产生额外放电收益，是一种双赢模式。此次建成投运，标志着太原供电公司在车网互动示范应用迈出实质性一步。（杜鹃 刘超然）",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "车网互动",
+    "充电基础设施",
+    "削峰填谷"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-TY",
+      "name_zh": "太原",
+      "name_en": "Taiyuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "车网互动",
+      "name_en": "Vehicle-to-Grid (V2G)"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "充电基础设施",
+      "name_en": "Charging Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "削峰填谷",
+      "name_en": "Peak Shaving"
+    }
+  ],
+  "tags_zh": [
+    "太原",
+    "新能源汽车",
+    "车网互动",
+    "充电基础设施",
+    "削峰填谷"
+  ],
+  "tags_en": [
+    "Taiyuan",
+    "New Energy Vehicles",
+    "Vehicle-to-Grid (V2G)",
+    "Charging Infrastructure",
+    "Peak Shaving"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SX-TY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260807-peoples_sx-fb2ebd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

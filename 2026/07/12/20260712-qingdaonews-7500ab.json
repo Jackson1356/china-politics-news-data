@@ -1,0 +1,116 @@
+{
+  "id": "20260712-qingdaonews-7500ab",
+  "source": "qingdaonews",
+  "source_name_zh": "青岛新闻网",
+  "source_name_en": "Qingdao News",
+  "source_url": "http://news.qingdaonews.com/zonghe/2026-07/12/content_23745318.htm",
+  "title_zh": "习近平：打通科技加速向现实生产力转化通道",
+  "title_en": "Xi Jinping: Clearing the Path for Accelerating the Transformation of Science and Technology into Actual Productivity",
+  "summary_zh": "7月8日，习近平在北京出席中国国家科学技术奖励大会等会议并发表重要讲话，号召加快推进高水平科技自立自强，以科技创新支撑中国式现代化。",
+  "summary_en": "On July 8, Xi Jinping attended several science and technology conferences in Beijing, calling for high-level self-reliance in science and technology to support Chinese modernization.",
+  "body_zh": "【本期导读】\n7月8日，中国国家科学技术奖励大会、中国科学院院士大会和中国工程院院士大会、中国科学技术协会全国代表大会在北京隆重召开，中共中央总书记、国家主席习近平出席大会，为国家最高科技奖获得者等颁奖并发表重要讲话，号召全国科技工作者必须抓住历史机遇，迎接时代挑战，加快推进高水平科技自立自强，向着到2035年建成科技强国的目标坚定迈进，扎扎实实以科技创新支撑和引领中国式现代化。\n今年是中国“十五五”开局之年。推动科技创新和产业创新深度融合，关系新质生产力发展，关系中国式现代化全局。习近平在讲话中强调，“科技创新要突出应用导向”“产业创新要提出科学问题”，着力打通科技加速向现实生产力转化的通道。\n国际社会认为，中国的科技战略正进入新阶段，从突破性创新向系统性部署迈进，突出创新驱动与产业升级，极大提升了中国在全球产业链中的自主性与竞争力。\n视觉：曹懿心\n校对：位树理、吕冬\n公安部备案号：37020202000008\n邮编：266071\n邮箱：editor@qingdaonews.com\n增值电信许可证：鲁B2-20040044\n鲁B2-20051014-1",
+  "image_url": null,
+  "published_at": "2026-07-12T12:00:00+00:00",
+  "event_date": "2026-07-08",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "industry",
+  "keywords": [
+    "科技自立自强",
+    "新质生产力",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CAS",
+      "name_zh": "中国科学院",
+      "name_en": "Chinese Academy of Sciences"
+    },
+    {
+      "kind": "institution",
+      "id": "CAE",
+      "name_zh": "中国工程院",
+      "name_en": "Chinese Academy of Engineering"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技自立自强",
+      "name_en": "Self-reliance in Science and Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中国科学院",
+    "中国工程院",
+    "北京",
+    "科技自立自强",
+    "新质生产力",
+    "中国式现代化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Chinese Academy of Sciences",
+    "Chinese Academy of Engineering",
+    "Beijing",
+    "Self-reliance in Science and Technology",
+    "New Quality Productive Forces",
+    "Chinese Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CAS",
+      "CAE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260712-qingdaonews-7500ab",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-07/12/content_32119146.htm",
+      "title_zh": "【讲习所·领航“十五五”】习近平：打通科技加速向现实生产力转化通道",
+      "published_at": "2026-07-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

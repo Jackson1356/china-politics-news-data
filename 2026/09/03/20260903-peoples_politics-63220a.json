@@ -1,0 +1,102 @@
+{
+  "id": "20260903-peoples_politics-63220a",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791887.html",
+  "title_zh": "纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会在京举行",
+  "title_en": "Symposium Held in Beijing to Mark 81st Anniversary of Victory in Chinese People's War of Resistance Against Japanese Aggression and World Anti-Fascist War",
+  "summary_zh": "9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会在北京举行，中共中央政治局委员、中宣部部长李书磊出席。",
+  "summary_en": "On September 3, a symposium commemorating the 81st anniversary of the victory in the Chinese People's War of Resistance Against Japanese Aggression and World Anti-Fascist War was held in Beijing, attended by Li Shulei, member of the Political Bureau of the CPC Central Committee and head of the Publicity Department.",
+  "body_zh": "纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会在京举行\n新华社北京9月3日电 纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会3日在北京举行，中共中央政治局委员、中宣部部长李书磊出席。\n中国人民抗日战争是艰苦卓绝的伟大战争。在中国共产党倡导建立的抗日民族统一战线旗帜下，中国人民以铮铮铁骨战强敌、以血肉之躯筑长城，取得近代以来反抗外敌入侵的第一次完全胜利。中国人民抗日战争是世界反法西斯战争的重要组成部分，中国人民以巨大的民族牺牲，为拯救人类文明、保卫世界和平作出了重大贡献。\n座谈会上，中央统战部、中央党史和文献研究院、中央军委政治工作部负责同志和抗战英模部队青年官兵代表、青年学生代表先后发言，阐释中国人民抗日战争暨世界反法西斯战争胜利的伟大意义，表达铭记历史、缅怀先烈、珍爱和平、开创未来的决心信心和坚定不移走和平发展道路的崇高愿望。\n座谈会由中央宣传部、中央统战部、中央党史和文献研究院、中央军委政治工作部联合举办。在京参加过抗日战争的老战士老同志及抗战将领亲属代表、抗战烈士遗属代表，中央党政军群有关部门和北京市负责同志，各民主党派中央、全国工商联负责人和无党派人士代表，在京为中国人民抗日战争胜利作出贡献的国际友人或其遗属代表，首都各界群众代表等约200人参加座谈会。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "抗日战争",
+    "反法西斯战争胜利"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-shulei",
+      "name_zh": "李书磊",
+      "name_en": "Li Shulei"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Central Publicity Department"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗日战争",
+      "name_en": "War of Resistance Against Japanese Aggression"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反法西斯战争胜利",
+      "name_en": "World Anti-Fascist War Victory"
+    }
+  ],
+  "tags_zh": [
+    "李书磊",
+    "中央宣传部",
+    "北京",
+    "抗日战争",
+    "反法西斯战争胜利"
+  ],
+  "tags_en": [
+    "Li Shulei",
+    "Central Publicity Department",
+    "Beijing",
+    "War of Resistance Against Japanese Aggression",
+    "World Anti-Fascist War Victory"
+  ],
+  "entities": {
+    "politicians": [
+      "li-shulei"
+    ],
+    "institutions": [
+      "CCPD"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260903-peoples_politics-63220a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260903/80db262020e5433284e8fdb4f0128176/c.html",
+      "title_zh": "纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会在京举行",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

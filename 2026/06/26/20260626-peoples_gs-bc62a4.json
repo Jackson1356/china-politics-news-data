@@ -1,0 +1,110 @@
+{
+  "id": "20260626-peoples_gs-bc62a4",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0626/c183342-41621579.html",
+  "title_zh": "《新型能源体系建设“十五五”规划》发布",
+  "title_en": "15th Five-Year Plan for the Construction of a New Energy System Released",
+  "summary_zh": "国家发展改革委、国家能源局于6月25日在北京发布《新型能源体系建设“十五五”规划》，目标是到2030年初步建成清洁低碳安全高效的新型能源体系。",
+  "summary_en": "The NDRC and National Energy Administration released the 15th Five-Year Plan for the Construction of a New Energy System in Beijing on June 25, aiming to build a clean, low-carbon, safe, and efficient energy system by 2030.",
+  "body_zh": "《新型能源体系建设“十五五”规划》发布\n本报北京6月25日电 （记者王云杉）国家发展改革委、国家能源局日前发布《新型能源体系建设“十五五”规划》，提出2030年初步建成清洁低碳安全高效的新型能源体系。\n规划提出“十五五”时期新型能源体系建设的主要目标。其中，能源综合生产能力达到58亿吨标准煤，电力系统互补互济和安全韧性水平全面提升，能源进口多元可控；煤炭和石油消费达峰，非化石能源消费比重达到25%，风电和太阳能发电装机比重超过50%、成为电力装机主体，非化石能源发电量比重达到50%、成为电量主体；坚强韧性、绿色低碳、集成融合、智能高效的新型能源基础设施体系加快建设，新型电力系统初步建成；能源产业链关键技术装备实现总体自主可控，迈入世界能源科技创新国家前列；适应新型能源体系的市场和价格机制加快健全，全国统一电力市场体系基本建成。\n规划明确，推动清洁能源基地外送输电通道建设，推动配电网向源网荷储资源高效配置平台转变，2030年力争具备承载9亿千瓦分布式新能源接入能力。规划还提出，坚持集中式与分布式、发电与非电并举，加强新能源多品种互补开发、空间集约复合利用、一体化聚合运营，推进陆上风电、光伏发电大规模平稳发展，海上风电向深远海发展，光热发电、海洋能规模化发展。积极推进地热能、氢能和绿色燃料发展，新能源非电利用规模实现倍增。建立完善新能源消纳综合评价指标体系，2030年新能源发电量占比达到30%。\n《 人民日报 》（ 2026年06月26日 07 版）",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-25",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "新型能源体系",
+    "十五五规划",
+    "能源转型"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型能源体系",
+      "name_en": "New Energy System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源转型",
+      "name_en": "Energy Transition"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "国家能源局",
+    "北京",
+    "新型能源体系",
+    "十五五规划",
+    "能源转型"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "National Energy Administration",
+    "Beijing",
+    "New Energy System",
+    "15th Five-Year Plan",
+    "Energy Transition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260626-peoples_gs-bc62a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0626/c192237-41621436.html",
+      "title_zh": "《新型能源体系建设“十五五”规划》发布",
+      "published_at": "2026-06-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

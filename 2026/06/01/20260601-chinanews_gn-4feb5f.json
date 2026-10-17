@@ -1,0 +1,102 @@
+{
+  "id": "20260601-chinanews_gn-4feb5f",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-01/10632240.shtml",
+  "title_zh": "外交部反对《纽约时报》为“台独”谬论提供平台",
+  "title_en": "Foreign Ministry Opposes The New York Times Providing Platform for \"Taiwan Independence\" Fallacies",
+  "summary_zh": "外交部发言人林剑6月1日在例行记者会上表示，中方坚决反对《纽约时报》为“台独”谬论提供平台并公然将台湾称为“国家”。",
+  "summary_en": "Foreign Ministry spokesperson Lin Jian stated on June 1 that China strongly opposes The New York Times providing a platform for \"Taiwan independence\" fallacies and referring to Taiwan as a \"country.\"",
+  "body_zh": "外交部：反对《纽约时报》为“台独”谬论提供平台\n新华社北京6月1日电(记者孙楠、温馨)外交部发言人林剑6月1日在例行记者会上说，《纽约时报》为台湾当局散布“台独”分裂谬论提供平台，并公然将中国台湾地区称为“国家”，严重违反一个中国原则和中美三个联合公报，向“台独”分裂势力发出严重错误信号，中方对此坚决反对。《纽约时报》理应纠正错误，而不是不知悔改，一意孤行。(完)\n国内新闻精选：\n- 2026年06月01日 14:52:54\n- 2026年06月01日 10:00:30\n- 2026年05月31日 20:42:29\n- 2026年05月31日 13:15:47\n- 2026年05月31日 11:14:42\n- 2026年05月30日 17:00:19\n- 2026年05月30日 15:37:27\n- 2026年05月30日 15:16:10\n- 2026年05月30日 13:36:04\n- 2026年05月30日 11:33:24",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "foreign",
+  "keywords": [
+    "一个中国原则",
+    "台独"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台独",
+      "name_en": "Taiwan Independence"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "一个中国原则",
+    "台独"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "One-China Principle",
+    "Taiwan Independence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260601-chinanews_gn-4feb5f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-01/10632255.shtml",
+      "title_zh": "缅甸掸邦南坎镇爆炸致一名中国公民受伤 外交部：目前已获得救治",
+      "published_at": "2026-06-01T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-01/10632253.shtml",
+      "title_zh": "外交部：反对《纽约时报》为台湾当局散布“台独”分裂谬论提供平台",
+      "published_at": "2026-06-01T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-01/10632246.shtml",
+      "title_zh": "英国外交大臣库珀访华 外交部介绍中方期待",
+      "published_at": "2026-06-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

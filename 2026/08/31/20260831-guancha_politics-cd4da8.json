@@ -1,0 +1,100 @@
+{
+  "id": "20260831-guancha_politics-cd4da8",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_31_829351.shtml",
+  "title_zh": "外交部：尼泊尔一侧受灾地区失联中国公民近百人，正全力搜救",
+  "title_en": "Foreign Ministry: Nearly 100 Chinese Citizens Missing in Nepal Disaster Area, Rescue Underway",
+  "summary_zh": "外交部表示，尼泊尔一侧受灾地区失联中国公民近百人，目前正全力搜救。",
+  "summary_en": "The Chinese Foreign Ministry said nearly 100 Chinese citizens are missing in the disaster-hit area on Nepal's side, and rescue efforts are in full swing.",
+  "body_zh": "张雪现身香港交付新车，82岁车主：这是世界上最好的车 2026-08-31 12:13 香港\n馆长披露细节：家长起初不承认摸标本，听闻做过防腐后忙洗手两分钟 2026-08-31 12:04\n累计推进533米！国道216线抢通作业进入难度最大路段 2026-08-31 11:53\n8月我国制造业PMI为49.8%，景气水平回升 2026-08-31 11:19 宏观经济\n纯牛奶样本在港被检出菌落数超标，君乐宝回应 2026-08-31 10:43\n吉隆救援进展：核心区已完成两轮搜索，将展开深层次搜索 2026-08-31 08:48\n他是如何沦为“双料间谍”的？ 2026-08-31 07:16 国家安全\n《这是我的岛》遗留道具成海滩垃圾，当地通报 2026-08-31 06:38\n“信号已能送达救援现场” 2026-08-30 20:05\n自然资源部：初步判定8处地质灾害高风险点 2026-08-30 19:22\n“多名乘客高铁二等座变无座”，哈尔滨铁路致歉 2026-08-30 18:55\n厦门通报“使用敌敌畏为餐饮门店消杀问题”：6人被刑拘 2026-08-30 17:50 食品安全\n每小时2万人过关，等待不到15分钟：深港新口岸在为什么做准备？ 2026-08-30 16:12\n尼泊尔冰崩是因为气候变暖吗？专家解读 2026-08-30 14:54\n国家自然科学基金委员会通报31起科研不端行为，多笔已拨资金被追回 2026-08-30 14:39\n普热普强藏布堰塞湖下游山体发生滑坡，形成新的堰塞体 2026-08-30 13:06\n习近平出席2026年上海合作组织峰会并对吉尔吉斯斯坦埃及进行国事访问 2026-08-30 11:10 中国外交\n我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人 2026-08-30 10:44\n航行警告！渤海海峡黄海北部执行军事任务 2026-08-30 09:16\n吉隆泥石流害原因查明，搜救尚未再发现幸存者 2026-08-30 08:37",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "领事保护",
+    "应急救援",
+    "海外公民安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "尼泊尔",
+      "name_en": "Nepal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领事保护",
+      "name_en": "Consular Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急救援",
+      "name_en": "Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海外公民安全",
+      "name_en": "Overseas Citizen Safety"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "尼泊尔",
+    "领事保护",
+    "应急救援",
+    "海外公民安全",
+    "习近平"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Nepal",
+    "Consular Protection",
+    "Emergency Rescue",
+    "Overseas Citizen Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260831-guancha_politics-3b5497",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

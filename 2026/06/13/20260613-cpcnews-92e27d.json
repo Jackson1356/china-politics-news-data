@@ -1,0 +1,108 @@
+{
+  "id": "20260613-cpcnews-92e27d",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0613/c64094-40739578.html",
+  "title_zh": "韩正会见新加坡国会议长谢健平",
+  "title_en": "Han Zheng Meets Singaporean Speaker of Parliament Chia Jun Lai",
+  "summary_zh": "2026年6月12日，国家副主席韩正在北京会见新加坡国会议长谢健平，双方探讨加强中新战略沟通与高质量合作。",
+  "summary_en": "On June 12, 2026, Vice President Han Zheng met with Singaporean Speaker of Parliament Chia Jun Lai in Beijing to discuss strengthening strategic communication and high-quality cooperation between China and Singapore.",
+  "body_zh": "新华社北京6月12日电 国家副主席韩正12日在京会见新加坡国会议长谢健平。\n韩正表示，中国和新加坡互为友好近邻和重要合作伙伴。去年6月，习近平主席会见黄循财总理，为下阶段中新关系发展指明了方向。中方愿同新方一道，认真落实两国领导人的重要共识，进一步加强战略沟通，加大相互支持，拓展高质量合作，促进民心相通，推动中新全方位高质量的前瞻性伙伴关系实现更大发展。双方要加强多边协作，共同倡导平等有序的世界多极化和普惠包容的经济全球化，推动构建更加公正合理的全球治理体系。\n谢健平表示，新中是好朋友、好邻居，合作领域广泛，成果丰硕。新方十分珍视新中伙伴关系，坚定致力于进一步深化双边合作。新方坚定奉行一个中国政策。\n《 人民日报 》（ 2026年06月13日 01 版）",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中新关系",
+    "战略沟通",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": "Han Zheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "谢健平",
+      "name_en": "Chia Jun Lai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中新关系",
+      "name_en": "China-Singapore Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略沟通",
+      "name_en": "Strategic Communication"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "韩正",
+    "谢健平",
+    "北京",
+    "中新关系",
+    "战略沟通",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Han Zheng",
+    "Chia Jun Lai",
+    "Beijing",
+    "China-Singapore Relations",
+    "Strategic Communication",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "han-zheng",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "谢健平"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260613-cpcnews-92e27d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

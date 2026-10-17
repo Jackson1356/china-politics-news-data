@@ -1,0 +1,90 @@
+{
+  "id": "20260521-bjnews-831264",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1779364930129449.html",
+  "title_zh": "黑龙江省政协常委康翰卿被查",
+  "title_en": "Kang Hanqing, Member of Heilongjiang Provincial CPPCC Standing Committee, Under Investigation",
+  "summary_zh": "黑龙江省纪委监委通报，黑龙江省政协常委、提案委员会主任康翰卿涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
+  "summary_en": "The Heilongjiang Provincial Commission for Discipline Inspection and Supervisory Commission announced that Kang Hanqing, a member of the provincial CPPCC Standing Committee, is under investigation for serious violations of discipline and law.",
+  "body_zh": "新京报讯 据黑龙江省纪委监委消息：黑龙江省政协常委、提案委员会主任康翰卿涉嫌严重违纪违法，目前正接受黑龙江省纪委监委纪律审查和监察调查。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-21T15:19:06Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "康翰卿",
+      "name_en": "Kang Hanqing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "黑龙江省纪委监委",
+      "name_en": "Heilongjiang Provincial Commission for Discipline Inspection and Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "康翰卿",
+    "黑龙江省纪委监委",
+    "黑龙江",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Kang Hanqing",
+    "Heilongjiang Provincial Commission for Discipline Inspection and Supervisory Commission",
+    "Heilongjiang",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      {
+        "code": null,
+        "name_zh": "黑龙江省纪委监委"
+      }
+    ],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260521-bjnews-831264",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1779366320129488.html",
+      "title_zh": "中国棉花协会：网传“中央储备棉轮出投放计划”系不实信息",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "20261010-peoples_sc-dadafd",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sc.people.com.cn/n2/2026/1010/c345514-41718198.html",
+  "title_zh": "四川2名干部履新本科高校正职",
+  "title_en": "Two Sichuan Officials Appointed to Top Posts at Undergraduate Universities",
+  "summary_zh": "10月8日至9日，四川省委教育工委、省教育厅分别在成都宣布，龙汉武任四川电影电视学院党委书记、省政府督导专员，付强任成都文理学院党委书记、省政府督导专员。",
+  "summary_en": "On October 8-9, 2026, Sichuan appointed Long Hanwu as party secretary of Sichuan Film and Television University and Fu Qiang as party secretary of Chengdu College of Arts and Sciences, both also serving as provincial government supervisors.",
+  "body_zh": "四川2名干部履新本科高校正职\n人民网成都10月10日电 （李强强）近日，四川2名干部履新本科高校正职。\n龙汉武任四川电影电视学院党委书记、省政府督导专员\n10月9日上午，四川电影电视学院召开教师干部大会，宣布四川省委、省委教育工委、省教育厅关于学校党委书记、省政府督导专员的任免决定：龙汉武同志任四川电影电视学院党委书记、省政府督导专员；王小林同志不再担任四川电影电视学院党委书记、省政府督导专员职务。\n龙汉武，男，汉族，1971年10月生，大学、在职硕士，中共党员，此前任西华师范大学党委常委、副校长。\n付强任成都文理学院党委书记、省政府督导专员\n10月8日下午，成都文理学院召开教师干部大会，宣布四川省委、省委教育工委、省教育厅关于学校党委书记、省政府督导专员的任免决定：付强同志任成都文理学院党委书记、省政府督导专员；高华锦同志不再担任成都文理学院党委书记、省政府督导专员职务。\n付强，男，汉族，1968年6月生，大学，中共党员，此前任四川省政府研究室副主任。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "高校党建",
+    "干部履新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川电影电视学院",
+      "name_en": "Sichuan Film and Television University"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "成都文理学院",
+      "name_en": "Chengdu College of Arts and Sciences"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC-CD",
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校党建",
+      "name_en": "University Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部履新",
+      "name_en": "New Official Assignments"
+    }
+  ],
+  "tags_zh": [
+    "四川电影电视学院",
+    "成都文理学院",
+    "四川",
+    "成都",
+    "人事任免",
+    "高校党建",
+    "干部履新"
+  ],
+  "tags_en": [
+    "Sichuan Film and Television University",
+    "Chengdu College of Arts and Sciences",
+    "Sichuan",
+    "Chengdu",
+    "Personnel Appointments",
+    "University Party Building",
+    "New Official Assignments"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC",
+      "CN-SC-CD"
+    ],
+    "companies": [
+      {
+        "name_zh": "四川电影电视学院",
+        "name_en": "Sichuan Film and Television University"
+      },
+      {
+        "name_zh": "成都文理学院",
+        "name_en": "Chengdu College of Arts and Sciences"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261010-peoples_sc-dadafd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

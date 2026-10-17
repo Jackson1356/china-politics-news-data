@@ -1,0 +1,84 @@
+{
+  "id": "20260831-gov_cn_yaowen-5c0827",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7079633.htm",
+  "title_zh": "8月份我国制造业PMI上升0.6个百分点",
+  "title_en": "China's Manufacturing PMI Rises 0.6 Percentage Points in August",
+  "summary_zh": "国家统计局8月31日发布数据显示，8月份我国制造业PMI为49.8%，比上月上升0.6个百分点，景气水平回升。",
+  "summary_en": "On August 31, the National Bureau of Statistics reported China's manufacturing PMI at 49.8% in August, up 0.6 percentage points from the previous month, indicating a recovery in business sentiment.",
+  "body_zh": "新华社北京8月31日电（记者 王雨萧）国家统计局服务业调查中心、中国物流与采购联合会31日发布数据显示，8月份我国制造业采购经理指数（PMI）为49.8%，比上月上升0.6个百分点，景气水平回升。\n8月份，制造业生产指数和新订单指数分别为50.4%和50.6%，比上月上升0.5个和2.1个百分点，制造业企业生产和市场需求均较上月扩张。在产需回升等因素带动下，企业采购意愿增强，采购量指数为50.5%，比上月上升1.1个百分点。\n新动能发展态势持续向好。装备制造业和高技术制造业PMI分别为51.4%和52.9%，持续位于扩张区间，相关行业保持较快增长，制造业结构优化升级态势明显；消费品行业和高耗能行业PMI分别为49.0%和47.9%，比上月上升1.2个和0.9个百分点，景气水平均有所回升。\n价格指数双双回升。受近期原油、有色金属价格上行等因素影响，制造业主要原材料购进价格指数和出厂价格指数分别为56.6%和50.4%，比上月上升3.4个和2.6个百分点，其中出厂价格指数重返扩张区间。\n8月份，非制造业商务活动指数为49.0%，与上月持平。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "economy",
+  "keywords": [
+    "制造业PMI",
+    "经济景气"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业PMI",
+      "name_en": "Manufacturing PMI"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济景气",
+      "name_en": "Economic Sentiment"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "北京",
+    "制造业PMI",
+    "经济景气"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Beijing",
+    "Manufacturing PMI",
+    "Economic Sentiment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260831-gov_cn_yaowen-5c0827",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

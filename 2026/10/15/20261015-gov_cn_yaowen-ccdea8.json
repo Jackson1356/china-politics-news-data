@@ -1,0 +1,127 @@
+{
+  "id": "20261015-gov_cn_yaowen-ccdea8",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/15/VIDECEZAphOTMkFCe1z0SN7g261015.shtml",
+  "title_zh": "李强会见博茨瓦纳总统",
+  "title_en": "Li Qiang Meets with Botswana President Duma Boko",
+  "summary_zh": "10月15日，国务院总理李强在北京会见来华进行国事访问的博茨瓦纳总统博科，双方就深化政治互信、共建“一带一路”及矿业、数字、绿色等领域合作交换意见。",
+  "summary_en": "On October 15, Premier Li Qiang met in Beijing with Botswana President Duma Boko, who is on a state visit to China; the two sides discussed deepening political trust, Belt and Road cooperation and collaboration in mining, digital and green sectors.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强15日在京会见来华进行国事访问的博茨瓦纳总统博科。\n李强表示，中国和博茨瓦纳传统友谊深厚。前天（10月13日），习近平主席同总统先生举行会晤，就深化两国关系擘画了新的蓝图。中方愿同博方一道，遵循两国元首战略引领，进一步巩固政治互信，坚定相互支持，高质量共建“一带一路”，加强矿业、数字、绿色、人文等领域合作，共同促进发展振兴。中方愿同非洲国家紧密团结协作，落实好中非合作论坛北京峰会成果，为中非命运共同体建设注入更多动力。\n博科表示，博方坚定奉行一个中国原则，愿用好零关税政策，拓展贸易等各领域务实合作。博方支持习近平主席提出的四大全球倡议，愿同中方密切多边协作。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "中博关系",
+    "一带一路",
+    "中非合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中博关系",
+      "name_en": "China-Botswana Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作",
+      "name_en": "China-Africa Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "中博关系",
+    "一带一路",
+    "中非合作",
+    "习近平",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "China-Botswana Relations",
+    "Belt and Road",
+    "China-Africa Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "xi-jinping",
+      "wu-zhenglong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261015-gov_cn_yaowen-ccdea8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083340.htm",
+      "title_zh": "李强会见博茨瓦纳总统博科",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20261001-gov_zhou_kou-ee0edb",
+  "source": "gov_zhou_kou",
+  "source_name_zh": "周口市政府网",
+  "source_name_en": "周口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhou_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/zkyw/article66d9aa28499f48fab8e6b465176b059c.html",
+  "title_zh": "周口市举行烈士纪念日向人民英雄敬献花篮仪式",
+  "title_en": "Zhoukou City Holds Martyrs' Day Ceremony to Lay Flower Baskets for People's Heroes",
+  "summary_zh": "9月30日烈士纪念日当天，周口市在烈士陵园举行向人民英雄敬献花篮仪式，市委书记黄玉国、市长詹鹏等与各界代表出席。",
+  "summary_en": "On Martyrs' Day, September 30, Zhoukou City held a ceremony at the Martyrs' Cemetery to lay flower baskets for the people's heroes, attended by Party Secretary Huang Yuguo, Mayor Zhan Peng and representatives from all walks of life.",
+  "body_zh": "我市举行烈士纪念日向人民英雄敬献花篮仪式\n黄玉国詹鹏同各界代表出席\n9月30日是国家设立的烈士纪念日。当日上午，周口市各界代表2026年烈士纪念日向人民英雄敬献花篮仪式在周口市烈士陵园举行。市委书记黄玉国，市长詹鹏，市委副书记、政法委书记王钦胜，市人大常委会主任郭力铭等领导，同各界代表一起缅怀革命先烈，传承革命传统，弘扬爱国精神，凝聚奋进力量。\n秋雨寄哀思，鲜花献英烈。雨后的烈士陵园松柏苍翠，仪式现场庄严肃穆，巍峨耸立的纪念碑上，“革命烈士永垂不朽”8个大字熠熠生辉。现场各界代表神情庄重，面向纪念碑列队肃立。\n9时30分，礼兵就位，向人民英雄敬献花篮仪式正式开始。雄壮的《义勇军进行曲》奏响，全场齐声高唱中华人民共和国国歌。\n国歌唱毕，全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。默哀毕，少先队员面向烈士纪念碑高唱《我们是共产主义接班人》，并致少年先锋队队礼。\n伴随着深情的《献花曲》，10名礼兵抬起花篮缓步向前，将花篮郑重摆放在纪念碑基座上。\n黄玉国神情庄重，缓步登上纪念碑基座，仔细整理花篮缎带。全体人员面向纪念碑肃立行注目礼，表达对革命先烈的哀思。\n随后，市领导和各界代表缓步绕行，瞻仰烈士纪念碑，向烈士墓敬献鲜花，深切悼念为新中国成立而光荣牺牲的革命先烈。参加敬献花篮仪式的各界代表一致表示，要深入学习贯彻习近平总书记关于河南工作的重要讲话和重要指示批示精神，铭记抗战历史，赓续红色血脉，从中汲取砥砺奋进的精神力量，聚焦“两高四着力”，落实市委“16232”总体工作思路，务实重干、踔厉奋发，坚定不移推动高质量发展高效能治理，为奋力谱写中原大地推进中国式现代化周口新篇章而不懈奋斗。\n市党政军有关领导同志，各民主党派、市直和驻周有关单位负责同志，川汇区四个班子成员以及烈军属、部队官兵、公安民警、消防救援指战员、老战士、学校师生代表和各界群众代表参加仪式。（记者 王艳）",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "party",
+  "keywords": [
+    "烈士纪念",
+    "红色传承"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA-ZK",
+      "name_zh": "周口",
+      "name_en": "Zhoukou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烈士纪念",
+      "name_en": "Martyrs' Commemoration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "红色传承",
+      "name_en": "Red Heritage"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "周口",
+    "烈士纪念",
+    "红色传承",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhoukou",
+    "Martyrs' Commemoration",
+    "Red Heritage"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA-ZK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-gov_zhou_kou-ee0edb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

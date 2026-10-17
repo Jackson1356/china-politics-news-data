@@ -1,0 +1,83 @@
+{
+  "id": "20260813-paper_zhengjing-4edbdf",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33776887",
+  "title_zh": "两部门预拨8000万元支持河南、湖北、安徽应急抢险救灾",
+  "title_en": "Two Ministries Pre-allocate 80 Million Yuan to Support Emergency Disaster Relief in Henan, Hubei and Anhui",
+  "summary_zh": "8月13日，财政部、应急管理部紧急预拨8000万元中央自然灾害救灾资金，支持河南、湖北、安徽3省开展洪涝、地质灾害应急抢险救灾。",
+  "summary_en": "On August 13, the Ministry of Finance and the Ministry of Emergency Management pre-allocated 80 million yuan in central disaster relief funds to support Henan, Hubei, and Anhui in flood and geological disaster rescue operations.",
+  "body_zh": "两部门预拨8000万元支持河南、湖北、安徽应急抢险救灾\n唐国荣/央视新闻\n近日，受第13号台风“白海豚”残余环流北上影响，黄淮、江汉、江淮地区普降暴雨，引发严重洪涝、地质灾害。为深入贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，8月13日，财政部、应急管理部紧急预拨8000万元中央自然灾害救灾资金，支持河南、湖北、安徽3省开展洪涝、地质灾害应急抢险救灾工作，重点做好搜救转移安置受灾人员、排危除险等应急处置、次生灾害隐患排查整治、倒损民房修复等工作，最大限度降低灾害损失和人员伤亡。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "自然灾害救助"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救助",
+      "name_en": "Natural Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "防汛救灾",
+    "自然灾害救助"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Flood Control and Disaster Relief",
+    "Natural Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-paper_zhengjing-4edbdf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

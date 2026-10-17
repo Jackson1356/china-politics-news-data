@@ -1,0 +1,95 @@
+{
+  "id": "20260520-xinhua_js-05e1ee",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260522/f8109a1d120a4ecdb21f3cb99fd2da9f/c.html",
+  "title_zh": "江苏—韩国经贸合作交流会举行",
+  "title_en": "Jiangsu-South Korea Economic and Trade Cooperation Exchange Meeting Held",
+  "summary_zh": "5月20日，江苏—韩国经贸合作交流会在盐城举行。省长刘小涛视频致辞，双方签约27个重点合作项目，涵盖新能源、新一代信息技术等领域。",
+  "summary_en": "The Jiangsu-South Korea Economic and Trade Cooperation Exchange Meeting was held in Yancheng on May 20. Governor Liu Xiaotao delivered a video speech, and 27 key cooperation projects were signed.",
+  "body_zh": "5月20日，江苏—韩国经贸合作交流会在盐城举行。省长刘小涛视频致辞，韩国产业通商部通商交涉本部长吕翰九、韩国驻华大使卢载宪致辞。省人大常委会副主任夏心旻出席活动。\n本次交流会聚焦“共享新机遇 携手向未来”主题，活动现场举行专题推介，签约27个重点合作项目，涵盖新能源、新一代信息技术、产业生态等领域，充分彰显了绿色低碳发展的鲜明导向和新质生产力的发展底色。\n刘小涛表示，江苏与韩国的发展互为机遇、双向赋能，我们愿与韩方携手落实两国元首重要共识，依托中韩（盐城）产业园等平台，聚焦新能源汽车、集成电路、船舶海工等领域，加强产业链供应链对接协同，深化各方面互动交流。我们将持续优化营商环境，精准服务在苏韩资企业，期待各位韩国企业家持续看好江苏、投资江苏、深耕江苏，实现高水平互利共赢，为中韩战略合作伙伴关系发展作出积极贡献。\n吕翰九说，江苏与韩国是长期共同成长、并肩前行的经济合作伙伴，愿与江苏一道构建稳定的供应链，以中韩（盐城）产业园为纽带深化未来产业合作，拓展惠及民生的新合作领域。卢载宪说，希望以本次交流会的主题为前进方向，深入讨论交流，促生更多成果，走好共赢之路，为两国人民带来更多福祉。\n来自韩国、江苏有关政府部门负责人、商协会代表、企业家等300多人参加活动。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "economy",
+  "keywords": [
+    "经贸合作",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "person",
+      "id": "xia-xinmin",
+      "name_zh": "夏心旻",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "盐城",
+    "江苏",
+    "经贸合作",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Yancheng",
+    "Jiangsu",
+    "Economic and Trade Cooperation",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "xia-xinmin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260520-xinhua_js-05e1ee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

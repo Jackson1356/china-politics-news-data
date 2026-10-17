@@ -1,0 +1,82 @@
+{
+  "id": "20260831-cpcnews-ae7063",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0831/c64387-40789273.html",
+  "title_zh": "全国社会物流总额同比增长5.0%",
+  "title_en": "China's Total Social Logistics Volume Grows 5.0% Year on Year",
+  "summary_zh": "中国物流与采购联合会发布数据显示，今年前7月全国社会物流总额214.5万亿元，同比增长5.0%，需求结构有所优化。",
+  "summary_en": "Data from the China Federation of Logistics & Purchasing shows the total social logistics volume reached 214.5 trillion yuan in the first seven months, up 5.0% year on year, with improved demand structure.",
+  "body_zh": "前7月\n本报北京8月30日电 （记者欧阳洁）中国物流与采购联合会发布数据显示：今年前7月，全国社会物流总额214.5万亿元，同比增长5.0%，社会物流总额保持稳定增长，需求结构有所优化。\n工业品物流基本盘稳定，结构升级态势愈发明显。前7月，工业品物流总额同比增长5.3%，其中，制造业物流仍为增长引擎，7月，制造业相关物流需求同比增长5.5%，增速较全部工业品物流高出1.0个百分点。细分领域中，装备制造物流需求同比增长12.3%，高技术制造相关物流需求同比增长16.9%。\n进口物流总量增速趋稳，货类结构分化明显。前7月，进口物流总额同比增长1.8%，高新技术产品、机电产品进口物流量延续快速增长态势。\n《 人民日报 》（ 2026年08月31日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "economy",
+  "keywords": [
+    "物流",
+    "经济增长"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流",
+      "name_en": "Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "物流",
+    "经济增长"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Logistics",
+    "Economic Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260831-cpcnews-ae7063",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079618.htm",
+      "title_zh": "前7月全国社会物流总额同比增长5.0%",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
