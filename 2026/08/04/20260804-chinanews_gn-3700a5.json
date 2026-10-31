@@ -1,0 +1,110 @@
+{
+  "id": "20260804-chinanews_gn-3700a5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-04/10671853.shtml",
+  "title_zh": "广东省江门市委常委、市纪委书记李志接受审查调查",
+  "title_en": "Li Zhi, Discipline Inspection Secretary of Jiangmen, Under Investigation",
+  "summary_zh": "据广东省纪委监委8月4日消息，江门市委常委、市纪委书记李志涉嫌严重违纪违法，主动投案，正接受纪律审查和监察调查。",
+  "summary_en": "According to Guangdong Provincial Commission for Discipline Inspection on Aug 4, Li Zhi, member of Jiangmen Municipal Party Committee and its discipline inspection secretary, is under investigation for suspected serious violations of discipline and law after voluntarily surrendering.",
+  "body_zh": "广东省江门市委常委、市纪委书记李志接受审查调查\n中新网8月4日电 据广东省纪委监委消息：广东省江门市委常委、市纪委书记、市监委主任李志涉嫌严重违纪违法，主动投案，目前正接受广东省纪委监委纪律审查和监察调查。\n【编辑:叶攀】\n国内新闻精选：\n- 2026年08月05日 12:28:59\n- 2026年08月05日 10:19:05\n- 2026年08月05日 07:19:11\n- 2026年08月05日 07:15:43\n- 2026年08月04日 18:40:13\n- 2026年08月04日 17:00:51\n- 2026年08月04日 16:55:03\n- 2026年08月04日 16:23:33\n- 2026年08月04日 15:44:08\n- 2026年08月04日 15:25:57",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李志",
+      "name_en": "Li Zhi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省纪委监委",
+      "name_en": "Guangdong Provincial Commission for Discipline Inspection"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Discipline Inspection"
+    }
+  ],
+  "tags_zh": [
+    "李志",
+    "广东省纪委监委",
+    "广东",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Li Zhi",
+    "Guangdong Provincial Commission for Discipline Inspection",
+    "Guangdong",
+    "Anti-corruption",
+    "Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省纪委监委",
+        "name_en": "Guangdong Provincial Commission for Discipline Inspection"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260804-chinanews_gn-3700a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671881.shtml",
+      "title_zh": "江门市委常委、市纪委书记、市监委主任李志主动投案",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671894.shtml",
+      "title_zh": "我国成功发射卫星互联网低轨23组卫星",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

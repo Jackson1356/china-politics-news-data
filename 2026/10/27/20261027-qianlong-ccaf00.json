@@ -1,0 +1,82 @@
+{
+  "id": "20261027-qianlong-ccaf00",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://china.qianlong.com/2026/1027/8743643.shtml",
+  "title_zh": "国际人士高度关注中共二十届五中全会 聚焦全面从严治党",
+  "title_en": "International Figures Focus on CPC's Fifth Plenary Session and Full Strict Party Governance",
+  "summary_zh": "俄罗斯、阿塞拜疆、巴西、匈牙利、坦桑尼亚等国学者和前政要就中共二十届五中全会聚焦全面从严治党发表看法，认为自我革命有助于中共保持先进性、走在时代前列。",
+  "summary_en": "Scholars and a former premier from Russia, Azerbaijan, Brazil, Hungary and Tanzania commented on the CPC's Fifth Plenary Session, saying strict party governance keeps the CPC ahead of the times.",
+  "body_zh": "俄罗斯科学院中国与现代亚洲研究所世界政治与战略分析中心主任 扎克利亚兹明斯卡娅：中国共产党二十届五中全会聚焦全面从严治党，这是对党建工作的重要推进，我们高度赞赏中国共产党不断增强自我净化、自我完善、自我革新的能力，这样能确保中国共产党始终走在时代前列。\n阿塞拜疆中国倡议、发展和文化研究中心主任 加西莫夫：习近平主席高瞻远瞩，把中国共产党的自我革命同推进中国式现代化紧密联系在一起。全面从严治党的意义在于保持政党的先进性，这应当以国家发展和人民福祉作为标准，中国共产党的治国理政经验值得各国借鉴。\n巴西中国问题研究中心主任 林斯：中国共产党勇于自我革命，始终保持先进性，全面推进了党的建设，也体现了以人民为中心的执政理念，有助于推进中国式现代化，为人民带来幸福生活，为拉丁美洲提供了宝贵的经验。\n匈牙利前总理 迈杰希：习主席提出的“四个全面”战略布局与中国国情完全契合，全面从严治党是其中重要的组成部分，这表明中国共产党既重视人民群众的利益，也重视推进民主建设，持之以恒推进全面从严治党将对中国未来产生积极影响。\n坦桑尼亚政治分析家 沙约：习近平主席展现出非凡的魄力，引领中国走在正确的道路上。他提出全面从严治党，加强党的纪律，增强党的政治领导力，确保中国共产党始终走在时代前列，带领中国取得长足发展。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党的自我革命",
+    "二十届五中全会"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full Strict Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的自我革命",
+      "name_en": "Party Self-Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会",
+      "name_en": "Fifth Plenary Session of the 20th Central Committee"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "全面从严治党",
+    "党的自我革命",
+    "二十届五中全会",
+    "习近平"
+  ],
+  "tags_en": [
+    "Full Strict Party Governance",
+    "Party Self-Reform",
+    "Fifth Plenary Session of the 20th Central Committee"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261027-qianlong-ccaf00",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

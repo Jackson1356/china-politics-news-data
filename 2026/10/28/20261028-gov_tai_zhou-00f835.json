@@ -1,0 +1,101 @@
+{
+  "id": "20261028-gov_tai_zhou-00f835",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_e8abcf27ae0140a0aecbcea58d549e91.html",
+  "title_zh": "李晖调研农贸市场领域民生实事项目推进情况",
+  "title_en": "Li Hui Inspects Progress of Livelihood Projects in Farmers' Markets",
+  "summary_zh": "10月27日，泰州市长李晖调研农贸市场领域民生实事项目，实地走访新迎江桥综合市场和海光农贸市场，要求做好保供稳价、严守食品安全底线。",
+  "summary_en": "On Oct 27, Taizhou Mayor Li Hui inspected farmers' market livelihood projects at two markets, urging stable supply and prices and stricter food safety oversight.",
+  "body_zh": "泰州要闻\n李晖调研农贸市场领域民生实事项目推进情况\n- 发布日期：2026-10-28 07:47\n- 浏览次数：\n10月27日，市长李晖调研农贸市场领域民生实事项目推进情况，强调要深入践行以人民为中心的发展思想，按照省委省政府和市委工作部署，加快实施农贸市场领域民生实事项目，进一步推动农贸市场提质升级，提高农贸市场建管水平，坚决守牢群众的“米袋子”“菜篮子”。\n走进新迎江桥综合市场，一股烟火气扑面而来，蔬菜、水果、肉类等区块布局清晰、品种丰富，买菜的市民络绎不绝。李晖仔细察看市场零售区、水产海鲜区、蔬菜批发区和自产自销潮汐摊位区等处，询问摊位租金高不高、市场菜价贵不贵，并在智慧农贸系统大屏前，了解市场运营管理状况，检查食品安全检测落实情况。这一市场10月11日起试营业，是周边12万常住居民“十五分钟生活圈”的核心民生配套设施，是海陵区重点民生工程，也是目前主城区规模最大的综合农贸市场。李晖指出，农贸市场连着烟火民生，是关系千家万户日常生活的重要场所。要强化精细化规范化管理，扎实做好农产品保供稳价工作，做到货源充足、种类丰富、价格稳定，同时要建好用好智慧监管系统，严守食品安全底线，让群众买得放心、吃得安心。\n海光农贸市场建于2002年，占地8000平方米，是海陵区重要农产品集贸市场之一，服务范围西至九龙、东至苏陈等城郊地区。李晖实地了解市场功能布局、农副产品供应、农产品检验检测等情况，并与镇街、农贸市场等相关负责人深入交流。他强调，要强化农贸市场安全管理，及时排查整治风险隐患，加强值班值守和日常监管，优化便民利民服务，为群众营造干净整洁、安全有序的消费环境。\n市政府秘书长包亚参加活动。",
+  "image_url": null,
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "welfare",
+  "keywords": [
+    "农贸市场",
+    "民生实事",
+    "食品安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农贸市场",
+      "name_en": "Farmers' Markets"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Livelihood Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "农贸市场",
+    "民生实事",
+    "食品安全"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Farmers' Markets",
+    "Livelihood Projects",
+    "Food Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261028-gov_tai_zhou-00f835",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_e8abcf27ae0140a0aecbcea58d549e91.html",
+      "title_zh": "李晖调研农贸市场领域民生实事项目推进情况",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

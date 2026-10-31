@@ -1,0 +1,122 @@
+{
+  "id": "20261021-gov_cn_yaowen-34b112",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/21/VIDECBKAPweaCN3fqLdS3Kx6261021.shtml",
+  "title_zh": "丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾",
+  "title_en": "Ding Xuexiang Meets Foreign Guests Attending the 2026 International Science Council Mid-Term General Assembly and Beijing Science Dialogue",
+  "summary_zh": "10月21日，中共中央政治局常委、国务院副总理丁薛祥在北京会见出席2026年国际科学理事会中期会员大会暨北京科学对话的部分外宾，强调以开放包容畅通国际学术交流、深化科技合作。",
+  "summary_en": "On Oct 21 in Beijing, Vice Premier Ding Xuexiang met foreign guests attending the 2026 International Science Council Mid-Term General Assembly and Beijing Science Dialogue, calling for open academic exchange and deeper science cooperation.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：中共中央政治局常委、国务院副总理丁薛祥21日在北京会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾。\n丁薛祥表示，科学技术是人类共同的财富，开放合作是科技创新的必然选择。中国愿同各方一道，坚守科学初心，弘扬科学精神，以开放包容畅通国际学术交流，以协同攻关破解前沿科技难题，以互利合作促进成果普惠共享，共同推动全球科技事业发展。\n国际科学理事会主席格鲁克曼等发言，赞赏中国科技创新取得的成就，表示坚定支持开放合作，让科学真正成为全球公共产品，为全人类共同发展进步贡献更大力量。",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-21",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际科技合作",
+    "开放合作",
+    "学术交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际科技合作",
+      "name_en": "International Science and Technology Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放合作",
+      "name_en": "Open Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学术交流",
+      "name_en": "Academic Exchange"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "国务院",
+    "北京",
+    "国际科技合作",
+    "开放合作",
+    "学术交流",
+    "薛祥"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "State Council",
+    "Beijing",
+    "International Science and Technology Cooperation",
+    "Open Cooperation",
+    "Academic Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261021-gov_cn_yaowen-34b112",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083936.htm",
+      "title_zh": "丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

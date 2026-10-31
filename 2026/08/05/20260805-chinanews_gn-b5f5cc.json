@@ -1,0 +1,97 @@
+{
+  "id": "20260805-chinanews_gn-b5f5cc",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-05/10672308.shtml",
+  "title_zh": "多部门向新疆调拨中央抗旱物资 支持做好抗旱减灾工作",
+  "title_en": "Multiple Departments Allocate Central Drought Relief Supplies to Xinjiang",
+  "summary_zh": "8月5日，应新疆防汛抗旱总指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局调拨抗旱水泵、发电机等中央物资，支持新疆抗旱减灾。",
+  "summary_en": "On Aug 5, at Xinjiang's request, national departments allocated central drought-relief supplies including pumps and generators to support the region.",
+  "body_zh": "多部门向新疆调拨中央抗旱物资 支持做好抗旱减灾工作\n中新网8月5日电 据应急管理部网站消息，8月5日，应新疆维吾尔自治区防汛抗旱总指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局调拨抗旱水泵40台、发电机115台等中央抗旱物资，支持新疆做好抗旱减灾工作。\n国内新闻精选：\n- 2026年08月05日 19:29:15\n- 2026年08月05日 19:13:13\n- 2026年08月05日 19:06:24\n- 2026年08月05日 18:14:55\n- 2026年08月05日 15:48:53\n- 2026年08月05日 14:50:42\n- 2026年08月05日 14:36:51\n- 2026年08月05日 12:28:59\n- 2026年08月05日 12:18:52\n- 2026年08月05日 10:19:05",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗旱减灾",
+    "中央物资调拨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗旱减灾",
+      "name_en": "Drought Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央物资调拨",
+      "name_en": "Central Supplies Allocation"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家粮食和储备局",
+    "新疆",
+    "抗旱减灾",
+    "中央物资调拨"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Food and Strategic Reserves Administration",
+    "Xinjiang",
+    "Drought Relief",
+    "Central Supplies Allocation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-chinanews_gn-b5f5cc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

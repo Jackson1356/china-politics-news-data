@@ -1,0 +1,96 @@
+{
+  "id": "20260901-gov_fu_shun-275691",
+  "source": "gov_fu_shun",
+  "source_name_zh": "抚顺市政府网",
+  "source_name_en": "抚顺 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_shun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fushun.gov.cn/ywdt/001001/20260901/4437cca6-f827-4374-8fc2-bd2f48d32187.html",
+  "title_zh": "市委常委会召开会议 传达学习习近平总书记重要讲话重要指示精神",
+  "title_en": "Fushun Municipal Party Standing Committee Holds Meeting to Convey Xi Jinping's Important Speech and Instructions",
+  "summary_zh": "8月28日，抚顺市委常委会召开会议，传达学习习近平总书记重要讲话、重要指示和重要文章精神，研究贯彻落实工作。市委书记高键主持并讲话。",
+  "summary_en": "On Aug 28, Fushun Municipal Party Standing Committee held a meeting to convey and study Xi Jinping's important speeches, instructions and article, with Party Secretary Gao Jian presiding.",
+  "body_zh": "8月28日，市委常委会召开会议，传达学习习近平总书记重要讲话、重要指示和重要文章精神，研究我市贯彻落实工作。市委书记高键主持会议并讲话。\n会议指出，要深入学习贯彻习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神，切实把思想和行动统一到党中央决策部署及省委工作要求上来，坚持极限思维、底线思维，充分认识极端天气的突发性和不确定性，以归零心态做好防汛救灾各项工作，深入排查整治风险隐患，强化山洪、泥石流和地质灾害短临预报预警，及时果断落实巡查防守、避险转移等措施，坚决维护人民群众生命财产安全和社会大局稳定。\n会议强调，要深入学习领会习近平总书记在《求是》杂志上发表的《提高防灾减灾救灾能力》重要文章精神，把握好运用好“七个坚持”的宝贵经验，推动灾害治理向事前预防转型，加快提升灾害防范水平，夯实防灾减灾救灾基层基础，提高全民防灾避险意识和能力。要全力抓实灾后重建，持续谋划实施一批自然灾害防治重点项目，加力推进河道综合整治、集中安置重建、城市排水防涝等工程，构筑更加牢固的安全屏障。要更好统筹发展和安全，加强经济运行调度，扎实做好安全生产、社会稳定、民生保障等工作，以高水平安全保障高质量发展。\n会议强调，要深入学习贯彻习近平总书记关于城市工作的重要论述，全面落实中央、省委城市工作会议部署，认真践行人民城市理念，高质量推进城市更新，科学优化城市空间布局，稳步推进老旧小区、城中村和危旧房改造，推动“好房子”、完整社区建设，加快补齐交通、管网等基础设施短板，突出精细化管理和数字化转型，持续增强城市安全韧性，让城市既有秩序、又显活力。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "party",
+  "keywords": [
+    "防灾减灾",
+    "城市更新",
+    "传达学习"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-FS",
+      "name_zh": "抚顺",
+      "name_en": "Fushun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传达学习",
+      "name_en": "Conveyance and Study"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "抚顺",
+    "防灾减灾",
+    "城市更新",
+    "传达学习",
+    "习近平"
+  ],
+  "tags_en": [
+    "Fushun",
+    "Disaster Prevention and Reduction",
+    "Urban Renewal",
+    "Conveyance and Study"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "高键"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-FS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-gov_chen_yang-8a184a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "20260815-gov_huai_an-1a3978",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1786957060096GhJPjht5.html",
+  "title_zh": "市领导调研推进港口一体化运营",
+  "title_en": "Mayor Gu Kun Surveys Promotion of Integrated Port Operation",
+  "summary_zh": "8月12日，淮安市市长顾坤调研推进港口一体化运营，强调加快构建专业市场机制，提升港口一体化运营水平，服务支撑高质量发展。",
+  "summary_en": "On August 12, Mayor Gu Kun of Huai'an surveyed the promotion of integrated port operation, stressing faster construction of professional market mechanisms and higher port operation standards to support high-quality development.",
+  "body_zh": "8月12日，市长顾坤调研推进港口一体化运营，强调要深入学习贯彻习近平总书记关于内河航运发展的重要指示精神，认真落实省委省政府“一中心一基地一枢纽”建设部署和市委工作要求，围绕实现资源利用、经营效益、服务便利、赋能产业“四个最大化”，着力增强改革的力度准度效度，加快构建专业市场机制，进一步提升港口一体化运营水平，持续放大水运优势、提高枢纽能级、降低物流成本，更好服务支撑高质量发展。",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "industry",
+  "keywords": [
+    "港口一体化",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港口一体化",
+      "name_en": "Port Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "港口一体化",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Port Integration",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260815-gov_huai_an-1a3978",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

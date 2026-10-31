@@ -1,0 +1,97 @@
+{
+  "id": "20260819-chinanews_gn-9e5047",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-19/10680131.shtml",
+  "title_zh": "国台办回应台湾同胞反对“台独”勾连日本",
+  "title_en": "Taiwan Affairs Office Responds to Taiwanese Compatriots' Opposition to 'Taiwan Independence' Collusion with Japan",
+  "summary_zh": "国台办发言人朱凤莲表示，赞赏台湾统派团体纪念抗战胜利和台湾光复、反对“台独”勾连日本的正义行动，谴责民进党当局背叛民族历史。",
+  "summary_en": "Spokesperson Zhu Fenglian praised Taiwanese groups for commemorating the victory in the War of Resistance and opposing Taiwan independence collusion with Japan, while condemning the DPP authorities.",
+  "body_zh": "国台办回应台湾同胞反对“台独”勾连日本\n国台办发言人朱凤莲表示，台湾统派团体通过举办研讨会和论坛、开展集会等多种方式纪念抗战胜利和台湾光复，反对民进党当局淡化抗战历史、美化日本殖民统治，抗议日本再次介入台湾问题，呼吁台湾民众反对和制止“台独”势力勾连日本阻挠祖国统一、破坏台海和平。我们对于这些正义行动表示高度赞赏，并严厉谴责民进党当局背叛民族、背叛历史的丑恶行径。(中新网“燕新台”工作室)\n国内新闻精选：\n- 2026年08月18日 16:38:32\n- 2026年08月18日 14:11:32\n- 2026年08月18日 11:21:45\n- 2026年08月18日 11:15:17\n- 2026年08月18日 11:07:44\n- 2026年08月17日 16:38:14\n- 2026年08月17日 15:15:29\n- 2026年08月17日 14:36:57\n- 2026年08月17日 14:35:15\n- 2026年08月17日 14:26:28",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "两岸关系",
+    "反对台独"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国台办",
+      "name_en": "Taiwan Affairs Office"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸关系",
+      "name_en": "Cross-Strait Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反对台独",
+      "name_en": "Opposing Taiwan Independence"
+    }
+  ],
+  "tags_zh": [
+    "国台办",
+    "两岸关系",
+    "反对台独"
+  ],
+  "tags_en": [
+    "Taiwan Affairs Office",
+    "Cross-Strait Relations",
+    "Opposing Taiwan Independence"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "朱凤莲"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国台办",
+        "name_en": "Taiwan Affairs Office"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260819-chinanews_gn-9e5047",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680171.shtml",
+      "title_zh": "国台办回应赖清德诬称“大陆介选”",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680157.shtml",
+      "title_zh": "岛内质疑“汉光演习”断网影响正常生活 国台办回应",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

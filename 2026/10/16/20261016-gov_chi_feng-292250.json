@@ -1,0 +1,105 @@
+{
+  "id": "20261016-gov_chi_feng-292250",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202610/t20261016_2831126.html",
+  "title_zh": "赤峰军分区党委第一书记任职大会召开",
+  "title_en": "Meeting Held to Announce Appointment of First Secretary of Chifeng Military Sub-district Party Committee",
+  "summary_zh": "10月15日，赤峰军分区党委第一书记任职大会召开，内蒙古军区党委任命亢永强为赤峰军分区党委第一书记。",
+  "summary_en": "On Oct 15, a meeting announced the appointment of Kang Yongqiang as First Secretary of the Party Committee of the Chifeng Military Sub-district, a decision made by the Inner Mongolia Military Command's Party committee.",
+  "body_zh": "10月15日，赤峰军分区党委第一书记任职大会召开。\n内蒙古军区党委常委、副政委王社利宣读内蒙古军区党委关于亢永强同志任赤峰军分区党委第一书记的任职通知。强调要站上政治高位扛起管武之责，强化政治引领，扛牢政治责任，切实把党中央的指示要求落到实处。要紧盯百年攻坚夯实强武之基，建强新域新质力量体系，构建高效动员机制，提升练兵备战质效，切实提升援战保战效能。要坚持同心同向汇聚兴武之力，推进军民融合发展，深化国防教育宣传，巩固双拥共建成果，在各类急难险重任务中当先锋、打头阵。\n亢永强表示，完全拥护、坚决服从内蒙古军区党委决定，倍感责任重大、深感使命光荣。将把准政治方向，深入学习贯彻习近平新时代中国特色社会主义思想，深入践行习近平强军思想，切实把党管武装“第一责任”扛在肩上、放在心中、落到实处。突出实战标准，全力抓实练兵备战任务，确保关键时刻队伍拉得出、用得上、起作用。加强服务保障，持续提升拥军优属质效，推动解决双拥建设中的难点和问题，真正实现军地资源统合、力量整合、发展融合。\n赤峰军分区政委廖祥权，市领导张国华、王永军出席。\n会议以视频形式召开至各旗县区。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "personnel",
+  "keywords": [
+    "党管武装",
+    "国防动员",
+    "军民融合",
+    "双拥共建"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党管武装",
+      "name_en": "Party Leadership over Armed Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防动员",
+      "name_en": "National Defense Mobilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军民融合",
+      "name_en": "Military-Civilian Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥共建",
+      "name_en": "Double Support (Military-Civilian) Development"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-guohua",
+      "name_zh": "张国华",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赤峰",
+    "党管武装",
+    "国防动员",
+    "军民融合",
+    "双拥共建",
+    "张国华"
+  ],
+  "tags_en": [
+    "Chifeng",
+    "Party Leadership over Armed Forces",
+    "National Defense Mobilization",
+    "Military-Civilian Integration",
+    "Double Support (Military-Civilian) Development"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-guohua",
+      {
+        "id": null,
+        "name_zh": "王永军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_chi_feng-292250",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "20261022-gov_yan_cheng-083fa5",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/10/22/art_60096_11845206.html",
+  "title_zh": "信长星刘小涛会见朝鲜江原道代表团",
+  "title_en": "Xin Changxing and Liu Xiaotao Meet DPRK Kangwon Province Delegation",
+  "summary_zh": "10月20日，江苏省委书记信长星、省长刘小涛在南京会见朝鲜江原道人民委员会委员长黄万福率领的江原道代表团，推动两省道友好交流合作。",
+  "summary_en": "On Oct 20, Jiangsu Party Secretary Xin Changxing and Governor Liu Xiaotao met in Nanjing with a DPRK Kangwon Province delegation led by Hwang Man-bok, chairman of the provincial people's committee, to advance friendly exchanges and cooperation.",
+  "body_zh": "当前位置：\n信长星刘小涛会见朝鲜江原道代表团\n10月20日，省委书记信长星、省长刘小涛在南京会见由朝鲜江原道人民委员会委员长黄万福率领的江原道代表团。\n信长星、刘小涛对代表团一行来访表示欢迎。信长星说，中朝两国是守望相助、命运与共的社会主义友好邻邦，中朝传统友谊由两党两国老一辈领导人共同缔造和精心培育，是两国人民共同的宝贵财富。近年来，在习近平总书记和金正恩总书记的战略引领下，中朝传统友好合作关系不断向前发展。江苏与江原道是友好省道，此次代表团来访，将推动两省道友好关系进一步发展。我们将落实好两党两国最高领导人重要共识，加强与江原道的交流合作，为推动中朝传统友好合作关系不断发展作出新贡献。\n黄万福表示，在两党两国最高领导人战略引领下，朝中友谊正升华到新的更高阶段。江苏发展取得的成就令人钦佩，希望深化与江苏的交流合作，更好造福两地人民，为谱写朝中关系新篇章贡献更大力量。\n省领导陈忠伟参加会见。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝友好",
+    "地方交流合作",
+    "友好省道"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄万福",
+      "name_en": "Hwang Man-bok"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝友好",
+      "name_en": "China-DPRK Friendship"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方交流合作",
+      "name_en": "Local Exchanges and Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好省道",
+      "name_en": "Sister Province Relations"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "万福",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "刘小涛",
+    "黄万福",
+    "江苏",
+    "南京",
+    "中朝友好",
+    "地方交流合作",
+    "友好省道",
+    "陈忠伟",
+    "万福"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Liu Xiaotao",
+    "Hwang Man-bok",
+    "Jiangsu",
+    "Nanjing",
+    "China-DPRK Friendship",
+    "Local Exchanges and Cooperation",
+    "Sister Province Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "chen-zhongwei-jiangsu",
+      "xin-changxing",
+      {
+        "id": null,
+        "name_zh": "万福"
+      },
+      {
+        "id": null,
+        "name_zh": "黄万福"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261022-gov_yan_cheng-083fa5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

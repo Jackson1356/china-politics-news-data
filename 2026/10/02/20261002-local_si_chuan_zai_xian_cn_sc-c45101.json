@@ -1,0 +1,83 @@
+{
+  "id": "20261002-local_si_chuan_zai_xian_cn_sc-c45101",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202610/83334736.html",
+  "title_zh": "习近平：实现中华民族伟大复兴势不可挡",
+  "title_en": "Xi Jinping: The Great Rejuvenation of the Chinese Nation Is Unstoppable",
+  "summary_zh": "9月30日，习近平在庆祝中华人民共和国成立77周年招待会上强调，只要坚定信心、锚定目标，成功就一定属于中国共产党、中国人民和中华人民共和国。",
+  "summary_en": "On Sept 30, Xi Jinping said at the reception marking the PRC's 77th anniversary that with firm confidence and clear goals, success will belong to the CPC and the Chinese people.",
+  "body_zh": "9月30日，习近平总书记在庆祝中华人民共和国成立77周年招待会上强调：“只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国！”一起重温总书记重要讲话，厚植爱国之情，为实现中华民族伟大复兴而不懈奋斗。",
+  "image_url": null,
+  "published_at": "2026-10-02T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "party",
+  "keywords": [
+    "中华民族伟大复兴",
+    "国庆招待会",
+    "爱国主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族伟大复兴",
+      "name_en": "Great Rejuvenation of the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆招待会",
+      "name_en": "National Day Reception"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义",
+      "name_en": "Patriotism"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中华民族伟大复兴",
+    "国庆招待会",
+    "爱国主义"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Great Rejuvenation of the Chinese Nation",
+    "National Day Reception",
+    "Patriotism"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260930-xinhua_leaders-acb6c6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

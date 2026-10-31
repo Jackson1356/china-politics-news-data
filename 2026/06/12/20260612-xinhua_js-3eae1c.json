@@ -1,0 +1,88 @@
+{
+  "id": "20260612-xinhua_js-3eae1c",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260612/de4cbb673b49486dbf173d0aa2b41711/c.html",
+  "title_zh": "科大讯飞发布星火多模态大模型X2-VL",
+  "title_en": "iFLYTEK Releases Spark Multimodal Large Model X2-VL",
+  "summary_zh": "2026年6月11日，科大讯飞在无锡发布由其与无锡市政府共建的太湖星跃平台研发的星火多模态大模型X2-VL。",
+  "summary_en": "On June 11, 2026, iFLYTEK released the Spark Multimodal Large Model X2-VL in Wuxi, developed via the Taihu Xingyue Platform co-built with the Wuxi Municipal Government.",
+  "body_zh": "新华网南京6月12日电（记者朱国亮）在11日举行的2026长三角机器人及自动化展览会开幕式暨无锡具身智能机器人产业链伙伴大会上，科大讯飞发布了新的算力大模型——星火多模态大模型X2-VL。\n2025年，科大讯飞与江苏省无锡市政府联合建设了太湖星跃平台。星火多模态大模型X2-VL由这一平台研发。科大讯飞总裁吴晓如介绍，这一大模型基于星火MoE架构，采用原生多模态范式训练，具备轻量化视觉编码器、快慢思考统一模型等特点，在视觉推理、图文理解、文档分析、图表理解等任务中表现突出，进一步提升了模型对图像、文字、表格、场景等多模态信息的综合理解和推理能力。\n无锡拥有雄厚的先进制造、物联网和机器人产业基础，拥有丰富的应用场景。吴晓如说，自双方建立战略合作关系以来，科大讯飞与无锡围绕多模态大模型研发、人工智能产业生态建设、“人工智能+”场景应用等方向持续推进合作。从战略签约、平台启用，到无锡产业加速中心、太湖星跃平台、无锡多模态子公司及合资公司落地，再到此次大模型发布，双方合作正从顶层布局迈向实体运营和成果产出。\n另据了解，在无锡，科大讯飞的算力大模型已在教育、司法等场景形成了一批可感知、可量化的落地成果。例如，AI黑板部署近1200台，覆盖75所中小学，日均应用活跃率达87%；星火智能批阅机部署128台，覆盖80所中小学；科大讯飞智慧法庭已覆盖全市两级法院，助力庭审时长缩短30%～50%，人力资源效率提升60%。\n吴晓如表示，未来，科大讯飞将继续依托无锡多模态子公司及合资公司、无锡产业加速中心、太湖星跃平台等载体，持续服务无锡开发者，吸引更多AI生态企业集聚，推动人工智能技术与无锡教育、司法、物流、制造、公共安全等场景深度融合，助力无锡打造“人工智能+”标杆城市。（完）",
+  "image_url": null,
+  "published_at": "2026-06-12T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "算力大模型",
+    "政企合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力大模型",
+      "name_en": "Computing Power Large Model"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政企合作",
+      "name_en": "Government-Enterprise Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "吴晓如",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "无锡",
+    "人工智能",
+    "算力大模型",
+    "政企合作"
+  ],
+  "tags_en": [
+    "Wuxi",
+    "Artificial Intelligence",
+    "Computing Power Large Model",
+    "Government-Enterprise Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吴晓如"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260612-xinhua_js-3eae1c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

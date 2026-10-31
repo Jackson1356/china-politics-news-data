@@ -1,0 +1,118 @@
+{
+  "id": "20261030-gov_cn_yaowen-7b7067",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/30/VIDEVMJYyiAdodeFMrXhy5J0261030.shtml",
+  "title_zh": "李强会见德国总统施泰因迈尔",
+  "title_en": "Li Qiang Meets German President Steinmeier",
+  "summary_zh": "10月30日，国务院总理李强在北京会见来华进行国事访问的德国总统施泰因迈尔，双方就深化中德合作交换意见。",
+  "summary_en": "On October 30, Premier Li Qiang met in Beijing with German President Frank-Walter Steinmeier, who is on a state visit, to discuss deepening China-Germany cooperation.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强30日在京会见来华进行国事访问的德国总统施泰因迈尔。\n李强表示，在双方共同努力下，中德合作蓬勃开展，为两国人民带来更多福祉。习近平主席同总统先生举行会晤，进一步规划中德关系发展。中方愿同德方加强战略沟通，巩固政治互信，坚定维护自由贸易，共享市场机遇，拓展汽车、化工、人工智能、绿色、人文等领域交流合作，迈向更高水平互利共赢。德国是欧盟重要成员，希望德方为中欧关系发展发挥建设性作用。\n施泰因迈尔表示，中国经济社会发展、技术进步日新月异、令人赞叹。德方愿本着尊重、信任、互利精神深化对华合作，支持两国企业相互学习借鉴，通过对话化解分歧。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "foreign",
+  "keywords": [
+    "中德关系",
+    "战略沟通",
+    "自由贸易",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中德关系",
+      "name_en": "China-Germany Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略沟通",
+      "name_en": "Strategic Communication"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自由贸易",
+      "name_en": "Free Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "中德关系",
+    "战略沟通",
+    "自由贸易",
+    "经贸合作",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "China-Germany Relations",
+    "Strategic Communication",
+    "Free Trade",
+    "Economic and Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "wu-zhenglong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261030-gov_cn_yaowen-7b7067",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084621.htm",
+      "title_zh": "李强会见德国总统施泰因迈尔",
+      "published_at": "2026-10-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

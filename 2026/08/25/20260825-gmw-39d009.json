@@ -1,0 +1,100 @@
+{
+  "id": "20260825-gmw-39d009",
+  "source": "gmw",
+  "source_name_zh": "光明网 时政",
+  "source_name_en": "Guangming Daily Politics",
+  "source_media_id": "guangming_daily",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.gmw.cn/2026-08/25/content_38961594.htm",
+  "title_zh": "多台风对我国造成持续强降雨影响",
+  "title_en": "Multiple Typhoons Bring Persistent Heavy Rain to China",
+  "summary_zh": "8月24日中国气象局通报，西北太平洋同时有4个台风活动，需防范持续性强降水和次生灾害。",
+  "summary_en": "On Aug 24, China Meteorological Administration warned of four simultaneous typhoons in the Western Pacific, requiring precautions against persistent heavy rain and secondary disasters.",
+  "body_zh": "朋友圈\n光明日报北京8月24日电 记者李春剑从中国气象局24日召开的通气会获悉，当前，今年第18号台风“沙德尔”、第19号台风“紫檀”和第20号台风“简拉维”同时活跃。24日上午，今年第21号台风“艾莎尼”已生成，西北太平洋洋面出现4个台风同时活动的情况。中央气象台首席预报员王海平表示，这是受厄尔尼诺与西南季风环流等共同作用，需防范给我国带来的持续性强降水以及次生灾害。\n今年以来，西北太平洋和南海海域有21个台风生成，较常年同期偏多9个。其中，5个台风登陆我国，登陆个数较常年同期略偏多。“4个台风同时活动的现象较为罕见，2024年11月曾在菲律宾附近洋面出现过。”王海平介绍，在厄尔尼诺背景下，西北太平洋海温较常年偏高。同时，西南季风较为活跃，在位于副热带高压南侧的热带复合带中，有多个台风涡旋生成或加强。目前，台风“紫檀”与“简拉维”位于同一个大季风槽中，存在互旋现象。另外，台风“艾莎尼”可能后期会并入“沙德尔”的环流系统中并与其产生互旋，提供更多水汽，成为影响“沙德尔”强度与路径的重要因素之一。\n《光明日报》（2026年08月25日 10版）\n阅读剩余全文（）",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "台风",
+    "强降雨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风",
+      "name_en": "Typhoon"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降雨",
+      "name_en": "Heavy Rain"
+    },
+    {
+      "kind": "person",
+      "id": "li-chun-sanming",
+      "name_zh": "李春",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中国气象局",
+    "北京",
+    "台风",
+    "强降雨",
+    "李春"
+  ],
+  "tags_en": [
+    "China Meteorological Administration",
+    "Beijing",
+    "Typhoon",
+    "Heavy Rain"
+  ],
+  "entities": {
+    "politicians": [
+      "li-chun-sanming",
+      {
+        "id": null,
+        "name_zh": "王海平"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260825-gmw-39d009",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

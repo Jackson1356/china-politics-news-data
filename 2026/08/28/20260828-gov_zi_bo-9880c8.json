@@ -1,0 +1,100 @@
+{
+  "id": "20260828-gov_zi_bo-9880c8",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/28/art_2117_3017814.html",
+  "title_zh": "淄博市委常委会召开会议",
+  "title_en": "Standing Committee of Zibo Municipal Party Committee Holds Meeting",
+  "summary_zh": "8月27日，淄博市委常委会召开会议，传达学习习近平总书记对西藏泥石流灾害的重要指示精神，研究经济运行工作，市委书记马晓磊主持并讲话。",
+  "summary_en": "On Aug 27, the Standing Committee of Zibo Municipal Party Committee met to convey Xi Jinping's instructions on the Tibet mudslide and discuss economic work. Ma Xiaolei chaired and spoke.",
+  "body_zh": "淄博市委常委会召开会议\n市委常委会召开会议\n传达学习习近平总书记重要指示精神\n8月27日上午，市委常委会召开会议，传达学习习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神，研究经济运行工作。市委书记马晓磊主持会议并讲话。\n会议指出，习近平总书记的重要指示，充分彰显了人民至上、生命至上的真挚情怀，为我们进一步做好防汛救灾工作指明了方向。当前，我市仍处于主汛期，各级各有关部门要深入学习贯彻习近平总书记重要指示精神，树牢底线思维、极限思维，坚决克服麻痹思想、懈怠心态，以“时时放心不下”的责任感，落细落实各项防汛措施，切实保障人民群众生命财产安全。要加强对雨情汛情和地质灾害风险变化的监测预警，紧盯重点区域、重点部位，全面开展拉网式风险隐患排查整治，细化完善应急预案，常态化开展应急演练，严格值班值守和信息报送，确保平稳度汛、安全度汛。\n会议指出，今年以来，我市经济延续平稳有序运行态势，但也面临一些困难和问题。各级各部门要切实增强做好经济工作的责任感紧迫感，全面准确把握当前经济形势，正视困难挑战、坚定信心决心，全力以赴抓运行、扩投资、促消费、稳外贸，巩固拓展经济回升向好势头，以实干实绩交出全年发展合格答卷。要更大力度稳定工业运行，“一业一策”稳住承压行业，千方百计助企纾困解难，推动工业经济稳健增长、向新向优；更大力度扩大有效投资，加快推进重点项目建设，提升招商引资质效，加大项目谋划储备力度，努力形成更多投资增量；更大力度释放消费潜能，进一步扩大商品消费、提升服务消费、优化消费环境，加力促进服务业发展，积极培育新增长点；更大力度巩固外贸增势，深入实施“淄品出海·博物全球”国际市场开拓计划，着力优化外贸结构，推动外贸提质增效；更大力度统筹发展和安全，严实抓好安全生产、金融风险防范、社会稳定等工作，坚决守牢安全发展底线。市级领导同志要加强对区县和重点行业企业的督导服务，帮助解决实际问题，督帮一体推动经济平稳健康发展。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "防汛救灾",
+    "经济运行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "淄博市委",
+      "name_en": "Zibo Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-ZB",
+      "name_zh": "淄博",
+      "name_en": "Zibo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "淄博市委",
+    "淄博",
+    "防汛救灾",
+    "经济运行",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zibo Municipal Party Committee",
+    "Zibo",
+    "Flood and Disaster Relief",
+    "Economic Operation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "马晓磊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-ZB"
+    ],
+    "companies": [
+      {
+        "name_zh": "淄博市委",
+        "name_en": "Zibo Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260828-gov_zi_bo-9880c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "20261017-gov_wu_hu-007e97",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41370541.html",
+  "title_zh": "市委常委会会议暨市委理论学习中心组学习会议召开",
+  "title_en": "Wuhu Municipal Party Committee Standing Committee Meeting and Theoretical Study Group Session Held",
+  "summary_zh": "10月16日，芜湖市委召开常委会会议暨理论学习中心组学习会议，市委书记徐志主持，重温习近平总书记考察安徽重要讲话精神，部署卫生健康等工作。",
+  "summary_en": "On Oct 16, the Wuhu Municipal Party Committee held a standing committee meeting and theoretical study session, chaired by Secretary Xu Zhi, to review Xi Jinping's remarks on Anhui and deploy health work.",
+  "body_zh": "市委常委会会议暨市委理论学习中心组学习会议召开\n本报讯（通讯员 吴正言 记者 陈旻 汪泰）10月16日，市委常委会会议暨市委理论学习中心组学习会议召开，重温习近平总书记考察安徽重要讲话精神，传达学习全国卫生与健康大会精神，研究部署我市贯彻落实工作。市委书记徐志主持并讲话。市委副书记、代市长陈东，市人大常委会主任张峰，市政协主席张东，市委副书记汪冬，市委理论学习中心组成员等出席。\n会议指出，党的十八大以来，习近平总书记三次亲临安徽考察并发表重要讲话，为安徽发展把脉定向、指路领航，饱含对安徽发展的深切关怀。全市各级各部门要把学习贯彻习近平总书记考察安徽重要讲话精神作为一项长期政治任务，深学细悟、常学常新，持续推动往深里走、往实里走。要加快高能级创新型城市建设，推动更多资源精力向科技创新集中，塑造更多依靠创新驱动的引领型发展。要坚定不移做大做强先进制造业，以新一代智能制造为主攻方向，深入实施“人工智能+制造”行动，构建以先进制造业为骨干的现代化产业体系。要加快建设全国性综合交通物流枢纽，统筹推进水港、空港、铁港联动，更好服务外向型经济发展。要加快推动经济社会发展全面绿色转型，深化长江生态保护修复，协同推进降碳、减污、扩绿、增长，厚植芜湖发展生态底色。要持之以恒推进全面从严治党，深入学习贯彻习近平党建思想，持续推进政绩观教育，坚定不移正风肃纪反腐，巩固发展良好政治生态。\n会议强调，各级各部门要认真学习贯彻习近平总书记在全国卫生与健康大会上的重要讲话精神，坚定实施健康优先发展战略，深入推进医疗卫生强基工程，深化医药卫生体制改革，扎实做好重大疾病防控，加强医务人员队伍建设，打造更高水平的健康芜湖。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "party",
+  "keywords": [
+    "理论学习",
+    "卫生与健康",
+    "先进制造业",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生与健康",
+      "name_en": "Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "理论学习",
+    "卫生与健康",
+    "先进制造业",
+    "全面从严治党",
+    "习近平"
+  ],
+  "tags_en": [
+    "Theoretical Study",
+    "Healthcare",
+    "Advanced Manufacturing",
+    "Full and Rigorous Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "徐志"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261017-gov_wu_hu-007e97",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "20260930-gov_huai_bei-2bc5af",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/tpxw/65174454.html",
+  "title_zh": "蒋曦主持召开十届市委常委会第一次会议",
+  "title_en": "Jiang Xi Chairs First Meeting of the 10th Municipal Party Committee Standing Committee",
+  "summary_zh": "9月30日上午，淮北市委书记蒋曦在双堆集镇主持召开十届市委常委会第一次会议，学习习近平总书记考察安徽重要讲话精神及党内法规，传达全省领导干部会议和省委常委会会议精神。",
+  "summary_en": "On the morning of Sept 30, Jiang Xi, Party Secretary of Huaibei City, chaired the first meeting of the 10th Municipal Party Committee Standing Committee in Shuangduiji Town, studying Xi Jinping's speech on Anhui and Party regulations, and conveying provincial meeting directives.",
+  "body_zh": "蒋曦主持召开十届市委常委会第一次会议\n9月30日上午，在烈士纪念日向烈士纪念碑敬献花篮仪式后，市委书记蒋曦在双堆集镇主持召开十届市委常委会第一次会议，集体重温学习习近平总书记考察安徽重要讲话精神、关于加强党委领导班子建设的重要论述，《中国共产党地方委员会工作条例》等党内法规；传达学习9月23日全省领导干部会议、9月29日省委常委会会议等精神，研究我市贯彻落实举措。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "party",
+  "keywords": [
+    "党委领导班子建设",
+    "学习贯彻讲话精神"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "蒋曦",
+      "name_en": "Jiang Xi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党委领导班子建设",
+      "name_en": "Party Committee Leadership Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻讲话精神",
+      "name_en": "Studying and Implementing Speech Spirit"
+    }
+  ],
+  "tags_zh": [
+    "蒋曦",
+    "安徽",
+    "党委领导班子建设",
+    "学习贯彻讲话精神"
+  ],
+  "tags_en": [
+    "Jiang Xi",
+    "Party Committee Leadership Building",
+    "Studying and Implementing Speech Spirit"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "蒋曦"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260930-gov_huai_bei-2bc5af",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_bei",
+      "source_tier": null,
+      "url": "https://www.huaibei.gov.cn/xwzx/zwyw/65174451.html",
+      "title_zh": "蒋曦主持召开十届市委常委会第一次会议",
+      "published_at": "2026-09-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20260830-xinhua_politics-f2954a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260830/135b72214bce43dc89fcded3dace9643/c.html",
+  "title_zh": "辽宁大连：两艘超大型矿砂船正式亮相",
+  "title_en": "Two Ultra-Large Ore Carriers Unveiled in Dalian, Liaoning",
+  "summary_zh": "8月30日，由恒力重工集团建造的两艘超大型矿砂船在大连正式亮相，专为铁矿石、铝土矿等远洋运输打造。",
+  "summary_en": "On August 30, two very large ore carriers built by Hengli Heavy Industry were officially unveiled in Dalian, designed for ocean transport of iron ore and bauxite.",
+  "body_zh": "8月30日，由恒力重工集团有限公司建造的两艘超大型矿砂船（VLOC）在辽宁省大连市正式亮相。两艘新船分别被命名为WINNING CREATION“韦立创世轮”和WINNING DEVOTION“韦立挚诚轮”，是恒力重工集团有限公司为客户打造的新一代船型，具有“绿色、环保、节能、安全”等特点。该系列船舶单艘总长329.9米，型宽60米，型深30.5米，堪称“海上矿仓”，专为铁矿石、铝土矿等远洋运输所打造。\n记者：潘昱龙\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "industry",
+  "keywords": [
+    "造船业",
+    "超大型矿砂船"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-DL",
+      "name_zh": "大连",
+      "name_en": "Dalian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "造船业",
+      "name_en": "Shipbuilding"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "超大型矿砂船",
+      "name_en": "VLOC"
+    }
+  ],
+  "tags_zh": [
+    "大连",
+    "造船业",
+    "超大型矿砂船"
+  ],
+  "tags_en": [
+    "Dalian",
+    "Shipbuilding",
+    "VLOC"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DL"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260830-xinhua_politics-f2954a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "20261026-gov_chen_yang-b919a1",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/szfxx/zydt/202610/t20261026_5108539.html",
+  "title_zh": "王新伟会见白俄罗斯驻华大使切尔维亚科夫",
+  "title_en": "Wang Xinwei Meets Belarusian Ambassador to China Chervyakov",
+  "summary_zh": "10月23日，辽宁省长王新伟在沈阳会见白俄罗斯驻华大使切尔维亚科夫，双方就深化经贸、产业和人文合作交换意见。",
+  "summary_en": "On Oct 23, Liaoning Governor Wang Xinwei met Belarusian Ambassador to China Chervyakov in Shenyang to discuss deeper trade, industrial and cultural cooperation.",
+  "body_zh": "10月23日，省委副书记、省长王新伟在沈阳会见白俄罗斯驻华大使切尔维亚科夫一行。\n王新伟对切尔维亚科夫一行表示欢迎，并简要介绍辽宁经济社会发展情况。他说，中白是相互信任支持的真朋友。在习近平主席和卢卡申科总统战略引领下，两国全天候全面战略伙伴关系持续稳健发展。在这一大背景下，辽宁与白俄罗斯多层次交流往来日益密切。当前，辽宁正深入贯彻落实习近平主席对辽宁的重要讲话和重要指示精神，因地制宜发展新质生产力，加快构建具有辽宁特色优势的现代化产业体系，扩大高水平对外开放，高质量发展取得新进展新成效。辽宁愿与白俄罗斯一道，全面落实好两国元首重要共识，密切地方友好往来，深化机械制造、设施农业、农产品加工、化工、医药健康等领域务实合作，加强教育互访、科研协同、体育交流，推动互利合作走深走实。辽宁将持续打造市场化法治化国际化一流营商环境，支持企业双向投资，拓展经贸联系，共享发展机遇。\n切尔维亚科夫表示，辽宁是白中合作的重要一环、高质量共建“一带一路”的重要节点，区位优势独特，产业基础坚实，白俄罗斯十分看好辽宁振兴发展潜力和前景。白俄罗斯驻华大使馆将积极牵线搭桥，推动白俄罗斯与辽宁省拓展经贸合作空间，加强产业合作和人文交流，携手促进共同发展。",
+  "image_url": null,
+  "published_at": "2026-10-26T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中白关系",
+    "地方合作",
+    "经贸合作",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xinwei-liaoning",
+      "name_zh": "王新伟",
+      "name_en": "Wang Xinwei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中白关系",
+      "name_en": "China-Belarus Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方合作",
+      "name_en": "Subnational Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王新伟",
+    "沈阳",
+    "辽宁",
+    "中白关系",
+    "地方合作",
+    "经贸合作",
+    "一带一路",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Xinwei",
+    "Shenyang",
+    "Liaoning",
+    "China-Belarus Relations",
+    "Subnational Cooperation",
+    "Trade and Economic Cooperation",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xinwei-liaoning",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY",
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261026-gov_chen_yang-b919a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

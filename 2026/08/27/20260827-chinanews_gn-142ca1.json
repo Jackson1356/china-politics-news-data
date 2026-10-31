@@ -1,0 +1,97 @@
+{
+  "id": "20260827-chinanews_gn-142ca1",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-27/10685443.shtml",
+  "title_zh": "中国发布首版全国几何基准影像",
+  "title_en": "China Releases First National Geometric Reference Imagery",
+  "summary_zh": "8月27日，自然资源部在北京举行例行发布会，发布中国首版覆盖全部陆地国土的几何基准影像，空间分辨率达0.5米，定位精度提升一倍以上。",
+  "summary_en": "On August 27, the Ministry of Natural Resources released China's first national geometric reference imagery covering all land territory at a press conference in Beijing, with 0.5m resolution and doubled positioning accuracy.",
+  "body_zh": "中国发布首版全国几何基准影像\n中新社北京8月27日电 (记者 庞无忌)中国自然资源部国土卫星遥感应用中心副主任于德全27日在北京发布中国首版全国几何基准影像。这是中国首版覆盖全部陆地国土的国家级几何基准影像。\n当日，自然资源部举行8月份例行新闻发布会。于德全在此间表示，上述影像成果有两个特点：一是空间分辨率高，利用国家和地方的高分辨率影像进行生产，全国空间分辨率整体达到0.5米；二是定位精度高，突破了山区、高原、稀少控制区及无人区精度控制的技术难题，实现全国遥感影像定位精度整体提升1倍以上，解决了中国西部地区长期以来正射影像几何精度不高的问题。\n几何基准影像主要用于卫星遥感数据生产，通过高精度配准，可以将原始卫星影像数据处理成为具有准确位置坐标的成果。于德全介绍，在这个过程中，几何基准影像主要作为底图模板用来校准坐标，从而形成位置精度统一影像数据成果，类似于雕版印刷中的模具，确保不同批次的生产成果实现严格的位置套合。\n据介绍，全国几何基准影像的意义在于：一是可以实现不同企业和单位生产的遥感影像数据成果准确配准套合，形成全国统一精度的卫星遥感影像底图产品，确保基于卫星遥感影像采集的信息空间位置一致。二是提升数据生产效率，更好地实现自动化匹配，大幅降低企业和单位生产高分辨遥感影像数据的成本。\n于德全表示，后续还将推动全国几何基准影像成果的应用和动态更新。(完)\n国内新闻精选：\n- 2026年08月27日 17:03:14\n- 2026年08月27日 16:50:27\n- 2026年08月27日 15:36:56\n- 2026年08月27日 15:00:02\n- 2026年08月27日 10:23:47\n- 2026年08月27日 10:06:52\n- 2026年08月27日 09:27:53\n- 2026年08月27日 07:25:48\n- 2026年08月27日 05:56:00\n- 2026年08月26日 12:35:28",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "industry",
+  "keywords": [
+    "几何基准影像",
+    "卫星遥感"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "于德全",
+      "name_en": "Yu Dequan"
+    },
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "几何基准影像",
+      "name_en": "Geometric Reference Imagery"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星遥感",
+      "name_en": "Satellite Remote Sensing"
+    }
+  ],
+  "tags_zh": [
+    "于德全",
+    "自然资源部",
+    "北京",
+    "几何基准影像",
+    "卫星遥感"
+  ],
+  "tags_en": [
+    "Yu Dequan",
+    "Ministry of Natural Resources",
+    "Beijing",
+    "Geometric Reference Imagery",
+    "Satellite Remote Sensing"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "于德全"
+      }
+    ],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260827-chinanews_gn-142ca1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20261018-xinhua_yn-bbfad6",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://yn.news.cn/20261018/b916d5e0341245f9a963ef4afeb563de/c.html",
+  "title_zh": "云南多个公路口岸实施中外边民快捷通关试点",
+  "title_en": "Yunnan Launches Fast-Track Clearance Pilot for Chinese and Foreign Border Residents at Multiple Highway Ports",
+  "summary_zh": "2026年10月18日起，云南河口、磨憨、天保、金水河等公路口岸正式实施中外边民快捷通关试点，边民经备案“扫码”通关，平均通关时间从1分钟缩短至10秒。",
+  "summary_en": "Starting October 18, 2026, Yunnan's Hekou, Mohan, Tianbao and Jinshuihe highway ports began a fast-track clearance pilot for Chinese and foreign border residents, cutting average clearance time from one minute to 10 seconds via registered QR-code scanning.",
+  "body_zh": "新华网昆明10月18日电（记者庄北宁、王研）记者18日从云南出入境边防检查总站获悉，2026年10月18日起，云南河口、磨憨、天保、金水河等公路口岸正式实施中外边民快捷通关试点。\n云南与越南、老挝等毗邻国家山水相连，双边往来交流密切、边境贸易频繁，中外边民出入境人数占云南边境口岸出入境总数的75%以上。近年来，云南出入境边防检查总站积极推动周边国家人员往来，不断强化科技赋能口岸通关，加快推进“智慧边检”建设。此次试点专门升级改造了32条快捷通道，建设备案系统和“扫码”通关设施。这既是贯彻落实移民管理领域制度型开放的重大举措，也是推动云南高水平开放的创新实践。\n试点实施后中外边民经备案，可经指定口岸“扫码”快捷通关，平均通关时间由原来人工查验的1分钟，缩短至10秒，将有效提升口岸通关便利性和边民快速通关体验，进一步促进双边跨境民生往来，带动边民互市贸易。（完）\n【纠错】",
+  "image_url": null,
+  "published_at": "2026-10-18T12:00:00+00:00",
+  "event_date": "2026-10-18",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "快捷通关",
+    "边境贸易",
+    "制度型开放",
+    "智慧边检"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "快捷通关",
+      "name_en": "Fast-Track Clearance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "边境贸易",
+      "name_en": "Border Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制度型开放",
+      "name_en": "Institutional Opening-Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧边检",
+      "name_en": "Smart Border Inspection"
+    }
+  ],
+  "tags_zh": [
+    "云南",
+    "快捷通关",
+    "边境贸易",
+    "制度型开放",
+    "智慧边检"
+  ],
+  "tags_en": [
+    "Yunnan",
+    "Fast-Track Clearance",
+    "Border Trade",
+    "Institutional Opening-Up",
+    "Smart Border Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261018-xinhua_yn-bbfad6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/1019/c378439-41725617.html",
+      "title_zh": "云南多个公路口岸实施中外边民快捷通关试点",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

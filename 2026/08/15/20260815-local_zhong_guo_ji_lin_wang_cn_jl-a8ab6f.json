@@ -1,0 +1,96 @@
+{
+  "id": "20260815-local_zhong_guo_ji_lin_wang_cn_jl-a8ab6f",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gj/202608/4072470.html",
+  "title_zh": "外交部驳美涉黄岩岛言论：敦促美方停止在南海渲染紧张、挑动对抗",
+  "title_en": "Foreign Ministry Refutes US Remarks on Scarborough Shoal, Urges US to Stop Stoking Tension in South China Sea",
+  "summary_zh": "8月15日，外交部发言人郭嘉昆驳斥美国务院有关黄岩岛言论，强调黄岩岛是中国固有领土，中方设自然保护区属主权范围，敦促美方停止渲染紧张和挑动对抗。",
+  "summary_en": "On Aug 15, MFA spokesperson Guo Jiakun refuted US State Department remarks on Scarborough Shoal, stressing it is China's inherent territory and urging the US to stop stoking tensions and confrontation in the South China Sea.",
+  "body_zh": "有记者就美国务院发言人涉黄岩岛言论提问。外交部发言人郭嘉昆表示，黄岩岛是中国固有领土。建立并管理黄岩岛国家级自然保护区是中方主权范围内的事，美方无权说三道四，更无权依据非法无效的“南海仲裁案裁决”为菲律宾说项。中方敦促美方停止在南海渲染紧张、挑动对抗，停止再拿非法无效的“裁决”说事，停止借涉海问题污蔑抹黑中国。\n初审：  罗丹\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "foreign",
+  "keywords": [
+    "南海问题",
+    "黄岩岛",
+    "主权"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南海问题",
+      "name_en": "South China Sea issue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄岩岛",
+      "name_en": "Scarborough Shoal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "主权",
+      "name_en": "sovereignty"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "南海问题",
+    "黄岩岛",
+    "主权"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "South China Sea issue",
+    "Scarborough Shoal",
+    "sovereignty"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260815-local_zhong_guo_ji_lin_wang_cn_jl-a8ab6f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://world.gmw.cn/2026-08/15/content_38945245.htm",
+      "title_zh": "外交部驳美涉黄岩岛言论：敦促美方停止在南海渲染紧张、挑动对抗",
+      "published_at": "2026-08-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

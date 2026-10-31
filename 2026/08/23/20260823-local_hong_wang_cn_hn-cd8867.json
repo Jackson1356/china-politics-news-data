@@ -1,0 +1,83 @@
+{
+  "id": "20260823-local_hong_wang_cn_hn-cd8867",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646042/67/16198955.html",
+  "title_zh": "发挥好支部的战斗堡垒作用",
+  "title_en": "Give Full Play to the Combat Fortress Role of Party Branches",
+  "summary_zh": "2006年8月，时任浙江省委书记习近平在超强台风“桑美”袭击浙江苍南时，深入重灾区察看灾情，强调要发挥好支部的战斗堡垒作用。",
+  "summary_en": "In August 2006, Xi Jinping, then Party Secretary of Zhejiang, visited the disaster area hit by Typhoon Saomai in Cangnan, Zhejiang, and stressed the role of Party branches as battle fortresses.",
+  "body_zh": "党员队伍建设是党的建设的基础性工程。2006年8月，超强台风“桑美”袭击浙江省苍南县。时任浙江省委书记习近平踩着碎砖瓦砾，直奔重灾点，详细了解灾情，慰问遇难者家属。看到一支支党员突击队奋战在前时，习近平同志频频点头，语重心长地说：“必须做到一个党员一面旗，发挥好支部的战斗堡垒作用。”\n党的十八大以来，以习近平同志为核心的党中央高度重视党员队伍建设，持续加强党员教育管理，激励引导广大党员勇担当善作为。在新时代伟大实践中，党员先锋模范作用充分彰显，鲜红的党旗始终在重大斗争主阵地和基层一线高高飘扬。",
+  "image_url": null,
+  "published_at": "2026-08-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "党员先锋模范作用"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党员先锋模范作用",
+      "name_en": "Pioneer and Exemplary Role of Party Members"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "浙江",
+    "党的建设",
+    "党员先锋模范作用"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Party Building",
+    "Pioneer and Exemplary Role of Party Members"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260823-chinanews_gn-6c9729",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

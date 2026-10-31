@@ -1,0 +1,124 @@
+{
+  "id": "20261017-xinhua_leaders-13e31e",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261017/2c5c39bb4fb94a428746d852c2d09dcd/c.html",
+  "title_zh": "习近平考察内蒙古黄旗海自然保护区",
+  "title_en": "Xi Jinping Inspects Huangqihai Nature Reserve in Inner Mongolia",
+  "summary_zh": "10月16日，习近平总书记在内蒙古乌兰察布市黄旗海自然保护区考察调研，听取生态环境保护与综合治理、生态系统修复情况汇报，并实地察看水岸滩涂生态和栖息鸟类。",
+  "summary_en": "On Oct 16, Xi Jinping visited the Huangqihai Nature Reserve in Ulanqab, Inner Mongolia, reviewing reports on ecological protection, environmental governance and ecosystem restoration, and inspecting the shoreline and habitats for birds.",
+  "body_zh": "10月16日，习近平总书记来到内蒙古自治区乌兰察布市黄旗海自然保护区考察调研，听取内蒙古自治区加强生态环境保护和当地推进黄旗海环境综合治理、生态系统修复等情况汇报，并实地察看水岸滩涂生态、栖息鸟类等。\n编导：刘佩、陈梦、郭琳\n记者：殷家捷、阮帅、达日罕、张晟、彭源\n新华社音视频部制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "party",
+  "keywords": [
+    "生态环境保护",
+    "生态系统修复",
+    "自然保护区"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-WLCB",
+      "name_zh": "乌兰察布",
+      "name_en": "Ulanqab"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态系统修复",
+      "name_en": "Ecosystem Restoration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然保护区",
+      "name_en": "Nature Reserve"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "内蒙古",
+    "乌兰察布",
+    "生态环境保护",
+    "生态系统修复",
+    "自然保护区"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Inner Mongolia",
+    "Ulanqab",
+    "Ecological Protection",
+    "Ecosystem Restoration",
+    "Nature Reserve"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM",
+      "CN-NM-WLCB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261016-gov_xi_an-e7e2f1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261017/57fea4a0afc046eaae09098bc025b0a8/c.html",
+      "title_zh": "和总书记面对面｜让绿色算力成为新动能",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-10/17/content_39051253.htm",
+      "title_zh": "和总书记面对面｜让绿色算力成为新动能",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-10/17/content_39051250.htm",
+      "title_zh": "和总书记面对面｜沙退湖清 好日子跟着好生态一起来了",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

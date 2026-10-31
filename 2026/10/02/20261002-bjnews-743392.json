@@ -1,0 +1,109 @@
+{
+  "id": "20261002-bjnews-743392",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1790904317129854.html",
+  "title_zh": "中国驻美国大使谢锋：年底前中美两国元首还有望在深圳、迈阿密两度聚首",
+  "title_en": "Chinese Ambassador to the US Xie Feng: Leaders of China and the US May Meet Twice More This Year in Shenzhen and Miami",
+  "summary_zh": "2026年9月30日，中国驻美国大使馆举行庆祝中华人民共和国成立77周年招待会，谢锋大使致辞称年底前中美两国元首有望在深圳、迈阿密两度聚首。",
+  "summary_en": "On September 30, 2026, the Chinese Embassy in the US held a reception marking the 77th anniversary of the founding of the People's Republic of China, where Ambassador Xie Feng said the two countries' leaders may meet twice more this year in Shenzhen and Miami.",
+  "body_zh": "新京报讯 据中国驻美国大使馆消息，2026年9月30日，中国驻美国大使馆隆重举行庆祝中华人民共和国成立77周年招待会。谢锋大使和夫人王丹，邱文星、唐志文、尹海虹公使，美联邦参议员戴安斯，美白宫、国务院、商务部等部门代表，各界友好人士，外国驻美使节等800多人出席。\n谢锋致辞表示，今年是中美关系“大年”。习近平主席时隔11年再次对美国事访问，实现两国元首半年内互访，创造了中美交往的历史，具有里程碑意义。这是一次领航定向之行，拓展合作之行，赓续友谊之行，彰显担当之行。两国元首引领中美关系稳中有进、不断改善，顺应两国和世界人民期盼。\n谢锋说，今年是中国“十五五”开局之年。中国在强国建设、民族复兴新征程上阔步前行，不断为世界提供稳定性和正能量。中国发展是世界机遇，中美携手是人类福音。年底前，两国元首还有望在深圳、迈阿密两度聚首，为中美关系注入强劲动力。让我们在两国元首引领下，携手构建基于尊重、公平、对等的建设性战略稳定关系，书写中美和世界更加美好的新篇章！",
+  "image_url": null,
+  "published_at": "2026-10-02T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交",
+    "战略稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "谢锋",
+      "name_en": "Xie Feng"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "迈阿密",
+      "name_en": "Miami"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    }
+  ],
+  "tags_zh": [
+    "谢锋",
+    "习近平",
+    "深圳",
+    "迈阿密",
+    "中美关系",
+    "元首外交",
+    "战略稳定"
+  ],
+  "tags_en": [
+    "Xie Feng",
+    "Xi Jinping",
+    "Shenzhen",
+    "Miami",
+    "China-US Relations",
+    "Head-of-State Diplomacy",
+    "Strategic Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261002-bjnews-743392",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

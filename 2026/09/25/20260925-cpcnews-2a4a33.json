@@ -1,0 +1,111 @@
+{
+  "id": "20260925-cpcnews-2a4a33",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0925/c64387-40805438.html",
+  "title_zh": "中国对外投资存量连续9年保持全球前三",
+  "title_en": "China's Outbound Investment Stock Ranks Among Global Top Three for Nine Straight Years",
+  "summary_zh": "9月24日，商务部、国家统计局、国家外汇管理局联合发布公报：2025年中国对外直接投资流量2135.8亿美元，同比增长11.1%，存量3.4万亿美元，连续9年保持全球前三。",
+  "summary_en": "China's commerce, statistics and forex authorities reported 2025 outbound direct investment flows of $213.58 billion, up 11.1%, with a $3.4 trillion stock, ranking top three globally for nine straight years.",
+  "body_zh": "本报北京9月24日电 （记者罗珊珊）商务部、国家统计局和国家外汇管理局近日联合发布的《2025年度中国对外直接投资统计公报》显示：2025年，中国对外直接投资流量2135.8亿美元，比上年增长11.1%，对外投资存量3.4万亿美元，连续9年保持全球前三，占全球投资的比重增加到7.4%。对外直接投资规模稳居全球前列，呈现多元化投资趋势。对外投资行业覆盖国民经济的18个行业门类，主要集中在租赁和商务服务、批发零售、制造和金融4个领域。\n互利共赢成效显著。截至2025年末，我国在境外设立企业5.8万家，遍布189个国家和地区，境外企业从业员工总数476.1万人，其中雇用外方员工296.5万人。\n《 人民日报 》（ 2026年09月25日 02 版）",
+  "image_url": null,
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "对外直接投资",
+    "互利共赢",
+    "境外企业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "institution",
+      "id": "SAFE",
+      "name_zh": "国家外汇管理局",
+      "name_en": "State Administration of Foreign Exchange"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外直接投资",
+      "name_en": "Outbound Direct Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利共赢",
+      "name_en": "Mutual Benefit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "境外企业",
+      "name_en": "Overseas Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "国家统计局",
+    "国家外汇管理局",
+    "北京",
+    "对外直接投资",
+    "互利共赢",
+    "境外企业"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "National Bureau of Statistics",
+    "State Administration of Foreign Exchange",
+    "Beijing",
+    "Outbound Direct Investment",
+    "Mutual Benefit",
+    "Overseas Enterprises"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM",
+      "NBS",
+      "SAFE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260925-cpcnews-2a4a33",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

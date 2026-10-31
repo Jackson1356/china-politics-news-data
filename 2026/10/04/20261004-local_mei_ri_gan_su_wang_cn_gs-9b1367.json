@@ -1,0 +1,98 @@
+{
+  "id": "20261004-local_mei_ri_gan_su_wang_cn_gs-9b1367",
+  "source": "local_mei_ri_gan_su_wang_cn_gs",
+  "source_name_zh": "每日甘肃网",
+  "source_name_en": "每日甘肃网",
+  "source_media_id": "cac-cn-gs-8acf9c1ffc",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-GS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://china.gansudaily.com.cn/system/2026/10/04/031441298.shtml",
+  "title_zh": "学习新语・家国同心｜怀爱国之心 立报国之志",
+  "title_en": "Patriotism in Heart, Devotion to the Nation: Xinhua Series on the Core of China's National Spirit",
+  "summary_zh": "新华社新媒体中心推出「学习新语・家国同心」栏目，梳理党的十八大以来习近平总书记阐述爱国主义丰富内涵的一系列重要讲话，供读者学习感悟。",
+  "summary_en": "Xinhua's new media center presents a study feature compiling Xi Jinping's speeches since the 18th Party Congress that expound the meaning of patriotism.",
+  "body_zh": "爱国主义是中华民族精神的核心，是中国人民和中华民族同心同德、自强不息的精神纽带。党的十八大以来，习近平总书记在不同场合发表一系列重要讲话，生动阐述爱国主义的丰富内涵。一起学习感悟。\n统筹：黄庆华 王浩程\n新华社新媒体中心制作\n新华社出品\n每日甘肃网对外版权工作统一由甘肃媒体版权保护中心（甘肃云数字媒体版权保护中心有限责任公司）受理，联系电话：0931-8159799。",
+  "image_url": null,
+  "published_at": "2026-10-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "party",
+  "keywords": [
+    "爱国主义",
+    "理论宣传"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "XINHUA",
+      "name_zh": "新华社",
+      "name_en": "Xinhua News Agency"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义",
+      "name_en": "Patriotism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣传",
+      "name_en": "Ideological Education"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "新华社",
+    "爱国主义",
+    "理论宣传",
+    "习近平"
+  ],
+  "tags_en": [
+    "Xinhua News Agency",
+    "Patriotism",
+    "Ideological Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "XINHUA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261004-local_mei_ri_gan_su_wang_cn_gs-9b1367",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://focus.scol.com.cn/gcdt/202610/83335184.html",
+      "title_zh": "学习新语·家国同心丨怀爱国之心 立报国之志",
+      "published_at": "2026-10-04T12:00:00+00:00"
+    },
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://news.jschina.com.cn/bdzj/202610/t20261004_s6ac231a9e4b02e2ec97f72a7.shtml",
+      "title_zh": "学习新语·家国同心｜怀爱国之心 立报国之志_中国江苏网",
+      "published_at": "2026-10-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20261021-xinhua_politics-e601b3",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261021/ba5f2f175b264d7b969d9df395adbfa5/c.html",
+  "title_zh": "国家能源局发文推动煤电与新能源融合发展",
+  "title_en": "National Energy Administration Issues Document to Promote Integrated Development of Coal Power and New Energy",
+  "summary_zh": "国家能源局近日印发《关于推动煤电与新能源融合发展的实施意见》，提出到“十五五”末融合场景模式成熟应用、碳排放显著降低，并明确五类典型场景模式和技术要求。",
+  "summary_en": "China's National Energy Administration issued an implementation guideline on integrating coal power with new energy, targeting mature application of integrated models and significantly lower carbon emissions by the end of the 15th Five-Year Plan period, with five typical scenarios and technical requirements.",
+  "body_zh": "新华社北京10月21日电（记者王悦阳）记者10月21日从国家能源局获悉，国家能源局近日印发《关于推动煤电与新能源融合发展的实施意见》提出，到“十五五”末，煤电与新能源融合场景模式成熟应用，融合项目相较改造建设前的年度碳排放水平显著降低。\n国家能源局有关负责同志表示，“十四五”以来，煤电节能降碳工作持续推进，取得了积极成效，为进一步加快新一代煤电转型升级，提高新能源利用水平，意见系统性提出煤电与新能源融合的场景模式和技术要求。\n意见聚焦煤电与新能源融合协同发展，提出了五类融合发展的典型场景模式，分别为新能源直接接入近区公用煤电机组实现协同送出消纳，新能源直接接入近区公用热电联产煤电机组实现清洁供热，海上风电直接接入沿海公用煤电机组实现协同送出消纳，近区新能源接入自备煤电机组实现打捆利用，厂内或近区新能源直连煤电厂用能系统实现煤电自身用能绿色替代。\n围绕降碳改造、接网方式、涉网性能、计量方式和技术创新等方面，意见对融合项目提出明确技术要求。其中，在煤电节能降碳改造方面，意见提出通过调节能力改造、增设储能储热系统、送出系统增容、建设厂区或近区新能源等方式，为新能源消纳利用腾挪空间；在新能源接网方式方面，意见提出融合项目应与公用电网形成清晰的物理界面与责任界面，公平承担相关费用。",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "industry",
+  "keywords": [
+    "煤电与新能源融合",
+    "节能降碳",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "煤电与新能源融合",
+      "name_en": "Coal Power and New Energy Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节能降碳",
+      "name_en": "Energy Saving and Carbon Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "煤电与新能源融合",
+    "节能降碳",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Coal Power and New Energy Integration",
+    "Energy Saving and Carbon Reduction",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "施意见"
+      }
+    ],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261021-xinhua_politics-e601b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

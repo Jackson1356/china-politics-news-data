@@ -1,0 +1,89 @@
+{
+  "id": "20260629-cpcnews-472812",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0629/c64387-40749316.html",
+  "title_zh": "中国海军第四十八批护航编队唐山舰访问塞舌尔",
+  "title_en": "Chinese Navy's 48th Escort Convoy Ship Tangshan Visits Seychelles",
+  "summary_zh": "2026年6月26日，中国海军第四十八批护航编队唐山舰抵达塞舌尔维多利亚港，进行为期5天的友好访问并参加塞独立50周年阅兵。",
+  "summary_en": "On June 26, 2026, the Tangshan ship of the Chinese Navy's 48th escort convoy arrived at Victoria Port, Seychelles, for a five-day friendly visit and to participate in the 50th anniversary parade of Seychelles' independence.",
+  "body_zh": "新华社维多利亚6月27日电 （杜江帆、谭振振）当地时间6月26日，中国海军第四十八批护航编队唐山舰抵达塞舌尔维多利亚港，对塞舌尔进行为期5天的友好访问。\n当地时间26日9时许，悬挂着中塞两国国旗的海军唐山舰缓缓驶入维多利亚港。塞舌尔军方代表、塞舌尔独立学校师生，中国驻塞舌尔大使馆工作人员、中资机构和华侨华人代表等100余人在码头迎接。\n访问期间，编队将开展专业交流、甲板招待会等活动，抽组分队参加塞独立50周年庆祝阅兵活动。\n《 人民日报 》（ 2026年06月29日 03 版）",
+  "image_url": null,
+  "published_at": "2026-06-29T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-29T09:16:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "军事外交",
+    "友好访问"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PLA-NAVY",
+      "name_zh": "中国海军",
+      "name_en": "Chinese Navy"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "塞舌尔",
+      "name_en": "Seychelles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军事外交",
+      "name_en": "Military Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好访问",
+      "name_en": "Friendly Visit"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐山舰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中国海军",
+    "塞舌尔",
+    "军事外交",
+    "友好访问"
+  ],
+  "tags_en": [
+    "Chinese Navy",
+    "Seychelles",
+    "Military Diplomacy",
+    "Friendly Visit"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "唐山舰"
+      }
+    ],
+    "institutions": [
+      "PLA-NAVY"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260629-cpcnews-472812",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

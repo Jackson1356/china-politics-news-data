@@ -1,0 +1,78 @@
+{
+  "id": "20260901-gov_wu_hu-d01309",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41298679.html",
+  "title_zh": "芜湖市人民代表大会常务委员会关于接受徐志辞职请求的决定",
+  "title_en": "Wuhu Municipal People's Congress Standing Committee Accepts Xu Zhi's Resignation",
+  "summary_zh": "因工作变动，徐志辞去芜湖市市长职务，芜湖市第十七届人大常委会第三十八次会议决定接受其辞职请求。",
+  "summary_en": "Due to work changes, Xu Zhi resigned as Mayor of Wuhu. The Standing Committee of the 17th Wuhu Municipal People's Congress accepted his resignation at its 38th meeting.",
+  "body_zh": "因工作变动，徐志提出辞去芜湖市人民政府市长职务。根据《中华人民共和国地方各级人民代表大会和地方各级人民政府组织法》第三十二条规定，芜湖市第十七届人民代表大会常务委员会第三十八次会议决定：接受徐志辞去芜湖市人民政府市长职务的请求，报市人民代表大会备案。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事变动"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐志",
+      "name_en": "Xu Zhi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事变动",
+      "name_en": "Personnel Change"
+    }
+  ],
+  "tags_zh": [
+    "徐志",
+    "芜湖",
+    "人事变动"
+  ],
+  "tags_en": [
+    "Xu Zhi",
+    "Wuhu",
+    "Personnel Change"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐志"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260901-gov_wu_hu-d01309",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

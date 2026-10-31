@@ -1,0 +1,128 @@
+{
+  "id": "20261020-gov_cn_yaowen-d5e99b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/20/VIDEiZy5tN7j4kDzreUDZ0yw261020.shtml",
+  "title_zh": "李强会见白俄罗斯总理图尔钦",
+  "title_en": "Li Qiang Meets with Belarusian Prime Minister Turchin",
+  "summary_zh": "当地时间10月19日下午，国务院总理李强在杜尚别出席上合组织总理理事会第二十五次会议期间会见白俄罗斯总理图尔钦，双方就深化合作交换意见。",
+  "summary_en": "On the afternoon of October 19 local time, Premier Li Qiang met with Belarusian Prime Minister Turchin in Dushanbe on the sidelines of the 25th SCO Heads of Government Council meeting, with the two sides exchanging views on deepening cooperation.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间10月19日下午，国务院总理李强在杜尚别出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议期间会见白俄罗斯总理图尔钦。\n李强表示，中国和白俄罗斯是相互信任支持的真朋友。在习近平主席和卢卡申科总统战略引领下，中白全天候全面战略伙伴关系持续稳健发展。中方愿同白方弘扬传统友谊，巩固战略互信，深化贸易投资、数字经济、人文等领域合作，增进两国人民福祉。双方要加强在地区和国际事务中沟通协调，捍卫两国共同利益。\n图尔钦表示，中国是白俄罗斯真正的朋友和伙伴。白方愿以明年两国建交35周年为契机，同中方深化互利合作，推动两国全天候全面战略伙伴关系不断向前发展。\n吴政隆参加上述会见。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "foreign",
+  "keywords": [
+    "全天候全面战略伙伴关系",
+    "经贸合作",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杜尚别",
+      "name_en": "Dushanbe"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全天候全面战略伙伴关系",
+      "name_en": "All-Weather Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杜尚别",
+    "全天候全面战略伙伴关系",
+    "经贸合作",
+    "数字经济",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Dushanbe",
+    "All-Weather Comprehensive Strategic Partnership",
+    "Trade and Economic Cooperation",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "杜尚别"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261020-gov_cn_yaowen-d5e99b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/ywdt/001005/20261020/80a0cfda-441e-40c9-9b9b-9c396f548a41.html",
+      "title_zh": "李强会见白俄罗斯总理图尔钦_抚顺市人民政府",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083726.htm",
+      "title_zh": "李强会见白俄罗斯总理图尔钦",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260803-gov_dan_dong-dab2c5",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202608/0178571858761520.html",
+  "title_zh": "刘希明走访慰问武警丹东支队",
+  "title_en": "Liu Ximing Visits and Consoles Armed Police Dandong Detachment",
+  "summary_zh": "近日，丹东市政协党组书记刘希明走访慰问武警丹东支队，致以节日问候，并强调深化军民融合与双拥工作。",
+  "summary_en": "Liu Ximing, Party secretary of the Dandong CPPCC, visited the Armed Police Dandong Detachment recently, extending holiday greetings and stressing deeper military-civilian integration.",
+  "body_zh": "近日，市政协党组书记刘希明走访慰问武警丹东支队，向他们致以节日的诚挚问候和美好祝福。\n走访慰问中，刘希明与武警官兵代表亲切交流、座谈谈心，详细询问官兵日常工作训练、后勤保障及实际需求，倾听官兵心声。刘希明指出，丹东是一座底蕴深厚的英雄城市、红色之城，拥军优属、拥政爱民更是代代传承的优良传统。长期以来，武警官兵们始终牢记初心使命、勇担职责重任，扎根边境一线、坚守岗位履职，积极参与地方建设，扎实开展执勤处突、抢险救援等各项工作，为全市经济社会高质量发展、社会大局和谐稳定筑牢了坚固屏障。希望军地双方持续深化军民融合，巩固拓展双拥工作成果，不断深化军民交流协作，常态化开展共建活动，拉近军民距离、深厚军民情谊。市政协将充分发挥自身职能优势，一如既往关心支持部队建设，积极协调解决部队在建设发展中遇到的实际问题，用心用情用力为广大官兵办实事、解难题，推动拥军优属工作走深走实。\n武警官兵对丹东社会各界长期以来的关心支持表示衷心感谢，表示将始终牢记党和人民重托，永葆军人本色、坚守初心使命，从严抓实战备训练、忠诚履行职责使命，主动担当社会责任，为丹东经济社会高质量发展、长治久安贡献更多强军力量。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "party",
+  "keywords": [
+    "双拥工作",
+    "军民融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘希明",
+      "name_en": "Liu Ximing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Double Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军民融合",
+      "name_en": "Military-Civilian Integration"
+    }
+  ],
+  "tags_zh": [
+    "刘希明",
+    "丹东",
+    "双拥工作",
+    "军民融合"
+  ],
+  "tags_en": [
+    "Liu Ximing",
+    "Dandong",
+    "Double Support Work",
+    "Military-Civilian Integration"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "刘希明"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260803-gov_dan_dong-dab2c5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

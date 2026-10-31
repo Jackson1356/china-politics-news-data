@@ -1,0 +1,96 @@
+{
+  "id": "20260625-xinhua_leaders-484790",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260625/84aa3a3df36f473bb5a60a72a68e74f8/c.html",
+  "title_zh": "习近平在山东省德州市考察调研",
+  "title_en": "Xi Jinping Conducts Inspection and Research in Dezhou, Shandong Province",
+  "summary_zh": "6月24日，习近平总书记在山东省德州市考察调研，重点关注乡村振兴、村党组织建设及便民服务情况。",
+  "summary_en": "On June 24, General Secretary Xi Jinping conducted an inspection and research trip in Dezhou, Shandong Province, focusing on rural revitalization, village party organization construction, and public services.",
+  "body_zh": "6月24日，习近平总书记在山东省德州市考察调研。总书记来到陵城区边临镇西于架村，走进村党群服务中心，细致询问村党组织建设和开展便民服务等情况，了解当地探索片区化推进乡村振兴的做法，并察看农副产品展示。\n记者：李姝莛、刘春晖、朱晓光、冯媛媛、李小波\n编导：杨云燕、王洪流\n新华社音视频部制作\n新华社第一工作室出品\n记者：李姝莛、刘春晖、朱晓光、冯媛媛、李小波\n编导：杨云燕、王洪流\n新华社音视频部制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "乡村振兴",
+    "基层党建"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德州",
+      "name_en": "Dezhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层党建",
+      "name_en": "Primary-level Party Building"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "山东",
+    "德州",
+    "乡村振兴",
+    "基层党建"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shandong",
+    "Dezhou",
+    "Rural Revitalization",
+    "Primary-level Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260625-xinhua_leaders-484790",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_sd",
+      "source_tier": 2,
+      "url": "https://www.news.cn/20260625/737a051f0434412bbef2c6e7e8328880/c.html",
+      "title_zh": "和总书记面对面｜在党的领导下日子越过越红火",
+      "published_at": "2026-06-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

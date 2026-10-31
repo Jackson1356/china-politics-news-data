@@ -1,0 +1,95 @@
+{
+  "id": "20260526-chinanews_gn-b2c54d",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/05-27/10629412.shtml",
+  "title_zh": "王毅会见巴拿马外长马丁内斯-阿查",
+  "title_en": "Wang Yi Meets with Panamanian Foreign Minister Martinez-Acha",
+  "summary_zh": "2026年5月26日，王毅在纽约会见巴拿马外长马丁内斯-阿查，双方就深化中巴务实合作及恪守一个中国原则达成共识。",
+  "summary_en": "On May 26, 2026, Wang Yi met with Panamanian Foreign Minister Martinez-Acha in New York to discuss deepening pragmatic cooperation and adherence to the One-China principle.",
+  "body_zh": "王毅会见巴拿马外长马丁内斯-阿查\n新华社纽约5月26日电 当地时间26日，中共中央政治局委员、外交部长王毅在纽约主持联合国安理会高级别会议期间会见巴拿马外长马丁内斯-阿查。\n王毅表示，中巴交往历史悠久。19世纪大量中国劳工赴巴修建铁路、开凿运河，为巴拿马经济社会发展作出奉献。中巴建交近9年来，双边关系发展总体顺利，两国贸易额较建交前翻了一番，为巴拿马人民带来实实在在好处。事实充分证明，中巴建交符合两国长远利益，是人心所向、大势所趋。坚持一个中国原则是中巴建交的政治基础。中方赞赏巴方领导人多次重申恪守一中原则，不给台湾以活动空间。中国企业在巴拿马深耕多年，为巴拿马促进经济、改善民生作出重要贡献，希望巴方切实维护中方企业的正当权益。中方一向认为中巴关系不针对第三方，也不应受第三方干扰。中方愿同巴方一道，秉持建交初心，深化务实合作，排除外部干扰，推动两国关系健康稳定发展。\n马丁内斯-阿查表示，中国是维护多边主义的重要力量，巴拿马也致力于有效的多边主义。巴方高度重视对华关系，深知台湾问题的重要性和敏感性，将毫不动摇奉行一个中国政策，不允许台湾在巴设立机构。巴拿马人民铭记中国人民早年为巴拿马铁路和运河工程所作贡献。巴方愿同中方面向未来，在相互尊重基础上通过建设性对话化解分歧，建立牢固信任，翻开巴中关系新的一页。\n国内新闻精选：\n- 2026年05月27日 13:41:32\n- 2026年05月27日 08:21:59\n- 2026年05月27日 07:47:46\n- 2026年05月26日 21:54:27\n- 2026年05月26日 21:45:26\n- 2026年05月26日 20:57:51\n- 2026年05月26日 20:48:39\n- 2026年05月26日 17:13:52\n- 2026年05月26日 17:04:45\n- 2026年05月26日 17:03:07",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中巴关系",
+    "一个中国原则",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "纽约",
+      "name_en": "New York"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Panama Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "纽约",
+    "中巴关系",
+    "一个中国原则",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "New York",
+    "China-Panama Relations",
+    "One-China Principle",
+    "Pragmatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260526-chinanews_gn-b2c54d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1779864189129112.html",
+      "title_zh": "王毅会见巴拿马外长马丁内斯-阿查",
+      "published_at": "2026-05-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

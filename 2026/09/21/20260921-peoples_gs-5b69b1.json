@@ -1,0 +1,104 @@
+{
+  "id": "20260921-peoples_gs-5b69b1",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gs.people.com.cn/n2/2026/0921/c183283-41702963.html",
+  "title_zh": "两当建成甘肃首个县域智慧配电网",
+  "title_en": "Liangdang Completes Gansu's First County-Level Smart Distribution Grid",
+  "summary_zh": "甘肃省首个县域全域智慧配电网在陇南市两当县建成投运，由国网陇南供电公司实施，山区供电实现秒级自愈。",
+  "summary_en": "Gansu's first county-wide smart distribution grid began operating in Liangdang County, Longnan, built by State Grid Longnan Power Supply Company, enabling second-level self-healing for mountain-area power supply.",
+  "body_zh": "两当建成甘肃首个县域智慧配电网\n陇南市两当县山大沟深、村落分散，过去电网故障只能靠人工翻山巡线排查，群众停电后往往要等候数小时。日前，随着甘肃省首个县域全域智慧配电网在两当县建成投运，山区供电实现从“被动抢修”到“主动自愈”的转变，彻底破解山区用电难题。\n该项目由国网陇南供电公司实施，聚焦山区配网痛点，实现四大核心升级：中压光纤通信全域覆盖，搭建专属电力光纤专网，不受公网中断影响，稳定传输电网运行数据，数秒锁定故障；配电自动化全域覆盖，10千伏线路、配电台区配齐智能感知设备，24小时在线监测，可提前预判设备隐患，把故障消除在萌芽状态，电网做到可观、可测、可控；终端设备智能化迭代，有效降低山区巡检运维的人力和时间成本；配网网架全面优化，打破壁垒实现线路互联互供，10千伏线路联络率100%，完成10千伏及以下配网整体改造，具备快速负荷转供能力。\n国网陇南供电公司配网技术中心主任王健力表示，该项目是甘肃县域配电网数字化、智能化的突破性实践，陇南配电网由此迈入“秒级自愈”新阶段，“少停电、快复电、早送电”成为现实，也为省内同类山区县域提供可复制推广的建设经验。（新甘肃·甘肃日报记者王占东）",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "industry",
+  "keywords": [
+    "智慧配电网",
+    "电网数字化",
+    "山区供电保障"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "两当县",
+      "name_en": "Liangdang County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧配电网",
+      "name_en": "Smart Distribution Grid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电网数字化",
+      "name_en": "Power Grid Digitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山区供电保障",
+      "name_en": "Mountain-Area Power Supply"
+    },
+    {
+      "kind": "person",
+      "id": "wang-jian-taizhou",
+      "name_zh": "王健",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "甘肃",
+    "两当县",
+    "智慧配电网",
+    "电网数字化",
+    "山区供电保障",
+    "王健"
+  ],
+  "tags_en": [
+    "Gansu",
+    "Liangdang County",
+    "Smart Distribution Grid",
+    "Power Grid Digitalization",
+    "Mountain-Area Power Supply"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jian-taizhou",
+      {
+        "id": null,
+        "name_zh": "王健力"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-peoples_gs-5b69b1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260918-bjnews-dbc494",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789738707129284.html",
+  "title_zh": "媒体称欧盟希望中国自愿限制混动汽车对欧出口 商务部：坚决反对",
+  "title_en": "MOFCOM Firmly Opposes Reported EU Push for Voluntary Limits on Chinese Hybrid Vehicle Exports",
+  "summary_zh": "商务部新闻发言人就媒体称欧盟希望中国自愿限制混动汽车对欧出口答记者问，表示坚决反对，称自愿出口限制严重违反世贸组织规则。",
+  "summary_en": "China's Ministry of Commerce rejected media reports that the EU wants China to voluntarily curb hybrid vehicle exports to Europe, saying such voluntary export restrictions seriously violate WTO rules.",
+  "body_zh": "新京报讯 据商务部消息，商务部新闻发言人就媒体称欧盟希中国自愿限制混动汽车对欧出口答记者问。\n答：中方注意到有关报道。所谓自愿出口限制严重违反世贸组织规则，违背市场经济规律和公平竞争原则。中方对此坚决反对。中方的立场是一贯的，中欧之间的任何解决方案必须确保利益平衡，必须符合世贸组织规则和各自国内法律，并充分照顾双方业界利益。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧经贸关系",
+    "汽车出口",
+    "世贸组织规则"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车出口",
+      "name_en": "Automobile Exports"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世贸组织规则",
+      "name_en": "WTO Rules"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中欧经贸关系",
+    "汽车出口",
+    "世贸组织规则"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "China-EU Trade Relations",
+    "Automobile Exports",
+    "WTO Rules"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260918-bjnews-dbc494",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "20260917-peoples_sx-cf5df8",
+  "source": "peoples_sx",
+  "source_name_zh": "人民网 山西",
+  "source_name_en": "People's Daily Shanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sx.people.com.cn/n2/2026/0917/c352664-41698679.html",
+  "title_zh": "《电子信息制造业发展“十五五”规划》发布",
+  "title_en": "China Releases 15th Five-Year Plan for Electronics and Information Manufacturing",
+  "summary_zh": "工业和信息化部、国家发展改革委联合印发《电子信息制造业发展“十五五”规划》，提出到2030年规模以上企业营业收入突破30万亿元。",
+  "summary_en": "China's Ministry of Industry and Information Technology and the National Development and Reform Commission jointly issued the 15th Five-Year Plan for the electronics and information manufacturing industry, targeting revenue of over 30 trillion yuan for large firms by 2030.",
+  "body_zh": "《电子信息制造业发展“十五五”规划》发布\n到2030年规上企业营收超30万亿元\n本报北京9月16日电 （记者王政）工业和信息化部、国家发展改革委日前联合印发《电子信息制造业发展“十五五”规划》，提出到2030年规模以上企业营业收入突破30万亿元。\n电子信息制造业规模大、链条长、创新活跃，市场化、国际化程度高，赋能引领作用显著，是国民经济的支柱产业、实现新型工业化的重要力量。2025年，我国规模以上电子信息制造业实现营业收入17.4万亿元，同比增长7.4%，连续13年在41个工业大类中位居第一。\n规划提出，到2030年电子信息制造业产业链安全水平显著提升，在集成电路、先进计算、消费电子、基础电子、能源电子等领域涌现一批长板技术和产品，形成具有竞争力的世界一流企业。产业创新效能明显提升，研发投入强度达到3.5%，重点领域关键核心技术快速突破，领跑、并跑领域明显增多，算力供给能力大幅增长，新一代智能终端应用普及率显著提升。产业生态更趋完善，硬件、软件、标准、专利协同取得新进展，区域布局和国际合作取得新成效。智能化、绿色化、融合化发展水平提高。\n规划主要围绕“筑基、提质、育新、治理”4个方面部署了17项重点任务，包括筑牢产业基础能力、增强电子整机与系统竞争力、培育产业发展新增长点、增强产业可持续发展能力。\n《 人民日报 》（ 2026年09月17日 02 版）",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "电子信息制造业",
+    "十五五规划",
+    "新型工业化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电子信息制造业",
+      "name_en": "Electronics and Information Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型工业化",
+      "name_en": "New Industrialization"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "国家发展改革委",
+    "北京",
+    "电子信息制造业",
+    "十五五规划",
+    "新型工业化"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "National Development and Reform Commission",
+    "Beijing",
+    "Electronics and Information Manufacturing",
+    "15th Five-Year Plan",
+    "New Industrialization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面"
+      }
+    ],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260917-peoples_sx-cf5df8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0917/c378440-41698498.html",
+      "title_zh": "《电子信息制造业发展“十五五”规划》发布",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260927-gov_fu_shun-348cd8",
+  "source": "gov_fu_shun",
+  "source_name_zh": "抚顺市政府网",
+  "source_name_en": "抚顺 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_shun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fushun.gov.cn/011/20260927/4aebea73-746c-4c1c-bf78-bb9efb15c571.html",
+  "title_zh": "习近平结束对美国的国事访问回到北京",
+  "title_en": "Xi Jinping Returns to Beijing After Concluding State Visit to the United States",
+  "summary_zh": "9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京，彭丽媛、蔡奇、王毅、何立峰等陪同人员同机返回。",
+  "summary_en": "On the afternoon of September 26, President Xi Jinping returned to Beijing after successfully concluding his state visit to the United States, accompanied by Peng Liyuan, Cai Qi, Wang Yi, He Lifeng and other officials on the same flight.",
+  "body_zh": "发布日期：2026-09-27\n阅读次数：\n【我要打印】\n【关闭】\n新华社北京9月26日电 9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京。\n习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅，中共中央政治局委员、国务院副总理何立峰等陪同人员同机返回。\n附件下载：",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": "2026-09-26",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中美关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "美国",
+    "国事访问",
+    "中美关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "United States",
+    "State Visit",
+    "China-US Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260926-gov_ji_nan-325f9e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

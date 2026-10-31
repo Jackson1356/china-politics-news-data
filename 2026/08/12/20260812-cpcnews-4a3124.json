@@ -1,0 +1,91 @@
+{
+  "id": "20260812-cpcnews-4a3124",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0812/c64387-40778078.html",
+  "title_zh": "上半年互联网业务收入同比增10.1%",
+  "title_en": "Internet Business Revenue Up 10.1% in First Half of Year",
+  "summary_zh": "工业和信息化部数据显示，上半年我国互联网业务收入10675亿元，同比增长10.1%，利润总额和研发经费投入均实现两位数增长。",
+  "summary_en": "According to MIIT data, China's internet business revenue reached 1.0675 trillion yuan in H1, up 10.1% year-on-year, with both total profit and R&D spending seeing double-digit growth.",
+  "body_zh": "利润总额、研发经费投入均实现两位数增长\n本报北京8月11日电 （记者刘温馨）工业和信息化部数据显示：上半年，我国规模以上互联网和相关服务企业（以下简称“互联网企业”）完成互联网业务收入10675亿元，同比增长10.1%。\n上半年，利润总额增速加快，互联网企业实现利润总额989.9亿元，同比增长16.6%，增速较前5月提高6.9个百分点。研发经费投入稳定增长，互联网企业共投入研发经费595.5亿元，同比增长14.1%。\n《 人民日报 》（ 2026年08月12日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "industry",
+  "keywords": [
+    "互联网业务",
+    "数字经济",
+    "产业运行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互联网业务",
+      "name_en": "Internet Business"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业运行",
+      "name_en": "Industry Performance"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "互联网业务",
+    "数字经济",
+    "产业运行"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Internet Business",
+    "Digital Economy",
+    "Industry Performance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260812-cpcnews-4a3124",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/lianbo/202608/content_7077915.htm",
+      "title_zh": "上半年互联网业务收入同比增10.1%",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

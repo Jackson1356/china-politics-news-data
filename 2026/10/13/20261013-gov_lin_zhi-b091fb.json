@@ -1,0 +1,111 @@
+{
+  "id": "20261013-gov_lin_zhi-b091fb",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/4b25a2ef7cf844b1be851746a880c1de.shtml",
+  "title_zh": "第五届自治区发展咨询委员会第三次会议在林芝召开 次仁平措主持",
+  "title_en": "Fifth Tibet Autonomous Region Development Advisory Committee Holds Third Meeting in Nyingchi",
+  "summary_zh": "10月11日，第五届西藏自治区发展咨询委员会第三次会议在林芝召开，自治区副主席次仁平措主持，委员们围绕新质生产力引领高原特色优势产业发展建言献策。",
+  "summary_en": "On Oct 11, the third meeting of the fifth Tibet Autonomous Region Development Advisory Committee was held in Nyingchi, chaired by regional vice chairman Tsering Phuntsok, with members advising on plateau industries driven by new quality productive forces.",
+  "body_zh": "第五届自治区发展咨询委员会第三次会议在林芝召开\n次仁平措主持\n本报巴宜10月12日电（记者 谢筱纯）11日，第五届自治区发展咨询委员会第三次会议在林芝召开。自治区副主席次仁平措主持会议。\n会上，胡鞍钢、高扬、姚檀栋、崔鹏、董志毅、多吉、尼玛扎西等第五届自治区发展咨询委员会委员，聚焦“以新质生产力为引领，推动西藏高原特色优势产业发展”主题，充分发挥智力优势，结合自身研究领域和工作经验作主旨发言。专家学者们立足实际找准产业发展堵点难点，提出真知灼见、务实良方，助力推动高原资源优势加快转化为经济胜势，更好带动各族群众增收致富，更好助推西藏长治久安和高质量发展。\n与会各自治区相关部门代表表示，将虚心吸纳专家意见，做好交流对接，系统梳理研究，推动建言成果转化落地，为建设团结富裕文明和谐美丽的社会主义现代化新西藏凝聚智慧力量。",
+  "image_url": null,
+  "published_at": "2026-10-13T12:00:00+00:00",
+  "event_date": "2026-10-11",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "高原特色优势产业",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "次仁平措",
+      "name_en": "Tsering Phuntsok"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Nyingchi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高原特色优势产业",
+      "name_en": "Plateau Characteristic Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "林芝",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "次仁平措",
+    "林芝",
+    "新质生产力",
+    "高原特色优势产业",
+    "高质量发展",
+    "林芝"
+  ],
+  "tags_en": [
+    "Tsering Phuntsok",
+    "Nyingchi",
+    "New Quality Productive Forces",
+    "Plateau Characteristic Industries",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "林芝"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261013-gov_lin_zhi-b091fb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202610/t20261013_177775.html",
+      "title_zh": "次仁平措：第五届自治区发展咨询委员会第三次会议在林芝召开",
+      "published_at": "2026-10-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

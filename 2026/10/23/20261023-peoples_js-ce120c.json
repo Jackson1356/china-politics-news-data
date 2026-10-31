@@ -1,0 +1,129 @@
+{
+  "id": "20261023-peoples_js-ce120c",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/1023/c358232-41729958.html",
+  "title_zh": "水利部对江苏等4省份启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level IV Flood Defense Emergency Response for Jiangsu and Three Other Provinces",
+  "summary_zh": "10月22日，水利部对上海、江苏、浙江、福建启动洪水防御Ⅳ级应急响应，防范台风“蔷琵”带来的强降雨和汛情。",
+  "summary_en": "On October 22, the Ministry of Water Resources activated a Level IV flood defense emergency response for Shanghai, Jiangsu, Zhejiang and Fujian to guard against heavy rain and flooding brought by Typhoon Chanthu.",
+  "body_zh": "水利部对江苏等4省份启动洪水防御Ⅳ级应急响应\n原题：水利部对4省份启动洪水防御Ⅳ级应急响应\n记者从水利部获悉，水利部22日对上海、江苏、浙江、福建启动洪水防御Ⅳ级应急响应。\n水利部相关负责人介绍，受台风“蔷琵”影响，预计23日至25日，江南东部、江淮东部等地将有一次较强降雨过程，以中到大雨为主；其中上海大部、浙江东部等地部分地区将有暴雨到大暴雨。受降雨影响，福建沿海交溪，浙江沿海飞云江、瓯江、椒江、姚江、钱塘江支流曹娥江，江苏里下河，太湖及周边河网等将出现涨水过程，其中浙江沿海暴雨区内部分中小河流可能发生超警洪水。山丘区山洪灾害风险较高。\n为应对可能出现的汛情，水利部指导督促地方水利部门和相关流域管理机构密切监视台风雨水情变化，强化应急值守和会商研判，加强监测预报预警，科学调度水工程，做好水库和在建水利工程安全度汛、中小河流洪水和山洪灾害防御等工作，确保人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应",
+    "台风灾害",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风灾害",
+      "name_en": "Typhoon Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "江苏",
+    "浙江",
+    "上海",
+    "福建",
+    "洪水防御",
+    "应急响应",
+    "台风灾害",
+    "防灾减灾"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Jiangsu",
+    "Zhejiang",
+    "Shanghai",
+    "Fujian",
+    "Flood Defense",
+    "Emergency Response",
+    "Typhoon Disaster",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-JS",
+      "CN-ZJ",
+      "CN-SH",
+      "CN-FJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261023-peoples_js-ce120c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

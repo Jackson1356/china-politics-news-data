@@ -1,0 +1,91 @@
+{
+  "id": "20260831-local_si_chuan_zai_xian_cn_sc-3be6ef",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202608/83313493.html",
+  "title_zh": "吉尔吉斯斯坦高规格欢迎习近平主席抵达",
+  "title_en": "Kyrgyzstan Welcomes President Xi Jinping with High Honors",
+  "summary_zh": "当地时间8月30日下午，国家主席习近平乘专机抵达吉尔吉斯斯坦首都比什凯克，吉总统扎帕罗夫夫妇热情迎接。",
+  "summary_en": "On the afternoon of August 30 local time, President Xi Jinping arrived in Bishkek, the capital of Kyrgyzstan, and was warmly greeted by Kyrgyz President Japarov and his wife.",
+  "body_zh": "天下\n高层动态\n> 正文\n拾光纪·总统夫妇热情迎接！吉尔吉斯斯坦高规格欢迎习主席抵达\n当地时间8月30日下午，国家主席习近平乘专机抵达吉尔吉斯斯坦首都比什凯克。吉尔吉斯斯坦总统扎帕罗夫夫妇热情迎接。毡房旁，骑士与礼兵列队，以高规格欢迎习近平主席抵达。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交访问",
+    "双边关系",
+    "欢迎仪式"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "欢迎仪式",
+      "name_en": "Welcome Ceremony"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "外交访问",
+    "双边关系",
+    "欢迎仪式"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Diplomatic Visit",
+    "Bilateral Relations",
+    "Welcome Ceremony"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260831-local_si_chuan_zai_xian_cn_sc-3be6ef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

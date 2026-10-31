@@ -1,0 +1,100 @@
+{
+  "id": "20260703-chinanews_gn-fb9d56",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-03/10652056.shtml",
+  "title_zh": "中国亚洲经济发展协会会长权顺基接受审查调查",
+  "title_en": "Quan Shunji, President of China Association for Asian Economic Development, Under Investigation",
+  "summary_zh": "2026年7月3日，中国亚洲经济发展协会会长权顺基因涉嫌严重违纪违法，接受中央纪委国家监委驻中央社会工作部纪检监察组及山东省烟台市监察委员会的审查调查。",
+  "summary_en": "On July 3, 2026, Quan Shunji, President of the China Association for Asian Economic Development, was placed under investigation for suspected serious violations of discipline and law.",
+  "body_zh": "中国亚洲经济发展协会会长权顺基接受审查调查\n中新网7月3日电 据中央纪委国家监委驻中央社会工作部纪检监察组、山东省纪委监委消息：中国亚洲经济发展协会会长权顺基涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中央社会工作部纪检监察组纪律审查和山东省烟台市监察委员会监察调查。\n国内新闻精选：\n- 2026年07月03日 13:48:04\n- 2026年07月03日 12:30:49\n- 2026年07月03日 10:51:25\n- 2026年07月02日 19:15:28\n- 2026年07月02日 16:45:20\n- 2026年07月02日 15:13:43\n- 2026年07月02日 12:49:09\n- 2026年07月02日 12:25:10\n- 2026年07月02日 11:51:54\n- 2026年07月02日 10:34:17",
+  "image_url": null,
+  "published_at": "2026-07-03T12:00:00+00:00",
+  "event_date": "2026-07-03",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "违纪违法"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "权顺基",
+      "name_en": "Quan Shunji"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "烟台市监察委员会",
+      "name_en": "Yantai Municipal Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "烟台",
+      "name_en": "Yantai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "违纪违法",
+      "name_en": "Disciplinary and Legal Violations"
+    }
+  ],
+  "tags_zh": [
+    "权顺基",
+    "中央纪委国家监委",
+    "烟台市监察委员会",
+    "烟台",
+    "违纪违法"
+  ],
+  "tags_en": [
+    "Quan Shunji",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Yantai Municipal Supervisory Commission",
+    "Yantai",
+    "Disciplinary and Legal Violations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      },
+      {
+        "name_zh": "烟台市监察委员会",
+        "name_en": "Yantai Municipal Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260703-chinanews_gn-fb9d56",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-03/10652057.shtml",
+      "title_zh": "纳米比亚总统恩代特瓦将访华",
+      "published_at": "2026-07-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

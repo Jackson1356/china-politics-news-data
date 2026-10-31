@@ -1,0 +1,80 @@
+{
+  "id": "20260605-xinhua_hn-ede5ac",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "https://www.news.cn/legal/20260605/c0b0f4c7361e4258b2cd24c29a260417/c.html",
+  "title_zh": "公安机关、教育部门提醒2026年高考考生诚信赴考",
+  "title_en": "Public Security Organs and Education Departments Urge Integrity for 2026 Gaokao Candidates",
+  "summary_zh": "2026年6月5日，公安部表示将会同教育部门严打涉考违法犯罪，确保2026年高考安全平稳有序。",
+  "summary_en": "On June 5, 2026, the Ministry of Public Security announced it would collaborate with education departments to crack down on exam-related crimes to ensure the safety and order of the 2026 Gaokao.",
+  "body_zh": "新华社北京6月5日电 公安部6月5日表示，公安机关将会同教育部门持续严打涉考违法犯罪，坚决维护2026年高考安全。\n据介绍，为确保2026年普通高等学校招生全国统一考试工作安全、平稳、顺利，根据国家教育统一考试工作部际联席会议统一部署，全国公安机关和教育部门将始终保持“零容忍”态度，进一步强化协同联动，全面加强高考安全保卫力度，坚持以最高标准、最严要求、最强措施，严查严打涉考类违法犯罪活动，发现一起、查处一起、绝不姑息，坚决维护广大考生合法权益，全力确保2026年高考安全平稳有序。\n公安机关和教育部门郑重提醒广大考生，严守考规考纪，诚信赴考应考，任何企图实施涉高考的违法犯罪行为，都将面临法律法规的严惩。\n依据《国家教育考试违规处理办法》，对在国家教育考试中作弊的考生，教育部门可作出取消成绩、暂停考试等处理。依据《中华人民共和国刑法》，在高考中组织作弊的，处三年以下有期徒刑或者拘役，并处或者单处罚金；情节严重的，处三年以上七年以下有期徒刑，并处罚金；代替考生考试，出售、使用无线作弊器材等行为，涉嫌组织考试作弊罪，代替考试罪，非法生产、销售、使用窃听窃照专用器材罪，非法经营罪和扰乱无线电通讯管理秩序罪等罪名，将承担刑事责任。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "welfare",
+  "keywords": [
+    "高考安全",
+    "诚信考试"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高考安全",
+      "name_en": "Gaokao Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "诚信考试",
+      "name_en": "Exam Integrity"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "北京",
+    "高考安全",
+    "诚信考试"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Beijing",
+    "Gaokao Safety",
+    "Exam Integrity"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260605-xinhua_hn-ede5ac",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

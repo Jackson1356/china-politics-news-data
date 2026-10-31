@@ -1,0 +1,134 @@
+{
+  "id": "20261016-gov_cn_yaowen-fe28d7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083414.htm",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Announces Appointments and Removals of State Functionaries",
+  "summary_zh": "2026年10月16日，国务院任免国家工作人员，任命刘爽为退役军人事务部副部长、郝丽萍为中国气象局副局长，并免去王刚等四人职务。",
+  "summary_en": "On Oct 16, 2026, China's State Council announced appointments and removals of state functionaries, naming Liu Shuang and Hao Liping to new posts and removing Wang Gang and three others.",
+  "body_zh": "国务院任免国家工作人员。\n任命刘爽为退役军人事务部副部长；任命郝丽萍（女）为中国气象局副局长。\n免去王刚的交通运输部副部长职务；免去徐耀的退役军人事务部副部长职务；免去毕宝贵的中国气象局副局长职务；免去王云鹏的北京航空航天大学校长职务。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "干部调整",
+    "部委领导"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京航空航天大学",
+      "name_en": "Beihang University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments and Removals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部调整",
+      "name_en": "Cadre Reassignment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "部委领导",
+      "name_en": "Ministry Leadership"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "退役军人事务部",
+    "中国气象局",
+    "交通运输部",
+    "北京航空航天大学",
+    "人事任免",
+    "干部调整",
+    "部委领导"
+  ],
+  "tags_en": [
+    "State Council",
+    "Ministry of Veterans Affairs",
+    "China Meteorological Administration",
+    "Ministry of Transport",
+    "Beihang University",
+    "Personnel Appointments and Removals",
+    "Cadre Reassignment",
+    "Ministry Leadership"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL",
+      "MVA",
+      "MOT"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      },
+      {
+        "name_zh": "北京航空航天大学",
+        "name_en": "Beihang University"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261016-gov_cn_yaowen-fe28d7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": null,
+      "url": "http://politics.people.com.cn/n1/2026/1017/c461001-40816365.html",
+      "title_zh": "国务院任免国家工作人员",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

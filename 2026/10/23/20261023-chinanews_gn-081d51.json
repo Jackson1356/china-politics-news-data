@@ -1,0 +1,99 @@
+{
+  "id": "20261023-chinanews_gn-081d51",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-23/10719734.shtml",
+  "title_zh": "中国大唐集团技术经济研究院党委委员马强接受审查调查",
+  "title_en": "Ma Qiang, Party Committee Member of China Datang Group Technology and Economics Research Institute, Under Investigation",
+  "summary_zh": "据中央纪委国家监委驻中国大唐纪检监察组、吉林省纪委监委消息，中国大唐集团技术经济研究院党委委员、纪委书记马强涉嫌严重违纪违法，正接受审查调查。",
+  "summary_en": "Ma Qiang, Party committee member and discipline inspection secretary at a China Datang Group research institute, is under disciplinary review and supervision investigation for suspected serious violations.",
+  "body_zh": "中国大唐集团技术经济研究院党委委员马强接受审查调查\n中新网10月23日电 据中央纪委国家监委驻中国大唐纪检监察组、吉林省纪委监委消息：中国大唐集团技术经济研究院有限责任公司党委委员、纪委书记马强涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国大唐纪检监察组纪律审查和吉林省白山市监察委员会监察调查。\n国内新闻精选：\n- 2026年10月23日 14:31:34\n- 2026年10月23日 10:02:49\n- 2026年10月22日 21:50:31\n- 2026年10月22日 17:18:32\n- 2026年10月22日 17:08:26\n- 2026年10月22日 16:05:16\n- 2026年10月22日 10:17:41\n- 2026年10月22日 08:32:34\n- 2026年10月22日 07:48:01\n- 2026年10月22日 07:33:13",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查",
+    "国企反腐"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "马强",
+      "name_en": "Ma Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国企反腐",
+      "name_en": "SOE Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "马强",
+    "吉林",
+    "反腐败",
+    "纪律审查",
+    "国企反腐"
+  ],
+  "tags_en": [
+    "Ma Qiang",
+    "Jilin",
+    "Anti-corruption",
+    "Disciplinary Review",
+    "SOE Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JL"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261023-chinanews_gn-081d51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719737.shtml",
+      "title_zh": "吉林省延边州委原常委王吉宝接受审查调查",
+      "published_at": "2026-10-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20260821-gov_lin_zhi-320880",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/de9c10fe593c467299b063def96cb81f.shtml",
+  "title_zh": "任维：丰富商圈业态提升服务品质不断满足人民群众更高消费需求",
+  "title_en": "Ren Wei: Enrich Business Formats and Improve Service to Meet Growing Consumer Demand",
+  "summary_zh": "8月19日下午，西藏自治区常务副主席任维赴拉萨市调研商圈业态和文化旅游新业态，强调丰富业态、提升服务品质，满足群众消费需求。",
+  "summary_en": "On the afternoon of August 19, Ren Wei, Executive Vice Chairman of the Tibet Autonomous Region, visited Lhasa to survey commercial districts and cultural tourism, emphasizing richer business formats and better services.",
+  "body_zh": "任维在拉萨市调研商圈业态市场活跃度和文化旅游业新业态发展时强调\n丰富商圈业态 提升服务品质 不断满足人民群众更高消费需求\n本报拉萨8月20日讯（记者 杨小娟）8月19日下午，区党委常委、自治区常务副主席任维赴拉萨市调研城市商圈业态市场活跃程度、文化旅游业新业态发展等情况。\n任维一行先后来到天海国际广场和商场二期项目点、文创园区，实地了解商圈运营发展情况，与商户经营者面对面交流，询问经营状况、营商环境等情况，零距离调研消费市场情况和特色产业发展活力。\n任维强调，城市商圈是群众消费、休闲、就业的重要场所，是城市活力的集中体现，繁荣发展城市商圈对促进消费、扩大内需具有关键作用。要强化规划引领，优化商业网点布局，扩大优质优价商品服务供给。进一步丰富零售餐饮、康养体验、潮流消费等多元业态，完善配套服务设施，提升城市管理水平，丰富城市业态，全力打造综合性现代化城市商圈，激活本地消费、承接好外来消费、减少外溢消费。\n任维强调，文化旅游产业是我区的支柱性产业，是推动高质量发展的重要引擎，要充分挖掘藏医药、民族文化等资源优势，不断拓展医疗康养、民俗娱乐、美食休闲等消费场景，将高原风光、城市功能与文旅潮流相结合，推动文旅流量转化为现实消费，促进高原经济高质量发展。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "industry",
+  "keywords": [
+    "商圈业态",
+    "文化旅游",
+    "消费需求"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ren-wei-xizang",
+      "name_zh": "任维",
+      "name_en": "Ren Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商圈业态",
+      "name_en": "Commercial District Formats"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化旅游",
+      "name_en": "Cultural Tourism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费需求",
+      "name_en": "Consumer Demand"
+    }
+  ],
+  "tags_zh": [
+    "任维",
+    "拉萨",
+    "商圈业态",
+    "文化旅游",
+    "消费需求"
+  ],
+  "tags_en": [
+    "Ren Wei",
+    "Commercial District Formats",
+    "Cultural Tourism",
+    "Consumer Demand"
+  ],
+  "entities": {
+    "politicians": [
+      "ren-wei-xizang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260821-gov_lin_zhi-320880",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260821_175300.html",
+      "title_zh": "任维：丰富商圈业态提升服务品质不断满足人民群众更高消费需求",
+      "published_at": "2026-08-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

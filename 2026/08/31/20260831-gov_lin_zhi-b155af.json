@@ -1,0 +1,82 @@
+{
+  "id": "20260831-gov_lin_zhi-b155af",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/2151b94ca665480884c5afb61767a437.shtml",
+  "title_zh": "林芝市召开二届市委常委会议",
+  "title_en": "Linzhi Municipal Party Committee Holds Standing Committee Meeting",
+  "summary_zh": "8月31日，林芝市委书记巴塔主持召开市委常委会会议，学习习近平总书记重要指示，部署防汛减灾等工作。",
+  "summary_en": "On August 31, Linzhi Municipal Party Committee Secretary Ba Ta chaired a meeting of the Standing Committee to study General Secretary Xi Jinping's important instructions and deploy flood prevention and disaster reduction work.",
+  "body_zh": "8月31日,市委书记巴塔主持召开二届市委常委会第135次会议,深入学习习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示和在8月28日中共中央政治局会议上的重要讲话精神,传达学习李强总理在西藏吉隆县指导抢险救援和应急处置工作时的讲话精神,研究贯彻落实自治区具体工作要求,对全市防汛减灾、各类灾害防御工作进行再动员、再部署。\n会议开始时,全体起立,向灾害遇难人员默哀。\n会议指出,吉隆县遭受泥石流灾害发生后,习近平总书记第一时间作出重要指示,主持召开中央政治局会议,对抢险救援和应急处置等工作提出明确要求。李强总理赶赴灾区,看望慰问受灾群众和抢险救援人员;张国清副总理赶赴现场指导处置。自治区党委高度重视、迅速部署、立即行动,王君正书记第一时间赶赴灾区指挥抢险救援工作,嘎玛泽登主席担任应急救援指挥部指挥长,抢险救援、安置善后工作进展有序,充分体现了以习近平同志为核心的党中央对西藏的关心牵挂和社会主义制度的优越性。\n会议强调,全市各级党组织和广大党员干部要坚定拥护“两个确立”、坚决做到“两个维护”,始终站在守护各族群众生命安全的高度,以严密的责任体系、有效的防范举措、过硬的工作作风,把防灾减灾各项工作落实落细。要强化隐患排查整治,精准排查管控,分类闭环整改,做到防患于未然。要健全监测预警与临灾避险机制,联动做实综合监测研判,压实责任落实预警“叫应”机制,提高灾害链风险识别能力。要完善应急处置体系,从严值班值守,前置备勤抢险力量与救灾物资,提前做足保障。要统筹发展和安全,持续强化监测预警治理能力建设,严守工程安全准入,发扬一方有难、八方支援的精神,按照自治区党委部署,全力支持日喀则市吉隆县抢险救灾、灾后重建工作,以高水平安全保障高质量发展。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "party",
+  "keywords": [
+    "防汛减灾",
+    "灾害防御"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛减灾",
+      "name_en": "Flood Prevention and Disaster Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害防御",
+      "name_en": "Disaster Defense"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林芝",
+    "防汛减灾",
+    "灾害防御",
+    "李强"
+  ],
+  "tags_en": [
+    "Flood Prevention and Disaster Reduction",
+    "Disaster Defense"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260831-gov_lin_zhi-b155af",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

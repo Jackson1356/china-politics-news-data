@@ -1,0 +1,87 @@
+{
+  "id": "20260729-local_ji_nan_ri_bao_cn_sd-8d8803",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-07-29/2026072900045.html",
+  "title_zh": "经济大区挑大梁督导工作会议召开 刘强主持并讲话",
+  "title_en": "Liu Qiang Chairs Supervision Work Meeting on Major Economic Districts Shouldering Responsibility",
+  "summary_zh": "7月28日，经济大区挑大梁督导工作会议在济南召开，市委书记刘强主持并讲话。",
+  "summary_en": "On July 28, the supervision work meeting on major economic districts shouldering responsibility was held in Jinan, with Party Secretary Liu Qiang presiding and delivering a speech.",
+  "body_zh": "“经济大区挑大梁”督导工作会议召开 刘强主持并讲话\n本报7月28日讯 今天，“经济大区挑大梁”督导工作会议召开。市委书记刘强主持并讲话。\n刘强指出，今年以来，全市各级坚决贯彻党中央决策部署，认真落实省委、省人民政府工作要求，以“项目赋能年”为总牵引，干事创业、担当尽责，全市经济运行保持在合理区间。要充分认清当前形势，坚定信心、积极作为，坚定扛起“经济大区挑大梁”的责任担当，为全市大局多作贡献。\n刘强强调，要坚持目标导向、问题导向、过程导向、结果导向相结合，统筹抓好“做优增量、遏制减量、应对变量”各项工作，推进经济运行稳中向好。要善于分析、找准症结，精准施策、靶向攻坚，推动“一业一策”“一企一策”落地见效。要抓好收入组织和债务管理工作，确保财政金融稳定运行。要压紧压实工作责任，持续完善经济运行工作体系，深化创新探索，推动区县之间取长补短，为全市经济高质量发展提供借鉴。要抓牢抓实安全生产，守好安全发展底线。要树立和践行正确政绩观，追求实实在在、没有水分的增长，以更大力度推动工作取得实效。\n市委常委、副市长吕涛参加。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "economy",
+  "keywords": [
+    "经济稳增长",
+    "项目赋能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济稳增长",
+      "name_en": "Stable economic growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "项目赋能",
+      "name_en": "Project empowerment"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "经济稳增长",
+    "项目赋能"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Stable economic growth",
+    "Project empowerment"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "吕涛"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260729-local_ji_nan_ri_bao_cn_sd-8d8803",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_6175f6503b8744c0b4512f19ff8b49b1.html",
+      "title_zh": "“经济大区挑大梁”督导工作会议召开",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20260813-xinhua_ah-ec2033",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.news.cn/20260813/e68d4ef5c9834944a0153b2218ca1938/c.html",
+  "title_zh": "王清宪与尤政等院士专家座谈",
+  "title_en": "Wang Qingxian Holds Talks with You Zheng and Other Academicians",
+  "summary_zh": "8月12日下午，安徽省长王清宪在合肥与尤政等院士专家座谈，围绕仪器仪表产业合作与创新生态进行交流。",
+  "summary_en": "On the afternoon of August 12, Anhui Governor Wang Qingxian met with academician You Zheng and other experts in Hefei to discuss cooperation and innovation in the instrumentation industry.",
+  "body_zh": "8月12日下午，省长王清宪与来肥参加2026中国仪器仪表学会学术年会的尤政、刘文清、王巍、钱锋、谭久彬、唐波等院士专家座谈。副省长任清华参加。\n中国仪器仪表学会学术年会是国内仪器学科最具权威性和影响力的学术盛会。王清宪指出，安徽正加快构建现代化产业体系，布局集成电路、人工智能、量子科技等新兴产业和未来产业，为仪器仪表产业突破提供丰富场景和广阔空间。希望与学会建立科研、产业、人才等常态化交流合作机制，共同营造更具活力的仪器仪表创新生态。\n院士专家们表示，安徽仪器仪表产业基础好，创新实力强，将发挥学会平台优势，促进更多要素资源向安徽集聚，携手推动仪器仪表产业高质量发展。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "industry",
+  "keywords": [
+    "仪器仪表产业",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qingxian",
+      "name_zh": "王清宪",
+      "name_en": "Wang Qingxian"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "尤政",
+      "name_en": "You Zheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "仪器仪表产业",
+      "name_en": "Instrumentation Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "ren-qinghua",
+      "name_zh": "任清华",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王清宪",
+    "尤政",
+    "仪器仪表产业",
+    "科技创新",
+    "任清华"
+  ],
+  "tags_en": [
+    "Wang Qingxian",
+    "You Zheng",
+    "Instrumentation Industry",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "ren-qinghua",
+      "wang-qingxian"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-xinhua_ah-ec2033",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

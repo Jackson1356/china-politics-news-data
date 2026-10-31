@@ -1,0 +1,82 @@
+{
+  "id": "20260911-chinanews_gn-ba37f2",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-11/10694582.shtml",
+  "title_zh": "中国驻日本大使馆：9月14日起调整日本公民赴华签证规费",
+  "title_en": "Chinese Embassy in Japan to Adjust Visa Fees for Japanese Citizens Starting September 14",
+  "summary_zh": "中国驻日本大使馆9月11日发布通知，根据签证费对等安排，自2026年9月14日起调整日本公民赴华签证规费。",
+  "summary_en": "China's Embassy in Japan issued a notice on September 11 stating that, under reciprocal visa fee arrangements, visa fees for Japanese citizens traveling to China will be adjusted from September 14, 2026.",
+  "body_zh": "中国驻日本大使馆：9月14日起调整日本公民赴华签证规费\n中新网9月11日电 据中国驻日本大使馆网站消息，中国驻日本大使馆9月11日发布通知称，根据签证费对等安排，自2026年9月14日起，对日本公民赴华签证规费进行调整。\n【编辑:何颖】\n国内新闻精选：\n- 2026年09月11日 14:46:37\n- 2026年09月11日 09:57:06\n- 2026年09月11日 09:36:17\n- 2026年09月11日 09:35:27\n- 2026年09月11日 09:00:15\n- 2026年09月11日 08:40:31\n- 2026年09月11日 08:31:37\n- 2026年09月10日 20:28:21\n- 2026年09月10日 19:20:37\n- 2026年09月10日 14:52:00",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-11",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "签证政策",
+    "中日关系"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "JP",
+      "name_zh": "日本",
+      "name_en": "Japan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "签证政策",
+      "name_en": "Visa Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    }
+  ],
+  "tags_zh": [
+    "日本",
+    "签证政策",
+    "中日关系"
+  ],
+  "tags_en": [
+    "Japan",
+    "Visa Policy",
+    "China-Japan Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "JP"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260911-chinanews_gn-ba37f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694659.shtml",
+      "title_zh": "对日本公民赴华签证规费进行调整 中方称根据对等原则作出安排",
+      "published_at": "2026-09-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

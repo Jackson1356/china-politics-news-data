@@ -1,0 +1,97 @@
+{
+  "id": "20261016-paper_zhengjing-f46df0",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34265066",
+  "title_zh": "全国即将进入省级党代会时间",
+  "title_en": "China's Provinces to Enter Party Congress Season",
+  "summary_zh": "2026年下半年起多个省份陆续召开新一届党代会，安徽省第十二次党代会定于10月19日在合肥召开。",
+  "summary_en": "Starting in the second half of 2026, multiple Chinese provinces will hold new Party congresses; Anhui's 12th provincial Party congress is set for October 19 in Hefei.",
+  "body_zh": "全国即将进入省级党代会时间\n澎湃新闻记者 岳怀让\n消息提到，全会听取了十一届省委向省第十二次党代会的报告讨论稿起草情况的说明、十一届省纪委向省第十二次党代会的工作报告讨论稿起草情况的说明，对两个报告讨论稿进行了分组讨论，审议通过了十一届省委向省第十二次党代会的报告、十一届省纪委向省第十二次党代会的工作报告，决定将这2份文件提请省第十二次党代会审查；审议通过了《中国共产党安徽省第十一届委员会第十三次全体会议决议》，决定省第十二次党代会于10月19日在合肥召开。\n上述消息显示，安徽省第十二次党代会将于10月19日在合肥召开。\n2026年下半年起，多个省份将陆续召开新一届党代会。\n例如，据《河南日报》消息，中国共产党河南省第十二次代表大会定于10月下旬在郑州召开。据《山西日报》消息，中国共产党山西省第十三次代表大会也将于今年10月召开。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "party",
+  "keywords": [
+    "省级党代会",
+    "换届选举",
+    "党内选举"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省级党代会",
+      "name_en": "Provincial Party Congresses"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-Party Elections"
+    }
+  ],
+  "tags_zh": [
+    "合肥",
+    "安徽",
+    "省级党代会",
+    "换届选举",
+    "党内选举"
+  ],
+  "tags_en": [
+    "Hefei",
+    "Anhui",
+    "Provincial Party Congresses",
+    "Leadership Transition",
+    "Intra-Party Elections"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陆续"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HF",
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261016-paper_zhengjing-f46df0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

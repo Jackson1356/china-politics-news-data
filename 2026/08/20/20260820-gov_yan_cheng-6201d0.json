@@ -1,0 +1,113 @@
+{
+  "id": "20260820-gov_yan_cheng-6201d0",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/8/20/art_60096_11818443.html",
+  "title_zh": "信长星会见哈萨克斯坦阿拉木图州议会主席拜戈扎耶夫",
+  "title_en": "Xin Changxing Meets with Chairman of Kazakhstan's Almaty Region Assembly",
+  "summary_zh": "8月18日，江苏省委书记信长星在南京会见哈萨克斯坦阿拉木图州议会主席拜戈扎耶夫，双方签署友好交流合作备忘录。",
+  "summary_en": "On August 18, Xin Changxing, Secretary of the Jiangsu Provincial Party Committee, met with Baigazayev, Chairman of the Almaty Region Assembly of Kazakhstan, in Nanjing, and they signed a memorandum on friendly exchanges and cooperation.",
+  "body_zh": "当前位置：\n哈萨克斯坦阿拉木图州议会代表团访问江苏\n信长星会见拜戈扎耶夫\n日前，哈萨克斯坦阿拉木图州议会代表团来江苏访问。8月18日，省委书记、省人大常委会主任信长星在南京会见阿拉木图州议会主席拜戈扎耶夫，共同签署江苏省人大常委会与阿拉木图州议会友好交流合作备忘录。\n信长星说，在习近平主席和托卡耶夫总统战略引领下，中哈关系保持快速发展势头，展现强大韧性与旺盛活力。哈萨克斯坦是江苏在中亚地区第一大贸易伙伴。两个月前，江苏省代表团到哈萨克斯坦考察访问，取得积极成果。我们将认真落实两国元首重要共识，弘扬“中国—中亚精神”，以此次备忘录签署为契机，加强两省州立法机构交流，提升经贸合作质效，促进人文交流交往，为推动中哈战略协作不断迈上新台阶、取得新成果贡献更大力量。\n拜戈扎耶夫表示，哈中是好邻居、好朋友。阿拉木图州高度重视与江苏省的交流交往，将推进两省州各领域务实合作，共同增进人民福祉，更好助力哈中关系高水平发展。\n省领导陈忠伟、樊金龙参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "友好交流",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省人大常委会",
+      "name_en": "Standing Committee of Jiangsu Provincial People's Congress"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好交流",
+      "name_en": "Friendly Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "江苏省人大常委会",
+    "南京",
+    "友好交流",
+    "国际合作",
+    "陈忠伟"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Standing Committee of Jiangsu Provincial People's Congress",
+    "Nanjing",
+    "Friendly Exchange",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "chen-zhongwei-jiangsu",
+      {
+        "id": null,
+        "name_zh": "江苏"
+      },
+      {
+        "id": null,
+        "name_zh": "金龙"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省人大常委会",
+        "name_en": "Standing Committee of Jiangsu Provincial People's Congress"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-gov_yan_cheng-6201d0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

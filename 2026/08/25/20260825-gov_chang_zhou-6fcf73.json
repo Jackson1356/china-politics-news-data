@@ -1,0 +1,105 @@
+{
+  "id": "20260825-gov_chang_zhou-6fcf73",
+  "source": "gov_chang_zhou",
+  "source_name_zh": "常州市政府网",
+  "source_name_en": "常州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/8/25/art_60096_11820158.html",
+  "title_zh": "江苏省政府与圆通速递签署战略合作协议",
+  "title_en": "Jiangsu Provincial Government and YTO Express Sign Strategic Cooperation Agreement",
+  "summary_zh": "8月24日，江苏省政府与圆通速递签署战略合作协议，省长刘小涛会见圆通速递董事局主席喻渭蛟并见证签约。",
+  "summary_en": "On August 24, the Jiangsu provincial government signed a strategic cooperation agreement with YTO Express. Governor Liu Xiaotao met with YTO chairman Yu Weijiao and witnessed the signing.",
+  "body_zh": "省政府与圆通速递签署战略合作协议\n刘小涛会见喻渭蛟\n时间：2026-08-25 07:41\n8月24日，省政府与圆通速递有限公司签署战略合作协议。省长刘小涛会见圆通速递董事局主席喻渭蛟一行，并见证共同签约。\n双方表示，将携手构建多层次产业供应链服务体系，完善多港联动、多式联运机制，加强国际卡班、口岸通关合作，开展智慧物流、智慧社区试点，探索协同出海新模式，持续推动物流降本提质增效，为江苏扩大高水平对外开放、加快产业转型升级提供坚实支撑。\n副省长马士光，南京市市长李忠军，省政府秘书长赵建军参加。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "物流",
+    "产业升级"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流",
+      "name_en": "Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "person",
+      "id": "li-zhongjun",
+      "name_zh": "李忠军",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "战略合作",
+    "物流",
+    "产业升级",
+    "李忠军"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Strategic Cooperation",
+    "Logistics",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-zhongjun",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260825-gov_chang_zhou-6fcf73",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

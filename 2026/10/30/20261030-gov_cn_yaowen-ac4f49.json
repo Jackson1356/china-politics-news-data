@@ -1,0 +1,124 @@
+{
+  "id": "20261030-gov_cn_yaowen-ac4f49",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084623.htm",
+  "title_zh": "彭丽媛同德国总统夫人比登本德茶叙",
+  "title_en": "Peng Liyuan Chats Over Tea with German President's Wife Büdenbender",
+  "summary_zh": "10月30日下午，国家主席习近平夫人彭丽媛在北京同陪同德国总统施泰因迈尔访华的总统夫人比登本德茶叙，双方表示将深化妇女儿童事业等领域合作。",
+  "summary_en": "On the afternoon of October 30, Peng Liyuan, wife of President Xi Jinping, had tea in Beijing with Elke Büdenbender, wife of German President Steinmeier, who is on a state visit to China; both voiced willingness to deepen cooperation on women's and children's affairs.",
+  "body_zh": "新华社北京10月30日电（记者 温馨）10月30日下午，国家主席习近平夫人彭丽媛在北京和陪同德国总统施泰因迈尔来华进行国事访问的德国总统夫人比登本德茶叙。\n比登本德衷心感谢彭丽媛的热情接待和周到安排，对彭丽媛为德中两国人文交流合作所做工作深表钦佩，表示愿为深化双方妇女儿童事业等相关领域合作贡献力量，增进两国人民友谊。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "foreign",
+  "keywords": [
+    "人文交流",
+    "妇女儿童事业",
+    "中德关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭丽媛",
+      "name_en": "Peng Liyuan"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "比登本德",
+      "name_en": "Elke Büdenbender"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "妇女儿童事业",
+      "name_en": "Women's and Children's Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中德关系",
+      "name_en": "China-Germany Relations"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "彭丽媛",
+    "比登本德",
+    "北京",
+    "人文交流",
+    "妇女儿童事业",
+    "中德关系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Peng Liyuan",
+    "Elke Büdenbender",
+    "Beijing",
+    "Cultural Exchange",
+    "Women's and Children's Affairs",
+    "China-Germany Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "彭丽媛"
+      },
+      {
+        "id": null,
+        "name_zh": "比登本德"
+      },
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261030-gov_cn_yaowen-ac4f49",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084623.htm",
+      "title_zh": "彭丽媛同德国总统夫人比登本德茶叙",
+      "published_at": "2026-10-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

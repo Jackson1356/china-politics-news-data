@@ -1,0 +1,87 @@
+{
+  "id": "20260820-gov_cn_yaowen-8d8422",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078725.htm",
+  "title_zh": "中国已成为厄瓜多尔第二大贸易伙伴",
+  "title_en": "China Becomes Ecuador's Second-Largest Trading Partner",
+  "summary_zh": "商务部新闻发言人何亚东8月20日称，中厄自贸协定生效两年来双边贸易额快速增长，今年上半年达98.3亿美元，中国已成为厄瓜多尔第二大贸易伙伴。两国于8月18日签署经贸合作路线图等文件。",
+  "summary_en": "Ministry spokesperson He Yadong said on Aug 20 that bilateral trade under the China-Ecuador FTA grew rapidly, reaching $9.83 billion in H1 2026, making China Ecuador's second-largest trading partner. The two countries signed a roadmap and memorandum on Aug 18.",
+  "body_zh": "新华社北京8月20日电（记者王聿昊、谢希瑶）商务部新闻发言人何亚东在20日举行的例行新闻发布会上说，中厄自贸协定生效两年多来，双边贸易额快速增长，今年上半年达98.3亿美元，同比增速超过20%，中国已成为厄瓜多尔第二大贸易伙伴。\n何亚东介绍，8月18日，在两国元首共同见证下，中国商务部和厄瓜多尔经济生产发展部签署了《中国—厄瓜多尔经贸合作路线图》和《关于支持自由贸易和多边主义的谅解备忘录》，确认将强化经贸协调机制，共同推动贸易投资、农业食品、电子商务、可持续发展等领域合作；双方将共同做好双边自贸协定实施工作，不对对方采取不正当歧视性经贸措施，同意就涉及第三国的贸易措施保持沟通，交换信息。\n“中方愿与厄方一道，共同落实好两国元首重要共识，用好经贸混委会等机制，推动中厄经贸合作提质升级，推动中厄全面战略伙伴关系不断走深走实。”何亚东说。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "经贸合作",
+    "自由贸易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自由贸易",
+      "name_en": "Free Trade"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "经贸合作",
+    "自由贸易"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Economic and Trade Cooperation",
+    "Free Trade"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "何亚东"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-gov_cn_yaowen-8d8422",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0821/c64387-40783715.html",
+      "title_zh": "中国已成为厄瓜多尔第二大贸易伙伴",
+      "published_at": "2026-08-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "20261029-gov_na_qu-3726eb",
+  "source": "gov_na_qu",
+  "source_name_zh": "那曲市政府网",
+  "source_name_en": "那曲 Government Portal",
+  "source_media_id": "gov-cn-prefecture-na_qu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.naqu.gov.cn/nqsrmzf/c100003/202610/fef6b4fdeb094e93a094f86d677671bd.shtml",
+  "title_zh": "张海波赴索县人民医院看望地震受伤群众",
+  "title_en": "Zhang Haibo Visits Earthquake-Injured Residents at Suo County People's Hospital",
+  "summary_zh": "10月23日下午，那曲市委书记张海波赴索县人民医院看望地震受伤群众，实地指导医疗救治保障工作。",
+  "summary_en": "On the afternoon of Oct 23, Nagqu Party Secretary Zhang Haibo visited Suo County People's Hospital to see residents injured in the earthquake and to direct medical treatment and support work.",
+  "body_zh": "10月23日下午，市委书记张海波前往索县人民医院，看望地震受伤群众，实地指导医疗救治保障工作。\n张海波逐一走进病房，来到伤员床前，关切询问伤势和诊疗情况，并耐心安抚群众情绪。他勉励大家，在以习近平同志为核心的党中央坚强领导下，以胡昌升同志为班长的自治区党委统筹部署和坚强带领下，在社会各界关心支持下，我们一定能够战胜一切艰难险阻。希望大家听从权威专家和医护人员指导，积极配合诊疗康复，争取早日恢复健康、回归正常生活。\n张海波要求医护人员，要全力做好伤员诊疗救治工作，提供优质贴心医疗服务，细致做好病情监测、康复评估和后续诊疗。对需要转院治疗的重症伤员，要细化转运方案、全程闭环保障，坚决确保转运安全、万无一失，全力守护群众生命健康安全。\n同时，张海波向连夜驰援、坚守一线、倾力救治伤员的各地医护救援队伍致以衷心感谢。\n高军涛参加。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "地震救灾",
+    "医疗救治",
+    "群众安置"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "索县人民医院",
+      "name_en": "Suo County People's Hospital"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "索县",
+      "name_en": "Suo County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗救治",
+      "name_en": "Medical Treatment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众安置",
+      "name_en": "Resident Resettlement"
+    },
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "索县人民医院",
+    "索县",
+    "地震救灾",
+    "医疗救治",
+    "群众安置",
+    "胡昌升"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Suo County People's Hospital",
+    "Suo County",
+    "Earthquake Relief",
+    "Medical Treatment",
+    "Resident Resettlement"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      "hu-changsheng"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "索县人民医院",
+        "name_en": "Suo County People's Hospital"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261029-gov_na_qu-3726eb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

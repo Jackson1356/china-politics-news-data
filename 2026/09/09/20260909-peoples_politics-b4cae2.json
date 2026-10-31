@@ -1,0 +1,92 @@
+{
+  "id": "20260909-peoples_politics-b4cae2",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0909/c1001-40795488.html",
+  "title_zh": "今年以来全国政协委员3214人次参加各类协商会议",
+  "title_en": "CPPCC Members Participate in 3,214 Consultative Meetings This Year",
+  "summary_zh": "9月9日，全国政协副秘书长胡衡庐在国新办发布会上介绍，今年以来全国政协委员3214人次参加各类协商会议，助力“十五五”规划实施。",
+  "summary_en": "On September 9, Hu Hengl, deputy secretary-general of the CPPCC, said at a State Council Information Office press conference that CPPCC members have participated in 3,214 consultative meetings this year to support the implementation of the 15th Five-Year Plan.",
+  "body_zh": "今年以来全国政协委员3214人次参加各类协商会议\n新华社北京9月9日电（记者唐健辉、王明玉）全国政协副秘书长、办公厅新闻发言人胡衡庐9月9日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，今年以来，全国政协委员共有3214人次参加各类协商会议，534人次参加视察考察调研，3905人次提交理论研究成果、提案、信息、大会发言等，214人次参加对外交往活动，以实际行动助力“十五五”规划实施。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "party",
+  "keywords": [
+    "协商民主",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CPPCC",
+      "name_zh": "全国政协",
+      "name_en": "National Committee of the Chinese People's Political Consultative Conference"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协商民主",
+      "name_en": "Consultative Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "全国政协",
+    "北京",
+    "协商民主",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "National Committee of the Chinese People's Political Consultative Conference",
+    "Beijing",
+    "Consultative Democracy",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CPPCC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260909-peoples_politics-b4cae2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34036639",
+      "title_zh": "今年以来全国政协委员3214人次参加各类协商会议",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

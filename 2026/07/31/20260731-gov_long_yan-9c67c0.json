@@ -1,0 +1,96 @@
+{
+  "id": "20260731-gov_long_yan-9c67c0",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202607/t20260731_2305320.htm",
+  "title_zh": "龙岩市人大常委会召开列席会议代表座谈会",
+  "title_en": "Longyan Municipal People's Congress Standing Committee Holds Symposium for Attending Representatives",
+  "summary_zh": "7月30日，龙岩市人大常委会召开列席市六届人大常委会第三十一次会议代表座谈会，副主任苏炎洪出席并讲话，代表围绕换届选举等工作发言。",
+  "summary_en": "On July 30, the Standing Committee of Longyan Municipal People's Congress held a symposium for representatives attending its 31st meeting. Vice Director Su Yanhong attended and spoke; representatives discussed election work.",
+  "body_zh": "列席市六届人大常委会第三十一次会议代表座谈会召开\n时间：2026-07-31 10:55\n7月30日，市人大常委会召开列席市六届人大常委会第三十一次会议代表座谈会，深入学习习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神。市人大常委会党组成员、副主任苏炎洪出席并讲话。\n会上，代表们结合市县乡三级人大换届选举工作，认真学习选举法、地方组织法、代表法等法律法规，以及围绕此次常委会会议的相关议题、市人大常委会工作等方面进行发言。市人大常委会领导认真听取发言，表示将梳理汇总代表意见建议并及时交办，推动人大工作高质量发展。\n会议强调，要提高政治站位，始终坚持以习近平新时代中国特色社会主义思想为指导，切实把履职行动统一到市委中心工作和人大监督部署上来。要聚焦重点领域，立足岗位优势，发挥代表作用，精准有力抓好议题监督和民意汇集工作。要严守纪律规矩，统筹推进本职工作与人大换届各项任务，为圆满完成换届选举工作、推动全市经济社会高质量发展贡献力量。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "人大工作",
+    "换届选举",
+    "代表履职"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代表履职",
+      "name_en": "Representative Duties"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "龙岩",
+    "人大工作",
+    "换届选举",
+    "代表履职",
+    "习近平"
+  ],
+  "tags_en": [
+    "Longyan",
+    "People's Congress Work",
+    "Election",
+    "Representative Duties"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "苏炎洪"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260731-gov_long_yan-9c67c0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

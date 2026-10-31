@@ -1,0 +1,102 @@
+{
+  "id": "20260618-sznews-59cd77",
+  "source": "sznews",
+  "source_name_zh": "深圳新闻网",
+  "source_name_en": "Shenzhen News",
+  "source_url": "https://www.sznews.com/news/content/2026-06/18/content_32094391.htm",
+  "title_zh": "多项重磅金融新政策出台推动经济稳健前行",
+  "title_en": "Multiple Major Financial Policies Released to Promote Steady Economic Growth",
+  "summary_zh": "2026年6月17日，金融监管总局、证监会和人民银行在陆家嘴论坛发布一系列新政，旨在支持科技创新、培育耐心资本并优化利率调控机制。",
+  "summary_en": "On June 17, 2026, the NFRA, CSRC, and PBOC released a series of financial policies at the Lujiazui Forum to support tech innovation, cultivate patient capital, and optimize interest rate regulation.",
+  "body_zh": "6月17日，多个金融部门在2026陆家嘴论坛上发布了一系列重磅政策。这些新举措会如何影响企业发展，又会给咱们普通人的生活带来哪些变化？来看总台央视记者王雷——财经老王带来的报道。\n金融监管总局：给科技创新“加油”\n金融监管总局明确，要着力促进新质生产力发展。\n国家金融监督管理总局局长丁向群表示，持续完善全周期科技金融服务体系，强化融资支持和保险保障，推动金融资源更好向新兴产业和未来产业集聚。\n这几年，银行给科技企业的贷款增速一直很快，明显高于各项贷款平均增速。老王觉得，有了这个政策的支持，以后科技企业找银行贷款会更容易，发展也更有底气。\n证监会：引入更多“耐心资本”\n中国证监会表示，要全力巩固资本市场稳中向好势头，加快培育壮大耐心资本。\n中国证监会主席吴清称：“我们将会同有关方面积极拓宽资金来源，引导养老金、保险资金等加大股权投资力度。”\n中国人民银行：优化利率调控机制\n另外，中国人民银行行长潘功胜宣布，将对利率调控机制进行进一步探索和优化。\n中国人民银行行长潘功胜表示，进一步推动货币政策框架向价格型转型，增强短端利率调控的精准性和有效性。\n听起来有点专业？简单说，就是央行调控短期利率的效果会更好，政策利率能更顺畅地传导到金融市场，提升货币政策的传导效率，最终目的还是为了更好地服务咱们的实体经济。\n老王相信，随着各项政策落地生效，并与产业政策、民生政策协同发力，中国经济将继续稳健前行，我们的生活也将越来越好。",
+  "image_url": null,
+  "published_at": "2026-06-18T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "耐心资本",
+    "货币政策"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "pan-gongsheng",
+      "name_zh": "潘功胜",
+      "name_en": "Pan Gongsheng"
+    },
+    {
+      "kind": "institution",
+      "id": "NFRA",
+      "name_zh": "国家金融监督管理总局",
+      "name_en": "National Financial Regulatory Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "耐心资本",
+      "name_en": "Patient Capital"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货币政策",
+      "name_en": "Monetary Policy"
+    }
+  ],
+  "tags_zh": [
+    "潘功胜",
+    "国家金融监督管理总局",
+    "中国人民银行",
+    "新质生产力",
+    "耐心资本",
+    "货币政策"
+  ],
+  "tags_en": [
+    "Pan Gongsheng",
+    "National Financial Regulatory Administration",
+    "People's Bank of China",
+    "New Quality Productive Forces",
+    "Patient Capital",
+    "Monetary Policy"
+  ],
+  "entities": {
+    "politicians": [
+      "pan-gongsheng",
+      {
+        "id": null,
+        "name_zh": "丁向群"
+      }
+    ],
+    "institutions": [
+      "NFRA",
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260618-sznews-59cd77",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

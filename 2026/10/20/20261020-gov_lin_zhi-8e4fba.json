@@ -1,0 +1,131 @@
+{
+  "id": "20261020-gov_lin_zhi-8e4fba",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/6e076535168644039162e52e70880d73.shtml",
+  "title_zh": "胡昌升会见吕军一行",
+  "title_en": "Hu Changsheng Meets with China Datang Chairman Lü Jun",
+  "summary_zh": "近日，西藏自治区党委书记胡昌升在拉萨会见中国大唐集团董事长吕军一行，双方就清洁能源开发与合作等议题交流。",
+  "summary_en": "Tibet Party Secretary Hu Changsheng met China Datang Chairman Lü Jun in Lhasa to discuss clean energy development and cooperation.",
+  "body_zh": "胡昌升会见吕军一行\n龚会才参加\n近日，自治区党委书记胡昌升在拉萨会见中国大唐集团有限公司党组书记、董事长吕军一行。\n本报拉萨10月19日讯（记者 王雅慧 刘文涛 王艺霏）近日，自治区党委书记胡昌升在拉萨会见中国大唐集团有限公司党组书记、董事长吕军一行。\n胡昌升代表自治区党委、政府对吕军一行表示欢迎，向中国大唐集团长期以来给予西藏发展的支持表示感谢。他说，当前，西藏正深入贯彻落实习近平总书记关于西藏工作的重要指示和新时代党的治藏方略，大力推进国家清洁能源基地建设，因地制宜发展新质生产力。希望中国大唐集团持续发挥产业、人才、装备等优势，加快推进清洁能源等产业项目落地见效，引进上下游企业，助推“绿电出高原”，让西藏的水、风、光资源转化为经济优势、发展优势；严守生态红线，创新帮扶模式，带动更多城乡居民就业增收，把项目建成民心工程、生态工程。西藏将持续优化营商环境，全力做好服务保障工作，不断夯实合作基础，支持企业在藏发展。\n吕军表示，中国大唐集团将进一步加大在藏投资布局力度，加快重点项目建设，推动产业创新融合发展，积极做好对口支援工作，促进民族团结、民生改善与乡村振兴，为西藏长治久安和高质量发展作出更大贡献。\n自治区领导龚会才、旦巴参加。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "economy",
+  "keywords": [
+    "清洁能源",
+    "国家清洁能源基地",
+    "对口支援"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": "Hu Changsheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "吕军",
+      "name_en": "Lü Jun"
+    },
+    {
+      "kind": "institution",
+      "id": "DATANG",
+      "name_zh": "中国大唐集团有限公司",
+      "name_en": "China Datang Corporation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家清洁能源基地",
+      "name_en": "National Clean Energy Base"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口支援",
+      "name_en": "Pairing Assistance"
+    },
+    {
+      "kind": "person",
+      "id": "danba-xizang",
+      "name_zh": "旦巴",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "gong-huicai",
+      "name_zh": "龚会才",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "胡昌升",
+    "吕军",
+    "中国大唐集团有限公司",
+    "拉萨",
+    "清洁能源",
+    "国家清洁能源基地",
+    "对口支援",
+    "旦巴",
+    "龚会才"
+  ],
+  "tags_en": [
+    "Hu Changsheng",
+    "Lü Jun",
+    "China Datang Corporation",
+    "Lhasa",
+    "Clean Energy",
+    "National Clean Energy Base",
+    "Pairing Assistance"
+  ],
+  "entities": {
+    "politicians": [
+      "danba-xizang",
+      "gong-huicai",
+      "hu-changsheng",
+      {
+        "id": null,
+        "name_zh": "吕军"
+      }
+    ],
+    "institutions": [
+      "DATANG"
+    ],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261020-gov_lin_zhi-8e4fba",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

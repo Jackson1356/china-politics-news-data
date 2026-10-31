@@ -1,0 +1,115 @@
+{
+  "id": "20260831-bjnews-f4992a",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1788163479129277.html",
+  "title_zh": "受贿1864万余元，四川达州市政协原副主席王洪波一审获刑11年",
+  "title_en": "Former Dazhou CPPCC Vice Chairman Wang Hongbo Sentenced to 11 Years for Bribery",
+  "summary_zh": "2026年8月31日，四川乐山中院一审公开宣判达州市政协原副主席王洪波受贿案，判处有期徒刑十一年，并处罚金180万元，追缴全部受贿所得。",
+  "summary_en": "On August 31, 2026, the Leshan Intermediate People's Court in Sichuan sentenced Wang Hongbo, former vice chairman of Dazhou CPPCC, to 11 years in prison for bribery and a fine of 1.8 million yuan, with all illicit gains confiscated.",
+  "body_zh": "新京报讯 2026年8月31日，四川省乐山市中级人民法院一审公开宣判四川省达州市政协原副主席王洪波受贿案，对被告人王洪波以受贿罪判处有期徒刑十一年，并处罚金人民币一百八十万元；对查扣在案的王洪波受贿所得财物及孳息予以追缴，上缴国库。\n经审理查明：1999年至2025年，被告人王洪波利用担任四川省渠县财政局局长，大竹县委常委、副县长，达州市财政局局长等职务上的便利，为他人在银行揽储、工程项目承揽等事项上提供帮助，非法收受财物共计折合人民币1864万余元。\n乐山市中级人民法院认为，被告人王洪波的行为构成受贿罪，且受贿数额特别巨大，应依法惩处。鉴于王洪波到案后如实供述自己的罪行，主动交代办案机关尚未掌握的部分受贿事实，自愿认罪认罚，积极退赃，受贿所得财物及孳息已全部追缴到案，依法可对其从轻处罚。法庭遂依法作出上述判决。\n乐山市中级人民法院于2026年6月3日公开开庭审理了该案。庭审中，检察机关出示了相关证据，被告人王洪波及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见，王洪波进行了最后陈述，并当庭表示认罪悔罪。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "受贿"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王洪波",
+      "name_en": "Wang Hongbo"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "乐山市中级人民法院",
+      "name_en": "Leshan Intermediate People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿",
+      "name_en": "Bribery"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "洪波",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王洪波",
+    "乐山市中级人民法院",
+    "四川",
+    "反腐败",
+    "受贿",
+    "洪波"
+  ],
+  "tags_en": [
+    "Wang Hongbo",
+    "Leshan Intermediate People's Court",
+    "Sichuan",
+    "Anti-corruption",
+    "Bribery"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "洪波"
+      },
+      {
+        "id": null,
+        "name_zh": "洪波以"
+      },
+      {
+        "id": null,
+        "name_zh": "王洪波"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "乐山市中级人民法院",
+        "name_en": "Leshan Intermediate People's Court"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260831-bjnews-f4992a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

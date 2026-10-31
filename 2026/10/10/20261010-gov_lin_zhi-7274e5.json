@@ -1,0 +1,104 @@
+{
+  "id": "20261010-gov_lin_zhi-7274e5",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/974f5972d3e84257a1a702c4e16efd57.shtml",
+  "title_zh": "自治区政协召开“深化僧尼国通语普及推进共同体建设”专题协商座谈会",
+  "title_en": "Tibet Autonomous Region CPPCC Holds Consultative Symposium on Promoting Standard Chinese Among Monks and Nuns",
+  "summary_zh": "10月9日上午，西藏自治区政协在拉萨召开“深化僧尼国通语普及 推进共同体建设”专题协商座谈会，自治区副主席赵鹏出席讲话，政协副主席卓嘎主持。",
+  "summary_en": "On the morning of Oct 9, the Tibet Autonomous Region CPPCC held a consultative symposium in Lhasa on promoting standard Chinese among monks and nuns; Vice Chairman Zhao Peng spoke and CPPCC Vice Chairman Zhuoga chaired.",
+  "body_zh": "自治区政协召开“深化僧尼国通语普及推进共同体建设”专题协商座谈会\n赵鹏出席并讲话 卓嘎主持\n本报拉萨10月9日讯（记者 晓勇 见习记者 李欣梦）9日上午，自治区政协召开“深化僧尼国通语普及 推进共同体建设”专题协商座谈会，听取各方意见建议，提高协商议政质量，为深化寺庙僧尼国通语推广普及、增进僧尼“五个认同”凝聚共识、建言献策。\n自治区副主席赵鹏出席并讲话，自治区政协副主席卓嘎主持会议。\n会议强调，推广普及国家通用语言文字，对促进各民族交往交流交融、推进中华民族共同体建设具有十分重要的意义。要持续提高政治站位，牢牢把握铸牢中华民族共同体意识这条主线，当先锋、作表率，推动寺庙僧尼国通语普及工作从“全覆盖”向“高质量”跃升；要充分认识学习国通语是新时代僧尼修行的重要内容，推动国家通用语言学习与僧尼生产生活紧密结合；要讲究方式方法，多措并举推动寺庙僧尼国通语推广普及工作走深走实。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "party",
+  "keywords": [
+    "国家通用语言文字普及",
+    "中华民族共同体建设",
+    "寺庙僧尼工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赵鹏",
+      "name_en": "Zhao Peng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家通用语言文字普及",
+      "name_en": "Promotion of Standard Chinese"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族共同体建设",
+      "name_en": "Building a Community for the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "寺庙僧尼工作",
+      "name_en": "Work with Monks and Nuns"
+    }
+  ],
+  "tags_zh": [
+    "赵鹏",
+    "拉萨",
+    "国家通用语言文字普及",
+    "中华民族共同体建设",
+    "寺庙僧尼工作"
+  ],
+  "tags_en": [
+    "Zhao Peng",
+    "Lhasa",
+    "Promotion of Standard Chinese",
+    "Building a Community for the Chinese Nation",
+    "Work with Monks and Nuns"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "赵鹏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261010-gov_lin_zhi-7274e5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202610/t20261010_177702.html",
+      "title_zh": "赵鹏：自治区政协召开“深化僧尼国通语普及推进共同体建设”专题协商座谈会",
+      "published_at": "2026-10-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

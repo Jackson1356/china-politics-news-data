@@ -1,0 +1,86 @@
+{
+  "id": "20260911-gov_cn_yaowen-168044",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080797.htm",
+  "title_zh": "我国正式推行数据产权登记制度",
+  "title_en": "China Formally Launches Data Property Rights Registration System",
+  "summary_zh": "9月11日，国家数据局宣布我国正式推行数据产权登记制度，国家数据产权登记服务系统同日启动试运行，北京国际大数据交易所等率先成为登记机构。",
+  "summary_en": "On September 11, the National Data Administration announced that China has formally launched a data property rights registration system, with the national registration service system beginning trial operation the same day and the Beijing International Big Data Exchange among the first designated registrars.",
+  "body_zh": "记者今天（9月11日）从国家数据局了解到，我国正式推行数据产权登记制度。登记机构将为各类形态数据出具“身份证明”，明确数据持有权、数据使用权、数据经营权等权利归属，更好支撑数据流通交易、数据资产入表、融资担保、作价入股等生产经营活动。\n国家数据产权登记服务系统也在今天启动试运行，经过遴选，北京国际大数据交易所等多家数据交易所率先成为登记机构。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-11",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "economy",
+  "keywords": [
+    "数据产权登记",
+    "数据要素市场",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据产权登记",
+      "name_en": "Data Property Rights Registration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素市场",
+      "name_en": "Data Factor Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "数据产权登记",
+    "数据要素市场",
+    "数字经济"
+  ],
+  "tags_en": [
+    "National Data Administration",
+    "Data Property Rights Registration",
+    "Data Factor Market",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260911-gov_cn_yaowen-168044",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

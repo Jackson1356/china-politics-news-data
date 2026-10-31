@@ -1,0 +1,124 @@
+{
+  "id": "20261023-xinhua_js-6925cb",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20261023/cd5cf026f014476faebc50a5f6a25fcf/c.html",
+  "title_zh": "江苏徐州农商银行揭牌开业 刘小涛出席",
+  "title_en": "Jiangsu Xuzhou Rural Commercial Bank Opens, Governor Liu Xiaotao Attends",
+  "summary_zh": "10月22日，江苏徐州农商银行揭牌开业暨授信签约活动在南京举行，省长刘小涛出席揭牌，并与徐州市签署战略合作协议。",
+  "summary_en": "On Oct 22, the opening and credit-signing ceremony for Jiangsu Xuzhou Rural Commercial Bank was held in Nanjing, attended by Governor Liu Xiaotao, who unveiled the bank and witnessed a strategic cooperation agreement with Xuzhou.",
+  "body_zh": "10月22日，江苏徐州农商银行揭牌开业暨授信签约活动在南京举行。省长刘小涛出席并为江苏徐州农商银行揭牌。\n省委常委、常务副省长张文兵见证江苏农商联合银行与徐州市签署战略合作协议。江苏徐州农商银行获颁经营许可证照，并与徐州市国有企业、农业龙头企业、涉农产业主体等单位签署授信协议。徐州市和江苏农商联合银行分别介绍了徐州地区农商行统一法人改革相关情况。\n随后，全省农商行减量提质改革专题会召开，听取有关工作汇报，对下一步重点任务作出部署。\n省政府秘书长赵建军，省有关部门单位、部分设区市负责同志参加。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "economy",
+  "keywords": [
+    "农商行改革",
+    "统一法人改革",
+    "金融服务",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-XZ",
+      "name_zh": "徐州",
+      "name_en": "Xuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农商行改革",
+      "name_en": "Rural Commercial Bank Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一法人改革",
+      "name_en": "Unified Legal Entity Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务",
+      "name_en": "Financial Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "张文兵",
+    "南京",
+    "徐州",
+    "农商行改革",
+    "统一法人改革",
+    "金融服务",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Zhang Wenbing",
+    "Nanjing",
+    "Xuzhou",
+    "Rural Commercial Bank Reform",
+    "Unified Legal Entity Reform",
+    "Financial Services",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "zhang-wenbing",
+      {
+        "id": null,
+        "name_zh": "徐州市"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ",
+      "CN-JS-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-gov_yan_cheng-fc38f0",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

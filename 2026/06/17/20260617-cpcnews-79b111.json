@@ -1,0 +1,123 @@
+{
+  "id": "20260617-cpcnews-79b111",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0617/c64094-40741973.html",
+  "title_zh": "刘国中出席非洲应对埃博拉疫情特别视频峰会并致辞",
+  "title_en": "Liu Guozhong Attends Special Video Summit on Africa's Response to Ebola Epidemic and Delivers Speech",
+  "summary_zh": "6月16日，国务院副总理刘国中出席非洲应对埃博拉疫情特别视频峰会并致辞，强调中非卫生健康伙伴行动及国际抗疫合作。",
+  "summary_en": "On June 16, Vice Premier Liu Guozhong attended and addressed a special video summit on Africa's response to the Ebola epidemic, emphasizing China-Africa health cooperation.",
+  "body_zh": "新华社银川6月16日电 （记者邹欣媛）6月16日，中共中央政治局委员、国务院副总理刘国中应邀出席非洲应对埃博拉疫情特别视频峰会并致辞。\n刘国中表示，习近平主席提出构建人类命运共同体重要理念，倡导构建人类卫生健康共同体，为国际抗疫合作指明了方向。中非从来都是命运共同体。中方已向刚果（金）和非洲联盟提供紧急人道主义援助，向刚果（金）派遣医疗专家组，近千名医疗队专业人员会同非洲民众并肩抗疫。中方将在中非合作论坛框架内，落实好中非卫生健康伙伴行动，呼吁国际社会加强团结合作、向非洲提供更多支持。\n峰会由非盟轮值主席、布隆迪总统恩达伊施米耶主持，南非、赤道几内亚、津巴布韦等10余个非洲国家元首和政府首脑，以及世界卫生组织等国际和地区组织、非洲域外伙伴代表等参会。\n《 人民日报 》（ 2026年06月17日 03 版）",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "卫生健康共同体",
+    "中非合作",
+    "抗疫合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-guozhong",
+      "name_zh": "刘国中",
+      "name_en": "Liu Guozhong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生健康共同体",
+      "name_en": "Community of Health for All"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作",
+      "name_en": "China-Africa Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗疫合作",
+      "name_en": "Epidemic Control Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘国中",
+    "国务院",
+    "卫生健康共同体",
+    "中非合作",
+    "抗疫合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Liu Guozhong",
+    "State Council",
+    "Community of Health for All",
+    "China-Africa Cooperation",
+    "Epidemic Control Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "liu-guozhong",
+      {
+        "id": null,
+        "name_zh": "施米耶"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260617-cpcnews-79b111",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0617/c1001-40741758.html",
+      "title_zh": "刘国中出席非洲应对埃博拉疫情特别视频峰会并致辞",
+      "published_at": "2026-06-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072391.htm",
+      "title_zh": "刘国中出席非洲应对埃博拉疫情特别视频峰会并致辞",
+      "published_at": "2026-06-17T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-17/10642309.shtml",
+      "title_zh": "中方：将提供力所能及的抗疫支持 帮助非洲早日战胜埃博拉疫情",
+      "published_at": "2026-06-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

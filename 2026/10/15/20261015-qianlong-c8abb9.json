@@ -1,0 +1,113 @@
+{
+  "id": "20261015-qianlong-c8abb9",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/1015/8738551.shtml",
+  "title_zh": "尹力会见美国沃尔玛公司全球总裁兼首席执行官",
+  "title_en": "Yin Li Meets Walmart Global President and CEO John Furner",
+  "summary_zh": "10月14日，北京市委书记尹力会见美国沃尔玛公司全球总裁兼首席执行官约翰·弗纳，弗纳表示沃尔玛将继续扩大在京投资和业务布局。",
+  "summary_en": "On Oct 14, Beijing Party Secretary Yin Li met Walmart Global President and CEO John Furner, who said Walmart will keep expanding its investment and business footprint in the capital.",
+  "body_zh": "14日，市委书记尹力会见美国沃尔玛公司全球总裁兼首席执行官约翰·弗纳。\n弗纳表示，沃尔玛进入中国市场30年来，见证了中国经济社会发展取得的巨大成就。北京有着广阔市场机遇，沃尔玛将继续扩大在京投资和业务布局，持续优化零售业态、提升服务水平，为市民提供更加安全优质的商品，推动更多北京产品在全球市场销售，为推进北京高质量发展发挥更大作用。\n市领导夏林茂、赵磊、唐文弘参加会见。\n（本文摘自北京日报第1版）",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "外商投资",
+    "零售业发展",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-li",
+      "name_zh": "尹力",
+      "name_en": "Yin Li"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商投资",
+      "name_en": "Foreign Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "零售业发展",
+      "name_en": "Retail Sector Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xia-linmao",
+      "name_zh": "夏林茂",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "zhao-lei-beijing",
+      "name_zh": "赵磊",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "尹力",
+    "北京",
+    "外商投资",
+    "零售业发展",
+    "高质量发展",
+    "夏林茂",
+    "赵磊"
+  ],
+  "tags_en": [
+    "Yin Li",
+    "Beijing",
+    "Foreign Investment",
+    "Retail Sector Development",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-lei-beijing",
+      "xia-linmao",
+      "yin-li",
+      {
+        "id": null,
+        "name_zh": "唐文弘"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261015-qianlong-c8abb9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

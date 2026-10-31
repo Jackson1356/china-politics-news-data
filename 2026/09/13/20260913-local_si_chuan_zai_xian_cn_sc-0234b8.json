@@ -1,0 +1,99 @@
+{
+  "id": "20260913-local_si_chuan_zai_xian_cn_sc-0234b8",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202609/83321184.html",
+  "title_zh": "从喀山、天津到新德里，习主席都提到中印最大“公约数”",
+  "title_en": "From Kazan and Tianjin to New Delhi, Xi Jinping Highlights China-India's Biggest 'Common Denominator'",
+  "summary_zh": "习近平指出，中方始终从战略高度和长远角度看待和发展中印关系，从喀山、天津到新德里，中印领导人连续三年双边会晤中，习主席均提到“发展”这一最大“公约数”。",
+  "summary_en": "Xi Jinping said China views and develops China-India relations from a strategic and long-term perspective, stressing \"development\" as the biggest common denominator across three consecutive years of bilateral summits in Kazan, Tianjin and New Delhi.",
+  "body_zh": "天下\n高层动态\n> 正文\n此行间·从喀山、天津到新德里，习主席都提到中印最大“公约数”\n习近平指出，中方始终从战略高度和长远角度看待和发展中印关系。从喀山、天津到新德里，中印领导人连续三年的双边会晤，习主席都提到了“发展”这一最大“公约数”。",
+  "image_url": null,
+  "published_at": "2026-09-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中印关系",
+    "发展战略",
+    "周边外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中印关系",
+      "name_en": "China-India Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "发展战略",
+      "name_en": "Development Strategy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "周边外交",
+      "name_en": "Neighborhood Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "新德里",
+    "中印关系",
+    "发展战略",
+    "周边外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New Delhi",
+    "China-India Relations",
+    "Development Strategy",
+    "Neighborhood Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260913-local_si_chuan_zai_xian_cn_sc-0234b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cjn",
+      "source_tier": 4,
+      "url": "http://news.cjn.cn/asy/ttxw/202609/t5339506.htm",
+      "title_zh": "此行间·从喀山、天津到新德里，习主席都提到中印最大“公约数”",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

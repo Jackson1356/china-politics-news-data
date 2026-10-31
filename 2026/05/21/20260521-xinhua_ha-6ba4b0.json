@@ -1,0 +1,100 @@
+{
+  "id": "20260521-xinhua_ha-6ba4b0",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_url": "http://ha.news.cn/20260522/b61dc5c8c1524947b187d831c0b906cb/c.html",
+  "title_zh": "王凯到郑州调研新型基础设施建设工作",
+  "title_en": "Wang Kai Conducts Research on New Infrastructure Construction in Zhengzhou",
+  "summary_zh": "5月21日，省长王凯到郑州市调研新型基础设施建设，考察充电站、加氢站及汽车企业，强调要以新基建助力绿色转型和发展新质生产力。",
+  "summary_en": "On May 21, Governor Wang Kai visited Zhengzhou to research new infrastructure construction, emphasizing the role of new infrastructure in promoting green transition and developing new quality productive forces.",
+  "body_zh": "5月21日，省长王凯到郑州市调研新型基础设施建设工作。\n位于郑东新区的小象充电龙湖里超级充电站设有多部快充设备，是近年来布局的区域性充电枢纽。王凯实地察看设备配置、智能管理和运营维护情况，指出充电设施是促进新能源汽车推广使用、保障群众绿色出行的重要基础设施，要优化站点布局，推动充电设施迭代升级，加快与城市电网、智慧交通、数字平台融通发展，不断提高服务覆盖面、充电便捷度和运营数智化水平。\n随后，王凯来到郑州华润燃气航海东路加氢站，详细了解站点经营、氢气储运安全等情况。他强调，要抢抓国家开展氢能综合应用试点机遇，加快郑汴洛濮氢走廊建设，推动制氢、储氢、运氢、加氢设施协同布局，降低运营成本、提升安全水平，促进氢能在交通、能源、工业等领域应用，助力经济社会全面绿色转型。\n在郑州日产汽车有限公司，王凯走进总装车间，察看智能化生产线运行情况，强调要支持引导企业把握产业发展趋势，发挥品牌优势，加大研发力度，深耕细分领域，积极开发新能源皮卡等商用车型，不断开拓新赛道、提升竞争力。\n调研中王凯强调，新型基础设施既是扩大内需的重要抓手，也是发展新质生产力的关键底座，要认真落实党中央决策部署，按照省委工作安排，坚持集约高效、适度超前原则，突出需求导向，强化规划引领，科学推进新基建项目谋划建设，实现布局更合理、供给更高效、利用更充分。要加快交通基础设施安全化提升、智能化升级、绿色化转型，积极推进新能源重卡充换电网络建设，促进交通与旅游、交通与能源、交通与邮政共建共享、融合发展。要着力构建新型能源系统，因地制宜发展光伏、风电、氢能等清洁能源，推进实施一批源网荷储一体化项目，加快建设新型电网，持续优化能源结构。要坚持政府引导、市场运作，创新投融资模式，有效调动社会资本积极性，探索完善投、建、运、管协同机制，确保新基建项目运营可持续、投资有回报、服务有品质。\n李涛参加调研。（全媒体记者 归欣）",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "industry",
+  "keywords": [
+    "新型基础设施",
+    "新质生产力",
+    "绿色转型"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-kai-henan",
+      "name_zh": "王凯",
+      "name_en": "Wang Kai"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "郑州",
+      "name_en": "Zhengzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型基础设施",
+      "name_en": "New Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色转型",
+      "name_en": "Green Transition"
+    }
+  ],
+  "tags_zh": [
+    "王凯",
+    "郑州",
+    "新型基础设施",
+    "新质生产力",
+    "绿色转型"
+  ],
+  "tags_en": [
+    "Wang Kai",
+    "Zhengzhou",
+    "New Infrastructure",
+    "New Quality Productive Forces",
+    "Green Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-kai-henan",
+      "li-tao-henan",
+      {
+        "id": null,
+        "name_zh": "郑州市"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260521-xinhua_ha-6ba4b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0522/c351638-41587521.html",
+      "title_zh": "王凯到郑州调研新型基础设施建设工作",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "20260915-local_yang_zi_wan_bao_wang_cn_js-a390a4",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202609/t20260915_392929.html",
+  "title_zh": "国家发改委安排3000万元支持海南暴雨洪涝灾害灾后应急恢复",
+  "title_en": "NDRC Allocates 30 Million Yuan to Support Post-Disaster Recovery in Hainan After Rainstorm and Flooding",
+  "summary_zh": "国家发展改革委紧急安排3000万元中央预算内投资，支持海南省暴雨洪涝灾害灾后应急恢复，重点用于受损道路、水利等基础设施及学校、医院等公共服务设施恢复建设。",
+  "summary_en": "China's National Development and Reform Commission urgently allocated 30 million yuan from the central budget to support post-disaster recovery in Hainan Province after rainstorm and flooding, focusing on damaged roads, water infrastructure, schools and hospitals.",
+  "body_zh": "国家发改委安排3000万元支持海南暴雨洪涝灾害灾后应急恢复\n为贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，根据《国家自然灾害救助应急预案》和海南省灾害损失情况，国家发展改革委紧急安排3000万元中央预算内投资，支持海南省做好暴雨洪涝灾害灾后应急恢复，重点用于灾区受损道路、水利等基础设施和学校、医院等公共服务设施灾后应急恢复建设，推动尽快恢复正常生产生活秩序。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "灾后重建",
+    "中央预算内投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾后重建",
+      "name_en": "Post-Disaster Reconstruction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央预算内投资",
+      "name_en": "Central Budget Investment"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "海南",
+    "防汛救灾",
+    "灾后重建",
+    "中央预算内投资"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Hainan",
+    "Flood Control and Disaster Relief",
+    "Post-Disaster Reconstruction",
+    "Central Budget Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260915-local_yang_zi_wan_bao_wang_cn_js-a390a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1789460605129712.html",
+      "title_zh": "国家发改委安排3000万元支持海南暴雨洪涝灾害灾后应急恢复",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

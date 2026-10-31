@@ -1,0 +1,91 @@
+{
+  "id": "20261008-gov_cn_yaowen-6bf4c3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082752.htm",
+  "title_zh": "国庆假期高速公路新能源汽车日均充电量同比增长51.42%",
+  "title_en": "Highway EV Daily Charging Volume Rises 51.42% Year-on-Year During National Day Holiday",
+  "summary_zh": "10月8日，国家能源局数据显示，10月1日至7日全国高速公路新能源汽车充电671.1万次，充电量1.63亿千瓦时，日均充电量同比增长51.42%。",
+  "summary_en": "On Oct 8, the National Energy Administration said China's highway EV charging hit 6.711 million sessions and 163 million kWh from Oct 1 to 7, with daily charging volume up 51.42% year-on-year.",
+  "body_zh": "记者10月8日从国家能源局获悉，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施（枪）的统计分析，自10月1日0时至10月7日24时，我国高速公路新能源汽车充电次数共计671.1万次，充电量达到1.63亿千瓦时；日均充电量2325.66万千瓦时，日均充电量同比增长51.42%。",
+  "image_url": null,
+  "published_at": "2026-10-08T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "充电基础设施",
+    "高速公路出行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "充电基础设施",
+      "name_en": "Charging Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速公路出行",
+      "name_en": "Highway Travel"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "新能源汽车",
+    "充电基础设施",
+    "高速公路出行"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "New Energy Vehicles",
+    "Charging Infrastructure",
+    "Highway Travel"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261008-gov_cn_yaowen-6bf4c3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20261008/55e24408675141af8a628422d14e1699/c.html",
+      "title_zh": "国庆假期高速公路新能源汽车日均充电量同比增长51.42%",
+      "published_at": "2026-10-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "20260929-gov_cn_yaowen-26c10f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/29/VIDEyH8fMEn7DNPI6YGAGA1O260929.shtml",
+  "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
+  "title_en": "Martyrs' Day Flower Basket Ceremony to Be Held on the Morning of Sept 30; Xi Jinping and Other Party and State Leaders to Attend",
+  "summary_zh": "9月30日烈士纪念日上午，习近平等党和国家领导人将同各界代表在天安门广场向人民英雄敬献花篮，中央广播电视总台等平台将现场直播。",
+  "summary_en": "On the morning of Sept 30, Martyrs' Day, Xi Jinping and other Party and state leaders will join representatives from all sectors in laying a flower basket to the people's heroes at Tiananmen Square, with live coverage by China Media Group.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：今年是中国共产党成立105周年、红军长征胜利90周年。9月30日是国家设立的烈士纪念日，当天上午，习近平等党和国家领导人将同各界代表一起，在天安门广场向人民英雄敬献花篮。\n届时，中央广播电视总台所属中央电视台综合频道、新闻频道、中文国际频道、国防军事频道、中国国际电视台各外语频道，中央人民广播电台中国之声、中国国际广播电台环球资讯广播等频率将进行现场直播；央视新闻、央视频、央视网等中央重点新媒体平台将同步转播。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "烈士纪念日",
+    "敬献花篮仪式"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "天安门广场",
+      "name_en": "Tiananmen Square"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烈士纪念日",
+      "name_en": "Martyrs' Day"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "敬献花篮仪式",
+      "name_en": "Flower Basket Ceremony"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "天安门广场",
+    "烈士纪念日",
+    "敬献花篮仪式"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Tiananmen Square",
+    "Martyrs' Day",
+    "Flower Basket Ceremony"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260928-gov_cn_yaowen-eed982",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/ywdt/001005/20260929/be67e806-2b15-4d55-a350-4a41ca96376a.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席_抚顺市人民政府",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202609/t20260929_177386.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行习近平等党和国家领导人将出席",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20260929/d43333a9-0c94-4d21-adb5-d5441687d467.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": null,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2104742922604892162.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
+      "published_at": "2026-09-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

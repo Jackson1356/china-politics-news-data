@@ -1,0 +1,88 @@
+{
+  "id": "20260729-gov_huai_an-c65e25",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17828352/1785295148880gGh083F6.html",
+  "title_zh": "市领导围绕树立和践行正确政绩观讲授专题党课",
+  "title_en": "City Leader Delivers Special Party Lecture on Correct View of Political Achievements",
+  "summary_zh": "近日，淮安市委副书记、市长顾坤为政府系统党员干部讲授专题党课，强调树立和践行正确政绩观。",
+  "summary_en": "Recently, Gu Kun, Deputy Secretary of the Huai'an Municipal Party Committee and Mayor, delivered a special Party lecture to government cadres, emphasizing establishing and practicing a correct view of political achievements.",
+  "body_zh": "根据树立和践行正确政绩观学习教育及全市纪法宣讲“千百万”行动部署，近日，市委副书记、市长顾坤为政府系统党员干部讲授专题党课。他强调，要深入学习贯彻习近平党建思想、习近平总书记关于树立和践行正确政绩观的重要论述以及对淮安殷切嘱托，坚持正确政绩观引领，进一步凝心聚力、真抓实干，以更多实绩实效奋力推动淮安高质量发展“保持好势头、提升贡献度”。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "正确政绩观",
+    "纪法宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正确政绩观",
+      "name_en": "Correct View of Political Achievements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪法宣讲",
+      "name_en": "Discipline and Law Publicity"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "正确政绩观",
+    "纪法宣讲"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Correct View of Political Achievements",
+    "Discipline and Law Publicity"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "万行动"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260729-gov_huai_an-c65e25",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

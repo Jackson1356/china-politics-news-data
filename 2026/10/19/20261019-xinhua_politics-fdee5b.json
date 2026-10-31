@@ -1,0 +1,96 @@
+{
+  "id": "20261019-xinhua_politics-fdee5b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261019/88029ea3e64042bcaab3589dcb45b48a/c.html",
+  "title_zh": "全国秋粮收获超七成，秋粮旺季收购有序开展",
+  "title_en": "Over 70% of China's Autumn Grain Harvested as Peak-Season Purchases Proceed in an Orderly Manner",
+  "summary_zh": "据农业农村部农情调度，全国秋粮收获过七成，秋冬种同步推进；国家粮食和物资储备局称，各类经营主体已收购中晚稻1800万吨。",
+  "summary_en": "According to the Ministry of Agriculture and Rural Affairs, more than 70 percent of China's autumn grain has been harvested and winter planting is under way; the National Food and Strategic Reserves Administration says 18 million tonnes of mid-to-late rice have been purchased.",
+  "body_zh": "据农业农村部最新农情调度，全国秋粮收获过七成。其中，东北过六成，黄淮海、西南过八成，西北近八成，长江中下游过六成，华南过三成。同时，各地秋冬种有序推进，冬小麦播种过一成，冬油菜播种过三成。（记者郁静娴）\n记者从国家粮食和物资储备局获悉：各地秋粮旺季收购正有序展开。初步统计，各类经营主体已收购中晚稻1800万吨。\n当前秋粮已开始收获上市，秋粮产量占全年粮食产量的3/4左右，涉及品种多、数量规模大、覆盖区域广。相关部门将加强秋粮收购工作统筹组织，抓好市场化收购和政策性收储，落实落细各项政策举措，全力保障农民售粮渠道顺畅、市场平稳运行。（记者王东辉）",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "秋粮收购",
+    "粮食安全",
+    "秋冬种"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮收购",
+      "name_en": "Autumn Grain Purchasing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋冬种",
+      "name_en": "Winter Planting"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "国家粮食和物资储备局",
+    "秋粮收购",
+    "粮食安全",
+    "秋冬种"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "National Food and Strategic Reserves Administration",
+    "Autumn Grain Purchasing",
+    "Food Security",
+    "Winter Planting"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261019-xinhua_politics-fdee5b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

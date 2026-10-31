@@ -1,0 +1,115 @@
+{
+  "id": "20260701-gov_cn_yaowen-63b01d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074003.htm",
+  "title_zh": "刘国中在中国白俄罗斯地方合作论坛开幕式上发表视频致辞",
+  "title_en": "Liu Guozhong Delivers Video Speech at the Opening Ceremony of the China-Belarus Local Cooperation Forum",
+  "summary_zh": "2026年7月1日，中国白俄罗斯地方合作论坛在甘肃兰州开幕，国务院副总理刘国中发表视频致辞，提出以产业融通、人文交流和机制建设深化中白地方合作。",
+  "summary_en": "On July 1, 2026, the China-Belarus Local Cooperation Forum opened in Lanzhou, Gansu. Vice Premier Liu Guozhong delivered a video speech proposing to deepen local cooperation through industrial integration, cultural exchanges, and mechanism construction.",
+  "body_zh": "新华社兰州7月1日电 中国白俄罗斯地方合作论坛7月1日在甘肃省兰州市开幕。中共中央政治局委员、国务院副总理刘国中发表视频致辞。\n刘国中表示，在习近平主席和卢卡申科总统的战略引领下，中白全天候全面战略伙伴关系高水平发展，各领域合作全方位推进。地方合作是两国关系的重要组成部分，近年来中白地方交流日益频繁，友城数量不断增加，合作领域逐步拓展，取得显著成效，为两国务实合作注入强劲动力。\n刘国中强调，中白两国发展战略高度契合，合作需求深度对接。高质量共建“一带一路”为两国发展带来新契机，也为地方合作搭建了广阔平台。他提出3点建议：一是以产业融通为引擎，充分发挥中白工业园的产业集聚和辐射作用，打造合作新增长点。二是以人文交流为纽带，加强教育、卫生、文化、旅游、青年等领域合作，夯实世代友好根基。三是以机制建设为保障，依托中白政府间合作委员会，推动更多省州深化合作关系，提升合作可预期性。\n白俄罗斯第一副总理斯诺普科夫出席开幕式并致辞。\n中白地方合作论坛主题是“汇聚地方之力，共创繁荣发展”，由全国对外友协、甘肃省人民政府和白俄罗斯外交部、格罗德诺州政府共同主办，两国各界人士共300余人与会。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "中白合作",
+    "一带一路",
+    "地方合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-guozhong",
+      "name_zh": "刘国中",
+      "name_en": "Liu Guozhong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中白合作",
+      "name_en": "China-Belarus Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方合作",
+      "name_en": "Local Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "刘国中",
+    "国务院",
+    "兰州",
+    "甘肃",
+    "中白合作",
+    "一带一路",
+    "地方合作"
+  ],
+  "tags_en": [
+    "Liu Guozhong",
+    "State Council",
+    "Lanzhou",
+    "Gansu",
+    "China-Belarus Cooperation",
+    "Belt and Road Initiative",
+    "Local Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-guozhong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260701-gov_cn_yaowen-63b01d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_gs",
+      "source_tier": 2,
+      "url": "https://www.news.cn/20260701/b8fb5b69d5b045a29380a98fba8f13dc/c.html",
+      "title_zh": "刘国中在中国白俄罗斯地方合作论坛开幕式上发表视频致辞",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

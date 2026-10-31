@@ -1,0 +1,105 @@
+{
+  "id": "20260925-cpcnews-75aab5",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0925/c64387-40805437.html",
+  "title_zh": "前8月全国新设经营主体1550.2万户",
+  "title_en": "China Adds 15.5 Million New Market Entities in First Eight Months",
+  "summary_zh": "9月24日，记者从市场监管总局获悉，1至8月全国新设经营主体1550.2万户，其中企业600.1万户，第三产业新设1378.8万户，产业结构持续优化。",
+  "summary_en": "On Sept. 24, the State Administration for Market Regulation reported that 15.502 million new market entities were registered nationwide in the first eight months of 2026, including 6.001 million enterprises and 13.788 million in the tertiary sector.",
+  "body_zh": "本报北京9月24日电 （记者林丽鹂）记者24日从市场监管总局获悉：1至8月，全国新设经营主体1550.2万户。其中，企业600.1万户，个体工商户947.4万户，农民专业合作社2.7万户。\n产业结构持续优化。1至8月，第一产业新设经营主体56.5万户，第二产业新设114.9万户，第三产业新设1378.8万户。服务业依然是吸纳就业、激发消费、推动转型的重要引擎。\n新产业破土成长，新业态迭代更新，新模式蓬勃涌现，新技术深度赋能。截至8月底，全国登记在册“四新”经济企业2930.1万户，同比增长5.4%，占企业总量44.0%。创新要素加速集聚，新旧动能加快转换。\n《 人民日报 》（ 2026年09月25日 02 版）",
+  "image_url": null,
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "经营主体增长",
+    "产业结构优化",
+    "四新经济",
+    "服务业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市场监管总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经营主体增长",
+      "name_en": "Market Entity Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业结构优化",
+      "name_en": "Industrial Structure Optimization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "四新经济",
+      "name_en": "New Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务业",
+      "name_en": "Service Sector"
+    }
+  ],
+  "tags_zh": [
+    "市场监管总局",
+    "北京",
+    "经营主体增长",
+    "产业结构优化",
+    "四新经济",
+    "服务业"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Beijing",
+    "Market Entity Growth",
+    "Industrial Structure Optimization",
+    "New Economy",
+    "Service Sector"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "市场监管总局",
+        "name_en": "State Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260925-cpcnews-75aab5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "20260612-cjn-636c69",
+  "source": "cjn",
+  "source_name_zh": "长江日报",
+  "source_name_en": "Yangtze Daily (Wuhan)",
+  "source_url": "http://news.cjn.cn/bsy/gnxw_19788/202606/t5304541.htm",
+  "title_zh": "公安部：我国电诈案件发案已连续8个月同比下降",
+  "title_en": "Ministry of Public Security: Telecom Fraud Cases in China Have Declined for Eight Consecutive Months",
+  "summary_zh": "公安部于12日召开新闻发布会，通报我国电诈案件发案自2025年10月以来已连续8个月同比下降，并分析了高发诈骗类型及新特点。",
+  "summary_en": "The Ministry of Public Security announced at a press conference on the 12th that telecom fraud cases in China have decreased year-on-year for eight consecutive months since October 2025.",
+  "body_zh": "记者从公安部今天（12日）召开的新闻发布会上获悉，从2025年10月以来，我国电诈案件发案已连续8个月实现同比下降。\n从诈骗手法来看，当前最高发的诈骗类型有10类，分别是：刷单返利、虚假购物服务、虚假网络投资理财、冒充电商物流客服、贷款征信、网络游戏虚假交易、网络婚恋交友、冒充公检法、冒充领导熟人和机票退改签诈骗。这10类案件就占了全部电诈案件的85%。其中，刷单返利诈骗发案最高，占所有电诈案件的25%；虚假网络投资理财诈骗损失最高，约占全部电诈案件损失的40%，损失百万、千万以上的案件大多是这种类型。\n另外，当前电信网络诈骗出现一些新特点和新手法：\n一是犯罪分子主要通过网络平台寻找作案目标；\n二是犯罪分子大量使用小众通联软件对被害人进行深度洗脑；\n三是犯罪分子使用专门诈骗App实施远程盗刷；\n四是犯罪分子大量利用现金或者黄金等贵重物品获取、转移涉诈资金。",
+  "image_url": null,
+  "published_at": "2026-06-12T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "电信网络诈骗",
+    "治安治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电信网络诈骗",
+      "name_en": "Telecom Network Fraud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "治安治理",
+      "name_en": "Public Security Governance"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "电信网络诈骗",
+    "治安治理"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Telecom Network Fraud",
+    "Public Security Governance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260612-cjn-636c69",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

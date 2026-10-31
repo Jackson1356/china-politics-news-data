@@ -1,0 +1,96 @@
+{
+  "id": "20260816-local_si_chuan_zai_xian_cn_sc-d9dbf1",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.scol.com.cn/zlts_ss/202608/83306043.html",
+  "title_zh": "洪秀柱：一湾浅浅的海峡隔不开血脉 国家统一是历史大势",
+  "title_en": "Hung Hsiu-chu: The Shallow Strait Cannot Separate Blood Ties; National Reunification Is the Historical Trend",
+  "summary_zh": "8月15日，中国国民党前主席洪秀柱在广东阳江表示，海峡隔不开血脉，国家统一是历史大势，和平统一需依靠民间交流与文化联结。",
+  "summary_en": "On August 15, Hung Hsiu-chu, former chairman of the Chinese Kuomintang, said in Yangjiang, Guangdong that the Strait cannot separate blood ties, national reunification is the historical trend, and peaceful reunification relies on people-to-people exchanges and cultural bonds.",
+  "body_zh": "中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱8月15日在广东阳江表示，一湾浅浅的海峡隔得开海陆，但是隔不开血脉；挡得住一时的往来，却挡不住同胞们渴望团圆、密切互动的真心。洪秀柱指出，国家统一是全体中华儿女的共同期盼，和平统一不能靠对立对抗，而要依靠民间交流与文化联结。(记者 何俊杰 孙秋霞 陈骥旻 制作 王雪尔）",
+  "image_url": null,
+  "published_at": "2026-08-16T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "foreign",
+  "keywords": [
+    "国家统一",
+    "两岸交流",
+    "和平统一"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "洪秀柱",
+      "name_en": "Hung Hsiu-chu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-YJ",
+      "name_zh": "阳江",
+      "name_en": "Yangjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家统一",
+      "name_en": "National Reunification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸交流",
+      "name_en": "Cross-Strait Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "和平统一",
+      "name_en": "Peaceful Reunification"
+    }
+  ],
+  "tags_zh": [
+    "洪秀柱",
+    "阳江",
+    "国家统一",
+    "两岸交流",
+    "和平统一"
+  ],
+  "tags_en": [
+    "Hung Hsiu-chu",
+    "Yangjiang",
+    "National Reunification",
+    "Cross-Strait Exchanges",
+    "Peaceful Reunification"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "洪秀柱"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-YJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260816-local_si_chuan_zai_xian_cn_sc-d9dbf1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

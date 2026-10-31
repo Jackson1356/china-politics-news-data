@@ -1,0 +1,97 @@
+{
+  "id": "20260902-gov_long_yan-ce4ddb",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260902_2310917.htm",
+  "title_zh": "全市对口支援对口合作挂职干部座谈会召开",
+  "title_en": "Longyan Holds Symposium for Seconded Cadres in Pairing Support and Cooperation",
+  "summary_zh": "8月31日，龙岩市召开对口支援对口合作挂职干部座谈会，市委书记胡盛出席并讲话，勉励挂职干部实干担当、再立新功。",
+  "summary_en": "On August 31, Longyan held a symposium for seconded cadres in pairing assistance and cooperation. Municipal Party Secretary Hu Sheng attended and encouraged them to work with dedication and achieve new results.",
+  "body_zh": "8月31日，全市对口支援、对口合作挂职干部座谈会召开。市委书记胡盛出席会议并讲话，勉励全体挂职干部要深入学习贯彻习近平总书记对老区苏区工作的重要讲话重要指示批示精神，贯彻落实党中央决策部署和省委、省政府工作要求，传承优良作风，拿稳接力棒、跑好接力赛，以实干实绩在闽西这片红色土地上展现新担当、实现新作为。\n会上，市委常委、副市长、龙岩市第四批对口支援挂职干部领队乔晓明和中央单位挂职干部代表刘军鹏、齐楠、杨珍奇，省直单位挂职干部代表陈春清、陈德金、王欣，广州市挂职干部代表刘琛义、张继宏、郭晓分别发言。大家一致表示，将倍加珍惜组织提供的机会，主动担当作为、忠诚履职尽责，带着责任和感情为龙岩老区苏区高质量发展、振兴发展贡献力量。\n胡盛代表市委、市政府对中央、省有关单位和广州市的大力支持表示衷心感谢，热忱欢迎大家来到龙岩挂职锻炼。他说，当前，龙岩老区苏区高质量发展、振兴发展正处于夯实基础、全面发力的关键时期，殷切希望大家把挂职当任职，沉下身、沉下心、沉下力，共同谋划发展新动能、新支撑，共同彰显老区苏区真担当、真实干，共同讲好红土地好故事、好声音，实实在在干出一番让群众看得见、摸得着、得实惠的实事好事，推动闽西革命老区高质量发展示范区建设不断取得新的更大成效。全市各级各有关部门要为挂职干部积极搭建干事创业平台，及时帮助解决困难问题，切实消除他们的后顾之忧，让大家放开手脚、心无旁骛在龙岩老区苏区大展身手、建功立业。\n市领导廖深洪、汪志红参加。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "对口支援",
+    "对口合作",
+    "干部挂职"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口支援",
+      "name_en": "Pairing Assistance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口合作",
+      "name_en": "Pairing Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部挂职",
+      "name_en": "Seconded Cadres"
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "龙岩",
+    "对口支援",
+    "对口合作",
+    "干部挂职"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Longyan",
+    "Pairing Assistance",
+    "Pairing Cooperation",
+    "Seconded Cadres"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan",
+      {
+        "id": null,
+        "name_zh": "汪志红"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260902-gov_long_yan-ce4ddb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

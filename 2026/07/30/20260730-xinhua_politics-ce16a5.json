@@ -1,0 +1,110 @@
+{
+  "id": "20260730-xinhua_politics-ce16a5",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260730/9042022d29954c7385ba67516d0038f5/c.html",
+  "title_zh": "水利部对陕西、甘肃启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Initiates Level-IV Emergency Response for Flood Control in Shaanxi and Gansu",
+  "summary_zh": "水利部7月30日21时对陕西、甘肃启动洪水防御Ⅳ级应急响应，指导地方做好山洪灾害防御，保障人民生命财产安全。",
+  "summary_en": "The Ministry of Water Resources activated a Level-IV emergency response for flood control in Shaanxi and Gansu at 21:00 on July 30, guiding local efforts to prevent mountain torrent disasters and protect lives and property.",
+  "body_zh": "新华社北京7月30日电（记者魏弘毅、潘洁）记者从水利部了解到，水利部于30日21时对陕西、甘肃两省启动洪水防御Ⅳ级应急响应。\n据预报，受西南季风和冷空气共同影响，7月30日20时至8月3日8时，陕西西南部、甘肃东南部局部将有暴雨，并伴有短时强降雨；7月30日20时至31日20时，陕西省凤县、略阳县、勉县、宁强县，甘肃省成县、徽县、康县、两当县、文县、陇南市武都区、西和县、天水市麦积区、天水市秦州区等13个县（区）山洪灾害达到橙色预警级别。\n为应对可能出现的汛情，水利部督促指导地方水利部门强化值班值守和会商研判，抓细抓实山洪灾害防御各项工作，加强雨水情监测预报预警，落实临灾预警“叫应”机制，紧盯“谁组织、转移谁、何时转、转何处、不擅返”五个关键环节责任和措施，提前转移危险区人员，切实维护人民群众生命财产安全。\n记者同时了解到，受降雨影响，7月29日8时至30日8时吉林嘎呀河及支流春阳河、前河、汪清河，黑龙江省牡丹江中游干流及支流五虎林河，甘肃疏勒河及支流党河，青海格尔木河，新疆渭干河支流卡拉苏河等11条河流发生超警以上洪水，最大超警幅度3.97米。其中，吉林嘎呀河及支流春阳河前河汪清河、黑龙江省牡丹江、甘肃党河等6条河流发生超保洪水，最大超保幅度3.37米。\n目前，除陕西、甘肃两省外，水利部维持对河南、湖北、四川的洪水防御Ⅳ级应急响应；7个水利部工作组在湖南、甘肃、湖北、河南、四川、广东、黑龙江、内蒙古一线协助指导暴雨洪水防御工作。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "industry",
+  "keywords": [
+    "洪水防御",
+    "应急响应",
+    "山洪灾害预警"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪灾害预警",
+      "name_en": "Mountain Torrent Warning"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "陕西",
+    "甘肃",
+    "洪水防御",
+    "应急响应",
+    "山洪灾害预警"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Shaanxi",
+    "Gansu",
+    "Flood Control",
+    "Emergency Response",
+    "Mountain Torrent Warning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-SN",
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260730-xinhua_politics-ce16a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gs",
+      "source_tier": 3,
+      "url": "http://gs.people.com.cn/n2/2026/0731/c183283-41655435.html",
+      "title_zh": "水利部对陕西、甘肃启动洪水防御Ⅳ级应急响应",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

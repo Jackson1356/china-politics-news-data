@@ -1,0 +1,83 @@
+{
+  "id": "20261017-gov_cn_yaowen-77aaaa",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083550.htm",
+  "title_zh": "前八个月我国服务贸易保持较快增长",
+  "title_en": "China's Services Trade Maintains Relatively Fast Growth in First Eight Months",
+  "summary_zh": "商务部数据显示，今年前八个月我国服务进出口总额50701.6亿元，同比增长7.9%，旅行、运输和知识密集型服务出口表现亮眼。",
+  "summary_en": "Ministry of Commerce data show China's services trade totaled 50.7 trillion yuan in the first eight months, up 7.9% year on year, with travel, transport and knowledge-intensive services exports performing strongly.",
+  "body_zh": "商务部发布的数据显示，今年前八个月，我国服务贸易保持较快增长，其中，旅行、运输和知识密集型服务出口表现亮眼。\n数据显示，今年前八个月，我国服务进出口总额50701.6亿元，同比增长7.9%。其中，服务出口同比增长14.8%，进口同比增长3.8%。\n从结构看，旅行和运输服务出口成为重要增长动力。前八个月，旅行服务出口同比增长15.3%，运输服务出口同比增长28.2%。\n与此同时，知识密集型服务出口保持较快增长，同比增长10.9%，占服务出口总额的53.7%。其中，个人文化和娱乐服务、金融服务增长最快，增速分别为66%和21.6%。",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-17",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "服务贸易",
+    "服务出口",
+    "知识密集型服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Services Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务出口",
+      "name_en": "Services Exports"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "知识密集型服务",
+      "name_en": "Knowledge-Intensive Services"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "服务贸易",
+    "服务出口",
+    "知识密集型服务"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Services Trade",
+    "Services Exports",
+    "Knowledge-Intensive Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261017-gov_cn_yaowen-77aaaa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "20261020-gov_lin_zhi-983d32",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/d72bb2346b8a4061ad4122761a9d47d8.shtml",
+  "title_zh": "严金海主持召开西藏自治区人大常委会党组（扩大）会议",
+  "title_en": "Yan Jinhai Chairs Party Group Meeting of Tibet People's Congress Standing Committee",
+  "summary_zh": "10月19日下午，西藏自治区人大常委会党组书记、主任严金海在拉萨主持召开党组（扩大）会议，传达学习习近平总书记近期重要指示精神，部署推进人大工作高质量发展。",
+  "summary_en": "On the afternoon of Oct 19, Yan Jinhai, Party secretary of the Tibet People's Congress Standing Committee, chaired a Party group meeting in Lhasa to convey Xi Jinping's recent directives and plan high-quality legislative work.",
+  "body_zh": "严金海在自治区人大常委会党组（扩大）会议上强调\n吃透新精神 把握新部署 落实新要求 齐心协力推进人大工作高质量发展\n本报拉萨10月19日讯（记者 段敏）19日下午，自治区党委副书记，自治区人大常委会党组书记、主任严金海主持召开自治区人大常委会党组（扩大）会议，传达学习习近平总书记近期重要指示重要讲话重要贺信重要文章精神，传达学习胡昌升书记关于自治区人大常委会工作的批示精神，安排部署贯彻落实工作。\n严金海强调，要吃透新精神、把握新部署、落实新要求，以更高标准、更实举措、更硬作风，齐心协力推进人大工作高质量发展。要进一步推进高质量立法。锚定“四件大事”，聚焦“十五五”规划实施，坚持民主立法、开门立法，推进“小快灵”“小切口”立法，健全公开征求意见、立法调研、论证评估等机制，确保地方性法规立得住、行得通、真管用。要进一步推进高效能监督。坚持依照法定职责、限于法定范围、遵守法定程序，综合运用法定监督方式，主动加强与“一府一委两院”沟通协调，健全完善“事前联商、事中联动、事后联督”全链条监督体系，实现同题共答、同频共振、同向发力。要进一步推进高水平服务。坚持尊重代表、依靠代表、服务代表，做实代表工作，办优代表建议，让代表依法履职有条件、有平台、有保障。\n自治区人大常委会党组副书记坚参，党组成员唐明英、刘柏呈、李文革出席。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "人大工作",
+    "高质量立法",
+    "十五五规划",
+    "人大监督"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-jinhai",
+      "name_zh": "严金海",
+      "name_en": "Yan Jinhai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量立法",
+      "name_en": "High-Quality Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "严金海",
+    "拉萨",
+    "人大工作",
+    "高质量立法",
+    "十五五规划",
+    "人大监督",
+    "胡昌升"
+  ],
+  "tags_en": [
+    "Yan Jinhai",
+    "Lhasa",
+    "People's Congress Work",
+    "High-Quality Legislation",
+    "15th Five-Year Plan",
+    "People's Congress Oversight"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-changsheng",
+      "yan-jinhai",
+      {
+        "id": null,
+        "name_zh": "金海"
+      },
+      {
+        "id": null,
+        "name_zh": "李文革"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261020-gov_lin_zhi-983d32",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

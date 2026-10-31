@@ -1,0 +1,79 @@
+{
+  "id": "20260528-gov_cn_yaowen-b3c308",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070570.htm",
+  "title_zh": "前4个月全国网上商品和服务零售额增长6.6%",
+  "title_en": "China's Online Retail Sales of Goods and Services Grow 6.6% in First Four Months",
+  "summary_zh": "今年前四个月，全国网上商品和服务零售额同比增长6.6%，其中电子商务带动旅游和餐饮业快速发展，跨境电商进口平台销售额同比增长4.3%。",
+  "summary_en": "In the first four months of this year, China's online retail sales of goods and services grew by 6.6% year-on-year, with significant growth in tourism, catering, and cross-border e-commerce.",
+  "body_zh": "记者从商务部了解到，今年前四个月，全国网上商品和服务零售额同比增长6.6%，网上商品零售额对社会消费品零售总额增长贡献率为72.2%。\n电子商务带动旅游和餐饮等服务业快速发展。前四个月，旅游和餐饮业通过网上渠道销售额均实现两位数增长。\n今年以来，我国持续推动全球优质商品“出口中国”。前四个月，重点监测跨境电商进口平台全球商品销售额同比增长4.3%。其中，泰国榴莲网上零售额增长较快。爆款进口商品丰富国内消费选择的同时，也在推动“丝路电商”伙伴国共享中国电商大市场。",
+  "image_url": null,
+  "published_at": "2026-05-28T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "economy",
+  "keywords": [
+    "电子商务",
+    "跨境电商",
+    "丝路电商"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电子商务",
+      "name_en": "E-commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境电商",
+      "name_en": "Cross-border E-commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "丝路电商",
+      "name_en": "Silk Road E-commerce"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "电子商务",
+    "跨境电商",
+    "丝路电商"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "E-commerce",
+    "Cross-border E-commerce",
+    "Silk Road E-commerce"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260528-gov_cn_yaowen-b3c308",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

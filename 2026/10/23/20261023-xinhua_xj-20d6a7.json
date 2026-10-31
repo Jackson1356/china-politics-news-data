@@ -1,0 +1,97 @@
+{
+  "id": "20261023-xinhua_xj-20d6a7",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xj.news.cn/20261023/682c8754b2a645cbba10630d67546734/c.html",
+  "title_zh": "自治区第十一次党代会主席团举行第四次第五次会议 陈小江主持会议",
+  "title_en": "Presidium of Xinjiang's 11th Party Congress Holds Fourth and Fifth Meetings, Chaired by Chen Xiaojiang",
+  "summary_zh": "10月22日，新疆自治区第十一次党代会主席团举行第四、第五次会议，陈小江主持，通过两个报告决议草案及新一届自治区党委委员、候补委员和纪委委员正式候选人名单。",
+  "summary_en": "On Oct 22, the presidium of Xinjiang's 11th Party Congress held its fourth and fifth meetings, chaired by Chen Xiaojiang, approving draft resolutions and final candidate lists for the new regional Party committee and discipline commission.",
+  "body_zh": "自治区第十一次党代会主席团举行第四次第五次会议\n陈小江主持会议\n通过关于中国共产党新疆维吾尔自治区第十届委员会报告的决议（草案）、关于中国共产党新疆维吾尔自治区第十届纪律检查委员会工作报告的决议（草案），提交各代表团讨论\n通过第十一届自治区党委委员、候补委员和自治区纪委委员正式候选人名单\n自治区第十一次党代会主席团22日上午和下午举行第四次、第五次会议。陈小江同志主持会议。\n自治区第十一次党代会主席团第四次会议，听取了关于第十一届自治区党委委员、自治区纪委委员预选结果的汇报；通过第十一届自治区党委候补委员候选人预选名单，决定提交各代表团进行预选；听取各代表团对中国共产党新疆维吾尔自治区第十届委员会报告、中国共产党新疆维吾尔自治区第十届纪律检查委员会工作报告修改稿讨论情况的报告，审议大会关于两个报告的决议（草案），提交各代表团讨论。\n自治区第十一次党代会主席团第五次会议，听取关于第十一届自治区党委候补委员预选结果的汇报，预选结果合法、有效；通过第十一届自治区党委委员、候补委员和第十一届自治区纪委委员正式候选人名单。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "纪律检查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-xiaojiang",
+      "name_zh": "陈小江",
+      "name_en": "Chen Xiaojiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律检查",
+      "name_en": "Discipline Inspection"
+    }
+  ],
+  "tags_zh": [
+    "陈小江",
+    "新疆",
+    "党代会",
+    "换届选举",
+    "纪律检查"
+  ],
+  "tags_en": [
+    "Chen Xiaojiang",
+    "Xinjiang",
+    "Party Congress",
+    "Leadership Election",
+    "Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xiaojiang",
+      {
+        "id": null,
+        "name_zh": "江同志"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261023-xinhua_xj-20d6a7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

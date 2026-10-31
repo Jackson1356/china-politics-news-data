@@ -1,0 +1,111 @@
+{
+  "id": "20261027-bjnews-1d5fb5",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1793082791129766.html",
+  "title_zh": "中国驻菲律宾使馆国防武官将作为中方代表出席东盟防长扩大会",
+  "title_en": "Chinese Defense Attaché in the Philippines to Attend ADMM-Plus as China's Representative",
+  "summary_zh": "据国防部消息，10月29日中国驻菲律宾使馆国防武官将作为中方代表出席在宿务举行的第13届东盟防长扩大会，就增进互信与防务安全合作交换意见。",
+  "summary_en": "China's defense attaché in the Philippines will represent China at the 13th ASEAN Defence Ministers' Meeting Plus in Cebu on Oct 29, exchanging views on dialogue, mutual trust and regional defense cooperation.",
+  "body_zh": "新京报讯 据国防部消息，10月29日，中国驻菲律宾使馆国防武官将作为中方代表，出席在宿务举行的第13届东盟防长扩大会，同各方就坚持对话协商、增进理解互信交换意见，重申坚定支持东盟在区域架构中的中心地位，促进地区防务安全对话合作，为维护地区和平稳定贡献力量。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "防务安全对话",
+    "东盟中心地位",
+    "地区和平稳定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "宿务",
+      "name_en": "Cebu"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "菲律宾",
+      "name_en": "Philippines"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防务安全对话",
+      "name_en": "Defense and Security Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东盟中心地位",
+      "name_en": "ASEAN Centrality"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区和平稳定",
+      "name_en": "Regional Peace and Stability"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "方代表",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "宿务",
+    "菲律宾",
+    "防务安全对话",
+    "东盟中心地位",
+    "地区和平稳定",
+    "方代表"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Cebu",
+    "Philippines",
+    "Defense and Security Dialogue",
+    "ASEAN Centrality",
+    "Regional Peace and Stability"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方代表"
+      }
+    ],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261027-bjnews-1d5fb5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

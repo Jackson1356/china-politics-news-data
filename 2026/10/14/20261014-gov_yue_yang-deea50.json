@@ -1,0 +1,109 @@
+{
+  "id": "20261014-gov_yue_yang-deea50",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2414485.html",
+  "title_zh": "谢卫江会见中国化学工程集团董事长莫鼎革一行",
+  "title_en": "Xie Weijiang Meets with China National Chemical Engineering Chairman Mo Dingge",
+  "summary_zh": "10月13日，湖南省委副书记、岳阳市委书记谢卫江在岳阳会见中国化学工程集团董事长莫鼎革一行，双方就深化战略合作、推动化工产业链升级交换意见。",
+  "summary_en": "On Oct 13, Xie Weijiang, Hunan deputy party secretary and Yueyang party secretary, met with Mo Dingge, chairman of China National Chemical Engineering Group, to discuss deeper strategic cooperation and upgrading the chemical industry chain.",
+  "body_zh": "10月13日，省委副书记、岳阳市委书记谢卫江会见中国化学工程集团有限公司党委书记、董事长莫鼎革一行。市人大常委会党组书记邱虹参加。\n谢卫江代表市委、市政府对莫鼎革一行表示欢迎，对中国化学工程集团支持岳阳经济社会发展表示感谢。他说，当前岳阳正全面落实市第九次党代会精神，加快现代化产业体系提质升级，推动化工与关联产业耦合发展，形成“油头化身新材料尾”全产业链。希望中国化学工程集团充分发挥在石油和化学工业工程领域的“国家队”作用，与岳阳进一步加强战略合作，实现共赢发展。市委、市政府将持续优化服务保障、创造良好条件。\n莫鼎革感谢岳阳市委、市政府对中国化学工程集团的大力支持。他表示，中国化学工程集团将把央企所长与地方所需紧密结合起来，与岳阳在更宽领域更深层次开展务实合作。\n中国化学工程集团有限公司党委常委、副总经理赵涛，市领导秦国良、肖湘晖，中国化学工程集团有限公司所属四化建党委书记、董事长周鸿参加。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "化工产业链",
+    "央企地方合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "莫鼎革",
+      "name_en": "Mo Dingge"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "化工产业链",
+      "name_en": "Chemical Industry Chain"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央企地方合作",
+      "name_en": "Central SOE-Local Government Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "莫鼎革",
+    "岳阳",
+    "战略合作",
+    "化工产业链",
+    "央企地方合作"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Mo Dingge",
+    "Yueyang",
+    "Strategic Cooperation",
+    "Chemical Industry Chain",
+    "Central SOE-Local Government Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "周鸿"
+      },
+      {
+        "id": null,
+        "name_zh": "邱虹"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261014-gov_yue_yang-deea50",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

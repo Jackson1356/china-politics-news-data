@@ -1,0 +1,115 @@
+{
+  "id": "20260825-gov_cn_yaowen-1aab69",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079105.htm",
+  "title_zh": "刘国中出席第十一届亚太经合组织粮食安全部长级会议开幕式并致辞",
+  "title_en": "Liu Guozhong Attends and Addresses 11th APEC Food Security Ministerial Meeting Opening Ceremony",
+  "summary_zh": "中共中央政治局委员、国务院副总理刘国中8月25日在浙江杭州出席第十一届亚太经合组织粮食安全部长级会议开幕式并致辞，提出共建粮食安全体系四点建议。",
+  "summary_en": "Liu Guozhong, member of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council, attended and addressed the opening ceremony of the 11th APEC Food Security Ministerial Meeting in Hangzhou, Zhejiang on August 25, proposing four suggestions for building a food security system.",
+  "body_zh": "新华社杭州8月25日电 第十一届亚太经合组织（APEC）粮食安全部长级会议8月25日在浙江杭州召开，中共中央政治局委员、国务院副总理刘国中出席开幕式并致辞。\n刘国中表示，粮食安全是事关人类生存的根本性问题。习近平主席指出，保障粮食安全是一个永恒的课题，任何时候都不能放松。中国政府坚持把“三农”工作作为重中之重，深入实施“以我为主、立足国内、确保产能、适度进口、科技支撑”的粮食安全战略，坚持藏粮于地、藏粮于技，着力提升农业综合生产能力，解决了14亿多人口的吃饭问题，走出了一条中国特色粮食安全发展道路。\n刘国中强调，亚太经合组织在维护全球粮食安全中具有举足轻重的地位。中方愿同各经济体一道，共同构建更加稳固的粮食安全体系。他提出4点建议：一是聚焦产能提升，立足各自资源禀赋，共同夯实粮食安全基础。二是强化创新驱动，深化农业科技合作，共同培育保障粮食安全新动能。三是畅通贸易循环，坚持多边主义和开放型经济大方向，共同维护粮食供应链安全稳定。四是坚持普惠包容，强化政策协同，共同守牢粮食安全底线。\n本次会议以“建设亚太共同体，促进共同繁荣”为主题，来自APEC经济体、秘书处和有关国际组织代表近200人参会。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "粮食安全",
+    "国际合作",
+    "农业科技"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-guozhong",
+      "name_zh": "刘国中",
+      "name_en": "Liu Guozhong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业科技",
+      "name_en": "Agricultural Technology"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘国中",
+    "国务院",
+    "杭州",
+    "粮食安全",
+    "国际合作",
+    "农业科技",
+    "习近平"
+  ],
+  "tags_en": [
+    "Liu Guozhong",
+    "State Council",
+    "Hangzhou",
+    "Food Security",
+    "International Cooperation",
+    "Agricultural Technology"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "liu-guozhong",
+      {
+        "id": null,
+        "name_zh": "江杭州"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260825-gov_cn_yaowen-1aab69",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20261028-gov_cn_yaowen-bdcc91",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084388.htm",
+  "title_zh": "刘延东同志逝世",
+  "title_en": "Comrade Liu Yandong Passes Away",
+  "summary_zh": "中国共产党的优秀党员、国务院原副总理刘延东同志因病于2026年10月28日14时53分在北京逝世，享年81岁。",
+  "summary_en": "Liu Yandong, an outstanding CPC member and former vice premier of the State Council, died of illness in Beijing at 14:53 on October 28, 2026, at the age of 81.",
+  "body_zh": "新华社北京10月28日电 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，我党统一战线工作和我国教育科技、医疗卫生、妇女儿童工作的杰出领导人，中国共产党第十七届、十八届中央政治局委员，中国人民政治协商会议第十届全国委员会副主席，原国务委员，国务院原副总理刘延东同志，因病于2026年10月28日14时53分在北京逝世，享年81岁。",
+  "image_url": null,
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "personnel",
+  "keywords": [
+    "党和国家领导人",
+    "讣告"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘延东",
+      "name_en": "Liu Yandong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党和国家领导人",
+      "name_en": "Party and State Leaders"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "讣告",
+      "name_en": "Obituary"
+    }
+  ],
+  "tags_zh": [
+    "刘延东",
+    "北京",
+    "党和国家领导人",
+    "讣告"
+  ],
+  "tags_en": [
+    "Liu Yandong",
+    "Beijing",
+    "Party and State Leaders",
+    "Obituary"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20261028-gov_cn_yaowen-bdcc91",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/1029/c87393-40823754.html",
+      "title_zh": "刘延东同志逝世",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

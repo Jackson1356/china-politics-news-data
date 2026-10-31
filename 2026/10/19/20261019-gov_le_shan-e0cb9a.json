@@ -1,0 +1,117 @@
+{
+  "id": "20261019-gov_le_shan-e0cb9a",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083576.htm",
+  "title_zh": "李强抵达杜尚别对塔吉克斯坦进行正式访问并出席上合组织总理会议",
+  "title_en": "Li Qiang Arrives in Dushanbe for Official Visit to Tajikistan and SCO Heads of Government Council Meeting",
+  "summary_zh": "10月18日，国务院总理李强抵达塔吉克斯坦杜尚别，开始正式访问并将出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议。",
+  "summary_en": "On October 18, Premier Li Qiang arrived in Dushanbe, Tajikistan, beginning an official visit and attending the 25th Meeting of the SCO Council of Heads of Government.",
+  "body_zh": "新华社杜尚别10月18日电（记者 孙楠 李任滋）应塔吉克斯坦总理拉苏尔佐达邀请，国务院总理李强乘包机于当地时间10月18日中午抵达杜尚别国际机场，开始对塔吉克斯坦进行正式访问并将出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议。国务委员兼国务院秘书长吴政隆等陪同人员同机抵达。\n拉苏尔佐达率政府高级官员到机场迎接，并为李强举行欢迎仪式。李强在拉苏尔佐达陪同下检阅了仪仗队。中国驻塔吉克斯坦大使郭志军也到机场迎接。\n李强表示，中国和塔吉克斯坦是好邻居、好朋友、好伙伴。近些年，中塔关系快速发展，各领域合作成果丰硕，为两国人民带来了实实在在的利益。今年5月，两国元首在北京举行会晤，就深化发展中塔关系擘画了蓝图。中方愿同塔方进一步弘扬传统友谊，加强互利合作，共促两国发展繁荣，更好惠及中塔人民。\n李强指出，中方期待同上合组织各方一道，落实比什凯克峰会成果，推动即将举行的上合组织总理会议取得圆满成功，促进各领域合作取得新进展，造福地区各国人民。\n李强是在结束对乌兹别克斯坦正式访问后赴杜尚别的。离开塔什干时，乌兹别克斯坦总理阿里波夫和中国驻乌兹别克斯坦大使于骏等到机场送行。",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-18",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塔关系",
+    "上合组织合作",
+    "互利合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杜尚别",
+      "name_en": "Dushanbe"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "塔吉克斯坦",
+      "name_en": "Tajikistan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塔关系",
+      "name_en": "China-Tajikistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上合组织合作",
+      "name_en": "SCO Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利合作",
+      "name_en": "Mutually Beneficial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杜尚别",
+    "塔吉克斯坦",
+    "中塔关系",
+    "上合组织合作",
+    "互利合作",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Dushanbe",
+    "Tajikistan",
+    "China-Tajikistan Relations",
+    "SCO Cooperation",
+    "Mutually Beneficial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261018-gov_cn_yaowen-5d6e1c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

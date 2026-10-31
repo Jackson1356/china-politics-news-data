@@ -1,0 +1,103 @@
+{
+  "id": "20260829-peoples_hi-b5a59e",
+  "source": "peoples_hi",
+  "source_name_zh": "人民网 海南",
+  "source_name_en": "People's Daily Hainan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hi.people.com.cn/n2/2026/0829/c231190-41680907.html",
+  "title_zh": "海南省政府与中国船舶集团签署深化战略合作协议",
+  "title_en": "Hainan and CSSC Sign Deepening Strategic Cooperation Agreement",
+  "summary_zh": "8月28日，海南省政府与中国船舶集团在海口签署深化战略合作协议，省委书记冯飞、省长刘小明与中船集团董事长徐鹏会谈并证签。",
+  "summary_en": "On August 28, Hainan Provincial Government and China State Shipbuilding Corporation signed a deepening strategic cooperation agreement in Haikou, with Provincial Party Secretary Feng Fei and Governor Liu Xiaoming meeting with CSSC Chairman Xu Peng and witnessing the signing.",
+  "body_zh": "海南省政府与中国船舶集团签署深化战略合作协议\n冯飞刘小明与徐鹏一行会谈并证签\n8月28日，海南省政府与中国船舶集团有限公司在海口签署深化战略合作协议。省委书记冯飞、省长刘小明与中国船舶集团有限公司党组书记、董事长徐鹏一行举行工作会谈并共同见证签约。\n冯飞、刘小明代表省委省政府欢迎徐鹏一行，感谢中船集团对海南经济社会发展的大力支持，介绍海南自由贸易港建设进展。冯飞表示，海南正深入学习贯彻习近平总书记关于海南工作的系列重要讲话和指示批示精神，加快构建具有特色和优势的现代化产业体系，锚定建设海洋强省、再造一个“海上海南”目标，聚力打造深海科技创新策源地、现代海洋产业聚集地和海洋国际合作高地，坚决守牢生态底线。希望中船集团充分发挥龙头企业带动作用，推动科技创新和产业创新深度融合，壮大现代海洋产业集群，实现互利共赢发展。\n徐鹏感谢海南省委、省政府长期以来给予中船集团发展的关心帮助与大力支持，介绍了集团经营发展及在琼业务开展情况。他表示，中船集团高度重视与海南的战略合作，将深入学习贯彻习近平总书记重要讲话和指示批示精神，紧扣“十五五”规划部署，充分用好海南自由贸易港政策、区位和资源优势，推动双方合作迈向全方位、深层次发展阶段，为海南经济社会高质量发展作出新的更大贡献。\n根据协议，双方将深化海洋装备制造、海洋现代服务业、人才交流培养等领域战略合作。\n省领导巴特尔参加相关活动。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "海南自由贸易港",
+    "海洋产业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "feng-fei-hainan",
+      "name_zh": "冯飞",
+      "name_en": "Feng Fei"
+    },
+    {
+      "kind": "institution",
+      "id": "CSSC",
+      "name_zh": "中国船舶集团",
+      "name_en": "China State Shipbuilding Corporation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-HK",
+      "name_zh": "海口",
+      "name_en": "Haikou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海南自由贸易港",
+      "name_en": "Hainan Free Trade Port"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋产业",
+      "name_en": "Marine Industry"
+    }
+  ],
+  "tags_zh": [
+    "冯飞",
+    "中国船舶集团",
+    "海口",
+    "战略合作",
+    "海南自由贸易港",
+    "海洋产业"
+  ],
+  "tags_en": [
+    "Feng Fei",
+    "China State Shipbuilding Corporation",
+    "Haikou",
+    "Strategic Cooperation",
+    "Hainan Free Trade Port",
+    "Marine Industry"
+  ],
+  "entities": {
+    "politicians": [
+      "feng-fei-hainan"
+    ],
+    "institutions": [
+      "CSSC"
+    ],
+    "locations": [
+      "CN-HI-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-peoples_hi-b5a59e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "20260921-gov_cn_yaowen-2c92cd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081636.htm",
+  "title_zh": "中美经贸磋商在美国纽约举行",
+  "title_en": "China-U.S. Economic and Trade Consultations Held in New York",
+  "summary_zh": "当地时间9月20日，国务院副总理何立峰与美国财政部长贝森特、贸易代表格里尔在纽约举行中美经贸磋商，就落实历次磋商共识、促进双边贸易投资及人工智能问题深入交流。",
+  "summary_en": "On September 20 local time, Chinese Vice Premier He Lifeng met with U.S. Treasury Secretary Bessent and Trade Representative Greer in New York for China-U.S. economic and trade consultations, discussing trade, investment and AI issues.",
+  "body_zh": "新华社纽约9月20日电 当地时间9月20日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在美国纽约举行经贸磋商。双方以两国元首重要共识为引领，秉持相互尊重、和平共处、合作共赢的原则，围绕落实历次经贸磋商共识、促进双边贸易投资等双方共同关心的重要经贸问题，进行了坦诚、深入、富有建设性的交流，并就人工智能有关问题举行对话。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸磋商",
+    "双边贸易投资",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "美国财政部",
+      "name_en": "U.S. Department of the Treasury"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "纽约",
+      "name_en": "New York"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸磋商",
+      "name_en": "China-U.S. Trade Talks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边贸易投资",
+      "name_en": "Bilateral Trade and Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "美国财政部",
+    "纽约",
+    "中美经贸磋商",
+    "双边贸易投资",
+    "人工智能"
+  ],
+  "tags_en": [
+    "State Council",
+    "U.S. Department of the Treasury",
+    "New York",
+    "China-U.S. Trade Talks",
+    "Bilateral Trade and Investment",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "美国财政部",
+        "name_en": "U.S. Department of the Treasury"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260921-gov_cn_yaowen-2c92cd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260921/2d128235a5d3411f88f7cae658183590/c.html",
+      "title_zh": "中美经贸磋商在美国纽约举行",
+      "published_at": "2026-09-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

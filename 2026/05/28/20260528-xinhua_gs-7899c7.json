@@ -1,0 +1,100 @@
+{
+  "id": "20260528-xinhua_gs-7899c7",
+  "source": "xinhua_gs",
+  "source_name_zh": "新华网 甘肃",
+  "source_name_en": "Xinhua Gansu",
+  "source_url": "http://gs.news.cn/20260529/e6c85bea2c4a47c5bd9d183f94688005/c.html",
+  "title_zh": "甘肃“安全生产月”活动在兰州启动",
+  "title_en": "Gansu's 'Work Safety Month' Activities Launched in Lanzhou",
+  "summary_zh": "5月28日上午，甘肃省“安全生产月”活动在兰州启动，副省长王旭宣布启动，旨在加强全省安全生产风险防控与隐患整治。",
+  "summary_en": "On May 28, Gansu Province launched its 'Work Safety Month' activities in Lanzhou, with Vice Governor Wang Xu announcing the start to strengthen risk prevention and hazard rectification.",
+  "body_zh": "5月28日上午，甘肃省“安全生产月”活动启动仪式在兰州举行，副省长、省安委会副主任王旭宣布全省“安全生产月”活动正式启动。\n今年是安全生产治本攻坚三年行动收官之年，6月是第25个全国“安全生产月”，主题是“人人讲安全、个个会应急——排查整治风险隐患”。开展“安全生产月”活动，旨在深入学习宣传贯彻习近平总书记关于安全生产的重要论述，按照省委省政府部署要求，对全省安全生产工作再动员、再部署、再强化，对筑牢安全防线、保障人民群众生命财产安全具有重要意义。活动期间，各地各行业领域聚焦进一步加强安全生产风险防控、隐患排查整治、宣传教育和应急演练等重点，抓实抓细安全生产工作，确保以高水平安全护航全省高质量发展。\n启动仪式上，播放了2026年甘肃省“安全生产月”活动主题宣传片，还视频连线了庆阳市、兰州消防救援支队、省住建厅、省交通运输厅、兰州石化集团等活动现场。（新甘肃·甘肃日报记者王聪）",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "风险防控"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xu-tianjin",
+      "name_zh": "王旭",
+      "name_en": "Wang Xu"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "风险防控",
+      "name_en": "Risk Prevention and Control"
+    }
+  ],
+  "tags_zh": [
+    "王旭",
+    "兰州",
+    "甘肃",
+    "安全生产",
+    "风险防控"
+  ],
+  "tags_en": [
+    "Wang Xu",
+    "Lanzhou",
+    "Gansu",
+    "Work Safety",
+    "Risk Prevention and Control"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xu-tianjin",
+      {
+        "id": null,
+        "name_zh": "任王旭"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260528-xinhua_gs-7899c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gs",
+      "source_tier": 3,
+      "url": "http://gs.people.com.cn/n2/2026/0529/c183283-41594547.html",
+      "title_zh": "甘肃省“安全生产月”活动在兰州启动",
+      "published_at": "2026-05-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

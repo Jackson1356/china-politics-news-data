@@ -1,0 +1,114 @@
+{
+  "id": "20261014-gov_cn_yaowen-32f8d8",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/14/VIDE7W23chAiDdo1bpMQOK1N261014.shtml",
+  "title_zh": "丁薛祥会见清华大学经济管理学院顾问委员会委员代表",
+  "title_en": "Ding Xuexiang Meets Advisory Board Members of Tsinghua University School of Economics and Management",
+  "summary_zh": "10月13日，中共中央政治局常委、国务院副总理丁薛祥在北京会见清华大学经济管理学院顾问委员会委员代表，重点围绕人工智能发展和治理进行交流。",
+  "summary_en": "On October 13, Ding Xuexiang, member of the Standing Committee of the CPC Central Political Bureau and Vice Premier of the State Council, met in Beijing with representatives of the Advisory Board of Tsinghua University's School of Economics and Management, focusing on AI development and governance.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：中共中央政治局常委、国务院副总理丁薛祥13日在北京会见清华大学经济管理学院顾问委员会委员代表。\n丁薛祥重点围绕人工智能发展和治理同各位委员进行交流。他指出，人工智能是引领新一轮技术革命和产业变革的关键力量，要把这项塑造未来的技术发展好、运用好、治理好，更好造福全人类。欢迎大家支持和参与世界人工智能合作组织建设，促进共同繁荣、维护共同安全。顾问委员会成立26年来，成为中外对话交流合作的重要平台，希望各位委员为中国教育事业和经济发展作出更多贡献。\n顾问委员会主席库克等赞赏中国人工智能等领域发展成就，表示愿继续深耕中国、拓展合作，更好发挥桥梁纽带作用。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能发展与治理",
+    "中外交流合作",
+    "教育事业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "清华大学经济管理学院顾问委员会",
+      "name_en": "Advisory Board of Tsinghua University School of Economics and Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能发展与治理",
+      "name_en": "AI Development and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中外交流合作",
+      "name_en": "China-Foreign Exchange and Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育事业",
+      "name_en": "Education"
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "清华大学经济管理学院顾问委员会",
+    "北京",
+    "人工智能发展与治理",
+    "中外交流合作",
+    "教育事业"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "Advisory Board of Tsinghua University School of Economics and Management",
+    "Beijing",
+    "AI Development and Governance",
+    "China-Foreign Exchange and Cooperation",
+    "Education"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "清华大学经济管理学院顾问委员会",
+        "name_en": "Advisory Board of Tsinghua University School of Economics and Management"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261014-gov_cn_yaowen-32f8d8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20261014/2acd88bf-2ca2-4a57-8057-d9cae6eb4bd3.html",
+      "title_zh": "丁薛祥会见清华大学经济管理学院顾问委员会委员代表",
+      "published_at": "2026-10-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20261021-chinanews_gn-1d6205",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-21/10718507.shtml",
+  "title_zh": "外交部：敦促美方立即停止对古巴的封锁和任何形式的胁迫施压",
+  "title_en": "Chinese Foreign Ministry Urges US to Immediately End Blockade and Coercive Pressure on Cuba",
+  "summary_zh": "10月21日，外交部发言人毛宁在北京例行记者会上表示，中方反对滥用司法手段对古巴施压，敦促美方立即停止对古巴的封锁和胁迫施压。",
+  "summary_en": "On Oct 21, Foreign Ministry spokesperson Mao Ning told a regular press briefing in Beijing that China opposes using judicial means to pressure Cuba and urged the US to immediately end its blockade and coercive pressure on Cuba.",
+  "body_zh": "外交部：敦促美方立即停止对古巴的封锁和任何形式的胁迫施压\n中新网北京10月21日电 (记者 谢雁冰)中国外交部发言人毛宁21日主持例行记者会。\n毛宁：劳尔同志是德高望重的古巴革命领导人，在国际上享有崇高威望。我们注意到，古巴国家主席、外交部长谴责美方行径是一场拙劣的“政治闹剧”。\n中方一贯反对滥用司法手段对古巴施压，坚定支持古巴维护国家主权、反对外来干涉，敦促美方立即停止对古巴的封锁和任何形式的胁迫施压，停止侵犯古巴人民的生存权、发展权。(完)\n国内新闻精选：\n- 2026年10月21日 13:20:05\n- 2026年10月20日 11:33:30\n- 2026年10月20日 10:37:15\n- 2026年10月20日 10:28:05\n- 2026年10月20日 09:59:31\n- 2026年10月19日 19:26:33\n- 2026年10月19日 18:53:09\n- 2026年10月19日 15:20:58\n- 2026年10月19日 12:17:08\n- 2026年10月19日 07:54:00",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-21",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "foreign",
+  "keywords": [
+    "对古巴封锁",
+    "反对外来干涉"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对古巴封锁",
+      "name_en": "Blockade on Cuba"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反对外来干涉",
+      "name_en": "Opposing Foreign Interference"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "对古巴封锁",
+    "反对外来干涉"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Blockade on Cuba",
+    "Opposing Foreign Interference"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261021-chinanews_gn-1d6205",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718520.shtml",
+      "title_zh": "外交部：对中国与白俄罗斯两国关系发展充满信心",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718517.shtml",
+      "title_zh": "外交部：中方对日本实施出口管制 目的是制止日本“再军事化”",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718515.shtml",
+      "title_zh": "外交部：在乌克兰危机问题上，中方的立场是一贯的",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

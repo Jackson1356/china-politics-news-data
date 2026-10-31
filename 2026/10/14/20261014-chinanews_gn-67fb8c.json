@@ -1,0 +1,93 @@
+{
+  "id": "20261014-chinanews_gn-67fb8c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-14/10714516.shtml",
+  "title_zh": "日媒称黑龙江省一代表团访问日俄争议地区 外交部回应",
+  "title_en": "Foreign Ministry Responds to Japan's Remarks on Heilongjiang Delegation's Visit to Disputed Islands",
+  "summary_zh": "2026年10月14日，外交部发言人毛宁在北京例行记者会上回应日方就黑龙江省代表团访问日俄争议岛屿的表态，强调世界反法西斯战争胜利成果应得到尊重和维护。",
+  "summary_en": "On October 14, 2026, Foreign Ministry spokesperson Mao Ning told a regular briefing in Beijing that the gains of the World Anti-Fascist War must be respected, responding to Japan's protest over a Heilongjiang delegation's visit to islands disputed by Russia and Japan.",
+  "body_zh": "日媒称黑龙江省一代表团访问日俄争议地区 外交部回应\n中新网北京10月14日电 (记者 李京泽)中国外交部发言人毛宁14日主持例行记者会。\n另有记者提问：关于中国黑龙江的代表团访问俄罗斯控制、而日本声称拥有主权的岛屿，日本外相今天表示，第三国进入并在这些岛屿上开展活动是绝对不可接受的，他表示日本昨天已经通过外交渠道向中方表明了立场。中方对日方的声明有何回应？\n毛宁：刚刚我已经介绍了黑龙江省代表团访问的情况。中方一贯主张，世界反法西斯战争的胜利成果应当得到尊重和维护。(完)\n国内新闻精选：\n- 2026年10月15日 11:00:15\n- 2026年10月15日 09:08:17\n- 2026年10月14日 21:06:01\n- 2026年10月14日 12:10:08\n- 2026年10月14日 12:07:46\n- 2026年10月14日 10:13:11\n- 2026年10月14日 09:08:24\n- 2026年10月13日 16:06:00\n- 2026年10月13日 13:58:53\n- 2026年10月13日 13:31:45",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中日关系",
+    "领土争议",
+    "二战胜利成果"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领土争议",
+      "name_en": "Territorial Dispute"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二战胜利成果",
+      "name_en": "Outcome of World War II"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "中日关系",
+    "领土争议",
+    "二战胜利成果"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Japan Relations",
+    "Territorial Dispute",
+    "Outcome of World War II"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261014-chinanews_gn-67fb8c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

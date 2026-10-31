@@ -1,0 +1,101 @@
+{
+  "id": "20261012-gov_xi_an-69d1c8",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2109462632553627649.html",
+  "title_zh": "蒿慧杰调研西安大型实景演出：坚持守正创新，加快建设中华文化重要展示窗口",
+  "title_en": "Hao Huijie Inspects Large-Scale Live Performances in Xi'an, Urging Cultural Innovation and Heritage",
+  "summary_zh": "10月11日，西安市委书记蒿慧杰到西安城墙永宁门调研《梦长安》大型实景演出，强调抓好文化遗产保护传承与文旅融合发展。",
+  "summary_en": "On October 11, Xi'an Party Secretary Hao Huijie inspected the large-scale live performance \"Dream of Chang'an\" at the city wall, stressing heritage protection and cultural tourism integration.",
+  "body_zh": "10月11日，省委常委、市委书记蒿慧杰到西安城墙永宁门调研大型实景演出组织开展情况时强调，要深学细悟习近平文化思想和习近平总书记历次来陕考察重要讲话重要指示，深入践行“两个结合”，坚持守正创新、勇担文化使命，一体抓好文化遗产保护传承、文艺创作和文旅融合发展，加快建设中华文化和中华文明重要展示窗口。\n蒿慧杰来到西安城墙南门迎宾广场，实地检查《梦长安——大唐迎宾盛礼》演出排练情况，详细听取节目创作、场地布置、场次安排等情况介绍。他强调，要加强历史文化研究阐释和当代价值挖掘，通过艺术创作、数字技术运用、视听化表达等方式，进一步提升演出质效和服务水平，让海内外游客在沉浸式体验中更好领略大唐盛世的恢宏气象、感受千年古都的独特魅力。\n随后召开的专题会上，蒿慧杰在认真听取有关单位汇报后指出，西安历史积淀深厚、文化资源丰富，发展文化产业基础扎实、优势突出。要坚持党对文化建设的全面领导，立足自身基础优势，加强文化遗产保护传承，弘扬中华优秀传统文化，推进文化、旅游和科技深度融合，更好担负起新时代的文化使命。要坚持以人民为中心的创作导向，聚焦群众需求，丰富演艺业态，注重细节打磨，创造更具吸引力、更有生命力、更能体现西安特色的优秀演艺作品，更好满足人民群众精神文化需求。要健全产业链条，强化“演艺+”消费理念，健全完善从交通住宿、餐饮购物到特色文旅、夜间经济的多元消费链条，让优质文旅资源切实转化为实实在在的消费动力。要建强文艺人才队伍，健全文艺人才培养机制，用心做好传帮带，培养一批既懂传统文化又具有创新精神的文艺人才。要完善全链条工作机制，强化协同联动、密切工作配合，推动演艺市场可持续健康发展，不断提升千年古都的国际影响力、文旅带动力、消费吸引力。\n市委常委和文全、王宏兵，有关市级部门和开发区负责同志等参加。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-11",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "economy",
+  "keywords": [
+    "文化遗产保护传承",
+    "文旅融合",
+    "文艺创作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化遗产保护传承",
+      "name_en": "Cultural Heritage Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文旅融合",
+      "name_en": "Cultural Tourism Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文艺创作",
+      "name_en": "Artistic Creation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "西安",
+    "文化遗产保护传承",
+    "文旅融合",
+    "文艺创作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Xi'an",
+    "Cultural Heritage Protection",
+    "Cultural Tourism Integration",
+    "Artistic Creation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "hao-huijie"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261012-gov_xi_an-69d1c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

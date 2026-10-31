@@ -1,0 +1,92 @@
+{
+  "id": "20261023-gov_cn_yaowen-fbe1ad",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084137.htm",
+  "title_zh": "前三季度我国财政运行总体平稳",
+  "title_en": "China's Fiscal Operations Remain Generally Stable in First Three Quarters",
+  "summary_zh": "财政部数据显示，今年前三季度全国一般公共预算收入17.23万亿元，同比增长5.1%，支出21.02万亿元，增长1%，财政运行总体平稳。",
+  "summary_en": "Ministry of Finance data show China's general public budget revenue reached 17.23 trillion yuan in the first three quarters, up 5.1% year on year, while spending rose 1% to 21.02 trillion yuan, indicating generally stable fiscal operations.",
+  "body_zh": "财政部最新数据显示，今年前三季度，全国一般公共预算收入17.23万亿元，同比增长5.1%，增幅比上半年提高0.4个百分点。我国经济运行总体平稳，延续向新向优发展态势，价格上行、外贸增势强劲等因素有力支撑财政收入增长。\n分区域看，东部、中部、西部、东北地区收入均保持增长。31个省份中，28个省份收入增长。\n税收收入增幅提高。前三季度，全国税收收入14.07万亿元，同比增长6.1%，增幅比上半年提高0.8个百分点。\n收入增长的同时，保持必要支出力度，投资于人相关支出得到较好保障。前三季度，全国一般公共预算支出21.02万亿元，同比增长1%。其中，卫生健康支出增长7.7%，主要是发放育儿补贴增加；社会保障和就业支出增长5.2%。\n地方政府专项债券加快发行使用。1—9月，全国共发行新增专项债券35608亿元，发行进度81%。\n今年以来，我国推动更加积极的财政政策发力提效，充分发挥存量政策效能，及时谋划推出增量政策，持续提高财政资金使用效益，为完成全年经济社会发展目标任务提供坚强保障。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "economy",
+  "keywords": [
+    "财政运行",
+    "一般公共预算收入",
+    "地方政府专项债券",
+    "育儿补贴"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政运行",
+      "name_en": "Fiscal Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一般公共预算收入",
+      "name_en": "General Public Budget Revenue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方政府专项债券",
+      "name_en": "Local Government Special Bonds"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "育儿补贴",
+      "name_en": "Childcare Subsidies"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "财政运行",
+    "一般公共预算收入",
+    "地方政府专项债券",
+    "育儿补贴"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Fiscal Operations",
+    "General Public Budget Revenue",
+    "Local Government Special Bonds",
+    "Childcare Subsidies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-gov_cn_yaowen-fbe1ad",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

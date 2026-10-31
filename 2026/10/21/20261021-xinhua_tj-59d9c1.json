@@ -1,0 +1,130 @@
+{
+  "id": "20261021-xinhua_tj-59d9c1",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20261021/8b4ac365b4934e05b533199dcb69c9a1/c.html",
+  "title_zh": "张工会见空客公司首席执行官傅里",
+  "title_en": "Tianjin Mayor Zhang Gong Meets Airbus CEO Guillaume Faury",
+  "summary_zh": "10月20日，天津市市长张工在迎宾馆会见空中客车公司首席执行官傅里，双方就空客天津项目双线运行、提升本地配套和产业集聚交换意见。",
+  "summary_en": "On Oct 20, Tianjin Mayor Zhang Gong met Airbus CEO Guillaume Faury in Tianjin to discuss the Airbus Tianjin project's dual-line operation, stronger local supplier networks and industrial clustering.",
+  "body_zh": "10月20日，市长张工在迎宾馆会见空中客车公司首席执行官傅里一行。\n张工对客人来津表示欢迎。他说，空客天津项目是中法、中欧合作典范，随着第二条总装线投产，已全面进入双线运行、产能提升新阶段，对全球产业链、供应链的影响力日益凸显。当前，我们正深入贯彻习近平主席视察天津重要讲话精神，大力发展先进制造业，着力提升航空航天、装备制造等产业能级。希望双方进一步优化合作模式，提升本地配套，共同推动产业链上下游在津集聚，实现更高质量、更富成效的共赢发展。\n傅里感谢天津对空客的大力支持。他表示，20年来，双方合作取得巨大成就，天津已成为空客在欧洲以外规模最大、技术最先进的生产基地，将以产能全面提升为契机，吸引更多供应商来津，发展本地化生态体系，拓展更大合作空间。\n市领导连茂君、王旭和市政府党组成员陈宇参加。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "economy",
+  "keywords": [
+    "航空航天",
+    "先进制造业",
+    "中欧合作",
+    "产业链供应链"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "傅里",
+      "name_en": "Guillaume Faury"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空航天",
+      "name_en": "Aerospace"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧合作",
+      "name_en": "China-Europe Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链供应链",
+      "name_en": "Industrial and Supply Chains"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xu-tianjin",
+      "name_zh": "王旭",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "lian-maojun",
+      "name_zh": "连茂君",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "傅里",
+    "天津",
+    "航空航天",
+    "先进制造业",
+    "中欧合作",
+    "产业链供应链",
+    "王旭",
+    "连茂君"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Guillaume Faury",
+    "Tianjin",
+    "Aerospace",
+    "Advanced Manufacturing",
+    "China-Europe Cooperation",
+    "Industrial and Supply Chains"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      "wang-xu-tianjin",
+      "lian-maojun",
+      {
+        "id": null,
+        "name_zh": "陈宇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261021-xinhua_tj-59d9c1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

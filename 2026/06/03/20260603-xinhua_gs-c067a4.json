@@ -1,0 +1,77 @@
+{
+  "id": "20260603-xinhua_gs-c067a4",
+  "source": "xinhua_gs",
+  "source_name_zh": "新华网 甘肃",
+  "source_name_en": "Xinhua Gansu",
+  "source_url": "http://gs.news.cn/20260603/466d9cf20fdd413bb574e92465541211/c.html",
+  "title_zh": "甘肃省人民政府关于兰霖等同志免职的通知",
+  "title_en": "Notice of the Gansu Provincial People's Government on the Removal of Lan Lin and Others from Office",
+  "summary_zh": "甘肃省人民政府决定免去兰霖、马梅、王阳萍分别在省人社厅、省广电总台、省大数据中心的职务。",
+  "summary_en": "The Gansu Provincial People's Government announced the removal of Lan Lin, Ma Mei, and Wang Yangping from their respective positions in provincial departments.",
+  "body_zh": "各市、自治州人民政府，甘肃矿区办事处，兰州新区管委会，省政府各部门，中央在甘各单位：\n甘肃省人民政府决定免去：\n兰霖的甘肃省人力资源和社会保障厅副厅长职务；\n马梅的甘肃省广播电视总台副台长职务；\n王阳萍的甘肃省大数据中心副主任职务。\n甘肃省人民政府\n各市、自治州人民政府，甘肃矿区办事处，兰州新区管委会，省政府各部门，中央在甘各单位：\n甘肃省人民政府决定免去：\n兰霖的甘肃省人力资源和社会保障厅副厅长职务；\n马梅的甘肃省广播电视总台副台长职务；\n王阳萍的甘肃省大数据中心副主任职务。\n甘肃省人民政府",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-03",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "兰霖",
+      "name_en": "Lan Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "兰霖",
+    "甘肃",
+    "人事调整"
+  ],
+  "tags_en": [
+    "Lan Lin",
+    "Gansu",
+    "Personnel Adjustment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260603-xinhua_gs-826ddc",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "xinhua_gs",
+      "source_tier": 2,
+      "url": "http://gs.news.cn/20260603/aff14345ae924b048ae48a263eb54276/c.html",
+      "title_zh": "甘肃省人民政府关于谢兴文等同志职务任免的通知",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

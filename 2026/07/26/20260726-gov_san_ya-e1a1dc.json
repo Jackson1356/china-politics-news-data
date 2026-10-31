@@ -1,0 +1,103 @@
+{
+  "id": "20260726-gov_san_ya-e1a1dc",
+  "source": "gov_san_ya",
+  "source_name_zh": "三亚市政府网",
+  "source_name_en": "三亚 Government Portal",
+  "source_media_id": "gov-cn-prefecture-san_ya",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HI",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.sanya.gov.cn/sanyasite/hnyw/simple_list.shtml",
+  "title_zh": "省委常委会（扩大）会议：坚决拥护党中央决定 坚定不移推进全面从严治党",
+  "title_en": "Provincial Party Committee Standing Committee (Enlarged) Meeting: Firmly Support the CPC Central Committee's Decision and Unwaveringly Advance Full and Strict Governance of the Party",
+  "summary_zh": "2026年7月25日，海南省委常委会召开扩大会议，表示坚决拥护党中央决定，并坚定不移推进全面从严治党。",
+  "summary_en": "On July 25, 2026, the Standing Committee of the Hainan Provincial Party Committee held an enlarged meeting, expressing firm support for the CPC Central Committee's decision and unwavering commitment to advancing full and strict governance of the Party.",
+  "body_zh": "- [2026-07-26] 省人大常委会召开党组（扩大）会议\n- [2026-07-26] 王斌出席“驻华使节代表团参访海南”海南自贸港推介会\n- [2026-07-25] 冯飞刘小明会见驻华使节参访海南代表团\n- [2026-07-25] 省委常委会（扩大）会议：坚决拥护党中央决定 坚定不移推进全面从严治党\n- [2026-07-25] 省政府党组（扩大）会议召开 部署基础教育工作\n- [2026-07-24] 省委常委会会议暨省委党的建设工作领导小组会议召开\n- [2026-07-24] 刘小明会见中国东方电气集团客人\n- [2026-07-24] 省委理论学习中心组（扩大）学习会召开\n- [2026-07-23] 全省2026年上半年经济形势分析会召开\n- [2026-07-23] 省委退役军人事务工作领导小组会议召开\n- [2026-07-23] 2026年下半年全省征兵工作会议召开\n- [2026-07-23] 省委召开专题会议\n- [2026-07-22] 冯飞在儋州市调研树立和践行正确政绩观学习教育和经济社会发展情况\n- [2026-07-22] 海南省七届人大常委会第31次主任会议召开\n- [2026-07-22] 全省2026年“扫黄打非”专项工作机制第二次全体会议召开",
+  "image_url": null,
+  "published_at": "2026-07-26T12:00:00+00:00",
+  "event_date": "2026-07-25",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "拥护党中央决定"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Strict Governance of the Party"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "拥护党中央决定",
+      "name_en": "Support CPC Central Committee Decision"
+    },
+    {
+      "kind": "person",
+      "id": "liu-xiaoming-hainan",
+      "name_zh": "刘小明",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wang-bin-hainan",
+      "name_zh": "王斌",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "feng-fei-hainan",
+      "name_zh": "冯飞",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "海南",
+    "全面从严治党",
+    "拥护党中央决定",
+    "刘小明",
+    "王斌",
+    "冯飞"
+  ],
+  "tags_en": [
+    "Hainan",
+    "Full and Strict Governance of the Party",
+    "Support CPC Central Committee Decision"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-bin-hainan",
+      "feng-fei-hainan",
+      "liu-xiaoming-hainan",
+      {
+        "id": null,
+        "name_zh": "任会议"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260726-gov_san_ya-e1a1dc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

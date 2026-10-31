@@ -1,0 +1,97 @@
+{
+  "id": "20260522-guancha_politics-52d4cb",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_26_818446.shtml",
+  "title_zh": "最高检挂牌督办山西沁源煤矿爆炸重大责任事故案",
+  "title_en": "Supreme People's Procuratorate Supervises Investigation into Major Coal Mine Explosion in Qinyuan, Shanxi",
+  "summary_zh": "5月22日山西沁源县发生煤矿瓦斯爆炸造成重大人员伤亡，最高检现已挂牌督办，要求依法严惩事故主要责任人员。",
+  "summary_en": "The Supreme People's Procuratorate is supervising the investigation into a gas explosion at a coal mine in Qinyuan, Shanxi on May 22, which caused massive casualties, and has called for strict punishment of those responsible.",
+  "body_zh": "最高检挂牌督办山西沁源煤矿爆炸重大责任事故案\n5月22日，山西长治市沁源县山西通洲集团留神峪煤业有限公司井下发生瓦斯爆炸，造成特别重大人员伤亡。最高检要求山西省检察机关充分履行检察职能，协同公安机关及有关部门，依法查明事故原因、案件事实，对于事故主要责任人员，依法从严惩处。\n检察机关将保持对危害生产安全犯罪高压态势，依法从严惩处造成群死群伤、人民群众反映强烈的重特大危害生产安全犯罪，切实维护人民群众生命财产安全和社会大局稳定。\n另据新华社早前消息，5月22日，留神峪煤矿发生瓦斯爆炸，事故共造成82人遇难，两名失联人员尚未找到，搜救工作仍在进行中。初步调查，涉事煤矿企业有重大违法行为。\n辽宁省长深入矿井下检查",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-22",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "discipline",
+  "keywords": [
+    "生产安全",
+    "责任追究"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX",
+      "name_zh": "山西",
+      "name_en": "Shanxi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "沁源县",
+      "name_en": "Qinyuan County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生产安全",
+      "name_en": "Production Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "责任追究",
+      "name_en": "Accountability"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高检",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "山西",
+    "沁源县",
+    "生产安全",
+    "责任追究"
+  ],
+  "tags_en": [
+    "Shanxi",
+    "Qinyuan County",
+    "Production Safety",
+    "Accountability"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高检"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260522-guancha_politics-52d4cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1779796349129691.html",
+      "title_zh": "最高检挂牌督办山西沁源煤矿爆炸重大责任事故案",
+      "published_at": "2026-05-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

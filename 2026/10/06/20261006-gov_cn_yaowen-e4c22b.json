@@ -1,0 +1,83 @@
+{
+  "id": "20261006-gov_cn_yaowen-e4c22b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082663.htm",
+  "title_zh": "假期客流集中返程 多措并举保有序出行",
+  "title_en": "Holiday Travelers Head Home in Droves as Multiple Measures Ensure Orderly Return Trips",
+  "summary_zh": "10月6日，全国迎来假期返程高峰，全社会跨区域人员流动量超3亿人次，铁路、公路、民航均加大运力投放保障有序出行。",
+  "summary_en": "On October 6, China saw a holiday return-travel peak with over 300 million cross-region trips, as rail, road and civil aviation operators boosted capacity to keep travel orderly.",
+  "body_zh": "记者从交通运输部了解到，今天（10月6日）全社会跨区域人员流动量超3亿人次。全国交通出行迎来返程高峰。\n今天，全国铁路预计发送旅客2210万人次，计划加开旅客列车2199列。铁路部门及时增加运力投放，多地车站优化进站流线，减少旅客等候时间，同时为老幼病残孕等重点旅客提供优先检票等暖心服务。\n公路方面，今天迎来返程车流高峰，路网流量以中长途返程车流为主，出行集中时间段为10时和16时。预计明天短途返程车流形成高峰，七座及七座以下小型客车明天24时前还可以免费通行全国高速。\n全国民航预计今天运输旅客250万人次。针对返程客流集中的情况，多家航空公司在热门航线增加运力投放，确保假期旅客顺畅返程。",
+  "image_url": null,
+  "published_at": "2026-10-06T12:00:00+00:00",
+  "event_date": "2026-10-06",
+  "ingested_at": "2026-10-07T11:06:49Z",
+  "topic": "economy",
+  "keywords": [
+    "假期返程",
+    "运力保障",
+    "客运服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假期返程",
+      "name_en": "Holiday Return Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "运力保障",
+      "name_en": "Transport Capacity Guarantee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "客运服务",
+      "name_en": "Passenger Services"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "假期返程",
+    "运力保障",
+    "客运服务"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Holiday Return Travel",
+    "Transport Capacity Guarantee",
+    "Passenger Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261006-gov_cn_yaowen-e4c22b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

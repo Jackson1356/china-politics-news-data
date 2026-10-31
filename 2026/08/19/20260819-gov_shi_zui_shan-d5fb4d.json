@@ -1,0 +1,91 @@
+{
+  "id": "20260819-gov_shi_zui_shan-d5fb4d",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/szf/zfcwhy/cwhy/202608/t20260819_5317103.html",
+  "title_zh": "石嘴山市政府召开常务会议研究经济运行等工作",
+  "title_en": "Shizuishan Municipal Government Holds Executive Meeting on Economic Work",
+  "summary_zh": "8月18日，石嘴山市市长徐龙主持召开市政府常务会议，传达学习习近平总书记重要讲话精神，听取经济运行汇报并部署下一步工作。",
+  "summary_en": "On August 18, Mayor Xu Long of Shizuishan chaired a municipal government executive meeting to convey Xi Jinping's important speech, hear reports on economic performance, and arrange next steps.",
+  "body_zh": "8月18日，市委副书记、市长徐龙主持召开市人民政府2026年第20次常务会议，传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，听取1-7月全市经济运行情况汇报，研究下一步工作。\n会议强调，要深入学习习近平总书记重要讲话精神，深切缅怀江泽民同志丰功伟绩，深刻感悟江泽民同志崇高风范，要坚定理想信念，恪守政治忠诚，增强“四个意识”、坚定“四个自信”、做到“两个维护”。要践行初心使命，厚植为民情怀，走好新时代党的群众路线，切实解决好群众急难愁盼。要深化改革创新，释放发展活力，坚持解放思想、实事求是，有力支撑石嘴山经济高质量发展。要强化前瞻思考，树牢系统观念，完整准确全面贯彻新发展理念，稳住发展基本盘，培育新质生产力。要发扬斗争精神，切实担当尽责，紧盯安全、环保等领域突出问题，敢于斗争碰硬，夯实高质量发展基础。\n会议强调，抓经济就是抓发展，稳增长就是稳大局，全市上下要坚定信心、真抓实干。要突出目标抓落实，咬定年度目标任务，以月保季、以季保年，确保完成全年目标任务。要强化产业抓落实，坚持既抓“大”又抓“小”、既抓“有”又抓“新”、既抓“稳”又抓“跌”、既抓“帮”又抓“促”、既抓“实”又抓“协”、既抓“干”又抓“争”，确保三次产业齐头并进、平稳运行。要严格安全环保和民生改善抓落实，排查整治各类风险隐患，高质量办结民生实事与议案建议提案。要严格项目进度质量和综合监管抓落实，健全工作机制，推动项目建设、城市管理提质增效。要深化谋划细化抓落实，超前谋划部署明年重点项目，做到任务抓实、进度盯牢。要注重协同联动抓落实，全市上下要拧成一股绳，相关部门要深入一线、靠前服务，对重点地区和重点企业加强帮扶与指导。\n会议还研究了营商环境优化提升专项行动和制造业新型技术改造城市试点工作推进等事项。（记者 姚路路 行衍）",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-SZ",
+      "name_zh": "石嘴山",
+      "name_en": "Shizuishan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Performance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "石嘴山",
+    "经济运行",
+    "营商环境",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shizuishan",
+    "Economic Performance",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "龙主持"
+      },
+      {
+        "id": null,
+        "name_zh": "徐龙"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260819-gov_shi_zui_shan-d5fb4d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

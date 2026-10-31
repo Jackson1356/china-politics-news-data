@@ -1,0 +1,119 @@
+{
+  "id": "20260817-qiushi-996c51",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260817/7c640c9132814c5c949bfb3189abfe26/c.html",
+  "title_zh": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+  "title_en": "Xi Jinping Sends Condolences to Indonesian President Prabowo over Earthquake",
+  "summary_zh": "8月17日，国家主席习近平就印尼强烈地震向印尼总统普拉博沃致慰问电，对遇难者表示哀悼并致以诚挚慰问。",
+  "summary_en": "On August 17, President Xi Jinping sent a condolence message to Indonesian President Prabowo over a strong earthquake, expressing condolences for the victims and the injured.",
+  "body_zh": "新华社北京8月17日电 8月17日，国家主席习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电。\n习近平表示，惊悉贵国发生强烈地震，造成严重人员伤亡和财产损失，我谨代表中国政府和中国人民，对遇难者表示哀悼，向遇难者家属和伤者致以诚挚慰问。相信在你领导的印度尼西亚政府带领下，印度尼西亚人民一定能够早日战胜灾害、重建家园。",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "地震慰问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "普拉博沃",
+      "name_en": "Prabowo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地震慰问",
+      "name_en": "Earthquake Condolences"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "普拉博沃",
+    "北京",
+    "地震慰问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Prabowo",
+    "Beijing",
+    "Earthquake Condolences"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260817-qiushi-996c51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/08/17/VIDEUnG4MHj25c8h63O43VXl260817.shtml",
+      "title_zh": "[视频]习近平就印度尼西亚发生强烈地震向印尼总统致慰问电",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078338.htm",
+      "title_zh": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0818/c64094-40781542.html",
+      "title_zh": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202608/t20260818_175102.html",
+      "title_zh": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2089523064790925314.html",
+      "title_zh": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

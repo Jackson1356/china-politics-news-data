@@ -1,0 +1,132 @@
+{
+  "id": "20261022-gov_cn_yaowen-3eeea2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/22/VIDENf0CCcR1beh2yOa5tjKc261022.shtml",
+  "title_zh": "李强会见俄罗斯总统普京",
+  "title_en": "Li Qiang Meets Russian President Vladimir Putin",
+  "summary_zh": "当地时间10月21日下午，国务院总理李强在圣彼得堡会见俄罗斯总统普京，双方表示将加强战略沟通、深化能源经贸等务实合作。",
+  "summary_en": "On the afternoon of Oct 21 local time, Premier Li Qiang met Russian President Vladimir Putin in St. Petersburg, with both sides pledging stronger strategic communication and deeper practical cooperation in energy and trade.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间10月21日下午，国务院总理李强在圣彼得堡会见俄罗斯总统普京。\n李强转达习近平主席对普京总统的亲切问候和良好祝愿。李强表示，今年以来，两国元首两度会晤，就深化中俄关系与合作作出进一步规划。中方愿同俄方加强战略沟通，夯实政治互信，加强能源、经贸、交通运输等务实合作，促进两国共同繁荣。中方愿同俄方密切在多边平台的配合，捍卫共同利益，维护公平正义。\n普京请李强转达对习近平主席的诚挚问候，预祝中国共产党二十届五中全会成功举行。普京表示，中国过去、现在和将来都是俄方最亲密、最可靠的伙伴。俄方愿同中方深化各领域务实合作，支持中方主办今年亚太经合组织领导人非正式会议。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-21",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "务实合作",
+    "多边协调"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "圣彼得堡",
+      "name_en": "St. Petersburg"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边协调",
+      "name_en": "Multilateral Coordination"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "圣彼得堡",
+    "中俄关系",
+    "务实合作",
+    "多边协调",
+    "习近平",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "St. Petersburg",
+    "China-Russia Relations",
+    "Practical Cooperation",
+    "Multilateral Coordination"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261022-gov_chi_feng-d31e29",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chi_feng",
+      "source_tier": 4,
+      "url": "http://www.chifeng.gov.cn/ywdt/jrtt/202610/t20261022_2837366.html",
+      "title_zh": "李强会见俄罗斯总统普京",
+      "published_at": "2026-10-22T12:00:00+00:00"
+    },
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083960.htm",
+      "title_zh": "李强会见俄罗斯总统普京",
+      "published_at": "2026-10-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

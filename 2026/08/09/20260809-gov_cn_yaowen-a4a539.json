@@ -1,0 +1,74 @@
+{
+  "id": "20260809-gov_cn_yaowen-a4a539",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077764.htm",
+  "title_zh": "7月份居民消费价格指数保持温和上涨",
+  "title_en": "July CPI Rises Mildly as NBS Releases Data",
+  "summary_zh": "国家统计局8月9日发布数据显示，7月CPI同比上涨0.5%，PPI同比上涨3.5%，涨幅总体温和。",
+  "summary_en": "NBS data released on August 9 show July CPI rose 0.5% year on year and PPI rose 3.5%, indicating moderate price increases.",
+  "body_zh": "国家统计局今天（8月9日）发布的数据显示，7月份，反映居民衣食住行等八大类商品的居民消费价格指数（CPI）同比上涨0.5%，上涨态势温和。其中，粮食、鲜菜、鲜果等食品价格同比略有下降，家政服务、在外餐饮等服务价格有所上涨，涨幅总体稳定。\n从生产领域看，7月份，工业生产者出厂价格指数（PPI）同比上涨3.5%，受国际原油价格回调等输入性因素影响，PPI同比涨幅有所回落。",
+  "image_url": null,
+  "published_at": "2026-08-09T12:00:00+00:00",
+  "event_date": "2026-08-09",
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "economy",
+  "keywords": [
+    "居民消费价格指数",
+    "工业生产者出厂价格指数"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "居民消费价格指数",
+      "name_en": "Consumer Price Index"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业生产者出厂价格指数",
+      "name_en": "Producer Price Index"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "居民消费价格指数",
+    "工业生产者出厂价格指数"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Consumer Price Index",
+    "Producer Price Index"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260809-gov_cn_yaowen-a4a539",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

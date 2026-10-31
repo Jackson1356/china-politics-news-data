@@ -1,0 +1,114 @@
+{
+  "id": "20261030-bjnews-d048ab",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1793325713129660.html",
+  "title_zh": "中共中央就党的二十届五中全会精神举行新闻发布会",
+  "title_en": "CPC Central Committee Holds Press Conference on the Spirit of the Fifth Plenary Session of the 20th Central Committee",
+  "summary_zh": "10月30日上午10时，中共中央举行新闻发布会，张福海、黄建发、胡和平、唐方裕、谢春涛介绍和解读党的二十届五中全会精神并答记者问。",
+  "summary_en": "At 10 a.m. on Oct 30, the CPC Central Committee held a press conference where senior officials including Zhang Fuhai, Huang Jianfa and Hu Heping explained the spirit of the Fifth Plenary Session of the 20th Central Committee and took questions.",
+  "body_zh": "据新华社快讯：10月30日上午10时，中共中央举行新闻发布会，中央纪委副书记、国家监委副主任张福海，中央组织部分管日常工作的副部长黄建发，中央宣传部分管日常工作的副部长胡和平，中央政策研究室主任唐方裕，中央党校（国家行政学院）分管日常工作的副校长（副院长）谢春涛介绍和解读党的二十届五中全会精神，并答记者问。发布会由中央宣传部副部长王纲主持。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会",
+    "会议精神解读",
+    "新闻发布会"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-chuntao",
+      "name_zh": "谢春涛",
+      "name_en": "Xie Chuntao"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Publicity Department of the CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会",
+      "name_en": "Fifth Plenary Session of the 20th Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "会议精神解读",
+      "name_en": "Guiding Principles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新闻发布会",
+      "name_en": "Press Conference"
+    }
+  ],
+  "tags_zh": [
+    "谢春涛",
+    "中共中央",
+    "中央宣传部",
+    "二十届五中全会",
+    "会议精神解读",
+    "新闻发布会"
+  ],
+  "tags_en": [
+    "Xie Chuntao",
+    "CPC Central Committee",
+    "Publicity Department of the CPC Central Committee",
+    "Fifth Plenary Session of the 20th Central Committee",
+    "Guiding Principles",
+    "Press Conference"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-chuntao"
+    ],
+    "institutions": [
+      "CCPD"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261030-bjnews-d048ab",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-10/30/content_9481847.html",
+      "title_zh": "新华社快讯：中共中央就党的二十届五中全会精神举行新闻发布会",
+      "published_at": "2026-10-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

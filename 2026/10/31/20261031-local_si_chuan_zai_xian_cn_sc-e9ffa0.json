@@ -1,0 +1,115 @@
+{
+  "id": "20261031-local_si_chuan_zai_xian_cn_sc-e9ffa0",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202610/83348858.html",
+  "title_zh": "习近平同德国总统施泰因迈尔会谈：打造平等互利、战略稳定的合作新范式",
+  "title_en": "Xi Jinping Holds Talks with German President Steinmeier on Building a New Paradigm of Equal and Mutually Beneficial, Strategically Stable Cooperation",
+  "summary_zh": "10月30日下午，习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈，双方表示将加强沟通协作，打造平等互利、战略稳定的合作新范式。",
+  "summary_en": "On the afternoon of Oct 30, Xi Jinping held talks at the Great Hall of the People in Beijing with German President Frank-Walter Steinmeier, who is on a state visit to China; both sides pledged closer coordination and a new paradigm of equal, mutually beneficial and strategically stable cooperation.",
+  "body_zh": "10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。\n习近平指出，中德始终是相互信任的朋友、彼此成就的伙伴。中德作为世界第二、第三大经济体，对中欧关系发展和世界经济稳定增长负有重要责任，理应加强沟通和协作，打造平等互利、战略稳定的合作新范式，对外释放要开放不要封闭、要合作不要对抗的积极信号。\n施泰因迈尔说：“近25年前我首次来华访问，见证了中国充满活力、日新月异的发展过程。这是我第八次来华，每次都能看到一个崭新的中国。近年来，中国的影响力愈发举足轻重，经济实力、科技实力和政治影响力大幅提升，对此我深表尊重。”",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "foreign",
+  "keywords": [
+    "中德关系",
+    "战略合作",
+    "开放合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中德关系",
+      "name_en": "China-Germany Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放合作",
+      "name_en": "Open Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中德关系",
+    "战略合作",
+    "开放合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Germany Relations",
+    "Strategic Cooperation",
+    "Open Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261030-qiushi-296f9f",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "local_fu_zhou_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://news.fznews.com.cn/node/23556/20261031/gacy00whSB.shtml",
+      "title_zh": "视频丨习近平同德国总统会谈：打造平等互利 战略稳定的合作新范式",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "source": "local_ji_nan_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "http://news.e23.cn/content/2026-10-31/2026A3100050.html",
+      "title_zh": "独家视频丨习近平同德国总统会谈：打造平等互利 战略稳定的合作新范式",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "source": "local_hong_wang_cn_hn",
+      "source_tier": 3,
+      "url": "https://news.rednet.cn/content/646054/75/16428860.html",
+      "title_zh": "独家视频丨习近平同德国总统会谈：打造平等互利战略稳定的合作新范式",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

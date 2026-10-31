@@ -1,0 +1,101 @@
+{
+  "id": "20261015-gov_wei_hai-88e33d",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/10/15/art_58817_6675066.html",
+  "title_zh": "市直老干部情况通报会暨“学思想·看变化·助发展”调研活动举行",
+  "title_en": "Weihai Holds Briefing for Retired Municipal Cadres and 'Study, Observe, Support Development' Research Activity",
+  "summary_zh": "10月14日，威海市举行市直老干部情况通报会，市委书记张海波主持会议并讲话，市委副书记、市长孔凡萍通报今年以来全市经济社会发展情况。",
+  "summary_en": "On Oct 14, Weihai held a briefing for retired municipal cadres. Party Secretary Zhang Haibo presided and spoke, while Mayor Kong Fanping reported on the city's economic and social development this year.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）在重阳节即将到来之际，10月14日，我市举行市直老干部情况通报会暨“学思想·看变化·助发展”调研活动。市委书记张海波主持会议并讲话，市委副书记、市长孔凡萍通报今年以来全市经济社会发展情况，市领导贾瑞霭、林强、闫金明、于宁参加有关活动。\n张海波代表市委、市人民政府向老干部致以节日祝福和诚挚问候，对大家为威海发展作出的贡献表示崇高的敬意。他说，今年以来，全市上下认真贯彻落实党中央决策部署和省委工作要求，牢固树立和践行正确政绩观，推动经济持续回稳向好，全力推进精致城市建设，持续保障和改善民生，更好统筹发展和安全，各项事业发展都取得了新成绩新进展。这些成绩的取得，既是全市广大干部群众共同努力的结果，也离不开各位老领导老同志的关心和支持。希望大家继续发挥政治优势、经验优势、威望优势，一如既往地关心支持全市的发展，多提真知灼见、务实良策，多传递积极声音、凝聚社会共识，共同维护风清气正的政治生态和安定和谐的社会环境。市委、市人民政府将始终把老干部工作作为一项重要政治任务，坚持政治上尊重、思想上关心、生活上照顾、精神上关怀，进一步增强老干部的归属感、获得感和幸福感。\n会后，市领导与老干部一起观看了文艺演出，并前往亘元新材料股份有限公司、天润工业技术股份有限公司和张家产镇西洋参种植示范基地等实地调研。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "party",
+  "keywords": [
+    "老干部工作",
+    "经济社会发展",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老干部工作",
+      "name_en": "Retired Cadre Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济社会发展",
+      "name_en": "Economic and Social Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "老干部工作",
+    "经济社会发展",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Retired Cadre Affairs",
+    "Economic and Social Development",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "于宁"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261015-gov_wei_hai-88e33d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

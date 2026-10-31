@@ -1,0 +1,87 @@
+{
+  "id": "20260824-guancha_politics-0f4f31",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_24_828423.shtml",
+  "title_zh": "厦门一公司用敌敌畏给数十家餐厅消杀？当地最新通报：查扣企业剩余库存药品",
+  "title_en": "Xiamen Company Accused of Using Insecticide for Restaurant Pest Control; Local Authorities Seize Stock",
+  "summary_zh": "厦门一公司涉嫌用敌敌畏为数十家餐厅进行消杀，当地最新通报称已查扣企业剩余库存药品，事件正在调查中。",
+  "summary_en": "A company in Xiamen is suspected of using dichlorvos to disinfect dozens of restaurants. Local authorities have seized its remaining stock and are investigating.",
+  "body_zh": "农发行湖南省分行原党委书记、行长吴晓轮被开除党籍 2026-08-24 10:36 廉政风暴\n新疆维吾尔自治区政协原副主席金之镇被提起公诉 2026-08-24 10:29 廉政风暴\n四川宜宾市长宁县发生4.7级地震 2026-08-24 09:28\n“蘸甲醛”白菜流向江苏宿迁？当地通报 2026-08-24 08:41\n儿童能否单独乘火车？列车有无儿童托管服务？铁路官方解答 2026-08-23 22:16\n针对“甲醛白菜”，三部门出手 2026-08-23 20:21 食品安全\n广西发布洪水红色预警：崇左等地多处被淹 2026-08-23 20:17 极端天气\n“旅客买票占座放零食”是否合规？专家解读争议 2026-08-23 19:20\n“赛考斯”：这简直是个奇迹 2026-08-23 18:33\n受台风影响，海南环岛高铁将部分临时停运 2026-08-23 16:48 极端天气\n襄阳市委书记调整，关志鸥：这是省委反复酝酿、慎重研究决定的 2026-08-23 15:28 地方人事观察\n7位项目评审专家被通报处理：存在严重不良行为 2026-08-23 14:50\n第48届世界技能大赛中国代表团成立，71人将参加64项比赛 2026-08-23 10:37\n湖北孝感市博物馆邀请观众给展陈内容“找茬” 2026-08-23 08:25\n航行警告！南海部分海域进行实弹射击，禁止驶入 2026-08-23 07:14\n渔民意外断肢，郑州舰、南通舰、千岛湖舰深夜接力救援 2026-08-22 22:53\n“零食占座”当事人母亲发声：放心不下孩子所以没退票 2026-08-22 21:00\n一天之内生成2个台风！海上正三旋共舞  2026-08-22 20:21 极端天气\n“9元饮料倒入高脚杯卖398元”？警方通报 2026-08-22 16:02\n中国共产党第二十届中央纪律检查委员会第六次全体会议公报 2026-08-22 15:04",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "食品安全",
+    "市场监管"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-FJ-XM",
+      "name_zh": "厦门",
+      "name_en": "Xiamen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "市场监管",
+      "name_en": "Market Regulation"
+    }
+  ],
+  "tags_zh": [
+    "厦门",
+    "食品安全",
+    "市场监管"
+  ],
+  "tags_en": [
+    "Xiamen",
+    "Food Safety",
+    "Market Regulation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吴晓轮"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-XM"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260824-guancha_politics-0f4f31",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_24_828453.shtml",
+      "title_zh": "一场地震，两方说法，四条声明：四川4.7级地震预警争议始末",
+      "published_at": "2026-08-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

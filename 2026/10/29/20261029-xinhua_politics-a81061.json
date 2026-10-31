@@ -1,0 +1,93 @@
+{
+  "id": "20261029-xinhua_politics-a81061",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261029/c042231e82b84ac1965b755fd2e853d9/c.html",
+  "title_zh": "前三季度我国跨区域人员流动量超512亿人次",
+  "title_en": "Cross-Regional Passenger Trips Exceed 51.2 Billion in First Three Quarters",
+  "summary_zh": "交通运输部10月29日发布数据，前三季度跨区域人员流动量512.2亿人次，同比增长1.2%，交通运输经济运行总体平稳。",
+  "summary_en": "The Ministry of Transport said on Oct 29 that cross-regional passenger trips reached 51.22 billion in the first three quarters, up 1.2% year on year, with transport operations generally stable.",
+  "body_zh": "新华社北京10月29日电（记者王聿昊）记者29日从交通运输部获悉，前三季度我国交通运输经济运行总体平稳，主要指标规模较去年同期有所增长。\n具体来看，前三季度，我国跨区域人员流动量512.2亿人次，同比增长1.2%；营业性货运量430.4亿吨，同比增长2.3%；全国港口货物吞吐量136.4亿吨，同比增长0.7%。\n城市客运方面，前三季度完成城市客运量792.8亿人次，同比增长2.5%。其中，城市轨道交通、出租汽车分别完成客运量254.6亿人次、272.5亿人次，同比分别增长3.4%、7%。\n交通固定资产投资方面，前三季度完成交通固定资产投资2.4万亿元，其中公路、水运分别完成投资1.6万亿元和1571亿元。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "economy",
+  "keywords": [
+    "交通运输经济",
+    "跨区域人员流动",
+    "交通固定资产投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输经济",
+      "name_en": "Transport Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨区域人员流动",
+      "name_en": "Cross-Regional Passenger Flows"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通固定资产投资",
+      "name_en": "Transport Fixed-Asset Investment"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "北京",
+    "交通运输经济",
+    "跨区域人员流动",
+    "交通固定资产投资"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Beijing",
+    "Transport Economy",
+    "Cross-Regional Passenger Flows",
+    "Transport Fixed-Asset Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261029-xinhua_politics-a81061",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

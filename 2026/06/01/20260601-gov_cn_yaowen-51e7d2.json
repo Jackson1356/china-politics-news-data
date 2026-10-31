@@ -1,0 +1,97 @@
+{
+  "id": "20260601-gov_cn_yaowen-51e7d2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7070853.htm",
+  "title_zh": "王毅同巴西外长维埃拉举行中巴外长级全面战略对话",
+  "title_en": "Wang Yi Holds China-Brazil Foreign Ministers' Strategic Dialogue with Brazilian Foreign Minister Mauro Vieira",
+  "summary_zh": "6月1日，外交部长王毅在北京同巴西外长维埃拉举行第五次中巴外长级全面战略对话，双方探讨深化命运共同体建设及多领域合作。",
+  "summary_en": "On June 1, Foreign Minister Wang Yi held the 5th China-Brazil Foreign Ministers' Strategic Dialogue with Brazilian Foreign Minister Mauro Vieira in Beijing to deepen the community with a shared future and enhance cooperation.",
+  "body_zh": "新华社北京6月1日电 中共中央政治局委员、外交部长王毅1日在北京同巴西外长维埃拉举行第五次中巴外长级全面战略对话。\n王毅说，近年来，在习近平主席和卢拉总统战略引领下，中巴关系实现从全面战略伙伴到命运共同体的里程碑式跨越。双方要落实好两国元首重要共识，持续深化中巴命运共同体建设，共同抵御各种外部挑战，为推进各自现代化进程和全球南方国家联合自强形成更多合力，为动荡世界提供更多宝贵的确定性。\n王毅表示，中方赞赏巴政府长期恪守一个中国原则，支持巴方捍卫国家主权、维护独立自主、实现更大发展。双方要发挥各自优势，打造更多合作成果。要落实好两国元首关于办好2026“中巴文化年”重要共识，推动各领域交流合作。要加强在多边机制下沟通协作，积极践行四大全球倡议，推动建立更加公正合理的全球治理体系，维护世界和平稳定，捍卫发展中国家正当权益。中方愿同包括巴方在内的地区国家一道，促进中拉整体合作继续向纵深发展。\n维埃拉表示，巴中关系是发展中国家坚持独立自主、加强团结协作的标杆，也是大国之间发展稳定、可预期关系的典范。巴方始终恪守一个中国原则，期待同中方巩固战略互信，深化务实合作。巴方愿同中方加强多边协作。",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "foreign",
+  "keywords": [
+    "全面战略对话",
+    "命运共同体",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "维埃拉",
+      "name_en": "Mauro Vieira"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略对话",
+      "name_en": "Comprehensive Strategic Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "维埃拉",
+    "北京",
+    "全面战略对话",
+    "命运共同体",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Mauro Vieira",
+    "Beijing",
+    "Comprehensive Strategic Dialogue",
+    "Community with a Shared Future",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260601-gov_cn_yaowen-51e7d2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

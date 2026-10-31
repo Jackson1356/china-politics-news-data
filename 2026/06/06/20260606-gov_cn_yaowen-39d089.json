@@ -1,0 +1,78 @@
+{
+  "id": "20260606-gov_cn_yaowen-39d089",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071371.htm",
+  "title_zh": "我国服务贸易持续扩能提质",
+  "title_en": "China's Service Trade Continues to Expand Capacity and Improve Quality",
+  "summary_zh": "今年以来，我国服务贸易规模稳步增长，知识密集型服务成为重要支撑，前4个月进出口额达1.1万亿元。",
+  "summary_en": "China's service trade has grown steadily this year, with knowledge-intensive services becoming a key driver, reaching 1.1 trillion yuan in imports and exports in the first four months.",
+  "body_zh": "今年以来，我国服务贸易规模稳步增长，结构持续向优，服务贸易对外贸发展的支撑作用正在进一步增强。\n最近一段时间，江苏苏州生物医药产业园内多家企业密集签下服务出口订单。这家创新药企业与国际制药企业达成合作，围绕12个研发项目签署全球授权协议，交易总额达105亿美元。今年前5个月，园区落地8项生物医药自主知识产权出海合作项目，累计交易总金额突破266亿美元，较去年同比增长超5倍。\n知识密集型服务正成为我国服务贸易增长的重要支撑。商务部数据显示：今年前4个月，我国知识密集型服务进出口11041.8亿元，在服务进出口总额的比重中达到了44.4%；知识密集型服务出口增长更为明显，同比增长了11.7%。新兴服务贸易增势迅猛的同时，传统服务贸易也保持了较快增长，1—4月，旅行服务出口、运输服务进口增速分别达到30.4%和24.9%，传统服务贸易的基本盘持续巩固。",
+  "image_url": null,
+  "published_at": "2026-06-06T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "economy",
+  "keywords": [
+    "服务贸易",
+    "知识密集型服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "苏州",
+      "name_en": "Suzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Service Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "知识密集型服务",
+      "name_en": "Knowledge-intensive Services"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "苏州",
+    "服务贸易",
+    "知识密集型服务"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Suzhou",
+    "Service Trade",
+    "Knowledge-intensive Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260606-gov_cn_yaowen-39d089",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

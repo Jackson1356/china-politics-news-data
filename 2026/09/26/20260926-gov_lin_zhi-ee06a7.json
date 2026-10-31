@@ -1,0 +1,99 @@
+{
+  "id": "20260926-gov_lin_zhi-ee06a7",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/9bd431ecbe1d4294b9fcdbb11da3927e.shtml",
+  "title_zh": "林芝市召开两会新闻发布会",
+  "title_en": "Linzhi City Holds Press Conference for Two Sessions",
+  "summary_zh": "9月25日下午，林芝市人大常委会、市政协分别就市三届人大一次会议和市政协三届一次会议筹备情况举行新闻发布会，并回答记者提问。",
+  "summary_en": "On the afternoon of Sept 25, Linzhi's municipal people's congress standing committee and CPPCC committee held a press conference on preparations for the city's third people's congress session and third CPPCC session, taking reporters' questions.",
+  "body_zh": "9月25日下午,林芝市召开两会新闻发布会。\n市人大常委会、市政协相关负责人分别就林芝市第三届人民代表大会第一次会议筹备情况和政协第三届林芝市委员会第一次会议筹备情况作主题发布并回答记者提问。\n市人大常委会发布人表示,市三届人大一次会议是在建党105周年、“十五五”开局起步之年,林芝发展进入重要战略机遇期的关键节点召开的一次十分重要的会议。经市二届人大常委会第八十二次主任会议研究并报请市委批准,市三届人大一次会议定于2026年9月27日开幕,29日闭幕,预定会期为3天。拟听取和审议林芝市人民政府工作报告;听取和审议林芝市人民代表大会常务委员会工作报告;听取和审议林芝市中级人民法院工作报告;听取和审议林芝市人民检察院工作报告;通过关于设立林芝市第三届人民代表大会专门委员会的决定;选举林芝市第三届人民代表大会常务委员会主任、副主任、秘书长、委员;选举林芝市人民政府市长、副市长;选举林芝市监察委员会主任;选举林芝市中级人民法院院长;选举林芝市人民检察院检察长;通过林芝市第三届人民代表大会专门委员会组成人员名单及其他事项。\n市政协发布人表示,“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期。市政协三届一次会议于9月26日开幕,9月28日闭幕,会期3天,将对二届市政协5年来的工作进行总结,对未来5年工作作出部署。主要议程是:听取和审议市政协常委会工作报告和提案工作情况的报告;列席市三届人大一次会议,听取并讨论政府工作报告以及其他报告;审议通过市政协三届一次会议政治决议、关于常委会工作报告的决议、关于提案工作情况报告的决议、关于市政协三届一次会议提案审查情况的报告;选举产生政协第三届林芝市委员会主席、副主席、秘书长和常务委员。会议期间,还将安排开幕会、闭幕会、预备会、选举大会、委员发言5次全体会议,并开展“委员通道”采访活动。\n发布人分别就市二届人大常委会在服务保障代表履职方面有哪些好的经验和成效,过去五年,二届市政协及其常委会在加强自身建设方面有哪些具体实践等问题回答记者提问。",
+  "image_url": null,
+  "published_at": "2026-09-26T12:00:00+00:00",
+  "event_date": "2026-09-25",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "party",
+  "keywords": [
+    "两会",
+    "换届选举",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Linzhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两会",
+      "name_en": "Two Sessions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "林芝市",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林芝",
+    "两会",
+    "换届选举",
+    "十五五规划",
+    "林芝市"
+  ],
+  "tags_en": [
+    "Linzhi",
+    "Two Sessions",
+    "Leadership Elections",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "程是"
+      },
+      {
+        "id": null,
+        "name_zh": "林芝市"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260926-gov_lin_zhi-ee06a7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

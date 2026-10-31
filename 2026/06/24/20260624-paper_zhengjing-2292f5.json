@@ -1,0 +1,88 @@
+{
+  "id": "20260624-paper_zhengjing-2292f5",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33445072",
+  "title_zh": "习近平在山东德州考察",
+  "title_en": "Xi Jinping Inspects Dezhou, Shandong",
+  "summary_zh": "6月24日，习近平在山东省德州市考察调研，在西于架村强调要齐心协力走好新的长征路，开创更加光明的未来。",
+  "summary_en": "On June 24, Xi Jinping conducted an inspection tour in Dezhou, Shandong Province, emphasizing the need to work together on a new long march toward a brighter future.",
+  "body_zh": "视频丨习近平在山东德州考察：不忘初心、牢记使命，走新的长征路\n央视新闻\n6月24日，习近平来到山东省德州市考察调研。在西于架村，习近平对大家说，“七一”就要到了，我们即将迎来党的105岁生日。105年来我们党团结带领全国各族人民不懈奋斗，创造了无愧于历史和人民的伟大成就。现在，我们正阔步行进在全面建设社会主义现代化国家的新征程上，要齐心协力走好新的长征路，开创更加光明的未来，不断满足人民对美好生活的向往。他祝愿乡亲们在党的领导下把家园建设得越来越美，把日子过得越来越好。",
+  "image_url": null,
+  "published_at": "2026-06-24T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "party",
+  "keywords": [
+    "现代化建设",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德州",
+      "name_en": "Dezhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化建设",
+      "name_en": "Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "山东",
+    "德州",
+    "现代化建设",
+    "党的建设"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shandong",
+    "Dezhou",
+    "Modernization",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260624-paper_zhengjing-2292f5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

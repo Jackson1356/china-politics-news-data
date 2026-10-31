@@ -1,0 +1,91 @@
+{
+  "id": "20261029-xinhua_politics-91eb1b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261029/47081a778da140c4b536af08b8069982/c.html",
+  "title_zh": "迎寒保进度 我国最北电气化铁路改造工程持续推进",
+  "title_en": "China's Northernmost Electrified Railway Upgrade Keeps Pace Despite Freezing Cold",
+  "summary_zh": "日前黑龙江遭遇持续低温，我国最北的富加铁路改造工程仍在施工，中铁二十局项目部启动冬季施工管控措施，保障混凝土浇筑与养护质量及工程进度。",
+  "summary_en": "Amid sustained low temperatures in Heilongjiang, work continues on the Fujia railway upgrade, China's northernmost electrified railway project, with the China Railway 20th Bureau launching winter construction controls to protect concrete work and keep the project on schedule.",
+  "body_zh": "日前，黑龙江迎来持续低温天气，我国最北电气化铁路改造工程——富加铁路改造工程施工现场依旧繁忙。针对低温严寒天气给混凝土浇筑、养护带来的难题，中铁二十局集团有限公司富加铁路项目部启动冬季施工管控措施，保障项目高效有序推进。\n据了解，富加铁路是大兴安岭地区对外联系的重要铁路通道。改造工程建成投用后，将极大提升大兴安岭区域资源外运能力，进一步促进边境贸易与跨境旅游发展。\n作者：张涛、张启明、陈渝\n新华社音视频部制作\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "industry",
+  "keywords": [
+    "铁路改造",
+    "基础设施",
+    "边境贸易"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "大兴安岭",
+      "name_en": "Greater Khingan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路改造",
+      "name_en": "Railway Upgrade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "边境贸易",
+      "name_en": "Border Trade"
+    }
+  ],
+  "tags_zh": [
+    "黑龙江",
+    "大兴安岭",
+    "铁路改造",
+    "基础设施",
+    "边境贸易"
+  ],
+  "tags_en": [
+    "Heilongjiang",
+    "Greater Khingan",
+    "Railway Upgrade",
+    "Infrastructure",
+    "Border Trade"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261029-xinhua_politics-91eb1b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

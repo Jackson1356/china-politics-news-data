@@ -1,0 +1,125 @@
+{
+  "id": "20261015-gov_chi_feng-7debb3",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/jrtt/202610/t20261015_2830390.html",
+  "title_zh": "习近平向第140届中国进出口商品交易会致贺信",
+  "title_en": "Xi Jinping Sends Congratulatory Letter to 140th China Import and Export Fair",
+  "summary_zh": "10月14日，国家主席习近平向第140届广交会致贺信，指出广交会已成为中国扩大高水平对外开放的有效平台。本届广交会当日在广州开幕，由商务部和广东省人民政府共同主办。",
+  "summary_en": "On October 14, President Xi Jinping sent a congratulatory letter to the 140th Canton Fair, saying it has become an effective platform for China's high-level opening-up. The fair opened the same day in Guangzhou, co-hosted by the Ministry of Commerce and Guangdong Province.",
+  "body_zh": "10月14日，国家主席习近平向第140届中国进出口商品交易会（广交会）致贺信。\n习近平指出，广交会创办70年来，在促进中外贸易往来方面发挥了重要作用，已成为中国扩大高水平对外开放、推动建设开放型世界经济的有效平台。新形势下，中国愿同世界各国携起手来，共同维护多边贸易体制，保障全球产业链供应链稳定畅通，拓展国际经贸互利合作空间，推进普惠包容的经济全球化，为世界发展繁荣持续注入新动力。\n第140届广交会当日在广东省广州市开幕，由商务部和广东省人民政府共同主办。\n习近平向第140届中国进出口商品交易会致贺信\n新华社\n发布时间：2026-10-15 07:53\n相关文件链接",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "高水平对外开放",
+    "多边贸易体制",
+    "全球产业链供应链"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Level Opening-Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边贸易体制",
+      "name_en": "Multilateral Trading System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球产业链供应链",
+      "name_en": "Global Industrial and Supply Chains"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "商务部",
+    "广州",
+    "高水平对外开放",
+    "多边贸易体制",
+    "全球产业链供应链"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Ministry of Commerce",
+    "Guangzhou",
+    "High-Level Opening-Up",
+    "Multilateral Trading System",
+    "Global Industrial and Supply Chains"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261014-qiushi-1b4d93",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202610/t20261015_5103446.html",
+      "title_zh": "习近平向第140届中国进出口商品交易会致贺信-总书记信息-沈阳市人民政府",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/011/20261015/5a24286d-8b8f-4f31-8f98-8758275294a0.html",
+      "title_zh": "习近平向第140届中国进出口商品交易会致贺信_抚顺市人民政府",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/ywdt/001005/20261015/5a24286d-8b8f-4f31-8f98-8758275294a0.html",
+      "title_zh": "习近平向第140届中国进出口商品交易会致贺信_抚顺市人民政府",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

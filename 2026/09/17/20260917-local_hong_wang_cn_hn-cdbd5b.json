@@ -1,0 +1,83 @@
+{
+  "id": "20260917-local_hong_wang_cn_hn-cdbd5b",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646043/51/16287876.html",
+  "title_zh": "习近平：持续做大做强先进制造业",
+  "title_en": "Xi Jinping: Continue to Strengthen and Expand Advanced Manufacturing",
+  "summary_zh": "中共中央总书记习近平近日就发展先进制造业作出重要指示，指出党的十八大以来我国先进制造业不断壮大，制造强国建设迈出坚实步伐。",
+  "summary_en": "Xi Jinping recently issued instructions on developing advanced manufacturing, saying China's advanced manufacturing sector has kept growing and the building of a manufacturing powerhouse has made solid progress since the 18th Party Congress.",
+  "body_zh": "内容为转载\n中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。习近平总书记把制造业高质量发展置于党和国家发展全局的突出位置，为构建以先进制造业为骨干的现代化产业体系擘画蓝图、指引方向。一起重温总书记重要讲话。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "industry",
+  "keywords": [
+    "先进制造业",
+    "制造强国",
+    "现代化产业体系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造强国",
+      "name_en": "Manufacturing Powerhouse"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化产业体系",
+      "name_en": "Modern Industrial System"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "先进制造业",
+    "制造强国",
+    "现代化产业体系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Advanced Manufacturing",
+    "Manufacturing Powerhouse",
+    "Modern Industrial System"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260917-local_hong_wang_cn_hn-cdbd5b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

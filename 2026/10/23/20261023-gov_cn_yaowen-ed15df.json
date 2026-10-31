@@ -1,0 +1,84 @@
+{
+  "id": "20261023-gov_cn_yaowen-ed15df",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084124.htm",
+  "title_zh": "中央组织部从代中央管理党费中划拨2500万元用于支持西藏抗震救灾工作",
+  "title_en": "Central Organization Department Allocates 25 Million Yuan in Party Dues to Support Tibet Earthquake Relief",
+  "summary_zh": "近日，中央组织部从代中央管理党费中向西藏划拨2500万元专项资金，用于支持抗震救灾工作。",
+  "summary_en": "The Central Organization Department allocated 25 million yuan from centrally managed Party dues to Tibet to support earthquake relief efforts.",
+  "body_zh": "新华社北京10月23日电 为贯彻落实习近平总书记重要指示精神，近日，中央组织部从代中央管理党费中向西藏划拨专项资金2500万元，用于支持抗震救灾工作。\n中央组织部要求，灾区各级党组织要认真贯彻落实习近平总书记重要指示精神，基层党组织和广大党员干部要充分发挥战斗堡垒和先锋模范作用，全力开展人员搜救，全力做好伤员救治工作，最大限度减少人员伤亡，防止发生次生灾害，妥善安置受灾群众，切实保障人民群众生命财产安全。中央组织部强调，这笔党费要及时拨付基层，投入抗震救灾工作，做到专款专用。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "party",
+  "keywords": [
+    "抗震救灾",
+    "党费划拨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CCOD",
+      "name_zh": "中央组织部",
+      "name_en": "Central Organization Department"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党费划拨",
+      "name_en": "Party Dues Allocation"
+    }
+  ],
+  "tags_zh": [
+    "中央组织部",
+    "西藏",
+    "抗震救灾",
+    "党费划拨"
+  ],
+  "tags_en": [
+    "Central Organization Department",
+    "Tibet",
+    "Earthquake Relief",
+    "Party Dues Allocation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CCOD"
+    ],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261023-gov_cn_yaowen-ed15df",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20261011-peoples_jx-b98def",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jx.people.com.cn/n2/2026/1011/c186330-41718540.html",
+  "title_zh": "江西省首个新型电网重点工程建成投运",
+  "title_en": "Jiangxi's First Key New-Type Power Grid Project Put Into Operation",
+  "summary_zh": "江西南昌1000千伏变电站主变扩建工程完成送电调试，标志江西首个新型电网重点工程建成投运，总投资3.54亿元。",
+  "summary_en": "The main transformer expansion project at the Nanchang 1,000 kV substation completed commissioning, marking the launch of Jiangxi's first key new-type power grid project, with total investment of 354 million yuan.",
+  "body_zh": "江西省首个新型电网重点工程建成投运\n人民网南昌10月11日电 （记者时雨）日前，江西南昌1000千伏变电站主变扩建工程顺利完成送电调试，这标志着江西省“六张网”首个新型电网重点工程暨“十五五”时期首个特高压交流变电工程建成投运。\n南昌1000千伏变电站主变扩建工程总投资3.54亿元，项目建设单位按照新型电网建设要求坚持创新驱动，在关键材料、施工装备和智能装置应用等方面取得了多项突破。其中，首次在主变中场强区应用国产化绝缘纸板，促进了国家能源产业链自主可控能力的提升。\n南昌1000千伏变电站主变扩建工程成功建成投运，对江西省电网安全保供、能源资源配置、绿色低碳转型等方面都具有重要意义。一方面，江西省电网受入区外电力的能力提升300万千瓦。另一方面，江西省与华中区域电力互济能力显著加强，特高压网架南延基础进一步夯实。同时，新能源消纳能力进一步提升，江西省接纳更多远方“绿电”的“底气”更足。",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-11",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "industry",
+  "keywords": [
+    "新型电网",
+    "特高压",
+    "绿色低碳转型"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX-NC",
+      "name_zh": "南昌",
+      "name_en": "Nanchang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型电网",
+      "name_en": "New-Type Power Grid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "特高压",
+      "name_en": "Ultra-High Voltage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳转型",
+      "name_en": "Green Low-Carbon Transition"
+    }
+  ],
+  "tags_zh": [
+    "江西",
+    "南昌",
+    "新型电网",
+    "特高压",
+    "绿色低碳转型"
+  ],
+  "tags_en": [
+    "Jiangxi",
+    "Nanchang",
+    "New-Type Power Grid",
+    "Ultra-High Voltage",
+    "Green Low-Carbon Transition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JX",
+      "CN-JX-NC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261011-peoples_jx-b98def",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

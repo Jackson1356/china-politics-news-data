@@ -1,0 +1,113 @@
+{
+  "id": "20260921-peoples_sn-9904f2",
+  "source": "peoples_sn",
+  "source_name_zh": "人民网 陕西",
+  "source_name_en": "People's Daily Shaanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sn.people.com.cn/n2/2026/0921/c186331-41702978.html",
+  "title_zh": "《2025年陕西省公路网运行白皮书》发布",
+  "title_en": "2025 Shaanxi Provincial Highway Network Operation White Paper Released",
+  "summary_zh": "9月15日，陕西省交通运输厅发布由陕西省公路局、省高速公路收费中心联合编写的《2025年陕西省公路网运行白皮书》，显示全省路网服务水平持续提质升级。",
+  "summary_en": "On September 15, the Shaanxi Provincial Department of Transport released the 2025 Shaanxi Highway Network Operation White Paper, jointly compiled by the provincial highway bureau and the highway toll center, showing continued improvement in the province's road network services.",
+  "body_zh": "《2025年陕西省公路网运行白皮书》发布\n陕西省路网服务水平持续提质升级\n9月15日，记者从陕西省交通运输厅获悉：由陕西省公路局、省高速公路收费中心联合编写的《2025年陕西省公路网运行白皮书》发布。省公路局相关负责人介绍，白皮书对全省公路网基础设施、交通运行、突发事件及出行服务等进行了系统统计与分析。\n截至2025年底，陕西省公路通车里程192671.714公里，新增2534.357公里，密度达93.84公里/百平方公里。高速公路6895.242公里，路面技术状况指数PQI平均值94.36，整体优等；普通干线公路20134.906公里，PQI平均值86.86，总体良等，优良路率85.29%。\n交通量小幅波动，结构在变。全年干线公路年平均日交通量15800辆/日，同比下降4%。国家高速日均交通量24058辆/日，下降4.63%；随着麟法高速、眉太高速等投运，省级高速日均交通量达8475辆/日，增长29.07%。客车占比66.40%，提高0.48个百分点。\n12328热线和12122热线全年受理业务400万人次，新媒体平台服务业务量占近七成；普通干线监测视频接入省级云平台，实现高速与普通干线视频“同屏可查”。全省高速服务区120处，普通干线服务区29处，新增充电枪1160个，ETC用户总量527.68万套，全年减免通行费25.24亿元。（记者 许奥博）",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "industry",
+  "keywords": [
+    "公路网运行",
+    "交通基础设施",
+    "出行服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "陕西省交通运输厅",
+      "name_en": "Shaanxi Provincial Department of Transport"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "陕西省公路局",
+      "name_en": "Shaanxi Provincial Highway Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公路网运行",
+      "name_en": "Highway Network Operation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transport Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出行服务",
+      "name_en": "Travel Services"
+    }
+  ],
+  "tags_zh": [
+    "陕西省交通运输厅",
+    "陕西省公路局",
+    "陕西",
+    "公路网运行",
+    "交通基础设施",
+    "出行服务"
+  ],
+  "tags_en": [
+    "Shaanxi Provincial Department of Transport",
+    "Shaanxi Provincial Highway Bureau",
+    "Shaanxi",
+    "Highway Network Operation",
+    "Transport Infrastructure",
+    "Travel Services"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "白皮书"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN"
+    ],
+    "companies": [
+      {
+        "name_zh": "陕西省交通运输厅",
+        "name_en": "Shaanxi Provincial Department of Transport"
+      },
+      {
+        "name_zh": "陕西省公路局",
+        "name_en": "Shaanxi Provincial Highway Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-peoples_sn-9904f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

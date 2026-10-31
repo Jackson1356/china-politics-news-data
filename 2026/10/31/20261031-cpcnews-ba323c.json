@@ -1,0 +1,128 @@
+{
+  "id": "20261031-cpcnews-ba323c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1031/c64387-40825045.html",
+  "title_zh": "民政部等部署开展特殊困难老年人探访关爱服务",
+  "title_en": "Ministry of Civil Affairs and Partners Launch Visit-and-Care Services for Elderly People in Special Difficulty",
+  "summary_zh": "民政部、全国老龄办、中国老龄协会近期印发通知，部署对独居、空巢、留守的高龄失能等特殊困难老年人开展探访关爱服务，原则上每两周至少探访1次。",
+  "summary_en": "China's Ministry of Civil Affairs, the National Aging Office and the China Aging Association issued a notice requiring visit-and-care services for elderly people living alone or with high safety risks, with visits at least once every two weeks.",
+  "body_zh": "本报北京10月30日电 （记者吴储岐）记者从民政部获悉：民政部、全国老龄办、中国老龄协会近期印发《关于深入开展特殊困难老年人探访关爱服务的通知》，明确将独居、空巢、留守的高龄、失能等安全风险较高的特殊困难老年人作为重点对象，每两周至少探访1次，确有需要的，可进一步提高探访频次。\n通知提出，日常探访综合采取敲门探视、电话联系、视频连线、远程智能监测等手段，主动关心、确认平安，了解掌握特殊困难老年人生活状态。发现居家安全隐患的，及时做好风险提示与安全提醒。结合探访关爱对象自身意愿和养老服务实际需求，及时对接相关养老服务机构；涉及其他服务的，积极协助向相关组织转介。开展服务回访，掌握服务开展情况，不断提升服务质效。\n《 人民日报 》（ 2026年10月31日 05 版）",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "养老服务",
+    "特殊困难老年人",
+    "探访关爱"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国老龄办",
+      "name_en": "National Office on Aging"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "特殊困难老年人",
+      "name_en": "Elderly in Special Difficulty"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "探访关爱",
+      "name_en": "Visit and Care"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "全国老龄办",
+    "北京",
+    "养老服务",
+    "特殊困难老年人",
+    "探访关爱"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "National Office on Aging",
+    "Beijing",
+    "Elderly Care Services",
+    "Elderly in Special Difficulty",
+    "Visit and Care"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国老龄办",
+        "name_en": "National Office on Aging"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261031-cpcnews-ba323c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/1031/c352664-41737958.html",
+      "title_zh": "民政部等部署开展特殊困难老年人探访关爱服务",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/1031/c349771-41737979.html",
+      "title_zh": "民政部等部署开展特殊困难老年人探访关爱服务",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/1031/c378440-41737931.html",
+      "title_zh": "民政部等部署开展特殊困难老年人探访关爱服务",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

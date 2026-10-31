@@ -1,0 +1,90 @@
+{
+  "id": "20260906-local_hong_wang_cn_hn-74546e",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/content/646043/98/16245518.html",
+  "title_zh": "习近平出席上合组织+会议并发表重要讲话",
+  "title_en": "Xi Jinping Attends SCO Plus Meeting and Delivers Important Speech",
+  "summary_zh": "当地时间9月1日，国家主席习近平在比什凯克出席上海合作组织+会议，发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。",
+  "summary_en": "On September 1, local time, President Xi Jinping attended the SCO Plus meeting in Bishkek and delivered an important speech titled 'Jointly Advocate an Equal and Orderly Multipolar World and Realize More Just and Equitable Global Governance'.",
+  "body_zh": "当地时间2026年9月1日，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化实现更加公正合理的全球治理》的重要讲话。讲话中，习近平主席以我们需要什么样的多极化破题，呼吁上合组织以“上合力量”驱动亚欧大陆繁荣共兴，以“上合智慧”推动全球南方发展壮大，以“上合行动”引领全球治理改革完善。\n动荡变革的世界，全球治理面对诸多考验。上海合作组织经过25年发展，成功树立起大国之间、邻国之间、大小国家之间关系的典范，成功汇聚起全球近半数人口和四分之一经济体量的发展合力。一个更加团结、更有活力的上海合作组织完全能够为推进世界多极化贡献更大力量。",
+  "image_url": null,
+  "published_at": "2026-09-06T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "上海合作组织",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Shanghai Cooperation Organization",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260901-gov_shi_zui_shan-4460cf",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-09/06/content_23754979.htm",
+      "title_zh": "众行致远丨上合组织怎样担当时代责任？习近平主席这样破题",
+      "published_at": "2026-09-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

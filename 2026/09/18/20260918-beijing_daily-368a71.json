@@ -1,0 +1,115 @@
+{
+  "id": "20260918-beijing_daily-368a71",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/18/11964728.shtml",
+  "title_zh": "胡立杰补选为江苏省第十四届人大代表",
+  "title_en": "Hu Lijie Elected as Deputy to the 14th Jiangsu Provincial People's Congress",
+  "summary_zh": "9月17日下午，江苏省扬州市九届人大常委会第三十八次会议补选胡立杰为江苏省第十四届人大代表，其现任江苏省委常委、组织部部长。",
+  "summary_en": "On the afternoon of Sept 17, the Standing Committee of the 9th Yangzhou Municipal People's Congress elected Hu Lijie as a deputy to the 14th Jiangsu Provincial People's Congress. Hu currently serves as a member of the Jiangsu Provincial Party Standing Committee and head of its Organization Department.",
+  "body_zh": "据新华日报消息，9月17日下午，江苏省扬州市九届人大常委会召开第三十八次会议。会议补选胡立杰同志为江苏省第十四届人民代表大会代表，会后报省人大常委会依法确认其代表资格。\n此前报道\n日前，中共中央批准：胡立杰同志任江苏省委委员、常委。\n中共江苏省委党校（江苏行政学院）官网“校院领导”一栏最新信息显示，胡立杰现任江苏省委常委、省委组织部部长，省委党校（江苏行政学院）校长（院长）。\n胡立杰，女，汉族，1971年10月出生，辽宁大石桥人，1998年7月参加工作，1993年6月加入中国共产党，研究生学历，博士学位。2024年初，她任山西省委常委、组织部部长。直至2026年9月履新江苏省。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事调整",
+    "地方人大",
+    "组织工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-lijie",
+      "name_zh": "胡立杰",
+      "name_en": "Hu Lijie"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共江苏省委",
+      "name_en": "CPC Jiangsu Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YZ",
+      "name_zh": "扬州",
+      "name_en": "Yangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方人大",
+      "name_en": "Local People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "组织工作",
+      "name_en": "Organization Work"
+    }
+  ],
+  "tags_zh": [
+    "胡立杰",
+    "中共江苏省委",
+    "江苏",
+    "扬州",
+    "人事调整",
+    "地方人大",
+    "组织工作"
+  ],
+  "tags_en": [
+    "Hu Lijie",
+    "CPC Jiangsu Provincial Committee",
+    "Jiangsu",
+    "Yangzhou",
+    "Personnel Appointment",
+    "Local People's Congress",
+    "Organization Work"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-lijie"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-YZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共江苏省委",
+        "name_en": "CPC Jiangsu Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260918-beijing_daily-368a71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260915-chinanews_gn-fe4dcd",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-15/10696764.shtml",
+  "title_zh": "彭清华出席庆祝中国－东盟建立全面战略伙伴关系5周年暨中国－东盟建立对话关系35周年招待会",
+  "title_en": "Peng Qinghua Attends Reception Marking 5th Anniversary of China-ASEAN Comprehensive Strategic Partnership and 35th Anniversary of Dialogue Relations",
+  "summary_zh": "9月15日，中国人民对外友好协会与东盟北京委员会在北京共同举办庆祝中国－东盟建立全面战略伙伴关系5周年暨中国－东盟建立对话关系35周年招待会，全国人大常委会副委员长彭清华、东盟秘书长高金洪等出席。",
+  "summary_en": "On September 15, the Chinese People's Association for Friendship with Foreign Countries and the ASEAN Beijing Committee co-hosted a reception in Beijing marking the 5th anniversary of the China-ASEAN comprehensive strategic partnership and the 35th anniversary of China-ASEAN dialogue relations. NPC Standing Committee Vice Chairman Peng Qinghua and ASEAN Secretary-General Kao Kim Hourn attended.",
+  "body_zh": "彭清华出席庆祝中国－东盟建立全面战略伙伴关系5周年暨中国－东盟建立对话关系35周年招待会\n新华社北京9月15日电(记者赵瀚泽)9月15日，中国人民对外友好协会与东盟北京委员会在京共同举办庆祝中国－东盟建立全面战略伙伴关系5周年暨中国－东盟建立对话关系35周年招待会。全国人大常委会副委员长彭清华、东盟秘书长高金洪、东盟各国驻华使节等出席。\n国内新闻精选：\n- 2026年09月15日 12:39:29\n- 2026年09月15日 10:31:29\n- 2026年09月15日 09:29:43\n- 2026年09月15日 09:24:27\n- 2026年09月14日 20:38:15\n- 2026年09月14日 10:57:08\n- 2026年09月14日 10:46:53\n- 2026年09月14日 10:23:20\n- 2026年09月14日 09:05:05\n- 2026年09月13日 20:34:53",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国－东盟关系",
+    "全面战略伙伴关系",
+    "对外友好交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "peng-qinghua",
+      "name_zh": "彭清华",
+      "name_en": "Peng Qinghua"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "东盟北京委员会",
+      "name_en": "ASEAN Beijing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国－东盟关系",
+      "name_en": "China-ASEAN Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外友好交流",
+      "name_en": "People-to-People Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "彭清华",
+    "东盟北京委员会",
+    "北京",
+    "中国－东盟关系",
+    "全面战略伙伴关系",
+    "对外友好交流"
+  ],
+  "tags_en": [
+    "Peng Qinghua",
+    "ASEAN Beijing Committee",
+    "Beijing",
+    "China-ASEAN Relations",
+    "Comprehensive Strategic Partnership",
+    "People-to-People Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "peng-qinghua"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "东盟北京委员会",
+        "name_en": "ASEAN Beijing Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260915-chinanews_gn-fe4dcd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

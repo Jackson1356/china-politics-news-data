@@ -1,0 +1,102 @@
+{
+  "id": "20261007-gov_cn_yaowen-ae202b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082687.htm",
+  "title_zh": "各地秋粮加紧收获",
+  "title_en": "Autumn Grain Harvest Accelerated Across China",
+  "summary_zh": "农业农村部农情调度显示，全国秋粮收获已过四成，东北、黄淮海等地抢抓农时、调配农机，保障粮食颗粒归仓。",
+  "summary_en": "China's autumn grain harvest has passed 40 percent, with northeast and Huang-Huai-Hai regions deploying machinery to bring in the crop, according to the Ministry of Agriculture and Rural Affairs.",
+  "body_zh": "我国秋粮收获加紧推进。农业农村部最新农情调度显示，全国秋粮收获已过四成。各地抢抓农时，多措并举，保障粮食颗粒归仓。\n眼下，东北地区进入秋粮收获高峰。黑龙江粮食已收获超6800万亩，占全省秋粮面积约三成。在双鸭山市友谊县，10万亩糯稻迎来集中收获期。通过实施标准化种植，这里的糯稻生产基本实现了“耕、种、收、储”全程机械化。当地还积极推广订单种植模式，糯稻收割后统一送往企业仓储加工，让“好收成”成为农户的“好收入”。辽宁秋粮收获进度近半，速度较去年同期有所提升。辽宁各地统筹调配农机，组织跨区作业。在铁岭市昌图县，400多万亩玉米收割全面铺开。今年，当地进一步推广玉米机械化收获与黑土地保护性耕作相结合，通过配套粉碎和抛撒装置，让秸秆还田，保护土层。\n黄淮海地区秋粮收获加紧推进。河北省玉米收获近3100万亩，占种植面积的约六成。今年，河北全省调配农机具81万台，推广“机收、烘干、仓储”一体化作业模式。在邢台市任泽区，大型联合收割机往来穿梭，摘穗、剥皮、秸秆粉碎还田等环节一气呵成，大大加快了玉米的收获进度。安徽全省已收秋粮面积超过三成，新设备成为减损增收的重要保障。在亳州市涡阳县，成片的玉米长势饱满、穗粒充盈。今年，当地大力推广籽粒直收智能农机，一次下地可以完成玉米摘穗、脱粒多环节作业。从过去的收穗到现在的收粒，玉米籽粒全程不落地，保障秋粮收获提质减损。",
+  "image_url": null,
+  "published_at": "2026-10-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "秋粮收获",
+    "粮食安全",
+    "农业机械化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮收获",
+      "name_en": "Autumn Grain Harvest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "黑龙江",
+    "辽宁",
+    "秋粮收获",
+    "粮食安全",
+    "农业机械化"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Heilongjiang",
+    "Liaoning",
+    "Autumn Grain Harvest",
+    "Food Security",
+    "Agricultural Mechanization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-HL",
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261007-gov_cn_yaowen-ae202b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "20260822-gov_yan_cheng-84c550",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/22/art_49_4448743.html",
+  "title_zh": "严汉平吴炜会见建行江苏省分行行长邹致师",
+  "title_en": "Yan Hanping and Wu Wei Meet with CCB Jiangsu Branch President Zou Zhishi",
+  "summary_zh": "8月21日下午，盐城市委书记严汉平、代市长吴炜会见建行江苏省分行行长邹致师一行，双方就重大项目、科技创新、民营企业等开展务实合作。",
+  "summary_en": "On the afternoon of August 21, Yancheng Party Secretary Yan Hanping and Acting Mayor Wu Wei met with President Zou Zhishi of CCB Jiangsu Branch to discuss practical cooperation on major projects, technological innovation, and private enterprises.",
+  "body_zh": "8月21日下午，市委书记严汉平，市委副书记、代市长吴炜在盐会见中国建设银行江苏省分行党委书记、行长邹致师一行。\n严汉平、吴炜对邹致师一行表示欢迎，对建行江苏省分行给予盐城发展的大力支持表示感谢。严汉平说，面向“十五五”，盐城正深入学习贯彻习近平总书记对江苏工作重要讲话精神，认真落实省委、省政府部署要求，坚定不移向海图强、向绿而兴、向新转型，奋力推动经济社会高质量发展。建行江苏省分行与盐城有着良好合作基础，希望双方围绕重大项目建设、科产深度融合、民营企业发展等方面推进更加务实合作，全力做好做实金融“五篇大文章”，携手为全省发展大局作出更大贡献。\n邹致师感谢盐城市委、市政府长期以来对建行江苏省分行的关心支持，并介绍转型发展最新情况。他表示，盐城具有良好的发展态势和金融生态，建行江苏省分行将切实履行国有大行职责使命，主动融入和服务盐城发展，在项目建设、科技创新、县域经济、绿色能源等方面加大合作力度、创新服务举措，坚决守牢金融风险底线，更好助力盐城“十五五”发展。",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "economy",
+  "keywords": [
+    "金融合作",
+    "重大项目建设",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "盐城市委",
+      "name_en": "Yancheng Municipal Committee of the CPC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融合作",
+      "name_en": "Financial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大项目建设",
+      "name_en": "Major Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "吴炜",
+    "盐城市委",
+    "盐城",
+    "金融合作",
+    "重大项目建设",
+    "科技创新"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Wu Wei",
+    "Yancheng Municipal Committee of the CPC",
+    "Yancheng",
+    "Financial Cooperation",
+    "Major Project Construction",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      "yan-hanping-yancheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": [
+      {
+        "name_zh": "盐城市委",
+        "name_en": "Yancheng Municipal Committee of the CPC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260822-gov_yan_cheng-84c550",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

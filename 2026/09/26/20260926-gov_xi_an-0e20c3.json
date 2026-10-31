@@ -1,0 +1,112 @@
+{
+  "id": "20260926-gov_xi_an-0e20c3",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.xa.gov.cn/xw/jrgz/2104385559699963905.html",
+  "title_zh": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+  "title_en": "Xi Jinping and Peng Liyuan Hold Tea Meeting with U.S. President Trump and His Wife",
+  "summary_zh": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛在白宫同美国总统特朗普和夫人梅拉尼娅举行茶叙，随后共同参观美国国家档案馆。",
+  "summary_en": "On the morning of September 25 local time, Chinese President Xi Jinping and his wife Peng Liyuan held a tea meeting at the White House with U.S. President Donald Trump and his wife Melania, and later visited the U.S. National Archives together.",
+  "body_zh": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。\n当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。这是两国元首夫妇合影。\n当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。茶叙之后，习近平和彭丽媛在特朗普和梅拉尼娅陪同下参观美国国家档案馆。",
+  "image_url": null,
+  "published_at": "2026-09-26T12:00:00+00:00",
+  "event_date": "2026-09-25",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭丽媛",
+      "name_en": "Peng Liyuan"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Donald Trump"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "彭丽媛",
+    "特朗普",
+    "中美关系",
+    "元首外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Peng Liyuan",
+    "Donald Trump",
+    "China-U.S. Relations",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260926-gov_xi_an-0e20c3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/a9e981694e2147d7bc6ed4acfd2edc41.shtml",
+      "title_zh": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+      "published_at": "2026-09-28T12:00:00+00:00"
+    },
+    {
+      "source": "gov_wu_hu",
+      "source_tier": 4,
+      "url": "https://www.wuhu.gov.cn/tpxw/41342908.html",
+      "title_zh": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_zhou_kou",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082117.htm",
+      "title_zh": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

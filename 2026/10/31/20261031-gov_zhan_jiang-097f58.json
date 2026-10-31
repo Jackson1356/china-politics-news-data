@@ -1,0 +1,106 @@
+{
+  "id": "20261031-gov_zhan_jiang-097f58",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2242998.html",
+  "title_zh": "湛江市十五届人大常委会召开第五十二次会议",
+  "title_en": "Zhanjiang Municipal People's Congress Standing Committee Holds 52nd Session",
+  "summary_zh": "10月30日，湛江市十五届人大常委会召开第五十二次会议，由市委书记、市人大常委会主任余钢主持，审议法规草案、预算调整方案并表决通过多项人事任免。",
+  "summary_en": "On October 30, the Standing Committee of the 15th Zhanjiang Municipal People's Congress held its 52nd session, chaired by Party Secretary and Committee Director Yu Gang, deliberating local regulations and budget adjustments and approving a series of personnel appointments and removals.",
+  "body_zh": "10月30日，市十五届人大常委会召开第五十二次会议。市委书记、市人大常委会党组书记、主任余钢主持会议，市人大常委会副主任刘忠芳、李更盛、聂兵，秘书长李梅出席会议。市人民政府副市长孔海文，市监委、市中级人民法院、市人民检察院有关负责同志列席会议。\n会议审议《湛江市原水管道保护管理条例（草案修改二稿）》；会议听取湛江市2026年前三季度经济运行情况报告并对市人民政府关于制造业与服务业协同发展工作情况开展专题询问。\n会议听取审议市人民政府关于湛江市2026年市级财政预算调整方案的报告；听取审议市人大法制委员会关于《〈湛江市湖光岩景区保护管理条例〉等七项地方性法规修正案（草案）》；审议通过关于批准市人民政府2026年市级财政预算调整方案的决议；表决通过《湛江市原水管道保护管理条例》《湛江市人大常委会关于修改〈湛江市湖光岩景区保护管理条例〉等七项地方性法规的决定》，按程序报省人大常委会批准实施。\n会议经表决，决定任命朱嘉伟为湛江市人民政府副市长、湛江市公安局局长；任命李立为湛江市人大常委会城乡建设环境与资源保护工作委员会主任；决定免去孙正浩的湛江市工业和信息化局局长职务、李曜的湛江市财政局局长职务、李立的湛江市水务局局长职务、张佩的湛江市商务局（市口岸局）局长职务、陈典聪的湛江市退役军人事务局局长职务、林红明的湛江市城市管理和综合执法局局长职务；决定任命王来为湛江市工业和信息化局局长、黄哲辉为湛江市财政局局长、刘伟为湛江市水务局局长、高堃为湛江市商务局（市口岸局）局长、张向阳为湛江市城市管理和综合执法局局长、胡永德为湛江市海洋与渔业局局长。\n会后，举行了宪法宣誓仪式。\n文秋华 陈彦 庞春敏 张容绸",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "personnel",
+  "keywords": [
+    "地方立法",
+    "人事任免",
+    "预算调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-gang-zhanjiang",
+      "name_zh": "余钢",
+      "name_en": "Yu Gang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湛江市人大常委会",
+      "name_en": "Standing Committee of Zhanjiang Municipal People's Congress"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预算调整",
+      "name_en": "Budget Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "余钢",
+    "湛江市人大常委会",
+    "湛江",
+    "地方立法",
+    "人事任免",
+    "预算调整"
+  ],
+  "tags_en": [
+    "Yu Gang",
+    "Standing Committee of Zhanjiang Municipal People's Congress",
+    "Zhanjiang",
+    "Local Legislation",
+    "Personnel Appointments",
+    "Budget Adjustment"
+  ],
+  "entities": {
+    "politicians": [
+      "yu-gang-zhanjiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "湛江市人大常委会",
+        "name_en": "Standing Committee of Zhanjiang Municipal People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261031-gov_zhan_jiang-097f58",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

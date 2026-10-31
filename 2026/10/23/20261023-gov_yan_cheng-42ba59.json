@@ -1,0 +1,101 @@
+{
+  "id": "20261023-gov_yan_cheng-42ba59",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/10/23/art_60096_11845993.html",
+  "title_zh": "江苏省部署台风“蔷琵”防御工作",
+  "title_en": "Jiangsu Deploys Defense Work Against Typhoon Champi",
+  "summary_zh": "10月22日，江苏省召开防御台风“蔷琵”视频调度会，省委常委、常务副省长张文兵主持并讲话，要求落实监测预警、隐患排查、应急处置等各项防御措施。",
+  "summary_en": "On Oct 22, Jiangsu held a video meeting on Typhoon Champi response; Executive Vice Governor Zhang Wenbing urged full implementation of monitoring, hazard checks and emergency response measures.",
+  "body_zh": "当前位置：\n我省部署台风“蔷琵”防御工作\n10月22日，我省召开防御台风“蔷琵”视频调度会，深入学习贯彻习近平总书记关于防灾减灾救灾的重要指示批示精神，认真落实省委、省政府工作要求，部署台风“蔷琵”防御工作。省委常委、常务副省长张文兵主持会议并讲话。\n张文兵要求，台风防御期间，各地各部门和各级防办要严格执行值班值守制度，做到监测预警不懈怠、隐患排查不遗漏、调度管控不缺位、应急处置不含糊、责任担当不落空，把各项防御措施落细落实到最基层、最末梢，坚决维护人民群众生命财产安全和社会大局稳定。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "台风防御",
+    "防灾减灾",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    }
+  ],
+  "tags_zh": [
+    "张文兵",
+    "江苏",
+    "台风防御",
+    "防灾减灾",
+    "应急管理"
+  ],
+  "tags_en": [
+    "Zhang Wenbing",
+    "Jiangsu",
+    "Typhoon Defense",
+    "Disaster Prevention and Reduction",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261023-gov_yan_cheng-42ba59",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/10/23/art_60096_11845993.html",
+      "title_zh": "江苏省人民政府 要闻关注 我省部署台风“蔷琵”防御工作",
+      "published_at": "2026-10-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

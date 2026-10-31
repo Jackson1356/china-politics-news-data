@@ -1,0 +1,92 @@
+{
+  "id": "20260603-bjnews-ff785c",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780451811129636.html",
+  "title_zh": "中国工程院院士杜祥琬发布声明",
+  "title_en": "Academician Du Xiangwan of the Chinese Academy of Engineering Issues Statement",
+  "summary_zh": "6月2日，中国工程院院士杜祥琬发布声明，否认其团队将核技术应用于垃圾焚烧的传闻，并提醒媒体严格审核发布内容。",
+  "summary_en": "On June 2, Du Xiangwan, an academician of the Chinese Academy of Engineering, issued a statement denying rumors that his team applied nuclear technology to waste incineration.",
+  "body_zh": "新京报讯（记者张璐）据中国工程院网站消息，6月2日，中国工程院院士杜祥琬发布声明。\n声明称，近期，在网络上出现一些宣传，声称他本人及其团队将核技术应用于垃圾焚烧，取得显著效果。\n杜祥琬院士与团队参与了“无废城市”试点建设相关咨询项目研究。但他本人从未参与，也未委托任何单位或个人将核技术应用于垃圾焚烧，当前网络流传的相关新闻报道内容均为不实信息。\n杜祥琬院士提醒各媒体及网络平台严格审核发布内容，他本人将保留追究相关单位和个人法律责任的权利。",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2024-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "核技术",
+    "垃圾焚烧",
+    "辟谣"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杜祥琬",
+      "name_en": "Du Xiangwan"
+    },
+    {
+      "kind": "institution",
+      "id": "CAE",
+      "name_zh": "中国工程院",
+      "name_en": "Chinese Academy of Engineering"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核技术",
+      "name_en": "Nuclear Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "垃圾焚烧",
+      "name_en": "Waste Incineration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "辟谣",
+      "name_en": "Rumor Refutation"
+    }
+  ],
+  "tags_zh": [
+    "杜祥琬",
+    "中国工程院",
+    "核技术",
+    "垃圾焚烧",
+    "辟谣"
+  ],
+  "tags_en": [
+    "Du Xiangwan",
+    "Chinese Academy of Engineering",
+    "Nuclear Technology",
+    "Waste Incineration",
+    "Rumor Refutation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "杜祥琬"
+      }
+    ],
+    "institutions": [
+      "CAE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260603-bjnews-ff785c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260728-xinhua_politics-e805fa",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260728/ace5e27fc63e491fb560d85cdbd62774/c.html",
+  "title_zh": "宜涪高铁大房子隧道出口正式进洞施工",
+  "title_en": "Yichang-Fuling High-Speed Railway Dafangzi Tunnel Portal Starts Construction",
+  "summary_zh": "7月28日，由中铁十五局承建的宜涪高铁大房子隧道出口正式进洞施工，为全线建成通车奠定基础。",
+  "summary_en": "On July 28, the portal of Dafangzi Tunnel on the Yichang-Fuling high-speed railway started construction, laying the foundation for the line's completion.",
+  "body_zh": "新华社北京7月28日电 记者从中国铁建股份有限公司获悉，28日，由中铁十五局承建的宜涪高铁大房子隧道出口正式进洞施工，标志着隧道工程主体攻坚取得关键突破，为全线建成通车奠定了坚实基础。\n据中铁十五局宜涪高铁项目二分部负责人李攀峰介绍，大房子隧道最大埋深28米，隧道岩性以土层、泥灰岩、页岩等为主，施工和安全管控难度大。为确保安全顺利进洞，施工团队通过对洞口支护参数、边仰坡位移、管棚注浆饱满度等逐项复核，确认各项指标符合设计与施工规范要求。\n作为国家“八纵八横”高铁网沿江通道的重要组成部分，宜涪高铁建成后，将形成川渝地区与华中地区之间的高速铁路新通道，对完善长江经济带综合立体交通走廊，推动区域经济社会高质量发展具有重要作用。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "industry",
+  "keywords": [
+    "高铁建设",
+    "基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRCC",
+      "name_zh": "中国铁建",
+      "name_en": "China Railway Construction Corporation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-speed Railway Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "中国铁建",
+    "高铁建设",
+    "基础设施"
+  ],
+  "tags_en": [
+    "China Railway Construction Corporation",
+    "High-speed Railway Construction",
+    "Infrastructure"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李攀峰"
+      }
+    ],
+    "institutions": [
+      "CRCC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260728-xinhua_politics-e805fa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

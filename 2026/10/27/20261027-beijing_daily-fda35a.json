@@ -1,0 +1,88 @@
+{
+  "id": "20261027-beijing_daily-fda35a",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/27/12008624.shtml",
+  "title_zh": "外交部：日本右翼势力极力否认、甚至美化侵略罪行，国际社会应当共同抵制",
+  "title_en": "FM: Japan's Right-Wing Forces Deny and Even Glorify Aggression, International Community Should Jointly Resist",
+  "summary_zh": "10月27日，外交部发言人郭嘉昆在例行记者会上表示，日本右翼势力罔顾东京审判定论、否认并美化侵略罪行，国际社会应当共同抵制。",
+  "summary_en": "On October 27, Chinese Foreign Ministry spokesperson Guo Jiakun said at a regular briefing that Japan's right-wing forces ignore the Tokyo Trial verdict and deny or glorify aggression, and the international community should jointly resist such moves.",
+  "body_zh": "10月27日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆表示，东京审判具有重要历史和现实意义。此次图片展展出了大量东京审判历史图片、档案文献，向国际社会真实还原日本军国主义对外侵略事实及其犯下的严重战争罪行。联合国建立在人类对战争的深痛反思基础上，在联合国举办这一展览，完全契合国际社会铭记历史、珍爱和平的共同追求。\n郭嘉昆强调，东京审判是一次和平驯服暴力、正义压倒邪恶的历史性审判，是战后国际秩序的重要组成部分，承认和接受东京审判是战后日本重归国际社会的前提。令人警惕的是，80年后的今天，日本右翼势力罔顾东京审判的历史定论，极力否认、甚至美化侵略罪行，宣扬错误史观，公然将战犯奉若神明，国际社会应当共同抵制。殷鉴不远，破坏和平、挑战公理良知，必将再次遭到历史的清算和正义的审判。\n“作为世界反法西斯战争的重要力量，中国愿同全世界爱好和平的国家和人民一道，传递法治与和平信念，坚定守护历史真相，维护战后国际秩序，捍卫国际公平正义。”郭嘉昆重申。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "东京审判",
+    "历史观",
+    "战后国际秩序"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东京审判",
+      "name_en": "Tokyo Trial"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史观",
+      "name_en": "Historical Narrative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战后国际秩序",
+      "name_en": "Postwar International Order"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "东京审判",
+    "历史观",
+    "战后国际秩序"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Tokyo Trial",
+    "Historical Narrative",
+    "Postwar International Order"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261027-beijing_daily-fda35a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

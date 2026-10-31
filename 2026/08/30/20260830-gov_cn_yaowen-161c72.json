@@ -1,0 +1,64 @@
+{
+  "id": "20260830-gov_cn_yaowen-161c72",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079545.htm",
+  "title_zh": "前7月机械工业生产实现较快增长",
+  "title_en": "Mechanical Industry Output Sees Rapid Growth in First Seven Months",
+  "summary_zh": "据中国机械工业联合会数据，前7月机械工业主要大类行业增加值同比保持增长，工业机器人产量同比增长28.5%。",
+  "summary_en": "According to the China Machinery Industry Federation, value-added output of major machinery sectors grew year-on-year in the first seven months, with industrial robot output rising 28.5%.",
+  "body_zh": "记者从中国机械工业联合会获悉：前7月，机械工业主要涉及的5个大类行业增加值同比保持增长趋势。其中，通用设备制造业同比增长7.9%，专用设备制造业同比增长8.8%，汽车制造业同比增长7.2%，电气机械和器材制造业同比增长6.5%，仪器仪表制造业同比增长9.4%。\n机械工业代表性产品中，前7月，工业机器人累计产量为63.5万套，同比增长28.5%；发电机组累计产量为20897万千瓦，同比增长2.8%。（记者 李心萍）",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "economy",
+  "keywords": [
+    "机械工业",
+    "工业增长"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机械工业",
+      "name_en": "Machinery Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业增长",
+      "name_en": "Industrial Growth"
+    }
+  ],
+  "tags_zh": [
+    "机械工业",
+    "工业增长"
+  ],
+  "tags_en": [
+    "Machinery Industry",
+    "Industrial Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260830-gov_cn_yaowen-161c72",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260609-gov_cn_yaowen-e13a12",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/09/VIDE9ziwOKi2DIIHuT6Sc55W260609.shtml",
+  "title_zh": "国务院举行宪法宣誓仪式 李强总理监誓",
+  "title_en": "State Council Holds Constitutional Oath-Taking Ceremony Supervised by Premier Li Qiang",
+  "summary_zh": "6月9日，国务院举行宪法宣誓仪式，总理李强监誓，33个部门和单位的37名负责人依法宣誓。",
+  "summary_en": "On June 9, the State Council held a constitutional oath-taking ceremony supervised by Premier Li Qiang, where 37 heads of 33 departments took the oath.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：6月9日，国务院举行宪法宣誓仪式。国务院总理李强监誓。\n根据《中华人民共和国宪法》和《国务院及其各部门任命的国家工作人员宪法宣誓组织办法》，国务院任命的33个部门和单位的37名负责人依法进行宪法宣誓。\n下午4时，国务委员兼国务院秘书长吴政隆宣布宪法宣誓仪式开始。全体起立，唱中华人民共和国国歌。随后，领誓人手抚宪法、领诵誓词，其他宣誓人列队站立、跟诵誓词。\n宣誓后，国务院总理李强作了讲话。他强调，走上新的领导岗位，肩负着新的使命任务，必须以更高标准做到政治过硬、能力过硬、作风过硬。要学深悟透习近平新时代中国特色社会主义思想，更加坚决有力地贯彻落实党中央决策部署。要带头尊崇法治，自觉运用法治思维和法治方式推进工作、解决问题。要以高度的警醒严格自律，保持清正廉洁的政治本色。\n李强强调，当前全党正在深入开展树立和践行正确政绩观学习教育。我们要全面落实“立党为公、为民造福、科学决策、真抓实干”总要求，当好贯彻党中央决策部署的执行者、行动派、实干家。要坚持实事求是，从实际出发、按规律办事，使各项政策举措贴合实际需求、真正落地见效。要坚持实干兴邦，始终以实干立身，以更大力度、更实举措解决发展中的卡点堵点。要坚持以实绩说话，把各项工作抓实抓细，努力创造经得起实践、人民、历史检验的实绩。\n国务院领导同志以及国务院有关部门负责同志等参加。",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "personnel",
+  "keywords": [
+    "宪法宣誓",
+    "法治",
+    "政绩观"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": "Wu Zhenglong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宪法宣誓",
+      "name_en": "Constitutional Oath"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法治",
+      "name_en": "Rule of Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政绩观",
+      "name_en": "View of Political Performance"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "吴政隆",
+    "国务院",
+    "宪法宣誓",
+    "法治",
+    "政绩观"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Wu Zhenglong",
+    "State Council",
+    "Constitutional Oath",
+    "Rule of Law",
+    "View of Political Performance"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-gov_cn_yaowen-e13a12",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071651.htm",
+      "title_zh": "国务院举行宪法宣誓仪式 李强总理监誓",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "20260824-peoples_nm-f3e971",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/0824/c192247-41675858.html",
+  "title_zh": "自治区第七届残疾人运动会暨特奥会开幕 时光辉宣布开幕",
+  "title_en": "Inner Mongolia's 7th Disabled Persons' Games and Special Olympics Opens; Shi Guanghui Declares It Open",
+  "summary_zh": "8月23日晚，自治区第七届残疾人运动会暨特奥会在包头开幕，自治区党委副书记时光辉宣布开幕，苏和致开幕词。",
+  "summary_en": "On the evening of August 23, the 7th Regional Games for Persons with Disabilities and Special Olympics opened in Baotou. Shi Guanghui, deputy secretary of the regional Party committee, declared the games open, and Su He delivered an opening speech.",
+  "body_zh": "自治区第七届残疾人运动会暨特奥会开幕 时光辉宣布开幕\n陈之常郑宏范罗志虎出席 苏和致辞\n8月23日晚，自治区第七届残疾人运动会暨特奥会在包头开幕。\n自治区党委副书记、政法委书记时光辉宣布开幕。自治区党委常委、包头市委书记陈之常，自治区人大常委会副主任郑宏范，自治区政协副主席罗志虎出席。自治区人民政府副主席苏和致开幕词。\n20时整，开幕式开始，全场观众用热烈掌声向各盟市残疾人运动员致敬。之后，文体展演通过《精神守望》《梦想力量》《生命绽放》三个篇章，诠释了残疾人群体热爱生命、自强不息、乐观向上的时代风貌。\n自治区残疾人运动会暨特奥会为全区规格最高、规模最大的残疾人综合性体育盛会，设置竞技、大众、特奥三类竞赛板块，共计26个大项、401个小项，全区12个盟市共派出1038名运动员参赛。（记者 梅刚 孙柳）",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-23",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "残疾人体育",
+    "社会福利"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-guanghui",
+      "name_zh": "时光辉",
+      "name_en": "Shi Guanghui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-BT",
+      "name_zh": "包头",
+      "name_en": "Baotou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾人体育",
+      "name_en": "Sports for Persons with Disabilities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会福利",
+      "name_en": "Social Welfare"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhichang",
+      "name_zh": "陈之常",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗志虎",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "时光辉",
+    "包头",
+    "残疾人体育",
+    "社会福利",
+    "陈之常",
+    "罗志虎"
+  ],
+  "tags_en": [
+    "Shi Guanghui",
+    "Baotou",
+    "Sports for Persons with Disabilities",
+    "Social Welfare"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-guanghui",
+      "chen-zhichang",
+      {
+        "id": null,
+        "name_zh": "罗志虎"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-BT"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260824-peoples_nm-f3e971",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

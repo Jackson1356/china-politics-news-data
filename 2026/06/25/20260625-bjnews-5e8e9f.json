@@ -1,0 +1,83 @@
+{
+  "id": "20260625-bjnews-5e8e9f",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1782383996129048.html",
+  "title_zh": "国防部回应福建舰航经台湾海峡",
+  "title_en": "Ministry of National Defense Responds to Aircraft Carrier Fujian Sailing Through Taiwan Strait",
+  "summary_zh": "6月25日，国防部发言人张晓刚在例行记者会上证实，航空母舰福建舰航经台湾海峡是开展的例行训练。",
+  "summary_en": "On June 25, MND spokesperson Zhang Xiaogang confirmed during a press conference that the aircraft carrier Fujian's passage through the Taiwan Strait was a routine training exercise.",
+  "body_zh": "新京报讯 据国防部发布消息，6月25日下午，国防部举行例行记者会，国防部新闻发言人张晓刚大校答记者问。\n记者：在台军22日启动为期5天的“立即备战操演”之际，台湾“国防部”23日晚表示，解放军航空母舰福建舰当天航经台湾海峡，并再度公布航拍画面，指台军运用联合情监侦手段严密监控，台“国防部长”顾立雄表示，对此有充分掌握，重要动态会适时公布。请问能否证实福建舰航经台海，并介绍航向与此次行动任务？\n张晓刚：台湾是中国的一部分，哪有什么“国防部长”？这是福建舰开展的例行训练，今后我们还会继续组织。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2024-06-25",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "福建舰",
+    "例行训练"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "台湾海峡",
+      "name_en": "Taiwan Strait"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "福建舰",
+      "name_en": "Aircraft Carrier Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "例行训练",
+      "name_en": "Routine Training"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "台湾海峡",
+    "福建舰",
+    "例行训练"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Taiwan Strait",
+    "Aircraft Carrier Fujian",
+    "Routine Training"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "顾立雄"
+      }
+    ],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260625-bjnews-5e8e9f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

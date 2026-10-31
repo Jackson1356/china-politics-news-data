@@ -1,0 +1,97 @@
+{
+  "id": "20260912-peoples_gs-336472",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gs.people.com.cn/n2/2026/0912/c358184-41694131.html",
+  "title_zh": "2026年两岸媒体人甘肃行活动启动",
+  "title_en": "2026 Cross-Strait Media Tour of Gansu Launches",
+  "summary_zh": "9月10日，2026年两岸媒体人甘肃行活动在兰州启动，20余位两岸及香港媒体人将开展为期8天的联合采访。",
+  "summary_en": "The 2026 cross-strait media tour of Gansu launched on Sept 10 in Lanzhou, with over 20 journalists from the mainland, Taiwan and Hong Kong beginning an eight-day joint reporting trip.",
+  "body_zh": "2026年两岸媒体人甘肃行活动启动\n据新华社兰州9月10日电（记者陈朔、何问）2026年两岸媒体人甘肃行活动10日在甘肃省兰州市启动。来自海峡两岸及香港的20余位媒体人将深入甘肃多地，围绕长征精神、黄河治理与生态保护、少数民族乡村特色产业等主题开展为期8天的联合采访。\n全国台联副会长蔡睿在开幕式致辞中表示，两岸媒体人是促进两岸关系发展的一支重要力量，当前台海形势严峻复杂，岛内充斥大量涉大陆的虚假信息和歪曲报道，但任何阻碍都无法阻挡两岸同胞加强交流合作、实现共赢发展的心愿。今年是“十五五”开局之年，是红军长征胜利90周年，希望两岸媒体人深入挖掘两岸同根同源的文化根基，实地见证甘肃发展成就，为推动两岸关系和平发展作出贡献。\n根据安排，采访团将参访兰州有关文博场馆，前往榆中县了解灾后重建、惠民政策落地和乡村振兴成果，赴哈达铺、腊子口、会宁等地感悟长征精神，在白银市考察黄河岸线生态修复和现代农业产业发展等。\n该活动由全国台联主办，迄今已举办10届，相继走过大陆10余个省区市。",
+  "image_url": null,
+  "published_at": "2026-09-12T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "两岸交流",
+    "长征精神",
+    "生态保护"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS-LZ",
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸交流",
+      "name_en": "Cross-Strait Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    }
+  ],
+  "tags_zh": [
+    "甘肃",
+    "兰州",
+    "两岸交流",
+    "长征精神",
+    "生态保护"
+  ],
+  "tags_en": [
+    "Gansu",
+    "Lanzhou",
+    "Cross-Strait Exchange",
+    "Long March Spirit",
+    "Ecological Protection"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "白银市"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS",
+      "CN-GS-LZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260912-peoples_gs-336472",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

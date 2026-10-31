@@ -1,0 +1,97 @@
+{
+  "id": "20260609-gov_cn_yaowen-c05af9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/09/VIDEkhDbKMgRje1LKF76Ebw2260609.shtml",
+  "title_zh": "习近平结束对朝鲜国事访问回到北京",
+  "title_en": "Xi Jinping Returns to Beijing After State Visit to North Korea",
+  "summary_zh": "6月9日下午，中共中央总书记、国家主席习近平在圆满结束对朝鲜国事访问后回到北京。",
+  "summary_en": "On the afternoon of June 9, General Secretary and President Xi Jinping returned to Beijing after completing a state visit to North Korea.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：6月9日下午，中共中央总书记、国家主席习近平在圆满结束对朝鲜国事访问后回到北京。\n习近平总书记、国家主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等陪同人员同机返回。\n[视频]习近平结束对朝鲜国事访问回到北京\n简介\n视频简介习近平结束对朝鲜国事访问回到北京。\n主要内容",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜",
+      "name_en": "North Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-North Korea Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "王毅",
+    "北京",
+    "朝鲜",
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Wang Yi",
+    "Beijing",
+    "North Korea",
+    "State Visit",
+    "China-North Korea Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-gov_cn_yaowen-c05af9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

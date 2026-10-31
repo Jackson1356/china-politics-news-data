@@ -1,0 +1,125 @@
+{
+  "id": "20261021-peoples_ha-5a7cf5",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/1021/c351638-41727726.html",
+  "title_zh": "6部门推出首批136项标志性重大应用场景项目",
+  "title_en": "Six Departments Roll Out First Batch of 136 Landmark Major Application Scenario Projects",
+  "summary_zh": "10月20日，国家发展改革委等6部门推出首批136项标志性重大应用场景项目清单，覆盖五大类场景，并向民营企业、中小企业开放场景验证机会。",
+  "summary_en": "On October 20, the National Development and Reform Commission and five other departments released the first list of 136 landmark major application scenario projects, covering five categories of scenarios and opening verification opportunities to private and small businesses.",
+  "body_zh": "6部门推出首批136项标志性重大应用场景项目\n本报北京10月20日电（记者邱海峰）记者20日从国家发展改革委获悉，近日，国家发展改革委会同科技部、工业和信息化部、人力资源社会保障部、应急管理部、国务院国资委等部门推出首批136项标志性重大应用场景项目清单，为新技术新产品规模化应用等提供广阔场景空间。\n首批标志性重大应用场景项目对国务院部署的新领域新赛道、产业转型升级、行业领域应用、社会治理服务、民生领域等5大类型应用场景实现全覆盖，涉及新技术1700余项、新产品1200余项、新标准规范2200余项，呈现领域分布新、参与范围广、改革举措多等特点。相关项目将强化场景资源开放，通过向民营企业和中小企业公开发布拟验证的新技术、新产品、新业态清单等方式，为各类经营主体提供场景验证机会。\n国家发展改革委表示，下一步，将会同有关部门，充分发挥重大应用场景项目牵引带动作用，从健全联动机制、强化要素保障、协同重点改革、促进场景生态开放、提升监管能力等方面推出务实举措，推动首批标志性重大应用场景项目尽快落地见效。后续，将滚动推出标志性重大应用场景项目，创新场景这一新型政策工具推进实施方式，进一步推动重点领域场景资源体系性开放。对于重大标志性场景项目探索验证的有效可行改革创新做法，建立常态化总结推广机制，条件成熟的及时上升为国家层面的政策。",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "economy",
+  "keywords": [
+    "应用场景开放",
+    "新技术新产品",
+    "产业转型升级",
+    "民营企业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院国资委",
+      "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应用场景开放",
+      "name_en": "Opening of Application Scenarios"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新技术新产品",
+      "name_en": "New Technologies and Products"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业转型升级",
+      "name_en": "Industrial Transformation and Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营企业",
+      "name_en": "Private Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "国务院国资委",
+    "北京",
+    "应用场景开放",
+    "新技术新产品",
+    "产业转型升级",
+    "民营企业"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "State-owned Assets Supervision and Administration Commission of the State Council",
+    "Beijing",
+    "Opening of Application Scenarios",
+    "New Technologies and Products",
+    "Industrial Transformation and Upgrading",
+    "Private Enterprises"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      },
+      {
+        "name_zh": "国务院国资委",
+        "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261021-peoples_ha-5a7cf5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/1021/c349771-41727895.html",
+      "title_zh": "6部门推出首批136项标志性重大应用场景项目",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

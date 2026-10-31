@@ -1,0 +1,102 @@
+{
+  "id": "20260921-gov_cn_yaowen-618e2d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7081714.htm",
+  "title_zh": "发票数据显示前8个月全国企业销售收入呈现四个亮点",
+  "title_en": "Invoice Data Shows Four Highlights in National Enterprise Sales Revenue in First Eight Months",
+  "summary_zh": "9月21日，国家税务总局发布最新发票数据，显示今年前8个月全国企业销售收入在工业经济、新质生产力、数实融合、统一大市场四方面表现突出。",
+  "summary_en": "On Sept 21, China's State Taxation Administration released invoice data showing four highlights in national enterprise sales revenue in the first eight months of the year, covering industrial growth, new quality productive forces, digital-real integration and the unified market.",
+  "body_zh": "新华社北京9月21日电（记者 刘开雄）记者9月21日从国家税务总局了解到，从最新发票数据看，今年前8个月，全国企业销售收入呈现四个亮点。\n工业经济稳中有进。前8个月，工业销售收入同比增长7.3%，其中采矿业、制造业、电力热力燃气及水生产和供应业销售收入同比分别增长8.3%、7.5%和5%，均保持较快增长态势。装备制造业销售收入同比增长10.1%，特别是计算机通信设备制造、电气机械器材制造、仪器仪表制造业销售收入同比分别增长18.8%、14%和14.1%。\n新质生产力加快培育。前8个月，高技术产业销售收入同比增长15.7%。其中，高技术制造业销售收入同比增长18.9%，特别是与人工智能相关的集成电路、智能车载设备等行业销售收入同比分别增长67.7%和38.8%。\n数实融合持续深化。前8个月，数字经济核心产业销售收入同比增长9%，其中数字产品制造业、数字产品服务业销售收入同比分别增长16.6%和11.1%，反映数字产业化水平持续提升。全国企业采购数字技术金额同比增长8.6%，特别是制造业产业数字化转型投入力度加大，采购数字技术金额同比增长17.1%。\n统一大市场建设持续推进。前8个月，全国省际贸易销售额占全部销售额的比重为41.4%，较去年同期提高0.5个百分点。交通运输物流业省际销售额同比增长8.2%，较行业总体增速快1.2个百分点。\n国家税务总局有关司局负责人表示，多组发票数据反映出今年以来我国经济动能向新、结构向优的发展态势，税务部门将持续落实落细系列税费支持政策，增强发展动力、激发市场活力，推动经济向新向优向好发展，更好地实现质的有效提升和量的合理增长。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "数字经济",
+    "全国统一大市场",
+    "税费支持政策"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国统一大市场",
+      "name_en": "National Unified Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "税费支持政策",
+      "name_en": "Tax and Fee Support Policies"
+    }
+  ],
+  "tags_zh": [
+    "国家税务总局",
+    "北京",
+    "新质生产力",
+    "数字经济",
+    "全国统一大市场",
+    "税费支持政策"
+  ],
+  "tags_en": [
+    "State Taxation Administration",
+    "Beijing",
+    "New Quality Productive Forces",
+    "Digital Economy",
+    "National Unified Market",
+    "Tax and Fee Support Policies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_cn_yaowen-618e2d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

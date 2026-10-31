@@ -1,0 +1,119 @@
+{
+  "id": "20260911-chinanews_gn-7c3c8f",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-11/10694669.shtml",
+  "title_zh": "中印正在安排习近平主席同印度总理莫迪举行双边会晤",
+  "title_en": "China and India Arranging Bilateral Meeting Between Xi Jinping and Indian Prime Minister Modi",
+  "summary_zh": "9月11日，外交部发言人毛宁在北京例行记者会上表示，中印双方正在安排习近平主席同印度总理莫迪举行双边会晤，这将是两国领导人连续第三年会晤。",
+  "summary_en": "On September 11, Chinese Foreign Ministry spokesperson Mao Ning said in Beijing that China and India are arranging a bilateral meeting between President Xi Jinping and Indian Prime Minister Modi, which would be their third consecutive annual meeting.",
+  "body_zh": "中印正在安排习近平主席同印度总理莫迪举行双边会晤\n新华社北京9月11日电(记者曹嘉玥、邵艺博)外交部发言人毛宁11日在例行记者会上说，中印双方正在安排习近平主席同印度总理莫迪举行双边会晤，这将是两国领导人继喀山、天津会晤之后连续第三年会晤。\n国内新闻精选：\n- 2026年09月11日 14:46:37\n- 2026年09月11日 09:57:06\n- 2026年09月11日 09:36:17\n- 2026年09月11日 09:35:27\n- 2026年09月11日 09:00:15\n- 2026年09月11日 08:40:31\n- 2026年09月11日 08:31:37\n- 2026年09月10日 20:28:21\n- 2026年09月10日 19:20:37\n- 2026年09月10日 14:52:00",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-11",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中印关系",
+    "元首外交",
+    "双边会晤"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "莫迪",
+      "name_en": "Narendra Modi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "印度",
+      "name_en": "India"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中印关系",
+      "name_en": "China-India Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边会晤",
+      "name_en": "Bilateral Meeting"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "莫迪",
+    "外交部",
+    "北京",
+    "印度",
+    "中印关系",
+    "元首外交",
+    "双边会晤"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Narendra Modi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "India",
+    "China-India Relations",
+    "Head-of-State Diplomacy",
+    "Bilateral Meeting"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260911-chinanews_gn-7c3c8f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

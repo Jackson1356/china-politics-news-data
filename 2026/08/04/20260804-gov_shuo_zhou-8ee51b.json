@@ -1,0 +1,96 @@
+{
+  "id": "20260804-gov_shuo_zhou-8ee51b",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077436.htm",
+  "title_zh": "四部门印发实施方案 加快建设统一开放的交通运输市场",
+  "title_en": "Four Departments Issue Plan to Accelerate Unified and Open Transport Market",
+  "summary_zh": "近日，交通运输部等四部门联合印发《交通运输纵深推进全国统一大市场建设实施方案》，提出推进市场制度规则衔接、基础设施联通、政府行为尺度统一等六方面重点任务，为全国统一大市场建设提供交通运输服务保障。",
+  "summary_en": "Recently, the Ministry of Transport and three other departments jointly issued an implementation plan to promote the construction of a unified national transport market, focusing on six key tasks including institutional alignment, infrastructure connectivity, and unified government behavior.",
+  "body_zh": "近日，交通运输部等四部门联合印发《交通运输纵深推进全国统一大市场建设实施方案》，旨在解决基础设施联通不足、运输服务融合不够、制度规则标准不一、资源要素共享不够等突出问题，为纵深推进全国统一大市场建设提供有力交通运输服务保障。\n方案提出，要推进市场制度规则衔接，包括完善交通运输市场准入退出制度，着力整治行业低价无序竞争，推进交通运输政务服务“跨省通办”，健全交通运输行业信用体系等重点任务；推进市场基础设施联通，包括建设现代化高质量国家综合立体交通网，大力发展多式联运，推动交通物流与制造业融合发展，支持区域运输一体化率先突破等重点任务；推进政府行为尺度统一，包括着力整治行业招标投标领域突出问题，推进交通运输领域制止滥用行政权力排除、限制竞争行为工作，规范交通运输领域政府补贴行为等重点任务。\n方案明确，要推进市场监管执法协同，包括推动交通运输执法标准统一，加强对交通运输平台企业监管等重点任务；推进市场要素共享，包括促进综合交通运输数据共享开放，推动资源要素集约利用等重点任务；推进市场对内对外开放，包括积极扩大交通运输领域消费市场，有序开放交通运输领域新兴市场，鼓励民营等社会资本参与交通基础设施建设等重点任务。（记者 韩鑫）",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "economy",
+  "keywords": [
+    "全国统一大市场",
+    "交通运输",
+    "基础设施联通"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国统一大市场",
+      "name_en": "National Unified Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施联通",
+      "name_en": "Infrastructure Connectivity"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "全国统一大市场",
+    "交通运输",
+    "基础设施联通"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "National Unified Market",
+    "Transportation",
+    "Infrastructure Connectivity"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260804-gov_cn_yaowen-8ee51b",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20260804/f0bb5e49-ad31-4185-9835-20e050945cd0.html",
+      "title_zh": "四部门印发实施方案 加快建设统一开放的交通运输市场",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

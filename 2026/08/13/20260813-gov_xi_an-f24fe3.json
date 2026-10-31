@@ -1,0 +1,105 @@
+{
+  "id": "20260813-gov_xi_an-f24fe3",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2087712532289675266.html",
+  "title_zh": "蒿慧杰会见长安银行党委书记、董事长张全明一行",
+  "title_en": "Hao Huijie Meets with Zhang Quanming, Party Secretary and Chairman of Chang'an Bank",
+  "summary_zh": "8月12日，陕西省委常委、西安市委书记蒿慧杰会见长安银行党委书记、董事长张全明一行，就深化政银合作、支持西安高质量发展进行交流。",
+  "summary_en": "On August 12, Hao Huijie, member of the Standing Committee of the Shaanxi Provincial Party Committee and Secretary of the Xi'an Municipal Party Committee, met with Zhang Quanming, Party Secretary and Chairman of Chang'an Bank, to discuss deepening government-bank cooperation and supporting Xi'an's high-quality development.",
+  "body_zh": "8月12日，省委常委、市委书记蒿慧杰会见长安银行党委书记、董事长张全明一行。\n蒿慧杰代表市委市政府向长安银行长期以来对西安经济社会发展的大力支持表示感谢。他说，西安和长安银行是紧密的利益共同体、发展共同体，在重点项目建设、重点产业链群培育、开放型经济发展等领域有着扎实的合作基础。当前，西安正深入学习贯彻习近平总书记历次来陕考察重要讲话重要指示，全面落实省委十四届十次全会部署要求，认真落实“双极带动、多点支撑、三区协同”区域发展战略，着力打造全省高质量发展强劲增长极。希望双方持续深化务实合作，推动政银合作取得更大成果。一是希望长安银行充分发挥总部位于西安的独特优势，持续创新金融服务模式，降低企业融资成本，强化投贷联动赋能，共同维护区域金融稳定。二是聚焦西安区域科技创新中心建设、制造业高质量发展、城市更新、商业航天、低空经济、开放型经济等重点领域，加大信贷投放力度，创新适配性金融产品，为西安经济高质量发展提供更有力的金融支撑。三是协同拓展产业链上下游中小微企业金融服务覆盖面，持续做优供应链金融服务，落实普惠小微贷款支持政策，共同助力西安中小微企业提质发展。四是持续深化与我市国企务实合作，共同探索多元化合作模式，实现互利共赢发展。西安将持续营造一流营商环境，为长安银行发展提供优质服务、创造良好条件。\n张全明介绍了长安银行历史、发展情况和未来发展方向，感谢西安市委市政府的关心和支持，表示将发挥自身优势，紧密对接西安高质量发展所需，聚焦重大项目建设、科技创新、产业发展等领域优化金融产品服务供给，为西安高质量发展现代化建设作出积极贡献。\n长安银行党委副书记李嘉辉，党委委员、副行长刘建芸，市委常委和文全、孟浩，市级有关部门负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "政银合作",
+    "金融服务",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张全明",
+      "name_en": "Zhang Quanming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政银合作",
+      "name_en": "Government-Bank Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务",
+      "name_en": "Financial Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "张全明",
+    "西安",
+    "政银合作",
+    "金融服务",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Zhang Quanming",
+    "Xi'an",
+    "Government-Bank Cooperation",
+    "Financial Services",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "hao-huijie",
+      {
+        "id": null,
+        "name_zh": "张全明"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260813-gov_xi_an-f24fe3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

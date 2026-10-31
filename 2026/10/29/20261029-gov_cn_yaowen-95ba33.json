@@ -1,0 +1,105 @@
+{
+  "id": "20261029-gov_cn_yaowen-95ba33",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084494.htm",
+  "title_zh": "张升民同志简历",
+  "title_en": "Biography of Comrade Zhang Shengmin",
+  "summary_zh": "新华社10月29日播发张升民同志简历，介绍其现任中央政治局委员、中共中央军委副主席、中央军委副主席、中央纪委副书记等职务。",
+  "summary_en": "Xinhua released the official biography of Zhang Shengmin on Oct 29, listing his posts as Politburo member, vice chairman of the CPC Central Military Commission and of the PRC Central Military Commission, and deputy secretary of the CCDI.",
+  "body_zh": "新华社北京10月29日电\n张升民同志简历\n张升民，男，汉族，1958年8月生，陕西武功人，1978年2月入伍，1979年7月加入中国共产党，中央党校研究生学历。\n现任中央政治局委员，中共中央军事委员会副主席，中华人民共和国中央军事委员会副主席，中央纪律检查委员会副书记，火箭军上将军衔。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "personnel",
+  "keywords": [
+    "军队领导",
+    "人事变动"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-shengmin",
+      "name_zh": "张升民",
+      "name_en": "Zhang Shengmin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央军事委员会",
+      "name_en": "Central Military Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军队领导",
+      "name_en": "Military Leadership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事变动",
+      "name_en": "Personnel Change"
+    }
+  ],
+  "tags_zh": [
+    "张升民",
+    "中央军事委员会",
+    "北京",
+    "军队领导",
+    "人事变动"
+  ],
+  "tags_en": [
+    "Zhang Shengmin",
+    "Central Military Commission",
+    "Beijing",
+    "Military Leadership",
+    "Personnel Change"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-shengmin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央军事委员会",
+        "name_en": "Central Military Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261029-gov_cn_yaowen-95ba33",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1793267332129287.html",
+      "title_zh": "张升民同志简历",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

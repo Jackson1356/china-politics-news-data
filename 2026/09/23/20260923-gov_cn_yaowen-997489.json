@@ -1,0 +1,83 @@
+{
+  "id": "20260923-gov_cn_yaowen-997489",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081899.htm",
+  "title_zh": "前8个月工业经济稳步增长 新质生产力加快培育",
+  "title_en": "Industrial Economy Grows Steadily in First Eight Months as New Quality Productive Forces Accelerate",
+  "summary_zh": "国家税务总局发票数据显示，今年前8个月全国工业销售收入同比增长7.3%，装备制造业增长10.1%，高技术产业销售收入同比增长15.7%。",
+  "summary_en": "Invoice data from China's State Taxation Administration shows national industrial sales revenue rose 7.3% year on year in the first eight months of the year, with equipment manufacturing up 10.1% and high-tech industry sales up 15.7%.",
+  "body_zh": "国家税务总局发布的最新发票数据显示，今年前8个月，工业经济稳中有进，全国工业销售收入同比增长7.3%，其中采矿业、制造业、电力热力燃气及水生产和供应业销售收入均保持较快增长态势。装备制造业持续发挥“压舱石”作用，销售收入同比增长10.1%。\n同时，新质生产力加快培育。前8个月，高技术产业销售收入同比增长15.7%。其中，与人工智能相关的集成电路、智能车载设备销售收入同比分别增长67.7%和38.8%。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "工业经济",
+    "新质生产力",
+    "高技术产业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业经济",
+      "name_en": "Industrial Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术产业",
+      "name_en": "High-tech Industry"
+    }
+  ],
+  "tags_zh": [
+    "国家税务总局",
+    "工业经济",
+    "新质生产力",
+    "高技术产业"
+  ],
+  "tags_en": [
+    "State Taxation Administration",
+    "Industrial Economy",
+    "New Quality Productive Forces",
+    "High-tech Industry"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260923-gov_cn_yaowen-997489",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

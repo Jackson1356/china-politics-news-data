@@ -1,0 +1,112 @@
+{
+  "id": "20260623-gov_cn_yaowen-10c824",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073094.htm",
+  "title_zh": "李强会见黑山总理斯帕伊奇",
+  "title_en": "Li Qiang Meets Montenegrin Prime Minister Milojko Spajić",
+  "summary_zh": "6月23日下午，国务院总理李强在大连会见来华出席夏季达沃斯论坛的黑山总理斯帕伊奇，双方探讨加强贸易、基建及人工智能等领域合作。",
+  "summary_en": "On June 23, Premier Li Qiang met with Montenegrin Prime Minister Milojko Spajić in Dalian to discuss enhancing cooperation in trade, infrastructure, and AI.",
+  "body_zh": "新华社大连6月23日电（记者孙楠、武江民）6月23日下午，国务院总理李强在大连会见来华出席夏季达沃斯论坛的黑山总理斯帕伊奇。\n李强表示，今年是中黑建交20周年。近些年，在中黑共同努力下，双方务实合作卓有成效，有力增进了两国人民福祉。中方始终视黑山为中东欧地区的好朋友、好伙伴，乐见一个团结、稳定、繁荣的黑山。我们将继续支持黑山走符合本国国情的发展道路，愿同黑方坚持相互尊重、平等相待，巩固政治互信，坚定支持彼此核心利益，拓展全方位互利合作，取得更多实际成果。\n李强指出，中方愿同黑方推动双边贸易更加优化平衡发展，高质量推进基础设施建设，拓展信息通信、绿色能源、数字经济、人工智能等领域合作。中方愿进口黑山更多特色优质产品，鼓励更多有实力、信誉好的中国企业赴黑山投资，希望黑方继续为企业提供公平、透明、非歧视的营商环境。双方要促进人员往来便利化，进一步扩大旅游、科技、教育、青年、体育等领域交流合作。中欧作为全球两大经济体，在市场、产业等方面优势互补。希望黑方发挥积极作用，推动中欧关系朝着正确方向发展。\n斯帕伊奇表示，黑中传统友谊深厚，建交20年来两国关系日益密切，互利合作成果丰富。黑方视中国为重要合作伙伴，感谢中方为黑山经济社会发展提供的宝贵支持，愿同中方持续推进贸易、投资、基建、绿色经济、科技、教育、旅游等领域合作。黑方重视中国在国际事务中的重要作用和影响，期待在加入欧盟后成为欧中务实合作的桥梁。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-23",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "双边合作",
+    "贸易投资",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "斯帕伊奇",
+      "name_en": "Milojko Spajić"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "大连",
+      "name_en": "Dalian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边合作",
+      "name_en": "Bilateral Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易投资",
+      "name_en": "Trade and Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "斯帕伊奇",
+    "国务院",
+    "大连",
+    "双边合作",
+    "贸易投资",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Milojko Spajić",
+    "State Council",
+    "Dalian",
+    "Bilateral Cooperation",
+    "Trade and Investment",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260623-gov_cn_yaowen-10c824",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

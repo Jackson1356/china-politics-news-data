@@ -1,0 +1,110 @@
+{
+  "id": "20261016-peoples_nx-b434fb",
+  "source": "peoples_nx",
+  "source_name_zh": "人民网 宁夏",
+  "source_name_en": "People's Daily Ningxia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nx.people.com.cn/n2/2026/1016/c192482-41723629.html",
+  "title_zh": "宁夏粉煤灰搭乘图定班列进藏",
+  "title_en": "Ningxia Fly Ash Reaches Tibet via Scheduled Freight Train",
+  "summary_zh": "10月12日，首列满载粉煤灰的图定班列从宁夏青铜峡驶往西藏林芝，将按每月2万吨常态化开行，提升工业固废综合利用率。",
+  "summary_en": "On Oct 12, the first scheduled freight train carrying fly ash departed Qingtongxia, Ningxia for Nyingchi, Tibet, and will run regularly at 20,000 tonnes monthly to boost industrial waste recycling.",
+  "body_zh": "宁夏粉煤灰搭乘图定班列进藏\n10月12日2时42分，一列满载3979.5吨粉煤灰的货物列车从中国铁路兰州局银川铁路物流中心青铜峡货场缓缓驶出，跨越千里奔赴西藏林芝，为当地工程建设输送高性能混凝土掺和原料。据悉，该中心将以每月2万吨常态化运量持续开行图定班列。这是青铜峡至林芝首次开行的粉煤灰图定班列，标志着粉煤灰物流总包模式从“零散集结、时间不定”向“成组成列、常态化开行”跨越升级。\n粉煤灰是煤炭燃烧产生的主要工业固废，也是高性能混凝土重要掺和原料。宁夏作为西北重要能源基地，粉煤灰年产量近6700万吨，传统填埋污染大，加之易扬尘、损耗大，跨省运输成本高，综合利用率亟待提升。银川铁路物流中心与兰州局物流事业部、调度中心等部门联动，为企业量身定制粉煤灰个性化运输方案，提供装卸、运输、接取送达一站式服务。\n图定班列将货物列车“客车化”，具有定点、定线、定车次、定时等特点。“以前通过铁路零散发运或者攒够一列发一列，运输时效难以把控。升级为图定班列后运输时间压缩至53个小时内，到点就装、到点就开，我们就能提前集中备货。”青铜峡市捷安公铁物流有限责任公司副总经理乔云霞说。\n“图定班列的核心就是准时、准点、准量，我们合理调配人力与机具，确保装车无缝衔接。”银川铁路物流中心青铜峡营业部副经理王浩介绍，后续将保持一周两列常态化运行，结合工程建设进度动态调整频次，确保供货不掉链、不断档。\n此次班列开行，化解了粉煤灰带来的环境压力，提高了工业固废综合利用率，实现了产废地与用废地互利共赢。通过“点对点”“门到门”物流服务，解决运输堵点。（记者 裴云云 实习生 马英英）",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "粉煤灰综合利用",
+    "图定班列",
+    "工业固废",
+    "铁路物流"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX",
+      "name_zh": "宁夏",
+      "name_en": "Ningxia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粉煤灰综合利用",
+      "name_en": "Fly Ash Comprehensive Utilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "图定班列",
+      "name_en": "Scheduled Freight Train"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业固废",
+      "name_en": "Industrial Solid Waste"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路物流",
+      "name_en": "Railway Logistics"
+    },
+    {
+      "kind": "person",
+      "id": "wang-hao-zhejiang",
+      "name_zh": "王浩",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "宁夏",
+    "西藏",
+    "粉煤灰综合利用",
+    "图定班列",
+    "工业固废",
+    "铁路物流",
+    "王浩"
+  ],
+  "tags_en": [
+    "Ningxia",
+    "Tibet",
+    "Fly Ash Comprehensive Utilization",
+    "Scheduled Freight Train",
+    "Industrial Solid Waste",
+    "Railway Logistics"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-hao-zhejiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX",
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261016-peoples_nx-b434fb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

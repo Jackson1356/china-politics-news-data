@@ -1,0 +1,125 @@
+{
+  "id": "20261020-gov_cn_yaowen-c5b790",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/20/VIDE0P7aDUboV2OzZ7ep4ahD261020.shtml",
+  "title_zh": "李强会见伊朗第一副总统阿雷夫",
+  "title_en": "Li Qiang Meets Iranian First Vice President Aref",
+  "summary_zh": "当地时间10月19日下午，国务院总理李强在杜尚别出席上合组织总理理事会第二十五次会议期间会见伊朗第一副总统阿雷夫，双方就中伊合作与中东和平稳定交换意见。",
+  "summary_en": "On the afternoon of Oct 19 local time, Premier Li Qiang met Iranian First Vice President Mohammad Reza Aref in Dushanbe on the sidelines of the 25th SCO Heads of Government Council, discussing bilateral cooperation and Middle East peace and stability.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间10月19日下午，国务院总理李强在杜尚别出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议期间会见伊朗第一副总统阿雷夫。\n李强表示，今年以来，中东局势动荡不安。习近平主席就维护和促进中东和平稳定提出一系列重大倡议和主张，引起广泛共鸣。中方一直在尽最大努力劝和促谈，将为促进地区和平、稳定、发展继续作出努力。中伊建交55年来，两国关系保持平稳健康发展。中方愿同伊方推动双方各领域交流合作取得新进展。\n阿雷夫表示，伊方愿同中方加强各领域合作，推动伊中关系深入发展。伊方支持习近平主席就促进中东和平安全提出的重要倡议和主张，愿通过对话化解分歧，尽早恢复地区和平。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "foreign",
+  "keywords": [
+    "中伊关系",
+    "中东和平稳定",
+    "上合组织合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杜尚别",
+      "name_en": "Dushanbe"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中伊关系",
+      "name_en": "China-Iran Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东和平稳定",
+      "name_en": "Middle East Peace and Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上合组织合作",
+      "name_en": "SCO Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杜尚别",
+    "中伊关系",
+    "中东和平稳定",
+    "上合组织合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Dushanbe",
+    "China-Iran Relations",
+    "Middle East Peace and Stability",
+    "SCO Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "杜尚别"
+      },
+      {
+        "id": null,
+        "name_zh": "雷夫"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261020-gov_cn_yaowen-c5b790",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083724.htm",
+      "title_zh": "李强会见伊朗第一副总统阿雷夫",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

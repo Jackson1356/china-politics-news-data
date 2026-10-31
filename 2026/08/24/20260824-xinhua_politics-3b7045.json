@@ -1,0 +1,84 @@
+{
+  "id": "20260824-xinhua_politics-3b7045",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260824/c51e551b9ebb428487a3f6e79e4b0d3f/c.html",
+  "title_zh": "水利部对福建省启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Activates Level-IV Flood Emergency Response for Fujian",
+  "summary_zh": "水利部8月24日对福建省启动洪水防御Ⅳ级应急响应，并派出工作组赴台风暴雨洪水防御一线。",
+  "summary_en": "On August 24, the Ministry of Water Resources activated a Level-IV flood emergency response for Fujian and dispatched a work team to the front line.",
+  "body_zh": "新华社北京8月24日电（记者魏弘毅）记者从水利部了解到，水利部于24日对福建省启动洪水防御Ⅳ级应急响应，并派出工作组赴台风暴雨洪水防御一线。\n据预报，受今年第20号台风“简拉维”带来的强降雨影响，8月24日至25日，福建闽江、九龙江、汀江及沿海诸河等河流将出现明显涨水过程，暴雨区内部分中小河流可能发生超警以上洪水。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "福建",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Fujian",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-FJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260824-xinhua_politics-3b7045",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

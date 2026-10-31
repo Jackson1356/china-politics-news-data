@@ -1,0 +1,108 @@
+{
+  "id": "20261027-chinanews_gn-6526d6",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-27/10721658.shtml",
+  "title_zh": "外交部：对英国警方任意、过度执法行为表示强烈不满",
+  "title_en": "FM: China Strongly Dissatisfied with Arbitrary, Excessive Law Enforcement by UK Police",
+  "summary_zh": "10月27日，外交部发言人郭嘉昆在北京例行记者会上表示，中方对英国边境执法人员长时间扣留、盘查中国公民并查扣其电子设备表示强烈不满，已向英方提出严正交涉。",
+  "summary_en": "On Oct 27, FM spokesperson Guo Jiakun said in Beijing that China is strongly dissatisfied and seriously concerned over UK border officers' prolonged detention and questioning of Chinese citizens and seizure of their electronic devices, and has lodged solemn representations with the UK.",
+  "body_zh": "外交部：对英国警方任意、过度执法行为表示强烈不满\n新华社北京10月27日电(记者曹嘉玥、董雪)外交部发言人郭嘉昆27日在例行记者会上答问时表示，近日外交部和中国驻英国大使馆收到多起中国公民被英国边境执法人员长时间扣留、盘查，以及其随身携带的手机等电子设备被查扣的报告。中方对英国警方任意、过度执法行为表示强烈不满、严重关切，已向英方提出严正交涉，将全力维护中国公民人身安全和正当合法权益。提醒有计划赴英国的中国公民详细阅读驻英使馆发布的提示，避免造成不便和损失。(完)\n国内新闻精选：\n- 2026年10月27日 15:30:36\n- 2026年10月27日 14:46:30\n- 2026年10月27日 11:29:13\n- 2026年10月27日 06:42:27\n- 2026年10月26日 15:19:28\n- 2026年10月26日 15:06:54\n- 2026年10月26日 13:43:35\n- 2026年10月26日 12:22:53\n- 2026年10月26日 11:51:27\n- 2026年10月26日 11:02:46",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "领事保护",
+    "外交交涉",
+    "公民合法权益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领事保护",
+      "name_en": "Consular Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交交涉",
+      "name_en": "Diplomatic Representations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公民合法权益",
+      "name_en": "Legitimate Rights of Citizens"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "领事保护",
+    "外交交涉",
+    "公民合法权益"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Consular Protection",
+    "Diplomatic Representations",
+    "Legitimate Rights of Citizens"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261027-chinanews_gn-6526d6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721665.shtml",
+      "title_zh": "中方：对英警方任意、过度执法行为强烈不满、严重关切",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    },
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1793085519129794.html",
+      "title_zh": "外交部：对英国警方任意、过度执法行为表示强烈不满",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

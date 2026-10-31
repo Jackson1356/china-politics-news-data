@@ -1,0 +1,70 @@
+{
+  "id": "20260607-gov_cn_yaowen-acc4a6",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071400.htm",
+  "title_zh": "我国持续优化完善农村公路网络",
+  "title_en": "China Continues to Optimize and Improve Rural Road Networks",
+  "summary_zh": "今年以来，我国扩大农村交通基础设施投资并实施提升行动，前4个月农村公路完成固定资产投资821.1亿元。",
+  "summary_en": "China has expanded investment in rural transport infrastructure this year, with 82.11 billion yuan in fixed asset investment completed in the first four months.",
+  "body_zh": "今年以来，我国积极稳妥扩大农村交通基础设施有效投资，深入实施新一轮农村公路提升行动，持续优化完善农村公路网络。\n这几天，云南省普洱市西盟佤族自治县，一条连接翁嘎科镇和力所拉祜族乡的三级公路正在进行路面铺筑。这条全长超37公里的农村公路，是连接2个乡镇的重要交通动脉。今年年底前建成通车后，将显著改善沿线近2万名群众的出行条件。\n农村公路不仅要建好，还要管好、护好、运营好。眼下，在宁夏石嘴山市惠农区，一条已服役14年的农村公路的改造提升工程进入收尾阶段，施工人员正在开展最后的道路标线施划作业。\n为拓宽农村公路沿线农民群众就业增收渠道，今年以来，青海省西宁市大通回族土族自治县带动400余名群众参与农村公路领域建设、养护相关工作，在促进群众就地就近就业的同时，实现劳务增收近500万元。\n交通运输部最新数据显示，今年前4个月，农村公路完成固定资产投资821.1亿元，全国新改建农村公路1.6万公里，实施农村公路养护工程2.6万公里，农村公路管护领域提供就业岗位稳定在80万个左右。",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "农村公路",
+    "基础设施投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农村公路",
+      "name_en": "Rural Roads"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施投资",
+      "name_en": "Infrastructure Investment"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "农村公路",
+    "基础设施投资"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Rural Roads",
+    "Infrastructure Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260607-gov_cn_yaowen-acc4a6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "20261031-gov_zhou_kou-b6db1a",
+  "source": "gov_zhou_kou",
+  "source_name_zh": "周口市政府网",
+  "source_name_en": "周口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhou_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/sszf/article3b43a0d4499548c281c5732f2818588b.html",
+  "title_zh": "张建党到西华县调研",
+  "title_en": "Zhang Jiandang Inspects Xihua County",
+  "summary_zh": "10月30日上午，周口市委常委、常务副市长张建党赴西华县调研沙颍河“通港达园”延展工程开工建设情况，要求强化用地保障、优化施工环境。",
+  "summary_en": "On Oct 30, Zhoukou Executive Vice Mayor Zhang Jiandang inspected the Shaying River waterway extension project in Xihua County, urging faster land approvals and better construction conditions.",
+  "body_zh": "张建党到西华县调研\n10月30日上午，市委常委、常务副市长张建党一行赴西华县调研沙颍河“通港达园”延展工程（西华至许开交界段）开工建设情况。\n在沙颍河“通港达园”延展工程（西华至许开交界段）闫岗船闸施工现场，张建党一行认真听取项目负责人关于工程整体规划、建设周期、节点安排及当前施工进展的汇报，实地查看项目施工布局和现场作业情况。\n张建党指出，沙颍河“通港达园”延展工程事关全市水运发展大局、事关长远发展。各级各有关部门要提高政治站位，充分认识项目建设的重要性，锚定目标、压实责任，全力保障项目有序高效推进。要强化用地保障，统筹加快临时用地手续办理和永久用地报批工作，细化工作台账、加快办理进度，切实满足项目建设用地需求。要优化施工环境，坚持靠前服务、主动对接，畅通政企沟通渠道，及时妥善化解各类矛盾纠纷，扫清施工障碍，营造稳定顺畅的建设环境。要组建工作专班，明确专人牵头负责，强化常态化统筹调度，及时协调解决项目推进过程中的困难和问题。施工单位要扛牢主体责任，统筹抓好工程质量、安全生产和生态环保，严格落实工程建设标准，守牢安全底线和生态红线，高标准、高质量推进项目建设，力争项目早建成、早通航、早见效，为全市临港经济高质量发展注入强劲动能。（记者 乔小纳）",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "economy",
+  "keywords": [
+    "水运工程",
+    "临港经济",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张建党",
+      "name_en": "Zhang Jiandang"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "西华县",
+      "name_en": "Xihua County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水运工程",
+      "name_en": "Waterway Project"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "临港经济",
+      "name_en": "Port-based Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "张建党",
+    "西华县",
+    "水运工程",
+    "临港经济",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Zhang Jiandang",
+    "Xihua County",
+    "Waterway Project",
+    "Port-based Economy",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张建党"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261031-gov_zhou_kou-b6db1a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_zhou_kou",
+      "source_tier": 4,
+      "url": "https://www.zhoukou.gov.cn/sitesources/zksrmzf/page_pc/xwzx/zkyw/article83c99e1e79db472c85acde4d48132de2.html",
+      "title_zh": "张建党到西华县调研_周口市人民政府",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

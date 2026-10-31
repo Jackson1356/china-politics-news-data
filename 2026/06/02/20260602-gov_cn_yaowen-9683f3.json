@@ -1,0 +1,89 @@
+{
+  "id": "20260602-gov_cn_yaowen-9683f3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7070956.htm",
+  "title_zh": "第十一次中英战略对话在北京举行",
+  "title_en": "The 11th China-UK Strategic Dialogue Held in Beijing",
+  "summary_zh": "6月2日，外交部长王毅在北京同英国外交大臣库珀举行第十一次中英战略对话，双方就落实两国领导人共识、深化经贸合作及全球治理等议题交换意见。",
+  "summary_en": "On June 2, Foreign Minister Wang Yi held the 11th China-UK Strategic Dialogue with UK Foreign Secretary Cooper in Beijing to discuss implementing leadership consensus, deepening economic cooperation, and global governance.",
+  "body_zh": "新华社北京6月2日电（记者 董雪）中共中央政治局委员、外交部长王毅2日在北京同英国外交大臣库珀举行第十一次中英战略对话。\n王毅表示，今年初，斯塔默首相成功访华，两国领导人就中英发展长期稳定的全面战略伙伴关系达成重要共识。这一新定位反映了两国关系的历史逻辑，符合各自发展的现实需要，也构画了长久可期的共赢愿景。当前，双方各领域交往合作全面恢复，逐步进入正轨，值得倍加珍惜。我们要落实好两国领导人重要共识，加强高层交往，推动形成更多务实可见的成果。\n王毅表示，希望英方为中资企业提供公平、公正、非歧视的营商环境，合理界定安全边界，为两国发展关系、深化合作营造良好氛围。\n王毅强调，中英作为联合国安理会常任理事国，应该带头走正道、秉公道，维护二战胜利成果，恪守联合国宪章，坚持真正的多边主义，共同推动构建更加公正合理的全球治理体系。\n王毅还深入阐释了中方在台湾、香港等问题上的立场。\n库珀表示，英方愿同中方一道，密切高层交往，推进机制性对话，深化经贸、金融、能源、人工智能等领域合作。英方同中国建交以来在台湾问题上奉行的政策没有变化，也不会改变。愿同中方持续通过坦诚对话，建设性妥处分歧，推进英中关系健康稳定发展。\n双方还就伊朗、乌克兰等问题交换意见。",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "foreign",
+  "keywords": [
+    "中英关系",
+    "战略对话",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中英关系",
+      "name_en": "China-UK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略对话",
+      "name_en": "Strategic Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "北京",
+    "中英关系",
+    "战略对话",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beijing",
+    "China-UK Relations",
+    "Strategic Dialogue",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260602-gov_cn_yaowen-9683f3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

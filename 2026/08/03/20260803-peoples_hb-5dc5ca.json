@@ -1,0 +1,112 @@
+{
+  "id": "20260803-peoples_hb-5dc5ca",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/0803/c192237-41657163.html",
+  "title_zh": "两部门联合发布红色山洪灾害气象预警",
+  "title_en": "Two Departments Jointly Issue Red Warning for Mountain Flood Disasters",
+  "summary_zh": "8月2日，水利部和中国气象局联合发布红色山洪灾害气象预警，国家防总、应急管理部持续会商，针对多省份启动应急响应。",
+  "summary_en": "On August 2, the Ministry of Water Resources and the China Meteorological Administration jointly issued a red warning for mountain flood disasters, while the State Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management held consultations and activated emergency responses for multiple provinces.",
+  "body_zh": "两部门联合发布红色山洪灾害气象预警\n国家防办、应急管理部持续会商调度\n本报北京8月2日电 （记者邓剑洋、蒋雪鸿）8月2日18时，水利部和中国气象局联合发布红色山洪灾害气象预警。预计，8月2日20时至3日20时，内蒙古东北部、四川东北部、重庆中部和南部、贵州北部、陕西东南部等地部分地区发生山洪灾害可能性大（橙色预警），其中，四川东北部、重庆中部、陕西东南部局地发生山洪灾害可能性很大（红色预警）。\n本报北京8月2日电 （记者邓剑洋）记者从水利部获悉：根据24小时降雨预报，水利部向北京、河北、山西、内蒙古、辽宁、吉林、江西、湖北、湖南、广东、广西、重庆、四川、贵州、云南、陕西、甘肃等17省份发出“一省一单”靶向预警，通报强降雨覆盖范围、水库名单、山洪灾害风险区域及点位，提醒做好安全度汛和灾害防御等工作。水利部于8月2日13时针对重庆市启动洪水防御Ⅳ级应急响应，并派出水利部工作组赴防御一线协助指导。8月2日，黑龙江省嫩江支流甘河发生2026年第1号洪水，松花江发生2026年第1号洪水。\n本报北京8月2日电 （记者刘温馨）8月2日上午，国家防总办公室、应急管理部组织多部门联合会商，研判近期强降雨发展形势。国家防总、应急管理部于8月2日10时针对北京、河北启动防汛四级应急响应，17时针对贵州启动防汛四级应急响应。\n《 人民日报 》（ 2026年08月03日 04 版）",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-02",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "welfare",
+  "keywords": [
+    "山洪灾害",
+    "防汛应急"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪灾害",
+      "name_en": "Mountain Flood Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛应急",
+      "name_en": "Flood Control Emergency"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "中国气象局",
+    "北京",
+    "山洪灾害",
+    "防汛应急"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "China Meteorological Administration",
+    "Beijing",
+    "Mountain Flood Disaster",
+    "Flood Control Emergency"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260803-peoples_hb-5dc5ca",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/0803/c349771-41657168.html",
+      "title_zh": "两部门联合发布红色山洪灾害气象预警",
+      "published_at": "2026-08-03T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0803/c378440-41657199.html",
+      "title_zh": "两部门联合发布红色山洪灾害气象预警",
+      "published_at": "2026-08-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

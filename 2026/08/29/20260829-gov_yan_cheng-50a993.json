@@ -1,0 +1,92 @@
+{
+  "id": "20260829-gov_yan_cheng-50a993",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/29/art_49_4450111.html",
+  "title_zh": "市政府党组会议暨理论学习中心组学习会召开",
+  "title_en": "Yancheng Municipal Government Party Group Meeting Held",
+  "summary_zh": "8月28日，盐城市政府党组会议暨理论学习中心组学习会召开，代市长吴炜主持，学习习近平总书记近期重要讲话和重要文章精神。",
+  "summary_en": "On Aug 28, the Yancheng Municipal Government Party Group meeting was held, chaired by acting mayor Wu Wei, to study Xi Jinping's recent important speeches and articles.",
+  "body_zh": "8月28日，市政府党组会议暨理论学习中心组学习会召开，深入学习贯彻习近平总书记近期重要讲话、重要指示、重要文章精神，围绕习近平总书记关于基层工作方法的重要论述开展交流研讨。市政府党组书记、代市长吴炜主持会议并讲话。\n会议指出，习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话，深情回顾江泽民同志光辉战斗的一生，高度评价江泽民同志为党和人民建立的不朽功勋。要深刻领悟习近平总书记重要讲话精神，不忘初心、牢记使命，坚定信心、接续奋斗，推动经济向新向优向好发展，努力实现“十五五”良好开局，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。\n会议强调，要全面贯彻习近平总书记在《求是》杂志上发表的重要文章《提高防灾减灾救灾能力》精神，深入践行“四个宁可”重要理念，持续夯实“防”的基础，有效提升“减”的效果，全面增强“救”的能力，牢牢把握防灾减灾救灾工作主动权，切实守护人民群众生命财产安全。要认真学习习近平总书记关于树立和践行正确政绩观的重要论述，牢牢把握“立党为公、为民造福、科学决策、真抓实干”总要求，坚持学用结合、查改贯通，注重常态长效、建章立制，经常对标对表、校准偏差，努力创造经得起实践、人民、历史检验的实绩。\n大家在交流时一致认为，《习近平关于基层工作方法论述摘编》和《习近平关于基层工作方法的重要论述学习读本》，是我们做好基层工作的“教科书”和“方法论”。要坚持人民至上理念，深入践行“四下基层”工作方法，面对面听取民生诉求，实打实解决基层困难，善作善成、久久为功，不断增强人民群众的获得感、幸福感和安全感。要夯实基层基础，深化减负赋能，不断提升一线工作人员履职能力和工作积极性，努力把基层打造成攻坚克难的一线阵地、为民服务的前沿窗口、干事创业的实践平台。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "party",
+  "keywords": [
+    "基层治理",
+    "防灾减灾",
+    "政绩观"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层治理",
+      "name_en": "Grassroots Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政绩观",
+      "name_en": "View of Political Achievements"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盐城",
+    "基层治理",
+    "防灾减灾",
+    "政绩观",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yancheng",
+    "Grassroots Governance",
+    "Disaster Prevention and Mitigation",
+    "View of Political Achievements"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260829-gov_yan_cheng-50a993",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

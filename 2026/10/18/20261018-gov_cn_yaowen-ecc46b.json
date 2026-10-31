@@ -1,0 +1,134 @@
+{
+  "id": "20261018-gov_cn_yaowen-ecc46b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/18/VIDEIswMFtT0ODGVWFJ2DDVb261018.shtml",
+  "title_zh": "李强会见乌兹别克斯坦总统米尔济约耶夫",
+  "title_en": "Li Qiang Meets Uzbek President Mirziyoyev in Tashkent",
+  "summary_zh": "当地时间10月17日，国务院总理李强在塔什干会见乌兹别克斯坦总统米尔济约耶夫，双方就加强战略沟通、拓展经贸能源互联互通合作及多边平台协作交换意见。",
+  "summary_en": "On October 17 local time, Premier Li Qiang met Uzbek President Shavkat Mirziyoyev in Tashkent, with the two sides agreeing to strengthen strategic communication, expand trade, energy and connectivity cooperation, and coordinate on multilateral platforms.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间10月17日，国务院总理李强在塔什干会见乌兹别克斯坦总统米尔济约耶夫。\n李强表示，近年来，在习近平主席和米尔济约耶夫总统战略引领下，中乌命运共同体建设不断取得新成果。中方愿同乌方加强战略沟通，坚定支持彼此核心利益，拓展经贸、能源、互联互通等领域合作，为两国人民带来更多福祉。双方要加强在重大问题上的立场协调，密切在中国—中亚机制、上合等多边平台协作，维护两国共同利益。\n米尔济约耶夫表示，当前乌中关系迎来“黄金时代”。乌方坚定恪守一个中国原则，支持习近平主席提出的四大全球倡议，愿同中方加强各领域合作，推动乌中新时代全天候全面战略伙伴关系不断取得新发展。\n吴政隆参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-10-18T12:00:00+00:00",
+  "event_date": "2026-10-17",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中乌关系",
+    "互联互通",
+    "中国—中亚机制",
+    "上海合作组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "塔什干",
+      "name_en": "Tashkent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中乌关系",
+      "name_en": "China-Uzbekistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互联互通",
+      "name_en": "Connectivity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—中亚机制",
+      "name_en": "China-Central Asia Mechanism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "塔什干",
+    "中乌关系",
+    "互联互通",
+    "中国—中亚机制",
+    "上海合作组织",
+    "吴政隆",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Tashkent",
+    "China-Uzbekistan Relations",
+    "Connectivity",
+    "China-Central Asia Mechanism",
+    "Shanghai Cooperation Organization"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261018-gov_cn_yaowen-ecc46b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083561.htm",
+      "title_zh": "李强会见乌兹别克斯坦总统米尔济约耶夫",
+      "published_at": "2026-10-18T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

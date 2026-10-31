@@ -1,0 +1,88 @@
+{
+  "id": "20260827-xinhua_politics-e749f2",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260827/6b001d090223425f8be5d1b9addf800c/c.html",
+  "title_zh": "平陆运河货轮实船适航试验顺利完成",
+  "title_en": "Pinglu Canal Cargo Ship Full-Scale Seaworthiness Test Successfully Completed",
+  "summary_zh": "8月26日，由4艘货轮组成的平陆运河实船试验编队顺利通过广西茅尾海龙门大桥，标志着全航段实船适航试验完成。",
+  "summary_en": "On August 26, a fleet of four cargo ships from the Pinglu Canal full-scale test successfully passed Longmen Bridge in Maowei Sea, Guangxi, completing the canal's full-route seaworthiness trial.",
+  "body_zh": "新华社南宁8月26日电（记者郭轶凡）8月26日，由“北港运河002”等4艘货轮组成的平陆运河实船试验编队，平稳驶过广西茅尾海龙门大桥海域，标志着平陆运河全航段实船适航试验达到终点。\n上午11时，4艘试验船从平陆运河钦州水上综合服务区出发，经过G75兰海高速钦江大桥进入海上航段。海上航段水文条件复杂，试验船编队重点对入海口近海段的航道尺度、航标配布及船舶在潮汐流作用下的航向稳定性进行了实船验证。经过约2小时航行，编队顺利抵达终点龙门大桥，完成本次试航的最后一公里实测。试验过程中，船舶搭载的北斗终端、倾角传感器等设备，实时记录了船舶航迹、横摇角度及舵效等关键参数。\n钦州海事局茅尾海海巡执法大队副队长何长海介绍，入海口段的实测数据将为下一步分析风浪流共同作用下的船舶适航性提供直接依据。项目团队将汇总全航段数据，尽快形成试验报告，为平陆运河通航的航路规划和安全管理提供技术支撑。\n平陆运河是西部陆海新通道骨干工程，全长134.2公里，计划于今年9月通航。货轮实船适航试验8月12日启动以来，4艘涵盖5000吨级重载、5000吨级空载、3000吨级重载和1000吨级重载的代表性船舶从平塘江口出发，沿平陆运河主航道一路南下，依次通过马道、企石、青年三大枢纽船闸，完成了不同吨位船舶的连续过闸、弯道会船、同向追越等一系列实船操纵测试，全面检验了内河航段的通航条件。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "平陆运河",
+    "适航试验",
+    "西部陆海新通道"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "平陆运河",
+      "name_en": "Pinglu Canal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "适航试验",
+      "name_en": "Seaworthiness Test"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "西部陆海新通道",
+      "name_en": "Western Land-Sea Corridor"
+    }
+  ],
+  "tags_zh": [
+    "广西",
+    "平陆运河",
+    "适航试验",
+    "西部陆海新通道"
+  ],
+  "tags_en": [
+    "Guangxi",
+    "Pinglu Canal",
+    "Seaworthiness Test",
+    "Western Land-Sea Corridor"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "何长海"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-xinhua_politics-e749f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

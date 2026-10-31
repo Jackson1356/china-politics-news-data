@@ -1,0 +1,111 @@
+{
+  "id": "20260604-peoples_sd-b72c18",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_url": "http://sd.people.com.cn/n2/2026/0604/c166192-41600875.html",
+  "title_zh": "第八届全国青年企业家大会在济南开幕",
+  "title_en": "The 8th National Youth Entrepreneurs Conference Opens in Jinan",
+  "summary_zh": "6月3日，第八届全国青年企业家大会在济南开幕。全国政协副主席高云龙和山东省长周乃翔出席并致辞，强调支持民营经济发展与新质生产力。",
+  "summary_en": "The 8th National Youth Entrepreneurs Conference opened in Jinan on June 3. Gao Yunlong and Governor Zhou Naixiang attended and delivered speeches emphasizing the development of the private economy and new quality productive forces.",
+  "body_zh": "第八届全国青年企业家大会在济南开幕\n6月3日，第八届全国青年企业家大会在济南开幕，主题为“儒商传承 青创未来”。全国政协副主席、全国工商联主席高云龙，省委副书记、省长周乃翔出席并致辞。\n高云龙指出，党的二十届四中全会对“十五五”时期经济社会发展作出顶层设计，为民营经济发展壮大提供了广阔空间。青年企业家要坚定理想信念，把家国情怀融入事业发展，与民族复兴脉搏同频共振；要激扬创新锐气，以新质生产力驱动未来发展，在抢占科技制高点上实现新突破；要锻造现代治理能力，建立完善中国特色现代企业制度，筑牢行稳致远企业之基；要提升精神境界，彰显共同富裕时代担当，争做新时代青年企业家典范。\n周乃翔在致辞时说，近年来，我们深入贯彻落实习近平总书记关于民营经济发展的重要论述，坚持和落实“两个毫不动摇”，扎实开展服务民营企业专项行动，持续推动民营经济健康发展。青年企业家是民营经济发展的未来所在。我们愿与各位青年企业家一道，深化务实合作，共塑产业升级新优势、拓展内需市场新空间、打造创新驱动新引擎，同心书写民营经济高质量发展的时代新篇。\n2日下午，高云龙、周乃翔会见了出席本次大会的企业家代表。\n开幕式上，共青团中央书记处书记王艺致辞，省委常委、济南市委书记刘强作推介。全国工商联副主席汪鸿雁，省领导邓云锋、徐海荣、王随莲出席。知名企业家代表、全国工商联青年企业家委员会成员和各省青年企业家代表参加。（毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-06-04T12:00:00+00:00",
+  "event_date": "2026-06-03",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "economy",
+  "keywords": [
+    "民营经济",
+    "新质生产力",
+    "青年企业家"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gao-yunlong",
+      "name_zh": "高云龙",
+      "name_en": "Gao Yunlong"
+    },
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "institution",
+      "id": "ACFIC",
+      "name_zh": "全国工商联",
+      "name_en": "All-China Federation of Industry and Commerce"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营经济",
+      "name_en": "Private Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年企业家",
+      "name_en": "Youth Entrepreneurs"
+    }
+  ],
+  "tags_zh": [
+    "高云龙",
+    "周乃翔",
+    "全国工商联",
+    "济南",
+    "民营经济",
+    "新质生产力",
+    "青年企业家"
+  ],
+  "tags_en": [
+    "Gao Yunlong",
+    "Zhou Naixiang",
+    "All-China Federation of Industry and Commerce",
+    "Jinan",
+    "Private Economy",
+    "New Quality Productive Forces",
+    "Youth Entrepreneurs"
+  ],
+  "entities": {
+    "politicians": [
+      "gao-yunlong",
+      "zhou-naixiang",
+      "deng-yunfeng",
+      {
+        "id": null,
+        "name_zh": "王随莲"
+      }
+    ],
+    "institutions": [
+      "ACFIC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260604-peoples_sd-b72c18",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

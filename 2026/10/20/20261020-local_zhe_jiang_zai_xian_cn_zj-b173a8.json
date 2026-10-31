@@ -1,0 +1,96 @@
+{
+  "id": "20261020-local_zhe_jiang_zai_xian_cn_zj-b173a8",
+  "source": "local_zhe_jiang_zai_xian_cn_zj",
+  "source_name_zh": "浙江在线",
+  "source_name_en": "浙江在线",
+  "source_media_id": "cac-cn-zj-f8a922b59a",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-ZJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.cnr.cn/newscenter/dj/20261020/t20261020_527847918.shtml",
+  "title_zh": "增长4.6%背后：中国经济新动能孕育新机遇",
+  "title_en": "Behind 4.6% Growth: China's New Economic Drivers Breed New Opportunities",
+  "summary_zh": "国家统计局公布前三季度经济数据，GDP同比增长4.6%，高技术制造业增加值增长14.3%，新动能加速孕育。",
+  "summary_en": "China's GDP grew 4.6% year-on-year in the first three quarters, with high-tech manufacturing value-added up 14.3%, as new growth drivers take shape.",
+  "body_zh": "国家统计局公布的前三季度经济数据显示，GDP同比增长4.6%，三季度较二季度回升0.2个百分点，经济大盘总体稳定。特别值得一提的是，高技术制造业增加值增长14.3%，高于全部规模以上工业9个百分点。\n浙江德清：软磁新材料项目设备加紧调试\n4.6%与14.3%之间，不同的不仅是速度，更是结构正在发生变化的那条“暗线”。14.3%的增速意味着什么？从产品方面看，发布会给出了更具象的数据：3D打印设备产量增长62.5%，锂离子电池增长39.5%，工业机器人增长29.1%。发布会上有一句话――“动能向新、结构向优”，换言之，增长更快的那一部分，主要来自新动能、新产品。\n对于我们普通人来说，有哪些影响呢？当一个经济体的增量越来越多来自于高技术制造，它所创造的岗位、拉动的投资、带动的上下游产业发展，就不再遵循传统路径。譬如，在宁波一家汽车智慧工厂，一台人形工业机器人搬运料箱前往工位，电量降至警戒线时，它自行前往换电站，取下背部电池并更换为满电电池，随后返回产线。全程不足三分钟，并可实现24小时连续作业。这并非演示场景，而是已在多家汽车和3C工厂稳定作业的现实应用。工业机器人产量增长近三成，落到实际中，就是围绕机器人的安装、调试、维护及配套服务需求正在形成。\n类似的变化并不只发生在车间里。中国汽车工业协会10月12日发布数据，今年前三季度，我国汽车出口继续保持高速增长，汽车出口820.5万辆，同比增长65.8%，其中新能源汽车出口占比连续四个月超过50%。这一增速并非依靠价格竞争，其背后是电池、电机、电控整条产业链协同出海。汽车出口的高增长，正是观察这种变化的一个切口：新动能不是车间里的单点突破，是正以整条产业链的方式向外延伸。\n晶采观察，下期见！\n编审：伍刚\n统筹：王薇 赵净\n记者：王晶\n剪辑：夏雨菲（实习）杜文晗\n央广网“晶采观察工作室”出品",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "economy",
+  "keywords": [
+    "高技术制造业",
+    "新动能",
+    "新能源汽车出口"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术制造业",
+      "name_en": "High-tech Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新动能",
+      "name_en": "New Growth Drivers"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车出口",
+      "name_en": "NEV Exports"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "高技术制造业",
+    "新动能",
+    "新能源汽车出口"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "High-tech Manufacturing",
+    "New Growth Drivers",
+    "NEV Exports"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面看"
+      }
+    ],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261020-local_zhe_jiang_zai_xian_cn_zj-b173a8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+      "source_tier": 3,
+      "url": "https://news.cnjiwang.com/gnyw/202610/4091700.html",
+      "title_zh": "晶采观察丨增长4.6%背后！中国经济新动能孕育新机遇",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

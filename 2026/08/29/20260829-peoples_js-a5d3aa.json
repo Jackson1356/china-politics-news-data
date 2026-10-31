@@ -1,0 +1,84 @@
+{
+  "id": "20260829-peoples_js-a5d3aa",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0829/c360300-41680835.html",
+  "title_zh": "史志军任江苏省副省长",
+  "title_en": "Shi Zhijun Appointed Vice Governor of Jiangsu Province",
+  "summary_zh": "8月28日，江苏省人大常委会第二十四次会议任命史志军为省人民政府副省长。",
+  "summary_en": "On August 28, the 24th meeting of the Standing Committee of Jiangsu Provincial People's Congress appointed Shi Zhijun as Vice Governor of Jiangsu Province.",
+  "body_zh": "据江苏省人大网站消息，8月28日，江苏省第十四届人民代表大会常务委员会第二十四次会议通过，任命史志军为省人民政府副省长。\n史志军同志简要情况\n史志军，男，汉族，1969年4月生，中央党校大学，中共党员，现任副省长、省政府党组成员，淮安市委书记、市人大常委会主任。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任命",
+    "省级政府"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任命",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省级政府",
+      "name_en": "Provincial Government"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "江苏",
+    "人事任命",
+    "省级政府"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Jiangsu",
+    "Personnel Appointment",
+    "Provincial Government"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260829-peoples_js-a5d3aa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

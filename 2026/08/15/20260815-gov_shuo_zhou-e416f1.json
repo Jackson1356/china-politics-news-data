@@ -1,0 +1,96 @@
+{
+  "id": "20260815-gov_shuo_zhou-e416f1",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202608/t20260815_782755.shtml",
+  "title_zh": "朔州市委理论学习中心组举行集体学习",
+  "title_en": "Shuozhou Municipal Party Committee Theoretical Study Center Group Holds Collective Study",
+  "summary_zh": "8月13日，朔州市委理论学习中心组举行集体学习，市委书记王帅红主持，集中学习《习近平党建文选》和习近平强军思想。",
+  "summary_en": "On August 13, the Shuozhou Municipal Party Committee's Theoretical Study Center Group held a collective study session, chaired by Secretary Wang Shuaihong, focusing on Xi Jinping's selected works on Party building and his thought on strengthening the military.",
+  "body_zh": "8月13日，市委理论学习中心组举行集体学习，集中学习《习近平党建文选》重点篇目，认真学习习近平强军思想内涵要义。市委书记王帅红主持并讲话。市委副书记、市长吴秀玲等市领导出席。\n会议指出，要认真学习贯彻习近平党建思想，深刻认识持之以恒推进全面从严治党的重大意义，以更高标准、更实举措从严管党治党。要严格执行中央八项规定及其实施细则精神，健全权力运行监督制约机制，扎紧制度笼子，堵塞管理漏洞，引导党员干部永葆清正廉洁的政治本色。要一体推进不敢腐、不能腐、不想腐，始终坚持“零容忍”态度，严查政治问题和经济问题交织的腐败案件，结合朔州实际，着重抓好矿产资源、财政税务、医疗卫生、行政执法、开发区、工程建设和招投标等领域系统整治，坚决清除系统性腐败风险隐患。要完善“查、改、治”统筹机制，做深做实以案促改促治，建立经常性和集中性相结合的纪律教育机制，引导党员干部在遵规守纪、清正廉洁的前提下积极担当、放手干事。\n会议强调，要深刻领悟习近平强军思想的重大意义、核心要义和实践要求，把国防动员建设纳入全市经济社会发展全局统筹谋划，确保党管武装工作始终沿着正确方向前进。要着力提升国防动员和援战保战能力，紧贴朔州战略方向和任务需求，加强军地联合指挥演练和应急应战训练，提高兵员征集质量，夯实基层建设基础，不断提高基层人民武装工作建设水平。要持续深化全民国防教育，用好右玉精神、李林事迹等红色资源，讲好朔州红色文化、军事文化故事，突出抓好青少年国防教育，在全社会营造关心国防、热爱国防、建设国防、保卫国防的浓厚氛围。要不断擦亮“全国双拥模范城”金字招牌，用心用情为广大官兵排忧解难，不断巩固军政军民团结良好局面。\n（文/图 刘晓广 赵娟娟 薛礼伟）",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "全面从严治党",
+    "强军思想"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Comprehensive Strict Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强军思想",
+      "name_en": "Thought on Strengthening the Military"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "党的建设",
+    "全面从严治党",
+    "强军思想",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Party Building",
+    "Comprehensive Strict Party Governance",
+    "Thought on Strengthening the Military"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王帅红"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260815-gov_shuo_zhou-e416f1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

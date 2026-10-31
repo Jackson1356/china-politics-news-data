@@ -1,0 +1,96 @@
+{
+  "id": "20260918-gov_si_ping-84daa4",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/zw/spdt/202609/t20260918_775823.html",
+  "title_zh": "四平市委常委会会议传达学习习近平总书记重要文章精神",
+  "title_en": "Siping Municipal Party Committee Meeting Studies Xi Jinping's Article on Party Governance Responsibility",
+  "summary_zh": "9月17日，四平市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在《求是》发表的重要文章《坚持落实管党治党政治责任》精神，研究贯彻落实意见。",
+  "summary_en": "On Sept 17, Siping Party Secretary Wang Xiangmin chaired a meeting of the municipal Party committee standing committee to study Xi Jinping's article on upholding Party governance responsibility and discuss implementation.",
+  "body_zh": "2026-09-18\n9月17日，市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在《求是》杂志上发表的重要文章《坚持落实管党治党政治责任》精神，研究我市贯彻落实意见。\n会议指出，习近平总书记的重要文章深刻回答了管党治党政治责任是什么、为什么重要、怎样落实等重大问题，为我们在新征程上纵深推进全面从严治党提供了根本遵循。要认真学习领会、抓好贯彻落实，切实把思想和行动统一到习近平总书记重要指示精神上来。\n会议强调，要知责明责，深刻认识管党治党是最根本的政治责任，站在坚定拥护“两个确立”、坚决做到“两个维护”的高度，自觉校准思想坐标，把牢管党治党正确方向，持续提升党的创造力、凝聚力、战斗力。要担责尽责，市委常委同志带头履行管党治党责任，拧紧管党治党责任链条，真正做到党建工作与业务工作同谋划、同部署、同推进、同考核，推动各层级、各领域责任贯通联动、一体落实，形成一级抓一级、层层抓落实的工作格局。要验责追责，进一步健全责任落实的考评体系，把党建工作成效作为评价领导班子和领导干部的重要依据，立起管党治党鲜明标尺，强化结果运用，让“抓好党建是最大政绩”成为全市上下的思想共识和行动自觉。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "管党治党",
+    "党建责任"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "管党治党",
+      "name_en": "Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建责任",
+      "name_en": "Party Building Responsibility"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四平",
+    "全面从严治党",
+    "管党治党",
+    "党建责任",
+    "习近平"
+  ],
+  "tags_en": [
+    "Siping",
+    "Full and Rigorous Party Governance",
+    "Party Governance",
+    "Party Building Responsibility"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王相民"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260918-gov_si_ping-84daa4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20260821-gov_huang_shi-fea6c2",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huangshi.gov.cn/xwdt/hsyw/202608/t20260821_1352567.html",
+  "title_zh": "全市深化扫黑除恶专项斗争会议召开",
+  "title_en": "City Convening Meeting on Deepening Special Campaign Against Gang Crime",
+  "summary_zh": "8月20日，黄石市召开深化扫黑除恶专项斗争会议，市委常委、政法委书记李文波出席并讲话，副市长、公安局局长黄志勇主持。",
+  "summary_en": "On August 20, Huangshi held a meeting to deepen the special campaign against gang crime. Li Wenbo, member of the Standing Committee and head of the Political and Legal Affairs Commission, attended and spoke; Huang Zhiyong, vice mayor and public security bureau chief, presided.",
+  "body_zh": "20日，全市深化扫黑除恶专项斗争会议召开，市委常委、市委政法委书记李文波出席会议并讲话。副市长、市公安局局长黄志勇主持会议。\n李文波指出，近年来，在市委坚强领导下，我市扫黑除恶工作特别是全市集中攻坚行动取得明显成效，有效遏制了黑恶犯罪势头，社会治安形势持续向好，人民群众安全感不断提升。\n李文波强调，要认清形势、正视问题，切实增强深化扫黑除恶专项斗争责任感紧迫感。要提高站位、强化认识，准确把握专项斗争的目标要求，坚决打好新时代扫黑除恶斗争主动战、总体战。要突出重点、精准施策，聚焦线索清仓、破案攻坚、打伞破网、黑财清理、乱象根治五个方面，拧紧责任链条，细化工作措施，形成工作合力，推动深化扫黑除恶专项斗争走深走实、落地见效，为我市“建设增长极、打造中心城、合力建支点”营造安全稳定的政治社会环境。\n市中级人民法院院长郭龙梅，市人民检察院党组书记周伟参加会议。（胡波）",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "discipline",
+  "keywords": [
+    "扫黑除恶",
+    "社会治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李文波",
+      "name_en": "Li Wenbo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Anti-Gang Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会治理",
+      "name_en": "Social Governance"
+    },
+    {
+      "kind": "person",
+      "id": "zhou-wei-changzhou",
+      "name_zh": "周伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李文波",
+    "扫黑除恶",
+    "社会治理",
+    "周伟"
+  ],
+  "tags_en": [
+    "Li Wenbo",
+    "Anti-Gang Crime",
+    "Social Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-wei-changzhou",
+      {
+        "id": null,
+        "name_zh": "李文波"
+      },
+      {
+        "id": null,
+        "name_zh": "黄志勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260821-gov_huang_shi-fea6c2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

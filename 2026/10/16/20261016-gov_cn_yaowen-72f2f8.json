@@ -1,0 +1,83 @@
+{
+  "id": "20261016-gov_cn_yaowen-72f2f8",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083375.htm",
+  "title_zh": "第140届广交会开展 吸引境外采购商约34万名",
+  "title_en": "140th Canton Fair Opens in Guangzhou, Attracting About 340,000 Overseas Buyers",
+  "summary_zh": "第140届中国进出口商品交易会10月15日在广州开展，约3.2万家企业参展，约34万名境外采购商到会，第一期以“先进制造”为主题。",
+  "summary_en": "The 140th China Import and Export Fair opened in Guangzhou on Oct 15, with about 32,000 exhibitors and some 340,000 overseas buyers; its first phase focuses on advanced manufacturing.",
+  "body_zh": "第140届中国进出口商品交易会（以下简称“广交会”）于10月15日在广州开展。本届广交会总计约3.2万家企业参展，约34万名境外采购商到会采购。其中，第一期主题为“先进制造”，参展企业超1.2万家，高新技术、专精特新、单项冠军等优质参展企业超6000家。\n第一期展览紧扣“新、绿、智”发展趋势，聚焦新能源、智能制造、具身智能等全球采购热点，设置服务机器人、无人机、显示技术等17个新兴未来产业专区，同时汇聚新型储能、高端芯片、人工智能可视化产品等新质生产力发展成果。在贸易服务展区，围绕生产性服务业设9个贸易服务专区，首次实现十大类生产性服务业全覆盖。\n本届广交会于10月15日至11月4日分三期举办，计划举办超700场新品首发活动，发布产品数增长15%，首设新品首发展示区。（综合记者罗珊珊、李刚、洪秋婷报道）",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "先进制造",
+    "对外贸易",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "广州",
+    "先进制造",
+    "对外贸易",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Guangzhou",
+    "Advanced Manufacturing",
+    "Foreign Trade",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_cn_yaowen-72f2f8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20261018-gov_cn_yaowen-ceb2c8",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083575.htm",
+  "title_zh": "今年前三季度全国铁路发送旅客超37亿人次",
+  "title_en": "National Railway Passenger Trips Exceed 3.7 Billion in First Three Quarters",
+  "summary_zh": "10月18日，中国国家铁路集团公布，今年前三季度全国铁路发送旅客37.1亿人次，同比增长4.8%，创历史同期新高。",
+  "summary_en": "China State Railway Group said on Oct 18 that national railways carried 3.71 billion passenger trips in the first three quarters, up 4.8% year on year and a record high for the period.",
+  "body_zh": "新华社北京10月18日电（记者 樊曦）记者18日从中国国家铁路集团有限公司获悉，今年前三季度，全国铁路累计发送旅客37.1亿人次、同比增长4.8%，创历史同期新高。\n今年以来，铁路部门统筹高速铁路和普速铁路资源，充分挖掘运输潜力，动态分析铁路12306购票大数据，及时在热门方向和区段增加运力投放。前三季度，全国铁路日均安排开行旅客列车11511列，同比增长5.3%，圆满完成春运、暑运和清明、五一、端午、中秋等假期运输，较好地服务了旅客假日出行。\n与此同时，铁路部门主动对接旅游观光、生态康养、红色研学等市场需求，助力旅客乘火车“乐游中国”，有力服务了旅游经济发展。前三季度，全国铁路累计开行旅游列车2860列，同比增长25.5%，其中旅游专列1613列、旅游专线列车1247列。精准对接各地赛事、展会、文艺演出等活动安排，开行“歌迷专列”“球迷专列”等947列，激活“主题列车+”经济，有效带动餐饮、酒店、文旅等产业发展。\n在跨境客运组织方面，广深港高铁、中老铁路分别发送跨境旅客2584.5万、26.5万人次，同比分别增长11.8%、37.8%。铁路部门积极适应国家过境免签政策带来的入境客流，为外籍旅客出行提供便利，全国铁路发送外籍旅客1900.2万人次、同比增长33.4%。",
+  "image_url": null,
+  "published_at": "2026-10-18T12:00:00+00:00",
+  "event_date": "2026-10-18",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路客运",
+    "旅游经济",
+    "跨境客运"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路客运",
+      "name_en": "Railway Passenger Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游经济",
+      "name_en": "Tourism Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境客运",
+      "name_en": "Cross-border Passenger Transport"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路客运",
+    "旅游经济",
+    "跨境客运"
+  ],
+  "tags_en": [
+    "China State Railway Group",
+    "Railway Passenger Transport",
+    "Tourism Economy",
+    "Cross-border Passenger Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261018-gov_cn_yaowen-ceb2c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

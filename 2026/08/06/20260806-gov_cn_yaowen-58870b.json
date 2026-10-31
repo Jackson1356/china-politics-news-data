@@ -1,0 +1,74 @@
+{
+  "id": "20260806-gov_cn_yaowen-58870b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077576.htm",
+  "title_zh": "上半年我国服务出口增长17.6%",
+  "title_en": "China's Service Exports Grow 17.6% in H1",
+  "summary_zh": "商务部数据显示，今年上半年我国服务进出口总额超3.77万亿元，同比增长8.3%；其中服务出口增长17.6%，贸易逆差收窄。",
+  "summary_en": "According to the Ministry of Commerce, China's total service imports and exports reached 3.78 trillion yuan in H1, up 8.3% year-on-year, with exports up 17.6% and trade deficit narrowing.",
+  "body_zh": "记者从商务部获悉：1—6月，我国服务进出口总额37797.5亿元，同比增长8.3%。\n其中，出口15047亿元，增长17.6%；进口22750.5亿元，增长2.9%。服务贸易逆差7703.5亿元，比上年同期缩小1614.2亿元。\n1—6月，知识密集型服务进出口16634亿元，增长6.7%，占服务进出口总额的44%。知识密集型服务出口8056.7亿元，增长12.8%，占服务出口总额的53.5%。知识密集型服务进口8577.3亿元，增长1.4%。\n1—6月，旅行服务出口2292亿元，增长31.1%，在前五大服务出口领域中增速最快；运输服务进口4981亿元，增长30.4%，在前五大服务进口领域中增速最快。（记者 罗珊珊）",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "服务贸易",
+    "知识密集型服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Service Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "知识密集型服务",
+      "name_en": "Knowledge-intensive Services"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "服务贸易",
+    "知识密集型服务"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Service Trade",
+    "Knowledge-intensive Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260806-gov_cn_yaowen-58870b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20261031-chinanews_gn-942285",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-31/10723897.shtml",
+  "title_zh": "梦舟载人飞船和揽月着陆器将首次飞行 载人登月任务最新进展",
+  "title_en": "Mengzhou Spacecraft and Lanyue Lander to Make Maiden Flights as China's Crewed Lunar Mission Advances",
+  "summary_zh": "10月31日，第七届载人航天学术大会在北京开幕，会上介绍中国空间站常态化运营、载人登月任务等最新进展，后续将实施梦舟飞船与揽月着陆器首次飞行等任务。",
+  "summary_en": "The 7th Manned Space Academic Conference opened in Beijing on Oct 31, highlighting the steady operation of China's space station and progress toward a crewed lunar landing by 2030, with maiden flights of the Mengzhou spacecraft and Lanyue lander planned.",
+  "body_zh": "梦舟载人飞船和揽月着陆器将首次飞行 载人登月任务最新进展→\n今天，第七届载人航天学术大会在北京开幕，载人航天相关领域800多名专家学者共话数智赋能载人航天高质量发展。\n本届载人航天学术大会以“智汇星河，数智赋能载人航天高质量发展”为主题。邀请院士、国内相关领域知名专家和航天员代表，围绕空间站运行与应用、月球科学与探测、航天领域数字化等内容作主旨报告。\n目前，中国空间站在轨运行稳定、效益发挥良好，已全面进入常态化运营与高质量发展阶段。已在轨部署和实施二百多项科学与应用项目，涉及空间生命领域、空间材料科学领域、微重力基础物理领域、微重力流体及燃烧科学等领域。不久的将来，中国空间站将迎来首位外籍航天员和低成本货物运输系统的访问。\n月球探测工程也顺利完成整合、开启新的征程。中国月球探测工程登月阶段任务各项研制建设工作正在扎实推进。计划2030年前实现中国人首次登陆月球，开展月球科学考察及相关技术试验，突破掌握载人地月往返、月面短期驻留、人机联合探测等关键技术，完成“登、巡、采、研、回”等多重任务，形成独立自主的载人月球探测能力。\n今年年初，成功实施了长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验，为后续可重复使用载人天地往返运输系统和载人登月打下了坚实基础。后续，工程还将按计划组织完成长征十号运载火箭技术验证飞行、梦舟载人飞船和揽月着陆器首次飞行、嫦娥七号等重要任务。\n国内新闻精选：\n- 2026年10月31日 14:37:20\n- 2026年10月30日 17:44:45\n- 2026年10月30日 16:32:19\n- 2026年10月30日 11:37:33\n- 2026年10月30日 09:35:02\n- 2026年10月30日 09:27:16\n- 2026年10月30日 07:34:32\n- 2026年10月29日 21:27:16\n- 2026年10月29日 16:37:37\n- 2026年10月29日 15:56:09",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-31",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "industry",
+  "keywords": [
+    "载人登月",
+    "空间站运营",
+    "航天科技"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人登月",
+      "name_en": "Crewed Lunar Landing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空间站运营",
+      "name_en": "Space Station Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航天科技",
+      "name_en": "Aerospace Technology"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "载人登月",
+    "空间站运营",
+    "航天科技"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Crewed Lunar Landing",
+    "Space Station Operations",
+    "Aerospace Technology"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261031-chinanews_gn-942285",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723927.shtml",
+      "title_zh": "800余位专家学者齐聚第七届载人航天学术大会",
+      "published_at": "2026-10-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

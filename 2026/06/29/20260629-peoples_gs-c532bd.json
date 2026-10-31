@@ -1,0 +1,88 @@
+{
+  "id": "20260629-peoples_gs-c532bd",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0629/c183342-41623894.html",
+  "title_zh": "五部门联合启动工业5G独立专网试点",
+  "title_en": "Five Departments Jointly Launch Industrial 5G Standalone Private Network Pilot",
+  "summary_zh": "工业和信息化部等五部门近日联合印发通知，在原材料、装备制造等行业的大型企业中开展工业5G独立专网试点，助力“5G+工业互联网”赋能千行百业。",
+  "summary_en": "Five departments, including the Ministry of Industry and Information Technology, launched a pilot for industrial 5G standalone private networks for large enterprises to empower various industries via \"5G + Industrial Internet\".",
+  "body_zh": "五部门联合启动工业5G独立专网试点\n本报北京电（记者王俊岭）记者日前获悉，工业和信息化部等五部门日前联合印发通知，开展工业5G独立专网试点，进一步满足特殊行业领域、大型特大型企业对信息通信网络和关键生产数据等管理需求，助力“5G+工业互联网”赋能千行百业。\n工业5G独立专网是指由工业企业主导建设接入网、核心网等关键设施，可不依赖于公网独立运行的企业专属5G网络。通知明确，支持原材料、装备制造、消费品、电子信息、国防科技、能源交通等行业领域的大型特大型企业建设独立专网，鼓励“5G+工业互联网”融合应用城市试点率先开展独立专网建设工作。\n通知围绕部署基础设施、创新应用场景、建设管理平台、探索建设模式、做好安全保障等推出一系列举措，包括积极挖掘高速传输、超低时延、通感一体、无源物联、高精定位、网络智能等5G/5G演进（5G-A）技术特性的应用潜力；建设独立专网管理运维平台；推动零信任、内生安全、商用密码等创新应用。",
+  "image_url": null,
+  "published_at": "2026-06-29T12:00:00+00:00",
+  "event_date": "2026-06-29",
+  "ingested_at": "2026-06-29T09:16:56Z",
+  "topic": "industry",
+  "keywords": [
+    "工业5G独立专网",
+    "5G+工业互联网"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业5G独立专网",
+      "name_en": "Industrial 5G Standalone Private Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "5G+工业互联网",
+      "name_en": "5G + Industrial Internet"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "北京",
+    "工业5G独立专网",
+    "5G+工业互联网"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Beijing",
+    "Industrial 5G Standalone Private Network",
+    "5G + Industrial Internet"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260629-peoples_gs-c532bd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0629/c378440-41623691.html",
+      "title_zh": "五部门联合启动工业5G独立专网试点",
+      "published_at": "2026-06-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "20261014-xinhua_politics-fbbac9",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261014/927dc3117eba489599ae321118460299/c.html",
+  "title_zh": "我国发布15项氢能国家标准",
+  "title_en": "China Releases 15 National Hydrogen Energy Standards",
+  "summary_zh": "国家市场监督管理总局10月14日通报，集中发布15项氢能国家标准，覆盖制氢、储运、加氢及安全检测全链条。",
+  "summary_en": "China's State Administration for Market Regulation announced on Oct 14 the release of 15 national hydrogen energy standards covering production, storage, transport, refueling, and safety.",
+  "body_zh": "新华社北京10月14日电（记者戴小河）国家市场监督管理总局14日通报，市场监管总局近日集中发布一批氢能领域国家标准，覆盖氢能产业全链条，将进一步完善我国氢能产业标准体系，为氢能规模化、规范化发展提供有力支撑。\n这批新发布的国家标准共15项，包括《可再生能源电解水制氢系统技术要求》《燃料转化制氢装置 第1部分：安全》等制氢环节标准，《氢气储存输送系统 第5部分：氢气输送系统技术要求》《天然气管道掺氢输送技术要求》《输氢管道系统完整性管理技术要求》《氢气管道焊接接头氢相容性试验方法》《氢透平膨胀机技术要求》等氢储运标准，《氢气加氢站 第5部分：加氢软管与软管组件》《氢气加氢站 第7部分：橡胶O形圈》《氢气加氢站 第8部分：氢燃料质量控制要求》《加氢站用氢气压缩机测试方法》《压缩氢气车辆加注连接装置》《质子交换膜燃料电池汽车用氢气采样技术要求》等加氢站标准，以及《氢系统泄漏检测方法》《固定式氢气探测装置》等应用与安全检测标准。\n从内容看，这批标准补齐了关键短板，对氢气管道焊接、掺氢输送、输氢管道完整性管理等长期制约氢能规模化储运的技术难题作出统一规范。织密加氢站标准网络，从压缩机、软管、密封件到氢燃料质量控制、车辆加注连接，逐项明确加氢基础设施的技术要求。强化安全底线，通过泄漏检测、固定式氢气探测等标准，对涉氢全流程安全监测提出明确要求。\n这15项国家标准将有效提升我国氢能装备制造水平和产业准入门槛，促进技术迭代与市场应用协同推进，助推氢能在交通、工业、发电等领域加速落地，为我国能源绿色低碳转型和实现“双碳”目标注入新动能。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "industry",
+  "keywords": [
+    "氢能产业",
+    "国家标准",
+    "清洁能源",
+    "双碳目标"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "氢能产业",
+      "name_en": "Hydrogen Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双碳目标",
+      "name_en": "Carbon Peaking and Carbon Neutrality Goals"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "北京",
+    "氢能产业",
+    "国家标准",
+    "清洁能源",
+    "双碳目标"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Beijing",
+    "Hydrogen Industry",
+    "National Standards",
+    "Clean Energy",
+    "Carbon Peaking and Carbon Neutrality Goals"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261014-xinhua_politics-fbbac9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "20260530-xinhua_ha-c6d76b",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_url": "http://ha.news.cn/20260531/100ff2d5be71487fbf2ccb0c640809f0/c.html",
+  "title_zh": "全省“三夏”工作视频调度会召开",
+  "title_en": "Provincial Video Scheduling Meeting on \"Three Summer\" Agricultural Work Held",
+  "summary_zh": "5月30日，四川省政府召开全省“三夏”工作视频调度会，部署夏收、夏种及安全工作，省委书记刘宁作出批示。",
+  "summary_en": "On May 30, the Sichuan Provincial Government held a video scheduling meeting on \"Three Summer\" agricultural work to deploy summer harvesting, planting, and safety measures, with instructions from Provincial Party Secretary Liu Ning.",
+  "body_zh": "全省“三夏”工作视频调度会召开\n刘宁作出批示\n5月30日，省政府召开全省“三夏”工作视频调度会，调度重点地市小麦适时收获、夏粮收购等情况，分析研判生产形势，安排部署下步重点工作。省委书记刘宁作出批示。\n副省长李酌主持会议并讲话。\n会议强调，当前，我省小麦从南到北开始大面积收割，“三夏”生产正处于紧要关头，是麦收的窗口期、关键期、攻坚期。要抢抓农时抓好夏收，立足于抢、着眼于快，做到成熟一块、收获一块，高效推进夏收作业。要千方百计抓好晾晒，各地要利用好空置厂房等资源，方便群众晾晒；同时，要加强群众引导，增加烘干比例，确保小麦品质。要科学有序抓好收购，提高种粮农民收益，保护种粮农民积极性，维护粮食市场平稳运行。要抢时抢墒抓好夏种，利用天气、墒情等有利条件，加快秋作物播种进度，同时坚持种子下田、管字上马，夯实秋粮生产基础。要严防死守抓好安全，严抓麦田防火、狠抓农机作业安全，全方位守护“三夏”生产安全。要持续加力抓好宣传，营造良好氛围。\n会议还对抗旱防涝工作进行强调。（全媒体记者 栾姗 刘一洁）",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-30",
+  "ingested_at": "2026-05-31T08:01:48Z",
+  "topic": "economy",
+  "keywords": [
+    "三夏",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-ning-henan",
+      "name_zh": "刘宁",
+      "name_en": "Liu Ning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三夏",
+      "name_en": "Three Summer"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "刘宁",
+    "三夏",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "Liu Ning",
+    "Three Summer",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-ning-henan",
+      {
+        "id": null,
+        "name_zh": "李酌"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260530-xinhua_ha-c6d76b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0531/c351638-41596577.html",
+      "title_zh": "河南省“三夏”工作视频调度会召开",
+      "published_at": "2026-05-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

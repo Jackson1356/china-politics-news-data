@@ -1,0 +1,102 @@
+{
+  "id": "20260928-chinanews_gn-2e33d6",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-28/10705109.shtml",
+  "title_zh": "应急管理部针对重庆、陕西启动国家地质灾害四级应急响应",
+  "title_en": "Ministry of Emergency Management Activates Level IV National Geological Disaster Emergency Response for Chongqing and Shaanxi",
+  "summary_zh": "2026年9月28日，应急管理部针对重庆、陕西启动国家地质灾害四级应急响应，要求强化风险监测、隐患排查和转移避险，做好抢险救援准备。",
+  "summary_en": "On Sept 28, 2026, China's Ministry of Emergency Management activated a Level IV national geological disaster emergency response for Chongqing and Shaanxi, ordering intensified risk monitoring, hazard inspections and evacuation preparations.",
+  "body_zh": "应急管理部针对重庆、陕西启动国家地质灾害四级应急响应\n应急管理部要求，相关地区要增强风险意识、强化底线思维，全面抓实抓细地质灾害防范应对工作，压紧压实责任，强化多部门会商研判和协同联动。密切监视雨情汛情和地质灾害风险变化趋势，严格落实“灾害点+风险区”双控管理，对山区沟口、临崖陡坡、施工工地、旅游景区等重点部位加强排查，强化预警叫应，坚决果断实施转移避险，做到应转尽转、应转早转。同时要前置预置抢险救援力量和救灾物资，下沉力量加强对基层的指导帮扶，全面做好应急准备，确保人民群众生命财产安全。\n国内新闻精选：\n- 2026年09月29日 16:46:58\n- 2026年09月29日 13:27:44\n- 2026年09月29日 12:17:31\n- 2026年09月29日 10:35:29\n- 2026年09月29日 10:33:23\n- 2026年09月28日 16:53:24\n- 2026年09月28日 15:54:28\n- 2026年09月28日 14:57:02\n- 2026年09月27日 16:07:16\n- 2026年09月27日 11:15:16",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害防范",
+    "应急响应",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害防范",
+      "name_en": "Geological Disaster Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "重庆",
+    "陕西",
+    "地质灾害防范",
+    "应急响应",
+    "防灾减灾"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Chongqing",
+    "Shaanxi",
+    "Geological Disaster Prevention",
+    "Emergency Response",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-CQ",
+      "CN-SN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260928-chinanews_gn-2e33d6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

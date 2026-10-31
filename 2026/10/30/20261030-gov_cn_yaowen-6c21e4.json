@@ -1,0 +1,83 @@
+{
+  "id": "20261030-gov_cn_yaowen-6c21e4",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084569.htm",
+  "title_zh": "国务院任免国家工作人员（2026年10月30日）",
+  "title_en": "State Council Announces Appointments and Removals of State Personnel",
+  "summary_zh": "2026年10月30日，国务院任免一批国家工作人员，任命王守利、张力、冯鹏志分别担任国家民族事务委员会副主任、国际贸易谈判副代表、国家行政学院教育长，并免去李忠、秦海翔、陈荣辉等人职务。",
+  "summary_en": "On October 30, 2026, China's State Council announced a round of personnel changes, appointing Wang Shouli, Zhang Li and Feng Pengzhi to senior posts and removing Li Zhong, Qin Haixiang, Chen Ronghui and others from their positions.",
+  "body_zh": "国务院任免国家工作人员。\n任命王守利为国家民族事务委员会副主任；任命张力为中华人民共和国国际贸易谈判副代表（副部长级）；任命冯鹏志为国家行政学院教育长（副部长级）。\n免去李忠的人力资源和社会保障部副部长职务；免去秦海翔的住房和城乡建设部副部长职务；免去张力的商务部部长助理职务；免去陈荣辉的国家数据局副局长职务。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "干部调整",
+    "国家机构"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部调整",
+      "name_en": "Cadre Reshuffle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家机构",
+      "name_en": "State Institutions"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "人事任免",
+    "干部调整",
+    "国家机构"
+  ],
+  "tags_en": [
+    "State Council",
+    "Personnel Appointments",
+    "Cadre Reshuffle",
+    "State Institutions"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261030-gov_cn_yaowen-6c21e4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

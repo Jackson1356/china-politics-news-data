@@ -1,0 +1,92 @@
+{
+  "id": "20260625-xinhua_sd-9a7de1",
+  "source": "xinhua_sd",
+  "source_name_zh": "新华网 山东",
+  "source_name_en": "Xinhua Shandong",
+  "source_url": "https://www.news.cn/politics/leaders/20260625/9e9edaf6034c422da44c4309061f4857/c.html",
+  "title_zh": "习近平在山东德州调研三夏生产工作",
+  "title_en": "Xi Jinping Inspects Summer Farming Production in Dezhou, Shandong",
+  "summary_zh": "6月24日上午，习近平总书记在山东省德州市陵城区调研，听取三夏生产工作汇报，了解小麦收成、玉米种植及农资供应情况。",
+  "summary_en": "On the morning of June 24, General Secretary Xi Jinping visited Dezhou, Shandong Province, to inspect summer farming production and learn about wheat harvests and corn planting.",
+  "body_zh": "6月24日上午，习近平总书记来到山东省德州市陵城区边临镇东于架村，听取当地“三夏”生产工作汇报，了解小麦收成、玉米种植、农资供应等情况。\n让我们循着总书记的脚步，走进六月的田野，听丰收、听耕耘、听希望，听一个农业大国生生不息的脉动。\n编导：潘一景\n记者：谢环驰、燕雁、黄玥、王欢、叶婧\n视觉：郝晓静、高松龄\n新华社国内部制作\n新华社第一工作室出品\n让我们循着总书记的脚步，走进六月的田野，听丰收、听耕耘、听希望，听一个农业大国生生不息的脉动。\n编导：潘一景\n记者：谢环驰、燕雁、黄玥、王欢、叶婧\n视觉：郝晓静、高松龄\n新华社国内部制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "三夏生产",
+    "农业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德州",
+      "name_en": "Dezhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三夏生产",
+      "name_en": "Summer Farming Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业",
+      "name_en": "Agriculture"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "山东",
+    "德州",
+    "三夏生产",
+    "农业"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shandong",
+    "Dezhou",
+    "Summer Farming Production",
+    "Agriculture"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "于架村"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260625-xinhua_sd-9a7de1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

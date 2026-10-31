@@ -1,0 +1,124 @@
+{
+  "id": "20260929-peoples_politics-f5c689",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0929/c1001-40807036.html",
+  "title_zh": "张升民会见王戟同志先进事迹报告团成员并讲话",
+  "title_en": "Zhang Shengmin Meets Members of Wang Ji's Advanced Deeds Report Team and Delivers Remarks",
+  "summary_zh": "9月28日，中央军委副主席张升民在北京人民大会堂会见“时代楷模”王戟同志先进事迹报告团成员并讲话。",
+  "summary_en": "On September 28, Central Military Commission Vice Chairman Zhang Shengmin met with members of the report team on the advanced deeds of \"Model of the Times\" Wang Ji at the Great Hall of the People in Beijing and delivered remarks.",
+  "body_zh": "张升民会见王戟同志先进事迹报告团成员并讲话\n新华社北京9月28日电 中央宣传部、教育部、科技部、国家国防科工局、中央军委政治工作部、湖南省委28日在人民大会堂联合举行“时代楷模”王戟同志先进事迹报告会。中央军委副主席张升民在报告会前会见报告团成员，代表习近平主席和中央军委，向王戟同志和报告团全体成员致以亲切问候。\n张升民指出，王戟同志是在习近平强军思想引领下涌现出来的先进典型，是生命不息、冲锋不止的科研尖兵。全军部队要坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂，深入贯彻习近平强军思想，广泛开展向王戟同志学习活动，引导官兵坚定拥护“两个确立”、坚决做到“两个维护”，贯彻军委主席负责制，扎实推进各项工作和建设，以崭新政治面貌和优异成绩迎接建军一百周年。\n《 人民日报 》（ 2026年09月29日 04 版）",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "party",
+  "keywords": [
+    "时代楷模",
+    "强军思想",
+    "先进典型宣传"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-shengmin",
+      "name_zh": "张升民",
+      "name_en": "Zhang Shengmin"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王戟",
+      "name_en": "Wang Ji"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央军委",
+      "name_en": "Central Military Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Publicity Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "时代楷模",
+      "name_en": "Model of the Times"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强军思想",
+      "name_en": "Thought on Strengthening the Military"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进典型宣传",
+      "name_en": "Promotion of Advanced Models"
+    }
+  ],
+  "tags_zh": [
+    "张升民",
+    "王戟",
+    "中央军委",
+    "中央宣传部",
+    "北京",
+    "时代楷模",
+    "强军思想",
+    "先进典型宣传"
+  ],
+  "tags_en": [
+    "Zhang Shengmin",
+    "Wang Ji",
+    "Central Military Commission",
+    "Publicity Department of the CPC Central Committee",
+    "Beijing",
+    "Model of the Times",
+    "Thought on Strengthening the Military",
+    "Promotion of Advanced Models"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-shengmin"
+    ],
+    "institutions": [
+      "CCPD"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央军委",
+        "name_en": "Central Military Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260929-peoples_politics-f5c689",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

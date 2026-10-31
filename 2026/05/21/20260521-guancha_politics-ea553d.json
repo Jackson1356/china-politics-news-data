@@ -1,0 +1,103 @@
+{
+  "id": "20260521-guancha_politics-ea553d",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_25_818335.shtml",
+  "title_zh": "“助长学术腐败”的张尧学被撤销中国工程院院士称号",
+  "title_en": "Zhang Yaoxue's Academician Title Revoked for 'Fueling Academic Corruption'",
+  "summary_zh": "2026年5月21日至22日，中南大学原校长张尧学因严重违纪违法被开除党籍和公职，并被中国工程院撤销院士称号。",
+  "summary_en": "From May 21 to 22, 2026, Zhang Yaoxue, former president of Central South University, was expelled from the Party and public office and had his academician title revoked by the Chinese Academy of Engineering for serious disciplinary violations.",
+  "body_zh": "“助长学术腐败”的张尧学，被撤销中国工程院院士称号\n5月21日，中央纪委国家监委网站公布：中南大学原党委常委、校长张尧学严重违纪违法被开除党籍和公职。\n5月22日，中国工程院网站发布消息，根据中国工程院有关规定，决定自2026年5月21日起撤销张尧学的院士称号。\n中央纪委国家监委通报指出，经查，张尧学丧失理想信念，背弃初心使命，对抗组织审查；违反中央八项规定精神，违规接受宴请；在组织函询时不如实说明问题，在干部选拔任用、授予学术称号、荣誉表彰等工作中为他人谋取利益并收受财物，助长学术领域不正之风和腐败问题；廉洁底线失守，违规收受礼品、礼金；毫无纪法底线，将公权力异化为谋取私利的工具，大肆收钱敛财，利用职务便利为他人在企业经营、职务提拔等方面谋利，并非法收受巨额财物。\n去年10月，张尧学被查。\n公开简历显示，张尧学，男，汉族，1956年1月出生，湖南澧县人，1976年10月参加工作，日本东北大学博士研究生毕业，工学博士，教授，博士研究生导师。\n据界面新闻报道，1999年至2001年，张尧学任教育部科技司主持工作的副司长、司长。2001年至2009年任教育部高教司司长，履新前任国务院学位委员会委员、副秘书长、办公室主任，同时兼任清华大学教授、博士生导师。2009年6月至2011年10月任国务院学位委员会办公室主任、教育部学位管理与研究生教育司司长。2011年11月，张尧学获任中南大学校长，至2017年6月卸任。\n张尧学是我国计算机领域的知名专家，2007年当选为中国工程院院士。他领导完成的“透明计算——网络计算的模式及基础理论研究”荣获2014年度国家自然科学奖一等奖。此外，张尧学还曾获得国家技术发明奖二等奖一项、国家科技进步二等奖两项，获IEEE AINA07最佳论文奖、何梁何利科技进步奖、美国IET教育基金会教育领先奖以及亚洲开放大学联合会功勋服务奖等奖项。\n本文系观察者网独家稿件，未经授权，不得转载。\n985博士暗通间谍组织，被判15年",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "discipline",
+  "keywords": [
+    "学术腐败",
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张尧学",
+      "name_en": "Zhang Yaoxue"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "CAE",
+      "name_zh": "中国工程院",
+      "name_en": "Chinese Academy of Engineering"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中南大学",
+      "name_en": "Central South University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学术腐败",
+      "name_en": "Academic Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "张尧学",
+    "中央纪委国家监委",
+    "中国工程院",
+    "中南大学",
+    "学术腐败",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Zhang Yaoxue",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Chinese Academy of Engineering",
+    "Central South University",
+    "Academic Corruption",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAE"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      },
+      {
+        "name_zh": "中南大学",
+        "name_en": "Central South University"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260521-cpcnews-79298a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

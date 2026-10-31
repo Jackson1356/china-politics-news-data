@@ -1,0 +1,102 @@
+{
+  "id": "20261011-beijing_daily-2a385c",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/11/11990996.shtml",
+  "title_zh": "广东省省长孟凡利会见库克",
+  "title_en": "Guangdong Governor Meng Fanli Meets with Tim Cook",
+  "summary_zh": "10月11日，广东省省长孟凡利在广州会见美国苹果公司执行董事长蒂姆·库克一行，双方就扩大在粤业务布局与供应链合作交换意见。",
+  "summary_en": "On October 11, Guangdong Governor Meng Fanli met in Guangzhou with Apple Executive Chairman Tim Cook, discussing expanded business and supply chain cooperation in the province.",
+  "body_zh": "据南方+报道，10月11日，广东省委副书记、省长孟凡利在广州会见美国苹果公司执行董事长蒂姆·库克一行。\n孟凡利对蒂姆·库克一行表示欢迎。他说，苹果公司是全球知名的科技领军企业，不论是生产端、销售端还是研发端都与广东有着长期广泛深入的合作。当前广东正锚定智能化、绿色化、融合化发展方向，加快构建以先进制造业为骨干的现代化产业体系，我们十分欢迎并支持苹果公司与广东各方面紧密对接，把更多创新产品、新兴业务及研发平台放在广东，不断拓展合作新领域新空间。广东将持续扩大高水平对外开放，打造市场化法治化国际化一流营商环境，为包括苹果公司在内的各类企业在粤发展提供优质服务。\n蒂姆·库克感谢广东省对苹果公司发展的长期支持。他表示，广东是全球重要的制造业中心，拥有完备的产业链供应链、强劲的创新创造活力，更有极富潜力的消费市场与合作空间，聚集了大量苹果供应链伙伴和生态开发者。广东对苹果公司在华发展至关重要，公司很愿意进一步扩大在粤业务布局，围绕供应链协同、创新生态赋能、智能制造和绿色制造、销售渠道拓展等方面，与广东有关城市和企业探讨更多合作，更好实现互利共赢。\n综合腾讯科技、南方日报消息，10月10日，蒂姆·库克现身广州。这是他9月1日卸任苹果首席执行官之后的首次中国之行，也是他首次以苹果董事会执行董事长身份到访中国。按苹果公布的安排，库克在新职位上继续负责与全球政策制定者沟通等事务。\n库克在担任苹果首席执行官（CEO）的15年间，访华约20次，平均每年一到两次，是来华次数最多的美国大型科技企业CEO。\n此次来华，库克还探班了青年导演古天鸡与咏春拳传承人戴子龙的短片拍摄。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-11",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "economy",
+  "keywords": [
+    "高水平对外开放",
+    "供应链合作",
+    "外资营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "meng-fanli",
+      "name_zh": "孟凡利",
+      "name_en": "Meng Fanli"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Level Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "供应链合作",
+      "name_en": "Supply Chain Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外资营商环境",
+      "name_en": "Business Environment for Foreign Investment"
+    }
+  ],
+  "tags_zh": [
+    "孟凡利",
+    "广州",
+    "广东",
+    "高水平对外开放",
+    "供应链合作",
+    "外资营商环境"
+  ],
+  "tags_en": [
+    "Meng Fanli",
+    "Guangzhou",
+    "Guangdong",
+    "High-Level Opening Up",
+    "Supply Chain Cooperation",
+    "Business Environment for Foreign Investment"
+  ],
+  "entities": {
+    "politicians": [
+      "meng-fanli"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ",
+      "CN-GD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261011-beijing_daily-2a385c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

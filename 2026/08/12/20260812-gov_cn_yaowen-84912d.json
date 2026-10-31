@@ -1,0 +1,106 @@
+{
+  "id": "20260812-gov_cn_yaowen-84912d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077923.htm",
+  "title_zh": "市场监管总局批准发布338项重要国家标准",
+  "title_en": "Market Regulatory Administration Approves 338 Important National Standards",
+  "summary_zh": "近日，市场监管总局批准发布338项重要国家标准，涵盖高新技术、安全生产和百姓生活等领域。",
+  "summary_en": "The State Administration for Market Regulation recently approved and released 338 important national standards covering high-tech, work safety, and people's daily life.",
+  "body_zh": "近日，市场监管总局（国家标准委）批准发布338项重要国家标准。其中，强制性国家标准15项，推荐性国家标准323项。\n在高新技术领域方面，发布人工智能医疗器械质量要求和评价术语国家标准，促进建立人工智能医疗器械国家标准体系，为产品的开发、测试及质量控制提供依据。发布立体显示器件、柔性显示器件等新型显示国家标准，完善显示技术质量评价体系。发布光路板、纤维光学互连器件等光电子领域国家标准，规范器件性能指标与试验测量方法。\n在安全生产方面，发布电阻焊机安全要求强制性国家标准，为焊接设备运行提供刚性技术规范，有效遏制安全事故，保障人员生命安全，标准实施将倒逼企业提升本质安全水平，规范生产管理，为设备长周期稳定运行及行业高质量发展奠定坚实基础。发布电梯T型导轨、电梯层门耐火试验、液化石油气和液化二甲醚钢瓶定期检验与评定等15项国家标准，筑牢特种设备安全底线。\n在百姓生活方面，发布智能网联汽车自动驾驶系统安全要求强制性国家标准，规范自动驾驶系统设计、开发与测试，确保在复杂交通场景下准确、可靠运行，最大程度减少系统故障、误判等原因导致的交通事故，降低人员伤亡风险。发布互联网租赁自行车服务规范，对互联网租赁自行车运营服务全流程进行规范，引领运营企业不断优化服务、提升用户体验。（记者 林丽鹂）",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "industry",
+  "keywords": [
+    "国家标准",
+    "高新技术",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市场监管总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高新技术",
+      "name_en": "High Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "市场监管总局",
+    "国家标准",
+    "高新技术",
+    "安全生产"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "National Standards",
+    "High Technology",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "市场监管总局",
+        "name_en": "State Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-gov_cn_yaowen-84912d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0812/c352664-41665763.html",
+      "title_zh": "市场监管总局批准发布338项重要国家标准",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0812/c351638-41665503.html",
+      "title_zh": "市场监管总局批准发布338项重要国家标准",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

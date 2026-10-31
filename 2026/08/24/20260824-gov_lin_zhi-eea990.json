@@ -1,0 +1,95 @@
+{
+  "id": "20260824-gov_lin_zhi-eea990",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/1858f9f26a674cd19a58f289628ada7b.shtml",
+  "title_zh": "粤林残疾人事业“十五五”对口支援协作座谈会召开",
+  "title_en": "Guangdong-Linzhi Symposium on Support and Cooperation for Disabled Persons' Undertaking during 15th Five-Year Plan Held",
+  "summary_zh": "8月21日，粤林残疾人事业“十五五”对口支援协作座谈会在林芝召开，广东省残联与林芝市共商对口支援工作。",
+  "summary_en": "On August 21, the Guangdong-Linzhi symposium on support and cooperation for disabled persons' undertaking during the 15th Five-Year Plan was held in Nyingchi, with Guangdong and Linzhi discussing counterpart support.",
+  "body_zh": "8月21日上午,粤林残疾人事业“十五五”对口支援协作座谈会在林芝召开。广东省残联党组书记、理事长陈学军,市委书记巴塔出席会议并讲话。市委副书记、常务副市长林科聪主持会议。\n巴塔表示,党的十八大以来,习近平总书记多次发表重要讲话、作出系列重要指示批示,为做好新时代残疾人工作、发展残疾人事业提供了根本遵循。“十四五”期间,广东省残联深入贯彻习近平总书记关于残疾人事业和关于西藏工作的重要论述、重要指示批示精神,全面落实新时代党的治藏方略,把扶残助残作为对口支援林芝的重要载体、促进粤林各族群众交往交流交融的有效途径,有力助推了我市残疾人事业发展。希望广东省残联继续在项目建设、人才培训、康复服务等方面给予大力支持,助力残疾人康复、教育、就业、托养等工作提质增效,推动林芝残疾人事业不断迈上新台阶。全市残联组织要深入贯彻习近平总书记关于残疾人事业重要论述和重要指示批示精神,认真落实全国残联援藏工作现场会要求,扎实做好受援工作,不断完善残疾人社会保障机制和服务体系,推动新时代林芝残疾人事业全面发展。\n李选印、段刚辉参加座谈。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "残疾人事业",
+    "对口支援"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Nyingchi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾人事业",
+      "name_en": "Disabled Persons' Undertaking"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口支援",
+      "name_en": "Counterpart Support"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林芝",
+    "残疾人事业",
+    "对口支援",
+    "习近平"
+  ],
+  "tags_en": [
+    "Nyingchi",
+    "Disabled Persons' Undertaking",
+    "Counterpart Support"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "林科聪"
+      },
+      {
+        "id": null,
+        "name_zh": "林芝"
+      },
+      {
+        "id": null,
+        "name_zh": "段刚辉"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260824-gov_lin_zhi-eea990",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

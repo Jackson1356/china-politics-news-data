@@ -1,0 +1,132 @@
+{
+  "id": "20260610-gov_cn_yaowen-b66319",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071775.htm",
+  "title_zh": "第三轮第六批中央生态环保督察完成进驻阶段工作",
+  "title_en": "The Sixth Batch of the Third Round of Central Ecological and Environmental Protection Inspections Completes On-site Phase",
+  "summary_zh": "第三轮第六批中央生态环保督察组已完成在辽宁、吉林、黑龙江、广东、广西、西藏、新疆及新疆生产建设兵团的进驻阶段工作。",
+  "summary_en": "The sixth batch of the third round of central ecological and environmental protection inspections has completed its on-site work in seven provinces/regions and the Xinjiang Production and Construction Corps.",
+  "body_zh": "新华社北京6月10日电 记者10日从生态环境部获悉，第三轮第六批7个中央生态环境保护督察组于5月8日至9日陆续进驻辽宁、吉林、黑龙江、广东、广西、西藏、新疆7省（区）和新疆生产建设兵团，近日已全面完成督察进驻阶段工作。\n有关省（区）和新疆生产建设兵团高度重视中央生态环境保护督察工作，大力推动整改落实。在解决群众信访问题中，既认真查处、坚决整改，也实事求是、分类施策，做到精准科学依法。",
+  "image_url": null,
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "中央生态环保督察",
+    "生态环境保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央生态环保督察",
+      "name_en": "Central Ecological and Environmental Protection Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological and Environmental Protection"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "辽宁",
+    "吉林",
+    "黑龙江",
+    "广东",
+    "广西",
+    "西藏",
+    "新疆",
+    "中央生态环保督察",
+    "生态环境保护"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Liaoning",
+    "Jilin",
+    "Heilongjiang",
+    "Guangdong",
+    "Guangxi",
+    "Tibet",
+    "Xinjiang",
+    "Central Ecological and Environmental Protection Inspection",
+    "Ecological and Environmental Protection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEE"
+    ],
+    "locations": [
+      "CN-LN",
+      "CN-JL",
+      "CN-HL",
+      "CN-GD",
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260610-gov_cn_yaowen-b66319",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "20261029-gov_shan_wei-e1b89a",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1306890.html",
+  "title_zh": "市八届人大常委会第五十一次会议召开",
+  "title_en": "51st Session of the Standing Committee of the 8th Shanwei Municipal People's Congress Convened",
+  "summary_zh": "10月28日，汕尾市八届人大常委会召开第五十一次会议，由林军主持，听取审议普通高中办学资源、国有资产管理、残疾人就业等报告，审议法规草案并进行人事任免。",
+  "summary_en": "On Oct 28, the Standing Committee of the 8th Shanwei Municipal People's Congress held its 51st session, chaired by Lin Jun, reviewing reports on high school capacity, state assets and disability employment, and adopting personnel appointments.",
+  "body_zh": "10月28日，市八届人大常委会召开第五十一次会议。受市委书记，市人大常委会党组书记、主任逯峰委托，市人大常委会党组副书记、副主任林军主持会议。\n会议听取和审议市政府关于扩大普通高中办学资源工作情况的报告、关于汕尾市2025年度国有资产管理情况的综合报告；听取和审议市人大常委会专题调研组关于供销农产品冷链物流服务情况的调研报告、关于残疾人就业保障情况的调研报告。\n会议审议并表决通过《汕尾市第八届人民代表大会常务委员会代表资格审查委员会关于代表资格终止的报告》，汕尾市八届人大代表现有306人。会议审议《汕尾市农村集体财产管理条例（草案修改稿）》，进行人事任免事项。\n会议听取和审议市政府关于制造业与服务业协同发展工作情况报告，并开展专题询问，9位委员围绕做大生产性服务业、做强制造业服务平台、做优产业协同生态、做实科技人才支撑以及推动物流降本增效等问题提出询问，市政府及有关部门负责同志到会应询。\n市人大常委会副主任黄宏伟、李惠文、吴国华、吴城鑫出席会议；副市长周小壮、庄红琴，市法院院长陈光昶，市监委、市检察院负责同志，市直有关单位、各县（市、区）人大常委会负责同志等列席会议。（记者 林舒雅）",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "人大监督",
+    "国有资产管理",
+    "制造业与服务业协同发展",
+    "残疾人就业保障"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有资产管理",
+      "name_en": "State Asset Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业与服务业协同发展",
+      "name_en": "Manufacturing-Services Coordination"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾人就业保障",
+      "name_en": "Employment Security for People with Disabilities"
+    },
+    {
+      "kind": "person",
+      "id": "lu-feng-shanwei",
+      "name_zh": "逯峰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕尾",
+    "人大监督",
+    "国有资产管理",
+    "制造业与服务业协同发展",
+    "残疾人就业保障",
+    "逯峰"
+  ],
+  "tags_en": [
+    "Shanwei",
+    "People's Congress Oversight",
+    "State Asset Management",
+    "Manufacturing-Services Coordination",
+    "Employment Security for People with Disabilities"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-feng-shanwei",
+      {
+        "id": null,
+        "name_zh": "吴城鑫"
+      },
+      {
+        "id": null,
+        "name_zh": "任林军"
+      },
+      {
+        "id": null,
+        "name_zh": "林军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261029-gov_shan_wei-e1b89a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20261020-bjnews-1dac57",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1792478545129205.html",
+  "title_zh": "美方以窃取商业秘密为由制裁中国5家企业，商务部回应",
+  "title_en": "Commerce Ministry Responds to US Sanctions on Five Chinese Firms for Alleged Trade Secret Theft",
+  "summary_zh": "商务部新闻发言人就美方以所谓“窃取商业秘密”为由制裁中国5家企业答记者问，表示坚决反对，并敦促美方纠正错误做法。",
+  "summary_en": "China's Commerce Ministry spokesperson rejected US sanctions on five Chinese companies over alleged trade secret theft, calling them malicious and urging Washington to correct course or face countermeasures.",
+  "body_zh": "新京报讯 据商务部消息，商务部新闻发言人就美以窃取商业秘密为由制裁中国企业答记者问。\n答：我们注意到有关情况。美方炒作所谓“窃取商业秘密”问题，污名化中国企业并实施制裁，严重损害中国企业合法权益，性质恶劣，中方对此坚决反对。\n中国人工智能企业的快速发展，得益于长期深耕基础研究，持续创新投入，是坚持科技自主创新与开放合作的成果，有利于造福中美两国和世界，与所谓“窃取商业秘密”无关。中方敦促美方正确看待中国企业取得的长足发展，停止抹黑打压，营造公平竞争的市场环境，维护中美经贸合作大局。中方敦促美方尽快纠正错误做法，否则将采取必要措施予以回应，坚定维护中国企业正当合法权益。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸",
+    "制裁",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸",
+      "name_en": "China-US Economic Ties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制裁",
+      "name_en": "Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中美经贸",
+    "制裁",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "China-US Economic Ties",
+    "Sanctions",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "施予以"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261020-bjnews-1dac57",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

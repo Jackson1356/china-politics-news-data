@@ -1,0 +1,86 @@
+{
+  "id": "20260701-xinhua_js-cbf6f2",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260701/60c52fd87614484c85a737259490955d/c.html",
+  "title_zh": "长三角铁路暑期运输7月1日正式启动",
+  "title_en": "Summer Railway Transport Officially Starts in Yangtze River Delta on July 1",
+  "summary_zh": "2026年铁路暑期旅客运输于7月1日在长三角地区正式启动，预计发送旅客1.9亿人次，将通过加开临客和优化运行图满足出行需求。",
+  "summary_en": "Summer railway transport in the Yangtze River Delta officially began on July 1, 2026, with an expected 190 million passengers. Capacity will be increased via extra trains and optimized schedules.",
+  "body_zh": "2026年铁路暑期旅客运输于7月1日正式启动，至8月31日结束，共计62天。记者从中国铁路上海局集团有限公司获悉，暑运期间长三角铁路预计发送旅客1.9亿人次，创历年暑运旅客发送量新高；日均发送旅客首次突破300万人次。其中，江苏铁路旅客发送量有望刷新暑运历史纪录。\n今年暑运客流将呈现“两头高、中间低”走势，7月上旬迎来首波出行高峰，8月中下旬达到最高峰。为满足旺盛出行需求，长三角铁路在实行三季度高峰运行图基础上，安排加开暑运临客32对，其中江苏铁路计划加开19对，较去年增加5对。7月1日起，新列车运行图同步启用。新图通过增开列车、增设办客站，加密苏北、浙中等地出行线点。\n运力提升的同时，服务持续优化。上铁集团客运部相关工作人员介绍，目前，计次票、定期票产品已在沪苏通铁路、徐连高铁等8条管内、直通方向线路上投入使用，旅游计次票乘降车站拓展至宁杭高铁、沪苏湖高铁等5条管内高铁线路的26座车站；铁路畅行码覆盖所有动车组列车，长三角19座车站可实现便捷换乘，21座车站提供互联网订餐服务。（田墨池）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "暑运",
+    "交通运输"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "长三角",
+      "name_en": "Yangtze River Delta"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "暑运",
+      "name_en": "Summer Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    }
+  ],
+  "tags_zh": [
+    "长三角",
+    "江苏",
+    "暑运",
+    "交通运输"
+  ],
+  "tags_en": [
+    "Yangtze River Delta",
+    "Jiangsu",
+    "Summer Transport",
+    "Transportation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260701-xinhua_js-cbf6f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_js",
+      "source_tier": 3,
+      "url": "http://js.people.com.cn/n2/2026/0701/c360302-41625958.html",
+      "title_zh": "长三角铁路暑运启动 预计发送旅客1.9亿人次",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

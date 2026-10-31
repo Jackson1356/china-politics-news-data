@@ -1,0 +1,88 @@
+{
+  "id": "20260929-peoples_nm-b5c2cb",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/0929/c196667-41710355.html",
+  "title_zh": "内蒙古自治区政协召开新闻发布会",
+  "title_en": "Inner Mongolia Autonomous Region CPPCC Holds Press Conference",
+  "summary_zh": "9月28日，内蒙古自治区政协召开新闻发布会，介绍自治区政协十三届常委会第十八次会议筹备情况，会议将于10月8日至9日在呼和浩特召开。",
+  "summary_en": "On September 28, the CPPCC of the Inner Mongolia Autonomous Region held a press conference on preparations for the 18th meeting of its 13th Standing Committee, set for October 8-9 in Hohhot.",
+  "body_zh": "自治区政协召开新闻发布会\n9月28日，自治区政协召开新闻发布会，介绍自治区政协十三届常委会第十八次会议准备情况和总体安排。\n据介绍，自治区政协十三届常委会第十八次会议定于10月8日下午至9日在呼和浩特召开，围绕“推进传统产业‘智改数转’，夯实现代化产业体系基底”议题进行专题议政性协商。\n年初以来，自治区政协组织部分政协委员、智库专家赴区内外调研考察，吸纳各方意见，共同研究谋划转型发展路径，形成了高质量调研报告。\n会议期间，将邀请相关专家进行专题辅导，安排有关部门负责同志和自治区政协委员、专家发言，并开展互动协商，进一步提升协商实效。（记者 白丹）",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "party",
+  "keywords": [
+    "智改数转",
+    "传统产业转型",
+    "协商议政"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-HHT",
+      "name_zh": "呼和浩特",
+      "name_en": "Hohhot"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智改数转",
+      "name_en": "Intelligent and Digital Transformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传统产业转型",
+      "name_en": "Traditional Industry Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协商议政",
+      "name_en": "Consultative Deliberation"
+    }
+  ],
+  "tags_zh": [
+    "呼和浩特",
+    "智改数转",
+    "传统产业转型",
+    "协商议政"
+  ],
+  "tags_en": [
+    "Hohhot",
+    "Intelligent and Digital Transformation",
+    "Traditional Industry Upgrading",
+    "Consultative Deliberation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高质量"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-HHT"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260929-peoples_nm-b5c2cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
