@@ -1,0 +1,98 @@
+{
+  "id": "20261026-bjnews-83bf25",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1793000186129209.html",
+  "title_zh": "中方陪同朝鲜最高领导人访问丹东 外交部回应",
+  "title_en": "Chinese FM Responds to Questions on Accompanying DPRK Top Leader's Visit to Dandong",
+  "summary_zh": "10月26日，外交部发言人郭嘉昆在例行记者会上回应中方陪同朝鲜最高领导人访问丹东的提问，表示中朝是友好邻邦。",
+  "summary_en": "On Oct 26, Chinese Foreign Ministry spokesperson Guo Jiakun told a regular press briefing that China and the DPRK are friendly neighbors, responding to questions about accompanying the DPRK top leader's visit to Dandong.",
+  "body_zh": "据央视新闻消息，10月26日，外交部发言人郭嘉昆主持例行记者会。有记者就中方陪同朝鲜最高领导人访问丹东提问。\n郭嘉昆表示，中朝是友好邻邦，维护好、巩固好、发展好中朝关系，始终是中国党和政府坚定不移的战略方针。中朝传统友好合作关系持续健康稳定发展有助于增进两国人民福祉，也有利于地区的和平稳定与发展繁荣。中方愿继续同朝方一道，落实好两国元首重要共识，推动中朝关系不断向前发展。\n（总台央视记者 赵超逸 黄惠馨）",
+  "image_url": null,
+  "published_at": "2026-10-26T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "外交表态",
+    "传统友好合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交表态",
+      "name_en": "Diplomatic Statement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传统友好合作",
+      "name_en": "Traditional Friendship and Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "丹东",
+    "中朝关系",
+    "外交表态",
+    "传统友好合作"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Dandong",
+    "China-DPRK Relations",
+    "Diplomatic Statement",
+    "Traditional Friendship and Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261026-bjnews-83bf25",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

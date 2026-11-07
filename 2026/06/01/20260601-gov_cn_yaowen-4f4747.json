@@ -1,0 +1,78 @@
+{
+  "id": "20260601-gov_cn_yaowen-4f4747",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7070836.htm",
+  "title_zh": "科技赋能夏收夏种 助力粮食稳产丰收",
+  "title_en": "Technology Empowers Summer Harvest and Planting to Ensure Stable Grain Production",
+  "summary_zh": "在“三夏”农忙时节，安徽和新疆等地利用智慧农机和AI机器人赋能夏收夏种，提升作业效率并助力粮食稳产丰收。",
+  "summary_en": "During the 'Three Summers' farming season, regions such as Anhui and Xinjiang are utilizing smart machinery and AI robots to enhance summer harvesting and planting for stable grain production.",
+  "body_zh": "“三夏”农忙时节，各地以智慧农机赋能夏收夏种，助力粮食稳产丰收。\n安徽亳州蒙城200多万亩小麦大规模开镰。今年，当地推广了1900多台（套）新型纵轴流收割机。相较于传统农机，该设备结构更合理，作业滚筒更长，小麦脱粒更彻底，并且加装了智能监测屏，农机手根据作业数据，动态调整行驶速度、优化操作，小麦机收损失率被稳稳控制在1%以内。\n截至目前，安徽省共投入各类收割机16万台（套），小麦收获进度已超过三成。\n眼下，新疆塔城沙湾市4.5万亩冬小麦进入灌浆期。今年，当地启用智能机器人在麦田里套种玉米。依托视觉识别等AI技术，智能机器人牵引着播种机，精准在小麦行间行走，自主规划作业路径，准确播下玉米种子，一天就能完成100多亩的作业量，可大幅节省人工与农资成本。\n农业部门预测，套种的小麦亩产600公斤左右，玉米亩产600到800公斤，每亩地收益可增加800元左右，实现“一地两作、一季双收”。",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "智慧农业",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧农业",
+      "name_en": "Smart Agriculture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "安徽",
+    "新疆",
+    "智慧农业",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "Anhui",
+    "Xinjiang",
+    "Smart Agriculture",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260601-gov_cn_yaowen-4f4747",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

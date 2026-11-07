@@ -1,0 +1,125 @@
+{
+  "id": "20261017-cpcnews-8e39ad",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1017/c64094-40816436.html",
+  "title_zh": "习近平致信祝贺湖南大学建校100周年",
+  "title_en": "Xi Jinping Sends Congratulatory Letter on Hunan University's 100th Anniversary",
+  "summary_zh": "10月16日，中共中央总书记、国家主席习近平致信祝贺湖南大学建校100周年，向全体师生员工和校友致以祝贺，希望学校培养更多经世致用的优秀人才。",
+  "summary_en": "On Oct 16, Xi Jinping, general secretary of the CPC Central Committee and Chinese president, sent a letter congratulating Hunan University on its 100th anniversary, urging it to cultivate more outstanding talent.",
+  "body_zh": "贺 信\n值此湖南大学建校100周年之际，我向全体师生员工和广大校友致以祝贺！\n新起点上，希望湖南大学以新时代中国特色社会主义思想为指导，继承光荣革命传统，赓续千年书院学脉，弘扬“实事求是、敢为人先”的精神，不断提升办学质量和水平，努力培养更多经世致用的优秀人才，为建设教育强国、推进中国式现代化作出新贡献。\n习近平\n（新华社北京10月16日电）\n新华社北京10月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺湖南大学建校100周年，向全体师生员工和广大校友致以祝贺。\n习近平在贺信中强调，新起点上，希望湖南大学以新时代中国特色社会主义思想为指导，继承光荣革命传统，赓续千年书院学脉，弘扬“实事求是、敢为人先”的精神，不断提升办学质量和水平，努力培养更多经世致用的优秀人才，为建设教育强国、推进中国式现代化作出新贡献。（贺信全文另发）\n湖南大学创办于1926年，具有千年历史的岳麓书院位于其校园内。100年来，学校坚持传承创新，为国家培养了大批优秀人才。\n《 人民日报 》（ 2026年10月17日 01 版）",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "教育强国",
+    "高校建设",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南大学",
+      "name_en": "Hunan University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育强国",
+      "name_en": "Building an Education Powerhouse"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校建设",
+      "name_en": "University Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "湖南大学",
+    "北京",
+    "教育强国",
+    "高校建设",
+    "中国式现代化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Hunan University",
+    "Beijing",
+    "Building an Education Powerhouse",
+    "University Development",
+    "Chinese Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "贺信中"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖南大学",
+        "name_en": "Hunan University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261016-qiushi-0d1705",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "https://www.qstheory.cn/20261017/7ecc549a9f9842b4a09124cfefb12121/c.html",
+      "title_zh": "继承光荣传统 培养优秀人才",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hn",
+      "source_tier": 3,
+      "url": "http://hn.people.com.cn/n2/2026/1017/c208814-41724796.html",
+      "title_zh": "习近平致信祝贺湖南大学建校100周年",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

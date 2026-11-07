@@ -1,0 +1,93 @@
+{
+  "id": "20260930-gov_shan_tou-31e263",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/styw/content/post_2572984.html",
+  "title_zh": "汕头召开市委书记专题会议研究部署停车秩序管理工作",
+  "title_en": "Shantou Party Secretary Chairs Meeting on Parking Order Management",
+  "summary_zh": "9月29日下午，汕头市委书记庄悦群主持召开专题会议，听取公安、城管部门汇报，研究部署中心城区停车秩序管理工作。",
+  "summary_en": "On the afternoon of September 29, Shantou Party Secretary Zhuang Yuequn chaired a special meeting to study and deploy parking order management in the city's central urban area.",
+  "body_zh": "9月29日下午，市委书记庄悦群主持召开市委书记专题会议，深入学习习近平总书记关于城市工作的重要论述，听取市公安局、市城管局关于中心城区停车秩序管理工作情况汇报，就进一步加强我市停车秩序管理工作进行专题研究。\n庄悦群指出，停车秩序管理是城市精细化管理的重要一环，是检验城市治理现代化水平的“试金石”，是优化市容秩序管控的关键抓手。要增强责任感紧迫感，以对人民群众高度负责的态度，坚持“当下改”和“长久治”一体推进，以更大力度、更实举措，切实抓好停车秩序管理工作。\n庄悦群强调，要加强组织领导，层层压实责任，强化要素保障，发动全民参与，锤炼务实作风，凝聚加强停车秩序管理工作合力，努力把汕头建设成为干净整洁、平安有序、宜居宜业、富有活力的现代化城市。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "城市治理",
+    "停车秩序管理",
+    "精细化管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhuang-yuequn-shantou",
+      "name_zh": "庄悦群",
+      "name_en": "Zhuang Yuequn"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市治理",
+      "name_en": "Urban Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "停车秩序管理",
+      "name_en": "Parking Order Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "精细化管理",
+      "name_en": "Fine-grained Management"
+    }
+  ],
+  "tags_zh": [
+    "庄悦群",
+    "汕头",
+    "城市治理",
+    "停车秩序管理",
+    "精细化管理"
+  ],
+  "tags_en": [
+    "Zhuang Yuequn",
+    "Shantou",
+    "Urban Governance",
+    "Parking Order Management",
+    "Fine-grained Management"
+  ],
+  "entities": {
+    "politicians": [
+      "zhuang-yuequn-shantou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260930-gov_shan_tou-31e263",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

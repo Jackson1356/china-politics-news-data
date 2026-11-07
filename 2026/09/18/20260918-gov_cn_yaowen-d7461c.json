@@ -1,0 +1,92 @@
+{
+  "id": "20260918-gov_cn_yaowen-d7461c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081491.htm",
+  "title_zh": "各地举行活动纪念九一八事变爆发95周年",
+  "title_en": "Events Held Across China to Mark 95th Anniversary of the September 18 Incident",
+  "summary_zh": "9月18日，中国各地举行纪念活动，纪念九一八事变爆发95周年，通过防空警报、默哀献花、主题展览等形式铭记历史、缅怀先烈。",
+  "summary_en": "On Sept 18, commemorative events were held across China to mark the 95th anniversary of the September 18 Incident, with air-raid sirens, moments of silence and themed exhibitions honoring martyrs.",
+  "body_zh": "各地举行活动纪念九一八事变爆发95周年，铭记历史、珍爱和平，汲取前行力量。\n今天（9月18日）上午，防空警报响彻城市上空，机动车停驶鸣笛，港口船舶拉响汽笛，共同悼念为中华民族独立和人民解放而英勇献身的革命先烈，缅怀罹难同胞。\n上海淞沪抗战纪念馆，庄重肃穆的氛围中，人们整齐列队，向抗战英烈鞠躬致敬。南京大屠杀遇难同胞纪念馆，社会各界群众肃立默哀，用鲜花表达深切缅怀。\n中国人民抗日战争纪念馆举行系列主题活动，人们走进《为了民族解放与世界和平》主题展览，了解抗战故事，传承和弘扬伟大抗战精神。湖南芷江中国人民抗日战争胜利受降纪念馆，抗战老兵带着观众回顾峥嵘岁月，赓续红色血脉。侵华日军细菌战衢州陈列馆，学生近距离感受民族苦难历史，厚植爱国情怀。吉林多个红色文化场馆组织勿忘九一八纪念活动，一张张照片、一件件实物展示了东北军民艰苦卓绝的抗日斗争。\n黑龙江哈尔滨组织开展青少年爱国主义教育示范活动，通过情景剧演绎、集体朗诵等形式，激励青少年传承红色基因、坚定理想信念。八路军兰州办事处纪念馆里，讲解员深情诵读抗战烈士家书，再现烽火岁月里的赤诚初心与家国大爱。\n英魂不朽，激励强军之志。全军各部队开展多种形式的纪念活动，从野外驻训一线到历史纪念场馆，广大官兵缅怀英雄先烈，把爱国情、强军志转化为练兵备战的实际行动，以实战本领守护万家灯火、捍卫山河安宁。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-18",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "party",
+  "keywords": [
+    "九一八事变纪念",
+    "爱国主义教育",
+    "铭记历史珍爱和平"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "九一八事变纪念",
+      "name_en": "September 18 Incident Commemoration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义教育",
+      "name_en": "Patriotic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铭记历史珍爱和平",
+      "name_en": "Remembering History and Cherishing Peace"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "南京",
+    "九一八事变纪念",
+    "爱国主义教育",
+    "铭记历史珍爱和平"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "Nanjing",
+    "September 18 Incident Commemoration",
+    "Patriotic Education",
+    "Remembering History and Cherishing Peace"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH",
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260918-gov_cn_yaowen-d7461c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260814-peoples_js-f06b57",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0814/c360303-41667432.html",
+  "title_zh": "南京发布“十五五”枢纽经济发展规划",
+  "title_en": "Nanjing Issues 15th Five-Year Plan for Hub Economy Development",
+  "summary_zh": "近日，南京市发布“十五五”枢纽经济发展规划，提出到2030年建成链接全球的国际交通门户枢纽等四大战略定位，并部署六大重点任务。",
+  "summary_en": "Nanjing recently issued its 15th Five-Year Plan for hub economy development, setting four strategic positions including a global transport hub and six key tasks by 2030.",
+  "body_zh": "南京发布“十五五”枢纽经济发展规划\n据《新华日报》报道，近日，《南京市“十五五”枢纽经济发展规划》发布，到2030年，南京枢纽设施能级全面跃升，多式联运网络持续完善，枢纽经济规模与效益实现跨越式增长，港产城融合发展深入推进，服务国内国际双循环的枢纽节点功能显著增强。\n《规划》明确四大战略地位，紧扣“链接全球的国际交通门户枢纽、高效协同的全国要素配置枢纽、特色鲜明的长三角产业集聚枢纽、内外联动的江苏省双向开放重要枢纽”战略定位，将枢纽优势转化为城市经济核心竞争力。\n《规划》明确六大重点任务，包括做强综合交通功能，夯实枢纽经济基础支撑；构筑现代产业体系，厚植枢纽经济增长后劲；拓展内外供应链条，加快枢纽经济能级跃升；推动空间集约利用，优化枢纽经济总体布局；深化改革创新赋能，打造枢纽经济特色品牌；建设陆港型、港口型、空港型、生产服务型、商贸服务型“五型”物流枢纽，增创枢纽经济发展优势。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "枢纽经济",
+    "多式联运",
+    "长三角一体化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "枢纽经济",
+      "name_en": "Hub Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多式联运",
+      "name_en": "Multimodal Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长三角一体化",
+      "name_en": "Yangtze River Delta Integration"
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "枢纽经济",
+    "多式联运",
+    "长三角一体化"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "Hub Economy",
+    "Multimodal Transport",
+    "Yangtze River Delta Integration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260814-peoples_js-f06b57",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

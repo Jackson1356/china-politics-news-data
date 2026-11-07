@@ -1,0 +1,83 @@
+{
+  "id": "20260611-gov_cn_yaowen-251d51",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7071831.htm",
+  "title_zh": "四部门部署实施创业模式引领行动",
+  "title_en": "Four Departments Deploy Implementation of Entrepreneurship Model Leading Action",
+  "summary_zh": "人力资源社会保障部等四部门印发通知，实施创业模式引领行动，通过科技成果、产业发展、职业技能和民生需求四种模式引导创业并带动就业。",
+  "summary_en": "The Ministry of Human Resources and Social Security and three other departments issued a notice to implement the Entrepreneurship Model Leading Action to boost employment.",
+  "body_zh": "新华社北京6月11日电（记者 张晓洁）记者6月11日获悉，人力资源社会保障部等四部门近日印发通知，决定实施创业模式引领行动，强化创业分类指导帮扶，引导各类创业主体找准市场需求定位，走特色发展道路。\n通知提出，到2028年，支持特色化创业模式的政策体系不断健全，创业生态持续优化，创业主体更加活跃，实现“科技成果+创业”“产业发展+创业”“职业技能+创业”“民生需求+创业”四种模式引领作用进一步发挥，创业带动就业效应进一步显现，政府鼓励创业、市场引导创业、社会支持创业、劳动者勇于创业的氛围进一步形成。\n科技成果转化方面，通知明确支持龙头企业、前沿领域高新技术企业领军人才和青年科技人才创新创业。支持和鼓励高校、科研院所事业单位科研人员通过离岗创办科技型企业等方式开展科技研发和成果转化活动。建立常态化研发成果智能供需对接机制，培养壮大专业化技术经理人队伍。\n产业创新发展方面，通知提出完善优质中小企业梯度培育平台。支持县域乡村大力发展配套产业和特色乡土产业，引导有创业能力的外出务工人员挖掘乡村资源要素优势，把适合的产业转移到县域乡村再创业、再发展，鼓励各类返乡入乡人员领办、创办新型农业经营主体。降低创业孵化载体入驻门槛。\n职业技能提升方面，通知明确开发“职业技能+创业技能”特色培训项目，引导劳动者将职业技能转化为创业技能。开展梯次化的创业能力提升活动，培养一批技能创业带头人。挖掘培育技能型劳务品牌并开展标准化培训。\n民生消费需求方面，通知提出聚焦发展“一老一小”普惠服务和适老化、适儿化改造，梳理照护托育、康复护理、上门服务等需求，帮助创业者发现和选择适合的创业项目。打造社区工坊、便利店、菜篮子等多样化创业形态。依托街道社区闲置用房、老旧厂房等，设立“家门口”的“创业陪跑”空间，搭建手工艺制作、生活服务、小吃快餐、直播电商、个性化产品定制等微创业平台。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "economy",
+  "keywords": [
+    "创业",
+    "就业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创业",
+      "name_en": "Entrepreneurship"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业",
+      "name_en": "Employment"
+    }
+  ],
+  "tags_zh": [
+    "人力资源社会保障部",
+    "北京",
+    "创业",
+    "就业"
+  ],
+  "tags_en": [
+    "Ministry of Human Resources and Social Security",
+    "Beijing",
+    "Entrepreneurship",
+    "Employment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260611-gov_cn_yaowen-251d51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

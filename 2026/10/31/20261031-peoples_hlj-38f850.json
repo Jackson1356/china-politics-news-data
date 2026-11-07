@@ -1,0 +1,133 @@
+{
+  "id": "20261031-peoples_hlj-38f850",
+  "source": "peoples_hlj",
+  "source_name_zh": "人民网 黑龙江",
+  "source_name_en": "People's Daily Heilongjiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hlj.people.com.cn/n2/2026/1031/c220005-41738258.html",
+  "title_zh": "黑龙江省领导参加所在选区人大代表换届选举投票",
+  "title_en": "Heilongjiang Provincial Leaders Vote in People's Congress Elections in Their Constituencies",
+  "summary_zh": "10月30日，黑龙江省委书记许勤、省长梁惠玲、省政协主席蓝绍敏、省委副书记刘惠等省领导分别在哈尔滨各自选区参加区人大代表换届选举投票。",
+  "summary_en": "On Oct 30, Heilongjiang Party Secretary Xu Qin, Governor Liang Huiling, CPPCC Chairman Lan Shaomin and Deputy Party Secretary Liu Hui cast ballots in district people's congress elections in their respective constituencies in Harbin.",
+  "body_zh": "黑龙江省领导参加所在选区人大代表换届选举投票\n省领导参加所在选区人大代表换届选举投票\n许勤梁惠玲蓝绍敏刘惠等在各自选区参加投票或委托他人投票\n10月30日，黑龙江省委书记、省人大常委会主任许勤在哈尔滨市南岗区荣市街道省委机关独立选区第一投票站参加区人大代表选举投票。省委副书记、省长梁惠玲在南岗区革新街道省政府机关独立选区第一投票站，省政协主席蓝绍敏在香坊区六顺街道赣水选区省政协机关投票站，省委副书记、政法委书记刘惠在省委机关独立选区第一投票站参加投票。\n许勤来到省委机关独立选区第一投票站，听取选举有关事项说明及代表候选人情况介绍，拿出选民证交给工作人员核验，并领取选票，在写票处认真填写选票后，走到投票箱前郑重投下自己的一票。\n省委常委、省人大常委会、省政府、省政协其他领导同志分别在各自选区投票或委托他人投票。\n按照省委要求和换届工作统一部署，全省各地扎实推进县乡两级人大换届选举工作，着力抓好选民登记、选举宣传、投票组织等各环节，积极引导广大选民依法行使民主权利。11月20日前，将通过差额选举方式，选举产生县乡两级人大代表。",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "party",
+  "keywords": [
+    "人大换届选举",
+    "基层民主",
+    "选民投票"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-qin",
+      "name_zh": "许勤",
+      "name_en": "Xu Qin"
+    },
+    {
+      "kind": "person",
+      "id": "liang-huiling",
+      "name_zh": "梁惠玲",
+      "name_en": "Liang Huiling"
+    },
+    {
+      "kind": "person",
+      "id": "liu-hui-heilongjiang",
+      "name_zh": "刘惠",
+      "name_en": "Liu Hui"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "黑龙江省委",
+      "name_en": "Heilongjiang Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL-HRB",
+      "name_zh": "哈尔滨",
+      "name_en": "Harbin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大换届选举",
+      "name_en": "People's Congress Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层民主",
+      "name_en": "Grassroots Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "选民投票",
+      "name_en": "Voter Participation"
+    }
+  ],
+  "tags_zh": [
+    "许勤",
+    "梁惠玲",
+    "刘惠",
+    "黑龙江省委",
+    "黑龙江",
+    "哈尔滨",
+    "人大换届选举",
+    "基层民主",
+    "选民投票"
+  ],
+  "tags_en": [
+    "Xu Qin",
+    "Liang Huiling",
+    "Liu Hui",
+    "Heilongjiang Provincial Party Committee",
+    "Heilongjiang",
+    "Harbin",
+    "People's Congress Elections",
+    "Grassroots Democracy",
+    "Voter Participation"
+  ],
+  "entities": {
+    "politicians": [
+      "xu-qin",
+      "liu-hui-heilongjiang",
+      "liang-huiling"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HL",
+      "CN-HL-HRB"
+    ],
+    "companies": [
+      {
+        "name_zh": "黑龙江省委",
+        "name_en": "Heilongjiang Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261031-peoples_hlj-38f850",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

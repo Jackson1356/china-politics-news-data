@@ -1,0 +1,101 @@
+{
+  "id": "20261103-xinhua_tj-c7e527",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20261103/3a57e2d3e6654ab48ff2cfe55451746c/c.html",
+  "title_zh": "天津市领导参加所在选区人大代表换届选举投票",
+  "title_en": "Tianjin Leaders Vote in District People's Congress Deputy Elections",
+  "summary_zh": "11月2日，天津市委书记陈敏尔、市长张工等市领导分别在各自选区参加区和乡镇人大代表换届选举投票。",
+  "summary_en": "On Nov 2, Tianjin Party Secretary Chen Min'er, Mayor Zhang Gong and other city leaders cast ballots in their respective electoral districts for district and township people's congress deputy elections.",
+  "body_zh": "市领导参加所在选区人大代表换届选举投票\n陈敏尔张工喻云林王常松等在各自选区投票或委托他人投票\n11月2日，市委书记陈敏尔，市委副书记、市长张工，市人大常委会主任喻云林，市政协主席王常松等分别在各自选区参加区和乡镇人大代表换届选举投票。\n河西区市直机关选区投票站，五星红旗鲜艳夺目，镶嵌着国徽的红色票箱端放正中，投票工作规范有序，现场氛围庄重热烈。9时30分许，陈敏尔来到投票站，仔细听取有关选举事项说明，拿出选民证交给工作人员核验，领取一张选票，在写票处认真填写选票后，走到票箱前郑重投下自己的一票。\n当天，张工在河西区市直机关选区投票站投了票，喻云林在和平区小白楼街道开封道第二混合选区投票站投了票，王常松委托其他选民在和平区小白楼街道树德里第一混合选区投票站投了票。\n市委常委，市人大常委会、市政府、市政协和市高级人民法院、市人民检察院负责同志，在各自选区投票或委托他人投票。\n据了解，11月1日至5日，我市举行区和乡镇人大代表换届选举投票，全市共设立投票站9660个，通过差额选举，将产生新一届区人大代表4508人、乡镇人大代表8547人。（记者 于春沣 刘国栋 周志强 徐丽 刘平）",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "party",
+  "keywords": [
+    "人大代表换届选举",
+    "基层民主",
+    "投票选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-miner",
+      "name_zh": "陈敏尔",
+      "name_en": "Chen Min'er"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大代表换届选举",
+      "name_en": "People's Congress Deputy Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层民主",
+      "name_en": "Grassroots Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "投票选举",
+      "name_en": "Voting"
+    },
+    {
+      "kind": "person",
+      "id": "chen-min-jiangxi",
+      "name_zh": "陈敏",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈敏尔",
+    "天津",
+    "人大代表换届选举",
+    "基层民主",
+    "投票选举",
+    "陈敏"
+  ],
+  "tags_en": [
+    "Chen Min'er",
+    "Tianjin",
+    "People's Congress Deputy Elections",
+    "Grassroots Democracy",
+    "Voting"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-miner",
+      "chen-min-jiangxi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261103-xinhua_tj-c7e527",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

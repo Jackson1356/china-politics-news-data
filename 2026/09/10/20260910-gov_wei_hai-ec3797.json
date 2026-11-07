@@ -1,0 +1,97 @@
+{
+  "id": "20260910-gov_wei_hai-ec3797",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/9/10/art_58817_6603025.html",
+  "title_zh": "张海波调研教育工作",
+  "title_en": "Zhang Haibo Inspects Education Work in Weihai",
+  "summary_zh": "9月9日教师节前夕，威海市委书记张海波到威海一中、哈工大（威海）、山东大学（威海）调研教育工作并看望慰问教师，强调推进教育科技人才一体发展、深化校地合作。",
+  "summary_en": "On Sept 9, ahead of Teachers' Day, Weihai Party Secretary Zhang Haibo inspected schools and universities in Weihai, greeting teachers and urging deeper school-local cooperation and talent recruitment.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）9月9日，在第42个教师节到来之际，市委书记张海波到部分学校调研教育工作，看望慰问一线教职员工，向大家致以节日问候和诚挚祝福，强调要深入学习贯彻习近平总书记关于教育的重要论述，一体推进教育科技人才发展，为威海高质量发展提供有力支撑。市领导于宁、刘奎忠参加。\n在威海一中，张海波详细了解学校日常管理、师资力量配备等情况，与部分教师亲切交谈，对大家的辛勤耕耘和无私付出表示感谢，勉励学校发扬百年老校优良传统，持续提升教学质量，培养更多栋梁之才。在哈尔滨工业大学（威海），张海波实地调研了机器人研究所、哈工大威海创新创业园和海洋探测技术创新研究院，在山东大学（威海），调研了怀卡托国际商学院、低空科学与工程学院，了解学校技术研发、成果转化、合作办学等情况，充分肯定两所高校扎根威海、服务威海作出的重要贡献，希望将学科优势与威海产业优势充分融合，推动更多科创成果在威海落地转化、更多优秀人才在威海创新创业，在更高水平上深度融合、共创美好未来。\n张海波指出，要进一步完善对接合作机制，充分用好产业链“链长制”和“五链融合”机制，高效解决校地、校企合作的瓶颈制约，推动产业链、人才链、教育链、创新链、金融链相互赋能、同心共融。要坚持标杆引领、全域合作，推广复制已有成功经验做法，推动各区市与高校精准对接、密切协作。要推动科技创新与产业创新深度融合，通过揭榜挂帅、科技大市场等形式，促进高校创新资源更好赋能地方优势产业、龙头企业发展，不断提升产学研合作水平。要联合打造高能级创新平台，放大国家海洋综合试验场等平台效应，助力威海创新型城市建设。要大力推进招才引智，引进更多院士等高层次人才，充分用好孵化器、OPC等模式，完善人才配套政策，真正实现以产业留人、以平台留人、以项目留人。要坚决守牢安全底线，抓好学生心理健康、食品安全、校园安全等工作，确保不出问题。各级党委政府要始终坚持教育优先发展，加大对教育的投入和保障力度，营造尊师重教的浓厚氛围。",
+  "image_url": null,
+  "published_at": "2026-09-10T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "welfare",
+  "keywords": [
+    "教育优先发展",
+    "产学研融合",
+    "招才引智"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育优先发展",
+      "name_en": "Prioritizing Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产学研融合",
+      "name_en": "Industry-University-Research Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招才引智",
+      "name_en": "Talent Attraction"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "教育优先发展",
+    "产学研融合",
+    "招才引智"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Prioritizing Education",
+    "Industry-University-Research Integration",
+    "Talent Attraction"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "刘奎忠"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260910-gov_wei_hai-ec3797",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

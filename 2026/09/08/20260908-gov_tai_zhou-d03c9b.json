@@ -1,0 +1,88 @@
+{
+  "id": "20260908-gov_tai_zhou-d03c9b",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_34f63cc5e6e84f1ebc47d888322a3978.html",
+  "title_zh": "全市重点园区月度例会召开",
+  "title_en": "Monthly Meeting of Key Industrial Parks Held",
+  "summary_zh": "9月7日，泰州市市长李晖出席全市重点园区月度例会，强调狠抓招商引资、优化环境，推动园区高质量发展。",
+  "summary_en": "On September 7, Taizhou Mayor Li Hui attended the monthly meeting of key industrial parks, emphasizing investment promotion and environment optimization to drive high-quality development.",
+  "body_zh": "泰州要闻\n全市重点园区月度例会召开\n- 发布日期：2026-09-08 06:52\n- 浏览次数：\n9月7日，全市重点园区月度例会召开，深入贯彻落实市委“大抓经济、大抓产业、大抓项目”部署，充分发挥各重点园区经济工作主阵地、产业发展主平台、项目建设主战场作用，为全市经济高质量发展提供坚实支撑。市长李晖出席会议并讲话。\n此次会议以招商引资为主题，市商务局通报全域协同招商引资工作情况，海陵工业园区、泰兴黄桥经开区、泰州医药高新区港口产业片区、上海“招商战区”发言，汇报今年以来招商引资情况及下一步工作打算。会议还采取“园区出题、部门答卷”的形式，对园区反映的需要市级层面协调解决的具体问题，由相关部门逐一回应，通报最新进展，提出解决方案。\n李晖指出，园区生态是未来的核心竞争力。各地各重点园区要保持定力、久久为功，求真务实抓项目、坚定不移优环境，以正确政绩观引领园区更高质量发展。要加快推进共有产权住房，适时组织“看房团”活动，常态化开展政策宣讲解读，让更多企业和青年人才受益，更好留住产业工人，不断增强城市人口活力。要强化“四上”企业培育，用好融资担保等金融工具，鼓励优质企业扩大投资和技改升级，全力推动“四上”企业数量突破、活力增强、质量提升。要抓紧抓实推进产业用地提质增效、优化存量房地产用地开发、支持城市更新等相关政策措施的落地，精准施策拓展产业空间，更好推动资源要素向优质产业、高效产能集中。要全力攻坚大项目好项目，强化论证支持与服务保障，支持园区锚定细分赛道招引目标企业、对接人才团队、落户科研院所，靶向招引科技研发、现代金融、平台经济、商贸物流等功能性业态，不断拓展新的产业增量、注入新的发展动能。\n市委常委、常务副市长秦猛主持会议。市政府秘书长包亚参加会议。会上，市交产集团汇报服务园区机场行李预安检、流动早茶大巴运营等工作情况。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "园区经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "园区经济",
+      "name_en": "Industrial Park Economy"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "招商引资",
+    "园区经济"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Investment Promotion",
+    "Industrial Park Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "秦猛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260908-gov_tai_zhou-d03c9b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

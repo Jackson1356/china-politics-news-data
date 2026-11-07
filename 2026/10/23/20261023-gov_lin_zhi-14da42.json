@@ -1,0 +1,100 @@
+{
+  "id": "20261023-gov_lin_zhi-14da42",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/bcea30f0f5d341028581bbef76e725ba.shtml",
+  "title_zh": "那曲市巴青县发生7.0级地震，胡昌升第一时间调度部署并连夜赶赴灾区",
+  "title_en": "Magnitude 7.0 Earthquake Strikes Baqing County in Nagqu; Hu Changsheng Immediately Deploys Response and Rushes to Disaster Area Overnight",
+  "summary_zh": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震；自治区党委书记胡昌升、自治区主席嘎玛泽登当晚到自治区维稳指挥部调度部署，胡昌升连夜赶赴灾区指挥抗震救灾。",
+  "summary_en": "A magnitude 7.0 earthquake struck Baqing County in Nagqu, Tibet at 22:33 on Oct 22. Regional Party Secretary Hu Changsheng and Governor Garma Cedain directed the response that night, and Hu traveled overnight to the disaster zone to lead rescue work.",
+  "body_zh": "那曲市巴青县发生7.0级地震\n胡昌升第一时间调度部署并连夜赶赴灾区现场\n嘎玛泽登一同调度部署\n本报拉萨10月22日讯（记者 刘文涛 王艺霏 王雅慧）10月22日22时33分，那曲市巴青县发生7.0级地震。地震发生后，自治区党委书记胡昌升，自治区党委副书记、自治区主席嘎玛泽登第一时间前往自治区维稳指挥部调度部署。\n随后，胡昌升连夜赶赴灾区现场指挥抗震救灾工作。他强调，要深入贯彻落实习近平总书记重要指示精神，坚持人民至上、生命至上，尽快核实灾情，全力开展搜救、救治伤员，加紧抢修受损基础设施，妥善安置受灾群众，防范各类次生灾害，切实保障人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗震救灾",
+    "应急救援",
+    "群众安置"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": "Hu Changsheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NQ",
+      "name_zh": "那曲",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "巴青县",
+      "name_en": "Baqing County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急救援",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众安置",
+      "name_en": "Resettlement of Affected Residents"
+    }
+  ],
+  "tags_zh": [
+    "胡昌升",
+    "那曲",
+    "巴青县",
+    "抗震救灾",
+    "应急救援",
+    "群众安置"
+  ],
+  "tags_en": [
+    "Hu Changsheng",
+    "Baqing County",
+    "Earthquake Relief",
+    "Emergency Response",
+    "Resettlement of Affected Residents"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-changsheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261023-gov_lin_zhi-14da42",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

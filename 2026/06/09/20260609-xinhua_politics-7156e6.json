@@ -1,0 +1,79 @@
+{
+  "id": "20260609-xinhua_politics-7156e6",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260609/673ffc4006764c13adf60fc1987a0516/c.html",
+  "title_zh": "崇启公铁长江大桥主桥成功合龙",
+  "title_en": "Main Bridge of Chongqi Road-Rail Yangtze River Bridge Successfully Closed",
+  "summary_zh": "6月9日，连接上海崇明与江苏启东的崇启公铁长江大桥主桥成功合龙，该桥是我国首座高铁设计时速350公里的公铁两用长江大桥。",
+  "summary_en": "On June 9, the main bridge of the Chongqi Road-Rail Yangtze River Bridge, connecting Chongming in Shanghai and Qidong in Jiangsu, was successfully closed. It is China's first road-rail Yangtze River bridge with a design speed of 350 km/h.",
+  "body_zh": "连接上海崇明与江苏启东的崇启公铁长江大桥主桥6月9日成功合龙。崇启公铁长江大桥全长4.09公里，主跨400米，是目前在建的世界最大跨度公铁两用无砟轨道斜拉桥，也是我国首座高铁设计时速350公里的公铁两用长江大桥。\n记者：张梦洁\n新华社音视频部制作\n新华网 >  > 正文\n记者：张梦洁\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "基础设施建设",
+    "交通运输"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "江苏",
+    "基础设施建设",
+    "交通运输"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "Jiangsu",
+    "Infrastructure Construction",
+    "Transportation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH",
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260609-xinhua_politics-7156e6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

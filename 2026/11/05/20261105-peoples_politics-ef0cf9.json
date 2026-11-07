@@ -1,0 +1,125 @@
+{
+  "id": "20261105-peoples_politics-ef0cf9",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1105/c1001-40828354.html",
+  "title_zh": "王毅会见朝鲜劳动党代表团",
+  "title_en": "Wang Yi Meets Delegation of the Workers' Party of Korea",
+  "summary_zh": "11月5日，中共中央政治局委员、中央外办主任王毅在北京会见金成男率领的朝鲜劳动党代表团，双方表示将共同推动中朝关系向深向实向好发展。",
+  "summary_en": "On Nov 5 in Beijing, Wang Yi, head of the CPC Central Commission Office for Foreign Affairs, met a Workers' Party of Korea delegation led by Kim Song Nam; both sides pledged to deepen China-DPRK relations.",
+  "body_zh": "王毅会见朝鲜劳动党代表团\n新华社北京11月5日电 中共中央政治局委员、中央外办主任王毅5日在京会见由朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男率领的朝鲜劳动党代表团。\n王毅表示，今年6月，习近平总书记成功对朝鲜进行国事访问，为新时期中朝关系发展指明前进方向。中方愿同朝方共同落实两党两国最高领导人重要共识，推动中朝关系持续向深向实向好发展。王毅并介绍了中共二十届五中全会主要情况。\n金成男表示，朝方愿同中方一道，遵循两党两国最高领导人的意志，为发展朝中友好关系作出不懈努力。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "党际交往",
+    "高层共识落实"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金成男",
+      "name_en": "Kim Song Nam"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党际交往",
+      "name_en": "Inter-Party Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层共识落实",
+      "name_en": "Implementing Leaders' Consensus"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "金成男",
+    "北京",
+    "中朝关系",
+    "党际交往",
+    "高层共识落实",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Kim Song Nam",
+    "Beijing",
+    "China-DPRK Relations",
+    "Inter-Party Exchanges",
+    "Implementing Leaders' Consensus"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "王毅并"
+      },
+      {
+        "id": null,
+        "name_zh": "金成男"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261105-peoples_politics-ef0cf9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261105/cc7dbfa0637d4b2ab3b4d26b01336f0a/c.html",
+      "title_zh": "王毅会见朝鲜劳动党代表团",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

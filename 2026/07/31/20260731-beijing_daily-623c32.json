@@ -1,0 +1,88 @@
+{
+  "id": "20260731-beijing_daily-623c32",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/07/31/11894356.shtml",
+  "title_zh": "国家发改委：我国人工智能在全产业链多环节实现快速突破",
+  "title_en": "NDRC: China's AI Achieves Rapid Breakthroughs Across Full Industrial Chain",
+  "summary_zh": "7月31日，国家发改委介绍上半年我国人工智能发展，算力规模达去年同期2.8倍，国产大模型下载量破100亿次，下一步抓好创新、应用、生态。",
+  "summary_en": "On July 31, NDRC said China's AI innovation accelerated in H1, with computing power at 2.8 times last year's level and domestic large-model downloads exceeding 10 billion. Next steps focus on innovation, application, and ecosystem.",
+  "body_zh": "他进一步介绍，上半年，我国人工智能自主创新步伐加快，在全产业链多环节实现了快速突破。\n一是算力底座夯实，首个全国产10万卡人工智能超集群正式投用，截至6月底，全国智能算力规模达到去年同期的2.8倍。\n二是模型能力跃升，深度求索、月之暗面等本土企业先后发布多个万亿级参数开源大模型，国产大模型全球总下载量突破100亿次，国产模型与国产算力芯片加速适配。\n三是要素流动活跃，建成高质量数据集超过12万个，算力、模型、数据互促共进的良性循环加速形成。在各方面协同带动下，人工智能成为经济增长的澎湃动力源，相关行业保持30%以上的高增长。\n中国人工智能发展下一步会有哪些重点举措？\n蒋毅表示，重点是抓好创新、应用、生态这三大关键环节。一是加快自主创新，聚焦大模型基础理论、训练推理效率、多模态智能、智能体等前沿方向，加强基础研究和技术创新，加快数据开放共享和人工智能语料建设，为人工智能创新和应用提供更加丰富的数据支撑。二是突出应用牵引，加快推动国家人工智能应用中试基地布局建设，聚焦价值高、贡献大、效益好的领域，开放一批高价值场景，打造一批标杆应用，推动人工智能与实体经济深度融合。三是深化生态协同，推进“模芯云用”全链条协同创新、高效适配，大力培育智能原生企业、人工智能应用服务商，支持企业、高校、科研机构围绕产业需求开展联合创新，繁荣产业生态。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "人工智能",
+    "自主创新",
+    "算力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NDRC",
+      "name_zh": "国家发改委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自主创新",
+      "name_en": "Independent Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力",
+      "name_en": "Computing Power"
+    }
+  ],
+  "tags_zh": [
+    "国家发改委",
+    "人工智能",
+    "自主创新",
+    "算力"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Artificial Intelligence",
+    "Independent Innovation",
+    "Computing Power"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "蒋毅"
+      }
+    ],
+    "institutions": [
+      "NDRC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-beijing_daily-623c32",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

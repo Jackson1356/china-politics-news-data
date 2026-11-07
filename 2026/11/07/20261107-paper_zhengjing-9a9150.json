@@ -1,0 +1,93 @@
+{
+  "id": "20261107-paper_zhengjing-9a9150",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34425640",
+  "title_zh": "中国第43次南极考察队出征",
+  "title_en": "China's 43rd Antarctic Expedition Sets Sail",
+  "summary_zh": "11月7日，由自然资源部组织的中国第43次南极考察队从三亚南山港起航，600余名队员将开展多领域南极综合调查监测。",
+  "summary_en": "On November 7, China's 43rd Antarctic expedition, organized by the Ministry of Natural Resources, departed from Sanya's Nanshan Port with over 600 members for multi-disciplinary Antarctic research.",
+  "body_zh": "中国第43次南极考察队出征\n中国第43次南极考察队即将起航执行南极科学考察任务。起航仪式7日上午在三亚南山港科考码头3号泊位举行。\n11月7日，由自然资源部组织的中国第43次南极考察队踏浪出征、奔赴南极。\n此次考察将完善极地考察站点和运输保障体系，持续开展南极多领域综合调查监测，瞄准国际极地科技前沿实施重点任务，推进国产技术装备测试应用，深化双多边国际科研和保障合作。\n考察任务由“雪龙”号、“雪龙2”号和“大洋号”共同保障。来自国内100多家单位的600余名队员参加，预计2027年4月完成任务后返回国内。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-07",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "industry",
+  "keywords": [
+    "极地科考",
+    "南极综合调查监测",
+    "国际科研合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "极地科考",
+      "name_en": "Polar Research"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南极综合调查监测",
+      "name_en": "Antarctic Survey and Monitoring"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际科研合作",
+      "name_en": "International Scientific Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "三亚",
+    "极地科考",
+    "南极综合调查监测",
+    "国际科研合作"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Sanya",
+    "Polar Research",
+    "Antarctic Survey and Monitoring",
+    "International Scientific Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-paper_zhengjing-9a9150",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

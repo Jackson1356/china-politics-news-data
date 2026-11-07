@@ -1,0 +1,82 @@
+{
+  "id": "20260625-gov_cn_yaowen-b48711",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073326.htm",
+  "title_zh": "前4个月我国新兴产业和未来产业新设企业37.3万户",
+  "title_en": "China Sees 373,000 New Enterprises in Emerging and Future Industries in First Four Months",
+  "summary_zh": "市场监管总局数据显示，今年前4个月我国新兴产业和未来产业共新设企业37.3万户，其中生成式人工智能和人形机器人领域增长显著。",
+  "summary_en": "Data from the State Administration for Market Regulation shows 373,000 new enterprises were established in China's emerging and future industries in the first four months of this year.",
+  "body_zh": "市场监管总局公布最新数据显示，我国“8大新兴产业”和“9大未来产业”相关企业稳定增长，今年前4个月共新设37.3万户。以新一代信息技术、高端装备制造等为代表的“8大新兴产业”共新设相关企业26.7万户，持续发挥创新引领作用。人形机器人、生成式人工智能等为代表的“9大未来产业”新设相关企业13.2万户，同比增长11.0%，其中，生成式人工智能领域和人形机器人领域新设企业同比增长24.9%和13.3%。创新活力持续释放，为经济高质量发展注入新动能。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "新兴产业",
+    "未来产业",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "市场监管总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新兴产业",
+      "name_en": "Emerging Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "未来产业",
+      "name_en": "Future Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "市场监管总局",
+    "新兴产业",
+    "未来产业",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Emerging Industries",
+    "Future Industries",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "市场监管总局",
+        "name_en": "State Administration for Market Regulation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260625-gov_cn_yaowen-b48711",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20261019-xinhua_xj-f5294e",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xj.news.cn/20261019/e5184d197c0849f787c5684316873b35/c.html",
+  "title_zh": "自治区第十一次党代会举行预备会议",
+  "title_en": "Preparatory Meeting Held for Xinjiang's 11th Party Congress",
+  "summary_zh": "10月18日下午，中国共产党新疆维吾尔自治区第十一次代表大会举行预备会议，陈小江主持会议并讲话，通过大会主席团名单、代表资格审查委员会名单和大会议程。",
+  "summary_en": "On the afternoon of Oct 18, Xinjiang's 11th Party Congress held a preparatory meeting chaired by Chen Xiaojiang, approving the presidium, the credential committee and the congress agenda.",
+  "body_zh": "自治区第十一次党代会举行预备会议\n陈小江主持会议并讲话\n通过大会主席团名单、代表资格审查委员会名单和大会议程\n10月18日下午，中国共产党新疆维吾尔自治区第十一次代表大会举行预备会议。陈小江同志主持会议并讲话。\n自治区第十一次党代会应出席代表725名，预备会议实到720人。\n会议以举手表决方式，通过由104人组成的大会主席团名单，通过由13人组成的代表资格审查委员会名单，通过张迎春同志为大会秘书长。\n会议还通过了自治区第十一次党代会议程。大会议程为：听取和审查中国共产党新疆维吾尔自治区第十届委员会的报告；审查中国共产党新疆维吾尔自治区第十届纪律检查委员会的工作报告；选举中国共产党新疆维吾尔自治区第十一届委员会；选举中国共产党新疆维吾尔自治区第十一届纪律检查委员会。\n陈小江在讲话中指出，开好自治区第十一次党代会，对于团结动员全疆广大党员干部群众牢记嘱托、感恩奋进，守正创新、开拓进取，铸牢中华民族共同体意识、建设社会主义现代化新疆具有十分重要的意义。我们要深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，切实把思想和行动统一到以习近平同志为核心的党中央决策部署上来，以强烈的政治责任感和历史使命感，周密组织推进大会各项工作，认真审查大会报告，精心做好选举工作，切实严肃会风会纪，确保大会顺利圆满进行。各地各部门要坚持守土有责、守土负责、守土尽责，坚决维护社会大局稳定，毫不放松抓好安全生产工作，着力推动经济平稳健康发展，为大会胜利召开营造良好社会氛围。（记者 王兴瑞 刘毅）",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-18",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党内选举",
+    "纪律检查"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-Party Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律检查",
+      "name_en": "Discipline Inspection"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "新疆",
+    "党代会",
+    "党内选举",
+    "纪律检查",
+    "习近平"
+  ],
+  "tags_en": [
+    "Xinjiang",
+    "Party Congress",
+    "Intra-Party Elections",
+    "Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "江同志"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261019-xinhua_xj-f5294e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

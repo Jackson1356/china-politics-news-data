@@ -1,0 +1,100 @@
+{
+  "id": "20261107-local_ji_nan_ri_bao_cn_sd-ee5dde",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-11-07/2026B0700029.html",
+  "title_zh": "市政府党组召开扩大会议 学习贯彻习近平总书记重要讲话重要指示精神",
+  "title_en": "Jinan Municipal Government Party Group Holds Expanded Meeting to Study and Implement Xi Jinping's Important Speech and Instructions",
+  "summary_zh": "11月6日，济南市政府党组召开扩大会议，市长于海田主持，传达学习习近平总书记对黄河保护治理的重要指示及党外人士座谈会讲话精神，并研究落实意见。",
+  "summary_en": "On Nov 6, the Jinan Municipal Government Party Group held an expanded meeting chaired by Mayor Yu Haitian to convey and study Xi Jinping's instructions on Yellow River protection and governance and his remarks at a meeting with non-Party figures, and to discuss implementation measures.",
+  "body_zh": "市政府党组召开扩大会议 学习贯彻习近平总书记重要讲话重要指示精神\n本报11月6日讯(记者 林江丽)今天，市政府党组召开扩大会议，传达学习习近平总书记对进一步做好黄河保护治理工作作出的重要指示精神、主持党外人士座谈会时的重要讲话精神，研究贯彻落实意见。\n市委副书记、市长、市政府党组书记于海田主持会议并讲话。\n会议指出，习近平总书记的重要讲话重要指示，具有很强的政治性、指导性、针对性，为我们做好工作提供了根本遵循，要结合实际认真抓好贯彻落实。要牢牢把握重在保护、要在治理的战略要求，扛牢黄河流域重要的中心城市使命担当，统筹高质量发展和高水平保护，提升沿黄地区生态环境质量，加强水资源节约集约利用，加快发展方式绿色转型，着力保护传承弘扬黄河文化，推动济南新旧动能转换起步区加速成势，为开创黄河流域生态保护和高质量发展新局面作出济南贡献。要把学习好、宣传好、贯彻好党的二十届五中全会精神作为当前和今后一个时期的重大政治任务，强化开门问策，支持党外人士围绕政府中心工作开展民主监督，把协商民主的制度优势转化为政府治理的实际效能。\n会议学习了《中华人民共和国反不正当竞争法》，强调要全面提升反不正当竞争法实施水平，综合整治“内卷式”竞争，严厉打击不正当竞争行为，加强商业秘密保护，强化跨部门协同共治，切实维护公平竞争市场秩序。\n市政府党组成员出席会议。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "黄河保护治理",
+    "黄河流域生态保护和高质量发展",
+    "反不正当竞争"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河保护治理",
+      "name_en": "Yellow River Protection and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河流域生态保护和高质量发展",
+      "name_en": "Ecological Protection and High-Quality Development of the Yellow River Basin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反不正当竞争",
+      "name_en": "Anti-Unfair Competition"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "济南",
+    "黄河保护治理",
+    "黄河流域生态保护和高质量发展",
+    "反不正当竞争",
+    "习近平"
+  ],
+  "tags_en": [
+    "Jinan",
+    "Yellow River Protection and Governance",
+    "Ecological Protection and High-Quality Development of the Yellow River Basin",
+    "Anti-Unfair Competition"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261107-local_ji_nan_ri_bao_cn_sd-ee5dde",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_f70a0b01452b4704b03c5c13b7785db7.html",
+      "title_zh": "市政府党组召开扩大会议",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

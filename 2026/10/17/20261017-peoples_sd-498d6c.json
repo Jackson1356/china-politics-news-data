@@ -1,0 +1,98 @@
+{
+  "id": "20261017-peoples_sd-498d6c",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/1017/c166194-41724684.html",
+  "title_zh": "我国首个百万吨级低浓度CCUS全链条示范工程开工",
+  "title_en": "China's First Million-Ton Low-Concentration CCUS Full-Chain Demonstration Project Begins Construction",
+  "summary_zh": "10月16日，我国首个百万吨级低浓度CCUS全链条示范工程在胜利油田开工建设，预计2028年底建成投运。",
+  "summary_en": "On October 16, China's first million-ton low-concentration CCUS full-chain demonstration project began construction at the Shengli Oilfield and is expected to be completed and operational by the end of 2028.",
+  "body_zh": "我国首个百万吨级低浓度CCUS全链条示范工程开工\n本报济南10月16日电 （记者侯琳良、王云杉）10月16日，我国首个百万吨级低浓度CCUS（二氧化碳捕集利用与封存）全链条示范工程在胜利油田开工建设。项目建成后将可捕集利用燃煤电厂的低浓度烟气，全部用于油田驱油与封存。项目首创绿电系统直供碳捕集装置，实现“绿电直连、低碳捕集”的闭环模式，为我国“双碳”目标实现贡献力量。\n该工程预计于2028年底建成投运，所捕集二氧化碳通过70余口注气井注入油藏，可全覆盖滩坝砂油藏、浊积岩和页岩油等不同类型油藏。工程同步配套“风电+储能+直连线路+CCUS捕集”源网荷储一体化系统，规划13台风机、总装机98.8兆瓦，年发绿电2.17亿千瓦时。\n《 人民日报 》（ 2026年10月17日 05 版）",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "industry",
+  "keywords": [
+    "碳捕集利用与封存",
+    "双碳目标",
+    "绿电直连",
+    "油田驱油与封存"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "胜利油田",
+      "name_en": "Shengli Oilfield"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "碳捕集利用与封存",
+      "name_en": "CCUS"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双碳目标",
+      "name_en": "Dual Carbon Goals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿电直连",
+      "name_en": "Direct Green Power Connection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "油田驱油与封存",
+      "name_en": "Oil Recovery and Storage"
+    }
+  ],
+  "tags_zh": [
+    "胜利油田",
+    "碳捕集利用与封存",
+    "双碳目标",
+    "绿电直连",
+    "油田驱油与封存"
+  ],
+  "tags_en": [
+    "Shengli Oilfield",
+    "CCUS",
+    "Dual Carbon Goals",
+    "Direct Green Power Connection",
+    "Oil Recovery and Storage"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261017-peoples_sd-498d6c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/1017/c134768-41724626.html",
+      "title_zh": "我国首个百万吨级低浓度CCUS全链条示范工程开工",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

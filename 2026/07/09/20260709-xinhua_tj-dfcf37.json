@@ -1,0 +1,107 @@
+{
+  "id": "20260709-xinhua_tj-dfcf37",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260709/26e4f2884b694e558b2764d33bd4026a/c.html",
+  "title_zh": "第十七届津台投资合作洽谈会开幕",
+  "title_en": "The 17th Tianjin-Taiwan Investment Cooperation Fair Opens",
+  "summary_zh": "2026年7月8日，第十七届津台投资合作洽谈会在天津开幕，旨在推动两岸在人工智能、生物医药等产业的交流与合作。",
+  "summary_en": "The 17th Tianjin-Taiwan Investment Cooperation Fair opened in Tianjin on July 8, 2026, focusing on promoting cross-strait cooperation in AI, biomedicine, and health industries.",
+  "body_zh": "新华社天津7月8日电（记者张宇琪 梁姊）以“聚智新发展 共享新机遇”为主题的第十七届津台投资合作洽谈会（以下简称“津台会”）8日在天津开幕，两岸政界、工商界人士及基层民众代表约350人齐聚津门，围绕人工智能、生物医药、大健康等产业开展交流与合作。\n中共中央台办、国务院台办副主任彭庆恩表示，两岸同胞是一家人，为两岸同胞谋福祉是发展两岸关系的落脚点，我们将持续推动十项促进两岸交流合作的政策措施落地见效，让两岸同胞共享发展机遇。\n截至目前，2700多家台企在津深耕，投资总额超过190亿美元，天津已成为两岸经贸融合度最高的北方城市之一。2025年全年，在津88家重点台资企业营业收入为781.9亿元人民币，利润总额为43.39亿元人民币。\n据天津市委副书记、市长张工介绍，天津将依托京津冀协同发展重大战略，进一步释放新型产业机遇、重大支撑平台赋能机遇和先行先试开放机遇，为广大台企提供更广阔的发展空间和更优质的营商环境。\n中国国民党副主席张荣恭表示，两岸未来将加强新兴产业领域合作、探索医疗康养合作新路径，与本次津台会方向高度契合，希望未来继续支持台商在津发展，实现津台两地互利共赢。\n津台会创办于2008年，已成为加强津台产业合作、深化两岸融合发展的重要平台。本届津台会将持续至7月12日，还会举办津台人工智能产业合作交流会、京津冀台大健康产业交流会等产业对接活动，以及津台民乐交流专场音乐会、台青文化实训研习营、“2026两岸媒体行”等民间交流活动。（完）",
+  "image_url": null,
+  "published_at": "2026-07-09T12:00:00+00:00",
+  "event_date": "2026-07-08",
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "foreign",
+  "keywords": [
+    "津台合作",
+    "两岸融合",
+    "产业投资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "institution",
+      "id": "TAO",
+      "name_zh": "国务院台办",
+      "name_en": "Taiwan Affairs Office of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "津台合作",
+      "name_en": "Tianjin-Taiwan Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸融合",
+      "name_en": "Cross-Strait Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业投资",
+      "name_en": "Industrial Investment"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "国务院台办",
+    "天津",
+    "津台合作",
+    "两岸融合",
+    "产业投资"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Taiwan Affairs Office of the State Council",
+    "Tianjin",
+    "Tianjin-Taiwan Cooperation",
+    "Cross-Strait Integration",
+    "Industrial Investment"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      {
+        "id": null,
+        "name_zh": "张荣恭"
+      },
+      {
+        "id": null,
+        "name_zh": "彭庆恩"
+      }
+    ],
+    "institutions": [
+      "TAO"
+    ],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260709-xinhua_tj-dfcf37",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20261021-gov_shi_zui_shan-079b0c",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/szfxx/202610/t20261021_5377328.html",
+  "title_zh": "石嘴山市第十五届人民代表大会常务委员会举行第三十四次会议",
+  "title_en": "Shizuishan Municipal People's Congress Standing Committee Holds 34th Session",
+  "summary_zh": "10月20日，石嘴山市第十五届人大常委会举行第三十四次会议，审议多份报告和议事规则草案，表决通过辞职请求及人事任免事项。",
+  "summary_en": "On Oct 20, the 15th Shizuishan Municipal People's Congress Standing Committee held its 34th session, reviewing multiple reports and rules drafts, and approving resignations and personnel appointments.",
+  "body_zh": "石嘴山市第十五届人民代表大会常务委员会举行第三十四次会议\n10月20日，石嘴山市第十五届人民代表大会常务委员会举行第三十四次会议。\n会议应到常委会组成人员45人，实到36人，符合法定人数。\n会议学习了习近平总书记专题文集中的重要文稿，审议了《石嘴山市人民代表大会议事规则（草案）》的议案、2025年度市本级国有资产管理情况综合报告、《石嘴山市物业管理条例》立法后评估报告、《中华人民共和国消防法》实施情况的报告，作出了《关于加强〈石嘴山市国民经济和社会发展第十五个五年规划纲要〉实施监督的决定》，表决通过了市人大常委会主任、市监委主任的辞职请求，还决定了人事任免议案和个别代表的代表资格报告。\n会议强调，要深学笃行习近平法治思想，准确把握人大在推进依法治国中的使命任务。要坚持民生至上，高度重视物业服务领域问题整治，强化监管指导，加大整治力度，持续推进物业管理规范化。要做实财经监督，统筹抓好“十五五”规划纲要实施，促进国有资产保值增效，推动市委关于经济社会发展的安排部署落地落实。要深化“监督质效巩固年”活动，坚持关口前移、重心下移，坚持督帮一体、督改一体，带着法律去监督、带着问题去监督、带着政策去监督、带着代表建议去监督，以监督实效服务高质量发展。（记者 李文杰 陈路）",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "人大监督",
+    "人事任免",
+    "十五五规划",
+    "物业管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-SZ",
+      "name_zh": "石嘴山",
+      "name_en": "Shizuishan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物业管理",
+      "name_en": "Property Management"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "石嘴山",
+    "人大监督",
+    "人事任免",
+    "十五五规划",
+    "物业管理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shizuishan",
+    "People's Congress Oversight",
+    "Personnel Appointments",
+    "15th Five-Year Plan",
+    "Property Management"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261021-gov_shi_zui_shan-079b0c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20260626-gov_cn_yaowen-960e15",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073329.htm",
+  "title_zh": "王毅同奥地利外长赖辛格会谈",
+  "title_en": "Wang Yi Holds Talks with Austrian Foreign Minister Beate Raininger",
+  "summary_zh": "6月25日，外交部长王毅在北京同奥地利外长赖辛格举行会谈，双方强调相互尊重与互利共赢，旨在深化中奥友好战略伙伴关系。",
+  "summary_en": "On June 25, Foreign Minister Wang Yi met with Austrian Foreign Minister Beate Raininger in Beijing to emphasize mutual respect and win-win cooperation to deepen China-Austria relations.",
+  "body_zh": "新华社北京6月25日电 中共中央政治局委员、外交部长王毅25日在北京同奥地利外长赖辛格举行会谈。\n王毅表示，中奥建交55年来，双边关系总体保持健康稳定发展，最重要的经验就是相互尊重、平等相待，最有效的做法就是开放包容、互利共赢。中奥友好战略伙伴关系有力证明，大小不同、制度不同、文明不同的国家也完全可以交朋友、做伙伴。双方要让中奥友好传统在新时期焕发新活力。\n赖辛格表示，奥地利高度重视发展对华关系，继续奉行一个中国政策。奥企业愿继续深耕中国市场。奥方愿助力欧中开展坦诚对话。",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-25",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "中奥关系",
+    "一个中国政策",
+    "外交会谈"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赖辛格",
+      "name_en": "Beate Raininger"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中奥关系",
+      "name_en": "China-Austria Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国政策",
+      "name_en": "One China Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交会谈",
+      "name_en": "Diplomatic Talks"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "赖辛格",
+    "北京",
+    "中奥关系",
+    "一个中国政策",
+    "外交会谈"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beate Raininger",
+    "Beijing",
+    "China-Austria Relations",
+    "One China Policy",
+    "Diplomatic Talks"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "赖辛格"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260626-gov_cn_yaowen-960e15",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

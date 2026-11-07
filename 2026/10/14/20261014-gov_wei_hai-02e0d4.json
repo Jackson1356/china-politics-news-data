@@ -1,0 +1,97 @@
+{
+  "id": "20261014-gov_wei_hai-02e0d4",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/10/14/art_60663_6672228.html",
+  "title_zh": "张海波会见惠普公司客人",
+  "title_en": "Zhang Haibo Meets HP Executive",
+  "summary_zh": "10月13日，威海市委书记张海波会见惠普公司打印全球供应链运营高级副总裁米格尔·古兹曼一行，双方就深化合作、深耕威海进行交流。",
+  "summary_en": "On Oct 13, Weihai Party Secretary Zhang Haibo met Miguel Guzman, HP's senior vice president of global supply chain operations for printing, to discuss deepening cooperation and HP's continued presence in Weihai.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）10月13日，市委书记张海波会见惠普公司打印全球供应链运营高级副总裁米格尔·古兹曼一行，市领导李建、于宁参加。\n全媒体新闻中心记者 朱春晓/摄\n米格尔·古兹曼感谢威海对惠普公司发展的支持，表示将继续深耕威海，深化双方交流合作，为城市发展贡献更多力量。\n一审：史秀英 二审：史雅斐 三审：刘观达",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "外资合作",
+    "供应链",
+    "地方经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外资合作",
+      "name_en": "Foreign Investment Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "供应链",
+      "name_en": "Supply Chain"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方经济",
+      "name_en": "Local Economy"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "外资合作",
+    "供应链",
+    "地方经济"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Foreign Investment Cooperation",
+    "Supply Chain",
+    "Local Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "于宁"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261014-gov_wei_hai-02e0d4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

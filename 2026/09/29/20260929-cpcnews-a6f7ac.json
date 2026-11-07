@@ -1,0 +1,122 @@
+{
+  "id": "20260929-cpcnews-a6f7ac",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0929/c64094-40807227.html",
+  "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行",
+  "title_en": "Flower Basket Ceremony for Martyrs' Day to Be Held on Morning of Sept. 30; Xi Jinping and Other Party and State Leaders to Attend",
+  "summary_zh": "9月30日烈士纪念日上午，习近平等党和国家领导人将同各界代表一起，在天安门广场向人民英雄敬献花篮。",
+  "summary_en": "On the morning of Sept. 30, Martyrs' Day, Xi Jinping and other Party and state leaders will join representatives from all walks of life at Tiananmen Square in Beijing to lay flower baskets to the people's heroes.",
+  "body_zh": "习近平等党和国家领导人将出席\n新华社北京9月28日电 今年是中国共产党成立105周年、红军长征胜利90周年。9月30日是国家设立的烈士纪念日，当天上午，习近平等党和国家领导人将同各界代表一起，在天安门广场向人民英雄敬献花篮。\n届时，中央广播电视总台将进行现场直播。\n《 人民日报 》（ 2026年09月29日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "party",
+  "keywords": [
+    "烈士纪念日",
+    "缅怀英烈",
+    "爱国主义教育"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烈士纪念日",
+      "name_en": "Martyrs' Day"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "缅怀英烈",
+      "name_en": "Honoring Martyrs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义教育",
+      "name_en": "Patriotic Education"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "烈士纪念日",
+    "缅怀英烈",
+    "爱国主义教育"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Martyrs' Day",
+    "Honoring Martyrs",
+    "Patriotic Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260928-gov_cn_yaowen-eed982",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202609/t20260929_5096584.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席-总书记信息-沈阳市人民政府",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_shun",
+      "source_tier": 4,
+      "url": "https://www.fushun.gov.cn/ywdt/001005/20260929/be67e806-2b15-4d55-a350-4a41ca96376a.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席_抚顺市人民政府",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202609/t20260929_177386.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行习近平等党和国家领导人将出席",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20260929/d43333a9-0c94-4d21-adb5-d5441687d467.html",
+      "title_zh": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

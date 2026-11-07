@@ -1,0 +1,107 @@
+{
+  "id": "20261105-gov_cn_yaowen-26b756",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+  "title_zh": "国务院办公厅关于2027年部分节假日安排的通知",
+  "title_en": "General Office of the State Council Issues Notice on 2027 Public Holiday Arrangements",
+  "summary_zh": "国务院办公厅印发通知，明确2027年元旦、春节、清明、劳动节、端午、中秋、国庆七个节假日的放假调休安排，其中春节放假调休9天。",
+  "summary_en": "The General Office of the State Council issued a notice detailing 2027 public holiday and make-up workday arrangements for seven festivals, including a nine-day Spring Festival break.",
+  "body_zh": "国务院办公厅关于2027年\n部分节假日安排的通知\n国办发明电〔2026〕10号\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节、中秋节和国庆节放假调休日期的具体安排通知如下。\n一、元旦：\n1月1日（周五）至3日（周日）放假，共3天。\n二、春节：\n2月5日（农历除夕、周五）至13日（农历正月初八、周六）放假调休，共9天。1月31日（周日）、2月14日（周日）上班。\n三、清明节：\n4月3日（周六）至5日（周一）放假，共3天。\n四、劳动节：\n5月1日（周六）至5日（周三）放假调休，共5天。5月8日（周六）上班。\n五、端午节：\n6月9日（周三）放假，共1天。\n六、中秋节：\n9月15日（周三）放假，共1天。\n七、国庆节：\n10月1日（周五）至7日（周四）放假调休，共7天。9月26日（周日）、10月9日（周六）上班。\n鼓励单位和个人结合落实带薪年休假等制度，实际形成较长假期，推动错峰出行。节假日期间，各地区、各部门要妥善安排好值班和安全、保卫、疫情防控等工作，遇有重大突发事件，要按规定及时报告并妥善处置，确保人民群众祥和平安度过节日假期。\n国务院办公厅",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "节假日安排",
+    "放假调休",
+    "带薪年休假",
+    "错峰出行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GOSC",
+      "name_zh": "国务院办公厅",
+      "name_en": "General Office of the State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节假日安排",
+      "name_en": "Holiday Arrangements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "放假调休",
+      "name_en": "Adjusted Holidays"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "带薪年休假",
+      "name_en": "Paid Annual Leave"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "错峰出行",
+      "name_en": "Staggered Travel"
+    }
+  ],
+  "tags_zh": [
+    "国务院办公厅",
+    "节假日安排",
+    "放假调休",
+    "带薪年休假",
+    "错峰出行"
+  ],
+  "tags_en": [
+    "General Office of the State Council",
+    "Holiday Arrangements",
+    "Adjusted Holidays",
+    "Paid Annual Leave",
+    "Staggered Travel"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GOSC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261105-gov_cn_yaowen-26b756",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34412735",
+      "title_zh": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "title_zh": "国务院办公厅关于2027年部分节假日安排的通知_其他",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

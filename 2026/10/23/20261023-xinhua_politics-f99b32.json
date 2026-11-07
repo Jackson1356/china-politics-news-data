@@ -1,0 +1,115 @@
+{
+  "id": "20261023-xinhua_politics-f99b32",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261023/68af256675004e06991e7de3e0cf1c25/c.html",
+  "title_zh": "国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应提升至三级，消防救援队伍已抵达灾区",
+  "title_en": "State Council Earthquake Relief Headquarters Office and Ministry of Emergency Management Raise National Earthquake Disaster Response to Level III; Fire and Rescue Teams Reach Quake Zone",
+  "summary_zh": "10月22日22时33分西藏那曲市巴青县发生7.0级地震，造成16人遇难、54人受伤。国务院抗震救灾指挥部办公室、应急管理部23日将国家地震灾害应急响应由四级提升至三级，并派工作组赴震区，消防救援队伍已抵达。",
+  "summary_en": "A magnitude-7.0 earthquake struck Baqing County in Nagqu, Tibet on Oct 22, killing 16 and injuring 54. On Oct 23 the State Council earthquake relief office and the Ministry of Emergency Management raised the national response from Level IV to Level III, sent a working group, and fire and rescue teams have reached the quake zone.",
+  "body_zh": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，已造成16人遇难，54人受伤。\n地震发生后，国务院抗震救灾指挥部副总指挥、应急管理部部长张成中持续调度指导应急处置工作。根据国家地震应急预案，国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，派出由国务院抗震救灾指挥部副总指挥、中国地震局局长王昆带队的工作组赴震区指导协助。应急管理部指导西藏自治区应急管理厅调派翼龙无人机赶赴灾区，开展灾情侦察任务。\n国家综合性消防救援队伍共调派350人、83车出动救援，截至23日6时30分，已有120人、27车抵达灾区，西藏消防救援总队230人、56车在增援途中，均已行进至那曲境内。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗震救灾",
+    "应急响应",
+    "消防救援"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国地震局",
+      "name_en": "China Earthquake Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NQ",
+      "name_zh": "那曲",
+      "name_en": "Nagqu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消防救援",
+      "name_en": "Fire and Rescue"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "中国地震局",
+    "西藏",
+    "那曲",
+    "抗震救灾",
+    "应急响应",
+    "消防救援"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "China Earthquake Administration",
+    "Tibet",
+    "Nagqu",
+    "Earthquake Relief",
+    "Emergency Response",
+    "Fire and Rescue"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-XZ",
+      "CN-XZ-NQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国地震局",
+        "name_en": "China Earthquake Administration"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261023-xinhua_politics-f99b32",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

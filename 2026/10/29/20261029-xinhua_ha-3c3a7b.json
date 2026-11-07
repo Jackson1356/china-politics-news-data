@@ -1,0 +1,105 @@
+{
+  "id": "20261029-xinhua_ha-3c3a7b",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.news.cn/20261029/7b8ead6729604ce495d14a890b4cf759/c.html",
+  "title_zh": "省十四届人大常委会第二十七次会议举行",
+  "title_en": "27th Session of Henan Provincial 14th NPC Standing Committee Convened",
+  "summary_zh": "10月26日，河南省十四届人大常委会第二十七次会议在郑州举行，表决通过接受刘宁辞去省人大常委会主任职务的决定，并表决通过有关人事任命事项。",
+  "summary_en": "On Oct 26, the 27th session of the Standing Committee of the 14th Henan Provincial People's Congress was held in Zhengzhou, approving Liu Ning's resignation as committee director and passing personnel appointments.",
+  "body_zh": "10月26日，省十四届人大常委会第二十七次会议在郑州举行。\n省人大常委会副主任、党组书记李亚主持会议，副主任孙守刚、陈星、何金平、刘南昌、张建慧、张弓和秘书长吉炳伟出席。\n当天举行的第一次全体会议，传达学习了省第十二次党代会精神，听取了省人大常委会副主任孙守刚作的关于人事任免案有关情况的说明。常委会组成人员进行了分组审议。\n分组审议后，第二次全体会议表决通过了关于接受刘宁辞去河南省第十四届人民代表大会常务委员会主任职务请求的决定。\n会议还表决通过了关于省十四届人大代表出缺和补选情况的代表资格审查报告，省人大常委会主任会议提请任命名单。\n会上，有关新任命人员依法进行了宪法宣誓。\n会议强调，省第十二次党代会牢牢把握习近平总书记对河南发展标定的新坐标、赋予的新使命，锚定奋力谱写新篇章奋斗目标，聚焦“两高四着力”重大要求，系统勾勒了我省未来五年发展的全景图、路线图、施工图，必将指引亿万中原儿女坚定信心、接续奋斗，以高质量发展和高效能治理奋力谱写中原大地推进中国式现代化新篇章。要深入学习贯彻习近平总书记关于河南工作的重要讲话和重要指示批示精神，全面贯彻省第十二次党代会精神，把握目标任务、领会实践要求、找准履职重点，认真谋划好明年的立法、监督、决定、代表等各项工作，全面加强党的建设，以实际行动践行和发展全过程人民民主，坚持好、完善好、运行好人民代表大会制度，在奋力谱写中原大地推进中国式现代化新篇章中展现人大新担当新作为。\n副省长李酌，省高级人民法院院长秦海、省人民检察院检察长段文龙、省监察委员会有关负责同志，各省辖市人大常委会、济源示范区人大工委主要负责同志列席会议。（全媒体记者 陈小平）",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "人民代表大会制度",
+    "省党代会精神"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA-ZZ",
+      "name_zh": "郑州",
+      "name_en": "Zhengzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments and Removals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民代表大会制度",
+      "name_en": "People's Congress System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省党代会精神",
+      "name_en": "Provincial Party Congress Guidelines"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "河南",
+    "郑州",
+    "人事任免",
+    "人民代表大会制度",
+    "省党代会精神",
+    "习近平"
+  ],
+  "tags_en": [
+    "Henan",
+    "Zhengzhou",
+    "Personnel Appointments and Removals",
+    "People's Congress System",
+    "Provincial Party Congress Guidelines"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "李亚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA",
+      "CN-HA-ZZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261029-xinhua_ha-3c3a7b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

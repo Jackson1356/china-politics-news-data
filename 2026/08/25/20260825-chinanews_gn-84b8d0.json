@@ -1,0 +1,94 @@
+{
+  "id": "20260825-chinanews_gn-84b8d0",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-25/10683667.shtml",
+  "title_zh": "国家公共数据资源登记平台已登记量超30万项",
+  "title_en": "National Public Data Registration Platform Exceeds 300,000 Items",
+  "summary_zh": "国家数据局介绍，国家公共数据资源登记平台登记量已超30万项，覆盖国民经济97个大类，促进供需对接。",
+  "summary_en": "The National Data Administration said the national public data registration platform has logged over 300,000 items, covering all 97 categories of the national economy, facilitating supply-demand matching.",
+  "body_zh": "国家公共数据资源登记平台已登记量超30万项\n记者今天从国家数据局了解到，截至目前，国家公共数据资源登记平台上已登记的数据资源、产品和服务超过30万项，覆盖全部国民经济97个大类。供数方可以在平台上发布公共数据资源，用数方则可以在平台上查找资源、发布需求，从而完成供需对接。\n(总台央视记者 吴昊 刘柏煊)\n国内新闻精选：\n- 2026年08月25日 10:39:02\n- 2026年08月25日 09:42:23\n- 2026年08月25日 07:28:18\n- 2026年08月24日 20:45:07\n- 2026年08月24日 14:00:54\n- 2026年08月23日 20:31:26\n- 2026年08月23日 18:38:45\n- 2026年08月23日 17:41:53\n- 2026年08月23日 16:43:22\n- 2026年08月23日 11:37:23",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "公共数据",
+    "数据资源",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共数据",
+      "name_en": "Public Data"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据资源",
+      "name_en": "Data Resources"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "公共数据",
+    "数据资源",
+    "数字经济"
+  ],
+  "tags_en": [
+    "National Data Administration",
+    "Public Data",
+    "Data Resources",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260825-chinanews_gn-84b8d0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683711.shtml",
+      "title_zh": "国家公共数据资源登记平台已登记量超30万项",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

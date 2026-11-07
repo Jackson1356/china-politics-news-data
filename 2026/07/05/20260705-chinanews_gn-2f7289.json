@@ -1,0 +1,93 @@
+{
+  "id": "20260705-chinanews_gn-2f7289",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-05/10652995.shtml",
+  "title_zh": "中国海军舰艇编队抵达越南进行访问",
+  "title_en": "Chinese Naval Fleet Arrives in Vietnam for Visit",
+  "summary_zh": "2026年7月5日上午，中国人民解放军海军舰艇编队应越南海军邀请抵达胡志明市访问，旨在深化两国海军合作并增进互信。",
+  "summary_en": "On the morning of July 5, 2026, a PLA Navy fleet arrived in Ho Chi Minh City, Vietnam, at the invitation of the Vietnamese Navy to deepen naval cooperation and enhance mutual trust.",
+  "body_zh": "中国海军舰艇编队抵达越南进行访问\n当地时间5日上午，应越南海军邀请，中国人民解放军海军戚继光舰、昆仑山舰组成的舰艇编队抵达越南胡志明市访问。近年来，中越海军在舰艇互访、联合巡逻等领域深化合作，为增进两国互信、维护地区稳定发挥积极作用。(总台记者 王宇)\n国内新闻精选：\n- 2026年07月05日 12:14:35\n- 2026年07月05日 08:14:38\n- 2026年07月05日 06:50:41\n- 2026年07月04日 16:38:59\n- 2026年07月04日 16:21:38\n- 2026年07月04日 16:19:52\n- 2026年07月04日 16:15:56\n- 2026年07月04日 15:42:02\n- 2026年07月04日 15:06:04\n- 2026年07月04日 08:33:17",
+  "image_url": null,
+  "published_at": "2026-07-05T12:00:00+00:00",
+  "event_date": "2026-07-05",
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "foreign",
+  "keywords": [
+    "军事外交",
+    "中越关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PLA-NAVY",
+      "name_zh": "中国人民解放军海军",
+      "name_en": "PLA Navy"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "越南",
+      "name_en": "Vietnam"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "胡志明",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军事外交",
+      "name_en": "Military Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中越关系",
+      "name_en": "China-Vietnam Relations"
+    }
+  ],
+  "tags_zh": [
+    "中国人民解放军海军",
+    "越南",
+    "胡志明",
+    "军事外交",
+    "中越关系"
+  ],
+  "tags_en": [
+    "PLA Navy",
+    "Vietnam",
+    "Military Diplomacy",
+    "China-Vietnam Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PLA-NAVY"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260705-chinanews_gn-2f7289",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/07-05/10652997.shtml",
+      "title_zh": "中俄两军将举行“海上联合-2026”联合演习和海上联合巡航",
+      "published_at": "2026-07-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "20261102-xinhua_yn-72d148",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261102/5bcf6653d81c4da1afaef900ae20ec45/c.html",
+  "title_zh": "刘奇凡任云南省代省长",
+  "title_en": "Liu Qifan Appointed Acting Governor of Yunnan Province",
+  "summary_zh": "11月2日，云南省十四届人大常委会第二十六次会议决定接受王予波辞去省长职务，任命刘奇凡为副省长、代理省长。",
+  "summary_en": "On November 2, the Standing Committee of the 14th Yunnan Provincial People's Congress accepted Wang Yubo's resignation as governor and appointed Liu Qifan as vice governor and acting governor.",
+  "body_zh": "刘奇凡任云南省代省长-新华网\n新华网\n时政\n> 正文\n12:23:08\n刘奇凡任云南省代省长\n小\n中\n大\n刘奇凡任云南省代省长\n新华社昆明11月2日电 云南省第十四届人民代表大会常务委员会第二十六次会议11月2日决定，接受王予波辞去省人民政府省长职务的请求，任命刘奇凡为云南省人民政府副省长、代理省长。\n【纠错】\n阅读下一篇：\n刘奇凡任云南省代省长",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "省级领导班子"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qifan",
+      "name_zh": "刘奇凡",
+      "name_en": "Liu Qifan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN-KM",
+      "name_zh": "昆明",
+      "name_en": "Kunming"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省级领导班子",
+      "name_en": "Provincial Leadership"
+    }
+  ],
+  "tags_zh": [
+    "刘奇凡",
+    "云南",
+    "昆明",
+    "人事任免",
+    "省级领导班子"
+  ],
+  "tags_en": [
+    "Liu Qifan",
+    "Yunnan",
+    "Kunming",
+    "Personnel Appointment",
+    "Provincial Leadership"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qifan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN",
+      "CN-YN-KM"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261102-xinhua_yn-72d148",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1793587745129201.html",
+      "title_zh": "刘奇凡任云南省代省长",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/1103/c378439-41739892.html",
+      "title_zh": "刘奇凡任云南省代省长",
+      "published_at": "2026-11-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

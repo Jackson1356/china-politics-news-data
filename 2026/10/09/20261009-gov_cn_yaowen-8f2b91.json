@@ -1,0 +1,83 @@
+{
+  "id": "20261009-gov_cn_yaowen-8f2b91",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082826.htm",
+  "title_zh": "铁路中秋国庆假期运输期间发送旅客超3亿人次",
+  "title_en": "Railways Send Over 300 Million Passengers During Mid-Autumn and National Day Holiday Travel Period",
+  "summary_zh": "9月23日至10月8日，为期16天的铁路中秋国庆假期运输收官，全国铁路累计发送旅客3.02亿人次、货物1.92亿吨，同比分别增长24.6%和5.0%。",
+  "summary_en": "China's railways carried 302 million passengers and 192 million tons of freight during the Sept 23-Oct 8 holiday travel period, up 24.6% and 5.0% year on year.",
+  "body_zh": "新华社北京10月9日电（记者 樊曦）记者9日从中国国家铁路集团有限公司获悉，9月23日至10月8日，为期16天的铁路中秋国庆假期运输圆满收官，运输安全平稳有序，全国铁路累计发送旅客3.02亿人次，国家铁路累计发送货物1.92亿吨，同比分别增长24.6%、5.0%，呈现客货两旺的良好态势。\n国铁集团运输部负责人介绍，今年中秋国庆双节假期，旅游、探亲、休闲等出行和节日物资运输需求旺盛，铁路部门积极适应旺盛的客货运输需求，增加运力投放，提升服务品质，为旅客假日平安有序温馨出行和国民经济平稳运行提供了有力支撑。\n中秋国庆假期运输期间，铁路多项客运指标创历史新高。全国铁路日均开行旅客列车1.33万列、同比增长3.3%，其中10月1日开行旅客列车14885列、创单日客运能力投放历史新高，10月1日发送旅客2520.4万人次、创单日旅客发送量历史新高。9月23日发售火车票2973.7万张、创单日售票量历史新高。\n与此同时，国家铁路日均装车19.7万车，累计完成货物发送量1.92亿吨，有力保障了电煤、粮食、化肥等国计民生重点物资和假日物资运输，较好地服务了人民群众假日出行和国民经济平稳运行。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路运输",
+    "假日出行",
+    "货物运输"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假日出行",
+      "name_en": "Holiday Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货物运输",
+      "name_en": "Freight Transport"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路运输",
+    "假日出行",
+    "货物运输"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Transport",
+    "Holiday Travel",
+    "Freight Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261009-gov_cn_yaowen-8f2b91",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

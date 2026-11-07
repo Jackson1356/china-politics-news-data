@@ -1,0 +1,103 @@
+{
+  "id": "20261105-gov_shuo_zhou-b65329",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085128.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在公安部宣讲",
+  "title_en": "Central Propaganda Team Delivers Report on Fifth Plenary Session of 20th CPC Central Committee at Ministry of Public Security",
+  "summary_zh": "2026年11月5日，中央宣讲团在公安部举行报告会，王小洪围绕党的二十届五中全会精神作宣讲。",
+  "summary_en": "On Nov 5, 2026, Wang Xiaohong delivered a central propaganda team report at the Ministry of Public Security on the Fifth Plenary Session of the 20th CPC Central Committee.",
+  "body_zh": "新华社北京11月5日电 学习贯彻党的二十届五中全会精神中央宣讲团报告会11月5日在公安部举行。中央宣讲团成员、中共中央书记处书记、公安部部长王小洪作宣讲报告。\n王小洪围绕习近平总书记重要讲话和全会《决定》，结合公安工作和队伍实际，从深刻理解把握全会的重大意义，深刻理解把握新时代全面从严治党取得的伟大成就，深刻理解把握持之以恒推进全面从严治党的重要性紧迫性和总体要求、战略任务、重大举措等方面，对全会精神作全面宣讲和重点解读。\n王小洪强调，公安机关要把学习贯彻全会精神作为当前和今后一个时期的重大政治任务，深入学习贯彻习近平党建思想，坚定拥护“两个确立”、坚决做到“两个维护”，对标对表《决定》内容，始终保持直面问题、刀刃向内的勇气和决心，以党的政治建设为统领，持之以恒推进全面从严管党治警，着力锻造新时代公安铁军，坚决扛牢守百姓幸福、护家国平安重任，永远做党和人民的忠诚卫士。\n报告会以视频会议形式举行，主会场和分会场共1万余人参加。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "公安队伍建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xiaohong",
+      "name_zh": "王小洪",
+      "name_en": "Wang Xiaohong"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公安队伍建设",
+      "name_en": "Public Security Force Building"
+    }
+  ],
+  "tags_zh": [
+    "王小洪",
+    "公安部",
+    "北京",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "公安队伍建设"
+  ],
+  "tags_en": [
+    "Wang Xiaohong",
+    "Ministry of Public Security",
+    "Beijing",
+    "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee",
+    "Full and Rigorous Party Governance",
+    "Public Security Force Building"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xiaohong"
+    ],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261105-gov_shuo_zhou-b65329",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

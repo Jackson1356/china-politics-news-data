@@ -1,0 +1,83 @@
+{
+  "id": "20260923-chinanews_gn-661aff",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-23/10702244.shtml",
+  "title_zh": "台当局以“Chinese Taipei”参加APEC 国台办回应",
+  "title_en": "Taiwan Authorities Use \"Chinese Taipei\" at APEC; Taiwan Affairs Office Responds",
+  "summary_zh": "9月23日，国务院台办举行例行新闻发布会，发言人朱凤莲就台湾地区以“中国台北”名义参与APEC及台湾官员赴南京与会等问题作出回应。",
+  "summary_en": "On September 23, the State Council Taiwan Affairs Office held a regular press conference, where spokesperson Zhu Fenglian responded to questions about Taiwan's participation in APEC under the name \"Chinese Taipei\" and a Taiwan official's attendance in Nanjing.",
+  "body_zh": "台当局以“Chinese Taipei”参加APEC 国台办回应\n中新网9月23日电 9月23日，国务院台办举行例行新闻发布会。有记者问：第一个问题，台湾“劳动部长”洪申翰赴南京参加APEC会议，桌牌使用“Chinese Taipei”，对比此前，台北市长蒋万安妻子曾因自称来自“Chinese Taipei”，却遭批评“自我矮化”，此次洪申翰却没有这样的声音。请问如何看待台湾内部的双重标准？第二个问题，台湾“劳动部长”洪申翰赴南京参加APEC会议返台后称，大陆方面有给予其平等参与及尊严，并未发生此前有舆论担心其可能被监听甚至无法返台等情形。请问大陆方面如何评价此次台湾部长级官员赴陆与会？\n国台办发言人朱凤莲表示，第一个问题，在一个中国原则下，台湾地区以“中国台北”名义、地区经济体身份参与亚太经合组织(APEC)及相关活动。各方须遵守APEC有关谅解备忘录规定及惯例。第二个问题，无论什么级别的台湾同胞来大陆都不需要有莫须有的担心和忧虑，只要合法合规，一定可以高高兴兴地来、平平安安地回。(中新网“燕新台”工作室)\n国内新闻精选：\n- 2026年09月23日 15:09:48\n- 2026年09月23日 14:41:56\n- 2026年09月23日 14:21:17\n- 2026年09月23日 13:59:53\n- 2026年09月23日 13:58:33\n- 2026年09月23日 13:41:24\n- 2026年09月23日 13:05:27\n- 2026年09月23日 12:11:59\n- 2026年09月23日 09:49:08\n- 2026年09月22日 23:19:16",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "两岸关系",
+    "一个中国原则",
+    "亚太经合组织"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸关系",
+      "name_en": "Cross-Strait Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "两岸关系",
+    "一个中国原则",
+    "亚太经合组织"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "Cross-Strait Relations",
+    "One-China Principle",
+    "APEC"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260923-chinanews_gn-661aff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

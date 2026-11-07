@@ -1,0 +1,93 @@
+{
+  "id": "20260808-qianlong-74e4c0",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://china.qianlong.com/2026/0808/8709205.shtml",
+  "title_zh": "公安部发布《公安机关网络空间安全监督检查办法》",
+  "title_en": "Ministry of Public Security Issues Measures for Cyberspace Security Supervision and Inspection",
+  "summary_zh": "公安部8月7日发布《公安机关网络空间安全监督检查办法》，自2026年10月1日起施行，共23条，明确监督检查对象、方式、内容等。",
+  "summary_en": "The Ministry of Public Security issued the Measures for Supervision and Inspection of Cyberspace Security by Public Security Organs on August 7, effective October 1, 2026, specifying inspection targets, methods, and contents.",
+  "body_zh": "新华社北京8月7日电 公安部8月7日发布《公安机关网络空间安全监督检查办法》，自2026年10月1日起施行。\n办法共23条，主要规定六方面内容：一是明确监督检查对象，包括网络运营者、数据处理者、个人信息处理者等；二是明确监督检查方式，包括线上巡查、线下核查，日常检查、专项检查等；三是明确监督检查内容，包括被检查对象是否履行法定的网络空间安全义务，以及重大活动安保期间的重点检查内容等；四是明确监督检查机制，要求在国家网络安全、数据安全等机制统筹协调下，加强部门协调、联合检查，减少企业负担；五是明确检查结果运用，公安机关按检查情况采取督促整改、发送公安提示函以及处罚等措施；六是明确相关法律责任，明确了公安机关及工作人员玩忽职守、滥用职权、泄露国家秘密等法律责任。\n办法对健全联合检查机制、减少企业负担作出规定。公安机关应当建立健全与有关部门的监督检查协作配合机制，加强跨部门协同配合、信息沟通，合理确定现场检查的频次、范围、方式，避免重复检查、交叉检查。\n此外，办法还对公安机关执法规范化建设提出进一步要求，明确公安机关开展监督检查的人员、文书等具体要求，以及委托技术支持机构协助开展检查的安全管理要求。",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "industry",
+  "keywords": [
+    "网络安全",
+    "数据安全",
+    "监督检查"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据安全",
+      "name_en": "Data Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "监督检查",
+      "name_en": "Supervision and Inspection"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "北京",
+    "网络安全",
+    "数据安全",
+    "监督检查"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Beijing",
+    "Cybersecurity",
+    "Data Security",
+    "Supervision and Inspection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260808-qianlong-74e4c0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

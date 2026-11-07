@@ -1,0 +1,96 @@
+{
+  "id": "20261022-paper_zhengjing-f016cb",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34310101",
+  "title_zh": "习近平出席纪念红军长征胜利90周年大会并发表重要讲话",
+  "title_en": "Xi Jinping Attends Meeting Marking 90th Anniversary of Long March Victory, Delivers Key Speech",
+  "summary_zh": "10月22日上午，纪念中国工农红军长征胜利90周年大会在北京举行，习近平出席并发表重要讲话，提议全体起立为革命烈士默哀。",
+  "summary_en": "On the morning of October 22, a meeting marking the 90th anniversary of the Chinese Workers' and Peasants' Red Army's Long March victory was held in Beijing, where Xi Jinping delivered a key speech and proposed a moment of silence for revolutionary martyrs.",
+  "body_zh": "视频丨习近平提议全体起立，为在长征途中和在各地革命斗争中英勇牺牲的革命烈士默哀\n马立飞、李晓周、王鹏飞、许永松、赵化、郁振一、王冰、朱超/央视新闻\n纪念中国工农红军长征胜利90周年大会22日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。\n在热烈的掌声中，习近平发表重要讲话。他代表党中央、国务院、中央军委，代表全党全军全国各族人民，向领导红军创造长征这一历史伟业的毛泽东、周恩来、朱德同志等老一辈革命家，向在长征中浴血奋战和在各地坚持革命斗争的红军指战员，向当年支援红军长征的各族人民特别是各革命根据地人民，向所有健在的红军老战士，致以崇高的敬意。他提议全体起立，为在长征途中和在各地革命斗争中英勇牺牲的革命烈士默哀。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "纪念活动",
+    "革命传统教育"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪念活动",
+      "name_en": "Commemoration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "革命传统教育",
+      "name_en": "Revolutionary Tradition Education"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央",
+    "长征精神",
+    "纪念活动",
+    "革命传统教育"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "Long March Spirit",
+    "Commemoration",
+    "Revolutionary Tradition Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261022-paper_zhengjing-f016cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

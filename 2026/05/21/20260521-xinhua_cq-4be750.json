@@ -1,0 +1,79 @@
+{
+  "id": "20260521-xinhua_cq-4be750",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_url": "http://cq.news.cn/20260521/daad6ec8794d4633a98e733b6890342a/c.html",
+  "title_zh": "第八届西洽会签约项目212个 正式合同额超1500亿元",
+  "title_en": "8th Western China International Fair Signs 212 Projects with Contract Value Exceeding 150 Billion Yuan",
+  "summary_zh": "第八届中国西部国际投资贸易洽谈会5月21日在重庆开幕，共签约项目212个，合同额超1500亿元，并发布《投资重庆机会清单》。",
+  "summary_en": "The 8th Western China International Fair opened in Chongqing on May 21, signing 212 projects worth over 150 billion yuan and releasing the 'Investment Chongqing Opportunity List'.",
+  "body_zh": "新华社重庆5月21日电（记者赵佳乐、李晓婷）第八届中国西部国际投资贸易洽谈会5月21日在重庆开幕，本届西洽会共签约项目212个，正式合同额超1500亿元。\n本届西洽会主题为“新西部、新制造、新服务”，邀请英国为主宾国、四川省为常设主宾省、韩国京畿道为主宾城。来自50个国家和地区的近1400家企业参展参会。\n据组委会介绍，本届西洽会签约项目涉及先进材料、能源等多个领域，正式合同额10亿元以上的项目达57个。\n今年西洽会还首次发布《投资重庆机会清单》，汇集277个合作项目，面向全球释放重庆在先进制造、绿色低碳、数字经济等领域的合作机遇，推动各类优质资源精准对接、高效匹配。（完）",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "对外贸易",
+    "先进制造"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造",
+      "name_en": "Advanced Manufacturing"
+    }
+  ],
+  "tags_zh": [
+    "重庆",
+    "招商引资",
+    "对外贸易",
+    "先进制造"
+  ],
+  "tags_en": [
+    "Chongqing",
+    "Investment Promotion",
+    "Foreign Trade",
+    "Advanced Manufacturing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260521-xinhua_cq-4be750",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

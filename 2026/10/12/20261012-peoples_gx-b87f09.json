@@ -1,0 +1,100 @@
+{
+  "id": "20261012-peoples_gx-b87f09",
+  "source": "peoples_gx",
+  "source_name_zh": "人民网 广西",
+  "source_name_en": "People's Daily Guangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gx.people.com.cn/n2/2026/1012/c179464-41719715.html",
+  "title_zh": "2026年“活力中国调研行”广西主题采访活动启动",
+  "title_en": "2026 'Vital China Research Tour' Guangxi Media Tour Launches",
+  "summary_zh": "10月12日，由中宣部组织的2026年“活力中国调研行”广西主题采访活动在南宁启动，记者将围绕“开放活力”开展为期6天的调研采访。",
+  "summary_en": "On Oct 12, the 2026 \"Vital China Research Tour\" Guangxi media tour, organized by the CPC Central Committee's Publicity Department, launched in Nanning for a six-day visit themed \"open vitality.\"",
+  "body_zh": "2026年“活力中国调研行”广西主题采访活动启动\n人民网南宁10月12日电 （记者冯肖慧）10月12日，由中宣部组织的2026年“活力中国调研行”广西主题采访活动在南宁启动。来自人民日报、新华社、中央广播电视总台等中央媒体和行业媒体、部分外省（市）媒体、区直媒体记者，将深入八桂腹地、沿海，围绕“开放活力”主题，开展为期6天的调研采访。\n“活力中国调研行”主题采访活动是今年中宣部组织开展的全国性主题采访活动，分批次、分区域开展集中调研采访，全景展现各地各部门深入贯彻党中央决策部署，在破解发展难题、增强发展动力、厚植发展优势、推动经济高质量发展等方面的生动实践和积极成效。\n此次主题采访活动立足广西“一轴牵引、两翼联动，陆海统筹、全域向海”发展布局，设置两条采访线路，一条紧扣西江向海经济带，从南宁启程，奔赴柳州、崇左；另一条聚焦平陆运河与北部湾沿海经济带，从南宁出发，走访钦州、北海、防城港。两条线路一内一外、一江一海，让采访团媒体记者既能探秘世纪工程的硬核实力，又能挖掘产业转型、数字赋能、跨境合作的鲜活实践，近距离感受广西开放活力。\n在当天召开的活动情况介绍会上，自治区发展改革委、自治区交通运输厅、自治区商务厅等相关部门负责同志介绍了广西向海图强、开放发展等方面的进展与成效。国家发展改革委综合运输研究所综合研究室、商务部研究院“一带一路”经贸合作研究所专家对广西开放发展成果给予肯定，并为媒体记者后续开展深度报道提供理论支撑和专业指引。\n参与主题采访活动的记者们表示，广西是我国唯一与东盟陆海相连的省份，是国家面向东盟开放合作的前沿和窗口，他们将用脚力丈量八桂大地，用眼力捕捉发展亮点，用脑力思考深层逻辑，用笔力呈现精彩篇章，全方位、多角度展现广西开放发展的强劲脉搏与蓬勃生机。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:58Z",
+  "topic": "economy",
+  "keywords": [
+    "开放活力",
+    "向海经济",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-NN",
+      "name_zh": "南宁",
+      "name_en": "Nanning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放活力",
+      "name_en": "Openness and Vitality"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "向海经济",
+      "name_en": "Seaward Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    }
+  ],
+  "tags_zh": [
+    "广西",
+    "南宁",
+    "开放活力",
+    "向海经济",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Guangxi",
+    "Nanning",
+    "Openness and Vitality",
+    "Seaward Economy",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GX",
+      "CN-GX-NN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261012-peoples_gx-b87f09",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gx",
+      "source_tier": 3,
+      "url": "http://gx.people.com.cn/n2/2026/1013/c179435-41720011.html",
+      "title_zh": "2026年“活力中国调研行”广西主题采访活动启动",
+      "published_at": "2026-10-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

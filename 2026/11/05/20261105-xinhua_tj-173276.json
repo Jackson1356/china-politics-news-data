@@ -1,0 +1,93 @@
+{
+  "id": "20261105-xinhua_tj-173276",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20261105/66eb92cb1bab427baa6365a0955a3bde/c.html",
+  "title_zh": "天津市政府召开第120次常务会议 张工主持",
+  "title_en": "Tianjin Municipal Government Holds 120th Executive Meeting, Chaired by Zhang Gong",
+  "summary_zh": "11月4日下午，天津市市长张工主持召开市政府第120次常务会议，审议重污染天气应对预案，并部署采暖期供热准备工作。",
+  "summary_en": "On the afternoon of Nov 4, Tianjin Mayor Zhang Gong chaired the municipal government's 120th executive meeting, reviewing the heavy-pollution weather response plan and arranging heating preparations for the winter season.",
+  "body_zh": "11月4日下午，市长张工主持召开市政府第120次常务会议。\n会议审议《天津市重污染天气应对预案》。会议强调，要切实增强大气污染防治的责任感主动性，抓实中央生态环境保护督察指出问题整改，推动空气质量持续改善。要压实责任狠抓预案执行，强化气象条件预警预报，科学有效实施减排措施，用好排放监测监控科技手段，加大监管执法力度，确保应急减排实效。要统筹好大气治理与城市运行、民生保障，不断提高减排清单精准度，做好预警信息发布、居民健康引导，凝聚全社会共同参与合力。\n会议听取全市2026—2027采暖期供热准备工作情况，研究部署下一步工作。会议强调，冬季供热是事关千家万户的重要民生工作，各区各部门要高度重视，压实工作责任，加强气象会商研判，聚焦能源储备、运力调配、运行调试、资金保障等各环节，扎实做好供热准备工作。要持续提升供热服务质量，充实检修救援力量，加强热力管网巡检，高效解决用户诉求，确保供热安全平稳，保障群众温暖过冬。\n会议还研究了其他事项。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "大气污染防治",
+    "冬季供热",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大气污染防治",
+      "name_en": "Air Pollution Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "冬季供热",
+      "name_en": "Winter Heating"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "大气污染防治",
+    "冬季供热",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "Air Pollution Control",
+    "Winter Heating",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261105-xinhua_tj-173276",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

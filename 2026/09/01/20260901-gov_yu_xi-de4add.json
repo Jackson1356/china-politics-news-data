@@ -1,0 +1,108 @@
+{
+  "id": "20260901-gov_yu_xi-de4add",
+  "source": "gov_yu_xi",
+  "source_name_zh": "玉溪市政府网",
+  "source_name_en": "玉溪 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yuxi.gov.cn/yxs/ywdtsy/20260901/1677707.html",
+  "title_zh": "市人大常委会召开党组会暨主任会",
+  "title_en": "Yuxi Municipal People's Congress Standing Committee Holds Party Group Meeting and Director Meeting",
+  "summary_zh": "8月31日，玉溪市人大常委会党组会暨主任会议召开，党组书记、主任聂涛主持，传达学习习近平总书记重要讲话精神，研究人事任免等事项。",
+  "summary_en": "On August 31, the Party Group meeting and director meeting of Yuxi Municipal People's Congress Standing Committee was held, chaired by Nie Tao, Party Secretary and Director. The meeting conveyed Xi Jinping's important speech and discussed personnel appointments.",
+  "body_zh": "市人大常委会召开党组会暨主任会\n8月31日，玉溪市人大常委会党组2026年第13次会议暨市六届人大常委会第67次主任会议召开。\n市人大常委会党组书记、主任聂涛主持会议。\n会议传达学习习近平总书记近期重要讲话、重要指示精神和《习近平总书记倡导践行正确政绩观指引党和国家事业发展的生动实践》，以及中办通报和省委有关文件精神，研究贯彻落实工作；会议还研究了市六届人大常委会第三十八次会议有关事项。\n会议听取和讨论了人事任免事项；听取和讨论了《关于废止和修改部分地方性法规的决定（草案）》审议意见及《玉溪市乡镇街道规范性文件备案审查办法（草案）》的说明。\n会议听取和讨论了关于玉溪市2026年上半年国民经济和社会发展计划执行情况、地方财政预算执行情况的审议意见，关于玉溪市2026年市本级财政专项预算调整方案（草案）及2025年地方财政决算（草案）的审查结果报告，关于玉溪市2025年度国有资产管理情况的调研报告和《玉溪市2025年度市级预算执行和其他财政收支的审计工作报告》初审情况的汇报。\n会议听取和讨论了关于我市创建全国民族团结进步示范市工作情况、2026年度民生实事人大代表票决入选项目推进情况的调研报告。\n会议还听取和讨论了《中华人民共和国矿产资源法》执法检查报告、全市殡葬管理工作情况专题询问方案，以及《中华人民共和国民营经济促进法》《中华人民共和国农业技术推广法》执法检查方案。\n杨光旭、鲁春红、陈川铭、王军、张伟等参加会议。（玉溪市融媒体中心记者 刘黎）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "玉溪市人大常委会",
+      "name_en": "Yuxi Municipal People's Congress Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN-YX",
+      "name_zh": "玉溪",
+      "name_en": "Yuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "玉溪市人大常委会",
+    "玉溪",
+    "党的建设",
+    "人事任免",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yuxi Municipal People's Congress Standing Committee",
+    "Yuxi",
+    "Party Building",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "任聂涛"
+      },
+      {
+        "id": null,
+        "name_zh": "任会议"
+      },
+      {
+        "id": null,
+        "name_zh": "张伟等"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN-YX"
+    ],
+    "companies": [
+      {
+        "name_zh": "玉溪市人大常委会",
+        "name_en": "Yuxi Municipal People's Congress Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260901-gov_yu_xi-de4add",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

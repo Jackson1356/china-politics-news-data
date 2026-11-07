@@ -1,0 +1,100 @@
+{
+  "id": "20261016-gov_shan_wei-f2e71a",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1283703.html",
+  "title_zh": "汕尾市政府党组会议、常务会议召开 研究部署改善民生等工作",
+  "title_en": "Shanwei Municipal Government Holds Party Group and Executive Meetings to Deploy Livelihood Improvement Work",
+  "summary_zh": "10月15日，汕尾市长范德繁主持市政府党组会议、常务会议，传达学习习近平总书记重要讲话精神，部署改善民生工作并审议管道天然气定价方案。",
+  "summary_en": "On Oct 15, Shanwei Mayor Fan Defan chaired the municipal government's party group and executive meetings to convey and study Xi Jinping's important speeches, deploy livelihood improvement work and approve a piped natural gas pricing plan.",
+  "body_zh": "市政府党组会议、常务会议召开\n认真学习贯彻习近平总书记重要讲话重要指示精神\n研究部署改善民生等工作\n10月15日，市委副书记，市政府党组书记、市长范德繁主持召开市政府党组会议、常务会议，传达学习习近平总书记重要讲话重要指示精神，研究部署改善民生等工作。\n会议强调\n◆要深入学习贯彻习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话精神，从新中国77年发展历程中汲取智慧力量，锚定“西承东联桥头堡、东海岸重要支点”发展定位，聚焦“产业塑造新动能、服务激发新活力”，紧抓快干促发展、分秒必争抓落实，加快构建具有汕尾特色和优势的现代化产业体系，以实干实绩坚定拥护“两个确立”、坚决做到“两个维护”。\n◆要深入学习贯彻习近平总书记在全国卫生与健康大会上的重要讲话精神，坚定实施健康优先发展战略，聚力打造“一中一西、双擎发力”的区域医疗高地，充分发挥深汕中心医院、深汕中医医院辐射带动作用，依托深圳对口帮扶推动省级优质医疗资源向县镇村纵深延伸，加快完善分级诊疗体系建设，持续健全疾病防控体系，推进紧密型医联体建设和优质医疗资源扩容下沉，让老区群众在享受高品质健康服务中增强幸福感、获得感。\n会议审议并通过了《汕尾市区管道天然气非居民销售价格定价方案》，强调要统筹抓好政策阐释、价格公示、保供稳价等各项工作，保障工业、商业、居民用气需求和供气质量，确保调价工作平稳有序推进。\n会议还研究了其他事项。\n记者：吴越",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "改善民生",
+    "医疗卫生",
+    "管道天然气价格"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "改善民生",
+      "name_en": "Livelihood Improvement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生",
+      "name_en": "Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "管道天然气价格",
+      "name_en": "Piped Natural Gas Pricing"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕尾",
+    "改善民生",
+    "医疗卫生",
+    "管道天然气价格",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shanwei",
+    "Livelihood Improvement",
+    "Healthcare",
+    "Piped Natural Gas Pricing"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "范德繁"
+      },
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261016-gov_shan_wei-f2e71a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

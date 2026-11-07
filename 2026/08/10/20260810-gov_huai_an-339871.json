@@ -1,0 +1,106 @@
+{
+  "id": "20260810-gov_huai_an-339871",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/17863105131218s5lFQVr.html",
+  "title_zh": "淮安市委书记史志军、市长顾坤调度防台风工作",
+  "title_en": "Huai'an Party Secretary and Mayor Coordinate Typhoon Prevention Work",
+  "summary_zh": "8月9日，淮安市委书记史志军、市长顾坤调度防台风工作，部署防范台风“白海豚”措施，强调全力守护人民群众生命财产安全。",
+  "summary_en": "On August 9, Huai'an Party Secretary Shi Zhijun and Mayor Gu Kun coordinated typhoon prevention efforts, deploying measures against Typhoon Baidujuan and emphasizing the protection of people's lives and property.",
+  "body_zh": "市领导调度防台风工作\n8月9日，市委书记史志军、市长顾坤调度防台风工作，详细听取有关情况汇报，部署防台风工作举措。史志军强调，要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，坚决落实省委省政府部署要求，坚持人民至上、生命至上，树牢底线思维、极限思维，压紧压实责任，落细落实措施，全力守护人民群众生命财产安全。\n台风“白海豚”影响时间跨度长、移动路径不确定、降水和大风风险高，预计9日夜里至13日对我市有风雨影响。我市主城区、淮阴区、淮安区、洪泽区、涟水县、盱眙县、金湖县的大部分镇（街道）风力较大。\n在市防汛抗旱指挥部，史志军、顾坤详细听取了台风“白海豚”实时位置、移动路径、对我市影响以及我市防御准备工作情况汇报。\n顾坤指出，要高度重视、严阵以待，以确保人员安全为首要任务，进一步加密监测预警，主动下沉一线，全面深入排查整治风险隐患，细化实化各项防御举措；要有效压实责任，加强科学调度和协同联动，扎实推进应急抢险力量前置备勤，进一步打足提前量，提高防范应对专业化水平；要强化统筹兼顾，在做好防台防汛工作同时，抓细抓实各行业领域安全生产工作，切实筑牢安全发展坚固屏障。\n副市长邱华康、颜复，市政府秘书长马乃骏参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-09",
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "welfare",
+  "keywords": [
+    "防台风",
+    "防汛救灾",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防台风",
+      "name_en": "Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "顾坤",
+    "淮安",
+    "防台风",
+    "防汛救灾",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Gu Kun",
+    "Huai'an",
+    "Typhoon Prevention",
+    "Flood Control and Disaster Relief",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "马乃骏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260810-gov_huai_an-339871",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

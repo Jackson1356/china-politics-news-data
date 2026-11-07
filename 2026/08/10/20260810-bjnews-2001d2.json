@@ -1,0 +1,79 @@
+{
+  "id": "20260810-bjnews-2001d2",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1786361327129750.html",
+  "title_zh": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
+  "title_en": "Foreign Ministry: Over 100 Filipino Citizens Legally Dealt with for Illegal Employment and Residence",
+  "summary_zh": "8月10日，外交部发言人郭嘉昆答记者问表示，全国移民管理机构依法处理百余名非法就业、非法居留的菲律宾公民，行动中规范文明执法。",
+  "summary_en": "On August 10, Foreign Ministry spokesperson Guo Jiakun said at a press briefing that national immigration authorities had legally dealt with over 100 Filipino citizens for illegal employment and residence, with standardized and civilized law enforcement.",
+  "body_zh": "据央视新闻消息，8月10日外交部发言人郭嘉昆答记者问。有记者问，近期，一些菲律宾籍人员涉嫌违法被查处，能否介绍具体情况？此举能否解读为中方对菲律宾频繁抓扣中国公民的回应？\n郭嘉昆表示，全国移民管理机构持续深化在华“三非”外国人治理，依法开展专项行动。百余名菲律宾公民因非法就业、非法居留被依法处理。在专项行动过程中，移民管理工作人员规范文明执法，保障了涉案外籍人员的权益。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "三非治理",
+    "涉外执法"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三非治理",
+      "name_en": "Management of Illegal Entry, Employment and Residence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉外执法",
+      "name_en": "Foreign-related Law Enforcement"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "三非治理",
+    "涉外执法"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Management of Illegal Entry, Employment and Residence",
+    "Foreign-related Law Enforcement"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260810-bjnews-2001d2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

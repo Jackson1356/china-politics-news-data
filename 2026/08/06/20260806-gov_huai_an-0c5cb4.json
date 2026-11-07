@@ -1,0 +1,96 @@
+{
+  "id": "20260806-gov_huai_an-0c5cb4",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1785962165433NI79d24Z.html",
+  "title_zh": "南京市政协领导来淮考察",
+  "title_en": "Nanjing CPPCC Leaders Visit Huai'an for Study",
+  "summary_zh": "8月5日，南京市政协主席张宝娟率队来淮安，围绕政协文史创新和历史文化街区更新开展学习考察。",
+  "summary_en": "On August 5, Zhang Baojuan, chairwoman of Nanjing CPPCC, led a delegation to Huai'an to study cultural and historical work and renovation of historic blocks.",
+  "body_zh": "南京市政协领导来淮考察\n8月5日，南京市政协主席张宝娟率队来淮，围绕“推进政协文史工作创新发展、历史文化街区更新改造项目建设”开展学习考察。市政协主席赵正兰，南京市政协副主席陈勇参加活动。\n河下古镇拥有2500多年建城史，是大运河漕运文化重要地标，街区完整保留古街巷、古园林、古会馆格局，深耕吴承恩、沈坤等名人资源，统筹古建筑修缮、非遗传承、文旅业态培育，打造高品质5A级文旅街区。张宝娟边走边看，详细了解古镇规划建设、业态运营、长效管护等相关举措，对我市坚持保护优先、活化利用，统筹历史风貌传承、民生改善与文旅融合发展的工作做法给予充分肯定。\n在市政协文史馆，张宝娟参观文献珍藏区、专题陈列区，详细了解场馆运营、地方史料征集、“文史讲堂”品牌活动开展情况。该馆馆藏地方文史书籍3万余册，常态化开展线下讲座、基层巡讲，构建“静态展陈+动态活动”文史工作新模式。走进位于都天庙街区的“‘史’志为民”委员工作室，张宝娟察看委员读书沙龙、基层协商议事等功能区域，现场交流市、区两级政协联动，以文史载体服务基层群众、助力基层治理的创新路径。\n在考察中，张宝娟表示，淮安作为周恩来总理家乡，运河文化、红色文化底蕴深厚，在历史街区系统性更新、政协文史阵地一体化建设、文史赋能基层治理等方面形成诸多特色亮点，本次考察学习收获颇丰，南京市政协将充分吸收借鉴淮安市政协成熟经验，结合南京本地历史文化资源优化文史工作布局，希望两地政协建立常态化交流机制，持续互学互鉴、资源共享，共同发挥文史工作“存史、资政、团结、育人”职能，助力文化强省建设。\n在淮期间，张宝娟一行还瞻仰了周恩来纪念馆和周恩来故居，深切缅怀周恩来总理的光辉业绩和崇高风范。\n南京市政协秘书长、一级巡视员刘莅，南京市政协教卫体（文化文史）委员会副主任任家龙，市政协副主席徐效文、秘书长蒋继贵等参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "party",
+  "keywords": [
+    "政协文史工作",
+    "历史文化街区"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "南京市政协",
+      "name_en": "Nanjing CPPCC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协文史工作",
+      "name_en": "CPPCC cultural and historical work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史文化街区",
+      "name_en": "historic cultural blocks"
+    },
+    {
+      "kind": "person",
+      "id": "chen-yong-zhuhai",
+      "name_zh": "陈勇",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "南京市政协",
+    "淮安",
+    "政协文史工作",
+    "历史文化街区",
+    "陈勇"
+  ],
+  "tags_en": [
+    "Nanjing CPPCC",
+    "Huai'an",
+    "CPPCC cultural and historical work",
+    "historic cultural blocks"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-yong-zhuhai"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": [
+      {
+        "name_zh": "南京市政协",
+        "name_en": "Nanjing CPPCC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260806-gov_huai_an-0c5cb4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

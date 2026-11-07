@@ -1,0 +1,115 @@
+{
+  "id": "20260815-gov_cn_yaowen-3ea86b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078142.htm",
+  "title_zh": "多地出现强降雨天气 防汛救灾加紧进行",
+  "title_en": "Heavy Rains Hit Multiple Regions, Flood Control and Disaster Relief Underway",
+  "summary_zh": "近期我国多地出现强降雨，河南周口堤防溃口正在封堵，浙江发生内涝，国家防总等部门调拨物资并提升防汛应急响应。",
+  "summary_en": "Heavy rains hit multiple regions in China. A levee breach in Henan is being repaired; Zhejiang faces flooding. Authorities have sent supplies and raised emergency response levels.",
+  "body_zh": "连日来，我国多地出现强降雨天气，各地各部门积极应对。\n13日晚，河南省周口市川汇区新北环桥下贾鲁河东岸堤防发生溃口，防汛形势严峻。从昨天（8月14日）开始，多路救援力量抵达现场抢险施工，截至今天下午3时，117米的溃口已经完成封堵90多米。同时，为了尽可能减少洪水外溢对城区的影响，当地水利部门在距离溃口4公里处，抓紧修筑一道670余米的防护堤，尽量缩小洪水对城区影响。\n目前，国家防办、应急管理部会同国家粮食和物资储备局，新调拨编织袋10万条、复膜编织布10万平方米等中央防汛物资，支持河南做好抗洪抢险工作。国家发展改革委紧急安排中央预算内投资3000万元，支持河南省做好暴雨洪涝灾害灾后应急恢复。\n从昨天到今天，浙江出现大范围短时暴雨，局地大暴雨。湖州长兴县多个乡镇发生大面积内涝，昨晚8时，记者跟随救援人员来到受灾较为严重的水口乡后坟村，村子外围的积水深度已达到3米多。此前，村里大部分村民已安全转移，但仍有少数人放心不下家里，不愿离开。救援人员分成多个小组，逐户排查，在救援人员的劝说下，滞留村民最终同意跟随转移。\n目前，当地正做好积水强排、地质风险区域排查等工作。\n记者从应急管理部了解到，近期太湖发生流域性较大洪水，据预测，水位后期仍将缓慢上涨。国家防总、应急管理部今天针对江苏的防汛四级应急响应提升至三级，针对浙江启动防汛四级应急响应。\n中央气象台预计，明天，台风残余环流东移出海，华东一带强降雨将基本结束，但江南、华南、吉林、黑龙江等地部分地区仍有降雨天气。各地要警惕持续降雨或局地强降雨可能引发的次生灾害。",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "抗洪抢险",
+    "应急物资保障"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗洪抢险",
+      "name_en": "Flood Fighting and Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急物资保障",
+      "name_en": "Emergency Supplies Support"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家发展改革委",
+    "河南",
+    "浙江",
+    "防汛救灾",
+    "抗洪抢险",
+    "应急物资保障"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Development and Reform Commission",
+    "Henan",
+    "Zhejiang",
+    "Flood Control and Disaster Relief",
+    "Flood Fighting and Emergency Rescue",
+    "Emergency Supplies Support"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HA",
+      "CN-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260815-gov_cn_yaowen-3ea86b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

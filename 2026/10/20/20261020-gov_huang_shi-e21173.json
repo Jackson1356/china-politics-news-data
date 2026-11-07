@@ -1,0 +1,92 @@
+{
+  "id": "20261020-gov_huang_shi-e21173",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huangshi.gov.cn/xwdt/hsyw/202610/t20261020_1367764.html",
+  "title_zh": "加快建设健康黄石 抓实环保督察整改",
+  "title_en": "Huangshi Vows to Speed Up Building a Healthy City and Tighten Rectification of Environmental Inspections",
+  "summary_zh": "10月19日，黄石市委书记郄英才主持召开市委常委会会议，部署健康黄石建设、医疗卫生资源优化及中央生态环保专项督察反馈问题整改等工作。",
+  "summary_en": "On Oct 19, Huangshi Party Secretary Qie Yingcai chaired a meeting of the city's Party committee standing committee, deploying work on building a healthier Huangshi, optimizing medical resources and rectifying problems flagged by central environmental inspections.",
+  "body_zh": "19日，市委书记郄英才主持召开市委常委会会议，传达学习习近平总书记在全国卫生与健康大会上的重要讲话精神，听取市生态环境保护工作领导小组办公室关于中央溶洞天坑山谷污染问题专项督察有关情况汇报，审议有关文件，安排部署相关工作。\n会议指出，习近平总书记出席全国卫生与健康大会并发表重要讲话，意义重大、影响深远。要深学细悟、对标对表，认真学习贯彻习近平总书记重要讲话精神，坚定实施健康优先发展战略，全面补短强弱，加快建设均衡普惠、优质高效的健康黄石。要聚焦重点、靶向发力，坚持预防为主、医防协同，统筹抓好疾病防控、食品药品安全监管等重点工作；坚持强基固本、改革赋能，推动医疗资源由“增量扩张”转向“存量优化、内涵提升”；坚持优化服务、普惠共享，做优城市医联体和紧密型县域医共体，做实分级诊疗，统筹抓好“一老一小”和特殊群体健康保障，让群众就近看得上病、看得好病；坚持做强产业、融合发展，培育新增长点，做强大健康产业。要高质量完成“十五五”卫生健康规划编制发布，建强卫健人才队伍，营造健康社会氛围。\n会议要求，要坚决扛牢生态环保政治责任，以最坚决态度、最有力措施、最严实作风做好中央生态环境保护专项督察配合保障和省级专项督察反馈问题整改等工作。要拉网式排查全市溶洞、天坑、山谷，对排查发现的问题，实行台账式管理、清单化推进、销号式落实。要统筹突出问题治理，坚持分类施策，强化源头管控，狠抓工地管控、焚烧管控、工业减排和禁鞭管控，坚决完成全年空气质量改善目标任务。要压紧压实责任，加强各地各部门联动配合，形成工作合力。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "welfare",
+  "keywords": [
+    "健康中国",
+    "生态环保督察",
+    "医疗卫生体制改革"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB-HS",
+      "name_zh": "黄石",
+      "name_en": "Huangshi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康中国",
+      "name_en": "Healthy China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环保督察",
+      "name_en": "Ecological and Environmental Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生体制改革",
+      "name_en": "Healthcare Reform"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄石",
+    "健康中国",
+    "生态环保督察",
+    "医疗卫生体制改革",
+    "习近平"
+  ],
+  "tags_en": [
+    "Huangshi",
+    "Healthy China",
+    "Ecological and Environmental Inspection",
+    "Healthcare Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB-HS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261020-gov_huang_shi-e21173",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

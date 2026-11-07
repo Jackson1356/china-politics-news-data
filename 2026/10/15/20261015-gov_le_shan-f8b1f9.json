@@ -1,0 +1,112 @@
+{
+  "id": "20261015-gov_le_shan-f8b1f9",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083324.htm",
+  "title_zh": "谌贻琴在吉林调研时强调 高质量筹办好长春大冬会 高水平运营好足球青训中心",
+  "title_en": "Shen Yiqin Stresses High-Quality Preparations for Changchun Winter World University Games and Better Operation of Football Youth Training Centers During Jilin Inspection",
+  "summary_zh": "10月13日至15日，国务委员谌贻琴在吉林调研长春大冬会筹办和足球青训体系建设，强调高质量筹办赛事、高水平运营足球青训中心。",
+  "summary_en": "State Councilor Shen Yiqin inspected Jilin from Oct 13 to 15, urging high-quality preparations for the Changchun Winter World University Games and better operation of football youth training centers.",
+  "body_zh": "谌贻琴在吉林调研时强调\n高质量筹办好长春大冬会\n高水平运营好足球青训中心\n新华社长春10月15日电 国务委员谌贻琴13日至15日在吉林调研长春大冬会筹办和足球青训体系建设工作。她强调，要深入学习贯彻习近平总书记关于体育工作的重要论述，认真落实党中央、国务院决策部署，高质量筹办好长春大冬会，高水平运营好足球青训中心。\n谌贻琴专门听取长春大冬会筹办工作情况汇报。她强调，长春大冬会是我国进入“十五五”之后举办的首个世界级重大国际体育赛事。当前筹办工作已进入冲刺阶段，要践行“绿色、共享、开放、廉洁”办赛理念和“简约、安全、精彩”办赛要求，精心筹备开闭幕式、火炬传递等重大活动，高效推进赛事组织和备战参赛，周密做好服务保障，筑牢安全防线，营造良好氛围，努力向世界呈现一届精彩的大学生冰雪体育盛会。\n谌贻琴来到长春市、延边州，实地查看省、市、县三级足球青训中心建设及队伍训练情况。她指出，要认真贯彻全国足球工作会议精神，建设运营好各级足球青训中心，加强教练员队伍扩容提质，完善青少年足球竞赛体系，让优秀足球人才不断涌现，为中国足球振兴发展夯实根基。扎实抓好足球发展重点城市和西部地区体教融合青训试点，更好引领带动各地足球事业发展。发挥足球等体育项目促进民族交往交流交融作用，铸牢中华民族共同体意识，推进中华民族共同体建设。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "体育赛事筹办",
+    "足球青训",
+    "青少年体育"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Shen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "体育赛事筹办",
+      "name_en": "Sports Event Preparations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "足球青训",
+      "name_en": "Football Youth Training"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青少年体育",
+      "name_en": "Youth Sports"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "国务院",
+    "吉林",
+    "长春",
+    "体育赛事筹办",
+    "足球青训",
+    "青少年体育"
+  ],
+  "tags_en": [
+    "Shen Yiqin",
+    "State Council",
+    "Jilin",
+    "Changchun",
+    "Sports Event Preparations",
+    "Football Youth Training",
+    "Youth Sports"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-JL",
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261015-gov_le_shan-f8b1f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

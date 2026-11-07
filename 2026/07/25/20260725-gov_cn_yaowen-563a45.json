@@ -1,0 +1,83 @@
+{
+  "id": "20260725-gov_cn_yaowen-563a45",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076611.htm",
+  "title_zh": "今年以来消费品以旧换新销售额超万亿元",
+  "title_en": "Consumer Goods Trade-In Sales Exceed 1 Trillion Yuan This Year",
+  "summary_zh": "商务部数据显示，今年以来消费品以旧换新政策带动销售额超1.25万亿元，惠及1.69亿人次。",
+  "summary_en": "Ministry of Commerce data shows that since this year, the trade-in policy for consumer goods has driven sales exceeding 1.25 trillion yuan, benefiting 169 million people.",
+  "body_zh": "商务部最新数据显示，今年以来，消费品以旧换新政策累计带动相关商品销售额超过1.25万亿元，惠及1.69亿人次，有力支撑了消费平稳增长。\n绿色产品广受青睐。今年以来，享受汽车以旧换新补贴的新能源车占比逐步提升，6月达65.4%。\n智能消费加速扩容。1—6月份，数码和智能产品销售量同比增长13.4%，6月单月增长32.0%。智能眼镜成为智能消费新热点。\n新消费带动新产业发展。19个地方实施自主品类补贴政策，带动相关商品销售99.2万件。北京、上海、江苏等地，将具身智能机器人等前沿智能产品纳入自主品类补贴范围，为新技术、新产业、新赛道开拓市场空间。\n以旧换新政策覆盖面持续拓宽，线下参与主体数量同比增长28.1%，进一步激发县乡市场活力。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "economy",
+  "keywords": [
+    "以旧换新",
+    "绿色消费",
+    "智能消费"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "以旧换新",
+      "name_en": "Trade-in Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色消费",
+      "name_en": "Green Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能消费",
+      "name_en": "Smart Consumption"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "以旧换新",
+    "绿色消费",
+    "智能消费"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Trade-in Policy",
+    "Green Consumption",
+    "Smart Consumption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260725-gov_cn_yaowen-563a45",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

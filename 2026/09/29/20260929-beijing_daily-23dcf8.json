@@ -1,0 +1,102 @@
+{
+  "id": "20260929-beijing_daily-23dcf8",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/29/11978414.shtml",
+  "title_zh": "北京市政府常务会议研究“十五五”时期深化国际消费中心城市建设规划",
+  "title_en": "Beijing Municipal Government Executive Meeting Studies Plan to Deepen International Consumption Center City Development in 15th Five-Year Plan",
+  "summary_zh": "9月29日，北京市政府召开常务会议，研究《北京市“十五五”时期深化国际消费中心城市建设规划》及网络安全和信息化发展等工作，市长殷勇主持会议。",
+  "summary_en": "On Sept 29, Mayor Yin Yong chaired a Beijing municipal government executive meeting to study the 15th Five-Year Plan for deepening the city's international consumption center development and work on cybersecurity and informatization.",
+  "body_zh": "市政府召开常务会议\n研究“十五五”时期深化国际消费中心城市建设规划等事项\n市长殷勇主持会议\n9月29日，市政府召开常务会议，研究《北京市“十五五”时期深化国际消费中心城市建设规划》等事项。市委副书记、市长殷勇主持会议。\n会议强调，“十四五”时期，本市国际消费中心城市建设工作取得积极成效。面向“十五五”，要深入贯彻习近平总书记考察北京重要讲话精神，立足北京城市战略定位，坚持扩大内需战略基点，突出以人为本、供需适配，突出改革创新、内外协同，突出市场主导、政府引导，以推动国际消费中心城市建设为抓手，持续提振消费，在更好满足市民群众对美好生活向往的同时，为推动首都高质量发展提供有力支撑。要结合供给、需求两端并重的经济运行调度体系，健全抓消费的工作机制，紧密围绕需求提升供给品质，扎实推动服务消费提质扩容，推动商品消费结构优化、规模稳增、品质升级，有效增强消费内生增长动力，更好满足市民群众多元化需求，促进经济可持续发展。要抓好责任落实，强化协同联动，汇聚工作合力，确保国际消费中心城市建设各项任务落地见效。\n会议研究网络安全和信息化发展有关工作时指出，要统筹发展和安全，增强做好网信工作责任感，以首善标准推动网络安全和信息化发展。加快新型信息基础设施优化布局，多措并举强化算力支撑。建设数据要素创新高地，建立健全数据基础制度，完善流通交易、收益分配机制，鼓励高质量数据复用融合、高效流转、创新赋能。激发数字经济发展新动能，推动“人工智能+”向各领域深度拓展，积极实施标杆场景建设，推动人工智能大模型、智能体等新技术更好赋能应用。健全网络安全责任体系和工作举措，以更高水平网络安全保障更高质量信息化发展。\n会议还研究了其他事项。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "economy",
+  "keywords": [
+    "国际消费中心城市",
+    "扩大内需",
+    "数字经济",
+    "人工智能+"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际消费中心城市",
+      "name_en": "International Consumption Center City"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩大内需",
+      "name_en": "Expanding Domestic Demand"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能+",
+      "name_en": "AI Plus Initiative"
+    }
+  ],
+  "tags_zh": [
+    "殷勇",
+    "北京",
+    "国际消费中心城市",
+    "扩大内需",
+    "数字经济",
+    "人工智能+"
+  ],
+  "tags_en": [
+    "Yin Yong",
+    "Beijing",
+    "International Consumption Center City",
+    "Expanding Domestic Demand",
+    "Digital Economy",
+    "AI Plus Initiative"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260929-beijing_daily-23dcf8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

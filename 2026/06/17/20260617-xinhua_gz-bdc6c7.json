@@ -1,0 +1,96 @@
+{
+  "id": "20260617-xinhua_gz-bdc6c7",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_url": "http://gz.news.cn/20260617/15d653c87233485e9ef6c3e0e817e38f/c.html",
+  "title_zh": "贵州省政协人口资源环境委员会原主任李光荣一审被判十一年",
+  "title_en": "Former Director of Guizhou Provincial CPPCC Population, Resources and Environment Committee Li Guangrong Sentenced to 11 Years in First Instance",
+  "summary_zh": "6月16日，贵州省黔东南州中级人民法院一审公开宣判，贵州省政协原主任李光荣因受贿及利用影响力受贿，被判处有期徒刑十一年。",
+  "summary_en": "On June 16, the Qiandongnan Intermediate People's Court of Guizhou Province sentenced Li Guangrong, former director of the provincial CPPCC's Population, Resources and Environment Committee, to 11 years in prison for bribery and using influence to take bribes.",
+  "body_zh": "新华社贵阳6月16日电（记者汪军）贵州省黔东南苗族侗族自治州中级人民法院16日一审公开宣判贵州省政协人口资源环境委员会原主任李光荣受贿、利用影响力受贿案，对被告人李光荣以受贿罪判处有期徒刑十年二个月，并处罚金人民币六十万元；以利用影响力受贿罪，判处有期徒刑三年，并处罚金人民币二十万元；决定执行有期徒刑十一年，并处罚金人民币八十万元；对被告人李光荣犯罪所得财物及孳息依法予以追缴，上缴国库。\n经审理查明，1999年至2013年，被告人李光荣利用担任贵州省建设厅党组成员、副厅长，党组书记、厅长，贵州省住建厅党组书记、厅长，贵州省政协人口资源环境委员会副主任等职务上的便利，为有关单位和个人在调整项目容积率、推进项目实施等事项上提供帮助，非法收受财物共计折合人民币744万余元；2017年8月至2024年10月，被告人李光荣退休后利用原职权和地位形成的便利条件，通过其他国家工作人员职务上的行为，为有关单位在通过特种行业考核认证等事项上谋取不正当利益，非法收受财物共计折合人民币71万余元。\n黔东南苗族侗族自治州中级人民法院认为，被告人李光荣的行为构成受贿罪、利用影响力受贿罪，应依法惩处，并数罪并罚。鉴于被告人李光荣到案后如实供述自己的罪行，主动交代了监察机关尚未掌握的大部分受贿犯罪事实；认罪悔罪，积极退赃，具有法定、酌定从轻处罚情节，依法可对其从轻处罚。法庭遂作出上述判决。宣判后，被告人李光荣当庭表示服从判决，不上诉。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "discipline",
+  "keywords": [
+    "受贿",
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李光荣",
+      "name_en": "Li Guangrong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "黔东南苗族侗族自治州中级人民法院",
+      "name_en": "Qiandongnan Miao and Dong Autonomous Prefecture Intermediate People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿",
+      "name_en": "Bribery"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    }
+  ],
+  "tags_zh": [
+    "李光荣",
+    "黔东南苗族侗族自治州中级人民法院",
+    "贵州",
+    "受贿",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Li Guangrong",
+    "Qiandongnan Miao and Dong Autonomous Prefecture Intermediate People's Court",
+    "Guizhou",
+    "Bribery",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李光荣"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "黔东南苗族侗族自治州中级人民法院",
+        "name_en": "Qiandongnan Miao and Dong Autonomous Prefecture Intermediate People's Court"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260617-xinhua_gz-bdc6c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

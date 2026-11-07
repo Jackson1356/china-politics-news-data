@@ -1,0 +1,96 @@
+{
+  "id": "20261107-beijing_daily-bb20e3",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/07/12021657.shtml",
+  "title_zh": "美国制裁古巴涉两家中国公司，外交部：坚定支持古巴维护国家主权",
+  "title_en": "US Sanctions on Cuba Include Two Chinese Firms; FM: China Firmly Supports Cuba's Sovereignty",
+  "summary_zh": "11月6日，外交部发言人郭嘉昆在例行记者会上回应美国对古巴新一轮制裁涉及两家中国公司，表示坚决反对非法单边制裁和长臂管辖，将采取必要措施维护本国企业正当权益。",
+  "summary_en": "On November 6, Foreign Ministry spokesperson Guo Jiakun said China firmly opposes illegal unilateral sanctions and long-arm jurisdiction after the US blacklisted two Chinese firms in a new round of Cuba sanctions, vowing measures to protect Chinese companies' rights.",
+  "body_zh": "11月6日，外交部发言人郭嘉昆主持例行记者会。\n法新社记者提问，美国国务院昨天宣布对古巴实施新一轮制裁，制裁对象包括两家被指控向古巴军方提供电子产品和安全设备的中国公司。外交部有何回应？\n郭嘉昆 资料图 图源：外交部网站\n郭嘉昆表示，中国同古巴的合作光明正大。中方坚决反对没有国际法依据、未经联合国安理会授权的非法单边制裁和所谓“长臂管辖”，坚决反对美方干扰破坏中古合作，坚定支持古巴维护国家主权、反对外来干涉，将采取一切必要措施坚定维护本国企业的正当权益。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "单边制裁",
+    "长臂管辖",
+    "中古合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "美国国务院",
+      "name_en": "US State Department"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长臂管辖",
+      "name_en": "Long-arm Jurisdiction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中古合作",
+      "name_en": "China-Cuba Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "美国国务院",
+    "单边制裁",
+    "长臂管辖",
+    "中古合作"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "US State Department",
+    "Unilateral Sanctions",
+    "Long-arm Jurisdiction",
+    "China-Cuba Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "美国国务院",
+        "name_en": "US State Department"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261107-beijing_daily-bb20e3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "20260831-chinanews_gn-bc78a1",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-31/10687241.shtml",
+  "title_zh": "外交部：中方正全力搜救西藏吉隆泥石流灾害国内外失联人员",
+  "title_en": "Foreign Ministry: China Making All-Out Efforts to Search for Missing in Gyirong Landslide Disaster",
+  "summary_zh": "8月31日，外交部发言人郭嘉昆表示，中方正全力搜救西藏吉隆泥石流灾害国内外失联人员，并第一时间向尼方提供援助。",
+  "summary_en": "On Aug 31, Foreign Ministry spokesperson Guo Jiakun said China is making all-out efforts to search for missing people in the Gyirong landslide disaster, and has provided timely assistance to Nepal.",
+  "body_zh": "外交部：中方正全力搜救西藏吉隆泥石流灾害国内外失联人员\n8月31日，外交部发言人郭嘉昆主持例行记者会。有记者问：吉隆泥石流灾害救援工作还在进行中，中方能否进一步介绍救援涉外工作进展？\n郭嘉昆表示，此次尼泊尔边境地区突发冰川崩塌，引发严重泥石流灾害，造成中尼两国重大人员伤亡、失联。中方在紧急开展抢险自救的同时，第一时间向尼方伸出援手，支持尼方应急救灾。\n国内新闻精选：\n- 2026年08月31日 16:28:16\n- 2026年08月31日 14:54:26\n- 2026年08月31日 11:41:18\n- 2026年08月31日 07:56:46\n- 2026年08月30日 18:22:57\n- 2026年08月30日 15:33:02\n- 2026年08月30日 15:18:43\n- 2026年08月30日 13:02:05\n- 2026年08月29日 16:29:55\n- 2026年08月29日 13:20:57",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "灾害救援",
+    "国际援助"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉隆",
+      "name_en": "Gyirong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际援助",
+      "name_en": "International Aid"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "吉隆",
+    "灾害救援",
+    "国际援助"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Gyirong",
+    "Disaster Relief",
+    "International Aid"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260831-chinanews_gn-bc78a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687254.shtml",
+      "title_zh": "挪威国王哈拉尔五世逝世 中方表示深切哀悼",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687253.shtml",
+      "title_zh": "擅闯中国使馆的日本自卫队官员村田晃大已被解职 中方回应",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687248.shtml",
+      "title_zh": "外交部：尼方一侧受灾地区失联中国公民近百人 尼方正全力搜救",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687246.shtml",
+      "title_zh": "中方：在尼泊尔灾区取得联系的中方人员全部得到妥善转移安置",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20261030-gov_yan_cheng-c1d308",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/10/30/art_49_4464226.html",
+  "title_zh": "盐城市政府党组（扩大）会议召开",
+  "title_en": "Yancheng Municipal Government Party Group Holds Expanded Meeting",
+  "summary_zh": "10月29日，盐城市政府党组（扩大）会议召开，代市长吴炜主持，研究贯彻落实习近平总书记重要讲话和重要文章精神。",
+  "summary_en": "On Oct 29, the Yancheng Municipal Government Party Group held an expanded meeting chaired by Acting Mayor Wu Wei to study and implement Xi Jinping's speeches and articles.",
+  "body_zh": "10月29日，市政府党组（扩大）会议召开，深入学习习近平总书记重要讲话和重要文章精神，结合政府工作实际，研究贯彻落实措施。市政府党组书记、代市长吴炜主持会议并讲话。\n会议强调，要深入学习习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神，坚定理想信念，强化党性修养，从伟大长征精神中汲取信仰之力、奋斗之力、为民之力。要传承弘扬“不怕困难、不畏艰险，勇于斗争、敢于胜利”精神，扎实推动党中央决策部署和省、市委工作要求落地落实、见行见效，奋力走好新时代的长征路。\n会议指出，要认真落实习近平总书记在全国卫生与健康大会上的重要讲话精神，始终坚持“健康第一”理念，深入实施医疗卫生强基工程，深化医药卫生体制改革，拓展紧密型县域数字化医共体建设成果，推进优质医疗资源扩容下沉和区域均衡布局，大力发展健康产业、银发经济，努力办好人民放心的医疗事业。\n会议强调，要全面贯彻习近平总书记在《求是》杂志发表的《以更高标准、更实举措推进全面从严治党》重要文章精神，严格落实全面从严治党主体责任，健全完善权力运行监督机制，深化整治群众身边不正之风和腐败问题，着力营造忠诚干净担当的干事创业氛围。政府班子成员要示范引领、以上率下，严格履行“一岗双责”，带头执行廉洁自律各项规定，督促分管条线抓好廉政建设工作，以优良作风保障各项事业行稳致远。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻",
+    "医疗卫生",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Policy Study and Implementation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生",
+      "name_en": "Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Discipline"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盐城",
+    "学习贯彻",
+    "医疗卫生",
+    "全面从严治党",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yancheng",
+    "Policy Study and Implementation",
+    "Healthcare",
+    "Full and Rigorous Party Discipline"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261030-gov_yan_cheng-c1d308",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

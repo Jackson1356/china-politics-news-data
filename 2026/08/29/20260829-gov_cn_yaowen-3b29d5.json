@@ -1,0 +1,64 @@
+{
+  "id": "20260829-gov_cn_yaowen-3b29d5",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079535.htm",
+  "title_zh": "前七个月我国物流运行稳中有进",
+  "title_en": "China's Logistics Sector Sees Steady Growth in First Seven Months",
+  "summary_zh": "中国物流与采购联合会数据显示，1-7月全国社会物流总额214.5万亿元，同比增长5.0%，物流运行稳中有进。",
+  "summary_en": "Data from the China Federation of Logistics & Purchasing shows total social logistics volume reached 214.5 trillion yuan in Jan-Jul, up 5.0% year-on-year, indicating steady progress.",
+  "body_zh": "中国物流与采购联合会公布的最新数据显示，今年前七个月，我国物流运行延续稳中有进的发展态势，韧性和活力持续彰显。\n1—7月，全国社会物流总额214.5万亿元，同比增长5.0%。物流总额保持平稳增长，需求结构进一步优化。工业品物流基本盘稳定，制造业仍为增长核心引擎。7月，制造业相关物流需求同比增长5.5%。其中，装备制造、高技术制造物流需求同比分别增长12.3%和16.9%，支撑作用进一步凸显。\n居民消费物流保持韧性增长。1—7月，单位与居民物品物流总额同比增长3.7%。随着扩内需、促消费政策措施逐步落地见效，居民消费物流需求发展质量不断提升。商贸流通场景加快创新，县域市场物流需求加速扩张。\n进口物流方面，国内计算机通信电子、智能化和自动化设备制造等领域生产需求持续释放，带动产业升级，相关货类进口量保持增长。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "economy",
+  "keywords": [
+    "物流运行",
+    "经济增长"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流运行",
+      "name_en": "Logistics Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    }
+  ],
+  "tags_zh": [
+    "物流运行",
+    "经济增长"
+  ],
+  "tags_en": [
+    "Logistics Operations",
+    "Economic Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260829-gov_cn_yaowen-3b29d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

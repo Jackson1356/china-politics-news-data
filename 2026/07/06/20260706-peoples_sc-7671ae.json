@@ -1,0 +1,61 @@
+{
+  "id": "20260706-peoples_sc-7671ae",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_url": "http://sc.people.com.cn/n2/2026/0706/c345514-41630407.html",
+  "title_zh": "四川省政府发布厅级领导职务人事任免通知",
+  "title_en": "Sichuan Provincial Government Announces Personnel Appointments and Removals for Department-Level Officials",
+  "summary_zh": "四川省政府日前发布人事任免通知，任命邹青、崔大鹏等5人为相关职务，免去李辉、付东2人职务。",
+  "summary_en": "The Sichuan Provincial Government recently issued a notice on personnel appointments and removals, appointing five officials and removing two others.",
+  "body_zh": "四川省政府发布人事动态 涉厅级领导职务\n人民网成都7月6日电 （袁菡苓）日前，四川省政府发布人事任免通知。如下：\n四川省人民政府关于任免邹青等职务的通知\n四川省人民政府决定：\n任命：\n邹青为四川省人民政府台湾事务办公室副主任（试用期一年）；\n崔大鹏为四川省铁路和机场建设办公室专职副主任、四川省发展和改革委员会副主任（兼）；\n陈代文为广安经济技术开发区管理委员会主任；\n代勇为四川警察学院副院长（试用期一年）；\n周相兵为四川旅游学院副院长（试用期一年）。\n免去：\n李辉的四川省外事办公室副主任职务；\n付东的成都体育学院副院长职务。",
+  "image_url": null,
+  "published_at": "2026-07-06T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    }
+  ],
+  "tags_zh": [
+    "四川",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Sichuan",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260706-peoples_sc-7671ae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

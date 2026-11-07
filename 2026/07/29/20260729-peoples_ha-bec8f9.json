@@ -1,0 +1,89 @@
+{
+  "id": "20260729-peoples_ha-bec8f9",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0729/c351638-41652786.html",
+  "title_zh": "上半年各级民政部门处置非法社会组织七百零二个",
+  "title_en": "702 Illegal Social Organizations Dealt with by Civil Affairs Departments in First Half of 2026",
+  "summary_zh": "2026年上半年，全国各级民政部门累计处置非法社会组织702个，包括依法取缔、责令解散等。",
+  "summary_en": "In the first half of 2026, civil affairs departments across China dealt with 702 illegal social organizations, including 63 banned, 399 ordered to dissolve, and 77 guided to register.",
+  "body_zh": "上半年各级民政部门处置非法社会组织七百零二个\n本报北京7月28日电 （记者吴储岐）记者7月28日从民政部获悉：2026年上半年，全国各级民政部门累计处置非法社会组织702个。其中，列入涉嫌非法社会组织名单或协查通告163个，依法取缔63个，责令解散399个，引导登记77个。\n今年上半年，民政部结合当前非法社会组织活动特点，将冒用官方背景，擅自使用“中国”“中华”“全国”等字样误导公众、开展违规活动的非法社会组织纳入打击整治重点，部署各地依法取缔“中国教育研究学会”“全国产教融合工作指导委员会”“中国新时代文化战略研究院”等一批非法社会组织。\n《 人民日报 》（ 2026年07月29日 15 版）",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "industry",
+  "keywords": [
+    "打击非法社会组织",
+    "社会治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打击非法社会组织",
+      "name_en": "Crackdown on Illegal Social Organizations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会治理",
+      "name_en": "Social Governance"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "打击非法社会组织",
+    "社会治理"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Crackdown on Illegal Social Organizations",
+    "Social Governance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260729-peoples_ha-bec8f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0729/c352664-41653237.html",
+      "title_zh": "上半年各级民政部门处置非法社会组织七百零二个",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0729/c134768-41653126.html",
+      "title_zh": "上半年各级民政部门处置非法社会组织七百零二个",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260928-beijing_daily-a5837d",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/28/11976985.shtml",
+  "title_zh": "中国考虑投票支持哪位联合国秘书长候选人？外交部回应",
+  "title_en": "Foreign Ministry Responds on China's Consideration of UN Secretary-General Candidate Support",
+  "summary_zh": "9月28日，外交部发言人郭嘉昆在例行记者会上回应中方在新任联合国秘书长选举中的投票立场，表示中方将以负责任态度参与选举过程。",
+  "summary_en": "On Sept 28, Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing that China will take a responsible part in the selection of the next UN Secretary-General in accordance with the UN Charter.",
+  "body_zh": "9月28日，外交部发言人郭嘉昆主持例行记者会。\n有记者提问，多个国家常驻联合国代表团对媒体透露称，中国正权衡在新任联合国秘书长投票中，支持联合国贸发会议秘书长、哥斯达黎加前副总统格林斯潘，还是圭亚那常驻联合国代表罗德里格斯-伯基特。发言人是否能透露中方考虑投票支持哪位候选人？\n郭嘉昆表示，联合国秘书长选举关系到联合国改革发展和会员国切身利益，中方支持根据《联合国宪章》规定，选出一位恪守宪章、能力出众，公道正派、履职担当的新任秘书长。\n“中方将同有关各方一道，以负责任态度参与秘书长选举过程。”郭嘉昆说。\n现任联合国秘书长古特雷斯于2017年1月上任，2021年获得连任，任期至今年12月31日。\n据新华社报道，9月18日，联合国安理会就下一任秘书长遴选举行了第三轮意向性投票。\n目前下任联合国秘书长8名候选人分别为：厄瓜多尔外交官伊沃内·巴基、智利前总统米歇尔·巴切莱特、来自厄瓜多尔的联大前主席玛丽亚·费尔南达·埃斯皮诺萨、来自阿根廷的现任国际原子能机构总干事拉斐尔·格罗西、来自哥斯达黎加的现任联合国贸易和发展会议秘书长蕾韦卡·格林斯潘、来自乌干达的联合国前副秘书长奥拉拉·奥通努、圭亚那现任常驻联合国代表卡罗琳·罗德里格斯－伯基特、塞内加尔前总统麦基·萨勒。\n意向性投票一般需要多轮，投票意向分别为“鼓励”、“劝阻”、“不发表意见”。\n根据惯例，前期意向性投票不区分安理会常任理事国和非常任理事国，后期投票五个常任理事国使用与非常任理事国不同颜色的选票，以确认五常中有无“劝阻”票。在安理会意向性投票中，候选人必须获得至少9票“鼓励”，且五常均不“劝阻”，方可获得安理会推荐，经联合国大会任命。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "联合国秘书长选举",
+    "联合国改革",
+    "多边外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "郭嘉昆",
+      "name_en": "Guo Jiakun"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国秘书长选举",
+      "name_en": "UN Secretary-General Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国改革",
+      "name_en": "UN Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边外交",
+      "name_en": "Multilateral Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "郭嘉昆",
+    "外交部",
+    "联合国秘书长选举",
+    "联合国改革",
+    "多边外交"
+  ],
+  "tags_en": [
+    "Guo Jiakun",
+    "Ministry of Foreign Affairs",
+    "UN Secretary-General Election",
+    "UN Reform",
+    "Multilateral Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260928-beijing_daily-a5837d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

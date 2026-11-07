@@ -1,0 +1,124 @@
+{
+  "id": "20261101-gov_yan_cheng-3de42d",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/11/1/art_49_4464562.html",
+  "title_zh": "市委编委会召开会议 严汉平主持并讲话",
+  "title_en": "Yancheng Municipal Committee Institutional Staffing Commission Holds Meeting, Chaired by Yan Hanping",
+  "summary_zh": "10月31日上午，盐城市委书记、市委编委主任严汉平主持召开市委编委会会议，学习习近平总书记关于机构编制工作的重要论述，并审议有关机构编制事项。",
+  "summary_en": "On the morning of Oct 31, Yan Hanping, Party Secretary of Yancheng and director of the municipal committee's institutional staffing commission, chaired a commission meeting to study Xi Jinping's remarks on institutional staffing work and review related staffing matters.",
+  "body_zh": "严汉平主持并讲话 吴炜黄华出席\n10月31日上午，市委书记、市委编委主任严汉平主持召开市委编委会会议，传达学习习近平总书记关于机构编制工作的重要论述，审议有关机构编制事项。市委编委副主任吴炜、黄华、侍军宁、商建明、沈旭东出席会议。\n会议认真学习了《习近平关于机构编制工作论述摘编》。会议指出，习近平总书记关于机构编制工作的重要论述，是习近平新时代中国特色社会主义思想的重要组成部分，是做好新时代机构编制工作的根本遵循。全市各级编委和组织、机构编制部门要深刻领悟习近平总书记重要论述的重大意义、核心要义和丰富内涵，理解把握蕴含其中的立场观点方法、道理学理哲理，真正做到内化于心、外化于行，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。\n会议强调，要把牢政治方向，坚守党管机构编制原则，把党的全面领导贯穿机构设置、职能配置、编制配备全过程各方面，坚决落实机构改革和机构编制重大事项请示报告的制度安排。要聚焦中心大局，优化机构编制资源配置，推动编制向中心工作、民生领域、基层一线倾斜，为各地各部门创造性落实市第九次党代会部署提供编制保障。要突出科学规范，盘活机构编制资源，严肃机构编制纪律，压紧压实工作责任，提升机构编制工作水平，推动机构编制工作高质量发展。\n市委编委组成人员参加会议。",
+  "image_url": null,
+  "published_at": "2026-11-01T12:00:00+00:00",
+  "event_date": "2026-10-31",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "party",
+  "keywords": [
+    "机构编制",
+    "党管机构编制",
+    "机构改革"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机构编制",
+      "name_en": "Institutional Staffing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党管机构编制",
+      "name_en": "Party Leadership over Staffing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机构改革",
+      "name_en": "Institutional Reform"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄华",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "盐城",
+    "机构编制",
+    "党管机构编制",
+    "机构改革",
+    "吴炜",
+    "习近平",
+    "黄华"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Yancheng",
+    "Institutional Staffing",
+    "Party Leadership over Staffing",
+    "Institutional Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      "yan-hanping-yancheng",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "黄华"
+      },
+      {
+        "id": null,
+        "name_zh": "沈旭东"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261101-gov_yan_cheng-3de42d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

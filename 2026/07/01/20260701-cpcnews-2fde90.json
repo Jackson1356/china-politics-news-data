@@ -1,0 +1,110 @@
+{
+  "id": "20260701-cpcnews-2fde90",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0701/c64094-40751794.html",
+  "title_zh": "习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统",
+  "title_en": "Xi Jinping Sends Congratulatory Message to Dela Espriella on Election as Colombian President",
+  "summary_zh": "6月29日，国家主席习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统，希望进一步深化两国交流合作，提升中哥战略伙伴关系。",
+  "summary_en": "On June 29, President Xi Jinping sent a congratulatory message to Dela Espriella on his election as President of Colombia, expressing hope to deepen bilateral cooperation and elevate the China-Colombia strategic partnership.",
+  "body_zh": "新华社北京7月1日电 6月29日，国家主席习近平致电德拉埃斯普列亚，祝贺他当选哥伦比亚共和国总统。\n习近平指出，中国和哥伦比亚是战略伙伴。建交46年来，中哥关系历经国际风云变幻考验，始终保持良好发展势头。两国政治互信持续巩固，人民友好深入人心，高质量共建“一带一路”合作不断取得新进展。我高度重视中哥关系发展，愿同德拉埃斯普列亚当选总统一道努力，进一步深化两国各领域交流合作，引领中哥战略伙伴关系迈上新台阶，更好造福两国人民。\n同日，国家副主席韩正向哥伦比亚当选副总统雷斯特雷波致贺电。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-29",
+  "ingested_at": "2026-07-03T07:43:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "战略伙伴关系",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "哥伦比亚",
+      "name_en": "Colombia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "哥伦比亚",
+    "战略伙伴关系",
+    "一带一路"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Colombia",
+    "Strategic Partnership",
+    "Belt and Road Initiative"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260701-cpcnews-2fde90",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/07/01/VIDEbJzAmoGacYr8vZ4kYWZv260701.shtml",
+      "title_zh": "[视频]习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073985.htm",
+      "title_zh": "习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20260701/0081b98c238a43f18f7fb2155bde782e/c.html",
+      "title_zh": "习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

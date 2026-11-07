@@ -1,0 +1,90 @@
+{
+  "id": "20261023-gov_huai_hua-6e0dd6",
+  "source": "gov_huai_hua",
+  "source_name_zh": "怀化市政府网",
+  "source_name_en": "怀化 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_hua",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaihua.gov.cn/huaihua/c200023/202610/7ad3a4f7841645e3b95faeaf56ff5a2e.shtml",
+  "title_zh": "怀化市委理论学习中心组（扩大）集体学习在通道转兵纪念馆举行",
+  "title_en": "Huaihua Municipal Party Committee Holds Collective Study Session at Tongdao Zhuanbing Memorial Hall",
+  "summary_zh": "10月22日，怀化市委理论学习中心组（扩大）在通道转兵纪念馆举行集体学习，学习贯彻纪念红军长征胜利90周年大会讲话精神。",
+  "summary_en": "On Oct 22, Huaihua Municipal Party Committee held a collective study session at the Tongdao Zhuanbing Memorial Hall, studying Xi Jinping's speech on the 90th anniversary of the Long March victory.",
+  "body_zh": "市委理论学习中心组（扩大）集体学习在通道转兵纪念馆举行\n10月22日，是中国工农红军长征胜利90周年纪念日。当天，市委理论学习中心组（扩大）集体学习在通道转兵纪念馆举行，深入学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神和习近平总书记关于弘扬长征精神的重要论述。\n中共中央党校（国家行政学院）中共党史教研部原主任罗平汉围绕“长征与毛泽东领导地位的确立”作专题辅导。\n会后，与会人员分别参观了宝庆会馆、通道转兵纪念馆，观看了大型交响合唱《长征组歌》演出。\n在职市级领导、市直相关部门主要负责人参加学习。\n（全媒体记者 补秀梅）",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "理论学习",
+    "红色教育"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "通道",
+      "name_en": "Tongdao"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "红色教育",
+      "name_en": "Red Education"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "通道",
+    "长征精神",
+    "理论学习",
+    "红色教育",
+    "习近平"
+  ],
+  "tags_en": [
+    "Tongdao",
+    "Long March Spirit",
+    "Theoretical Study",
+    "Red Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261023-gov_huai_hua-6e0dd6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

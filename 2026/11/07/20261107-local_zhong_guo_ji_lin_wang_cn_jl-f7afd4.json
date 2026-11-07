@@ -1,0 +1,112 @@
+{
+  "id": "20261107-local_zhong_guo_ji_lin_wang_cn_jl-f7afd4",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gnyw/202611/4096474.html",
+  "title_zh": "商务部新闻发言人就美制裁中国企业答记者问",
+  "title_en": "MOFCOM Spokesperson Answers Questions on US Sanctions Against Chinese Companies",
+  "summary_zh": "商务部新闻发言人11月7日就美方以涉及第三方为由制裁中国企业答记者问，表示中方坚决反对，敦促美方尽快纠正错误做法。",
+  "summary_en": "A MOFCOM spokesperson said on Nov 7 that China firmly opposes new US sanctions on Chinese firms citing third-party ties, urging Washington to correct its wrong practices.",
+  "body_zh": "答：我们注意到有关情况。美方以涉及第三方为由，对中国企业采取单边制裁，违反国际法和国际关系基本准则，中方对此坚决反对。\n近期，美方升级对中方制裁打压，密集出台多项歧视性限制措施，严重损害中国企业权益，背离两国元首达成的重要共识，破坏中美经贸关系稳定。中方敦促美方尽快纠正错误做法，并保留采取必要措施、维护自身正当权益的权利。\n初审：  韩方宇\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "单边制裁",
+    "中美经贸关系",
+    "中国企业权益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸关系",
+      "name_en": "China-US Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国企业权益",
+      "name_en": "Rights of Chinese Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "单边制裁",
+    "中美经贸关系",
+    "中国企业权益"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Unilateral Sanctions",
+    "China-US Trade Relations",
+    "Rights of Chinese Enterprises"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261107-local_zhong_guo_ji_lin_wang_cn_jl-f7afd4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1794014499129057.html",
+      "title_zh": "商务部回应美制裁中国企业：敦促美方尽快纠正错误做法",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/11/07/12021411.shtml",
+      "title_zh": "商务部回应美制裁中国企业：敦促美方尽快纠正错误做法",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://www.xmnn.cn/news/gnxw/202611/t20261107_460196.html",
+      "title_zh": "商务部新闻发言人就美制裁中国企业答记者问 _新闻频道_厦门网",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://www.scol.com.cn/zlts_ss/202611/83353155.html",
+      "title_zh": "商务部新闻发言人就美制裁中国企业答记者问",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

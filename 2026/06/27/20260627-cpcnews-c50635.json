@@ -1,0 +1,117 @@
+{
+  "id": "20260627-cpcnews-c50635",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0627/c64094-40748629.html",
+  "title_zh": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
+  "title_en": "Wang Yi Meets with Cambodian Deputy Prime Minister and Foreign Minister Prak Sokhonn and Deputy Prime Minister Sun Chanthol",
+  "summary_zh": "2026年6月26日，外交部长王毅在北京会见柬埔寨副首相布拉索昆和孙占托，探讨深化新时代全天候中柬命运共同体建设。",
+  "summary_en": "On June 26, 2026, Foreign Minister Wang Yi met with Cambodian Deputy Prime Ministers Prak Sokhonn and Sun Chanthol in Beijing to discuss deepening the China-Cambodia community with a shared future in the new era.",
+  "body_zh": "新华社北京6月26日电 中共中央政治局委员、外交部长王毅26日在北京会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托。\n王毅表示，习近平总书记同洪森主席就深化新时代全天候中柬命运共同体建设达成新的战略共识。我们要把两国领导人重要共识落到实处，使中柬关系成为中国与周边国家关系典范。中国将始终是柬埔寨最坚实战略依托、最可靠合作伙伴和命运与共的铁杆朋友。\n布拉索昆表示，柬方赞赏中方在国际地区事务中发挥的日益重要作用。孙占托表示，欢迎中国企业在柬投资兴业，将全力营造安全的营商环境。\n《 人民日报 》（ 2026年06月27日 03 版）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "中柬关系",
+    "命运共同体",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "布拉索昆",
+      "name_en": "Prak Sokhonn"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孙占托",
+      "name_en": "Sun Chanthol"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中柬关系",
+      "name_en": "China-Cambodia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "布拉索昆",
+    "孙占托",
+    "北京",
+    "中柬关系",
+    "命运共同体",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Prak Sokhonn",
+    "Sun Chanthol",
+    "Beijing",
+    "China-Cambodia Relations",
+    "Community with a Shared Future",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "孙占托"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260626-xinhua_leaders-23f221",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073520.htm",
+      "title_zh": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
+      "published_at": "2026-06-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260820-beijing_daily-cd1c39",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/20/11924069.shtml",
+  "title_zh": "外交部回应美国学者批驳“中国冲击”论调",
+  "title_en": "Foreign Ministry Responds to US Scholar's Rebuttal of 'China Shock' Narrative",
+  "summary_zh": "8月20日，外交部发言人林剑表示，中国发展带给世界的是机遇而非冲击，是赋能而非挤压。",
+  "summary_en": "On August 20, Foreign Ministry spokesperson Lin Jian said China's development brings opportunities, not shocks, and empowerment, not squeezing, to the world.",
+  "body_zh": "8月20日，外交部发言人林剑主持例行记者会。\n林剑表示，我们注意到，越来越多有识之士发表了类似见解。事实证明，中国发展带给世界的不是“冲击”而是机遇，不是“挤压”而是赋能。物美价优的中国制造，降低了发展中国家的工业化门槛；开源普惠的中国创新，让更多国家用得上、用得起前沿技术；稳定可靠的中国供应，提升了全球产供链的韧性，助推全球南方国家更快走上现代化道路。\n林剑说，面对当前世界经济不确定、不稳定性因素增多，中国愿继续以自身高质量发展，为各国提供更多市场红利、创新红利、发展红利。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国发展",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国发展",
+      "name_en": "China's Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中国发展",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "China's Development",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "林剑"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-beijing_daily-cd1c39",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

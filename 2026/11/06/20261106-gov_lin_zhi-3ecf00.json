@@ -1,0 +1,110 @@
+{
+  "id": "20261106-gov_lin_zhi-3ecf00",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/c3ff0c7ffd33434c869c1ae7aa890d94.shtml",
+  "title_zh": "国务院批复辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案",
+  "title_en": "State Council Approves Integration and Optimization Plans for National Nature Reserves and Scenic Areas in Nine Provinces and Regions",
+  "summary_zh": "国务院批复原则同意辽宁、吉林、江苏、广东、四川、西藏、甘肃、宁夏、新疆9省区国家级自然保护区和国家级风景名胜区整合优化方案，要求坚持生态优先、绿色发展。",
+  "summary_en": "The State Council approved in principle integration and optimization plans for national nature reserves and scenic areas in nine provincial-level regions, including Liaoning, Sichuan and Xinjiang, urging ecological protection alongside green development.",
+  "body_zh": "国务院关于辽宁等9省区国家级自然保护区\n和国家级风景名胜区整合优化方案的批复\n国函〔2026〕113号\n自然资源部、生态环境部、国家林草局：\n《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的请示》（自然资发〔2026〕137号）收悉。现批复如下：\n一、原则同意辽宁、吉林、江苏、广东、四川、西藏、甘肃、宁夏、新疆等9省区国家级自然保护区和国家级风景名胜区整合优化方案，请认真组织实施。整合优化后国家级自然保护区和国家级风景名胜区的名称、区域范围、管控分区由国家林草局公布。\n二、方案实施要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，全面贯彻习近平生态文明思想，认真落实党中央、国务院决策部署，坚持生态优先、依法依规、因地制宜、突出特色，实现生态保护、绿色发展、民生改善相统一。\n三、有关部门和地方人民政府要严格执行自然保护地建设管理有关规定，切实履行生态环境保护责任，加强组织领导和协调配合，强化对涉及自然保护地各类违法违规行为的监管执法，确保各项管理措施得到落实，不断提高国家级自然保护区、国家级风景名胜区等自然保护地建设管理水平。重大事项及时按程序请示报告。\n国务院\n（此件公开发布）",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "economy",
+  "keywords": [
+    "自然保护地",
+    "生态保护",
+    "绿色发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然保护地",
+      "name_en": "Protected Natural Areas"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色发展",
+      "name_en": "Green Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "自然资源部",
+    "生态环境部",
+    "自然保护地",
+    "生态保护",
+    "绿色发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "State Council",
+    "Ministry of Natural Resources",
+    "Ministry of Ecology and Environment",
+    "Protected Natural Areas",
+    "Ecological Protection",
+    "Green Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "STATE-COUNCIL",
+      "MNR",
+      "MEE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261106-gov_lin_zhi-3ecf00",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

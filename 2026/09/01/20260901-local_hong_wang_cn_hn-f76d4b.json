@@ -1,0 +1,78 @@
+{
+  "id": "20260901-local_hong_wang_cn_hn-f76d4b",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646043/83/16227641.html",
+  "title_zh": "中吉元首出席签字仪式，现场响起长时间热烈掌声",
+  "title_en": "Chinese and Kyrgyz Presidents Attend Signing Ceremony, Drawing Warm Applause",
+  "summary_zh": "当地时间8月31日，习近平主席同吉尔吉斯斯坦总统扎帕罗夫出席签字仪式，两国元首交换文本时现场响起长时间热烈掌声。",
+  "summary_en": "On August 31, President Xi Jinping and Kyrgyz President Japarov attended a signing ceremony, where the two leaders exchanged documents amid prolonged warm applause.",
+  "body_zh": "头条\n国内新闻\n国际新闻\n当前位置:\n湖南红网新闻频道\n头条\n习近平报道集\n正文\n此行间·中吉元首出席签字仪式，现场响起长时间热烈掌声\n时刻新闻\n当地时间8月31日，习近平主席同吉尔吉斯斯坦总统扎帕罗夫出席签字仪式，现场气氛热烈。两国元首交换文本时，现场响起长时间的掌声。\n阅读下一篇\n第一观察·瞬间｜永久的友好近邻 真诚的合作伙伴\n返回红网首页\n返回湖南红网新闻频道首页",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中吉合作",
+    "签字仪式"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中吉合作",
+      "name_en": "China-Kyrgyzstan Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "签字仪式",
+      "name_en": "Signing Ceremony"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中吉合作",
+    "签字仪式"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China-Kyrgyzstan Cooperation",
+    "Signing Ceremony"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "罗夫"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260901-local_hong_wang_cn_hn-f76d4b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

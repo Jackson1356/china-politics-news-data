@@ -1,0 +1,122 @@
+{
+  "id": "20260829-local_zhong_guo_ji_lin_wang_cn_jl-cbde2b",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gj/202608/4076607.html",
+  "title_zh": "习近平将出席上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+  "title_en": "Xi Jinping to Attend SCO Summit and Pay State Visits to Kyrgyzstan and Egypt",
+  "summary_zh": "国家主席习近平将于8月30日至9月3日出席在比什凯克举行的上海合作组织峰会，并对吉尔吉斯斯坦和埃及进行国事访问。",
+  "summary_en": "President Xi Jinping will attend the SCO summit in Bishkek from Aug 30 to Sep 3 and pay state visits to Kyrgyzstan and Egypt.",
+  "body_zh": "吉尔吉斯斯坦位于中亚东北部，面积约19.99万平方公里，人口约740万，共有80多个民族。首都为比什凯克。\n中吉自1992年1月5日建交以来，两国关系积极、健康、稳步向前发展。2023年，中吉关系提升为新时代全面战略伙伴关系，宣布构建睦邻友好、共享繁荣的中吉命运共同体。\n吉尔吉斯斯坦是最早支持和参与共建“一带一路”的国家之一。中国连续多年为吉尔吉斯斯坦第一大贸易伙伴国、第一大进口来源国和第一大投资来源国。\n8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。\n总监制丨申勇\n监制丨龚雪辉\n策划丨史伟 王鹏飞 彭汉明\n编导丨卢心雨 吉生亮\n摄像丨总台时政摄像团队\n制作丨郭鹏\n统筹丨钟锋 陈扬 王萌萌\n初审：  郭龙\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "国事访问",
+    "外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "埃及",
+      "name_en": "Egypt"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交",
+      "name_en": "Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "吉尔吉斯斯坦",
+    "埃及",
+    "上海合作组织",
+    "国事访问",
+    "外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Kyrgyzstan",
+    "Egypt",
+    "Shanghai Cooperation Organization",
+    "State Visit",
+    "Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260829-local_zhong_guo_ji_lin_wang_cn_jl-cbde2b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://www.scol.com.cn/zlts_ss/202608/83313004.html",
+      "title_zh": "独家V观丨你好 吉尔吉斯斯坦",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    },
+    {
+      "source": "cjn",
+      "source_tier": null,
+      "url": "http://news.cjn.cn/asy/ttxw/202608/t5334399.htm",
+      "title_zh": "习近平将出席上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

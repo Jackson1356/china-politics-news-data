@@ -1,0 +1,106 @@
+{
+  "id": "20261107-gov_huai_an-334f7f",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/17940105107496ntweJ1u.html",
+  "title_zh": "中共淮安市委召开民主协商会 就有关人事安排事项进行民主协商",
+  "title_en": "CPC Huai'an Municipal Committee Holds Democratic Consultation Meeting on Personnel Arrangements",
+  "summary_zh": "11月6日，中共淮安市委召开民主协商会，就有关人事安排事项与各民主党派市委会、市工商联负责人和无党派人士代表进行协商，市委书记顾坤主持。",
+  "summary_en": "On Nov 6, the CPC Huai'an Municipal Committee held a democratic consultation meeting, chaired by Party Secretary Gu Kun, to discuss personnel arrangements with leaders of democratic parties, the federation of industry and commerce and independent figures.",
+  "body_zh": "中共淮安市委召开民主协商会\n11月6日，中共淮安市委召开民主协商会，就有关人事安排事项与各民主党派市委会、市工商联负责人和无党派人士代表进行民主协商。市委书记顾坤主持会议。\n市委副书记、统战部部长胡毅出席会议。市委常委、组织部部长还红华就有关人事安排事项作了说明。在民主和谐的氛围中，与会各民主党派市委会、市工商联负责人和无党派人士代表进行了认真协商，一致赞同有关人事安排意见。\n范更生、邱华康、韩文军、毕丰书、李萍、陈兆燕、胡珍、沈潭等各民主党派市委会、市工商联负责人和无党派人士代表，市有关部门负责同志参加会议。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "personnel",
+  "keywords": [
+    "民主协商",
+    "人事安排",
+    "统一战线"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共淮安市委",
+      "name_en": "CPC Huai'an Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主协商",
+      "name_en": "Democratic Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事安排",
+      "name_en": "Personnel Arrangements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "中共淮安市委",
+    "淮安",
+    "民主协商",
+    "人事安排",
+    "统一战线"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "CPC Huai'an Municipal Committee",
+    "Huai'an",
+    "Democratic Consultation",
+    "Personnel Arrangements",
+    "United Front"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共淮安市委",
+        "name_en": "CPC Huai'an Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261107-gov_huai_an-334f7f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

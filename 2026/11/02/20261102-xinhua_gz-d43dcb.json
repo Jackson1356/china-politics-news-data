@@ -1,0 +1,125 @@
+{
+  "id": "20261102-xinhua_gz-d43dcb",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20261102/a9856c9026084858a14a19a4346ebb27/c.html",
+  "title_zh": "徐麟会见北京大学“东方奖学金”治国理政研修班代表团",
+  "title_en": "Xu Lin Meets Peking University “Oriental Scholarship” Governance Seminar Delegation",
+  "summary_zh": "11月1日，贵州省委书记徐麟在贵阳会见北京大学“东方奖学金”治国理政研修班代表团，双方就深化交流合作交换意见。",
+  "summary_en": "On November 1, Guizhou Party Secretary Xu Lin met in Guiyang with a delegation from Peking University's “Oriental Scholarship” governance seminar, discussing deeper exchanges and cooperation.",
+  "body_zh": "11月1日，省委书记徐麟在贵阳会见来黔参访的北京大学“东方奖学金”治国理政研修班代表团一行。省领导卢雍政、蔡朝林，北京大学党委常委、副校长方方参加。\n徐麟向代表团一行表示欢迎，并介绍了贵州经济社会发展情况。他说，近日召开的中共二十届五中全会就持之以恒推进全面从严治党作出战略部署，必将为中国高质量发展和推进中国式现代化提供坚强保障。中共十八大以来，在以习近平同志为核心的中共中央领导下，贵州各项事业大踏步前进，充分彰显了习近平主席治国理政的高超智慧和中国特色社会主义制度的显著优势。当前，贵州正按照习近平主席擘画的美好蓝图，奋发有为在中国式现代化进程中展现贵州新风采。贵州愿以代表团此次参访为契机，与广大南方国家有关方面和地方一道，抢抓高质量共建“一带一路”等战略机遇，深化各领域交流合作，更好实现优势互补、发展共赢。\n研修班学员代表、乌拉圭前公共卫生部部长卡琳娜·兰多在发言中感谢贵州的热情友好安排。她说，学员们通过课程学习和实地感受贵州发展成就，更加直接全面认识了解了中国，将推动所在国家学习借鉴中国成功经验，携手共建人类命运共同体。\n据悉，代表团由来自52个南方国家的学员组成。北京大学和省有关部门负责人参加会见。（记者 曾书慧）",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-01",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "治国理政",
+    "一带一路",
+    "国际交流合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-lin",
+      "name_zh": "徐麟",
+      "name_en": "Xu Lin"
+    },
+    {
+      "kind": "institution",
+      "id": "PKU",
+      "name_zh": "北京大学",
+      "name_en": "Peking University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "治国理政",
+      "name_en": "Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际交流合作",
+      "name_en": "International Exchange and Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "lu-yongzheng",
+      "name_zh": "卢雍政",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "徐麟",
+    "北京大学",
+    "贵阳",
+    "贵州",
+    "治国理政",
+    "一带一路",
+    "国际交流合作",
+    "卢雍政"
+  ],
+  "tags_en": [
+    "Xu Lin",
+    "Peking University",
+    "Guiyang",
+    "Guizhou",
+    "Governance",
+    "Belt and Road",
+    "International Exchange and Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-yongzheng",
+      "xu-lin",
+      "xu-lin-guizhou",
+      {
+        "id": null,
+        "name_zh": "方方"
+      }
+    ],
+    "institutions": [
+      "PKU"
+    ],
+    "locations": [
+      "CN-GZ-GY",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261102-xinhua_gz-d43dcb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

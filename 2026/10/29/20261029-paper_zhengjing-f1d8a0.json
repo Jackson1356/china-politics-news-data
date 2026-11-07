@@ -1,0 +1,91 @@
+{
+  "id": "20261029-paper_zhengjing-f1d8a0",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34357608",
+  "title_zh": "国内最长地铁环线全线开通：全长59.9公里，武汉12号线两次下穿长江",
+  "title_en": "China's Longest Subway Loop Line Fully Opens: Wuhan Line 12, 59.9 km, Crosses Yangtze Twice",
+  "summary_zh": "10月29日，武汉地铁12号线全线开通运营，全长59.9公里、设37座地下车站，为国内最长地铁环线，两次下穿长江、一次下穿汉江。",
+  "summary_en": "Wuhan Metro Line 12 opened fully on Oct 29, running 59.9 km with 37 underground stations, making it China's longest subway loop line; it crosses the Yangtze twice and the Han River once.",
+  "body_zh": "国内最长地铁环线全线开通：全长59.9公里，武汉12号线两次下穿长江\n龚联康、樊曦/@新华社\n10月29日，武汉地铁12号线全线开通运营。经中国城市轨道交通协会确认，这是目前国内最长地铁环线。线路全长59.9公里，设37座地下车站，串联武汉7个中心城区，衔接汉口站、武昌站两大铁路枢纽，可与18条既有及规划线路换乘，跑完全程约96分钟。\n线路两次下穿长江、一次下穿汉江，包含国内超长过江地铁盾构隧道，攻克高水压、复合地层、长距离水下盾构等系列技术难题，是国内跨江地铁隧道集群施工、大环线轨道交通建设的示范工程。\n线路通车后，将进一步打破长江、汉江天然阻隔带来的跨江通勤瓶颈，支撑长江经济带核心城市综合交通枢纽建设。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "economy",
+  "keywords": [
+    "轨道交通",
+    "城市基础设施",
+    "长江经济带"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB-WH",
+      "name_zh": "武汉",
+      "name_en": "Wuhan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "长江",
+      "name_en": "Yangtze River"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "轨道交通",
+      "name_en": "Rail Transit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市基础设施",
+      "name_en": "Urban Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长江经济带",
+      "name_en": "Yangtze River Economic Belt"
+    }
+  ],
+  "tags_zh": [
+    "武汉",
+    "长江",
+    "轨道交通",
+    "城市基础设施",
+    "长江经济带"
+  ],
+  "tags_en": [
+    "Wuhan",
+    "Yangtze River",
+    "Rail Transit",
+    "Urban Infrastructure",
+    "Yangtze River Economic Belt"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HB-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261029-paper_zhengjing-f1d8a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

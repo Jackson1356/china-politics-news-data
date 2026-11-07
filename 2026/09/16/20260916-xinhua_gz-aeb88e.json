@@ -1,0 +1,106 @@
+{
+  "id": "20260916-xinhua_gz-aeb88e",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260916/0d8418c21053469086dac586a3868064/c.html",
+  "title_zh": "李炳军在贵阳市调研旅居产业",
+  "title_en": "Li Bingjun Inspects Residential Tourism Industry in Guiyang",
+  "summary_zh": "9月15日，贵州省委副书记、省长李炳军到贵阳市花溪区调研旅居产业，强调聚焦市场需求优化产品服务供给，推动旅居产业高质量发展。",
+  "summary_en": "On Sept 15, Guizhou Governor Li Bingjun inspected the residential tourism industry in Huaxi District, Guiyang, urging market-driven improvement of products and services to boost high-quality growth of the sector.",
+  "body_zh": "李炳军在贵阳市调研旅居产业时强调\n聚焦市场需求优化产品服务供给\n乘势而上推动旅居产业高质量发展\n9月15日，省委副书记、省长李炳军到贵阳市花溪区调研。他强调，要深入贯彻习近平总书记在贵州考察时的重要讲话精神，全面落实全省旅居产业发展推进会部署要求，聚焦市场需求优化产品服务供给，乘势而上推动旅居产业高质量发展。副省长蔡朝林参加。\n贵阳市发展旅居产业具有良好基础。在循美里・青隐山居，李炳军与民宿经营者深入交流，希望进一步提升服务品质和精细化管理水平，持续提升消费体验。来到青岩镇龙井村，李炳军实地察看村容村貌，走进非遗工坊观看作品展陈，叮嘱当地进一步提升乡村整体风貌，用好用足田园风光、民族文化等特色资源，大力发展乡村旅居。在九道拐・追风里项目，李炳军详细了解项目运营管理情况，勉励企业持续深化文旅体融合发展，不断创新丰富产品业态，更好满足游客多元化、品质化消费需求。\n调研中，李炳军强调，今年以来，全省旅居产业呈现良好发展态势，要深入总结经验，针对性补齐短板弱项，提前谋划部署明年工作，全面提升“旅居到贵州、生活更多彩”品牌的知名度和吸引力。各地要加强顶层设计、规划布局，坚持市场化原则，下大力培育引进专业经营主体，更加注重提升美学设计水平，打造更多有特色、符合市场需求的旅居产品。\n省政府秘书长魏树旺，贵阳市和省有关部门负责同志参加。（记者 陈毓钊）",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "economy",
+  "keywords": [
+    "旅居产业",
+    "文旅融合",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅居产业",
+      "name_en": "Residential Tourism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文旅融合",
+      "name_en": "Culture-Tourism Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "李炳军",
+    "贵州",
+    "贵阳",
+    "旅居产业",
+    "文旅融合",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Li Bingjun",
+    "Guizhou",
+    "Guiyang",
+    "Residential Tourism",
+    "Culture-Tourism Integration",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "蔡朝林"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ",
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260916-xinhua_gz-aeb88e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

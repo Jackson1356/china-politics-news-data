@@ -1,0 +1,106 @@
+{
+  "id": "20261024-peoples_ha-64abf4",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/1024/c351638-41731449.html",
+  "title_zh": "周祖翼当选中共河南省委书记",
+  "title_en": "Zhou Zuyi Elected Secretary of the CPC Henan Provincial Committee",
+  "summary_zh": "10月23日，中共河南省第十二届委员会第一次全体会议在郑州选举周祖翼为省委书记，王陆进、张巍为省委副书记。",
+  "summary_en": "On Oct 23, the first plenary session of the 12th CPC Henan Provincial Committee in Zhengzhou elected Zhou Zuyi as provincial party secretary, with Wang Lujin and Zhang Wei as deputy secretaries.",
+  "body_zh": "周祖翼当选中共河南省委书记\n新华社郑州10月23日电 中共河南省第十二届委员会第一次全体会议10月23日选举周祖翼为省委书记，王陆进、张巍为省委副书记，当选为省委常委的还有秦国文、王刚、张敏（女）、王崧、陈春江（蒙古族）、李涛、郑海洋、张路刚、杨小菁（女）、徐相锋。中共河南省第十二届纪委第一次全体会议选举秦国文为省纪委书记，王为民、于燕（女）、宋春波、顾恒东为省纪委副书记。\n《 人民日报 》（ 2026年10月24日 02 版）",
+  "image_url": null,
+  "published_at": "2026-10-24T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "personnel",
+  "keywords": [
+    "党委换届",
+    "人事任命"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-zuyi",
+      "name_zh": "周祖翼",
+      "name_en": "Zhou Zuyi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共河南省委",
+      "name_en": "CPC Henan Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA-ZZ",
+      "name_zh": "郑州",
+      "name_en": "Zhengzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党委换届",
+      "name_en": "Party Committee Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任命",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "周祖翼",
+    "中共河南省委",
+    "河南",
+    "郑州",
+    "党委换届",
+    "人事任命"
+  ],
+  "tags_en": [
+    "Zhou Zuyi",
+    "CPC Henan Provincial Committee",
+    "Henan",
+    "Zhengzhou",
+    "Party Committee Leadership Transition",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-zuyi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA",
+      "CN-HA-ZZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共河南省委",
+        "name_en": "CPC Henan Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261024-peoples_ha-64abf4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

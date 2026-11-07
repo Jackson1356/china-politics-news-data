@@ -1,0 +1,117 @@
+{
+  "id": "20261106-peoples_jl-4739da",
+  "source": "peoples_jl",
+  "source_name_zh": "人民网 吉林",
+  "source_name_en": "People's Daily Jilin",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jl.people.com.cn/n2/2026/1106/c349771-41743208.html",
+  "title_zh": "国务院办公厅关于2027年部分节假日安排的通知",
+  "title_en": "State Council General Office Issues Notice on 2027 Public Holiday Arrangements",
+  "summary_zh": "国务院办公厅11月5日发出通知，公布2027年元旦、春节、清明、劳动节、端午、中秋、国庆放假调休安排，其中春节放假9天。",
+  "summary_en": "The General Office of the State Council issued a notice on Nov 5 detailing 2027 public holiday and make-up workday arrangements, including a nine-day Spring Festival break.",
+  "body_zh": "国务院办公厅关于2027年部分节假日安排的通知\n新华社北京11月5日电 国务院办公厅关于2027年部分节假日安排的通知，全文如下：\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节、中秋节和国庆节放假调休日期的具体安排通知如下。\n一、元旦：1月1日（周五）至3日（周日）放假，共3天。\n二、春节：2月5日（农历除夕、周五）至13日（农历正月初八、周六）放假调休，共9天。1月31日（周日）、2月14日（周日）上班。\n三、清明节：4月3日（周六）至5日（周一）放假，共3天。\n四、劳动节：5月1日（周六）至5日（周三）放假调休，共5天。5月8日（周六）上班。\n五、端午节：6月9日（周三）放假，共1天。\n六、中秋节：9月15日（周三）放假，共1天。\n七、国庆节：10月1日（周五）至7日（周四）放假调休，共7天。9月26日（周日）、10月9日（周六）上班。\n鼓励单位和个人结合落实带薪年休假等制度，实际形成较长假期，推动错峰出行。节假日期间，各地区、各部门要妥善安排好值班和安全、保卫、疫情防控等工作，遇有重大突发事件，要按规定及时报告并妥善处置，确保人民群众祥和平安度过节日假期。\n国务院办公厅\n《 人民日报 》（ 2026年11月06日 02 版）",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "节假日安排",
+    "放假调休",
+    "带薪年休假"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GOSC",
+      "name_zh": "国务院办公厅",
+      "name_en": "General Office of the State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节假日安排",
+      "name_en": "Holiday Arrangements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "放假调休",
+      "name_en": "Adjusted Workdays"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "带薪年休假",
+      "name_en": "Paid Annual Leave"
+    }
+  ],
+  "tags_zh": [
+    "国务院办公厅",
+    "国务院",
+    "北京",
+    "节假日安排",
+    "放假调休",
+    "带薪年休假"
+  ],
+  "tags_en": [
+    "General Office of the State Council",
+    "State Council",
+    "Beijing",
+    "Holiday Arrangements",
+    "Adjusted Workdays",
+    "Paid Annual Leave"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GOSC",
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261105-gov_cn_yaowen-26b756",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/4cea77cdfe3546b8a5c450c20423cdba.shtml",
+      "title_zh": "国务院办公厅关于2027年部分节假日安排的通知",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "source": "gov_wu_zhong",
+      "source_tier": null,
+      "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "title_zh": "国务院办公厅关于2027年部分节假日安排的通知",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "20260827-peoples_politics-20b2bc",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0827/c1001-40787289.html",
+  "title_zh": "王毅会见美国驻华大使庞德伟",
+  "title_en": "Wang Yi Meets with US Ambassador to China",
+  "summary_zh": "8月26日，中共中央政治局委员、外交部长王毅在北京会见美国驻华大使庞德伟，双方就构建中美建设性战略稳定关系交换意见。",
+  "summary_en": "On August 26, Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, met with US Ambassador to China Pang Dewei in Beijing to exchange views on building a constructive strategic stable relationship.",
+  "body_zh": "王毅会见美国驻华大使庞德伟\n新华社北京8月27日电 8月26日，中共中央政治局委员、外交部长王毅在京会见美国驻华大使庞德伟。\n王毅说，在两国元首领航掌舵下，双方正在推动构建中美建设性战略稳定关系。事实证明，改善发展中美关系，在相互尊重基础上和平共处，进而合作共赢，符合两国人民根本利益，符合国际社会共同期待。同时，中美关系仍面临各种风险挑战。双方应把两国元首达成的重要共识落到实处，聚焦积极议程，妥善管控分歧，为两国高层交往排除干扰、克服障碍，推动中美关系朝着稳定、健康、可持续的方向发展。\n庞德伟说，两国元首为美中关系提供重要战略引领。特朗普总统5月访华非常成功。双方愿加强沟通，推进合作，筹备好下阶段重要高层互动，在尊重和对等的基础上构建美中建设性战略稳定关系。\n庞德伟还代表美方对西藏吉隆遭受泥石流灾害造成人员伤亡表示慰问。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "战略稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "庞德伟",
+      "name_en": "Pang Dewei"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "Sino-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "庞德伟",
+    "外交部",
+    "北京",
+    "中美关系",
+    "战略稳定"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Pang Dewei",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Sino-US Relations",
+    "Strategic Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260827-peoples_politics-20b2bc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260827/00f1425e9a5e4457b92f7f99b840d289/c.html",
+      "title_zh": "王毅会见美国驻华大使庞德伟",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

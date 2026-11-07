@@ -1,0 +1,118 @@
+{
+  "id": "20260921-gov_shan_wei-073fc2",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1278323.html",
+  "title_zh": "逯峰与广东广播电视台党委书记、台长李宜航座谈",
+  "title_en": "Lu Feng Holds Talks with Guangdong Radio and Television Party Secretary and President Li Yihang",
+  "summary_zh": "9月21日上午，汕尾市委书记逯峰与广东广播电视台党委书记、台长李宜航座谈，就借力2026粤港澳大湾区中秋晚会加强汕尾城市形象品牌宣介等深入交流。",
+  "summary_en": "On the morning of Sept 21, Shanwei Party Secretary Lu Feng held talks with Guangdong Radio and Television Party Secretary and President Li Yihang on using the 2026 Greater Bay Area Mid-Autumn Gala to promote Shanwei's city image.",
+  "body_zh": "逯峰与广东广播电视台党委书记、台长李宜航座谈\n加强城市形象品牌宣介\n赋能汕尾高质量发展和现代化建设\n9月21日晚，广东卫视“山海升明月”2026粤港澳大湾区中秋晚会在汕尾圆满完成录制。当天上午，市委书记、市人大常委会主任逯峰与广东广播电视台党委书记、台长李宜航座谈，双方就深入学习贯彻习近平总书记对广东系列重要讲话和重要指示精神，认真落实省委“1310”具体部署，借力2026粤港澳大湾区中秋晚会，加强城市形象品牌宣传推介等进行深入交流。\n李宜航感谢汕尾市委、市政府对广东广播电视台的大力支持。他表示，汕尾山海相融、人文荟萃，文旅资源禀赋独特，城市发展日新月异，为中秋晚会创作提供了丰富鲜活的素材。广东广播电视台将继续发挥权威媒体平台和传播优势，与汕尾拓展合作空间，在新闻报道、专题策划、纪录片制作等方面持续发力，全方位展现海陆丰革命老区在新征程上的蓬勃活力与无限可能，以更强声量助力汕尾打响城市品牌、提升文旅吸引力，为汕尾高质量发展营造良好舆论氛围。\n其间，李宜航率队前往长沙湾服务区、海丰县红宫红场旧址、可塘珠宝交易市场、保利金町湾旅游区等地调研。\n广东广播电视台领导曾少华、黄天文，市领导周毅、郭文炯参加活动。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "城市形象宣传",
+    "媒体合作",
+    "文旅融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lu-feng-shanwei",
+      "name_zh": "逯峰",
+      "name_en": "Lu Feng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李宜航",
+      "name_en": "Li Yihang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "汕尾市委",
+      "name_en": "Shanwei Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市形象宣传",
+      "name_en": "City Image Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "媒体合作",
+      "name_en": "Media Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文旅融合",
+      "name_en": "Culture and Tourism Integration"
+    }
+  ],
+  "tags_zh": [
+    "逯峰",
+    "李宜航",
+    "汕尾市委",
+    "汕尾",
+    "城市形象宣传",
+    "媒体合作",
+    "文旅融合"
+  ],
+  "tags_en": [
+    "Lu Feng",
+    "Li Yihang",
+    "Shanwei Municipal Party Committee",
+    "Shanwei",
+    "City Image Promotion",
+    "Media Cooperation",
+    "Culture and Tourism Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-feng-shanwei",
+      {
+        "id": null,
+        "name_zh": "郭文炯"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": [
+      {
+        "name_zh": "汕尾市委",
+        "name_en": "Shanwei Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_shan_wei-073fc2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20261106-gov_dan_dong-930fef",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202611/0179386915794275.html",
+  "title_zh": "丹东市政府党组召开会议 学习贯彻党的二十届五中全会精神",
+  "title_en": "Dandong Municipal Government Party Group Meets to Study Spirit of 20th CPC Central Committee's Fifth Plenary Session",
+  "summary_zh": "丹东市政府党组召开会议，传达学习贯彻党的二十届五中全会精神，市长张丹主持会议并讲话，部署全面从严治党和四季度经济工作。",
+  "summary_en": "Dandong's municipal government Party group met to study the spirit of the 20th CPC Central Committee's Fifth Plenary Session, with Mayor Zhang Dan urging strict Party governance and solid fourth-quarter economic work.",
+  "body_zh": "日前，市政府党组召开会议，传达学习贯彻党的二十届五中全会精神，研究贯彻落实工作。市委副书记、市长张丹主持会议并讲话。\n会议指出，党的二十届五中全会是在我国发展关键节点召开的一次历史性会议，充分体现了以习近平同志为核心的党中央强党强国的历史主动，彰显了把党的伟大自我革命进行到底的坚定决心和鲜明态度。全市政府系统要自觉把思想和行动统一到习近平总书记重要讲话精神和全会部署上来，把全面从严治党要求贯彻到政府工作各方面全过程，以实干实效坚定拥护“两个确立”、坚决做到“两个维护”。要全面准确学习领会党的二十届五中全会精神，切实强化持之以恒推进全面从严治党的政治自觉和行动自觉，毫不动摇坚持和加强党的全面领导，坚决扛牢管党治党政治责任，纵深推进政府系统党风廉政建设和反腐败斗争，落实好谈心谈话制度，强化廉政风险点监管，营造风清气正、干事创业的良好政治生态。要牢固树立和践行正确政绩观，统筹发展和安全，锚定全年目标任务，坚持解题思维、结果导向，统筹做好四季度收官和明年开局各项工作，推动经济持续向新向优向好发展。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会精神",
+    "全面从严治党",
+    "党风廉政建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": "Dandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党风廉政建设",
+      "name_en": "Party Conduct and Clean Government"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丹东",
+    "党的二十届五中全会精神",
+    "全面从严治党",
+    "党风廉政建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Dandong",
+    "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee",
+    "Full and Rigorous Party Governance",
+    "Party Conduct and Clean Government"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261106-gov_dan_dong-930fef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_dan_dong",
+      "source_tier": 4,
+      "url": "https://www.dandong.gov.cn/html/DDSZF/202611/0179392792550832.html",
+      "title_zh": "市政府党组召开会议 学习贯彻党的二十届五中全会精神-今日丹东-丹东市人民政府",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

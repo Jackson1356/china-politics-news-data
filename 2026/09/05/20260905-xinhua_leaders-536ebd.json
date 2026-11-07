@@ -1,0 +1,105 @@
+{
+  "id": "20260905-xinhua_leaders-536ebd",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260905/b89e51420c6b42dfbf11d8f6bd2c4057/c.html",
+  "title_zh": "习近平主席中亚、中东之旅难忘瞬间",
+  "title_en": "Unforgettable Moments from President Xi Jinping's Tour of Central Asia and the Middle East",
+  "summary_zh": "8月30日至9月3日，习近平主席赴吉尔吉斯斯坦出席上合组织峰会并对吉尔吉斯斯坦、埃及进行国事访问，密集出席20余场活动，访问圆满成功。",
+  "summary_en": "From Aug 30 to Sep 3, President Xi Jinping attended the SCO summit in Kyrgyzstan and paid state visits to Kyrgyzstan and Egypt, holding 20-plus events with fruitful results.",
+  "body_zh": "8月30日至9月3日，国家主席习近平应邀赴吉尔吉斯斯坦出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问。\n5天4夜里，习近平主席密集出席20余场活动，双多边结合、跨区域联动，高瞻远瞩提倡议、脚踏实地促合作、推心置腹话友好，访问亮点纷呈，取得圆满成功。访问期间，一个个精彩瞬间令人难忘，中国作为可靠伙伴和负责任大国的形象更加深入人心。（视频：孙硕）",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "埃及",
+      "name_en": "Egypt"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "吉尔吉斯斯坦",
+    "埃及",
+    "上海合作组织",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Kyrgyzstan",
+    "Egypt",
+    "Shanghai Cooperation Organization",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260905-xinhua_leaders-536ebd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "https://www.qstheory.cn/20260905/933f2d0ffc294b0582c74c28f56497db/c.html",
+      "title_zh": "习近平主席中亚、中东之旅难忘瞬间",
+      "published_at": "2026-09-05T12:00:00+00:00"
+    },
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/05/content_9452690.html",
+      "title_zh": "习近平主席中亚、中东之旅难忘瞬间",
+      "published_at": "2026-09-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260617-guancha_politics-88b5af",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_17_820724.shtml",
+  "title_zh": "山东3亿北斗工程现“脆皮底座”一掰就碎，官方组成联合调查组",
+  "title_en": "Official Joint Investigation Team Formed Over Quality Issues in Shandong's 300 Million Yuan Beidou Project",
+  "summary_zh": "山东一项耗资3亿元的北斗工程被曝底座质量低劣，官方已组成联合调查组对此展开调查。",
+  "summary_en": "A 300 million yuan Beidou project in Shandong was reported to have poor quality bases, prompting the formation of an official joint investigation team to probe the matter.",
+  "body_zh": "青海海西州6.3级地震，致1人遇难8人受伤2026-06-17 06:19 地震\n被欧盟列入制裁名单，瑞丰新材回应2026-06-16 21:24 大公司\n被约谈后，山姆总部更换董事长2026-06-16 20:55\n两部门启动国家地震灾害四级应急响应2026-06-16 20:02 地震\n我国成功发射实践三十一号卫星2026-06-16 18:23 航空航天\n已致1死4伤！青海海西州发生6.3级地震2026-06-16 17:40 地震\n重庆小面协会发声：对撤诉予以肯定2026-06-16 15:04\n朱一龙在长城击日本鼓？品牌方和工作室接连回应2026-06-16 14:17\n黑龙江省纪委副书记姜宏伟被查2026-06-16 11:14 廉政风暴\n“紧跟中央，香港迈出历史性一步”2026-06-15 21:29 香港\n从副部级降为副处级近8年后，王铁再次被查2026-06-15 21:27 廉政风暴\n袁家军：全面彻底肃清流毒影响，持续修复净化政治生态2026-06-15 21:16 廉政风暴\n我国首颗聚焦文物保护的定制遥感监测卫星成功发射2026-06-15 18:38 航空航天\n违规打造网红景点、增加政府债务……中央纪委通报2026-06-15 17:31 廉政风暴\n辛芷蕾：《给阿嬷的情书》这样的中国好故事需要被世界看见2026-06-15 17:22 光影皆故事\n两人长期盘踞境外、组织他人偷越国（边）境，被抓获并遣返回国2026-06-15 16:39\n美伊达成有关协议，中方发挥了怎样的作用？外交部回应2026-06-15 15:53 伊朗局势\n中央安全生产考核巡查组已进驻8省份明查暗访2026-06-15 11:52 安全生产\n礼赞社科大师｜郭绍虞：披沙拣金，为中国文学批评史学科奠基2026-06-15 10:37 礼赞社科大师\n致6死！“皮卡车追尾路边停靠的水车”2026-06-14 22:12",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "industry",
+  "keywords": [
+    "北斗工程",
+    "工程质量",
+    "联合调查"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "北斗工程",
+      "name_en": "Beidou Project"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工程质量",
+      "name_en": "Project Quality"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合调查",
+      "name_en": "Joint Investigation"
+    }
+  ],
+  "tags_zh": [
+    "山东",
+    "北斗工程",
+    "工程质量",
+    "联合调查"
+  ],
+  "tags_en": [
+    "Shandong",
+    "Beidou Project",
+    "Project Quality",
+    "Joint Investigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260617-guancha_politics-88b5af",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_17_820731.shtml",
+      "title_zh": "埃博拉病毒病防控方案发布，明确密接者判定范围",
+      "published_at": "2026-06-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

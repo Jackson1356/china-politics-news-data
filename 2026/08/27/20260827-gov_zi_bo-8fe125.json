@@ -1,0 +1,93 @@
+{
+  "id": "20260827-gov_zi_bo-8fe125",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/27/art_14322_3017639.html",
+  "title_zh": "2026对话山东—越南·中国（山东）经贸合作及企业对接交流会举行",
+  "title_en": "2026 Dialogue on Shandong-Vietnam Economic and Trade Cooperation and Enterprise Matchmaking Exchange Held in Jinan",
+  "summary_zh": "8月26日上午，2026对话山东—越南·中国（山东）经贸合作及企业对接交流会在济南举行，山东省委书记林武作主旨演讲，越南北宁省委书记阮鸿泰致辞，双方签署友好合作协议。",
+  "summary_en": "On the morning of August 26, the 2026 Dialogue on Shandong-Vietnam Economic and Trade Cooperation and Enterprise Matchmaking Exchange was held in Jinan. Shandong Provincial Party Secretary Lin Wu delivered a keynote speech, and Bac Ninh Provincial Party Secretary Nguyen Hong Thai addressed the event, with both sides signing a friendly cooperation agreement.",
+  "body_zh": "2026对话山东—越南·中国（山东）经贸合作及企业对接交流会举行\n林武作主旨演讲 阮鸿泰致辞\n8月26日上午，2026对话山东—越南·中国（山东）经贸合作及企业对接交流会在济南举行。省委书记林武出席活动并作主旨演讲，越南北宁省委书记阮鸿泰致辞。\n阮鸿泰表示，北宁省是越南重要的工业、制造业和出口中心，始终把贸易促进作为拓展市场、提升产品附加值、推动经济可持续发展的重点任务。北宁省与山东省交往密切、产业互补性强、合作潜力大，希望双方牢牢把握战略机遇，充分发挥各自优势，进一步深化经贸往来和投资务实合作，携手拓展电子信息、半导体、科技创新、交通物流、农产品加工等重点领域合作，推动实现互利共赢、共同发展，努力打造中越地方合作典范。\n越南工贸部副部长潘氏胜在致辞时表示，希望进一步巩固越南地方和山东友好合作关系，深挖产业互补潜能，持续扩大贸易和投资规模，为推动中越经贸投资合作蓬勃发展贡献更大力量。\n会上，越南北宁省人民委员会、山东省发展改革委、越南绿色转型发展协会、歌尔股份有限公司负责人作了推介发言。8个合作项目进行了现场签约。\n会前，林武会见了越南代表团一行。山东省人民政府与越南北宁省人民委员会签署建立友好合作关系协议书。\n越南北宁省人民委员会副主席范文盛，山东省领导单义、温暖，越南驻华大使馆代表，越南有关商协会和企业代表，山东省直有关部门和相关市负责同志、各市贸促会负责同志等参加。（记者 于新悦 李子路）",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "经贸合作",
+    "中越合作",
+    "产业对接"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lin-wu",
+      "name_zh": "林武",
+      "name_en": "Lin Wu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中越合作",
+      "name_en": "China-Vietnam Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业对接",
+      "name_en": "Industrial Matching"
+    }
+  ],
+  "tags_zh": [
+    "林武",
+    "济南",
+    "经贸合作",
+    "中越合作",
+    "产业对接"
+  ],
+  "tags_en": [
+    "Lin Wu",
+    "Jinan",
+    "Economic and Trade Cooperation",
+    "China-Vietnam Cooperation",
+    "Industrial Matching"
+  ],
+  "entities": {
+    "politicians": [
+      "lin-wu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-gov_zi_bo-8fe125",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

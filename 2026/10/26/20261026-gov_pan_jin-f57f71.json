@@ -1,0 +1,87 @@
+{
+  "id": "20261026-gov_pan_jin-f57f71",
+  "source": "gov_pan_jin",
+  "source_name_zh": "盘锦市政府网",
+  "source_name_en": "盘锦 Government Portal",
+  "source_media_id": "gov-cn-prefecture-pan_jin",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.panjin.gov.cn/html/1737/2026-10-26/content-153833.html",
+  "title_zh": "盘锦市委常委会召开会议",
+  "title_en": "Panjin Municipal Party Committee Standing Committee Holds Meeting",
+  "summary_zh": "10月26日，盘锦市委常委会召开会议，市委书记王炳森主持，传达学习习近平总书记重要讲话和重要指示精神，研究卫生与健康、地震灾害防范等工作。",
+  "summary_en": "On October 26, the Panjin Municipal Party Committee Standing Committee met under Secretary Wang Bingsen to study Xi Jinping's instructions on health and earthquake disaster prevention.",
+  "body_zh": "市委常委会召开会议\n发布时间：2026-10-26\n浏览次数：119次\n10月26日，市委常委会召开会议，传达学习习近平总书记重要讲话和重要指示精神，研究我市贯彻落实意见。市委书记王炳森主持会议并讲话。\n会议指出，要认真学习习近平总书记在全国卫生与健康大会上的重要讲话精神，坚持健康优先发展战略，加强组织领导和支持保障，把保障人民健康融入各项政策，体现到各方面工作之中，推进人民健康与经济社会协调发展。要牢牢抓住预防为主的根本方向，抓细抓好卫生与健康各项基础性、源头性工作，加快实施健康中国行动，深入开展爱国卫生运动，加强食品安全监管，健全疾病防控体系。要全面提高医疗服务水平，深入实施医疗卫生强基工程，抓好“一老一小”健康服务，推动科技赋能，不断提高群众看病就医的便利度和满意度。要深化医药卫生体制改革，推进医疗、医保、医药协同发展和治理，深化以公益性为导向的公立医院改革，深化医保支付方式改革，健全药品供应保障和使用管理机制。要建强卫生与健康系统干部人才队伍，努力打造一支数量充足、结构合理、素质优良的医务人员队伍，加强医德医风建设，营造良好政治生态和行业风气。\n会议强调，要全面学习贯彻习近平总书记对西藏那曲市巴青县7.0级地震作出的重要指示精神，树牢底线思维、极限思维，坚决克服惯性思维、麻痹思想、侥幸心理，加强监测预报、隐患排查、应急演练，严防重点领域次生灾害，严密做好地震灾害防范应对工作，守护人民群众生命财产安全。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-10-26T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "卫生与健康",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-LN-PJ",
+      "name_zh": "盘锦",
+      "name_en": "Panjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生与健康",
+      "name_en": "Health and Well-being"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盘锦",
+    "卫生与健康",
+    "防灾减灾",
+    "习近平"
+  ],
+  "tags_en": [
+    "Panjin",
+    "Health and Well-being",
+    "Disaster Prevention and Reduction"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王炳森"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-PJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261026-gov_pan_jin-f57f71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

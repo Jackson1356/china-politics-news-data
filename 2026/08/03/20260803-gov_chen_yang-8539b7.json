@@ -1,0 +1,101 @@
+{
+  "id": "20260803-gov_chen_yang-8539b7",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/szfxx/zydt/202608/t20260803_5066644.html",
+  "title_zh": "王新伟走访慰问驻辽部队官兵",
+  "title_en": "Wang Xinwei Visits and Greets Troops Stationed in Liaoning",
+  "summary_zh": "八一建军节到来之际，辽宁省委副书记、省长王新伟走访慰问驻辽部队官兵，参观空军某旅和海军某支队，致以节日问候并勉励官兵提升战斗力。",
+  "summary_en": "On the occasion of the Army Day, Wang Xinwei, deputy secretary of the Liaoning Provincial Party Committee and governor, visited and greeted troops stationed in Liaoning, extending festival greetings and encouraging them to boost combat readiness.",
+  "body_zh": "八一建军节到来之际，根据省委统一安排，省委副书记、省长王新伟走访慰问驻辽部队官兵，向大家致以节日问候和衷心感谢。\n王新伟来到空军某旅，详细了解部队历史沿革和建设成就，观摩主战装备展示，走进宿舍同战士们深入交流，关心询问日常训练、学习、生活情况。他说，大家投身军营、报效祖国，用实际行动展现了新时代革命军人新风貌。希望大家坚决听党指挥，始终做到绝对忠诚、绝对纯洁、绝对可靠，平时做尖兵、战时当先锋，更好守卫祖国蓝天、维护地方安宁。\n在海军某支队，王新伟察看舰上装备设施，与一线官兵亲切交流，向他们扎根深蓝、向战砺剑表示敬意，勉励大家始终牢记习主席教导嘱托，在部队大熔炉中锤炼本领，在实战实训中锻造血性，在新时代强军实践中百炼成钢，确保一声令下拉得出、上得去、打得赢。\n走访慰问中，王新伟指出，长期以来，驻辽部队始终铸牢对党忠诚，全面加强练兵备战，大力支持辽宁经济社会发展，主动承担急难险重任务，为国防事业及全省高质量发展作出了重要贡献，不愧是保卫祖国的钢铁长城、守护家园的忠诚卫士。希望广大官兵坚持不懈用习近平强军思想凝心铸魂，深入贯彻新时代军事战略方针，锚定建军一百年奋斗目标，聚焦备战打仗主责主业，因应科技之变、战争之变、对手之变，加强作战能力体系集成，全面提升新质战斗力，同时把部队所能与地方所需、群众所盼结合起来，积极支援地方建设发展，推动新质生产力同新质战斗力高效融合、双向拉动。各级政府要主动服务国防和军队现代化建设，传承弘扬双拥光荣传统，当好坚强后盾，全面落实各项拥军优属政策，为驻辽部队创造良好的战备、执勤、训练和工作生活条件，用心用情为部队官兵办实事解难题，提高服务保障措施的精准性，切实加强军地协同、军民融合，巩固发展坚如磐石的军政军民团结，凝聚推动振兴发展强大合力。\n大连市市长李强参加走访慰问。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "party",
+  "keywords": [
+    "双拥工作",
+    "国防建设",
+    "军政团结"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xinwei-liaoning",
+      "name_zh": "王新伟",
+      "name_en": "Wang Xinwei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Double Support Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防建设",
+      "name_en": "National Defense Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军政团结",
+      "name_en": "Military-Political Unity"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王新伟",
+    "辽宁",
+    "双拥工作",
+    "国防建设",
+    "军政团结",
+    "李强"
+  ],
+  "tags_en": [
+    "Wang Xinwei",
+    "Liaoning",
+    "Double Support Work",
+    "National Defense Construction",
+    "Military-Political Unity"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xinwei-liaoning",
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-gov_chen_yang-8539b7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20260810-xinhua_politics-61c060",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260810/836492ebbdae44669eee3a0b67f78218/c.html",
+  "title_zh": "水利部滚动会商部署台风“白海豚”暴雨洪水防御工作",
+  "title_en": "Ministry of Water Resources Holds Rolling Meeting to Deploy Flood and Typhoon Defense for Typhoon 'White Dolphin'",
+  "summary_zh": "水利部10日举行专题会商，分析第13号台风“白海豚”态势，部署暴雨洪水防御工作，强调山洪、水库、堤防等五方面重点。",
+  "summary_en": "On August 10, the Ministry of Water Resources held a special meeting to analyze Typhoon 'White Dolphin' and redeploy flood and typhoon defense work, emphasizing five key areas including mountain torrents, reservoirs, and dikes.",
+  "body_zh": "新华社北京8月10日电（记者魏弘毅）记者从水利部了解到，水利部10日举行专题会商，滚动分析研判今年第13号台风“白海豚”发展态势及影响，对台风暴雨洪水防御工作再部署、再落实。\n会商分析显示，台风“白海豚”登陆强度大、挟带水汽足。受其影响，太湖流域及浙东沿海地区74条河流发生超警以上洪水，其中37条河流发生超保洪水、5条河流发生有实测资料以来最大洪水，甬江、椒江发生编号洪水；根据预报，台风“白海豚”后续还将影响长江、淮河、黄河、海河、辽河等流域，影响范围广、持续时间长、致灾风险高。\n水利部相关负责人要求，要全力以赴做好五方面重点工作。一要进一步细化实化山洪灾害防御，确保人员不伤亡；二要进一步细化实化中小河流洪水防御，确保重要堤防不决口；三要进一步细化实化中小水库、病险水库防御，确保水库不垮坝；四要进一步细化实化淮河、黄河、海河流域水工程调度方案；五要进一步细化实化南水北调中线工程防御工作，确保南水北调中线工程安全、供水安全。",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "山洪灾害防御",
+    "水库安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪灾害防御",
+      "name_en": "Mountain Torrent Disaster Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水库安全",
+      "name_en": "Reservoir Safety"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "北京",
+    "防汛防台风",
+    "山洪灾害防御",
+    "水库安全"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Beijing",
+    "Flood and Typhoon Defense",
+    "Mountain Torrent Disaster Prevention",
+    "Reservoir Safety"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260810-xinhua_politics-61c060",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20261024-gov_zhan_jiang-e02792",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2240724.html",
+  "title_zh": "湛江市十五届人大常委会召开第五十一次会议",
+  "title_en": "Zhanjiang Municipal People's Congress Standing Committee Holds 51st Session",
+  "summary_zh": "10月23日，湛江市十五届人大常委会召开第五十一次会议，初审台风防御条例草案，听取农业、养老、国有资产等报告并表决人事事项。",
+  "summary_en": "On Oct 23, Zhanjiang's 15th Municipal People's Congress Standing Committee held its 51st meeting, giving first reading to a typhoon defense regulation and hearing reports on agriculture, elderly care and state assets.",
+  "body_zh": "10月23日，市十五届人大常委会召开第五十一次会议。市人大常委会副主任刘忠芳、聂兵出席会议，市人大常委会副主任李更盛主持会议。副市长吴国雄，市纪委副书记、市监委副主任刘勇，市中级人民法院副院长吴志勇，市人民检察院副检察长黄映霄等列席会议。\n会议审议《湛江市台风防御条例（草案）》（一审）。\n会议听取市人民政府关于锚定农业农村现代化加快建设“农业强市”工作情况的报告、关于“种业振兴”和粮食安全情况的报告、关于三级养老服务网络建设工作情况的报告、关于促进民族团结进步工作情况的报告、关于贯彻实施《中华人民共和国社区矫正法》《湛江市生活垃圾分类管理条例》情况的报告；听取审议市人大常委会执法检查组关于检查《中华人民共和国社区矫正法》《湛江市生活垃圾分类管理条例》实施情况的报告；听取审议市人民政府关于湛江市2025年度行政事业性国有资产管理情况的专项报告、湛江市2025年度国有资产管理情况的综合报告。\n会议审议通过关于检查《中华人民共和国社区矫正法》《湛江市生活垃圾分类管理条例》实施情况报告的审议意见、关于湛江市2025年度国有资产管理情况综合报告和2025年度行政事业性国有资产管理情况专项报告的审议意见。\n会议对市科技局、市粮食和储备局开展工作评议。\n会议审议通过《湛江市人民代表大会常务委员会规范性文件备案审查工作规定》。\n会议还审议表决了有关人事事项。\n文秋华 庞春敏",
+  "image_url": null,
+  "published_at": "2026-10-24T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "party",
+  "keywords": [
+    "台风防御立法",
+    "农业现代化",
+    "养老服务",
+    "国有资产管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御立法",
+      "name_en": "Typhoon Defense Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业现代化",
+      "name_en": "Agricultural Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有资产管理",
+      "name_en": "State-owned Asset Management"
+    }
+  ],
+  "tags_zh": [
+    "湛江",
+    "台风防御立法",
+    "农业现代化",
+    "养老服务",
+    "国有资产管理"
+  ],
+  "tags_en": [
+    "Zhanjiang",
+    "Typhoon Defense Legislation",
+    "Agricultural Modernization",
+    "Elderly Care Services",
+    "State-owned Asset Management"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李更盛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261024-gov_zhan_jiang-e02792",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

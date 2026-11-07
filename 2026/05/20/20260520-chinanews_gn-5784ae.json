@@ -1,0 +1,102 @@
+{
+  "id": "20260520-chinanews_gn-5784ae",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/05-22/10626280.shtml",
+  "title_zh": "教育合作丰富中俄关系内涵",
+  "title_en": "Educational Cooperation Enriches China-Russia Relations",
+  "summary_zh": "2026年5月20日，国家主席习近平与俄罗斯总统普京在北京人民大会堂共同出席“中俄教育年”开幕式并致辞。",
+  "summary_en": "On May 20, 2026, President Xi Jinping and Russian President Vladimir Putin attended and addressed the opening ceremony of the 'China-Russia Education Year' in Beijing.",
+  "body_zh": "近镜头｜教育合作丰富中俄关系内涵\n5月20日，国家主席习近平同俄罗斯总统普京在北京人民大会堂共同出席“中俄教育年”开幕式并致辞。\n习近平主席指出，教育是国与国之间连接民心、传承友谊的重要桥梁，是功在当代、利在千秋的崇高事业。长期以来，中俄教育合作持续深化、成效明显，丰富了中俄新时代全面战略协作伙伴关系的内涵。\n从“中俄教育年”开启新的出发，源远流长的中俄人文交流，必将为两国人民相知相亲注入更大动力，推动新时代中俄友谊向着更为璀璨的前景阔步向前。\n统筹：黄庆华 周年钧\n制作：胡碧霞 屈彦 王浩程\n新华社新媒体中心制作\n新华社第一工作室出品\n国内新闻精选：\n- 2026年05月22日 09:47:27\n- 2026年05月22日 09:44:55\n- 2026年05月21日 19:19:48\n- 2026年05月21日 14:59:14\n- 2026年05月21日 13:25:46\n- 2026年05月21日 10:58:32\n- 2026年05月21日 10:21:32\n- 2026年05月21日 10:18:52\n- 2026年05月21日 09:43:54\n- 2026年05月20日 20:48:49",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄教育合作",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄教育合作",
+      "name_en": "China-Russia Educational Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-people Exchange"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中俄教育合作",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Russia Educational Cooperation",
+    "People-to-people Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260520-chinanews_gn-5784ae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://china.qianlong.com/2026/0522/8671974.shtml",
+      "title_zh": "近镜头｜教育合作丰富中俄关系内涵",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-05/22/content_23735762.htm",
+      "title_zh": "近镜头｜教育合作丰富中俄关系内涵",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-05/22/content_38780949.htm",
+      "title_zh": "近镜头｜教育合作丰富中俄关系内涵",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

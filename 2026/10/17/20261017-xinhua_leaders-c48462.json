@@ -1,0 +1,111 @@
+{
+  "id": "20261017-xinhua_leaders-c48462",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261017/49d690c2f3c34adebae4e6c30e018bed/c.html",
+  "title_zh": "近镜头｜总书记心系万里绿色长城",
+  "title_en": "Close-up: Xi Jinping's Concern for the Great Green Wall",
+  "summary_zh": "10月16日，习近平总书记在内蒙古乌兰察布市考察，强调统筹高质量发展和高水平保护，坚定不移走生态优先、绿色发展之路。",
+  "summary_en": "On Oct 16, Xi Jinping inspected Ulanqab in Inner Mongolia, stressing coordinated high-quality development and high-level protection and a firm path of ecological priority and green growth.",
+  "body_zh": "10月16日，习近平总书记在内蒙古自治区乌兰察布市考察时强调，要统筹高质量发展和高水平保护，坚定不移走生态优先、绿色发展之路。\n建成我国北方重要生态安全屏障，构筑万里绿色长城，习近平总书记念兹在兹。在习近平生态文明思想的科学指引下，一幅幅壮美的生态画卷，正在北疆铺展开来。让我们齐心协力、久久为功，奋力创造更多绿色奇迹。\n统筹：黄庆华\n编导：李丽洋\n新华社新媒体中心制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "party",
+  "keywords": [
+    "生态文明",
+    "绿色发展",
+    "生态安全屏障",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-WLCB",
+      "name_zh": "乌兰察布",
+      "name_en": "Ulanqab"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色发展",
+      "name_en": "Green Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态安全屏障",
+      "name_en": "Ecological Security Barrier"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "内蒙古",
+    "乌兰察布",
+    "生态文明",
+    "绿色发展",
+    "生态安全屏障",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Inner Mongolia",
+    "Ulanqab",
+    "Ecological Civilization",
+    "Green Development",
+    "Ecological Security Barrier",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM",
+      "CN-NM-WLCB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261016-xinhua_leaders-7d0906",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

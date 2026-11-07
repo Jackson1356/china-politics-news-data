@@ -1,0 +1,64 @@
+{
+  "id": "20260808-gov_cn_yaowen-8fe9e2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077717.htm",
+  "title_zh": "前7月我国货物贸易进出口同比增长17.3%",
+  "title_en": "China's Foreign Trade Up 17.3% in First Seven Months",
+  "summary_zh": "据海关统计，今年前7月我国货物贸易进出口总值30.13万亿元，同比增长17.3%，其中出口增长14%，进口增长22%。",
+  "summary_en": "China's total goods trade reached 30.13 trillion yuan in Jan-Jul, up 17.3% year-on-year, with exports up 14% and imports up 22%, according to customs data.",
+  "body_zh": "据海关统计，今年前7月，我国货物贸易进出口总值30.13万亿元，同比增长17.3%。其中，出口17.44万亿元，同比增长14%；进口12.69万亿元，同比增长22%。\n从贸易伙伴看，前7月，我国与东盟贸易总值为5.14万亿元，同比增长20%；我国与欧盟贸易总值为3.67万亿元，同比增长9.5%。同期，我国对共建“一带一路”国家合计进出口15.36万亿元，同比增长15.5%。\n从外贸主体看，前7月，民营企业进出口17.16万亿元，同比增长17.2%；外商投资企业进出口8.78万亿元，同比增长17.6%。\n从重点商品看，出口方面，前7月，我国出口机电产品11.12万亿元，同比增长21.2%；劳密产品2.37万亿元，同比下降1.4%；农产品4296.9亿元，同比增长3.7%。进口方面，前7月，我国进口机电产品5.31万亿元，同比增长29.7%。（记者 欧阳洁）",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "economy",
+  "keywords": [
+    "对外贸易",
+    "货物贸易"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货物贸易",
+      "name_en": "Goods Trade"
+    }
+  ],
+  "tags_zh": [
+    "对外贸易",
+    "货物贸易"
+  ],
+  "tags_en": [
+    "Foreign Trade",
+    "Goods Trade"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260808-gov_cn_yaowen-8fe9e2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

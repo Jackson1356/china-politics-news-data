@@ -1,0 +1,113 @@
+{
+  "id": "20261103-gov_yang_jiang-5e3527",
+  "source": "gov_yang_jiang",
+  "source_name_zh": "阳江市政府网",
+  "source_name_en": "阳江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yang_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yangjiang.gov.cn/yj/ywdt/yjyw/content/post_990208.html",
+  "title_zh": "市政府党组会议召开",
+  "title_en": "Yangjiang Municipal Government Party Group Holds Meeting to Study Plenary Session Spirit",
+  "summary_zh": "11月2日，阳江市市长余金富主持召开市政府党组会议，传达学习习近平总书记在中央政治局会议和党的二十届五中全会上的重要讲话精神，研究贯彻落实意见。",
+  "summary_en": "On November 2, Yangjiang Mayor Yu Jinfu chaired a meeting of the municipal government's Party group to convey and study Xi Jinping's speeches at the Politburo meeting and the 20th CPC Central Committee's Fifth Plenary Session, and to discuss implementation measures.",
+  "body_zh": "11月2日，市委副书记、市政府党组书记、市长余金富主持召开市政府党组会议，传达学习习近平总书记在中央政治局会议、党的二十届五中全会上的重要讲话精神和全会精神，研究市政府贯彻落实意见。\n会议指出，要深刻认识持之以恒推进全面从严治党的重要性和紧迫性，自觉把思想和行动统一到习近平总书记重要讲话精神和全会部署上来，按照全省干部大会和市委常委会扩大会议的部署要求，不断增强推进全面从严治党的政治自觉、思想自觉和行动自觉，为全市高质量发展提供坚强保证。\n会议强调，要全面贯彻习近平党建思想，深入学习领会全会关于持之以恒推进全面从严治党的各项任务，压紧压实全面从严治党主体责任，带头严格落实“一岗双责”，加强对权力运行的制约和监督，坚决查处群众身边的腐败问题和不正之风，引导党员干部严守廉洁纪律底线、树立和践行正确政绩观。要把学习贯彻全会精神作为当前和今后一个时期的重大政治任务，迅速在全市政府系统掀起学习热潮，坚持学以致用、知行合一，全力抓好四季度经济工作，用心用情做好民生保障、安全生产、防灾减灾等工作，更好统筹发展和安全，努力实现“十五五”良好开局，以实实在在的工作成效检验学习成果。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党的二十届五中全会",
+    "学习贯彻"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-jinfu-yangjiang",
+      "name_zh": "余金富",
+      "name_en": "Yu Jinfu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-YJ",
+      "name_zh": "阳江",
+      "name_en": "Yangjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会",
+      "name_en": "Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Study and Implementation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "余金富",
+    "阳江",
+    "全面从严治党",
+    "党的二十届五中全会",
+    "学习贯彻",
+    "习近平"
+  ],
+  "tags_en": [
+    "Yu Jinfu",
+    "Yangjiang",
+    "Full and Rigorous Party Governance",
+    "Fifth Plenary Session of the 20th CPC Central Committee",
+    "Study and Implementation"
+  ],
+  "entities": {
+    "politicians": [
+      "yu-jinfu-yangjiang",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "金富"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-YJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261103-gov_yang_jiang-5e3527",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": null,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_0f26486722b248d2b0760b3f47b815e5.html",
+      "title_zh": "市政府党组会议召开",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

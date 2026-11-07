@@ -1,0 +1,70 @@
+{
+  "id": "20260608-gov_cn_yaowen-3db9a0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071522.htm",
+  "title_zh": "我国海洋生态状况稳中向好",
+  "title_en": "China's Marine Ecological Status Steadily Improving",
+  "summary_zh": "自然资源部于6月8日发布《中国海洋生态预警监测公报》，显示2025年我国海洋生态状况总体稳中向好，重点生态工程建设提速。",
+  "summary_en": "The Ministry of Natural Resources released the China Marine Ecological Early Warning and Monitoring Bulletin on June 8, indicating that China's marine ecological status in 2025 generally improved.",
+  "body_zh": "记者今天（6月8日）从自然资源部了解到，我国海洋生态状况总体稳中向好。\n自然资源部今天发布的《中国海洋生态预警监测公报》显示，2025年，我国珊瑚礁、海草床、红树林、海岛生态系统状况以优良为主。\n在广西涠洲岛生态修复海域，培育成活的珊瑚群落，今年首次实现规模化自然排卵繁育，标志着人工修复海域已构建完整生态自愈体系。\n今年以来，我国“蓝色海湾”整治、珊瑚礁修复等一批重点生态工程建设提速；与此同时，“和美海岛”创建示范也稳步推进，首批33个“和美海岛”初步形成岛绿、滩净、水清、物丰的“和美”新格局。\n良好的滨海生态资源，促进了海洋新兴产业发展。",
+  "image_url": null,
+  "published_at": "2026-06-08T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "海洋生态",
+    "生态修复"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋生态",
+      "name_en": "Marine Ecology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态修复",
+      "name_en": "Ecological Restoration"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "海洋生态",
+    "生态修复"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Marine Ecology",
+    "Ecological Restoration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260608-gov_cn_yaowen-3db9a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

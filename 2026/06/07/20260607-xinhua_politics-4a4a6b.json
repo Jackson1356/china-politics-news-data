@@ -1,0 +1,110 @@
+{
+  "id": "20260607-xinhua_politics-4a4a6b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260607/2868b35c3d2c42cfb9405be913fd35b0/c.html",
+  "title_zh": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+  "title_en": "Ministry of Water Resources and China Meteorological Administration Issue Red Alert for Flash Floods",
+  "summary_zh": "水利部和中国气象局于6月7日18时联合发布红色山洪灾害气象预警，预计湖南、广西、贵州部分地区将发生山洪灾害。",
+  "summary_en": "The Ministry of Water Resources and China Meteorological Administration issued a red alert for flash floods on June 7, warning of potential disasters in parts of Hunan, Guangxi, and Guizhou.",
+  "body_zh": "水利部和中国气象局6月7日18时联合发布红色山洪灾害气象预警：\n预计，6月7日20时至6月8日20时，湖南西南部、广西北部、贵州南部等地部分地区发生山洪灾害可能性大（橙色预警），其中，湖南西南部、广西北部、贵州东南部局地发生山洪灾害可能性很大（红色预警），预警区域涉及的县（市、区）见下表。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": "2026-06-07",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "welfare",
+  "keywords": [
+    "山洪灾害",
+    "气象预警"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山洪灾害",
+      "name_en": "Flash Flood Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气象预警",
+      "name_en": "Meteorological Warning"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "中国气象局",
+    "湖南",
+    "广西",
+    "贵州",
+    "山洪灾害",
+    "气象预警"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "China Meteorological Administration",
+    "Hunan",
+    "Guangxi",
+    "Guizhou",
+    "Flash Flood Disaster",
+    "Meteorological Warning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HN",
+      "CN-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260607-xinhua_politics-4a4a6b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

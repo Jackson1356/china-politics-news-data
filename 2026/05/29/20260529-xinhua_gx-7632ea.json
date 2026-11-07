@@ -1,0 +1,89 @@
+{
+  "id": "20260529-xinhua_gx-7632ea",
+  "source": "xinhua_gx",
+  "source_name_zh": "新华网 广西",
+  "source_name_en": "Xinhua Guangxi",
+  "source_url": "http://gx.news.cn/20260531/efcd7a11c76143f98ad954fc83fc0e2e/c.html",
+  "title_zh": "2026年广西全民数字素养与技能提升月活动启动",
+  "title_en": "Launch of 2026 Guangxi Universal Digital Literacy and Skills Improvement Month",
+  "summary_zh": "2026年5月29日，广西全民数字素养与技能提升月活动在南宁启动，旨在通过多部门协同提升全民数字化能力，筑牢数字广西建设根基。",
+  "summary_en": "On May 29, 2026, the 2026 Guangxi Universal Digital Literacy and Skills Improvement Month was launched in Nanning to enhance public digital capabilities and support the construction of Digital Guangxi.",
+  "body_zh": "5月29日，2026年广西全民数字素养与技能提升月活动启动仪式在南宁举行。本次活动以“数智赋能 全民共享”为主题，区直有关单位、各设区市网信部门、南宁市直相关部门和企事业单位、高校师生代表共500余人参加。\n据悉，本次提升月活动将持续一个月，通过多部门协同、全社会参与、全方位覆盖，持续提升全民数字化适应力、胜任力、创造力，培育健康文明的网络生态，筑牢数字广西建设的全民“数字素养”根基。（记者 伍永志）",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-05-31T08:01:48Z",
+  "topic": "industry",
+  "keywords": [
+    "数字素养",
+    "数字广西"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南宁",
+      "name_en": "Nanning"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字素养",
+      "name_en": "Digital Literacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字广西",
+      "name_en": "Digital Guangxi"
+    }
+  ],
+  "tags_zh": [
+    "南宁",
+    "广西",
+    "数字素养",
+    "数字广西"
+  ],
+  "tags_en": [
+    "Nanning",
+    "Guangxi",
+    "Digital Literacy",
+    "Digital Guangxi"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "余人"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260529-xinhua_gx-7632ea",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_gx",
+      "source_tier": 3,
+      "url": "http://gx.people.com.cn/n2/2026/0531/c179430-41596736.html",
+      "title_zh": "2026年广西全民数字素养与技能提升月活动启动",
+      "published_at": "2026-05-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

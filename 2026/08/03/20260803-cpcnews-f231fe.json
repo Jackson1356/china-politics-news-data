@@ -1,0 +1,84 @@
+{
+  "id": "20260803-cpcnews-f231fe",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0803/c64387-40772677.html",
+  "title_zh": "去年我国“三新”经济增加值占GDP比重达18.39%",
+  "title_en": "China's 'Three New' Economy Accounts for 18.39% of GDP in 2025",
+  "summary_zh": "国家统计局数据显示，2025年我国“三新”经济增加值257869亿元，同比增长6.2%，占GDP比重18.39%。",
+  "summary_en": "According to the National Bureau of Statistics, added value of China's 'three new' economy reached 25.7869 trillion yuan in 2025, up 6.2% year-on-year, accounting for 18.39% of GDP.",
+  "body_zh": "本报北京8月2日电 （记者邱超奕）记者从国家统计局获悉：2025年我国“三新”经济增加值为257869亿元，按现价计算，比上年增长6.2%，高于同期国内生产总值（GDP）现价增速2.2个百分点；占GDP的比重为18.39%，比上年提高0.38个百分点。\n“三新”经济是以新产业、新业态、新商业模式为核心内容的经济活动的集合。分三次产业看，2025年“三新”经济中，第一产业增加值为9865亿元，比上年增长4%，占比3.8%；第二产业增加值为106304亿元，比上年增长5.8%，占比41.2%；第三产业增加值为141700亿元，比上年增长6.6%，占比55%。\n《 人民日报 》（ 2026年08月03日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-08-02",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "economy",
+  "keywords": [
+    "三新经济",
+    "经济统计"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三新经济",
+      "name_en": "Three New Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济统计",
+      "name_en": "Economic Statistics"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "北京",
+    "三新经济",
+    "经济统计"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Beijing",
+    "Three New Economy",
+    "Economic Statistics"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260803-cpcnews-f231fe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

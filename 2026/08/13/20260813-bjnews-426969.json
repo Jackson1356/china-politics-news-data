@@ -1,0 +1,103 @@
+{
+  "id": "20260813-bjnews-426969",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1786583138129996.html",
+  "title_zh": "河南启用泥河洼蓄滞洪区",
+  "title_en": "Henan Activates Nihewa Flood Detention Basin",
+  "summary_zh": "河南省根据沙颍河水系水情，于8月13日2时启用泥河洼蓄滞洪区，提前转移群众，水利部部长李国英主持会商部署。",
+  "summary_en": "Based on water conditions in the Shaying River system, Henan activated the Nihewa flood detention basin at 2:00 on August 13, with prior evacuation of residents. Minister Li Guoying chaired a meeting to coordinate flood control.",
+  "body_zh": "新京报讯 据水利部消息，根据沙颍河水系来水情况，河南省决定8月13日2时启用泥河洼蓄滞洪区。\n泥河洼为98处国家蓄滞洪区之一，位于淮河流域沙颍河水系，地处河南省漯河市舞阳县境内沙河与澧河之间，设计蓄洪容积2.38亿立方米，是沙澧河防洪工程体系的重要组成部分。\n国家防总副总指挥、水利部部长李国英8月12日上午主持专题会商，要求提前做好泥河洼等蓄滞洪区运用准备，并派工作组协助地方做好蓄滞洪区启用相关工作；水利部提前于8月10日14时针对河南省启动洪水防御Ⅳ级应急响应。河南省委、省政府主要负责同志专题研判调度，河南省水利厅启动洪水防御一级应急响应并派出工作组督促指导，漯河市及舞阳县提前做好蓄滞洪区人员转移安置、分洪运用等准备工作，蓄滞洪区内需转移群众已提前全部安全转移。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "welfare",
+  "keywords": [
+    "防洪防汛",
+    "蓄滞洪区",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-guoying",
+      "name_zh": "李国英",
+      "name_en": "Li Guoying"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防洪防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "蓄滞洪区",
+      "name_en": "Flood Detention Basin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "李国英",
+    "水利部",
+    "河南",
+    "防洪防汛",
+    "蓄滞洪区",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Li Guoying",
+    "Ministry of Water Resources",
+    "Henan",
+    "Flood Control",
+    "Flood Detention Basin",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "li-guoying"
+    ],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-bjnews-426969",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

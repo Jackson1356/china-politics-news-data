@@ -1,0 +1,106 @@
+{
+  "id": "20261028-xinhua_politics-453430",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261028/dffbf4da48d2478686b8345582d2646a/c.html",
+  "title_zh": "两部门部署西藏强降雪天气防范应对工作",
+  "title_en": "Two Departments Deploy Response to Heavy Snowfall in Tibet",
+  "summary_zh": "10月28日，国家防灾减灾救灾委员会办公室、应急管理部会同相关部门和西藏自治区联合会商，部署29日至31日西藏强降雪防范应对工作。",
+  "summary_en": "On Oct 28, China's disaster relief and emergency authorities joined Tibet and other departments to assess and deploy response to heavy snowfall in Tibet from Oct 29 to 31.",
+  "body_zh": "10月28日上午，国家防灾减灾救灾委员会办公室、应急管理部组织自然资源部、中国气象局及西藏自治区联合会商，研判29日至31日西藏强降雪过程发展趋势，部署防范应对工作。按照应急管理部党委书记、部长张成中安排部署，应急管理部副部长徐加爱主持会商。\n会商指出，受孟加拉湾风暴残涡与西风槽共同影响，预计29日起青藏高原大部有一次降雪天气过程，其中，西藏南部沿喜马拉雅山附近有强降雪，高海拔区域有大暴雪，局地特大暴雪，灾害风险不容忽视。",
+  "image_url": null,
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "welfare",
+  "keywords": [
+    "防灾减灾",
+    "强降雪",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降雪",
+      "name_en": "Heavy Snowfall"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-chengzhong",
+      "name_zh": "张成中",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "西藏",
+    "防灾减灾",
+    "强降雪",
+    "应急响应",
+    "张成中"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Tibet",
+    "Disaster Prevention and Reduction",
+    "Heavy Snowfall",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-chengzhong",
+      {
+        "id": null,
+        "name_zh": "徐加爱"
+      }
+    ],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261028-xinhua_politics-453430",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

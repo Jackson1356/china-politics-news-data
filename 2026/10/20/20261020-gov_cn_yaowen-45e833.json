@@ -1,0 +1,100 @@
+{
+  "id": "20261020-gov_cn_yaowen-45e833",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083866.htm",
+  "title_zh": "王毅谈欧亚之行的四点感受",
+  "title_en": "Wang Yi Outlines Four Takeaways from His Eurasia Tour",
+  "summary_zh": "王毅总结欧亚四国之行，提出信任、友谊、合作、伙伴四点感受，强调共建“一带一路”与中欧合作共赢。",
+  "summary_en": "Foreign Minister Wang Yi summed up his four-nation Eurasia tour with four takeaways: trust, friendship, cooperation and partnership, pledging to advance Belt and Road and China-EU win-win cooperation.",
+  "body_zh": "第一，信任是和平基石。中方向各方传递的明确信息是：坚定信心、锲而不舍、对话协商、互谅互让、重建信任、共筑和平。中方将始终站在历史正确一边，为消弭信任赤字、化解危机冲突履行大国担当，发挥应有作用。\n第二，友谊是宝贵财富。中国与四国人民间跨越时间和距离的友好交往是古丝路精神的传承接续，是欧亚大陆文明互鉴的生动实践。这些宝贵的友谊应当被赋予新的时代内涵，不断发扬光大。\n第三，合作是坚实动力。中方愿与四国挖潜增效，巩固经贸、投资、基建等传统领域合作，积极对接“一带一路”和“中间走廊”建设，加强人工智能、绿色转型等新质生产力合作，为各国发展振兴打造新引擎，注入新动力。\n第四，伙伴是共同目标。中方愿与欧方坚持多边主义路径，践行自由贸易理念，共同实现中欧在新的更高水平上的合作共赢。中国－中东欧国家合作顺应时代大势和地区国家发展需求，是有利于欧洲一体化建设的重要机制。中方愿以明年合作15周年为契机，同地区国家一道共襄盛举，推动合作提质升级。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "foreign",
+  "keywords": [
+    "一带一路",
+    "中欧合作",
+    "对话协商",
+    "绿色转型"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧合作",
+      "name_en": "China-EU Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对话协商",
+      "name_en": "Dialogue and Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色转型",
+      "name_en": "Green Transition"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "一带一路",
+    "中欧合作",
+    "对话协商",
+    "绿色转型"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Belt and Road",
+    "China-EU Cooperation",
+    "Dialogue and Consultation",
+    "Green Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261020-gov_cn_yaowen-45e833",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/1021/c64094-40818683.html",
+      "title_zh": "王毅谈欧亚之行的四点感受",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

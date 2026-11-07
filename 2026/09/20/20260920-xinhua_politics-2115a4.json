@@ -1,0 +1,106 @@
+{
+  "id": "20260920-xinhua_politics-2115a4",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260920/e6f4327f02de432a9355456acb40bd66/c.html",
+  "title_zh": "中央网信办通报30款App个人信息收集使用问题",
+  "title_en": "Cyberspace Administration of China Notifies 30 Apps Over Personal Information Collection Issues",
+  "summary_zh": "2026年9月20日，中央网信办秘书局通报30款App（含小程序）在个人信息收集使用方面存在问题，涉及未公开收集规则、强制索要非必要权限、未完整列明收集情况、未提供有效账号注销功能等，要求运营者15个工作日内整改。",
+  "summary_en": "On Sept 20, 2026, the Cyberspace Administration of China notified 30 apps over problems in collecting and using personal information, including undisclosed collection rules, coercive permission requests, incomplete disclosure and lack of account deletion, ordering rectification within 15 working days.",
+  "body_zh": "根据中央网信办、工业和信息化部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，中央网信办组织对App（含小程序）收集使用个人信息行为进行检测，现对有关问题予以通报：\n一、Flow Fit、滑板车背诵等6款App未公开个人信息收集使用规则（详见下表）。\n二、iNAP Care、中英翻译通等4款App强制或频繁索要非必要权限（详见下表）。\n三、GPS测亩仪、ROI计算器等9款App未完整准确列明收集使用个人信息情况（详见下表）。\n四、红卷乐读、道臣智运等11款App未提供有效账号注销功能（详见下表）。\n相关App运营者应当于本通报发布之日起的15个工作日内完成整改，并将整改情况报我办。我办将会同有关部门进行核查，并结合整改情况依法依规开展处置处罚。\n联系电话：010-55635865，邮箱：appzhili@cac.gov.cn\n中央网信办秘书局",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "discipline",
+  "keywords": [
+    "个人信息保护",
+    "App治理",
+    "数据安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "中央网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "个人信息保护",
+      "name_en": "Personal Information Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "App治理",
+      "name_en": "App Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据安全",
+      "name_en": "Data Security"
+    }
+  ],
+  "tags_zh": [
+    "中央网信办",
+    "工业和信息化部",
+    "公安部",
+    "个人信息保护",
+    "App治理",
+    "数据安全"
+  ],
+  "tags_en": [
+    "Cyberspace Administration of China",
+    "Ministry of Industry and Information Technology",
+    "Ministry of Public Security",
+    "Personal Information Protection",
+    "App Governance",
+    "Data Security"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "于本"
+      }
+    ],
+    "institutions": [
+      "CAC",
+      "MIIT",
+      "MPS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260920-xinhua_politics-2115a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

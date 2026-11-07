@@ -1,0 +1,124 @@
+{
+  "id": "20261023-gov_yan_cheng-fc38f0",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/10/23/art_60096_11845992.html",
+  "title_zh": "江苏徐州农商银行揭牌开业 刘小涛出席",
+  "title_en": "Jiangsu Xuzhou Rural Commercial Bank Opens, Governor Liu Xiaotao Attends",
+  "summary_zh": "10月22日，江苏徐州农商银行揭牌开业暨授信签约活动在南京举行，省长刘小涛出席并揭牌，江苏农商联合银行与徐州市签署战略合作协议。",
+  "summary_en": "On Oct 22, Jiangsu Xuzhou Rural Commercial Bank opened in Nanjing; Governor Liu Xiaotao unveiled it, and Jiangsu Rural Commercial United Bank signed a strategic cooperation agreement with Xuzhou.",
+  "body_zh": "当前位置：\n江苏徐州农商银行揭牌开业\n刘小涛出席\n10月22日，江苏徐州农商银行揭牌开业暨授信签约活动在南京举行。省长刘小涛出席并为江苏徐州农商银行揭牌。\n省委常委、常务副省长张文兵见证江苏农商联合银行与徐州市签署战略合作协议。江苏徐州农商银行获颁经营许可证照，并与徐州市国有企业、农业龙头企业、涉农产业主体等单位签署授信协议。徐州市和江苏农商联合银行分别介绍了徐州地区农商行统一法人改革相关情况。\n随后，全省农商行减量提质改革专题会召开，听取有关工作汇报，对下一步重点任务作出部署。\n省政府秘书长赵建军，省有关部门单位、部分设区市负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "economy",
+  "keywords": [
+    "农商行改革",
+    "减量提质",
+    "战略合作",
+    "金融支农"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农商行改革",
+      "name_en": "Rural Commercial Bank Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "减量提质",
+      "name_en": "Reduction and Quality Upgrade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融支农",
+      "name_en": "Financial Support for Agriculture"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "张文兵",
+    "南京",
+    "江苏",
+    "农商行改革",
+    "减量提质",
+    "战略合作",
+    "金融支农"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Zhang Wenbing",
+    "Nanjing",
+    "Jiangsu",
+    "Rural Commercial Bank Reform",
+    "Reduction and Quality Upgrade",
+    "Strategic Cooperation",
+    "Financial Support for Agriculture"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "zhang-wenbing",
+      {
+        "id": null,
+        "name_zh": "徐州市"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ",
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-gov_yan_cheng-fc38f0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

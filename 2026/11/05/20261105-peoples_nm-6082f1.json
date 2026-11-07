@@ -1,0 +1,92 @@
+{
+  "id": "20261105-peoples_nm-6082f1",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/1105/c196667-41742259.html",
+  "title_zh": "鄂尔多斯首个自主运维500千伏变电站投运",
+  "title_en": "Ordos' First Self-Operated 500kV Substation Begins Operation",
+  "summary_zh": "内蒙古鄂尔多斯图克（梅林）500千伏变电站投运，这是该市首个自主运维的500千伏输变电工程，总投资5.89亿元，将承担苏里格经济开发区供电保障任务。",
+  "summary_en": "The Tuke (Meilin) 500kV substation in Ordos, Inner Mongolia, has been put into operation. It is the city's first self-operated 500kV transmission project, with a total investment of 589 million yuan, and will supply power to the Sulig Economic Development Zone.",
+  "body_zh": "鄂尔多斯首个自主运维500千伏变电站投运\n日前，随着66千伏无功补偿装置投切试验结束，图克（梅林）500千伏变电站投运。这是鄂尔多斯地区“十五五”时期首个建成投运的500千伏输变电工程，也是鄂尔多斯供电公司首个自主运维的500千伏变电站，标志着鄂尔多斯电网超高压建设与运维能力实现历史性跨越。\n该工程是内蒙古电网西电东送第三条通道的重要节点，也是黄河“几字弯”主干网架的重要组成部分。作为国家重要战略基地电力外送通道，工程总投资5.89亿元，于2025年10月开工建设，本期新建2组1200兆伏安主变压器及4条500千伏输电线路，新建杆塔69基，线路总长30千米。\n工程投运后，将直接承担起内蒙古自治区重点工业园区苏里格经济开发区的供电保障任务，大幅提升内蒙古西部地区供电能力与新能源规模化消纳水平，为宝丰煤基新材料、中煤化工液态阳光绿氢制甲醇等自治区重点新型产业项目提供坚强电力支撑。（记者 高慧）",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "industry",
+  "keywords": [
+    "电网建设",
+    "西电东送",
+    "新能源消纳"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-ER",
+      "name_zh": "鄂尔多斯",
+      "name_en": "Ordos"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电网建设",
+      "name_en": "Power Grid Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "西电东送",
+      "name_en": "West-to-East Power Transmission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源消纳",
+      "name_en": "New Energy Consumption"
+    }
+  ],
+  "tags_zh": [
+    "鄂尔多斯",
+    "内蒙古",
+    "电网建设",
+    "西电东送",
+    "新能源消纳"
+  ],
+  "tags_en": [
+    "Ordos",
+    "Inner Mongolia",
+    "Power Grid Construction",
+    "West-to-East Power Transmission",
+    "New Energy Consumption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NM-ER",
+      "CN-NM"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261105-peoples_nm-6082f1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

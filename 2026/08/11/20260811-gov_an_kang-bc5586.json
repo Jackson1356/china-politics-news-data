@@ -1,0 +1,106 @@
+{
+  "id": "20260811-gov_an_kang-bc5586",
+  "source": "gov_an_kang",
+  "source_name_zh": "安康市政府网",
+  "source_name_en": "安康 Government Portal",
+  "source_media_id": "gov-cn-prefecture-an_kang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.ankang.gov.cn/Node-2566.html",
+  "title_zh": "中共安康市委五届十一次全会召开",
+  "title_en": "CPC Ankang Municipal Committee Holds 11th Plenary Session",
+  "summary_zh": "中共安康市委五届十一次全会召开，深入学习贯彻党的二十大和二十届历次全会精神，总结部署全市工作。",
+  "summary_en": "The 11th plenary session of the 5th CPC Ankang Municipal Committee was held to study and implement the spirit of the 20th CPC National Congress and previous plenary sessions, summarizing and deploying city-wide work.",
+  "body_zh": "全会以习近平新时代中国特色社会主义思想为指导，深入学习贯彻党的二十大和二十届历次全会精神，贯通落实习近平…【详情】\n市人大常委会召开党组（扩大）会议专题传达学习市委五届十一次…\n中共安康市委五届十一次全会召开\n张小平会见中国环境保护集团有限公司党委书记、董事长、总经理…\n张小平会见大唐陕西发电有限公司党委书记、董事长陈伟庆一行\n西康高铁启动全线拉通试验",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "学习贯彻二十大精神"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共安康市委",
+      "name_en": "CPC Ankang Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-AK",
+      "name_zh": "安康",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻二十大精神",
+      "name_en": "Studying and Implementing the Spirit of the 20th CPC National Congress"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张小平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中共安康市委",
+    "安康",
+    "党的建设",
+    "学习贯彻二十大精神",
+    "习近平",
+    "张小平"
+  ],
+  "tags_en": [
+    "CPC Ankang Municipal Committee",
+    "Party Building",
+    "Studying and Implementing the Spirit of the 20th CPC National Congress"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "张小平"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-AK"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共安康市委",
+        "name_en": "CPC Ankang Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260811-gov_an_kang-bc5586",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

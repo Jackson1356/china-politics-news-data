@@ -1,0 +1,102 @@
+{
+  "id": "20260912-gov_zhu_hai-ee72ca",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3940318.html",
+  "title_zh": "吴泽桐会见阿尔塔纳集团总裁马丁·巴比拉斯",
+  "title_en": "Zhuhai Mayor Wu Zetong Meets ALTANA Group President Martin Babilas",
+  "summary_zh": "珠海市市长吴泽桐会见德国阿尔塔纳集团总裁马丁·巴比拉斯一行，双方就深化新材料、精细化工产业合作及扩大在珠投资布局进行交流。",
+  "summary_en": "Zhuhai Mayor Wu Zetong met with ALTANA Group President Martin Babilas to discuss deeper cooperation in new materials and fine chemicals and expanded investment in the city.",
+  "body_zh": "吴泽桐会见阿尔塔纳集团总裁马丁·巴比拉斯\n近日，市委副书记、市长吴泽桐会见德国阿尔塔纳集团总裁马丁·巴比拉斯一行，双方就进一步深化产业合作深入交流。\n吴泽桐对马丁·巴比拉斯一行表示热烈欢迎，对阿尔塔纳集团投资珠海表示感谢。他说，珠海是中国内地唯一与港澳陆路相连的城市，拥有国家级专业化工园区，具备承载产业发展的独特优势。阿尔塔纳集团是全球领先的特种化学品公司，产品多元、技术先进，与珠海重点发展的新材料、精细化工产业方向高度契合。希望集团进一步拓展在珠海的产业布局，重点加大对艾伦塔斯珠海基地的支持，加快打造成为集团在中国最大的电子绝缘材料生产基地。珠海将全力营造市场化法治化国际化一流营商环境，为包括阿尔塔纳集团在内的广大外资企业在珠发展提供更多更好的服务。\n马丁·巴比拉斯表示，珠海城市环境优美、产业配套完善，集团对在珠海发展充满信心，将推动现有项目提质增效，积极研究新的投资布局，实现双方更广范围、更深层次的互利共赢合作。",
+  "image_url": null,
+  "published_at": "2026-09-12T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "industry",
+  "keywords": [
+    "产业合作",
+    "外商投资",
+    "新材料",
+    "精细化工"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-zetong-zhuhai",
+      "name_zh": "吴泽桐",
+      "name_en": "Wu Zetong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商投资",
+      "name_en": "Foreign Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新材料",
+      "name_en": "New Materials"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "精细化工",
+      "name_en": "Fine Chemicals"
+    }
+  ],
+  "tags_zh": [
+    "吴泽桐",
+    "珠海",
+    "产业合作",
+    "外商投资",
+    "新材料",
+    "精细化工"
+  ],
+  "tags_en": [
+    "Wu Zetong",
+    "Zhuhai",
+    "Industrial Cooperation",
+    "Foreign Investment",
+    "New Materials",
+    "Fine Chemicals"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zetong-zhuhai"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260912-gov_zhu_hai-ee72ca",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

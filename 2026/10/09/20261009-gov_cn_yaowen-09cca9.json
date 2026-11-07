@@ -1,0 +1,86 @@
+{
+  "id": "20261009-gov_cn_yaowen-09cca9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082852.htm",
+  "title_zh": "我国年人均快递量超140件",
+  "title_en": "China's Annual Per Capita Express Delivery Volume Tops 140 Parcels",
+  "summary_zh": "2026年10月9日第57届世界邮政日，国家邮政局数据显示，我国已建成世界规模最大、覆盖最广的寄递网络，年人均快递量超过140件。",
+  "summary_en": "On October 9, 2026, World Post Day, the State Post Bureau reported that China has built the world's largest and most extensive delivery network, with annual per capita express volume exceeding 140 parcels.",
+  "body_zh": "今天（2026年10月9日）是第57届世界邮政日，今年邮政日的主题是“完善邮政服务网络，开拓行业无限可能”。国家邮政局数据显示，我国持续拓展网络覆盖，超过81%的建制村建成村级寄递物流综合服务站。如今，我国已建成世界上规模最大、覆盖最广、受益人数最多的寄递网络。京津冀、长三角、粤港澳大湾区、成渝地区、中部城市群等枢纽集群基本成形。依托“枢纽+通道+网络”，我国快递包裹高速流转，每秒超6300件，日均达5.4亿件，年人均快递量超过140件。目前，我国邮政快递业市场规模不断扩大，为经济社会发展提供了有力支撑。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "industry",
+  "keywords": [
+    "邮政服务",
+    "快递物流",
+    "网络覆盖"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家邮政局",
+      "name_en": "State Post Bureau"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "邮政服务",
+      "name_en": "Postal Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "快递物流",
+      "name_en": "Express Delivery and Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络覆盖",
+      "name_en": "Network Coverage"
+    }
+  ],
+  "tags_zh": [
+    "国家邮政局",
+    "邮政服务",
+    "快递物流",
+    "网络覆盖"
+  ],
+  "tags_en": [
+    "State Post Bureau",
+    "Postal Services",
+    "Express Delivery and Logistics",
+    "Network Coverage"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家邮政局",
+        "name_en": "State Post Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261009-gov_cn_yaowen-09cca9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260624-xinhua_leaders-9b0979",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260624/124b8dbfc6db4511aecac8b2843f5827/c.html",
+  "title_zh": "习近平在山东德州考察",
+  "title_en": "Xi Jinping Inspects Dezhou in Shandong Province",
+  "summary_zh": "6月24日，习近平在山东省德州市考察，实地了解“三夏”生产情况，并与种粮大户、农技人员及村民交流。",
+  "summary_en": "On June 24, Xi Jinping conducted an inspection tour in Dezhou, Shandong Province, to learn about 'Three Summer' agricultural production and interact with farmers and technicians.",
+  "body_zh": "6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。这是习近平在陵城区边临镇东于架村了解当地“三夏”生产情况。\n6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。这是习近平在陵城区边临镇东于架村农田灌渠边察看水肥一体化设施。\n6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。这是习近平在陵城区边临镇东于架村，走进农田同种粮大户、农机手、农技人员亲切交流。\n6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。这是习近平在陵城区边临镇东于架村同种粮大户、农机手、农技人员亲切交流。\n6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。这是习近平在陵城区边临镇西于架村村民于鑫辉家，同一家人围坐一起拉家常。\n6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。这是习近平在陵城区边临镇西于架村，同村民们亲切交流。",
+  "image_url": null,
+  "published_at": "2026-06-24T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "industry",
+  "keywords": [
+    "三夏生产",
+    "农业现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德州",
+      "name_en": "Dezhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三夏生产",
+      "name_en": "Three Summer Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业现代化",
+      "name_en": "Agricultural Modernization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "山东",
+    "德州",
+    "三夏生产",
+    "农业现代化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shandong",
+    "Dezhou",
+    "Three Summer Production",
+    "Agricultural Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260624-xinhua_leaders-9b0979",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-06/24/content_38846948.htm",
+      "title_zh": "习近平在山东德州考察",
+      "published_at": "2026-06-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

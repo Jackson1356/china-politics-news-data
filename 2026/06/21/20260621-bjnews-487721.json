@@ -1,0 +1,98 @@
+{
+  "id": "20260621-bjnews-487721",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1782018447129909.html",
+  "title_zh": "柳江发生2026年主要江河第1号洪水",
+  "title_en": "Liujiang River Experiences First Major River Flood of 2026",
+  "summary_zh": "6月21日，柳江水位达到警戒水位，被编号为2026年第1号洪水。水利部部长李国英部署防御工作，广西、贵州两省区维持或提升应急响应。",
+  "summary_en": "On June 21, the Liujiang River reached its warning level, marking the first major river flood of 2026. Minister of Water Resources Li Guoying deployed defense measures, with Guangxi and Guizhou activating emergency responses.",
+  "body_zh": "新京报讯（记者陈璐）记者从水利部获悉，6月21日8时05分，珠江流域西江支流柳江柳州水文站水位涨至82.50米，达到警戒水位。根据主要江河洪水编号有关规定，此次洪水被编号为“柳江2026年第1号洪水”，是今年主要江河首次编号洪水。\n6月21日上午，水利部举办专题会商柳江汛情，国家防总副总指挥、水利部部长李国英提前对柳江洪水防御作出安排部署。水利部维持对广西、贵州洪水防御Ⅳ级应急响应，发出“一省一单”靶向预警，督促地方水利部门做好堤防巡查防守、水库安全度汛、中小河流洪水及山洪灾害防御，以及沿河城镇低洼区群众转移等工作，并派出工作组赴一线加强指导。\n水利部珠江水利委员会维持洪水防御Ⅳ级应急响应，强化应急值守和汛情研判，指导做好柳江防汛工作。广西壮族自治区水利厅提升洪水防御响应至Ⅲ级，强化24小时防汛带班值班，组织水利部门提醒沿江市县做好群众转移避险等工作；调度柳江流域红花水库提前预泄腾库、落久水库拦洪削峰，全力减轻下游防洪压力。贵州省水利厅维持洪水防御Ⅳ级应急响应。\n水利部相关负责人表示，下一步将继续紧盯柳江汛情，加强监测预报预警和会商研判，指导督促地方落实落细各项防御措施，确保人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-06-21T12:00:00+00:00",
+  "event_date": "2026-06-21",
+  "ingested_at": "2026-06-21T08:55:06Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-guoying",
+      "name_zh": "李国英",
+      "name_en": "Li Guoying"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "李国英",
+    "水利部",
+    "广西",
+    "贵州",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Li Guoying",
+    "Ministry of Water Resources",
+    "Guangxi",
+    "Guizhou",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "li-guoying"
+    ],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260621-bjnews-487721",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

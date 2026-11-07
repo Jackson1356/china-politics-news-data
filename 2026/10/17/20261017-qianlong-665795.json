@@ -1,0 +1,109 @@
+{
+  "id": "20261017-qianlong-665795",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://china.qianlong.com/2026/1017/8739509.shtml",
+  "title_zh": "中广核湖北团风魏家冲抽水蓄能电站首台机组投产发电",
+  "title_en": "First Unit of CGN's Weijiachong Pumped-Storage Station in Tuanfeng, Hubei Begins Operation",
+  "summary_zh": "10月16日，中广核湖北团风魏家冲抽水蓄能电站首台机组投入商运，总装机29.8万千瓦，将承担湖北电网调峰储能任务，并带动大别山革命老区经济发展。",
+  "summary_en": "On Oct 16, the first unit of CGN's pumped-storage plant in Tuanfeng, Hubei, began commercial operation. The 298 MW project aids grid peak-shaving and clean energy use in the old revolutionary base area.",
+  "body_zh": "10月16日，我国“十五五”期间首个投产的中小型抽水蓄能项目——中广核湖北团风魏家冲抽水蓄能电站首台机组投入商运。\n该项目位于湖北省黄冈市团风县，总装机容量29.8万千瓦，安装有两台单机容量14.9万千瓦的可逆式水泵水轮发电机组。抽水蓄能电站由上、下两个水库和输水发电系统组成，在电网用电低谷时抽水蓄能，用电高峰时放水发电，相当于给电网安装了一块“巨型充电宝”。\n项目地处大别山南麓，地质条件复杂。建设过程中，项目采用国内首创的“跑道型”半地下式厂房布局，建成深达73.4米的半地下式厂房竖井，深度为目前国内之最。同时，利用已有水库作为下水库，减少工程征地规模，降低建设成本。\n中广核新能源团风抽水蓄能负责人王维介绍，这次投产发电的是1号机组，目前2号机组正处于安装调试阶段，预计年内可投产发电。项目全面建成投产后，年发电量可达3.3亿千瓦时，将有效带动大别山革命老区的经济发展。\n据了解，该项目是国家《抽水蓄能中长期发展规划》重点实施项目。全部建成后，将承担湖北电网调峰、填谷、调频、储能和紧急事故备用等任务，提升电网运行稳定性，增强区域内风电、光伏等新能源的消纳利用能力。项目投运后，预计每年可节约标煤11.3万吨、减排二氧化碳28.2万吨，为区域能源绿色低碳转型提供支撑。",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "industry",
+  "keywords": [
+    "抽水蓄能",
+    "清洁能源",
+    "电网调峰",
+    "革命老区发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "团风县",
+      "name_en": "Tuanfeng County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抽水蓄能",
+      "name_en": "Pumped-Storage Hydropower"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电网调峰",
+      "name_en": "Grid Peak-Shaving"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "革命老区发展",
+      "name_en": "Old Revolutionary Base Area Development"
+    },
+    {
+      "kind": "person",
+      "id": "wang-wei-suzhou",
+      "name_zh": "王维",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "湖北",
+    "团风县",
+    "抽水蓄能",
+    "清洁能源",
+    "电网调峰",
+    "革命老区发展",
+    "王维"
+  ],
+  "tags_en": [
+    "Hubei",
+    "Tuanfeng County",
+    "Pumped-Storage Hydropower",
+    "Clean Energy",
+    "Grid Peak-Shaving",
+    "Old Revolutionary Base Area Development"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wei-suzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261017-qianlong-665795",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

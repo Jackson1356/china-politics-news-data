@@ -1,0 +1,111 @@
+{
+  "id": "20261105-cpcnews-27dbcf",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1105/c64094-40828026.html",
+  "title_zh": "澜沧江—湄公河合作第十一次外长会在北京举行",
+  "title_en": "11th Lancang-Mekong Cooperation Foreign Ministers' Meeting Held in Beijing",
+  "summary_zh": "11月4日，澜湄合作第十一次外长会在北京举行，王毅与泰国外长西哈萨共同主持，会议通过年度落实进展报告和专项基金项目清单。",
+  "summary_en": "On Nov 4, the 11th Lancang-Mekong Cooperation foreign ministers' meeting was held in Beijing, co-chaired by Wang Yi and Thailand's Sihasak, adopting annual progress and fund project reports.",
+  "body_zh": "新华社北京11月4日电 （记者邵艺博）澜沧江—湄公河合作第十一次外长会4日在北京举行。中共中央政治局委员、外交部长王毅和泰国副总理兼外长西哈萨共同主持会议，柬埔寨副首相兼外交大臣布拉索昆，老挝副总理兼外长通沙万，越南外长黎怀忠，缅甸国家计划、投资与对外经济部部长昂觉霍出席。\n王毅表示，今年是澜湄合作首次领导人会议召开十周年。十年来，在六国领导人战略引领下，澜湄合作成为最具活力和潜力的区域合作“金色样板”，给六国民众带来实实在在的福祉，有效助力各自国家现代化进程。面对当前国际地区多重挑战，澜湄大家庭要扎实推进澜湄合作2.0版，携手开启澜湄合作新的“金色十年”。\n王毅提出五点建议：凝聚团结自强新合力，构筑开放共赢新高地，培育绿色创新新动能，筑牢安全协作新屏障，打造灾害治理新亮点。\n与会各方祝贺中共二十届五中全会成功召开，高度评价澜湄合作十年来取得的积极进展，赞赏中方为推动合作发挥重要引领作用，重申将继续坚持睦邻友好，互尊互信，深化合作，实现共赢，共促地区可持续发展繁荣。\n会议通过《澜湄合作五年行动计划（2023—2027）2025年度落实进展报告》《2026年度澜湄合作专项基金支持项目清单》。\n外长会后，王毅同西哈萨共同会见记者。\n《 人民日报 》（ 2026年11月05日 02 版）",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "澜湄合作",
+    "区域合作",
+    "绿色创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "澜湄合作",
+      "name_en": "Lancang-Mekong Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域合作",
+      "name_en": "Regional Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色创新",
+      "name_en": "Green Innovation"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "北京",
+    "澜湄合作",
+    "区域合作",
+    "绿色创新"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Lancang-Mekong Cooperation",
+    "Regional Cooperation",
+    "Green Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261105-cpcnews-27dbcf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085060.htm",
+      "title_zh": "澜沧江－湄公河合作第十一次外长会在北京举行",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

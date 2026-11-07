@@ -1,0 +1,106 @@
+{
+  "id": "20261011-cpcnews-f7b3db",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1011/c64387-40812248.html",
+  "title_zh": "第六届中国—太平洋岛国政党对话会在北京举行",
+  "title_en": "Sixth China-Pacific Island Countries Political Party Dialogue Held in Beijing",
+  "summary_zh": "10月10日，由中共中央对外联络部主办的第六届中国—太平洋岛国政党对话会在北京举行，中联部部长刘海星及汤加副首相拉图等太平洋岛国政党政要和驻华使节出席。",
+  "summary_en": "On October 10, the sixth China-Pacific Island Countries Political Party Dialogue, hosted by the International Department of the CPC Central Committee, was held in Beijing, attended by IDCPC Minister Liu Haixing and Tonga's Deputy Prime Minister Latu, among other Pacific island political party leaders and diplomats.",
+  "body_zh": "本报北京10月10日电 （记者白元琪）10月10日，由中共中央对外联络部主办的第六届中国—太平洋岛国政党对话会在北京举行，主题为“携手谱写构建中国—太平洋岛国命运共同体新篇章”。中联部部长刘海星以及汤加副首相拉图等太平洋岛国政党政要和驻华使节出席。\n刘海星表示，在习近平主席和太平洋岛国领导人共同引领下，中国—太平洋岛国命运共同体建设取得积极成效。中国共产党愿同太平洋岛国政党加强战略沟通，深化治党治国经验交流互鉴，拓展“政党+”合作，为中国—太平洋岛国命运共同体建设贡献政党力量。\n与会外方表示，中国是太平洋岛国的真朋友、好伙伴。岛国坚定恪守一个中国原则，反对任何形式的“台独”活动，愿同中方密切党际交往，深化务实合作和区域协作，推动双方关系取得更大发展。\n《 人民日报 》（ 2026年10月11日 03 版）",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "party",
+  "keywords": [
+    "政党对话",
+    "命运共同体",
+    "一个中国原则"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-haixing",
+      "name_zh": "刘海星",
+      "name_en": "Liu Haixing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央对外联络部",
+      "name_en": "International Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党对话",
+      "name_en": "Political Party Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    }
+  ],
+  "tags_zh": [
+    "刘海星",
+    "中共中央对外联络部",
+    "北京",
+    "政党对话",
+    "命运共同体",
+    "一个中国原则"
+  ],
+  "tags_en": [
+    "Liu Haixing",
+    "International Department of the CPC Central Committee",
+    "Beijing",
+    "Political Party Dialogue",
+    "Community with a Shared Future",
+    "One-China Principle"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-haixing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央对外联络部",
+        "name_en": "International Department of the CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261011-cpcnews-f7b3db",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

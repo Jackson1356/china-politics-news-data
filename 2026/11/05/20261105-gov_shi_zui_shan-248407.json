@@ -1,0 +1,100 @@
+{
+  "id": "20261105-gov_shi_zui_shan-248407",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/szfxx/202611/t20261105_5391596.html",
+  "title_zh": "石嘴山市人民政府召开2026年第26次常务会议",
+  "title_en": "Shizuishan Municipal Government Holds 26th Executive Meeting of 2026",
+  "summary_zh": "11月3日，石嘴山市市长徐龙主持召开市政府2026年第26次常务会议，传达学习习近平总书记近期重要讲话精神，部署安全生产隐患排查整改工作。",
+  "summary_en": "On Nov 3, Mayor Xu Long chaired the Shizuishan Municipal Government's 26th executive meeting of 2026, studying Xi Jinping's recent speeches and deploying workplace safety hazard rectification.",
+  "body_zh": "11月3日，市委副书记、市长徐龙主持召开市人民政府2026年第26次常务会议，传达学习习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话等近期重要讲话精神，安排部署安全生产等工作。\n会议指出，要坚守理想、坚定信念。把思想建党、理论强党、制度管党摆在管党治党、兴党强党核心位置，坚定对马克思主义的信仰、对共产主义的信念、对中国特色社会主义的信心，不断筑牢信仰之基、补足精神之钙。要对党忠诚、服务人民。牢记党员第一身份、为人民服务第一职责，永葆人民公仆本色，不断强化党的意识、党员意识、先锋意识，践行党的根本宗旨。要履职尽责、实干担当。把干事担当作为党员干部的职责所在、价值所系，主动在基层一线磨砺淬炼，在推动经济高质量发展等方面履职尽责、主动作为。要团结拼搏、艰苦奋斗。坚持实事求是、守正创新，坚持立场坚定、担当作为，坚持组织团结、协同协作，坚持系统思维、同心同向，坚持严负其责、敢抓敢管，做到严管和厚爱结合、激励和约束并重。\n会议要求，要以整改中央、自治区安全生产考核巡查反馈问题为重点，深入开展安全生产隐患排查整治。要强化整改责任担当，严格落实“三管三必须”，明晰属地、部门监管、企业主体、员工岗位各方责任以及领导干部“一岗双责”。要严格整改标准和质量，建立问题、标准、措施、责任四张清单，推动各县区、各部门、分管领导明责知责，精准推进整改落地。要突出整改有效衔接，把中央和自治区安全生产考核巡查反馈问题整改与安全生产治本攻坚三年行动高质量收官衔接起来，与第二季度中央安全生产考核巡查和执法监管举一反三发现问题整改衔接起来，一体推进、协同落实。要注重整改从严督办，分管市领导牵头抓总、统筹协同，对重难点问题深入一线督查督办，推动各项问题整改见底见效。（记者 雷永福 姚路路）",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "party",
+  "keywords": [
+    "安全生产",
+    "长征精神",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-SZ",
+      "name_zh": "石嘴山",
+      "name_en": "Shizuishan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "石嘴山",
+    "安全生产",
+    "长征精神",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shizuishan",
+    "Workplace Safety",
+    "Long March Spirit",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "龙主持"
+      },
+      {
+        "id": null,
+        "name_zh": "徐龙"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261105-gov_shi_zui_shan-248407",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

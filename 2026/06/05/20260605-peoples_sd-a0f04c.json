@@ -1,0 +1,101 @@
+{
+  "id": "20260605-peoples_sd-a0f04c",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_url": "http://sd.people.com.cn/n2/2026/0605/c166192-41601853.html",
+  "title_zh": "林武会见比亚迪集团董事长王传福",
+  "title_en": "Lin Wu Meets BYD Group Chairman Wang Chuanfu",
+  "summary_zh": "6月4日下午，山东省委书记林武在山东大厦会见比亚迪集团董事长王传福，双方就新能源汽车及电池产业合作交换意见。",
+  "summary_en": "On the afternoon of June 4, Shandong Provincial Party Secretary Lin Wu met with BYD Group Chairman Wang Chuanfu to discuss cooperation in new energy vehicles and battery industries.",
+  "body_zh": "林武会见比亚迪集团客人\n6月4日下午，山东省委书记林武在山东大厦会见了比亚迪集团董事长兼总裁王传福一行。林武、王传福分别介绍了山东省、比亚迪集团发展情况，围绕新能源汽车生产、新一代刀片电池等技术研发与产业布局、新能源电池材料产业合作、闪充充电服务等交换了意见，表示将在良好合作的基础上，进一步加强交流对接，共享发展机遇，推动合作项目建设提速增效，促进双方合作向更广空间、更深层次迈进，更好助力绿色低碳高质量发展。省领导刘强、单义、李晓龙参加。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-04",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "产业合作",
+    "绿色低碳"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lin-wu",
+      "name_zh": "林武",
+      "name_en": "Lin Wu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳",
+      "name_en": "Green and Low-carbon"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林武",
+    "山东",
+    "新能源汽车",
+    "产业合作",
+    "绿色低碳",
+    "刘强"
+  ],
+  "tags_en": [
+    "Lin Wu",
+    "Shandong",
+    "New Energy Vehicles",
+    "Industrial Cooperation",
+    "Green and Low-carbon"
+  ],
+  "entities": {
+    "politicians": [
+      "lin-wu",
+      "shan-yi-shandong",
+      {
+        "id": null,
+        "name_zh": "李晓龙"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260605-peoples_sd-a0f04c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

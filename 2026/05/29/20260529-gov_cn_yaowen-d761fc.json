@@ -1,0 +1,95 @@
+{
+  "id": "20260529-gov_cn_yaowen-d761fc",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070700.htm",
+  "title_zh": "加拿大总理卡尼会见王毅",
+  "title_en": "Canadian Prime Minister Carney Meets Wang Yi",
+  "summary_zh": "5月29日，加拿大总理卡尼在渥太华会见中国外交部长王毅，双方探讨构建中加新型战略伙伴关系并深化多领域合作。",
+  "summary_en": "On May 29, Canadian Prime Minister Carney met with Chinese Foreign Minister Wang Yi in Ottawa to discuss building a new China-Canada strategic partnership and deepening cooperation.",
+  "body_zh": "新华社渥太华5月29日电（记者 林威）当地时间29日，加拿大总理卡尼在渥太华会见中共中央政治局委员、外交部长王毅。\n卡尼请王毅转达对中国领导人的诚挚问候，表示我年初访华时，同中方领导人共同决定构建加中新型战略伙伴关系。4个月来，加中各层级交往、各领域合作加速重启推进，取得积极成果。加方愿同中方一道，密切高层交往，深化能源、金融、农渔业等领域合作，不断夯实两国关系基础。加方支持中方主办亚太经合组织领导人非正式会议，愿同中方共同倡导和践行多边主义，为全球经济发展和世界和平稳定作出贡献。\n王毅向卡尼转达中国领导人的问候，表示总理先生成功访华，中加关系校正航向，重归正轨。两国领导人确定构建中加新型战略伙伴关系，为双边关系发展提供了战略指引。事实已证明，中加关系转圜，符合两国利益，顺应各方期待，是加方的正确选择。两国之间不存在根本利害冲突，拥有巨大合作空间。中方愿同加方相互尊重、相向而行、求同存异、加强沟通、深化合作，推动两国关系实现健康、稳定、可持续发展。双方应坚持多边主义、坚持国际法治、坚持战略自主，支持自由贸易和开放型世界经济，既造福两国人民，也为动荡多变的世界注入中加两国的稳定性。\n访加期间，王毅还同加拿大外长阿南德举行会谈，会见加拿大前总理克雷蒂安。",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-05-31T08:01:47Z",
+  "topic": "foreign",
+  "keywords": [
+    "中加关系",
+    "新型战略伙伴关系",
+    "多边主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卡尼",
+      "name_en": "Mark Carney"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "渥太华",
+      "name_en": "Ottawa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中加关系",
+      "name_en": "China-Canada Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型战略伙伴关系",
+      "name_en": "New Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    }
+  ],
+  "tags_zh": [
+    "卡尼",
+    "王毅",
+    "渥太华",
+    "中加关系",
+    "新型战略伙伴关系",
+    "多边主义"
+  ],
+  "tags_en": [
+    "Mark Carney",
+    "Wang Yi",
+    "Ottawa",
+    "China-Canada Relations",
+    "New Strategic Partnership",
+    "Multilateralism"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260529-gov_cn_yaowen-d761fc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

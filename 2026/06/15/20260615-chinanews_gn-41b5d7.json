@@ -1,0 +1,95 @@
+{
+  "id": "20260615-chinanews_gn-41b5d7",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-15/10640749.shtml",
+  "title_zh": "外交部希望霍尔木兹海峡尽早恢复安全自由通行",
+  "title_en": "Ministry of Foreign Affairs Hopes for Early Restoration of Safe and Free Passage in Strait of Hormuz",
+  "summary_zh": "外交部发言人林剑6月15日在北京表示，希望霍尔木兹海峡尽早恢复安全自由通行，中方愿就此与地区国家和国际社会保持沟通。",
+  "summary_en": "Foreign Ministry spokesperson Lin Jian stated in Beijing on June 15 that China hopes for the early restoration of safe and free passage in the Strait of Hormuz.",
+  "body_zh": "外交部：希望霍尔木兹海峡尽早恢复安全自由通行\n新华社北京6月15日电(记者曹嘉玥、冯歆然)外交部发言人林剑15日在例行记者会上答问时说，霍尔木兹海峡是用于国际航行的重要海峡，恢复海峡局势稳定符合地区国家和国际社会的共同利益。中方注意到，伊美双方已达成的第一阶段谅解备忘录包含重开海峡等内容。“希望海峡尽早恢复安全自由通行，中方愿同地区国家和国际社会就有关问题保持沟通。”\n国内新闻精选：\n- 2026年06月15日 15:59:27\n- 2026年06月15日 13:30:52\n- 2026年06月15日 11:21:14\n- 2026年06月15日 10:17:26\n- 2026年06月15日 10:15:24\n- 2026年06月14日 08:37:03\n- 2026年06月14日 08:33:25\n- 2026年06月14日 06:16:30\n- 2026年06月13日 21:22:57\n- 2026年06月13日 19:55:35",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "霍尔木兹海峡",
+    "航行自由"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "霍尔木兹海峡",
+      "name_en": "Strait of Hormuz"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航行自由",
+      "name_en": "Freedom of Navigation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "霍尔木兹海峡",
+    "航行自由"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Strait of Hormuz",
+    "Freedom of Navigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260615-chinanews_gn-41b5d7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-15/10640774.shtml",
+      "title_zh": "外交部：奉劝有关机构停止渲染所谓“中国威胁”",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/06-15/10640750.shtml",
+      "title_zh": "中方谈霍尔木兹海峡重新开放：希望海峡尽早恢复安全自由通行",
+      "published_at": "2026-06-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "20261026-gov_cn_yaowen-926051",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/26/VIDEIfQLVe9veOC3jHzMSYVq261026.shtml",
+  "title_zh": "李强签署国务院令 公布《事业单位登记管理条例》",
+  "title_en": "Li Qiang Signs State Council Decree to Publish Regulation on Registration of Public Institutions",
+  "summary_zh": "国务院总理李强日前签署国务院令，公布《事业单位登记管理条例》，自2026年12月1日起施行，共6章34条。",
+  "summary_en": "Chinese Premier Li Qiang signed a State Council decree publishing the Regulation on the Registration of Public Institutions, which takes effect on December 1, 2026 and contains 6 chapters and 34 articles.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强日前签署国务院令，公布《事业单位登记管理条例》（以下简称《条例》），自2026年12月1日起施行。《条例》共6章34条，主要内容：\n一是明确事业单位登记管理的总体原则。规定事业单位登记管理工作应当坚持中国共产党的领导，坚持深化事业单位改革方向，坚持公益为民、严格管理、强化监督、协同高效、权责一致。二是加强事业单位党的领导。规定在事业单位成立党的组织，全面加强党的建设。三是强化事业单位公益性职责。四是压实监督管理责任。五是规范优化登记服务。规定事业单位依照规定办理登记取得法人资格，未经登记的，不得以事业单位法人名义开展活动。",
+  "image_url": null,
+  "published_at": "2026-10-26T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "事业单位改革",
+    "登记管理",
+    "党的领导"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "事业单位改革",
+      "name_en": "Public Institution Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "登记管理",
+      "name_en": "Registration Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的领导",
+      "name_en": "Party Leadership"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "事业单位改革",
+    "登记管理",
+    "党的领导"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Public Institution Reform",
+    "Registration Management",
+    "Party Leadership"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261026-cpcnews-050181",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084285.htm",
+      "title_zh": "李强签署国务院令 公布《事业单位登记管理条例》",
+      "published_at": "2026-10-26T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chang_de",
+      "source_tier": null,
+      "url": "http://www.hunan.gov.cn/hnszf/hnyw/ywtj/202610/t20261027_34089036.html",
+      "title_zh": "李强签署国务院令 公布《事业单位登记管理条例》",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

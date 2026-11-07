@@ -1,0 +1,102 @@
+{
+  "id": "20260924-xinhua_politics-b369c1",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260924/8589cb91c25e427b806c12b6279d6785/c.html",
+  "title_zh": "“十四五”全国文化产业营业收入年均增长8.4%",
+  "title_en": "National Cultural Industry Revenue Grows 8.4% Annually During 14th Five-Year Plan",
+  "summary_zh": "2026年9月24日，文化和旅游部副部长王建华在国新办发布会上介绍，2025年全国文化产业营业收入20.8万亿元，“十四五”年均增长8.4%，国内出游65.2亿人次创新高。",
+  "summary_en": "Vice Minister of Culture and Tourism Wang Jianhua said China's cultural industry revenue hit 20.8 trillion yuan in 2025, up 8.4% yearly on average under the 14th Five-Year Plan, with 6.52 billion domestic trips.",
+  "body_zh": "新华社北京9月24日电（记者周玮、徐壮）文化和旅游部副部长王建华9月24日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，2025年，全国文化产业实现营业收入20.8万亿元，“十四五”期间年均增长8.4%；国内出游65.2亿人次、总花费6.3万亿元，均创历史新高；全国营业性演出达64万场，票房收入达616亿元，同比增长均超过6%。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-24",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "economy",
+  "keywords": [
+    "文化产业",
+    "旅游业",
+    "五年规划",
+    "文化消费"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCT",
+      "name_zh": "文化和旅游部",
+      "name_en": "Ministry of Culture and Tourism"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化产业",
+      "name_en": "Cultural Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游业",
+      "name_en": "Tourism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "五年规划",
+      "name_en": "Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化消费",
+      "name_en": "Cultural Consumption"
+    }
+  ],
+  "tags_zh": [
+    "文化和旅游部",
+    "北京",
+    "文化产业",
+    "旅游业",
+    "五年规划",
+    "文化消费"
+  ],
+  "tags_en": [
+    "Ministry of Culture and Tourism",
+    "Beijing",
+    "Cultural Industry",
+    "Tourism",
+    "Five-Year Plan",
+    "Cultural Consumption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260924-xinhua_politics-b369c1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

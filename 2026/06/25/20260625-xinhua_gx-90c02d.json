@@ -1,0 +1,91 @@
+{
+  "id": "20260625-xinhua_gx-90c02d",
+  "source": "xinhua_gx",
+  "source_name_zh": "新华网 广西",
+  "source_name_en": "Xinhua Guangxi",
+  "source_url": "http://gx.news.cn/20260625/55e51398d120409eae1e8fec817a7404/c.html",
+  "title_zh": "西江第1号洪水洪峰平稳通过广西",
+  "title_en": "First Flood Peak of Xijiang River Passes Smoothly Through Guangxi",
+  "summary_zh": "6月24日，西江2026年第1号洪水洪峰平稳通过广西。在自治区党委、政府及水利部指导下，广西水利部门通过科学调度水库有效拦洪削峰，确保防汛形势平稳可控。",
+  "summary_en": "On June 24, the first flood peak of the Xijiang River in 2026 passed smoothly through Guangxi. Under the guidance of the regional government and Ministry of Water Resources, water authorities effectively managed the flood through scientific reservoir dispatching.",
+  "body_zh": "6月22日17时30分，武宣水文站流量涨至25000立方米每秒，编号为“西江2026年第1号洪水”。24日5时，梧州水文站水位涨至峰值17.88米（警戒水位18.5米）后缓慢回落，11时，梧州水文站水位为17.84米，西江第1号洪水洪峰已平稳通过广西。\n6月12—21日，受持续强降雨及上游来水影响，我区有龙江全线，柳江、洛清江及红水河部分支流49条河流出现超警洪水。在自治区党委、政府的坚强领导下，在水利部的精心指导下，自治区水利厅加强会商研判，强化值班值守，科学调度水库，各级水文部门滚动开展洪水预报和水情预测，地方水利部门加强水库、堤防巡查防守，防汛形势平稳可控。\n在水工程调度上，珠江委、广西水利部门周密施策，科学开展洪水推演，调度柳州市红花、古顶、浮石、大埔、落久等水库预泄腾库，有效拦洪削峰错峰；珠江委科学实施大藤峡水利枢纽提前预泄腾库，预留防洪库容和调蓄空间，充分发挥水利工程防洪减灾效益，成功避免西江梧州段水位超警。\n下一步，自治区水利厅将加密监测预警、动态会商研判、科学精准应对，指导各地进一步加强重点部位和薄弱环节巡查防守，全力以赴守护江河湖库安澜和人民生命财产安全。（广西云-广西日报记者周映 通讯员覃士合）",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "水利调度"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "珠江委",
+      "name_en": "Pearl River Water Resources Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水利调度",
+      "name_en": "Water Conservancy Dispatching"
+    }
+  ],
+  "tags_zh": [
+    "珠江委",
+    "水利部",
+    "广西",
+    "防汛",
+    "水利调度"
+  ],
+  "tags_en": [
+    "Pearl River Water Resources Commission",
+    "Ministry of Water Resources",
+    "Guangxi",
+    "Flood Control",
+    "Water Conservancy Dispatching"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "珠江委",
+        "name_en": "Pearl River Water Resources Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260625-xinhua_gx-90c02d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

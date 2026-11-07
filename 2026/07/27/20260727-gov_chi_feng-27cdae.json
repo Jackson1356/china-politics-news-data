@@ -1,0 +1,124 @@
+{
+  "id": "20260727-gov_chi_feng-27cdae",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202607/t20260727_2796631.html",
+  "title_zh": "唐毅会见北京清华工业开发研究院院长唐杰一行",
+  "title_en": "Tang Yi Meets with President of Beijing Tsinghua Industrial R&D Institute",
+  "summary_zh": "7月25日，赤峰市委书记唐毅会见北京清华工业开发研究院院长唐杰一行，双方就科技创新、产业合作等进行交流。",
+  "summary_en": "On July 25, Tang Yi, Secretary of the Chifeng Municipal Party Committee, met with Tang Jie, President of Beijing Tsinghua Industrial R&D Institute, to discuss sci-tech innovation and industrial cooperation.",
+  "body_zh": "7月25日，市委书记唐毅会见北京清华工业开发研究院院长唐杰一行。\n唐毅首先代表市委、市政府向唐杰一行的到来表示欢迎。他说，当前，我们正深入学习贯彻习近平总书记对内蒙古系列重要讲话重要指示精神和在国家科学技术奖励大会上的重要讲话精神，紧扣自治区党委“1571”工作部署，将科技创新作为我市以党建引领推进十项重点工作之一，一体推进教育科技人才发展，因地制宜培育发展新质生产力，新技术、新成果加速涌现。京蒙（亦庄·赤峰）科创产业园是赤峰市推动传统产业转型升级、深化跨区域协同发展的核心科创载体。希望双方建立常态化、长效化对接合作机制，紧密结合清华工研院的科研、人才优势与赤峰的产业、资源优势，在创新平台建设、科研联合攻关、人才培育交流等方面开展务实合作，促进更多先进科技成果在赤转化，带动更多创新资源集聚赤峰、优秀人才汇聚赤峰。赤峰市将全力做好服务保障，为科研人员顺利开展工作创造良好条件。\n唐杰介绍了清华工研院主要发展历程、核心科研领域等情况。他表示，赤峰产业定位清晰、区位优势明显、创新氛围浓厚。清华工研院将充分发挥自身优势，聚焦国家重大战略需求和赤峰发展所需，依托京蒙（亦庄·赤峰）科创产业园平台，围绕赤峰优势特色产业开展关键核心技术攻关，加速科技成果转化应用，加强人才交流培育，全方位赋能赤峰产业转型升级，为深化京蒙协作、推动中国式现代化建设作出更大贡献。\n市领导王永军、任玺参加。",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-25",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "产业合作",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐毅",
+      "name_en": "Tang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京清华工业开发研究院",
+      "name_en": "Beijing Tsinghua Industrial R&D Institute"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-Tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐杰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "唐毅",
+    "北京清华工业开发研究院",
+    "赤峰",
+    "科技创新",
+    "产业合作",
+    "新质生产力",
+    "唐杰"
+  ],
+  "tags_en": [
+    "Tang Yi",
+    "Beijing Tsinghua Industrial R&D Institute",
+    "Chifeng",
+    "Sci-Tech Innovation",
+    "Industrial Cooperation",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "任玺"
+      },
+      {
+        "id": null,
+        "name_zh": "唐毅"
+      },
+      {
+        "id": null,
+        "name_zh": "唐杰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京清华工业开发研究院",
+        "name_en": "Beijing Tsinghua Industrial R&D Institute"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260727-gov_chi_feng-27cdae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

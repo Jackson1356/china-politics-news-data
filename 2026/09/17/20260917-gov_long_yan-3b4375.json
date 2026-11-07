@@ -1,0 +1,114 @@
+{
+  "id": "20260917-gov_long_yan-3b4375",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260917_2313611.htm",
+  "title_zh": "龙岩市领导赴永定区调研督导防灾减灾救灾和“矿业+”经济发展",
+  "title_en": "Longyan Mayor Cai Lin Visits Yongding District to Inspect Disaster Relief and 'Mining Plus' Economy",
+  "summary_zh": "9月16日，龙岩市市长蔡琳赴永定区督导防灾减灾救灾工作，走访洪山镇尚径村受灾群众，并调研推进“矿业+”经济高质量发展，市领导罗剑参加。",
+  "summary_en": "On Sept 16, Longyan Mayor Cai Lin inspected disaster relief and reconstruction work in Yongding District, visiting flood-hit residents of Hongshan Town, and surveyed progress on the city's 'mining plus' economic development drive.",
+  "body_zh": "9月16日，市长蔡琳深入永定区督导防灾减灾救灾工作，并调研推进“矿业+”经济高质量发展。市领导罗剑参加。\n受台风“沙德尔”影响，此前永定区洪山镇遭遇严重洪涝灾害。灾情发生后，当地干部群众勠力同心、众志成城，全力开展抢险救灾和灾后恢复重建工作。蔡琳一行走进洪山镇尚径村，细致询问受灾群众生活近况，现场协调解决具体困难问题。蔡琳强调，要坚持人民至上、生命至上，扎实做好受淹房屋、校舍等质量安全鉴定，加快推进灾后保险理赔等工作，全面恢复正常生产生活秩序。要认真复盘总结抢险救灾工作，对低洼地带、桥梁隧道、地灾易发区等重点部位进行全面巡查排险，健全防洪排涝体系，完善应急处置机制，不断提升防灾减灾救灾能力，全力维护人民群众生命财产安全和社会大局稳定。\n“矿业+”是我市推动经济高质量发展的重要抓手。蔡琳一行实地察看了半径东矿、永定红石材循环经济产业园和钽、铌及冶炼一体化项目，并与所联系的永定区人大代表深入交流，认真听取他们对“矿业+”经济高质量发展和矿区安全生产、生态环保等工作的意见建议。蔡琳强调，要牢牢守住实体经济这个根基，充分发挥资源要素优势，因地制宜发展“矿业+新材料”“矿业+新能源”“矿业+智能制造”，加大产业链招商力度，做强做优“矿业+”全产业链集群。要更好统筹发展和安全，严把项目准入关口，加快绿色化、智能化转型，牢牢守住安全生产、生态环保底线，推动“矿业+”经济实现更高质量、更可持续发展。",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "economy",
+  "keywords": [
+    "防灾减灾",
+    "灾后恢复重建",
+    "矿业经济",
+    "实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": "Cai Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "永定区",
+      "name_en": "Yongding District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾后恢复重建",
+      "name_en": "Post-disaster Reconstruction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "矿业经济",
+      "name_en": "Mining Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "蔡琳",
+    "龙岩",
+    "永定区",
+    "防灾减灾",
+    "灾后恢复重建",
+    "矿业经济",
+    "实体经济"
+  ],
+  "tags_en": [
+    "Cai Lin",
+    "Longyan",
+    "Yongding District",
+    "Disaster Prevention and Relief",
+    "Post-disaster Reconstruction",
+    "Mining Economy",
+    "Real Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-lin-longyan",
+      {
+        "id": null,
+        "name_zh": "罗剑"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-gov_long_yan-3b4375",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

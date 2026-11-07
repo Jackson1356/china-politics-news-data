@@ -1,0 +1,83 @@
+{
+  "id": "20261001-gov_cn_yaowen-c1384c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082578.htm",
+  "title_zh": "香港特区政府举行升旗仪式和国庆酒会庆祝新中国成立77周年",
+  "title_en": "Hong Kong SAR Government Holds Flag-Raising Ceremony and National Day Reception Marking 77th Anniversary of the PRC",
+  "summary_zh": "10月1日上午，香港特区政府在金紫荆广场举行升旗仪式，并在香港会议展览中心举办国庆酒会，庆祝中华人民共和国成立77周年，行政长官李家超在酒会上致辞。",
+  "summary_en": "On the morning of October 1, the Hong Kong SAR government held a flag-raising ceremony at Golden Bauhinia Square and a National Day reception to mark the 77th anniversary of the PRC, with Chief Executive John Lee delivering remarks.",
+  "body_zh": "新华社香港10月1日电（奚天麒）香港特区政府10月1日上午举行升旗仪式和国庆酒会，庆祝中华人民共和国成立77周年。\n升旗仪式上午8时在金紫荆广场举行。全国政协副主席梁振英、香港特区行政长官李家超、中央政府驻港联络办主任周霁、驻港国家安全公署署长董经纬、外交部驻港公署特派员崔建春、中国人民解放军驻香港部队政治委员赖如鑫，以及香港社会各界知名人士等出席。\n仪式开始后，在香港警察银乐队的奏乐中，护旗方队进入金紫荆广场。随着乐队奏响国歌，鲜艳的中华人民共和国国旗和香港特别行政区区旗冉冉升起，嘉宾们行注目礼，唱国歌。在歌唱家谭天乐和谭乐轩的领唱下，香港新界乡议局元朗区中学和元朗公立中学合唱团献唱国歌。\n特区政府飞行服务队直升机和消防处灭火轮分别在维多利亚港上空和海上致意。\n升旗仪式结束后，观礼嘉宾移步香港会议展览中心出席国庆酒会。李家超在酒会上致辞表示，这是香港首份五年规划公布后迎来的第一个国庆日，别具意义。今天，中国已成为世界制造业第一大国、货物贸易第一大国等，在国际事务中发挥着关键的影响力。香港制定五年规划，不仅是制定一系列政策举措，更是立足“一国两制”独特优势、顺应时代潮流、抓紧国家发展机遇的战略谋划。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "party",
+  "keywords": [
+    "国庆77周年",
+    "一国两制",
+    "香港五年规划"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆77周年",
+      "name_en": "77th National Day Anniversary"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "香港五年规划",
+      "name_en": "Hong Kong's Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "香港",
+    "国庆77周年",
+    "一国两制",
+    "香港五年规划"
+  ],
+  "tags_en": [
+    "Hong Kong",
+    "77th National Day Anniversary",
+    "One Country, Two Systems",
+    "Hong Kong's Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261001-gov_cn_yaowen-c1384c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

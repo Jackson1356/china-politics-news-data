@@ -1,0 +1,105 @@
+{
+  "id": "20261107-cpcnews-b2bc49",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1107/c64094-40829539.html",
+  "title_zh": "蔡奇会见朝鲜劳动党代表团",
+  "title_en": "Cai Qi Meets with Delegation of the Workers' Party of Korea",
+  "summary_zh": "11月6日，中共中央政治局常委、中央书记处书记蔡奇在北京会见由金成男率领的朝鲜劳动党代表团，双方就落实两党两国最高领导人共识、深化党际交流合作交换意见。",
+  "summary_en": "On November 6, Cai Qi, Standing Committee member of the CPC Central Political Bureau and Secretariat member, met in Beijing with a Workers' Party of Korea delegation led by Kim Song Nam, discussing implementation of the top leaders' consensus and deeper inter-party exchanges.",
+  "body_zh": "本报北京11月6日电 中共中央政治局常委、中央书记处书记蔡奇6日在京会见由朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男率领的朝鲜劳动党代表团。\n蔡奇表示，习近平总书记今年6月成功访朝，同金正恩总书记达成一系列重要共识，引领中朝关系发展迈入新的历史阶段。中方愿同朝方共同落实好两党两国最高领导人重要共识，加强高层引领，弘扬传统友谊，深化管党治党经验互鉴，扩大各领域交流合作，密切战略沟通和协调配合，助力两国社会主义事业行稳致远，促进地区和平稳定与发展繁荣。\n金成男表示，两党两国最高领导人的深厚友谊和战略引领是朝中关系不断发展的坚实基础和不竭动力。祝贺中共二十届五中全会成功举行。朝方希同中方进一步加强党际交流合作。\n《 人民日报 》（ 2026年11月07日 02 版）",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "党际交流",
+    "高层引领"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cai-qi",
+      "name_zh": "蔡奇",
+      "name_en": "Cai Qi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金成男",
+      "name_en": "Kim Song Nam"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党际交流",
+      "name_en": "Inter-party Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层引领",
+      "name_en": "High-level Guidance"
+    }
+  ],
+  "tags_zh": [
+    "蔡奇",
+    "金成男",
+    "北京",
+    "中朝关系",
+    "党际交流",
+    "高层引领"
+  ],
+  "tags_en": [
+    "Cai Qi",
+    "Kim Song Nam",
+    "Beijing",
+    "China-DPRK Relations",
+    "Inter-party Exchanges",
+    "High-level Guidance"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-qi",
+      {
+        "id": null,
+        "name_zh": "金成男"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261107-cpcnews-b2bc49",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

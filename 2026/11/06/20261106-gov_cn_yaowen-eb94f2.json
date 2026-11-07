@@ -1,0 +1,118 @@
+{
+  "id": "20261106-gov_cn_yaowen-eb94f2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/06/VIDEKL9SbjbLsb7iwNM6ePzD261106.shtml",
+  "title_zh": "李强会见加蓬总统恩圭马",
+  "title_en": "Li Qiang Meets Gabonese President Nguema",
+  "summary_zh": "11月6日，国务院总理李强在北京会见来华进行国事访问的加蓬总统恩圭马，双方就深化矿业、农林渔业、数字经济等领域合作及中非关系交换意见。",
+  "summary_en": "On November 6, Premier Li Qiang met in Beijing with Gabonese President Nguema, who is on a state visit to China, with both sides discussing deeper cooperation in mining, agriculture, the digital economy and China-Africa relations.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强6日在京会见来华进行国事访问的加蓬总统恩圭马。\n李强表示，中加建交以来，始终风雨同舟、守望相助，传统友谊历久弥坚。习近平主席同总统先生举行会谈，共同擘画两国关系发展新蓝图。中方愿同加方筑牢政治互信，深化矿业、农林渔业、数字经济、人文等领域合作，更好造福两国人民。中方坚定支持非洲团结自强，愿同加蓬等非洲兄弟加强多边协调配合，携手构建新时代全天候中非命运共同体，推动国际秩序朝着更加公正合理的方向发展。\n恩圭马表示，加蓬恪守一个中国原则，支持习近平主席提出的构建人类命运共同体理念和四大全球倡议，愿同中方深化务实合作，推动非中关系更好发展。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中非合作",
+    "双边关系",
+    "数字经济",
+    "政治互信"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作",
+      "name_en": "China-Africa Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治互信",
+      "name_en": "Political Mutual Trust"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "中非合作",
+    "双边关系",
+    "数字经济",
+    "政治互信",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "China-Africa Cooperation",
+    "Bilateral Relations",
+    "Digital Economy",
+    "Political Mutual Trust"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261106-gov_cn_yaowen-eb94f2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085396.htm",
+      "title_zh": "李强会见加蓬总统恩圭马",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

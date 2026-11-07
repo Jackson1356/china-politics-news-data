@@ -1,0 +1,73 @@
+{
+  "id": "20261103-beijing_daily-4b2195",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/03/12016012.shtml",
+  "title_zh": "央行、证监会出手稳市场，政策解读来了",
+  "title_en": "PBOC and CSRC Move to Stabilize the Market: Policy Measures Explained",
+  "summary_zh": "11月3日，央行启动第三次互换便利工具招标，超过30家券商、基金申报，申请资金逾1000亿元；证监会11月2日发布护盘式回购等多项稳市场措施。",
+  "summary_en": "On Nov 3 the PBOC launched its third swap facility tender, with over 30 brokers and funds applying for more than 100 billion yuan, while the CSRC issued buyback and other measures on Nov 2 to stabilize the stock market.",
+  "body_zh": "股市想要稳住，增量资金进场很重要。11月2日，央行放出新动作，3日正式启动第三次互换便利工具招标，期限为1年，也可视情况展期。\n这个工具有什么作用？简单来讲：这是专门给券商、基金打开融资通道。\n券商、基金手里握着大量股票、ETF、债券，这些资产账面值钱，但临时变现借钱并不容易。央行推出的这项互换业务，就是让机构拿流动性偏弱的股票、债券做抵押，直接换成国债、央行票据这类高流动性 “硬通货”。手里有了国债，机构就能在市场上低成本融资。\n关键是：这笔借来的资金，只能用来买入股票、开展场内交易，实打实给股市带来增量资金。\n跟前两轮操作相比，这次政策力度明显加码：\n资金覆盖范围更广。前两批仅有20家机构可以参与，这一轮扩大参与范围，目前已有超过30家券商、基金踊跃申报，参与主体变多，申请资金超过1000亿元。\n融资成本进一步降低。这意味着机构借钱更便宜，做多投资的积极性会更高。\n这一轮工具启动之后，券商、基金的融资能力会大幅提升，增量资金流入股市也有助于资本市场健康稳定发展。\n央行还表示，股票回购增持再贷款政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%降至1%；金融机构坚持市场化定价原则，在再贷款利率基础上合理加点并增加贷款投放。\n与此同时，证监会11月2日也发布了多项措施。\n首先，证监会明确提出了“护盘式回购”这个关键词，还披露了正在酝酿的重磅新规，每一项都很精准。\n一是把股价“破发”纳入护盘回购条件，取消上市满半年、竞价时段不能下单的限制；\n二是上市不满36个月的公司股价走弱，必须严格履行稳股价承诺；\n三是手握超募资金的企业，股价触及条件必须立刻启动回购；\n这意味着，回购不再是“可选项”，而上市公司的“必答题”。\n除了上市公司回购，国家队“护盘”也要加大力度。这两年，社保基金、养老金、保险资金等合计净买入A股超过1.5万亿元。但还不够，今后，证监会将联合多部门出台多项政策引导这些“大块头”愿意来、留得住、投得长，有了这些压舱石，市场才更有定力。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "economy",
+  "keywords": [
+    "资本市场稳定",
+    "互换便利工具",
+    "股票回购增持"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "资本市场稳定",
+      "name_en": "Capital Market Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互换便利工具",
+      "name_en": "Swap Facility Tool"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "股票回购增持",
+      "name_en": "Share Buybacks and Stake Increases"
+    }
+  ],
+  "tags_zh": [
+    "资本市场稳定",
+    "互换便利工具",
+    "股票回购增持"
+  ],
+  "tags_en": [
+    "Capital Market Stability",
+    "Swap Facility Tool",
+    "Share Buybacks and Stake Increases"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261103-beijing_daily-4b2195",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

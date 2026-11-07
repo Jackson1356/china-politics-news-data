@@ -1,0 +1,91 @@
+{
+  "id": "20260901-cpcnews-4a4789",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0901/c64387-40789972.html",
+  "title_zh": "2026上合组织国家人文交流活动在比什凯克举行",
+  "title_en": "2026 SCO People-to-People Cultural Exchange Event Held in Bishkek",
+  "summary_zh": "8月30日，2026上海合作组织国家人文交流活动在比什凯克举行，百余位各界嘉宾出席，并启动合拍电影《我们的一天》。",
+  "summary_en": "On August 30, the 2026 SCO People-to-People Cultural Exchange Event was held in Bishkek, attended by over 100 guests, and the co-production film 'Our Day' began shooting.",
+  "body_zh": "新华社比什凯克8月31日电 由中国中央广播电视总台与吉尔吉斯斯坦国家电视广播公司联合主办的2026上海合作组织国家人文交流活动30日在比什凯克举行。包括上海合作组织国家政治、经济、文化、媒体等各界知名人士在内的百余位嘉宾出席活动。\n活动上，由中国国家电影局指导，中国电影制片人协会牵头承制，中国联合吉尔吉斯斯坦、乌兹别克斯坦影视机构合拍的院线电影《我们的一天》开机启拍。活动中还发布了中吉人文领域系列合作成果。\n《 人民日报 》（ 2026年09月01日 03 版）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "人文交流",
+    "电影合作",
+    "上合组织"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电影合作",
+      "name_en": "Film Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上合组织",
+      "name_en": "SCO"
+    }
+  ],
+  "tags_zh": [
+    "中央广播电视总台",
+    "比什凯克",
+    "人文交流",
+    "电影合作",
+    "上合组织"
+  ],
+  "tags_en": [
+    "China Media Group",
+    "Bishkek",
+    "People-to-People Cultural Exchange",
+    "Film Cooperation",
+    "SCO"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-cpcnews-4a4789",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

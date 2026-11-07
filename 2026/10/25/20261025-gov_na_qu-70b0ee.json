@@ -1,0 +1,102 @@
+{
+  "id": "20261025-gov_na_qu-70b0ee",
+  "source": "gov_na_qu",
+  "source_name_zh": "那曲市政府网",
+  "source_name_en": "那曲 Government Portal",
+  "source_media_id": "gov-cn-prefecture-na_qu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.naqu.gov.cn/nqsrmzf/c100003/202610/54d82dc5655c408cb88d02b6aaea84de.shtml",
+  "title_zh": "那曲市巴青县发生7.0级地震 胡昌升连夜抵达索县人民医院看望受伤群众",
+  "title_en": "Magnitude-7.0 Earthquake Strikes Baqing County in Nagqu; Hu Changsheng Visits Injured at Sog County People's Hospital",
+  "summary_zh": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，自治区党委书记胡昌升连夜赶赴灾区，23日早在索县人民医院看望受伤群众，要求全力救治。",
+  "summary_en": "A magnitude-7.0 earthquake struck Baqing County in Nagqu, Tibet, at 22:33 on Oct 22. Tibet Party Secretary Hu Changsheng rushed overnight to the disaster zone and visited the injured at Sog County People's Hospital on the morning of Oct 23, demanding all-out treatment.",
+  "body_zh": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。地震发生后，自治区党委书记胡昌升连夜赶往灾区。23日早上7时15分，胡昌升抵达索县人民医院看望受伤群众，要求不惜一切代价救治受伤人员，“一人一策”做好救治，最大限度减少人员伤亡。\n您访问的链接即将离开“那曲市人民政府”门户网站，是否继续？",
+  "image_url": null,
+  "published_at": "2026-10-25T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗震救灾",
+    "医疗救治",
+    "群众安置"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": "Hu Changsheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NQ",
+      "name_zh": "那曲",
+      "name_en": "Nagqu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗救治",
+      "name_en": "Medical Treatment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众安置",
+      "name_en": "Resettlement of Affected Residents"
+    }
+  ],
+  "tags_zh": [
+    "胡昌升",
+    "西藏",
+    "那曲",
+    "抗震救灾",
+    "医疗救治",
+    "群众安置"
+  ],
+  "tags_en": [
+    "Hu Changsheng",
+    "Tibet",
+    "Nagqu",
+    "Earthquake Relief",
+    "Medical Treatment",
+    "Resettlement of Affected Residents"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-changsheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ",
+      "CN-XZ-NQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261025-gov_na_qu-70b0ee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

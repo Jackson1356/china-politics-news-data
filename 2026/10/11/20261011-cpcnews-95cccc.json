@@ -1,0 +1,109 @@
+{
+  "id": "20261011-cpcnews-95cccc",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1011/c64094-40812264.html",
+  "title_zh": "中法举行战略对话",
+  "title_en": "China and France Hold Strategic Dialogue",
+  "summary_zh": "10月10日，中共中央政治局委员、中央外办主任王毅在山西大同与法国总统外事顾问博纳举行第二十八次中法战略对话，双方就高层交往、经贸合作与全球治理交换意见。",
+  "summary_en": "On Oct 10, Wang Yi, member of the CPC Political Bureau and head of the Central Foreign Affairs Office, held the 28th China-France Strategic Dialogue with French presidential diplomatic advisor Emmanuel Bonne in Datong, Shanxi, covering high-level exchanges, trade cooperation and global governance.",
+  "body_zh": "新华社太原10月10日电 中共中央政治局委员、中央外办主任王毅10日在大同与法国总统外事顾问博纳举行第二十八次中法战略对话。\n王毅说，中法战略对话服务了元首外交，巩固了政治互信。中方愿同法方一道落实好两国元首达成的共识，为中法、中欧关系行稳致远，为促进世界的和平、稳定和发展作出新的努力。\n王毅表示，中方愿同法方保持高层交往，继续做大做强航空航天、核能等传统领域合作，拓展先进制造、绿色低碳、人工智能等新兴领域合作。希望法方为中国企业赴法投资兴业提供政策支持和良好环境。中法要加强沟通协调，共同推动落实习近平主席提出的四大全球倡议，携手构建更加公正合理的全球治理体系。希望法方恪守一个中国政策承诺，维护好中法关系的政治基础。\n博纳表示，法方愿同中方持续打造相互尊重、友好互信、扎实牢固、富有活力的全面战略伙伴关系。法方恪守一个中国政策。期待双方密切高层交往，加强人文交流，深化各领域互利合作，更好造福两国人民。法方将继续为中国企业提供可预期的营商环境。法方积极评价中方全球倡议，愿同中方加强多边协作。\n王毅说，中欧完全可以通过对话妥善处理经贸分歧，推动关系重回稳定健康发展势头。期待法方继续为中欧互利合作发挥建设性作用。\n博纳表示，欧方不愿同中方打贸易战，不寻求对华“脱钩”，愿作中方可信、可靠的伙伴。\n《 人民日报 》（ 2026年10月11日 03 版）",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中法关系",
+    "战略对话",
+    "经贸合作",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SX-DT",
+      "name_zh": "大同",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中法关系",
+      "name_en": "China-France Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略对话",
+      "name_en": "Strategic Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "大同",
+    "中法关系",
+    "战略对话",
+    "经贸合作",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "China-France Relations",
+    "Strategic Dialogue",
+    "Trade and Economic Cooperation",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-DT"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261011-cpcnews-95cccc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/1011/c1001-40812197.html",
+      "title_zh": "中法举行战略对话 --时政--人民网",
+      "published_at": "2026-10-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

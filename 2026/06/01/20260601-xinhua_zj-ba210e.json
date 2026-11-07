@@ -1,0 +1,92 @@
+{
+  "id": "20260601-xinhua_zj-ba210e",
+  "source": "xinhua_zj",
+  "source_name_zh": "新华网 浙江",
+  "source_name_en": "Xinhua Zhejiang",
+  "source_url": "http://zj.news.cn/20260601/8d16671de89d4082a33e730778edf892/c.html",
+  "title_zh": "浙江启动高校计算机及人工智能本科教学改革试点“101计划”",
+  "title_en": "Zhejiang Launches \"101 Plan\" Pilot for Undergraduate Teaching Reform in Computer Science and AI",
+  "summary_zh": "浙江省在温州启动高校计算机及人工智能本科教学改革试点“101计划”，发布44项改革任务及87门核心课程名单，旨在通过产教融合提升人才培养质量。",
+  "summary_en": "Zhejiang Province launched the \"101 Plan\" pilot for undergraduate teaching reform in computer science and AI in Wenzhou, releasing 44 reform tasks and 87 core courses to enhance talent cultivation through industry-education integration.",
+  "body_zh": "浙江在线6月1日讯（记者 纪驭亚）近日，浙江省高校计算机及人工智能本科教学改革试点“101计划”启动会在温州举行。会议发布44项教学改革任务清单并公布首批87门核心课程培育名单。这标志着浙江在全国率先启动省级计算机和人工智能的“101计划”。\n“101”源于美国大学课程编号中代表“入门必修课”的传统，寓意从最基础、最核心的课程与教材入手，系统提升人才培养质量。2021年底，教育部在计算机、基础学科及人工智能领域推动本科教学改革试点工程“101计划”。浙江此次启动的正是该计划的地方化拓展与创新。\n省高校大数据与人工智能类专业教指委主任委员、浙江大学本科生院院长吴飞介绍，浙江的“101计划”核心课程建设聚焦四个领域。具体来说，浙江在教育部计算机“101计划”的12门本地化应用课程基础上，增加了6门国产软硬件系统特色课程、5门智能计算等行业领域特色课程，以及21门“人工智能+X”交叉创新特色课程。每门课程均要求配套教材、实践项目及师资团队，依托全国重点实验室、省级工程中心及龙头企业资源，将产业界“真问题、真场景、真数据”融入教学。\n浙江的“101计划”采取“揭榜挂帅”的方式。首批立项的87个培育项目将于2027年底验收认定，并建立年度动态调整机制。同时，浙江成立“101计划”产教融合创新实践联盟，汇聚腾讯、阿里、华为、百度、科大讯飞等企业力量，与高校共建产教融合生态。\n“‘101计划’最初主要面向一部分名校。”教育部“101计划”推动人、图灵奖获得者、中国科学院外籍院士约翰·霍普克罗夫特表示，浙江把目光投向了更广泛的学生群体，这些学生恰恰是支撑区域经济发展、服务地方产业的主力军，这是一个具有远见卓识的决策。\n浙江省教育厅有关负责人表示，随着人工智能快速发展，教育与AI的深度融合已成为国家战略和时代命题。浙江率先启动省级计算机和人工智能“101计划”，为其他学科提供了样板，下一步将结合地方产业需求和高校条件，抓紧遴选、推进其他学科的“101计划”。",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "教学改革",
+    "产教融合"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教学改革",
+      "name_en": "Teaching Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产教融合",
+      "name_en": "Industry-Education Integration"
+    }
+  ],
+  "tags_zh": [
+    "浙江",
+    "人工智能",
+    "教学改革",
+    "产教融合"
+  ],
+  "tags_en": [
+    "Zhejiang",
+    "Artificial Intelligence",
+    "Teaching Reform",
+    "Industry-Education Integration"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "罗夫特"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260601-xinhua_zj-ba210e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_zj",
+      "source_tier": 3,
+      "url": "http://zj.people.com.cn/n2/2026/0601/c186327-41597171.html",
+      "title_zh": "浙江启动高校计算机及人工智能本科教学改革试点“101计划”",
+      "published_at": "2026-06-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

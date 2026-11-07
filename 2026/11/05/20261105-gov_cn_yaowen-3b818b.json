@@ -1,0 +1,106 @@
+{
+  "id": "20261105-gov_cn_yaowen-3b818b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085109.htm",
+  "title_zh": "国务院批复辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案",
+  "title_en": "State Council Approves Integration and Optimization Plans for National Nature Reserves and Scenic Areas in Liaoning and Eight Other Provinces",
+  "summary_zh": "国务院批复原则同意辽宁、吉林、江苏、广东、四川、西藏、甘肃、宁夏、新疆9省区国家级自然保护区和国家级风景名胜区整合优化方案，要求认真组织实施。",
+  "summary_en": "China's State Council has approved in principle the integration and optimization plans for national nature reserves and national scenic areas in Liaoning and eight other provincial-level regions, ordering careful implementation.",
+  "body_zh": "国务院关于辽宁等9省区国家级自然保护区\n和国家级风景名胜区整合优化方案的批复\n国函〔2026〕113号\n自然资源部、生态环境部、国家林草局：\n《自然资源部、生态环境部关于报请批准辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的请示》（自然资发〔2026〕137号）收悉。现批复如下：\n一、原则同意辽宁、吉林、江苏、广东、四川、西藏、甘肃、宁夏、新疆等9省区国家级自然保护区和国家级风景名胜区整合优化方案，请认真组织实施。整合优化后国家级自然保护区和国家级风景名胜区的名称、区域范围、管控分区由国家林草局公布。\n二、方案实施要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，全面贯彻习近平生态文明思想，认真落实党中央、国务院决策部署，坚持生态优先、依法依规、因地制宜、突出特色，实现生态保护、绿色发展、民生改善相统一。\n三、有关部门和地方人民政府要严格执行自然保护地建设管理有关规定，切实履行生态环境保护责任，加强组织领导和协调配合，强化对涉及自然保护地各类违法违规行为的监管执法，确保各项管理措施得到落实，不断提高国家级自然保护区、国家级风景名胜区等自然保护地建设管理水平。重大事项及时按程序请示报告。\n国务院\n（此件公开发布）",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "industry",
+  "keywords": [
+    "自然保护地",
+    "生态文明",
+    "生态保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然保护地",
+      "name_en": "Protected Natural Areas"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "辽宁",
+    "自然保护地",
+    "生态文明",
+    "生态保护",
+    "习近平"
+  ],
+  "tags_en": [
+    "State Council",
+    "Liaoning",
+    "Protected Natural Areas",
+    "Ecological Civilization",
+    "Ecological Protection"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "于报请"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-LN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261105-gov_cn_yaowen-3b818b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

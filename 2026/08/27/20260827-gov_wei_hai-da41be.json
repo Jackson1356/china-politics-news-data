@@ -1,0 +1,88 @@
+{
+  "id": "20260827-gov_wei_hai-da41be",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/8/27/art_58817_6572086.html",
+  "title_zh": "张海波会见中国外运股份有限公司客人",
+  "title_en": "Zhang Haibo Meets Sinotrans Delegation",
+  "summary_zh": "8月26日，威海市委书记张海波会见中国外运股份有限公司董事长张翼一行，双方就加强合作、发展实体经济进行交流。",
+  "summary_en": "On August 26, Zhang Haibo, Party secretary of Weihai, met with Zhang Yi, chairman of Sinotrans, to discuss cooperation and support for the real economy.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）8月26日，市委书记张海波会见中国外运股份有限公司党委书记、董事长张翼一行。市领导于宁、邓勇参加。\n全媒体新闻中心记者 孙大伟/摄\n张翼感谢威海对中外运公司的支持，他说，中外运公司高度重视与威海的合作，愿与威海一道加强市场开发，加大资源投入，为地方实体经济高质量发展作出新贡献。\n一审：史秀英 二审：史雅斐 三审：刘观达",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "战略合作",
+    "实体经济"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Strategic Cooperation",
+    "Real Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "邓勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-gov_wei_hai-da41be",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

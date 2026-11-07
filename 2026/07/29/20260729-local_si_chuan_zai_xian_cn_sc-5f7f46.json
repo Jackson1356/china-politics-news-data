@@ -1,0 +1,104 @@
+{
+  "id": "20260729-local_si_chuan_zai_xian_cn_sc-5f7f46",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://sichuan.scol.com.cn/ggxw/202607/83296711.html",
+  "title_zh": "曾洪扬任四川省人民政府副省长",
+  "title_en": "Zeng Hongyang Appointed Vice Governor of Sichuan Province",
+  "summary_zh": "7月29日上午，四川省十四届人大常委会第二十八次会议表决任命曾洪扬为副省长。",
+  "summary_en": "On the morning of July 29, the 28th session of the 14th Sichuan Provincial People's Congress Standing Committee voted to appoint Zeng Hongyang as Vice Governor of Sichuan Province.",
+  "body_zh": "四川\n滚动新闻\n> 正文\n曾洪扬任四川省人民政府副省长\n四川在线\n四川在线记者 刘佳\n7月29日上午举行的四川省十四届人大常委会第二十八次会议第二次全体会议，表决通过了省长施小琳向省人大常委会提出的任免案，决定任命曾洪扬为四川省人民政府副省长。\n编辑推荐\n视觉焦点\n4120米！大熊猫与雪豹在高海拔栖息地同域出没\n味蕾深处是故乡：当我们在谈论川菜时，我们在谈什么？\n四川AI“天团”亮相世界人工智能大会\n0.3毫米竹丝，何以织就“向往的生活”丨理响巴蜀\n爷爷的山与海丨理响巴蜀\n排行榜",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任命"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "曾洪扬",
+      "name_en": "Zeng Hongyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任命",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "person",
+      "id": "shi-xiaolin",
+      "name_zh": "施小琳",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "曾洪扬",
+    "四川",
+    "人事任命",
+    "施小琳"
+  ],
+  "tags_en": [
+    "Zeng Hongyang",
+    "Sichuan",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-xiaolin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260729-local_si_chuan_zai_xian_cn_sc-5f7f46",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://sichuan.scol.com.cn/ggxw/202607/83296715.html",
+      "title_zh": "罗振华任四川省农业农村厅厅长",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    },
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://sichuan.scol.com.cn/ggxw/202607/83296713.html",
+      "title_zh": "杨晓任四川省商务厅厅长",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    },
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://sichuan.scol.com.cn/ggxw/202607/83296718.html",
+      "title_zh": "刘襄渝任四川省应急管理厅厅长",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20260803-xinhua_politics-c7b614",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260803/6ea92aa19b414b0693bef78a984ec51c/c.html",
+  "title_zh": "农业农村部：统筹抓好田间管理和农业防灾减灾救灾",
+  "title_en": "Ministry of Agriculture and Rural Affairs: Coordinate Field Management and Disaster Prevention, Mitigation and Relief",
+  "summary_zh": "农业农村部近日在山东德州召开全国秋粮生产现场推进会，部署农业防灾减灾救灾工作，确保秋粮丰收。",
+  "summary_en": "The Ministry of Agriculture and Rural Affairs recently held a national autumn grain production meeting in Dezhou, Shandong, to coordinate field management and disaster prevention efforts for a bumper harvest.",
+  "body_zh": "新华社北京8月3日电 当前全国进入防汛抗旱关键期，也是秋粮产量形成关键期。记者从农业农村部了解到，农业农村部近日在山东德州召开全国秋粮生产现场推进会，要求全力做好农业防灾减灾救灾工作，努力夺取秋粮和全年粮食丰收。\n农业农村部有关负责人在会上表示，要扎实推进奋战100天强田管抗灾害夺秋粮丰收行动，分作物分区域落实肥水管理、“一喷多促”等措施，促进苗情转化升级；要落实汛期农业防灾减灾预案，盯牢暴雨洪涝、干旱、高温热害、台风等灾害，加强监测预警，及早防范应对，用好农业生产救灾资金，最大程度减轻灾害损失；要盯紧水稻二化螟和“两迁”害虫、玉米螟和南方锈病等重大病虫害，推进统防统治、联防联控、应急防控，全力打好重大病虫害防控攻坚战。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "economy",
+  "keywords": [
+    "农业防灾减灾",
+    "秋粮生产"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-DZ",
+      "name_zh": "德州",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业防灾减灾",
+      "name_en": "Agricultural Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮生产",
+      "name_en": "Autumn Grain Production"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "山东",
+    "德州",
+    "农业防灾减灾",
+    "秋粮生产"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Agricultural Disaster Prevention and Mitigation",
+    "Autumn Grain Production"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-SD",
+      "CN-SD-DZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-xinhua_politics-c7b614",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

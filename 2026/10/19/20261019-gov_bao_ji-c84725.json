@@ -1,0 +1,101 @@
+{
+  "id": "20261019-gov_bao_ji-c84725",
+  "source": "gov_bao_ji",
+  "source_name_zh": "宝鸡市政府网",
+  "source_name_en": "宝鸡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_ji",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoji.gov.cn/col46/col47/202610/t20261019_1310217.html",
+  "title_zh": "神农特大桥上跨清姜路段钢梁叠合板架设完成",
+  "title_en": "Shennong Bridge Completes Erection of Composite Steel Deck Panels over Qingjiang Road Section",
+  "summary_zh": "近日，310国道磻溪至高家镇公路项目控制性工程神农特大桥上跨清姜路段钢梁叠合板架设全部完成，标志项目建设取得关键突破。",
+  "summary_en": "Erection of steel-concrete composite deck panels on the Shennong Bridge, a key structure on the National Highway 310 Panxi-Gaojia Town project, has been completed, marking a major breakthrough in construction.",
+  "body_zh": "近日，伴随着最后一片叠合板精准吊装就位，310国道磻溪至高家镇公路项目二分部重点控制性工程——神农特大桥上跨清姜路段钢梁叠合板架设作业全部完工，标志着项目建设取得关键性突破。\n神农特大桥全长1951米，是该项目里程最长、施工难度最大、技术标准要求最高的核心节点，也是全线重点控制性工程。桥梁先后跨越清姜路、川陕路及宝成铁路，沿线居民区密集，日间交通流量大、人员往来频繁，对噪声管控和交通保通提出极高要求。\n本次施工区段为神农特大桥第四联（30＋50＋30）米钢板混凝土组合梁（见上图）。面对曲线线形复杂、紧邻城市主干道、车流量高度集中等多重制约因素，项目创新采用三梁式曲线变截面组合梁结构，推广运用预制UHPC混凝土钢筋桁架底模叠合行车道板新工艺。陕西路桥集团310国道磻高公路项目二分部项目负责人陈伟介绍，该工艺有效减轻构件自重，大幅压缩现场作业工期，本联168块叠合板仅用5天完成吊装；同时发挥钢材抗拉性能与混凝土高阻尼优势，实现减振降噪，有效破解钢箱梁桥面板疲劳开裂难题，进一步增强了桥梁整体抗倾覆安全储备。\n陈伟告诉记者，为最大限度减少施工对周边群众出行和生活的影响，项目部在守牢安全底线、严控工程质量的前提下，科学统筹，夜间错峰吊装，避开日间交通高峰，实现了安全、质量、效率与民生保障有机统一，高效推进节点目标落地。",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "基础设施建设",
+    "交通工程",
+    "国道310改扩建"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-BJ",
+      "name_zh": "宝鸡",
+      "name_en": "Baoji"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通工程",
+      "name_en": "Transport Engineering"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国道310改扩建",
+      "name_en": "National Highway 310 Expansion"
+    },
+    {
+      "kind": "person",
+      "id": "chen-wei-jiaxing",
+      "name_zh": "陈伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "宝鸡",
+    "陕西",
+    "基础设施建设",
+    "交通工程",
+    "国道310改扩建",
+    "陈伟"
+  ],
+  "tags_en": [
+    "Baoji",
+    "Shaanxi",
+    "Infrastructure Construction",
+    "Transport Engineering",
+    "National Highway 310 Expansion"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-wei-jiaxing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-BJ",
+      "CN-SN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261019-gov_bao_ji-c84725",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

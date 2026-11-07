@@ -1,0 +1,130 @@
+{
+  "id": "20261104-gov_cn_yaowen-6b083f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084939.htm",
+  "title_zh": "亚太经合组织召开第37届外交和贸易双部长会议",
+  "title_en": "APEC Holds 37th Ministerial Meeting on Foreign and Trade Affairs",
+  "summary_zh": "11月3日，亚太经合组织第37届外交和贸易双部长会议以视频方式在北京举行，王毅与王文涛共同主持，各方就推动亚太共同体建设等议题交换意见。",
+  "summary_en": "On November 3, APEC's 37th Ministerial Meeting on Foreign and Trade Affairs was held by video link in Beijing, co-chaired by Wang Yi and Wang Wentao, with members discussing building an Asia-Pacific community.",
+  "body_zh": "新华社北京11月3日电（记者邵艺博）亚太经合组织（APEC）第37届外交和贸易双部长会议3日以视频方式在京举行。会议联合主席中共中央政治局委员、外交部部长王毅和商务部部长王文涛共同主持。\n王毅表示，中方愿同各成员一道努力推动亚太共同体建设走深走实。一要筑牢团结根基，践行共同体理念。坚持相互尊重，深化团结协作，以实际行动践行亚太共同体理念。二要打造开放格局，维护一体化势头。维护以世界贸易组织为核心的多边贸易体制，发挥区域贸易安排的引领作用，建设开放型亚太经济。三要共建创新生态，培育增长新动能。加快推进亚太数智转型，培育新的合作增长点。四要拓展合作路径，实现可持续发展。坚持普惠包容，倡导绿色低碳，维护能源和粮食安全。\n王毅表示，即将召开的APEC领导人非正式会议是事关亚太未来发展的一次重要会议。中方愿同各方齐心协力做好APEC“中国年”收官阶段工作，为领导人会议达成丰硕成果贡献力量。\n与会各方积极评价APEC“中国年”各领域合作进展，表示愿共同推动领导人会议取得圆满成功。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太共同体",
+    "开放型亚太经济",
+    "数智转型",
+    "可持续发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": "wang-wentao",
+      "name_zh": "王文涛",
+      "name_en": "Wang Wentao"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太共同体",
+      "name_en": "Asia-Pacific Community"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放型亚太经济",
+      "name_en": "Open Asia-Pacific Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数智转型",
+      "name_en": "Digital-Intelligent Transformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "可持续发展",
+      "name_en": "Sustainable Development"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "王文涛",
+    "外交部",
+    "商务部",
+    "北京",
+    "亚太共同体",
+    "开放型亚太经济",
+    "数智转型",
+    "可持续发展"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Wang Wentao",
+    "Ministry of Foreign Affairs",
+    "Ministry of Commerce",
+    "Beijing",
+    "Asia-Pacific Community",
+    "Open Asia-Pacific Economy",
+    "Digital-Intelligent Transformation",
+    "Sustainable Development"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wentao",
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA",
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261104-gov_cn_yaowen-6b083f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

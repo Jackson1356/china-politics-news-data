@@ -1,0 +1,73 @@
+{
+  "id": "20260915-xinhua_politics-4dc9b2",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260915/f3f1c5b1be9c4dd5917caed8851f0442/c.html",
+  "title_zh": "2026年8月份70个大中城市商品住宅销售价格变动情况",
+  "title_en": "Price Changes for Commercial Residential Housing in 70 Large and Medium-Sized Cities in August 2026",
+  "summary_zh": "2026年9月，国家统计局发布2026年8月70个大中城市商品住宅销售价格变动情况，并说明调查范围、调查方法及2025年新基期轮换安排。",
+  "summary_en": "In September 2026, China's National Bureau of Statistics released the August 2026 price changes for commercial residential housing in 70 large and medium-sized cities, detailing survey scope, methods and the new 2025 base period.",
+  "body_zh": "附注：\n1.调查范围：各城市的市辖区，不包括县。\n2.调查方法：新建商品住宅销售价格调查为全面调查，基础数据采用当地房地产管理部门的网签数据；二手住宅销售价格调查为重点调查和典型调查相结合，基础数据来源于房地产经纪机构或房屋居住服务平台等相关企业上报和调查员实地采价。\n3.价格指数的计算方法详见《房地产价格统计报表制度》。\n4.如某城市当月无成交，则视为价格水平总体无变动。\n5.按照统计制度规定，2026年1月起，70个大中城市房地产价格统计调查开始使用2025年作为新一轮对比基期，各城市基本分类权数有所调整，以更好反映住宅销售结构变动。经测算，本次基期轮换对70个大中城市商品住宅销售价格各月同比指数影响平均在0.03个百分点以内。",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "房地产市场",
+    "商品住宅价格",
+    "价格统计"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "房地产市场",
+      "name_en": "Real Estate Market"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商品住宅价格",
+      "name_en": "Housing Prices"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "价格统计",
+      "name_en": "Price Statistics"
+    }
+  ],
+  "tags_zh": [
+    "房地产市场",
+    "商品住宅价格",
+    "价格统计"
+  ],
+  "tags_en": [
+    "Real Estate Market",
+    "Housing Prices",
+    "Price Statistics"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260915-xinhua_politics-4dc9b2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

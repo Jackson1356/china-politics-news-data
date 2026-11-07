@@ -1,0 +1,124 @@
+{
+  "id": "20260726-chinanews_gn-1a2969",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-26/10666808.shtml",
+  "title_zh": "三部门调拨2.5万件物资支持粤赣湘等地救灾救助工作",
+  "title_en": "Three Departments Allocate 25,000 Relief Supplies to Guangdong, Jiangxi, Hunan for Disaster Relief",
+  "summary_zh": "7月26日，国家防灾减灾救灾委员会办公室、应急管理部会同国家粮食和物资储备局向广东、江西、湖南调拨2.5万件中央救灾物资，支持受灾群众安置救助。",
+  "summary_en": "On July 26, the National Disaster Prevention and Relief Committee Office and the Ministry of Emergency Management, together with the National Food and Strategic Reserves Administration, allocated 25,000 central relief supplies to Guangdong, Jiangxi, and Hunan for typhoon and flood disaster relief and resettlement.",
+  "body_zh": "三部门调拨2.5万件物资支持粤赣湘等地救灾救助工作\n中新网7月26日电 据应急管理部网站消息，7月26日，国家防灾减灾救灾委员会办公室、应急管理部针对台风“红霞”影响，根据广东、江西、湖南等地防汛防台风救灾工作需要，会同国家粮食和物资储备局向三省调拨折叠床、折叠桌凳、毛巾被、夏凉被、家庭应急包等2.5万件中央救灾物资，支持地方妥善做好受灾群众紧急避险转移和安置救助工作。\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年07月27日 14:12:01\n- 2026年07月27日 13:55:53\n- 2026年07月27日 11:05:53\n- 2026年07月27日 10:47:48\n- 2026年07月27日 09:07:36\n- 2026年07月24日 12:39:42\n- 2026年07月23日 22:15:08\n- 2026年07月23日 20:11:31\n- 2026年07月23日 18:17:43\n- 2026年07月23日 15:16:16",
+  "image_url": null,
+  "published_at": "2026-07-26T12:00:00+00:00",
+  "event_date": "2026-07-26",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "救灾救助",
+    "防汛防台风",
+    "中央救灾物资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "救灾救助",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央救灾物资",
+      "name_en": "Central Relief Supplies"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家粮食和物资储备局",
+    "广东",
+    "江西",
+    "湖南",
+    "救灾救助",
+    "防汛防台风",
+    "中央救灾物资"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Food and Strategic Reserves Administration",
+    "Guangdong",
+    "Jiangxi",
+    "Hunan",
+    "Disaster Relief",
+    "Flood and Typhoon Prevention",
+    "Central Relief Supplies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-GD",
+      "CN-JX",
+      "CN-HN"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260726-chinanews_gn-1a2969",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

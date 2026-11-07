@@ -1,0 +1,86 @@
+{
+  "id": "20260903-gov_yue_yang-186328",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2397845.html",
+  "title_zh": "市政府召开第46次党组（扩大）会议",
+  "title_en": "Municipal Government Holds 46th Party Group (Enlarged) Meeting",
+  "summary_zh": "9月2日，岳阳市委副书记、代理市长唐浩然主持召开市政府第46次党组（扩大）会议，学习贯彻中央有关精神，专题调度群众身边腐败问题整治工作。",
+  "summary_en": "On Sept. 2, Acting Mayor Tang Haoran chaired the municipal government's 46th Party Group (Enlarged) Meeting to study central directives and coordinate a special campaign against corruption.",
+  "body_zh": "9月2日，市委副书记、代理市长、市政府党组书记唐浩然主持召开市政府第46次党组（扩大）会议，深入学习贯彻习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话，对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神；8月28日中央政治局会议精神和省委、省政府有关文件精神，专题调度群腐整治工作。\n会议指出，全市政府系统要从江泽民同志的崇高风范中汲取砥砺奋进的精神力量，筑牢思想根基，强化实干担当，从严管党治党，把学习成果转化为干事创业强大动力，奋力谱写中国式现代化岳阳篇章。要深刻认识做好当前防灾减灾救灾工作的极端重要性和紧迫性，坚决摒弃任何麻痹思想、侥幸心理和松劲心态，压紧压实各方工作责任，扎实开展全域排查整治，切实提升应对处置能力，坚决守护人民群众生命安全。\n会议强调，全市群众身边不正之风和腐败问题集中整治工作正处在决战决胜的关键节点，各级各部门要压实责任链条，优化调度督办机制，抓本级、带系统、促基层，构建上下联动、齐抓共管的工作格局。要聚焦群众反映强烈的突出问题，精准施策、靶向攻坚，举一反三、同类同改，切实把整治成效体现在群众看得见、摸得着、感受得到的实惠上。要健全长效监管机制，坚持当下改与长久立相结合，坚持“开门搞整治”，始终把群众满意度作为根本评判标准，推动整治成果持续转化为民生福祉。\n会议还听取了市政府党组树立和践行正确政绩观学习教育和“1+5+2”重点事项整改落实情况等。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Strict Party Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "岳阳",
+    "反腐败",
+    "全面从严治党",
+    "习近平"
+  ],
+  "tags_en": [
+    "Anti-Corruption",
+    "Strict Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260903-gov_yue_yang-186328",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260911-xinhua_js-1bf492",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20260911/588dc71d9a5c49959eaf7e180f0dc449/c.html",
+  "title_zh": "刘小涛在淮安宿迁调研",
+  "title_en": "Jiangsu Governor Liu Xiaotao Inspects Huai'an and Suqian",
+  "summary_zh": "9月9日至10日，江苏省省长刘小涛赴淮安、宿迁调研，强调因地制宜培育壮大县域富民产业，推动城乡融合与区域协调发展。",
+  "summary_en": "From September 9 to 10, Jiangsu Governor Liu Xiaotao inspected Huai'an and Suqian, calling for county-level industries that enrich residents and for coordinated urban-rural and regional development.",
+  "body_zh": "因地制宜培育壮大县域富民产业\n9月9日至10日，省长刘小涛在淮安市、宿迁市调研。他强调，要深入学习贯彻习近平总书记对江苏工作重要讲话精神，完整准确全面贯彻新发展理念，因地制宜培育壮大县域富民产业，持续推动城乡融合发展、区域协调发展。\n刘小涛来到沭阳县、泗洪县，走进桐昆恒阳化纤、斯迪克新材料等企业，听取县域特色优势产业发展情况汇报。他强调，要坚持智能化、绿色化、融合化方向，强化龙头企业牵引带动，深化产学研协同创新，做大做强特色产业集群，推动产业链整体向高端攀升。\n在沭阳县艺川盆景园，刘小涛询问花木品种引育、线上销售等情况，勉励企业主动适应市场需求变化，积极创新业态模式，让美丽经济走进千家万户、惠及更多群众。在洪泽区西顺河大闸蟹产业园，刘小涛强调要推进全流程精细化管理，抓好养殖尾水治理和循环再利用，实现生态效益和经济效益双提升。\n在洪泽湖大堤，刘小涛强调，要统筹推进防汛与水生态保护、水环境治理、水资源利用，让洪泽湖成为造福人民的幸福湖。\n省政府秘书长赵建军参加调研。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "县域富民产业",
+    "城乡融合",
+    "产业集群升级"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-SQ",
+      "name_zh": "宿迁",
+      "name_en": "Suqian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "县域富民产业",
+      "name_en": "County-Level Enriching Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城乡融合",
+      "name_en": "Urban-Rural Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业集群升级",
+      "name_en": "Industrial Cluster Upgrading"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "淮安",
+    "宿迁",
+    "县域富民产业",
+    "城乡融合",
+    "产业集群升级"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Huai'an",
+    "Suqian",
+    "County-Level Enriching Industries",
+    "Urban-Rural Integration",
+    "Industrial Cluster Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA",
+      "CN-JS-SQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260911-xinhua_js-1bf492",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20260625-xinhua_js-abe993",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260625/f9d6a33ff6a745fd9b8530302644d59f/c.html",
+  "title_zh": "省政府党组（扩大）会议召开 刘小涛主持",
+  "title_en": "Provincial Government Party Group (Expanded) Meeting Held, Presided over by Liu Xiaotao",
+  "summary_zh": "6月24日，江苏省长刘小涛主持召开省政府党组（扩大）会议，学习贯彻习近平总书记重要讲话精神，部署党建、东西部协作及教育科技人才发展等工作。",
+  "summary_en": "On June 24, Jiangsu Governor Liu Xiaotao presided over a Provincial Government Party Group (Expanded) meeting to study General Secretary Xi Jinping's instructions and deploy work on party building, east-west collaboration, and talent development.",
+  "body_zh": "6月24日，省政府党组（扩大）会议召开，深入学习贯彻习近平总书记近期重要讲话重要指示和重要文章精神，认真学习全国党建工作座谈会精神，按照省委要求，扎实抓好政府系统贯彻落实工作。省政府党组书记、省长刘小涛主持会议。\n会议强调，要深入学习贯彻习近平总书记对常态化做好东西部协作工作作出的重要指示精神，学习借鉴闽宁协作等有益经验，准确把握常态化协作新形势新任务，推动江苏与协作地区优势互补、双向赋能、共同发展。要认真学习领会习近平总书记给新华社老党员张连生的重要回信精神，充分发挥老党员、老同志政治优势，用心用情做好关心关爱工作，更好发扬优良作风、传承红色基因。要深入学习贯彻习近平总书记在《求是》杂志发表的重要文章《一体推进教育科技人才发展》，聚焦打造具有全球影响力的产业科技创新中心，以更大力度、在更深层次上推动教育科技人才良性互动、高效协同，不断塑造发展新动能新优势。\n会议指出，习近平党建思想是习近平新时代中国特色社会主义思想的重要组成部分，为发展马克思主义建党学说作出重大原创性贡献，对强党强国具有重大现实意义和长远指导意义。要把学习贯彻习近平党建思想作为当前和今后一个时期的重要政治任务，准确把握“十四个坚持”的精髓要义、丰富内涵和实践要求，深刻领悟“两个确立”的决定性意义，不断增进政治认同、思想认同、理论认同、情感认同，自觉运用习近平党建思想谋划和推进政府系统党的建设，为推进中国式现代化江苏新实践提供坚强保障。\n会议审议了省政府党组学习教育查摆问题整改整治台账，要求坚决扛牢政治责任，持续抓好问题整改和成果巩固，全面查漏补缺、立好制度规矩、拧紧责任链条，确保整改整治见行见效、取信于民。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-24",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "party",
+  "keywords": [
+    "党建",
+    "东西部协作",
+    "教育科技人才"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东西部协作",
+      "name_en": "East-West Collaboration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育科技人才",
+      "name_en": "Education, Science, Technology and Talent"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "党建",
+    "东西部协作",
+    "教育科技人才"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Party Building",
+    "East-West Collaboration",
+    "Education, Science, Technology and Talent"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260625-xinhua_js-abe993",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

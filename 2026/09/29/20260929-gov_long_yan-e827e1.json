@@ -1,0 +1,93 @@
+{
+  "id": "20260929-gov_long_yan-e827e1",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260929_2316278.htm",
+  "title_zh": "龙岩市第七次党代会主席团举行第二次会议",
+  "title_en": "Presidium of Longyan's 7th Party Congress Holds Second Meeting",
+  "summary_zh": "9月28日下午，中国共产党龙岩市第七次代表大会主席团举行第二次会议，胡盛主持会议，通过市委、市纪委报告决议草案及大会选举办法草案。",
+  "summary_en": "On the afternoon of Sept 28, the presidium of the 7th CPC Longyan Municipal Congress held its second meeting, chaired by Hu Sheng, approving draft resolutions and the congress election rules.",
+  "body_zh": "龙岩市第七次党代会主席团举行第二次会议\n时间：2026-09-29 09:41\n9月28日下午，中国共产党龙岩市第七次代表大会主席团举行第二次会议。胡盛主持会议。\n会议听取各代表团汇报讨论六届市委报告，六届市纪委工作报告，党费收缴、使用和管理情况报告的情况；通过提交各代表团审议的关于六届市委报告的决议（草案）、六届市纪委工作报告的决议（草案）；通过提交各代表团审议的《大会选举办法（草案）》，布置推荐监票人；通过提交各代表团酝酿的七届市委委员、候补委员，七届市纪委委员和出席省第十二次党代会代表候选人预备人选名单。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党内选举",
+    "纪律检查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-party Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律检查",
+      "name_en": "Discipline Inspection"
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "龙岩",
+    "党代会",
+    "党内选举",
+    "纪律检查"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Longyan",
+    "Party Congress",
+    "Intra-party Elections",
+    "Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260929-gov_long_yan-e827e1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

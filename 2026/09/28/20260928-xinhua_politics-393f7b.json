@@ -1,0 +1,96 @@
+{
+  "id": "20260928-xinhua_politics-393f7b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260928/c899240409c94b8087f65a86999ad1e7/c.html",
+  "title_zh": "我国将绘制完成新一代全火星地质图",
+  "title_en": "China to Complete New-Generation Full-Mars Geological Map",
+  "summary_zh": "9月28日，中国科学院院士、天问三号任务首席科学家侯增谦透露，我国新一代全火星地质图计划2028年底完成，将提出火星地质年代划分的中国方案。",
+  "summary_en": "On Sept 28, CAS academician and Tianwen-3 chief scientist Hou Zengqian said China's new full-Mars geological map, due by end-2028, will propose a Chinese scheme for dividing Martian geological eras.",
+  "body_zh": "作为中国科学院院士、天问三号任务首席科学家侯增谦9月28日透露，新一代全火星地质图将提出火星地质年代划分的中国方案，推动我国自主制定的火星年代划分标准成为全球共识。\n侯增谦在中国地质科学院地质研究所高质量发展座谈会上说，该图计划2028年底完成，祝融号探测器发现火星35亿年前存在洲际级古海洋、16亿年前可能存在短时洪水——这些最新科学发现将绘入新一代全火星地质图。\n据介绍，新一代全火星地质图的核心成果还包括同期编制完成的1∶5万着陆区地质图以及专业系列图集。该系列成果将作为天问三号任务科学准备的重要成果，以全球首版智能化火星地质图的形式发布，并为后续月球、金星、小行星等编图任务提供研究范式与实施模板。\n记者：王立彬\n海报制作：苗夏阳、胡戈\n新华社国内部出品",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "industry",
+  "keywords": [
+    "火星探测",
+    "天问三号任务",
+    "行星地质编图"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAS",
+      "name_zh": "中国科学院",
+      "name_en": "Chinese Academy of Sciences"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国地质科学院地质研究所",
+      "name_en": "Institute of Geology, Chinese Academy of Geological Sciences"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "火星探测",
+      "name_en": "Mars Exploration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "天问三号任务",
+      "name_en": "Tianwen-3 Mission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "行星地质编图",
+      "name_en": "Planetary Geological Mapping"
+    }
+  ],
+  "tags_zh": [
+    "中国科学院",
+    "中国地质科学院地质研究所",
+    "火星探测",
+    "天问三号任务",
+    "行星地质编图"
+  ],
+  "tags_en": [
+    "Chinese Academy of Sciences",
+    "Institute of Geology, Chinese Academy of Geological Sciences",
+    "Mars Exploration",
+    "Tianwen-3 Mission",
+    "Planetary Geological Mapping"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAS"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国地质科学院地质研究所",
+        "name_en": "Institute of Geology, Chinese Academy of Geological Sciences"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260928-xinhua_politics-393f7b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

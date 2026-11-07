@@ -1,0 +1,118 @@
+{
+  "id": "20261009-chinanews_gn-ac3d2c",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-09/10709721.shtml",
+  "title_zh": "中储粮集团广西分公司总经理余珂被查",
+  "title_en": "Yu Ke, General Manager of Sinograin Guangxi Branch, Under Investigation",
+  "summary_zh": "据中央纪委国家监委驻中储粮集团纪检监察组、四川省纪委监委10月9日消息，中储粮集团广西分公司党委书记、总经理余珂涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+  "summary_en": "Yu Ke, Party Secretary and General Manager of Sinograin's Guangxi branch, is under disciplinary review and supervisory investigation for suspected serious violations of discipline and law, according to a notice released on October 9.",
+  "body_zh": "中储粮集团广西分公司总经理余珂被查\n中新网10月9日电 据中央纪委国家监委驻中储粮集团纪检监察组、四川省纪委监委消息，中储粮集团广西分公司党委书记、总经理余珂涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中储粮集团纪检监察组纪律审查和四川省成都市监察委员会监察调查。\n【编辑:周驰】\n国内新闻精选：\n- 2026年10月08日 20:38:21\n- 2026年10月08日 16:14:15\n- 2026年10月08日 11:56:27\n- 2026年10月08日 11:13:29\n- 2026年10月08日 10:25:32\n- 2026年10月07日 17:43:11\n- 2026年10月07日 17:20:21\n- 2026年10月07日 15:45:33\n- 2026年10月07日 15:11:29\n- 2026年10月07日 14:31:49",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查",
+    "国有企业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "余珂",
+      "name_en": "Yu Ke"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川省纪委监委",
+      "name_en": "Sichuan Provincial Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有企业",
+      "name_en": "State-owned Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "余珂",
+    "四川省纪委监委",
+    "广西",
+    "四川",
+    "反腐败",
+    "纪律审查",
+    "国有企业"
+  ],
+  "tags_en": [
+    "Yu Ke",
+    "Sichuan Provincial Commission for Discipline Inspection and Supervision",
+    "Guangxi",
+    "Sichuan",
+    "Anti-corruption",
+    "Disciplinary Review",
+    "State-owned Enterprises"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "余珂"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX",
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "四川省纪委监委",
+        "name_en": "Sichuan Provincial Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261009-chinanews_gn-ac3d2c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "20261024-xinhua_yn-0af31b",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261024/063e3eb17d3143a3985441c4204c7520/c.html",
+  "title_zh": "云南省委主要负责同志职务调整 莫高义任云南省委书记",
+  "title_en": "Mo Gaoyi Appointed Yunnan Provincial Party Secretary in Leadership Reshuffle",
+  "summary_zh": "10月24日，云南省召开领导干部会议，中央宣布莫高义任云南省委委员、常委、书记，王宁因年龄原因不再担任云南省委书记。",
+  "summary_en": "On October 24, Yunnan Province held a leadership meeting where the central government announced Mo Gaoyi's appointment as Yunnan Party Secretary, replacing Wang Ning, who stepped down due to age.",
+  "body_zh": "新华网昆明10月24日电 日前，中央对云南省委主要负责同志职务进行了调整。莫高义同志任云南省委委员、常委、书记，王宁同志不再担任云南省委书记、常委、委员职务。\n10月24日，云南省召开领导干部会议，中央组织部副部长郝军辉同志在会上宣布了中央决定，称这次调整是中央从大局出发，根据工作需要和云南省领导班子建设实际，经过通盘考虑、慎重研究决定的。\n莫高义同志1964年12月出生，湖北石首人。曾任广东省委宣传部副部长兼省委外宣办（省新闻办）主任、南方报业传媒集团管委会主任，韶关市委书记，2018年12月后任中央纪委国家监委宣传部部长（副部长级），中央纪委国家监委驻人民日报社纪检监察组组长，北京市委常委、宣传部部长，2024年3月任中央宣传部副部长、国务院新闻办主任。\n据悉，王宁同志因年龄原因不再担任省委书记职务。",
+  "image_url": null,
+  "published_at": "2026-10-24T12:00:00+00:00",
+  "event_date": "2026-10-24",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任免",
+    "省委领导班子建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "mo-gaoyi",
+      "name_zh": "莫高义",
+      "name_en": "Mo Gaoyi"
+    },
+    {
+      "kind": "institution",
+      "id": "CCOD",
+      "name_zh": "中央组织部",
+      "name_en": "Central Organization Department"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任免",
+      "name_en": "Cadre Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省委领导班子建设",
+      "name_en": "Provincial Leadership Building"
+    }
+  ],
+  "tags_zh": [
+    "莫高义",
+    "中央组织部",
+    "云南",
+    "干部任免",
+    "省委领导班子建设"
+  ],
+  "tags_en": [
+    "Mo Gaoyi",
+    "Central Organization Department",
+    "Yunnan",
+    "Cadre Appointments",
+    "Provincial Leadership Building"
+  ],
+  "entities": {
+    "politicians": [
+      "mo-gaoyi"
+    ],
+    "institutions": [
+      "CCOD"
+    ],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261024-xinhua_yn-0af31b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260701-xinhua_zj-b8ba62",
+  "source": "xinhua_zj",
+  "source_name_zh": "新华网 浙江",
+  "source_name_en": "Xinhua Zhejiang",
+  "source_url": "http://zj.news.cn/20260701/c51ecfa0874a4117997033507421206b/c.html",
+  "title_zh": "《中国供电发展报告（2026）》在杭发布",
+  "title_en": "\"China Power Supply Development Report (2026)\" Released in Hangzhou",
+  "summary_zh": "2026年6月30日，国家能源局在杭州发布《中国供电发展报告（2026）》并召开交流会，旨在提升“获得电力”服务水平，推动供电服务向品质体验转变。",
+  "summary_en": "On June 30, 2026, the National Energy Administration released the \"China Power Supply Development Report (2026)\" in Hangzhou and held a meeting to improve \"Obtaining Electricity\" services.",
+  "body_zh": "《中国供电发展报告（2026）》6月30日在浙江杭州发布。记者从国家能源局当天在杭州召开的“获得电力”服务水平提升工作交流会上获悉，我国供电服务正从基本供给向品质体验转变。\n报告提出，我国已建成全球规模最大的电力供应体系，形成覆盖城乡、全域贯通的供电服务网络。2025年，我国全社会用电量突破10万亿千瓦时大关，达10.37万亿千瓦时；全国电力用户接近8亿户，供电服务网点近10万个，供电服务从业人员超56万人。\n国家能源局市场监管司有关负责人表示，近年来，我国持续推进“获得电力”改革，在办电流程、供电服务、监管治理等方面不断优化，一批影响企业和群众办电用电的堵点难点问题得到解决。下一步，将围绕关键领域和薄弱环节深化改革，推动供电服务从保障用户“用上电”向提升用户“用好电”转变，更好支撑企业生产经营和群众生活用电。\n在数字化办电方面，电网企业线上服务平台注册用户数达5.7亿户，用电业务线上办理率超过97%；全国已建成“扫码用电”“共享用电”等便民接电服务点6.59万个，办电用电便利度持续提升。\n在服务绿色出行方面，目前全国电动汽车充电设施总量已突破2000万个。预计到“十五五”末，全国电动汽车充电设施总量还将翻一番、达到4000万个，满足超过1.1亿辆电动汽车充电需求。针对电动自行车充电安全问题，去年电力行业为超过7万个小区、21万个电动自行车充电设施提供“三零”接电服务，节约办电投入超4亿元，进一步满足群众安全便捷的绿色出行需求。\n会议期间，与会代表还赴杭州未来科技城、余杭小古城村、钱江新城供电营业厅、国网杭州供电公司供电服务中心等地调研，了解当地在产业项目接电、乡村充电设施建设、数字化办电、用电诉求响应等方面的实践。（记者孔令杭）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "获得电力",
+    "供电服务",
+    "绿色出行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "获得电力",
+      "name_en": "Obtaining Electricity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "供电服务",
+      "name_en": "Power Supply Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色出行",
+      "name_en": "Green Travel"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "杭州",
+    "获得电力",
+    "供电服务",
+    "绿色出行"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Hangzhou",
+    "Obtaining Electricity",
+    "Power Supply Services",
+    "Green Travel"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江杭州"
+      }
+    ],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260701-xinhua_zj-b8ba62",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260824-xinhua_leaders-5fc550",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260824/4c12de5da28a4f52869acd4d7fa034d8/c.html",
+  "title_zh": "习近平同约旦国王阿卜杜拉二世会谈",
+  "title_en": "Xi Jinping Holds Talks with Jordan's King Abdullah II",
+  "summary_zh": "8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈，并为其举行欢迎仪式。",
+  "summary_en": "On the afternoon of August 24, President Xi Jinping held talks with King Abdullah II of Jordan, who is on a state visit to China, at the Great Hall of the People in Beijing, followed by a welcoming ceremony.",
+  "body_zh": "8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。\n8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。这是会谈前，习近平在人民大会堂北大厅为阿卜杜拉二世举行欢迎仪式。\n8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "双边关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "国事访问",
+    "双边关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "State Visit",
+    "Bilateral Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260824-xinhua_leaders-5fc550",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": null,
+      "url": "http://www.qstheory.cn/20260824/f9b6f05450aa44a987bf35cfeea302ae/c.html",
+      "title_zh": "习近平同约旦国王阿卜杜拉二世会谈",
+      "published_at": "2026-08-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

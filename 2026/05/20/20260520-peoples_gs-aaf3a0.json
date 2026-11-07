@@ -1,0 +1,100 @@
+{
+  "id": "20260520-peoples_gs-aaf3a0",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_url": "http://gs.people.com.cn/n2/2026/0521/c183342-41586689.html",
+  "title_zh": "《2026年数字经济发展工作要点》印发",
+  "title_en": "2026 Digital Economy Development Work Points Issued",
+  "summary_zh": "国家数据局于5月20日在北京印发《2026年数字经济发展工作要点》，部署推进数字经济高质量发展的8项重点任务。",
+  "summary_en": "The National Data Bureau issued the '2026 Digital Economy Development Work Points' in Beijing on May 20, outlining eight key tasks to promote high-quality digital economy development.",
+  "body_zh": "《2026年数字经济发展工作要点》印发\n提出8个方面重点任务\n本报北京5月20日电 （记者王云杉）国家数据局印发《2026年数字经济发展工作要点》，对2026年推进数字经济高质量发展重点工作作出部署，提出8个方面重点任务。\n一是深化数据要素市场化配置改革。加快建立全国统一数据产权登记制度，印发登记指引，推动各地加快建立健全公共数据授权运营价格形成机制。二是筑牢数字基础设施底座。加快建设全国一体化算力网，推动数据、网络、算力、能源等资源协同布局，稳妥推进数据基础设施建设，支持行业、领域示范性设施建设。三是强化数据赋能人工智能发展。实施强基扩容、应用赋能、提质增效、管理服务、价值释放、标注攻坚六大专项行动。四是提升数字经济核心竞争力。因地制宜培育创新引领型、区域支柱型、区域特色型数字产业集群，培育数字经济创新型企业，构建“政府+企业+创新+投资”四合一的专业化遴选培育机制。五是促进实体经济和数字经济深度融合。深入推进制造业数字化转型行动和重点行业数字化转型实施方案，丰富数据资源运营、数据技术创新、数据分析应用等服务供给。六是提升数字化治理与服务能力。推进数字经济促进法立法进程，持续推进数据安全管理，强化重要数据和核心数据识别与保护。七是深化数字经济国际合作。开展数字经济多双边合作，积极参与数据领域国际规则标准制定。八是营造良好发展环境。探索构建央地协同、科学规范的数字经济监测评估体系，深化国家数字经济创新发展试验区建设。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "industry",
+  "keywords": [
+    "数字经济",
+    "数据要素",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素",
+      "name_en": "Data Elements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "北京",
+    "数字经济",
+    "数据要素",
+    "人工智能"
+  ],
+  "tags_en": [
+    "National Data Bureau",
+    "Beijing",
+    "Digital Economy",
+    "Data Elements",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260520-peoples_gs-aaf3a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0521/c352664-41586576.html",
+      "title_zh": "《2026年数字经济发展工作要点》印发",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

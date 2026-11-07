@@ -1,0 +1,77 @@
+{
+  "id": "20260526-xinhua_js-daad3e",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260527/d69c82057af54dedb96ac88722353e7d/c.html",
+  "title_zh": "南京发布主城区水务设施综合调度方案",
+  "title_en": "Nanjing Releases Comprehensive Water Facilities Dispatch Plan for Main Urban Area",
+  "summary_zh": "5月26日，南京市水务设施管理中心发布2026年版主城区水务设施综合调度方案，通过量化关键环节指标为防汛排涝提供操作指南。",
+  "summary_en": "On May 26, the Nanjing Municipal Water Facilities Management Center released the 2026 Comprehensive Water Facilities Dispatch Plan for the main urban area to provide operational guidelines for flood control.",
+  "body_zh": "南京发布主城区水务调度“保姆级”教程\n5月26日，南京市水务设施管理中心召开2026年排水行业防汛动员暨业务培训会。会上，《南京市主城区水务设施综合调度方案》2026年版正式发布。这份被与会者称为“保姆级”教程的方案，首次将主城区河湖水位控制、泵站启闭时机、应急响应启动雨量等关键环节，量化到厘米、精确到毫米，为今年防汛排涝提供了清晰可操作的行动指南。\n“日降雨50毫米以下无积淹水，100毫米雨后4小时排除”——围绕主城区排水防涝目标，方案对重点河湖汛期水位作出极其具体的规定：玄武湖主汛期水位控制在9.80米（±5厘米），梅雨期降至9.70米（±5厘米），接暴雨黄色预警时立即停止补水并适时打开和平大沟闸泄水；内秦淮河汛期最高不超过6.5米；月牙湖不超过9.20米；友谊河不超过7.5米；沙洲西河、向阳河不超过5.0米。每一条河道的水位控制值都精确到厘米。\n针对长江高水位倒灌风险，方案给出了明确的“动作指令”：当长江潮位高于8.9米（吴淞高程）时，关闭南玉带河高水高排下游闸；高于9.2米时，关闭郭家山沟管道闸并打开泄水闸防止江水倒灌，同时打开R09排口闸门、暂停截流泵运行。泵站、闸门何时开、何时关，一目了然。\n方案创新建立“三级指令”调度体系，用雨量数据触发响应行动：三级指令（接到强降雨预警）启动后，雨水设施全力运行，生态补水提前切换至排涝模式；二级指令（各行政区平均降雨量累计达20毫米且后期仍有较强降雨）启动后，截流设施停止运行；一级指令（平均降雨量达50毫米且后期仍有较强降雨）启动后，排水设施全马力运行，尽力降低内涝风险。从预警到行动，环环相扣，雨量阈值清清楚楚。\n此外，积淹水点预警应急调度及处置规范操作首次详细列明。例如，在玄武区恒嘉路与华飞路路口，当迈皋桥华电雨量站监测到雨强达16.36毫米/小时、雨量阈值达到9毫米时，需通知区属单位赶赴现场开展人工助排。\n市水务局副局长戴连栋强调，南京面临城市内涝和河道顶托的双重压力，是全国31座重点防洪城市之一。近3年暴雨、台风触发的应急响应次数，分别占10年间同类响应数量的八成和五成，影响日趋严重。他提出全行业必须认清复杂多变的防汛形势，提前谋划、主动防范，牢牢掌握防汛工作主动权。\n市水务设施管理中心主任周春峰提醒，全体工作人员须熟练掌握《南京市主城区水务设施综合调度方案》，收到指令后按时限、高标准完成处置并反馈报备，确保雨情汛情来临时指令畅通、响应迅速。（王怀艳）",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "industry",
+  "keywords": [
+    "防汛排涝",
+    "城市管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛排涝",
+      "name_en": "Flood Control and Drainage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市管理",
+      "name_en": "Urban Management"
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "防汛排涝",
+    "城市管理"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "Flood Control and Drainage",
+    "Urban Management"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "严重他"
+      },
+      {
+        "id": null,
+        "name_zh": "戴连栋"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260526-xinhua_js-daad3e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

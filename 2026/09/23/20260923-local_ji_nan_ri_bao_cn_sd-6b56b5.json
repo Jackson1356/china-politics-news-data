@@ -1,0 +1,96 @@
+{
+  "id": "20260923-local_ji_nan_ri_bao_cn_sd-6b56b5",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-09-23/2026092300026.html",
+  "title_zh": "刘强到市纪委监委机关调研：纵深推进全面从严治党",
+  "title_en": "Liu Qiang Inspects Municipal Commission for Discipline Inspection, Vows to Advance Full and Rigorous Party Governance",
+  "summary_zh": "9月22日，济南市委书记刘强到市纪委监委机关调研，强调纵深推进全面从严治党，为经济社会高质量发展提供保障。",
+  "summary_en": "On September 22, Ji'nan Party Secretary Liu Qiang inspected the municipal discipline inspection commission, stressing deeper full and rigorous Party governance to support high-quality economic and social development.",
+  "body_zh": "刘强到市纪委监委机关调研时强调：坚定不移纵深推进全面从严治党 为经济社会高质量发展提供坚强保障\n本报9月22日讯 今天，市委书记刘强到市纪委监委机关调研时强调，要深入学习贯彻习近平党建思想，全面落实二十届中央纪委五次、六次全会精神和省委工作要求，坚定不移纵深推进全面从严治党，持续营造风清气正干事创业良好政治生态，为经济社会高质量发展提供坚强保障。\n刘强指出，今年是“十五五”开局之年，做好纪检监察工作至关重要。要持续深化政治监督，聚焦聚力中央和省委联动巡视反馈问题常态化整改，围绕落实中心任务，明确职责、强化担当，不断提升政治监督的精准度和穿透力。要从严从实加强换届风气监督，牢固树立和践行正确政绩观，强震慑、严把关，推动形成正气充盈的换届环境。要驰而不息深化作风建设，抓早、抓小、抓典型、抓通报，持续强化不打“糊涂仗”、不搞“花架子”、不当“太平官”的作风保障。要保持反腐肃贪高压态势，紧盯重点领域，强化数字赋能，深挖细查新型腐败和隐性腐败，不断提高监督执纪质效。要抓紧抓实群众身边不正之风和腐败问题集中整治，进一步拧紧责任链条，强化案件查办，建章立制查漏补缺。要牢记“打铁还需自身硬”，持续从严加强自身建设，建强领导班子，抓好队伍建设，完善内控机制，着力锻造忠诚干净担当、敢于善于斗争的纪检监察铁军。\n市领导韩伟、胡冰参加活动。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "discipline",
+  "keywords": [
+    "全面从严治党",
+    "纪检监察",
+    "作风建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪检监察",
+      "name_en": "Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "作风建设",
+      "name_en": "Work Style Building"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "全面从严治党",
+    "纪检监察",
+    "作风建设"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Full and Rigorous Party Governance",
+    "Discipline Inspection and Supervision",
+    "Work Style Building"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "胡冰"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-local_ji_nan_ri_bao_cn_sd-6b56b5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_abae6cb29c2e47a299fa6b70359cb34a.html",
+      "title_zh": "刘强到市纪委监委机关调研时强调 坚定不移纵深推进全面从严治党 为经济社会高质量发展提供坚强保障",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

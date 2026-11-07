@@ -1,0 +1,131 @@
+{
+  "id": "20261015-gov_lin_zhi-9be1c0",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/34732e5b24434e47a6331b08d42660b3.shtml",
+  "title_zh": "胡昌升会见段向东一行",
+  "title_en": "Hu Changsheng Meets CHALCO Chairman Duan Xiangdong in Lhasa",
+  "summary_zh": "10月13日下午，西藏自治区党委书记胡昌升在拉萨会见中国铝业集团董事长段向东一行，双方就加大在藏投资布局、深化对口援藏工作交换意见。",
+  "summary_en": "On the afternoon of Oct 13, Tibet Party Secretary Hu Changsheng met CHALCO Chairman Duan Xiangdong in Lhasa to discuss expanding investment in Tibet and deepening paired assistance cooperation.",
+  "body_zh": "胡昌升会见段向东一行\n龚会才参加\n本报拉萨10月14日讯（记者 王雅慧 刘文涛 王艺霏）10月13日下午，自治区党委书记胡昌升在拉萨会见中国铝业集团有限公司党组书记、董事长段向东一行。\n胡昌升代表自治区党委、政府对段向东一行表示欢迎，向中铝集团长期以来给予西藏工作的支持表示感谢。胡昌升说，西藏是重要的国家安全屏障、生态安全屏障、战略资源储备基地、清洁能源基地和面向南亚开放的重要通道，也是西部大开发的主战场，中铝集团作为中央管理的国有重要骨干企业，双方合作前景广阔。希望中铝集团积极参与社会主义现代化新西藏建设，充分发挥资金、技术、人才等优势，加大优质项目投资布局，持续深化对口支援工作，促进受援地群众就业增收，推动地企合作迈上新台阶。西藏将持续优化营商环境，全力做好服务保障，为企业在藏投资兴业创造良好条件。\n段向东表示，中铝集团将主动服务西藏经济社会发展大局，聚焦西藏“十五五”发展规划，不断拓展合作领域、提升合作水平，严守生态底线、坚持绿色发展，加大援藏力度、促进民生改善，为建设社会主义现代化新西藏贡献力量。\n自治区领导龚会才、韦秀长，中铝集团领导王石磊参加。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "地企合作",
+    "对口援藏",
+    "投资布局"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": "Hu Changsheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "段向东",
+      "name_en": "Duan Xiangdong"
+    },
+    {
+      "kind": "institution",
+      "id": "CHALCO",
+      "name_zh": "中国铝业集团有限公司",
+      "name_en": "Aluminum Corporation of China (CHALCO)"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地企合作",
+      "name_en": "Enterprise-Government Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口援藏",
+      "name_en": "Paired Assistance to Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "投资布局",
+      "name_en": "Investment Layout"
+    },
+    {
+      "kind": "person",
+      "id": "gong-huicai",
+      "name_zh": "龚会才",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "胡昌升",
+    "段向东",
+    "中国铝业集团有限公司",
+    "拉萨",
+    "地企合作",
+    "对口援藏",
+    "投资布局",
+    "龚会才"
+  ],
+  "tags_en": [
+    "Hu Changsheng",
+    "Duan Xiangdong",
+    "Aluminum Corporation of China (CHALCO)",
+    "Lhasa",
+    "Enterprise-Government Cooperation",
+    "Paired Assistance to Tibet",
+    "Investment Layout"
+  ],
+  "entities": {
+    "politicians": [
+      "gong-huicai",
+      "hu-changsheng",
+      {
+        "id": null,
+        "name_zh": "王石磊"
+      },
+      {
+        "id": null,
+        "name_zh": "石磊"
+      },
+      {
+        "id": null,
+        "name_zh": "段向东"
+      }
+    ],
+    "institutions": [
+      "CHALCO"
+    ],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261015-gov_lin_zhi-9be1c0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "20260825-peoples_nm-ac68c5",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/0825/c192247-41676841.html",
+  "title_zh": "内蒙古发布今年首批非营利组织免税资格",
+  "title_en": "Inner Mongolia Releases First Batch of Non-Profit Tax Exemptions This Year",
+  "summary_zh": "内蒙古自治区财政厅、税务局发布通知，公布2026年第一批13户非营利组织的免税资格，有效期至2030年。",
+  "summary_en": "Inner Mongolia's finance and tax authorities issued a notice granting tax-exempt status to 13 non-profit organizations for the period 2026-2030.",
+  "body_zh": "内蒙古发布今年首批非营利组织免税资格\n据国家税务总局内蒙古自治区税务局消息：日前，内蒙古自治区财政厅、国家税务总局内蒙古自治区税务局向各盟市（含满洲里市、二连浩特市）财政局、税务局发布通知，通报内蒙古自治区注册税务师协会、乌海市海南区教育发展基金会等13户非营利组织的免税资格（2026年第一批）。\n据悉，这13户非营利组织，注册地或常设办公地涉及呼和浩特、乌海、包头、鄂尔多斯、通辽、赤峰等地。通知明确，上述13户非营利组织的免税资格有效期为2026年至2030年（指税款所属期）。\n通知要求，主管税务机关要严格按照财政部、国家税务总局相关规定，进一步加强非营利组织免税资格后续管理，正确区分免税收入和应税收入，并按规定分别处理。（记者 杨威）",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "非营利组织免税资格",
+    "税收优惠"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "内蒙古自治区财政厅",
+      "name_en": "Inner Mongolia Finance Department"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家税务总局内蒙古自治区税务局",
+      "name_en": "Inner Mongolia Tax Service of the State Taxation Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "非营利组织免税资格",
+      "name_en": "Tax Exemption for Non-Profit Organizations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "税收优惠",
+      "name_en": "Tax Preference"
+    }
+  ],
+  "tags_zh": [
+    "内蒙古自治区财政厅",
+    "国家税务总局内蒙古自治区税务局",
+    "内蒙古",
+    "非营利组织免税资格",
+    "税收优惠"
+  ],
+  "tags_en": [
+    "Inner Mongolia Finance Department",
+    "Inner Mongolia Tax Service of the State Taxation Administration",
+    "Inner Mongolia",
+    "Tax Exemption for Non-Profit Organizations",
+    "Tax Preference"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NM"
+    ],
+    "companies": [
+      {
+        "name_zh": "内蒙古自治区财政厅",
+        "name_en": "Inner Mongolia Finance Department"
+      },
+      {
+        "name_zh": "国家税务总局内蒙古自治区税务局",
+        "name_en": "Inner Mongolia Tax Service of the State Taxation Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260825-peoples_nm-ac68c5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

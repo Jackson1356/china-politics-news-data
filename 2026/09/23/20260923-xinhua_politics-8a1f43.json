@@ -1,0 +1,118 @@
+{
+  "id": "20260923-xinhua_politics-8a1f43",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260923/ff8eb910d93942ad96339135f03d7ecd/c.html",
+  "title_zh": "公安机关打掉一跨国民族资产解冻类诈骗团伙",
+  "title_en": "Chinese Police Bust Cross-Border 'Ethnic Asset Unfreezing' Fraud Ring",
+  "summary_zh": "今年7月以来，在公安部指挥下，吉林公安机关打掉一个跨国民族资产解冻类诈骗团伙，境内抓获犯罪嫌疑人101名，并与老挝、新加坡、柬埔寨警方合作抓获156名，涉案金额超60亿元。",
+  "summary_en": "Since July, under Ministry of Public Security direction, Jilin police broke up a cross-border 'ethnic asset unfreezing' fraud ring, arresting 101 suspects in China and, with police in Laos, Singapore and Cambodia, 156 more, with over 6 billion yuan involved.",
+  "body_zh": "新华社北京9月23日电（记者李明辉）记者9月23日从公安部获悉，今年7月以来，在公安部指挥下，吉林公安机关打掉一个跨国民族资产解冻类诈骗团伙，在境内抓获犯罪嫌疑人101名。同时，与老挝、新加坡、柬埔寨警方开展国际执法合作，3国警方共抓获犯罪嫌疑人156名。近日，相关犯罪嫌疑人被陆续押解回国。\n今年1月，吉林公安机关研判发现一个实施跨国民族资产解冻类诈骗的犯罪团伙。团伙编造“复兴汇金”“养老行动”“中国强农”“民生保障”“中国圆梦”等虚假“国家项目”，雇佣技术团队开发涉诈App，通过网络平台“引流”发展会员，长期对老年群体实施诈骗活动，受骗人数众多，涉案金额超60亿元。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "discipline",
+  "keywords": [
+    "跨国诈骗",
+    "国际执法合作",
+    "养老诈骗"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "老挝",
+      "name_en": "Laos"
+    },
+    {
+      "kind": "location",
+      "id": "SG",
+      "name_zh": "新加坡",
+      "name_en": "Singapore"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "柬埔寨",
+      "name_en": "Cambodia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨国诈骗",
+      "name_en": "Cross-Border Fraud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际执法合作",
+      "name_en": "International Law Enforcement Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老诈骗",
+      "name_en": "Fraud Targeting the Elderly"
+    }
+  ],
+  "tags_zh": [
+    "公安部",
+    "吉林",
+    "老挝",
+    "新加坡",
+    "柬埔寨",
+    "跨国诈骗",
+    "国际执法合作",
+    "养老诈骗"
+  ],
+  "tags_en": [
+    "Ministry of Public Security",
+    "Jilin",
+    "Laos",
+    "Singapore",
+    "Cambodia",
+    "Cross-Border Fraud",
+    "International Law Enforcement Cooperation",
+    "Fraud Targeting the Elderly"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-JL",
+      "SG"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-xinhua_politics-8a1f43",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20261027-beijing_daily-6e8954",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/27/12008596.shtml",
+  "title_zh": "外交部：对英国警方任意过度执法行为表示强烈不满、严重关切",
+  "title_en": "Foreign Ministry: China Strongly Dissatisfied, Seriously Concerned Over UK Police Arbitrary and Excessive Law Enforcement",
+  "summary_zh": "10月27日，外交部发言人郭嘉昆在例行记者会上表示，中方对英国边境执法人员任意、过度执法表示强烈不满和严重关切，已向英方提出严正交涉。",
+  "summary_en": "On Oct 27, Foreign Ministry spokesperson Guo Jiakun said China is strongly dissatisfied with and seriously concerned about arbitrary, excessive law enforcement by UK border officers against Chinese citizens, and has lodged solemn representations with the UK.",
+  "body_zh": "10月27日，外交部发言人郭嘉昆主持例行记者会。\n有记者提问，我们注意到，中国驻英国大使馆近日发布了提醒中国公民注意英方出入境检查的安全提醒，能否请发言人进一步介绍相关情况？\n郭嘉昆表示，近日，外交部和驻英国使馆收到多起中国公民被英国边境执法人员长时间扣留、盘查，以及其随身携带的手机等电子设备被查扣的报告。中方对英国警方任意、过度执法行为表示强烈不满、严重关切，已向英方提出严正交涉，将全力维护中国公民人身安全和正当合法权益。\n“我们提醒有计划赴英国的中国公民，详细阅读驻英使馆发布的提示，避免不便和损失。”郭嘉昆说。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "领事保护",
+    "中英关系",
+    "公民合法权益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领事保护",
+      "name_en": "Consular Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中英关系",
+      "name_en": "China-UK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公民合法权益",
+      "name_en": "Legitimate Rights of Citizens"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "领事保护",
+    "中英关系",
+    "公民合法权益"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Consular Protection",
+    "China-UK Relations",
+    "Legitimate Rights of Citizens"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261027-beijing_daily-6e8954",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

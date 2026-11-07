@@ -1,0 +1,108 @@
+{
+  "id": "20261022-xinhua_politics-e18196",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261022/2cf85e918b37485b96014604f7b4a94e/c.html",
+  "title_zh": "淮河防总、淮委对江苏淮河水系启动防汛四级应急响应",
+  "title_en": "Huaihe Flood Control Headquarters and Huaihe Commission Launch Level-IV Flood Emergency Response for Jiangsu's Huaihe River System",
+  "summary_zh": "10月22日，淮河防总、淮委针对江苏省淮河水系启动防汛四级应急响应和洪水防御Ⅳ级应急响应，以应对台风“蔷琵”外围环流带来的强降雨。",
+  "summary_en": "On Oct 22, the Huaihe Flood Control Headquarters and Huaihe Commission activated a Level-IV flood response for Jiangsu's Huaihe river system ahead of heavy rain from Typhoon Champi.",
+  "body_zh": "新华社合肥10月22日电（记者马姝瑞）记者从水利部淮河水利委员会了解到，水利部已于10月22日12时对江苏省启动洪水防御Ⅳ级应急响应。根据《淮河防汛抗旱总指挥部防汛抗旱应急预案》《淮河水利委员会水旱灾害防御应急预案》，经综合研判，淮河防总、淮委于10月22日16时针对江苏省淮河水系启动防汛四级应急响应、洪水防御Ⅳ级应急响应。\n据预报，受第30号台风“蔷琵”外围环流影响，10月24日至25日，淮河下游有中等阵雨、局地大到暴雨，里下河区过程面雨量30至40毫米。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛应急响应",
+    "洪水防御",
+    "台风蔷琵"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "淮河防汛抗旱总指挥部",
+      "name_en": "Huaihe Flood Control and Drought Relief Headquarters"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "水利部淮河水利委员会",
+      "name_en": "Huaihe Water Resources Commission of the Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛应急响应",
+      "name_en": "Flood Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风蔷琵",
+      "name_en": "Typhoon Champi"
+    }
+  ],
+  "tags_zh": [
+    "淮河防汛抗旱总指挥部",
+    "水利部淮河水利委员会",
+    "江苏",
+    "防汛应急响应",
+    "洪水防御",
+    "台风蔷琵"
+  ],
+  "tags_en": [
+    "Huaihe Flood Control and Drought Relief Headquarters",
+    "Huaihe Water Resources Commission of the Ministry of Water Resources",
+    "Jiangsu",
+    "Flood Emergency Response",
+    "Flood Defense",
+    "Typhoon Champi"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "淮河防汛抗旱总指挥部",
+        "name_en": "Huaihe Flood Control and Drought Relief Headquarters"
+      },
+      {
+        "name_zh": "水利部淮河水利委员会",
+        "name_en": "Huaihe Water Resources Commission of the Ministry of Water Resources"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261022-xinhua_politics-e18196",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

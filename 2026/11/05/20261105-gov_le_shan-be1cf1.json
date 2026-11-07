@@ -1,0 +1,112 @@
+{
+  "id": "20261105-gov_le_shan-be1cf1",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085117.htm",
+  "title_zh": "谌贻琴在甘肃调研时强调扎实做好稳就业工作，持续兜住兜牢民生底线",
+  "title_en": "Chen Yiqin Stresses Solid Work on Stabilizing Employment and Firmly Safeguarding People's Livelihood During Gansu Inspection",
+  "summary_zh": "11月3日至5日，国务委员谌贻琴赴甘肃兰州、酒泉调研就业与民政工作，强调稳就业、兜牢民生底线、扩大农村养老服务供给。",
+  "summary_en": "State Councilor Chen Yiqin inspected employment and civil affairs work in Lanzhou and Jiuquan, Gansu, from Nov 3 to 5, urging solid efforts to stabilize employment, safeguard basic livelihoods and expand rural elderly care services.",
+  "body_zh": "谌贻琴在甘肃调研时强调\n扎实做好稳就业工作\n持续兜住兜牢民生底线\n新华社兰州11月5日电 国务委员谌贻琴3日至5日在甘肃调研就业、民政等工作。她强调，要认真学习党的二十届五中全会精神，深入贯彻习近平总书记对甘肃工作的重要指示精神，坚决落实党中央、国务院决策部署，扎实做好稳就业工作，持续兜住兜牢民生底线，全力完成今年目标任务。\n谌贻琴先后来到兰州市、酒泉市，深入产业园区、企业车间、乡镇便民服务机构等，详细了解产业发展、就业稳岗、兜底保障、养老服务等情况，并主持召开座谈会，听取有关基层单位、企业及专家意见建议。她强调，就业是家事，更是国事。要把就业当作民生头等大事来抓，加力实施好稳岗扩容提质行动，认真做好高校毕业生、农民工等重点群体就业，大力支持吸纳就业能力强的产业和企业发展，推动就业容量持续扩大。要深入开展好大规模职业技能提升培训，深化东西部劳务协作，打造更多具有鲜明地域特色的劳务品牌，努力促进劳动者就业增收。\n谌贻琴指出，要因地制宜扩大农村养老服务供给，着力打造县域统筹、城乡协调、符合乡情的农村养老服务体系。临近岁末年初，要做好困难群众、受灾群众的关爱帮扶，按时足额发放各类救助金，及时对孤寡老人、困境儿童、残疾人等开展走访慰问，切实把党和政府的关怀送到群众心坎上。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "稳就业",
+    "民生保障",
+    "养老服务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Chen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS-LZ",
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "稳就业",
+      "name_en": "Employment Stabilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "国务院",
+    "甘肃",
+    "兰州",
+    "稳就业",
+    "民生保障",
+    "养老服务"
+  ],
+  "tags_en": [
+    "Chen Yiqin",
+    "State Council",
+    "Gansu",
+    "Lanzhou",
+    "Employment Stabilization",
+    "Livelihood Security",
+    "Elderly Care Services"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-GS",
+      "CN-GS-LZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261105-gov_le_shan-be1cf1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

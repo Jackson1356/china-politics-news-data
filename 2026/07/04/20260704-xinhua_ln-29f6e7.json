@@ -1,0 +1,89 @@
+{
+  "id": "20260704-xinhua_ln-29f6e7",
+  "source": "xinhua_ln",
+  "source_name_zh": "新华网 辽宁",
+  "source_name_en": "Xinhua Liaoning",
+  "source_url": "https://www.news.cn/politics/20260704/e7714f0304454a0d922cf51335ed2245/c.html",
+  "title_zh": "水利部对辽宁吉林启动洪水防御Ⅳ级应急响应",
+  "title_en": "Ministry of Water Resources Launches Level IV Emergency Response for Flood Defense in Liaoning and Jilin",
+  "summary_zh": "水利部7月4日对辽宁、吉林两省启动洪水防御Ⅳ级应急响应，并派出工作组协助指导，以应对7月4日至6日期间的强降雨及潜在洪水风险。",
+  "summary_en": "On July 4, the Ministry of Water Resources launched a Level IV emergency response for flood defense in Liaoning and Jilin provinces, deploying working groups to manage potential flood risks from heavy rainfall.",
+  "body_zh": "新华社北京7月4日电（记者魏弘毅）记者从水利部了解到，水利部4日对辽宁、吉林2省份启动洪水防御Ⅳ级应急响应，派出2个工作组赴防汛一线协助指导。\n据预报，受东北冷涡影响，7月4日至6日，辽宁北部西部、吉林大部等地累计降水量将达40毫米至60毫米，局部可能超过100毫米；辽宁浑河中游干流、苏子河，吉林辉发河、小孤山河、鳌龙河等河流可能发生超警洪水。\n为应对可能发生的汛情，水利部要求地方水利部门和流域管理机构滚动开展雨情、水情、汛情预测预报，加强会商研判，及时发布预警信息；科学精细调度水工程，做好水库、堤防等工程巡查防守，及时发现并处置险情；重点抓好中小河流洪水和山洪灾害防御，全力保障人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-07-04T12:00:00+00:00",
+  "event_date": "2026-07-04",
+  "ingested_at": "2026-07-05T07:46:39Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水防御",
+      "name_en": "Flood Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "辽宁",
+    "吉林",
+    "洪水防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Liaoning",
+    "Jilin",
+    "Flood Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-LN",
+      "CN-JL"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260704-xinhua_ln-29f6e7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "20260909-gov_cn_yaowen-76a1bd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7080488.htm",
+  "title_zh": "我国计划打造5000个全国放心消费集聚区",
+  "title_en": "China Plans to Create 5,000 National Assured-Consumption Clusters",
+  "summary_zh": "国家市场监督管理总局近日印发通知，计划到2030年打造5000个以上全国放心消费集聚区，优化消费生态，提振消费信心。",
+  "summary_en": "The State Administration for Market Regulation issued a plan to cultivate over 5,000 national assured-consumption clusters by 2030, aiming to optimize the consumption ecosystem and boost consumer confidence.",
+  "body_zh": "新华社北京9月8日电 为持续优化消费生态、提振消费信心、释放消费活力，近日，国家市场监督管理总局印发《关于全面开展放心消费单元和集聚区培育的通知》，计划到2030年全国放心消费集聚区达5000个以上、重点领域放心消费单元广泛覆盖，“放心消费在中国”品牌基本形成，消费者获得感明显增强。\n市场监管总局执法稽查局局长王火旺介绍，本次培育工作有三方面特点。\n一是激发经营者内生动力，实现从“要我变好”到“我要变好”。坚持政府引导、经营主体唱主角，通过政策宣讲、标杆示范，让广大经营者看清：放心消费承诺不是负担，而是含金量十足的市场名片，既是社会责任，更是提升竞争力的“加分项”。\n二是发挥标杆示范效应，以“小单元”构筑消费“大生态”。做强放心消费商店、餐饮店、直播间等基础单元，做优商圈、街区、景区等集聚区，能够把消费环境改善落到市井烟火，让老百姓看得见、摸得着、感受得到，以标杆“点亮一片”，带动全行业诚信合规，营造良币驱逐劣币的市场格局。\n三是创新监管治理模式，从“事后纠偏”转向“事前固本”。面对消费纠纷持续高位运行的现实，告别“重处置、轻预防”老路，统筹食品、质量、价格、计量、信用、消保等多条线监管资源，推动监管从事后查处向事前预防转变、从个案化解向系统治理升级，实现矛盾源头减量，提升监管综合效能。\n下一步，市场监管总局将持续指导推动各地扎实开展放心消费单元和集聚区培育工作，确保各项政策举措真正落地。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "放心消费",
+    "消费集聚区",
+    "消费环境"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "放心消费",
+      "name_en": "Assured Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费集聚区",
+      "name_en": "Consumption Cluster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费环境",
+      "name_en": "Consumption Environment"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "北京",
+    "放心消费",
+    "消费集聚区",
+    "消费环境"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Beijing",
+    "Assured Consumption",
+    "Consumption Cluster",
+    "Consumption Environment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王火旺"
+      }
+    ],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260909-gov_cn_yaowen-76a1bd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

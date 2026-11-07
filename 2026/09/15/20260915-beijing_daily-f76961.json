@@ -1,0 +1,91 @@
+{
+  "id": "20260915-beijing_daily-f76961",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/15/11959555.shtml",
+  "title_zh": "国家统计局回应中国内需和外需状况",
+  "title_en": "National Bureau of Statistics Responds on China's Domestic and External Demand",
+  "summary_zh": "9月15日，国新办举行新闻发布会介绍2026年8月国民经济运行情况，国家统计局新闻发言人付凌晖回应称，我国经济增长主要还是靠内需拉动。",
+  "summary_en": "On Sept 15, the State Council Information Office held a briefing on China's August 2026 economic performance, where NBS spokesman Fu Linghui said growth is still driven mainly by domestic demand.",
+  "body_zh": "9月15日上午，国新办举行新闻发布会，介绍2026年8月份国民经济运行情况。\n有记者提问：8月贸易数据显示，进出口均实现较快增长，而制造业采购经理指数（PMI）仍处于49.8%的收缩区间。这反映出中国经济外需与内需怎样的相对状态？\n对此，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖回应，尽管外贸保持较快增长，但我国经济增长主要还是靠内需拉动。\n上半年，内需对经济增长的贡献率超过80%。尽管受到外部环境的冲击，但我国经济运行整体保持平稳态势，消费市场规模持续扩大，服务消费增势较好，支撑了国内需求扩大。\n前八个月，社会消费商品和服务零售总额同比增长2.5%，其中服务零售额增长4.9%；需求扩大对生产的拉动继续显现，工业生产继续保持较快增长，服务业增势趋稳。前八个月，规模以上工业增加值同比增长5.3%，服务业生产指数同比增长4.7%；市场供求关系也保持稳定，前八个月，居民消费价格同比上涨0.9%，工业生产者出厂价格同比上涨2%。\n这些情况表明，我国内需扩大，经济运行平稳态势持续。\n国际方面，今年以来全球形势比较复杂，特别是中东地缘政治冲突造成的全球能源市场波动，抬升了全球通胀的压力。在这种变乱交织的环境中，不少国家的生产活动受到冲击，供给短缺压力上升，经济运转面临困难。从我国情况看，我国依托完整的产业体系、稳定和强大的生产能力，不仅保障了国内经济平稳运行，也为弥补全球供给短缺做出积极贡献，从而带动了我国货物进出口较快增长。\n“可以说，我国外贸快速增长是建立在适应全球需求变化和自身比较稳定、强大的供给能力基础之上的。”付凌晖说。\n付凌晖指出，这两个月，制造业PMI连续处在收缩区间，主要原因是近期部分地方极端天气多发，影响生产稳定衔接，部分制造业行业进入生产淡季，客观上影响制造业景气指数。从8月当月看，制造业无论是生产活动还是需求状况都在改善，制造业PMI中生产指数是50.4%，比上月回升；同时，新订单指数也回升到了50.6%，这两个指数都在景气区间。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "扩大内需",
+    "外贸增长",
+    "国民经济运行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩大内需",
+      "name_en": "Expanding Domestic Demand"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外贸增长",
+      "name_en": "Foreign Trade Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国民经济运行",
+      "name_en": "National Economic Performance"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "扩大内需",
+    "外贸增长",
+    "国民经济运行"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Expanding Domestic Demand",
+    "Foreign Trade Growth",
+    "National Economic Performance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260915-beijing_daily-f76961",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1789445832129526.html",
+      "title_zh": "中国的内外需情况到底怎么样？国家统计局回应",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

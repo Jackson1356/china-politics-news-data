@@ -1,0 +1,93 @@
+{
+  "id": "20260921-gov_zhan_jiang-d28bc4",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2226569.html",
+  "title_zh": "李勇毅到湛江经开区检查督导蚊媒传染病疫情防控和爱国卫生运动",
+  "title_en": "Zhanjiang Mayor Li Yongyi Inspects Mosquito-Borne Disease Prevention and Patriotic Health Campaign in Economic Development Zone",
+  "summary_zh": "9月20日上午，湛江市市长李勇毅到湛江经开区实地检查督导蚊媒传染病疫情防控和爱国卫生运动，要求聚焦薄弱环节、压实网格化防控责任。",
+  "summary_en": "On the morning of Sept 20, Zhanjiang Mayor Li Yongyi inspected mosquito-borne disease control and the patriotic health campaign in the city's Economic Development Zone, urging grid-based accountability and tighter sanitation efforts.",
+  "body_zh": "9月20日上午，市委副书记、市长李勇毅到湛江经开区实地检查督导蚊媒传染病疫情防控工作和爱国卫生运动开展情况，现场听取经开区及卫健、疾控部门相关工作汇报，强调要聚焦薄弱环节查漏补缺，紧盯重点部位、抓实关键举措、凝聚群防群控合力，持续深化环境卫生综合整治，全方位筑牢蚊媒传染病防控安全防线。\n李勇毅前往海滨船厂北区一线检查。该区域人员密集、楼栋集中、巷道交错、环境情况复杂，是蚊媒防控的重点难点区域。他走进巷道庭院、房前屋后、沟渠空地等蚊虫易孳生重点区域，细致检查环境卫生清扫、积水点位清理整治、入户筛查登记等工作开展情况，逐项核验各项防控举措落地成效。他指出，要依托网格化管理压实属地防控责任，统筹联动街道、社区、片区各级力量，构建上下贯通、左右协同、齐抓共管的防控工作体系，全面提升蚊媒治理和环境整治整体质效；要把蚊媒传染病防控与爱国卫生运动有机结合、一体推进，常态化、精细化开展环境整治工作，健全长效管理机制，持续巩固整治成果，全力保障人民群众身体健康和生命安全。\n针对基层社区防控短板，李勇毅强调，要聚焦风险隐患突出点位攻坚突破。要加大筛查排查力度，紧盯空置房屋、老旧院落等薄弱点位，全方位、无死角开展拉网式筛查排查，彻底清除隐患漏洞。要标准化、规范开展消杀作业，严格落实标准化消杀流程，严把消杀质量关，靶向清理蚊虫孳生地，降低蚊媒疾病传播风险。要做细做实蚊媒监测，细化监测点位、加密监测频次，密切跟踪蚊虫密度变化，根据监测数据动态优化调整防控策略，提升防控工作的针对性、科学性与实效性。要广泛开展宣传动员，充分调动辖区居民、企业职工等群众力量主动参与爱国卫生运动，自觉做好房前屋后、责任区域环境卫生保洁，共同营造干净整洁的人居环境。\n文秋华",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "蚊媒传染病防控",
+    "爱国卫生运动",
+    "公共卫生"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-yongyi-zhanjiang",
+      "name_zh": "李勇毅",
+      "name_en": "Li Yongyi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "蚊媒传染病防控",
+      "name_en": "Mosquito-Borne Disease Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国卫生运动",
+      "name_en": "Patriotic Health Campaign"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共卫生",
+      "name_en": "Public Health"
+    }
+  ],
+  "tags_zh": [
+    "李勇毅",
+    "湛江",
+    "蚊媒传染病防控",
+    "爱国卫生运动",
+    "公共卫生"
+  ],
+  "tags_en": [
+    "Li Yongyi",
+    "Zhanjiang",
+    "Mosquito-Borne Disease Control",
+    "Patriotic Health Campaign",
+    "Public Health"
+  ],
+  "entities": {
+    "politicians": [
+      "li-yongyi-zhanjiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260921-gov_zhan_jiang-d28bc4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

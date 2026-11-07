@@ -1,0 +1,105 @@
+{
+  "id": "20261020-gov_bao_shan-bdb979",
+  "source": "gov_bao_shan",
+  "source_name_zh": "保山市政府网",
+  "source_name_en": "保山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoshan.gov.cn/info/1037/10412704.htm",
+  "title_zh": "省人大常委会开展县乡两级人大换届选举工作调研指导",
+  "title_en": "Provincial People's Congress Standing Committee Guides County and Township Election Work",
+  "summary_zh": "10月12日至15日，云南省人大常委会副主任任军号率队赴保山市、怒江州调研指导县乡两级人大换届选举工作，并提出具体要求。",
+  "summary_en": "From Oct 12 to 15, Ren Junhao, deputy director of the Yunnan Provincial People's Congress Standing Committee, led a team to Baoshan and Nujiang to guide county and township people's congress election work and set out specific requirements.",
+  "body_zh": "为扎实做好我省县乡两级人大换届选举工作，10月12日至15日，省人大常委会副主任任军号率队赴保山市、怒江傈僳族自治州，就县乡两级人大换届选举工作开展调研指导。\n调研组先后深入保山市昌宁县、隆阳区，怒江州泸水市所辖部分乡镇（街道）、村（社区）及高校，通过实地查看、现场指导、座谈交流等方式，详细了解两地换届选举工作进展情况，听取基层意见建议，并就做好下一阶段工作提出具体要求。\n调研组对两地前期换届选举工作给予充分肯定。强调要坚决贯彻落实党中央决策部署和省委工作要求，切实把党的领导贯穿换届选举各方面全过程，牢牢把握换届选举正确政治方向；要始终坚持依法办事，严格遵循法定程序，确保各个环节规范严谨；要严肃换届纪律，加强全过程监督，着力营造风清气正的选举环境；要充分用好信息系统平台，提升换届选举工作质效。各地要以高度政治责任感和扎实工作作风，依法有序、稳妥高效推进换届选举各项工作。\n省人大常委会办公厅、省人大常委会代表工作委员会有关同志参加调研。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "换届选举",
+    "人大工作",
+    "依法办事",
+    "换届纪律"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN-BS",
+      "name_zh": "保山",
+      "name_en": "Baoshan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "怒江",
+      "name_en": "Nujiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Election Turnover"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "依法办事",
+      "name_en": "Law-based Procedure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届纪律",
+      "name_en": "Election Discipline"
+    }
+  ],
+  "tags_zh": [
+    "保山",
+    "怒江",
+    "换届选举",
+    "人大工作",
+    "依法办事",
+    "换届纪律"
+  ],
+  "tags_en": [
+    "Baoshan",
+    "Nujiang",
+    "Election Turnover",
+    "People's Congress Work",
+    "Law-based Procedure",
+    "Election Discipline"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "段工作"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN-BS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261020-gov_bao_shan-bdb979",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20260902-gov_yue_yang-4bcc46",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2397687.html",
+  "title_zh": "市九届人大常委会举行第87次主任会议",
+  "title_en": "Yueyang Municipal People's Congress Standing Committee Holds 87th Directors' Meeting",
+  "summary_zh": "9月1日，岳阳市九届人大常委会举行第87次主任会议，副主任喻文主持，听取城市二次供水管理条例草案等事项。",
+  "summary_en": "On September 1, the 87th directors' meeting of the Standing Committee of the 9th Yueyang Municipal People's Congress was held, chaired by Vice Chairman Yu Wen. The meeting heard a draft regulation on urban secondary water supply.",
+  "body_zh": "9月1日，市九届人大常委会举行第87次主任会议。市人大常委会副主任喻文主持，副主任刘晓英、张中于、王文华、李勇、曾平原、廖星辉，秘书长王亚丹出席，副市长段宁列席。\n会议听取了市人民政府关于提请审议《岳阳市城市二次供水管理条例（草案）》的议案，市人大常委会外贸外资工作专题询问工作组关于外贸外资工作专题询问筹备工作情况的报告。\n会议研究了《市人大常委会执法检查组关于检查养老服务“两规定一条例”实施情况的报告》的审议意见，《市人民政府关于全市行政诉讼工作情况的报告》的审议意见，《市人民政府关于2025年度国有资产管理情况综合报告》的审议意见以及《市人大常委会审计查出突出问题整改监督工作方案（草案）》。\n会议还听取了人事事项以及其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "城市供水管理",
+    "养老服务",
+    "国有资产管理",
+    "外贸外资"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市供水管理",
+      "name_en": "Urban Water Supply Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有资产管理",
+      "name_en": "State-owned Asset Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外贸外资",
+      "name_en": "Foreign Trade and Investment"
+    }
+  ],
+  "tags_zh": [
+    "岳阳",
+    "城市供水管理",
+    "养老服务",
+    "国有资产管理",
+    "外贸外资"
+  ],
+  "tags_en": [
+    "Yueyang",
+    "Urban Water Supply Management",
+    "Elderly Care Services",
+    "State-owned Asset Management",
+    "Foreign Trade and Investment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "于提请"
+      },
+      {
+        "id": null,
+        "name_zh": "王亚丹"
+      },
+      {
+        "id": null,
+        "name_zh": "任喻文"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260902-gov_yue_yang-4bcc46",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

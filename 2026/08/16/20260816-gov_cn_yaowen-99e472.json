@@ -1,0 +1,104 @@
+{
+  "id": "20260816-gov_cn_yaowen-99e472",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/16/VIDE7IfTW6ugPX7m32gG1qmM260816.shtml",
+  "title_zh": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
+  "title_en": "Xi Jinping to Attend Grand Meeting Commemorating 100th Anniversary of Jiang Zemin's Birth",
+  "summary_zh": "纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂举行，习近平将出席并发表重要讲话。",
+  "summary_en": "A grand meeting commemorating the 100th anniversary of Comrade Jiang Zemin's birth will be held at 10 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping will attend and deliver an important speech.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平将出席大会并发表重要讲话。\n届时，中央广播电视总台所属中央电视台综合频道、新闻频道、中文国际频道、中国国际电视台英语频道，中央人民广播电台中国之声、大湾区之声、中国国际广播电台环球资讯广播等频率将现场直播；央视新闻、央视频、央视网及新华网等中央重点新媒体平台同步转播。\n[视频]纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话\n简介\n视频简介纪念江泽民同志诞辰100周年大会17日上午在京隆重举行，习近平将出席大会并发表重要讲话。",
+  "image_url": null,
+  "published_at": "2026-08-16T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "party",
+  "keywords": [
+    "纪念活动",
+    "百年诞辰"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江泽民",
+      "name_en": "Jiang Zemin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪念活动",
+      "name_en": "Commemorative Events"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "百年诞辰",
+      "name_en": "Centenary of Birth"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "江泽民",
+    "纪念活动",
+    "百年诞辰"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Jiang Zemin",
+    "Commemorative Events",
+    "Centenary of Birth"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260816-gov_cn_yaowen-99e472",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202608/t20260816_5073036.html",
+      "title_zh": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话-总书记信息-沈阳市人民政府",
+      "published_at": "2026-08-16T12:00:00+00:00"
+    },
+    {
+      "source": "gov_zhu_hai",
+      "source_tier": 4,
+      "url": "https://www.zhuhai.gov.cn/xw/xwzx/jrtt/content/post_3933027.html",
+      "title_zh": "今日头条",
+      "published_at": "2026-08-16T12:00:00+00:00"
+    },
+    {
+      "source": "gov_shan_nan",
+      "source_tier": null,
+      "url": "https://www.shannan.gov.cn/xwzx/ttxw/202608/t20260817_175041.html",
+      "title_zh": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

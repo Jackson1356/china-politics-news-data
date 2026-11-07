@@ -1,0 +1,105 @@
+{
+  "id": "20261106-gov_cn_yaowen-1da089",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/06/VIDExoHZNpSEUrNlnvA2PCCe261106.shtml",
+  "title_zh": "习近平签署国家主席令",
+  "title_en": "Xi Jinping Signs Presidential Orders Promulgating New Laws",
+  "summary_zh": "11月6日，国家主席习近平签署第八十六至九十一号主席令，公布检察公益诉讼法、南极活动与环境保护法、修订后的水法、反跨境腐败法等，并免去李乐成的工业和信息化部部长职务。",
+  "summary_en": "On Nov 6, President Xi Jinping signed Presidential Orders No. 86 to 91, promulgating laws on procuratorial public interest litigation, Antarctic activities and environmental protection, a revised Water Law and an anti-cross-border-corruption law, and removing Li Lecheng as minister of industry and information technology.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平11月6日签署第八十六号、第八十七号、第八十八号、第八十九号、第九十号、第九十一号主席令。\n第八十六号主席令说，《中华人民共和国检察公益诉讼法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日通过，现予公布，自2027年1月1日起施行。\n第八十七号主席令说，《中华人民共和国南极活动与环境保护法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日通过，现予公布，自2027年1月1日起施行。\n第八十八号主席令说，《中华人民共和国水法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日修订通过，现予公布，自2027年3月22日起施行。\n第八十九号主席令说，《中华人民共和国反跨境腐败法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日通过，现予公布，自公布之日起施行。\n第九十号主席令说，《全国人民代表大会常务委员会关于修改〈中华人民共和国突发事件应对法〉等十五部法律的决定》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日通过，现予公布，自公布之日起施行。\n第九十一号主席令说，根据中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日的决定：免去李乐成的工业和信息化部部长职务。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "国家主席令",
+    "立法",
+    "公益诉讼",
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人民代表大会常务委员会",
+      "name_en": "Standing Committee of the National People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家主席令",
+      "name_en": "Presidential Orders"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立法",
+      "name_en": "Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公益诉讼",
+      "name_en": "Public Interest Litigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "全国人民代表大会常务委员会",
+    "国家主席令",
+    "立法",
+    "公益诉讼",
+    "反腐败"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Standing Committee of the National People's Congress",
+    "Presidential Orders",
+    "Legislation",
+    "Public Interest Litigation",
+    "Anti-Corruption"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "全国人民代表大会常务委员会",
+        "name_en": "Standing Committee of the National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261106-gov_cn_yaowen-1da089",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

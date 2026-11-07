@@ -1,0 +1,105 @@
+{
+  "id": "20261104-peoples_nm-95dcc5",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nm.people.com.cn/n2/2026/1104/c196667-41741025.html",
+  "title_zh": "巴彦淖尔市秋粮收储工作全面展开",
+  "title_en": "Autumn Grain Procurement in Full Swing in Bayannur",
+  "summary_zh": "内蒙古巴彦淖尔市玉米收割结束后，全市秋粮收储全面展开，粮食加工企业与收储网点开秤收粮，保障农民售粮变现。",
+  "summary_en": "After corn harvesting ended in Bayannur, Inner Mongolia, local grain processors and purchasing depots have opened to buy autumn grain, helping farmers sell their crops and get paid on the spot.",
+  "body_zh": "巴彦淖尔市秋粮收储工作全面展开\n记者从巴彦淖尔市农牧局获悉，随着全市玉米收割工作结束，全市秋粮收储工作全面展开。各粮食加工企业及收储网点开秤收粮，全力保障农民“粮食变现”，确保秋粮颗粒归仓。\n在巴山淀粉厂的原料收购区，满载金黄色玉米的卡车排起长龙，抽样、过磅、卸粮、结算各环节秩序井然。作为巴彦淖尔市玉米深加工的重点企业，该企业早在两个月前就完成了设备检修与资金筹备，目前两条生产线满负荷运转，日收储能力达2000吨。\n“我们提前检修了仓容及烘干设备，只要符合收粮标准，我们就敞开收，有多少收多少，绝不让农民的粮食在车上过夜。”企业负责人赵龙表示。\n“以前收了玉米还得拉回家晾晒，既费事，又担心赶上坏天气导致粮食发霉。今年收储点负责统一烘干，玉米收割完直接就能售卖，价格也公开透明，当场就能结账，特别省心。”种植户高培青高兴地说。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "economy",
+  "keywords": [
+    "秋粮收储",
+    "粮食安全",
+    "玉米深加工"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "巴彦淖尔市农牧局",
+      "name_en": "Bayannur Agriculture and Animal Husbandry Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-BYNE",
+      "name_zh": "巴彦淖尔",
+      "name_en": "Bayannur"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮收储",
+      "name_en": "Autumn Grain Procurement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "玉米深加工",
+      "name_en": "Corn Deep Processing"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-long-fujian",
+      "name_zh": "赵龙",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "巴彦淖尔市农牧局",
+    "巴彦淖尔",
+    "秋粮收储",
+    "粮食安全",
+    "玉米深加工",
+    "赵龙"
+  ],
+  "tags_en": [
+    "Bayannur Agriculture and Animal Husbandry Bureau",
+    "Bayannur",
+    "Autumn Grain Procurement",
+    "Food Security",
+    "Corn Deep Processing"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-long-fujian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-BYNE"
+    ],
+    "companies": [
+      {
+        "name_zh": "巴彦淖尔市农牧局",
+        "name_en": "Bayannur Agriculture and Animal Husbandry Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261104-peoples_nm-95dcc5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

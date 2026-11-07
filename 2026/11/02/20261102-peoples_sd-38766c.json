@@ -1,0 +1,91 @@
+{
+  "id": "20261102-peoples_sd-38766c",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/1102/c166194-41738976.html",
+  "title_zh": "山东海阳核电项目三期工程开工建设",
+  "title_en": "Phase III of Shandong Haiyang Nuclear Power Project Begins Construction",
+  "summary_zh": "10月31日，国家电投山东海阳核电5号机组核岛开始浇筑第一罐混凝土，标志着海阳核电三期工程正式开工，为“十五五”时期山东首个开工核电项目。",
+  "summary_en": "On Oct 31, first concrete was poured for Unit 5's nuclear island at SPIC's Haiyang plant, marking the start of Phase III, Shandong's first nuclear project under the 15th Five-Year Plan.",
+  "body_zh": "山东海阳核电项目三期工程开工建设\n本报济南11月1日电 （记者侯琳良、王云杉）10月31日，国家“十五五”规划重点项目——国家电投山东海阳核电5号机组核岛开始浇筑第一罐混凝土，标志着海阳核电三期工程正式开工建设。\n海阳核电厂址分三期规划建设6台百万千瓦级核电机组，总装机760万千瓦。此次开工的三期工程5、6号机组采用国产化第三代先进非能动压水堆核电技术，是“十五五”时期山东省首个开工的核电项目。随着三期工程正式开工建设，海阳核电进入“群堆建设、群堆运行”新阶段，核能多元开发与集群化发展格局正在加快构建。\n《 人民日报 》（ 2026年11月02日 06 版）",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-10-31",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "industry",
+  "keywords": [
+    "核电建设",
+    "十五五规划",
+    "清洁能源"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "海阳",
+      "name_en": "Haiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核电建设",
+      "name_en": "Nuclear Power Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    }
+  ],
+  "tags_zh": [
+    "山东",
+    "海阳",
+    "核电建设",
+    "十五五规划",
+    "清洁能源"
+  ],
+  "tags_en": [
+    "Shandong",
+    "Haiyang",
+    "Nuclear Power Construction",
+    "15th Five-Year Plan",
+    "Clean Energy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261102-peoples_sd-38766c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

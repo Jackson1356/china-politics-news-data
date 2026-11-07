@@ -1,0 +1,101 @@
+{
+  "id": "20260919-bjnews-2ec2e9",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789780110129347.html",
+  "title_zh": "何立峰于9月19日至23日率团赴美国与美方举行经贸磋商",
+  "title_en": "He Lifeng to Lead Delegation to U.S. for Trade Talks from September 19 to 23",
+  "summary_zh": "经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于9月19日至23日率团赴美国举行经贸磋商，就彼此关心的经贸问题开展磋商。",
+  "summary_en": "China and the U.S. have agreed that Vice Premier He Lifeng will lead a delegation to the United States from September 19 to 23 for trade and economic consultations on issues of mutual concern.",
+  "body_zh": "新京报讯 据商务部消息，商务部新闻发言人就中美经贸磋商有关问题答记者问。\n有记者问：近期有消息称，中美双方将很快举行下一轮经贸磋商，请问商务部是否有最新消息？\n答：经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于9月19日—23日率团赴美国与美方举行经贸磋商。双方将以两国元首重要共识为引领，就彼此关心的经贸问题开展磋商。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸磋商",
+    "经贸关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸磋商",
+      "name_en": "China-U.S. Trade Consultations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸关系",
+      "name_en": "Trade and Economic Relations"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "商务部",
+    "国务院",
+    "美国",
+    "中美经贸磋商",
+    "经贸关系"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "Ministry of Commerce",
+    "State Council",
+    "United States",
+    "China-U.S. Trade Consultations",
+    "Trade and Economic Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "MOFCOM",
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260919-bjnews-2ec2e9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

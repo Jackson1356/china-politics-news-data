@@ -1,0 +1,113 @@
+{
+  "id": "20260617-cpcnews-f5cadb",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0617/c64094-40741972.html",
+  "title_zh": "王毅同巴基斯坦副总理兼外长达尔通电话",
+  "title_en": "Wang Yi Holds Phone Call with Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar",
+  "summary_zh": "6月16日，外交部长王毅同巴基斯坦副总理兼外长达尔通电话，就伊美达成第一阶段谅解备忘录及中东和平稳定交换意见。",
+  "summary_en": "On June 16, Foreign Minister Wang Yi held a phone call with Pakistani Deputy PM and Foreign Minister Ishaq Dar to discuss the first-stage MOU between Iran and the US and peace in the Middle East.",
+  "body_zh": "新华社北京6月16日电 中共中央政治局委员、外交部长王毅16日晚同巴基斯坦副总理兼外长达尔通电话。\n达尔通报了伊朗与美国达成第一阶段谅解备忘录情况，感谢中方在过去几个月同巴方保持密切沟通，对巴方斡旋努力予以宝贵支持。巴方期待同中方继续沟通协调，维持当前和谈势头，共同为实现地区持久和平稳定发挥积极作用。\n王毅祝贺巴基斯坦推动伊美达成第一阶段谅解备忘录，强调为和平而努力是包括中巴在内所有国家应尽的国际责任。只要和平还有希望，就值得为此付出。战事发生以来，中方同各方开展接触，积极止战促和，从一开始就力挺巴方，向各方强调巴是值得信赖的斡旋者，也以自己的方式分别做了伊朗和美国工作。\n王毅表示，行百里者半九十，目前的共识远非终点，而是新的起点，中东海湾地区持久和平仍需各方不懈努力。可以预见同第一阶段相比，第二阶段谈判的难度将更大。但中方认为不能走回头路，更不能重新诉诸武力。国际社会应当进一步为伊美谈判提供助力，联合国安理会等多边机构也应发挥更大作用。中方一直主张地区国家要把前途命运掌握在自己手中，希望通过对话协商探讨地区所有国家共同参与的和平安全架构。和平的大门既已打开，就不应再次关上。中东地区饱受战火摧残，中东人民值得拥有和平。中方愿同巴方一道，劝和不停歇，促谈不止步，为早日恢复中东和平稳定与发展继续作出努力。\n《 人民日报 》（ 2026年06月17日 03 版）",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "中东和平",
+    "外交斡旋",
+    "中巴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "达尔",
+      "name_en": "Ishaq Dar"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "巴基斯坦",
+      "name_en": "Pakistan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东和平",
+      "name_en": "Middle East Peace"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交斡旋",
+      "name_en": "Diplomatic Mediation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Pakistan Relations"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "达尔",
+    "北京",
+    "巴基斯坦",
+    "中东和平",
+    "外交斡旋",
+    "中巴关系"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ishaq Dar",
+    "Beijing",
+    "Pakistan",
+    "Middle East Peace",
+    "Diplomatic Mediation",
+    "China-Pakistan Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-cc498d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0617/c1001-40741757.html",
+      "title_zh": "王毅同巴基斯坦副总理兼外长达尔通电话",
+      "published_at": "2026-06-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

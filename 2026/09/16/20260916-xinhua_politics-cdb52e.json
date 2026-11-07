@@ -1,0 +1,110 @@
+{
+  "id": "20260916-xinhua_politics-cdb52e",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260916/8f1dc48761df4c51b4c4ef77ec225906/c.html",
+  "title_zh": "文化和旅游部印发《文化和旅游发展“十五五”规划》",
+  "title_en": "Ministry of Culture and Tourism Issues 15th Five-Year Plan for Culture and Tourism Development",
+  "summary_zh": "文化和旅游部近日印发《文化和旅游发展“十五五”规划》，提出到2030年推进文化强国、旅游强国建设，部署八个方面重点任务和54个重点工程项目。",
+  "summary_en": "China's Ministry of Culture and Tourism has issued the 15th Five-Year Plan for Culture and Tourism Development, aiming to advance the building of a strong culture and tourism nation by 2030, with eight key tasks and 54 major projects.",
+  "body_zh": "新华社北京9月16日电 文化和旅游部近日印发《文化和旅游发展“十五五”规划》。\n规划提出，到2030年，文化强国、旅游强国建设纵深推进，文化事业、文化产业和旅游业持续繁荣，文化和旅游深度交融、相得益彰，文化赋能、旅游带动作用充分显现，人民精神文化生活更加丰富，中华文化影响力显著增强，国家软实力持续提高。\n规划对繁荣艺术创作生产、加强文化遗产保护传承、完善文化和旅游公共服务、大力发展文化和旅游产业、统筹文化和旅游市场培育监管、推动科技赋能文化和旅游发展、推进文化和旅游交流合作、促进区域城乡文化和旅游协调发展等八个方面重点任务作出全面部署。在充分论证的基础上设计54个重点工程项目，确保务实可行，强化规划实施支撑。\n规划要求，推进文化和旅游领域治理体系和治理能力现代化，完善体制机制、政策法规和资源要素保障，为规划落地实施创造良好条件。加强部门协调和上下联动，健全规划实施机制，树立和践行正确政绩观，以文化和旅游发展新成效回应人民群众新要求新期待。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "十五五规划",
+    "文化和旅游融合发展",
+    "文化产业",
+    "旅游强国"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCT",
+      "name_zh": "文化和旅游部",
+      "name_en": "Ministry of Culture and Tourism"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化和旅游融合发展",
+      "name_en": "Integrated Culture and Tourism Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化产业",
+      "name_en": "Cultural Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游强国",
+      "name_en": "Tourism Power"
+    }
+  ],
+  "tags_zh": [
+    "文化和旅游部",
+    "北京",
+    "十五五规划",
+    "文化和旅游融合发展",
+    "文化产业",
+    "旅游强国"
+  ],
+  "tags_en": [
+    "Ministry of Culture and Tourism",
+    "Beijing",
+    "15th Five-Year Plan",
+    "Integrated Culture and Tourism Development",
+    "Cultural Industry",
+    "Tourism Power"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260916-xinhua_politics-cdb52e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20260917/34675128dfba4cfaa5bb2c58a8fc9f1b/c.html",
+      "title_zh": "文化和旅游部印发《文化和旅游发展“十五五”规划》",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

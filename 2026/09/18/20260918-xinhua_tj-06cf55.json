@@ -1,0 +1,129 @@
+{
+  "id": "20260918-xinhua_tj-06cf55",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20260918/44b9a92ecb634e5d860befbfadcc97a6/c.html",
+  "title_zh": "陈敏尔会见英国驻华大使魏磊",
+  "title_en": "Chen Min'er Meets with UK Ambassador to China Peter Wilson",
+  "summary_zh": "9月17日，天津市委书记陈敏尔在天津会见英国驻华大使魏磊一行，双方就经贸金融、教育医疗、人工智能、绿色低碳等领域合作交换意见。",
+  "summary_en": "On September 17, Tianjin Party Secretary Chen Min'er met in Tianjin with UK Ambassador to China Peter Wilson and his delegation, discussing cooperation in trade, finance, education, healthcare, AI and green development.",
+  "body_zh": "9月17日，市委书记陈敏尔会见了来津访问的英国驻华大使魏磊一行。市领导王力军、胡学明参加。\n陈敏尔代表市委、市政府对魏磊一行来津访问表示欢迎。他说，9月8日，习近平主席应约同伯纳姆首相通电话，为两国关系发展提供战略指引。天津是中央直辖市，在京津冀协同发展中地位重要，拥有区位、港口、产业、科教人才等优势。我们深入贯彻落实习近平主席视察天津重要讲话精神，坚持智能化、绿色化、融合化方向，加快构建现代化产业体系，扎实推动高质量发展，全面建设社会主义现代化大都市。愿落实好两国领导人重要共识，聚焦人工智能、生物医药、健康养老、教育文旅、绿色低碳等领域，推动交流交往、务实合作百尺竿头更进一步，为中英长期稳定的全面战略伙伴关系发展作出更大贡献。天津将持续营造市场化、法治化、国际化一流营商环境，为企业在津发展提供优质高效服务。\n魏磊回顾了英国有关机构、企业与天津友好合作成果。他表示，英国与天津有着广泛深入的联系、活跃的投资和人员往来。将以两国领导人重要共识为指引，加强双方在经贸金融、教育医疗、城市更新等领域交流合作，促进友好关系更上一层楼。\n英国驻华使馆有关人员，市有关部门负责同志参加。（记者 于春沣 刘国栋）",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中英关系",
+    "务实合作",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-miner",
+      "name_zh": "陈敏尔",
+      "name_en": "Chen Min'er"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "魏磊",
+      "name_en": "Peter Wilson"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中英关系",
+      "name_en": "China-UK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wang-lijun",
+      "name_zh": "王力军",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-min-jiangxi",
+      "name_zh": "陈敏",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈敏尔",
+    "魏磊",
+    "天津",
+    "中英关系",
+    "务实合作",
+    "营商环境",
+    "习近平",
+    "王力军",
+    "陈敏"
+  ],
+  "tags_en": [
+    "Chen Min'er",
+    "Peter Wilson",
+    "Tianjin",
+    "China-UK Relations",
+    "Pragmatic Cooperation",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-miner",
+      "chen-min-jiangxi",
+      "xi-jinping",
+      "wang-lijun",
+      {
+        "id": null,
+        "name_zh": "胡学明"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260918-xinhua_tj-06cf55",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

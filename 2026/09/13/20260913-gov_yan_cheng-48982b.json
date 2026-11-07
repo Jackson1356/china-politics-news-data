@@ -1,0 +1,105 @@
+{
+  "id": "20260913-gov_yan_cheng-48982b",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/9/13/art_49_4453463.html",
+  "title_zh": "严汉平会见韩国驻华大使卢载宪一行",
+  "title_en": "Yan Hanping Meets with ROK Ambassador to China Roh Jae-heon",
+  "summary_zh": "9月12日下午，盐城市委书记严汉平在盐城会见韩国驻华大使卢载宪一行，双方就深化产业协同、贸易投资和文旅合作交换意见。",
+  "summary_en": "On September 12, Yancheng Party Secretary Yan Hanping met with ROK Ambassador to China Roh Jae-heon in Yancheng to discuss deeper cooperation in industry, trade, investment and culture.",
+  "body_zh": "9月12日下午，市委书记严汉平会见率团来盐访问的韩国驻华大使卢载宪一行。\n严汉平对卢载宪时隔3个多月再次到访盐城表示欢迎，并介绍盐城对韩合作取得的新进展新成效。他说，今年以来，盐城对韩进出口贸易大幅增长，来盐韩国游客数量持续攀升，在盐韩资企业发展态势良好。在刚刚举行的2026跨国公司江苏行—盐城零碳产业园国际合作交流会上，又有一批韩资项目成功签约，为双方深化合作奠定了坚实基础。我们愿同大使先生及各位新老朋友一道，进一步增进产业协同、贸易投资、文商体旅等领域的务实合作，推动更多优质项目落地见效，携手开创互利共赢新局面。\n卢载宪对盐城经济社会发展取得的成效表示赞赏。他说，韩中两国是重要近邻和合作伙伴，中韩（盐城）产业园是两国合作的重要载体，已有800多家韩资企业在盐投资兴业，双方经贸往来与人文交流日益密切。韩国驻华大使馆将继续发挥桥梁纽带作用，推动韩国各界加深对盐城的了解，鼓励更多韩国企业来盐投资兴业，促进产业项目合作和青少年文体交流，推动两地合作不断迈上新台阶。\n韩国驻华使领馆、经贸机构、企业代表，省外办副主任金尚军，市领导唐敬、张乃文参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-13T12:00:00+00:00",
+  "event_date": "2026-09-12",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中韩合作",
+    "经贸投资",
+    "产业协同"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢载宪",
+      "name_en": "Roh Jae-heon"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中韩合作",
+      "name_en": "China-ROK Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸投资",
+      "name_en": "Trade and Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业协同",
+      "name_en": "Industrial Synergy"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "卢载宪",
+    "盐城",
+    "中韩合作",
+    "经贸投资",
+    "产业协同"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Roh Jae-heon",
+    "Yancheng",
+    "China-ROK Cooperation",
+    "Trade and Investment",
+    "Industrial Synergy"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "张乃文"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260913-gov_yan_cheng-48982b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

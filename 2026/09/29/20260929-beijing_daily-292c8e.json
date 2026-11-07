@@ -1,0 +1,102 @@
+{
+  "id": "20260929-beijing_daily-292c8e",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/29/11977657.shtml",
+  "title_zh": "农业农村部部长张柱：今年又是一个丰收年",
+  "title_en": "Agriculture Minister Zhang Zhu: Another Bumper Harvest Year",
+  "summary_zh": "9月29日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，农业农村部部长张柱介绍加快农业农村现代化、推进乡村全面振兴有关情况，并表示今年又是一个丰收年。",
+  "summary_en": "On September 29, the State Council Information Office held a press conference on the 15th Five-Year Plan, where Agriculture Minister Zhang Zhu briefed on agricultural modernization and rural revitalization, saying this year marks another bumper harvest.",
+  "body_zh": "9月29日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，农业农村部部长张柱介绍“十五五”时期加快农业农村现代化、扎实推进乡村全面振兴有关情况，并答记者问。\n张柱说，我们的粮食安全是有充分保障的。我国粮食产量连续2年稳定在1.4万亿斤以上，人均粮食占有量超过了500公斤，做到了谷物基本自给、口粮绝对安全，把中国人的饭碗牢牢端在自己手中。秋分已过，今年又是一个丰收年。目前，夏粮已丰收到手，早稻实现了稳产，关键要看秋粮。秋粮是全年粮食生产的大头，约占总产量的3/4，今年面积预计稳中有增，特别是高产作物玉米增加较多。在全球粮食市场加剧波动的背景下，我国粮食稳产保供根基稳、底气足。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "乡村振兴",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-zhu-mara",
+      "name_zh": "张柱",
+      "name_en": "Zhang Zhu"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "张柱",
+    "农业农村部",
+    "国务院新闻办公室",
+    "粮食安全",
+    "乡村振兴",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "Zhang Zhu",
+    "Ministry of Agriculture and Rural Affairs",
+    "State Council Information Office",
+    "Food Security",
+    "Rural Revitalization",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-zhu-mara"
+    ],
+    "institutions": [
+      "MARA",
+      "SCIO"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260929-beijing_daily-292c8e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

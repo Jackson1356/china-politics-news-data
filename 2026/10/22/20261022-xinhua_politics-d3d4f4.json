@@ -1,0 +1,101 @@
+{
+  "id": "20261022-xinhua_politics-d3d4f4",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261022/b14f68d97add438eb8cae3ed3f247c7a/c.html",
+  "title_zh": "“党的创新理论大家读”丛书（第一辑）出版发行",
+  "title_en": "Book Series \"Reading the Party's Innovative Theory Together\" (Volume 1) Published and Released",
+  "summary_zh": "中央宣传部理论局组织专家学者编写的“党的创新理论大家读”丛书第一辑共5册，近日由人民出版社、学习出版社联合出版发行。",
+  "summary_en": "The first five-volume set of the \"Reading the Party's Innovative Theory Together\" series, compiled by the Theoretical Bureau of the CPC Central Committee's Publicity Department, has been jointly published by the People's Publishing House and the Xuexi Publishing House.",
+  "body_zh": "新华社北京10月22日电 为进一步推进党的创新理论学习传播和研究阐释，更好推动习近平新时代中国特色社会主义思想入脑入心，中央宣传部理论局组织一批知名专家学者围绕党的创新理论标识性概念撰写大众学术读物，编辑形成“党的创新理论大家读”丛书。近日，丛书（第一辑）已由人民出版社、学习出版社联合出版发行。\n丛书（第一辑）包括《读懂新时代》《读懂中国式现代化》《推动高质量发展》《构建新发展格局》《发展全过程人民民主》等5册。该丛书紧紧围绕党的创新理论的新思想新观点新论断展开阐释，力求把蕴含其中的道理学理哲理讲清楚、讲鲜活，同时又体现个人学术积累和研究风格，帮助读者进一步加深对习近平新时代中国特色社会主义思想的领会与把握。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "party",
+  "keywords": [
+    "党的创新理论",
+    "习近平新时代中国特色社会主义思想",
+    "理论读物出版"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Publicity Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的创新理论",
+      "name_en": "Party's Innovative Theory"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "习近平新时代中国特色社会主义思想",
+      "name_en": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论读物出版",
+      "name_en": "Theoretical Publications"
+    }
+  ],
+  "tags_zh": [
+    "中央宣传部",
+    "北京",
+    "党的创新理论",
+    "习近平新时代中国特色社会主义思想",
+    "理论读物出版"
+  ],
+  "tags_en": [
+    "Publicity Department of the CPC Central Committee",
+    "Beijing",
+    "Party's Innovative Theory",
+    "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+    "Theoretical Publications"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CCPD"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261022-xinhua_politics-d3d4f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/1023/c64387-40820130.html",
+      "title_zh": "“党的创新理论大家读”丛书（第一辑）出版发行",
+      "published_at": "2026-10-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

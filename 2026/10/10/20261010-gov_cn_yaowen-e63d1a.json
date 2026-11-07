@@ -1,0 +1,111 @@
+{
+  "id": "20261010-gov_cn_yaowen-e63d1a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082940.htm",
+  "title_zh": "全国秋粮收获进度过半 秋冬种陆续展开",
+  "title_en": "China's Autumn Grain Harvest Passes Halfway Mark as Winter Planting Begins",
+  "summary_zh": "农业农村部农情调度显示，截至10月上旬全国秋粮收获过半，黑龙江、吉林、陕西、河南等地秋收秋种同步推进，农业农村部派6个工作组赴12个重点省份指导“三秋”生产。",
+  "summary_en": "China's Ministry of Agriculture and Rural Affairs reports that over half of the national autumn grain harvest is complete, with winter wheat planting underway in provinces such as Heilongjiang, Jilin, Shaanxi and Henan, as six working groups are dispatched to 12 key provinces.",
+  "body_zh": "“寒露”已至，全国秋收进入高峰。农业农村部最新农情调度显示，我国秋粮收获过半，秋冬种陆续展开。\n黑龙江是我国大豆主产区，北安市的10万多亩大豆已开始集中收获。当地今年扩种耐旱早熟高产品种“黑科71”，挖掘大豆增产潜力，同时根据地块条件调配农机，降低田间损失率。\n在吉林榆树，90万亩水稻进入收获高峰期。今年当地大力推广水稻机械化作业，机收占比达90%。\n眼下，关中平原1000多万亩玉米也进入大规模收获期。在陕西渭南的华山农场，10万亩玉米正连夜抢收。液压翻转犁紧跟收割机，收后马上整地，秸秆全部还田。\n这几天，河南秋收接近尾声，冬小麦秋播同步进行。在新乡封丘县，当地依托智慧农事服务平台，把秋播所需农资配送到田间，已覆盖19个乡镇13000多个农户，为农户节约化肥等种植成本210多万元。\n近日，农业农村部派出6个工作组和科技小分队，赴12个秋收秋种重点省份，推进落实“三秋”农业生产重点工作，指导各地落实精细整地、冬前田间管理等关键措施，确保秋收、秋种进展顺利。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "秋收秋种",
+    "农业机械化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋收秋种",
+      "name_en": "Autumn Harvest and Planting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "黑龙江",
+    "吉林",
+    "河南",
+    "粮食安全",
+    "秋收秋种",
+    "农业机械化"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Heilongjiang",
+    "Jilin",
+    "Henan",
+    "Food Security",
+    "Autumn Harvest and Planting",
+    "Agricultural Mechanization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-HL",
+      "CN-JL",
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261010-gov_cn_yaowen-e63d1a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

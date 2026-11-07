@@ -1,0 +1,88 @@
+{
+  "id": "20260804-peoples_js-f2501b",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0804/c360301-41658122.html",
+  "title_zh": "无锡推出17条举措构建为企服务新生态",
+  "title_en": "Wuxi Rolls Out 17 Measures to Build New Enterprise Service Ecosystem",
+  "summary_zh": "8月3日，无锡发布《无锡市企业综合服务体系建设方案》，提出17项具体任务，整合涉企服务资源，构建全链条、全周期、一站式、智慧化服务新生态。",
+  "summary_en": "On August 3, Wuxi released the Plan for Building a Comprehensive Enterprise Service System, proposing 17 specific tasks to integrate enterprise-related services and create a full-chain, full-cycle, one-stop, smart service ecosystem.",
+  "body_zh": "无锡推出17条举措构建为企服务新生态\n8月3日，《无锡市企业综合服务体系建设方案》发布。据《新华日报》报道，方案围绕构建网络、做实服务、智慧赋能、闭环管理、拓展生态、强化保障，提出6个方面17项具体任务。\n方案核心任务是系统性整合分散在各部门的涉企服务资源，为企业构建全链条、全周期、一站式、智慧化的服务新生态。线下专区实行“一窗受理、分类转办”，整合政务、金融、人才、法律等多领域资源；线上做强“锡企服务平台”总入口，依托人工智能技术提升咨询响应效率。同时，搭建统一的“企业服务超市”，逐步整合涉审中介、金融服务、知识产权、法律咨询等专业服务，实现服务机构“一地入驻、全市通行”。\n无锡围绕企业全生命周期持续夯实服务底座，61项国定、省定“高效办成一件事”重点事项全部落地，18项特色“一件事”创新应用上线，项目审批时限压缩至60个工作日内，累计推动551个项目实现“拿地即开工、拿地快开工”。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "economy",
+  "keywords": [
+    "企业服务",
+    "营商环境",
+    "政务服务"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "企业服务",
+      "name_en": "Enterprise Service"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政务服务",
+      "name_en": "Government Services"
+    }
+  ],
+  "tags_zh": [
+    "无锡",
+    "企业服务",
+    "营商环境",
+    "政务服务"
+  ],
+  "tags_en": [
+    "Wuxi",
+    "Enterprise Service",
+    "Business Environment",
+    "Government Services"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260804-peoples_js-f2501b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

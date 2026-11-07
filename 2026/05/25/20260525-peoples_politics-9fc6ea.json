@@ -1,0 +1,126 @@
+{
+  "id": "20260525-peoples_politics-9fc6ea",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0525/c1001-40727137.html",
+  "title_zh": "彭丽媛同塞尔维亚总统夫人塔玛拉参观北京舞蹈学院",
+  "title_en": "Peng Liyuan Visits Beijing Dance Academy with Serbian First Lady Tamara",
+  "summary_zh": "5月25日下午，彭丽媛同塞尔维亚总统夫人塔玛拉参观北京舞蹈学院，双方就加强两国文化艺术交流进行探讨。",
+  "summary_en": "On May 25, Peng Liyuan visited the Beijing Dance Academy with Serbian First Lady Tamara to promote cultural and artistic exchanges between the two nations.",
+  "body_zh": "彭丽媛同塞尔维亚总统夫人塔玛拉参观北京舞蹈学院\n新华社北京5月25日电（记者温馨）5月25日下午，国家主席习近平夫人彭丽媛和陪同塞尔维亚总统武契奇来华进行国事访问的总统夫人塔玛拉参观北京舞蹈学院。\n两国元首夫人来到学院舞蹈博物馆，了解中国舞蹈发展历史。在教学区，彭丽媛和塔玛拉饶有兴致地观摩了中国舞、芭蕾舞等舞蹈的教学情况，随后共同欣赏学生们的剧目实践展示，并同师生们亲切交流，现场气氛热烈友好。\n彭丽媛表示，舞蹈艺术可以跨越国界，传递文化和思想，在人文交流互鉴中发挥独特作用。希望两国艺术家加强交流合作，创作出更多优秀作品。塔玛拉感谢彭丽媛的精心安排，表示愿积极推动两国文化艺术等领域交流，为深化塞中友好贡献力量。",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "人文交流",
+    "中塞关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "彭丽媛",
+      "name_en": "Peng Liyuan"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "塔玛拉",
+      "name_en": "Tamara"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京舞蹈学院",
+      "name_en": "Beijing Dance Academy"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Serbia Relations"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "彭丽媛",
+    "塔玛拉",
+    "北京舞蹈学院",
+    "北京",
+    "人文交流",
+    "中塞关系"
+  ],
+  "tags_en": [
+    "Peng Liyuan",
+    "Tamara",
+    "Beijing Dance Academy",
+    "Beijing",
+    "Cultural Exchange",
+    "China-Serbia Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "彭丽媛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京舞蹈学院",
+        "name_en": "Beijing Dance Academy"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260525-peoples_politics-9fc6ea",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070215.htm",
+      "title_zh": "彭丽媛同塞尔维亚总统夫人塔玛拉参观北京舞蹈学院",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/05-25/10628451.shtml",
+      "title_zh": "彭丽媛同塞尔维亚总统夫人塔玛拉参观北京舞蹈学院",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

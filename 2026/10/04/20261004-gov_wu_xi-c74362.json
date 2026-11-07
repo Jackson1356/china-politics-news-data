@@ -1,0 +1,103 @@
+{
+  "id": "20261004-gov_wu_xi-c74362",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/10/04/4838635.shtml",
+  "title_zh": "上汽集团来锡对接深化合作",
+  "title_en": "SAIC Motor Visits Wuxi to Deepen Cooperation",
+  "summary_zh": "10月3日，上汽集团副总裁杨怀景一行来无锡对接深化合作，市委书记蒋锋与代表团会谈，双方围绕深化务实合作、加速项目落地深入交流。",
+  "summary_en": "On Oct 3, a SAIC Motor delegation led by Vice President Yang Huaijing visited Wuxi for talks with Party Secretary Jiang Feng on deepening cooperation and speeding up project implementation.",
+  "body_zh": "发布时间：2026-10-04 08:46 文字大小： [ 大 中 小 ] 浏览次数：\n10月3日，上汽集团来锡对接深化合作。市委书记蒋锋与上汽集团副总裁、上汽商用车执管会主席、上海新动力汽车科技股份有限公司董事长杨怀景一行会谈，双方围绕进一步深化务实合作、加速项目落地进行深入交流。市领导刘建东、周文栋，无锡高新区负责同志参加会谈。\n蒋锋感谢上汽集团长期以来对无锡发展给予的关心支持。他表示，当前无锡正认真学习贯彻习近平总书记关于发展先进制造业的重要指示精神和对江苏工作重要讲话精神，立足独特的工商基因和实业禀赋，深入实施产业强市主导战略，持续做大做强先进制造业，加快构建以先进制造业为骨干的现代化产业体系，打造新时代工商名城。上汽集团是我国先进制造业的标杆，近年来双方合作持续深化、成效日益显现。期待双方以此次会谈为契机，在加快既定合作项目建设的同时，聚焦算力配套动力、新型燃气轮机等新兴赛道，各扬所长、互补优势，加强产业链、供应链全方位合作，在锡布局更多增量项目，不断拓展互利共赢新空间。无锡将以更加优质高效的政务服务和要素保障，全力支持上汽集团开拓新兴市场、持续做大做强，携手服务制造强国建设大局。\n杨怀景感谢无锡各级对上汽集团发展的关心支持。他表示，无锡产业配套完善、创新氛围浓厚、营商环境优越，当前又把人工智能、先进制造作为今后重点培育的产业领域，十分契合上汽集团未来的战略所向、发展所需。迈入“十五五”，上汽集团将充分发挥自身优势，进一步深耕无锡、加码无锡，不断拓展合作领域、提升合作层级，共同抢抓新一轮科技革命和产业变革带来的发展新机遇。",
+  "image_url": null,
+  "published_at": "2026-10-04T12:00:00+00:00",
+  "event_date": "2026-10-03",
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "economy",
+  "keywords": [
+    "先进制造业",
+    "产业链供应链合作",
+    "政企合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-feng-wuxi",
+      "name_zh": "蒋锋",
+      "name_en": "Jiang Feng"
+    },
+    {
+      "kind": "institution",
+      "id": "SH-INDUSTRIAL",
+      "name_zh": "上汽集团",
+      "name_en": "SAIC Motor"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链供应链合作",
+      "name_en": "Industrial and Supply Chain Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政企合作",
+      "name_en": "Government-Enterprise Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "蒋锋",
+    "上汽集团",
+    "无锡",
+    "先进制造业",
+    "产业链供应链合作",
+    "政企合作"
+  ],
+  "tags_en": [
+    "Jiang Feng",
+    "SAIC Motor",
+    "Wuxi",
+    "Advanced Manufacturing",
+    "Industrial and Supply Chain Cooperation",
+    "Government-Enterprise Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-feng-wuxi"
+    ],
+    "institutions": [
+      "SH-INDUSTRIAL"
+    ],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261004-gov_wu_xi-c74362",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

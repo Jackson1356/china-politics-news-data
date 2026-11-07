@@ -1,0 +1,104 @@
+{
+  "id": "20260516-peoples_ha-6099bb",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_url": "http://ha.people.com.cn/n2/2026/0521/c351638-41586401.html",
+  "title_zh": "国家人工智能应用中试基地（具身智能）在杭州挂牌启用",
+  "title_en": "National AI Application Pilot Base for Embodied Intelligence Unveiled in Hangzhou",
+  "summary_zh": "5月16日，国家人工智能应用中试基地（具身智能）在浙江杭州市挂牌启用，旨在推动具身智能技术从实验室走向现实应用，构建完整产业生态。",
+  "summary_en": "On May 16, the National AI Application Pilot Base (Embodied Intelligence) was unveiled in Hangzhou, Zhejiang, to facilitate the transition of embodied AI from labs to real-world applications.",
+  "body_zh": "机器人有了国家级职业技能训练场\n5月16日，国家人工智能应用中试基地（具身智能）在浙江杭州市挂牌启用，机器人有了国家级职业技能训练场。\n具身智能是人工智能从虚拟走向现实的重要发展方向，正快速从实验室走向场景应用新阶段。中试基地则是国家“人工智能+”战略部署的重要落子与载体。\n融入日常，打造未来生活生产“样板间”——\n“马上为您服务！”走进国家人工智能应用中试基地展厅，机器人“咖啡师”将咖啡送至餐台前，引得参观者感叹：“科幻变成了现实！”\n从餐饮服务、无人超市、赛会演艺到电力巡检、果实采摘、井下作业……30多个应用导向的职业技能训练场景中，130多个“机器人员工”各司其职、有序作业。据了解，中试基地打造了集场景体验、技术展示、研发合作、产业赋能于一体的综合性展示应用推广平台，既展示已经开发落地的商业应用场景，也展示数据采集和技能训练过程，引导具身智能技术进一步从实验室迈向现实社会应用。\n深度合作，打造完整产业生态——\n我国在机器人技术和产业链上具备的优势主要以“点状”呈现，部分企业在机器人运动控制和智能机械手生产制造方面展露明显优势。\n国家人工智能应用中试基地建设运营方杭州具身智能中试基地科技有限公司副总经理李兴腾表示，中试基地希望通过打造平台，与机器人企业以及产业链上下游企业深度合作，进一步将“点状”优势转化为产业链优势。中试基地将致力于构建以算力保障、数据开放、模型服务、场景验证为关键的公共技术服务平台，构造从算力、芯片到本体、模型研发再到应用场景开发的完整产业生态，形成链接全国、赋能上下游各类主体的能力。\n（据新华社电）\n《 人民日报 》（ 2026年05月21日 10 版）",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-16",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "具身智能",
+    "人工智能+战略"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "具身智能",
+      "name_en": "Embodied Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能+战略",
+      "name_en": "AI Plus Strategy"
+    }
+  ],
+  "tags_zh": [
+    "杭州",
+    "人工智能",
+    "具身智能",
+    "人工智能+战略"
+  ],
+  "tags_en": [
+    "Hangzhou",
+    "Artificial Intelligence",
+    "Embodied Intelligence",
+    "AI Plus Strategy"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李兴腾"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260516-peoples_ha-6099bb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_zj",
+      "source_tier": 3,
+      "url": "http://zj.people.com.cn/n2/2026/0521/c186327-41586441.html",
+      "title_zh": "机器人有了国家级职业技能训练场",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0521/c194063-41586436.html",
+      "title_zh": "机器人有了国家级职业技能训练场",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0521/c378440-41586399.html",
+      "title_zh": "机器人有了国家级职业技能训练场",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

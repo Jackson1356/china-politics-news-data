@@ -1,0 +1,98 @@
+{
+  "id": "20260828-gov_huai_an-779f17",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1787886869972K6u0d4ob.html",
+  "title_zh": "市长顾坤开展巡河并现场推进水生态环境治理工作",
+  "title_en": "Mayor Gu Kun Inspects Rivers and Promotes Water Ecological Governance",
+  "summary_zh": "8月25日，淮安市市长顾坤到涟水县、清江浦区开展巡河并推进水生态环境治理，强调贯彻习近平生态文明思想，提升河湖治理保护水平。",
+  "summary_en": "On August 25, Mayor Gu Kun of Huai'an inspected rivers in Lianshui County and Qingjiangpu District to advance water ecological governance, emphasizing the implementation of Xi Jinping's thought on ecological civilization and improving river-lake protection.",
+  "body_zh": "8月25日，市长顾坤到涟水县、清江浦区开展巡河并现场推进水生态环境治理工作，强调要深入学习贯彻习近平生态文明思想和习近平总书记关于治水的重要论述，认真落实省委省政府决策部署和市委工作要求，强化系统思维、问题导向，注重标本兼治、常态长效，扎实推动水生态环境质量持续改善，全面提升河湖治理保护水平，让幸福河湖建设成效更好助力高质量发展、惠及广大群众。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "水生态环境治理",
+    "生态文明建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "涟水县",
+      "name_en": "Lianshui County"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "清江浦区",
+      "name_en": "Qingjiangpu District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水生态环境治理",
+      "name_en": "Water Ecological Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明建设",
+      "name_en": "Ecological Civilization Construction"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "涟水县",
+    "清江浦区",
+    "水生态环境治理",
+    "生态文明建设"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Lianshui County",
+    "Qingjiangpu District",
+    "Water Ecological Governance",
+    "Ecological Civilization Construction"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260828-gov_huai_an-779f17",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1787865329270AEqTUTAz.html",
+      "title_zh": "淮安市人民政府 市领导开展巡河并现场推进水生态环境治理工作",
+      "published_at": "2026-08-28T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
