@@ -1,0 +1,103 @@
+{
+  "id": "20261103-beijing_daily-39aa9c",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/03/12016619.shtml",
+  "title_zh": "外交部：相信此次APEC外交和贸易双部长会议将取得积极成果",
+  "title_en": "Foreign Ministry: APEC Joint Foreign and Trade Ministers' Meeting Expected to Yield Positive Results",
+  "summary_zh": "11月3日，外交部发言人毛宁在例行记者会上表示，作为今年APEC东道主，中方决定以视频方式举办外交和贸易双部长会议，相信会议将取得积极成果。",
+  "summary_en": "On November 3, Foreign Ministry spokesperson Mao Ning said at a regular press briefing that China, as this year's APEC host, decided to hold the joint foreign and trade ministers' meeting via video link and expects positive results.",
+  "body_zh": "11月3日，外交部发言人毛宁主持例行记者会。\n日本朝日新闻记者提问，今天APEC外交和贸易双部长会议以视频形式举行，请问中国决定线上举办的原因是什么？\n毛宁表示，作为今年东道主，中方高度重视举办外交和贸易双部长会议，综合考虑各方面的因素，从确保效果的角度出发，我们决定以视频的方式举办今年的双部长会议。\n“我们相信，在各方共同努力下，此次双部长会议将取得积极成果，为领导人非正式会议做好充分的准备。”毛宁说。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "APEC",
+    "外交和贸易双部长会议",
+    "多边合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "APEC",
+      "name_en": "APEC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交和贸易双部长会议",
+      "name_en": "Joint Foreign and Trade Ministers' Meeting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边合作",
+      "name_en": "Multilateral Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "APEC",
+    "外交和贸易双部长会议",
+    "多边合作"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "APEC",
+    "Joint Foreign and Trade Ministers' Meeting",
+    "Multilateral Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261103-beijing_daily-39aa9c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1793692843129270.html",
+      "title_zh": "外交部：中方决定以视频的方式举办今年的APEC双部长会",
+      "published_at": "2026-11-03T12:00:00+00:00"
+    },
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/11/03/12016634.shtml",
+      "title_zh": "中方是否会安排阿曼与沙特、伊朗官员会晤？外交部回应",
+      "published_at": "2026-11-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20261029-beijing_daily-ce4c54",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/29/12011049.shtml",
+  "title_zh": "外交部：敦促美国立即停止对古巴的封锁制裁和胁迫施压",
+  "title_en": "Foreign Ministry Urges U.S. to Immediately End Blockade and Sanctions Against Cuba",
+  "summary_zh": "10月29日，外交部发言人郭嘉昆在例行记者会上敦促美方立即停止对古巴长达64年的非法封锁和单边制裁，停止以任何形式对古巴胁迫施压。",
+  "summary_en": "On October 29, Foreign Ministry spokesperson Guo Jiakun urged the United States to immediately end its 64-year illegal blockade and unilateral sanctions on Cuba and to stop coercive pressure in any form.",
+  "body_zh": "10月29日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆表示，美国对古巴的非法经济封锁和单边经济制裁已经持续64年，给古巴人民带来深重灾难。自1992年起，联合国大会已连续34次以压倒性多数通过“终止美国对古巴的经济、商业和金融封锁”决议，这反映了世界上绝大多数国家对美国严重违反《联合国宪章》宗旨和原则的强烈愤慨，传递了国际社会一致要求美方立即停止严重侵犯古巴人民生存权、发展权行径的强音。\n他指出，中方将继续坚定支持古方维护国家主权和民族尊严、反对外来干涉和封锁的正义斗争，再次敦促美方认真倾听国际社会的正义呼声，立即停止对古巴的封锁制裁，立即停止以武力等任何形式对古巴胁迫施压。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "foreign",
+  "keywords": [
+    "单边制裁",
+    "古巴封锁",
+    "联合国大会决议"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "古巴封锁",
+      "name_en": "Blockade Against Cuba"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国大会决议",
+      "name_en": "UN General Assembly Resolution"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "单边制裁",
+    "古巴封锁",
+    "联合国大会决议"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Unilateral Sanctions",
+    "Blockade Against Cuba",
+    "UN General Assembly Resolution"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261029-beijing_daily-ce4c54",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

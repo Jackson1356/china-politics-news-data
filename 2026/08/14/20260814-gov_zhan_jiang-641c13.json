@@ -1,0 +1,101 @@
+{
+  "id": "20260814-gov_zhan_jiang-641c13",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2212254.html",
+  "title_zh": "市十五届人大常委会召开第四十九次会议",
+  "title_en": "Zhanjiang Municipal People's Congress Standing Committee Holds 49th Session",
+  "summary_zh": "8月13日，湛江市十五届人大常委会举行第四十九次会议，听取多项报告并任命刘增文为副市长。",
+  "summary_en": "On August 13, the 49th session of the Zhanjiang Municipal People's Congress Standing Committee was held, hearing reports and appointing Liu Zengwen as vice mayor.",
+  "body_zh": "8月13日，市十五届人大常委会召开第四十九次会议。市委书记、市人大常委会主任余钢主持会议，市人大常委会副主任刘忠芳、李更盛出席会议。市人民政府副市长孔海文，市中级人民法院院长陈复军，市人民检察院检察长曾翀等列席会议。\n会议听取市政府关于全面推行河湖长制工作情况的报告；关于打造宜居宜业和美乡村、推进省级新型城镇化试点、省级典型村片区和第四批典型村建设情况的报告。\n会议听取关于贯彻实施《湛江市文明行为促进条例》情况的报告；听取审议市人大常委会执法检查组关于检查《湛江市文明行为促进条例》实施情况的报告。\n会议审议通过关于检查《湛江市文明行为促进条例》实施情况报告的审议意见；审议通过关于接受牟治平辞去湛江市人民政府副市长职务的决定。\n会议经表决，决定任命刘增文为湛江市人民政府副市长。\n会议还审议通过其他人事任免事项。\n会后，举行了宪法宣誓仪式。\n林宇云",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "personnel",
+  "keywords": [
+    "河湖长制",
+    "乡村振兴",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-gang-zhanjiang",
+      "name_zh": "余钢",
+      "name_en": "Yu Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "河湖长制",
+      "name_en": "River and Lake Chief System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    }
+  ],
+  "tags_zh": [
+    "余钢",
+    "湛江",
+    "河湖长制",
+    "乡村振兴",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Yu Gang",
+    "Zhanjiang",
+    "River and Lake Chief System",
+    "Rural Revitalization",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [
+      "yu-gang-zhanjiang",
+      {
+        "id": null,
+        "name_zh": "任余钢"
+      },
+      {
+        "id": null,
+        "name_zh": "李更盛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260814-gov_zhan_jiang-641c13",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

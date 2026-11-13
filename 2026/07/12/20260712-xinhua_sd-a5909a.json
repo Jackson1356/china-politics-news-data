@@ -1,0 +1,91 @@
+{
+  "id": "20260712-xinhua_sd-a5909a",
+  "source": "xinhua_sd",
+  "source_name_zh": "新华网 山东",
+  "source_name_en": "Xinhua Shandong",
+  "source_url": "http://sd.news.cn/20260712/1bf097b1903447088345ff318d155eb0/c.html",
+  "title_zh": "山东部署六大行动推动数据赋能人工智能发展",
+  "title_en": "Shandong Deploys Six Major Actions to Promote Data-Empowered AI Development",
+  "summary_zh": "山东省大数据局起草《关于数据赋能人工智能创新发展的实施意见》，通过六大行动推动数据与人工智能协同发展，目标到2028年打造产业高地。",
+  "summary_en": "The Shandong Provincial Big Data Bureau issued implementation opinions deploying six major actions to promote the synergy between data elements and AI, aiming to build an industry highland by 2028.",
+  "body_zh": "为充分发挥数据的基础资源作用和创新引擎作用，赋能人工智能创新发展，深入推进数字强省建设，山东省大数据局研究起草了《关于数据赋能人工智能创新发展的实施意见》（以下简称《意见》）。\n《意见》以深化数据要素市场化配置改革为主线，着力强供给、建场景、育产业、优生态，推动“数据要素×”和“人工智能+”同频共振、互促共进，聚力打造人工智能产业发展高地。到2028年，全省累计建成100个以上行业高质量数据集，打造20个以上数据标注基地（产业园），智算规模力争达到2.5万PFLOPS，培育300家以上创新力强、带动力强的数据企业，推出200个以上数据驱动人工智能创新发展的典型应用场景。\n《意见》部署了六大行动，提出了14项重点任务。\n实施数据供给提质行动。从资源登记、源头治理入手，协同推进公共数据开放和授权运营，全面加强公共数据有效供给；深入开展行业高质量数据集建设，构建一批行业通识和行业专识高质量数据集，加强行业数据有效供给。\n实施数据流通提速行动。畅通数据流通渠道，完善数据流通服务，促进供需对接，探索新型数据流通利用和词元（Token）交易等新模式；建好用好可信数据空间等数据基础设施，强化数据流通设施支撑。\n实施应用场景提标行动。动态征集发布数据创新和人工智能应用场景清单，深入实施“数据要素×”行动，拓展多元应用场景；实施“人工智能＋政务”行动，深耕政务应用场景，打造具有山东特色的政务人工智能应用体系。\n实施数据产业提效行动。做强数据标注产业，布局建设数据标注产业集群和数据赋能工场；大力培育数据企业，推动数据产业全链条、集群化发展；积极推动数据领域国际合作。\n实施智能算力提级行动。用好“算力券”奖补政策，强化智算资源池建设，提高智算供给质量；建好用好全省一体化算力服务平台，促进算力供需匹配。\n实施发展生态提升行动。完善数据制度规范，加强数字人才建设，筑牢数据安全屏障。（戴岳）",
+  "image_url": null,
+  "published_at": "2026-07-12T12:00:00+00:00",
+  "event_date": "2026-07-12",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "industry",
+  "keywords": [
+    "数据要素",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "山东省大数据局",
+      "name_en": "Shandong Provincial Big Data Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据要素",
+      "name_en": "Data Elements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "山东省大数据局",
+    "山东",
+    "数据要素",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Shandong Provincial Big Data Bureau",
+    "Shandong",
+    "Data Elements",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "山东省大数据局",
+        "name_en": "Shandong Provincial Big Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260712-xinhua_sd-a5909a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sd",
+      "source_tier": 3,
+      "url": "http://sd.people.com.cn/n2/2026/0712/c166192-41636564.html",
+      "title_zh": "山东推动数据赋能人工智能创新发展",
+      "published_at": "2026-07-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

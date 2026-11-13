@@ -1,0 +1,101 @@
+{
+  "id": "20261113-chinanews_gn-2d698d",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-13/10731642.shtml",
+  "title_zh": "国家卫健委：中国严禁任何形式代孕",
+  "title_en": "National Health Commission: China Strictly Prohibits All Forms of Surrogacy",
+  "summary_zh": "11月13日，国家卫健委在北京举行新闻发布会，新闻发言人杨金瑞表示，中国严禁任何形式代孕，组织代孕属于违法犯罪行为，将面临法律严惩。",
+  "summary_en": "At a press conference in Beijing on Nov 13, National Health Commission spokesperson Yang Jinrui said China strictly prohibits all forms of surrogacy and that organizing surrogacy is an illegal criminal act subject to severe legal punishment.",
+  "body_zh": "国家卫健委：中国严禁任何形式代孕\n中新社北京11月13日电 (记者 李纯)中国国家卫生健康委员会13日在北京举行新闻发布会，国家卫健委新闻发言人杨金瑞指出，中国严禁任何形式代孕，组织代孕属于违法犯罪行为。\n在当天的发布会上，杨金瑞表示，近期，有媒体报道非法中介机构在无医疗条件的场所内开展“地下代孕”，由无资质的非专业人员实施，操作过程极不规范，风险极高。这些非法机构往往滥用促排卵药物，极易引发女性卵巢损伤，造成大出血和严重感染等，甚至危及生命；同时，胚胎培养和移植条件差，极易造成新生儿流产、早产、死胎死产和严重出生缺陷。\n杨金瑞说，国家卫健委提示，中国严禁任何形式代孕。组织代孕属于违法犯罪行为，将面临法律严惩，违背伦理道德。所谓的“代孕协议”不受法律保护，参与者还可能面临法律追责。\n杨金瑞表示，联合国人权理事会发布报告认为，代孕行为既严重损害女性权益，又对儿童造成伤害，建议逐步禁止一切形式的代孕行为。公众不要轻信跨境代孕“合法安全”的虚假宣传。\n国内新闻精选：\n- 2026年11月13日 16:23:35\n- 2026年11月13日 15:08:35\n- 2026年11月12日 16:26:45\n- 2026年11月12日 15:43:54\n- 2026年11月12日 15:20:47\n- 2026年11月12日 10:56:01\n- 2026年11月11日 20:04:08\n- 2026年11月11日 07:00:01\n- 2026年11月10日 22:03:06\n- 2026年11月10日 15:38:19",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "welfare",
+  "keywords": [
+    "代孕监管",
+    "医疗卫生",
+    "妇女权益"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委员会",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代孕监管",
+      "name_en": "Surrogacy Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生",
+      "name_en": "Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "妇女权益",
+      "name_en": "Women's Rights"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委员会",
+    "北京",
+    "代孕监管",
+    "医疗卫生",
+    "妇女权益"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Beijing",
+    "Surrogacy Regulation",
+    "Healthcare",
+    "Women's Rights"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261113-chinanews_gn-2d698d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/11/13/12029370.shtml",
+      "title_zh": "国家卫健委：我国严禁任何形式代孕",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

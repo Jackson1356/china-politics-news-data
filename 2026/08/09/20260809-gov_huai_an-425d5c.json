@@ -1,0 +1,93 @@
+{
+  "id": "20260809-gov_huai_an-425d5c",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1786345375828ZXVFQEpi.html",
+  "title_zh": "市领导到洪泽区调研",
+  "title_en": "Municipal Leaders Visit Hongze District for Research",
+  "summary_zh": "8月7日，淮安市委书记史志军到洪泽区调研，强调学习贯彻习近平总书记重要讲话精神，推动经济向好发展，确保“十五五”良好开局。",
+  "summary_en": "On August 7, Shi Zhijun, Secretary of the Huai'an Municipal Party Committee, visited Hongze District to stress implementing Xi Jinping's instructions and promoting sound economic development for a good start to the 15th Five-Year Plan.",
+  "body_zh": "8月7日，市委书记史志军到洪泽区调研，强调要深入学习贯彻习近平总书记对江苏工作重要讲话精神、对淮安殷切嘱托，认真落实省委省政府决策部署，紧扣“提质效、走前列、开新局”要求，以分秒必争的紧迫感攻坚三季度、冲刺下半年，集中精力、扎扎实实做好当前各项工作，推动经济持续向新向优向好发展，确保“十五五”良好开局。",
+  "image_url": null,
+  "published_at": "2026-08-09T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "economy",
+  "keywords": [
+    "经济发展",
+    "调研"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "洪泽区",
+      "name_en": "Hongze District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济发展",
+      "name_en": "Economic Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "调研",
+      "name_en": "Research Visit"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "洪泽区",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "史志军",
+    "洪泽区",
+    "经济发展",
+    "调研",
+    "洪泽区"
+  ],
+  "tags_en": [
+    "Shi Zhijun",
+    "Hongze District",
+    "Economic Development",
+    "Research Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      {
+        "id": null,
+        "name_zh": "洪泽区"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260809-gov_huai_an-425d5c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

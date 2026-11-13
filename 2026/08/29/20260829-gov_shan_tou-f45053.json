@@ -1,0 +1,83 @@
+{
+  "id": "20260829-gov_shan_tou-f45053",
+  "source": "gov_shan_tou",
+  "source_name_zh": "汕头市政府网",
+  "source_name_en": "汕头 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_tou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shantou.gov.cn/cnst/ywdt/styw/content/post_2563896.html",
+  "title_zh": "汕头市委常委会召开会议 学习贯彻习近平总书记重要讲话重要指示精神",
+  "title_en": "Shantou Municipal Party Committee Standing Committee Holds Meeting to Study Xi Jinping's Important Speech and Instructions",
+  "summary_zh": "8月28日上午，汕头市委常委会召开会议，市委书记庄悦群主持，学习贯彻习近平总书记重要讲话重要指示精神，研究防灾减灾救灾等工作。",
+  "summary_en": "On the morning of August 28, the Standing Committee of the CPC Shantou Municipal Committee held a meeting chaired by Secretary Zhuang Yuequn to study and implement the spirit of General Secretary Xi Jinping's important speech and instructions, and to discuss disaster prevention, mitigation, and relief work.",
+  "body_zh": "8月28日上午，市委常委会召开会议，认真传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话和对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神，传达学习省有关会议精神，研究我市贯彻落实意见。市委书记庄悦群主持会议并讲话。\n会议强调，要深入学习领会习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，传承弘扬江泽民同志的光辉思想和崇高风范，始终铭记江泽民同志对汕头发展的亲切关怀和悉心指导，坚定扛起习近平总书记、党中央赋予的使命任务，扎实推动汕头在新时代经济特区建设中迎头赶上，努力创造无愧于时代和人民的新业绩。要坚持不懈用党的创新理论凝心铸魂，坚定政治信仰、铸牢政治忠诚，扎实推动党中央决策部署在汕头落地见效，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。要聚焦发展第一要务，坚持“全市一盘棋、发展一条心、干事一股劲”的大局观念，一手抓好招商引资、一手抓好企业培育，加快构建工商并举的现代化产业体系，全力以赴稳住经济基本盘。要坚持以人民为中心的发展思想，始终把为民造福作为最大政绩，纵深攻坚“百千万工程”，统筹推进新型城镇化和乡村全面振兴，用心用情办好民生实事，让群众获得感成色更足、幸福感更可持续、安全感更有保障。要持之以恒推进全面从严治党，一体推进不敢腐不能腐不想腐，以风清气正的政治生态引领形成良好发展环境，为推进中国式现代化的汕头实践提供坚强保障。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "party",
+  "keywords": [
+    "防灾减灾",
+    "学习贯彻"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ST",
+      "name_zh": "汕头",
+      "name_en": "Shantou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Study and Implement"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕头",
+    "防灾减灾",
+    "学习贯彻",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shantou",
+    "Disaster Prevention and Mitigation",
+    "Study and Implement"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ST"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260829-gov_shan_tou-f45053",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

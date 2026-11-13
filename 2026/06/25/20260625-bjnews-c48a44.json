@@ -1,0 +1,70 @@
+{
+  "id": "20260625-bjnews-c48a44",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1782385494129061.html",
+  "title_zh": "国防部回应东风-17导弹发射报道",
+  "title_en": "Ministry of National Defense Responds to Reports on DF-17 Hypersonic Missile Launch",
+  "summary_zh": "6月25日下午，国防部举行例行记者会，发言人张晓刚就火箭军报道及日本军国主义问题作出回应。",
+  "summary_en": "On June 25, MND spokesperson Zhang Xiaogang responded to reports on the Rocket Force and Japanese militarism during a regular press conference.",
+  "body_zh": "新京报讯 据国防部发布消息，6月25日下午，国防部举行例行记者会，国防部新闻发言人张晓刚大校答记者问。\n张晓刚：先回答你的第一个问题。今年是中国战略导弹部队组建60周年。一甲子砺剑强军，新起点奋进出发。火箭军组织开展有关报道，反映建设发展情况和阔步新征程的时代风采。我没有更多补充信息，也请不必过度关联解读。\n现在回答你的第二个问题。我们也注意到有关报道。侵华日军大规模开展灭绝人性的活体实验和细菌战，罪恶滔天、天理难容。越来越多的证据揭露出日本军国主义的战争罪行，越来越多的人正在了解这段黑暗残忍的历史。日本若重走军国主义邪路，中国人民不会答应，国际社会不会允许，最终只能以失败告终，遭到彻底的正义审判和历史清算。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2024-06-25",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "foreign",
+  "keywords": [
+    "国防建设",
+    "中日关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防建设",
+      "name_en": "Defense Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "国防建设",
+    "中日关系"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Defense Construction",
+    "China-Japan Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260625-bjnews-c48a44",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

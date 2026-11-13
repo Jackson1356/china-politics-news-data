@@ -1,0 +1,96 @@
+{
+  "id": "20261012-gov_wei_hai-25bc89",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/10/12/art_58817_6666328.html",
+  "title_zh": "孔凡萍主持召开威海市政府常务会议",
+  "title_en": "Kong Fanping Chairs Weihai Municipal Government Executive Meeting",
+  "summary_zh": "10月10日，威海市市长孔凡萍主持召开市政府第76次常务会议，传达学习习近平总书记近期重要讲话精神，部署安全生产、生态环境保护工作，并审议《威海市地震应急预案》。",
+  "summary_en": "On Oct. 10, Weihai Mayor Kong Fanping chaired the 76th executive meeting of the municipal government, conveying recent remarks by Xi Jinping and deploying work on workplace safety, environmental protection, and a revised earthquake emergency plan.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯 10月10日，市委副书记、市长孔凡萍主持召开市政府第76次常务会议，传达学习习近平总书记近期重要讲话、重要指示、重要文章精神，安排部署安全生产、生态环境保护工作，审议有关事项。\n会议强调，要认真学习习近平总书记就发展先进制造业作出的重要指示精神，坚持传统、新兴、未来产业“三线并进”，深入推进人工智能赋能制造业创新发展行动，加力构建绿色制造体系，不断夯实高质量发展产业支撑。要加强普惠性、基础性、兜底性民生建设，持续优化教育、就业、医疗、养老等公共服务供给，让民生福祉更加可感可及。要坚决扛牢粮食安全政治责任，抓好三秋农业生产工作，大力发展乡村富民产业，扎实推进乡村建设行动，完善基础设施和公共服务布局，加快建设宜居宜业和美乡村。\n会议听取近期全市安全生产工作有关情况汇报，强调要认真研判安全生产形势，以“时时放心不下”的责任感，扎实抓好安全生产各项工作，切实守牢安全发展底线。要抓紧抓牢安全隐患排查整治，对照清单，限期整改、对账销号，确保闭环整改到位。要加强重点领域安全风险防范，聚焦消防安全、森林防灭火、海上安全、船舶修造、危险化学品、道路交通、非煤矿山、建筑施工、校园安全等重点，落实各项防范措施，消除安全隐患。要压紧压实安全生产责任，健全协同监管机制，强化全链条监管合力，切实守护好人民群众生命财产安全。\n会议审议《威海市地震应急预案》，强调各级各部门要高度重视，以此次预案修订为契机，进一步健全完善地震应急体制机制，全面提升地震灾害防范应对能力。要强化责任落实，细化分解工作任务，做到任务到岗、责任到人。要深入开展防震减灾科普宣传和避险逃生演练，提升社会公众自救互救能力。\n会议听取近期生态环境质量有关情况汇报，强调要压紧压实生态环境保护责任，坚持系统观念，统筹推进协同治理与联防联控，持续打好大气污染防治和水环境治理攻坚战，全力守护“精致城市·幸福威海”生态底色。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "party",
+  "keywords": [
+    "安全生产",
+    "生态环境保护",
+    "制造业高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological and Environmental Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业高质量发展",
+      "name_en": "High-Quality Manufacturing Development"
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "安全生产",
+    "生态环境保护",
+    "制造业高质量发展"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Workplace Safety",
+    "Ecological and Environmental Protection",
+    "High-Quality Manufacturing Development"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261012-gov_wei_hai-25bc89",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

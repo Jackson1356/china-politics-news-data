@@ -1,0 +1,153 @@
+{
+  "id": "20261105-xinhua_ah-4522e8",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.news.cn/20261105/77a998f3dc454df692f93e7716cda106/c.html",
+  "title_zh": "李乐成与陈忠岳陈扬帆举行工作会谈",
+  "title_en": "Li Lecheng Holds Working Talks with China Mobile's Chen Zhongyue and Chen Yangfan",
+  "summary_zh": "11月4日下午，安徽省委书记李乐成在合肥与中国移动董事长陈忠岳、总经理陈扬帆举行工作会谈，省政府与中国移动签署战略合作协议，双方将在算力基础设施、人工智能等领域深化合作。",
+  "summary_en": "On the afternoon of Nov 4, Anhui Party Secretary Li Lecheng held working talks in Hefei with China Mobile Chairman Chen Zhongyue and General Manager Chen Yangfan, after which the provincial government and China Mobile signed a strategic cooperation agreement covering computing infrastructure and AI.",
+  "body_zh": "11月4日下午，省委书记李乐成在合肥与中国移动通信集团有限公司董事长陈忠岳、总经理陈扬帆举行工作会谈，省政府与中国移动签署战略合作协议。省领导蔚盛斌、朱浩东参加。\n李乐成对陈忠岳一行表示欢迎。他说，当前安徽正抢抓新一轮科技革命和产业变革机遇，加快建设数字安徽，培育壮大新质生产力。希望中国移动充分发挥优势，深化拓展算力基础设施、人工智能等领域合作，助力安徽高质量发展。\n陈忠岳表示，中国移动将认真抓好协议落实，加大投资布局力度，共同谱写央地合作新篇章。\n根据协议，双方将在打造新型基础设施体系、推动产学研深度融合等方面加强合作。（宗禾）",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "算力基础设施",
+    "人工智能",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-lecheng",
+      "name_zh": "李乐成",
+      "name_en": "Li Lecheng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈忠岳",
+      "name_en": "Chen Zhongyue"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈扬帆",
+      "name_en": "Chen Yangfan"
+    },
+    {
+      "kind": "institution",
+      "id": "CHINA-MOBILE",
+      "name_zh": "中国移动通信集团有限公司",
+      "name_en": "China Mobile Communications Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力基础设施",
+      "name_en": "Computing Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "person",
+      "id": "wei-shengbin",
+      "name_zh": "蔚盛斌",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李乐成",
+    "陈忠岳",
+    "陈扬帆",
+    "中国移动通信集团有限公司",
+    "安徽",
+    "合肥",
+    "战略合作",
+    "算力基础设施",
+    "人工智能",
+    "新质生产力",
+    "蔚盛斌"
+  ],
+  "tags_en": [
+    "Li Lecheng",
+    "Chen Zhongyue",
+    "Chen Yangfan",
+    "China Mobile Communications Group",
+    "Anhui",
+    "Hefei",
+    "Strategic Cooperation",
+    "Computing Infrastructure",
+    "Artificial Intelligence",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "wei-shengbin",
+      "li-lecheng",
+      {
+        "id": null,
+        "name_zh": "陈忠岳"
+      },
+      {
+        "id": null,
+        "name_zh": "朱浩东"
+      }
+    ],
+    "institutions": [
+      "CHINA-MOBILE"
+    ],
+    "locations": [
+      "CN-AH",
+      "CN-AH-HF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261105-xinhua_ah-4522e8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

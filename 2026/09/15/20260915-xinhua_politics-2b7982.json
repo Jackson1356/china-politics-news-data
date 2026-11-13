@@ -1,0 +1,93 @@
+{
+  "id": "20260915-xinhua_politics-2b7982",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260915/4ca21639d4894e06aaba070d0552478e/c.html",
+  "title_zh": "两部门对海南启动国家自然灾害救助四级应急响应",
+  "title_en": "Two Departments Launch Level-IV National Natural Disaster Relief Emergency Response for Hainan",
+  "summary_zh": "9月15日，国家防减救灾委、应急管理部针对强降雨对海南造成的严重灾害影响，启动国家自然灾害救助四级应急响应，并派工作组赶赴灾区指导救助工作。",
+  "summary_en": "On September 15, the National Disaster Prevention, Reduction and Relief Committee and the Ministry of Emergency Management activated a Level-IV national natural disaster relief emergency response for Hainan after severe damage from heavy rainfall, sending a work team to the disaster zone.",
+  "body_zh": "按照《国家自然灾害救助应急预案》，9月15日，国家防减救灾委、应急管理部针对近期强降雨对海南造成的严重灾害影响，启动国家自然灾害救助四级应急响应，派出工作组紧急赶赴灾区实地查看灾情，指导和协助地方做好灾情核查、群众转移安置、基本生活保障等灾害救助工作。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "welfare",
+  "keywords": [
+    "自然灾害救助",
+    "应急响应",
+    "防汛救灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救助",
+      "name_en": "Natural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "海南",
+    "自然灾害救助",
+    "应急响应",
+    "防汛救灾"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Hainan",
+    "Natural Disaster Relief",
+    "Emergency Response",
+    "Flood Control and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260915-xinhua_politics-2b7982",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

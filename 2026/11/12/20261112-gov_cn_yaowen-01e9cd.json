@@ -1,0 +1,108 @@
+{
+  "id": "20261112-gov_cn_yaowen-01e9cd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/12/VIDEgg9AYwPnNQYvOoheNHnw261112.shtml",
+  "title_zh": "李强主持国务院第二十二次专题学习",
+  "title_en": "Li Qiang Chairs State Council's 22nd Special Study Session",
+  "summary_zh": "11月12日，国务院围绕“健全多层次社会保障体系”举行第二十二次专题学习，李强主持并讲话，强调深化社会保障制度改革。",
+  "summary_en": "On Nov 12, the State Council held its 22nd special study session on building a multi-tiered social security system; Premier Li Qiang presided and urged deeper reform of the social security system.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署，进一步深化社会保障制度改革，健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的多层次社会保障体系，推动现代化建设成果更多更公平惠及全体人民。\n中国人民大学教授郑功成作讲解。国务院副总理何立峰、刘国中，国务委员谌贻琴作交流发言。\n李强在听取讲解和交流发言后指出，当前人口结构变化、技术进步、就业方式多样化等对社会保障体系建设提出了新的更高要求。要充分认识社会保障在发展全局中的重要作用，推动社会保障事业高质量可持续发展。\n李强指出，要坚持立足国情实际，发展中国特色社会保障体系。把握好尽力而为和量力而行的关系，把握好政府主导和社会协同的关系，把握好保障基本和多元供给的关系。加快补齐社会保障体系短板，扩大企业年金覆盖面，提高个人养老金制度吸引力。完善灵活就业人员社会保障制度，逐步提高参保率，加强新就业形态人员权益保障。推动社会保障制度更加公平，稳步提高城乡居民养老保障水平，健全分层分类的社会救助制度。增强社保基金长期可持续性，强化社保基金安全监管和保值增值。要适应形势变化，及时修订完善社会保障相关法律法规。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "welfare",
+  "keywords": [
+    "社会保障体系",
+    "养老保险",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会保障体系",
+      "name_en": "Social Security System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老保险",
+      "name_en": "Pension Insurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "社会保障体系",
+    "养老保险",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Social Security System",
+    "Pension Insurance",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261112-gov_cn_yaowen-01e9cd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085902.htm",
+      "title_zh": "李强主持国务院第二十二次专题学习",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chang_de",
+      "source_tier": null,
+      "url": "http://www.hunan.gov.cn/hnszf/hnyw/ywtj/202611/t20261113_34101433.html",
+      "title_zh": "李强主持国务院第二十二次专题学习",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

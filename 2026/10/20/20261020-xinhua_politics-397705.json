@@ -1,0 +1,120 @@
+{
+  "id": "20261020-xinhua_politics-397705",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261020/639c7f00dc2c4a6c814f108e5c6511f3/c.html",
+  "title_zh": "三部门部署防控儿童青少年高度近视",
+  "title_en": "Three Departments Deploy Measures to Prevent and Control High Myopia in Children and Adolescents",
+  "summary_zh": "教育部、国家卫生健康委、国家疾控局近日联合印发通知，要求医疗机构和中小学校为高度近视学生建立视觉健康档案，加强随访检查与针对性干预。",
+  "summary_en": "China's Ministry of Education, National Health Commission and National Disease Control Administration have jointly issued a notice requiring medical institutions and schools to build visual health records for highly myopic students and strengthen follow-up checks and targeted intervention.",
+  "body_zh": "新华社北京10月20日电（记者魏冠宇、李恒）记者10月20日获悉，教育部、国家卫生健康委、国家疾控局近日联合印发通知，防控儿童青少年高度近视。\n通知要求，医疗机构、中小学校为高度近视的学生建立视觉健康档案，规范记录眼轴长度、眼底检查、矫正视力等信息，及时发现高度近视并发症风险并进行针对性干预。\n通知还引导家长为已高度近视的学生选用非球面、高折射率的薄镜片，不配戴镜框过大的眼镜；做好孩子高度近视后的防控工作，至少每半年带孩子到医疗机构进行1次全面的眼健康随访检查；已高度近视的学生要注意避免可能对眼球和头部有直接冲击或明显震荡的剧烈运动。\n根据通知，高度近视通常是指近视度数大于等于600度或眼轴长度大于等于26毫米的屈光不正状态。儿童青少年近视程度一旦发展为高度近视，可能会演变成病理性近视，增加发生视网膜脱离、黄斑病变、青光眼、白内障等并发症风险，造成不可逆的视力损害，是致盲性眼病的主要原因之一。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "welfare",
+  "keywords": [
+    "青少年近视防控",
+    "公共卫生",
+    "儿童健康"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家疾控局",
+      "name_en": "National Disease Control Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青少年近视防控",
+      "name_en": "Youth Myopia Prevention and Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共卫生",
+      "name_en": "Public Health"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "儿童健康",
+      "name_en": "Children's Health"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "国家卫生健康委",
+    "国家疾控局",
+    "北京",
+    "青少年近视防控",
+    "公共卫生",
+    "儿童健康"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "National Health Commission",
+    "National Disease Control Administration",
+    "Beijing",
+    "Youth Myopia Prevention and Control",
+    "Public Health",
+    "Children's Health"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "康随访"
+      }
+    ],
+    "institutions": [
+      "MOE",
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家疾控局",
+        "name_en": "National Disease Control Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261020-xinhua_politics-397705",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

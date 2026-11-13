@@ -1,0 +1,83 @@
+{
+  "id": "20261113-beijing_daily-5c7a86",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/13/12029256.shtml",
+  "title_zh": "外交部回应中俄美三国元首会晤：中方同相关方保持着沟通",
+  "title_en": "Foreign Ministry Responds on China-Russia-US Summit: China Maintaining Communication with Relevant Parties",
+  "summary_zh": "11月13日，外交部发言人毛宁在例行记者会上表示，关于中俄美三国元首会晤，中方同相关方保持着沟通，如有进一步信息将及时发布。",
+  "summary_en": "On November 13, Foreign Ministry spokesperson Mao Ning said at a regular press briefing that China is maintaining communication with relevant parties regarding a possible China-Russia-US leaders' meeting, and will release further information in due course.",
+  "body_zh": "11月13日，外交部发言人毛宁主持例行记者会。\n法新社记者提问，首先，距离亚太经合组织（APEC）深圳峰会召开只有几天时间了，请问中方能否介绍一下，关于中俄美三国元首可能举行的会晤，目前是否有最新消息？第二，英国《卫报》昨天的一篇报道称，中国已排除主办第三十三届联合国气候变化大会（COP33）的可能性。请问这一报道是否属实？如果属实，中国为何不愿主办COP33？\n毛宁表示，首先回答第一个问题，对于中俄美三国元首的会晤，我们同相关方保持着沟通，如果有进一步的信息，我们会及时发布。\n毛宁说：“你的第二个问题，目前我不掌握有关情况，但是我可以告诉你的是，联合国气候变化框架公约的缔约方会议，是全球气候治理的重要平台，中国将继续致力于推动全球绿色低碳转型和应对气候变化的国际合作。”\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "元首外交",
+    "中俄美关系",
+    "气候变化合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Leaders' Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄美关系",
+      "name_en": "China-Russia-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气候变化合作",
+      "name_en": "Climate Change Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "元首外交",
+    "中俄美关系",
+    "气候变化合作"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Leaders' Diplomacy",
+    "China-Russia-US Relations",
+    "Climate Change Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261113-beijing_daily-5c7a86",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

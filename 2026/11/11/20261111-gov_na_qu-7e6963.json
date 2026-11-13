@@ -1,0 +1,104 @@
+{
+  "id": "20261111-gov_na_qu-7e6963",
+  "source": "gov_na_qu",
+  "source_name_zh": "那曲市政府网",
+  "source_name_en": "那曲 Government Portal",
+  "source_media_id": "gov-cn-prefecture-na_qu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.naqu.gov.cn/nqsrmzf/c100003/202611/d43270a482c44cb5bc1dfa86a235c518.shtml",
+  "title_zh": "那曲市应急管理局召开专题会议部署防灾减灾救灾工作",
+  "title_en": "Nagqu Emergency Management Bureau Holds Special Meeting on Disaster Prevention and Relief",
+  "summary_zh": "11月1日，那曲市应急管理局召开专题会议，传达学习党的二十届五中全会精神，并就近期极端雨雪天气防范和防灾减灾救灾工作再安排再部署。",
+  "summary_en": "On Nov 1, the Nagqu City Emergency Management Bureau held a special meeting to study the spirit of the 20th CPC Central Committee's Fifth Plenum and redeploy disaster prevention and relief work amid extreme rain and snow.",
+  "body_zh": "11月1日，那曲市应急管理局召开专题会议，传达学习党的二十届五中全会精神、自治区党委书记胡昌升10月30日晚视频调度极端雨雪天气防范应对工作时的指示要求，以及全区防灾减灾救灾委员会专题调度会会议精神，对近期防灾减灾救灾工作进行再安排、再部署、再强调。\n近期，那曲市部分地区出现降雪天气，交通受阻、牲畜受冻、雪崩等次生灾害风险上升，特别是给巴青县地震灾区抢险救灾和恢复重建工作带来更大困难与挑战。\n会议要求，全局上下要坚决克服麻痹思想和侥幸心理，以“时时放心不下”的责任感，抓好各项防范应对措施落实。\n会议强调，监测预警要更密。加密与气象、公安、交运、自然资源等部门联合会商，健全信息共享和预警联动机制，及时发布联合预警信息，推动预警叫应到村、到户、到人。联合值守要更严。严格落实24小时值班和领导带班制度，用好370兆手台、视频会议系统等设备，加强对各县（区）、乡（镇）的调度，实时掌握气象、道路通行、物资储备等情况。督导检查要更实。下沉重点县乡，检查指导应急准备、物资储备、值班值守情况，规范灾情险情信息报送核查统计，确保突发情况第一时间响应、第一时间处置。\n市应急管理系统将把各项防范措施落实到村、到户、到人，全力守护人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-01",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "welfare",
+  "keywords": [
+    "防灾减灾",
+    "应急管理",
+    "极端天气应对"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "那曲市应急管理局",
+      "name_en": "Nagqu City Emergency Management Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NQ",
+      "name_zh": "那曲",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "极端天气应对",
+      "name_en": "Extreme Weather Response"
+    },
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "那曲市应急管理局",
+    "那曲",
+    "防灾减灾",
+    "应急管理",
+    "极端天气应对",
+    "胡昌升"
+  ],
+  "tags_en": [
+    "Nagqu City Emergency Management Bureau",
+    "Disaster Prevention and Mitigation",
+    "Emergency Management",
+    "Extreme Weather Response"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-changsheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NQ"
+    ],
+    "companies": [
+      {
+        "name_zh": "那曲市应急管理局",
+        "name_en": "Nagqu City Emergency Management Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261111-gov_na_qu-7e6963",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

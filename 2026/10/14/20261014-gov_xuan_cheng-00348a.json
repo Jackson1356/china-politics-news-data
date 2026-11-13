@@ -1,0 +1,96 @@
+{
+  "id": "20261014-gov_xuan_cheng-00348a",
+  "source": "gov_xuan_cheng",
+  "source_name_zh": "宣城市政府网",
+  "source_name_en": "宣城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xuan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xuancheng.gov.cn/Content/show/1732890.html",
+  "title_zh": "宣城市委常委会召开会议 何淳宽主持",
+  "title_en": "He Chunkuan Chairs Xuancheng Municipal Party Standing Committee Meeting",
+  "summary_zh": "10月13日上午，宣城市委书记何淳宽主持召开市委常委会会议，传达学习习近平总书记重要讲话和重要指示精神，研究部署贯彻落实工作。",
+  "summary_en": "On the morning of Oct 13, Xuancheng Party Secretary He Chunkuan chaired a meeting of the Municipal Party Standing Committee to convey and study Xi Jinping's recent speeches and instructions and to plan implementation work.",
+  "body_zh": "10月13日上午，市委书记何淳宽主持召开市委常委会会议。传达学习习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话、就建设更高水平平安中国作出的重要指示、给四川大学全体师生的重要回信精神，研究部署我市贯彻落实工作。\n会议强调，要积极担当作为，牢固树立和践行正确政绩观，更好统筹发展与安全，进一步深化改革开放，切实保障和改善民生，推动经济持续向新向优向好发展，努力实现“十五五”良好开局。要深入贯彻总体国家安全观，锚定“四个更加”目标，不断完善公共安全治理水平，防范化解各类风险隐患，确保全市社会大局和谐稳定。要全面贯彻党的教育方针，坚决落实立德树人根本任务，一体推进教育科技人才发展，深化科教、产教协同育人，为宣城高质量发展提供坚实人才支撑。\n会议套开了市委宣传思想文化工作领导小组会议。传达学习习近平总书记关于意识形态工作和精神文明建设的重要论述，审议有关文件，听取关于全国文明城市常态创建工作情况的汇报。会议指出，要持续推动习近平新时代中国特色社会主义思想入脑入心，深入学习贯彻习近平党建思想，持续巩固壮大主流思想舆论，加强阵地管理，防范化解各类风险隐患，扎实有效做好意识形态工作，为全市经济社会高质量发展提供坚强思想保证。要深入学习贯彻习近平文化思想，坚决克服松劲麻痹思想，力戒形式主义倾向，把常态化创建作为底线任务、民生工程，持续巩固拓展文明城市创建成果，努力把文明城市品牌打得更响。要抓牢创建重点，坚持创建为民，不断提升城市管理精细化、常态化水平，进一步增强群众获得感、满意度。要凝聚创建合力，树牢全市“一盘棋”思想，加强统筹调度，广泛发动群众，充分发挥基层党组织战斗堡垒作用和党员先锋模范作用，全力营造更加浓厚的创建氛围，持续擦亮城市文明底色。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "party",
+  "keywords": [
+    "意识形态工作",
+    "文明城市创建",
+    "总体国家安全观"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-XC",
+      "name_zh": "宣城",
+      "name_en": "Xuancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "意识形态工作",
+      "name_en": "Ideological Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文明城市创建",
+      "name_en": "Civic Civilization Campaign"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "总体国家安全观",
+      "name_en": "Holistic National Security Outlook"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "宣城",
+    "意识形态工作",
+    "文明城市创建",
+    "总体国家安全观",
+    "习近平"
+  ],
+  "tags_en": [
+    "Xuancheng",
+    "Ideological Work",
+    "Civic Civilization Campaign",
+    "Holistic National Security Outlook"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "何淳宽"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-XC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261014-gov_xuan_cheng-00348a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

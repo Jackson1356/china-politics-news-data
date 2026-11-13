@@ -1,0 +1,102 @@
+{
+  "id": "20261020-xinhua_tj-5c29bf",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20261020/f0bb8eb9e47e418fbec68c896dde9474/c.html",
+  "title_zh": "天津市政府召开第119次常务会议 张工主持",
+  "title_en": "Tianjin Municipal Government Holds 119th Executive Meeting Chaired by Zhang Gong",
+  "summary_zh": "10月19日下午，天津市市长张工主持召开市政府第119次常务会议，研究部署健康天津建设和科技金融工作。",
+  "summary_en": "On the afternoon of Oct 19, Tianjin Mayor Zhang Gong chaired the municipal government's 119th executive meeting to advance Health Tianjin construction and sci-tech finance.",
+  "body_zh": "10月19日下午，市长张工主持召开市政府第119次常务会议。\n会议传达学习贯彻习近平总书记在全国卫生与健康大会上的重要讲话精神，落实市委常委会会议要求，研究部署下一步工作。会议强调，要深刻领会习近平总书记重要讲话精神，贯彻新时代卫生与健康工作方针，坚定实施健康优先发展战略，坚守基本医疗卫生事业的公益性，全面提升健康管理能力、疾病防控能力、医疗服务能力、医保支撑能力、医药创新能力、人才培养能力，倡导预防为主理念，扎实推进健康天津建设。要统筹推进我市“强基”“筑高”“登峰”工程，推动资源力量向基层倾斜，立足优势加强高峰学科建设，不断提升医疗水平和服务质量。要加快培育医药健康新质生产力，深化医教、医工、医研、医药、医疗协同，加强生物医药、医疗器械等领域科技攻关和创新成果转化，进一步做大做强健康产业。要抓实协和天津基地等重点项目建设，引育高水平人才，集聚资源要素，不断夯实医疗卫生事业发展支撑。\n会议听取我市科技金融工作进展情况。会议强调，科技金融是金融服务实体经济的重要抓手，在促进科技创新、高新技术企业成长、产业转型升级等方面发挥重要作用。要厚植创新创业沃土，充分发挥天开园等平台作用，培育涌现更多创新成果、创新人才团队，提供优质投资对象。要加大科技金融供给，丰富长期资本、耐心资本，增强供需适配性，构建覆盖科创全周期全链条的金融赋能体系。要统筹运用政策资源和市场资源，善搭台、善协调，推动形成科技、产业、金融互促共进的良性循环。\n会议还研究了其他事项。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "welfare",
+  "keywords": [
+    "健康天津建设",
+    "科技金融",
+    "医疗卫生",
+    "生物医药"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康天津建设",
+      "name_en": "Health Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技金融",
+      "name_en": "Sci-Tech Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生",
+      "name_en": "Healthcare"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药",
+      "name_en": "Biomedicine"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "健康天津建设",
+    "科技金融",
+    "医疗卫生",
+    "生物医药"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "Health Tianjin",
+    "Sci-Tech Finance",
+    "Healthcare",
+    "Biomedicine"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261020-xinhua_tj-5c29bf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

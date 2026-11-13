@@ -1,0 +1,100 @@
+{
+  "id": "20261110-gov_cn_yaowen-4b109e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085718.htm",
+  "title_zh": "前10个月我国外贸同比增长20% 保持强劲增长态势",
+  "title_en": "China's Foreign Trade Grows 20% in First 10 Months, Maintaining Strong Momentum",
+  "summary_zh": "海关总署11月10日公布数据，今年前10个月我国货物贸易进出口总值44.81万亿元，同比增长20%，其中出口25.99万亿元、进口18.82万亿元。",
+  "summary_en": "The General Administration of Customs announced on November 10 that China's goods trade totaled 44.81 trillion yuan in the first 10 months of the year, up 20% year on year, with exports at 25.99 trillion yuan and imports at 18.82 trillion yuan.",
+  "body_zh": "海关总署今天（11月10日）对外公布最新统计数据，今年前10个月，我国货物贸易进出口同比增长20%，保持强劲增长态势。\n据海关统计，今年前10个月，我国货物贸易进出口总值44.81万亿元，同比增长20%。\n其中，出口25.99万亿元，增长17.6%，与算力、人工智能相关产品出口增长迅猛，集成电路、存储部件出口均成倍增长。\n进口18.82万亿元，增长23.6%，能矿产品稳步增长，机电产品进口增长35%，占我国进口总值的比重超四成。\n10月份，进出口4.87万亿元，增长31.2%。其中，出口2.79万亿元，增长28.7%；进口2.08万亿元，增长34.7%。\n前10个月，我国对180多个国家和地区进出口实现增长，其中，对东盟、拉美、非洲等新兴市场进出口分别增长24.2%、14.4%、17.6%，对欧盟、美国进出口分别增长8.5%、6.3%。同期，对APEC其他经济体进出口27.08万亿元，增长25.4%；对共建“一带一路”国家进出口22.88万亿元，增长18.5%。",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "economy",
+  "keywords": [
+    "对外贸易",
+    "进出口",
+    "人工智能相关产品出口",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进出口",
+      "name_en": "Imports and Exports"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能相关产品出口",
+      "name_en": "AI-Related Exports"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "对外贸易",
+    "进出口",
+    "人工智能相关产品出口",
+    "一带一路"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "Foreign Trade",
+    "Imports and Exports",
+    "AI-Related Exports",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261110-gov_cn_yaowen-4b109e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_hn",
+      "source_tier": 2,
+      "url": "https://www.news.cn/fortune/20261110/9afec94b24df4805b3d8797a5d884bf3/c.html",
+      "title_zh": "前10个月我国外贸增长20% 保持强劲增长态势",
+      "published_at": "2026-11-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

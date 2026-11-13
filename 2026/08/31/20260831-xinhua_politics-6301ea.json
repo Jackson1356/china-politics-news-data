@@ -1,0 +1,108 @@
+{
+  "id": "20260831-xinhua_politics-6301ea",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260831/74547b76ef7042b3a0f3e7f0e847d433/c.html",
+  "title_zh": "2026年《开学第一课》聚焦“我们的长征路”主题",
+  "title_en": "2026 'First Lesson of School' Focuses on 'Our Long March Road' Theme",
+  "summary_zh": "8月31日，中央宣传部、教育部、中央广播电视总台联合主办的2026年《开学第一课》将于9月1日在央视综合频道播出，主题为“我们的长征路”，纪念长征胜利90周年。",
+  "summary_en": "The 2026 public welfare program 'First Lesson of School', co-hosted by the Central Publicity Department, Ministry of Education, and China Media Group, will air on CCTV-1 on September 1, themed 'Our Long March Road', marking the 90th anniversary of the Long March victory.",
+  "body_zh": "新华社北京8月31日电（记者白瀛）由中央宣传部、教育部、中央广播电视总台联合主办的公益节目2026年《开学第一课》将于9月1日晚在央视综合频道播出。\n今年是中国共产党成立105周年、中国工农红军长征胜利90周年。节目以“我们的长征路”为主题，综合运用经典诗词朗诵、歌曲合唱等形式，讲述中国共产党领导的工农红军进行艰苦卓绝长征的故事，阐释伟大长征精神，教育引导广大青少年树立正确历史观，深刻认识红色政权来之不易、新中国来之不易、中国特色社会主义来之不易，鼓励青少年沿着革命先辈的足迹继续前行，走好新时代的长征路。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "青少年教育"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Central Publicity Department"
+    },
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青少年教育",
+      "name_en": "Youth Education"
+    }
+  ],
+  "tags_zh": [
+    "中央宣传部",
+    "教育部",
+    "北京",
+    "长征精神",
+    "青少年教育"
+  ],
+  "tags_en": [
+    "Central Publicity Department",
+    "Ministry of Education",
+    "Beijing",
+    "Long March Spirit",
+    "Youth Education"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CCPD",
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260831-xinhua_politics-6301ea",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0901/c64387-40789982.html",
+      "title_zh": "2026年《开学第一课》聚焦“我们的长征路”主题",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0901/c461001-40789823.html",
+      "title_zh": "2026年《开学第一课》聚焦“我们的长征路”主题 --时政--人民网",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "20260728-xinhua_leaders-7688f6",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260728/aba5630929c543e5838e6e7cc9f110d7/c.html",
+  "title_zh": "习近平同斯洛伐克总统佩列格里尼会谈",
+  "title_en": "Xi Jinping Holds Talks with Slovak President Peter Pellegrini",
+  "summary_zh": "7月28日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的斯洛伐克总统佩列格里尼举行会谈。",
+  "summary_en": "On the morning of July 28, President Xi Jinping held talks with Slovak President Peter Pellegrini, who is on a state visit to China, at the Great Hall of the People in Beijing.",
+  "body_zh": "7月28日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的斯洛伐克总统佩列格里尼举行会谈。\n7月28日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的斯洛伐克总统佩列格里尼举行会谈。这是会谈前，习近平在人民大会堂北大厅为佩列格里尼举行欢迎仪式。\n7月28日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的斯洛伐克总统佩列格里尼举行会谈。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "双边关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "国事访问",
+    "双边关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "State Visit",
+    "Bilateral Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260728-xinhua_leaders-7688f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": null,
+      "url": "http://www.qstheory.cn/20260728/fbaefa059f3d4a44b561fe3231523809/c.html",
+      "title_zh": "习近平同斯洛伐克总统佩列格里尼会谈",
+      "published_at": "2026-07-28T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_shun",
+      "source_tier": null,
+      "url": "https://www.fushun.gov.cn/ywdt/001005/moreinfo.html",
+      "title_zh": "习近平同斯洛伐克总统佩列格里尼会谈",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

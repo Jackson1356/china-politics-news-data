@@ -1,0 +1,87 @@
+{
+  "id": "20260814-gov_bao_ji-ef58b0",
+  "source": "gov_bao_ji",
+  "source_name_zh": "宝鸡市政府网",
+  "source_name_en": "宝鸡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_ji",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoji.gov.cn/col46/col52/202608/t20260814_1293596.html",
+  "title_zh": "宝鸡市委常委会召开会议",
+  "title_en": "Baoji Municipal Party Committee Standing Committee Holds Meeting",
+  "summary_zh": "8月13日，宝鸡市委常委会召开会议，学习习近平总书记重要讲话精神，审议政绩观学习教育总结报告等，市委书记陈晓勇主持。",
+  "summary_en": "On August 13, the Standing Committee of the Baoji Municipal Party Committee held a meeting to study the spirit of General Secretary Xi Jinping's important speeches and review the summary report on political achievement education, chaired by Secretary Chen Xiaoyong.",
+  "body_zh": "8月13日下午，市委常委会召开会议，学习习近平总书记在中共中央政治局第二十七次集体学习时的重要讲话精神、关于食品药品安全的重要论述，审议《宝鸡市树立和践行正确政绩观学习教育总结报告》《关于开展弘扬冯家山水库建设优良传统宣传教育工作的方案》。市委书记陈晓勇主持会议。\n会议指出，全市各级各部门要深入学习贯彻习近平强军思想，认真履行党管武装责任制，大力支持国防和军队现代化建设，持续深化双拥共建，巩固发展新时代军政军民团结。要以“时时放心不下”的责任感，抓紧抓实抓细食品药品安全各项工作，加强全环节全流程监管，加强对酒店、校园、食堂等重点行业领域的监督检查，进一步健全监管责任体系，压实各方责任，始终以“四个最严”标准守护好食品药品安全。\n会议要求，要慎终如始抓好树立和践行正确政绩观学习教育，系统总结我市学习教育成果，分类梳理、对账销号，抓好问题整改整治提升。要持续巩固成果，坚持当下改和长久立相结合，不断健全完善常态化长效化机制，确保学习教育善始善终、取得实效。\n会议强调，冯家山水库在建设过程中形成的“艰苦奋斗、无私奉献、科学求实、开拓创新”优良传统，对于教育引导全市党员干部牢固树立和践行正确政绩观、汲取奋进力量具有重要意义。要深入挖掘冯家山水库建设优良传统的内涵与外延，使其焕发时代活力，为我市加快建设陕甘川宁毗邻区域中心城市和高质量发展先行区注入强大精神动力。要把好政治关口，坚持正确导向，精心设计教育载体和宣传内容，加强统筹联动，把冯家山水库建设优良传统阐释好、宣传好、发扬好。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "party",
+  "keywords": [
+    "食品药品安全",
+    "政绩观学习教育"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-BJ",
+      "name_zh": "宝鸡",
+      "name_en": "Baoji"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品药品安全",
+      "name_en": "Food and Drug Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政绩观学习教育",
+      "name_en": "Political Achievement Education"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "宝鸡",
+    "食品药品安全",
+    "政绩观学习教育",
+    "习近平"
+  ],
+  "tags_en": [
+    "Baoji",
+    "Food and Drug Safety",
+    "Political Achievement Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "陈晓勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260814-gov_bao_ji-ef58b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

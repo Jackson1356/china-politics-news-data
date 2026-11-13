@@ -1,0 +1,111 @@
+{
+  "id": "20260601-bjnews_zhengshier-47a3ad",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1780319404129786.html",
+  "title_zh": "王琳任乌鲁木齐市委书记",
+  "title_en": "Wang Lin Appointed Party Secretary of Urumqi",
+  "summary_zh": "6月1日，新疆维吾尔自治区党委书记陈小江、自治区主席艾尔肯·吐尼亚孜调研“人工智能+”工作，披露王琳已任乌鲁木齐市委书记。",
+  "summary_en": "On June 1, Xinjiang Party Secretary Chen Xiaojiang and Chairman Erkin Tuniyaz conducted research on 'AI+', revealing that Wang Lin has been appointed Party Secretary of Urumqi.",
+  "body_zh": "王琳已任乌鲁木齐市委书记\n新疆日报消息，自治区党委书记陈小江、自治区主席艾尔肯·吐尼亚孜6月1日深入乌鲁木齐市和昌吉回族自治州，就全区推进“人工智能+”工作开展调研并召开座谈会。自治区党委常委、乌鲁木齐市委书记王琳等分别作了工作汇报。\n上述信息显示，新疆维吾尔自治区党委常委王琳，已任乌鲁木齐市委书记。\n公开简历显示，王琳，男，汉族，1970年2月生，山东临朐人，大学学历，公共管理硕士，1992年8月参加工作，1996年12月加入中国共产党。\n王琳曾任陕西省委常委、副省长，陕西省委常委、省委秘书长等职，2024年任新疆维吾尔自治区党委常委、自治区党委组织部部长，至近期调整。",
+  "image_url": null,
+  "published_at": "2026-06-01T21:25:09+00:00",
+  "event_date": "2024-06-01",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事调整",
+    "人工智能+"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-lin-xinjiang",
+      "name_zh": "王琳",
+      "name_en": "Wang Lin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "新疆维吾尔自治区党委",
+      "name_en": "CPC Xinjiang Uyghur Autonomous Region Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "乌鲁木齐市委",
+      "name_en": "Urumqi Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "乌鲁木齐",
+      "name_en": "Urumqi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "昌吉回族自治州",
+      "name_en": "Changji Hui Autonomous Prefecture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能+",
+      "name_en": "AI+"
+    }
+  ],
+  "tags_zh": [
+    "王琳",
+    "新疆维吾尔自治区党委",
+    "乌鲁木齐市委",
+    "乌鲁木齐",
+    "昌吉回族自治州",
+    "人事调整",
+    "人工智能+"
+  ],
+  "tags_en": [
+    "Wang Lin",
+    "CPC Xinjiang Uyghur Autonomous Region Committee",
+    "Urumqi Municipal Party Committee",
+    "Urumqi",
+    "Changji Hui Autonomous Prefecture",
+    "Personnel Adjustment",
+    "AI+"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-lin-xinjiang"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "新疆维吾尔自治区党委",
+        "name_en": "CPC Xinjiang Uyghur Autonomous Region Committee"
+      },
+      {
+        "name_zh": "乌鲁木齐市委",
+        "name_en": "Urumqi Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260601-bjnews_zhengshier-47a3ad",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

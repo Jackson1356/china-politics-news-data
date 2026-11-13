@@ -1,0 +1,83 @@
+{
+  "id": "20261113-beijing_daily-f1ac08",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/13/12029354.shtml",
+  "title_zh": "日本政府考虑允许紧急情况下将核武器运进日本，国防部回应",
+  "title_en": "Defense Ministry Responds to Japan's Plan to Allow Nuclear Weapons Into Japan in Emergencies",
+  "summary_zh": "11月13日，国防部发言人陈曦回应日本拟允许紧急情况下将核武器运进日本，批评日方渐进式核松绑，呼吁国际社会警惕日本再军事化。",
+  "summary_en": "On Nov 13, Ministry of National Defense spokesperson Chen Xi criticized Japan's plan to allow nuclear weapons into Japan in emergencies as a step toward nuclear loosening and urged the international community to guard against Japan's remilitarization.",
+  "body_zh": "11月13日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。\n陈曦说，日本是二战战败国。历史上日本军国主义曾经犯下滔天罪行，给亚太和世界人民造成深重灾难。日方本应深刻反省侵略历史和所犯罪责，深刻汲取历史教训。然而日本右翼势力却不断编造所谓“中国威胁论”的虚假叙事，黑白颠倒编排“受害者”戏码，加速扩充防卫开支，强化进攻性作战和远程攻击力量，现在更是妄图实现渐进式核松绑，种种行径不仅是对自身和平承诺的背叛，更是对战后国际秩序和《不扩散核武器条约》权威性的公然挑衅。国际社会应高度警惕、共同遏止日本“再军事化”妄动，维护国际核不扩散体系，捍卫国际安全与和平。\n（北京日报社原创新闻作品）\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "核不扩散",
+    "日本再军事化",
+    "防卫开支"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核不扩散",
+      "name_en": "Nuclear Non-Proliferation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "日本再军事化",
+      "name_en": "Japan's Remilitarization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防卫开支",
+      "name_en": "Defense Spending"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "核不扩散",
+    "日本再军事化",
+    "防卫开支"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "Nuclear Non-Proliferation",
+    "Japan's Remilitarization",
+    "Defense Spending"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261113-beijing_daily-f1ac08",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

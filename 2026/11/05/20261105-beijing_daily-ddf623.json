@@ -1,0 +1,88 @@
+{
+  "id": "20261105-beijing_daily-ddf623",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/05/12019049.shtml",
+  "title_zh": "日本新“安保三文件”将重点加码进攻型军力，外交部回应",
+  "title_en": "Foreign Ministry Responds as Japan's New Security Documents Prioritize Offensive Military Capabilities",
+  "summary_zh": "11月5日，外交部发言人郭嘉昆在例行记者会上批评日本修订“安保三文件”、加速“再军事化”，称其严重威胁地区和平稳定。",
+  "summary_en": "On November 5, Foreign Ministry spokesperson Guo Jiakun criticized Japan's revision of its three security documents and its accelerated \"remilitarization,\" calling it a serious threat to regional peace and stability.",
+  "body_zh": "11月5日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆表示，日本迫不及待修订“安保三文件”，大幅提升军费开支、发展进攻力量，加速“再军事化”的野心昭然若揭。所谓“最大战略挑战”不过是日方以“防卫”为名行军事扩张之实的借口。\n“我们注意到，日本国内也在担忧和平国家理念变质，经济民生受到严重影响。”郭嘉昆指出，历史上，日本军国主义曾经犯下滔天罪行，给亚太和世界人民造成深重灾难。殷鉴不远，不可不察。日本“再军事化”狂飙突进，不断突破“专守防卫”，严重威胁地区和平稳定，挑战战后国际秩序。国际社会必须高度警惕、共同遏制。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "安保三文件",
+    "再军事化",
+    "地区和平稳定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安保三文件",
+      "name_en": "Three Security Documents"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "再军事化",
+      "name_en": "Remilitarization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区和平稳定",
+      "name_en": "Regional Peace and Stability"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "安保三文件",
+    "再军事化",
+    "地区和平稳定"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Three Security Documents",
+    "Remilitarization",
+    "Regional Peace and Stability"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261105-beijing_daily-ddf623",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

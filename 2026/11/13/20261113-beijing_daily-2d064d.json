@@ -1,0 +1,83 @@
+{
+  "id": "20261113-beijing_daily-2d064d",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/13/12029313.shtml",
+  "title_zh": "外交部：中方愿同泰国等湄公河国家加强水资源和生态环境保护合作",
+  "title_en": "Foreign Ministry: China Ready to Strengthen Water Resources and Ecological Protection Cooperation with Thailand and Other Mekong Countries",
+  "summary_zh": "11月13日，外交部发言人毛宁在例行记者会上回应泰国方面关切，表示中国政府一贯要求企业严格保护环境，愿同泰国等湄公河国家加强水资源和生态环境保护合作。",
+  "summary_en": "On November 13, Foreign Ministry spokesperson Mao Ning told a regular press briefing that China requires its companies to strictly protect the environment and is ready to strengthen water resources and ecological protection cooperation with Thailand and other Mekong countries.",
+  "body_zh": "11月13日，外交部发言人毛宁主持例行记者会。\n彭博社记者提问，针对泰国方面的担忧，即缅甸境内涉及中国企业的采矿活动可能导致流入泰国的河流水体受到砷污染，中方正准备采取哪些应对措施？其中是否包括对涉事企业展开调查？\n毛宁表示，我可以告诉你的是，中国政府一贯要求企业履行社会责任，严格保护环境，我们也愿意同泰国等湄公河国家加强水资源和生态环境保护合作。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "水资源保护",
+    "生态环境保护",
+    "湄公河合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水资源保护",
+      "name_en": "Water Resource Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "湄公河合作",
+      "name_en": "Mekong Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "水资源保护",
+    "生态环境保护",
+    "湄公河合作"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Water Resource Protection",
+    "Ecological Protection",
+    "Mekong Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261113-beijing_daily-2d064d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

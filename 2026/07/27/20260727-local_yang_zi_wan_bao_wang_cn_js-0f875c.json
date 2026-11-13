@@ -1,0 +1,83 @@
+{
+  "id": "20260727-local_yang_zi_wan_bao_wang_cn_js-0f875c",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202607/t20260727_376409.html",
+  "title_zh": "斯洛伐克总统佩列格里尼抵达北京开始访华",
+  "title_en": "Slovak President Pellegrini Arrives in Beijing for State Visit",
+  "summary_zh": "应国家主席习近平邀请，斯洛伐克总统佩列格里尼7月27日下午抵达北京，开始为期三天的国事访问。",
+  "summary_en": "At the invitation of President Xi Jinping, Slovak President Peter Pellegrini arrived in Beijing on the afternoon of July 27 for a three-day state visit.",
+  "body_zh": "斯洛伐克总统佩列格里尼抵达北京开始访华\n新华社北京7月27日电（记者万倩仪）应国家主席习近平邀请，斯洛伐克总统佩列格里尼7月27日下午抵达北京，开始对中国进行为期三天的国事访问。\n斯洛伐克是最早承认并同新中国建交的国家之一，是中国在欧洲的重要合作伙伴。此次访问是佩列格里尼就任以来首次访华。\n外交部发言人日前表示，中方愿同斯方一道，以此访为契机，不断深化传统友谊和政治互信，加强发展战略对接，拓展各领域交流合作，推进高质量共建“一带一路”和中国－中东欧国家合作，持续丰富中斯战略伙伴关系内涵。\n要闻\n更多>>",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-27",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中斯关系"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中斯关系",
+      "name_en": "China-Slovakia Relations"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "国事访问",
+    "中斯关系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Beijing",
+    "State Visit",
+    "China-Slovakia Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260727-local_yang_zi_wan_bao_wang_cn_js-0f875c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

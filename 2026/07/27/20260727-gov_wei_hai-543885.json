@@ -1,0 +1,97 @@
+{
+  "id": "20260727-gov_wei_hai-543885",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/7/27/art_58817_6507345.html",
+  "title_zh": "张海波调研工业经济发展",
+  "title_en": "Zhang Haibo Investigates Industrial Economic Development",
+  "summary_zh": "7月24日，威海市委书记张海波到高区、临港区调研工业经济发展，强调做优做强先进制造业。",
+  "summary_en": "On July 24, Zhang Haibo, Secretary of Weihai Municipal Committee, visited Gaoxin and Lingang districts to inspect industrial economy, emphasizing advanced manufacturing development.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）7月24日，市委书记张海波到高区、临港区调研工业经济发展，强调要牢固树立和践行正确政绩观，深入推进工业经济“头号工程”，做大做强先进制造业，夯实高质量发展的基础支撑。市领导于宁、张刚参加。\n在威高集团，张海波走进企业展厅、预灌封车间和血液净化生产车间，了解企业产业体系建设情况，希望企业充分发挥链主企业作用，优化资源配置、延伸产业链条，不断提升核心竞争力和行业带动力。在迪尚集团，张海波对企业数智转型、工装研发、个性化定制等工作给予肯定，勉励企业强化品牌引领，掌握行业标准话语权，走高端化、特色化发展路子。在拓展纤维和碳纤维产业园源网荷储一体化试点项目现场，张海波了解高端碳纤维生产、研发及应用情况，现场察看源网荷储项目运行情况，强调要持续攻坚关键核心技术，用足用好绿电优势，推动企业降本增效、产业集聚发展。在三角轮胎，张海波走进企业研究与测试中心，现场察看轮胎生产线，希望持续深耕主业，强化科技支撑，提升产品性能，注重产品质量，扩大产品市场占有率。",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "industry",
+  "keywords": [
+    "工业经济",
+    "先进制造业",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业经济",
+      "name_en": "Industrial Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "工业经济",
+    "先进制造业",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Industrial Economy",
+    "Advanced Manufacturing",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "张刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260727-gov_wei_hai-543885",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

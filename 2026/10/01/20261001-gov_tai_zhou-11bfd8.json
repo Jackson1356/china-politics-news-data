@@ -1,0 +1,101 @@
+{
+  "id": "20261001-gov_tai_zhou-11bfd8",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_3a05a5216a8545c8b48434909f610e1c.html",
+  "title_zh": "泰州市举行烈士纪念日公祭仪式",
+  "title_en": "Taizhou Holds Martyrs' Day Memorial Ceremony",
+  "summary_zh": "2026年9月30日，泰州市在市烈士陵园举行烈士纪念日公祭仪式，市委书记姜冬冬、市长李晖等市领导与社会各界代表缅怀先烈、敬献花篮。",
+  "summary_en": "On Sept 30, 2026, Taizhou held a Martyrs' Day memorial ceremony at its martyrs' cemetery, where Party Secretary Jiang Dongdong and Mayor Li Hui joined representatives in honoring the fallen.",
+  "body_zh": "泰州要闻\n泰州市举行烈士纪念日公祭仪式\n- 发布日期：2026-10-01 08:13\n- 浏览次数：\n今年9月30日是全国第十三个“烈士纪念日”，当天上午，泰州市烈士纪念日公祭仪式在市烈士陵园举行。市委书记姜冬冬、市长李晖、市人大常委会主任张余松、市政协主席张小兵等市领导与社会各界代表一起缅怀先烈，致敬英雄，弘扬革命精神，赓续红色血脉，凝聚推进中国式现代化泰州新实践的强大力量。\n陵园内松柏苍翠，革命烈士纪念塔巍然矗立，现场气氛庄严肃穆。\n上午9时许，公祭仪式在庄严的《烈士纪念日号角》声中正式开始，市长李晖主持。\n伴随着雄壮高亢的旋律，全场高唱中华人民共和国国歌。国歌唱毕，全场肃立，向为中国人民解放事业和社会主义建设事业英勇献身的烈士默哀。\n默哀毕，少先队员面向革命烈士纪念塔高唱《我们是共产主义接班人》。\n深情的《献花曲》缓缓响起，18名礼兵护送花篮，缓步走向革命烈士纪念塔，将花篮整齐安放于塔前。姜冬冬缓步向前，仔细整理花篮缎带。\n随后，全体人员缓步绕行，深情瞻仰革命烈士纪念塔，共同缅怀先烈。\n市级机关部门负责人、部分机关干部代表、烈属和老战士代表、驻泰部队官兵、少先队员等参加活动。\n公祭仪式开始前，姜冬冬、李晖等市领导在活动现场看望慰问了烈属和老战士代表。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "party",
+  "keywords": [
+    "烈士纪念日",
+    "弘扬革命精神"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烈士纪念日",
+      "name_en": "Martyrs' Day"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "弘扬革命精神",
+      "name_en": "Carrying Forward Revolutionary Spirit"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "李晖",
+    "泰州",
+    "烈士纪念日",
+    "弘扬革命精神"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Li Hui",
+    "Taizhou",
+    "Martyrs' Day",
+    "Carrying Forward Revolutionary Spirit"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      "jiang-dongdong-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-gov_tai_zhou-11bfd8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_3a05a5216a8545c8b48434909f610e1c.html",
+      "title_zh": "泰州市举行烈士纪念日公祭仪式",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

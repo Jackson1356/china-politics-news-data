@@ -1,0 +1,83 @@
+{
+  "id": "20261002-gov_cn_yaowen-0472e0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202610/content_7082591.htm",
+  "title_zh": "国庆假期首日全社会跨区域人员流动量预计超3.3亿人次",
+  "title_en": "Cross-Region Travel Volume Expected to Top 330 Million on First Day of National Day Holiday",
+  "summary_zh": "据交通运输部消息，10月1日国庆假期首日，预计全社会跨区域人员流动量达33410万人次，环比增长52.3%，其中铁路、公路、水路、民航客运量均有不同程度变化。",
+  "summary_en": "China's Ministry of Transport said cross-region passenger flows on Oct 1, the first day of the National Day holiday, are expected to reach 334.1 million trips, up 52.3% from the previous day, with rail, road, water and air passenger volumes all shifting.",
+  "body_zh": "记者从交通运输部获悉：10月1日，国庆假期首日，预计全社会跨区域人员流动量33410万人次，环比增长52.3%。\n分方式来看，铁路客运量预计2480万人次，环比增长26.9%，比去年同期增长7.2%；公路人员流动量预计30545万人次，环比增长55.4%，比去年同期下降1.1%；水路客运量预计134万人次，环比增长63%，比去年同期增长1.4%；民航客运量预计251万人次，环比增长2.4%，比去年同期增长0.3%。（记者 韩鑫）",
+  "image_url": null,
+  "published_at": "2026-10-02T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "economy",
+  "keywords": [
+    "国庆假期",
+    "交通运输",
+    "人员流动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期",
+      "name_en": "National Day Holiday"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人员流动",
+      "name_en": "Passenger Flows"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "国庆假期",
+    "交通运输",
+    "人员流动"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "National Day Holiday",
+    "Transportation",
+    "Passenger Flows"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261002-gov_cn_yaowen-0472e0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

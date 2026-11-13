@@ -1,0 +1,91 @@
+{
+  "id": "20261013-cpcnews-e5f385",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1013/c64387-40813411.html",
+  "title_zh": "我国生成式人工智能用户规模超7亿人",
+  "title_en": "China's Generative AI User Base Surpasses 700 Million",
+  "summary_zh": "中国互联网络信息中心发布的报告显示，截至2026年上半年，我国生成式人工智能用户规模超7亿人，普及率超50%，应用场景呈多元化发展。",
+  "summary_en": "A report by China's Internet Network Information Center shows that as of the first half of 2026, China's generative AI user base exceeded 700 million, with a penetration rate above 50% and increasingly diverse applications.",
+  "body_zh": "截至今年上半年\n本报北京10月12日电 （记者金歆）记者近期从中国互联网络信息中心获悉：截至今年上半年，我国生成式人工智能用户规模超7亿人，普及率超50%。\n该中心发布的《生成式人工智能应用发展报告（2026）》显示，生成式人工智能应用场景呈现多元化发展态势，以智能设备为代表的智能消费潜力加速释放。76.0%的用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为47.8%、37.6%和32.5%。人工智能综合助手、人工智能效率办公等应用的使用次数同比增长均超100%。\n截至今年6月，围绕集成电路、人工智能等数字产业领域，我国累计培育建设16个国家级先进制造业集群，规上制造业企业人工智能技术应用普及率超过三成，人工智能基本贯穿研发设计、生产制造、质检运维等全链条。\n《 人民日报 》（ 2026年10月13日 02 版）",
+  "image_url": null,
+  "published_at": "2026-10-13T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:58Z",
+  "topic": "industry",
+  "keywords": [
+    "生成式人工智能",
+    "数字经济",
+    "智能制造"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生成式人工智能",
+      "name_en": "Generative AI"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能制造",
+      "name_en": "Smart Manufacturing"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "生成式人工智能",
+    "数字经济",
+    "智能制造"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Generative AI",
+    "Digital Economy",
+    "Smart Manufacturing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261013-cpcnews-e5f385",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/1013/c351638-41719905.html",
+      "title_zh": "我国生成式人工智能用户规模超7亿人",
+      "published_at": "2026-10-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

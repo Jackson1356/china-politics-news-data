@@ -1,0 +1,106 @@
+{
+  "id": "20261111-chinanews_gn-3a2799",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-11/10730249.shtml",
+  "title_zh": "中国政府中东问题特使翟隽访问阿曼",
+  "title_en": "Chinese Government Special Envoy for the Middle East Zhai Jun Visits Oman",
+  "summary_zh": "中国政府中东问题特使翟隽访问阿曼，同阿方就落实两国元首重要共识、深化中阿战略伙伴关系及当前中东局势交换意见，呼吁通过对话谈判化解分歧。",
+  "summary_en": "Zhai Jun, China's special envoy for Middle East affairs, visited Oman and exchanged views with the Omani side on implementing the two countries' leaders' consensus, deepening the China-Oman strategic partnership and the current Middle East situation, calling for resolving differences through dialogue and negotiation.",
+  "body_zh": "中国政府中东问题特使翟隽访问阿曼\n翟隽表示，中国同阿曼友好关系源远流长。前不久，阿曼苏丹海赛姆成功访华，习近平主席同海赛姆苏丹就深化中阿战略伙伴关系达成一系列重要共识。中方愿同阿方一道，以两国元首外交重要成果为引领，推动双边关系向更高水平迈进。当前，中东局势持续动荡，中方始终积极致力于促和止战，习近平主席提出一系列致力于中东和平稳定的倡议主张，为破解地区安全困境贡献了中国智慧和方案。中方呼吁有关各方通过对话谈判化解分歧矛盾，赞赏阿曼等国为平息战事、争取和平所作的努力，愿同各方保持密切沟通和协调，共同为恢复中东海湾地区和平安宁作出贡献。\n希纳伊表示，阿曼珍视同中国的战略伙伴关系，将落实好两国元首重要共识，不断推进阿中各领域合作。中东局势发展事关所有地区国家和国际社会共同利益，阿曼将继续发挥斡旋和协调作用。阿方在地区问题上同中方立场相近，赞赏中方为推动缓局降温所发挥的积极建设性作用，愿同中方一道，协调推动有关各方通过和平方式解决纷争，共促地区和平稳定。\n国内新闻精选：\n- 2026年11月11日 07:00:01\n- 2026年11月10日 22:03:06\n- 2026年11月10日 15:38:19\n- 2026年11月10日 12:05:41\n- 2026年11月10日 08:45:47\n- 2026年11月09日 16:49:56\n- 2026年11月09日 13:48:47\n- 2026年11月09日 13:13:37\n- 2026年11月08日 20:38:02\n- 2026年11月08日 17:31:16",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "foreign",
+  "keywords": [
+    "中东和平稳定",
+    "战略伙伴关系",
+    "外交斡旋"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "翟隽",
+      "name_en": "Zhai Jun"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "阿曼",
+      "name_en": "Oman"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东和平稳定",
+      "name_en": "Middle East Peace and Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交斡旋",
+      "name_en": "Diplomatic Mediation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "翟隽",
+    "阿曼",
+    "中东和平稳定",
+    "战略伙伴关系",
+    "外交斡旋",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhai Jun",
+    "Oman",
+    "Middle East Peace and Stability",
+    "Strategic Partnership",
+    "Diplomatic Mediation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-chinanews_gn-3a2799",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1794384620129052.html",
+      "title_zh": "中国政府中东问题特使翟隽访问阿曼",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

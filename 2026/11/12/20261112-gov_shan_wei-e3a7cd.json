@@ -1,0 +1,106 @@
+{
+  "id": "20261112-gov_shan_wei-e3a7cd",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1311123.html",
+  "title_zh": "逯峰会见广州中医药大学第一附属医院院长李俊",
+  "title_en": "Lu Feng Meets Li Jun, President of the First Affiliated Hospital of Guangzhou University of Chinese Medicine",
+  "summary_zh": "11月12日，汕尾市委书记逯峰会见广州中医药大学第一附属医院院长李俊，双方围绕推动深汕中医医院高质量发展、深化中医药领域合作座谈交流。",
+  "summary_en": "On Nov 12, Shanwei Party Secretary Lu Feng met Li Jun, president of the First Affiliated Hospital of Guangzhou University of Chinese Medicine, to discuss high-quality development of the Shenshan TCM Hospital and deeper cooperation in traditional Chinese medicine.",
+  "body_zh": "11月12日，市委书记、市人大常委会主任逯峰会见广州中医药大学第一附属医院党委副书记、院长李俊，双方就深入学习贯彻习近平总书记对广东系列重要讲话和重要指示精神，认真落实省委“1310”具体部署，推动深汕中医医院高质量发展，更好满足群众多样化、高品质的中医医疗健康需求等座谈交流。\n逯峰代表市委、市政府欢迎李俊一行的到来，感谢广州中医药大学第一附属医院长期以来对汕尾医疗卫生事业发展的关心支持。他说，当前，汕尾正锚定省委赋予的“西承东联桥头堡、东海岸重要支点”战略定位，聚焦“再造一个新汕尾”总目标，以深入实施“百千万工程”为总牵引，全力打好民生保障大会战，持续增进老区人民健康福祉。希望广州中医药大学第一附属医院继续在中医药优势专科建设、医疗人才培养、产学研协同创新、文旅康养产业发展等领域深化与汕尾的务实合作，健全专家派驻、学科共建、双向转诊、远程会诊等长效合作机制，努力将深汕中医医院建设成为具有粤东区域影响力的中医药医疗服务高地。\n李俊简要介绍了深汕中医医院建设、运营筹备及下一步发展思路。他表示，广州中医药大学第一附属医院将坚持汕尾所需、医院所能，充分发挥优势作用，以更大力度、更实举措推进深汕中医医院“一院两区”建设，持续加大医疗技术、学科建设、人才招引、产业项目等资源导入力度，积极探索中医药与康养产业融合发展新路径，推动优质中医药服务向县镇村延伸，为加快建设健康汕尾、推动中医药事业高质量发展作出新的更大贡献。\n市领导庄红琴参加会见。\n记者：钟佳韦\n通讯员：单伟宗",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "welfare",
+  "keywords": [
+    "中医药事业",
+    "医疗卫生合作",
+    "百千万工程"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lu-feng-shanwei",
+      "name_zh": "逯峰",
+      "name_en": "Lu Feng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广州中医药大学第一附属医院",
+      "name_en": "First Affiliated Hospital of Guangzhou University of Chinese Medicine"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中医药事业",
+      "name_en": "Traditional Chinese Medicine"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗卫生合作",
+      "name_en": "Healthcare Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "百千万工程",
+      "name_en": "Hundred-Thousand-Ten Thousand Project"
+    }
+  ],
+  "tags_zh": [
+    "逯峰",
+    "广州中医药大学第一附属医院",
+    "汕尾",
+    "中医药事业",
+    "医疗卫生合作",
+    "百千万工程"
+  ],
+  "tags_en": [
+    "Lu Feng",
+    "First Affiliated Hospital of Guangzhou University of Chinese Medicine",
+    "Shanwei",
+    "Traditional Chinese Medicine",
+    "Healthcare Cooperation",
+    "Hundred-Thousand-Ten Thousand Project"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-feng-shanwei"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": [
+      {
+        "name_zh": "广州中医药大学第一附属医院",
+        "name_en": "First Affiliated Hospital of Guangzhou University of Chinese Medicine"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261112-gov_shan_wei-e3a7cd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

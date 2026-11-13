@@ -1,0 +1,101 @@
+{
+  "id": "20260901-gov_chang_zhou-bddde5",
+  "source": "gov_chang_zhou",
+  "source_name_zh": "常州市政府网",
+  "source_name_en": "常州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/9/1/art_60096_11823309.html",
+  "title_zh": "2026集成电路（无锡）创新发展大会开幕 刘小涛出席",
+  "title_en": "2026 Integrated Circuit (Wuxi) Innovation and Development Conference Opens, Liu Xiaotao Attends",
+  "summary_zh": "8月31日，以“芯生万象 链动无界”为主题的2026集成电路（无锡）创新发展大会开幕，江苏省省长刘小涛出席开幕式并为江苏省集成电路产业联盟揭牌。",
+  "summary_en": "On August 31, the 2026 Integrated Circuit Innovation and Development Conference opened in Wuxi, where Jiangsu Governor Liu Xiaotao attended the opening ceremony and unveiled the Jiangsu Integrated Circuit Industry Alliance.",
+  "body_zh": "当前位置：\n2026集成电路（无锡）创新发展大会开幕 刘小涛出席\n8月31日，以“芯生万象 链动无界”为主题的2026集成电路（无锡）创新发展大会开幕。省长刘小涛出席大会开幕式。\n集成电路是支撑现代经济社会发展的战略性、基础性和先导性产业。近年来，江苏深入贯彻落实习近平总书记重要讲话重要指示精神，紧跟全球半导体提速发展浪潮，立足集成电路产业基础聚力强链延链补链，产业规模、企业数量及产品产量均居全国前列。集成电路（无锡）创新发展大会自2023年创办以来已连续举办四届， 本次大会将推动技术交流、成果发布、项目对接、产业合作、金融赋能，进一步提升集成电路产业关键技术攻关能力、产业链协同水平和集群发展能级。同时举办的第十四届半导体设备材料及核心部件展，参展企业达1300余家，集中展示了国产半导体设备最新成果。\n刘小涛为江苏省集成电路产业联盟揭牌。副省长沈剑荣致辞。工业和信息化部有关司局负责同志致辞。江苏省集成电路先进制程材料重点实验室、江苏省高密度光和电微系统集成重点实验室（筹）、江苏省智能功率集成电路及模块重点实验室（筹）启动建设。\n在无锡期间，刘小涛调研了星驱科技公司、蓝箭航天科技公司。\n中国工程院院士丁荣军，中国科学院院士施毅，省政府秘书长赵建军，省有关部门单位和设区市负责同志，行业协会、高校院所、投资机构及企业代表参加活动。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "industry",
+  "keywords": [
+    "集成电路产业",
+    "产业创新",
+    "半导体设备"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "集成电路产业",
+      "name_en": "Integrated Circuit Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体设备",
+      "name_en": "Semiconductor Equipment"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "无锡",
+    "集成电路产业",
+    "产业创新",
+    "半导体设备"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Wuxi",
+    "Integrated Circuit Industry",
+    "Industrial Innovation",
+    "Semiconductor Equipment"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260901-gov_chang_zhou-bddde5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wu_xi",
+      "source_tier": 4,
+      "url": "https://www.wuxi.gov.cn/doc/2026/09/01/4825258.shtml",
+      "title_zh": "2026集成电路（无锡）创新发展大会开幕",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

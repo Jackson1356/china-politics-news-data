@@ -1,0 +1,98 @@
+{
+  "id": "20260804-gov_cn_yaowen-75529f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7077459.htm",
+  "title_zh": "《全国地质灾害防治“十五五”实施方案》公布",
+  "title_en": "National 15th Five-Year Plan for Geological Disaster Prevention Released",
+  "summary_zh": "自然资源部8月4日公布《全国地质灾害防治“十五五”实施方案》，部署工程治理4200余处、排危除险6100余处、避险搬迁5万户，并明确21个重点防治区。",
+  "summary_en": "On August 4, the Ministry of Natural Resources released the 15th Five-Year Plan for national geological disaster prevention, deploying over 4,200 engineering treatments, 6,100 risk-elimination projects, and relocation of 50,000 households, identifying 21 key prevention zones.",
+  "body_zh": "新华社北京8月4日电（记者 王立彬）“十五五”期间，全国将实施地质灾害综合治理能力提升工程，部署地质灾害工程治理4200余处、排危除险6100余处，实施地质灾害避险搬迁5万户。\n根据自然资源部8月4日公布的《全国地质灾害防治“十五五”实施方案》，“十五五”期间将健全完善高效科学的地质灾害防治体系，全面提高基层抵御地质灾害的综合能力，实施地质灾害点和风险区动态调查工程、地质灾害监测预警能力提升工程、地质灾害综合治理能力提升工程，实施“灾害点+风险区”双控管理，提升地质灾害防御响应能力和基层防灾能力，加强地质灾害防治科学理论与技术方法创新，建设完善“一张图”地质灾害防治子场景。\n实施方案划分了“十五五”期间全国21个地质灾害重点防治区。其中，滑坡、崩塌、泥石流、地面塌陷重点防治区17个，总面积约297万平方千米；地面沉降和地裂缝重点防治区4个，总面积约28万平方千米。实施方案将东南丘陵、西南山区重点防治区进行了细化，增加了雅下水电工程建设、高位远程地质灾害链、燕山—太行山等重点防治区域，体现了近年来重大工程建设、高位远程链式隐蔽性灾害以及北方地区防灾的紧迫性和重要性。\n我国地形地貌多样、地质条件复杂、构造活动强烈，加之气候类型复杂多样、极端天气频发、人为工程活动强烈，地质灾害易发、多发、频发。截至2025年底，全国登记入库地质灾害点近28万处，威胁着1148万人和7601亿元财产的安全。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害防治",
+    "防灾减灾",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害防治",
+      "name_en": "Geological Disaster Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "地质灾害防治",
+    "防灾减灾",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Geological Disaster Prevention",
+    "Disaster Prevention and Mitigation",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260804-gov_cn_yaowen-75529f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260804/b030d395e6d649c39249cb64f88232f7/c.html",
+      "title_zh": "既要靠科技又要靠“老把式”——自然资源部有关负责人介绍“十五五”地灾防治工作",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    },
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260804/d6ca5d205a68459c9cf0ccdf82616bc0/c.html",
+      "title_zh": "《全国地质灾害防治“十五五”实施方案》公布",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

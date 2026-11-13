@@ -1,0 +1,101 @@
+{
+  "id": "20261106-gov_cn_yaowen-664f74",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085415.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在河南宣讲",
+  "title_en": "Central Lecture Team on Fifth Plenum Spirit Delivers Report in Henan",
+  "summary_zh": "11月6日，学习贯彻党的二十届五中全会精神中央宣讲团报告会在河南郑州举行，中央宣讲团成员臧安民作宣讲报告，并与基层党员群众座谈交流。",
+  "summary_en": "On November 6, a report meeting by the central lecture team on the Fifth Plenary Session of the 20th CPC Central Committee was held in Zhengzhou, Henan, where team member Zang Anmin delivered the report and later met grassroots Party members.",
+  "body_zh": "新华社郑州11月6日电（记者 张浩然）学习贯彻党的二十届五中全会精神中央宣讲团报告会11月6日在河南省郑州市举行。中央宣讲团成员、中央组织部原秘书长臧安民作宣讲报告。\n报告会上，臧安民围绕习近平总书记在党的二十届五中全会上的重要讲话和全会《决定》，介绍《决定》的起草情况和主要特点，从深刻认识党的十八大以来全面从严治党取得的伟大成就和党的二十届四中全会以来党和国家事业取得的新进展新成效，全面准确理解持之以恒推进全面从严治党的重要性紧迫性、总体要求、战略任务和重大举措，坚持正确用人导向，统筹推进各领域基层党组织建设等方面，对全会精神作了全面宣讲和系统阐释。\n臧安民表示，新时代全面从严治党取得伟大成就，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想特别是习近平党建思想科学指引。要按照党中央统一部署，把学习贯彻全会精神作为重大政治任务，同深入学习贯彻习近平党建思想紧密结合起来，摆上重要日程，精心组织实施，不断开创新时代管党治党、兴党强党新局面。\n6日下午，臧安民来到郑州经济技术开发区亚太社区，与基层党员干部群众开展面对面、互动式座谈宣讲。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "基层党组织建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA-ZZ",
+      "name_zh": "郑州",
+      "name_en": "Zhengzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Fifth Plenary Session Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层党组织建设",
+      "name_en": "Grassroots Party Organization Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "河南",
+    "郑州",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "基层党组织建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Henan",
+    "Zhengzhou",
+    "Fifth Plenary Session Spirit",
+    "Full and Rigorous Party Governance",
+    "Grassroots Party Organization Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA",
+      "CN-HA-ZZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261106-gov_cn_yaowen-664f74",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

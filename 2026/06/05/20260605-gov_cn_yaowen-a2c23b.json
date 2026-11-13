@@ -1,0 +1,123 @@
+{
+  "id": "20260605-gov_cn_yaowen-a2c23b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071341.htm",
+  "title_zh": "王毅同缅甸外长丁貌瑞会谈",
+  "title_en": "Wang Yi Meets with Myanmar Foreign Minister Than Lwin Tun",
+  "summary_zh": "6月5日，外交部长王毅在京同缅甸外长丁貌瑞举行会谈，双方就推动中缅命运共同体建设、打击跨国犯罪及推进经济走廊建设等议题交换意见。",
+  "summary_en": "On June 5, Foreign Minister Wang Yi met with Myanmar Foreign Minister Than Lwin Tun in Beijing to discuss the China-Myanmar community with a shared future, combating transnational crime, and the China-Myanmar Economic Corridor.",
+  "body_zh": "新华社北京6月5日电 中共中央政治局委员、外交部长王毅5日在京同缅甸外长丁貌瑞举行会谈。\n王毅表示，2020年习近平主席历史性访缅，推动中缅关系进入构建命运共同体的新时期。今年是缅新政府施政第一年。中方愿同缅方推动中缅命运共同体建设取得更多务实成果，支持缅方积极推进国内和平和解，愿同缅方合力打击跨国犯罪。\n丁貌瑞说，缅方完全支持习近平主席提出的四大全球倡议，坚定不移奉行一个中国政策。缅新政府愿同中方加强高层交往，推进缅中经济走廊建设，欢迎更多中资企业赴缅投资兴业。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "中缅关系",
+    "命运共同体",
+    "跨国犯罪",
+    "缅中经济走廊"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "丁貌瑞",
+      "name_en": "Than Lwin Tun"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中缅关系",
+      "name_en": "China-Myanmar Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨国犯罪",
+      "name_en": "Transnational Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "缅中经济走廊",
+      "name_en": "China-Myanmar Economic Corridor"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "丁貌瑞",
+    "外交部",
+    "北京",
+    "中缅关系",
+    "命运共同体",
+    "跨国犯罪",
+    "缅中经济走廊"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Than Lwin Tun",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Myanmar Relations",
+    "Community with a Shared Future",
+    "Transnational Crime",
+    "China-Myanmar Economic Corridor"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260605-chinanews_gn-6bc1ae",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

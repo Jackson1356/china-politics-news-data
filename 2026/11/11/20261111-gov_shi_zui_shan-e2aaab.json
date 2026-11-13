@@ -1,0 +1,111 @@
+{
+  "id": "20261111-gov_shi_zui_shan-e2aaab",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085599.htm",
+  "title_zh": "李强签署国务院令 公布《中医药传统知识保护条例》",
+  "title_en": "Li Qiang Signs State Council Decree Publishing Regulation on Protection of Traditional Chinese Medicine Knowledge",
+  "summary_zh": "国务院总理李强日前签署国务院令，公布《中医药传统知识保护条例》，共32条，自2027年1月1日起施行，旨在保护并传承发展中医药传统知识。",
+  "summary_en": "Premier Li Qiang signed a State Council decree publishing the 32-article Regulation on the Protection of Traditional Chinese Medicine Knowledge, effective January 1, 2027, aimed at protecting and passing on TCM traditional knowledge.",
+  "body_zh": "李强签署国务院令\n公布《中医药传统知识保护条例》\n新华社北京11月9日电 国务院总理李强日前签署国务院令，公布\n《中医药传统知识保护条例》\n（以下简称《条例》），自2027年1月1日起施行。\n《条例》旨在保护中医药传统知识，促进中医药传统知识的传承和发展，弘扬中医药文化。《条例》共32条，主要规定了以下内容。\n一是明确总体要求。界定中医药传统知识的范围，提出保护工作的原则。规定政府加强保护工作，鼓励和引导社会参与。支持中医药传统知识对外交流与合作，促进国际传播和应用。做好中医药传统知识保护相关的保密等工作。\n二是全面发掘整理中医药传统知识。通过整理遴选中医药古籍文献、开展中医药传统知识调查、鼓励持有人申报等方式，多渠道发掘整理中医药传统知识，建立保护数据库。加强保护数据库运用，促进中医药传统知识传播。完善中医药传统知识持有人制度，对处于公共领域且可以公开获取的中医药传统知识，支持合理利用，由国务院中医药主管部门履行持有人职责。\n三是加强对重要中医药传统知识的保护、传承、利用。建立保护名录，明确收录标准，通过专家组遴选、公示和发布等程序，将具有代表性、独特性和重要保护价值的中医药传统知识列入保护名录。对列入保护名录的中医药传统知识，支持传承传播，加强推广应用，促进研究创新。\n此外，对违反《条例》的行为明确了相应法律责任。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "industry",
+  "keywords": [
+    "中医药传统知识保护",
+    "中医药传承发展",
+    "法规制定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中医药传统知识保护",
+      "name_en": "TCM Traditional Knowledge Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中医药传承发展",
+      "name_en": "Inheritance of Traditional Chinese Medicine"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法规制定",
+      "name_en": "Regulation Making"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "中医药传统知识保护",
+    "中医药传承发展",
+    "法规制定"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "TCM Traditional Knowledge Protection",
+    "Inheritance of Traditional Chinese Medicine",
+    "Regulation Making"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261109-chinanews_gn-d61830",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_wu_zhong",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085599.htm",
+      "title_zh": "李强签署国务院令 公布《中医药传统知识保护条例》",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

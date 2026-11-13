@@ -1,0 +1,96 @@
+{
+  "id": "20260821-local_yan_zhou_ri_bao_da_yang_wang_cn_gd-91e89f",
+  "source": "local_yan_zhou_ri_bao_da_yang_wang_cn_gd",
+  "source_name_zh": "广州日报大洋网",
+  "source_name_en": "广州日报大洋网",
+  "source_media_id": "cac-cn-gd-61789ee59f",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-GD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.dayoo.com/guangzhou/150955.shtml",
+  "title_zh": "中国与瑞士完成自贸协定升级谈判",
+  "title_en": "China and Switzerland Conclude Upgraded FTA Negotiations",
+  "summary_zh": "8月20日，商务部部长王文涛在伯尔尼会见瑞士联邦主席帕姆兰，共同宣布完成中瑞自贸协定升级谈判并签署谅解备忘录。",
+  "summary_en": "On August 20, Commerce Minister Wang Wentao met with Swiss President Parmelin in Bern, jointly announcing the conclusion of upgrade negotiations of the China-Switzerland FTA and signing an MOU.",
+  "body_zh": "8月20日，瑞士联邦主席兼经济、教研部长帕姆兰在伯尔尼会见商务部部长王文涛，共同宣布完成中国—瑞士自由贸易协定升级谈判并签署谅解备忘录。中国驻瑞士大使钱敏坚、瑞士驻华大使马婷等出席活动。\n开学临近，同学们陆续开始乘车返校，大学新生购票有哪些便利政策？今年购买学生优惠票有哪些变化？这份购票攻略请收好！\n南海热带低压20日白天持续影响海南岛，海南省多部门接连发布多个预警。\n近日，教育部教育考试院发布通知，2026年上半年全国大学英语四、六级考试（CET）成绩查询服务将于2026年8月24日（周一）开通。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "自由贸易协定",
+    "中瑞关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-wentao",
+      "name_zh": "王文涛",
+      "name_en": "Wang Wentao"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "伯尔尼",
+      "name_en": "Bern"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自由贸易协定",
+      "name_en": "Free Trade Agreement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中瑞关系",
+      "name_en": "China-Switzerland Relations"
+    }
+  ],
+  "tags_zh": [
+    "王文涛",
+    "商务部",
+    "伯尔尼",
+    "自由贸易协定",
+    "中瑞关系"
+  ],
+  "tags_en": [
+    "Wang Wentao",
+    "Ministry of Commerce",
+    "Bern",
+    "Free Trade Agreement",
+    "China-Switzerland Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wentao",
+      {
+        "id": null,
+        "name_zh": "马婷等"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260821-local_yan_zhou_ri_bao_da_yang_wang_cn_gd-91e89f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

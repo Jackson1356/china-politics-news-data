@@ -1,0 +1,113 @@
+{
+  "id": "20260914-local_si_chuan_zai_xian_cn_sc-047bc7",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202609/83321654.html",
+  "title_zh": "习近平就深化金砖合作提出5项倡议",
+  "title_en": "Xi Jinping Proposes Five Initiatives to Deepen BRICS Cooperation",
+  "summary_zh": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，就深化金砖合作提出人工智能开源普惠、贸易投资便利化等5项倡议。",
+  "summary_en": "On the morning of September 13 local time, President Xi Jinping attended the second session of the 18th BRICS Leaders' Meeting in New Delhi, where he proposed five initiatives to deepen BRICS cooperation, including AI open-source accessibility and trade and investment facilitation.",
+  "body_zh": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议时就深化金砖合作提出5项倡议：一是人工智能开源普惠倡议，二是贸易投资便利化倡议，三是数字产业合作倡议，四是智能制造合作倡议，五是科技育才倡议。",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-13",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "人工智能",
+    "贸易投资便利化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易投资便利化",
+      "name_en": "Trade and Investment Facilitation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "新德里",
+    "金砖合作",
+    "人工智能",
+    "贸易投资便利化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New Delhi",
+    "BRICS Cooperation",
+    "Artificial Intelligence",
+    "Trade and Investment Facilitation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260913-cpcnews-f0fbbc",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "cjn",
+      "source_tier": 4,
+      "url": "http://news.cjn.cn/asy/ttxw/202609/t5339887.htm",
+      "title_zh": "习近平就深化金砖合作提出5项倡议",
+      "published_at": "2026-09-14T12:00:00+00:00"
+    },
+    {
+      "source": "local_hai_xia_wang_cn_fj",
+      "source_tier": 3,
+      "url": "http://www.hxnews.com/news/gn/szxw/202609/15/2270253.shtml",
+      "title_zh": "习近平就深化金砖合作提出5项倡议",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "source": "local_mei_ri_gan_su_wang_cn_gs",
+      "source_tier": 3,
+      "url": "https://china.gansudaily.com.cn/system/2026/09/15/031433381.shtml",
+      "title_zh": "习近平就深化金砖合作提出5项倡议",
+      "published_at": "2026-09-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

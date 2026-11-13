@@ -1,0 +1,122 @@
+{
+  "id": "20260713-peoples_gd-824b05",
+  "source": "peoples_gd",
+  "source_name_zh": "人民网 广东",
+  "source_name_en": "People's Daily Guangdong",
+  "source_url": "http://gd.people.com.cn/n2/2026/0713/c123932-41636886.html",
+  "title_zh": "组合驾驶辅助系统安全国家标准发布",
+  "title_en": "National Safety Standard for Combined Driving Assistance Systems Released",
+  "summary_zh": "工业和信息化部组织制定的《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准近日发布，拟于2027年1月1日起正式实施。",
+  "summary_en": "The mandatory national standard 'Safety Requirements for Combined Driving Assistance Systems for Intelligent Connected Vehicles,' organized by MIIT, has been released and will take effect on January 1, 2027.",
+  "body_zh": "组合驾驶辅助系统安全国家标准发布\n本报北京7月12日电 （记者王政）工业和信息化部组织制定并归口的《智能网联汽车 组合驾驶辅助系统安全要求》（GB 47955—2026）强制性国家标准，近日由国家市场监督管理总局、国家标准化管理委员会批准发布，拟于2027年1月1日起正式实施。\n据介绍，该标准提出了要求清晰、维度全面、适应国情的安全指标体系。一是充分考虑了不同产品形态和技术路线，针对基础单车道、基础多车道、领航驾驶辅助等3类组合驾驶辅助系统产品，分别提出所适用的安全要求。二是从功能要求、数据记录、车辆制造商安全保障等维度，提出了保障组合驾驶辅助系统安全运行的基线要求。三是提出了人机交互、使用说明、用户培训等要求，为用户和系统的正确配合提供基础保障。四是结合我国行业管理实际需要，构建了包括场地试验、道路试验、文件检验等在内的多层级评价方法，全面考察系统的安全能力。\n《 人民日报 》（ 2026年07月13日 06 版）",
+  "image_url": null,
+  "published_at": "2026-07-13T12:00:00+00:00",
+  "event_date": "2026-07-12",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "industry",
+  "keywords": [
+    "智能网联汽车",
+    "国家标准"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家标准化管理委员会",
+      "name_en": "Standardization Administration of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能网联汽车",
+      "name_en": "Intelligent Connected Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "国家市场监督管理总局",
+    "国家标准化管理委员会",
+    "北京",
+    "智能网联汽车",
+    "国家标准"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "State Administration for Market Regulation",
+    "Standardization Administration of China",
+    "Beijing",
+    "Intelligent Connected Vehicles",
+    "National Standards"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "施据"
+      }
+    ],
+    "institutions": [
+      "MIIT",
+      "SAMR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家标准化管理委员会",
+        "name_en": "Standardization Administration of China"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260713-peoples_gd-824b05",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_jl",
+      "source_tier": 3,
+      "url": "http://jl.people.com.cn/n2/2026/0713/c349771-41637074.html",
+      "title_zh": "组合驾驶辅助系统安全国家标准发布",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0713/c192237-41636972.html",
+      "title_zh": "组合驾驶辅助系统安全国家标准发布",
+      "published_at": "2026-07-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

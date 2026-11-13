@@ -1,0 +1,96 @@
+{
+  "id": "20260609-guancha_politics-81717b",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_09_819901.shtml",
+  "title_zh": "中国5月以美元计价出口同比增长19.4%，进口同比增长27.4%",
+  "title_en": "China's May Exports Up 19.4% and Imports Up 27.4% in USD Terms",
+  "summary_zh": "中国5月份以美元计价的出口同比增长19.4%，进口同比增长27.4%。",
+  "summary_en": "China's exports and imports in USD terms increased by 19.4% and 27.4% year-on-year in May.",
+  "body_zh": "朱雀二号改进型遥六运载火箭发射成功2026-06-09 17:01 航空航天\n台军又出事故，火箭弹刚发射就坠地2026-06-09 15:28 台湾\n“喜剧教父”黄百鸣，被判入狱5个月2026-06-09 14:46\n致3人永久失明，膳魔师多国紧急召回产品，中国召回近400万件2026-06-09 11:43\n金融监管总局：加快制定与房地产发展新模式相适应的融资制度2026-06-08 23:00 中国房市\n中纪委通报多名金融高管被查2026-06-08 20:23 廉政风暴\n三峡水运新通道开工2026-06-08 18:22\n全球首次！我国科学家给量子计算机装上了“超高速内存”2026-06-08 15:23 科技前沿\n礼赞社科大师｜金仲华：于错综复杂中把握国际问题实质2026-06-08 11:36\n台湾岛东部海域海上交通专项执法行动直击2026-06-08 07:54 两岸关系\n广西一猪场发生火灾，过火面积1000平方米，5人遇难2026-06-08 07:21\n致3死23伤，天津发生一起较大中毒事故，调查报告公布2026-06-07 23:16 安全生产\n国道247线九寨沟县境内车祸致6死2026-06-07 20:41\n出现内涝，房屋和车辆被淹！国家防总派出工作组，赶赴重庆2026-06-07 19:19 极端天气\n我国氢煤混烧技术，取得重大突破2026-06-07 16:50 能源战略\n礼赞社科大师｜罗竹风：“不唯书”是人类创造发明的新起点2026-06-07 15:05 礼赞社科大师\n一周内，山西沁源县委书记、沁源县应急管理局党委书记均被查2026-06-07 13:45 煤矿安全",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "economy",
+  "keywords": [
+    "外贸",
+    "进出口"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外贸",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进出口",
+      "name_en": "Imports and Exports"
+    }
+  ],
+  "tags_zh": [
+    "外贸",
+    "进出口"
+  ],
+  "tags_en": [
+    "Foreign Trade",
+    "Imports and Exports"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260609-guancha_politics-81717b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_09_819979.shtml",
+      "title_zh": "公布个人手机号的原市委书记主动投案",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_09_819964.shtml",
+      "title_zh": "全球市占率突破30%！“国产LNG船订单排到2030年后”",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_09_819961.shtml",
+      "title_zh": "致62人死亡失踪，陕西商洛高速公路桥梁垮塌事故细节披露",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_09_819960.shtml",
+      "title_zh": "三峡水运新通道：为什么建，要突破哪些难题",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_09_819932.shtml",
+      "title_zh": "朱雀二号改进型遥六运载火箭发射成功",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20260914-cpcnews-5af4f9",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0914/c64094-40798063.html",
+  "title_zh": "习近平回到北京",
+  "title_en": "Xi Jinping Returns to Beijing After BRICS Summit",
+  "summary_zh": "9月13日晚，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤后回到北京，蔡奇、王毅等陪同人员同机返回。",
+  "summary_en": "On the evening of September 13, President Xi Jinping returned to Beijing after successfully attending the 18th BRICS Leaders' Summit, accompanied by Cai Qi and Wang Yi.",
+  "body_zh": "圆满结束出席金砖国家领导人第十八次会晤\n本报北京9月13日电 9月13日晚，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤回到北京。\n中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等陪同人员同机返回。\n本报新德里9月13日电 （记者苑基荣、强薇）当地时间9月13日中午，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤返回北京。\n离开新德里时，印度政府高级官员到机场送行。\n前往机场途中，当地华侨华人和中资企业代表挥舞中印两国国旗，热烈祝贺习近平主席出席金砖国家领导人第十八次会晤圆满成功。\n《 人民日报 》（ 2026年09月14日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-13",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "元首外交",
+    "中印关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中印关系",
+      "name_en": "China-India Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "新德里",
+    "金砖合作",
+    "元首外交",
+    "中印关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "New Delhi",
+    "BRICS Cooperation",
+    "Head-of-State Diplomacy",
+    "China-India Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260913-qiushi-a296b0",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

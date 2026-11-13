@@ -1,0 +1,97 @@
+{
+  "id": "20260623-peoples_js-09b4f9",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_url": "http://js.people.com.cn/n2/2026/0623/c360301-41617818.html",
+  "title_zh": "江苏一国家级人工智能研究所自研世界模型登顶权威榜单",
+  "title_en": "National AI Research Institute in Jiangsu's World Model Tops Authoritative Global Ranking",
+  "summary_zh": "6月19日，中国科学院工业人工智能研究所自研的世界模型PAIWorld在WorldArena权威榜单中排名第一。",
+  "summary_en": "On June 19, the PAIWorld world model developed by the Institute of Industrial Artificial Intelligence of the Chinese Academy of Sciences ranked first on the WorldArena authoritative list.",
+  "body_zh": "江苏一国家级人工智能研究所自研世界模型登顶权威榜单\n原题：江苏一国家级人工智能研究所自研世界模型登顶权威榜单\n日前，世界模型国际权威榜单WorldArena更新排名，中国科学院工业人工智能研究所物理智能团队自研的世界模型PAIWorld登顶。该研究所由中国科学院、江苏省、南京市共建，是我国智能制造科学与技术领域首个国家级科研机构。\n世界模型，通俗来说，是能够理解物理世界、对未来变化具备预测能力的模型。WorldArena由清华大学联合普林斯顿大学等顶尖学术机构共同推出，是世界模型领域的权威评测榜单，其评测对象覆盖全球几乎所有头部世界模型。该榜单从视觉质量、运动质量、内容一致性、物理遵循、三维准确性及可控性六大维度，对世界模型开展全方位评价。在6月19日更新的榜单中，PAIWorld以72.31的总分拔得头筹。\n在“轨迹准确性”这一单项指标上，PAIWorld较榜单亚军的得分大幅领先。它不仅能生成流畅自然的运动过程，更能在长时序预测中准确保持物体与相机的运动轨迹，减少轨迹漂移和空间错位。中国科学院工业人工智能研究所物理智能团队负责人徐凯表示，衡量世界模型的性能，不仅要看模型预测的未来画面是否真实清晰，更要看其预测结果是否符合输入指令和物理规律。在自动驾驶、工业制造等场景中，世界模型的轨迹准确性不仅是性能指标，更是安全指标。\n在运动平滑性上，PAIWorld以95.41分名列第二，意味着该模型能对真实物理世界里的连续运动规律进行精准建模。徐凯解释，在真实世界中，既有刚性物体的运动碰撞，也有软体的不规则形变。理解各种运动中复杂的物理规律，并严格遵循规律准确预测未来变化，是世界模型的核心能力之一。例如，工厂里的装配机器人，其“大脑”中必须有一个预测每个装配动作导致的工件姿态、形状变化等情况的世界模型，才能完成装配操作。当机器人知道它所做每个动作的“后果”，并能在大脑中进行预演，才能进行更准确、更安全的决策和操作。徐凯表示，接下来，团队将不断完善PAIWorld，并依托该模型构建一个具身智能机器人虚拟训练场，实现机器人的自我改进和持续进化。（徐冠英）",
+  "image_url": null,
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "event_date": "2026-06-19",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "世界模型",
+    "智能制造"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国科学院工业人工智能研究所",
+      "name_en": "Institute of Industrial Artificial Intelligence of the Chinese Academy of Sciences"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界模型",
+      "name_en": "World Model"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能制造",
+      "name_en": "Intelligent Manufacturing"
+    }
+  ],
+  "tags_zh": [
+    "中国科学院工业人工智能研究所",
+    "江苏",
+    "人工智能",
+    "世界模型",
+    "智能制造"
+  ],
+  "tags_en": [
+    "Institute of Industrial Artificial Intelligence of the Chinese Academy of Sciences",
+    "Jiangsu",
+    "Artificial Intelligence",
+    "World Model",
+    "Intelligent Manufacturing"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐凯"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国科学院工业人工智能研究所",
+        "name_en": "Institute of Industrial Artificial Intelligence of the Chinese Academy of Sciences"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260623-peoples_js-09b4f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

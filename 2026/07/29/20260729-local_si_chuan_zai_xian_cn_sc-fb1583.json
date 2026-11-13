@@ -1,0 +1,90 @@
+{
+  "id": "20260729-local_si_chuan_zai_xian_cn_sc-fb1583",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://sichuan.scol.com.cn/ggxw/202607/83296720.html",
+  "title_zh": "四川省人大常委会表决通过免职案 涉多位检察院干部",
+  "title_en": "Sichuan Provincial People's Congress Standing Committee Approves Removal of Multiple Procuratorate Officials",
+  "summary_zh": "7月29日，四川省十四届人大常委会第二十八次会议表决通过免职案，免去周永杰等4人检察院相关职务。",
+  "summary_en": "On July 29, the 28th session of the 14th Sichuan Provincial People's Congress Standing Committee voted to remove Zhou Yongjie and three others from their procuratorate posts.",
+  "body_zh": "四川在线记者 刘佳\n7月29日上午举行的四川省十四届人大常委会第二十八次会议第二次全体会议，表决通过了省检察院检察长王麟向省人大常委会提出的免职案，\n免去\n周永杰的四川省人民检察院检察委员会委员、检察员职务；\n蒲伟的四川省人民检察院检察员职务；\n张晋川的四川省人民检察院成都铁路运输分院检察员职务；\n刘利的四川省第一地区人民检察院（成都铁路运输检察院）副检察长、检察委员会委员、检察员职务。",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川省人大常委会",
+      "name_en": "Sichuan Provincial People's Congress Standing Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "四川省人民检察院",
+      "name_en": "Sichuan Provincial People's Procuratorate"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    }
+  ],
+  "tags_zh": [
+    "四川省人大常委会",
+    "四川省人民检察院",
+    "四川",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Sichuan Provincial People's Congress Standing Committee",
+    "Sichuan Provincial People's Procuratorate",
+    "Sichuan",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": [
+      {
+        "name_zh": "四川省人大常委会",
+        "name_en": "Sichuan Provincial People's Congress Standing Committee"
+      },
+      {
+        "name_zh": "四川省人民检察院",
+        "name_en": "Sichuan Provincial People's Procuratorate"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260729-local_si_chuan_zai_xian_cn_sc-fb1583",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

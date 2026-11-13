@@ -1,0 +1,103 @@
+{
+  "id": "20260702-xinhua_gs-9a760c",
+  "source": "xinhua_gs",
+  "source_name_zh": "新华网 甘肃",
+  "source_name_en": "Xinhua Gansu",
+  "source_url": "http://gs.news.cn/20260702/134da8e0f84a479196724cd434e05774/c.html",
+  "title_zh": "甘肃省人民政府关于卢继卿等同志职务任免的通知",
+  "title_en": "Notice of the Gansu Provincial People's Government on Personnel Appointments and Removals of Lu Jiqing and Others",
+  "summary_zh": "甘肃省人民政府发布通知，对卢继卿、许永震、杨福波、何晓风、王库前及倪学向等同志的职务进行任免。",
+  "summary_en": "The Gansu Provincial People's Government issued a notice regarding the appointment and removal of officials, including Lu Jiqing, Xu Yongzhen, and others.",
+  "body_zh": "各市、自治州人民政府，甘肃矿区办事处，兰州新区管委会，省政府各部门，中央在甘各单位：\n甘肃省人民政府决定：\n卢继卿任甘肃省电力投资集团有限责任公司（甘肃省投资集团有限责任公司）董事长，免去其甘肃省电力投资集团有限责任公司（甘肃省投资集团有限责任公司）总经理职务；\n许永震任甘肃省公路交通建设集团有限公司总经理、董事；\n杨福波任甘肃工程咨询集团股份有限公司总经理、董事；\n何晓风任甘肃省公安厅网络安全保卫总队（甘肃省网络与信息安全信息通报中心）总队长（主任）（副厅长级）；\n王库前任甘肃省体育局副局长（试用期一年）。\n免去倪学向的甘肃省公安厅网络安全保卫总队（甘肃省网络与信息安全信息通报中心）总队长（主任）职务。\n以上涉及企业人员职务任免的，按有关章程规定办理。\n甘肃省人民政府",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-02",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任免",
+    "人事调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢继卿",
+      "name_en": "Lu Jiqing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "甘肃省公安厅",
+      "name_en": "Gansu Provincial Public Security Department"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "甘肃省体育局",
+      "name_en": "Gansu Provincial Sports Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "卢继卿",
+    "甘肃省公安厅",
+    "甘肃省体育局",
+    "甘肃",
+    "干部任免",
+    "人事调整"
+  ],
+  "tags_en": [
+    "Lu Jiqing",
+    "Gansu Provincial Public Security Department",
+    "Gansu Provincial Sports Bureau",
+    "Gansu",
+    "Personnel Appointment and Removal",
+    "Personnel Adjustment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "甘肃省公安厅",
+        "name_en": "Gansu Provincial Public Security Department"
+      },
+      {
+        "name_zh": "甘肃省体育局",
+        "name_en": "Gansu Provincial Sports Bureau"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260702-xinhua_gs-9a760c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260919-xinhua_politics-d8dbff",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260919/db5df2d13e944e8394090d71acf0fd3a/c.html",
+  "title_zh": "第48届世界技能大赛中国代表团在上海完成集结",
+  "title_en": "Chinese Delegation for 48th WorldSkills Competition Assembles in Shanghai",
+  "summary_zh": "9月19日，第48届世界技能大赛中国代表团在上海完成集结，71名选手将参加全部64个项目比赛，赛事于9月22日至27日在上海举办。",
+  "summary_en": "China's delegation for the 48th WorldSkills Competition assembled in Shanghai on Sept 19, with 71 competitors entered in all 64 events; the contest runs Sept 22-27 in Shanghai.",
+  "body_zh": "新华社上海9月19日电（记者张晓洁、周蕊）记者从人力资源社会保障部获悉，第48届世界技能大赛中国代表团已于9月19日在上海完成集结，将奋力实现竞技成绩与精神文明双丰收。\n9月22日至27日，第48届世界技能大赛将在上海举办。最新数据显示，本届世赛将有68个国家和地区的1385名选手参赛，参赛国家和地区数、参赛选手人数均创历届之最。\n中国代表团中的71名参赛选手将参加全部64个项目的比赛。中国代表团将坚持以赛促学、以赛促训、以赛促评、以赛促建，充分展现新时代中国技能青年过硬本领与工匠风采，推动我国技能人才队伍建设工作再上新台阶。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "industry",
+  "keywords": [
+    "技能人才队伍建设",
+    "世界技能大赛"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技能人才队伍建设",
+      "name_en": "Skilled Talent Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界技能大赛",
+      "name_en": "WorldSkills Competition"
+    }
+  ],
+  "tags_zh": [
+    "人力资源社会保障部",
+    "上海",
+    "技能人才队伍建设",
+    "世界技能大赛"
+  ],
+  "tags_en": [
+    "Ministry of Human Resources and Social Security",
+    "Shanghai",
+    "Skilled Talent Development",
+    "WorldSkills Competition"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260919-xinhua_politics-d8dbff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

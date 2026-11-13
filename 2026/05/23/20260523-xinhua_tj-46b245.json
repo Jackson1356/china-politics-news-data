@@ -1,0 +1,96 @@
+{
+  "id": "20260523-xinhua_tj-46b245",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260525/ba1df1ac83b14c7fab3b07a3c2e8f3f5/c.html",
+  "title_zh": "海淀南开雄安签署人才协同发展合作框架协议",
+  "title_en": "Haidian, Nankai, and Xiong'an Sign Framework Agreement on Collaborative Talent Development",
+  "summary_zh": "5月23日，北京市海淀区、天津市南开区与河北省雄安新区签署人才协同发展合作框架协议，旨在深化人才交流、平台共建及产业协作。",
+  "summary_en": "On May 23, Haidian District (Beijing), Nankai District (Tianjin), and Xiong'an New Area (Hebei) signed a framework agreement to deepen collaboration in talent exchange, platform construction, and industrial synergy.",
+  "body_zh": "5月23日，北京市海淀区、天津市南开区、河北省雄安新区三地组织部门共同签署《人才协同发展合作框架协议》。\n根据协议，三地将聚焦五大领域深化务实合作。在人才交流上，联动开展“海淀行”“南开行”“雄安行”活动，互派高层次人才互学互鉴，共享教育培训资源，联合培养干部人才，拓宽人才视野。在平台共建上，共享高层次人才会客厅等空间载体，共建引才联络平台与高校实习实践基地，增强青年人才吸附力。在创新产业协作上，推动高校院所、龙头企业联动，支持创新协同与成果孵化转化，促进产业错位发展、集群发展。在服务互通上，完善跨区域人力资源服务网络，建立人才服务直通车，推动人才服务同城化，为人才提供全周期保障。在伙伴关系构建上，建立三地组织部门常态化联动机制，推动街镇结对协作，助力区域经济社会高质量发展。\n“此次签约是南开区融入京津冀人才一体化发展大局，主动对接服务首都都市圈科技创新共同体建设的重要举措和具体实践。”南开区相关负责人表示，将立足三地资源禀赋，构建全方位、多层次、常态化的人才协同发展格局。（记者 廖晨霞）",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-23",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "personnel",
+  "keywords": [
+    "人才协同发展",
+    "京津冀一体化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才协同发展",
+      "name_en": "Collaborative Talent Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "京津冀一体化",
+      "name_en": "Beijing-Tianjin-Hebei Integration"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "天津",
+    "河北",
+    "人才协同发展",
+    "京津冀一体化"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Tianjin",
+    "Hebei",
+    "Collaborative Talent Development",
+    "Beijing-Tianjin-Hebei Integration"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ",
+      "CN-TJ",
+      "CN-HE"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260523-xinhua_tj-46b245",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_tj",
+      "source_tier": 3,
+      "url": "http://tj.people.com.cn/n2/2026/0525/c375366-41590110.html",
+      "title_zh": "海淀南开雄安签署人才协同发展合作框架协议",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

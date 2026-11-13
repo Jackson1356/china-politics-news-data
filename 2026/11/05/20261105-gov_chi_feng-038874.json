@@ -1,0 +1,115 @@
+{
+  "id": "20261105-gov_chi_feng-038874",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/jrtt/202611/t20261105_2843104.html",
+  "title_zh": "李强会见世界知识产权组织总干事邓鸿森",
+  "title_en": "Li Qiang Meets WIPO Director General Daren Tang",
+  "summary_zh": "11月4日下午，国务院总理李强在北京人民大会堂会见世界知识产权组织总干事邓鸿森，双方表示将深化知识产权国际合作。",
+  "summary_en": "On the afternoon of Nov 4, Premier Li Qiang met WIPO Director General Daren Tang at the Great Hall of the People in Beijing, with both sides pledging deeper international cooperation on intellectual property.",
+  "body_zh": "11月4日下午，国务院总理李强在北京人民大会堂会见世界知识产权组织总干事邓鸿森。\n李强表示，近年来，中国和世界知识产权组织在全球知识产权服务、信息技术、人力资源等领域开展了富有成效的合作。当前世界经济增长乏力，知识产权作为激励创新、赋能发展的基本保障，其价值愈发凸显。中方将认真落实习近平主席关于知识产权重要论述，愿同世界知识产权组织一道，推动双方合作不断走深走实，促进知识产权国际合作，为世界创新发展和共同繁荣作出更大贡献。\n邓鸿森表示，祝贺中国知识产权事业取得显著发展成就。中国在全球创新指数中的排名跻身全球前十，拥有的全球百强创新集群数量最多，电影、游戏等创新经济快速推进。中国知识产权发展经验为各国提供了有益借鉴。世界知识产权组织期待同中方进一步深化合作，愿推进“一带一路”合作，落实全球发展倡议、全球文明倡议，构建惠及全球的知识产权生态系统，促进科技创新和经济发展。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "知识产权",
+    "国际合作",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "邓鸿森",
+      "name_en": "Daren Tang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "知识产权",
+      "name_en": "Intellectual Property"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "邓鸿森",
+    "国务院",
+    "北京",
+    "知识产权",
+    "国际合作",
+    "一带一路"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Daren Tang",
+    "State Council",
+    "Beijing",
+    "Intellectual Property",
+    "International Cooperation",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "邓鸿森"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261104-gov_cn_yaowen-d078d5",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

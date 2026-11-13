@@ -1,0 +1,83 @@
+{
+  "id": "20260907-local_da_zhong_wang_cn_sd-188a15",
+  "source": "local_da_zhong_wang_cn_sd",
+  "source_name_zh": "大众网",
+  "source_name_en": "大众网",
+  "source_media_id": "cac-cn-sd-9149c52ad8",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://hb.dzwww.com/p/pbZEsuDFi3.html",
+  "title_zh": "华为时隔六年再次发布高性能芯片",
+  "title_en": "Huawei Releases High-Performance Chip for First Time in Six Years",
+  "summary_zh": "华为7日在广州发布Mate XT 2三折叠手机，搭载麒麟9050 Pro芯片，这是首款采用逻辑折叠技术的高性能芯片，也是时隔六年再推全新麒麟芯片。",
+  "summary_en": "Huawei released Mate XT 2 in Guangzhou on Sept 7, featuring Kirin 9050 Pro, the first chip with logic-folding technology, after a six-year gap in new Kirin chips.",
+  "body_zh": "华为时隔六年再次发布高性能芯片\n新华社广州9月7日电 华为7日在广州发布Mate XT 2三折叠手机，搭载最新的麒麟9050 Pro芯片，这是首款采用逻辑折叠技术的高性能芯片。据了解，麒麟9050 Pro在单芯片内将逻辑单元分层排布，如同从平层升级为复式，内部增设垂直互联通道，好似加装“电梯”，信号传输路径更短、时延更低、性能更好。这也是继华为Mate40全球发布会之后，华为时隔六年在旗舰发布会上推出全新麒麟芯片。",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "industry",
+  "keywords": [
+    "高性能芯片",
+    "折叠屏手机",
+    "技术自主"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高性能芯片",
+      "name_en": "High-performance Chip"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "折叠屏手机",
+      "name_en": "Foldable Phone"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技术自主",
+      "name_en": "Technological Self-reliance"
+    }
+  ],
+  "tags_zh": [
+    "广州",
+    "高性能芯片",
+    "折叠屏手机",
+    "技术自主"
+  ],
+  "tags_en": [
+    "Guangzhou",
+    "High-performance Chip",
+    "Foldable Phone",
+    "Technological Self-reliance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-local_da_zhong_wang_cn_sd-188a15",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

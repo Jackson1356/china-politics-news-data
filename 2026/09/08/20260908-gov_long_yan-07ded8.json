@@ -1,0 +1,106 @@
+{
+  "id": "20260908-gov_long_yan-07ded8",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260908_2312052.htm",
+  "title_zh": "龙岩市“新新有机”产业招商推介会在厦门举行",
+  "title_en": "Longyan Holds 'New New Organic' Industrial Investment Promotion Conference in Xiamen",
+  "summary_zh": "9月7日，龙岩市在厦门举行“新新有机”产业招商推介会，市委书记胡盛、市长蔡琳出席并会见客商，推介新兴产业，邀请企业家投资龙岩。",
+  "summary_en": "On September 7, Longyan held an investment promotion conference in Xiamen, where Party Secretary Hu Sheng and Mayor Cai Lin met with business leaders to showcase emerging industries and invite investment.",
+  "body_zh": "9月7日，在第二十六届中国国际投资贸易洽谈会即将开幕之际，我市在厦门举行龙岩市“新新有机”产业招商推介会，借力“9·8”投洽会平台，与广大企业家朋友齐聚一堂，共商合作大计、共绘发展蓝图。市委书记胡盛、市长蔡琳出席活动，并在会前会见了重要客商和嘉宾代表。\n会见时，胡盛代表市委、市政府向出席推介会的各位来宾表示欢迎和感谢。他说，近年来，龙岩深入学习贯彻习近平总书记关于革命老区振兴发展的重要讲话和重要指示批示精神，牢记嘱托、感恩奋进，按照党中央决策部署和省委、省政府工作要求，深入实施工业强市战略，突出发展新材料新能源、有色金属、机械装备等“新新有机”工业主导产业，聚力建设闽西革命老区高质量发展示范区。真诚期盼广大企业家投资龙岩、深耕龙岩，与我们一道共享机遇、共同发展，携手开创互利共赢的崭新未来。龙岩将全力做好服务保障，为企业发展创造更加优越的环境。\n蔡琳在推介会上致辞。他说，今日的龙岩，正以独特的政策叠加优势、资源要素优势、产业基础优势，成为集聚人才、项目、资金的创新创业热土。热切期盼广大企业家从“新新有机”工业主导产业中看到“欣欣向荣”的发展态势，选择龙岩、投资龙岩，与老区人民共创未来、共享美好。\n推介会上，市工信局作“新新有机”产业推介；紫金矿业集团董事长邹来昌、美的集团工业技术事业部总裁邱向伟、亿纬锂能高级副总裁袁华刚、厦门钨业股份有限公司董事长钟可祥、广汽集团党委副书记曹晓军、稻兴集团董事长陈全炼、厦门益材集团董事长朱力等企业家代表作交流发言，他们一致表示，将立足企业自身优势和龙岩资源禀赋，持续拓宽双方合作领域，携手实现互利共赢。\n市领导廖深洪、赖进益、王波参加相关活动。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "新材料新能源",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": "Cai Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-XM",
+      "name_zh": "厦门",
+      "name_en": "Xiamen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新材料新能源",
+      "name_en": "New Materials and New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "蔡琳",
+    "厦门",
+    "招商引资",
+    "新材料新能源",
+    "产业合作"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Cai Lin",
+    "Xiamen",
+    "Investment Promotion",
+    "New Materials and New Energy",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "hu-sheng-longyan",
+      "cai-lin-longyan",
+      {
+        "id": null,
+        "name_zh": "王波"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-XM"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-gov_long_yan-07ded8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

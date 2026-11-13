@@ -1,0 +1,90 @@
+{
+  "id": "20260903-gov_chi_feng-e09a17",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/jrtt/202609/t20260903_2813140.html",
+  "title_zh": "习近平致电祝贺挪威国王哈康八世即位",
+  "title_en": "Xi Jinping Sends Congratulatory Message to King Haakon VIII of Norway on His Accession",
+  "summary_zh": "9月2日，国家主席习近平致电祝贺挪威新任国王哈康八世即位，表示愿同其一道努力，书写中挪友好新篇章。",
+  "summary_en": "On September 2, President Xi Jinping sent a congratulatory message to Norway's new King Haakon VIII on his accession, expressing willingness to write a new chapter in China-Norway friendship.",
+  "body_zh": "9月2日，国家主席习近平向挪威新任国王哈康八世致贺电，对其即位表示祝贺。\n习近平指出，中挪两国相距虽远，但友谊源远流长。挪威是最早承认并同新中国建交的欧洲国家之一。两国建交72年来，在挪威王室积极推动下，双边关系取得长足进步，各领域合作不断拓展，给两国人民带来实实在在的利益。我高度重视中挪关系发展，愿同哈康八世国王一道努力，书写中挪友好交往新篇章。\n习近平致电祝贺挪威国王哈康八世即位\n新华社\n发布时间：2026-09-03 07:40\n相关文件链接",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中挪关系",
+    "外交友好"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "哈康八世",
+      "name_en": "Haakon VIII"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中挪关系",
+      "name_en": "China-Norway Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交友好",
+      "name_en": "Diplomatic Friendship"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "哈康八世",
+    "中挪关系",
+    "外交友好"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Haakon VIII",
+    "China-Norway Relations",
+    "Diplomatic Friendship"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-qiushi-6011b7",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/448a787d9e7d41eb867f70f43c14a6ce.shtml",
+      "title_zh": "习近平致电祝贺挪威国王哈康八世即位",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

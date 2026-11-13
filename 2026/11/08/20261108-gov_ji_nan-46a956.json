@@ -1,0 +1,98 @@
+{
+  "id": "20261108-gov_ji_nan-46a956",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_f7296904cbaf41c1958154d6e73fcf4c.html",
+  "title_zh": "第九届中国（济南）新动能创新创业大赛颁奖仪式举行",
+  "title_en": "Award Ceremony of the 9th China (Jinan) New Growth Drivers Innovation and Entrepreneurship Competition Held",
+  "summary_zh": "11月7日，第九届中国（济南）新动能创新创业大赛颁奖仪式在济南举行，市委书记刘强、市长于海田等出席，省委组织部表示将支持济南打造招才引智品牌。",
+  "summary_en": "On Nov 7, the award ceremony of the 9th China (Jinan) New Growth Drivers Innovation and Entrepreneurship Competition was held in Jinan, attended by Party Secretary Liu Qiang and Mayor Yu Haitian, with the provincial Party organization department pledging support for Jinan's talent recruitment branding.",
+  "body_zh": "第九届中国（济南）新动能创新创业大赛颁奖仪式举行\n刘强于海田庄聪生杨峰出席\n11月7日，第九届中国（济南）新动能创新创业大赛颁奖仪式举行。市委书记刘强，市委副书记、市长于海田，全国工商联原党组成员、专职副主席，中国民营经济研究会原会长庄聪生，省委教育工委常务副书记、省教育厅厅长陈必昌，省人力资源社会保障厅党组书记张淑敏，市委副书记杨峰出席。\n省委组织部副部长盖湘波在致辞中说，济南作为山东省的省会、黄河流域重要的中心城市，战略红利交汇叠加，科教资源富集充沛，“我在济南刚刚好”的城市人才IP得到各类人才的广泛认可。省委组织部将全力支持济南发挥在全省人才发展中的头雁作用，加快建设济青吸引和集聚人才平台，着力打造地标性创新创业集聚区。支持济南将新动能创新创业大赛打造为标志性招才引智品牌，让“天下泉城、人来无忧”成为近悦远来的强磁场。\n市委常委、组织部部长陈阳在致辞时说，中国（济南）新动能创新创业大赛已成为集人才招引、项目落地、成果转化于一体的国际化品牌赛事，成为济南链接全球双创资源的桥梁纽带。本届大赛呈现出落地成效更显著、配套服务更贴心，品牌规模、国际影响力明显跃升等特点。未来，将立足济南发展特色优势，持续优化创新创业生态，为广大人才成长发展搭建追梦舞台。\n海内外院士、国家级人才、外籍专家人才、高校院所、海外华人华侨社团、参赛人才代表和省有关部门、企业负责同志参会。市领导吕涛、马保岭、韩伟、孙常建、袁长奎、杨丽、任广锋、马志勇，市政府秘书长续明，各区县（功能区）党（工）委主要负责同志，市直部门单位有关负责同志等参加活动。",
+  "image_url": null,
+  "published_at": "2026-11-08T12:00:00+00:00",
+  "event_date": "2026-11-07",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "industry",
+  "keywords": [
+    "创新创业",
+    "人才引进",
+    "新动能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新创业",
+      "name_en": "Innovation and Entrepreneurship"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才引进",
+      "name_en": "Talent Recruitment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新动能",
+      "name_en": "New Growth Drivers"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "创新创业",
+    "人才引进",
+    "新动能"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "Innovation and Entrepreneurship",
+    "Talent Recruitment",
+    "New Growth Drivers"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "杨峰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261108-gov_ji_nan-46a956",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

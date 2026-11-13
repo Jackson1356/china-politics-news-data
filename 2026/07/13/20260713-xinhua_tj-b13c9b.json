@@ -1,0 +1,77 @@
+{
+  "id": "20260713-xinhua_tj-b13c9b",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260713/d77ee87a5a3547ae86f4a27b14760b5c/c.html",
+  "title_zh": "张工调度本轮强降雨应对工作",
+  "title_en": "Zhang Gong Coordinates Response to Heavy Rainfall",
+  "summary_zh": "7月11日至12日，天津市市长张工调度部署本轮强降雨应对及防汛防台风工作，旨在维护群众生命财产安全。",
+  "summary_en": "From July 11 to 12, Tianjin Mayor Zhang Gong coordinated flood and typhoon prevention efforts to respond to heavy rainfall and ensure public safety.",
+  "body_zh": "张工调度本轮强降雨应对工作\n落实落细各项防汛措施 维护群众生命财产安全\n近日，我市及海河流域出现持续强降雨过程，特别是北部山区山洪和地质灾害致灾风险高。7月11日至12日，市委副书记、市长张工多次调度部署防汛防台风工作。市领导王旭、王宝雨、王秀峰和市政府秘书长胡学明分别参加。\n在市政府总值班室，张工察看卫星云图、水库河道、山洪沟口等实况画面，视频连线市有关部门和蓟州等区，了解雨情水情变化、防汛措施落实等情况。",
+  "image_url": null,
+  "published_at": "2026-07-13T12:00:00+00:00",
+  "event_date": "2026-07-11",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xu-tianjin",
+      "name_zh": "王旭",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "防汛",
+    "应急管理"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Flood Control",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      "wang-xu-tianjin"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260713-xinhua_tj-b13c9b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

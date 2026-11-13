@@ -1,0 +1,88 @@
+{
+  "id": "20261109-beijing_daily-122d42",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/09/12023934.shtml",
+  "title_zh": "外交部：中方就中俄美元首会晤同相关方保持着沟通",
+  "title_en": "Foreign Ministry: China Maintains Communication with Relevant Parties on China-Russia-US Leaders' Summit",
+  "summary_zh": "11月9日，外交部发言人郭嘉昆在北京例行记者会上表示，中方就中俄美元首会晤同相关方保持着沟通，目前没有更多信息提供。",
+  "summary_en": "On November 9, Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing in Beijing that China is maintaining communication with relevant parties regarding a China-Russia-US leaders' summit, adding that he had no further information to offer.",
+  "body_zh": "11月9日，外交部发言人郭嘉昆主持例行记者会。\n法新社记者提问，美国总统特朗普说，他可能会同中国和俄罗斯两国元首在APEC深圳峰会期间举行会晤，讨论终止美伊冲突以及无核化等问题。请问外交部能否就此提供更多细节？\n郭嘉昆表示，中方就中俄美元首会晤，同相关方保持着沟通。关于你提到的具体问题，我目前没有可以提供的信息。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄美关系",
+    "元首会晤",
+    "APEC峰会"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄美关系",
+      "name_en": "China-Russia-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首会晤",
+      "name_en": "Leaders' Summit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "APEC峰会",
+      "name_en": "APEC Summit"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中俄美关系",
+    "元首会晤",
+    "APEC峰会"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "China-Russia-US Relations",
+    "Leaders' Summit",
+    "APEC Summit"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261109-beijing_daily-122d42",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

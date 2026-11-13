@@ -1,0 +1,116 @@
+{
+  "id": "20260628-xinhua_js-f288dc",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260628/0bcafad653814976bb6c14fd62882799/c.html",
+  "title_zh": "服务中小微企业高质量发展会议召开 刘小涛出席",
+  "title_en": "Meeting on High-Quality Development of SMEs Held, Attended by Liu Xiaotao",
+  "summary_zh": "2026年6月27日，江苏省召开服务中小微企业高质量发展会议并启动“中小微企业日”活动，省长刘小涛出席会议。",
+  "summary_en": "On June 27, 2026, Jiangsu Province held a meeting on the high-quality development of SMEs and launched the \"SME Day\" activity, attended by Governor Liu Xiaotao.",
+  "body_zh": "6月27日，服务中小微企业高质量发展会议召开，“苏写新质 聚力同行”2026江苏省“中小微企业日”主题活动同步启动。省长刘小涛出席会议。全国工商联副主席安立佳，省委常委、省委统战部部长胡广杰出席并讲话。\n截至2025年底，江苏中小微企业超480万家，是推动高质量发展的重要基础。江苏深入学习贯彻习近平总书记关于中小企业发展的重要论述，今年以来出台《江苏省民营经济促进条例》，发布《江苏省优化营商环境行动方案（2026版）》，进一步构建促进中小微企业发展壮大机制，中小微企业的发展数量、效益、质量持续提高。\n安立佳表示，全国工商联将一如既往地做好支持服务工作，及时总结推广好经验好做法，与江苏共同助力中小微企业高质量发展。胡广杰表示，将坚持服务和管理并重、发展和帮扶并举，推进产业融通发展，持续营造创新生态，支持中小微企业当好生力军、增强竞争力。\n会上，省发展改革委、省工业和信息化厅、省司法厅、省市场监管局介绍了服务中小微企业的相关政策措施。\n副省长沈剑荣出席会议。省工商联主席刘聪主持会议。省政府秘书长赵建军，省有关部门单位负责同志，中小微企业家代表参加会议。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-06-28T12:00:00+00:00",
+  "event_date": "2026-06-27",
+  "ingested_at": "2026-06-29T09:16:56Z",
+  "topic": "economy",
+  "keywords": [
+    "中小微企业",
+    "高质量发展",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": "hu-guangjie",
+      "name_zh": "胡广杰",
+      "name_en": "Hu Guangjie"
+    },
+    {
+      "kind": "institution",
+      "id": "ACFIC",
+      "name_zh": "全国工商联",
+      "name_en": "All-China Federation of Industry and Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中小微企业",
+      "name_en": "SMEs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "胡广杰",
+    "全国工商联",
+    "江苏",
+    "中小微企业",
+    "高质量发展",
+    "营商环境"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Hu Guangjie",
+    "All-China Federation of Industry and Commerce",
+    "Jiangsu",
+    "SMEs",
+    "High-quality Development",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "hu-guangjie",
+      {
+        "id": null,
+        "name_zh": "刘聪"
+      },
+      {
+        "id": null,
+        "name_zh": "沈剑荣"
+      }
+    ],
+    "institutions": [
+      "ACFIC"
+    ],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260628-xinhua_js-f288dc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

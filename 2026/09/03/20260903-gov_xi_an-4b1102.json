@@ -1,0 +1,91 @@
+{
+  "id": "20260903-gov_xi_an-4b1102",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2095326403037827074.html",
+  "title_zh": "市委常委会召开会议认真学习贯彻习近平总书记重要指示精神研究安排防汛减灾和联动巡视整改等工作",
+  "title_en": "Xi'an Municipal Party Standing Committee Holds Meeting to Study Xi Jinping's Important Instructions and Arrange Flood Control and Inspection Rectification",
+  "summary_zh": "9月2日，西安市委常委会召开会议，传达学习习近平总书记对西藏吉隆县泥石流灾害的重要指示精神和中央政治局会议精神，听取“保回迁”问题整改进展汇报，市委书记蒿慧杰主持。",
+  "summary_en": "On Sept 2, the CPC Xi'an Municipal Standing Committee met to convey and study Xi Jinping's instructions on the Tibet mudslide and the Political Bureau meeting spirit, and heard rectification progress on 'Baohuiqian' resettlement. Hao Huijie, municipal party secretary, presided.",
+  "body_zh": "9月2日，市委常委会召开会议，传达学习贯彻习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神和8月28日中共中央政治局会议、省委常委会会议精神，听取联动巡视反馈的“保回迁”问题整改进展情况及“回头看”工作推进情况汇报，研究安排下一步工作措施。\n省委常委、市委书记蒿慧杰主持会议。\n会议强调，要落实联动巡视整改要求，锚定目标，扛牢政治责任，以最坚决的态度全力以赴打赢“保回迁”攻坚战；要聚焦重点，高标准抓好“保回迁”项目收尾和“回头看”问题整改，确保干净利落、不留尾巴；要对准焦点，千方百计攻坚资金、建设、交付、物业等环节的突出问题，实打实推动难题解决；要夯实责任，凝聚工作合力，强化督责问效，推动项目快建成、早交付，确保群众满意回迁、安心入住。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "防汛减灾",
+    "巡视整改",
+    "保回迁"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛减灾",
+      "name_en": "Flood Prevention and Disaster Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巡视整改",
+      "name_en": "Inspection and Rectification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "保回迁",
+      "name_en": "Resettlement Assurance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "防汛减灾",
+    "巡视整改",
+    "保回迁",
+    "习近平"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Flood Prevention and Disaster Reduction",
+    "Inspection and Rectification",
+    "Resettlement Assurance"
+  ],
+  "entities": {
+    "politicians": [
+      "hao-huijie",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260903-gov_xi_an-4b1102",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

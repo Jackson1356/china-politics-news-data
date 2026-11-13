@@ -1,0 +1,101 @@
+{
+  "id": "20261021-gov_cn_yaowen-a05e71",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/21/VIDEhDXErDAomqvfCmllETaU261021.shtml",
+  "title_zh": "李强抵达圣彼得堡举行中俄总理第三十一次定期会晤",
+  "title_en": "Li Qiang Arrives in St. Petersburg for 31st China-Russia Prime Ministers' Regular Meeting",
+  "summary_zh": "当地时间10月20日晚，国务院总理李强抵达圣彼得堡，将与俄罗斯总理米舒斯京举行中俄总理第三十一次定期会晤，推动中俄新时代全面战略协作伙伴关系发展。",
+  "summary_en": "On the evening of October 20 local time, Premier Li Qiang arrived in St. Petersburg to hold the 31st China-Russia Prime Ministers' Regular Meeting with Russian Prime Minister Mishustin, aiming to advance the comprehensive strategic partnership of coordination for a new era.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间10月20日晚，应俄罗斯总理米舒斯京邀请，国务院总理李强乘包机抵达圣彼得堡普尔科沃机场，将举行中俄总理第三十一次定期会晤。\n俄罗斯副总理切尔内申科和中国驻俄罗斯大使张汉晖等到机场迎接。\n李强表示，近年来，在习近平主席和普京总统战略引领下，中俄关系更加成熟坚韧。两国元首今年两度会晤，为双边关系发展擘画了新蓝图。中方愿同俄方一道持续努力，推动中俄新时代全面战略协作伙伴关系结出新的丰硕果实，为两国人民带来更多福祉，也为世界和平发展注入宝贵的稳定性确定性。\n李强是在结束对塔吉克斯坦的正式访问并出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议后抵达圣彼得堡的。离开杜尚别时，塔吉克斯坦第一副总理霍利克佐达和中国驻塔吉克斯坦大使郭志军等到机场送行。",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "总理定期会晤",
+    "全面战略协作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "圣彼得堡",
+      "name_en": "St. Petersburg"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "总理定期会晤",
+      "name_en": "Regular Prime Ministers' Meeting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略协作伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership of Coordination"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "圣彼得堡",
+    "中俄关系",
+    "总理定期会晤",
+    "全面战略协作伙伴关系"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "St. Petersburg",
+    "China-Russia Relations",
+    "Regular Prime Ministers' Meeting",
+    "Comprehensive Strategic Partnership of Coordination"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261021-gov_cn_yaowen-a05e71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260531-gov_cn_yaowen-5ea929",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070734.htm",
+  "title_zh": "制造业稳定运行 新动能加速扩张",
+  "title_en": "Manufacturing Operates Stably as New Growth Drivers Accelerate Expansion",
+  "summary_zh": "国家统计局与中国物流与采购联合会于5月31日发布5月份采购经理指数，显示制造业运行整体稳定，高技术及装备制造业加速扩张。",
+  "summary_en": "The National Bureau of Statistics and CFLP released the May PMI on May 31, indicating stable manufacturing operations and accelerated expansion in high-tech and equipment manufacturing.",
+  "body_zh": "国家统计局、中国物流与采购联合会今天（5月31日）发布5月份中国采购经理指数。指数显示，制造业运行整体稳定，新动能加快扩张。\n5月份中国制造业采购经理指数为50%，位于临界点。从主要分项指数看，生产指数为51.2%，并且连续3个月运行在51%以上，显示制造业企业生产活动继续保持扩张。\n从重点行业来看，新动能发展继续向好，呈加速扩张态势，经济向新向优发展稳步推进。5月份，高技术制造业和装备制造业采购经理指数分别为52.9%和52.1%，较上月分别上升0.7和0.3个百分点。高技术制造业和装备制造业新出口订单指数均在51%以上，显示海外市场需求较为旺盛。\n从非制造业情况看，5月份中国非制造业商务活动指数为50.1%，较上月上升0.7个百分点。非制造业整体景气水平较上月上升，经营活动重回扩张区间。投资相关基建活动保持平稳增长，节日消费相关行业景气水平有所上升，信息服务业保持快速发展势头。",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-31",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "economy",
+  "keywords": [
+    "采购经理指数",
+    "制造业",
+    "新动能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "采购经理指数",
+      "name_en": "Purchasing Managers' Index"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制造业",
+      "name_en": "Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新动能",
+      "name_en": "New Growth Drivers"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "采购经理指数",
+    "制造业",
+    "新动能"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Purchasing Managers' Index",
+    "Manufacturing",
+    "New Growth Drivers"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260531-gov_cn_yaowen-5ea929",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

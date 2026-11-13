@@ -1,0 +1,132 @@
+{
+  "id": "20260526-gov_cn_yaowen-6fa04b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202605/content_7070253.htm",
+  "title_zh": "两部门再次紧急预拨1.6亿元中央自然灾害救灾资金",
+  "title_en": "Two Departments Allocate Another 160 Million Yuan in Central Natural Disaster Relief Funds",
+  "summary_zh": "5月26日，财政部与应急管理部再次紧急预拨1.6亿元中央自然灾害救灾资金，支持湖南、重庆等5省（区、市）开展防汛救灾及地震救助工作。",
+  "summary_en": "On May 26, the Ministry of Finance and the Ministry of Emergency Management allocated an additional 160 million yuan in central disaster relief funds to support flood and earthquake recovery in five provinces and municipalities.",
+  "body_zh": "新华社北京5月26日电（记者申铖）记者从财政部了解到，在此前预拨1.2亿元基础上，5月26日，财政部、应急管理部再次紧急预拨1.6亿元中央自然灾害救灾资金，支持湖南、重庆等5省（区、市）做好自然灾害应急抢险救灾工作。\n5月中旬以来，我国南方多地遭遇持续强降雨，引发严重洪涝、地质灾害；广西柳州5.2级地震造成人员伤亡和财产损失。\n此次，两部门预拨1.1亿元，支持安徽、湖南、重庆、贵州4省（市）开展防汛救灾工作，重点做好排危除险、搜救转移安置受灾人员等工作，切实保障人民群众生命财产安全；预拨0.5亿元，支持广西做好地震灾害受灾群众救助和倒损民房修复等工作，推动灾区尽快恢复正常生产生活秩序。\n当前，我国正值汛期，防汛救灾形势复杂严峻。财政部称，将切实绷紧防汛救灾这根弦，始终把保障人民群众生命财产安全放在第一位，紧盯灾情发展变化，强化资金保障，支持地方做好防汛救灾工作。",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-26",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "自然灾害救灾",
+    "防汛救灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害救灾",
+      "name_en": "Natural Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "应急管理部",
+    "湖南",
+    "重庆",
+    "安徽",
+    "贵州",
+    "广西",
+    "自然灾害救灾",
+    "防汛救灾"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Ministry of Emergency Management",
+    "Hunan",
+    "Chongqing",
+    "Anhui",
+    "Guizhou",
+    "Guangxi",
+    "Natural Disaster Relief",
+    "Flood Control and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF",
+      "MEM"
+    ],
+    "locations": [
+      "CN-HN",
+      "CN-CQ",
+      "CN-AH",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260526-gov_cn_yaowen-6fa04b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20260526/ab3ec9a6d6574704bd9c1ab624513de6/c.html",
+      "title_zh": "两部门再次紧急预拨1.6亿元中央自然灾害救灾资金",
+      "published_at": "2026-05-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

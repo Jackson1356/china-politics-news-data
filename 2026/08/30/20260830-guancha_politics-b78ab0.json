@@ -1,0 +1,92 @@
+{
+  "id": "20260830-guancha_politics-b78ab0",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_30_829199.shtml",
+  "title_zh": "习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+  "title_en": "Xi Jinping Leaves Beijing for SCO Summit and State Visits to Kyrgyzstan and Egypt",
+  "summary_zh": "8月30日上午，国家主席习近平乘专机离开北京，赴比什凯克出席2026年上海合作组织峰会，并对吉尔吉斯斯坦、埃及进行国事访问。",
+  "summary_en": "On the morning of August 30, President Xi Jinping left Beijing by special plane for Bishkek to attend the 2026 SCO Summit and pay state visits to Kyrgyzstan and Egypt.",
+  "body_zh": "习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问8月30日上午，国家主席习近平乘专机离开北京，赴比什凯克出席2026年上海合作组织峰会，应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。 陪同习近平出访的有：习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等。\n我驻尼泊尔大使馆：已协调尼方搜救转运中方人员94人 2026-08-30 10:44\n航行警告！渤海海峡黄海北部执行军事任务 2026-08-30 09:16\n吉隆泥石流害原因查明，搜救尚未再发现幸存者 2026-08-30 08:37\n西藏吉隆泥石流灾害已致16人遇难，546人失联 2026-08-30 08:33\n吉隆泥石流失联外籍人员261人 2026-08-30 08:31\n水利部：高度重视尼泊尔错坚河冲击坑溃泄风险 2026-08-30 07:49\n国家动物博物馆：性质恶劣，强烈谴责 2026-08-30 06:42\n水利部和中国气象局联合发布红色山洪灾害气象预警 2026-08-29 20:52\n郑丽文向西藏灾区捐款200万新台币 2026-08-29 19:56\n最后1公里！钢筋石笼首次运抵抢险现场 2026-08-29 19:43\n40万公里外“穿针”！我国首次实现地月双向高速激光通信 2026-08-29 19:04\n刘国梁参加国际乒联会议 2026-08-29 19:04\n发现第二处堰塞湖，存在次生灾害潜在风险 2026-08-29 18:09 观察者头条\n再见，“中华第一舰” 2026-08-29 17:20\n天津多名环卫工疑坐三轮车休息被罚20元，区城管委：正在核实 2026-08-29 16:57\n钧正平：将惨剧当作政治工具的台湾政客，是人性的泯灭，还是道德的沦丧？ 2026-08-29 16:31\n中国安能全力打通通往吉隆口岸两公里内道路 2026-08-29 16:31\n涉“甲醛白菜”，3人被刑拘 2026-08-29 16:03\n吉隆口岸大楼只剩钢筋骨架 2026-08-29 15:53\n最新通告：社会车辆一律禁止驶入吉隆镇方向 2026-08-29 15:04",
+  "image_url": null,
+  "published_at": "2026-08-30T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "SCO"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "比什凯克",
+    "上海合作组织",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Bishkek",
+    "SCO",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260830-guancha_politics-b78ab0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

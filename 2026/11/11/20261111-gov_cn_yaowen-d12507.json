@@ -1,0 +1,101 @@
+{
+  "id": "20261111-gov_cn_yaowen-d12507",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085780.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在北京宣讲",
+  "title_en": "Central Propaganda Team Delivers Report on Spirit of Fifth Plenary Session of 20th CPC Central Committee in Beijing",
+  "summary_zh": "11月11日，学习贯彻党的二十届五中全会精神中央宣讲团在北京宣讲，中央宣讲团成员、北京市委书记尹力作宣讲报告并同基层干部群众交流。",
+  "summary_en": "On Nov 11, the Central Propaganda Team for the Fifth Plenary Session of the 20th CPC Central Committee held a briefing in Beijing, with team member and Beijing Party Secretary Yin Li delivering the report and meeting grassroots cadres.",
+  "body_zh": "新华社北京11月11日电（记者 吴文诩）学习贯彻党的二十届五中全会精神中央宣讲团11月11日在北京宣讲。中央宣讲团成员、中共中央政治局委员、北京市委书记尹力作宣讲报告。\n报告会上，尹力紧紧围绕学习贯彻习近平总书记在党的二十届五中全会上的重要讲话精神和全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，结合学习贯彻习近平党建思想，从全会的重大意义，《决定》的起草情况和突出特点，持之以恒推进全面从严治党的重要考量、总体要求、战略任务和重大举措等方面作了全面系统的阐释和宣讲。\n尹力强调，要把学习好贯彻好党的二十届五中全会精神作为重大政治任务，坚定拥护“两个确立”、坚决做到“两个维护”，持续锻造与首善之区相匹配的政治忠诚和政治能力，以更高标准、更实举措持之以恒推进全面从严治党，推动全会精神在京华大地形成生动实践，为谱写中国式现代化的北京篇章提供坚强保障。\n报告会后，尹力来到北京城市副中心党群服务中心，与来自基层一线的干部群众代表互动交流，就大家关心的接诉即办、思政教育等问题进行认真深入解答。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-li",
+      "name_zh": "尹力",
+      "name_en": "Yin Li"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    }
+  ],
+  "tags_zh": [
+    "尹力",
+    "北京",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "党的建设"
+  ],
+  "tags_en": [
+    "Yin Li",
+    "Beijing",
+    "Spirit of the Fifth Plenary Session",
+    "Full and Rigorous Party Governance",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-li"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261111-gov_cn_yaowen-d12507",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1794386772129085.html",
+      "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在北京宣讲",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

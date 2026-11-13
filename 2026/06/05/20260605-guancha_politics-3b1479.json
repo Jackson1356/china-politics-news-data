@@ -1,0 +1,83 @@
+{
+  "id": "20260605-guancha_politics-3b1479",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_05_819526.shtml",
+  "title_zh": "外交部回应黄岩岛构筑物相关报道",
+  "title_en": "Foreign Ministry Responds to Reports on Structures at Scarborough Shoal",
+  "summary_zh": "6月5日，外交部发言人毛宁在例行记者会上回应关于黄岩岛构筑物的报道，强调中国对黄岩岛拥有主权且开展活动是正当权利。",
+  "summary_en": "On June 5, Foreign Ministry spokesperson Mao Ning responded to reports about structures on Scarborough Shoal, asserting China's sovereignty and its right to conduct activities there.",
+  "body_zh": "“黄岩岛某个构筑物消失了”？外交部回应\n据外交部网站消息，6月5日，外交部发言人毛宁主持例行记者会。\n路透社记者提问，据报道，卫星图像显示，某个新构筑物出现在黄岩岛后不久又消失了。中方能否就此提供更多信息？\n毛宁表示，黄岩岛是中国的固有领土，中国对黄岩岛及其附近海域拥有无可争辩的主权，中国在黄岩岛开展包括科考在内的任何活动都是主权国家的正当权利。\n成都原市长王凤朝被“双开”\n受贿1.58亿余元，齐扎拉一审被判无期",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "领土主权",
+    "南海问题"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "黄岩岛",
+      "name_en": "Scarborough Shoal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领土主权",
+      "name_en": "Territorial Sovereignty"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南海问题",
+      "name_en": "South China Sea Issues"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "黄岩岛",
+    "领土主权",
+    "南海问题"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Scarborough Shoal",
+    "Territorial Sovereignty",
+    "South China Sea Issues"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260605-guancha_politics-3b1479",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

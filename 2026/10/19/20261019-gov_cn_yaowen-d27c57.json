@@ -1,0 +1,101 @@
+{
+  "id": "20261019-gov_cn_yaowen-d27c57",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083730.htm",
+  "title_zh": "前三季度GDP同比增长4.6% 高质量发展取得新成效",
+  "title_en": "China's GDP Grows 4.6% Year-on-Year in First Three Quarters as High-Quality Development Advances",
+  "summary_zh": "10月19日，国务院新闻办公室举行发布会，国家统计局公布前三季度GDP为1071071亿元，同比增长4.6%，经济运行总体平稳，结构持续优化。",
+  "summary_en": "On Oct 19, the State Council Information Office held a briefing where the National Bureau of Statistics reported GDP of 107.1 trillion yuan for the first three quarters, up 4.6% year-on-year, with steady growth and an improving economic structure.",
+  "body_zh": "国务院新闻办公室今天（10月19日）举行新闻发布会，国家统计局公布的数据显示，前三季度经济运行总体平稳，保持了动能向新、结构向优、质效向好的发展态势，有力推动了经济高质量发展。\n初步核算，前三季度国内生产总值1071071亿元，按不变价格计算，同比增长4.6%，符合全年经济预期增长目标。从增量来看，前三季度经济的增量达到了5.7万亿元，是过去五年里同期最大规模的增量。\n前三季度，农业生产形势良好，全年粮食生产有望再获丰收。三季度，规模以上工业增加值同比增长5.1%，比二季度加快0.4个百分点。同时，服务业、消费、进出口数据等指标在9月份的表现也都要优于8月份，中国经济发展韧性持续彰显。\n前三季度，中国经济结构向优。制造业增加值占GDP的比重为25.7%，比上年同期提高了0.6个百分点，实体经济的根基进一步巩固。生产性服务业加快发展，与先进制造业的融合不断深入，有力支撑了制造业转型升级。前三季度，知识产权产品投资保持较快增长，占整个投资的比重比上年同期提高2.4个百分点。前三季度，内需拉动起主导作用，对经济增长的贡献率超过七成，其中，最终消费支出贡献率接近五成，消费对于经济增长的基础性作用有效发挥。\n前三季度，中国经济动能向新。关键领域的创新成果密集涌现和应用，为产业转型升级提供了硬核的科技支撑。前三季度，装备制造业和高技术制造业增加值增速分别快于全部规模以上工业增加值4.9和9.0个百分点。初步测算，前三季度以高端制造、数智经济、现代服务等为代表的新动能，对经济增长的贡献率继续保持在40%以上，经济增长的“接力棒”进一步向新动能传递。与此同时，传统产业的转型升级有力推进。",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "economy",
+  "keywords": [
+    "经济增长",
+    "高质量发展",
+    "实体经济",
+    "新动能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济增长",
+      "name_en": "Economic Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新动能",
+      "name_en": "New Growth Drivers"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "国务院新闻办公室",
+    "经济增长",
+    "高质量发展",
+    "实体经济",
+    "新动能"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "State Council Information Office",
+    "Economic Growth",
+    "High-Quality Development",
+    "Real Economy",
+    "New Growth Drivers"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS",
+      "SCIO"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261019-gov_cn_yaowen-d27c57",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

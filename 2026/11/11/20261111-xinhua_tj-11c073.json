@@ -1,0 +1,106 @@
+{
+  "id": "20261111-xinhua_tj-11c073",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20261111/c70ab52b25d84fc884b0dff7530a066c/c.html",
+  "title_zh": "张工会见埃及苏伊士省长哈尼·拉沙德",
+  "title_en": "Zhang Gong Meets Egyptian Suez Governor Hani Rashad",
+  "summary_zh": "11月10日下午，天津市市长张工在迎宾馆会见埃及苏伊士省长哈尼·拉沙德，双方商谈深化港口、物流、文旅、职业教育等合作。",
+  "summary_en": "On Nov 10, Tianjin Mayor Zhang Gong met Suez Governor Hani Rashad in Tianjin to discuss deeper cooperation in ports, logistics, tourism and vocational education.",
+  "body_zh": "11月10日下午，市长张工在迎宾馆会见埃及苏伊士省长哈尼·拉沙德一行。\n张工对客人来津表示欢迎。他说，今年是中国和埃及建交70周年，习近平主席访埃期间，与塞西总统就共建中埃命运共同体擘画了新蓝图，这为深化两国地方合作开辟了广阔前景。当前，天津正积极融入现代化首都都市圈建设，落实“一基地三区”功能定位，着力发挥区位、港口、产业、科教等比较优势，聚力推动高质量发展、扩大高水平对外开放。希望双方继续深化智慧港口、航运物流、文化旅游、职业教育等领域务实合作，加快中埃·泰达苏伊士经贸合作区拓展建设，推动共赢发展，造福两地人民。\n副市长胡学明和市政府党组成员陈宇参加。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "foreign",
+  "keywords": [
+    "中埃合作",
+    "地方合作",
+    "经贸合作区",
+    "智慧港口"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃合作",
+      "name_en": "China-Egypt Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方合作",
+      "name_en": "Local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作区",
+      "name_en": "Economic and Trade Cooperation Zone"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧港口",
+      "name_en": "Smart Port"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "中埃合作",
+    "地方合作",
+    "经贸合作区",
+    "智慧港口"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "China-Egypt Cooperation",
+    "Local Cooperation",
+    "Economic and Trade Cooperation Zone",
+    "Smart Port"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      {
+        "id": null,
+        "name_zh": "陈宇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-xinhua_tj-11c073",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

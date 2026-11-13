@@ -1,0 +1,108 @@
+{
+  "id": "20261103-xinhua_leaders-8dd461",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261103/2da1c99747a043e79044a77b6478a38f/c.html",
+  "title_zh": "刘延东同志遗体在京火化",
+  "title_en": "Body of Comrade Liu Yandong Cremated in Beijing",
+  "summary_zh": "11月3日，刘延东同志遗体在北京八宝山革命公墓火化，习近平等前往送别并向其亲属表示深切慰问。",
+  "summary_en": "On November 3, the body of Comrade Liu Yandong was cremated at the Babaoshan Revolutionary Cemetery in Beijing, where Xi Jinping and other leaders paid their respects and offered condolences to the family.",
+  "body_zh": "刘延东同志遗体在京火化-新华网\n新华网\n时政\n> 正文\n17:11:45\n刘延东同志遗体在京火化\n小\n中\n大\n刘延东同志遗体在京火化\n11月3日，刘延东同志遗体在北京八宝山革命公墓火化。习近平、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等前往八宝山送别。这是习近平与刘延东亲属握手，表示深切慰问。\n【纠错】\n阅读下一篇：\n刘延东同志遗体在京火化",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "party",
+  "keywords": [
+    "遗体告别",
+    "党和国家领导人"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘延东",
+      "name_en": "Liu Yandong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "遗体告别",
+      "name_en": "Funeral and Farewell"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党和国家领导人",
+      "name_en": "Party and State Leaders"
+    },
+    {
+      "kind": "person",
+      "id": "li-xi",
+      "name_zh": "李希",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "han-zheng",
+      "name_zh": "韩正",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "刘延东",
+    "北京",
+    "遗体告别",
+    "党和国家领导人",
+    "李希",
+    "韩正"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Liu Yandong",
+    "Beijing",
+    "Funeral and Farewell",
+    "Party and State Leaders"
+  ],
+  "entities": {
+    "politicians": [
+      "li-xi",
+      "han-zheng",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261103-xinhua_leaders-8dd461",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

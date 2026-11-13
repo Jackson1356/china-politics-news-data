@@ -1,0 +1,91 @@
+{
+  "id": "20260923-paper_zhengjing-7dacbd",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34132441",
+  "title_zh": "“十五五”时期民政部将推动制定养老服务法",
+  "title_en": "Ministry of Civil Affairs to Push for Elderly Care Services Law in 15th Five-Year Plan Period",
+  "summary_zh": "9月23日，民政部部长李常官在国新办发布会上表示，“十五五”时期将推动修订老年人权益保障法、制定养老服务法，健全养老服务体系。",
+  "summary_en": "On September 23, Minister of Civil Affairs Li Changguan said at a State Council Information Office briefing that during the 15th Five-Year Plan period China will revise the law on protecting the rights of the elderly and enact an elderly care services law.",
+  "body_zh": "民政部部长李常官9月23日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，“十五五”时期将推动修订老年人权益保障法，与时俱进完善保障制度体系，切实增进老年人福祉；推动制定养老服务法，健全分级分类、普惠可及、覆盖城乡、持续发展的养老服务体系。\nAndroid版\niPhone版\niPad版\n沪公网安备31010602008124号",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "养老服务",
+    "老年人权益保障",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老年人权益保障",
+      "name_en": "Protection of the Rights of the Elderly"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "养老服务",
+    "老年人权益保障",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Elderly Care Services",
+    "Protection of the Rights of the Elderly",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260923-paper_zhengjing-7dacbd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34132586",
+      "title_zh": "民政部：我国目前有23.3万个农村养老服务设施",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

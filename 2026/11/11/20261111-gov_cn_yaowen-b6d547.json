@@ -1,0 +1,123 @@
+{
+  "id": "20261111-gov_cn_yaowen-b6d547",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085778.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在安徽宣讲",
+  "title_en": "Central Propaganda Team Delivers Fifth Plenum Spirit Lecture in Anhui",
+  "summary_zh": "11月11日，中央宣讲团成员王江在安徽合肥作学习贯彻党的二十届五中全会精神宣讲报告，并于10日深入社区和企业开展互动宣讲。",
+  "summary_en": "On Nov 11, Wang Jiang, a member of the central propaganda team, delivered a report in Hefei, Anhui on the spirit of the Fifth Plenum, after holding interactive sessions in local communities and firms on Nov 10.",
+  "body_zh": "新华社合肥11月11日电（记者 潘峰）学习贯彻党的二十届五中全会精神中央宣讲团报告会11月11日在安徽合肥举行。中央宣讲团成员、中央金融办分管日常工作的副主任、中央金融工委分管日常工作的副书记王江作宣讲报告。\n报告会上，王江紧紧围绕学习贯彻习近平总书记在全会上的重要讲话精神和全会通过的《决定》，从深刻认识全会的重大意义，深刻认识党的十八大以来全面从严治党取得的伟大成就，深入学习领会习近平党建思想，深入学习领会持之以恒推进全面从严治党的总体要求和战略任务等方面，对全会精神作了系统宣讲和深入阐释。\n王江在宣讲中表示，要按照党中央统一部署，聚焦《决定》的重大部署、重要任务、重点工作，切实增强学习贯彻的政治自觉、思想自觉、行动自觉，确保《决定》各项部署落实落地，不断开创新时代管党治党、兴党强党新局面，为强国建设、民族复兴伟业作出更大贡献。\n10日下午，王江深入合肥市包河区望湖街道沁心湖社区、华安证券公司开展互动宣讲，围绕学习贯彻全会精神与基层党员干部群众面对面交流。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-jiang-finance",
+      "name_zh": "王江",
+      "name_en": "Wang Jiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央金融办",
+      "name_en": "Central Financial Commission Office"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Fifth Plenum Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Discipline"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣讲",
+      "name_en": "Theory Propaganda"
+    }
+  ],
+  "tags_zh": [
+    "王江",
+    "中央金融办",
+    "安徽",
+    "合肥",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags_en": [
+    "Wang Jiang",
+    "Central Financial Commission Office",
+    "Anhui",
+    "Hefei",
+    "Fifth Plenum Spirit",
+    "Full and Rigorous Party Discipline",
+    "Theory Propaganda"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jiang-finance"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH",
+      "CN-AH-HF"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央金融办",
+        "name_en": "Central Financial Commission Office"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-gov_cn_yaowen-b6d547",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1794386223129073.html",
+      "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在安徽宣讲",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "20261111-gov_tai_zhou-b582b0",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/11/11/art_60096_11857155.html",
+  "title_zh": "新加坡—江苏合作理事会第二十次会议召开 刘小涛英兰妮范波致辞",
+  "title_en": "20th Singapore-Jiangsu Cooperation Council Meeting Held in Suzhou",
+  "summary_zh": "11月10日，新加坡—江苏合作理事会第二十次会议在苏州召开，江苏省省长刘小涛与新加坡部长英兰妮共同主持并致辞，中新苏州医学中心在会上揭牌，一批重点合作项目签约。",
+  "summary_en": "The 20th Singapore-Jiangsu Cooperation Council meeting was held in Suzhou on Nov 10, co-chaired by Jiangsu Governor Liu Xiaotao and Singapore's Minister Indranee Rajah; the China-Singapore Suzhou Medical Center was unveiled and several key projects were signed.",
+  "body_zh": "当前位置：\n新加坡—江苏合作理事会第二十次会议召开\n刘小涛英兰妮范波致辞\n11月10日，新加坡—江苏合作理事会第二十次会议在苏州召开。省长、理事会江苏方主席刘小涛主持会议并致辞，新加坡总理公署部长兼财政部和国家发展部第二部长、理事会新方主席英兰妮，省委副书记、苏州市委书记范波出席会议并致辞。\n会议指出，新苏理事会成立20年来，新加坡和江苏相知相伴、携手同行，在科技创新、经贸投资、园区共建、绿色低碳、人文交流等领域结出丰硕成果。过去一年，双方贸易投资合作持续深化，人员交流往来不断扩大，高质量发展的基础更加坚实、动能更加强劲。未来要持续深化战略对接、厚植合作根基，携手打造更多标志性科技产业创新成果，拓展更多高质量经贸合作空间，推进更多高水平载体平台建设，推动新苏务实合作深耕细作、枝繁叶茂。\n会上，中新苏州医学中心揭牌。双方围绕生物医药、未来产业、绿色生态等领域合作进行研讨，一批重点合作项目签约。\n副省长、理事会江苏方副主席马士光，新加坡内政部兼社会及家庭发展部高级政务部长、理事会新方副主席吴培铭作会议总结。南京市市长李忠军，省政府秘书长赵建军，新加坡驻华大使陈海泉，新加坡驻沪总领事陈子勤参加会议。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "经贸合作",
+    "科技创新",
+    "绿色低碳",
+    "生物医药"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "英兰妮",
+      "name_en": "Indranee Rajah"
+    },
+    {
+      "kind": "person",
+      "id": "fan-bo-jiangsu",
+      "name_zh": "范波",
+      "name_en": "Fan Bo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-SZ",
+      "name_zh": "苏州",
+      "name_en": "Suzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳",
+      "name_en": "Green and Low-Carbon Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药",
+      "name_en": "Biomedicine"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "英兰妮",
+    "范波",
+    "苏州",
+    "经贸合作",
+    "科技创新",
+    "绿色低碳",
+    "生物医药"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Indranee Rajah",
+    "Fan Bo",
+    "Suzhou",
+    "Trade and Economic Cooperation",
+    "Scientific and Technological Innovation",
+    "Green and Low-Carbon Development",
+    "Biomedicine"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "英兰妮"
+      },
+      "fan-bo-jiangsu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-gov_tai_zhou-b582b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "20260812-gov_huai_an-310489",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17855136/1786520743042TjumQQeL.html",
+  "title_zh": "市领导调研推进专精特新企业高质量发展",
+  "title_en": "Mayor Gu Kun Investigates High-quality Development of Specialized and Innovative Enterprises",
+  "summary_zh": "8月10日，市长顾坤到金湖县、淮安工业园区调研专精特新企业，强调强化项目引培和科技创新，培育更多专精特新企业。",
+  "summary_en": "On August 10, Mayor Gu Kun visited Jinhu County and Huaian Industrial Park to promote high-quality development of specialized and innovative enterprises, emphasizing talent cultivation and technological innovation.",
+  "body_zh": "8月10日，市长顾坤到金湖县、淮安工业园区调研推进专精特新企业高质量发展，强调要深入学习贯彻习近平总书记关于促进中小企业发展的重要论述，认真落实省委省政府决策部署和市委工作要求，坚持新型工业化第一方略不动摇，强化项目引培和科技创新双轮驱动，进一步提升服务质效、优化产业生态，招选培育更多创新能力强、成长性好、带动作用明显的专精特新企业，为因地制宜加快发展新质生产力、促进富民强市夯实根基。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "economy",
+  "keywords": [
+    "专精特新",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专精特新",
+      "name_en": "Specialized and Innovative Enterprises"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "专精特新",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huaian",
+    "Specialized and Innovative Enterprises",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260812-gov_huai_an-310489",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

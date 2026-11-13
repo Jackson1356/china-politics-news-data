@@ -1,0 +1,117 @@
+{
+  "id": "20260804-cpcnews-4bb244",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://fanfu.people.com.cn/n1/2026/0804/c64371-40773413.html",
+  "title_zh": "中央纪委国家监委通报2026年上半年对纪检监察干部监督检查审查调查情况",
+  "title_en": "Central Commission for Discipline Inspection Reports on Supervision and Investigation of Discipline Inspection Cadres in First Half of 2026",
+  "summary_zh": "2026年上半年，各级纪检监察机关共接收涉及纪检监察干部问题线索1.55万余件，立案1685人，处分1535人，移送司法机关138人。",
+  "summary_en": "In the first half of 2026, discipline inspection agencies nationwide received over 15,500 leads concerning discipline inspection cadres, filed 1,685 cases, disciplined 1,535 people, and transferred 138 to judicial organs.",
+  "body_zh": "本报讯 2026年上半年，各级纪检监察机关坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平党建思想，认真落实二十届中央纪委五次全会工作部署，扎实开展树立和践行正确政绩观学习教育，以更高标准、更实举措持续加强纪检监察干部队伍建设，以钉钉子精神纵深推进“三化”建设年行动，坚定不移强化制度治权、依规用权，不断提升监督执纪执法质效，着力锻造政治过硬、能力过硬、作风过硬、廉洁过硬的纪检监察铁军。\n全国纪检监察机关共接收涉及纪检监察干部问题线索或反映1.55万余件次，处置涉及纪检监察干部问题线索1.42万余件，谈话函询纪检监察干部4385人次，对纪检监察干部立案1685人，处分1535人，移送司法机关138人。其中，处分厅局级干部59人、县处级干部356人。\n全国纪检监察机关运用“四种形态”批评教育和处理纪检监察干部5999人次。其中，运用第一种形态批评教育和处理4397人次，运用第二种形态处理1219人次，运用第三种形态处理222人次，运用第四种形态处理161人。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "discipline",
+  "keywords": [
+    "纪检监察",
+    "纪律审查",
+    "反腐败"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪检监察",
+      "name_en": "Discipline Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中央纪委国家监委",
+    "纪检监察",
+    "纪律审查",
+    "反腐败",
+    "习近平"
+  ],
+  "tags_en": [
+    "Central Commission for Discipline Inspection",
+    "Discipline Inspection",
+    "Disciplinary Review",
+    "Anti-corruption"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260804-cpcnews-4bb244",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0804/c461001-40773278.html",
+      "title_zh": "中央纪委国家监委通报2026年上半年对纪检监察干部监督检查审查调查情况--时政--人民网",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_04_826069.shtml",
+      "title_zh": "中央纪委国家监委最新通报：今年上半年1535名纪检监察干部被处分",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    },
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://www.xmnn.cn/news/gnxw/202608/t20260804_443400.html",
+      "title_zh": "今年上半年1535名纪检监察干部被处分 _新闻频道_厦门网",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

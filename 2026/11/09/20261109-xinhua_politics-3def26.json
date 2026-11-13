@@ -1,0 +1,91 @@
+{
+  "id": "20261109-xinhua_politics-3def26",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261109/14b7d393e59c4d8fbc165104ff345b83/c.html",
+  "title_zh": "第43次南极考察丨“雪龙”号穿越赤道进入南半球",
+  "title_en": "Xuelong Crosses Equator into Southern Hemisphere on China's 43rd Antarctic Expedition",
+  "summary_zh": "北京时间11月9日16时25分，执行中国第43次南极考察任务的“雪龙”号穿越赤道进入南半球，考察队举行穿越赤道纪念活动。",
+  "summary_en": "At 16:25 Beijing time on Nov 9, the icebreaker Xuelong, on China's 43rd Antarctic expedition, crossed the equator into the Southern Hemisphere, and the team held a commemorative ceremony.",
+  "body_zh": "新华社“雪龙”号11月9日电（记者 邹多为）赤道是南北半球的分界线。北京时间11月9日16时25分，正在执行中国第43次南极考察任务的“雪龙”号穿越赤道，进入南半球。\n考察队当天在“雪龙”号上举行了穿越赤道纪念活动。队员们排列成“43”字样的队形合影留念，参与了拔河、套圈、投壶等游戏，以简单而热烈的方式告别北半球，继续向南极挺进。\n“穿越赤道是远洋航行中具有重要象征、纪念意义的时刻。”“雪龙”号船长阮飞说，在船上开展纪念活动既包含着对征程安全、顺畅的祝福，也能提升队伍的默契度和凝聚力。\n中国第43次南极考察队由自然资源部组织，考察任务由“雪龙”号、“雪龙2”号和“大洋号”三船共同保障，来自国内100多家单位的600余名队员参加，预计将于2027年4月完成任务后返航。\n其中，“雪龙”号2026年11月3日从上海出发，预计于11月下旬在澳大利亚港口补给物资和迎接新队员登船，随后前往南极中山站。“雪龙2”号7日从海南三亚起航后，预计将于12日驶过赤道。\n据悉，此次考察将重点推进完善极地考察站点和运输保障体系、持续开展南极多领域综合调查监测等工作，主要任务包括全面完成秦岭站现场建设收尾和验收工作，开展玛丽·伯德地考察站拟选配套设施踏勘测绘，组织AR500大型无人直升机等国产设施设备在南极测试应用，并与挪威、智利、保加利亚等国合作开展南极冰盖、地质、冰雪环境等领域研究。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "industry",
+  "keywords": [
+    "极地考察",
+    "南极科考",
+    "海洋科考"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "极地考察",
+      "name_en": "Polar Expedition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南极科考",
+      "name_en": "Antarctic Research"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋科考",
+      "name_en": "Marine Scientific Research"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "极地考察",
+    "南极科考",
+    "海洋科考"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Polar Expedition",
+    "Antarctic Research",
+    "Marine Scientific Research"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261109-xinhua_politics-3def26",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20261110/4fbb3570a88d4a0a8bc4b53b9bcc45a8/c.html",
+      "title_zh": "第43次南极考察丨“雪龙”号穿越赤道进入南半球",
+      "published_at": "2026-11-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

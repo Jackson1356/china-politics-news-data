@@ -1,0 +1,105 @@
+{
+  "id": "20261109-gov_huai_an-5e90a2",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794181886789J9jKYWR7.html",
+  "title_zh": "市九届人大七次会议主席团举行第一次会议",
+  "title_en": "Presidium of First Session of the Presidium of the Seventh Session of the Ninth Huai'an Municipal People's Congress",
+  "summary_zh": "11月8日，淮安市九届人大七次会议主席团举行第一次会议，市委书记顾坤出席，市人大常委会常务副主任周青主持，会议推选常务主席并讨论选举办法草案。",
+  "summary_en": "On Nov 8, the presidium of the seventh session of the ninth Huai'an Municipal People's Congress held its first meeting, attended by Party Secretary Gu Kun and chaired by Zhou Qing; it elected standing presidium chairmen and discussed the draft election measures.",
+  "body_zh": "11月8日，市九届人大七次会议主席团举行第一次会议。市委书记、市人大常委会党组书记顾坤出席会议。市人大常委会常务副主任、党组副书记周青主持会议。\n会议推选大会主席团常务主席；通过大会主席团执行主席分组名单；决定大会副秘书长人选；通过大会日程；讨论大会选举办法（草案）。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "personnel",
+  "keywords": [
+    "地方人大会议",
+    "选举办法",
+    "主席团工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方人大会议",
+      "name_en": "Local People's Congress Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "选举办法",
+      "name_en": "Election Procedures"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "主席团工作",
+      "name_en": "Presidium Work"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "地方人大会议",
+    "选举办法",
+    "主席团工作"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Local People's Congress Session",
+    "Election Procedures",
+    "Presidium Work"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "周青"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261109-gov_huai_an-5e90a2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794181992651Xc9FvTLb.html",
+      "title_zh": "淮安市人民政府 市九届人大七次会议召开预备会议",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

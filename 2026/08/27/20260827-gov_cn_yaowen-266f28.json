@@ -1,0 +1,106 @@
+{
+  "id": "20260827-gov_cn_yaowen-266f28",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079330.htm",
+  "title_zh": "中国长期保持吉尔吉斯斯坦第一大贸易伙伴地位",
+  "title_en": "China Remains Kyrgyzstan's Largest Trading Partner",
+  "summary_zh": "商务部新闻发言人黄玲8月27日表示，中国长期保持吉尔吉斯斯坦第一大贸易伙伴地位，今年1至7月中吉贸易额达117亿美元。",
+  "summary_en": "MOFCOM spokesperson Huang Ling said on Aug 27 that China remains Kyrgyzstan's largest trading partner, with trade reaching $11.7 billion in Jan-Jul this year.",
+  "body_zh": "新华社北京8月27日电（记者 王聿昊、谢希瑶）商务部新闻发言人黄玲在27日举行的例行新闻发布会上介绍，中国长期保持吉尔吉斯斯坦第一大贸易伙伴地位。今年1至7月，中吉贸易额为117亿美元，中国“新三样”、机电产品对吉出口快速增长，服务贸易、跨境电商等合作持续推进。\n“近年来，在两国元首的战略引领下，中吉经贸合作保持稳中有进发展态势，各领域合作取得积极成果。”黄玲表示，中国是吉第一大外资来源国。截至今年7月底，中国对吉全行业直接投资超过20亿美元。大型基建、能源、矿产、农业、绿色发展等领域项目进展顺利。同时，中吉积极探讨并推动中国—中亚、上海合作组织贸易投资自由化便利化，促进区域经济合作。\n“下一步，中方愿同吉方一道，共同落实好两国元首达成的重要共识，持续推动中吉经贸合作高质量发展。”黄玲说。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-27",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "economy",
+  "keywords": [
+    "中吉经贸合作",
+    "贸易伙伴",
+    "直接投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中吉经贸合作",
+      "name_en": "China-Kyrgyzstan Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易伙伴",
+      "name_en": "Trading Partner"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "直接投资",
+      "name_en": "Direct Investment"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "北京",
+    "中吉经贸合作",
+    "贸易伙伴",
+    "直接投资"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Beijing",
+    "China-Kyrgyzstan Economic Cooperation",
+    "Trading Partner",
+    "Direct Investment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "黄玲"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-gov_cn_yaowen-266f28",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079331.htm",
+      "title_zh": "中国与上合组织其他成员国贸易额占我外贸总额8%",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

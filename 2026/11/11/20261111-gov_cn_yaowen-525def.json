@@ -1,0 +1,111 @@
+{
+  "id": "20261111-gov_cn_yaowen-525def",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/11/VIDExs7ECnqSNq59bz30Y6GS261111.shtml",
+  "title_zh": "李强将访问泰国并赴菲律宾出席中国—东盟领导人会议",
+  "title_en": "Li Qiang to Visit Thailand and Attend China-ASEAN Summit in the Philippines",
+  "summary_zh": "应泰国总理阿努廷邀请，国务院总理李强将于11月13日至15日对泰国进行正式访问，随后于11月15日至16日赴马尼拉出席第29次中国—东盟领导人会议。",
+  "summary_en": "At the invitation of Thai Prime Minister Anutin, Premier Li Qiang will pay an official visit to Thailand on Nov 13-15, then travel to Manila on Nov 15-16 for the 29th China-ASEAN Summit.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：应泰国总理阿努廷邀请，国务院总理李强将于11月13日至15日对泰国进行正式访问。\n应东盟轮值主席国菲律宾总统马科斯邀请，国务院总理李强将于11月15日至16日赴菲律宾马尼拉出席第29次中国—东盟领导人会议。\n[视频]李强将访问泰国并赴菲律宾出席中国—东盟领导人会议\n简介\n视频简介李强将访问泰国并赴菲律宾出席中国—东盟领导人会议。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国—东盟合作",
+    "正式访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "泰国",
+      "name_en": "Thailand"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "菲律宾马尼拉",
+      "name_en": "Manila, Philippines"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—东盟合作",
+      "name_en": "China-ASEAN Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正式访问",
+      "name_en": "Official Visit"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李强将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "泰国",
+    "菲律宾马尼拉",
+    "中国—东盟合作",
+    "正式访问",
+    "李强将"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Thailand",
+    "Manila, Philippines",
+    "China-ASEAN Cooperation",
+    "Official Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "李强将"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261111-gov_cn_yaowen-525def",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

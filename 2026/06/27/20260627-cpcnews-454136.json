@@ -1,0 +1,93 @@
+{
+  "id": "20260627-cpcnews-454136",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0627/c64094-40748635.html",
+  "title_zh": "中华人民共和国主席令",
+  "title_en": "Presidential Decree of the People's Republic of China",
+  "summary_zh": "2026年6月26日，习近平签署主席令，公布修订后的《商标法》和《注册会计师法》，并免去关志鸥的自然资源部部长职务。",
+  "summary_en": "On June 26, 2026, President Xi Jinping signed presidential decrees to announce the revised Trademark Law and Certified Public Accountants Law, and the removal of Guan Zhiou as Minister of Natural Resources.",
+  "body_zh": "第七十七号\n《中华人民共和国商标法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十三次会议于2026年6月26日修订通过，现予公布，自2027年1月1日起施行。\n中华人民共和国主席 习近平\n第七十八号\n《全国人民代表大会常务委员会关于修改〈中华人民共和国注册会计师法〉的决定》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十三次会议于2026年6月26日通过，现予公布，自2027年1月1日起施行。\n中华人民共和国主席 习近平\n第七十九号\n根据中华人民共和国第十四届全国人民代表大会常务委员会第二十三次会议于2026年6月26日的决定：\n免去关志鸥的自然资源部部长职务。\n中华人民共和国主席 习近平\n（新华社北京6月26日电）\n《 人民日报 》（ 2026年06月27日 02 版）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "personnel",
+  "keywords": [
+    "法律修订",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人民代表大会常务委员会",
+      "name_en": "Standing Committee of the National People's Congress"
+    },
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法律修订",
+      "name_en": "Legal Revision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    }
+  ],
+  "tags_zh": [
+    "全国人民代表大会常务委员会",
+    "自然资源部",
+    "北京",
+    "法律修订",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Standing Committee of the National People's Congress",
+    "Ministry of Natural Resources",
+    "Beijing",
+    "Legal Revision",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人民代表大会常务委员会",
+        "name_en": "Standing Committee of the National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260626-qiushi-a732ec",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

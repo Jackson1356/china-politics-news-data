@@ -1,0 +1,92 @@
+{
+  "id": "20260828-gov_cn_yaowen-fc04e0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079375.htm",
+  "title_zh": "王毅会见美国驻华大使庞德伟",
+  "title_en": "Wang Yi Meets US Ambassador to China Pang Dewei",
+  "summary_zh": "中共中央政治局委员、外交部长王毅26日在北京会见美国驻华大使庞德伟，双方就落实两国元首共识、筹备高层互动等交换意见。",
+  "summary_en": "Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, met with US Ambassador to China Pang Dewei in Beijing on August 26. They exchanged views on implementing the consensus of the two heads of state and preparing for high-level interactions.",
+  "body_zh": "新华社北京8月27日电 中共中央政治局委员、外交部长王毅26日在京会见美国驻华大使庞德伟。\n王毅说，在两国元首领航掌舵下，双方正推动构建中美建设性战略稳定关系。双方应把两国元首重要共识落到实处，聚焦积极议程，妥善管控分歧，为两国高层交往排除干扰、克服障碍，推动中美关系朝着稳定、健康、可持续的方向发展。\n庞德伟说，两国元首为美中关系提供重要战略引领。愿筹备好下阶段重要高层互动，在尊重和对等的基础上构建美中建设性战略稳定关系。\n庞德伟还代表美方对西藏吉隆遭受泥石流灾害造成人员伤亡表示慰问。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "高层交往"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "庞德伟",
+      "name_en": "Pang Dewei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层交往",
+      "name_en": "High-level Exchanges"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "庞德伟",
+    "北京",
+    "中美关系",
+    "高层交往"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Pang Dewei",
+    "Beijing",
+    "China-US Relations",
+    "High-level Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260827-peoples_politics-20b2bc",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

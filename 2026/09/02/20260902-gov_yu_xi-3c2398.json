@@ -1,0 +1,106 @@
+{
+  "id": "20260902-gov_yu_xi-3c2398",
+  "source": "gov_yu_xi",
+  "source_name_zh": "玉溪市政府网",
+  "source_name_en": "玉溪 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yuxi.gov.cn/yxs/tt/20260902/1678172.html",
+  "title_zh": "李强会见美中贸易全国委员会董事会代表团",
+  "title_en": "Li Qiang Meets Board Delegation of US-China Business Council",
+  "summary_zh": "9月1日下午，国务院总理李强在北京人民大会堂会见美中贸易全国委员会董事会主席麦凯恩率领的访华团，就推动中美经贸合作等交流意见。",
+  "summary_en": "On the afternoon of September 1, Premier Li Qiang met with a delegation led by McCain, chairman of the Board of Directors of the US-China Business Council, at the Great Hall of the People in Beijing.",
+  "body_zh": "李强会见美中贸易全国委员会董事会代表团\n9月1日下午，国务院总理李强在北京人民大会堂会见美中贸易全国委员会董事会主席麦凯恩率领的访华团。\n李强表示，长期以来，美中贸委会致力于推动中美关系与经贸合作，发挥了重要作用。在中美双方共同努力下，当前两国关系保持总体稳定。今年5月，习近平主席同特朗普总统在北京举行会晤，达成一系列重要共识。中方愿同美方一道，遵循两国元首战略引领，加强对话沟通，拓展互利合作，妥善管控分歧，推动构建中美建设性战略稳定关系，争取更多务实成果。\n李强指出，综观当今国际经贸合作的发展，能够得出一些重要的启示，可以说合作共赢是大势，尊重理解是基础，相向而行是关键。中美经贸关系的本质是互利共赢，加强合作是双方的内在需求，也是正确选择。放眼世界，中国可能是唯一兼具“大”和“新”两个特点的富有潜力市场，特别是智能消费、绿色消费等高品质、升级类消费快速增长，欢迎美国企业积极抢抓机遇，加力开拓、深耕中国市场。中美经贸合作体量大，出现一些矛盾摩擦是正常的。只要相互尊重、相互理解，加强沟通协商，总能找到解决办法。中方愿积极推动解决美国来华企业的合理诉求，依法维护公平竞争的市场环境，也希望美方相向而行，以切实行动解决中方关切，共同落实好两国经贸磋商成果。希望美中贸委会继续发挥自身影响，引导美国各界理性客观看待中国发展，促进中美关系稳定健康可持续发展。\n麦凯恩等美方人士表示，美中关系是当今世界最重要的双边关系。两国元首成功会晤为双方经贸合作提供了稳定预期，为世界经济发展注入了确定性。美工商界对中国“十五五”规划实施和经济发展前景充满信心，将继续深耕中国，扩大对华投资，坚定做中国发展的长期伙伴、美中关系的建设性力量。美中贸委会愿发挥桥梁作用，增进双方相互了解、互信与合作，推动两国建设性战略稳定关系发展。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "中美关系",
+    "经贸合作",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "China-US Relations",
+    "Economic and Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "方人士"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-gov_yu_xi-3c2398",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

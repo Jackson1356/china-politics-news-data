@@ -1,0 +1,101 @@
+{
+  "id": "20260909-local_sha_men_ri_bao_cn_fj-71649c",
+  "source": "local_sha_men_ri_bao_cn_fj",
+  "source_name_zh": "厦门日报",
+  "source_name_en": "厦门日报",
+  "source_media_id": "cac-cn-fj-df39a14a77",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.xmnn.cn/news/xmxw/202609/t20260909_449882.html",
+  "title_zh": "未来投资大会高级别开幕式在厦门举行 赵龙出席并致辞",
+  "title_en": "High-Level Opening of Future Investment Conference Held in Xiamen, Zhao Long Attends and Speaks",
+  "summary_zh": "9月8日，未来投资大会高级别开幕式在厦门举行，福建省省长赵龙出席并致辞，强调推进高水平对外开放，欢迎海内外客商投资福建。",
+  "summary_en": "On September 8, the high-level opening of the Future Investment Conference was held in Xiamen. Zhao Long, Governor of Fujian Province, attended and delivered a speech, emphasizing high-level opening-up and welcoming domestic and foreign investors to Fujian.",
+  "body_zh": "厦门网讯（厦门日报特约记者 刘必然）9月8日，未来投资大会高级别开幕式在厦门举行，与会嘉宾围绕“变化世界中的全球投资”主题畅谈合作愿景、共谋发展良策。柬埔寨副首相孙占托、塞尔维亚副总理阿德丽亚娜·梅萨罗维奇出席并作主旨发言，省长赵龙、联合国贸易和发展会议代理秘书长佩德罗·曼努埃尔·莫雷诺、商务部副部长凌激出席并致辞。国务院发展研究中心副主任隆国强，省领导林宝金、赵增连、黄文辉出席。\n赵龙说，习近平主席高度重视开放合作，强调要推进高水平对外开放，提升贸易投资合作质量和水平。我们始终牢记习近平主席殷殷嘱托，坚持“引进来”和“走出去”并重、双向投资互促共进，坚持投资于物、投资于人、投资于智相结合，在为国际贸易投资作出重要贡献的同时，也为福建未来高质量发展提供了坚实支撑。\n赵龙表示，福建发展充满机遇、前景广阔，投资福建也是投资未来，热忱欢迎海内外客商来福建投资兴业，共享发展机遇，共创美好未来。我们愿同各方一道，聚焦科技创新这一主战场，围绕新能源、集成电路、生物医药等领域，促进企业家、科学家、投资人三方联动，深化“四链”融合，携手发展壮大新质生产力；聚焦数智赋能这一大趋势，全面实施“人工智能+”行动，通过政策支持撬动各方投资，加快各领域数智全面赋能；聚焦绿色低碳这一新赛道，瞄准清洁能源、循环经济等，强化投融资模式创新，引导各类资本加大投入，为推动全球投资稳定发展作出更大贡献。\n有关国家高级别官员，国际组织、跨国企业、科创企业、金融机构代表等参加。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "全球投资",
+    "高水平对外开放",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-long-fujian",
+      "name_zh": "赵龙",
+      "name_en": "Zhao Long"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-XM",
+      "name_zh": "厦门",
+      "name_en": "Xiamen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球投资",
+      "name_en": "Global Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Level Opening-Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "赵龙",
+    "厦门",
+    "全球投资",
+    "高水平对外开放",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Zhao Long",
+    "Xiamen",
+    "Global Investment",
+    "High-Level Opening-Up",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-long-fujian",
+      {
+        "id": null,
+        "name_zh": "黄文辉"
+      },
+      {
+        "id": null,
+        "name_zh": "罗维奇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-XM"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260909-local_sha_men_ri_bao_cn_fj-71649c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

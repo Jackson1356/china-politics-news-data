@@ -1,0 +1,107 @@
+{
+  "id": "20260810-bjnews-ea4ffa",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1786092396129871.html",
+  "title_zh": "受贿6798万余元 中国一重原副总经理陆文俊一审获刑15年",
+  "title_en": "Former Deputy GM of CFHI Sentenced to 15 Years for Bribery of 67.98 Million Yuan",
+  "summary_zh": "2026年8月10日，湖南省湘潭市中级人民法院一审宣判中国一重原副总经理陆文俊受贿案，判处其有期徒刑十五年，并处罚金五百万元；追缴赃款及孳息。",
+  "summary_en": "On Aug 10, 2026, Xiangtan Intermediate Court sentenced Lu Wenjun, former deputy GM of China First Heavy Industries, to 15 years and a 5M yuan fine for bribery, with illicit gains confiscated.",
+  "body_zh": "据央视新闻消息，2026年8月10日，湖南省湘潭市中级人民法院一审公开宣判中国一重集团有限公司原党委常委、副总经理陆文俊受贿案，对被告人陆文俊以受贿罪判处有期徒刑十五年，并处罚金人民币五百万元；对追缴在案的陆文俊受贿所得财物及孳息依法上缴国库，不足部分继续追缴。\n经审理查明：2002年至2022年，被告人陆文俊利用担任中国重机总经理、董事长，中国二重总经理、董事长，中国一重副总经理等职务上的便利，为有关公司和个人在业务承揽、佣金支付等事项上提供帮助，非法收受财物共计折合人民币6798万余元。\n湘潭市中级人民法院认为，被告人陆文俊的行为构成受贿罪，数额特别巨大，应依法惩处。鉴于其到案后如实供述自己罪行，主动交代办案机关尚未掌握的部分受贿犯罪事实；认罪悔罪，积极退赃，受贿赃款赃物及孳息已大部分追缴，可依法从轻处罚。法庭遂作出上述判决。\n据悉，湘潭市中级人民法院于2026年5月9日公开开庭审理了该案。庭审中，检察机关出示了相关证据，被告人陆文俊及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见，陆文俊进行了最后陈述，并当庭表示认罪悔罪。人大代表、政协委员和各界群众三十余人旁听了庭审。\n（总台央视记者 奚丹霓 马姗）",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "受贿"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陆文俊",
+      "name_en": "Lu Wenjun"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南省湘潭市中级人民法院",
+      "name_en": "Xiangtan Intermediate People's Court of Hunan Province"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-XT",
+      "name_zh": "湘潭",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿",
+      "name_en": "Bribery"
+    }
+  ],
+  "tags_zh": [
+    "陆文俊",
+    "湖南省湘潭市中级人民法院",
+    "湖南",
+    "湘潭",
+    "反腐败",
+    "受贿"
+  ],
+  "tags_en": [
+    "Lu Wenjun",
+    "Xiangtan Intermediate People's Court of Hunan Province",
+    "Anti-corruption",
+    "Bribery"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陆文俊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN",
+      "CN-HN-XT"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖南省湘潭市中级人民法院",
+        "name_en": "Xiangtan Intermediate People's Court of Hunan Province"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260810-bjnews-ea4ffa",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

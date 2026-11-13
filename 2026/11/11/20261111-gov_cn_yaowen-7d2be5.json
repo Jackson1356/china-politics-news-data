@@ -1,0 +1,115 @@
+{
+  "id": "20261111-gov_cn_yaowen-7d2be5",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085762.htm",
+  "title_zh": "王毅同法国外长巴罗通电话",
+  "title_en": "Wang Yi Speaks by Phone with French Foreign Minister Barrot",
+  "summary_zh": "11月10日，中共中央政治局委员、外交部长王毅应约同法国外长巴罗通电话，双方就中法关系、中欧合作及联合国事务等交换意见。",
+  "summary_en": "On November 10, Chinese Foreign Minister Wang Yi took a phone call from French Foreign Minister Jean-Noel Barrot, with the two sides exchanging views on China-France relations, China-EU cooperation and UN affairs.",
+  "body_zh": "新华社北京11月10日电 中共中央政治局委员、外交部长王毅10日应约同法国外长巴罗通电话。\n王毅表示，中法都是联合国创始会员国和安理会常任理事国，双方就国际形势发展变化保持沟通、加强协调，对于维护以联合国为核心的国际体系十分重要。中方愿同法方一道，履行好安理会常任理事国特殊责任，维护国际社会共同利益。\n王毅说，保持中法关系健康稳定发展符合两国和国际社会利益。双方应落实两国元首共识，加强对话合作，夯实政治互信，共同应对各类风险挑战。希望法方以实际行动恪守一个中国原则，维护好中法关系政治基础。中欧合则两利、斗则俱伤。期待欧方同中方相向而行，共同打造稳定、平衡的中欧关键贸易伙伴关系。相信法国作为欧盟核心大国，将为此发挥建设性作用。\n巴罗表示，法方始终高度重视中国大国地位，恪守一个中国政策，希望同中方保持高层互动，深化战略互信，就联合国事务、人工智能等重大问题加强沟通协调，携手捍卫多边主义、维护全球安全稳定、促进共同发展繁荣。法方愿为推动欧中对话合作发挥积极作用。\n双方还就联合国秘书长选举等共同关心的问题交换了意见。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "中法关系",
+    "中欧合作",
+    "多边主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "巴罗",
+      "name_en": "Jean-Noel Barrot"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中法关系",
+      "name_en": "China-France Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧合作",
+      "name_en": "China-EU Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "巴罗",
+    "外交部",
+    "北京",
+    "中法关系",
+    "中欧合作",
+    "多边主义"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Jean-Noel Barrot",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-France Relations",
+    "China-EU Cooperation",
+    "Multilateralism"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "巴罗"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261111-cpcnews-6e1d67",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

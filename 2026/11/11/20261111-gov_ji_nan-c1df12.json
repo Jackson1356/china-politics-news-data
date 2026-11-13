@@ -1,0 +1,93 @@
+{
+  "id": "20261111-gov_ji_nan-c1df12",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_de28936af502439aa09d8b0e9025cc13.html",
+  "title_zh": "刘强会见中国西电电气股份有限公司客人",
+  "title_en": "Liu Qiang Meets with Guests from China XD Electric",
+  "summary_zh": "11月10日，济南市委书记刘强在龙奥大厦会见中国西电电气董事长赵永志一行，双方就输变电装备、新型电力技术研发及新能源装备产业合作交换意见。",
+  "summary_en": "On November 10, Jinan Party Secretary Liu Qiang met with Zhao Yongzhi, chairman of China XD Electric, at Long'ao Building to discuss cooperation in power transmission equipment, new power technology R&D and the new energy equipment industry.",
+  "body_zh": "刘强会见中国西电电气股份有限公司客人\n11月10日，市委书记刘强在龙奥大厦会见了中国西电电气股份有限公司党委书记、董事长赵永志一行。\n刘强、赵永志分别介绍了济南市新能源装备产业发展情况和中国西电电气股份有限公司发展情况，围绕输变电装备产业发展、新型电力技术研发、固态变压器高端转型等领域合作交换了意见。双方表示，将建立完善常态化沟通对接机制，加快推进现有合作项目进展，合力打造新能源装备产业生态，携手推动全市新能源高效利用和经济社会绿色低碳转型。\n市委常委、秘书长韩伟，山东电工电气集团有限公司党委书记、董事长朱琦琦参加活动。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "新能源装备产业",
+    "输变电装备",
+    "绿色低碳转型"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源装备产业",
+      "name_en": "New Energy Equipment Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "输变电装备",
+      "name_en": "Power Transmission Equipment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳转型",
+      "name_en": "Green and Low-Carbon Transition"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "新能源装备产业",
+    "输变电装备",
+    "绿色低碳转型"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "New Energy Equipment Industry",
+    "Power Transmission Equipment",
+    "Green and Low-Carbon Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-gov_ji_nan-c1df12",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

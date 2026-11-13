@@ -1,0 +1,100 @@
+{
+  "id": "20261112-peoples_qh-57bc7e",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.people.com.cn/n2/2026/1112/c182775-41748829.html",
+  "title_zh": "西北地区海拔最高抽水蓄能电站开工",
+  "title_en": "Construction Begins on Northwest China's Highest-Altitude Pumped Storage Power Station",
+  "summary_zh": "11月10日，青海省海西州德令哈60万千瓦抽水蓄能电站开工建设，总投资52.27亿元，预计2034年建成投运。",
+  "summary_en": "Construction started on Nov 10 on a 600,000-kW pumped storage power station in Delingha, Haixi Prefecture, Qinghai, with total investment of 5.227 billion yuan; it is expected to be completed and operational by 2034.",
+  "body_zh": "西北地区海拔最高抽水蓄能电站开工\n11月10日，我国西北地区海拔最高的抽水蓄能电站——青海省海西州德令哈60万千瓦抽水蓄能电站开工建设。项目总投资52.27亿元，设计年发电量12亿千瓦时、年抽水电量16亿千瓦时，预计2034年建成投运，将为海西蒙古族藏族自治州乃至青海西部电网补齐储能调峰短板、提供关键支撑。\n该项目为日调节纯抽水蓄能电站，配置2台单机容量30万千瓦立轴单级混流可逆式蓄能机组，综合效率达75%，总装机容量60万千瓦。项目选址上水库设于博格且郭勒沟左岸冲沟，下水库依托巴音河上游河道建设，整体枢纽包含上水库、下水库、输水系统、开关站、地下厂房系统等完整功能体系，是目前德令哈市单体规模最大、调节能力最强的储能支撑项目。\n作为德令哈市构建多能协同互补、“源网荷储”一体化新能源开发模式的重要一环，该电站的调节能力将直接服务于区域新能源消纳与电网安全。电站投运后，每年可节省电网标准煤耗46.4万吨，相当于减少二氧化碳排放116.1万吨、二氧化硫排放0.4万吨、氮氧化物排放0.4万吨、碳粉尘0.6万吨，有效削减火电配套污染物排放，助力“青海‘双碳’”战略落地。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "industry",
+  "keywords": [
+    "抽水蓄能",
+    "清洁能源",
+    "储能调峰",
+    "双碳目标"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "德令哈",
+      "name_en": "Delingha"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抽水蓄能",
+      "name_en": "Pumped Storage Hydropower"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "清洁能源",
+      "name_en": "Clean Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "储能调峰",
+      "name_en": "Energy Storage and Peak Shaving"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双碳目标",
+      "name_en": "Carbon Peaking and Neutrality"
+    }
+  ],
+  "tags_zh": [
+    "青海",
+    "德令哈",
+    "抽水蓄能",
+    "清洁能源",
+    "储能调峰",
+    "双碳目标"
+  ],
+  "tags_en": [
+    "Qinghai",
+    "Delingha",
+    "Pumped Storage Hydropower",
+    "Clean Energy",
+    "Energy Storage and Peak Shaving",
+    "Carbon Peaking and Neutrality"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261110-peoples_qh-3d481d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

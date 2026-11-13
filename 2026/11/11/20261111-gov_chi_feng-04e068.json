@@ -1,0 +1,97 @@
+{
+  "id": "20261111-gov_chi_feng-04e068",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202611/t20261111_2845282.html",
+  "title_zh": "赤峰市老科学技术工作者协会第五次会员代表大会召开",
+  "title_en": "Chifeng Association of Senior Scientists and Technologists Holds Fifth Member Congress",
+  "summary_zh": "11月10日，赤峰市老科学技术工作者协会第五次会员代表大会召开，市委副书记张国华出席并讲话，田向存当选为会长。",
+  "summary_en": "On November 10, Chifeng's Association of Senior Scientists and Technologists held its fifth member congress; Deputy Party Secretary Zhang Guohua addressed the meeting and Tian Xiangcun was elected president.",
+  "body_zh": "11月10日，赤峰市老科学技术工作者协会第五次会员代表大会召开。市委副书记张国华出席会议并讲话，市人大常委会副主任孟和达来、市政协副主席韩勇出席会议。会议选举产生了第五届理事会，田向存当选为会长。\n张国华对近年来市老科协的工作给予充分肯定。他强调，新一届市老科协理事会和全市广大老科技工作者要坚持和加强党的领导，全面贯彻铸牢中华民族共同体意识主线，始终把牢正确政治方向。要紧扣全市发展大局，围绕决策咨询、科技创新、乡村振兴、科学普及等方面，继续发挥优势、深耕领域、精准发力、积极作为，为推动现代化赤峰建设贡献更多银发力量。要强化自身建设，持续完善组织架构，健全工作制度机制，严格遵守纪律规矩，促进工作运行规范高效。全市各级各部门要尊重爱护老科技工作者，关心支持老科协建设发展，积极创造有利条件、提供保障支撑，共同推动我市老科协事业高质量发展。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "科技创新",
+    "乡村振兴",
+    "科学普及"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-guohua",
+      "name_zh": "张国华",
+      "name_en": "Zhang Guohua"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科学普及",
+      "name_en": "Science Popularization"
+    }
+  ],
+  "tags_zh": [
+    "张国华",
+    "赤峰",
+    "科技创新",
+    "乡村振兴",
+    "科学普及"
+  ],
+  "tags_en": [
+    "Zhang Guohua",
+    "Chifeng",
+    "Scientific and Technological Innovation",
+    "Rural Revitalization",
+    "Science Popularization"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-guohua",
+      {
+        "id": null,
+        "name_zh": "韩勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261111-gov_chi_feng-04e068",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "20261103-bjnews-313921",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1793695283129312.html",
+  "title_zh": "受贿6750万余元 中国东航原董事长刘绍勇一审被判十四年",
+  "title_en": "Former China Eastern Chairman Liu Shaoyong Sentenced to 14 Years for Taking 67.5 Million Yuan in Bribes",
+  "summary_zh": "2026年11月3日，辽宁省沈阳市中级人民法院一审宣判中国东方航空集团原党组书记、董事长刘绍勇受贿案，判处其有期徒刑十四年，并处罚金四百万元。",
+  "summary_en": "On November 3, 2026, the Shenyang Intermediate People's Court in Liaoning sentenced Liu Shaoyong, former Party secretary and chairman of China Eastern Air Holding Co., to 14 years in prison and a 4 million yuan fine in a first-instance ruling on bribery charges.",
+  "body_zh": "据央视新闻消息，2026年11月3日，辽宁省沈阳市中级人民法院一审公开宣判中国东方航空集团有限公司原党组书记、董事长刘绍勇受贿案，对被告人刘绍勇以受贿罪判处有期徒刑十四年，并处罚金人民币四百万元，对刘绍勇犯罪所得财物及孳息依法予以追缴，上缴国库。\n经审理查明：2002年至2023年，被告人刘绍勇利用担任中国东方航空股份有限公司总经理，中国南方航空集团公司总经理兼中国南方航空股份有限公司董事长，中国东方航空集团有限公司总经理、董事长兼中国东方航空股份有限公司董事长等职务上的便利以及职权或者地位形成的便利条件，为有关单位和个人在企业经营、项目承揽、航线管理等事项上提供帮助，非法收受财物共计折合人民币6750万余元。\n辽宁省沈阳市中级人民法院认为，被告人刘绍勇的行为构成受贿罪。刘绍勇受贿数额特别巨大，鉴于其受贿犯罪中有未遂情节，到案后如实供述罪行，主动交代办案机关尚未掌握的大部分受贿事实；认罪悔罪，积极退赃，涉案赃款赃物及孳息已全部追缴，依法可对其从轻处罚。法庭遂作出上述判决。\n据悉，辽宁省沈阳市中级人民法院于2026年7月24日公开开庭审理了该案。庭审中，检察机关出示了相关证据，被告人刘绍勇及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见，刘绍勇进行了最后陈述，并当庭表示认罪悔罪。人大代表、政协委员和各界群众30余人旁听了庭审。\n（总台央视记者 奚丹霓 马姗）",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "受贿案",
+    "国有企业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘绍勇",
+      "name_en": "Liu Shaoyong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "辽宁省沈阳市中级人民法院",
+      "name_en": "Shenyang Intermediate People's Court, Liaoning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿案",
+      "name_en": "Bribery Case"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有企业",
+      "name_en": "State-owned Enterprises"
+    }
+  ],
+  "tags_zh": [
+    "刘绍勇",
+    "辽宁省沈阳市中级人民法院",
+    "沈阳",
+    "反腐败",
+    "受贿案",
+    "国有企业"
+  ],
+  "tags_en": [
+    "Liu Shaoyong",
+    "Shenyang Intermediate People's Court, Liaoning",
+    "Shenyang",
+    "Anti-corruption",
+    "Bribery Case",
+    "State-owned Enterprises"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "于其"
+      },
+      {
+        "id": null,
+        "name_zh": "刘绍勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY"
+    ],
+    "companies": [
+      {
+        "name_zh": "辽宁省沈阳市中级人民法院",
+        "name_en": "Shenyang Intermediate People's Court, Liaoning"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261103-bjnews-313921",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

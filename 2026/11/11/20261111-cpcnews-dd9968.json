@@ -1,0 +1,119 @@
+{
+  "id": "20261111-cpcnews-dd9968",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1111/c64094-40831709.html",
+  "title_zh": "王沪宁会见老挝建国阵线中央委员会副主席布沙迪",
+  "title_en": "Wang Huning Meets Bousady, Vice Chairman of the Lao Front for National Construction",
+  "summary_zh": "11月10日，全国政协主席王沪宁在北京会见老挝建国阵线中央委员会副主席布沙迪，双方就深化交流合作、推进中老命运共同体建设交换意见。",
+  "summary_en": "On November 10, CPPCC Chairman Wang Huning met in Beijing with Bousady, Vice Chairman of the Lao Front for National Construction, with both sides pledging deeper exchanges and cooperation to advance the China-Laos community with a shared future.",
+  "body_zh": "新华社北京11月10日电 全国政协主席王沪宁10日在京会见老挝建国阵线中央委员会副主席布沙迪。\n王沪宁表示，今年6月，习近平总书记、国家主席同通伦总书记、国家主席就构建新时代全天候中老命运共同体达成重要共识，为两国关系擘画宏伟蓝图。中方愿同老方遵循两党两国最高领导人战略指引，为推进各自社会主义现代化建设增添新动力。中国全国政协愿与老挝建国阵线深化交流合作，为推动中老命运共同体建设贡献力量。王沪宁还介绍了中共二十届五中全会情况。\n布沙迪表示，老方祝贺中共二十届五中全会胜利召开，高度赞赏中国现代化建设取得伟大成就，为世界和平与发展作出重要贡献。老方愿落实两党两国领导人共识，深化各领域合作，不断推进老中命运共同体建设。\n王东峰等参加会见。\n《 人民日报 》（ 2026年11月11日 01 版）",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "foreign",
+  "keywords": [
+    "中老命运共同体",
+    "党际交流",
+    "政协对外交往"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-huning",
+      "name_zh": "王沪宁",
+      "name_en": "Wang Huning"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "布沙迪",
+      "name_en": "Bousady"
+    },
+    {
+      "kind": "institution",
+      "id": "CPPCC",
+      "name_zh": "全国政协",
+      "name_en": "Chinese People's Political Consultative Conference"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中老命运共同体",
+      "name_en": "China-Laos Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党际交流",
+      "name_en": "Inter-Party Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协对外交往",
+      "name_en": "CPPCC Foreign Engagement"
+    },
+    {
+      "kind": "person",
+      "id": "wang-dongfeng",
+      "name_zh": "王东峰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王沪宁",
+    "布沙迪",
+    "全国政协",
+    "北京",
+    "中老命运共同体",
+    "党际交流",
+    "政协对外交往",
+    "王东峰"
+  ],
+  "tags_en": [
+    "Wang Huning",
+    "Bousady",
+    "Chinese People's Political Consultative Conference",
+    "Beijing",
+    "China-Laos Community with a Shared Future",
+    "Inter-Party Exchanges",
+    "CPPCC Foreign Engagement"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-dongfeng",
+      "wang-huning"
+    ],
+    "institutions": [
+      "CPPCC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261111-cpcnews-dd9968",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

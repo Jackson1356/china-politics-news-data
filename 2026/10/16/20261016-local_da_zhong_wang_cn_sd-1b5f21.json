@@ -1,0 +1,93 @@
+{
+  "id": "20261016-local_da_zhong_wang_cn_sd-1b5f21",
+  "source": "local_da_zhong_wang_cn_sd",
+  "source_name_zh": "大众网",
+  "source_name_en": "大众网",
+  "source_media_id": "cac-cn-sd-9149c52ad8",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dzwww.com/xinwen/guoneixinwen/202610/t20261016_18211135.htm",
+  "title_zh": "外交部：望欧方同中方相向而行推动中欧贸易发展",
+  "title_en": "Foreign Ministry: China Hopes EU Will Work With It to Advance China-EU Trade",
+  "summary_zh": "2026年10月16日，外交部发言人毛宁在北京表示，中欧贸易投资磋商机制第二次例会取得积极进展，希望欧方恪守自由开放承诺，避免出台保护主义和歧视性措施。",
+  "summary_en": "On Oct 16, 2026, MFA spokesperson Mao Ning said in Beijing that the second China-EU trade and investment consultation meeting made progress, urging the EU to avoid protectionist and discriminatory measures.",
+  "body_zh": "新华社\n新华社北京10月16日电（记者伍岳、万倩仪）外交部发言人毛宁16日在例行记者会上就中欧经贸相关问题答问时表示，近期中欧贸易投资磋商机制第二次例会取得积极进展，表明双方完全可以通过对话妥善处理分歧。“我们希望欧方恪守自由开放的承诺和世贸组织规则，避免出台保护主义和歧视性的政策措施，同中方相向而行，共同推动中欧贸易向上平衡、可持续发展，共同维护全球产供链的稳定畅通。”\n审核：于琳琳",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧经贸",
+    "贸易投资磋商",
+    "全球产供链稳定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸",
+      "name_en": "China-EU Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易投资磋商",
+      "name_en": "Trade and Investment Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球产供链稳定",
+      "name_en": "Global Supply Chain Stability"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "中欧经贸",
+    "贸易投资磋商",
+    "全球产供链稳定"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-EU Trade",
+    "Trade and Investment Consultation",
+    "Global Supply Chain Stability"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261016-local_da_zhong_wang_cn_sd-1b5f21",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

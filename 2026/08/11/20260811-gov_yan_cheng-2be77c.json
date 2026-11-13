@@ -1,0 +1,121 @@
+{
+  "id": "20260811-gov_yan_cheng-2be77c",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/11/art_49_4446112.html",
+  "title_zh": "严汉平会见西北大学副校长张志飞一行",
+  "title_en": "Yan Hanping Meets with Zhang Zhifei, Vice President of Northwest University",
+  "summary_zh": "8月10日下午，盐城市委书记严汉平会见西北大学副校长张志飞一行，双方就深化校地合作、推动产业发展等事宜进行交流。",
+  "summary_en": "On the afternoon of August 10, Yan Hanping, Secretary of the Yancheng Municipal Party Committee, met with a delegation led by Zhang Zhifei, Vice President of Northwest University, to exchange views on deepening university-local cooperation and industrial development.",
+  "body_zh": "8月10日下午，市委书记严汉平在盐会见西北大学党委常委、副校长张志飞一行。\n严汉平对张志飞一行来盐深化校地合作表示欢迎。他说，面向“十五五”，我们正深入学习贯彻习近平总书记对江苏工作重要讲话精神，全面落实省委、省政府部署要求，坚定不移向海图强、向绿而兴、向新转型，统筹推进传统产业焕新升级、新兴产业发展壮大、未来产业科学布局，与西北大学的学科布局和科研方向高度契合。希望双方在现代农业、人工智能、绿色低碳、石油装备、环保产业、考古文博等领域深化交流对接，加强人才协同培养，促进科技成果高效转化，不断拓展校地合作空间，实现互促共进、合作共赢。\n张志飞表示，盐城历史文化底蕴深厚，绿色发展理念深入人心，产业结构向新向优，重才爱才氛围浓厚。西北大学将持续深化与盐城的务实合作，紧密对接地方发展需求，积极拓展更多合作领域，推动校地合作不断开创新局面、迈上新台阶。\n市领导高尚德参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "economy",
+  "keywords": [
+    "校地合作",
+    "产业升级",
+    "绿色低碳"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "西北大学",
+      "name_en": "Northwest University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校地合作",
+      "name_en": "University-local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳",
+      "name_en": "Green and Low-carbon"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张志飞",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "西北大学",
+    "盐城",
+    "校地合作",
+    "产业升级",
+    "绿色低碳",
+    "张志飞"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Northwest University",
+    "Yancheng",
+    "University-local Cooperation",
+    "Industrial Upgrading",
+    "Green and Low-carbon"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "高尚德"
+      },
+      {
+        "id": null,
+        "name_zh": "张志飞"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": [
+      {
+        "name_zh": "西北大学",
+        "name_en": "Northwest University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260811-gov_yan_cheng-2be77c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

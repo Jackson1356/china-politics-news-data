@@ -1,0 +1,121 @@
+{
+  "id": "20261013-gov_wu_hu-cb07ea",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41363695.html",
+  "title_zh": "徐志会见外国驻港领团和商界参访团",
+  "title_en": "Xu Zhi Meets Foreign Consular Corps and Business Delegation Based in Hong Kong",
+  "summary_zh": "10月12日，芜湖市委书记徐志会见外交部驻港公署副特派员花有率领的外国驻港领团和商界参访团，双方就深化芜湖与香港在金融、贸易、产业、科技创新等领域合作交换意见。",
+  "summary_en": "On October 12, Wuhu Party Secretary Xu Zhi met a delegation of foreign consular officials and business representatives based in Hong Kong, led by Hua You, Deputy Commissioner of the Ministry of Foreign Affairs in Hong Kong, to discuss deeper cooperation in finance, trade, industry and technology.",
+  "body_zh": "徐志会见外国驻港领团和商界参访团\n本报讯（通讯员 吴正言 记者 齐雯雯 汪泰）10月12日，市委书记徐志会见外交部驻港公署副特派员花有率领的外国驻港领团和商界参访团一行。市委副书记、代市长陈东，市领导后名文、丁百静参加。\n徐志向外国驻港领团和商界参访团的到访表示欢迎。他表示，当前芜湖正在加快建设现代化省域副中心，希望以此次考察为新起点，进一步加大芜湖香港两地交流，拓宽多层次沟通渠道，在金融、贸易、产业、科技创新等领域，持续深化务实合作，努力实现双向赋能、互利共赢。\n花有表示，芜湖深厚的历史底蕴、一流的科创能力、蓬勃的发展态势给参访团留下了深刻印象。未来将继续发挥好桥梁纽带作用，积极推动两地合作更加深入，实现共赢发展。",
+  "image_url": null,
+  "published_at": "2026-10-13T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "foreign",
+  "keywords": [
+    "务实合作",
+    "经贸交流",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐志",
+      "name_en": "Xu Zhi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "外交部驻港公署",
+      "name_en": "Office of the Commissioner of the Ministry of Foreign Affairs in the Hong Kong SAR"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸交流",
+      "name_en": "Trade and Economic Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "徐志",
+    "外交部驻港公署",
+    "芜湖",
+    "香港",
+    "务实合作",
+    "经贸交流",
+    "科技创新"
+  ],
+  "tags_en": [
+    "Xu Zhi",
+    "Office of the Commissioner of the Ministry of Foreign Affairs in the Hong Kong SAR",
+    "Hong Kong",
+    "Pragmatic Cooperation",
+    "Trade and Economic Exchange",
+    "Scientific and Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐志"
+      },
+      {
+        "id": null,
+        "name_zh": "丁百静"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH",
+      "CN-HK"
+    ],
+    "companies": [
+      {
+        "name_zh": "外交部驻港公署",
+        "name_en": "Office of the Commissioner of the Ministry of Foreign Affairs in the Hong Kong SAR"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261013-gov_wu_hu-cb07ea",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

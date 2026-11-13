@@ -1,0 +1,86 @@
+{
+  "id": "20260522-guancha_politics-fa2e2b",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_25_818266.shtml",
+  "title_zh": "留神峪煤矿瓦斯爆炸事故监控公布",
+  "title_en": "Surveillance Footage of Liushenyu Coal Mine Gas Explosion Released",
+  "summary_zh": "5月22日晚，山西长治沁源县留神峪煤业有限公司发生瓦斯爆炸造成重大伤亡，官方初步核查发现涉事企业存在重大违法行为。",
+  "summary_en": "A gas explosion occurred at Liushenyu Coal Mining Co. in Qinyuan, Shanxi on May 22, causing major casualties. Official investigations revealed significant illegal activities by the company.",
+  "body_zh": "留神峪爆炸瞬间监控公布：井口现冲击波\n最后更新: 2026-05-25 11:25:305月22日晚，山西长治市沁源县山西通洲集团留神峪煤业有限公司井下发生瓦斯爆炸事故，造成重大人员伤亡。经官方初步核查，涉事煤矿企业存在重大违法行为。\n根据井下生产视频记录，留神峪煤矿爆炸时间为5月22日19时29分，爆炸瞬间打破井下作业的平静。首批搜救人员发现，井下还有图纸上没有标注的隐藏巷道。多重不利条件叠加，不仅延缓了救援进度，还存在次生灾害风险，对搜救人员安全造成极大威胁。目前救援仍在进行。\n（总台央视记者 侯军 崔世杰 郑怡哲 张腾飞 张喆）\n985博士沦为间谍，偷拍涉密资料获利近60万，被判15年",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-22",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "industry",
+  "keywords": [
+    "瓦斯爆炸",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX",
+      "name_zh": "山西",
+      "name_en": "Shanxi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "长治",
+      "name_en": "Changzhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "瓦斯爆炸",
+      "name_en": "Gas Explosion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Production Safety"
+    }
+  ],
+  "tags_zh": [
+    "山西",
+    "长治",
+    "瓦斯爆炸",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Shanxi",
+    "Changzhi",
+    "Gas Explosion",
+    "Production Safety"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SX"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260522-guancha_politics-fa2e2b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_05_25_818267.shtml",
+      "title_zh": "留神峪爆炸瞬间监控公布：井口现冲击波",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

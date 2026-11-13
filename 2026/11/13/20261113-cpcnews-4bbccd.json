@@ -1,0 +1,131 @@
+{
+  "id": "20261113-cpcnews-4bbccd",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1113/c64094-40833559.html",
+  "title_zh": "李强抵达曼谷开始对泰国进行正式访问",
+  "title_en": "Li Qiang Arrives in Bangkok to Begin Official Visit to Thailand",
+  "summary_zh": "11月13日，国务院总理李强应泰国总理阿努廷邀请抵达曼谷，开始对泰国进行正式访问，并表示将推动中泰命运共同体建设走深走实。",
+  "summary_en": "On November 13, Premier Li Qiang arrived in Bangkok at the invitation of Thai Prime Minister Anutin Charnvirakul to begin an official visit to Thailand, saying he will deepen China-Thailand comprehensive strategic cooperation and the bilateral community with a shared future.",
+  "body_zh": "新华社曼谷11月13日电（记者伍岳 刘杨）11月13日上午，应泰国总理阿努廷邀请，国务院总理李强乘包机离开北京，对泰国进行正式访问。\n当地时间11月13日下午，李强乘包机抵达曼谷素万纳普国际机场。泰国总理阿努廷等到机场欢迎李强总理到访。中国驻泰国大使张建卫也到机场迎接。\n李强表示，中泰地缘相近、文化相通，友谊源远流长。去年，中泰共同隆重庆祝建交50周年暨“中泰友谊金色50年”，哇集拉隆功国王对华进行国事访问，习近平主席同哇集拉隆功国王举行会晤，推动双边关系站上新的历史起点。我期待此访期间同泰方领导人就深化中泰全面战略合作深入交换意见，推动中泰命运共同体建设不断走深走实。",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "中泰关系",
+    "全面战略合作",
+    "命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "曼谷",
+      "name_en": "Bangkok"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "泰国",
+      "name_en": "Thailand"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中泰关系",
+      "name_en": "China-Thailand Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略合作",
+      "name_en": "Comprehensive Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "曼谷",
+    "泰国",
+    "中泰关系",
+    "全面战略合作",
+    "命运共同体"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Bangkok",
+    "Thailand",
+    "China-Thailand Relations",
+    "Comprehensive Strategic Cooperation",
+    "Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261113-cpcnews-4bbccd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261113/e30354b17df54bbca4beddf10c141635/c.html",
+      "title_zh": "李强抵达曼谷开始对泰国进行正式访问",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085951.htm",
+      "title_zh": "李强抵达曼谷开始对泰国进行正式访问",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731549.shtml",
+      "title_zh": "李强抵达曼谷开始对泰国进行正式访问",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

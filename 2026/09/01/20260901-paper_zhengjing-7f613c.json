@@ -1,0 +1,83 @@
+{
+  "id": "20260901-paper_zhengjing-7f613c",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33982149",
+  "title_zh": "中央网信办：当前人工智能领域主要面临5方面安全风险挑战",
+  "title_en": "Central Cyberspace Administration: AI Sector Faces Five Major Security Risks",
+  "summary_zh": "中央网信办指出当前人工智能领域主要面临技术脆弱性、模型失控、应用风险、误用滥用及技术霸权五方面安全风险挑战。",
+  "summary_en": "The Central Cyberspace Administration identified five major security risks in AI, including technical vulnerabilities, model runaway, application risks, misuse, and technological hegemony.",
+  "body_zh": "中央网信办：当前人工智能领域主要面临5方面安全风险挑战\n一是技术先天脆弱性难以根除，影响输出稳定性、可靠性。深度学习等人工智能算法本身运行逻辑复杂、可解释性欠缺，推理过程不透明，异常故障难以快速定位修正，即便是微小的输入扰动，也可能导致错误的推理结果。同时，研发训练过程中数据来源复杂多元，偏见、歧视等问题可能被有意或无意引入，导致模型错误学习并输出歧视性内容。这类技术层面的先天缺陷，大幅增加了系统故障排查难度，也让决策合理性难以有效验证，严重制约人工智能在安全要求高、容错率低、场景复杂的环境中大规模应用。\n二是模型能力跃迁颠覆传统安全范式，极端失控风险显现。部分前沿模型漏洞挖掘能力大幅跃升，极大降低了网络攻击门槛、提高了防护难度，打破了以修补漏洞为核心、由静态规则驱动的传统安全防护逻辑，网络安全范式面临重构。近期多家科技巨头接连曝出大模型失控事件，前沿模型在安全评估中出现智能体绕过沙箱、规避安全边界、越权访问攻击外部真实生产系统等行为，人工智能极端失控风险需要高度警惕。\n三是应用形态快速演进，安全风险形态加速迭代。2025年以来智能体应用快速涌现，人工智能正从“回答问题”走向“执行任务”，安全风险也从“生成有害内容”向“自主实施行动”加速跃迁。今年年初爆火的OpenClaw等高权限终端智能体掌握系统级权限，可直接执行终端命令、跨网络调用文件与工具，安全隐患突出，同时智能体大量“技能”插件被确认存在安全风险。这类高权限智能体一旦被攻击者利用，可成为突破网络边界的“跳板”、实施攻击的“肉鸡”、偷窥窃密的“木马”，从“得力助手”沦为“卧底帮凶”。\n四是误用滥用恶用风险凸显，冲击社会秩序与伦理边界。在信息服务领域，人工智能可被用于输出违法有害信息，混淆事实、误导用户，污染网络内容生态；在科研领域，人工智能降低了生物、基因等高伦理风险领域的进入门槛，可能引发突破科研伦理底线的风险；在就业领域，人工智能加速重构传统经济结构，造成传统劳动力需求出现下降情况。\n五是全球人工智能领域面临技术霸权风险。人工智能产业链呈现高度全球化分工协作格局，但个别国家奉行“技术霸权”，通过出口管制等单边措施制造供应链壁垒，同时利用舆论优势炮制大模型不实测试报告恶意抹黑他国技术发展，还凭借训练语料资源优势进行价值观渗透，进一步拉大治理鸿沟。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能安全",
+    "网络安全",
+    "技术风险"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "中央网信办",
+      "name_en": "Office of the Central Cyberspace Affairs Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能安全",
+      "name_en": "AI Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技术风险",
+      "name_en": "Technological Risks"
+    }
+  ],
+  "tags_zh": [
+    "中央网信办",
+    "人工智能安全",
+    "网络安全",
+    "技术风险"
+  ],
+  "tags_en": [
+    "Office of the Central Cyberspace Affairs Commission",
+    "AI Security",
+    "Cybersecurity",
+    "Technological Risks"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260901-paper_zhengjing-7f613c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

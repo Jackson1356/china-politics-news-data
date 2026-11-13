@@ -1,0 +1,82 @@
+{
+  "id": "20260920-gov_cn_yaowen-ca9e18",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081578.htm",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Announces Appointments and Removals of State Functionaries",
+  "summary_zh": "2026年9月20日，国务院任免一批国家工作人员，任命余晓晖、潘文博、李成钢等，免去徐青森、胡卫列、牛一兵、廖志伟职务。",
+  "summary_en": "On Sept 20, 2026, China's State Council announced appointments and removals of state functionaries, including appointing Li Chenggang as international trade representative and removing several vice ministers.",
+  "body_zh": "国务院任免国家工作人员。\n任命余晓晖为工业和信息化部副部长；任命潘文博为农业农村部副部长；任命李成钢为中华人民共和国国际贸易谈判代表（正部长级）；凌激兼任中华人民共和国国际贸易谈判副代表；任命蔡东为国家金融监督管理总局副局长；任命张拥军为国家互联网信息办公室副主任；任命张孝堂为国家烟草专卖局副局长；任命刘震为国家中医药管理局副局长。\n免去徐青森的教育部副部长职务；免去胡卫列的司法部副部长职务；免去牛一兵的国家互联网信息办公室副主任职务；免去廖志伟的长江水利委员会主任职务。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "国家工作人员"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments and Removals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家工作人员",
+      "name_en": "State Functionaries"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "人事任免",
+    "国家工作人员"
+  ],
+  "tags_en": [
+    "State Council",
+    "Personnel Appointments and Removals",
+    "State Functionaries"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260920-gov_cn_yaowen-ca9e18",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081578.htm",
+      "title_zh": "国务院任免国家工作人员（2026年9月20日）",
+      "published_at": "2026-09-20T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

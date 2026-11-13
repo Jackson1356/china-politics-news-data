@@ -1,0 +1,126 @@
+{
+  "id": "20261105-gov_le_shan-3f38a4",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085125.htm",
+  "title_zh": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
+  "title_en": "Ding Xuexiang Attends Opening Ceremony of 9th China International Import Expo and Meets Foreign Dignitaries",
+  "summary_zh": "11月5日，第九届中国国际进口博览会暨虹桥国际经济论坛在上海开幕，国务院副总理丁薛祥出席并作主旨讲话，其间分别会见多国外方政要。",
+  "summary_en": "On Nov 5, Vice Premier Ding Xuexiang attended the opening of the 9th China International Import Expo and Hongqiao Forum in Shanghai, delivered a keynote speech and met several foreign dignitaries.",
+  "body_zh": "新华社上海11月5日电（记者王永前、伍岳）第九届中国国际进口博览会暨虹桥国际经济论坛5日在上海开幕，中共中央政治局常委、国务院副总理丁薛祥出席并作主旨讲话。\n加蓬总统恩圭马、奥地利总理施托克尔、联合国开发计划署署长德克罗出席开幕式并致辞。\n开幕式前，丁薛祥参观了企业展。开幕式后，丁薛祥同与会外国领导人共同巡馆。\n在沪期间，丁薛祥分别会见利比里亚副总统康格、格鲁吉亚副总理克夫里维什维利、古巴副总理佩雷斯-奥利瓦、斯洛伐克副总理萨科娃和联合国开发计划署署长德克罗。他表示，中方愿同各方加强相互支持，扩大开放合作，形成更多务实成果，为世界发展繁荣持续注入新动力。外方政要高度赞赏中国坚持开放发展，与各国共享市场机遇，为世界经济平衡协调发展发挥重要作用，希望同中方深化各领域合作，更好实现互利共赢。\n陈吉宁参加有关会见。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国国际进口博览会",
+    "对外开放",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国国际进口博览会",
+      "name_en": "China International Import Expo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "chen-jining",
+      "name_zh": "陈吉宁",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "国务院",
+    "上海",
+    "中国国际进口博览会",
+    "对外开放",
+    "国际合作",
+    "陈吉宁",
+    "薛祥"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "State Council",
+    "Shanghai",
+    "China International Import Expo",
+    "Opening Up",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      "chen-jining",
+      {
+        "id": null,
+        "name_zh": "罗他"
+      },
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261105-gov_le_shan-3f38a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

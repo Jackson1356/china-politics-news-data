@@ -1,0 +1,78 @@
+{
+  "id": "20260531-guancha_politics-ca63e3",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_31_818930.shtml",
+  "title_zh": "云南会泽发生私挖盗采矿产资源垮塌事故，致5人死亡",
+  "title_en": "Collapse Accident Due to Illegal Mining in Huize, Yunnan Leaves 5 Dead",
+  "summary_zh": "5月31日凌晨，云南省会泽县发生一起私挖盗采矿产资源垮塌事故，导致5人死亡、1人受伤，目前事故调查正在开展。",
+  "summary_en": "A collapse accident caused by illegal mining occurred in Huize County, Yunnan Province on May 31, resulting in 5 deaths and 1 injury. An investigation is underway.",
+  "body_zh": "云南会泽发生私挖盗采矿产资源垮塌事故，致5人死亡\n5月31日凌晨4时30分，云南省会泽县娜姑镇白雾村发生一起私挖盗采矿产资源垮塌事故致5人死亡、1人受伤。\n记者从当地有关部门获悉，接报后，曲靖、会泽市县两级应急、公安、消防、卫健、自然资源等部门立即赶赴现场进行救援处置，经全力搜救，被困的6名人员全部救出并第一时间送往医院救治，其中5名被困人员因伤势过重、抢救无效不幸死亡，1名被困受伤人员目前生命体征平稳、无生命危险。\n目前，善后处置、事故调查等工作正在有序开展。\n南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+  "image_url": null,
+  "published_at": "2026-05-31T12:00:00+00:00",
+  "event_date": "2026-05-31",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "industry",
+  "keywords": [
+    "私挖盗采",
+    "安全事故"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "会泽",
+      "name_en": "Huize"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "私挖盗采",
+      "name_en": "Illegal Mining"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全事故",
+      "name_en": "Safety Accident"
+    }
+  ],
+  "tags_zh": [
+    "云南",
+    "会泽",
+    "私挖盗采",
+    "安全事故"
+  ],
+  "tags_en": [
+    "Yunnan",
+    "Huize",
+    "Illegal Mining",
+    "Safety Accident"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260531-guancha_politics-ca63e3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

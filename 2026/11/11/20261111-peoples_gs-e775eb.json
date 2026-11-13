@@ -1,0 +1,106 @@
+{
+  "id": "20261111-peoples_gs-e775eb",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gs.people.com.cn/n2/2026/1111/c183283-41747429.html",
+  "title_zh": "兰州、白银等六市签署《区域警务协作协议》",
+  "title_en": "Lanzhou, Baiyin and Four Other Cities Sign Regional Police Cooperation Agreement",
+  "summary_zh": "兰州、白银、定西、平凉、中卫、武威六市签署《区域警务协作协议》，推动道路交通安全管理区域协作进入实战化运行阶段。",
+  "summary_en": "Six cities including Lanzhou and Baiyin signed a regional police cooperation agreement to jointly manage road traffic safety, sharing surveillance data and coordinating enforcement.",
+  "body_zh": "兰州、白银等六市签署《区域警务协作协议》\n日前，兰州、白银、定西、平凉、中卫、武威签署了《区域警务协作协议》，标志着六市道路交通安全管理区域协作进入实战化运行新阶段。这是记者从“环银六市通途大联防”公安交管区域警务协作会议上获悉的。\n据了解，协作协议提出各方将秉持“高效协调、优势互补、互帮互助”原则，紧扣区域警务实战需求，重点推进以下协作。\n深化联勤联动与信息共享。强化区域“情指行”一体化协作，针对雨雪冰冻等恶劣天气、突发案事件及大流量拥堵启动应急预案。打通相邻高速公路、国省干线视频监控数据，对“两客一危一货”、6座以上小客车等重点车辆实施过境联管联控。\n强化违法共治与案件协查。建立交通肇事逃逸、重点车辆人员查缉等信息快速反馈通道，开展跨辖区严重交通违法集中整治。互通高风险运输企业名单，协同做好远端分流管控和“两公布一提示”工作。\n完善重大交通安保与互帮互助。完善重大交通安保互帮互助机制，实现区域内无障碍协作配合，保障节假日及极端天气下的道路通行秩序。（记者 葛强）",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "区域警务协作",
+    "道路交通安全",
+    "联勤联动",
+    "信息共享"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-LZ",
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS-BY",
+      "name_zh": "白银",
+      "name_en": "Baiyin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域警务协作",
+      "name_en": "Regional Police Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "道路交通安全",
+      "name_en": "Road Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联勤联动",
+      "name_en": "Joint Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息共享",
+      "name_en": "Information Sharing"
+    }
+  ],
+  "tags_zh": [
+    "兰州",
+    "白银",
+    "区域警务协作",
+    "道路交通安全",
+    "联勤联动",
+    "信息共享"
+  ],
+  "tags_en": [
+    "Lanzhou",
+    "Baiyin",
+    "Regional Police Cooperation",
+    "Road Traffic Safety",
+    "Joint Operations",
+    "Information Sharing"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "武威"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GS-LZ",
+      "CN-GS-BY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261111-peoples_gs-e775eb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

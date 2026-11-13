@@ -1,0 +1,109 @@
+{
+  "id": "20261113-gov_jie_yang-43f311",
+  "source": "gov_jie_yang",
+  "source_name_zh": "揭阳市政府网",
+  "source_name_en": "揭阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-jie_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jieyang.gov.cn/xwdt/jyxw/content/post_1059992.html",
+  "title_zh": "曲晓杰主持召开市政府党组会议、常务会议",
+  "title_en": "Qu Xiaojie Chairs Jieyang Municipal Government Party Group Meeting and Executive Meeting",
+  "summary_zh": "11月12日下午，揭阳市市长曲晓杰主持召开市政府党组会议和市政府常务会议，传达学习习近平总书记重要指示精神，部署生态治理、河流综合治理和安全生产工作。",
+  "summary_en": "On the afternoon of Nov 12, Jieyang Mayor Qu Xiaojie chaired the municipal government Party group meeting and executive meeting, conveying Xi Jinping's directives and deploying ecological governance, river restoration and workplace safety work.",
+  "body_zh": "曲晓杰主持召开市政府党组会议、常务会议\n以更高站位更高标准统筹推进生态治理和安全发展\n12日下午，市委副书记、市政府党组书记、市长曲晓杰主持召开市政府党组2026年第33次会议、七届市政府第163次常务会议，传达学习习近平总书记重要指示精神及上级有关文件精神，研究部署有关工作，审议有关事项。\n会议传达学习习近平总书记对进一步做好黄河保护治理工作作出的重要指示精神，强调要牢固树立和践行绿水青山就是金山银山理念，把总书记重要指示精神同总书记对广东系列重要讲话和重要指示精神结合起来，一体学习领会、整体贯彻落实。要强化河流综合治理，聚焦榕江、练江、龙江三大水系，健全完善上下游、干支流、左右岸协同保护治理体系。要守好流域防洪底线，完善水旱灾害防御体系，整流域推进中小河流及山洪沟道治理，开展老旧水库改造提升，筑牢防汛安全防线。要加强水生态保护和治理，强化水源涵养、水土保持和湿地保护修复，有序推进生态补水、内源污染治理，推动水质持续稳定向好。\n会议传达学习上级有关文件精神，研究部署全市安全生产工作。会议强调，各地各部门要认真学习领会习近平总书记关于安全生产和防灾减灾救灾工作的重要指示精神，切实增强责任感紧迫感，压紧压实安全生产责任，从严从实从细抓好安全生产各项工作。要通过“面上普查+重点详查”，全面排查消防、建筑施工、危化品、道路交通、渔业船舶、城镇燃气、森林防火等重点领域风险隐患，全力保障人民群众生命财产安全。\n会议还研究了其他事项。\n相关附件：",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "生态治理",
+    "安全生产",
+    "河流综合治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "qu-xiaojie-jieyang",
+      "name_zh": "曲晓杰",
+      "name_en": "Qu Xiaojie"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-JY",
+      "name_zh": "揭阳",
+      "name_en": "Jieyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态治理",
+      "name_en": "Ecological Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Workplace Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "河流综合治理",
+      "name_en": "Comprehensive River Treatment"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "曲晓杰",
+    "揭阳",
+    "生态治理",
+    "安全生产",
+    "河流综合治理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Qu Xiaojie",
+    "Jieyang",
+    "Ecological Governance",
+    "Workplace Safety",
+    "Comprehensive River Treatment"
+  ],
+  "entities": {
+    "politicians": [
+      "qu-xiaojie-jieyang",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-JY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261113-gov_jie_yang-43f311",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_jie_yang",
+      "source_tier": 4,
+      "url": "http://www.jieyang.gov.cn/xwdt/zdgz/content/post_1060054.html",
+      "title_zh": "曲晓杰主持召开市政府党组会议、常务会议-揭阳市人民政府门户网站",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

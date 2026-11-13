@@ -1,0 +1,127 @@
+{
+  "id": "20261113-peoples_politics-fd1929",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1113/c1001-40833564.html",
+  "title_zh": "王毅会见2026中美政党对话美方代表",
+  "title_en": "Wang Yi Meets US Representatives Attending 2026 China-US Political Party Dialogue",
+  "summary_zh": "11月13日，中共中央政治局委员、中央外办主任王毅在北京会见出席2026中美政党对话的美方代表，双方就落实两国元首共识、扩大互利合作交换意见。",
+  "summary_en": "On November 13, Wang Yi, member of the Political Bureau of the CPC Central Committee and director of the Office of the Central Commission for Foreign Affairs, met in Beijing with US representatives attending the 2026 China-US Political Party Dialogue to discuss implementing the two presidents' consensus and expanding cooperation.",
+  "body_zh": "王毅会见2026中美政党对话美方代表\n新华社北京11月13日电（记者董雪）中共中央政治局委员、中央外办主任王毅13日在京会见出席2026中美政党对话的美方代表。\n王毅表示，中美两个大国应当通过不间断对话交流，明确共同努力的目标，扩大互利合作的领域，夯实双边关系的基础并致力于维护世界和平稳定。双方应秉持相互尊重、和平共处、合作共赢理念，将习近平主席与特朗普总统关于构建“基于尊重、公平、对等的中美建设性战略稳定关系”的共识落到实处。\n美方代表表示，人文交流、特别是青年和学生交往有利于增进两国人民的友谊与互信。我们感谢习近平主席提出的“5年10万”倡议，愿为推动美中关系健康稳定发展作出努力。",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "政党对话",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党对话",
+      "name_en": "Political Party Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchanges"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "方代表",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "北京",
+    "中美关系",
+    "政党对话",
+    "人文交流",
+    "习近平",
+    "方代表"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beijing",
+    "China-US Relations",
+    "Political Party Dialogue",
+    "People-to-People Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "方代表"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261113-peoples_politics-fd1929",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261113/80e758fbf6bd46c28cd0063124bba515/c.html",
+      "title_zh": "王毅会见2026中美政党对话美方代表",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731648.shtml",
+      "title_zh": "王毅会见2026中美政党对话美方代表",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

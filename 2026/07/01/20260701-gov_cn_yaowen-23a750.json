@@ -1,0 +1,70 @@
+{
+  "id": "20260701-gov_cn_yaowen-23a750",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073952.htm",
+  "title_zh": "香港举行升旗仪式和酒会庆祝回归祖国29周年",
+  "title_en": "Hong Kong Holds Flag-Raising Ceremony and Reception to Celebrate 29th Anniversary of Return to Motherland",
+  "summary_zh": "2026年7月1日，香港特区政府在金紫荆广场举行升旗仪式并在会议展览中心举行酒会，庆祝香港回归祖国29周年。",
+  "summary_en": "On July 1, 2026, the Hong Kong SAR Government held a flag-raising ceremony at Golden Bauhinia Square and a reception to celebrate the 29th anniversary of Hong Kong's return to China.",
+  "body_zh": "新华社香港7月1日电（记者肖逸晨）香港特区政府1日上午举行升旗仪式和酒会，庆祝香港回归祖国29周年。\n升旗仪式上午8时在鲜花装点的湾仔金紫荆广场举行。全国政协副主席梁振英、香港特别行政区行政长官李家超、中央人民政府驻香港特别行政区联络办公室主任周霁，驻港国家安全公署、外交部驻港特派员公署、解放军驻港部队负责人，以及社会各界人士共同见证这一庄严时刻。\n在香港警察银乐队演奏的《歌唱祖国》乐曲声中，护旗方队整齐划一地踏着中式步操，护送中华人民共和国国旗和香港特别行政区区旗进入金紫荆广场。\n雄壮激昂的国歌奏响，旗手振臂将国旗和区旗展向天空，鲜艳的中华人民共和国国旗和香港特别行政区区旗冉冉升起，迎风飘扬。全体人员面向国旗肃立，行注目礼，高唱国歌。香港特区政府飞行服务队的直升机队在维多利亚港上空飞过，领航直升机悬挂大幅国旗，区旗紧随其后。维港海面上，香港纪律部队消防轮喷洒水柱敬礼。\n升旗仪式结束后，观礼嘉宾移步香港会议展览中心出席香港特别行政区成立29周年酒会。\n酒会上，身处中国空间站“天宫”的首位香港航天员黎家盈通过视频送上祝福。黎家盈先以普通话表示，非常荣幸可以在国家的空间站展示香港特区区旗，以此表达对国家的深深感谢，以及对香港的深深祝福。随后，她又用粤语表示，身为香港特区首位航天员，在执行任务的每一日，她都为能够参与国家航天工程深感自豪，“在此我衷心祝愿香港特区在国家的关心及支持下更加繁荣稳定，让我们齐心协力，为祖国及香港更加美好的明天努力奋斗”。\n李家超说，今天是中国共产党成立105周年的重要日子，国家的繁荣昌盛，是香港最坚强的后盾。特区政府会举行庆祝中国共产党成立105周年活动启动仪式，与社会各界一同庆祝这个别具意义的重要日子。\n当天，香港中联办、驻港国家安全公署、外交部驻港特派员公署、解放军驻港部队等也举行了升国旗仪式。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "party",
+  "keywords": [
+    "回归祖国",
+    "庆祝活动"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "回归祖国",
+      "name_en": "Return to Motherland"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "庆祝活动",
+      "name_en": "Celebration Activities"
+    }
+  ],
+  "tags_zh": [
+    "香港",
+    "回归祖国",
+    "庆祝活动"
+  ],
+  "tags_en": [
+    "Hong Kong",
+    "Return to Motherland",
+    "Celebration Activities"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260701-gov_cn_yaowen-23a750",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

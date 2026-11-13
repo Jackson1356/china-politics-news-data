@@ -1,0 +1,111 @@
+{
+  "id": "20261110-gov_shi_zui_shan-36d292",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085660.htm",
+  "title_zh": "李强签署国务院令 公布修订后的《基金会管理条例》",
+  "title_en": "Li Qiang Signs State Council Decree to Publish Revised Regulations on Administration of Foundations",
+  "summary_zh": "国务院总理李强日前签署国务院令，公布修订后的《基金会管理条例》，共8章79条，自2027年1月1日起施行。",
+  "summary_en": "Chinese Premier Li Qiang signed a State Council decree publishing the revised Regulations on the Administration of Foundations, comprising 8 chapters and 79 articles, effective January 1, 2027.",
+  "body_zh": "李强签署国务院令\n公布修订后的《基金会管理条例》\n新华社北京11月10日电 国务院总理李强日前签署国务院令，公布修订后的\n《基金会管理条例》\n（以下简称《条例》），自2027年1月1日起施行。\n《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。《条例》共8章79条，修订的主要内容如下。\n一是完善总体原则要求。明确基金会工作坚持中国共产党的领导，强化党建工作要求，规定基金会从事公益活动应当遵循合法、自愿、诚信、公开、透明、非营利的原则。\n二是健全登记管理制度。明确登记管理层级和注册资金，稳妥推进直接登记，明确变更登记程序要求，细化注销前清算程序。\n三是完善内部治理机制。强化发起人、负责人责任，健全组织机构职权及议事规则，禁止负责人、理事、监事等利用关联关系损害基金会、受益人的利益和社会公共利益。\n四是规范活动管理。完善募捐、捐赠、资助等活动要求，对互联网公开募捐、合作公开募捐进行规范。加强财产管理，明确收益应当全部用于公益目的。严格项目管理，要求对项目实施情况跟踪管理。\n五是加强信息公开和行业自律。明确基金会信息公开义务，畅通社会监督渠道，建立健全行业规范。\n六是强化综合监管。明确登记管理机关、业务主管单位和行业管理部门等的职责，压实各方责任，形成监管合力。",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "基金会管理",
+    "公益慈善",
+    "社会组织监管"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基金会管理",
+      "name_en": "Foundation Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公益慈善",
+      "name_en": "Public Welfare and Charity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会组织监管",
+      "name_en": "Social Organization Oversight"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "基金会管理",
+    "公益慈善",
+    "社会组织监管"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "Foundation Regulation",
+    "Public Welfare and Charity",
+    "Social Organization Oversight"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261110-gov_shi_zui_shan-36d292",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wu_zhong",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085660.htm",
+      "title_zh": "李强签署国务院令 公布修订后的《基金会管理条例》",
+      "published_at": "2026-11-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

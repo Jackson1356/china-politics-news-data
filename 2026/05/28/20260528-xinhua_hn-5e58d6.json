@@ -1,0 +1,80 @@
+{
+  "id": "20260528-xinhua_hn-5e58d6",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "http://hn.news.cn/20260529/408d8705b19247719f0f321612a89ea6/c.html",
+  "title_zh": "商务部：入汛以来全国生活必需品市场运行平稳、供应充足",
+  "title_en": "Ministry of Commerce: Daily Necessities Market Stable and Supply Sufficient Since Start of Flood Season",
+  "summary_zh": "商务部新闻发言人何亚东5月28日表示，入汛以来，商务部通过调度重点保供企业，确保受灾地区生活必需品供应充足，市场运行平稳。",
+  "summary_en": "MOFCOM spokesperson He Yadong stated on May 28 that the ministry has coordinated key supply enterprises to ensure sufficient daily necessities in flood-affected areas, maintaining market stability.",
+  "body_zh": "新华社北京5月28日电（记者谢希瑶、何晓）商务部新闻发言人何亚东28日在例行新闻发布会上介绍，今年入汛以来，我国南方多地出现强降雨，引发暴雨洪涝灾害。商务部加大生活必需品货源组织力度，调度受灾地区及周边重点保供企业库存，全力保障居民生活必需品供应。目前，全国生活必需品市场运行平稳、供应充足。\n何亚东说，重庆市商务委、湖南省商务厅组织当地重点保供企业向受灾地区调运生活必需品，满足人民群众需求；贵州省商务厅调度掌握127家重点保供企业库存情况，派出工作组赴一线协调物资调运；湖北省商务厅组织159家重点保供企业增加库存备货，保障市场供应不脱销、不断档。",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "economy",
+  "keywords": [
+    "生活必需品保供",
+    "防汛救灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生活必需品保供",
+      "name_en": "Supply of Daily Necessities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Prevention and Disaster Relief"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "北京",
+    "生活必需品保供",
+    "防汛救灾"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Beijing",
+    "Supply of Daily Necessities",
+    "Flood Prevention and Disaster Relief"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260528-xinhua_hn-5e58d6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

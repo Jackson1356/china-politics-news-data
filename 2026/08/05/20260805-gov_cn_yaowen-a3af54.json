@@ -1,0 +1,74 @@
+{
+  "id": "20260805-gov_cn_yaowen-a3af54",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077568.htm",
+  "title_zh": "上半年我国服务进出口总额实现较快增长",
+  "title_en": "China's Services Trade Volume Grows Rapidly in H1",
+  "summary_zh": "商务部数据显示，今年上半年我国服务进出口总额37797.5亿元，同比增长8.3%，其中出口增长17.6%，进口增长2.9%。",
+  "summary_en": "According to the Ministry of Commerce, China's total services trade reached 3.77975 trillion yuan in H1, up 8.3% year on year, with exports rising 17.6% and imports 2.9%.",
+  "body_zh": "商务部发布的数据显示，今年上半年，我国服务进出口总额37797.5亿元，同比增长8.3%。其中，服务出口同比增长了17.6%，进口同比增长2.9%。来自中国的优质服务正在加快走向全球。\n今年以来，知识密集型服务出口持续保持较快增长，上半年同比增长12.8%，在服务出口总额中的占比达到53.5%。其中，个人文化和娱乐服务、知识产权使用费出口增长最快，产业含金量持续提升。受入境游升温的带动，今年上半年，旅行服务出口也保持了30%以上的较快增速。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "服务贸易",
+    "出口增长"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Services Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出口增长",
+      "name_en": "Export Growth"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "服务贸易",
+    "出口增长"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Services Trade",
+    "Export Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260805-gov_cn_yaowen-a3af54",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

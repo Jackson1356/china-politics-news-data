@@ -1,0 +1,128 @@
+{
+  "id": "20260917-gov_huai_bei-019849",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/tpxw/65161521.html",
+  "title_zh": "黄韡赴安徽高等研究院淮北分院和淮北师范大学调研",
+  "title_en": "Huang Wei Visits Huaibei Branch of Anhui Advanced Research Institute and Huaibei Normal University",
+  "summary_zh": "9月17日下午，淮北市委副书记、代市长黄韡赴安徽高等研究院淮北分院和淮北师范大学调研，强调深化校企、校地合作，推动科技创新与产业创新深度融合。",
+  "summary_en": "On the afternoon of Sept 17, Huang Wei, deputy Party secretary and acting mayor of Huaibei, visited the Huaibei branch of the Anhui Advanced Research Institute and Huaibei Normal University, calling for deeper university-enterprise and university-local cooperation to integrate technological and industrial innovation.",
+  "body_zh": "黄韡赴安徽高等研究院淮北分院和淮北师范大学调研\n9月17日下午，市委副书记、代市长黄韡前往安徽高等研究院淮北分院和淮北师范大学，调研高校科研创新平台与校园文化阵地建设等工作。他强调，要深入学习贯彻习近平总书记关于科技创新的重要论述和考察安徽重要讲话精神，充分发挥高研院的平台作用和高校的科研优势，持续深化校企合作、校地合作，推动科技创新与产业创新深度融合，加快培育壮大新质生产力，更好赋能淮北高质量转型发展。市委常委、常务副市长张卫国，市政府秘书长郭海磊参加。\n扫描二维码随身看资讯",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "校企合作",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄韡",
+      "name_en": "Huang Wei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "淮北师范大学",
+      "name_en": "Huaibei Normal University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HB",
+      "name_zh": "淮北",
+      "name_en": "Huaibei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校企合作",
+      "name_en": "University-Enterprise Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "范大学",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄韡",
+    "淮北师范大学",
+    "淮北",
+    "科技创新",
+    "校企合作",
+    "新质生产力",
+    "范大学"
+  ],
+  "tags_en": [
+    "Huang Wei",
+    "Huaibei Normal University",
+    "Huaibei",
+    "Scientific and Technological Innovation",
+    "University-Enterprise Cooperation",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭海磊"
+      },
+      {
+        "id": null,
+        "name_zh": "范大学"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HB"
+    ],
+    "companies": [
+      {
+        "name_zh": "淮北师范大学",
+        "name_en": "Huaibei Normal University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-gov_huai_bei-019849",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_bei",
+      "source_tier": 4,
+      "url": "https://www.huaibei.gov.cn/xwzx/zwyw/65161518.html",
+      "title_zh": "黄韡在安徽高等研究院淮北分院和淮北师范大学调研时强调深化校地协同 赋能转型发展",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

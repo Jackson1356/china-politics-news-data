@@ -1,0 +1,105 @@
+{
+  "id": "20261111-gov_wu_hu-040ff7",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41399545.html",
+  "title_zh": "陈东赴经开区宣讲党的二十届五中全会精神并开展调研",
+  "title_en": "Chen Dong Visits Economic Development Zone to Promote Party Plenum Spirit and Conduct Research",
+  "summary_zh": "11月9日，芜湖市市长陈东赴经开区宣讲党的二十届五中全会精神，并调研科技创新、现代物流和产业发展情况。",
+  "summary_en": "On November 9, Wuhu Mayor Chen Dong visited the Economic Development Zone to promote the spirit of the 20th CPC Central Committee's Fifth Plenary Session and research sci-tech innovation, modern logistics and industrial development.",
+  "body_zh": "陈东赴经开区宣讲党的二十届五中全会精神并开展调研\n本报讯（记者 吕成 冯光宇）11月9日，市委副书记、市长陈东赴经开区宣讲党的二十届五中全会精神及省第十二次党代会精神，调研科技创新、现代物流和产业发展等情况。\n在美的集团芜湖创新科技园，陈东参观数据集控中心、静音实验室等处，实地了解企业创新发展情况。他指出，要鼓励和引导企业加大科技研发投入，勇攀行业技术高峰，加强科技赋能、丰富应用场景，不断提升产品附加值和核心竞争力。在芜湖塔桥多式联运基地，陈东详细了解基地运营管理情况，强调要强化数据赋能，提高运营和管理水平，优化综保仓储服务，深化“公铁水空”协同、“陆海内外”联动，降低全社会物流成本，加快构建现代物流体系。在舍弗勒芜湖生产基地，陈东走进自动化车间，考察产品和产线，鼓励企业聚焦芜湖汽车产业需求，加快研发和市场开拓步伐，促进产业链上下游企业协同联动，推动更多产业资源和人才在芜集聚，提升产业竞争力。在芜湖宏景电子股份有限公司，陈东听取企业经营情况介绍，强调要扎实做好为企服务，优化政策供给，加大金融支持力度，充分利用资本市场赋能企业跨越式发展。\n调研中，陈东强调，要深入学习贯彻党的二十届五中全会精神，认真落实省第十二次党代会部署，锚定建设高能级创新型城市发展目标，积极推动“政产学研金服用”协同发力，促进创新资源集聚，打造优质创新生态。经开区要充分发挥国家级开发区政策优势，不断优化营商环境，持续做好制度创新、管理创新等工作。要聚焦建设先进制造业产业集群，不断发展壮大新兴产业和未来产业，推动科技创新和产业创新深度融合，为芜湖加快构建现代化产业体系贡献更多力量。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "economy",
+  "keywords": [
+    "科技创新",
+    "现代物流",
+    "先进制造业",
+    "党的二十届五中全会精神"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈东",
+      "name_en": "Chen Dong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-Tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代物流",
+      "name_en": "Modern Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Spirit of the 20th CPC Central Committee's Fifth Plenary Session"
+    }
+  ],
+  "tags_zh": [
+    "陈东",
+    "芜湖",
+    "科技创新",
+    "现代物流",
+    "先进制造业",
+    "党的二十届五中全会精神"
+  ],
+  "tags_en": [
+    "Chen Dong",
+    "Wuhu",
+    "Sci-Tech Innovation",
+    "Modern Logistics",
+    "Advanced Manufacturing",
+    "Spirit of the 20th CPC Central Committee's Fifth Plenary Session"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陈东"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261111-gov_wu_hu-040ff7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

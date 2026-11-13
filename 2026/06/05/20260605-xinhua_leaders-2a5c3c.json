@@ -1,0 +1,78 @@
+{
+  "id": "20260605-xinhua_leaders-2a5c3c",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260605/9c5d926737e6439b9b43de973dda59d1/c.html",
+  "title_zh": "习近平将于6月8日至9日对朝鲜进行国事访问",
+  "title_en": "Xi Jinping to Pay State Visit to DPRK from June 8 to 9",
+  "summary_zh": "应金正恩邀请，中共中央总书记、国家主席习近平将于6月8日至9日对朝鲜民主主义人民共和国进行国事访问。",
+  "summary_en": "At the invitation of Kim Jong Un, General Secretary and President Xi Jinping will pay a state visit to the Democratic People's Republic of Korea from June 8 to 9.",
+  "body_zh": "应朝鲜劳动党总书记、朝鲜民主主义人民共和国国务委员长金正恩邀请，中共中央总书记、中华人民共和国主席习近平将于6月8日至9日对朝鲜民主主义人民共和国进行国事访问。\n2025年9月，习近平总书记在北京同金正恩总书记举行会谈时，特别提到2019年对朝鲜的国事访问，“所到之处无不感受到中朝一家亲的浓厚氛围。庄严的中朝友谊塔、壮观的大型团体操表演、热情的朝鲜人民都给我留下了深刻的印象”。\n在那次历史性访朝期间，习近平总书记以“参天大树”生动比喻中朝关系，“尽管沧海桑田、风云变幻，中朝友谊这棵参天大树依然苍劲挺拔、历久弥坚”。\n编导：王沛 陆睿\n统筹：孙浩 王丰丰",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜",
+      "name_en": "North Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "朝鲜",
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "North Korea",
+    "China-DPRK Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260605-xinhua_leaders-2a5c3c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

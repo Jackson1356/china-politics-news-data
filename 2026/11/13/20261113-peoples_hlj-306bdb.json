@@ -1,0 +1,83 @@
+{
+  "id": "20261113-peoples_hlj-306bdb",
+  "source": "peoples_hlj",
+  "source_name_zh": "人民网 黑龙江",
+  "source_name_en": "People's Daily Heilongjiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hlj.people.com.cn/n2/2026/1113/c220005-41749701.html",
+  "title_zh": "黑龙江省提前部署农业生产 严防雨雪冰冻",
+  "title_en": "Heilongjiang Deploys Early Measures to Protect Agricultural Production from Rain, Snow and Freezing",
+  "summary_zh": "近期雨雪冰冻天气多发，黑龙江省农业农村厅提前部署设施农业防范应对，围绕保棚、保温、保光、控湿开展排查加固。",
+  "summary_en": "With frequent rain, snow and freezing weather, Heilongjiang's agriculture department has deployed early measures to protect greenhouse production through shed reinforcement, insulation, lighting and humidity control.",
+  "body_zh": "黑龙江省提前部署农业生产 严防雨雪冰冻\n近期雨雪冰冻天气多发，为保障农业生产安全，黑龙江省提前部署防范应对工作。\n记者从省农业农村厅了解到，目前黑龙江省设施农业生产要围绕“保棚、保温、保光、控湿”四个环节，对温室大棚的墙体、钢架、立柱、压膜线和保温被进行全方位排查，跨度大、骨架老化或承压能力偏弱的棚室，必须提前支设立柱或横拉筋临时加固。降雪期间加强值守，做到“边降雪、边清除”，尤其强化夜间除雪，严控棚顶积雪厚度。多层覆盖与应急加温结合，守住温度底线。棚室内采取“大棚+二层膜+地膜”或“大棚+小拱棚”等多层覆盖方式，确保夜间棚内气温、地温均不低于作物能承受的最低温度。极端低温时段，使用热风炉、增温块等设备临时加温。控湿防病，避免低温高湿叠加致灾。",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "农业生产",
+    "雨雪冰冻防范",
+    "设施农业"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业生产",
+      "name_en": "Agricultural Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "雨雪冰冻防范",
+      "name_en": "Rain, Snow and Freezing Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "设施农业",
+      "name_en": "Facility Agriculture"
+    }
+  ],
+  "tags_zh": [
+    "黑龙江",
+    "农业生产",
+    "雨雪冰冻防范",
+    "设施农业"
+  ],
+  "tags_en": [
+    "Heilongjiang",
+    "Agricultural Production",
+    "Rain, Snow and Freezing Prevention",
+    "Facility Agriculture"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261113-peoples_hlj-306bdb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20261022-xinhua_politics-289566",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261022/07f78e2e15504ede9a2e7b8d57d9d71d/c.html",
+  "title_zh": "我国已同153国缔结3196对友好城市（省州）关系",
+  "title_en": "China Has Established 3,196 Sister-City (Province-State) Ties with 153 Countries",
+  "summary_zh": "10月22日，2026中国国际友好城市大会在西安闭幕，会上签署12项友城结好和务实合作协议并发布《西安倡议》；我国已同153国缔结3196对友城关系。",
+  "summary_en": "The 2026 China International Friendship Cities Conference closed in Xi'an on Oct 22, where 12 sister-city and cooperation agreements were signed and the Xi'an Initiative released. China now has 3,196 sister-city (province-state) ties with 153 countries.",
+  "body_zh": "新华社西安10月22日电（记者曹嘉玥、付瑞霞）记者22日从中国人民对外友好协会了解到，我国已同世界上153个国家缔结了3196对友好城市（省州）关系。\n10月22日，2026中国国际友好城市大会在陕西省西安市闭幕。闭幕式上，大会向20个中方省市颁发了“国际友好城市杰出贡献奖”，向40个外方省州市颁发了“对华友好城市优秀伙伴奖”，签署了12项友城结好和务实合作协议，内容涉及中外地方经贸投资、城市治理、人文交流、民生服务等多个领域。\n此次大会还发布了《西安倡议》。倡议指出，与会各方积极评价四大全球倡议，一致认为国际友好城市是联结各国人民友谊的坚实纽带，应顺应时代大势，深化团结合作，推动构建人类命运共同体。\n中国国际友好城市大会是中国人民对外友好协会和中国国际友好城市联合会搭建的地方政府合作机制性平台，迄今已分别在北京、上海、成都、广州、重庆、武汉、昆明、西安举办。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "友好城市",
+    "地方合作",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好城市",
+      "name_en": "Sister Cities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方合作",
+      "name_en": "Local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchange"
+    }
+  ],
+  "tags_zh": [
+    "西安",
+    "友好城市",
+    "地方合作",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Xi'an",
+    "Sister Cities",
+    "Local Cooperation",
+    "People-to-People Exchange"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261022-xinhua_politics-289566",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "20260629-chinanews_gn-260c02",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-29/10649299.shtml",
+  "title_zh": "中国农业银行河北省分行原副行长许树宝接受审查调查",
+  "title_en": "Former Deputy Governor of Agricultural Bank of China Hebei Branch Xu Shubao Under Investigation",
+  "summary_zh": "2026年6月29日，中国农业银行河北省分行原副行长许树宝因涉嫌严重违纪违法，接受中央纪委国家监委驻农行纪检监察组和河北省监委的审查调查。",
+  "summary_en": "On June 29, 2026, Xu Shubao, former deputy governor of the Agricultural Bank of China Hebei Branch, was placed under investigation for suspected serious violations of discipline and law.",
+  "body_zh": "中国农业银行河北省分行原副行长许树宝接受审查调查\n中新网6月29日电 据中央纪委国家监委驻中国农业银行纪检监察组、河北省纪委监委消息：中国农业银行河北省分行原党委委员、副行长许树宝涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国农业银行纪检监察组纪律审查和河北省监委监察调查。\n国内新闻精选：\n- 2026年06月29日 08:58:45\n- 2026年06月28日 16:20:57\n- 2026年06月28日 10:19:40\n- 2026年06月27日 19:52:45\n- 2026年06月27日 19:17:25\n- 2026年06月27日 13:16:40\n- 2026年06月26日 21:41:11\n- 2026年06月26日 20:52:50\n- 2026年06月26日 16:44:24\n- 2026年06月26日 16:22:57",
+  "image_url": null,
+  "published_at": "2026-06-29T12:00:00+00:00",
+  "event_date": "2026-06-29",
+  "ingested_at": "2026-06-29T09:16:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "违纪违法"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "许树宝",
+      "name_en": "Xu Shubao"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "河北省纪委监委",
+      "name_en": "Hebei Provincial Commission for Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "institution",
+      "id": "ABC",
+      "name_zh": "中国农业银行",
+      "name_en": "Agricultural Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "违纪违法",
+      "name_en": "Disciplinary and Legal Violations"
+    }
+  ],
+  "tags_zh": [
+    "许树宝",
+    "中央纪委国家监委",
+    "河北省纪委监委",
+    "中国农业银行",
+    "河北",
+    "反腐败",
+    "违纪违法"
+  ],
+  "tags_en": [
+    "Xu Shubao",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Hebei Provincial Commission for Discipline Inspection and Supervision",
+    "Agricultural Bank of China",
+    "Hebei",
+    "Anti-corruption",
+    "Disciplinary and Legal Violations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "ABC"
+    ],
+    "locations": [
+      "CN-HE"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      },
+      {
+        "name_zh": "河北省纪委监委",
+        "name_en": "Hebei Provincial Commission for Discipline Inspection and Supervision"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260629-chinanews_gn-260c02",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

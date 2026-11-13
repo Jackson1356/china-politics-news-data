@@ -1,0 +1,101 @@
+{
+  "id": "20260903-gov_yue_yang-456f46",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2397846.html",
+  "title_zh": "全市消防安全专项整治行动推进会议召开",
+  "title_en": "Meeting Held to Advance City-wide Fire Safety Special Rectification Action",
+  "summary_zh": "9月2日，岳阳市召开消防安全专项整治行动推进会议，省委副书记、岳阳市委书记谢卫江出席，市委副书记、代理市长唐浩然讲话，强调压实责任、保障安全。",
+  "summary_en": "On September 2, Yueyang held a meeting on advancing the city-wide fire safety rectification. Xie Weijiang, deputy provincial party secretary and Yueyang party secretary, attended; acting mayor Tang Haoran delivered a speech.",
+  "body_zh": "9月2日，全市消防安全专项整治行动推进会议召开，深入学习贯彻习近平总书记关于安全生产的重要论述和重要指示批示精神，深刻汲取近期市内外典型火灾事故教训，分析研判当前消防安全形势，进一步传导压力、压实责任，推动全市消防安全形势持稳向好。省委副书记、岳阳市委书记谢卫江出席，市委副书记、代理市长唐浩然讲话。\n会议强调，消防安全一头连着千家万户的幸福安宁，一头连着经济社会的发展稳定。各级各部门要深化思想认识，坚决扛牢消防安全政治责任，牢固树立正确政绩观，不折不扣贯彻落实习近平总书记的重要指示精神，全力以赴答好“政治考题”“民生考题”“发展考题”，以高水平消防安全保障高质量发展。要强化标本兼治，切实筑牢消防安全坚固屏障，坚持问题导向、目标导向、结果导向，持续深化风险隐患排查整治，建强基层消防治理体系，加强法治保障和科技赋能，突出社会共治，切实提升本质安全水平。要拧紧责任链条，广泛凝聚齐抓共管工作合力，强化责任闭环落实，加强跟踪督导问效，注重结果转化运用，切实扛牢“促一方发展、保一方平安”的政治责任，坚决守护好人民群众生命财产安全。\n会议以视频会议形式召开，各县市区设分会场。市领导李劲松、陈阁辉、张世愚、秦山成、段宁、邓灿、刘世奇、雷欣等参加。",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "welfare",
+  "keywords": [
+    "消防安全",
+    "专项整治",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消防安全",
+      "name_en": "Fire Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专项整治",
+      "name_en": "Special Rectification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "消防安全",
+    "专项整治",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Fire Safety",
+    "Special Rectification",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "雷欣等"
+      },
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260903-gov_yue_yang-456f46",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

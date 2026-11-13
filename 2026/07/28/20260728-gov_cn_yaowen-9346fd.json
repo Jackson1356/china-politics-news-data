@@ -1,0 +1,104 @@
+{
+  "id": "20260728-gov_cn_yaowen-9346fd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076871.htm",
+  "title_zh": "王毅出席全球发展倡议5周年高级别会议",
+  "title_en": "Wang Yi Attends High-Level Meeting on 5th Anniversary of Global Development Initiative",
+  "summary_zh": "中共中央政治局委员、外交部长王毅28日在北京出席全球发展倡议5周年高级别会议并致辞。",
+  "summary_en": "Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, attended and addressed the High-Level Meeting on the 5th Anniversary of the Global Development Initiative in Beijing on July 28.",
+  "body_zh": "新华社北京7月28日电（记者 董雪）中共中央政治局委员、外交部长王毅28日在北京出席全球发展倡议5周年高级别会议并致辞。\n王毅表示，5年前，面对全球发展事业何去何从的时代之问，习近平主席郑重提出全球发展倡议，为重振全球发展事业提供了中国方案、作出了中国贡献。5年来，倡议的理念引领效应持续释放，各领域合作机制不断完善，务实合作成果接连落地。当前国际形势变乱交织，全球发展倡议的时代意义更加凸显。我们要继续高举发展旗帜，坚定推进全球发展倡议与联合国发展议程对接。一是加强团结合作，营造和平发展环境；二是凝聚行动合力，加快落实2030年议程；三是推进开放互鉴，壮大创新发展引擎；四是践行多边主义，完善全球治理体系。\n王毅强调，无论国际形势如何变化，中方将继续发挥负责任大国作用，将自身发展同各国共同发展紧密联系起来，做全球发展的促进者和贡献者，不断推进落实全球发展倡议，同世界各国共享发展机遇，推动构建人类命运共同体。\n联合国副秘书长、秘书长办公厅主任拉特雷，“全球发展倡议之友小组”成员国驻华使节，联合国发展机构驻华代表等出席。各方高度评价5年来全球发展倡议取得的丰硕成果，赞赏中国在推进国际发展合作中发挥的引领作用，愿同中方持续深化发展合作。",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-28",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球发展倡议",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球发展倡议",
+      "name_en": "Global Development Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "北京",
+    "全球发展倡议",
+    "国际合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beijing",
+    "Global Development Initiative",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "郑重"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260728-gov_cn_yaowen-9346fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0729/c64094-40770003.html",
+      "title_zh": "王毅出席全球发展倡议5周年高级别会议",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

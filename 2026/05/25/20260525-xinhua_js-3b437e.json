@@ -1,0 +1,96 @@
+{
+  "id": "20260525-xinhua_js-3b437e",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260527/949650d8bfe24f9c8cac0feb709a45a6/c.html",
+  "title_zh": "江苏省政府召开常务会议 刘小涛主持",
+  "title_en": "Jiangsu Provincial Government Holds Executive Meeting Chaired by Liu Xiaotao",
+  "summary_zh": "5月25日，江苏省长刘小涛主持召开省政府常务会议，研究部署安全生产、常态化帮扶、长三角一体化发展及法律服务等工作。",
+  "summary_en": "On May 25, Governor Liu Xiaotao chaired an executive meeting of the Jiangsu Provincial Government to discuss work safety, regular assistance, Yangtze River Delta integration, and legal services.",
+  "body_zh": "5月25日，省政府召开常务会议，深入学习贯彻习近平总书记重要讲话重要指示精神，全面落实党中央决策部署，按照省委有关要求，研究安排安全生产、开展常态化帮扶、推进长三角一体化发展、法律服务等工作。省长刘小涛主持会议。\n会议指出，要深入学习贯彻习近平总书记对安全生产作出的重要指示精神，认真落实李强总理批示要求，牢固树立安全发展理念，狠抓国务院安委办反馈意见整改和安全生产各项措施落实，坚决防范遏制重特大事故发生。对标矿山安全“八条硬措施”，全面排查瓦斯、水、火、顶板、煤尘等风险隐患，强化安全风险监测预警，盯紧看牢矿山领域安全防范。持续推动安全生产“六化”建设，围绕建筑、工贸、运输等重点领域开展类比排查、落实闭环整改、健全长效机制。抓好防汛和极端灾害性天气防范工作，加强应急体系能力建设，严格落实“叫应”机制，切实维护人民群众生命财产安全。\n会议强调，要认真落实全国推进常态化帮扶持续巩固拓展脱贫攻坚成果工作会议部署，精准做好常态化监测、实现农村人口全覆盖，强化产业就业核心帮扶，兜牢民生兜底保障底线，深化南北结对帮扶合作机制，推动产业链增值收益更多留在乡村、惠及农户，促进乡村全面振兴、推进共同富裕。\n会议指出，要深入学习贯彻2026年度长三角地区主要领导座谈会、央地共建上海（长三角）国际科技创新中心工作推进会议精神，紧扣一体化和高质量两个关键词，树牢“一盘棋”思想，坚持上海龙头带动，与浙皖两省一道，聚力推进科技创新联动、产业发展协同、基础设施互通、开放能级跃升、民生福祉共享，推动长三角一体化发展取得新的突破。\n会议审议了《关于推动法律服务高质量发展的实施意见》，强调要做强法律服务机构平台，提升“一站式”法律服务能力，推动“人工智能+法律服务”融合，引进和培育高水平法律服务人才，赋能经济社会高质量发展。（王拓 李嘉豪）",
+  "image_url": null,
+  "published_at": "2026-05-27T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "economy",
+  "keywords": [
+    "安全生产",
+    "长三角一体化",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长三角一体化",
+      "name_en": "Yangtze River Delta Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "安全生产",
+    "长三角一体化",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Work Safety",
+    "Yangtze River Delta Integration",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260525-xinhua_js-3b437e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20260627-peoples_yn-c27fbe",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_url": "http://yn.people.com.cn/n2/2026/0627/c378440-41622789.html",
+  "title_zh": "《人工智能 智能体互联》系列7项国家标准发布",
+  "title_en": "Seven National Standards for AI Agent Interconnection Released",
+  "summary_zh": "国家市场监督管理总局近日发布《人工智能 智能体互联》系列7项国家标准，旨在解决智能体互联中的接口不统一、身份管理缺失等问题。",
+  "summary_en": "The State Administration for Market Regulation recently released seven national standards for AI Agent Interconnection to address issues such as inconsistent communication interfaces and lack of identity management.",
+  "body_zh": "《人工智能 智能体互联》系列7项国家标准发布\n记者26日从国家市场监督管理总局了解到，《人工智能 智能体互联》系列7项国家标准近日发布。该系列标准将有效破解智能体互联面临的通信接口不统一、互联互通难度大、身份管理体系缺失、协同交互规则不规范等突出问题。\n智能体作为具备自主感知、记忆、决策、交互与执行能力的智能系统，是新一代人工智能的重要应用形态。当前，我国智能体产业发展迅猛，应用场景持续拓展。随着智能体规模化落地、多场景普及应用，海量智能体跨平台、跨场景、跨领域互联协同将成为产业发展的必然趋势。\n据介绍，标准全面覆盖总体架构、身份码、身份管理、智能体描述、智能体发现、智能体交互、智能体工具调用等核心环节，系统性搭建起“身份标识—能力描述—供需发现—协同交互—工具调用”全覆盖、闭环式标准规范体系，有效补齐该领域标准空白。通过该系列标准统一架构与交互规则后，企业可复用标准组件，减少定制开发，压缩产品上市周期；同步建立统一身份认证、全程追溯机制，夯实跨域可信、安全交互的制度基础。（记者 李春剑 ）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "国家标准",
+    "智能体互联"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SAMR",
+      "name_zh": "国家市场监督管理总局",
+      "name_en": "State Administration for Market Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能体互联",
+      "name_en": "Agent Interconnection"
+    }
+  ],
+  "tags_zh": [
+    "国家市场监督管理总局",
+    "人工智能",
+    "国家标准",
+    "智能体互联"
+  ],
+  "tags_en": [
+    "State Administration for Market Regulation",
+    "Artificial Intelligence",
+    "National Standards",
+    "Agent Interconnection"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SAMR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260627-peoples_yn-c27fbe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

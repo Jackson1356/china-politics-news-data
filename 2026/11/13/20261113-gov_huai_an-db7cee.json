@@ -1,0 +1,101 @@
+{
+  "id": "20261113-gov_huai_an-db7cee",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17934624/1794554713421y9BJlyct.html",
+  "title_zh": "淮安市召开招商选资工作推进会",
+  "title_en": "Huai'an Holds Meeting on Investment Promotion and Project Selection",
+  "summary_zh": "11月11日，淮安市召开招商选资工作推进会，市委书记顾坤讲话，市长杨新忠主持，部署以更大力度的项目招引支撑县域振兴与高质量发展。",
+  "summary_en": "On Nov 11, Huai'an city held a meeting on investment promotion and project selection, with Party Secretary Gu Kun speaking and Mayor Yang Xinzhong presiding, urging stronger efforts to attract quality projects to support county revitalization and high-quality development.",
+  "body_zh": "您所在的位置：　首页 > 新闻资讯 > 图片新闻\n我市召开招商选资工作推进会\n关联阅读:\n11月11日，我市召开招商选资工作推进会。市委书记顾坤强调，要深入学习贯彻习近平总书记关于发展新质生产力的重要论述，认真落实省委对淮安“保持好势头、提升贡献度”总体要求以及省政府具体部署，聚焦高质量发展首要任务，更大力度、更实举措、更高质效“抓好”项目、抓“好项目”，以招商选资务实成效为县域振兴、富民强市提供更有力的支撑。市委副书记、市长杨新忠主持会议。",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "新质生产力",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "招商引资",
+    "新质生产力",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Investment Promotion",
+    "New Quality Productive Forces",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261113-gov_huai_an-db7cee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": null,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794526515220H0iDnD0r.html",
+      "title_zh": "淮安市召开招商选资工作推进会",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

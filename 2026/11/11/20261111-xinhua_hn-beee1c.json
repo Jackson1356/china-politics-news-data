@@ -1,0 +1,106 @@
+{
+  "id": "20261111-xinhua_hn-beee1c",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hn.news.cn/20261111/54eb298279984fc3b2df0f155955ef6a/c.html",
+  "title_zh": "2026\"新征程 新样范\"网络主题传播活动在汝城沙洲启动",
+  "title_en": "2026 'New Journey, New Style' Online Communication Campaign Launches in Shazhou, Rucheng",
+  "summary_zh": "11月10日，2026\"新征程 新样范\"网络主题传播活动在湖南郴州汝城县沙洲村启动，采访团将赴汝城、资兴、永兴等地采访红色文旅融合与产业发展。",
+  "summary_en": "On Nov 10, the 2026 \"New Journey, New Style\" online communication campaign launched in Shazhou Village, Rucheng County, Chenzhou, Hunan, with a media team touring sites of red culture, tourism and industry.",
+  "body_zh": "11月10日，“温暖中国行 从沙洲出发”——2026“新征程 新样范”网络主题传播活动在湖南省郴州市汝城县沙洲村启动。\n本次活动由中央网信办网络传播局指导，湖南省委网信办、湖南日报社、郴州市委、郴州市政府共同主办。近年来，郴州深挖红色资源，推动红色优势转化为发展优势，培育形成3个千亿产业、3家百亿企业、3个千亿园区、4个国省级产业集群，有色产业产值占全省比重超40%，地区生产总值突破3500亿元，主要经济指标增速连续五年位居全省前列。郴州以“半条被子”故事发生地为核心，着力打造红色文旅融合样板。2025年，沙洲村村民人均可支配收入达2.8万元，村集体经济收入110万元，红色旅游带动200余名群众就地就近创业就业，绘就红土地上的增收致富图景。\n接下来的3天行程中，采访团将赴汝城、资兴、永兴等地，走进郴州水世界、白廊坡旅拍基地、湖南正和通银业、湖南和银贵金属等，记录郴州在红色文化传承、文旅深度融合、乡村全面振兴、有色金属精深加工等领域的实践成果。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "红色文旅融合",
+    "乡村振兴",
+    "网络主题传播"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAC",
+      "name_zh": "中央网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南省委网信办",
+      "name_en": "Cyberspace Administration of the CPC Hunan Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "红色文旅融合",
+      "name_en": "Red Culture and Tourism Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络主题传播",
+      "name_en": "Online Themed Communication"
+    }
+  ],
+  "tags_zh": [
+    "中央网信办",
+    "湖南省委网信办",
+    "湖南",
+    "红色文旅融合",
+    "乡村振兴",
+    "网络主题传播"
+  ],
+  "tags_en": [
+    "Cyberspace Administration of China",
+    "Cyberspace Administration of the CPC Hunan Provincial Committee",
+    "Hunan",
+    "Red Culture and Tourism Integration",
+    "Rural Revitalization",
+    "Online Themed Communication"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CAC"
+    ],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖南省委网信办",
+        "name_en": "Cyberspace Administration of the CPC Hunan Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261111-xinhua_hn-beee1c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260927-gov_cn_yaowen-0d9b39",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082191.htm",
+  "title_zh": "第五届全球数字贸易博览会在杭州闭幕",
+  "title_en": "Fifth Global Digital Trade Expo Closes in Hangzhou",
+  "summary_zh": "9月27日，第五届全球数字贸易博览会在浙江杭州闭幕，2008家企业线下参展，超5万名专业客商到会采购，较上届增长20%。",
+  "summary_en": "The Fifth Global Digital Trade Expo closed in Hangzhou, Zhejiang on Sept 27, with 2,008 offline exhibitors and over 50,000 professional buyers, up 20 percent from the previous edition.",
+  "body_zh": "新华社杭州9月27日电（记者吕昂）第五届全球数字贸易博览会27日在浙江省杭州市闭幕。记者从第五届数贸会成果发布会上获悉，本届数贸会共有2008家企业线下参展，累计入场观众42.8万人次。展会期间超5万名专业客商到会采购，人数较上届增长20%。\n本届数贸会以“在数贸会遇见AI未来”为年度主题，突出人工智能特色，226项“首发、首秀、首展”涵盖数字医疗、数字文娱、数字出行等领域。996家人工智能企业参展，数量约为上届的三倍，带来超百个人工智能应用场景。\n马来西亚、匈牙利担任主宾国，法国、韩国、秘鲁、吉尔吉斯斯坦、哈萨克斯坦等国组团参展，超1.2万名国际客商参加，进一步扩大了数贸会国际“朋友圈”。本届数贸会还揭牌阿拉伯数字经济联盟中国总部等重点平台，发布《全球数字贸易发展报告2026》等行业权威报告、榜单、倡议、共识超百项，推动中国气象智能预警方案“妈祖”等国际公共产品惠及发展中国家。\n产贸对接方面，本届数贸会与132个境外商协会建立合作，提前预筹采购需求清单，开展超50场专题贸易匹配活动。展会同期举办世界人工智能开源大赛、具身智能应用挑战赛、全球脑机接口创新赛等数字技术应用赛事，吸引超1万支队伍同场竞技，有力促进数字技术转化和应用。",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": "2026-09-27",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "数字贸易",
+    "人工智能",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字贸易",
+      "name_en": "Digital Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "杭州",
+    "浙江",
+    "数字贸易",
+    "人工智能",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Hangzhou",
+    "Zhejiang",
+    "Digital Trade",
+    "Artificial Intelligence",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ-HZ",
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260927-gov_cn_yaowen-0d9b39",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

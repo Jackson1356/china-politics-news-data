@@ -1,0 +1,124 @@
+{
+  "id": "20261107-gov_chen_yang-15a4a7",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202611/t20261107_5114658.html",
+  "title_zh": "沈阳市第十五次党代会主席团举行第五次会议",
+  "title_en": "Presidium of 15th Shenyang Party Congress Holds Fifth Meeting",
+  "summary_zh": "11月6日晚，沈阳市第十五次党代会主席团在辽宁大厦举行第五次会议，由霍步刚主持，审议通过候补委员候选人名单及两项决议草案。",
+  "summary_en": "On the evening of Nov 6, the presidium of the 15th Shenyang Party Congress held its fifth meeting at Liaoning Hotel, chaired by Huo Bugang, approving the list of alternate committee candidates and two draft resolutions.",
+  "body_zh": "11月6日晚，市第十五次党代会主席团在辽宁大厦举行第五次会议。会议由大会主席团常委霍步刚主持。\n会议听取中共沈阳市第十五届委员会候补委员预选情况；审议通过中共沈阳市第十五届委员会候补委员候选人名单，提交大会进行选举；听取关于中共沈阳市第十四届委员会报告的决议（草案）讨论情况，审议通过该决议（草案），提交大会进行表决；听取关于中共沈阳市第十四届纪律检查委员会工作报告的决议（草案）讨论情况，审议通过该决议（草案），提交大会进行表决。\n大会主席团常委马珊珊、魏红江、杨志宏、谷军营、张吉慧、孙宏伟、闫占峰、李刚、王立伟、米德龙、王间出席会议。（记者曲俊铮）",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党内选举",
+    "纪律检查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "huo-bugang",
+      "name_zh": "霍步刚",
+      "name_en": "Huo Bugang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Internal Party Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律检查",
+      "name_en": "Discipline Inspection"
+    },
+    {
+      "kind": "person",
+      "id": "li-gang-xinjiang",
+      "name_zh": "李刚",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "霍步刚",
+    "沈阳",
+    "党代会",
+    "党内选举",
+    "纪律检查",
+    "李刚"
+  ],
+  "tags_en": [
+    "Huo Bugang",
+    "Shenyang",
+    "Party Congress",
+    "Internal Party Elections",
+    "Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      "huo-bugang",
+      "li-gang-xinjiang",
+      {
+        "id": null,
+        "name_zh": "王间"
+      },
+      {
+        "id": null,
+        "name_zh": "龙王间"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-gov_chen_yang-15a4a7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202611/t20261107_5114660.html",
+      "title_zh": "市第十五次党代会主席团举行第三次会议-政务要闻-沈阳市人民政府",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202611/t20261107_5114659.html",
+      "title_zh": "市第十五次党代会主席团举行第四次会议-政务要闻-沈阳市人民政府",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "20260807-gov_lin_zhi-4cdb8f",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/b5047bcbd2aa4be284ec7ce5043f9f47.shtml",
+  "title_zh": "王君正参加拉萨市城关区人大代表换届选举投票",
+  "title_en": "Wang Junzheng Votes in Lhasa Chengguan District People's Congress Deputy Election",
+  "summary_zh": "8月6日，西藏自治区党委书记王君正在拉萨市城关区参加人大代表换届选举投票，强调依法行使选举权，践行全过程人民民主。",
+  "summary_en": "On August 6, Wang Junzheng, Party Secretary of the Tibet Autonomous Region, voted in the deputy election of Lhasa Chengguan District People's Congress, stressing lawful exercise of voting rights and whole-process people's democracy.",
+  "body_zh": "王君正参加拉萨市城关区人大代表换届选举投票\n严金海嘎玛泽登刘江在各自选区参加投票\n本报拉萨8月6日讯（记者 张黎黎 张尚华 刘文涛）8月6日，拉萨市城关区人大代表换届选举正式启动。自治区党委书记王君正在吉崩岗街道药王山社区选区自治区党政机关大院投票站参加投票，选举城关区人大代表。\n自治区党政机关大院投票站内，五星红旗鲜艳夺目，镶嵌着国徽的红色票箱端放正中，投票工作规范有序，现场氛围庄重而热烈。王君正仔细听取有关选举事项的说明，将选民证交给工作人员核验，领取一张选票，在写票处认真填写，随后走到投票箱前，郑重投下自己的一票。\n王君正在投票后表示，人民代表大会制度是我国的根本政治制度，依法行使选举权和被选举权，是人民当家作主的重要体现。要深入学习贯彻习近平总书记关于坚持和完善人民代表大会制度的重要思想，以强烈的政治责任感和使命感，扎实做好人大代表换届选举工作。要践行全过程人民民主，坚持党的领导、充分发扬民主、严格依法办事，把换届纪律挺在前面，加强选举全过程监督，确保选举工作风清气正，确保选出人民满意的代表。\n严金海、嘎玛泽登、刘江、赖蛟、任维、才让太、达娃次仁、龚会才、旦巴、姜文鹏、徐芝文，自治区人大常委会、自治区政府、自治区政协、自治区高级人民法院、自治区人民检察院等其他省级领导同志，分别在各自选区参加了投票或委托他人投票。\n据了解，拉萨市城关区人大代表换届选举共有81个选区，将产生新一届城关区人大代表184名。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-06",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "party",
+  "keywords": [
+    "人大代表换届选举",
+    "全过程人民民主"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-junzheng",
+      "name_zh": "王君正",
+      "name_en": "Wang Junzheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大代表换届选举",
+      "name_en": "Deputy Election of People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全过程人民民主",
+      "name_en": "Whole-Process People's Democracy"
+    },
+    {
+      "kind": "person",
+      "id": "liu-jiang-xizang",
+      "name_zh": "刘江",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "yan-jinhai",
+      "name_zh": "严金海",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王君正",
+    "拉萨",
+    "人大代表换届选举",
+    "全过程人民民主",
+    "刘江",
+    "严金海"
+  ],
+  "tags_en": [
+    "Wang Junzheng",
+    "Lhasa",
+    "Deputy Election of People's Congress",
+    "Whole-Process People's Democracy"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-jinhai",
+      "wang-junzheng",
+      "liu-jiang-xizang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_lin_zhi-4cdb8f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260807_174533.html",
+      "title_zh": "王君正参加拉萨市城关区人大代表换届选举投票",
+      "published_at": "2026-08-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

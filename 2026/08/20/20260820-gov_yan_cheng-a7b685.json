@@ -1,0 +1,105 @@
+{
+  "id": "20260820-gov_yan_cheng-a7b685",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/20/art_49_4448248.html",
+  "title_zh": "严汉平会见德国莱茵TÜV集团首席执行官富笔",
+  "title_en": "Yan Hanping Meets with CEO of TÜV Rheinland Group",
+  "summary_zh": "8月19日，盐城市委书记严汉平会见德国TÜV莱茵集团CEO富笔，双方就深化产业合作、打造多品类认证中心等达成共识。",
+  "summary_en": "On Aug 19, Yan Hanping, Party Secretary of Yancheng, met with Dr. Fu Bi, CEO of TÜV Rheinland, to discuss deepening cooperation and building a multi-category certification center.",
+  "body_zh": "8月19日下午，市委书记严汉平在盐会见德国莱茵TÜV集团首席执行官、管理执行董事会主席富笔博士一行。\n严汉平对富笔博士一行来盐深化务实合作、推动协同发展表示欢迎，并简要介绍盐城经济社会发展情况。他说，当前，盐城正立足自身产业基础与资源禀赋，加快构建以先进制造业为骨干的现代化产业体系。生产性服务业贯穿产业链全过程，发展质量直接关系到产业体系的现代化水平。TÜV莱茵是全球公认的第三方权威认证头部领军机构，盐城工业门类齐全、潜在客户集聚，为双方深化合作提供了广阔空间。希望TÜV莱茵以盐城太阳能检测中心为依托，围绕本地产业与客户需求，深耕核心领域，扩大服务规模，持续拓展市场业务，打造多品类认证中心，推动盐城特色优势产业集群整体竞争力稳步提升。\n富笔博士感谢盐城长期以来对TÜV莱茵发展的关心支持，并简要介绍集团战略布局与发展规划情况。他表示，自1872年成立以来，集团一直致力于为企业提供符合安全、质量以及环保要求的一站式解决方案。集团将持续加大在盐投入，在标准共建、产业赋能、国际拓展等领域深化合作，实现双方优势互补、互利共赢。\nTÜV莱茵太阳能与商业产品服务全球高级副总裁郝福莱，市领导唐敬参加。",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "产业合作",
+    "生产性服务业",
+    "认证服务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "富笔",
+      "name_en": "Fu Bi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生产性服务业",
+      "name_en": "Producer Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "认证服务",
+      "name_en": "Certification Services"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "富笔",
+    "盐城",
+    "产业合作",
+    "生产性服务业",
+    "认证服务"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Fu Bi",
+    "Yancheng",
+    "Industrial Cooperation",
+    "Producer Services",
+    "Certification Services"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "唐敬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-gov_yan_cheng-a7b685",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

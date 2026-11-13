@@ -1,0 +1,122 @@
+{
+  "id": "20260811-peoples_bj-e142a3",
+  "source": "peoples_bj",
+  "source_name_zh": "人民网 北京",
+  "source_name_en": "People's Daily Beijing",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://bj.people.com.cn/n2/2026/0811/c82840-41664706.html",
+  "title_zh": "北京市防汛抗旱指挥部连续调度部署防汛防台风有关工作",
+  "title_en": "Beijing Flood Control and Drought Relief Headquarters Continues Coordinating Flood and Typhoon Prevention Work",
+  "summary_zh": "日前，北京市防汛抗旱指挥部连续召开会议，部署防汛防台风工作，分析台风“白海豚”影响，市长殷勇主持并强调做好系统准备。",
+  "summary_en": "Recently, the Beijing Flood Control and Drought Relief Headquarters held consecutive meetings to deploy flood and typhoon prevention, analyzing the impact of Typhoon White Dolphin. Mayor Yin Yong chaired and stressed systematic preparedness.",
+  "body_zh": "北京市防汛抗旱指挥部连续调度部署防汛防台风有关工作\n殷勇主持\n日前，市防汛抗旱指挥部落实市委工作部署要求，连续召开会议调度部署防汛防台风有关工作，分析台风“白海豚”影响，研究水库调度、河流堤坝安全运行、人员避险转移、重点场所防范、城市运行保障、排水排涝、应急抢险力量物资保障等重点领域防汛准备工作。市委副书记、市长殷勇强调，要按照市委工作部署，紧盯台风动态，以保障人民群众生命财产安全和基础设施安全为重点，做好系统准备，强化薄弱环节，科学有力抓好各领域备汛工作。\n市领导夏林茂、穆鹏、孙硕、文献，市政府秘书长曾劲分别参加。（记者 杨旗）",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "应急管理",
+    "城市运行保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市防汛抗旱指挥部",
+      "name_en": "Beijing Flood Control and Drought Relief Headquarters"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市运行保障",
+      "name_en": "Urban Operation Support"
+    },
+    {
+      "kind": "person",
+      "id": "xia-linmao",
+      "name_zh": "夏林茂",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "殷勇",
+    "北京市防汛抗旱指挥部",
+    "北京",
+    "防汛防台风",
+    "应急管理",
+    "城市运行保障",
+    "夏林茂"
+  ],
+  "tags_en": [
+    "Yin Yong",
+    "Beijing Flood Control and Drought Relief Headquarters",
+    "Beijing",
+    "Flood and Typhoon Prevention",
+    "Emergency Management",
+    "Urban Operation Support"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong",
+      "xia-linmao"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市防汛抗旱指挥部",
+        "name_en": "Beijing Flood Control and Drought Relief Headquarters"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260811-peoples_bj-e142a3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://beijing.qianlong.com/2026/0811/8710249.shtml",
+      "title_zh": "北京市防汛抗旱指挥部连续调度部署防汛防台风有关工作 殷勇主持",
+      "published_at": "2026-08-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

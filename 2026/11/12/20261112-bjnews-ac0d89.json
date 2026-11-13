@@ -1,0 +1,104 @@
+{
+  "id": "20261112-bjnews-ac0d89",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1794471760129778.html",
+  "title_zh": "马寅明任黑龙江省委常委、省纪委书记",
+  "title_en": "Ma Yinming Appointed Heilongjiang Provincial Party Standing Committee Member and Discipline Inspection Commission Secretary",
+  "summary_zh": "11月11日，黑龙江省纪委监委召开干部大会，宣布中央决定：马寅明任黑龙江省委委员、常委、省纪委书记。",
+  "summary_en": "On Nov 11, Heilongjiang held a cadre meeting to announce the central decision appointing Ma Yinming as a member and Standing Committee member of the Provincial Party Committee and secretary of the Provincial Discipline Inspection Commission.",
+  "body_zh": "据黑龙江日报消息，11月11日，省纪委监委召开干部大会，宣布中央关于省纪委主要领导任职的决定。省委书记许勤主持会议并讲话，强调要认真学习贯彻习近平党建思想，全面贯彻落实习近平总书记重要讲话和党的二十届五中全会精神，按照中央纪委国家监委部署和省委工作要求，持之以恒推进全面从严治党，加快建设勤廉龙江，为中国式现代化龙江实践提供坚强保障。\n省委常委、组织部部长杨博宣读了中央决定。中央批准，马寅明同志任黑龙江省委委员、常委和省纪委书记。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任命",
+    "纪检监察",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "马寅明",
+      "name_en": "Ma Yinming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任命",
+      "name_en": "Cadre Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪检监察",
+      "name_en": "Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "person",
+      "id": "yang-bo-heilongjiang",
+      "name_zh": "杨博",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "马寅明",
+    "黑龙江",
+    "干部任命",
+    "纪检监察",
+    "全面从严治党",
+    "杨博"
+  ],
+  "tags_en": [
+    "Ma Yinming",
+    "Heilongjiang",
+    "Cadre Appointment",
+    "Discipline Inspection and Supervision",
+    "Full and Rigorous Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "马寅明"
+      },
+      "yang-bo-heilongjiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261112-bjnews-ac0d89",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

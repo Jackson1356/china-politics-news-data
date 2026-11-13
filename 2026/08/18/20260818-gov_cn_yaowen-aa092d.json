@@ -1,0 +1,120 @@
+{
+  "id": "20260818-gov_cn_yaowen-aa092d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/18/VIDEfrQuzChPUyu1P2mTw6M8260818.shtml",
+  "title_zh": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+  "title_en": "Li Qiang Signs State Council Order to Amend Housing Provident Fund Regulations",
+  "summary_zh": "国务院总理李强签署国务院令，公布修改《住房公积金管理条例》的决定，自2026年9月20日起施行，拓宽公积金提取使用范围等。",
+  "summary_en": "Premier Li Qiang signed a State Council order to publish amendments to the Housing Provident Fund Regulations, effective Sept 20, 2026, expanding withdrawal and usage scope.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强日前签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》（以下简称《决定》），自2026年9月20日起施行。《决定》共20条，主要规定了以下内容。\n一是拓宽提取和使用范围。对提取住房公积金支付房租，不再设置门槛限制；新增装修自住住房、支付自住住房物业费等可以提取住房公积金的情形。适当拓宽住房公积金投资运用渠道。二是提升管理服务效能。简化职工申请提取住房公积金的手续，实现住房公积金缴存记录等全国范围内互信互认，推动住房公积金转移接续、异地贷款等业务便捷高效办理。三是强化风险防控。建立全面完整准确的信用记录并纳入全国信用信息共享平台。四是扩大制度覆盖面。明确个体工商户、非全日制从业人员以及其他灵活就业人员可以自愿缴存住房公积金，按照规定享受相应的政策支持。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "economy",
+  "keywords": [
+    "住房公积金",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "住房公积金",
+      "name_en": "Housing Provident Fund"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "住房公积金",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Housing Provident Fund",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260818-gov_cn_yaowen-aa092d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260818/8218b8ed91264a14a4f35960d85c2deb/c.html",
+      "title_zh": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078483.htm",
+      "title_zh": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_18_827749.shtml",
+      "title_zh": "事关住房公积金，国务院重磅调整",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33805012",
+      "title_zh": "李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    },
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1787043638129539.html",
+      "title_zh": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

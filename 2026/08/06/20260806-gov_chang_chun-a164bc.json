@@ -1,0 +1,105 @@
+{
+  "id": "20260806-gov_chang_chun-a164bc",
+  "source": "gov_chang_chun",
+  "source_name_zh": "长春市政府网",
+  "source_name_en": "长春 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chang_chun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JL",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.changchun.gov.cn/szf/zfld/swsj/zyhd_zeh/202608/t20260806_3504776.html",
+  "title_zh": "张恩惠顾刚会见中国工程院院士王军志一行",
+  "title_en": "Zhang Enhui and Gu Gang Meet with Academician Wang Junzhi",
+  "summary_zh": "8月5日，长春市委书记张恩惠、市长顾刚会见中国工程院院士王军志一行，双方就生物医药产业合作进行交流。",
+  "summary_en": "On August 5, Zhang Enhui and Gu Gang met with Wang Junzhi, academician of CAE, to discuss cooperation in the biomedical industry.",
+  "body_zh": "张恩惠顾刚会见中国工程院院士\n中国食品药品检定研究院学术委员会\n主任委员王军志一行\n8月5日，市委书记张恩惠、市长顾刚会见中国工程院院士、中国食品药品检定研究院学术委员会主任委员王军志一行。\n张恩惠、顾刚欢迎王军志一行，介绍长春经济社会发展情况。张恩惠说，长春生物医药产业起步早、基础好。当前，我们正加速构建“3转4强7新”现代化产业体系，以永春医药城为载体，充分发挥科教资源优势，加快对接科技所能与产业所需，推动生物医药产业高质量发展不断取得新成效。希望各位院士专家和企业家抢抓发展机遇，进一步加强与在长校企院所合作，为长春医药产业创新升级、科研成果就地高效转化提供坚实技术支撑与智力保障。同时，大力支持更多生物医药领域高端学术论坛资源落位长春，我们将全力做好服务保障工作，实现互惠共赢发展。\n王军志对长春生物医药产业发展成效给予高度评价。他表示，团队拥有深厚的技术积淀、成熟的科研体系和丰富的行业办展经验。下一步，将充分发挥自身优势，深度对接长春产业发展需求，积极引进更多新业务、新服务、新模式，助力长春打造生物医药产业集聚高地。\n吴波、许军、李长城参加活动。\n长春市人民政府 www.changchun.gov.cn\n时间：2026-08-06 09:04",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "industry",
+  "keywords": [
+    "生物医药产业",
+    "合作交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-enhui",
+      "name_zh": "张恩惠",
+      "name_en": "Zhang Enhui"
+    },
+    {
+      "kind": "person",
+      "id": "gu-gang-hainan",
+      "name_zh": "顾刚",
+      "name_en": "Gu Gang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王军志",
+      "name_en": "Wang Junzhi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药产业",
+      "name_en": "Biomedical Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "合作交流",
+      "name_en": "Cooperation and Exchange"
+    }
+  ],
+  "tags_zh": [
+    "张恩惠",
+    "顾刚",
+    "王军志",
+    "长春",
+    "生物医药产业",
+    "合作交流"
+  ],
+  "tags_en": [
+    "Zhang Enhui",
+    "Gu Gang",
+    "Wang Junzhi",
+    "Changchun",
+    "Biomedical Industry",
+    "Cooperation and Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-gang-hainan",
+      "zhang-enhui",
+      {
+        "id": null,
+        "name_zh": "李长城"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260806-gov_chang_chun-a164bc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

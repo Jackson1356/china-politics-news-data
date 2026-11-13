@@ -1,0 +1,92 @@
+{
+  "id": "20261026-gov_cn_yaowen-712a17",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084304.htm",
+  "title_zh": "前三季度我国交通运输主要指标保持增长",
+  "title_en": "China's Transport Sector Maintains Growth in Key Indicators in First Three Quarters",
+  "summary_zh": "交通运输部数据显示，前三季度跨区域人员流动量达512.2亿人次，同比增长1.2%，货运量、港口吞吐量和交通固定资产投资均保持增长。",
+  "summary_en": "Data from the Ministry of Transport shows that cross-regional passenger trips reached 51.22 billion in the first three quarters, up 1.2% year on year, with freight volume, port throughput and transport fixed-asset investment also growing.",
+  "body_zh": "记者从交通运输部获悉，今年前三季度，交通运输经济运行总体平稳，主要指标保持增长。\n交通运输部最新数据显示，前三季度我国跨区域人员流动量达512.2亿人次，同比增长1.2%。从出行结构看，公路自驾出行占比较高，是跨区域人员流动的主要支撑。部分地方通过设置春假、秋假，与长假衔接，形成多轮次、短途化出行窗口，带动研学游、亲子游升温，进一步提高出行频次。与此同时，随着高铁网络覆盖持续扩大，旅游专列精准开行，更好地匹配游客多元化、个性化的出行需求。随着我国通航国家数量进一步增多，民航国际航线旅客运输量同比增长4.7%。\n前三季度，我国货运量继续保持增长。国内多个港口密集开通新航线，主要服务汽车出口、东盟及欧洲贸易。全国港口完成货物吞吐量136.4亿吨，同比增长0.7%，其中外贸吞吐量同比增长2.9%。\n交通固定资产投资方面，前三季度完成投资2.4万亿元。狮子洋通道、张靖皋长江大桥、厦金大桥（厦门段）等项目加快建设。",
+  "image_url": null,
+  "published_at": "2026-10-26T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "economy",
+  "keywords": [
+    "交通运输",
+    "人员流动",
+    "货运物流",
+    "交通基础设施投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人员流动",
+      "name_en": "Passenger Mobility"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货运物流",
+      "name_en": "Freight and Logistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施投资",
+      "name_en": "Transport Infrastructure Investment"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "交通运输",
+    "人员流动",
+    "货运物流",
+    "交通基础设施投资"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Transportation",
+    "Passenger Mobility",
+    "Freight and Logistics",
+    "Transport Infrastructure Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261026-gov_cn_yaowen-712a17",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

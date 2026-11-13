@@ -1,0 +1,95 @@
+{
+  "id": "20261105-gov_chi_feng-b71805",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202611/t20261105_2843117.html",
+  "title_zh": "市政府党组召开2026年第16次（扩大）会议",
+  "title_en": "Chifeng Municipal Government Party Group Holds 16th Expanded Meeting of 2026",
+  "summary_zh": "11月4日，赤峰市委副书记、代市长胡兆民主持召开市政府党组扩大会议，学习贯彻习近平总书记近期贺信精神，部署对外开放、教育人才和统战工作。",
+  "summary_en": "On November 4, Chifeng Acting Mayor Hu Zhaomin chaired an expanded meeting of the municipal government's Party group to study Xi Jinping's recent congratulatory letters and plan work on opening-up, education and talent, and united front affairs.",
+  "body_zh": "11月4日，市委副书记、市政府党组书记、代市长胡兆民主持召开市政府党组2026年第16次（扩大）会议，学习贯彻习近平总书记近期有关重要贺信精神，研究部署落实工作。\n会议强调，要深学细悟习近平总书记致第140届中国进出口商品交易会的贺信精神，主动融入中国（内蒙古）自由贸易试验区建设，持续深化与锦州港、天津港等港口及满洲里口岸协作，全面提高开放平台能级，积极培育壮大外贸市场主体，加快推动外向型经济提质增效，全力打造我国向北开放重要桥头堡。\n会议强调，要认真学习领会习近平总书记致湖南大学建校100周年的贺信精神，全面贯彻党的教育方针，坚决落实立德树人根本任务，一体推进教育科技人才发展，着力培养更多高素质应用型人才，为经济社会高质量发展提供坚实支撑。\n会议强调，要准确把握习近平总书记致中央社会主义学院建院70周年的贺信精神，主动适应统战工作新形势新要求，引导党外人士围绕产业转型升级、乡村振兴、民生改善等重点领域积极建言献策，为服务赤峰现代化建设凝聚智慧力量。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻贺信精神",
+    "对外开放",
+    "教育人才",
+    "统一战线"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻贺信精神",
+      "name_en": "Studying Congratulatory Letters"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育人才",
+      "name_en": "Education and Talent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "学习贯彻贺信精神",
+    "对外开放",
+    "教育人才",
+    "统一战线",
+    "习近平"
+  ],
+  "tags_en": [
+    "Studying Congratulatory Letters",
+    "Opening-up",
+    "Education and Talent",
+    "United Front Work"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "胡兆民"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261105-gov_chi_feng-b71805",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

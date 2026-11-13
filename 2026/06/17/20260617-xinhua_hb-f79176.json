@@ -1,0 +1,92 @@
+{
+  "id": "20260617-xinhua_hb-f79176",
+  "source": "xinhua_hb",
+  "source_name_zh": "新华网 湖北",
+  "source_name_en": "Xinhua Hubei",
+  "source_url": "http://hb.news.cn/20260617/2c5842902dce497384edb10299a651c5/c.html",
+  "title_zh": "世界青年共话人工智能与青年赋能",
+  "title_en": "World Youth Discuss AI and Youth Empowerment",
+  "summary_zh": "2026年世界青年发展论坛主题活动“人工智能与青年赋能”论坛于6月16日在湖北武汉举行，百余名全球青年代表探讨AI时代的价值引领与国际合作。",
+  "summary_en": "The 'AI and Youth Empowerment' forum, part of the 2026 World Youth Development Forum, was held in Wuhan, Hubei on June 16, where over 100 global youth representatives discussed value guidance and international cooperation in the AI era.",
+  "body_zh": "新华社武汉6月16日电（记者宋立崑、方亚东）作为2026年世界青年发展论坛的主题活动之一，“人工智能与青年赋能”主题论坛16日在湖北武汉举行。来自世界各地的百余名青年代表，围绕人工智能时代的价值引领、国际合作、青年责任等话题展开研讨。他们认为，当前和未来，世界青年需要以共同价值引领科技航向，以国际合作迎接时代变革。\n“我在湖北人形机器人创新中心看到了很多可爱的机器人，它们已经能唱歌、跳舞并做一些简单的工作了。”来自英国的高校学生菲利普·弗朗西斯·英格利希说，我相信随着人类更频繁地使用机器人，让机器人在更多现实场景下训练，它们会变得越来越聪明灵活，未来替代人类做更多重体力、重复性工作。\n与会青年代表认为，人类正处在一个由数据驱动、由智能引领的全新时代。人工智能是新一轮科技革命和产业变革的重要驱动力量，它能降低知识获取门槛，重构创新创业逻辑，为青年施展才华提供更广阔的舞台。\n“人工智能已然成为现实，正在从根本上重塑我们的生产、生活方式。”东风汽车集团有限公司副总经理尤峥在嘉宾致辞中表示，产业界正在见证人工智能技术全面落地应用的历史进程，青年人拥有新锐的视角、无限的创意和对前沿科技的敏锐直觉，已经成为这一新技术的发展定义者、应用主导者和价值创造者。\n“我们也必须清醒地认识到相关风险，技术并非天生向善，人工智能可能会加剧不平等的状况。”国际劳工组织中国和蒙古局副局长戴晓初表示，科技创新必须始终与优质的生活质量、公平的工资待遇、健全的社会保障等基本权利相结合。“青年人需要处于技术的中心位置，深度参与人工智能的设计与治理，确保技术始终服务于人。”（完）",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "青年赋能",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "武汉",
+      "name_en": "Wuhan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年赋能",
+      "name_en": "Youth Empowerment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "武汉",
+    "湖北",
+    "人工智能",
+    "青年赋能",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Wuhan",
+    "Hubei",
+    "Artificial Intelligence",
+    "Youth Empowerment",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "戴晓初"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260617-xinhua_hb-f79176",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20261109-bjnews-32c000",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1794208884129509.html",
+  "title_zh": "中国空间站将首次迎来外籍航天员到访 外交部回应",
+  "title_en": "Chinese Space Station to Welcome First Foreign Astronaut, Foreign Ministry Says",
+  "summary_zh": "11月9日，外交部发言人郭嘉昆表示，巴基斯坦航天员将参与中国空间站飞行任务，这是中国载人航天工程首次中外航天员联合飞行，也是中巴建交75周年合作成果。",
+  "summary_en": "Foreign Ministry spokesperson Guo Jiakun said a Pakistani astronaut will join a Chinese space station mission, marking the first joint Chinese-foreign crewed flight and a milestone for China-Pakistan ties at the 75th anniversary of relations.",
+  "body_zh": "郭嘉昆表示，探索浩瀚宇宙、和平利用外空是全人类的共同理想，关乎全人类共同福祉。中国一贯倡导和平利用外空，积极开展国际航天合作，推动在外空领域构建人类命运共同体。中国和巴基斯坦是全天候战略合作伙伴，巴基斯坦航天员参与有关飞行任务，将是中国载人航天工程历史上首次中外航天员联合飞行，也是中国空间站首次迎来外籍航天员到访。这是中巴建交75周年之际，两国合作取得的又一重要成果。中方愿同巴方赓续传统友谊，深化航天及各领域合作，推动两国关系不断迈上新台阶。\n（总台央视记者 王晨）",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "载人航天",
+    "中巴合作",
+    "和平利用外空"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Crewed Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴合作",
+      "name_en": "China-Pakistan Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "和平利用外空",
+      "name_en": "Peaceful Use of Outer Space"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "载人航天",
+    "中巴合作",
+    "和平利用外空"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Crewed Spaceflight",
+    "China-Pakistan Cooperation",
+    "Peaceful Use of Outer Space"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261109-bjnews-32c000",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

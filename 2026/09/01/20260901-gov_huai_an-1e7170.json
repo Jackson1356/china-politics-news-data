@@ -1,0 +1,88 @@
+{
+  "id": "20260901-gov_huai_an-1e7170",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17881920/1788235794754IrHa6Wlv.html",
+  "title_zh": "淮安市长顾坤检查秋季开学和校园安全工作",
+  "title_en": "Huaian Mayor Gu Kun Inspects School Opening and Campus Safety",
+  "summary_zh": "8月31日，淮安市市长顾坤走进中小学、幼儿园及在淮高校，检查秋季开学和校园安全工作，强调为师生营造安全稳定、和谐有序的环境。",
+  "summary_en": "On August 31, Mayor Gu Kun of Huai'an inspected schools and universities on autumn opening and campus safety, emphasizing a safe and orderly learning environment.",
+  "body_zh": "8月31日，市长顾坤走进中小学、幼儿园及在淮高校，检查秋季开学和校园安全工作，强调要深入学习贯彻习近平总书记关于教育的重要论述，认真落实省委省政府决策部署和市委工作要求，以正确政绩观为引领，锚定办好人民满意教育目标，全面细致做好秋季开学各项工作，为广大师生营造安全稳定、和谐有序的工作学习环境。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "教育",
+    "校园安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huaian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育",
+      "name_en": "Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校园安全",
+      "name_en": "Campus Safety"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "教育",
+    "校园安全"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huaian",
+    "Education",
+    "Campus Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "高校"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-gov_huai_an-1e7170",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

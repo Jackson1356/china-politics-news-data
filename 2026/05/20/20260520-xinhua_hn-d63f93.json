@@ -1,0 +1,93 @@
+{
+  "id": "20260520-xinhua_hn-d63f93",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "http://hn.news.cn/20260521/b8a2a0b8f7664dc3b580b9f8aeb61ba7/c.html",
+  "title_zh": "沈晓明在省应急指挥中心调度常德市防汛救灾工作",
+  "title_en": "Shen Xiaoming Coordinates Flood Control and Disaster Relief in Changde",
+  "summary_zh": "5月20日，湖南省委书记沈晓明在省应急指挥中心调度常德市防汛救灾工作，部署失联人员搜救及抢险救灾，强调确保安全度汛。",
+  "summary_en": "On May 20, Hunan Provincial Party Secretary Shen Xiaoming coordinated flood control and disaster relief efforts in Changde, deploying search and rescue operations to ensure safety.",
+  "body_zh": "沈晓明在省应急指挥中心调度常德市防汛救灾工作\n坚持人民至上生命至上\n全力以赴确保安全度汛\n湖南日报5月20日讯（全媒体记者 刘燕娟 张璐）20日，省委书记沈晓明在省应急指挥中心调度常德市防汛救灾工作，听取当地雨情灾情及应对处置情况，调度部署失联人员搜救及抢险救灾工作，并与现场救援人员及基层干部视频连线，了解群众受灾和失联人员搜救进展情况。他强调，要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，坚持人民至上、生命至上，全力以赴确保安全度汛。\n5月16日以来，湖南出现持续强降雨，防汛形势严峻。其中，常德遭遇今年入汛以来最大一轮暴雨洪水过程，石门县、澧县局地降雨强度突破历史极值。\n沈晓明指出，要尽最大努力搜救失联群众，安顿好转移避险的群众，确保受灾群众有饭吃、有衣穿、有临时住所、有干净水喝、有病能及时得到医治；妥善做好遇难群众善后工作，让遇难群众家属感受到党和政府的关怀。要全力以赴加快恢复道路交通、电力、通信，尽快恢复基本的生产生活秩序。要加强防范应对新一轮降雨，克服疲劳厌战思想，高度警惕地质灾害的滞后性，严防次生灾害发生。要及时主动发布信息，积极回应社会关切，凝聚抢险救灾的强大正能量。\n沈晓明还分别调度了怀化市、邵阳市防汛救灾工作，强调要切实增强“时时放心不下”的责任感，落实落细防汛抢险救灾各项措施，做到有隐患早处置、有风险早转移，切实保障人民群众生命财产安全。\n省领导王道席、李建中参加。",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "人民至上"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-xiaoming",
+      "name_zh": "沈晓明",
+      "name_en": "Shen Xiaoming"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "常德",
+      "name_en": "Changde"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民至上",
+      "name_en": "People-First"
+    }
+  ],
+  "tags_zh": [
+    "沈晓明",
+    "湖南",
+    "常德",
+    "防汛救灾",
+    "人民至上"
+  ],
+  "tags_en": [
+    "Shen Xiaoming",
+    "Hunan",
+    "Changde",
+    "Flood Control and Disaster Relief",
+    "People-First"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-xiaoming",
+      "wang-daoxi",
+      {
+        "id": null,
+        "name_zh": "李建中"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260520-xinhua_hn-d63f93",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

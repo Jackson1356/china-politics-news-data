@@ -1,0 +1,109 @@
+{
+  "id": "20260908-gov_cn_yaowen-f4b0d3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080392.htm",
+  "title_zh": "王毅同墨西哥外长贝拉斯科会谈",
+  "title_en": "Wang Yi Holds Talks with Mexican Foreign Minister Belasco",
+  "summary_zh": "2026年9月7日，中共中央政治局委员、外交部长王毅在北京同墨西哥外长贝拉斯科会谈，双方就深化中墨全面战略伙伴关系等交换意见。",
+  "summary_en": "On September 7, 2026, Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, held talks with Mexican Foreign Minister Belasco in Beijing. Both sides exchanged views on deepening the comprehensive strategic partnership.",
+  "body_zh": "新华社北京9月7日电 中共中央政治局委员、外交部长王毅7日在北京同墨西哥外长贝拉斯科会谈。\n王毅表示，中方始终从全球南方国家团结协作的战略角度看待和推进中墨关系，支持墨西哥反对外来干涉。中墨关系不针对第三方，也不应受第三方影响。中方愿同墨方一道，深化各领域交流合作，推动中墨全面战略伙伴关系持续深入发展。\n贝拉斯科转达了墨西哥总统辛鲍姆对习近平主席的诚挚问候，表示墨方坚定恪守一个中国原则和联大第2758号决议，支持中方举办亚太经合组织领导人非正式会议并发挥引领作用。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中墨关系",
+    "全球南方",
+    "全面战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "贝拉斯科",
+      "name_en": "Belasco"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中墨关系",
+      "name_en": "China-Mexico Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球南方",
+      "name_en": "Global South"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "贝拉斯科",
+    "北京",
+    "中墨关系",
+    "全球南方",
+    "全面战略伙伴关系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Belasco",
+    "Beijing",
+    "China-Mexico Relations",
+    "Global South",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260908-gov_cn_yaowen-f4b0d3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

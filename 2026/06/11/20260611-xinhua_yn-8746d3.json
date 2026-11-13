@@ -1,0 +1,87 @@
+{
+  "id": "20260611-xinhua_yn-8746d3",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_url": "http://yn.news.cn/20260611/fdeb54098cf34e81b889fe56b7d229f7/c.html",
+  "title_zh": "云南省最大规模小水电智慧运维平台投运",
+  "title_en": "Yunnan's Largest Smart Operation and Maintenance Platform for Small Hydropower Plants Put into Operation",
+  "summary_zh": "云南省建成投运规模最大的省级小水电智慧运维平台，实现对全省85座水电站的远程智能监控，旨在提升安全生产并降低运维成本。",
+  "summary_en": "Yunnan Province has launched its largest provincial smart O&M platform for small hydropower plants, enabling remote intelligent monitoring of 85 stations to enhance safety and reduce costs.",
+  "body_zh": "近日，云南省规模最大、功能最全、辐射最广的省级小水电智慧运维平台建成投运。独龙江乡的孔目、麻必当电站运行情况，可通过平台传至远在800多公里外的昆明，实现远程智能监控运维。\n云南小水电数量多、布局分散、单点规模偏小，长期以来，传统单站驻场值守模式存在运维成本高、安全管控难等问题，加之部分区域地质复杂、地质灾害多发，电站安全生产面临严峻考验。立足行业发展痛点与边疆保供实际，云南电力试验研究院（集团）有限公司历时1年开展平台建设，依托两项自研智能运维技术，搭建10大核心功能体系，打造省级小水电集群“智慧大脑”，对南方电网云南电网公司分布于11个州（市）的85座水电站进行统一远程智能监控运维。\n平台将各水电站的开关量、发电量、模拟量、水流量等数据回传至主站处理器，对水文气象、地质环境、设备工况开展全天候动态监测、风险预警和智能研判，实现远程监控、数据分析、智能巡检、无人值守运维。在安全层面，针对48座坐落于地震高风险区的自有电站，通过远程集控减少现场值守人员，规避人身安全隐患，全天候监测水文、地质与设备数据，提升独龙江等偏远电站灾害预警处置能力；在监管层面，实现小水电水情、大坝、安全生产全链条穿透式监管；在电网层面，汇聚零散小水电数据，补齐调度数据缺口，保障电网平稳运行。经测算，85座电站推行智能化运维后，可精减六成运维人员，每年节约人工成本约2400万元。\n目前，全省共有小水电1900多座，该平台的建成为全省小水电集约化、数字化转型开辟了新路径。下一步，云南电力试验研究院将持续迭代升级平台功能，深挖“小水电+”多元应用场景，依托智慧水电赋能乡村振兴，以数字化助力云南小水电绿色高质量转型，不断夯实边疆民族地区电力保障根基。（记者 段晓瑞 通讯员 周芳 李彦祥）\n【纠错】",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": "2026-06-11",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "小水电",
+    "数字化转型",
+    "智慧运维"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "小水电",
+      "name_en": "Small Hydropower"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字化转型",
+      "name_en": "Digital Transformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧运维",
+      "name_en": "Smart O&M"
+    }
+  ],
+  "tags_zh": [
+    "云南",
+    "小水电",
+    "数字化转型",
+    "智慧运维"
+  ],
+  "tags_en": [
+    "Yunnan",
+    "Small Hydropower",
+    "Digital Transformation",
+    "Smart O&M"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260611-xinhua_yn-8746d3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0611/c378439-41606897.html",
+      "title_zh": "云南省最大规模小水电智慧运维平台投运",
+      "published_at": "2026-06-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

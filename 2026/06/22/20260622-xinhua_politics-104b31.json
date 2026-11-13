@@ -1,0 +1,97 @@
+{
+  "id": "20260622-xinhua_politics-104b31",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260622/d1653069759e438d8dc05c993f919017/c.html",
+  "title_zh": "我国发生今年大江大河首次编号洪水",
+  "title_en": "China Records First Numbered Flood of Major Rivers This Year",
+  "summary_zh": "2026年6月22日，水利部通报珠江流域西江出现今年我国大江大河首次编号洪水，广东、广西、贵州三省区已启动应急响应并采取防洪调度措施。",
+  "summary_en": "On June 22, 2026, the Ministry of Water Resources reported the first numbered flood of major rivers this year in the West River of the Pearl River basin, triggering emergency responses and flood control measures in Guangdong, Guangxi, and Guizhou.",
+  "body_zh": "新华社北京6月22日电（记者魏弘毅）记者从水利部获悉，受降雨影响，珠江流域西江出现明显洪水过程。西江干流武宣水文站（广西来宾）22日流量涨至25000立方米每秒，依据相关规定，此次洪水编号为“西江2026年第1号洪水”，为我国今年大江大河首次编号洪水。\n水利部22日上午专题会商西江汛情，维持对广东、广西、贵州的洪水防御Ⅳ级应急响应，针对西江洪水防御提前发出通知，并派出工作组赴一线加强指导。\n水利部珠江水利委员会将对广东、广西、贵州的洪水防御应急响应提升至Ⅲ级，滚动开展大江大河与中小河流洪水监测预报，科学调度西江上游天生桥一级、龙滩、光照等水库拦蓄洪水22.59亿立方米，提前调度大藤峡水利枢纽预泄腾库2.18亿立方米，22日起运用大藤峡水利枢纽拦蓄洪水，全力减轻西江干流防洪压力；指导广西调度柳江干流麻石、浮石、古顶、大埔、红花及支流贝江落久等水库拦蓄洪水超3亿立方米，有效减轻柳州等地防洪压力。\n广西壮族自治区水利厅发布预警短信超26万条，提前组织2万名群众转移避险，持续加强沿河重点城镇、薄弱堤防巡查防守，督促地方严格落实中小水库、病险水库及在建水利工程等安全度汛责任和措施。广东省水利厅强化水库、堤防巡查防守，出动巡查人员3.59万人次，巡查水库10325座次、堤防493段次，提前预置专业抢险队44支747人，全面做好防汛物资调运准备。",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "广西",
+    "广东",
+    "贵州",
+    "防汛",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Guangxi",
+    "Guangdong",
+    "Guizhou",
+    "Flood Control",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-GD",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260622-xinhua_politics-104b31",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

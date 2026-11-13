@@ -1,0 +1,96 @@
+{
+  "id": "20261029-beijing_daily-0c8cc3",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/29/12011047.shtml",
+  "title_zh": "美国以所谓“强迫劳动”为由将三家中企列入实体清单，外交部回应",
+  "title_en": "Foreign Ministry Responds to US Adding Three Chinese Firms to Entity List Over Alleged 'Forced Labor'",
+  "summary_zh": "10月29日，外交部发言人郭嘉昆在例行记者会上就美方以涉疆“强迫劳动”为由将三家中国企业列入实体清单表示强烈不满和坚决反对，并称将采取必要措施维护中企权益。",
+  "summary_en": "On October 29, Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing that China strongly deplores and firmly opposes the US adding three Chinese companies to its entity list over alleged Xinjiang 'forced labor,' vowing necessary measures to protect their rights.",
+  "body_zh": "10月29日，外交部发言人郭嘉昆主持例行记者会。\n美联社记者提问，美国宣布以“涉疆强迫劳动”为由，将三家中国企业列入实体清单，中国商务部已经发表了声明，外交部对此有何看法？\n郭嘉昆表示，美方持续炮制涉疆谎言，以所谓“强迫劳动”为借口，肆意打压中国企业。中方表示强烈不满、坚决反对。\n他指出，所谓“强迫劳动”，纯粹是一些反华分子炮制的世纪谎言，其目的是搞乱新疆、抹黑中国、遏制中国发展。中方敦促美方停止以“人权”为幌子干涉中国内政、遏制中国发展，将采取必要措施坚决维护中国企业合法权益。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "foreign",
+  "keywords": [
+    "涉疆问题",
+    "实体清单",
+    "单边制裁"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "涉疆问题",
+      "name_en": "Xinjiang Issues"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体清单",
+      "name_en": "Entity List"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "涉疆问题",
+    "实体清单",
+    "单边制裁"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Xinjiang Issues",
+    "Entity List",
+    "Unilateral Sanctions"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261029-beijing_daily-0c8cc3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/10/29/12011052.shtml",
+      "title_zh": "美日将在日本联合生产中程空空导弹，外交部回应",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260811-gov_wu_xi-f22e6b",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/08/11/4816263.shtml",
+  "title_zh": "市领导实地检查督导排涝防汛工作",
+  "title_en": "Municipal Leaders Inspect Flood Drainage and Control Work",
+  "summary_zh": "8月10日，无锡市委书记杜小刚、市长蒋锋分别到受淹小区、积水路段和京杭运河无锡段，检查督导排涝防汛工作，要求全力保障群众生命财产安全。",
+  "summary_en": "On Aug 10, Wuxi Party Secretary Du Xiaogang and Mayor Jiang Feng inspected flooded communities and roads, urging swift drainage and flood control to safeguard lives and property.",
+  "body_zh": "发布时间：2026-08-11 07:46 文字大小： [ 大 中 小 ] 浏览次数：\n8月10日傍晚和上午，市委书记杜小刚、市长蒋锋分别前往部分受淹小区、积水路段和京杭运河无锡段，实地检查督导积水排涝和大运河防汛工作，看望慰问受影响群众和一线干部职工。市领导强调，要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，认真落实省委、省政府有关部署要求，按照市检查调度台风“白海豚”防御工作会议的具体安排，坚持人民至上、生命至上，全力应急抢险、攻坚受淹堵点，夜以继日保障城市稳定有序运行，切实维护群众生命财产安全和生产生活秩序。市领导马良、张立军，市政府秘书长陈寿彬参加检查。\n受强降雨影响，曹张新村片区部分老旧小区出现较严重积水。蒋锋涉水查看小区受淹情况，叮嘱居民增强安全意识，配合做好转移安置工作，要求属地和相关部门迅速组织力量，找准问题症结，加快调集排水设备抢排积水，最大程度降低内涝影响，同时要加强供电安全管理，严防次生灾害发生。在孙蒋新村积水点，蒋锋耐心安抚受影响居民情绪，嘱咐有关方面科学制定排水方案，加速抢排现存积水，同时举一反三排查同类积水点，采取工程性举措解决反复受淹问题，真正把实事办好办实。兴竹立交下一处隧道已封闭，排水应急抢险车正加足马力排除积水。蒋锋指出，城市各积水路段要果断、及时做到应封尽封、应管尽管，全面设置警示标识，落实专人值守，坚决杜绝人员涉险通行，确保不漏一处、不落一人。金城东路团结路路口积水严重，已实行封闭管理。蒋锋现场了解交通分流方案，嘱咐有关方面有序疏导车辆提前绕行，精准实施管制措施，动态优化分流路线，最大程度减少对市民出行的影响。",
+  "image_url": null,
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-11T05:25:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "城市排涝",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-feng-wuxi",
+      "name_zh": "蒋锋",
+      "name_en": "Jiang Feng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市排涝",
+      "name_en": "Urban Drainage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Protection"
+    }
+  ],
+  "tags_zh": [
+    "蒋锋",
+    "无锡",
+    "防汛救灾",
+    "城市排涝",
+    "民生保障"
+  ],
+  "tags_en": [
+    "Jiang Feng",
+    "Wuxi",
+    "Flood Control and Disaster Relief",
+    "Urban Drainage",
+    "Livelihood Protection"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-feng-wuxi",
+      {
+        "id": null,
+        "name_zh": "段实地"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260811-gov_wu_xi-f22e6b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

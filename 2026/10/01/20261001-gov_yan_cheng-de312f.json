@@ -1,0 +1,100 @@
+{
+  "id": "20261001-gov_yan_cheng-de312f",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/10/1/art_60096_11837911.html",
+  "title_zh": "省领导在南京检查指导国庆假期安保工作",
+  "title_en": "Provincial Leader Inspects National Day Holiday Security Work in Nanjing",
+  "summary_zh": "9月30日下午，江苏省副省长、省公安厅厅长胡彬郴在南京重点景区、商圈和公安基层单位检查指导国庆假期安保工作，慰问一线民警辅警。",
+  "summary_en": "On the afternoon of Sept 30, Jiangsu Vice Governor and Public Security Director Hu Binchen inspected National Day holiday security work at key scenic spots, commercial districts and grassroots police units in Nanjing, and met frontline officers.",
+  "body_zh": "当前位置：\n省领导在南京检查指导国庆假期安保工作\n9月30日下午，副省长、省公安厅厅长胡彬郴到南京市重点景区、繁华商圈和公安基层单位，实地检查指导国庆假期安保工作，看望慰问一线民警辅警，强调要深入学习贯彻习近平总书记给福建省“漳州110”全体队员的重要回信精神和关于建设更高水平平安中国的重要指示精神，按照省委、省政府和公安部部署，从严从细抓实节日安保各项措施。\n胡彬郴先后前往熙南里历史文化街区、新街口商圈和淮海路警务工作站、新街口商圈联勤联动指挥部，检查安保措施落实情况，了解社会面安全稳定状况。他强调，要树牢底线思维，完善应对各类情况的方案预案，扎实抓好社会面巡逻防控、秩序维护等各项措施，为假日经济兜牢安全底线。在南京市公安局交管支队玄武区大队，他视频调度道路通行状况，详细询问假期大车流应对预案，强调要加强交通态势监测，精细落实路面管控、疏导分流、执法检查、宣传引导等措施。要严格落实高速公路“30勤务”和重点路段无人机全覆盖巡航，努力以多预警、多见警、多预防，实现少事故、少亡人、少堵车。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "国庆安保",
+    "公共安全",
+    "交通管理"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆安保",
+      "name_en": "National Day Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共安全",
+      "name_en": "Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通管理",
+      "name_en": "Traffic Management"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "国庆安保",
+    "公共安全",
+    "交通管理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "National Day Security",
+    "Public Security",
+    "Traffic Management"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261001-gov_yan_cheng-de312f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/10/1/art_60096_11837911.html",
+      "title_zh": "江苏省人民政府 要闻关注 省领导在南京检查指导国庆假期安保工作",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "20261031-cpcnews-76d363",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1031/c64387-40825023.html",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Announces Appointments and Removals of State Personnel",
+  "summary_zh": "10月30日，国务院任免一批国家工作人员，任命王守利、张力、冯鹏志担任新职，免去李忠、秦海翔、张力和陈荣辉的原有职务。",
+  "summary_en": "On Oct 30, China's State Council announced a round of personnel changes, appointing Wang Shouli, Zhang Li and Feng Pengzhi to new posts and removing Li Zhong, Qin Haixiang, Zhang Li and Chen Ronghui from their positions.",
+  "body_zh": "新华社北京10月30日电 国务院任免国家工作人员。\n任命王守利为国家民族事务委员会副主任；任命张力为中华人民共和国国际贸易谈判副代表（副部长级）；任命冯鹏志为国家行政学院教育长（副部长级）。\n免去李忠的人力资源和社会保障部副部长职务；免去秦海翔的住房和城乡建设部副部长职务；免去张力的商务部部长助理职务；免去陈荣辉的国家数据局副局长职务。\n《 人民日报 》（ 2026年10月31日 02 版）",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "国家机构",
+    "干部调整"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家机构",
+      "name_en": "State Institutions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部调整",
+      "name_en": "Cadre Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "北京",
+    "人事任免",
+    "国家机构",
+    "干部调整"
+  ],
+  "tags_en": [
+    "State Council",
+    "Beijing",
+    "Personnel Appointments",
+    "State Institutions",
+    "Cadre Adjustment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261030-gov_cn_yaowen-6c21e4",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

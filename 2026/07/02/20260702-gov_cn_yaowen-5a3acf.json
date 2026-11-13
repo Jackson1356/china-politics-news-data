@@ -1,0 +1,69 @@
+{
+  "id": "20260702-gov_cn_yaowen-5a3acf",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074144.htm",
+  "title_zh": "机电产品出口增势良好 外贸发展质效双升",
+  "title_en": "Mechanical and Electrical Product Exports Show Strong Growth, Enhancing Foreign Trade Quality and Efficiency",
+  "summary_zh": "今年以来，我国机电产品出口保持良好增长势头，尤其是人工智能产业链相关产品成为重要拉动力，前5个月出口额达7.58万亿元。",
+  "summary_en": "China's mechanical and electrical product exports have maintained strong growth this year, driven largely by AI-related products, with exports reaching 7.58 trillion yuan in the first five months.",
+  "body_zh": "今年以来，我国机电产品出口保持良好增长势头，技术含量高、附加值高的产品成为支撑外贸大盘的重要力量。\n数据显示，我国机电产品出口额连续15个月刷新同期月度最高值。这其中，人工智能产业链相关产品贡献了机电产品出口增量的五成以上，成为重要拉动力。集成电路出口额同比增速由去年3月的9.6%提高到今年5月的100.7%。自动数据处理设备及其零部件出口额同比增速也由1.9%提高到58.2%。\n过去烧柴油、靠人工操作的工程机械，正在向电动化、智能化、高端化转型，电动矿卡、电动叉车、工业车辆出口额都出现显著增长。今年前5个月，我国机电产品出口7.58万亿元，占我国出口总值的比重达到63.6%，同比提高3.6个百分点。",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "economy",
+  "keywords": [
+    "外贸",
+    "机电产品",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外贸",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机电产品",
+      "name_en": "Mechanical and Electrical Products"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "外贸",
+    "机电产品",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Foreign Trade",
+    "Mechanical and Electrical Products",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260702-gov_cn_yaowen-5a3acf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

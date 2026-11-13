@@ -1,0 +1,91 @@
+{
+  "id": "20261007-xinhua_politics-ed4ffc",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261007/d7fd261c46ac469784c90b6926585e38/c.html",
+  "title_zh": "今年“三秋”生产有更多高端智能农机投入应用",
+  "title_en": "More High-End Smart Farm Machinery Deployed in This Year's Autumn Harvest and Planting",
+  "summary_zh": "10月7日，农业农村部表示，今年“三秋”生产中有更多高端智能农机投入一线应用，谷物联合收获机、植保无人机及丘陵山地拖拉机等加快推广。",
+  "summary_en": "On October 7, the Ministry of Agriculture and Rural Affairs said more high-end smart farm machinery is being deployed in this year's autumn harvest and planting, with combine harvesters, plant-protection drones and hilly-area tractors being promoted.",
+  "body_zh": "新华社北京10月7日电（记者胡璐）当前正值秋收秋种关键时节。记者7日从农业农村部了解到，今年“三秋”生产有更多高端智能农机产品投入一线应用。\n据了解，“十四五”时期，我国农业机械化发展成效显著。进入“十五五”以来，我国推动大型高端智能农机稳步升级，大幅提升“三秋”作业效率。18公斤/秒喂入量谷物联合收获机、85公斤载荷植保无人机等加快产业化应用。\n在丘陵山区，适用农机也在加快应用，坡耕地、梯台田实现“有好机用”。目前6至15度丘陵山地拖拉机正在甘肃、重庆、四川等地加快推广应用，山地玉米播种机已在西南、西北地区投入生产一线。\n此外，新能源农机加速发展，有力推动农业生产绿色发展、降本增效。当前200至300马力段混动拖拉机、25至75马力段纯电动拖拉机产品已投入生产，混动水稻收获机、混动6行打包采棉机近期将定型量产。",
+  "image_url": null,
+  "published_at": "2026-10-07T12:00:00+00:00",
+  "event_date": "2026-10-07",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "农业机械化",
+    "智能农机",
+    "秋收秋种"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能农机",
+      "name_en": "Smart Farm Machinery"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋收秋种",
+      "name_en": "Autumn Harvest and Planting"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "农业机械化",
+    "智能农机",
+    "秋收秋种"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Agricultural Mechanization",
+    "Smart Farm Machinery",
+    "Autumn Harvest and Planting"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261007-xinhua_politics-ed4ffc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/lianbo/202610/content_7082693.htm",
+      "title_zh": "今年“三秋”生产有更多高端智能农机投入应用",
+      "published_at": "2026-10-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20260828-local_mei_ri_gan_su_wang_cn_gs-0a292a",
+  "source": "local_mei_ri_gan_su_wang_cn_gs",
+  "source_name_zh": "每日甘肃网",
+  "source_name_en": "每日甘肃网",
+  "source_media_id": "cac-cn-gs-8acf9c1ffc",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-GS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://china.gansudaily.com.cn/system/2026/08/28/031424748.shtml",
+  "title_zh": "习近平主席将出席上合峰会并访问吉尔吉斯斯坦和埃及",
+  "title_en": "President Xi to Attend SCO Summit and Visit Kyrgyzstan and Egypt",
+  "summary_zh": "国家主席习近平将于8月30日至9月3日出席在比什凯克举行的上海合作组织峰会，并对吉尔吉斯斯坦和埃及进行国事访问；自2013年以来，他多次阐述深化上合务实合作的主张。",
+  "summary_en": "President Xi Jinping will attend the SCO summit in Bishkek from Aug 30 to Sep 3 and pay state visits to Kyrgyzstan and Egypt, highlighting his long-standing call for practical cooperation.",
+  "body_zh": "8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。\n2013年以来，习近平主席出席上海合作组织历次峰会，并在不同场合就深化上合组织务实合作作出生动阐述，为建设更加紧密的上合组织命运共同体注入强劲动力。\n新华社新媒体中心制作\n新华社出品\n每日甘肃网对外版权工作统一由甘肃媒体版权保护中心（甘肃云数字媒体版权保护中心有限责任公司）受理，联系电话：0931-8159799。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "吉尔吉斯斯坦",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "埃及",
+      "name_en": "Egypt"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "SCO"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "吉尔吉斯斯坦",
+    "埃及",
+    "上海合作组织",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Kyrgyzstan",
+    "Egypt",
+    "SCO",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260827-xinhua_leaders-9a09ae",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

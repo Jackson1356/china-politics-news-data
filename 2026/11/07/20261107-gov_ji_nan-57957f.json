@@ -1,0 +1,96 @@
+{
+  "id": "20261107-gov_ji_nan-57957f",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_f70a0b01452b4704b03c5c13b7785db7.html",
+  "title_zh": "市政府党组召开扩大会议",
+  "title_en": "Municipal Government Party Group Holds Expanded Meeting",
+  "summary_zh": "11月6日，济南市政府党组召开扩大会议，于海田主持，传达学习习近平总书记重要讲话重要指示精神，研究黄河保护治理和反不正当竞争法贯彻落实。",
+  "summary_en": "On Nov 6, Jinan's Municipal Government Party Group met under Mayor Yu Haitian to study Xi Jinping's instructions on Yellow River protection and implementation of the Anti-Unfair Competition Law.",
+  "body_zh": "市政府党组召开扩大会议\n学习贯彻习近平总书记重要讲话重要指示精神\n11月6日，市政府党组召开扩大会议，传达学习习近平总书记对进一步做好黄河保护治理工作作出的重要指示精神、主持党外人士座谈会时的重要讲话精神，研究贯彻落实意见。\n市委副书记、市长、市政府党组书记于海田主持会议并讲话。\n会议指出，习近平总书记的重要讲话重要指示，具有很强的政治性、指导性、针对性，为我们做好工作提供了根本遵循，要结合实际认真抓好贯彻落实。要牢牢把握重在保护、要在治理的战略要求，扛牢黄河流域重要的中心城市使命担当，统筹高质量发展和高水平保护，提升沿黄地区生态环境质量，加强水资源节约集约利用，加快发展方式绿色转型，着力保护传承弘扬黄河文化，推动济南新旧动能转换起步区加速成势，为开创黄河流域生态保护和高质量发展新局面作出济南贡献。要把学习好、宣传好、贯彻好党的二十届五中全会精神作为当前和今后一个时期的重大政治任务，强化开门问策，支持党外人士围绕政府中心工作开展民主监督，把协商民主的制度优势转化为政府治理的实际效能。\n会议学习了《中华人民共和国反不正当竞争法》，强调要全面提升反不正当竞争法实施水平，综合整治“内卷式”竞争，严厉打击不正当竞争行为，加强商业秘密保护，强化跨部门协同共治，切实维护公平竞争市场秩序。\n市政府党组成员出席会议。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "party",
+  "keywords": [
+    "黄河保护治理",
+    "反不正当竞争",
+    "党的二十届五中全会"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河保护治理",
+      "name_en": "Yellow River Protection and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反不正当竞争",
+      "name_en": "Anti-Unfair Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会",
+      "name_en": "20th CPC Central Committee Fifth Plenary Session"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "济南",
+    "黄河保护治理",
+    "反不正当竞争",
+    "党的二十届五中全会",
+    "习近平"
+  ],
+  "tags_en": [
+    "Jinan",
+    "Yellow River Protection and Governance",
+    "Anti-Unfair Competition",
+    "20th CPC Central Committee Fifth Plenary Session"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "于海田"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261107-gov_ji_nan-57957f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

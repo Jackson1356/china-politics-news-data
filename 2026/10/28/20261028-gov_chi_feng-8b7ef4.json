@@ -1,0 +1,108 @@
+{
+  "id": "20261028-gov_chi_feng-8b7ef4",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/jrtt/202610/t20261028_2839509.html",
+  "title_zh": "习近平致电祝贺卢拉当选连任巴西总统",
+  "title_en": "Xi Jinping Sends Congratulatory Message to Lula on Re-election as Brazil's President",
+  "summary_zh": "10月27日，国家主席习近平致电卢拉，祝贺他当选连任巴西总统，表示愿共同推动中巴命运共同体建设；同日，韩正向阿尔克明致贺电。",
+  "summary_en": "On Oct 27, Xi Jinping sent a message congratulating Lula on his re-election as Brazil's president, pledging to advance the China-Brazil community with a shared future. Han Zheng also congratulated Alckmin.",
+  "body_zh": "10月27日，国家主席习近平致电卢拉，祝贺他当选连任巴西联邦共和国总统。\n习近平指出，卢拉总统为推动中巴关系发展作出重要贡献。近年来，我和卢拉总统通过不同方式保持密切沟通，共同引领携手构建更公正世界和更可持续星球的中巴命运共同体取得新进展，两国关系的全球性、战略性、长远性更加突出，成为全球南方国家团结合作的典范。我高度重视中巴关系发展，愿同卢拉总统一道努力，引领中巴命运共同体建设不断迈上新台阶，为两国全方位战略协作开辟更广阔前景，持续增进两国人民福祉。\n同日，国家副主席韩正向巴西连任副总统阿尔克明致贺电。",
+  "image_url": null,
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "中巴关系",
+    "命运共同体",
+    "全球南方",
+    "全方位战略协作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢拉",
+      "name_en": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "巴西",
+      "name_en": "Brazil"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Brazil Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球南方",
+      "name_en": "Global South"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全方位战略协作",
+      "name_en": "Comprehensive Strategic Coordination"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "卢拉",
+    "巴西",
+    "中巴关系",
+    "命运共同体",
+    "全球南方",
+    "全方位战略协作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Luiz Inácio Lula da Silva",
+    "Brazil",
+    "China-Brazil Relations",
+    "Community with a Shared Future",
+    "Global South",
+    "Comprehensive Strategic Coordination"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261027-qiushi-7780d6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

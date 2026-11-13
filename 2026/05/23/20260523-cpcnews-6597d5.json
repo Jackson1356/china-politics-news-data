@@ -1,0 +1,91 @@
+{
+  "id": "20260523-cpcnews-6597d5",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0525/c64387-40726551.html",
+  "title_zh": "三部门向广西增加调拨5000件中央救灾物资",
+  "title_en": "Three Departments Allocate Additional 5,000 Pieces of Central Disaster Relief Supplies to Guangxi",
+  "summary_zh": "5月23日，国家防灾减灾救灾委员会办公室、应急管理部、国家粮食和物资储备局向广西增加调拨5000件中央救灾物资，支持当地防汛救灾工作。",
+  "summary_en": "On May 23, the Office of the National Disaster Reduction Commission, the Ministry of Emergency Management, and the National Grain and Reserves Administration allocated an additional 5,000 pieces of central disaster relief supplies to Guangxi.",
+  "body_zh": "本报北京5月24日电 （记者刘温馨、王东辉）5月23日，针对广西柳州等地近期地震、洪涝等灾害应急处置和救灾救助工作需要，国家防灾减灾救灾委员会办公室、应急管理部会同国家粮食和物资储备局在前期先后两批向广西调拨1.5万件中央救灾物资的基础上，向广西增加调拨帐篷、折叠床、褥子、家庭应急包等中央救灾物资共5000件，支持当地妥善做好受灾群众转移安置和救灾救助工作。\n《 人民日报 》（ 2026年05月25日 04 版）",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-23",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "中央救灾物资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Grain and Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央救灾物资",
+      "name_en": "Central Disaster Relief Supplies"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "国家粮食和物资储备局",
+    "广西",
+    "防汛救灾",
+    "中央救灾物资"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "National Grain and Reserves Administration",
+    "Guangxi",
+    "Flood Control and Disaster Relief",
+    "Central Disaster Relief Supplies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Grain and Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260523-cpcnews-6597d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

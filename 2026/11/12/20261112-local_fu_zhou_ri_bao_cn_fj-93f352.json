@@ -1,0 +1,93 @@
+{
+  "id": "20261112-local_fu_zhou_ri_bao_cn_fj-93f352",
+  "source": "local_fu_zhou_ri_bao_cn_fj",
+  "source_name_zh": "福州日报",
+  "source_name_en": "福州日报",
+  "source_media_id": "cac-cn-fj-20a27e7754",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.fznews.com.cn/node/12851/20261112/4T3SGG9RH2.shtml",
+  "title_zh": "党代会报告来了！一图读懂福州成绩单和未来五年“小目标”",
+  "title_en": "Fuzhou Party Congress Report Reviews Achievements and Five-Year Goals",
+  "summary_zh": "11月12日上午，秦海翔代表福州市第十二届委员会作党代会报告，吴贤德主持，总结五年成绩并部署未来五年目标。",
+  "summary_en": "On the morning of Nov 12, Qin Haixiang delivered the Fuzhou Party Congress report, presided over by Wu Xiande, reviewing five-year achievements and setting goals for the next five years.",
+  "body_zh": "党代会报告来了！一图读懂福州成绩单和未来五年“小目标”\n12日上午\n秦海翔同志代表中国共产党福州市第十二届委员会，向大会作题为《一张蓝图接续奋斗 实干担当奋勇争先 加快建设现代化国际城市 努力打造中国式现代化市域样板》的报告。吴贤德同志主持。\n五年来\n福州都发生了哪些变化？\n今后五年\n福州又有哪些奋斗目标\n一起从报告中寻找答案",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "中国式现代化",
+    "现代化国际城市"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化国际城市",
+      "name_en": "Modern International City"
+    }
+  ],
+  "tags_zh": [
+    "吴贤德",
+    "福州",
+    "党代会",
+    "中国式现代化",
+    "现代化国际城市"
+  ],
+  "tags_en": [
+    "Wu Xiande",
+    "Fuzhou",
+    "Party Congress",
+    "Chinese Modernization",
+    "Modern International City"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-xiande-fuzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261112-local_fu_zhou_ri_bao_cn_fj-93f352",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

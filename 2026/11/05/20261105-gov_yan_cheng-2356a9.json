@@ -1,0 +1,104 @@
+{
+  "id": "20261105-gov_yan_cheng-2356a9",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/11/5/art_49_4465552.html",
+  "title_zh": "市九届人大常委会第四十三次会议召开",
+  "title_en": "43rd Meeting of the 9th Yancheng Municipal People's Congress Standing Committee Convened",
+  "summary_zh": "11月3日，盐城市九届人大常委会第四十三次会议召开，王荣主持并讲话。会议审议市九届人大八次会议议程草案等，并表决通过代表资格审查报告及相关决定。",
+  "summary_en": "On November 3, the 43rd meeting of the 9th Yancheng Municipal People's Congress Standing Committee was held, chaired by Wang Rong. The meeting reviewed draft agendas for the 8th session of the 9th municipal people's congress and adopted a deputy qualification review report and related decisions.",
+  "body_zh": "王荣主持并讲话\n11月3日，市九届人大常委会第四十三次会议召开。市人大常委会主任、党组书记王荣主持并讲话。市人大常委会副主任徐华明、刘光球、刘向阳，秘书长施建霞出席。副市长高尚德，市中级人民法院院长李江蓉，市人民检察院检察长胡昀晖列席。\n会议审议了市九届人大八次会议建议议程（草案）、市九届人大八次会议主席团和秘书长建议名单（草案），决定提交市九届人大八次会议预备会议表决通过。会议表决通过了《盐城市第九届人民代表大会常务委员会代表资格审查委员会关于部分代表的代表资格的审查报告》《盐城市人民代表大会常务委员会关于召开盐城市第九届人民代表大会第八次会议的决定》《盐城市第九届人民代表大会第八次会议列席人员范围》。\n又讯11月3日下午，市九届人大常委会第八十次主任会议召开，讨论市九届人大常委会第四十三次会议审议的相关事项，听取关于部分代表的代表资格的审查情况汇报、市九届人大八次会议筹备工作情况的汇报。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "party",
+  "keywords": [
+    "地方人大会议",
+    "代表资格审查",
+    "人民代表大会筹备"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王荣",
+      "name_en": "Wang Rong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方人大会议",
+      "name_en": "Local People's Congress Meeting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代表资格审查",
+      "name_en": "Deputy Qualification Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民代表大会筹备",
+      "name_en": "People's Congress Preparations"
+    }
+  ],
+  "tags_zh": [
+    "王荣",
+    "盐城",
+    "地方人大会议",
+    "代表资格审查",
+    "人民代表大会筹备"
+  ],
+  "tags_en": [
+    "Wang Rong",
+    "Yancheng",
+    "Local People's Congress Meeting",
+    "Deputy Qualification Review",
+    "People's Congress Preparations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王荣"
+      },
+      {
+        "id": null,
+        "name_zh": "任会议"
+      },
+      {
+        "id": null,
+        "name_zh": "施建霞"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261105-gov_yan_cheng-2356a9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

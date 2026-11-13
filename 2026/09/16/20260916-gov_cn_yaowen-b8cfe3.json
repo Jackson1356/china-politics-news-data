@@ -1,0 +1,83 @@
+{
+  "id": "20260916-gov_cn_yaowen-b8cfe3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081320.htm",
+  "title_zh": "8月份我国现代服务业发展向好",
+  "title_en": "China's Modern Services Sector Posts Solid Growth in August",
+  "summary_zh": "国家统计局数据显示，8月份全国服务业生产指数同比增长4.1%，信息传输、软件和信息技术服务业增长9.6%；1—8月服务零售额同比增长4.9%。",
+  "summary_en": "NBS data shows China's services production index rose 4.1% year-on-year in August, with information and software services up 9.6%; service retail sales grew 4.9% in Jan-Aug.",
+  "body_zh": "国家统计局发布的数据显示，8月份，全国服务业生产指数同比增长4.1%，保持总体平稳。以人工智能为代表的新技术应用加快拓展、算力需求快速增长，新兴服务业实现快速发展。8月份，信息传输、软件和信息技术服务业生产指数同比增长9.6%，对服务业生产指数增长的贡献超过20%。\n居民服务性消费需求增加。1—8月份，服务零售额同比增长4.9%，快于全部市场销售增长。信息服务、文旅休闲服务加快提升。1—8月份，通讯信息服务类、旅游咨询租赁服务类零售额均实现10%以上增速。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "economy",
+  "keywords": [
+    "现代服务业",
+    "人工智能",
+    "服务消费"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代服务业",
+      "name_en": "Modern Services Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务消费",
+      "name_en": "Services Consumption"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "现代服务业",
+    "人工智能",
+    "服务消费"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Modern Services Industry",
+    "Artificial Intelligence",
+    "Services Consumption"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260916-gov_cn_yaowen-b8cfe3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

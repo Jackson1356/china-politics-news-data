@@ -1,0 +1,87 @@
+{
+  "id": "20260531-xinhua_js-2ebb82",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_url": "http://js.news.cn/20260601/02b06cb1a133426ca2da0b298cd74231/c.html",
+  "title_zh": "7273辆新能源车从江苏南通出海欧洲",
+  "title_en": "7,273 New Energy Vehicles Exported from Nantong, Jiangsu to Europe",
+  "summary_zh": "5月31日，装载7273辆新能源汽车的滚装船从江苏南通港启航发往欧洲，标志着南通正式具备大规模商品小汽车出口能力。",
+  "summary_en": "On May 31, a roll-on/roll-off ship carrying 7,273 new energy vehicles departed from Nantong Port, Jiangsu, for Europe, marking Nantong's capacity for large-scale vehicle exports.",
+  "body_zh": "5月29日，江苏启东边检站民警对等待装船的车辆进行检查（无人机照片）。\n5月31日，在启东出入境边防检查站等单位高效保障下，装载7273辆新能源汽车的比亚迪“济南号”滚装船从江苏南通港启航，直发意大利、西班牙等欧洲国家。这标志着江苏南通正式具备大规模商品小汽车出口能力，为我国新能源汽车出海开辟了一条新通道。\n据介绍，这些车辆由合肥、西安、常州、镇江等多地经铁路、公路集结至洋吕铁路物流基地，以海铁联运模式出口，全面实现公、铁、水一体化多式联运新格局。\n5月29日拍摄的部分等待装船的新能源汽车（无人机照片）。\n5月29日，新能源汽车驶入比亚迪“济南号”滚装船（无人机照片）。\n5月31日，比亚迪“济南号”滚装船驶离港口（无人机照片）。\n5月29日拍摄的部分等待装船的新能源汽车（无人机照片）。\n5月29日在南通洋吕铁路物流基地拍摄的等待装船的新能源汽车（无人机照片）。\n5月30日清晨拍摄的正在装载出口新能源汽车的比亚迪“济南号”船（无人机照片）。\n5月29日，江苏启东边检站民警对等待装船的车辆进行检查。\n5月29日在南通洋吕铁路物流基地拍摄的等待装船的新能源汽车（无人机照片）。\n5月29日，新能源汽车驶入比亚迪“济南号”滚装船（无人机照片）。",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-05-31",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "出口贸易",
+    "多式联运"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南通",
+      "name_en": "Nantong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出口贸易",
+      "name_en": "Export Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多式联运",
+      "name_en": "Multimodal Transport"
+    }
+  ],
+  "tags_zh": [
+    "南通",
+    "江苏",
+    "新能源汽车",
+    "出口贸易",
+    "多式联运"
+  ],
+  "tags_en": [
+    "Nantong",
+    "Jiangsu",
+    "New Energy Vehicles",
+    "Export Trade",
+    "Multimodal Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260531-xinhua_js-2ebb82",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

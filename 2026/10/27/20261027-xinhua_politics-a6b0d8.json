@@ -1,0 +1,103 @@
+{
+  "id": "20261027-xinhua_politics-a6b0d8",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.news.cn/politics/20261027/a132bed3830145968ca824e1ab2adef9/c.html",
+  "title_zh": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+  "title_en": "CCDI and NSC Report on National Discipline Inspection and Investigation Work for January-September 2026",
+  "summary_zh": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况，运用“四种形态”批评教育和处理138.5万人次。",
+  "summary_en": "The CCDI and NSC reported national discipline inspection and investigation work for January-September 2026, noting 1.385 million cases handled through the \"four forms.\"",
+  "body_zh": "图1：全国纪检监察机关处分人员按职级划分图\n图2：全国纪检监察机关运用“四种形态”占比图\n2026年1至9月，全国纪检监察机关运用“四种形态”批评教育和处理138.5万人次。其中，运用第一种形态批评教育和处理69.6万人次，占总人次的50.2%；运用第二种形态处理56.9万人次，占41%；运用第三种形态处理6.5万人次，占4.7%；运用第四种形态处理5.6万人次，占4.1%。\n坚持受贿行贿一起查，立案行贿人员2.9万人，移送检察机关3020人。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "discipline",
+  "keywords": [
+    "纪检监察",
+    "反腐败",
+    "四种形态",
+    "受贿行贿一起查"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪检监察",
+      "name_en": "Discipline Inspection and Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "四种形态",
+      "name_en": "Four Forms"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿行贿一起查",
+      "name_en": "Bribery Taking and Offering Investigated Together"
+    }
+  ],
+  "tags_zh": [
+    "中央纪委国家监委",
+    "纪检监察",
+    "反腐败",
+    "四种形态",
+    "受贿行贿一起查"
+  ],
+  "tags_en": [
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Discipline Inspection and Supervision",
+    "Anti-corruption",
+    "Four Forms",
+    "Bribery Taking and Offering Investigated Together"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261027-xinhua_politics-a6b0d8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-10/27/content_39067314.htm",
+      "title_zh": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

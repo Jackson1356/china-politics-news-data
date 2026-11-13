@@ -1,0 +1,77 @@
+{
+  "id": "20260525-guancha_politics-89b268",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_05_25_818256.shtml",
+  "title_zh": "985博士偷拍涉密资料获利近60万被判处有期徒刑15年",
+  "title_en": "985 University PhD Sentenced to 15 Years for Espionage and Stealing Classified Data",
+  "summary_zh": "朱某在航天科研院所担任工程师期间，受外国间谍组织指使偷拍航空航天及军事技术涉密资料，获利近60万元，被判处有期徒刑15年。",
+  "summary_en": "Zhu, an engineer at aerospace research institutes, was sentenced to 15 years in prison for stealing classified aerospace and military data for a foreign spy organization in exchange for nearly 600,000 RMB.",
+  "body_zh": "985博士沦为间谍，偷拍涉密资料获利近60万，被判15年\n2006年至2018年，朱某先是在某985高校攻读博士学位，取得学位后，又在多家航天科研院所担任工程师，长期接触航空航天和军事技术领域的涉密文件、资料。在此期间，某国间谍组织代理人找上了他。\n在明知对方间谍组织人员身份的前提下，朱某仍接受其布置的情报信息搜集任务，使用对方提供的间谍设备，拍摄了大量涉及航空航天和军事技术领域的文件、资料，并传输给间谍组织人员，共计非法获利人民币59.64万元。\n最终，朱某因犯间谍罪，被判处有期徒刑十五年，剥夺政治权利三年，没收个人财产及全部违法所得。\n保密无小事，责任大于天。重要行业领域涉密人员尤其需筑牢保密安全防线：一是强化思想教育，常态化开展保密培训与反间谍宣传，让涉密人员牢记初心使命，明确法律红线，摒弃侥幸心理；二是健全防控机制，涉密单位需严格落实保密管理制度，加强涉密设备、文件的管控，严防涉密信息外泄；三是强化个人自律，涉密人员要时刻保持清醒，坚决抵制金钱诱惑，警惕各类可疑人员接触，筑牢保密思想防线。\n神舟二十三号航天员乘组顺利进驻“天宫”",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "discipline",
+  "keywords": [
+    "间谍罪",
+    "国家安全",
+    "保密工作"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "间谍罪",
+      "name_en": "Espionage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全",
+      "name_en": "National Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "保密工作",
+      "name_en": "Confidentiality"
+    }
+  ],
+  "tags_zh": [
+    "间谍罪",
+    "国家安全",
+    "保密工作"
+  ],
+  "tags_en": [
+    "Espionage",
+    "National Security",
+    "Confidentiality"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260525-guancha_politics-89b268",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_05_25_818308.shtml",
+      "title_zh": "985博士暗通间谍组织，被判15年",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

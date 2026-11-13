@@ -1,0 +1,123 @@
+{
+  "id": "20261013-gov_yue_yang-5960e3",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2414307.html",
+  "title_zh": "谢卫江会见中国诚通集团董事长奚正平一行",
+  "title_en": "Xie Weijiang Meets China Chengtong Chairman Xi Zhengping in Yueyang",
+  "summary_zh": "10月12日，湖南省委副书记、岳阳市委书记谢卫江在岳阳会见中国诚通控股集团董事长奚正平一行，双方就落实有关协议、深化战略合作、加快产业项目落地交换意见。",
+  "summary_en": "On Oct 12, Xie Weijiang, deputy secretary of the Hunan Provincial Party Committee and Yueyang Party secretary, met China Chengtong Holdings Group chairman Xi Zhengping in Yueyang to discuss implementing cooperation agreements and speeding up industrial project investment.",
+  "body_zh": "10月12日，省委副书记、岳阳市委书记谢卫江会见来岳调研考察的中国诚通控股集团有限公司党委书记、董事长奚正平一行。\n谢卫江代表市委、市政府对奚正平一行表示欢迎，对中国诚通集团支持岳阳经济社会发展表示感谢，并简要介绍了岳阳市情。他说，当前岳阳正认真贯彻落实全国先进制造业大会精神，立足资源禀赋和产业基础，做大做强先进制造产业集群，积极培育和发展新质生产力。希望双方认真落实湖南省政府与中国诚通、岳阳市政府与中国纸业有关协议，进一步加强战略合作，加快项目落地，实现共赢发展。市委、市政府将优化服务保障、营造良好环境。\n奚正平感谢岳阳市委、市政府对中国诚通集团的大力支持。他表示，中国诚通集团高度重视与岳阳市的合作，将认真落实有关协议，加快产业项目落地进度，更好助力岳阳高质量发展。\n在岳期间，奚正平一行前往岳阳临港高新区，实地考察了有关产业项目选址和城陵矶国际集装箱码头、多式联运物流园。\n中国诚通控股集团有限公司外部董事召集人谢海兵、外部董事宗庆生，中国纸业投资有限公司党委书记、董事长钟天崎，市领导秦国良、肖湘晖参加。",
+  "image_url": null,
+  "published_at": "2026-10-13T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "先进制造业",
+    "新质生产力",
+    "项目落地"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "奚正平",
+      "name_en": "Xi Zhengping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "项目落地",
+      "name_en": "Project Implementation"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "奚正平",
+    "岳阳市委",
+    "岳阳",
+    "战略合作",
+    "先进制造业",
+    "新质生产力",
+    "项目落地"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Xi Zhengping",
+    "Yueyang Municipal Party Committee",
+    "Yueyang",
+    "Strategic Cooperation",
+    "Advanced Manufacturing",
+    "New Quality Productive Forces",
+    "Project Implementation"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261013-gov_yue_yang-5960e3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

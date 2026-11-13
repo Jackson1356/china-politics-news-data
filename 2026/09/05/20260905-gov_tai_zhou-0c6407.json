@@ -1,0 +1,93 @@
+{
+  "id": "20260905-gov_tai_zhou-0c6407",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_0d3aa5125bcd4af283ba4ee2c23e7017.html",
+  "title_zh": "市政府党组会议召开",
+  "title_en": "Taizhou Municipal Government Party Group Meeting Held",
+  "summary_zh": "9月3日，泰州市政府党组会议召开，传达学习习近平总书记近期重要讲话指示精神和中央、省委部署，研究防汛和正确政绩观学习教育工作。",
+  "summary_en": "On September 3, the Taizhou Municipal Government Party Group met to convey and study Xi Jinping's recent speeches and instructions, and deploy flood prevention and correct view of political achievements education.",
+  "body_zh": "泰州要闻\n市政府党组会议召开\n- 发布日期：2026-09-05 07:31\n- 浏览次数：\n9月3日，市政府党组会议召开，深入学习贯彻习近平总书记近期重要讲话重要指示重要文章精神，认真落实中央和省委党的建设工作领导小组会议部署，按照市委要求，扎实做好政府系统贯彻落实工作。市政府党组书记、市长李晖主持会议。\n会议深入学习习近平总书记在中央政治局会议上的重要讲话、对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示精神。会议强调，当前正处在防汛关键期，要深入学习贯彻习近平总书记重要讲话重要指示精神，坚持极限思维、底线思维，紧盯长江内河堤防、城市排涝、地质灾害点位、城市生命线等重点领域，认真排查整治各类风险隐患，落细落实防汛防台风各项措施，守好守牢安全防线。要完善监测预警机制，强化应急队伍备勤、物资储备和实战演练，严格落实值班值守制度，全力以赴确保人民群众生命财产安全。\n会议深入学习习近平总书记关于树立和践行正确政绩观学习教育的重要指示精神。会议强调，要认真学习领会、全面贯彻落实习近平总书记重要指示精神，切实把学习教育成果转化为破解改革发展难题、增进民生福祉的实际行动，以昂扬姿态奋进“十五五”，为推进中国式现代化泰州新实践贡献更大力量。\n会议传达学习中央党的建设工作领导小组会议、省委常委会会议暨省委党的建设工作领导小组会议精神，总结市政府党组树立和践行正确政绩观学习教育开展情况。会议指出，要深入学习贯彻习近平总书记关于树立和践行正确政绩观的重要论述，按照中央和省、市委部署，从强化理论武装、抓好问题查改、巩固制度成效等方面持续发力、久久为功，把正确政绩观贯穿政府各项工作的全过程，努力将学习成果转化为推动工作的实际成效，创造经得起实践、人民、历史检验的实绩。",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻习近平总书记重要讲话",
+    "防汛防台风",
+    "正确政绩观"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻习近平总书记重要讲话",
+      "name_en": "Study and Implement Xi Jinping's Important Speeches"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正确政绩观",
+      "name_en": "Correct View of Political Achievements"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "学习贯彻习近平总书记重要讲话",
+    "防汛防台风",
+    "正确政绩观"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Study and Implement Xi Jinping's Important Speeches",
+    "Flood and Typhoon Prevention",
+    "Correct View of Political Achievements"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260905-gov_tai_zhou-0c6407",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

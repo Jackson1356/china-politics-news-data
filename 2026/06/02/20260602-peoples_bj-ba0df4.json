@@ -1,0 +1,108 @@
+{
+  "id": "20260602-peoples_bj-ba0df4",
+  "source": "peoples_bj",
+  "source_name_zh": "人民网 北京",
+  "source_name_en": "People's Daily Beijing",
+  "source_url": "http://bj.people.com.cn/n2/2026/0602/c349239-41598628.html",
+  "title_zh": "北京市太空算力产业创新中心正式成立",
+  "title_en": "Beijing Space Computing Power Industry Innovation Center Officially Established",
+  "summary_zh": "6月2日，北京市首个太空算力产业创新中心在海淀区正式成立，由北京市经信局批复，北京邮电大学牵头组建。",
+  "summary_en": "On June 2, Beijing's first Space Computing Power Industry Innovation Center was established in Haidian District, approved by the Beijing Municipal Bureau of Economy and Information Technology and led by BUPT.",
+  "body_zh": "北京市太空算力产业创新中心正式成立 将落地海淀\n人民网北京6月2日电 （记者董兆瑞）日前，北京市卫星物联网行业发展大会在海淀举办。大会上，北京市首个太空算力产业创新中心正式成立。该中心由北京市经济和信息化局批复设立，由北京邮电大学在海淀区的支持下，联合行业龙头企业共同牵头组建。\n北京邮电大学计算机学院院长王尚广介绍，太空算力产业创新中心，围绕太空算力全产业链系统布局六大攻关方向——高可靠强耐热的太空原生算力芯片、高性能超互联的太空算力载荷、太空算力卫星平台与标准体系、面向功耗与可靠性约束的太空大模型、天地一体通信测控组网与云化、太空算力服务化与Token化运营。\n与此同时，大会现场面向全球发出产业邀约，2026年北京太空算力大会将于2026年6月29日至30日在海淀举办，届时将在大会现场正式揭牌“北京市太空算力产业创新中心”，并组建专家委员会与产业创新联盟，面向全球集聚高端产业资源、深化协同创新，全方位赋能太空算力产业高质量发展。",
+  "image_url": null,
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "industry",
+  "keywords": [
+    "太空算力",
+    "产业创新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市经济和信息化局",
+      "name_en": "Beijing Municipal Bureau of Economy and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京邮电大学",
+      "name_en": "Beijing University of Posts and Telecommunications"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "海淀",
+      "name_en": "Haidian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "太空算力",
+      "name_en": "Space Computing Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业创新",
+      "name_en": "Industrial Innovation"
+    }
+  ],
+  "tags_zh": [
+    "北京市经济和信息化局",
+    "北京邮电大学",
+    "北京",
+    "海淀",
+    "太空算力",
+    "产业创新"
+  ],
+  "tags_en": [
+    "Beijing Municipal Bureau of Economy and Information Technology",
+    "Beijing University of Posts and Telecommunications",
+    "Beijing",
+    "Haidian",
+    "Space Computing Power",
+    "Industrial Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王尚广"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市经济和信息化局",
+        "name_en": "Beijing Municipal Bureau of Economy and Information Technology"
+      },
+      {
+        "name_zh": "北京邮电大学",
+        "name_en": "Beijing University of Posts and Telecommunications"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260602-peoples_bj-ba0df4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

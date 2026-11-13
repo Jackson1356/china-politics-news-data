@@ -1,0 +1,99 @@
+{
+  "id": "20260927-cpcnews-35f82a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0927/c64094-40806128.html",
+  "title_zh": "习近平向全球发展倡议5周年高级别对话会致贺信",
+  "title_en": "Xi Jinping Sends Congratulatory Letter to High-Level Dialogue on 5th Anniversary of Global Development Initiative",
+  "summary_zh": "9月25日，全球发展倡议5周年高级别对话会在纽约联合国总部举行，国家主席习近平向对话会致贺信，表示中国愿同各方一道推动倡议走深走实。",
+  "summary_en": "On September 25, a high-level dialogue marking the 5th anniversary of the Global Development Initiative was held at UN Headquarters in New York, with Chinese President Xi Jinping sending a congratulatory letter vowing to work with all parties to deepen the initiative.",
+  "body_zh": "新华社北京9月26日电 9月25日，全球发展倡议5周年高级别对话会在纽约联合国总部举行，国家主席习近平向对话会致贺信。\n习近平指出，发展是人类社会的永恒主题，也是实现人民幸福的关键所在。5年前，我在联合国大会上提出全球发展倡议，就是为了推动国际发展合作，重振全球发展事业，助力加快落实联合国2030年可持续发展议程。\n习近平强调，5年来，在各方共同努力下，全球发展倡议广泛践行，倡议合作项目在120多个国家落地生根、开花结果，书写了共促发展、合作共赢的新篇章。\n习近平指出，当前，世界百年变局加速演进，各国人民对实现发展的愿望更加强烈。作为最大发展中国家和全球南方一员，中国愿同各方一道，秉持以人民为中心的发展理念，携手推动全球发展倡议走深走实，将可持续发展目标的美好愿景转化为可感可及的现实图景，为推动构建人类命运共同体作出新的更大贡献。\n《 人民日报 》（ 2026年09月27日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": "2026-09-25",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球发展倡议",
+    "国际发展合作",
+    "联合国2030年可持续发展议程"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "纽约",
+      "name_en": "New York"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球发展倡议",
+      "name_en": "Global Development Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际发展合作",
+      "name_en": "International Development Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国2030年可持续发展议程",
+      "name_en": "UN 2030 Agenda for Sustainable Development"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "纽约",
+    "全球发展倡议",
+    "国际发展合作",
+    "联合国2030年可持续发展议程"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New York",
+    "Global Development Initiative",
+    "International Development Cooperation",
+    "UN 2030 Agenda for Sustainable Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260926-qiushi-17b235",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/09/26/VIDED0pk42vORQzVAYBCV7ak260926.shtml",
+      "title_zh": "习近平向全球发展倡议5周年高级别对话会致贺信",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

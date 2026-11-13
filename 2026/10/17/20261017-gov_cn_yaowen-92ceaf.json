@@ -1,0 +1,125 @@
+{
+  "id": "20261017-gov_cn_yaowen-92ceaf",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/17/VIDET7H3Z91AxKXSmw27Dq1v261017.shtml",
+  "title_zh": "李强抵达塔什干开始对乌兹别克斯坦进行正式访问",
+  "title_en": "Li Qiang Arrives in Tashkent for Official Visit to Uzbekistan",
+  "summary_zh": "当地时间10月17日下午，国务院总理李强乘包机抵达塔什干，应邀对乌兹别克斯坦进行正式访问，乌总理阿里波夫到机场迎接。",
+  "summary_en": "On the afternoon of Oct 17 local time, Premier Li Qiang arrived in Tashkent on a special flight for an official visit to Uzbekistan and was welcomed at the airport by Prime Minister Abdulla Aripov.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间17日下午，国务院总理李强应乌兹别克斯坦总理阿里波夫邀请，乘包机抵达这里，对乌兹别克斯坦进行正式访问。\n乌兹别克斯坦总理阿里波夫率政府高级官员到机场迎接。\n国务委员兼国务院秘书长吴政隆等陪同人员同机抵达。中国驻乌兹别克斯坦大使于骏也到机场迎接。\n乌方在机场为李强总理举行了欢迎仪式。\n军乐队奏中乌两国国歌。\n李强在阿里波夫陪同下检阅了仪仗队。\n李强表示，中国和乌兹别克斯坦的传统友谊源远流长。中乌是好朋友、好伙伴、好兄弟。建交34年来，无论国际风云如何变幻，两国始终相互尊重、平等相待，双边关系与合作持续向前发展，不断焕发新的生机与活力。特别是近些年，在双方携手努力下，中乌政治互信更加牢固，世代友好深入人心，务实合作成果丰硕，切实惠及了两国人民。\n李强指出，前不久，习近平主席和米尔济约耶夫总统在比什凯克举行会晤，就进一步深化中乌关系达成重要共识。中方愿同乌方一道，将两国元首共识转化为更多实际成果，推动中乌命运共同体建设不断走深走实。",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-17",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中乌关系",
+    "正式访问",
+    "命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "塔什干",
+      "name_en": "Tashkent"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "乌兹别克斯坦",
+      "name_en": "Uzbekistan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中乌关系",
+      "name_en": "China-Uzbekistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正式访问",
+      "name_en": "Official Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "塔什干",
+    "乌兹别克斯坦",
+    "中乌关系",
+    "正式访问",
+    "命运共同体",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Tashkent",
+    "Uzbekistan",
+    "China-Uzbekistan Relations",
+    "Official Visit",
+    "Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261017-gov_cn_yaowen-92ceaf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083521.htm",
+      "title_zh": "李强抵达塔什干开始对乌兹别克斯坦进行正式访问",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

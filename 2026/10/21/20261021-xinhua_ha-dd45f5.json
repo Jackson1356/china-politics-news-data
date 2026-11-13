@@ -1,0 +1,93 @@
+{
+  "id": "20261021-xinhua_ha-dd45f5",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.news.cn/20261021/3d0b2f1e7d9f4165949f2161dfb9f1df/c.html",
+  "title_zh": "河南省第十二次党代会主席团举行第一次会议",
+  "title_en": "Presidium of 12th Henan Provincial Party Congress Holds First Meeting",
+  "summary_zh": "10月19日下午，河南省第十二次党代会主席团在省人民会堂举行第一次会议，周祖翼主持，通过主席团常务委员会委员名单及代表资格审查报告等。",
+  "summary_en": "On the afternoon of Oct 19, the presidium of the 12th Henan Provincial Party Congress held its first meeting at the Provincial People's Hall, chaired by Zhou Zuyi, approving the standing committee membership list and a delegate qualification review report.",
+  "body_zh": "中国共产党河南省第十二次代表大会主席团10月19日下午在省人民会堂举行第一次会议。\n周祖翼主持会议。\n会议通过主席团常务委员会委员名单，他们是：周祖翼、王陆进、张巍、安伟、秦国文、王刚、张雷明、张敏、王崧、陈春江、李涛。\n主席团常务委员会委员在主席台就座。\n会议还通过了省第十二次党代会执行主席分组名单，省第十二次党代会代表资格审查委员会关于代表资格的审查报告，省第十二次党代会列席人员、邀请人员名单，省第十二次党代会大会日程，省第十二次党代会副秘书长名单，省第十二次党代会秘书处组织机构，提交各代表团审议的省管党费收缴、使用和管理情况的报告。（全媒体记者 刘婵 张笑闻）",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "人事安排",
+    "代表资格审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-zuyi",
+      "name_zh": "周祖翼",
+      "name_en": "Zhou Zuyi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事安排",
+      "name_en": "Personnel Arrangement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代表资格审查",
+      "name_en": "Delegate Qualification Review"
+    }
+  ],
+  "tags_zh": [
+    "周祖翼",
+    "河南",
+    "党代会",
+    "人事安排",
+    "代表资格审查"
+  ],
+  "tags_en": [
+    "Zhou Zuyi",
+    "Henan",
+    "Party Congress",
+    "Personnel Arrangement",
+    "Delegate Qualification Review"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-zuyi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261021-xinhua_ha-dd45f5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

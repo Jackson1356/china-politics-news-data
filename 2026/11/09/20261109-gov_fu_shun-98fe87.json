@@ -1,0 +1,111 @@
+{
+  "id": "20261109-gov_fu_shun-98fe87",
+  "source": "gov_fu_shun",
+  "source_name_zh": "抚顺市政府网",
+  "source_name_en": "抚顺 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_shun",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fushun.gov.cn/ywdt/001005/20261109/5b5e3288-99cd-4f26-9df9-44b3091e5b5b.html",
+  "title_zh": "中央宣讲团在中央政法委宣讲党的二十届五中全会精神",
+  "title_en": "Central Lecture Team Delivers Briefing on Fifth Plenary Session Spirit at Central Political and Legal Affairs Commission",
+  "summary_zh": "11月9日，中央宣讲团成员、中央政法委书记陈文清在北京中央政法委宣讲党的二十届五中全会精神，并对政法战线贯彻落实工作提出要求。",
+  "summary_en": "On November 9, Chen Wenqing, a member of the Central Lecture Team and secretary of the Central Political and Legal Affairs Commission, delivered a briefing in Beijing on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee and set requirements for implementing it across the political and legal sector.",
+  "body_zh": "新华社北京11月9日电 中央宣讲团成员、中共中央政治局委员、中央政法委书记陈文清11月9日在中央政法委宣讲党的二十届五中全会精神。\n陈文清围绕习近平总书记在五中全会上的重要讲话和全会通过的《决定》，从深刻理解把握全会的重大意义，全面准确理解持之以恒推进全面从严治党的总体要求、战略任务和重大举措等方面，对全会精神作了深入宣讲和系统阐释，并对政法战线贯彻落实工作提出要求。\n陈文清强调，新时代全面从严治党取得伟大成就，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想特别是习近平党建思想科学指引。政法战线要把学习贯彻全会精神作为当前和今后一个时期的重大政治任务，与学习贯彻习近平党建思想紧密结合起来，自觉把思想和行动统一到习近平总书记重要讲话和全会精神上来，坚定拥护“两个确立”、坚决做到“两个维护”，始终坚持党对政法工作的绝对领导，始终坚持以人民为中心，以更高标准、更实举措推进政法领域全面从严治党，锻造忠诚干净担当的政法铁军，努力建设更高水平平安中国、法治中国，为强国建设、民族复兴伟业提供坚强保障。\n中央政法委、中央政法单位和中国法学会有关负责同志，中央政法委内设机构、直属单位全体干部职工参会。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "政法工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-wenqing",
+      "name_zh": "陈文清",
+      "name_en": "Chen Wenqing"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPLAC",
+      "name_zh": "中央政法委",
+      "name_en": "Central Political and Legal Affairs Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Fifth Plenary Session Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政法工作",
+      "name_en": "Political and Legal Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈文清",
+    "中央政法委",
+    "北京",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "政法工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Chen Wenqing",
+    "Central Political and Legal Affairs Commission",
+    "Beijing",
+    "Fifth Plenary Session Spirit",
+    "Full and Rigorous Party Governance",
+    "Political and Legal Work"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "chen-wenqing"
+    ],
+    "institutions": [
+      "CCPLAC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261109-gov_fu_shun-98fe87",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

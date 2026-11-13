@@ -1,0 +1,115 @@
+{
+  "id": "20260612-bjnews_zhengshier-7a568e",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1781251302129479.html",
+  "title_zh": "长沙市委书记调整",
+  "title_en": "Adjustment of Changsha Municipal Party Committee Secretary",
+  "summary_zh": "6月12日，长沙市召开领导干部会议，宣布陈竞任中共长沙市委书记，吴桂英不再担任该职。",
+  "summary_en": "On June 12, a leadership meeting in Changsha announced that Chen Jing has been appointed as the Secretary of the Changsha Municipal Party Committee, replacing Wu Guiying.",
+  "body_zh": "长沙市委书记调整\n湖南日报消息，6月12日，长沙市领导干部会议召开，宣布有关人事安排决定。湖南省委书记沈晓明出席会议并讲话。\n会议宣布：经省委研究决定，陈竞同志任中共长沙市委委员、常委、书记；吴桂英同志不再担任中共长沙市委书记、常委、委员职务。\n公开简历显示，陈竞，男，汉族，1971年2月生，在职大学，中共党员。\n原任湖南省委常委、长沙市委书记吴桂英，出生于1966年2月，已任湖南省人大常委会党组书记、副主任。",
+  "image_url": null,
+  "published_at": "2026-06-12T16:06:25+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事调整",
+    "干部任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共长沙市委",
+      "name_en": "Changsha Municipal Party Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南省委",
+      "name_en": "Hunan Provincial Party Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖南省人大常委会",
+      "name_en": "Standing Committee of the Hunan Provincial People's Congress"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任免",
+      "name_en": "Appointment and Removal of Officials"
+    }
+  ],
+  "tags_zh": [
+    "中共长沙市委",
+    "湖南省委",
+    "湖南省人大常委会",
+    "长沙",
+    "湖南",
+    "人事调整",
+    "干部任免"
+  ],
+  "tags_en": [
+    "Changsha Municipal Party Committee",
+    "Hunan Provincial Party Committee",
+    "Standing Committee of the Hunan Provincial People's Congress",
+    "Changsha",
+    "Hunan",
+    "Personnel Adjustment",
+    "Appointment and Removal of Officials"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共长沙市委",
+        "name_en": "Changsha Municipal Party Committee"
+      },
+      {
+        "name_zh": "湖南省委",
+        "name_en": "Hunan Provincial Party Committee"
+      },
+      {
+        "name_zh": "湖南省人大常委会",
+        "name_en": "Standing Committee of the Hunan Provincial People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260612-bjnews_zhengshier-7a568e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

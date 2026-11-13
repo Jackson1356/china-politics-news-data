@@ -1,0 +1,117 @@
+{
+  "id": "20261101-gov_cn_yaowen-88eb26",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084681.htm",
+  "title_zh": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式",
+  "title_en": "Xi Jinping's Special Envoy and Sports Administration Director Gao Zhidan Attends Opening Ceremony of 4th Youth Olympic Games",
+  "summary_zh": "10月31日，习近平主席特使、国家体育总局局长高志丹在塞内加尔首都达喀尔出席第四届青奥会开幕式，塞内加尔总统法耶当天会见高志丹。",
+  "summary_en": "On Oct 31, Gao Zhidan, special envoy of President Xi Jinping and director of China's General Administration of Sport, attended the opening ceremony of the 4th Youth Olympic Games in Dakar, Senegal, and was met by Senegalese President Faye.",
+  "body_zh": "新华社达喀尔10月31日电 应塞内加尔共和国政府邀请，习近平主席特使、国家体育总局局长高志丹10月31日在塞内加尔首都达喀尔出席第四届青奥会开幕式。当天上午，塞内加尔总统法耶在达喀尔会见了高志丹。\n高志丹向法耶转达习近平主席的亲切问候和良好祝愿，表示中方高度重视发展中塞、中非关系，愿不断丰富中塞全面战略合作伙伴关系内涵，积极发挥奥林匹克运动促和平、促团结、促包容的独特作用，为共筑新时代全天候中非命运共同体作出更大贡献。\n法耶请高志丹转达对习近平主席的诚挚问候，感谢习近平主席派特使出席第四届青奥会。法耶高度评价塞中关系，表示中国是塞内加尔最重要的合作伙伴之一，感谢习近平主席和中国政府长期以来对塞经济社会发展和举办本届青奥会的大力支持。",
+  "image_url": null,
+  "published_at": "2026-11-01T12:00:00+00:00",
+  "event_date": "2026-10-31",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "中非命运共同体",
+    "奥林匹克运动"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gao-zhidan",
+      "name_zh": "高志丹",
+      "name_en": "Gao Zhidan"
+    },
+    {
+      "kind": "institution",
+      "id": "GASS",
+      "name_zh": "国家体育总局",
+      "name_en": "General Administration of Sport of China"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "达喀尔",
+      "name_en": "Dakar"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Senegal Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非命运共同体",
+      "name_en": "China-Africa Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "奥林匹克运动",
+      "name_en": "Olympic Movement"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "高志丹",
+    "国家体育总局",
+    "达喀尔",
+    "中塞关系",
+    "中非命运共同体",
+    "奥林匹克运动",
+    "习近平"
+  ],
+  "tags_en": [
+    "Gao Zhidan",
+    "General Administration of Sport of China",
+    "Dakar",
+    "China-Senegal Relations",
+    "China-Africa Community with a Shared Future",
+    "Olympic Movement"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "gao-zhidan"
+    ],
+    "institutions": [
+      "GASS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261101-gov_cn_yaowen-88eb26",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084681.htm",
+      "title_zh": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式",
+      "published_at": "2026-11-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

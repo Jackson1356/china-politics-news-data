@@ -1,0 +1,95 @@
+{
+  "id": "20260725-gov_ji_nan-082c7f",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_e9a484ce61614d60a58066057a30d98a.html",
+  "title_zh": "市政府党组召开扩大会议",
+  "title_en": "Jinan Municipal Government Party Group Holds Enlarged Meeting",
+  "summary_zh": "7月24日，济南市政府党组召开扩大会议，传达学习习近平总书记近期重要讲话重要指示精神，市长于海田主持会议并讲话。",
+  "summary_en": "On July 24, the Jinan Municipal Government Party Group held an enlarged meeting to study recent important speeches and instructions from General Secretary Xi Jinping. Mayor Yu Haitian presided and delivered a speech.",
+  "body_zh": "市政府党组召开扩大会议\n学习贯彻习近平总书记重要讲话重要指示精神\n7月24日，市政府党组召开扩大会议，传达学习习近平总书记对重庆彭水县山体崩塌、基础教育工作作出的重要指示精神和在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话，研究贯彻落实意见。\n市委副书记、市长、市政府党组书记于海田主持会议并讲话。\n会议指出，习近平总书记的重要讲话和重要指示，高屋建瓴、思想深邃、内涵丰富，为我们做好工作指明了前进方向，要结合实际认真抓好贯彻落实。要进一步增强风险意识，树牢底线思维、极限思维，切实做好监测预防、应急救援等各项准备，扎实开展地质灾害风险隐患常态化巡查排查，加大群测群防力度，提升干部群众安全防范意识和应急处置能力，全力做好地质灾害防范应对工作。要始终坚持为党育人、为国育才，全面落实立德树人根本任务，坚持不懈用党的创新理论铸魂育人，深化基础教育综合改革，加快基础教育公平优质发展。要抢抓人工智能产业风口，对标先进、提速加力，持续夯实发展基础，加快重点项目建设，梯次培育壮大企业，加力推动人工智能高质量发展。\n会议学习了《中华人民共和国对外贸易法》，强调要促进外贸保稳提质，推进跨境贸易便利化，有效服务外贸主体，积极培育新增长点，依法保护企业权益，更好完成全年目标任务，着力提升省会经济外向度。\n市政府党组成员出席会议，非党员副市长列席会议。",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "party",
+  "keywords": [
+    "学习习近平总书记重要讲话",
+    "风险防范",
+    "基础教育",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习习近平总书记重要讲话",
+      "name_en": "Study Xi Jinping's Important Speeches"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "风险防范",
+      "name_en": "Risk Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础教育",
+      "name_en": "Basic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "学习习近平总书记重要讲话",
+    "风险防范",
+    "基础教育",
+    "人工智能",
+    "习近平"
+  ],
+  "tags_en": [
+    "Study Xi Jinping's Important Speeches",
+    "Risk Prevention",
+    "Basic Education",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "于海田"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260725-gov_ji_nan-082c7f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

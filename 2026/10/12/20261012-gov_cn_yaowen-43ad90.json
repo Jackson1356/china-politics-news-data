@@ -1,0 +1,101 @@
+{
+  "id": "20261012-gov_cn_yaowen-43ad90",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/12/VIDEBdhoblLhKUtl46OhhhLn261012.shtml",
+  "title_zh": "李强同新西兰总理拉克森通电话",
+  "title_en": "Li Qiang Speaks by Phone with New Zealand Prime Minister Luxon",
+  "summary_zh": "10月12日，国务院总理李强应约同新西兰总理拉克森通电话，双方就深化贸易、新能源汽车、人文等领域合作及亚太经合组织框架下协作交换意见。",
+  "summary_en": "On October 12, Premier Li Qiang took a phone call from New Zealand Prime Minister Christopher Luxon, with the two sides exchanging views on deepening cooperation in trade, new energy vehicles and cultural exchanges, as well as coordination within APEC.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强12日应约同新西兰总理拉克森通电话。\n李强表示，当前，中新关系持续稳健前行，各领域合作不断取得新进展。同时，国际形势还在复杂变化，单边主义、保护主义持续冲击世界经济。中国和新西兰同为多边主义和自由贸易的支持者、践行者，应当开展更多沟通协作。明年中新将迎来建交55周年。中方愿同新方一道赓续传统友谊，拓展贸易、新能源汽车、人文等领域合作，加强在亚太经合组织合作，推动中新关系不断走深走实，为两国、地区乃至世界稳定发展繁荣增添动力。\n拉克森表示，新方坚定奉行一个中国政策，愿同中方密切高层交往，深化贸易等领域务实合作，支持中方主办亚太经合组织领导人非正式会议。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "foreign",
+  "keywords": [
+    "中新关系",
+    "多边主义与自由贸易",
+    "亚太经合组织合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中新关系",
+      "name_en": "China-New Zealand Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义与自由贸易",
+      "name_en": "Multilateralism and Free Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织合作",
+      "name_en": "APEC Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "中新关系",
+    "多边主义与自由贸易",
+    "亚太经合组织合作"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "China-New Zealand Relations",
+    "Multilateralism and Free Trade",
+    "APEC Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261012-gov_cn_yaowen-43ad90",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083024.htm",
+      "title_zh": "李强同新西兰总理拉克森通电话",
+      "published_at": "2026-10-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

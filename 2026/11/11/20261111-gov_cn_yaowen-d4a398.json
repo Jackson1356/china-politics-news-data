@@ -1,0 +1,118 @@
+{
+  "id": "20261111-gov_cn_yaowen-d4a398",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085764.htm",
+  "title_zh": "王毅同斯洛伐克外长布拉纳尔会谈",
+  "title_en": "Wang Yi Holds Talks with Slovak Foreign Minister Juraj Blanár",
+  "summary_zh": "11月10日，王毅在北京同斯洛伐克外长布拉纳尔会谈，双方就巩固政治互信、加强战略协调和拓展合作交换意见。",
+  "summary_en": "On November 10, Wang Yi met Slovak Foreign Minister Juraj Blanár in Beijing; they discussed deepening political trust, strategic coordination and bilateral cooperation.",
+  "body_zh": "新华社北京11月10日电（记者曹嘉玥）中共中央政治局委员、外交部长王毅10日在北京同斯洛伐克外长布拉纳尔会谈。\n王毅表示，近年来，在两国领导人共同引领下，中斯成为大小不同、制度不同国家友好相处、平等相待、合作共赢的范例。中方愿同斯方一道，进一步巩固政治互信，加强战略协调，充分释放合作潜力，以更高质量、更高水平双边关系为中欧关系健康发展及世界和平稳定作出贡献。\n布拉纳尔祝贺中国共产党二十届五中全会成功召开，表示斯方始终视中国为重要伙伴，愿同中方拓展各领域交流合作。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "foreign",
+  "keywords": [
+    "中斯关系",
+    "政治互信",
+    "战略协调",
+    "中欧关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "布拉纳尔",
+      "name_en": "Juraj Blanár"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中斯关系",
+      "name_en": "China-Slovakia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治互信",
+      "name_en": "Political Mutual Trust"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略协调",
+      "name_en": "Strategic Coordination"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-Europe Relations"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "布拉纳尔",
+    "北京",
+    "中斯关系",
+    "政治互信",
+    "战略协调",
+    "中欧关系"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Juraj Blanár",
+    "Beijing",
+    "China-Slovakia Relations",
+    "Political Mutual Trust",
+    "Strategic Coordination",
+    "China-Europe Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261111-gov_cn_yaowen-d4a398",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085764.htm",
+      "title_zh": "王毅同斯洛伐克外长布拉纳尔会谈",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "20260916-xinhua_gz-4b04f4",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260916/ca70bde6858f43f5b2aa4b94ff1d90a3/c.html",
+  "title_zh": "李炳军会见巴布亚新几内亚米尔恩湾省省长威斯利一行",
+  "title_en": "Li Bingjun Meets Milne Bay Province Governor Wesley of Papua New Guinea",
+  "summary_zh": "9月15日，贵州省长李炳军在贵阳会见巴布亚新几内亚米尔恩湾省省长威斯利一行，双方就深化经贸、农业、文旅、基础设施等领域合作交换意见。",
+  "summary_en": "On September 15, Guizhou Governor Li Bingjun met in Guiyang with Milne Bay Province Governor Wesley of Papua New Guinea to discuss deeper cooperation in trade, agriculture, tourism and infrastructure.",
+  "body_zh": "9月15日，省长李炳军在贵阳会见巴布亚新几内亚米尔恩湾省省长威斯利一行。副省长张敬平参加。\n李炳军对威斯利一行表示欢迎。他说，近年来，在两国领导人的战略引领下，中巴新关系取得新的发展，相互尊重、共同发展的全面战略伙伴关系不断深化。今年是中巴新建交50周年，希望以此次来访为契机，进一步深化双方友好交往，共同推动经贸、农业、文旅、基础设施建设、矿产资源开发利用等领域合作取得务实成果，更好促进两地发展、造福两地人民。\n威斯利对贵州省的热情接待表示感谢。他说，此访旨在进一步深化两省友好关系，希望学习借鉴贵州数字经济、绿色能源及产业转型等方面的经验，在投资贸易、特色产业、生态环保等领域开展交流合作，实现互利共赢、共同发展。\n省政府秘书长魏树旺，米尔恩湾省、贵阳市和省有关部门负责人参加。（记者 陈毓钊）",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "地方友好交往",
+    "中巴新关系",
+    "经贸合作",
+    "数字经济与绿色能源"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "威斯利",
+      "name_en": "Wesley"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "巴布亚新几内亚",
+      "name_en": "Papua New Guinea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方友好交往",
+      "name_en": "Subnational Friendly Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴新关系",
+      "name_en": "China-Papua New Guinea Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济与绿色能源",
+      "name_en": "Digital Economy and Green Energy"
+    }
+  ],
+  "tags_zh": [
+    "李炳军",
+    "威斯利",
+    "贵阳",
+    "贵州",
+    "巴布亚新几内亚",
+    "地方友好交往",
+    "中巴新关系",
+    "经贸合作",
+    "数字经济与绿色能源"
+  ],
+  "tags_en": [
+    "Li Bingjun",
+    "Wesley",
+    "Guiyang",
+    "Guizhou",
+    "Papua New Guinea",
+    "Subnational Friendly Exchanges",
+    "China-Papua New Guinea Relations",
+    "Trade and Economic Cooperation",
+    "Digital Economy and Green Energy"
+  ],
+  "entities": {
+    "politicians": [
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "张敬平"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY",
+      "CN-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260916-xinhua_gz-4b04f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

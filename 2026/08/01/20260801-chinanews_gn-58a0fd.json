@@ -1,0 +1,84 @@
+{
+  "id": "20260801-chinanews_gn-58a0fd",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-01/10670536.shtml",
+  "title_zh": "李涛卸任河南省副省长",
+  "title_en": "Li Tao Removed as Vice Governor of Henan Province",
+  "summary_zh": "8月1日，河南省人大常委会决定免去李涛的河南省人民政府副省长职务，此前他已任省委常委、秘书长。",
+  "summary_en": "On August 1, the Standing Committee of Henan Provincial People's Congress decided to remove Li Tao from the post of vice governor, as he had earlier become a member of the Standing Committee and Secretary-General of the Provincial Party Committee.",
+  "body_zh": "李涛卸任河南省副省长（附简历）\n8月1日，河南省第十四届人民代表大会常务委员会第二十五次会议通过任免名单，决定免去李涛的河南省人民政府副省长职务。\n此前据河南日报2026年6月18日消息，中共中央批准：李涛同志任中共河南省委常委。\n中共河南省委直属机关工作委员会主办的“河南机关党建”网站显示，李涛已任河南省委常委、秘书长、省委直属机关工委书记。\n李涛，男，汉族，1970年5月出生，河南邓州人，郑州大学微电子技术专业，大学学历，1993年7月参加工作，1996年5月加入中国共产党。\n李涛曾任河南省政府副秘书长，河南省国资委党委副书记、主任，河南省国资委党委书记、主任。2025年4月任河南省政府副省长，并继续担任河南省国资委党委书记。2026年6月任河南省委常委、秘书长、省委直属机关工委书记。\n记者：阚力\n国内新闻精选：\n- 2026年08月02日 11:20:10\n- 2026年08月02日 07:19:05\n- 2026年08月01日 19:27:36\n- 2026年08月01日 16:43:34\n- 2026年08月01日 16:09:50\n- 2026年08月01日 08:47:08\n- 2026年07月31日 20:41:53\n- 2026年07月31日 15:43:22\n- 2026年07月31日 15:19:39\n- 2026年07月31日 12:44:21",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-02T07:10:37Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "省级官员调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-tao-henan",
+      "name_zh": "李涛",
+      "name_en": "Li Tao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省级官员调整",
+      "name_en": "Provincial Official Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "李涛",
+    "河南",
+    "人事任免",
+    "省级官员调整"
+  ],
+  "tags_en": [
+    "Li Tao",
+    "Henan",
+    "Personnel Appointment",
+    "Provincial Official Adjustment"
+  ],
+  "entities": {
+    "politicians": [
+      "li-tao-henan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260801-chinanews_gn-58a0fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

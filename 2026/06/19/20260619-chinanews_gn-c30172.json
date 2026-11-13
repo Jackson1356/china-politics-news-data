@@ -1,0 +1,78 @@
+{
+  "id": "20260619-chinanews_gn-c30172",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-19/10643743.shtml",
+  "title_zh": "端午假期首日全国铁路迎来客流高峰",
+  "title_en": "National Railways Experience Passenger Peak on First Day of Dragon Boat Festival Holiday",
+  "summary_zh": "6月19日端午假期首日，全国铁路迎来客流高峰，预计发送旅客1973万人次，计划加开旅客列车1028列。",
+  "summary_en": "On June 19, the first day of the Dragon Boat Festival holiday, China's national railways saw a passenger peak, with an estimated 19.73 million passengers and 1,028 additional trains planned.",
+  "body_zh": "端午假期首日，全国铁路迎来客流高峰\n中新网北京6月19日电(记者 李京统)记者从中国国家铁路集团有限公司获悉，6月19日端午节假期第1天，全国铁路迎来客流高峰，预计发送旅客1973万人次，计划加开旅客列车1028列。6月18日，全国铁路发送旅客1674.2万人次，运输安全平稳有序。\n截至6月19日8时，铁路12306已累计发售端午假期运输火车票5159万张。从车票预售情况看，今日热门出发城市主要有北京、上海、广州、成都、深圳、杭州、郑州、武汉、西安、南京；热门到达城市主要有北京、广州、成都、杭州、上海、郑州、南京、武汉、西安、深圳；北京至济南、香港至深圳、北京至沈阳、北京至郑州、北京至大同、广州至南宁、北京至呼和浩特、北京至青岛、北京至太原等热门区间客流相对集中。\n从余票情况看，广州往返南宁，广州至衡阳，上海、沈阳、邯郸至北京，北京至包头、济南，西安至兰州，深圳至长沙余票充足。北京往返杭州，北京至赤峰，哈尔滨至北京，长沙至深圳、广州，合肥至上海，上海至长沙，广州至柳州，深圳至衡阳等区间尚有余票。\n记者了解到，各地铁路部门动态跟踪客流情况，精准增加运力投放。如，哈尔滨局集团公司加开北京、沈阳、长春、齐齐哈尔、牡丹江、佳木斯等方向旅客列车155列。太原局集团公司加开北京、西安、吕梁、介休方向旅客列车56列。郑州局集团公司加开北京、上海、杭州、西安、武汉、青岛等方向旅客列车83列。乌鲁木齐局集团公司加开喀什、库尔勒、伊宁、奎屯、和田等热门方向旅客列车40列。(完)\n- 专题：网络中国节·端午\n国内新闻精选：\n- 2026年06月17日 23:46:48\n- 2026年06月17日 17:01:11\n- 2026年06月17日 15:32:31\n- 2026年06月17日 14:33:05\n- 2026年06月17日 14:15:40\n- 2026年06月17日 12:39:12\n- 2026年06月17日 11:19:15\n- 2026年06月16日 22:33:01\n- 2026年06月16日 18:20:35\n- 2026年06月16日 10:41:12",
+  "image_url": null,
+  "published_at": "2026-06-19T12:00:00+00:00",
+  "event_date": "2026-06-19",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "industry",
+  "keywords": [
+    "端午节客流",
+    "铁路运输"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "端午节客流",
+      "name_en": "Dragon Boat Festival Passenger Flow"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "端午节客流",
+    "铁路运输"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Dragon Boat Festival Passenger Flow",
+    "Railway Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260619-chinanews_gn-c30172",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33415565",
+      "title_zh": "6月19日全国铁路预计发送旅客1973万人次",
+      "published_at": "2026-06-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

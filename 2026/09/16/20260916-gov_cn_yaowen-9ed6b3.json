@@ -1,0 +1,127 @@
+{
+  "id": "20260916-gov_cn_yaowen-9ed6b3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081334.htm",
+  "title_zh": "王毅同伊朗外长阿拉格齐会谈",
+  "title_en": "Wang Yi Holds Talks with Iranian Foreign Minister Araghchi",
+  "summary_zh": "9月16日，中共中央政治局委员、外交部长王毅在北京同伊朗外长阿拉格齐举行会谈，就中东海湾局势、伊美关系及中伊合作交换意见。",
+  "summary_en": "On September 16, Chinese Foreign Minister Wang Yi held talks in Beijing with Iranian Foreign Minister Araghchi, discussing the Middle East and Gulf situation, Iran-US relations and China-Iran cooperation.",
+  "body_zh": "新华社北京9月16日电（记者伍岳）中共中央政治局委员、外交部长王毅16日在北京同伊朗外长阿拉格齐举行会谈。\n王毅表示，中国愿意为解决国际争端发挥建设性作用，也愿同伊朗加强对话合作，维护好伊朗的正当权益。我们鼓励伊朗和美国保持理性和克制，尽快回归伊斯兰堡谅解备忘录，就各自关切的问题进行实质性磋商；我们支持伊朗同海湾国家开展对话，尊重彼此领土主权和国家安全；我们敦促各方采取有效措施，早日开放霍尔木兹海峡；我们不希望地区紧张向也门和红海方向进一步外溢。呼吁通过对话谈判解决问题。\n王毅指出，习近平主席在访问埃及期间提出4点倡议，支持地区国家秉持共同、综合、合作、可持续的安全观，构建中东安全新架构。我们欢迎地区国家就此进行的有益探索。中方愿同伊方加强沟通协调，推动中伊关系取得新进展。\n阿拉格齐通报了中东海湾地区最新形势及伊方下步考虑，表示伊方认为伊美谅解备忘录仍然有效，伊朗已同阿曼达成开放霍尔木兹海峡的方案，美方应切实履行做出的各项承诺。伊方欢迎并支持习近平主席提出的维护中东和平稳定4点主张以及促进地区共同安全4点倡议。伊朗高度重视同中国关系，愿推动两国关系持续深入发展。\n双方还就共同关心的国际和地区热点问题交换了意见。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中伊关系",
+    "中东安全",
+    "对话谈判"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "阿拉格齐",
+      "name_en": "Abbas Araghchi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中伊关系",
+      "name_en": "China-Iran Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东安全",
+      "name_en": "Middle East Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对话谈判",
+      "name_en": "Dialogue and Negotiation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "阿拉格齐",
+    "外交部",
+    "北京",
+    "中伊关系",
+    "中东安全",
+    "对话谈判",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Abbas Araghchi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Iran Relations",
+    "Middle East Security",
+    "Dialogue and Negotiation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260916-gov_cn_yaowen-9ed6b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0917/c64094-40800314.html",
+      "title_zh": "王毅同伊朗外长阿拉格齐会谈",
+      "published_at": "2026-09-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

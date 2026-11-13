@@ -1,0 +1,76 @@
+{
+  "id": "20260907-beijing_daily-1e35f1",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/07/11949340.shtml",
+  "title_zh": "紫金矿业就半年报多处文字错误致歉并更正",
+  "title_en": "Zijin Mining Apologizes for Typographical Errors in Half-Year Report",
+  "summary_zh": "8月21日紫金矿业半年报出现多处文字错误，将“县人民政府”误写为“人民币政府”等；9月5日公司公告致歉并更正，称不影响财务数据。",
+  "summary_en": "Zijin Mining's half-year report on Aug 21 contained typographical errors, such as mistaking 'county government' for 'RMB government'; on Sep 5 the company apologized and corrected them, saying financial data were unaffected.",
+  "body_zh": "8月21日，矿业巨头紫金矿业发布的半年报中，出现多处文字错误，将“墨竹工卡县人民政府”写成“墨竹工卡县人民币政府”，将“青海西宁农村商业银行股份有限公司”写成“青海西宁农村商业股份有限公司”，将“江苏藏青新能源产业发展基金合伙企业（有限合伙）”写成“江苏藏青新熊源产业发展基金合伙企业（有限合伙）”，引发热议。\n9月5日，紫金矿业发布公告称，近期公司披露的《2026年半年度报告》及前期公告中“合并财务报表主要项目注释”部分3家单位的名称出现文字错误，现将上述披露文件中所涉3家单位出错名称更正。\n公告称，经核查，上述错误不涉及定期报告中的财务数据、会计科目及经营指标，不会对公司已披露各期定期报告的真实性、准确性、完整性产生实质影响。公司谨向投资者和相关单位致以诚挚歉意。后续，公司将进一步完善内部信息披露管理制度，严格校核审批流程，同时加强与年审会计师事务所的沟通协调，避免此类问题再次发生。\n据企查查，紫金矿业集团股份有限公司为A股及H股两地整体上市的大型跨国矿业集团，主营全球范围内金属矿产资源勘查和开发，矿产铜、金、锌产量居中国第1位，并布局锂、钼等新能源新材料矿产。从紫金矿业的半年报看，2026年上半年实现营业收入1941.78亿元、归母净利润391.70亿元，同比分别增长15.78%、68.17%。此前，公司披露中期分红的实施公告，分红总额合计111.36亿元。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-05",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "economy",
+  "keywords": [
+    "信息披露",
+    "公司治理"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息披露",
+      "name_en": "Information Disclosure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公司治理",
+      "name_en": "Corporate Governance"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金矿业",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信息披露",
+    "公司治理",
+    "金矿业"
+  ],
+  "tags_en": [
+    "Information Disclosure",
+    "Corporate Governance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "金矿业"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 1,
+  "cluster_id": "evt-20260907-beijing_daily-1e35f1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "20260711-gov_cn_yaowen-899a5b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/07/11/VIDETQS7lofgRoFueJddxoF4260711.shtml",
+  "title_zh": "李强同朝鲜内阁总理会谈",
+  "title_en": "Li Qiang Holds Talks with North Korean Premier",
+  "summary_zh": "李强同朝鲜内阁总理朴泰成举行会谈，双方强调将落实最高领导人共识，拓展经贸与民生合作，加强战略协调与配合。",
+  "summary_en": "Li Qiang held talks with North Korean Premier Pak Tae-song, emphasizing the implementation of the consensus between top leaders and expanding cooperation in trade, livelihood, and strategic coordination.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：欢迎仪式后，李强同朴泰成举行会谈。\n李强表示，中朝是命运与共、守望相助的友邻。上月初，习近平总书记对朝鲜进行国事访问，同金正恩总书记就深化中朝关系达成一系列重要共识，共同作出战略指引。维护好、巩固好、发展好中朝关系，始终是中国党和政府坚定不移的方针。中方愿同朝方落实好两党两国最高领导人重要共识，继续秉持《中朝友好合作互助条约》精神，密切高层交往，巩固政治互信，拓展务实合作，更好造福两国人民，为地区乃至世界的和平发展作出积极贡献。\n李强指出，中方愿同朝方对接发展战略，稳步扩大经贸往来，促进互联互通，深化医疗卫生、教育等民生领域合作，增进两国民众福祉。双方要赓续弘扬传统友谊，加强人文交流，进一步拉紧民心相通纽带。当前国际形势正经历深刻复杂变化，中朝同为社会主义国家，应当加强战略协调与配合，携手捍卫自身正当权益和国际公平正义。\n朴泰成表示，金正恩总书记和习近平总书记不久前在平壤举行历史性会晤，充分彰显朝中两党两国团结友好牢不可破，为双边关系发展提供了战略引领。朝方坚定支持中方维护核心利益，愿同中方遵循两党两国最高领导人重要共识，以隆重庆祝《朝中友好合作互助条约》签订65周年为契机，密切高层交往和战略沟通，拓展经贸、科技、人文等领域交流合作，加强国际协作，共同促进社会主义事业发展，谱写朝中关系新篇章。\n吴政隆参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-07-11T12:00:00+00:00",
+  "event_date": "2026-07-11",
+  "ingested_at": "2026-07-13T07:09:47Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "战略协调",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-North Korea Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略协调",
+      "name_en": "Strategic Coordination"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "中朝关系",
+    "战略协调",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "China-North Korea Relations",
+    "Strategic Coordination",
+    "Pragmatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260711-gov_cn_yaowen-899a5b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075081.htm",
+      "title_zh": "李强同朝鲜内阁总理朴泰成会谈",
+      "published_at": "2026-07-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

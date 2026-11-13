@@ -1,0 +1,100 @@
+{
+  "id": "20261112-gov_shi_zui_shan-157378",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/qzfxx/202611/t20261112_5397376.html",
+  "title_zh": "自治区政府召开常务会议",
+  "title_en": "Ningxia Autonomous Region Government Holds Executive Meeting",
+  "summary_zh": "11月11日，宁夏回族自治区主席张雨浦主持召开自治区政府2026年第28次常务会议，研究黄河保护治理、安全生产、生态环保督察整改和养老服务等工作。",
+  "summary_en": "On Nov 11, Ningxia Chairman Zhang Yupu chaired the regional government's 28th executive meeting of 2026, discussing Yellow River protection, safety production, environmental inspection rectification and elderly care.",
+  "body_zh": "11月11日，自治区主席张雨浦主持召开自治区政府2026年第28次常务会议，深入学习贯彻习近平总书记对进一步做好黄河保护治理工作的重要指示精神，部署贯彻落实工作；研究中央安全生产考核巡查、中央生态环保督察反馈问题整改、水资源刚性约束制度落实工作、提升养老服务水平等事项。\n会议强调，要把习近平总书记重要指示精神作为全区水利工作的重要遵循，牢牢把握重在保护、要在治理的战略要求，充分发挥我区“四水四定”先行先试省区等优势，扎实做好2026年度落实水资源刚性约束制度考核工作，进一步加大工作达标力度、加快问题整改速度，为加快建设黄河流域生态保护和高质量发展先行区、为母亲河越来越美作出新贡献。\n会议听取2026年度中央安全生产考核巡查重点任务完成和明查暗访反馈问题整改落实情况汇报，强调要压紧压实各方安全生产责任，动真碰硬推进反馈问题整改到位，确保治本攻坚三年行动顺利收官。要结合冬季安全生产特点，从严从紧查治燃气供暖、道路交通等重点领域和多业态混合经营场所、高层建筑等重点场所风险隐患，持续巩固安全生产良好形势。\n会议听取自治区政府领导分管领域中央生态环保督察反馈问题整改情况及自治区美丽中国建设成效考核重点任务落实、生态环境保护治理攻坚年行动推进情况汇报，强调要坚定不移走生态优先、绿色发展之路，全面抓好各专项行动，有序有效推进重点任务，集中精力解决突出问题，切实提升全域生态治理水平，推进美丽宁夏建设取得新成效。\n会议强调，要以深化养老服务突出问题整治为抓手，加大办实事力度，对符合条件且有意愿的经济困难老年人给予集中照护服务，对中度以上失能老年人发放消费补贴，提高经济困难老年人养老服务和护理两项补贴标准，深入开展特殊困难老年人探访关爱服务，年底前完成安装5000户“一键通”应急呼救设备等任务，让更多老年人享受政策红利。\n会议审议了自治区数字经济、新型能源等相关“十五五”专项规划，研究了公路基础设施建设项目等事项。（记者 周一青 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "黄河保护治理",
+    "安全生产",
+    "生态环保",
+    "养老服务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yupu",
+      "name_zh": "张雨浦",
+      "name_en": "Zhang Yupu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河保护治理",
+      "name_en": "Yellow River Protection and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环保",
+      "name_en": "Ecological and Environmental Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张雨浦",
+    "黄河保护治理",
+    "安全生产",
+    "生态环保",
+    "养老服务",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhang Yupu",
+    "Yellow River Protection and Governance",
+    "Work Safety",
+    "Ecological and Environmental Protection",
+    "Elderly Care Services"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yupu",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261112-gov_shi_zui_shan-157378",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

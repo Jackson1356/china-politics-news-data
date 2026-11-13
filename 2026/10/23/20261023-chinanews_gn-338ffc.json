@@ -1,0 +1,87 @@
+{
+  "id": "20261023-chinanews_gn-338ffc",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-23/10719776.shtml",
+  "title_zh": "科研人员破解声子热霍尔效应悬案",
+  "title_en": "Researchers Resolve Two-Decade Puzzle of Phonon Thermal Hall Effect",
+  "summary_zh": "华中科技大学李亮团队联合法国学者，首次从热力学角度确认声子热霍尔效应源于材料内禀机制，成果10月23日发表于《科学》。",
+  "summary_en": "A team led by Li Liang at Huazhong University of Science and Technology, with French collaborators, confirmed that the phonon thermal Hall effect stems from an intrinsic material mechanism; the result was published in Science on Oct 23.",
+  "body_zh": "科研人员破解声子热霍尔效应悬案\n中新网武汉10月23日电 (黄双子 史梦诗)华中科技大学国家脉冲强磁场科学中心李亮教授团队，联合法国巴黎高等物理化工学院学者，首次从热力学角度确认声子热霍尔效应源于材料内禀机制，而非杂质或缺陷导致的外在散射，为困扰学界21年的内禀—外禀之争提供了关键实验判据。\n相关成果于北京时间10月23日在线发表于国际学术期刊《科学》(Science)。\n通常所说的霍尔效应是指电流在磁场中发生偏转，从而产生横向电压，这一现象只发生在带电粒子身上。而“声子热霍尔效应”则是指：在绝缘体中，热量通过“声子”传递，当施加磁场时，热流也会发生横向偏转，产生温差。\n按照常理，声子不带电，因此无法与磁场发生相互作用，不会产生热霍尔效应。但是2005年，科研人员首次观测到疑似声子热霍尔效应的实验信号，疑问随之而来：这究竟是声子本身固有的内禀行为，还是杂质、晶体缺陷等外禀散射机制在起作用？\n为破解谜题，研究团队依托华中科技大学国家脉冲强磁场科学中心，对多块单晶样品开展精密测量。实验发现，五块“路况”基本一致的样品中，热流偏转程度最大相差近十倍，且偏转大小与声子平均自由程无关，却与材料的磁各向异性紧密关联——这说明偏转并非杂质“碰巧”导致，而是材料本身的内禀属性。\n进一步分析揭示，材料中的磁振子与声子能带存在多处交叉，两者耦合后形成新的杂化模式，使原本不带电的声子获得对磁场的“感知能力”，从而发生偏转。\n李亮表示，声子霍尔效应表明声子这类“中性粒子”同样拥有精彩的量子世界。该成果拓展了对霍尔效应家族的认知边界，促使物理学界重新审视声子与磁场相互作用的理论框架。(完)\n国内新闻精选：\n- 2026年10月23日 14:31:34\n- 2026年10月23日 10:02:49\n- 2026年10月22日 21:50:31\n- 2026年10月22日 17:18:32\n- 2026年10月22日 17:08:26\n- 2026年10月22日 16:05:16\n- 2026年10月22日 10:17:41\n- 2026年10月22日 08:32:34\n- 2026年10月22日 07:48:01\n- 2026年10月22日 07:33:13",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "industry",
+  "keywords": [
+    "基础研究",
+    "量子物理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "华中科技大学",
+      "name_en": "Huazhong University of Science and Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB-WH",
+      "name_zh": "武汉",
+      "name_en": "Wuhan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础研究",
+      "name_en": "Basic Research"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "量子物理",
+      "name_en": "Quantum Physics"
+    }
+  ],
+  "tags_zh": [
+    "华中科技大学",
+    "武汉",
+    "基础研究",
+    "量子物理"
+  ],
+  "tags_en": [
+    "Huazhong University of Science and Technology",
+    "Wuhan",
+    "Basic Research",
+    "Quantum Physics"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HB-WH"
+    ],
+    "companies": [
+      {
+        "name_zh": "华中科技大学",
+        "name_en": "Huazhong University of Science and Technology"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261023-chinanews_gn-338ffc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

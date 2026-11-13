@@ -1,0 +1,99 @@
+{
+  "id": "20260607-xinhua_politics-e2042a",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260607/a28d17d8886446b98b25dddf0f3dc6f7/c.html",
+  "title_zh": "青海G109小峡口改建工程建成通车",
+  "title_en": "G109 Xiaoxiakou Reconstruction Project in Qinghai Completed and Opened to Traffic",
+  "summary_zh": "青海省重点交通建设项目G109小峡口改建工程日前建成通车，实现了西宁与海东两市的快速直联。",
+  "summary_en": "The G109 Xiaoxiakou reconstruction project, a key transportation project in Qinghai Province, has been completed and opened to traffic, providing a fast link between Xining and Haidong.",
+  "body_zh": "新华社北京6月7日电（记者樊曦）记者从中国铁建股份有限公司了解到，由青海省交通控股集团投资建设、中铁十一局承建的G109小峡口改建工程日前建成通车，西宁、海东两市间新增一条快速直联大通道，为区域高质量发展注入交通动能。\nG109小峡口改建工程是青海省重点交通建设项目，起自海东市平安区，途中下穿兰新客专和西和高速，终至西宁市城东区，按双向六车道一级公路标准建设。其中，唐蕃隧道是全线控制性工程，隧道右洞全长3231米，左洞全长3227米，单洞最大跨径达17.8米，为目前青海省最长双线六车道隧道。\nG109小峡口工程建成通车后，将串联西宁经开区和海东河湟新区，有效提升区域通行能力，助力兰西城市群、西宁—海东同城化落地建设。",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "交通基础设施",
+    "区域高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中铁十一局",
+      "name_en": "China Railway 11th Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "西宁",
+      "name_en": "Xining"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "海东",
+      "name_en": "Haidong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transportation Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域高质量发展",
+      "name_en": "High-quality Regional Development"
+    }
+  ],
+  "tags_zh": [
+    "中铁十一局",
+    "青海",
+    "西宁",
+    "海东",
+    "交通基础设施",
+    "区域高质量发展"
+  ],
+  "tags_en": [
+    "China Railway 11th Bureau",
+    "Qinghai",
+    "Xining",
+    "Haidong",
+    "Transportation Infrastructure",
+    "High-quality Regional Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "中铁十一局",
+        "name_en": "China Railway 11th Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260607-xinhua_politics-e2042a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

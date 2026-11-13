@@ -1,0 +1,98 @@
+{
+  "id": "20260616-cjn-d3cfa5",
+  "source": "cjn",
+  "source_name_zh": "长江日报",
+  "source_name_en": "Yangtze Daily (Wuhan)",
+  "source_url": "http://news.cjn.cn/bsy/gjxw_19789/202606/t5305849.htm",
+  "title_zh": "美伊协议已电子签署 19日将正式签署",
+  "title_en": "US and Iran Electronically Sign Agreement, Formal Ceremony Set for 19th",
+  "summary_zh": "美国和伊朗已电子签署一份谅解备忘录，双方将于6月19日举行正式签署仪式，随后将进入下一阶段谈判。",
+  "summary_en": "The US and Iran have electronically signed a Memorandum of Understanding, with a formal signing ceremony scheduled for June 19, followed by further negotiations.",
+  "body_zh": "新华社华盛顿6月15日电（记者黄强 颜亮）美国政府一名高级官员15日表示，美国和伊朗已通过电子方式签署了谅解备忘录，但双方仍将于19日举行正式签署仪式。\n该官员在一场记者简报会上说，美国 总统特朗普和副 总统万斯签署了这份谅解备忘录，伊朗伊斯兰议会议长卡利巴夫代表伊朗方面签署了该文件，预计万斯以及特朗普的特使威特科夫和女婿库什纳将出席19日的仪式。万斯随后将带领美方进入下一阶段谈判。\n该官员说，谅解备忘录将在未来24至48小时内公开发布。不过，特朗普当天在法国出席七国集团峰会期间表示，谅解备忘录将在正式签署仪式之后公布。\n美官员表示，在美伊技术性谈判期间，美国将维持在中东现有的兵力部署；若最终达成协议，美国则将减少在中东地区的兵力。\n关于霍尔木兹海峡，美官员表示，该海峡的交通将很快恢复正常，“肯定会在30天内恢复，但前提是伊朗承诺清除所有水雷”。美国“目前掌握所有水雷的位置”，实际上也能协助进行处置工作。\n美官员表示，美伊协议中并未要求以色列必须从黎巴嫩撤军，“撤军并非该协议的先决条件，如果伊朗无法控制黎巴嫩真主党，且后者对以色列据点或城镇发动袭击，以色列将有权进行自卫并予以回击”。该官员还认为，在黎巴嫩发生的持续冲突不会阻碍特朗普政府与伊朗的协议。\n万斯当天早些时候在接受美国媒体采访时说，双方有许多“至关重要”的细节需要在后续为期60天的谈判中敲定。\n值班编辑 王冲",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "美伊关系",
+    "谅解备忘录",
+    "中东局势"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "华盛顿",
+      "name_en": "Washington"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "美伊关系",
+      "name_en": "US-Iran Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "谅解备忘录",
+      "name_en": "Memorandum of Understanding"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东局势",
+      "name_en": "Middle East Situation"
+    },
+    {
+      "kind": "person",
+      "id": "huang-qiang",
+      "name_zh": "黄强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "华盛顿",
+    "美伊关系",
+    "谅解备忘录",
+    "中东局势",
+    "黄强"
+  ],
+  "tags_en": [
+    "Washington",
+    "US-Iran Relations",
+    "Memorandum of Understanding",
+    "Middle East Situation"
+  ],
+  "entities": {
+    "politicians": [
+      "huang-qiang",
+      {
+        "id": null,
+        "name_zh": "方面"
+      },
+      {
+        "id": null,
+        "name_zh": "方式"
+      },
+      {
+        "id": null,
+        "name_zh": "万斯"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260616-cjn-d3cfa5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

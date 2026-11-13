@@ -1,0 +1,83 @@
+{
+  "id": "20260912-gov_cn_yaowen-d3e424",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080905.htm",
+  "title_zh": "我国对其他金砖国家直接投资稳步增长",
+  "title_en": "China's Direct Investment in Other BRICS Countries Grows Steadily",
+  "summary_zh": "商务部数据显示，截至2025年末中国对其他金砖国家直接投资存量达820亿美元，今年1—7月直接投资约40亿美元，主要投向制造、建筑、电力等领域。",
+  "summary_en": "Data from China's Ministry of Commerce show that by end-2025 China's direct investment stock in other BRICS countries reached US$82 billion, with about US$4 billion invested in January-July this year, mainly in manufacturing, construction and power.",
+  "body_zh": "记者从商务部了解到，近年来，中国对其他金砖国家直接投资稳步增长，有效助力当地经济社会发展。截至2025年末，中国对其他金砖国家直接投资存量820亿美元。今年1—7月份，中国对其他金砖国家直接投资约40亿美元，主要投向制造、建筑、电力等领域。\n近五年来，中国累计为埃及、印度尼西亚等金砖国家培训商贸、卫生、农林牧渔、信息技术等领域专业人才超过3万人，为金砖各国现代化提供有力人才支撑。",
+  "image_url": null,
+  "published_at": "2026-09-12T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "economy",
+  "keywords": [
+    "对外直接投资",
+    "金砖合作",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外直接投资",
+      "name_en": "Outbound Direct Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Training"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "对外直接投资",
+    "金砖合作",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Outbound Direct Investment",
+    "BRICS Cooperation",
+    "Talent Training"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260912-gov_cn_yaowen-d3e424",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

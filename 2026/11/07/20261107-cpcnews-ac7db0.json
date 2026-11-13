@@ -1,0 +1,128 @@
+{
+  "id": "20261107-cpcnews-ac7db0",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1107/c64094-40829556.html",
+  "title_zh": "全国人大常委会举行宪法宣誓仪式",
+  "title_en": "NPC Standing Committee Holds Constitutional Oath Ceremony",
+  "summary_zh": "11月6日上午，十四届全国人大常委会在北京人民大会堂举行宪法宣誓仪式，李鸿忠主持并监誓，新任命的多名全国人大专门委员会副主任委员依法宣誓。",
+  "summary_en": "On the morning of Nov 6, the 14th NPC Standing Committee held a constitutional oath ceremony at the Great Hall of the People in Beijing, presided over and witnessed by Vice Chairman Li Hongzhang, with newly appointed deputy heads of NPC special committees taking the oath.",
+  "body_zh": "本报北京11月6日电 （记者彭波）十四届全国人大常委会6日上午在北京人民大会堂举行宪法宣誓仪式。全国人大常委会副委员长李鸿忠主持并监誓。\n刚刚闭幕的十四届全国人大常委会第二十五次会议任命王君正、王宁为全国人大民族委员会副主任委员，王凯为全国人大监察和司法委员会副主任委员，龚正、毛伟明为全国人大财政经济委员会副主任委员，梁言顺、王予波为全国人大教育科学文化卫生委员会副主任委员，刘宁、任振鹤、王正谱为全国人大农业与农村委员会副主任委员，沈晓明、王清宪为全国人大社会建设委员会副主任委员。根据宪法和全国人大常委会关于实行宪法宣誓制度的决定，上述人员依法进行宪法宣誓。\n全国人大机关有关负责同志参加了宣誓活动。\n《 人民日报 》（ 2026年11月07日 04 版）",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "personnel",
+  "keywords": [
+    "宪法宣誓",
+    "人事任命",
+    "全国人大专门委员会"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hongzhong",
+      "name_zh": "李鸿忠",
+      "name_en": "Li Hongzhong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宪法宣誓",
+      "name_en": "Constitutional Oath"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任命",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国人大专门委员会",
+      "name_en": "NPC Special Committees"
+    }
+  ],
+  "tags_zh": [
+    "李鸿忠",
+    "全国人大常委会",
+    "北京",
+    "宪法宣誓",
+    "人事任命",
+    "全国人大专门委员会"
+  ],
+  "tags_en": [
+    "Li Hongzhong",
+    "NPC Standing Committee",
+    "Beijing",
+    "Constitutional Oath",
+    "Personnel Appointment",
+    "NPC Special Committees"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hongzhong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261107-cpcnews-ac7db0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/1107/c1001-40829466.html",
+      "title_zh": "全国人大常委会举行宪法宣誓仪式 --时政--人民网",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/1107/c134768-41744172.html",
+      "title_zh": "全国人大常委会举行宪法宣誓仪式",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_politics",
+      "source_tier": null,
+      "url": "http://politics.people.com.cn/n1/2026/1106/c461001-40829327.html",
+      "title_zh": "全国人大常委会举行宪法宣誓仪式",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

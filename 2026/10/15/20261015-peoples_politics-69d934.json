@@ -1,0 +1,144 @@
+{
+  "id": "20261015-peoples_politics-69d934",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1015/c1001-40815295.html",
+  "title_zh": "何立峰会见美国桥水投资公司创始人达利欧",
+  "title_en": "He Lifeng Meets Bridgewater Founder Ray Dalio",
+  "summary_zh": "10月14日，中共中央政治局委员、中央财办主任何立峰在北京会见美国桥水投资公司创始人达利欧，双方就中美经贸合作交换意见。",
+  "summary_en": "On Oct 14, Politburo member and Central Financial and Economic Affairs Office Director He Lifeng met Bridgewater founder Ray Dalio in Beijing to discuss China-US economic and trade cooperation.",
+  "body_zh": "何立峰会见美国桥水投资公司创始人达利欧\n新华社北京10月15日电 中共中央政治局委员、中央财办主任何立峰14日在京会见美国桥水投资公司创始人达利欧。\n何立峰表示，今年是“十五五”开局之年，中国经济保持向新向优向好发展态势。习近平主席对美国事访问取得圆满成功，对于双边关系下一步的发展具有重大意义。在两国元首战略共识引领下，中美经贸磋商达成一系列互利、平衡、积极成果，有利于两国及全球经济的稳定和发展。\n达利欧表示，看好中国经济发展前景和机遇，愿为推动美中经贸合作继续发挥积极作用。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "中美经贸合作",
+    "中国经济",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "达利欧",
+      "name_en": "Ray Dalio"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央财办",
+      "name_en": "Office of the Central Financial and Economic Affairs Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸合作",
+      "name_en": "China-US Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国经济",
+      "name_en": "Chinese Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "达利欧",
+    "中央财办",
+    "北京",
+    "中美经贸合作",
+    "中国经济",
+    "十五五规划",
+    "习近平"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "Ray Dalio",
+    "Office of the Central Financial and Economic Affairs Commission",
+    "Beijing",
+    "China-US Economic and Trade Cooperation",
+    "Chinese Economy",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "he-lifeng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央财办",
+        "name_en": "Office of the Central Financial and Economic Affairs Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261015-gov_ying_kou-2acee1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261015/957085e60bbc4c93b3e250aa5b895921/c.html",
+      "title_zh": "何立峰会见美国桥水投资公司创始人达利欧",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083294.htm",
+      "title_zh": "何立峰会见美国桥水投资公司创始人达利欧",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20261015/92136935-b47a-4883-a3ed-f99748c1de12.html",
+      "title_zh": "何立峰会见美国桥水投资公司创始人达利欧",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

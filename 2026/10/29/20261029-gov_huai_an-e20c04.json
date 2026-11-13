@@ -1,0 +1,101 @@
+{
+  "id": "20261029-gov_huai_an-e20c04",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17907840/1793231684430a0tMlwn0.html",
+  "title_zh": "市九届人大常委会第三十七次会议召开",
+  "title_en": "37th Meeting of the 9th Huai'an Municipal People's Congress Standing Committee Convened",
+  "summary_zh": "10月28日，淮安市九届人大常委会第三十七次会议召开，通过人事任免并审议国企对外投资、开发园区改革、乡村振兴等报告，表决通过淮扬菜传承发展促进条例。",
+  "summary_en": "On Oct 28, the 9th Huai'an Municipal People's Congress Standing Committee held its 37th meeting, approving personnel appointments and reviewing reports on SOE outbound investment, development park reform and rural revitalization.",
+  "body_zh": "市九届人大常委会第三十七次会议召开\n10月28日，市九届人大常委会第三十七次会议召开。市人大常委会常务副主任、党组副书记周青主持会议并讲话。市人大常委会副主任范更生、王向红、朱海波和秘书长江山参加会议。副市长洪然，市中级人民法院代理院长马杰，市人民检察院检察长周绪平列席会议。\n会议通过有关人事任免事项并举行宪法宣誓仪式。会议听取并审议市政府关于国企对外投资2025年度收益情况、开发园区改革发展情况的报告，进行满意度表决；听取市人大财经委对应专项调研报告。听取市政府关于贯彻乡村振兴促进“一法一条例”、推动新型职业农民培育情况的报告；听取并审议市政府关于村级集体经济发展情况的报告，进行满意度表决；听取市人大常委会农经委相关调研报告。听取并审议市中级人民法院关于全市法院司法护航重大项目攻坚工作情况的报告，进行满意度表决；听取市人大监察和司法委相关调研报告。听取并审议市人大法制委关于《淮安市淮扬菜传承发展促进条例（草案）》审议结果的报告，表决通过《淮安市淮扬菜传承发展促进条例》。听取并审议市人大常委会执法检查组关于检查《江苏省医疗保障条例》《淮安市住宅小区电动自行车充电安全管理条例》贯彻实施情况的报告。听取、审议并表决通过市人大常委会代表资格审查委员会关于淮安市第九届人民代表大会个别代表资格变动的报告。会议还通报了下一次市人大常委会议题初步安排。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "人事任免",
+    "国企对外投资",
+    "乡村振兴",
+    "地方立法"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国企对外投资",
+      "name_en": "SOE Outbound Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    }
+  ],
+  "tags_zh": [
+    "淮安",
+    "人事任免",
+    "国企对外投资",
+    "乡村振兴",
+    "地方立法"
+  ],
+  "tags_en": [
+    "Huai'an",
+    "Personnel Appointments",
+    "SOE Outbound Investment",
+    "Rural Revitalization",
+    "Local Legislation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江山"
+      },
+      {
+        "id": null,
+        "name_zh": "周青"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261029-gov_huai_an-e20c04",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

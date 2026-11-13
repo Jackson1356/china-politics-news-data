@@ -1,0 +1,100 @@
+{
+  "id": "20261102-gov_wei_hai-9bedf7",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/11/2/art_58817_6714807.html",
+  "title_zh": "孔凡萍会见韩国议政府市客人",
+  "title_en": "Kong Fanping Meets Delegation from Uijeongbu, South Korea",
+  "summary_zh": "10月30日，威海市市长孔凡萍会见韩国京畿道议政府市市长金元基一行，双方就产业对接、经贸往来和人文交流达成合作共识。",
+  "summary_en": "On October 30, Weihai Mayor Kong Fanping met with Uijeongbu Mayor Kim Won-gi of South Korea's Gyeonggi Province, with both sides agreeing to expand industrial cooperation, trade ties and cultural exchanges.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 李文思）10月30日，市委副书记、市长孔凡萍会见韩国京畿道议政府市市长金元基一行。副市长张刚会见时在座。\n孔凡萍对客人来访表示欢迎。她说，威海与韩国隔海相望，地缘相近、商缘相通、人缘相亲，合作基础深厚。希望双方进一步加强沟通，强化产业对接，拓展项目合作，深化经贸往来，增进人文交流，共谋发展、共赢未来。\n金元基对威海经济社会发展给予高度评价，表示将同威海在新兴产业、未来产业领域进一步拓展合作空间，积极做好产业对接与信息共享，不断增进两市交流互动，为双方务实合作创造良好条件。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "产业对接",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业对接",
+      "name_en": "Industrial Matchmaking"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchanges"
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "产业对接",
+    "经贸合作",
+    "人文交流"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Industrial Matchmaking",
+    "Economic and Trade Cooperation",
+    "People-to-People Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "张刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261102-gov_wei_hai-9bedf7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

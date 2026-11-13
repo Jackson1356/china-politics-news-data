@@ -1,0 +1,103 @@
+{
+  "id": "20260609-qiushi-5b70be",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_url": "http://www.qstheory.cn/20260609/0b9f575168a04e459ebb9e940341e5f6/c.html",
+  "title_zh": "习近平结束对朝鲜国事访问回到北京",
+  "title_en": "Xi Jinping Returns to Beijing After State Visit to North Korea",
+  "summary_zh": "6月9日下午，中共中央总书记、国家主席习近平在圆满结束对朝鲜国事访问后回到北京。",
+  "summary_en": "On the afternoon of June 9, General Secretary and President Xi Jinping returned to Beijing after completing a state visit to North Korea.",
+  "body_zh": "新华社北京6月9日电 6月9日下午，中共中央总书记、国家主席习近平在圆满结束对朝鲜国事访问后回到北京。\n习近平总书记、国家主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等陪同人员同机返回。\n网站编辑 -\n高淑雅\n张盼 审核 - 那非丁\n网站编辑 -\n高淑雅\n张盼 审核 - 那非丁",
+  "image_url": null,
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜",
+      "name_en": "North Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-North Korea Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "朝鲜",
+    "国事访问",
+    "中朝关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "North Korea",
+    "State Visit",
+    "China-North Korea Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-qiushi-5b70be",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071621.htm",
+      "title_zh": "习近平结束对朝鲜国事访问回到北京",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "source": "xinhua_sh",
+      "source_tier": 2,
+      "url": "https://www.news.cn/politics/leaders/20260609/5ed6df027fd64c1da6866ab06c2824a1/c.html",
+      "title_zh": "习近平结束对朝鲜国事访问回到北京",
+      "published_at": "2026-06-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

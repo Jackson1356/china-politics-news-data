@@ -1,0 +1,112 @@
+{
+  "id": "20261111-gov_chen_yang-127078",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202611/t20261111_5116003.html",
+  "title_zh": "市政协党组召开扩大会议 高键主持并讲话",
+  "title_en": "Shenyang CPPCC Party Leadership Group Holds Expanded Meeting, Chaired by Gao Jian",
+  "summary_zh": "11月10日，沈阳市政协党组召开扩大会议，传达学习市第十五次党代会精神，市政协党组书记高键主持会议并讲话。",
+  "summary_en": "On Nov 10, the Party Leadership Group of the Shenyang CPPCC held an expanded meeting to study the spirit of the city's 15th Party Congress; group secretary Gao Jian chaired and addressed the meeting.",
+  "body_zh": "11月10日，市政协党组召开扩大会议，传达学习市第十五次党代会精神。市政协党组书记高键主持会议并讲话。\n会议指出，市第十五次党代会是在全市上下深入学习贯彻党的二十届五中全会精神之际，在沈阳全面振兴夯实基础、全面发力的关键时期召开的一次十分重要的会议。党代会报告总结了过去五年的工作，明确了今后五年工作的目标要求，对振兴发展的重点任务作出系统部署，对持之以恒推进全面从严治党提出明确要求，契合沈阳实际、展现省会担当、顺应人民期盼，是沈阳全面振兴开启新征程、取得新突破的任务书。\n会议强调，要加强党对政协工作的全面领导，持续用党的创新理论凝心铸魂，坚定拥护“两个确立”、坚决做到“两个维护”。要立足当前，紧扣市党代会部署要求，紧跟国家政策方向，聚焦新产业新业态新模式，练好调查研究、建言资政、凝聚共识基本功，助力东北亚国际化中心城市建设。要持之以恒推进全面从严治党，锤炼党性修养，不断强化党的意识、党员意识、先锋队意识，严格落实中央八项规定及其实施细则精神，转作风、树新风，营造风清气正的政治生态。\n会议强调，学习好宣传好贯彻好市党代会精神，是当前和今后一个时期的重要政治任务。要结合学习贯彻党的二十届五中全会精神，学习贯彻习近平总书记关于加强和改进人民政协工作的重要思想，学习贯彻习近平总书记对辽宁、沈阳的重要讲话和重要指示精神，一体学习、一体领会、一体落实，切实把学习成果转化为推动政协工作的具体实践，为奋力谱写中国式现代化沈阳新篇章贡献智慧和力量。\n会议还传达学习了其他内容。\n市政协党组成员纪政、王会奇、李军、杨昕参加会议。市政协副主席王燕玲、于龙、赵彦志列席会议。（记者刘宏伟）",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻党代会精神",
+    "人民政协工作",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高键",
+      "name_en": "Gao Jian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-SY",
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻党代会精神",
+      "name_en": "Studying Party Congress Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "高键",
+    "沈阳",
+    "学习贯彻党代会精神",
+    "人民政协工作",
+    "全面从严治党",
+    "习近平"
+  ],
+  "tags_en": [
+    "Gao Jian",
+    "Shenyang",
+    "Studying Party Congress Spirit",
+    "CPPCC Work",
+    "Full and Rigorous Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "高键"
+      },
+      {
+        "id": null,
+        "name_zh": "严治党"
+      },
+      {
+        "id": null,
+        "name_zh": "杨昕"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-gov_chen_yang-127078",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

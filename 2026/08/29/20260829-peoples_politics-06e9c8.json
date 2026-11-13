@@ -1,0 +1,96 @@
+{
+  "id": "20260829-peoples_politics-06e9c8",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0829/c1001-40788330.html",
+  "title_zh": "全国人大常委会举行宪法宣誓仪式",
+  "title_en": "NPC Standing Committee Holds Constitutional Oath Ceremony",
+  "summary_zh": "十四届全国人大常委会28日下午在北京人民大会堂举行宪法宣誓仪式，新任命的全国人大社会建设委员会副主任委员倪岳峰和民政部部长李常官依法宣誓，副委员长肖捷主持并监誓。",
+  "summary_en": "The Standing Committee of the 14th NPC held a constitutional oath ceremony at the Great Hall of the People in Beijing on the afternoon of Aug 28. Ni Yuefeng and Li Changguan took the oath after their appointments, with Vice Chairperson Xiao Jie presiding.",
+  "body_zh": "全国人大常委会举行宪法宣誓仪式\n本报北京8月28日电 （记者彭波）十四届全国人大常委会28日下午在北京人民大会堂举行宪法宣誓仪式。全国人大常委会副委员长肖捷主持并监誓。\n刚刚闭幕的十四届全国人大常委会第二十四次会议任命倪岳峰为全国人大社会建设委员会副主任委员，决定任命李常官为民政部部长。根据宪法和全国人大常委会关于实行宪法宣誓制度的决定，上述人员依法进行宪法宣誓。\n全国人大机关、民政部有关负责同志参加了宣誓活动。\n《 人民日报 》（ 2026年08月29日 02 版）",
+  "image_url": null,
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "personnel",
+  "keywords": [
+    "宪法宣誓",
+    "人事任命"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宪法宣誓",
+      "name_en": "Constitutional Oath"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任命",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "person",
+      "id": "xiao-jie",
+      "name_zh": "肖捷",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "全国人大常委会",
+    "北京",
+    "宪法宣誓",
+    "人事任命",
+    "肖捷"
+  ],
+  "tags_en": [
+    "NPC Standing Committee",
+    "Beijing",
+    "Constitutional Oath",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "xiao-jie"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260829-peoples_politics-06e9c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

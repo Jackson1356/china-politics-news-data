@@ -1,0 +1,96 @@
+{
+  "id": "20261112-local_si_chuan_zai_xian_cn_sc-b09783",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202611/83355985.html",
+  "title_zh": "习近平：继承孙中山先生的遗志 同心协力共襄中华民族伟大复兴盛举",
+  "title_en": "Xi Jinping: Carry On Dr. Sun Yat-sen's Legacy and Jointly Advance the Great Rejuvenation of the Chinese Nation",
+  "summary_zh": "11月12日上午，纪念孙中山先生诞辰160周年大会在北京举行，习近平出席并发表重要讲话，呼吁海内外中华儿女团结共襄民族复兴。",
+  "summary_en": "On the morning of Nov 12, a congress marking the 160th anniversary of Sun Yat-sen's birth was held in Beijing, where Xi Jinping delivered a speech calling on Chinese people at home and abroad to unite for national rejuvenation.",
+  "body_zh": "您的浏览器不支持此视频格式\n纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。\n习近平说：“以中国式现代化全面推进强国建设、民族复兴伟业，是中国共产党和中国人民的新长征，也是实现孙中山先生‘振兴中华’理想的必由之路。我呼吁，海内外全体中华儿女更加紧密地团结起来，继承孙中山先生的遗志，同心协力共襄中华民族伟大复兴盛举，不断把近代以来我国各族人民孜孜以求的伟大梦想变成美好现实！”",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "孙中山诞辰160周年",
+    "中华民族伟大复兴",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山诞辰160周年",
+      "name_en": "160th Anniversary of Sun Yat-sen's Birth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族伟大复兴",
+      "name_en": "Great Rejuvenation of the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央",
+    "孙中山诞辰160周年",
+    "中华民族伟大复兴",
+    "中国式现代化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "160th Anniversary of Sun Yat-sen's Birth",
+    "Great Rejuvenation of the Chinese Nation",
+    "Chinese Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261112-local_si_chuan_zai_xian_cn_sc-b09783",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

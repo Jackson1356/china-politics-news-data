@@ -1,0 +1,111 @@
+{
+  "id": "20261112-gov_xuan_cheng-08d894",
+  "source": "gov_xuan_cheng",
+  "source_name_zh": "宣城市政府网",
+  "source_name_en": "宣城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xuan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xuancheng.gov.cn/Content/show/1736991.html",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团报告会在合肥举行",
+  "title_en": "Central Propaganda Team Holds Report Session on Fifth Plenary Session Spirit in Hefei",
+  "summary_zh": "11月11日上午，学习贯彻党的二十届五中全会精神中央宣讲团报告会在合肥举行，中央宣讲团成员王江作宣讲报告，省委书记李乐成主持，宣城市领导在分会场参会。",
+  "summary_en": "On the morning of Nov 11, a central propaganda team report session on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee was held in Hefei, with team member Wang Jiang delivering the report and Anhui Party Secretary Li Lecheng presiding; Xuancheng officials attended via video link.",
+  "body_zh": "按照党中央统一部署，11月11日上午，学习贯彻党的二十届五中全会精神中央宣讲团报告会在合肥举行。中央宣讲团成员，中央金融办分管日常工作的副主任、中央金融工委分管日常工作的副书记王江作宣讲报告。省委书记李乐成主持。报告会以电视电话会议形式举行。市委书记何淳宽，市委副书记、市长邓继敢，市政协主席吴爱国，市委副书记刘居胜，市委常委、其他在职市级领导和部分市级退休老同志在宣城分会场出席会议。\n省电视电话会后，何淳宽就贯彻落实会议精神提出了要求。他指出，要把学习宣传贯彻党的二十届五中全会精神作为当前和今后一个时期的重大政治任务，按照中央部署和省委要求，抓实学习培训，精心组织宣传宣讲，推动全会精神深入基层、深入人心。要把学习贯彻成效转化为干事创业的强大动力，扎实做好经济运行、项目建设、消费提振、民生保障、风险防范等各项工作，全力完成全年目标任务。市级领导班子成员和市直部门党委（党组）主要负责同志要带头学习宣传贯彻全会精神，认真抓好各项工作落实，坚决扛起全面从严治党责任，以严实作风保障全会精神在宣城落地见效。\n市直各单位主要负责人、市各民主党派负责人和无党派人士代表，干部职工、高校师生、驻宣部队、市理论工作者代表及市级理论宣讲人才库部分成员等在宣城分会场参加会议。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会精神",
+    "理论宣讲",
+    "学习贯彻"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-jiang-finance",
+      "name_zh": "王江",
+      "name_en": "Wang Jiang"
+    },
+    {
+      "kind": "person",
+      "id": "li-lecheng",
+      "name_zh": "李乐成",
+      "name_en": "Li Lecheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-XC",
+      "name_zh": "宣城",
+      "name_en": "Xuancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Fifth Plenary Session Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣讲",
+      "name_en": "Theoretical Outreach"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Implementation of Guiding Principles"
+    }
+  ],
+  "tags_zh": [
+    "王江",
+    "李乐成",
+    "合肥",
+    "宣城",
+    "党的二十届五中全会精神",
+    "理论宣讲",
+    "学习贯彻"
+  ],
+  "tags_en": [
+    "Wang Jiang",
+    "Li Lecheng",
+    "Hefei",
+    "Xuancheng",
+    "Fifth Plenary Session Spirit",
+    "Theoretical Outreach",
+    "Implementation of Guiding Principles"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jiang-finance",
+      "li-lecheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HF",
+      "CN-AH-XC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261112-gov_xuan_cheng-08d894",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260911-gov_cn_yaowen-27c598",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080796.htm",
+  "title_zh": "中国与其他金砖成员国贸易指数连续10年向上攀升",
+  "title_en": "China's Trade Index with Other BRICS Members Climbs for 10th Consecutive Year",
+  "summary_zh": "海关总署发布2025年中国与其他金砖成员国贸易指数，升至334.14，连续10年攀升；双边进出口7.47万亿元，占中国外贸总值16.4%。",
+  "summary_en": "China's General Administration of Customs released the 2025 trade index for China and other BRICS members, which rose to 334.14, marking a 10th straight annual increase, with trade reaching RMB 7.47 trillion, or 16.4% of China's total foreign trade.",
+  "body_zh": "海关总署近日发布2025年中国与其他金砖成员国贸易指数。2025年上升至334.14，较2024年提升32.64，实现连续10年向上攀升。\n数据显示，2025年中国与其他金砖成员国有进出口记录的企业数量首次突破30万家，同比增加8.8%；进出口7.47万亿元，同比增长3.4%，占当年中国外贸总值的16.4%。\n指数涵盖贸易规模、贸易结构等4个指标体系，全方位展示中国与其他金砖成员国贸易发展成就。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "economy",
+  "keywords": [
+    "金砖合作",
+    "对外贸易",
+    "贸易指数"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外贸易",
+      "name_en": "Foreign Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易指数",
+      "name_en": "Trade Index"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "金砖合作",
+    "对外贸易",
+    "贸易指数"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "BRICS Cooperation",
+    "Foreign Trade",
+    "Trade Index"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260911-gov_cn_yaowen-27c598",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

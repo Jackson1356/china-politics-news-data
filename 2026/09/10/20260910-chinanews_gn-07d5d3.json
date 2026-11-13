@@ -1,0 +1,93 @@
+{
+  "id": "20260910-chinanews_gn-07d5d3",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-10/10694250.shtml",
+  "title_zh": "一箭六星 长四乙火箭成功发射",
+  "title_en": "Long March 4B Rocket Successfully Launches Six Satellites in One Shot",
+  "summary_zh": "北京时间9月10日17时，中国在酒泉卫星发射中心用长征四号乙运载火箭以一箭六星方式，成功发射遥感五十三号、五十六号共六颗卫星。",
+  "summary_en": "At 17:00 Beijing time on Sept 10, China successfully launched six remote-sensing satellites from the Jiuquan Satellite Launch Center aboard a Long March 4B rocket.",
+  "body_zh": "一箭六星 长四乙火箭成功发射\n中新社北京9月10日电 (记者 马帅莎)据中国航天科技集团消息，北京时间9月10日17时，中国在酒泉卫星发射中心使用长征四号乙运载火箭，以“一箭六星”的方式，成功将遥感五十三号01-03星、遥感五十六号01-03星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。\n遥感五十三号01-03星、遥感五十六号01-03星由中国航天科技集团五院抓总研制，主要用于科学试验、国土资源普查、农产品估产和防灾减灾等领域。\n长征四号乙运载火箭是由中国航天科技集团八院抓总研制的常温液体三级运载火箭，具备发射多种类型、不同轨道要求卫星的能力，可执行一箭一星或多星发射任务，其700公里太阳同步圆轨道运载能力可达2.5吨。\n此次任务是长征系列运载火箭的第666次飞行。(完)\n国内新闻精选：\n- 2026年09月11日 14:46:37\n- 2026年09月11日 09:57:06\n- 2026年09月11日 09:36:17\n- 2026年09月11日 09:35:27\n- 2026年09月11日 09:00:15\n- 2026年09月11日 08:40:31\n- 2026年09月11日 08:31:37\n- 2026年09月10日 20:28:21\n- 2026年09月10日 19:20:37\n- 2026年09月10日 14:52:00",
+  "image_url": null,
+  "published_at": "2026-09-10T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "industry",
+  "keywords": [
+    "航天发射",
+    "遥感卫星",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CASC",
+      "name_zh": "中国航天科技集团",
+      "name_en": "China Aerospace Science and Technology Corporation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS-JQ",
+      "name_zh": "酒泉",
+      "name_en": "Jiuquan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航天发射",
+      "name_en": "Space Launch"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "遥感卫星",
+      "name_en": "Remote Sensing Satellites"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "中国航天科技集团",
+    "酒泉",
+    "航天发射",
+    "遥感卫星",
+    "科技创新"
+  ],
+  "tags_en": [
+    "China Aerospace Science and Technology Corporation",
+    "Jiuquan",
+    "Space Launch",
+    "Remote Sensing Satellites",
+    "Scientific and Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CASC"
+    ],
+    "locations": [
+      "CN-GS-JQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260910-chinanews_gn-07d5d3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

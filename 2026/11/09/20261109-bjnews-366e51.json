@@ -1,0 +1,111 @@
+{
+  "id": "20261109-bjnews-366e51",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1794213975129601.html",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在甘肃宣讲",
+  "title_en": "Central Lecture Team on the Spirit of the Fifth Plenary Session of the 20th CPC Central Committee Speaks in Gansu",
+  "summary_zh": "11月9日，学习贯彻党的二十届五中全会精神中央宣讲团在甘肃兰州宣讲，中央政策研究室副主任周新群作报告，并赴西北师范大学与师生交流。",
+  "summary_en": "On Nov 9, the central lecture team on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee delivered a report in Lanzhou, Gansu, given by Zhou Xinquan of the Central Policy Research Office, who later met faculty and students at Northwest Normal University.",
+  "body_zh": "据新华社兰州11月9日电 学习贯彻党的二十届五中全会精神中央宣讲团11月9日在甘肃省兰州市宣讲，中央宣讲团成员、中央政策研究室副主任周新群作宣讲报告。\n报告会上，周新群紧扣宣讲主题，围绕习近平总书记在全会上的重要讲话精神和全会通过的《决定》，从深刻认识全会的重大意义，深入学习领会习近平总书记在全会上的重要讲话精神，系统深入把握党中央持之以恒推进全面从严治党的若干重大问题，学习领会《决定》的有效方法等方面，对全会精神作了全面宣讲和深入阐释。\n周新群在宣讲中表示，要深刻领会党中央持之以恒推进全面从严治党的战略考量，自觉把思想和行动统一到全会作出的决策部署上来，细化目标任务和举措，强化跟踪问效，确保行动坚决、落实有力。\n9日下午，周新群来到西北师范大学，面向师生宣讲党的二十届五中全会精神，并与师生互动交流。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CCPRO",
+      "name_zh": "中央政策研究室",
+      "name_en": "Central Policy Research Office"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS-LZ",
+      "name_zh": "兰州",
+      "name_en": "Lanzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Self-Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣讲",
+      "name_en": "Theoretical Outreach"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中央政策研究室",
+    "甘肃",
+    "兰州",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲",
+    "习近平"
+  ],
+  "tags_en": [
+    "Central Policy Research Office",
+    "Gansu",
+    "Lanzhou",
+    "Spirit of the Fifth Plenary Session",
+    "Full and Rigorous Party Self-Governance",
+    "Theoretical Outreach"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CCPRO"
+    ],
+    "locations": [
+      "CN-GS",
+      "CN-GS-LZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261109-bjnews-366e51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

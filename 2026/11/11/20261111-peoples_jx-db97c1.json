@@ -1,0 +1,127 @@
+{
+  "id": "20261111-peoples_jx-db97c1",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jx.people.com.cn/n2/2026/1111/c186330-41747436.html",
+  "title_zh": "今年第二批质量督察工作启动",
+  "title_en": "Second Batch of Quality Inspection Teams for 2026 Launched",
+  "summary_zh": "国家质量强国建设协调推进领导小组办公室会同有关成员单位组成4个质量督察组，启动2026年第二批质量督察，陆续进驻安徽、江西、河南、四川等省份开展抽查核查。",
+  "summary_en": "The Office of the National Leading Group for Building a Quality Power, together with member units, has formed four quality inspection teams to launch the second batch of quality inspections for 2026, dispatching them to Anhui, Jiangxi, Henan and Sichuan for spot checks.",
+  "body_zh": "今年第二批质量督察工作启动\n本报北京11月10日电 （记者林丽鹂）近日，国家质量强国建设协调推进领导小组办公室会同有关成员单位组成4个质量督察组，启动2026年第二批质量督察工作。\n4个质量督察组陆续进驻安徽、江西、河南、四川等省份，将持续聚焦贯彻落实党中央、国务院关于质量工作决策部署情况，质量责任落实情况，形成部门合力处置质量问题隐患情况等内容，围绕重点领域、重点产品、重点行为开展抽查核查。推动解决一批社会关切和群众反映强烈的突出质量问题，更好服务经济社会高质量发展和人民群众高品质生活需要。\n《 人民日报 》（ 2026年11月11日 13 版）",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "industry",
+  "keywords": [
+    "质量督察",
+    "质量强国",
+    "产品质量监管",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "质量督察",
+      "name_en": "Quality Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "质量强国",
+      "name_en": "Quality Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产品质量监管",
+      "name_en": "Product Quality Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    }
+  ],
+  "tags_zh": [
+    "安徽",
+    "江西",
+    "河南",
+    "四川",
+    "质量督察",
+    "质量强国",
+    "产品质量监管",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Anhui",
+    "Jiangxi",
+    "Henan",
+    "Sichuan",
+    "Quality Inspection",
+    "Quality Power",
+    "Product Quality Supervision",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH",
+      "CN-JX",
+      "CN-HA",
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-peoples_jx-db97c1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/1111/c378440-41747292.html",
+      "title_zh": "今年第二批质量督察工作启动",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
