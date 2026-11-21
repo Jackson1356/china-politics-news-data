@@ -1,0 +1,109 @@
+{
+  "id": "20261102-gov_wu_hu-6850f4",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41387263.html",
+  "title_zh": "纪念中国工农红军长征胜利90周年研讨会在芜举行",
+  "title_en": "Seminar Commemorating 90th Anniversary of Long March Victory Held in Wuhu",
+  "summary_zh": "11月1日，纪念中国工农红军长征胜利90周年研讨会在芜湖召开，百余名党史专家学者围绕长征精神展开研讨交流。",
+  "summary_en": "On Nov 1, a seminar marking the 90th anniversary of the Long March's victory opened in Wuhu, Anhui, drawing more than 100 Party history scholars to discuss the spirit of the Long March.",
+  "body_zh": "纪念中国工农红军长征胜利90周年研讨会在芜举行\n本报讯（记者 乐培意 张子豪）11月1日，纪念中国工农红军长征胜利90周年研讨会在芜湖召开。省委党史研究院院长吴璀平，安徽师范大学党委书记王峰，市委副书记汪冬出席开幕式。\n研讨会以“征途·功绩·精神”为主题。与会人员深入学习习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神，围绕“长征精神的历史底蕴与丰富内涵”“长征精神赋能中国式现代化的实践探索”“长征红色文化资源开发利用”三个议题展开研讨和交流，重温波澜壮阔的长征历程，领悟长征精神的历史意义和当代价值，走好新的长征路。\n研讨会由省中共党史学会、安徽师范大学主办，安师大马克思主义学院、安师大中共党史党建研究院、市委党史和地方志研究室承办。百余名全国各地及高校党史专家学者参会。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-01",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "党史学习教育",
+    "红色文化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "安徽师范大学",
+      "name_en": "Anhui Normal University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党史学习教育",
+      "name_en": "Party History Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "红色文化",
+      "name_en": "Red Culture"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "安徽师范大学",
+    "芜湖",
+    "长征精神",
+    "党史学习教育",
+    "红色文化",
+    "习近平"
+  ],
+  "tags_en": [
+    "Anhui Normal University",
+    "Wuhu",
+    "Long March Spirit",
+    "Party History Education",
+    "Red Culture"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "汪冬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": [
+      {
+        "name_zh": "安徽师范大学",
+        "name_en": "Anhui Normal University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261102-gov_wu_hu-6850f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260914-gov_cn_yaowen-66036e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081067.htm",
+  "title_zh": "金融总量合理增长 有力支撑经济向新向优向好发展",
+  "title_en": "Steady Growth in Financial Aggregates Supports Economy's Upward Momentum",
+  "summary_zh": "中国人民银行9月14日公布数据，8月末广义货币M2余额356.81万亿元，同比增长7.5%，人民币贷款余额超280万亿元，贷款利率保持历史低位。",
+  "summary_en": "The People's Bank of China said on Sept 14 that M2 stood at 356.81 trillion yuan at end-August, up 7.5% year on year, with outstanding yuan loans exceeding 280 trillion yuan and loan rates at historic lows.",
+  "body_zh": "中国人民银行今天（9月14日）公布的数据显示，8月末，广义货币（M2）余额356.81万亿元，同比增长7.5%；社会融资规模存量为464.8万亿元。其中，对实体经济发放的人民币贷款余额278.63万亿元，同比增长5%。我国金融总量合理增长，社会融资条件保持宽松，为经济稳定增长和高质量发展营造了适宜的货币金融环境。\n8月末，人民币各项贷款余额超280万亿元，信贷结构持续优化。金融“五篇大文章”领域贷款持续保持两位数增速，增量占各项贷款增量的比重已经提高至70%以上，信贷资源更多流向科技创新、绿色转型等新动能领域。\n贷款利率保持在历史低位水平。8月份，企业新发放贷款加权平均利率略低于3%，比上年同期低约0.2个百分点。",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "金融数据",
+    "货币政策",
+    "实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融数据",
+      "name_en": "Financial Data"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货币政策",
+      "name_en": "Monetary Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "金融数据",
+    "货币政策",
+    "实体经济"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Financial Data",
+    "Monetary Policy",
+    "Real Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260914-gov_cn_yaowen-66036e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

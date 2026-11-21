@@ -1,0 +1,88 @@
+{
+  "id": "20261105-beijing_daily-5f7e6e",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/05/12019029.shtml",
+  "title_zh": "美国中期选举后中美关系进展如何？外交部回应",
+  "title_en": "Foreign Ministry Responds on China-US Relations After US Midterm Elections",
+  "summary_zh": "11月5日，外交部发言人郭嘉昆在外交部例行记者会上就美国中期选举后中美关系答问，称中期选举是美国内政，中方愿同美方妥处分歧、拓展合作。",
+  "summary_en": "On November 5, Foreign Ministry spokesperson Guo Jiakun told a regular press briefing that the US midterm elections are America's internal affair, and that China is ready to work with the US to manage differences and expand cooperation.",
+  "body_zh": "11月5日，外交部发言人郭嘉昆主持例行记者会。\n彭博社记者提问，发言人能否谈谈美国中期选举之后中美关系的情况。\n郭嘉昆表示：“我们此前已经回应了相关的问题。中期选举是美国的内政。中方愿继续同美方一道，维护好、落实好两国元首重要共识，加强沟通，妥处分歧，拓展合作，构建基于尊重、公平、对等的中美建设性战略稳定关系。”\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "美国中期选举",
+    "战略稳定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "美国中期选举",
+      "name_en": "US Midterm Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中美关系",
+    "美国中期选举",
+    "战略稳定"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "China-US Relations",
+    "US Midterm Elections",
+    "Strategic Stability"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261105-beijing_daily-5f7e6e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "20261116-xinhua_politics-58f95f",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261116/369a10ef11a446bda631ac4d0de202a7/c.html",
+  "title_zh": "亚太人文交流活动15日在广东深圳举行",
+  "title_en": "Asia-Pacific People-to-People Exchange Event Held in Shenzhen, Guangdong",
+  "summary_zh": "11月15日，亚太人文交流活动在广东深圳举行，由中央广播电视总台与广东省人民政府联合主办，约150名亚太地区代表出席。",
+  "summary_en": "An Asia-Pacific people-to-people and cultural exchange event was held on Nov 15 in Shenzhen, Guangdong, co-hosted by China Media Group and the Guangdong Provincial People's Government, with about 150 regional representatives attending.",
+  "body_zh": "新华社深圳11月15日电 亚太人文交流活动15日在广东深圳举行。\n与会嘉宾认为，习近平主席鲜明提出构建亚太共同体，为推进亚太合作提出了中国方案。推动构建亚太共同体，既要靠经济科技的力量同频共进，也要靠文化文明的力量同心共情。\n与会嘉宾表示，要秉持开放包容，积极践行全球文明倡议，深化亚太文明交流互鉴。要培育创新生态，合力推动文化建设数智化赋能、信息化转型，激发亚太文化发展活力。要坚守合作初心，进一步扩大人文交流合作，拉紧亚太民心相通纽带。\n此次活动由中央广播电视总台与广东省人民政府联合主办，以“山海同辉 美美与共”为主题。亚太地区有关国家政府部门、国际组织、媒体机构等领域代表共约150人出席。",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-15",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太共同体",
+    "人文交流",
+    "全球文明倡议"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太共同体",
+      "name_en": "Asia-Pacific Community"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人文交流",
+      "name_en": "People-to-People Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球文明倡议",
+      "name_en": "Global Civilization Initiative"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中央广播电视总台",
+    "深圳",
+    "亚太共同体",
+    "人文交流",
+    "全球文明倡议",
+    "习近平"
+  ],
+  "tags_en": [
+    "China Media Group",
+    "Shenzhen",
+    "Asia-Pacific Community",
+    "People-to-People Exchange",
+    "Global Civilization Initiative"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261116-xinhua_politics-58f95f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

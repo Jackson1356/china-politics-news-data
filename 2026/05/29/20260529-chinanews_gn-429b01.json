@@ -1,0 +1,105 @@
+{
+  "id": "20260529-chinanews_gn-429b01",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/05-29/10630702.shtml",
+  "title_zh": "卢春龙任中国政法大学校长",
+  "title_en": "Lu Chunlong Appointed President of China University of Political Science and Law",
+  "summary_zh": "2026年5月29日，教育部党组宣布卢春龙任中国政法大学校长、党委副书记，马怀德不再担任该职务。",
+  "summary_en": "On May 29, 2026, the Party Leadership Group of the Ministry of Education announced the appointment of Lu Chunlong as President and Deputy Secretary of the Party Committee of China University of Political Science and Law.",
+  "body_zh": "卢春龙任中国政法大学校长\n中新网5月29日电 据教育部网站消息，5月29日，教育部党组在中国政法大学宣布了有关任免决定，卢春龙同志任中国政法大学校长、党委副书记，马怀德同志不再担任中国政法大学校长、党委副书记职务。教育部党组成员、副部长、总督学王嘉毅出席会议并讲话。北京市委教育工委有关负责同志出席会议并讲话，教育部人事司有关负责同志出席会议。\n卢春龙，1976年4月出生，研究生，博士学位，中共党员，教授。曾任中国政法大学党委常委、副校长。\n国内新闻精选：\n- 2026年05月29日 11:40:24\n- 2026年05月29日 11:24:31\n- 2026年05月29日 09:31:30\n- 2026年05月29日 09:30:24\n- 2026年05月29日 07:21:32\n- 2026年05月29日 07:19:18\n- 2026年05月28日 22:02:33\n- 2026年05月28日 20:44:48\n- 2026年05月28日 20:09:40\n- 2026年05月28日 16:16:29",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-29",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢春龙",
+      "name_en": "Lu Chunlong"
+    },
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国政法大学",
+      "name_en": "China University of Political Science and Law"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "卢春龙",
+    "教育部",
+    "中国政法大学",
+    "北京",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Lu Chunlong",
+    "Ministry of Education",
+    "China University of Political Science and Law",
+    "Beijing",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王嘉毅"
+      }
+    ],
+    "institutions": [
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国政法大学",
+        "name_en": "China University of Political Science and Law"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260529-chinanews_gn-429b01",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/05-29/10630711.shtml",
+      "title_zh": "曲昭伟任北京语言大学党委书记",
+      "published_at": "2026-05-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

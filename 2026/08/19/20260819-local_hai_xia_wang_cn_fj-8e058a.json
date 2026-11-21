@@ -1,0 +1,84 @@
+{
+  "id": "20260819-local_hai_xia_wang_cn_fj-8e058a",
+  "source": "local_hai_xia_wang_cn_fj",
+  "source_name_zh": "海峡网",
+  "source_name_en": "海峡网",
+  "source_media_id": "cac-cn-fj-148595a132",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.hxnews.com/news/gn/szxw/202608/19/2266587.shtml",
+  "title_zh": "习近平：中方始终从战略高度和长远角度看待中厄关系",
+  "title_en": "Xi Jinping: China Always Views China-Ecuador Relations from Strategic and Long-Term Perspective",
+  "summary_zh": "8月18日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的厄瓜多尔总统诺沃亚举行会谈。",
+  "summary_en": "On the afternoon of August 18, President Xi Jinping held talks with Ecuadorian President Noboa, who was on a state visit to China, at the Great Hall of the People in Beijing.",
+  "body_zh": "8月18日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的厄瓜多尔总统诺沃亚举行会谈。\n习近平指出，今年是中厄两国建立全面战略伙伴关系10周年。无论国际形势如何变化，中方始终从战略高度和长远角度看待中厄关系，愿同厄方一道努力，推动双边关系不断迈上新台阶，更好造福两国人民。\n诺沃亚说：“首先我想要感谢习主席的热情接待和周到安排，我们需要怀着敬佩之心学习您的伟大领导力，同时也请您放心，在推进文化和经济合作方面，您永远可以相信厄瓜多尔。在太平洋的另外一端，您永远拥有一个值得信赖的朋友。”",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "双边关系",
+    "全面战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "双边关系",
+    "全面战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Bilateral Relations",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260819-local_hai_xia_wang_cn_fj-8e058a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

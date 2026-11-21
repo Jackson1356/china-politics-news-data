@@ -1,0 +1,101 @@
+{
+  "id": "20261107-peoples_hb-e0c782",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/1107/c194063-41744147.html",
+  "title_zh": "《全球发展报告2026》在京发布",
+  "title_en": "Global Development Report 2026 Released in Beijing",
+  "summary_zh": "11月6日，由国务院发展研究中心指导、中国国际发展知识中心撰写的《全球发展报告2026》在北京发布，聚焦开放合作与全球南方发展。",
+  "summary_en": "The Global Development Report 2026, guided by the Development Research Center of the State Council and drafted by the Center for International Knowledge on Development, was released in Beijing on Nov 6, focusing on open cooperation and the Global South.",
+  "body_zh": "《全球发展报告2026》在京发布\n本报北京11月6日电 （记者陈尚文、关皓宇）由国务院发展研究中心指导、中国国际发展知识中心组织撰写的《全球发展报告2026》6日在京发布。\n报告以“合作增强全球发展的稳定性”为主题，描绘变乱交织背景下全球发展的总体形势，阐释坚持开放合作的必要性，提出推动国际合作的务实举措。报告重点分析了全球贸易、气候变化、人工智能、粮食安全、卫生健康、发展融资等领域的发展现状与面临的挑战，提出针对性的建议，并深入探讨变局下全球南方的发展与合作。\n《 人民日报 》（ 2026年11月07日 03 版）",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球发展",
+    "国际合作",
+    "全球南方"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "DRC",
+      "name_zh": "国务院发展研究中心",
+      "name_en": "Development Research Center of the State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球发展",
+      "name_en": "Global Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球南方",
+      "name_en": "Global South"
+    }
+  ],
+  "tags_zh": [
+    "国务院发展研究中心",
+    "北京",
+    "全球发展",
+    "国际合作",
+    "全球南方"
+  ],
+  "tags_en": [
+    "Development Research Center of the State Council",
+    "Beijing",
+    "Global Development",
+    "International Cooperation",
+    "Global South"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "DRC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-peoples_hb-e0c782",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/1107/c378440-41744259.html",
+      "title_zh": "《全球发展报告2026》在京发布",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

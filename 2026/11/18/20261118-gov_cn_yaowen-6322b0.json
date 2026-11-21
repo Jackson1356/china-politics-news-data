@@ -1,0 +1,132 @@
+{
+  "id": "20261118-gov_cn_yaowen-6322b0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/18/VIDEiViJ7w7aqvX9Bqx3q3bG261118.shtml",
+  "title_zh": "习近平在深圳迎接美国总统特朗普",
+  "title_en": "Xi Jinping Welcomes US President Trump in Shenzhen",
+  "summary_zh": "11月18日下午，国家主席习近平在深圳宝安国际机场迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普，双方表示将推动中美关系向前发展。",
+  "summary_en": "On the afternoon of Nov 18, President Xi Jinping welcomed US President Donald Trump at Shenzhen Bao'an International Airport ahead of the APEC informal leaders' meeting, with both sides pledging to advance China-US relations.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：11月18日下午，国家主席习近平在深圳宝安国际机场迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。\n在迎宾曲中，习近平同特朗普亲切握手。三军仪仗队行举枪礼，少年儿童向特朗普献花。中美两国国旗迎风招展，军乐团奏两国国歌，战机飞越致敬。两国元首向青年欢迎队伍挥手致意。\n习近平表示，今年9月我访美时，特朗普总统夫妇专程赴机场迎接，并举行隆重欢迎仪式。中国是礼仪之邦，有礼尚往来的传统。我欢迎你再次访华，期待同你就事关中美关系、亚太合作和世界格局的重大问题深入交换意见，推动基于尊重、公平、对等的中美建设性战略稳定关系向前发展。\n特朗普表示，感谢习近平主席亲赴机场迎接，感谢中方特殊安排，很高兴再次到访伟大的中国。习近平主席是一位伟大的领袖，每一次同习近平主席会晤都非常愉快，相信此访将进一步推进两国关系，取得圆满成功。\n蔡奇、王毅、黄坤明参加。",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "亚太经合组织",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    },
+    {
+      "kind": "person",
+      "id": "cai-qi",
+      "name_zh": "蔡奇",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "huang-kunming",
+      "name_zh": "黄坤明",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "中美关系",
+    "亚太经合组织",
+    "元首外交",
+    "蔡奇",
+    "王毅",
+    "黄坤明"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "China-US Relations",
+    "APEC",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "huang-kunming",
+      "cai-qi",
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261118-gov_cn_yaowen-6322b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086545.htm",
+      "title_zh": "习近平迎接美国总统特朗普",
+      "published_at": "2026-11-18T12:00:00+00:00"
+    },
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/b2a7f4586a53413f8eea41adca320a34.shtml",
+      "title_zh": "习近平迎接美国总统特朗普",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

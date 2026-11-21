@@ -1,0 +1,110 @@
+{
+  "id": "20261102-local_fu_zhou_ri_bao_cn_fj-0b128f",
+  "source": "local_fu_zhou_ri_bao_cn_fj",
+  "source_name_zh": "福州日报",
+  "source_name_en": "福州日报",
+  "source_media_id": "cac-cn-fj-20a27e7754",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.fznews.com.cn/node/12851/20261102/6hJthb7yJ1.shtml",
+  "title_zh": "2026幸福宜居城市对话暨企业家幸福感营商对话在福州举办",
+  "title_en": "2026 Livable and Happy Cities Dialogue and Entrepreneur Well-being Business Environment Dialogue Held in Fuzhou",
+  "summary_zh": "11月2日，2026幸福宜居城市对话暨企业家幸福感营商对话在福州举办，省委常委、宣传部部长张彦出席，市长吴贤德等致辞。",
+  "summary_en": "On November 2, the 2026 Livable and Happy Cities Dialogue and Entrepreneur Well-being Business Environment Dialogue was held in Fuzhou, attended by provincial propaganda chief Zhang Yan, with Mayor Wu Xiande delivering remarks.",
+  "body_zh": "2026幸福宜居城市对话暨企业家幸福感营商对话举办\n福州新闻网11月2日讯（福建日报记者 胡松坤 福州日报记者 曾庆贤）11月2日，由《瞭望东方周刊》主办的“2026幸福宜居城市对话暨企业家幸福感营商对话”在福州举办。省委常委、宣传部部长张彦出席活动；新华社党组成员、秘书长徐玉长，市长吴贤德出席并致辞。\n本次活动作为2026年世界城市日全球主场活动配套活动之一，以“城市更新赋能宜居建设、营商生态激活幸福动能”为主题，汇聚各地城市管理者、规划专家、企业家代表，致力搭建城企互促、共建幸福城市的思想交流平台。\n活动现场，设置专家学者主题演讲、城市领导主旨发言、企业家代表主题演讲和圆桌对话等环节，与会嘉宾围绕城市更新、宜居建设、营商环境优化、企业家幸福感建设等议题开展交流研讨。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "economy",
+  "keywords": [
+    "城市更新",
+    "宜居城市",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yan-fujian",
+      "name_zh": "张彦",
+      "name_en": "Zhang Yan"
+    },
+    {
+      "kind": "person",
+      "id": "wu-xiande-fuzhou",
+      "name_zh": "吴贤德",
+      "name_en": "Wu Xiande"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宜居城市",
+      "name_en": "Livable Cities"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    }
+  ],
+  "tags_zh": [
+    "张彦",
+    "吴贤德",
+    "福州",
+    "城市更新",
+    "宜居城市",
+    "营商环境"
+  ],
+  "tags_en": [
+    "Zhang Yan",
+    "Wu Xiande",
+    "Fuzhou",
+    "Urban Renewal",
+    "Livable Cities",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yan-fujian",
+      "wu-xiande-fuzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261102-local_fu_zhou_ri_bao_cn_fj-0b128f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_fu_zhou",
+      "source_tier": 4,
+      "url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202611/t20261102_5388856.htm",
+      "title_zh": "2026幸福宜居城市对话暨企业家幸福感营商对话举办 _ 榕城要闻 _ 福州市人民政府门户网站",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

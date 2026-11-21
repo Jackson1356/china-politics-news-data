@@ -1,0 +1,111 @@
+{
+  "id": "20260919-gov_cn_yaowen-1aff67",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081534.htm",
+  "title_zh": "前8个月全国完成水利建设投资近7000亿元",
+  "title_en": "China Completes Nearly 700 Billion Yuan in Water Conservancy Investment in First Eight Months",
+  "summary_zh": "2026年1至8月，全国完成水利建设投资6903亿元，实施各类水利项目3.8万个，新开工重大水利工程28项，国家水网建设加快推进。",
+  "summary_en": "In the first eight months of 2026, China completed 690.3 billion yuan of water conservancy investment, carried out 38,000 water projects and started 28 major new ones, advancing the national water network.",
+  "body_zh": "记者从水利部了解到，今年以来，我国加快推进国家水网建设。1至8月，全国完成水利建设投资6903亿元，继续保持高位运行。\n1至8月，全国共实施各类水利项目3.8万个。在国家150项重大水利工程之一——四川巴中青峪口水库施工现场，工人们正全速推进二期工程攻坚建设。目前已完成工程总量86%。\n1至8月，全国新开工重大水利工程28项，超过去年全年开工数量。在三峡水运新通道工程先行开挖区内，北斗导航驱动的新能源重型卡车在工地穿梭，调配效率直接提升30%。预计本月底先行开挖区开挖工作将全部完成。\n国家水网骨干工程加快推进的同时，保障粮食安全的灌区建设也在提速。\n宁夏青铜峡灌区现代化改造工程是全国“两重”标志性工程，目前正加紧施工，第一批建设项目将在10月底完成渠道砌护，保障今年冬灌顺利进行。\n今年以来，水利投融资改革持续深化。1至8月，全国水利建设引入民间资本134.3亿元，同比增长80.1%。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "economy",
+  "keywords": [
+    "国家水网建设",
+    "基础设施投资",
+    "粮食安全",
+    "水利投融资改革"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX",
+      "name_zh": "宁夏",
+      "name_en": "Ningxia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家水网建设",
+      "name_en": "National Water Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施投资",
+      "name_en": "Infrastructure Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水利投融资改革",
+      "name_en": "Water Investment and Financing Reform"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "四川",
+    "宁夏",
+    "国家水网建设",
+    "基础设施投资",
+    "粮食安全",
+    "水利投融资改革"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Sichuan",
+    "Ningxia",
+    "National Water Network",
+    "Infrastructure Investment",
+    "Food Security",
+    "Water Investment and Financing Reform"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-SC",
+      "CN-NX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260919-gov_cn_yaowen-1aff67",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

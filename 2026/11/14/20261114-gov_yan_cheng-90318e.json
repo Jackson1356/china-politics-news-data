@@ -1,0 +1,123 @@
+{
+  "id": "20261114-gov_yan_cheng-90318e",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/11/14/art_60096_11859990.html",
+  "title_zh": "通用电气医疗集团和安米集团高管分别来访",
+  "title_en": "Jiangsu Governor Liu Xiaotao Meets GE HealthCare and ArcelorMittal Executives in Nanjing",
+  "summary_zh": "11月12日至13日，省长刘小涛在南京分别会见通用电气医疗、安米集团高管，就深化产业链供应链合作、推进新能源软磁材料项目等交换意见。",
+  "summary_en": "On Nov 12-13, Jiangsu Governor Liu Xiaotao met in Nanjing with executives from GE HealthCare and ArcelorMittal to discuss deeper industrial chain cooperation and a new energy soft magnetic materials project.",
+  "body_zh": "当前位置：\n通用电气医疗集团和安米集团高管分别来访\n11月12日和13日，省长刘小涛在南京分别会见通用电气医疗先进影像诊疗业务全球总裁兼首席执行官菲利普·拉克利夫、安米集团董事局执行主席拉克什米·米塔尔。\n在会见菲利普·拉克利夫时，刘小涛说，通用电气医疗集团布局江苏30年，双方合作不断走深走实、攀高向新。希望企业持续深耕江苏，深化与本地企业产业链供应链协同，拓展生产制造、研发创新、分拨贸易、保税维修等功能，进一步放大带动效应、拓宽合作领域。菲利普·拉克利夫表示，企业高度重视在苏业务布局，将与江苏携手探索产业创新发展。\n在会见拉克什米·米塔尔时，刘小涛说，江苏将全力保障安米集团新能源软磁材料项目建设，强化对接协作，谋划落地更多优质项目，共同参与全球绿色产业链供应链合作。拉克什米·米塔尔表示，将持续深化务实合作，开展前瞻性产能布局，配套建设研发创新中心，更好对接融入本地供应链，助力能源转型和电气化。\n省政府秘书长赵建军参加会见。",
+  "image_url": null,
+  "published_at": "2026-11-14T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "economy",
+  "keywords": [
+    "外资合作",
+    "产业链供应链",
+    "新能源材料",
+    "绿色转型"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外资合作",
+      "name_en": "Foreign Investment Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链供应链",
+      "name_en": "Industrial and Supply Chains"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源材料",
+      "name_en": "New Energy Materials"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色转型",
+      "name_en": "Green Transition"
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "南京",
+    "外资合作",
+    "产业链供应链",
+    "新能源材料",
+    "绿色转型"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Nanjing",
+    "Foreign Investment Cooperation",
+    "Industrial and Supply Chains",
+    "New Energy Materials",
+    "Green Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261114-gov_yan_cheng-90318e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/11/14/art_60096_11859990.html",
+      "title_zh": "江苏省人民政府 要闻关注 通用电气医疗集团和安米集团高管分别来访",
+      "published_at": "2026-11-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

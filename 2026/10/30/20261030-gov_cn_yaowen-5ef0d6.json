@@ -1,0 +1,111 @@
+{
+  "id": "20261030-gov_cn_yaowen-5ef0d6",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084531.htm",
+  "title_zh": "王毅同冰岛外长贡纳尔斯多蒂尔会谈",
+  "title_en": "Wang Yi Holds Talks with Icelandic Foreign Minister Gunnarsdóttir",
+  "summary_zh": "10月29日，外交部长王毅在北京同冰岛外长贡纳尔斯多蒂尔举行会谈，双方就中冰建交55周年、一个中国政策及全球治理协作交换意见。",
+  "summary_en": "On October 29, Foreign Minister Wang Yi held talks in Beijing with Icelandic Foreign Minister Gunnarsdóttir, discussing 55 years of diplomatic ties, the one-China policy and cooperation on global governance.",
+  "body_zh": "新华社北京10月29日电（记者伍岳）中共中央政治局委员、外交部长王毅29日在北京同冰岛外长贡纳尔斯多蒂尔举行会谈。\n王毅表示，今年是中冰建交55周年。去年习近平主席同托马斯多蒂尔总统会见，为两国关系发展注入重要动力。中方赞赏冰岛始终奉行一个中国政策，愿同冰方共享发展机遇。双方要加强协作，推动构建更加公正合理的全球治理体系。\n王毅还简要介绍了中共二十届五中全会的情况。\n贡纳尔斯多蒂尔表示，中国的成功对世界有重大意义。习近平主席治国理政著作的思想使人深受启发。冰岛高度重视冰中关系，愿同中方加强协作。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "foreign",
+  "keywords": [
+    "中冰关系",
+    "全球治理",
+    "一个中国政策"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中冰关系",
+      "name_en": "China-Iceland Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国政策",
+      "name_en": "One-China Policy"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "北京",
+    "中冰关系",
+    "全球治理",
+    "一个中国政策",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Iceland Relations",
+    "Global Governance",
+    "One-China Policy"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261030-gov_cn_yaowen-5ef0d6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

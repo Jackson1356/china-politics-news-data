@@ -1,0 +1,70 @@
+{
+  "id": "20260702-xinhua_leaders-b11389",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260702/5f932b0d1fe34e69ae3b7dcd54d7e383/c.html",
+  "title_zh": "庆祝中国共产党成立105周年大会在北京举行",
+  "title_en": "Conference Celebrating the 105th Anniversary of the Founding of the Communist Party of China Held in Beijing",
+  "summary_zh": "7月1日，庆祝中国共产党成立105周年大会在北京人民大会堂举行，习近平向“七一勋章”获得者颁授勋章。",
+  "summary_en": "On July 1, a conference celebrating the 105th anniversary of the founding of the CPC was held at the Great Hall of the People in Beijing, where Xi Jinping awarded the 'July 1st Medal'.",
+  "body_zh": "7月1日，庆祝中国共产党成立105周年大会在北京人民大会堂隆重举行，习近平总书记向“七一勋章”获得者颁授勋章。105年前，中国共产党成立时只有50多名党员；如今，已拥有超过1亿名党员。在党的领导下，14亿多中国人民团结奋斗，汇聚成昂扬奋进的时代洪流。\n一组组不断增长的数字，见证着百年大党的发展壮大。数字的背后，是人民的磅礴力量，是人民共和国最坚实的根基，也是中国共产党始终为了人民、始终依靠人民的生动写照。\n编导：黄玥、潘一景\n记者：谢环驰、胡梦雪\n视觉：金小茜、郝晓静\n新华社国内部制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "party",
+  "keywords": [
+    "中国共产党成立105周年",
+    "七一勋章"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国共产党成立105周年",
+      "name_en": "105th Anniversary of the CPC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "七一勋章",
+      "name_en": "July 1st Medal"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "中国共产党成立105周年",
+    "七一勋章"
+  ],
+  "tags_en": [
+    "Beijing",
+    "105th Anniversary of the CPC",
+    "July 1st Medal"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260702-xinhua_leaders-b11389",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

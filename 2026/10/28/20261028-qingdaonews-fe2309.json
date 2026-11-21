@@ -1,0 +1,83 @@
+{
+  "id": "20261028-qingdaonews-fe2309",
+  "source": "qingdaonews",
+  "source_name_zh": "青岛新闻网",
+  "source_name_en": "Qingdao News",
+  "source_media_id": "qingdaonews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "qingdao_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.qingdaonews.com/zonghe/2026-10/28/content_23763547.htm",
+  "title_zh": "退役军人事务部：确认8位在韩中国人民志愿军烈士身份",
+  "title_en": "Ministry of Veterans Affairs Confirms Identities of 8 Martyrs of the Chinese People's Volunteers from South Korea",
+  "summary_zh": "2026年10月28日，退役军人事务部确认施志成等8位在韩中国人民志愿军烈士身份。2014年以来，我国已迎回十三批共1023位烈士遗骸。",
+  "summary_en": "On Oct 28, 2026, China's Ministry of Veterans Affairs confirmed the identities of eight martyrs of the Chinese People's Volunteers from South Korea. Since 2014, China has received 13 batches totaling 1,023 sets of remains.",
+  "body_zh": "记者今天（10月28日）从退役军人事务部了解到，在韩中国人民志愿军烈士遗骸鉴定有了新进展，8位志愿军烈士身份得以确认。\n最新确认身份的8位志愿军烈士分别是施志成、夏小龙、张振法、任殿义、焦得正、夏宗栺、陈志国、张长兴。\n2014年以来，我国已迎回十三批1023位在韩中国人民志愿军烈士遗骸归国安葬。在做好迎回安葬工作的同时，烈士身份确认和寻亲工作同步推进，截至目前，已为44位在韩志愿军烈士确认身份、找到亲人。（总台央视记者 谭振华 张军）\n公安部备案号：37020202000008\n邮编：266071\n邮箱：editor@qingdaonews.com\n增值电信许可证：鲁B2-20040044\n鲁B2-20051014-1",
+  "image_url": null,
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "welfare",
+  "keywords": [
+    "志愿军烈士遗骸",
+    "烈士身份确认",
+    "寻亲工作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "志愿军烈士遗骸",
+      "name_en": "Remains of CPV Martyrs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "烈士身份确认",
+      "name_en": "Martyrs' Identity Confirmation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "寻亲工作",
+      "name_en": "Family Tracing"
+    }
+  ],
+  "tags_zh": [
+    "退役军人事务部",
+    "志愿军烈士遗骸",
+    "烈士身份确认",
+    "寻亲工作"
+  ],
+  "tags_en": [
+    "Ministry of Veterans Affairs",
+    "Remains of CPV Martyrs",
+    "Martyrs' Identity Confirmation",
+    "Family Tracing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MVA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261028-qingdaonews-fe2309",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

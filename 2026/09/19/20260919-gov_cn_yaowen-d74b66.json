@@ -1,0 +1,92 @@
+{
+  "id": "20260919-gov_cn_yaowen-d74b66",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081527.htm",
+  "title_zh": "商务部：何立峰将率团赴美举行中美经贸磋商",
+  "title_en": "Commerce Ministry: He Lifeng to Lead Delegation to U.S. for China-U.S. Trade Talks",
+  "summary_zh": "9月19日，商务部新闻发言人表示，经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于9月19日至23日率团赴美国举行经贸磋商。",
+  "summary_en": "On September 19, a Commerce Ministry spokesperson announced that, as agreed by both sides, Politburo member and Vice Premier He Lifeng will lead a delegation to the United States from September 19 to 23 for China-U.S. economic and trade consultations.",
+  "body_zh": "新华社北京9月19日电（记者谢希瑶）商务部新闻发言人19日就中美经贸磋商有关问题答记者问时表示，经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于9月19日至23日率团赴美国与美方举行经贸磋商。双方将以两国元首重要共识为引领，就彼此关心的经贸问题开展磋商。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸磋商",
+    "经贸关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸磋商",
+      "name_en": "China-U.S. Trade Consultations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸关系",
+      "name_en": "Economic and Trade Relations"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "美国",
+    "中美经贸磋商",
+    "经贸关系"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "United States",
+    "China-U.S. Trade Consultations",
+    "Economic and Trade Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260919-bjnews-2ec2e9",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/09/19/11964957.shtml",
+      "title_zh": "商务部新闻发言人就中美经贸磋商有关问题答记者问",
+      "published_at": "2026-09-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260927-gov_an_kang-3a0ec2",
+  "source": "gov_an_kang",
+  "source_name_zh": "安康市政府网",
+  "source_name_en": "安康 Government Portal",
+  "source_media_id": "gov-cn-prefecture-an_kang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.ankang.gov.cn/Content-2949449.html",
+  "title_zh": "西康高铁遇上国庆！安康双重惠民福利来了",
+  "title_en": "Ankang Rolls Out Dual Public-Benefit Campaigns as Xikang High-Speed Rail Meets National Day Holiday",
+  "summary_zh": "安康市政府推出西康高铁票根促消费活动（9月28日至12月31日），并于10月1日至7日通过支付宝、美团发放惠民消费券。",
+  "summary_en": "Ankang's municipal government launched a ticket-stub spending promotion for the Xikang high-speed rail from Sept 28 to Dec 31, and will issue public consumption vouchers via Alipay and Meituan from Oct 1 to 7.",
+  "body_zh": "西康高铁即将开通，国庆黄金周如约而至！安康抢抓高铁开通机遇，重磅推出两大促消费惠民活动，高铁票根变省钱通行证，消费券同步加码，外地游客、本地市民都能享受实打实的优惠，吃住游购全覆盖，一起来看看吧！\n活动一：西康高铁票根经济促消费活动\n9月28日至12月31日\n凡乘坐西康高铁抵达安康西站的来安旅客，凭借实名纸质或电子高铁票根，即可参与领券活动，一张票即可解锁吃住游购全套消费权益！\n活动二：“乐购安康·惠享生活”惠民消费券\n10月1日至10月7日\n安康市政府发放惠民消费券，支付宝、美团双平台参与，不用抢券，碰一碰即可立减，本地市民、在安游客均可参与。每日上午9:00准时开领！\n领取、使用指南：\n一、支付宝渠道\n二、美团渠道\n重要小贴士：\n1.高铁票根消费礼包仅限西康高铁抵达安康西站的实名车票，车票请妥善保管；\n2.惠民消费券仅限安康市内线下实体商家使用，不支持线上外卖，不可提现、转赠；\n3.所有优惠数量有限，领完即止，具体以平台页面及商家规则为准。",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "促消费",
+    "惠民消费券",
+    "高铁经济"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SN-AK",
+      "name_zh": "安康",
+      "name_en": "Ankang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "促消费",
+      "name_en": "Consumption Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "惠民消费券",
+      "name_en": "Public Consumption Vouchers"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁经济",
+      "name_en": "High-Speed Rail Economy"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高铁",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "康高铁",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "安康",
+    "促消费",
+    "惠民消费券",
+    "高铁经济",
+    "高铁",
+    "康高铁"
+  ],
+  "tags_en": [
+    "Ankang",
+    "Consumption Promotion",
+    "Public Consumption Vouchers",
+    "High-Speed Rail Economy"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高铁"
+      },
+      {
+        "id": null,
+        "name_zh": "康高铁"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-AK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260927-gov_an_kang-3a0ec2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

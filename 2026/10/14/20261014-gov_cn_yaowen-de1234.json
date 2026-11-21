@@ -1,0 +1,117 @@
+{
+  "id": "20261014-gov_cn_yaowen-de1234",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083216.htm",
+  "title_zh": "何立峰会见法国总统外事顾问博纳",
+  "title_en": "He Lifeng Meets French Presidential Foreign Policy Adviser Emmanuel Bonne",
+  "summary_zh": "中共中央政治局委员、国务院副总理何立峰10月13日下午在人民大会堂会见法国总统外事顾问博纳，就中法经贸务实合作和中欧经贸关系交换意见。",
+  "summary_en": "Chinese Vice Premier He Lifeng met with French presidential foreign policy adviser Emmanuel Bonne at the Great Hall of the People in Beijing on Oct. 13, exchanging views on China-France economic cooperation and China-EU trade ties.",
+  "body_zh": "新华社北京10月14日电 中共中央政治局委员、国务院副总理何立峰13日下午在人民大会堂会见法国总统外事顾问博纳，就中法经贸务实合作和中欧经贸关系交换意见。\n何立峰表示，中法经贸合作具有广阔提升空间，中方愿继续同法方一道落实好两国元首共识，加强经济各领域务实合作、实现互利共赢。中欧互为重要经贸伙伴，中方愿同欧方在经贸领域持续开展对话，为中欧经贸关系的发展注入更多稳定性和正能量。\n博纳表示，法方高度重视对华经济合作，愿同中方一道推动欧中贸易投资磋商不断取得积极成果，保持欧中经贸关系稳定发展。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中法经贸合作",
+    "中欧经贸关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "博纳",
+      "name_en": "Emmanuel Bonne"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中法经贸合作",
+      "name_en": "China-France Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Trade Relations"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "博纳",
+    "国务院",
+    "北京",
+    "中法经贸合作",
+    "中欧经贸关系"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "Emmanuel Bonne",
+    "State Council",
+    "Beijing",
+    "China-France Economic and Trade Cooperation",
+    "China-EU Trade Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261014-gov_cn_yaowen-de1234",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1791952890129303.html",
+      "title_zh": "何立峰会见法国总统外事顾问博纳",
+      "published_at": "2026-10-14T12:00:00+00:00"
+    },
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083216.htm",
+      "title_zh": "何立峰会见法国总统外事顾问博纳",
+      "published_at": "2026-10-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

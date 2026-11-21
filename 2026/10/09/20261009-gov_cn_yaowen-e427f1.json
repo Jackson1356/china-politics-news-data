@@ -1,0 +1,115 @@
+{
+  "id": "20261009-gov_cn_yaowen-e427f1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082838.htm",
+  "title_zh": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
+  "title_en": "He Lifeng Meets EU Commissioner for Trade and Economic Security Šefčovič",
+  "summary_zh": "10月9日下午，中共中央政治局委员、国务院副总理何立峰在北京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换意见。",
+  "summary_en": "On the afternoon of October 9, Chinese Vice Premier He Lifeng met in Beijing with EU Commissioner for Trade and Economic Security Maroš Šefčovič to exchange views on China-EU economic and trade relations.",
+  "body_zh": "新华社北京10月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换了意见。\n何立峰表示，中方始终高度重视发展同欧盟经贸关系，愿与欧方共同落实好双方领导人达成的重要共识。双方应充分发挥中欧贸易投资磋商机制作用，坚持稳定、平衡的中欧关键贸易伙伴关系新定位，持续对话，妥处分歧，推动双边经贸关系健康稳定发展。\n谢夫乔维奇表示，中国是欧盟重要经贸合作伙伴，愿持续推进贸易投资磋商，加强沟通、共促合作。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧经贸关系",
+    "贸易投资磋商"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "欧盟委员会",
+      "name_en": "European Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易投资磋商",
+      "name_en": "Trade and Investment Dialogue"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "欧盟委员会",
+    "北京",
+    "中欧经贸关系",
+    "贸易投资磋商"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "European Commission",
+    "Beijing",
+    "China-EU Economic and Trade Relations",
+    "Trade and Investment Dialogue"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "欧盟委员会",
+        "name_en": "European Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261009-gov_cn_yaowen-e427f1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082838.htm",
+      "title_zh": "何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

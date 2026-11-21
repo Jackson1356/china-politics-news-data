@@ -1,0 +1,102 @@
+{
+  "id": "20261011-gov_cn_yaowen-9488fe",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082975.htm",
+  "title_zh": "前三季度新开工重大水利工程数量超去年全年",
+  "title_en": "Major Water Conservancy Projects Started in First Three Quarters Exceed Last Year's Full-Year Total",
+  "summary_zh": "水利部消息，前三季度全国新开工重大水利工程数量超去年全年，葛洲坝航运扩能等工程开工，预计年底农村自来水普及率达97%。",
+  "summary_en": "China started more major water conservancy projects in the first three quarters of 2026 than in all of last year, the Ministry of Water Resources said, with rural tap water coverage expected to reach 97% by year-end.",
+  "body_zh": "记者从水利部了解到，今年以来，国家水网建设加速推进，前三季度新开工重大水利工程数量超过去年全年。\n三峡水运新通道工程是“十五五”时期我国开工建设的首个重大标志性工程，包含三峡枢纽新通道和葛洲坝航运扩能。10日，葛洲坝航运扩能迎来关键节点，上下游围堰正式开工建设，这标志着葛洲坝航运扩能全面进入主体施工阶段。\n在位于福建宁德的上白石水利枢纽工程施工现场，工人们抢抓汛后施工窗口期，在河道边开展挡墙支模、场地平整等作业。工程建成后，将从根本上解决闽东60多万群众的洪涝之患。\n在太湖流域，全国重点河流及涝区治理项目——苕溪防洪治理工程于近日开工建设，将有效补齐太湖流域防洪治理短板，保障杭嘉湖平原防洪安全。\n此外，今年我国已完成2012处农村供水工程建设。预计到今年底，农村自来水普及率将达到97%。",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-13T11:12:58Z",
+  "topic": "economy",
+  "keywords": [
+    "国家水网",
+    "水利工程",
+    "防洪治理",
+    "基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家水网",
+      "name_en": "National Water Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水利工程",
+      "name_en": "Water Conservancy Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防洪治理",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "福建",
+    "国家水网",
+    "水利工程",
+    "防洪治理",
+    "基础设施"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Fujian",
+    "National Water Network",
+    "Water Conservancy Projects",
+    "Flood Control",
+    "Infrastructure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-FJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261011-gov_cn_yaowen-9488fe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

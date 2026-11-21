@@ -1,0 +1,96 @@
+{
+  "id": "20260928-gov_cn_yaowen-b48223",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082306.htm",
+  "title_zh": "推动国资央企实现新发展",
+  "title_en": "SASAC Promotes New Development of Central State-Owned Enterprises",
+  "summary_zh": "国务院新闻办9月28日举行“开局起步‘十五五’”发布会，国务院国资委介绍落实“十五五”规划、推动中央企业高质量发展情况，截至8月末中央企业资产总额达99.3万亿元。",
+  "summary_en": "China's State Council Information Office held a briefing on Sept 28 where SASAC outlined plans to implement the 15th Five-Year Plan and boost high-quality development of central SOEs, whose assets reached 99.3 trillion yuan by end-August.",
+  "body_zh": "国务院新闻办今天（9月28日）举行“开局起步‘十五五’”系列主题新闻发布会，国务院国资委相关负责人介绍落实“十五五”规划，推动中央企业高质量发展有关情况。\n截至8月末，中央企业资产总额达到99.3万亿元，同比增长4.2%；1—8月，研发经费投入规模同比增长2.7%，预计全年将超过1万亿元，这将是中央企业连续第五年研发投入超万亿，实现良好开局。\n“十五五”时期，我国将进一步优化国有经济布局结构，具体来说，要在关系国家安全和国民经济命脉的领域，更加注重“强基固本”。今年以来，中央企业围绕“六张网”加快实施一批重大项目和标志性工程，年度计划安排相关投资约2万亿元。在前瞻性战略性新兴产业领域，更加注重“扩能提质”。\n“十五五”时期，国务院国资委将推动中央企业主动承担一批国家级、标志性重大科技任务，不断增强前瞻性引领性技术、关键核心技术和共性技术供给能力。同时，聚焦解决制约企业发展的共性问题、瓶颈问题、深层次问题，推动改革赋能，更好激发企业高质量发展的活力动力。",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "economy",
+  "keywords": [
+    "十五五规划",
+    "国有企业改革",
+    "战略性新兴产业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院国资委",
+      "name_en": "State-owned Assets Supervision and Administration Commission (SASAC)"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有企业改革",
+      "name_en": "State-Owned Enterprise Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略性新兴产业",
+      "name_en": "Strategic Emerging Industries"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办",
+    "国务院国资委",
+    "十五五规划",
+    "国有企业改革",
+    "战略性新兴产业"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "State-owned Assets Supervision and Administration Commission (SASAC)",
+    "15th Five-Year Plan",
+    "State-Owned Enterprise Reform",
+    "Strategic Emerging Industries"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国务院国资委",
+        "name_en": "State-owned Assets Supervision and Administration Commission (SASAC)"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260928-gov_cn_yaowen-b48223",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

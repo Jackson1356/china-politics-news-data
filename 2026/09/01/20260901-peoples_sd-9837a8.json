@@ -1,0 +1,101 @@
+{
+  "id": "20260901-peoples_sd-9837a8",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/0901/c166192-41683181.html",
+  "title_zh": "周乃翔主持召开省政府常务会议",
+  "title_en": "Zhou Naixiang Chairs Provincial Government Executive Meeting",
+  "summary_zh": "8月31日，山东省委副书记、省长周乃翔主持召开省政府常务会议，研究安全稳定、科技创新、财政金融协同促内需等工作。",
+  "summary_en": "On August 31, Zhou Naixiang, Deputy Secretary of the CPC Shandong Provincial Committee and Governor of Shandong Province, chaired a provincial government executive meeting to discuss safety, stability, scientific innovation, and fiscal-financial coordination to boost domestic demand.",
+  "body_zh": "周乃翔主持召开省政府常务会议\n8月31日，山东省委副书记、省长周乃翔主持召开省政府常务会议，认真学习习近平总书记重要指示精神，研究安全稳定、科技创新、财政金融协同促内需等工作。\n会议指出，要深入学习贯彻习近平总书记对西藏日喀则市吉隆县遭受泥石流灾害作出的重要指示和8月28日中央政治局会议精神，统筹好发展和安全，坚持极限思维、底线思维，扎实做好安全稳定各项工作，确保人民群众生命财产安全。要落实落细防汛措施，深入排查整治风险隐患，强化监测预报预警，刚性落实预警动态“叫应”机制，及时果断组织人员转移避险。要压紧压实安全生产责任，提升矿山、化工、交通、施工等重点领域安全治理能力，切实筑牢安全屏障。\n会议原则通过《山东省“十五五”科技创新规划》，强调要持续加强基础研究和原始创新，抓好关键核心技术攻关，推动科技创新和产业创新深度融合，一体推进教育科技人才发展，打造一流创新生态，加快建设更高水平创新型省份。\n会议研究了财政金融协同促内需有关政策，要求坚持有效市场和有为政府相结合，发挥财政资金撬动作用，引导社会资本参与促消费、扩投资，切实把各项政策转化为扩内需、稳增长的实效。\n会议研究了推动黄河流域生态保护和高质量发展工作，强调要牢牢把握重在保护、要在治理的要求，加快沿黄生态廊道保护建设，推进黄河口国家公园创建，提升水资源节约集约利用水平，构建特色优势现代化产业体系，全力保障黄河安澜，推动落实黄河重大国家战略取得更大成效。\n会议还研究了其他事项。（毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "economy",
+  "keywords": [
+    "科技创新",
+    "财政金融协同促内需",
+    "黄河流域生态保护"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政金融协同促内需",
+      "name_en": "Fiscal-Financial Coordination to Boost Domestic Demand"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河流域生态保护",
+      "name_en": "Ecological Protection of the Yellow River Basin"
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "山东",
+    "科技创新",
+    "财政金融协同促内需",
+    "黄河流域生态保护"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Shandong",
+    "Scientific and Technological Innovation",
+    "Fiscal-Financial Coordination to Boost Domestic Demand",
+    "Ecological Protection of the Yellow River Basin"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-peoples_sd-9837a8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_zi_bo",
+      "source_tier": null,
+      "url": "https://www.zibo.gov.cn/art/2026/8/31/art_14322_3018301.html",
+      "title_zh": "周乃翔主持召开省政府常务会议",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

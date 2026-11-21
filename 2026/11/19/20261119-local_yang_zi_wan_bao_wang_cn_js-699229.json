@@ -1,0 +1,119 @@
+{
+  "id": "20261119-local_yang_zi_wan_bao_wang_cn_js-699229",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/jiangsu/202611/t20261119_414061.html",
+  "title_zh": "中新生命科学园开园",
+  "title_en": "China-Singapore Life Science Park Opens in Suzhou",
+  "summary_zh": "11月18日，中新生命科学园在苏州开园，江苏省长刘小涛会见新加坡淡马锡公司董事长张志贤并出席启幕仪式，双方将深化生物医药等领域合作。",
+  "summary_en": "On Nov 18, Jiangsu Governor Liu Xiaotao met Temasek Chairman Teo Chee Hean and attended the opening of the China-Singapore Life Science Park in Suzhou, vowing deeper biomedicine cooperation.",
+  "body_zh": "中新生命科学园开园\n11月18日，中新生命科学园启幕仪式在苏州举行。省长刘小涛会见新加坡淡马锡公司董事长张志贤并出席启幕仪式。新加坡能源、贸易及工业部兼文化、社区及青年部高级政务部长刘燕玲，省委副书记、苏州市委书记范波参加有关活动。\n刘小涛对张志贤一行表示欢迎。刘小涛说，中新生命科学园是江苏与淡马锡公司深化合作的又一重要成果，将为江苏生物医药产业创新发展注入新动能。我们将认真落实两国领导人达成的重要共识，积极拓展人工智能、生物医药、绿色低碳等领域务实合作。希望淡马锡公司进一步加大在苏布局力度，加强基金投融资合作，扩大对新锐科技企业投资，更好推动企业培育壮大和产业高质量发展。\n张志贤在会见和启幕仪式致辞时表示，中国已成为生命科学领域的重要中心，期待以中新生命科学园开园为契机，携手合作、不断创新，高效链接人才、资本与技术，将科学进步转化为惠及全球患者的持久影响。\n范波在致辞时说，将充分发挥苏州工业园区示范引领作用，以中新生命科学园为重要载体，共建产业创新高地，共拓开放创新空间，共筑一流创新生态。\n副省长马士光，省政府秘书长赵建军，淡马锡公司执行董事兼首席执行长狄澜，新加坡驻沪总领事陈子勤，省有关部门单位和苏州市负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "industry",
+  "keywords": [
+    "中新合作",
+    "生物医药",
+    "开放创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-SZ",
+      "name_zh": "苏州",
+      "name_en": "Suzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中新合作",
+      "name_en": "China-Singapore Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药",
+      "name_en": "Biomedicine"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放创新",
+      "name_en": "Open Innovation"
+    },
+    {
+      "kind": "person",
+      "id": "fan-bo-jiangsu",
+      "name_zh": "范波",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "苏州",
+    "江苏",
+    "中新合作",
+    "生物医药",
+    "开放创新",
+    "范波"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Suzhou",
+    "Jiangsu",
+    "China-Singapore Cooperation",
+    "Biomedicine",
+    "Open Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      "fan-bo-jiangsu",
+      "fan-bo-suzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-SZ",
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-local_yang_zi_wan_bao_wang_cn_js-699229",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yan_cheng",
+      "source_tier": 4,
+      "url": "http://www.jiangsu.gov.cn/art/2026/11/19/art_60096_11861842.html",
+      "title_zh": "江苏省人民政府 要闻关注 中新生命科学园开园 刘小涛会见张志贤 刘燕玲范波参加有关活动",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

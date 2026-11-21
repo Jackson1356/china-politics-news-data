@@ -1,0 +1,92 @@
+{
+  "id": "20260813-local_sha_men_ri_bao_cn_fj-8dc0ae",
+  "source": "local_sha_men_ri_bao_cn_fj",
+  "source_name_zh": "厦门日报",
+  "source_name_en": "厦门日报",
+  "source_media_id": "cac-cn-fj-df39a14a77",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.xmnn.cn/news/gnxw/202608/t20260813_444775.html",
+  "title_zh": "外交部：中方敦促有关国家停止滥用多边军控机制",
+  "title_en": "Chinese FM Urges Relevant Countries to Stop Abusing Multilateral Arms Control Mechanism",
+  "summary_zh": "8月12日，外交部发言人郭嘉昆在记者会上表示，美国等国在日内瓦裁军谈判会议搞所谓共同发言纯属政治目的，中方敦促其停止滥用多边军控机制。",
+  "summary_en": "On August 12, Foreign Ministry spokesperson Guo Jiakun stated that the so-called joint statement by the US and others at the Geneva Conference on Disarmament is purely for political purposes, urging them to stop abusing the multilateral arms control mechanism.",
+  "body_zh": "新华社北京8月12日电 外交部发言人郭嘉昆12日在回答记者提问时表示，美国等国家在日内瓦裁军谈判会议搞所谓共同发言，完全是出于政治目的。中方敦促有关国家停止滥用多边军控机制。\n郭嘉昆说，美国等国家在日内瓦裁军谈判会议搞所谓共同发言，拿“防止弹道导弹扩散海牙行为准则”说事，影射中方导弹试射活动，完全是出于政治目的，充分暴露其虚伪面目和“双重标准”做法。\n“中方敦促有关国家停止滥用多边军控机制，以真诚对话取代无理对抗，为加强军控领域对话交流创造必要条件。”他说。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "多边军控",
+    "外交政策"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边军控",
+      "name_en": "Multilateral Arms Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交政策",
+      "name_en": "Foreign Policy"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "多边军控",
+    "外交政策"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Multilateral Arms Control",
+    "Foreign Policy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260813-local_sha_men_ri_bao_cn_fj-8dc0ae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://world.gmw.cn/2026-08/13/content_38940741.htm",
+      "title_zh": "外交部：中方敦促有关国家停止滥用多边军控机制",
+      "published_at": "2026-08-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

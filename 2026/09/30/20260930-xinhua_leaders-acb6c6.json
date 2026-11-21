@@ -1,0 +1,91 @@
+{
+  "id": "20260930-xinhua_leaders-acb6c6",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260930/b343e57c6ead40dfaea1a93d5771b5c4/c.html",
+  "title_zh": "习近平出席国庆77周年招待会并发表重要讲话",
+  "title_en": "Xi Jinping Attends Reception Marking 77th Anniversary of the PRC and Delivers Important Speech",
+  "summary_zh": "9月30日晚，庆祝中华人民共和国成立77周年招待会在人民大会堂举行，习近平出席并发表重要讲话，强调中国特色社会主义制度展现出巨大优势。",
+  "summary_en": "On the evening of Sept 30, Xi Jinping attended a reception at the Great Hall of the People marking the 77th anniversary of the PRC and delivered an important speech on China's institutional strengths.",
+  "body_zh": "庆祝中华人民共和国成立77周年招待会30日晚在人民大会堂举行。习近平总书记出席招待会并发表重要讲话。总书记强调，经过长期探索和实践，中国特色社会主义制度展现出巨大优势，我国国家治理体系和治理能力现代化水平不断提高，实现中华民族伟大复兴势不可挡。只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国。一起学习讲话金句。\n新华社新媒体中心制作\n新华社出品",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "国庆招待会",
+    "中国特色社会主义制度",
+    "国家治理现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆招待会",
+      "name_en": "National Day Reception"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国特色社会主义制度",
+      "name_en": "Socialism with Chinese Characteristics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家治理现代化",
+      "name_en": "Modernizing State Governance"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "国庆招待会",
+    "中国特色社会主义制度",
+    "国家治理现代化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "National Day Reception",
+    "Socialism with Chinese Characteristics",
+    "Modernizing State Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260930-xinhua_leaders-acb6c6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-09/30/content_9468056.html",
+      "title_zh": "学习新语丨总书记在国庆招待会上重要讲话，金句来了",
+      "published_at": "2026-09-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

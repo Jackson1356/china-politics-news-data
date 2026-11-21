@@ -1,0 +1,96 @@
+{
+  "id": "20261021-peoples_gs-b55c1d",
+  "source": "peoples_gs",
+  "source_name_zh": "人民网 甘肃",
+  "source_name_en": "People's Daily Gansu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gs.people.com.cn/n2/2026/1021/c358184-41728240.html",
+  "title_zh": "简牍领域垂域大模型“简问”发布",
+  "title_en": "Domain-Specific Large Model 'Jianwen' Released for Bamboo Slip Studies",
+  "summary_zh": "近日，第四届简牍学学术研讨会在甘肃酒泉金塔县举行，会上正式发布由西北师范大学研发的简牍领域垂域大模型“简问”。",
+  "summary_en": "At the 4th Symposium on Bamboo Slip Studies in Jinta County, Gansu, Northwest Normal University released 'Jianwen', a domain-specific large AI model for bamboo slip research.",
+  "body_zh": "简牍领域垂域大模型“简问”发布\n本报电（记者宋朝军）近日，第四届简牍学学术研讨会在甘肃省酒泉市金塔县举办。会上，国内简牍领域垂域大模型“简问”正式发布，原简牍学术资源数据共享平台正式升级更名为“汉青云智”。这一数字化与智能化成果以AI技术破解简牍研究行业难题，为简牍“绝学”的研究传承与文化活化注入动能。\n“简问”垂域大模型由西北师范大学研发并上线。项目依托前期简牍数字化平台的建设积淀，遵循“数字化—数据化—智能化”三步走技术路径，完成了专属数据集搭建、领域模型微调与科研场景迭代，实现了简牍垂域大模型的关键技术攻关。\n“简问”模型采用“基础大模型+领域专用智能体”的创新技术架构，融合通用语言大模型与视觉语言大模型技术，依托海量简牍专属数据集完成领域微调，构建起大语言、多模态两大核心能力体系。\n在语言能力维度上，模型可实现简牍智能问答、文本分词标注、信息抽取、古今文互译、集释智能解读、文本智能标点及科研辅助写作等功能，全面覆盖文字研究类科研需求。在多模态能力维度上，模型搭载残简智能缀合、简牍文字检测识别、图像融合、简牍影像补全修复等技术能力，可直接支撑残简整理工作。\n同时，模型配套的简牍智能体可面向简牍释读考究、残简缀合、文字识别、智能问答、文献检索归纳等典型科研场景提供一站式AI服务，并实现与全量资源库联动。\n该模型面向海内外科研机构、高校、文博单位及文史爱好者，兼顾科研攻关与科普普及。团队搭建简牍学术资源数据共享平台并搭载该大模型，旨在建设简牍专属语料库，以AI降低研究门槛，助推科研成果产出。",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "简牍研究",
+    "文化遗产数字化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "西北师范大学",
+      "name_en": "Northwest Normal University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "简牍研究",
+      "name_en": "Bamboo Slip Studies"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化遗产数字化",
+      "name_en": "Cultural Heritage Digitization"
+    }
+  ],
+  "tags_zh": [
+    "西北师范大学",
+    "甘肃",
+    "人工智能",
+    "简牍研究",
+    "文化遗产数字化"
+  ],
+  "tags_en": [
+    "Northwest Normal University",
+    "Gansu",
+    "Artificial Intelligence",
+    "Bamboo Slip Studies",
+    "Cultural Heritage Digitization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "西北师范大学",
+        "name_en": "Northwest Normal University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261021-peoples_gs-b55c1d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

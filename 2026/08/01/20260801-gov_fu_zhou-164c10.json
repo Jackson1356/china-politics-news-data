@@ -1,0 +1,91 @@
+{
+  "id": "20260801-gov_fu_zhou-164c10",
+  "source": "gov_fu_zhou",
+  "source_name_zh": "抚州市政府网",
+  "source_name_en": "抚州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-fu_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202608/t20260801_5352878.htm",
+  "title_zh": "2026年第二次全市老干部通报会召开",
+  "title_en": "Second Municipal Veteran Cadres Briefing Meeting of 2026 Held",
+  "summary_zh": "7月31日，福州市召开2026年第二次全市老干部通报会，市人大常委会主任张忠主持，通报上半年经济社会发展情况。",
+  "summary_en": "On July 31, the second municipal veteran cadres briefing meeting of 2026 was held in Fuzhou, chaired by Zhang Zhong, director of the Standing Committee of the Municipal People's Congress, to brief on H1 economic and social development.",
+  "body_zh": "2026年第二次全市老干部通报会召开\n7月31日，2026年第二次全市老干部通报会召开。市人大常委会党组书记、主任张忠主持会议，市人大常委会副主任游通铃、市政府副市长梁栋出席会议。市级老领导、享受地专级待遇的离休干部、市直各单位担任正处级及以上领导职务的退休老干部参加会议。\n会议通报了我市深入学习贯彻习近平总书记重要讲话、重要指示批示精神情况及上半年经济社会发展总体情况。会上，市领导向老领导、老同志和全市广大离退休老干部致以亲切问候。\n会议指出，在市委的领导下，今年以来全市上下坚持以习近平新时代中国特色社会主义思想为指导，认真落实省委省政府部署要求，牢固树立和践行正确政绩观，坚持“3820”战略工程思想精髓，加快建设现代化国际城市，深入开展“三争”、持续推进“奋勇争先”行动，经济运行稳中向好、创新型省会加快建设、产业发展提质增效、消费市场持续提振、城乡品质稳步提升、民生福祉不断增进、闽都文化创新发展、改革开放纵深推进。长期以来老领导、老同志们心系大局，为我市经济社会发展发光发热。希望老领导、老同志们继续发挥政治优势、经验优势、威望优势，为发展建良言、献良策，引导广大群众与市委同心同向、团结奋斗，为我市实现“十五五”良好开局、在中国式现代化建设中奋勇争先贡献“银发力量”。（见习记者 颜学辉 记者 钱嘉宜）",
+  "image_url": null,
+  "published_at": "2026-08-01T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "party",
+  "keywords": [
+    "老干部工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-zhong-jiangsu",
+      "name_zh": "张忠",
+      "name_en": "Zhang Zhong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-FZ",
+      "name_zh": "福州",
+      "name_en": "Fuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老干部工作",
+      "name_en": "Veteran Cadres Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张忠",
+    "福州",
+    "老干部工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhang Zhong",
+    "Fuzhou",
+    "Veteran Cadres Work"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-zhong-jiangsu",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "梁栋"
+      },
+      {
+        "id": null,
+        "name_zh": "任张忠"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-FZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20260801-gov_fu_zhou-164c10",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

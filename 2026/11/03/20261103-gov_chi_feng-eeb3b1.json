@@ -1,0 +1,96 @@
+{
+  "id": "20261103-gov_chi_feng-eeb3b1",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202611/t20261103_2841998.html",
+  "title_zh": "政协赤峰市第八届委员会召开第二十八次常委会会议",
+  "title_en": "Chifeng Municipal CPPCC Committee Holds 28th Standing Committee Meeting",
+  "summary_zh": "11月2日，政协赤峰市第八届委员会召开第二十八次常委会会议，围绕“建设铸牢中华民族共同体意识先进市”开展专题议政性协商，市政协党组书记乔雪峰讲话。",
+  "summary_en": "On November 2, the 28th Standing Committee meeting of the 8th Chifeng Municipal CPPCC Committee was held, conducting special consultative discussions on building the city into an advanced model for forging a strong sense of community for the Chinese nation. Qiao Xuefeng, Party secretary of the municipal CPPCC, addressed the meeting.",
+  "body_zh": "11月2日，政协赤峰市第八届委员会召开第二十八次常委会会议，围绕“建设铸牢中华民族共同体意识先进市”进行专题议政性协商。市政协党组书记乔雪峰讲话。市委常委、统战部部长、市政协党组副书记王生才出席，市政府党组成员、副市长付守利通报有关工作情况。\n会议传达学习中共二十届五中全会精神和习近平总书记在乌兰察布市考察时的重要指示精神；听取“建设铸牢中华民族共同体意识先进市”调研情况说明；部分市直部门、旗县区政协作交流发言。与会常委、委员围绕“建设铸牢中华民族共同体意识先进市”，与市直相关部门开展互动问答。\n会议强调，要深刻领会中共二十届五中全会精神、习近平总书记在乌兰察布市考察时的重要指示精神实质，围绕中心建言献策，纵深推进全面从严治党。要在深化思想引领、厚植文化认同、共建共治共享上持续用力、彰显特色、务求实效，为“建设铸牢中华民族共同体意识先进市”贡献政协智慧和力量。",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "party",
+  "keywords": [
+    "铸牢中华民族共同体意识",
+    "专题议政性协商",
+    "二十届五中全会精神"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铸牢中华民族共同体意识",
+      "name_en": "Forging a Strong Sense of Community for the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专题议政性协商",
+      "name_en": "Special Consultative Deliberation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赤峰",
+    "铸牢中华民族共同体意识",
+    "专题议政性协商",
+    "二十届五中全会精神",
+    "习近平"
+  ],
+  "tags_en": [
+    "Chifeng",
+    "Forging a Strong Sense of Community for the Chinese Nation",
+    "Special Consultative Deliberation",
+    "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王生才"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261103-gov_chi_feng-eeb3b1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "20261106-gov_he_gang-b6dab5",
+  "source": "gov_he_gang",
+  "source_name_zh": "鹤岗市政府网",
+  "source_name_en": "鹤岗 Government Portal",
+  "source_media_id": "gov-cn-prefecture-he_gang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.hegang.gov.cn/hegang/xrd/202611/96251.shtml",
+  "title_zh": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+  "title_en": "Li Qiang Signs State Council Decree on Amending and Repealing Administrative Regulations",
+  "summary_zh": "国务院总理李强日前签署国务院令，公布关于修改和废止部分行政法规的决定，修改14部、废止4部行政法规，自公布之日起施行。",
+  "summary_en": "Premier Li Qiang signed a State Council decree publishing a decision to amend 14 and repeal 4 administrative regulations, effective upon promulgation.",
+  "body_zh": "发布日期：2026-11-06 14:16\n李强签署国务院令\n公布《国务院关于修改和废止部分行政法规的决定》\n新华社北京11月5日电 国务院总理李强日前签署国务院令，公布《国务院关于修改和废止部分行政法规的决定》，自公布之日起施行。\n为贯彻落实党中央关于整治形式主义为基层减负的决策部署，精简优化现有行政法规有关基层编制专项规划的规定，防范纠治规划编制中的形式主义，并贯彻落实党和国家机构改革精神，与有关法律、行政法规的规定做好衔接，保障立法系统性、整体性、协同性、时效性，国务院对涉及的行政法规进行了清理，决定对14部行政法规的部分条款予以修改，对4部行政法规予以废止。\n修改《中华人民共和国档案法实施条例》等行政法规，取消或调整对基层编制有关专项规划的要求，切实为基层减负。\n修改《中华人民共和国河道管理条例》等行政法规，与《中华人民共和国生态环境法典》、《中华人民共和国粮食安全保障法》、《行政法规制定程序条例》等法律、行政法规的有关规定保持一致，同时调整了已变更的国务院机构名称，更好适应当前我国行政管理体制实践。\n废止《中华人民共和国港口间海上旅客运输赔偿责任限额规定》等行政法规，更好适应当前改革发展实践需要以及有关领域工作实际。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "行政法规清理",
+    "为基层减负",
+    "机构改革"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "行政法规清理",
+      "name_en": "Administrative Regulation Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "为基层减负",
+      "name_en": "Reducing Burdens at the Grassroots"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "机构改革",
+      "name_en": "Institutional Reform"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "行政法规清理",
+    "为基层减负",
+    "机构改革"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "Administrative Regulation Review",
+    "Reducing Burdens at the Grassroots",
+    "Institutional Reform"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261105-cpcnews-75d054",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

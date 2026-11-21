@@ -1,0 +1,128 @@
+{
+  "id": "20261011-peoples_hb-8a1c04",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/1011/c192237-41718568.html",
+  "title_zh": "关志鸥会见国家体育总局副局长张家胜",
+  "title_en": "Guan Zhiou Meets Zhang Jiasheng, Deputy Director of the General Administration of Sport",
+  "summary_zh": "10月10日下午，湖北省委书记关志鸥在孝感会见国家体育总局副局长张家胜，双方就支持湖北体育事业发展、推进体育强省建设交换意见。",
+  "summary_en": "On the afternoon of October 10, Hubei provincial Party secretary Guan Zhiou met in Xiaogan with Zhang Jiasheng, deputy director of China's General Administration of Sport, to discuss support for Hubei's sports development and building a strong sports province.",
+  "body_zh": "关志鸥会见国家体育总局副局长张家胜\n10月10日下午，省委书记关志鸥在孝感会见国家体育总局党组成员、副局长张家胜。\n关志鸥对张家胜一行前来出席湖北省第十七届运动会开幕式表示欢迎，感谢国家体育总局长期以来对湖北发展的大力支持，并简要介绍了全省经济社会发展情况。他说，今年以来，全省上下牢记习近平总书记殷殷嘱托，锚定加快建成中部地区崛起重要战略支点总目标，坚定不移推进高质量发展，经济社会发展保持良好态势，体育事业和体育产业取得新突破新成绩。当前，湖北正深入学习贯彻习近平总书记关于体育的重要论述，统筹推进群众体育、竞技体育、青少年体育协同发展，促进文体旅深度融合，加快建设体育强省。希望国家体育总局在重大赛事布局、群众体育品牌培育、体育产业发展等方面给予更多指导和帮助。湖北将发挥自身优势，积极主动作为，努力为体育强国建设贡献更大力量。\n张家胜感谢湖北省委、省政府长期以来对体育工作的关心支持，高度评价湖北经济社会发展取得的新成就。他说，湖北作为体育大省，竞技体育屡创佳绩，群众体育和青少年体育蓬勃开展，体育产业活力迸发，为国家体育事业高质量发展作出了重要贡献。国家体育总局将一如既往地支持湖北体育事业发展，持续深化多领域对接合作，助力湖北体育强省建设再上新台阶。\n副省长陈平参加会见。（记者张进）",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "party",
+  "keywords": [
+    "体育事业",
+    "体育强省",
+    "文体旅融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "guan-zhiou",
+      "name_zh": "关志鸥",
+      "name_en": "Guan Zhiou"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张家胜",
+      "name_en": "Zhang Jiasheng"
+    },
+    {
+      "kind": "institution",
+      "id": "GASS",
+      "name_zh": "国家体育总局",
+      "name_en": "General Administration of Sport of China"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湖北省委",
+      "name_en": "Hubei Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB-XG",
+      "name_zh": "孝感",
+      "name_en": "Xiaogan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "体育事业",
+      "name_en": "Sports Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "体育强省",
+      "name_en": "Building a Strong Sports Province"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文体旅融合",
+      "name_en": "Culture, Sports and Tourism Integration"
+    }
+  ],
+  "tags_zh": [
+    "关志鸥",
+    "张家胜",
+    "国家体育总局",
+    "湖北省委",
+    "孝感",
+    "体育事业",
+    "体育强省",
+    "文体旅融合"
+  ],
+  "tags_en": [
+    "Guan Zhiou",
+    "Zhang Jiasheng",
+    "General Administration of Sport of China",
+    "Hubei Provincial Party Committee",
+    "Xiaogan",
+    "Sports Development",
+    "Building a Strong Sports Province",
+    "Culture, Sports and Tourism Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "guan-zhiou",
+      {
+        "id": null,
+        "name_zh": "陈平"
+      }
+    ],
+    "institutions": [
+      "GASS"
+    ],
+    "locations": [
+      "CN-HB-XG"
+    ],
+    "companies": [
+      {
+        "name_zh": "湖北省委",
+        "name_en": "Hubei Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261011-peoples_hb-8a1c04",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

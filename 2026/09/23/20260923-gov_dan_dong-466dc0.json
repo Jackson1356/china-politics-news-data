@@ -1,0 +1,103 @@
+{
+  "id": "20260923-gov_dan_dong-466dc0",
+  "source": "gov_dan_dong",
+  "source_name_zh": "丹东市政府网",
+  "source_name_en": "丹东 Government Portal",
+  "source_media_id": "gov-cn-prefecture-dan_dong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.dandong.gov.cn/html/DDSZF/202609/0179012449410223.html",
+  "title_zh": "陈福茂参加丹东市第十四次党代会宽甸代表团分组审议",
+  "title_en": "Chen Fumao Joins Kuandian Delegation Deliberations at Dandong's 14th Party Congress",
+  "summary_zh": "9月22日下午，中国共产党丹东市第十四次代表大会分组审议市委报告和市纪委工作报告，陈福茂到宽甸代表团参加审议，并就县域发展与兴边富民提出要求。",
+  "summary_en": "On the afternoon of September 22, Chen Fumao joined the Kuandian delegation in group deliberations at the 14th Dandong Municipal Party Congress, reviewing the municipal Party committee and discipline commission work reports and urging high-quality county development.",
+  "body_zh": "9月22日下午，中国共产党丹东市第十四次代表大会进行分组审议。陈福茂来到宽甸代表团，与党代表们一起审议市委报告和市纪委工作报告。\n审议现场气氛热烈。大家一致认为，市委报告既立足当下，又着眼长远，既跳出一域看全局，又立足丹东谋发展，为全市未来五年高质量发展明确了奋斗目标、指明了方向、提供了遵循。\n陈福茂说，市委报告立足全国、全省大局，紧扣东北全面振兴、边境高质量发展时代要求，对未来五年振兴发展作出系统谋划、科学部署。要主动对标报告确定的目标任务，切实把思想和行动统一到市委工作部署上来，进一步坚定发展信心、强化责任担当，以务实举措推动各项任务落到实处，不断开创丹东振兴发展新局面。市纪委工作报告站位全局、主题鲜明，彰显了坚决服务中心大局的责任担当，是一份指导性、针对性都很强的好报告。\n陈福茂指出，宽甸满族自治县要紧紧围绕全市未来五年发展总体部署，坚持对标看齐、主动作为、精准发力、靶向攻坚，全力推动县域经济社会高质量发展。要紧盯国家政策机遇，力争更多好项目、产业链项目落地宽甸。要充分利用资源延伸林下种养、精深加工、林业碳汇等产业链，把生态优势转化为发展胜势，让绿水青山变成群众增收致富的金山银山。要统筹发展与安全，坚决落实强边固防、兴边富民各项政策，守牢边境安全底线。要抓好抓实全面从严治党，优化发展环境，以优良环境和过硬作风保障高质量发展，为丹东全面振兴扛起宽甸担当、贡献宽甸力量。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "东北全面振兴",
+    "兴边富民"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈福茂",
+      "name_en": "Chen Fumao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-DD",
+      "name_zh": "丹东",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "宽甸满族自治县",
+      "name_en": "Kuandian Manchu Autonomous County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东北全面振兴",
+      "name_en": "Northeast Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "兴边富民",
+      "name_en": "Prospering Border Areas and Enriching Residents"
+    }
+  ],
+  "tags_zh": [
+    "陈福茂",
+    "丹东",
+    "宽甸满族自治县",
+    "党代会",
+    "东北全面振兴",
+    "兴边富民"
+  ],
+  "tags_en": [
+    "Chen Fumao",
+    "Kuandian Manchu Autonomous County",
+    "Party Congress",
+    "Northeast Revitalization",
+    "Prospering Border Areas and Enriching Residents"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "陈福茂"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-DD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260923-gov_dan_dong-466dc0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

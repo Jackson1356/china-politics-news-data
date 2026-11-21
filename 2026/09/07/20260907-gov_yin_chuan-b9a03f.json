@@ -1,0 +1,96 @@
+{
+  "id": "20260907-gov_yin_chuan-b9a03f",
+  "source": "gov_yin_chuan",
+  "source_name_zh": "银川市政府网",
+  "source_name_en": "银川 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yin_chuan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.nx.gov.cn/zwxx_11337/nxyw/202609/t20260907_5335853.html",
+  "title_zh": "李邑飞会见伊斯兰合作组织代表团一行",
+  "title_en": "Li Yifei Meets with Delegation of Organisation of Islamic Cooperation",
+  "summary_zh": "9月6日，宁夏回族自治区党委书记李邑飞在银川会见伊斯兰合作组织代表团一行，双方就深化友好交流和拓展合作进行会谈。",
+  "summary_en": "On September 6, Li Yifei, Secretary of the CPC Ningxia Regional Committee, met with a delegation of the Organisation of Islamic Cooperation in Yinchuan to discuss deepening friendly exchanges and expanding cooperation.",
+  "body_zh": "李邑飞会见伊斯兰合作组织代表团一行\n9月6日，自治区党委书记、人大常委会主任李邑飞在银川会见伊斯兰合作组织代表团一行。\n李邑飞代表自治区党委和政府对代表团一行来访表示欢迎。他说，中国同伊斯兰国家是好朋友、好伙伴，友谊源远流长，近年来与伊斯兰合作组织友好交往不断深化、各领域合作不断拓展。宁夏是中国西部的一块宝地，我们按照习近平主席擘画的宏伟蓝图加快建设经济繁荣、民族团结、环境优美、人民富裕的美丽新宁夏，特别是在习近平主席亲自部署、亲自推动的闽宁协作重大战略决策指引下，与全国一道打赢脱贫攻坚战、全面建成小康社会，踏上中国式现代化新征程。作为“一带一路”的重要节点，宁夏正在打造中国内陆开放型经济试验区，与170多个国家开展经贸往来。我们将深入践行习近平主席构建人类命运共同体伟大倡议，持续推进高水平对外开放，与伊斯兰合作组织及各成员国共享发展机遇，进一步深化友好交流、拓宽产业合作、增进人文往来，共同为促进文明对话、推动可持续发展、实现人民共同富裕作出贡献。\n代表团团长迪亚丁大使、伊斯兰合作组织助理秘书长杜拜伊表示，此行实地感知宁夏经济繁荣发展、民族团结和谐、群众幸福生活的真实场景，切身体会到中国政府坚持以人民为中心的发展理念。伊斯兰合作组织及各成员国高度赞赏习近平主席构建人类命运共同体伟大倡议取得的显著成果，愿与中国在教育、科技、人工智能等领域持续深化交流合作，通过搭建桥梁纽带巩固友好关系、增进民生福祉。\n自治区领导窦敬丽、褚伟参加。（记者 马晓芳 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-06",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际合作",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-yifei",
+      "name_zh": "李邑飞",
+      "name_en": "Li Yifei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX-YC",
+      "name_zh": "银川",
+      "name_en": "Yinchuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "person",
+      "id": "dou-jingli",
+      "name_zh": "窦敬丽",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李邑飞",
+    "银川",
+    "国际合作",
+    "一带一路",
+    "窦敬丽"
+  ],
+  "tags_en": [
+    "Li Yifei",
+    "Yinchuan",
+    "International Cooperation",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [
+      "li-yifei",
+      "dou-jingli",
+      {
+        "id": null,
+        "name_zh": "杜拜伊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260907-gov_yin_chuan-b9a03f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

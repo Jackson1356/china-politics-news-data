@@ -1,0 +1,91 @@
+{
+  "id": "20260806-gov_wei_hai-034003",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/8/6/art_58817_6529725.html",
+  "title_zh": "孔凡萍会见华熙生物科技股份有限公司客人",
+  "title_en": "Kong Fanping Meets with Bloomage Biotech Chairman",
+  "summary_zh": "8月4日，威海市委副书记、市长孔凡萍会见华熙生物董事长兼总裁赵燕一行，双方就海洋生物制造、康养旅游等领域合作进行交流。",
+  "summary_en": "On August 4, Kong Fanping, Mayor of Weihai, met with Zhao Yan, Chairman and President of Bloomage Biotech, to discuss cooperation in marine bio-manufacturing and wellness tourism.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯 8月4日，市委副书记、市长孔凡萍会见华熙生物科技股份有限公司董事长兼总裁赵燕一行，副市长刘奎忠会见时在座。\n孔凡萍说，华熙生物科技股份有限公司是生物制造行业的领军企业，与威海合作前景广阔。希望企业充分发挥自身优势，深度参与海洋生物制造产业发展，加强水产品规模化繁育、高值化利用对接合作。结合威海旅游旅居人口多、健康消费需求大的特点，积极参与康养旅游产业融合发展区建设，不断拓展应用和消费场景，扩大医疗美容、营养健康等业务布局，推动形成更多合作成果。威海将全力做好服务保障，加大项目支持力度，努力实现共赢发展。",
+  "image_url": null,
+  "published_at": "2026-08-06T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-06T06:58:28Z",
+  "topic": "economy",
+  "keywords": [
+    "生物制造",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物制造",
+      "name_en": "Bio-manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "生物制造",
+    "产业合作"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Bio-manufacturing",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "刘奎忠"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260806-gov_wei_hai-034003",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

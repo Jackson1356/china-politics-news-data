@@ -1,0 +1,99 @@
+{
+  "id": "20260819-gov_cn_yaowen-3dae7c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/08/19/VIDE8tn3YcgBcJVuFCZX4cJ5260819.shtml",
+  "title_zh": "李强会见厄瓜多尔总统",
+  "title_en": "Li Qiang Meets with Ecuadorian President",
+  "summary_zh": "国务院总理李强19日在京会见来华进行国事访问的厄瓜多尔总统诺沃亚，双方就深化合作交换意见。",
+  "summary_en": "Premier Li Qiang met with Ecuadorian President Noboa, who is on a state visit to China, in Beijing on the 19th. The two sides exchanged views on deepening cooperation.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强19日在京会见来华进行国事访问的厄瓜多尔总统诺沃亚。\n李强表示，今年适逢中厄建立全面战略伙伴关系10周年。昨天，习近平主席同总统先生举行会晤，就深化中厄关系作出进一步规划。中方愿同厄方遵循两国元首战略引领，筑牢政治互信，推进高质量共建“一带一路”，拓展能源矿产、经贸、民生等领域合作，更好服务两国现代化建设。中方愿始终做拉美和加勒比国家可信赖的合作伙伴，同厄瓜多尔等各方一道推动中拉命运共同体建设不断走深走实。\n诺沃亚表示，中国是厄瓜多尔的重要合作伙伴和好朋友。厄方愿同中方进一步释放双边自贸协定红利，深化经贸、金融、能矿、基建、农渔业等领域互利合作。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "中厄关系",
+    "共建一带一路",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中厄关系",
+      "name_en": "China-Ecuador Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "共建一带一路",
+      "name_en": "Belt and Road Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "中厄关系",
+    "共建一带一路",
+    "经贸合作",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "China-Ecuador Relations",
+    "Belt and Road Cooperation",
+    "Economic and Trade Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260819-gov_cn_yaowen-3dae7c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078583.htm",
+      "title_zh": "李强会见厄瓜多尔总统诺沃亚",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

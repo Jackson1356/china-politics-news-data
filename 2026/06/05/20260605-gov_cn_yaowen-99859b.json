@@ -1,0 +1,122 @@
+{
+  "id": "20260605-gov_cn_yaowen-99859b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/05/VIDEIDjZHdqfWV7WVJdF1sCu260605.shtml",
+  "title_zh": "李强会见老挝人民革命党中央总书记、国家主席通伦",
+  "title_en": "Li Qiang Meets with General Secretary and President of Laos Thonglun Sisoulith",
+  "summary_zh": "6月5日上午，国务院总理李强在北京会见来华进行国事访问的老挝国家主席通伦，双方探讨深化贸易、铁路及经济走廊等领域合作。",
+  "summary_en": "On June 5, Premier Li Qiang met with Lao President Thonglun Sisoulith in Beijing to discuss deepening cooperation in trade, railways, and the China-Laos Economic Corridor.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：6月5日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的老挝人民革命党中央总书记、国家主席通伦。\n李强表示，今年是中老建交65周年。习近平总书记、国家主席同通伦总书记、国家主席举行会谈，就深化发展两国关系作出进一步规划。中方愿同老方加强发展战略对接，深化贸易投资、铁路、能源矿产、数字经济、人文等领域合作，加快推进中老经济走廊建设，密切多边协调配合，推动中老命运共同体建设向更高水平迈进，不断增进两国人民福祉。\n通伦表示，老方感谢中方长期以来提供的宝贵支持与帮助，将坚定奉行一个中国原则，同中方加强各领域务实合作，推动老中命运共同体建设取得更多成果。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "foreign",
+  "keywords": [
+    "中老关系",
+    "命运共同体",
+    "经济走廊"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "通伦",
+      "name_en": "Thonglun Sisoulith"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中老关系",
+      "name_en": "China-Laos Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济走廊",
+      "name_en": "Economic Corridor"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "通伦",
+    "国务院",
+    "北京",
+    "中老关系",
+    "命运共同体",
+    "经济走廊"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Thonglun Sisoulith",
+    "State Council",
+    "Beijing",
+    "China-Laos Relations",
+    "Community with a Shared Future",
+    "Economic Corridor"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260605-gov_cn_yaowen-99859b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071287.htm",
+      "title_zh": "李强会见老挝人民革命党中央总书记、国家主席通伦",
+      "published_at": "2026-06-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

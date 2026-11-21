@@ -1,0 +1,99 @@
+{
+  "id": "20260823-qiushi-69d143",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260823/12c782afe2454c08bd7f5434a0c4815d/c.html",
+  "title_zh": "第48届世界技能大赛中国代表团成立",
+  "title_en": "China's Delegation for 48th WorldSkills Competition Established",
+  "summary_zh": "经人力资源社会保障部批准，第48届世界技能大赛中国代表团近日成立，共220人，含71名选手，将参加全部64个项目。大赛将于9月22日至27日在上海举办。",
+  "summary_en": "The Ministry of Human Resources and Social Security has approved the formation of a 220-member Chinese delegation for the 48th WorldSkills Competition, including 71 contestants competing in all 64 events. The competition will be held in Shanghai from September 22 to 27.",
+  "body_zh": "经人力资源社会保障部批准，第48届世界技能大赛中国代表团近日正式成立。记者了解到，中国代表团共220人，其中包括71名参赛选手，将参加全部64个项目的比赛。参赛选手来自全国21个省份，其中学生49名、职工22名。选手平均年龄21岁，年龄最小的18岁，最大的25岁。\n我国自2010年加入世界技能组织以来，已参加7届世界技能大赛，累计获得93枚金牌、41枚银牌、28枚铜牌和71个优胜奖，连续4届位居金牌榜、团体总分世界第一。\n第48届世界技能大赛将于今年9月22日至27日在上海举办。本届世界技能大赛是我国第8次组团参赛，也是我国第3次参加全部比赛项目。\n网站编辑 -\n刘小畅\n张盼 审核 - 张西立",
+  "image_url": null,
+  "published_at": "2026-08-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "industry",
+  "keywords": [
+    "技能大赛",
+    "技能人才"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技能大赛",
+      "name_en": "Skills Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技能人才",
+      "name_en": "Skilled Talent"
+    }
+  ],
+  "tags_zh": [
+    "人力资源社会保障部",
+    "技能大赛",
+    "技能人才"
+  ],
+  "tags_en": [
+    "Ministry of Human Resources and Social Security",
+    "Skills Competition",
+    "Skilled Talent"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260823-qiushi-69d143",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_23_828288.shtml",
+      "title_zh": "第48届世界技能大赛中国代表团成立，71人将参加64项比赛",
+      "published_at": "2026-08-23T12:00:00+00:00"
+    },
+    {
+      "source": "local_yang_zi_wan_bao_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://www.yzwb.net/news/txs/202608/t20260823_385384.html",
+      "title_zh": "第48届世界技能大赛中国代表团成立",
+      "published_at": "2026-08-23T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": null,
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682558.shtml",
+      "title_zh": "第48届世界技能大赛中国代表团成立",
+      "published_at": "2026-08-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

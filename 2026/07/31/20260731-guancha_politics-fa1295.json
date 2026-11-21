@@ -1,0 +1,87 @@
+{
+  "id": "20260731-guancha_politics-fa1295",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_07_31_825682.shtml",
+  "title_zh": "内蒙古中铁建一在建项目塌方，4人死亡",
+  "title_en": "Collapse at China Railway Construction Project in Inner Mongolia Kills 4",
+  "summary_zh": "内蒙古一由中国铁建承建的在建项目发生塌方事故，造成4人死亡。",
+  "summary_en": "A collapse at a China Railway Construction project under construction in Inner Mongolia killed 4 people.",
+  "body_zh": "习近平：强化政治引领，深化创新发展，高质量推进国防和军队现代化2026-07-31 12:23 习主席带领我们强军\n国防部回应“试验场建台政府建筑等比例模型”2026-07-31 10:09\n中国海警位中国台湾岛以东海域依法开展常态化执法巡查2026-07-31 09:57\n大科学装置拉索新发现，认证首个拍电子伏伽马射线变源2026-07-31 09:30\n国文清主动投案，接受审查调查2026-07-31 09:16 廉政风暴\n“1988元可与美女亲亲抱抱，其他服务私下谈”？当地通报2026-07-31 08:34\n“1个协会89名副会长”？官方最新通报：9人被追责2026-07-31 07:36\n国家能源局：我国首次低于50%2026-07-31 06:40\n重庆彭水山体崩塌已致51人遇难，仍有10人失联2026-07-31 06:14\n南部战区位中国黄岩岛领海领空及周边区域组织战备警巡2026-07-30 22:59\n中国海警位中国黄岩岛领海及周边区域执法巡查2026-07-30 22:59 南海局势\n江西玉山一住户家中液化气罐泄漏爆炸，致1死1伤2026-07-30 19:02\n2%胜率逆转获胜，柯洁获得王中王围棋争霸赛冠军2026-07-30 19:01\n是时候把“同志”这个称呼，唤回我们的日常生活了2026-07-30 16:08\n中共中央召开党外人士座谈会，习近平主持并发表重要讲话2026-07-30 15:41\n任内发生82死矿难，长治市原市长陈向阳被查2026-07-30 15:07 廉政风暴\n中共中央政治局召开会议，决定召开二十届五中全会2026-07-30 14:52\n上半年国内游戏市场收入超1884亿元，同比增长12%2026-07-30 13:50 观网游戏\n独家对话：“在大陆10年，我看见一个新世界”2026-07-30 12:00 观察者头条\n首次超四成！我国发电“含绿量”再创新高2026-07-30 11:55 能源战略",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "industry",
+  "keywords": [
+    "安全生产",
+    "工程事故"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工程事故",
+      "name_en": "Engineering Accident"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "内蒙古",
+    "安全生产",
+    "工程事故",
+    "习近平"
+  ],
+  "tags_en": [
+    "Inner Mongolia",
+    "Work Safety",
+    "Engineering Accident"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "陈向阳"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260731-guancha_politics-387b6d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

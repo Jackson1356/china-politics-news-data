@@ -1,0 +1,100 @@
+{
+  "id": "20260807-gov_yan_cheng-45950c",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/8/7/art_60096_11813470.html",
+  "title_zh": "信长星会见乌兹别克斯坦客人",
+  "title_en": "Xin Changxing Meets Uzbek Ambassador in Nanjing",
+  "summary_zh": "8月5日，江苏省委书记信长星在南京会见乌兹别克斯坦驻华大使法尔霍德·阿尔济耶夫，双方就深化经贸合作、人文交流等交换意见。",
+  "summary_en": "On August 5, Jiangsu Provincial Party Secretary Xin Changxing met with Uzbek Ambassador to China Farhod Arziev in Nanjing, discussing deepening economic cooperation and cultural exchanges.",
+  "body_zh": "当前位置：\n信长星会见乌兹别克斯坦客人\n8月5日，省委书记信长星在南京会见乌兹别克斯坦驻华大使法尔霍德·阿尔济耶夫。\n信长星对法尔霍德·阿尔济耶夫一行表示欢迎。他说，习近平主席与米尔济约耶夫总统就发展中乌关系作出战略擘画，为我们深化地方交往提供了重要指引。今年是中乌建立全面战略伙伴关系10周年，我们将认真落实两国领导人重要共识，用好中国—中亚贸易畅通合作平台、中亚江苏中心等载体，深化与乌兹别克斯坦的经贸合作、产业对接、人文交流等，更好服务高质量共建“一带一路”、构建更加富有内涵和活力的中乌命运共同体。\n法尔霍德·阿尔济耶夫表示，乌中是友好近邻和新时代全天候全面战略伙伴，两国关系跃升到新的高度。江苏经济实力雄厚、科技创新活跃、文化底蕴深厚，乌兹别克斯坦高度重视与江苏的交流交往，希望进一步拓展务实合作，共同增进人民福祉。\n省领导陈忠伟、赵岩，乌兹别克斯坦驻上海总领事鲁斯塔姆·伊斯梅洛夫参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际合作",
+    "一带一路"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road"
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "南京",
+    "国际合作",
+    "一带一路",
+    "陈忠伟"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Nanjing",
+    "International Cooperation",
+    "Belt and Road"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "chen-zhongwei-jiangsu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260807-gov_tai_zhou-d4fcdd",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.jiangsu.gov.cn/art/2026/8/7/art_60096_11813470.html",
+      "title_zh": "江苏省人民政府 要闻关注 信长星会见乌兹别克斯坦客人",
+      "published_at": "2026-08-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

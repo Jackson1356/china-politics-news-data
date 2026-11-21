@@ -1,0 +1,97 @@
+{
+  "id": "20260528-peoples_sh-e06bb0",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_url": "http://sh.people.com.cn/n2/2026/0529/c138654-41594824.html",
+  "title_zh": "陈吉宁会见塞尔维亚总统武契奇",
+  "title_en": "Chen Jining Meets Serbian President Aleksandar Vučić",
+  "summary_zh": "2026年5月28日，上海市委书记陈吉宁在上海会见塞尔维亚总统武契奇，双方探讨深化上海与贝尔格莱德市的友城关系及各领域务实合作。",
+  "summary_en": "On May 28, 2026, Shanghai Party Secretary Chen Jining met with Serbian President Aleksandar Vučić in Shanghai to discuss deepening the sister-city relationship between Shanghai and Belgrade and enhancing practical cooperation.",
+  "body_zh": "陈吉宁会见塞尔维亚总统武契奇 不断深化上海与贝尔格莱德市友城关系\n为筑牢中塞铁杆友谊作更大贡献\n上海市委书记陈吉宁昨天会见了塞尔维亚总统武契奇。\n陈吉宁代表上海市委、市政府和全市人民，对武契奇总统一行到访上海表示热烈欢迎，介绍了上海经济社会发展和城市治理相关情况。他说，中塞传统友谊深厚，习近平主席同总统先生举行会晤，达成重要共识，为两国关系进一步发展指明了方向。上海愿同塞方一道，在两国元首战略指引下，为推动中塞各领域合作走深走实发挥地方的积极作用。上海是中国共产党的诞生地，我们坚持以人民为中心的发展思想，深入践行人民城市理念，把全过程人民民主融入城市治理现代化，一切工作的出发点和落脚点，就是让老百姓过上更好的日子。中塞地方之间合作空间广阔，愿不断深化上海与贝尔格莱德市的友好城市关系，加强双方经贸投资往来，促进城市治理交流互鉴，持续推动教育、文化、旅游、体育等领域务实合作，增进两国人民特别是青少年之间友好往来，为筑牢中塞铁杆友谊作出更大贡献。\n武契奇感谢上海的精心接待并表示，此次来华进行国事访问，对中国共产党的发展历程和治国理政经验有了更为真切的认识，祝贺中国取得的巨大发展成就。上海的城市发展、科技创新和治理成效令人印象深刻，同贝尔格莱德市开通直航以来进一步促进了双方各领域合作。期待双方持续扩大经贸、旅游合作，围绕高新技术、产业发展、城市治理等方面深化互学互鉴，更好加深铁杆友谊，造福两国人民。\n中国驻塞尔维亚大使李明，上海市领导卢山参加会见。",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "友城合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-jining",
+      "name_zh": "陈吉宁",
+      "name_en": "Chen Jining"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "上海市委",
+      "name_en": "Shanghai Municipal Committee of the CPC"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Serbia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友城合作",
+      "name_en": "Sister-city Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "陈吉宁",
+    "上海市委",
+    "上海",
+    "中塞关系",
+    "友城合作"
+  ],
+  "tags_en": [
+    "Chen Jining",
+    "Shanghai Municipal Committee of the CPC",
+    "Shanghai",
+    "China-Serbia Relations",
+    "Sister-city Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-jining",
+      {
+        "id": null,
+        "name_zh": "卢山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": [
+      {
+        "name_zh": "上海市委",
+        "name_en": "Shanghai Municipal Committee of the CPC"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260528-peoples_sh-e06bb0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

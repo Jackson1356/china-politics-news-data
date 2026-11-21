@@ -1,0 +1,83 @@
+{
+  "id": "20260818-gov_cn_yaowen-6191dc",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202608/content_7078382.htm",
+  "title_zh": "二季度末普惠型小微企业贷款余额同比增8%",
+  "title_en": "Inclusive Small and Micro Enterprise Loan Balance Up 8% YoY at End of Q2",
+  "summary_zh": "国家金融监督管理总局发布数据显示，二季度末普惠型小微企业贷款余额同比增长8%，上半年保险保费收入同比增长3.2%。",
+  "summary_en": "The National Financial Regulatory Administration reported that inclusive small and micro enterprise loans rose 8% YoY by end of Q2, while insurance premium income grew 3.2% in H1.",
+  "body_zh": "国家金融监督管理总局发布数据显示：二季度末，银行业金融机构普惠型小微企业贷款余额38.9万亿元，同比增长8%；普惠型涉农贷款余额15万亿元，同比增长7.5%。\n今年上半年，保险公司原保险保费收入3.9万亿元，同比增长3.2%；赔款与给付支出1.4万亿元，同比增长3.8%；新增保单件数668亿件，同比增长27.4%。\n银行业和保险业总资产保持增长。二季度末，我国银行业金融机构本外币资产总额498万亿元，同比增长6.6%；保险公司和保险资产管理公司总资产43.9万亿元，较年初增长6.2%。（记者 赵展慧）",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "economy",
+  "keywords": [
+    "普惠金融",
+    "小微企业",
+    "保险业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NFRA",
+      "name_zh": "国家金融监督管理总局",
+      "name_en": "National Financial Regulatory Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "普惠金融",
+      "name_en": "Inclusive Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "小微企业",
+      "name_en": "Small and Micro Enterprises"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "保险业",
+      "name_en": "Insurance Industry"
+    }
+  ],
+  "tags_zh": [
+    "国家金融监督管理总局",
+    "普惠金融",
+    "小微企业",
+    "保险业"
+  ],
+  "tags_en": [
+    "National Financial Regulatory Administration",
+    "Inclusive Finance",
+    "Small and Micro Enterprises",
+    "Insurance Industry"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NFRA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260818-gov_cn_yaowen-6191dc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "20260804-guancha_politics-539b7e",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_04_826098.shtml",
+  "title_zh": "军迷鲁某被国家安全机关查获",
+  "title_en": "Military Fan Lu Apprehended by State Security Organs",
+  "summary_zh": "国家安全机关查获一名网名鲁某的军迷，其涉嫌危害国家安全。",
+  "summary_en": "State security organs apprehended a military fan surnamed Lu, suspected of endangering national security.",
+  "body_zh": "送检9个样本中8个不属亲生父母，香港一生殖中心员工被通缉 2026-08-04 10:36\n“冯院长挺喜欢你”“给我送点钱” 邯郸中院：属实 2026-08-04 09:19 廉政风暴\n中央纪委国家监委最新通报 2026-08-04 07:33\n台风“白海豚”两种路径公布 2026-08-03 22:52\n修订后的《集成电路布图设计保护条例》公布 2026-08-03 21:46\n“中国烹饪大师”“之乡、之都”等称号，全部作废 2026-08-03 20:51\n蔡奇看望慰问北戴河暑期休假专家 2026-08-03 20:14\n构成重大威胁！我国发现一批境外恶意网址和IP，涉美、德、荷等国 2026-08-03 17:25\n数百件展品串联起国产游戏发展之路，中国单机游戏展在沪开幕 2026-08-03 14:37 观网游戏\n台风“白海豚”减弱为强台风级，周四起影响我国 2026-08-03 14:20\n福建东山县市监局：已成立调查组，核查牛蛙产品抗生素超标问题 2026-08-03 13:56 食品安全\n靠企吃企，中国再生资源开发集团原董事长、总经理邢宏伟被“双开” 2026-08-03 10:51 廉政风暴\n我国海工装备新接订单金额大增近122%，占全球份额超八成 2026-08-03 09:22\n四川宜宾高县发生4.8级地震，中国地震局启动四级应急响应 2026-08-03 06:57\n男子到军事禁区拒不配合查验，推搡哨兵打落设备，法院判了 2026-08-02 22:51\n航行警告！南海部分海域进行军事训练，禁止驶入 2026-08-02 22:51\n王某与现役军人配偶同居致其怀孕堕胎，被判2年 2026-08-02 20:04 依法治国\n安徽亳州城管局通报一公职人员涉嫌婚内出轨 2026-08-02 14:01 婚姻故事\n浙江省委原副书记吴敏达逝世，参与研制摄影机记录了首枚氢弹试爆 2026-08-02 13:26\n“公职人员停车受阻撬他人停车位地锁”，官方通报 2026-08-02 12:14",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "discipline",
+  "keywords": [
+    "国家安全"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全",
+      "name_en": "National Security"
+    }
+  ],
+  "tags_zh": [
+    "国家安全"
+  ],
+  "tags_en": [
+    "National Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260804-guancha_politics-539b7e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_04_826103.shtml",
+      "title_zh": "国家网信办：一批侵犯企业、企业家权益账号被从严处置，“电车小飞”被封号",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_04_826102.shtml",
+      "title_zh": "五年期大额存单，“限量”回归！",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_04_826100.shtml",
+      "title_zh": "对话《抵抗者》项目组：做出内容扎实的射击游戏，讲好抗战故事",
+      "published_at": "2026-08-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

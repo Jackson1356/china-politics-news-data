@@ -1,0 +1,100 @@
+{
+  "id": "20260626-gov_cn_yaowen-256fec",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073426.htm",
+  "title_zh": "谌贻琴在江西调研时强调坚决落实就业优先战略 推动体育产业高质量发展",
+  "title_en": "Chen Yiqin Emphasizes Employment-First Strategy and High-Quality Development of Sports Industry During Jiangxi Visit",
+  "summary_zh": "国务委员谌贻琴于6月23日至26日在江西调研就业与体育工作，强调要落实就业优先战略并推动体育产业高质量发展。",
+  "summary_en": "State Councilor Chen Yiqin conducted a research trip to Jiangxi from June 23 to 26, emphasizing the implementation of the employment-first strategy and the high-quality development of the sports industry.",
+  "body_zh": "谌贻琴在江西调研时强调\n坚决落实就业优先战略\n推动体育产业高质量发展\n新华社南昌6月26日电 国务委员谌贻琴23日至26日在江西调研就业、体育等工作。她强调，要深入学习贯彻习近平总书记重要讲话精神，认真落实党中央、国务院决策部署，坚决落实就业优先战略，积极推动体育产业高质量发展，加快培育形成更多新的增长点，努力实现居民增收、内需扩大、经济发展良性循环。\n谌贻琴先后来到景德镇市、九江市、南昌市，深入企业、就业服务机构、羽毛球人才培养与产业综合体等，详细了解企业经营、就业创业、体育产业发展等情况，并与地方政府、企业家和专家座谈。她指出，就业事关人民群众切身利益，事关经济社会健康发展，事关国家长治久安。要强化就业优先政策，加快实施稳岗扩容提质行动，支持吸纳就业能力强的行业企业稳定岗位，全力做好高校毕业生、农民工等重点群体就业。要科学把握、主动顺应就业形势变化，开展好大规模职业技能提升培训行动，持续完善就业公共服务体系，围绕发展新兴产业、未来产业培育新职业新岗位，更好促进群众就业增收。\n谌贻琴强调，体育产业是拉动消费、扩大内需的重要抓手。要进一步释放体育消费潜力，扩大优质产品和服务供给，激活赛事经济，拓展消费场景，壮大经营主体，努力让体育产业真正成为惠及广大群众的幸福产业、朝阳产业。",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "economy",
+  "keywords": [
+    "就业优先战略",
+    "体育产业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "shen-yiqin",
+      "name_zh": "谌贻琴",
+      "name_en": "Chen Yiqin"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业优先战略",
+      "name_en": "Employment-First Strategy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "体育产业",
+      "name_en": "Sports Industry"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江西",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "谌贻琴",
+    "国务院",
+    "江西",
+    "就业优先战略",
+    "体育产业"
+  ],
+  "tags_en": [
+    "Chen Yiqin",
+    "State Council",
+    "Jiangxi",
+    "Employment-First Strategy",
+    "Sports Industry"
+  ],
+  "entities": {
+    "politicians": [
+      "shen-yiqin",
+      {
+        "id": null,
+        "name_zh": "江西"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260626-gov_cn_yaowen-256fec",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

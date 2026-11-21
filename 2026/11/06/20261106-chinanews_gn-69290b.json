@@ -1,0 +1,101 @@
+{
+  "id": "20261106-chinanews_gn-69290b",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-06/10727383.shtml",
+  "title_zh": "中国空军八一飞行表演队飞越黄崖关长城",
+  "title_en": "PLA Air Force August First Aerobatic Team Flies Over Huangyaguan Great Wall",
+  "summary_zh": "11月6日，中国空军八一飞行表演队6架歼-10表演机以密集编队低空飞越天津黄崖关长城，庆祝中国人民解放军空军成立77周年。",
+  "summary_en": "On Nov 6, the PLA Air Force's August First Aerobatic Team flew six J-10 fighters in close formation over the Huangyaguan Great Wall in Tianjin, marking the 77th anniversary of the PLA Air Force.",
+  "body_zh": "中国空军八一飞行表演队飞越黄崖关长城\n中新社天津11月6日电 (周亚强 孙翼飞)中国空军八一飞行表演队6架歼-10表演机6日以密集编队低空飞越天津黄崖关长城，庆祝中国人民解放军空军成立77周年。\n当天上午11时许，编队飞抵黄崖关长城上空，沿山脊线低空通场，四次飞越长城，拉出红、黄、蓝三色彩烟，全程约30分钟。这是该表演队继2018年飞越黄崖关长城、2024年飞越埃及金字塔后，再次飞越世界地标性建筑。\n黄崖关长城位于天津蓟州北部，始建于北齐，明代经戚继光重修，素有“蓟北雄关”之称，为万里长城重要关隘。该关一带山谷纵横、气流多变，对飞行员态势感知和协同配合要求较高。\n飞行员王雪松说，大机群密集编队穿山谷飞行是中国空军航空兵的训练课目，此次飞越是实战化练兵的体现。\n表演队队长李斌表示，飞越世界地标性建筑，展示中国空军开放自信形象；随着空军现代化建设持续推进，表演队航迹将进一步延伸。\n中国空军八一飞行表演队组建于1962年，被誉为“中国蓝天仪仗队”，先后装备歼-5、歼-6、歼教-5、歼-7EB、歼-7GB、歼-10、歼-10C等多个机型，已为180多个国家和地区的800多个代表团完成800余次飞行表演。(完)\n国内新闻精选：\n- 2026年11月06日 14:39:10\n- 2026年11月06日 13:29:12\n- 2026年11月06日 10:27:08\n- 2026年11月06日 10:10:57\n- 2026年11月06日 00:38:20\n- 2026年11月05日 11:09:28\n- 2026年11月04日 16:57:34\n- 2026年11月04日 16:42:19\n- 2026年11月04日 10:26:02\n- 2026年11月04日 10:04:43",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "空军成立77周年",
+    "实战化训练",
+    "歼-10表演机"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PLA-AF",
+      "name_zh": "中国人民解放军空军",
+      "name_en": "PLA Air Force"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "黄崖关长城",
+      "name_en": "Huangyaguan Great Wall"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空军成立77周年",
+      "name_en": "77th Anniversary of the Air Force"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实战化训练",
+      "name_en": "Combat-Oriented Training"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "歼-10表演机",
+      "name_en": "J-10 Fighter Jets"
+    }
+  ],
+  "tags_zh": [
+    "中国人民解放军空军",
+    "天津",
+    "黄崖关长城",
+    "空军成立77周年",
+    "实战化训练",
+    "歼-10表演机"
+  ],
+  "tags_en": [
+    "PLA Air Force",
+    "Tianjin",
+    "Huangyaguan Great Wall",
+    "77th Anniversary of the Air Force",
+    "Combat-Oriented Training",
+    "J-10 Fighter Jets"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PLA-AF"
+    ],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261106-chinanews_gn-69290b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "20260819-gov_cn_yaowen-e54d49",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078667.htm",
+  "title_zh": "王毅同智利外长佩雷斯会谈",
+  "title_en": "Wang Yi Holds Talks with Chilean Foreign Minister Perez",
+  "summary_zh": "中共中央政治局委员、外交部长王毅19日在北京同智利外长佩雷斯举行会谈，就深化中智关系及APEC合作等交换意见。",
+  "summary_en": "On August 19, Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, held talks with Chilean Foreign Minister Perez in Beijing, exchanging views on deepening bilateral ties and APEC cooperation.",
+  "body_zh": "新华社北京8月19日电（记者 马卓言）中共中央政治局委员、外交部长王毅19日在北京同智利外长佩雷斯举行会谈。\n王毅说，今年是中智建立全面战略伙伴关系10周年，中方愿同智新政府一道，推动中智关系迈上新台阶。愿同智方围绕APEC“中国年”深化合作，加快亚太共同体和亚太自贸区建设。双方要加强发展战略对接，增进沟通协作，推动构建人类命运共同体。\n佩雷斯表示，智新政府坚定恪守一个中国原则，愿密切高层交往，拉紧人文纽带，加强产业链对接，拓展合作。预祝APEC“中国年”取得圆满成功。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "中智关系",
+    "APEC合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "佩雷斯",
+      "name_en": "Perez"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中智关系",
+      "name_en": "China-Chile Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "APEC合作",
+      "name_en": "APEC Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "雷斯",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "佩雷斯",
+    "外交部",
+    "北京",
+    "中智关系",
+    "APEC合作",
+    "雷斯"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Perez",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Chile Relations",
+    "APEC Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "雷斯"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260819-gov_cn_yaowen-e54d49",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

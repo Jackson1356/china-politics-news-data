@@ -1,0 +1,83 @@
+{
+  "id": "20261031-local_hong_wang_cn_hn-bb7a8b",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646054/75/16429470.html",
+  "title_zh": "习近平与瑞士联邦主席帕姆兰共同见证中瑞自贸协定升级议定书签署",
+  "title_en": "Xi Jinping and Swiss President Parmelin Witness Signing of Upgraded China-Switzerland FTA Protocol",
+  "summary_zh": "中瑞建立创新战略伙伴关系10周年之际，国家主席习近平与瑞士联邦主席帕姆兰出席签字仪式，共同见证中瑞自贸协定升级议定书签署。",
+  "summary_en": "On the 10th anniversary of the China-Switzerland innovation strategic partnership, President Xi Jinping and Swiss Federal President Guy Parmelin attended a ceremony and witnessed the signing of the protocol upgrading the bilateral free trade agreement.",
+  "body_zh": "瑞士是首个同中国签订自贸协定的欧洲大陆国家。中瑞建立创新战略伙伴关系10周年之际，中国国家主席习近平和瑞士联邦主席帕姆兰出席签字仪式，见证签署中瑞自贸协定升级议定书。“自由贸易合作成为中瑞关系最亮眼的名片。”一段视频，看签字仪式现场！",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "自由贸易协定",
+    "中瑞关系",
+    "创新战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自由贸易协定",
+      "name_en": "Free Trade Agreement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中瑞关系",
+      "name_en": "China-Switzerland Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新战略伙伴关系",
+      "name_en": "Innovative Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "自由贸易协定",
+    "中瑞关系",
+    "创新战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Free Trade Agreement",
+    "China-Switzerland Relations",
+    "Innovative Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261031-local_hong_wang_cn_hn-bb7a8b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

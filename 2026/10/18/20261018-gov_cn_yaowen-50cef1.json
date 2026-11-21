@@ -1,0 +1,118 @@
+{
+  "id": "20261018-gov_cn_yaowen-50cef1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083585.htm",
+  "title_zh": "何立峰会见中投公司国际咨询委员会委员",
+  "title_en": "He Lifeng Meets Members of CIC International Advisory Council",
+  "summary_zh": "10月18日晚，国务院副总理何立峰在北京钓鱼台国宾馆会见中投公司国际咨询委员会委员，介绍中国经济形势与“十五五”时期扩大高水平对外开放、深化金融体制改革的举措。",
+  "summary_en": "On the evening of Oct 18, Vice Premier He Lifeng met members of the China Investment Corporation's International Advisory Council at the Diaoyutai State Guesthouse in Beijing, briefing them on China's economy and plans to expand high-level opening up and deepen financial reform.",
+  "body_zh": "新华社北京10月18日电 中共中央政治局委员、国务院副总理何立峰10月18日晚在钓鱼台国宾馆会见中投公司国际咨询委员会委员。\n何立峰表示，当前中国经济总体平稳、向新向优。“十五五”时期，中国将坚定不移扩大高水平对外开放，深化金融体制改革，希望委员们继续为中国改革开放和中投公司发展建言献策，持续发挥桥梁纽带作用，积极支持中国经济发展和中外交流合作。\n中投公司国际咨询委员会委员表示，对中国经济前景和金融市场发展充满信心，愿继续发挥自身优势，为深化中外互利合作贡献力量。",
+  "image_url": null,
+  "published_at": "2026-10-18T12:00:00+00:00",
+  "event_date": "2026-10-18",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "高水平对外开放",
+    "金融体制改革",
+    "中国经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "CIC",
+      "name_zh": "中投公司",
+      "name_en": "China Investment Corporation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Level Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融体制改革",
+      "name_en": "Financial System Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国经济",
+      "name_en": "Chinese Economy"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "中投公司",
+    "北京",
+    "高水平对外开放",
+    "金融体制改革",
+    "中国经济"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "China Investment Corporation",
+    "Beijing",
+    "High-Level Opening Up",
+    "Financial System Reform",
+    "Chinese Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "CIC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261018-gov_cn_yaowen-50cef1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chang_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083585.htm",
+      "title_zh": "何立峰会见中投公司国际咨询委员会委员",
+      "published_at": "2026-10-18T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/1019/c64094-40817173.html",
+      "title_zh": "何立峰会见中投公司国际咨询委员会委员",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

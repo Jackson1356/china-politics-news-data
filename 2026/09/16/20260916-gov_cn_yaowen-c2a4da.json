@@ -1,0 +1,124 @@
+{
+  "id": "20260916-gov_cn_yaowen-c2a4da",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/16/VIDEO1jCUcoRWvJjSUgpJmDb260916.shtml",
+  "title_zh": "丁薛祥将出席第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式",
+  "title_en": "Ding Xuexiang to Attend Opening Ceremony of the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit",
+  "summary_zh": "中共中央政治局常委、国务院副总理丁薛祥将于9月17日出席在广西南宁举行的第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式并致辞，缅甸、越南、老挝等国领导人及东盟秘书长将出席。",
+  "summary_en": "Chinese Vice Premier Ding Xuexiang, also a member of the Standing Committee of the Political Bureau of the CPC Central Committee, will attend and address the opening ceremony of the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit in Nanning, Guangxi, on September 17, with leaders from Myanmar, Vietnam, Laos and the ASEAN Secretary-General also attending.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：中共中央政治局常委、国务院副总理丁薛祥将于9月17日出席在广西南宁举行的第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式并致辞。\n缅甸副总统纽梭，越共中央政治局委员、政府常务副总理范家肃，老挝党中央政治局委员、政府常务副总理沙伦赛等外国领导人和高级官员以及东盟秘书长高金洪等将出席开幕式。\n[视频]丁薛祥将出席第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式\n简介\n视频简介丁薛祥将出席第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国—东盟合作",
+    "区域经贸投资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-NN",
+      "name_zh": "南宁",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—东盟合作",
+      "name_en": "China-ASEAN Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域经贸投资",
+      "name_en": "Regional Trade and Investment"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "国务院",
+    "广西",
+    "南宁",
+    "中国—东盟合作",
+    "区域经贸投资",
+    "薛祥将"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "State Council",
+    "China-ASEAN Cooperation",
+    "Regional Trade and Investment"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "洪等将"
+      },
+      {
+        "id": null,
+        "name_zh": "薛祥将"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-GX",
+      "CN-GX-NN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260916-gov_cn_yaowen-c2a4da",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081300.htm",
+      "title_zh": "丁薛祥将出席第23届中国—东盟博览会暨中国—东盟商务与投资峰会开幕式",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

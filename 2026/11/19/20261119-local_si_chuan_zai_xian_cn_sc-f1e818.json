@@ -1,0 +1,115 @@
+{
+  "id": "20261119-local_si_chuan_zai_xian_cn_sc-f1e818",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202611/83359868.html",
+  "title_zh": "习近平在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+  "title_en": "Xi Jinping Attends Opening of 2026 APEC CEO Summit in Shenzhen and Delivers Keynote Speech",
+  "summary_zh": "11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲，重申中国坚持改革开放、与亚太伙伴合作共赢。",
+  "summary_en": "On the morning of Nov 18, President Xi Jinping attended the opening of the 2026 APEC CEO Summit at the Qianhai International Conference Center in Shenzhen and delivered a keynote speech, reaffirming China's commitment to reform, opening-up and win-win cooperation with Asia-Pacific partners.",
+  "body_zh": "11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。\n6年前，同一个会场，习近平总书记在深圳经济特区建立40周年庆祝大会上发表重要讲话，释放出“改革不停顿，开放不止步”的时代强音。\n同一座会场，不变的开放承诺。中国将继续携手亚太伙伴勇毅前行，以开放纾发展之困，以创新聚增长之势，以合作谋共享之福。\n编导：卢烨 常能嘉\n记者：毛思倩 梁旭 邓华 吴鲁",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "对外开放",
+    "亚太合作",
+    "改革创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "改革创新",
+      "name_en": "Reform and Innovation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "对外开放",
+    "亚太合作",
+    "改革创新"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "Opening-Up",
+    "Asia-Pacific Cooperation",
+    "Reform and Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261119-local_si_chuan_zai_xian_cn_sc-f1e818",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_ji_nan_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "http://news.e23.cn/content/2026-11-19/2026B1900252.html",
+      "title_zh": "时政镜距离｜在深圳，聆听开放强音",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://news.xmnn.cn/gnxw/202611/t20261119_462507.html",
+      "title_zh": "时政镜距离｜在深圳，聆听开放强音 _新闻频道_厦门网",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "local_chang_cheng_wang_cn_he",
+      "source_tier": 3,
+      "url": "https://news.hebccw.cn/system/2026/11/19/102245206.shtml",
+      "title_zh": "时政镜距离｜在深圳，聆听开放强音_新闻频道_长城网",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

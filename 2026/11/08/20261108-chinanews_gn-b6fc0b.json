@@ -1,0 +1,105 @@
+{
+  "id": "20261108-chinanews_gn-b6fc0b",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-08/10728516.shtml",
+  "title_zh": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布",
+  "title_en": "China's First Interconnectable Neutral-Atom Quantum Computer Prototype \"Qianzhen\" Unveiled in Hefei",
+  "summary_zh": "11月8日，中国首款具备多机互联能力的中性原子量子计算机“乾阵”原型机在安徽合肥发布，山西大学与乾原量子共建的联合实验室同日揭牌。",
+  "summary_en": "On Nov 8, China's first interconnectable neutral-atom quantum computer prototype, \"Qianzhen,\" was unveiled in Hefei, Anhui, alongside a joint laboratory launched by Shanxi University and Qianyuan Quantum.",
+  "body_zh": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布\n中新社合肥11月8日电 (记者 张俊)中国首款可互联中性原子量子计算机“乾阵”原型机8日在安徽省合肥市发布。\n中性原子量子计算是当前量子计算的主流技术路线之一，该技术路线通过“光镊”阵列囚禁中性原子构建量子比特，具有扩展性强、运算保真度高、易于多机协同互联等特点，是实现通用量子计算的重要方向。\n“乾阵”原型机由合肥乾原量子科技有限公司(以下简称“乾原量子”)研制。据山西大学光电研究所教授、乾原量子董事长李刚介绍，“乾阵”原型机在架构设计之初就纳入互联技术，是中国首款具备多机互联能力的中性原子量子计算机原型机。\n李刚表示，乾原量子科研团队拥有从核心器件、量子处理器系统到多机互联技术的全链路自主研发能力。“未来，团队计划通过多机集群模式突破单机算力上限，面向科研和行业用户开展互联验证与示范，为更大规模量子算力扩展提供可行技术路径。”\n当日，山西大学-乾原量子中性原子量子计算联合实验室揭牌。据介绍，乾原量子项目是山西大学光量子技术与器件全国重点实验室的成果转化项目。该联合实验室将聚焦光镊原子阵列、多机互联接口、核心光学器件等关键科学问题与工程化难题开展攻关。\n合肥是中国较早系统布局量子科技研发及产业化的城市之一，已培育集聚量子产业链企业百余家。(完)\n国内新闻精选：\n- 2026年11月09日 16:49:56\n- 2026年11月09日 13:48:47\n- 2026年11月09日 13:13:37\n- 2026年11月08日 20:38:02\n- 2026年11月08日 17:31:16\n- 2026年11月07日 20:42:52\n- 2026年11月06日 14:39:10\n- 2026年11月06日 13:29:12\n- 2026年11月06日 10:27:08\n- 2026年11月06日 10:10:57",
+  "image_url": null,
+  "published_at": "2026-11-08T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "industry",
+  "keywords": [
+    "量子计算",
+    "中性原子量子计算",
+    "多机互联",
+    "成果转化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "山西大学",
+      "name_en": "Shanxi University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "量子计算",
+      "name_en": "Quantum Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中性原子量子计算",
+      "name_en": "Neutral-Atom Quantum Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多机互联",
+      "name_en": "Multi-Machine Interconnection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "成果转化",
+      "name_en": "Technology Transfer"
+    }
+  ],
+  "tags_zh": [
+    "山西大学",
+    "合肥",
+    "量子计算",
+    "中性原子量子计算",
+    "多机互联",
+    "成果转化"
+  ],
+  "tags_en": [
+    "Shanxi University",
+    "Hefei",
+    "Quantum Computing",
+    "Neutral-Atom Quantum Computing",
+    "Multi-Machine Interconnection",
+    "Technology Transfer"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HF"
+    ],
+    "companies": [
+      {
+        "name_zh": "山西大学",
+        "name_en": "Shanxi University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261108-chinanews_gn-b6fc0b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

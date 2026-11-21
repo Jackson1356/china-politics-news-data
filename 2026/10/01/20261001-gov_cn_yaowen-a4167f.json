@@ -1,0 +1,83 @@
+{
+  "id": "20261001-gov_cn_yaowen-a4167f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082585.htm",
+  "title_zh": "国庆假期迎出行高峰 交通部门全力保障",
+  "title_en": "Transport Departments Step Up Efforts as National Day Holiday Travel Peaks",
+  "summary_zh": "10月1日国庆假期首日，全社会跨区域人员流动量预计3.34亿人次，七座及以下小客车免收高速通行费，交通运输部及铁路、水路、民航系统加强运力与安全保障。",
+  "summary_en": "On Oct 1, the first day of the National Day holiday, cross-region trips are expected to hit 334 million, with toll-free highway travel for small cars and stepped-up rail, water and air transport measures.",
+  "body_zh": "记者从交通运输部获悉，国庆假期第一天，交通出行迎来客流高峰，预计全社会跨区域人员流动量3.34亿人次，公路人员流动量占比近九成。今天（10月1日）零时起，七座及七座以下小客车通行高速公路免收通行费，全国高速公路车流量增幅明显，多地高速公路服务区、收费站等通过增加匝道、车道数量，提升通行能力。\n全国铁路今天预计发送旅客2480万人次，预计加开列车2324列。京沪、京广、京哈等干线继续开行夜间高铁，成都、上海、广州等地高铁站启动通宵运营模式。\n今天全国水路客运量预计达134万人次，交通运输部救捞系统提级部署，强化灾害性天气防御，全力保障船舶运输安全。\n全国民航今天预计运输旅客251万人次，保障航班19982班。",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-10-01",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "welfare",
+  "keywords": [
+    "假期出行保障",
+    "高速公路免费通行",
+    "综合交通运输"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假期出行保障",
+      "name_en": "Holiday Travel Assurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高速公路免费通行",
+      "name_en": "Toll-free Highway Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "综合交通运输",
+      "name_en": "Integrated Transport"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "假期出行保障",
+    "高速公路免费通行",
+    "综合交通运输"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Holiday Travel Assurance",
+    "Toll-free Highway Travel",
+    "Integrated Transport"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261001-gov_cn_yaowen-a4167f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

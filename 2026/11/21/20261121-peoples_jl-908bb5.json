@@ -1,0 +1,106 @@
+{
+  "id": "20261121-peoples_jl-908bb5",
+  "source": "peoples_jl",
+  "source_name_zh": "人民网 吉林",
+  "source_name_en": "People's Daily Jilin",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jl.people.com.cn/n2/2026/1121/c349771-41756868.html",
+  "title_zh": "财政部在香港成功发行美元主权债券",
+  "title_en": "Ministry of Finance Successfully Issues US Dollar Sovereign Bonds in Hong Kong",
+  "summary_zh": "财政部代表中央政府于11月19日在香港成功发行20亿美元3年期主权债券，总认购金额达723亿美元，为发行金额的36倍。",
+  "summary_en": "The Ministry of Finance, on behalf of the central government, successfully issued USD 2 billion in 3-year sovereign bonds in Hong Kong on November 19, attracting total subscriptions of USD 72.3 billion, 36 times the issue size.",
+  "body_zh": "财政部在香港成功发行美元主权债券\n本报香港11月20日电 （记者冯学知）财政部2026年美元主权债券发行仪式20日在香港金融管理局举行。财政部有关负责人宣布，财政部代表中央政府于11月19日成功在香港发行了20亿美元主权债券，国际投资者认购踊跃，总认购金额723亿美元，是发行金额的36倍。\n据介绍，此次发行的美元主权债券为3年期，发行利率为4.821%。投资者类型丰富，地域分布广泛。亚洲、欧洲和中东、美洲投资者分别占比52%、34%、14%，主权类、基金资管、银行和保险、交易商等类型投资者分别占比59%、29%、11%、1%。此次发行的债券将全部在香港联合交易所上市。\n自2009年起，财政部根据国家推动金融业对外开放的总体部署，已连续18年在境外常态化发行主权债券，包括境外人民币国债、美元主权债券和欧元主权债券，不断完善境外主权债券发行机制。\n《 人民日报 》（ 2026年11月21日 04 版）",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "economy",
+  "keywords": [
+    "主权债券",
+    "金融业对外开放",
+    "境外融资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "香港金融管理局",
+      "name_en": "Hong Kong Monetary Authority"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "主权债券",
+      "name_en": "Sovereign Bonds"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融业对外开放",
+      "name_en": "Financial Sector Opening-Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "境外融资",
+      "name_en": "Offshore Financing"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "香港金融管理局",
+    "香港",
+    "主权债券",
+    "金融业对外开放",
+    "境外融资"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Hong Kong Monetary Authority",
+    "Hong Kong",
+    "Sovereign Bonds",
+    "Financial Sector Opening-Up",
+    "Offshore Financing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": [
+      {
+        "name_zh": "香港金融管理局",
+        "name_en": "Hong Kong Monetary Authority"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-peoples_jl-908bb5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

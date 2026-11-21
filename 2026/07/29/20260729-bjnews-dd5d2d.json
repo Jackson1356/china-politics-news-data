@@ -1,0 +1,100 @@
+{
+  "id": "20260729-bjnews-dd5d2d",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1785315125129006.html",
+  "title_zh": "受贿6253万余元 国家发展改革委原党组成员、副主任徐宪平一审获刑15年",
+  "title_en": "Xu Xianping, Former Deputy Director of NDRC, Sentenced to 15 Years for Bribery of 62.53 Million Yuan",
+  "summary_zh": "2026年7月29日，内蒙古赤峰市中级人民法院一审宣判国家发展改革委原副主任徐宪平受贿案，判处其有期徒刑15年，并处罚金500万元，追缴犯罪所得。",
+  "summary_en": "On July 29, 2026, Chifeng Intermediate People's Court in Inner Mongolia sentenced Xu Xianping, former deputy director of the NDRC, to 15 years in prison and a fine of 5 million yuan for bribery, with illicit gains confiscated.",
+  "body_zh": "据央视新闻消息，2026年7月29日，内蒙古自治区赤峰市中级人民法院一审公开宣判国家发展和改革委员会原党组成员、副主任徐宪平受贿一案，对被告人徐宪平以受贿罪判处有期徒刑十五年，并处罚金人民币五百万元；对徐宪平犯罪所得财物依法予以追缴，上缴国库。\n经审理查明：2001年至2021年，被告人徐宪平利用担任湖南省人民政府党组成员、副省长，湖南省委常委、副省长，国家发展和改革委员会副部级干部、国务院参事等职务上的便利，为有关单位和个人在企业经营、项目承揽、职务调整等事项上提供帮助，非法收受上述单位和个人给予的财物共计折合人民币6253万余元。\n赤峰市中级人民法院认为，被告人徐宪平的行为构成受贿罪，且受贿数额特别巨大，应依法惩处。鉴于徐宪平到案后如实供述罪行，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪，积极退赃，涉案赃款已全部追缴，具有法定、酌定从宽处罚情节，可对其依法从轻处罚。法庭遂作出上述判决。\n据悉，赤峰市中级人民法院于2026年5月15日公开开庭审理了该案。庭审中，检察机关出示了相关证据，被告人徐宪平及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见，徐宪平进行了最后陈述，并当庭表示认罪悔罪。人大代表、政协委员和各界群众20余人旁听了庭审。\n（总台央视记者 奚丹霓 马姗）",
+  "image_url": null,
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "event_date": "2026-07-29",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "受贿罪"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐宪平",
+      "name_en": "Xu Xianping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "赤峰市中级人民法院",
+      "name_en": "Chifeng Intermediate People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿罪",
+      "name_en": "Bribery Crime"
+    }
+  ],
+  "tags_zh": [
+    "徐宪平",
+    "赤峰市中级人民法院",
+    "赤峰",
+    "反腐败",
+    "受贿罪"
+  ],
+  "tags_en": [
+    "Xu Xianping",
+    "Chifeng Intermediate People's Court",
+    "Chifeng",
+    "Anti-corruption",
+    "Bribery Crime"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐宪平"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": [
+      {
+        "name_zh": "赤峰市中级人民法院",
+        "name_en": "Chifeng Intermediate People's Court"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260729-bjnews-dd5d2d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

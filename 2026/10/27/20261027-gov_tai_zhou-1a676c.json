@@ -1,0 +1,105 @@
+{
+  "id": "20261027-gov_tai_zhou-1a676c",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_513ddf1cb0aa4a35b881e0156604ff77.html",
+  "title_zh": "李晖调研“易淹易涝点改造”民生实事项目推进情况",
+  "title_en": "Li Hui Inspects Progress of Flood-Prone Point Renovation Livelihood Projects",
+  "summary_zh": "10月26日，泰州市市长李晖调研“易淹易涝点改造”民生实事项目，实地察看口泰路、梅兰东路等积水点改造进展并提出整治要求。",
+  "summary_en": "On October 26, Taizhou Mayor Li Hui inspected the city's flood-prone point renovation projects, visiting sites on Koutai Road and Meilan East Road and urging completion of upgrades before next year's flood season.",
+  "body_zh": "泰州要闻\n李晖调研“易淹易涝点改造”民生实事项目推进情况\n- 发布日期：2026-10-27 01:45\n- 浏览次数：\n10月26日，市长李晖调研“易淹易涝点改造”民生实事项目推进情况，强调要深入学习贯彻习近平总书记关于城市工作的重要论述，按照省、市委部署，坚持问题导向、系统治理，加快实施“易淹易涝点改造”民生实事项目，持续提升城市防洪排涝韧性，切实保障群众生命财产安全和城市稳定运行。\n口泰路为医药高新区（高港区）重点积水易涝点位，目前已纳入该区排水管网改造建设二期工程超长期国债项目，实施管网扩容、雨污设施完善、排水通道疏通改造等工程。李晖来到口泰路与匡时路交叉路口，实地察看该点位雨污水改造总图，详细了解雨污水管网更新改造方案，要求强化系统性观念，实行片区化治理，推动排水管网及其“毛细血管”提质升级，从根源上消除积水隐患。\n梅兰东路自兴泰南路以东路段多处存在积水隐患，目前兴泰南路至泰盛路段正在进行半幅封闭施工，对道路两侧非机动车道雨水管网实施更新改造。在该路段，李晖现场检查雨水管网施工进展，并听取市直道路积水点整治情况汇报。他指出，易淹易涝点改造事关群众出行，是重要的民生工程。要全面摸底调查，建立整治台账，按照轻重缓急实行分批改造，“一点一策”实施整治提升，确保明年汛期前全部整治到位，切实保障群众出行安全。\n副市长陈力、市政府秘书长包亚参加活动。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "welfare",
+  "keywords": [
+    "民生实事",
+    "城市防洪排涝",
+    "排水管网改造"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Livelihood Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市防洪排涝",
+      "name_en": "Urban Flood Control and Drainage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "排水管网改造",
+      "name_en": "Drainage Network Renovation"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "民生实事",
+    "城市防洪排涝",
+    "排水管网改造"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Livelihood Projects",
+    "Urban Flood Control and Drainage",
+    "Drainage Network Renovation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "方案"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261027-gov_tai_zhou-1a676c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_513ddf1cb0aa4a35b881e0156604ff77.html",
+      "title_zh": "李晖调研“易淹易涝点改造”民生实事项目推进情况",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

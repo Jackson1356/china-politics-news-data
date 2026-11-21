@@ -1,0 +1,110 @@
+{
+  "id": "20260706-gov_cn_yaowen-5303b7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074452.htm",
+  "title_zh": "芬兰总统斯图布会见王毅",
+  "title_en": "Finnish President Stubb Meets Wang Yi",
+  "summary_zh": "7月5日，芬兰总统斯图布在图尔库会见外交部长王毅，双方探讨加强高层交往及在绿色经济、人工智能等领域的合作。",
+  "summary_en": "On July 5, Finnish President Stubb met with Foreign Minister Wang Yi in Turku to discuss strengthening high-level exchanges and cooperation in green economy and AI.",
+  "body_zh": "新华社芬兰图尔库7月5日电（记者 朱昊晨）芬兰总统斯图布5日在图尔库会见中共中央政治局委员、外交部长王毅。\n斯图布请王毅转达对习近平主席的良好祝愿。他表示，自芬中1950年建交以来，中国在政治、经济、社会稳定和科技创新诸多领域取得瞩目成就，实现发展奇迹。当前国际形势处于关键十字路口。中国为当今世界注入了宝贵的稳定性。习近平主席提出四大全球倡议，全面精辟研判国际大势，清晰系统阐述应对方案，对国际社会具有里程碑式的引领意义。芬方期待同中国加强高层交往，拓展绿色经济、人工智能等新兴领域合作，深化多边协作，携手应对全球性挑战。\n访问期间，王毅还同芬兰外交部长瓦尔托宁举行会谈。",
+  "image_url": null,
+  "published_at": "2026-07-06T12:00:00+00:00",
+  "event_date": "2026-07-05",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "双边关系",
+    "绿色经济",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "斯图布",
+      "name_en": "Alexander Stubb"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "芬兰",
+      "name_en": "Finland"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "图尔库",
+      "name_en": "Turku"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边关系",
+      "name_en": "Bilateral Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色经济",
+      "name_en": "Green Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "斯图布",
+    "王毅",
+    "芬兰",
+    "图尔库",
+    "双边关系",
+    "绿色经济",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Alexander Stubb",
+    "Wang Yi",
+    "Finland",
+    "Turku",
+    "Bilateral Relations",
+    "Green Economy",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260706-gov_cn_yaowen-5303b7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

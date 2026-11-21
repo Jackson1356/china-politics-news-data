@@ -1,0 +1,114 @@
+{
+  "id": "20261120-gov_zhan_jiang-77a015",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/yaowen/content/post_2249347.html",
+  "title_zh": "余钢会见国家电力投资集团有限公司董事长刘明胜一行",
+  "title_en": "Yu Gang Meets with State Power Investment Corp Chairman Liu Mingsheng",
+  "summary_zh": "11月19日，湛江市委书记余钢会见国家电投集团董事长刘明胜一行，双方就做大绿色能源产业、推进廉江核电项目及深化央地合作深入交流。",
+  "summary_en": "On Nov 19, Zhanjiang Party Secretary Yu Gang met State Power Investment Corp Chairman Liu Mingsheng to discuss green energy, the Lianjiang nuclear power project and deeper central-local cooperation.",
+  "body_zh": "11月19日上午，市委书记余钢会见国家电力投资集团有限公司党组书记、董事长刘明胜一行，双方就携手做大做强绿色能源产业、协同推进“百千万工程”等事宜进行深入交流，进一步深化央地合作，推动实现双方互利共赢。\n余钢代表市委、市政府对刘明胜一行到访表示欢迎，感谢国家电投集团长期以来为湛江经济社会发展作出的积极贡献。他说，当前，湛江正深入学习贯彻党的二十届五中全会精神，持之以恒推进全面从严治党，把全会部署转化为推动高质量发展、增进民生福祉的具体行动，加快打造现代化沿海经济带重要发展极、高标准建设省域副中心城市。湛江实现跨越式、高质量发展离不开央企的强力赋能，希望国家电投集团坚守安全第一底线，从严抓好廉江核电一期工程全流程安全质量管控，加快推进二期项目前期工作。希望国家电投集团发挥能源央企龙头带动作用，积极引进核电配套产业在湛融合发展，构建互利共生的产业链生态，并推动能源项目建设与湛江“百千万工程”深度融合，创造更多就业岗位，让发展成果惠及当地群众。\n刘明胜感谢湛江对国家电投集团的关心支持，并介绍了企业整体情况、“十五五”发展思路等。他表示，湛江是国家电投集团在粤产业布局的战略重点区域，廉江核电项目是双方合作的重要里程碑，后续国家电投将持续加大在湛江投资发展力度，坚持安全第一、质量第一，有序推进廉江核电项目一期工程，积极带动核电上下游产业发展，深化拓展海上风电等清洁能源领域务实合作，积极助力湛江“百千万工程”，为城乡区域协调发展作出央企应有贡献。\n国家电力投资集团有限公司总工程师刘永德，市领导张仁建参加会见。\n林宇云 湛新",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "economy",
+  "keywords": [
+    "绿色能源",
+    "央地合作",
+    "核电产业",
+    "百千万工程"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-gang-zhanjiang",
+      "name_zh": "余钢",
+      "name_en": "Yu Gang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "刘明胜",
+      "name_en": "Liu Mingsheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色能源",
+      "name_en": "Green Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-Local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核电产业",
+      "name_en": "Nuclear Power Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "百千万工程",
+      "name_en": "Rural Revitalization Program"
+    }
+  ],
+  "tags_zh": [
+    "余钢",
+    "刘明胜",
+    "湛江",
+    "绿色能源",
+    "央地合作",
+    "核电产业",
+    "百千万工程"
+  ],
+  "tags_en": [
+    "Yu Gang",
+    "Liu Mingsheng",
+    "Zhanjiang",
+    "Green Energy",
+    "Central-Local Cooperation",
+    "Nuclear Power Industry",
+    "Rural Revitalization Program"
+  ],
+  "entities": {
+    "politicians": [
+      "yu-gang-zhanjiang",
+      {
+        "id": null,
+        "name_zh": "刘明胜"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261120-gov_zhan_jiang-77a015",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

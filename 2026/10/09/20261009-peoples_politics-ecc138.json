@@ -1,0 +1,108 @@
+{
+  "id": "20261009-peoples_politics-ecc138",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1009/c1001-40811485.html",
+  "title_zh": "王毅会见太平洋岛国政治家联合考察团",
+  "title_en": "Wang Yi Meets Joint Delegation of Pacific Island Politicians",
+  "summary_zh": "10月9日，中共中央政治局委员、中央外办主任王毅在北京会见以汤加副首相拉图为首的太平洋岛国政治家联合考察团，双方表示将加强政党交流合作。",
+  "summary_en": "On Oct 9, Wang Yi, member of the CPC Political Bureau and head of the Central Foreign Affairs Office, met in Beijing with a joint delegation of Pacific Island politicians led by Tonga's Deputy Prime Minister, with both sides pledging stronger party exchanges and cooperation.",
+  "body_zh": "王毅会见太平洋岛国政治家联合考察团\n新华社北京10月9日电 中共中央政治局委员、中央外办主任王毅9日在北京会见以汤加副首相拉\n王毅表示，在习近平主席和太平洋岛国领导人共同引领下，中国同太平洋岛国全面战略伙伴关系更加成熟稳健。中方愿同岛国坚定支持彼此走符合自身国情、由人民自主选择的发展道路，加强政党交流合作，携手构建更加紧密的中国－太平洋岛国命运共同体。\n拉图等感谢中方长期以来为岛国经济社会发展提供的巨大帮助，表示将坚定奉行一个中国政策，愿同中国共产党加强交流往来。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "政党交流",
+    "中国－太平洋岛国关系",
+    "一个中国原则"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党交流",
+      "name_en": "Party Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国－太平洋岛国关系",
+      "name_en": "China-Pacific Island Countries Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "北京",
+    "政党交流",
+    "中国－太平洋岛国关系",
+    "一个中国原则"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Beijing",
+    "Party Exchanges",
+    "China-Pacific Island Countries Relations",
+    "One-China Principle"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261009-peoples_politics-ecc138",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261009/508493aecec64d7082fe38462b465711/c.html",
+      "title_zh": "王毅会见太平洋岛国政治家联合考察团",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709769.shtml",
+      "title_zh": "王毅会见太平洋岛国政治家联合考察团",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

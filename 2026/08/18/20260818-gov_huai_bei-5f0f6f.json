@@ -1,0 +1,99 @@
+{
+  "id": "20260818-gov_huai_bei-5f0f6f",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/zwyw/65105340.html",
+  "title_zh": "淮北市政府与交通银行安徽省分行举行政银交流活动",
+  "title_en": "Huaibei Municipal Government and Bank of Communications Anhui Branch Hold Government-Bank Exchange Event",
+  "summary_zh": "8月18日上午，淮北市政府与交通银行安徽省分行政银交流活动在淮举行，代市长黄韡和交行安徽省分行行长谢金海出席并致辞，双方共商政银合作。",
+  "summary_en": "On the morning of August 18, Huaibei Municipal Government and Bank of Communications Anhui Branch held a government-bank exchange event in Huaibei. Mayor Huang Wei and Branch President Xie Jinhai attended and delivered speeches.",
+  "body_zh": "市政府与交通银行安徽省分行政银交流活动举行\n谢金海黄韡出席并致辞\n8月18日上午，市政府与交通银行安徽省分行政银交流活动在淮举行。交通银行安徽省分行党委书记、行长谢金海，市委副书记、代市长黄韡出席活动并致辞。市政府秘书长郭海磊参加活动。\n谢金海在致辞时说，交通银行淮北分行自成立以来，始终与淮北经济社会发展同频共振，在服务实体经济、助力民生改善、支持城市建设等方面发挥了积极作用。面向未来，交通银行安徽省分行及淮北分行将始终与淮北市委、市政府同心同向，与淮北广大企业和市民携手同行，以更优质、更高效、更专业的金融服务，为淮北高质量发展贡献更大交行力量；主动对接淮北“十五五”发展战略，围绕重点产业链及重大基础设施项目，持续加大信贷资源支持力度；发挥交行科技金融特色优势，以全生命周期服务陪伴科创企业成长壮大；依托数智化工具下沉服务重心，推动便捷高效金融服务直达中小微经营主体和城乡居民，聚焦“一老一小”和民生领域，以有温度的金融服务助力共同富裕，擦亮交行品牌。\n黄韡在致辞时说，交通银行安徽省分行始终把淮北作为重点支持区域，淮北分行自2013年落户以来，为我市经济发展注入了强劲动能。站在新起点，希望交通银行淮北分行以金融“活水”精准滴灌实体经济。围绕四大优势产业发展持续发力，让更多信贷资源精准滴灌实体经济。以金融活水潜心滋养创新沃土。积极培育耐心资本，把投早、投小、投长期、投硬科技的理念贯穿始终，以金融赋能新质生产力发展。以金融活水持续润泽民生福祉。进一步下沉服务重心，持续创新金融产品、优化服务模式、拓宽融资渠道，让金融服务走进千家万户、润泽千村万企。市委、市政府将一如既往优化金融生态、搭建对接平台、做好服务保障，与交通银行携手并肩、同向发力，共同书写政银合作新篇章。\n谢金海、黄韡还一同调研了基层网点建设情况。",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "economy",
+  "keywords": [
+    "政银合作",
+    "金融服务实体经济",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄韡",
+      "name_en": "Huang Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HB",
+      "name_zh": "淮北",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政银合作",
+      "name_en": "Government-Bank Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务实体经济",
+      "name_en": "Financial Services for Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "黄韡",
+    "淮北",
+    "政银合作",
+    "金融服务实体经济",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Huang Wei",
+    "Government-Bank Cooperation",
+    "Financial Services for Real Economy",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "黄韡"
+      },
+      {
+        "id": null,
+        "name_zh": "郭海磊"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260818-gov_huai_bei-5f0f6f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

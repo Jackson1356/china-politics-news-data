@@ -1,0 +1,89 @@
+{
+  "id": "20260707-xinhua_tj-6dce72",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260707/7abd5d71ba4341a282c167bcfd48d137/c.html",
+  "title_zh": "天津市政府召开第110次常务会议 张工主持",
+  "title_en": "Tianjin Municipal Government Holds 110th Executive Meeting Chaired by Zhang Gong",
+  "summary_zh": "7月6日下午，市长张工主持召开天津市政府第110次常务会议，审议多项条例草案及能源、自然资源、海洋经济等“十五五”规划。",
+  "summary_en": "On the afternoon of July 6, Mayor Zhang Gong chaired the 110th executive meeting of the Tianjin Municipal Government to review several draft regulations and '15th Five-Year Plans' for energy, natural resources, and the marine economy.",
+  "body_zh": "7月6日下午，市长张工主持召开市政府第110次常务会议。\n会议审议《天津市历史文化名城保护条例（草案）》、《天津市民办教育促进条例（修订草案）》、《天津市粮食安全保障条例（草案）》和《天津市突发事件应对条例（草案）》等。会议强调，要增强保护历史文化遗产的责任感，坚持保护第一，促进活化利用，引导全社会共同参与，持续彰显津派文化独特魅力。要促进民办教育资源优化布局，持续规范办学行为，推动高质量发展。要严格落实粮食安全责任制，加强耕地保护和高标准农田建设管护，不断丰富市民群众的“菜篮子”“果盘子”。要坚持预防为主、防救结合，健全风险排查、监测预警、应急保障、群防群控等工作体系，提高突发事件应对效能。\n会议审议《天津市能源发展“十五五”规划》。会议强调，要主动适应城市能源发展趋势和要求，增强多元化、多向性、系统性稳定供给能力，深入谋划、稳步建设跨区域重大基础设施，提升能源安全保障水平。要持续优化能源结构，扩大外受电规模，完善油气输送网络，科学布局风光发电项目，有序推进重点领域清洁能源替代，加快绿色低碳转型。要积极培育新能源产业，加强储能技术科研攻关和成果转化，加力推进氢能产业链布局。要稳妥推进能源价格市场化改革，进一步理顺机制、引导供需。\n会议审议《天津市自然资源保护和利用“十五五”规划》和《天津市海洋经济发展“十五五”规划》。会议强调，要格外珍惜宝贵的自然资源，严守“三条红线”，扎实推进中央生态环境保护督察反馈问题整改，更好实现生态惠民，夯实城市长远发展基础。要提升自然资源利用质效，坚持节约集约利用，盘活用好存量空间，推动内涵式发展。要加强海洋产业发展战略研究，充分调动各类创新资源力量，持续提升海洋经济发展能级。\n会议还研究了其他事项。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "economy",
+  "keywords": [
+    "十五五规划",
+    "能源安全",
+    "海洋经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源安全",
+      "name_en": "Energy Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋经济",
+      "name_en": "Marine Economy"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "天津",
+    "十五五规划",
+    "能源安全",
+    "海洋经济"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Tianjin",
+    "15th Five-Year Plan",
+    "Energy Security",
+    "Marine Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260707-xinhua_tj-6dce72",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

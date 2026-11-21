@@ -1,0 +1,123 @@
+{
+  "id": "20261029-chinanews_gn-9239b8",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-29/10722754.shtml",
+  "title_zh": "中国国防部将邀请非洲中青年军官代表团访华",
+  "title_en": "China's Defense Ministry to Invite African Young and Middle-Aged Officers Delegation to Visit China",
+  "summary_zh": "10月29日，国防部新闻发言人张晓刚宣布，11月5日至11日非洲中青年军官代表团将访华，赴长沙、成都等地参访交流。",
+  "summary_en": "On Oct 29, Defense Ministry spokesman Zhang Xiaogang announced that a delegation of nearly 50 officers from over 20 African countries will visit Changsha and Chengdu from Nov 5 to 11.",
+  "body_zh": "中国国防部将邀请非洲中青年军官代表团访华\n中新网10月29日电 10月29日下午，国防部举行例行记者会，国防部新闻发言人张晓刚大校发布消息。\n张晓刚透露，应中国国防部邀请，11月5日至11日，非洲中青年军官代表团将来华访问，20余个非洲国家近50名军官赴长沙、成都等地参访交流。此次活动以“中非国防科技创新发展”为主题，由国防科技大学具体承办。这是中国国防部第5次组织相关活动，旨在赓续中非军队传统友谊，深化双方务实合作，为推动共筑新时代全天候中非命运共同体贡献力量。\n国内新闻精选：\n- 2026年10月29日 16:37:37\n- 2026年10月29日 15:56:09\n- 2026年10月29日 13:30:47\n- 2026年10月29日 12:40:44\n- 2026年10月29日 10:52:10\n- 2026年10月29日 10:48:40\n- 2026年10月29日 10:20:32\n- 2026年10月29日 10:17:10\n- 2026年10月28日 20:18:50\n- 2026年10月28日 14:59:17",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "foreign",
+  "keywords": [
+    "中非军事合作",
+    "国防科技创新",
+    "军事外交"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOD",
+      "name_zh": "国防部",
+      "name_en": "Ministry of National Defense"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国防科技大学",
+      "name_en": "National University of Defense Technology"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-CS",
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC-CD",
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非军事合作",
+      "name_en": "China-Africa Military Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国防科技创新",
+      "name_en": "Defense Science and Technology Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "军事外交",
+      "name_en": "Military Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "国防部",
+    "国防科技大学",
+    "长沙",
+    "成都",
+    "中非军事合作",
+    "国防科技创新",
+    "军事外交"
+  ],
+  "tags_en": [
+    "Ministry of National Defense",
+    "National University of Defense Technology",
+    "Changsha",
+    "Chengdu",
+    "China-Africa Military Cooperation",
+    "Defense Science and Technology Innovation",
+    "Military Diplomacy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOD"
+    ],
+    "locations": [
+      "CN-HN-CS",
+      "CN-SC-CD"
+    ],
+    "companies": [
+      {
+        "name_zh": "国防科技大学",
+        "name_en": "National University of Defense Technology"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261029-chinanews_gn-9239b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722756.shtml",
+      "title_zh": "中国国防部邀请驻华武官赴贵州、四川参观访问",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

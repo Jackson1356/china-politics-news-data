@@ -1,0 +1,72 @@
+{
+  "id": "20260520-xinhua_leaders-bfc563",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_url": "https://www.news.cn/politics/leaders/20260521/732b6dc05e954fee9a8fb96bc365e7e1/c.html",
+  "title_zh": "习近平同普京共同参观中俄友好图片展",
+  "title_en": "Xi Jinping and Vladimir Putin Visit China-Russia Friendship Photo Exhibition",
+  "summary_zh": "5月20日晚，国家主席习近平同俄罗斯总统普京在北京人民大会堂共同参观中俄友好图片展，回顾两国元首友好交往。",
+  "summary_en": "On the evening of May 20, President Xi Jinping and Russian President Vladimir Putin visited a photo exhibition on China-Russia friendship at the Great Hall of the People in Beijing.",
+  "body_zh": "5月20日晚，国家主席习近平同俄罗斯总统普京在北京人民大会堂共同参观“传承中俄世代友好 树立大国关系典范”图片展。\n十多年来，习近平主席与普京总统以多种方式保持密切沟通，一次次热情互动，一次次坦诚交流，不断书写中俄元首友好交往的佳话，也不断推动中俄新时代全面战略协作伙伴关系行稳致远。\n为者常成，行者常至。相信在双方不懈努力下，中俄关系一定会延续高质量发展态势，竿头日进，更上层楼。\n统筹：黄庆华 周年钧\n制作：李丽洋 熊轩昂 王浩程\n记者：温馨\n新华社新媒体中心制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "全面战略协作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略协作伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "中俄关系",
+    "全面战略协作伙伴关系"
+  ],
+  "tags_en": [
+    "Beijing",
+    "China-Russia Relations",
+    "Comprehensive Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260520-xinhua_leaders-bfc563",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

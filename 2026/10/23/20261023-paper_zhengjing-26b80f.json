@@ -1,0 +1,103 @@
+{
+  "id": "20261023-paper_zhengjing-26b80f",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34315385",
+  "title_zh": "六部门：老旧街区厂区改造瞄准五大重点",
+  "title_en": "Six Departments Target Five Priorities in Old Neighborhood and Factory District Renovation",
+  "summary_zh": "住房城乡建设部等六部门联合印发指导意见，明确老旧街区厂区改造提升五大重点，涵盖厂区功能转换、商业街区业态升级、生活街区品质提升等。",
+  "summary_en": "Six Chinese departments, led by the Ministry of Housing and Urban-Rural Development, jointly issued guidelines setting out five priorities for renovating old neighborhoods and factory districts, covering factory repurposing, commercial district upgrading and livability improvements.",
+  "body_zh": "六部门：老旧街区厂区改造瞄准五大重点\n记者23日获悉，住房城乡建设部等6部门近日联合印发《关于推进老旧街区厂区改造提升的指导意见》，要求各地结合城市体检结果，将房屋和市政基础设施老化、公共服务和公共空间短缺、功能产业和发展活力有待提升的街区厂区作为改造提升对象，统筹确定改造提升范围和实施时序。\n根据指导意见，各类老旧街区厂区改造提升有五大重点。一是推动老旧厂区功能转换。在确保安全的基础上，改造提升老旧厂房，完善配套设施，优化景观环境，适应产业升级需要。盘活闲置厂区厂房，植入科技、商业、文化、体育等新业态，激发创新创业活力。\n二是推动老旧商业街区业态升级。改造提升老旧商圈、商业街、商业综合体，完善服务设施，优化交通组织和慢行系统，提高空间品质。引导商务楼宇开放底层空间，完善服务功能，提升综合服务能力。\n三是推动老旧生活街区品质提升。推进市政基础设施和公共服务设施品质提升，推进小微公共空间整治提升，提高老旧生活街区宜居水平。梳理街区特色文化资源，延续街区生活记忆。\n四是推动老旧交通枢纽及周边街区融合发展。实施老旧火车站、汽车站等交通枢纽设施与周边街区一体化改造提升，推动站城融合与产业升级。加强轨道交通场站与周边片区立体复合利用。\n五是加强历史文化街区镇区保护利用。通过“微更新”等方式，持续推动历史文化街区镇区保护提升，延续整体格局和历史风貌。持续做好街区镇区市政基础设施和公共服务设施更新改造。\n指导意见要求各地制定老旧街区厂区改造提升项目实施方案，将城市设计要求纳入项目实施方案，引导街区厂区高质量改造提升。在建立健全实施保障机制方面，指导意见要求健全全生命周期实施机制，建立可持续的投融资模式。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "economy",
+  "keywords": [
+    "城市更新",
+    "老旧街区厂区改造",
+    "产业升级",
+    "历史文化保护"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "住房城乡建设部",
+      "name_en": "Ministry of Housing and Urban-Rural Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老旧街区厂区改造",
+      "name_en": "Old Neighborhood and Factory District Renovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史文化保护",
+      "name_en": "Historical and Cultural Preservation"
+    }
+  ],
+  "tags_zh": [
+    "住房城乡建设部",
+    "城市更新",
+    "老旧街区厂区改造",
+    "产业升级",
+    "历史文化保护"
+  ],
+  "tags_en": [
+    "Ministry of Housing and Urban-Rural Development",
+    "Urban Renewal",
+    "Old Neighborhood and Factory District Renovation",
+    "Industrial Upgrading",
+    "Historical and Cultural Preservation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "住房城乡建设部",
+        "name_en": "Ministry of Housing and Urban-Rural Development"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-paper_zhengjing-26b80f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/10/23/12005047.shtml",
+      "title_zh": "住建部、工信部、财政部、交通运输部、商务部、国务院国资委，联合印发意见",
+      "published_at": "2026-10-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "20260812-chinanews_gn-17ada7",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-12/10676266.shtml",
+  "title_zh": "中国海军第49批护航编队起航赴亚丁湾",
+  "title_en": "China's 49th Naval Escort Fleet Departs for Gulf of Aden",
+  "summary_zh": "中国海军第49批护航编队12日上午从海南三亚某军港起航，赴亚丁湾、索马里海域执行护航任务。",
+  "summary_en": "The 49th Chinese naval escort fleet departed from a military port in Sanya, Hainan on the morning of the 12th, heading to the Gulf of Aden and Somali waters for an escort mission.",
+  "body_zh": "中国海军第49批护航编队起航赴亚丁湾\n中国海军第49批护航编队12日上午从海南三亚某军港解缆起航，赴亚丁湾、索马里海域接替第48批护航编队执行护航任务。\n上午10时30分许，在雄壮的军乐声中，编队舰艇依次解缆，缓缓驶离码头。甲板上，护航官兵精神抖擞，整齐列队，向祖国和亲人挥手告别。\n第49批护航编队主要由南部战区海军兵力组成，包括导弹驱逐舰昆明舰、导弹护卫舰岳阳舰和大型远洋综合补给舰骆马湖舰，携带舰载直升机2架、特战队员数十名。3艘军舰均由我国自主设计建造，其中，昆明舰为首次执行护航任务。\n任务准备阶段，编队指挥所紧盯护航行动可能面临的风险挑战与实际威胁，按照全要素实战化训练要求，重点开展了实际使用武器、伴随护航、航行补给等针对性训练。\n国内新闻精选：\n- 2026年08月12日 11:39:24\n- 2026年08月12日 09:10:13\n- 2026年08月11日 22:14:32\n- 2026年08月11日 22:10:41\n- 2026年08月11日 21:58:00\n- 2026年08月11日 20:36:23\n- 2026年08月11日 20:10:44\n- 2026年08月11日 18:43:44\n- 2026年08月11日 16:27:08\n- 2026年08月11日 15:33:22",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "护航任务",
+    "海上安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PLA-NAVY",
+      "name_zh": "中国海军",
+      "name_en": "China Navy"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "护航任务",
+      "name_en": "Escort Mission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海上安全",
+      "name_en": "Maritime Security"
+    }
+  ],
+  "tags_zh": [
+    "中国海军",
+    "三亚",
+    "护航任务",
+    "海上安全"
+  ],
+  "tags_en": [
+    "China Navy",
+    "Sanya",
+    "Escort Mission",
+    "Maritime Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PLA-NAVY"
+    ],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260812-chinanews_gn-17ada7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

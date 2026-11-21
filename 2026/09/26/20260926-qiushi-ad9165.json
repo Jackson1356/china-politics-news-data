@@ -1,0 +1,114 @@
+{
+  "id": "20260926-qiushi-ad9165",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260926/fa9ef5964e2d4f4087f5e4ba15301cc5/c.html",
+  "title_zh": "习近平结束对美国的国事访问回到北京",
+  "title_en": "Xi Jinping Returns to Beijing After Concluding State Visit to the United States",
+  "summary_zh": "9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京，彭丽媛、蔡奇、王毅、何立峰等陪同人员同机返回。",
+  "summary_en": "On the afternoon of September 26, President Xi Jinping returned to Beijing after concluding a successful state visit to the United States, accompanied by Peng Liyuan, Cai Qi, Wang Yi and He Lifeng.",
+  "body_zh": "新华社北京9月26日电 9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京。\n习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅，中共中央政治局委员、国务院副总理何立峰等陪同人员同机返回。",
+  "image_url": null,
+  "published_at": "2026-09-26T12:00:00+00:00",
+  "event_date": "2026-09-26",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中美关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "美国",
+    "国事访问",
+    "中美关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "United States",
+    "State Visit",
+    "China-US Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260926-gov_ji_nan-325f9e",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082153.htm",
+      "title_zh": "习近平结束对美国的国事访问回到北京",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/09/26/VIDEv5oWIMVwzXLRgyLFvTxb260926.shtml",
+      "title_zh": "习近平结束对美国的国事访问回到北京",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chen_yang",
+      "source_tier": null,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202609/t20260927_5095569.html",
+      "title_zh": "习近平结束对美国的国事访问回到北京",
+      "published_at": "2026-09-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

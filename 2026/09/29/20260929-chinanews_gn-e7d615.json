@@ -1,0 +1,104 @@
+{
+  "id": "20260929-chinanews_gn-e7d615",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-29/10705583.shtml",
+  "title_zh": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
+  "title_en": "China Coast Guard Conducts Routine Law Enforcement Patrols in Waters East of Taiwan",
+  "summary_zh": "9月29日，中国海警朱家尖舰编队位中国台湾岛以东海域依法开展常态化执法巡查，中国海警局发言人姜略作上述表示。",
+  "summary_en": "On September 29, a China Coast Guard flotilla led by the Zhujiajian conducted routine law enforcement patrols in waters east of Taiwan, spokesperson Jiang Lue said.",
+  "body_zh": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查\n中新社北京9月29日电 中国海警局新闻发言人姜略29日表示，当日，中国海警朱家尖舰编队位中国台湾岛以东海域依法开展常态化执法巡查。\n发言人表示，9月以来，朱家尖舰编队持续加强相关海域管控，有力保障正常航行和作业秩序，切实维护包括台湾同胞在内的中国民众合法正当权益和生命财产安全。\n发言人表示，中国海警将持续加强在中国管辖海域执法巡查，坚决维护国家领土主权和海洋权益。(完)\n国内新闻精选：\n- 2026年09月29日 16:46:58\n- 2026年09月29日 13:27:44\n- 2026年09月29日 12:17:31\n- 2026年09月29日 10:35:29\n- 2026年09月29日 10:33:23\n- 2026年09月28日 16:53:24\n- 2026年09月28日 15:54:28\n- 2026年09月28日 14:57:02\n- 2026年09月27日 16:07:16\n- 2026年09月27日 11:15:16",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "海洋维权执法",
+    "领土主权",
+    "常态化巡查"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国海警局",
+      "name_en": "China Coast Guard"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "台湾岛以东海域",
+      "name_en": "Waters East of Taiwan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋维权执法",
+      "name_en": "Maritime Law Enforcement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领土主权",
+      "name_en": "Territorial Sovereignty"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "常态化巡查",
+      "name_en": "Routine Patrols"
+    }
+  ],
+  "tags_zh": [
+    "中国海警局",
+    "台湾岛以东海域",
+    "北京",
+    "海洋维权执法",
+    "领土主权",
+    "常态化巡查"
+  ],
+  "tags_en": [
+    "China Coast Guard",
+    "Waters East of Taiwan",
+    "Beijing",
+    "Maritime Law Enforcement",
+    "Territorial Sovereignty",
+    "Routine Patrols"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国海警局",
+        "name_en": "China Coast Guard"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260929-chinanews_gn-e7d615",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

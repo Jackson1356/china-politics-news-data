@@ -1,0 +1,108 @@
+{
+  "id": "20261118-gov_wei_hai-07ec66",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/11/18/art_58817_6750069.html",
+  "title_zh": "孔凡萍会见贝克休斯集团客人",
+  "title_en": "Weihai Mayor Kong Fanping Meets Baker Hughes Delegation",
+  "summary_zh": "11月17日，威海市市长孔凡萍会见贝克休斯集团高级副总裁吉姆·阿波斯托莱德斯，希望集团将更多产业项目布局威海基地。",
+  "summary_en": "On Nov 17, Weihai Mayor Kong Fanping met Baker Hughes Senior VP Jim Apostolides, urging the group to direct more industrial projects to its Weihai base.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 沈道远）11月17日，市委副书记、市长孔凡萍会见贝克休斯集团高级副总裁、查特事业部负责人吉姆·阿波斯托莱德斯，副市长张刚会见时在座。\n孔凡萍对客人来访表示欢迎，并简要介绍了威海经济社会发展情况。她说，豪顿华工程有限公司扎根威海三十多年来，双方合作关系密切，企业发展势头良好。希望集团在全球战略布局中对威海基地重点倾斜，将更多产业项目布局威海，形成更多合作成果。威海将一如既往为企业提供优质服务，全力支持企业发展壮大，推动双方实现互利共赢、共同发展。\n吉姆·阿波斯托莱德斯表示，威海城市风景优美，营商环境优良，贝克休斯集团将继续深耕威海，不断拓宽合作领域，实现合作共赢。",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "营商环境",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "招商引资",
+    "营商环境",
+    "产业合作"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Investment Attraction",
+    "Business Environment",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "张刚"
+      },
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261118-gov_wei_hai-07ec66",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wei_hai",
+      "source_tier": 4,
+      "url": "https://www.weihai.gov.cn/art/2026/11/18/art_60663_6752105.html",
+      "title_zh": "孔凡萍会见贝克休斯集团客人",
+      "published_at": "2026-11-18T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

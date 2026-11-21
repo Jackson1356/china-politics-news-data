@@ -1,0 +1,102 @@
+{
+  "id": "20261010-gov_cn_yaowen-b2abc9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082903.htm",
+  "title_zh": "全国铁路实行新的货物列车运行图",
+  "title_en": "Nationwide Railway Adopts New Freight Train Timetable",
+  "summary_zh": "全国铁路自2026年10月10日18时起实行新的货物列车运行图，增开城际班列、多式联运班列及中欧中亚班列线路，助力降低全社会物流成本。",
+  "summary_en": "China's national railway began operating a new freight train timetable from 18:00 on October 10, 2026, adding intercity, multimodal and China-Europe/Central Asia services to cut logistics costs.",
+  "body_zh": "新华社北京10月10日电（记者樊曦）记者从中国国家铁路集团有限公司获悉，全国铁路10日18时起实行新的货物列车运行图，进一步优化铁路物流产品体系，提升运输效率，助力降低全社会物流成本。\n国铁集团运输部负责人介绍，此次调图统筹利用线路能力、运输装备和场站资源，精准匹配物流市场需求，优化货物列车开行方案，为客户提供更高品质的铁路物流服务。\n促进城市间货物快速集散，新图安排开行最高时速160公里的特快城际班列8列、最高时速120公里的快速城际班列58列、最高时速80公里的普快城际班列85列，其中增开快速城际班列4列、普快城际班列11列，更好服务城市群间电商、快递、民生物资等时效性货物运输。\n多式联运方面，新图安排开行最高时速120公里的快速多式联运班列101列、最高时速80公里的普快多式联运班列136列；继续开行京津冀、长三角、粤港澳大湾区、成渝等主要经济区域间的快捷物流示范班列，实行网上公开订舱；动态优化西部陆海新通道海铁联运班列开行方案，适时增加运行线和发到站点，服务沿线内外贸运输。\n新图安排开行跨铁路局集团公司大宗货物直达列车423列，对电煤、粮食、春耕化肥等重点物资运输实行运力倾斜、优先保障。同时，加强与大型煤电、冶炼、港口企业对接，推动煤炭、冶炼物资等大宗货物“公转铁”，优化运输结构。\n跨境物流方面，新图安排中欧班列图定线路96条，新增经阿拉山口口岸入境至陕西榆林、经二连口岸入境至山东济南的2条回程中欧班列线路；安排中亚班列图定线路68条，经测试培育，新增浙江金华经凭祥口岸出境、河南郑州经霍尔果斯口岸出境、经磨憨口岸入境至四川成都的3条中亚班列线路。\n铁路部门还将完善95306平台功能，发展铁水联运“一单制”“一箱制”运输和铁公联运“门到门”物流服务，推进物流总包，减少中间环节，降低全程物流成本，并深化与商业银行合作，推广物流金融服务，帮助客户拓展融资渠道、降低融资成本。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路货运",
+    "多式联运",
+    "物流降本增效",
+    "中欧班列"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路货运",
+      "name_en": "Railway Freight Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多式联运",
+      "name_en": "Multimodal Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物流降本增效",
+      "name_en": "Logistics Cost Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧班列",
+      "name_en": "China-Europe Railway Express"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "北京",
+    "铁路货运",
+    "多式联运",
+    "物流降本增效",
+    "中欧班列"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Beijing",
+    "Railway Freight Transport",
+    "Multimodal Transport",
+    "Logistics Cost Reduction",
+    "China-Europe Railway Express"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261010-gov_cn_yaowen-b2abc9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

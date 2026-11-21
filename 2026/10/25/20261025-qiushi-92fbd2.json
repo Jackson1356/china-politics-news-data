@@ -1,0 +1,91 @@
+{
+  "id": "20261025-qiushi-92fbd2",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20261025/17326ce7c76447feb781400eae175ac1/c.html",
+  "title_zh": "商务部回应美发布新版对外投资限制拟议规则",
+  "title_en": "MOFCOM Responds to US Proposed New Outbound Investment Restrictions",
+  "summary_zh": "商务部发言人回应美方发布新版对外投资限制拟议规则，指出限制对华投资也会损害美国企业自身利益，敦促美方停止将经贸问题政治化、武器化。",
+  "summary_en": "A MOFCOM spokesperson responded to the US's new proposed outbound investment restrictions, saying such limits harm US firms' own interests and urging Washington to stop politicizing trade issues.",
+  "body_zh": "发言人说，中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境。\n网站编辑 -\n韩辰\n张盼 审核 - 于波",
+  "image_url": null,
+  "published_at": "2026-10-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "economy",
+  "keywords": [
+    "中美经贸合作",
+    "对外投资限制",
+    "国家安全泛化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸合作",
+      "name_en": "China-US Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外投资限制",
+      "name_en": "Outbound Investment Restrictions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全泛化",
+      "name_en": "Overstretching National Security"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中美经贸合作",
+    "对外投资限制",
+    "国家安全泛化"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "China-US Economic and Trade Cooperation",
+    "Outbound Investment Restrictions",
+    "Overstretching National Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261025-qiushi-92fbd2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qianlong",
+      "source_tier": 4,
+      "url": "https://china.qianlong.com/2026/1025/8742884.shtml",
+      "title_zh": "商务部：美歧视性扩大对华投资限制范围 坚决反对！",
+      "published_at": "2026-10-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

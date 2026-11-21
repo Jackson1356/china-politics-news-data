@@ -1,0 +1,105 @@
+{
+  "id": "20260922-xinhua_politics-a6448e",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260922/36a8b0760c6d487ca7e45a52990c55e7/c.html",
+  "title_zh": "2026年全国少数民族参观团活动启动",
+  "title_en": "2026 National Ethnic Minority Visiting Delegation Kicks Off in Beijing",
+  "summary_zh": "9月21日，由国家民委组织的2026年全国少数民族参观团活动在北京启动，150名成员将在北京、山东参观学习。",
+  "summary_en": "On Sept 21, the National Ethnic Affairs Commission launched the 2026 national ethnic minority visiting delegation in Beijing, with 150 members who will study and visit sites in Beijing and Shandong.",
+  "body_zh": "新华社北京9月21日电（记者唐健辉）记者9月21日从国家民委获悉，由国家民委组织的2026年全国少数民族参观团活动在京启动。\n据了解，本次参观团是新中国成立以来第64个全国少数民族参观团，共150人，主要从2024年以来省级及以上民族团结进步模范个人和模范集体代表中推荐产生，在北京、山东参观学习。\n今年是中国共产党成立105周年，也是“十五五”开局之年，民族团结进步促进法7月1日起施行，本次参观团以“团结奋进‘十五五’ 同心共筑中国梦”为主题。\n国家民委相关负责人表示，参观团成员要紧扣铸牢中华民族共同体意识主线，带头学习宣传贯彻民族团结进步促进法，带头促进各民族交往交流交融，带头建功“十五五”，争做促进民族团结进步的模范。要提高政治站位，从新时代伟大成就中汲取奋进力量，自觉坚定对伟大祖国、中华民族、中华文化、中国共产党、中国特色社会主义的高度认同，为以中国式现代化全面推进强国建设、民族复兴伟业凝心聚力。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "民族团结",
+    "铸牢中华民族共同体意识",
+    "十五五"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家民委",
+      "name_en": "National Ethnic Affairs Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族团结",
+      "name_en": "Ethnic Unity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铸牢中华民族共同体意识",
+      "name_en": "Forging a Strong Sense of Community for the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "国家民委",
+    "北京",
+    "山东",
+    "民族团结",
+    "铸牢中华民族共同体意识",
+    "十五五"
+  ],
+  "tags_en": [
+    "National Ethnic Affairs Commission",
+    "Beijing",
+    "Shandong",
+    "Ethnic Unity",
+    "Forging a Strong Sense of Community for the Chinese Nation",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ",
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家民委",
+        "name_en": "National Ethnic Affairs Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260922-xinhua_politics-a6448e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

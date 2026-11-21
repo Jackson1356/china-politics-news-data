@@ -1,0 +1,87 @@
+{
+  "id": "20260813-peoples_qh-a75cc1",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.people.com.cn/n2/2026/0813/c181467-41666728.html",
+  "title_zh": "海东出台全省首个市级数据安全应急预案",
+  "title_en": "Haidong Issues Province's First Municipal Data Security Emergency Plan",
+  "summary_zh": "日前，海东市正式印发《海东市数据安全应急预案》，成为全省首个市级层面数据安全突发事件专项应急预案，填补了制度空白。",
+  "summary_en": "Haidong City has issued its Data Security Emergency Plan, the first municipal-level special emergency plan for data security incidents in the province, filling a system gap.",
+  "body_zh": "海东出台全省首个市级数据安全应急预案\n日前，海东市正式印发《海东市数据安全应急预案》，这是全省首个市级层面数据安全突发事件专项应急预案，有效填补了数据安全应急处置的制度空白，为全市绿色算力产业集聚发展、数字政府建设稳步推进、数字经济高质量发展筑牢坚实安全屏障。\n据了解，该预案与《数字海东建设实施意见》《海东市数据要素管理办法（暂行）》《海东市数据安全管理办法（暂行）》等多项制度互为补充、系统衔接，并结合全市部门信息化项目数据安全体检工作，全面补齐了海东市数据安全应急处置短板，成功构建起“要素管理、常态安防、应急处置”三位一体闭环治理体系。预案共八章26条，明确数据安全预防、应急体系建设、监测预警、应急响应处置、事后复盘整改等全流程工作要求，为快速、规范、高效处置各类数据安全突发事件提供标准化操作依据。\n截至目前，海东市已形成“顶层规划+要素管理+常态安防+应急处置”四位一体的数据治理制度架构，实现数据从采集、使用到应急处置、风险整改的全生命周期规范化、闭环式安全管控，将进一步提升海东市防范化解数据安全风险的能力，有效降低突发事件造成的损失。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "economy",
+  "keywords": [
+    "数据安全",
+    "应急预案",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-QH-HD",
+      "name_zh": "海东",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据安全",
+      "name_en": "Data Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急预案",
+      "name_en": "Emergency Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "海东",
+    "数据安全",
+    "应急预案",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Data Security",
+    "Emergency Plan",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "程工作"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-QH-HD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260813-peoples_qh-a75cc1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

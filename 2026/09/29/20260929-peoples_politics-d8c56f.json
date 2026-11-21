@@ -1,0 +1,124 @@
+{
+  "id": "20260929-peoples_politics-d8c56f",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0929/c461001-40807607.html",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Appoints and Removes State Functionaries",
+  "summary_zh": "9月29日，国务院任命黄敏为国家信访局副局长、邓超为国家文物局副局长，并免去郭卫平、牟海松、申长雨、赵世通相关职务。",
+  "summary_en": "On Sept 29, China's State Council appointed Huang Min and Deng Chao to deputy posts and removed four officials, including intellectual property head Shen Changyu.",
+  "body_zh": "新华社北京9月29日电 国务院任免国家工作人员。\n任命黄敏为国家信访局副局长；任命邓超为国家文物局副局长。\n免去郭卫平的国家民族事务委员会副主任职务；免去牟海松的国家信访局副局长职务；免去申长雨的国家知识产权局局长职务；免去赵世通的国务院台湾事务办公室副主任职务。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "国家工作人员"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家信访局",
+      "name_en": "National Public Complaints and Proposals Administration"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家文物局",
+      "name_en": "National Cultural Heritage Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家工作人员",
+      "name_en": "State Functionaries"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "国家信访局",
+    "国家文物局",
+    "北京",
+    "人事任免",
+    "国家工作人员"
+  ],
+  "tags_en": [
+    "State Council",
+    "National Public Complaints and Proposals Administration",
+    "National Cultural Heritage Administration",
+    "Beijing",
+    "Personnel Appointment and Removal",
+    "State Functionaries"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家信访局",
+        "name_en": "National Public Complaints and Proposals Administration"
+      },
+      {
+        "name_zh": "国家文物局",
+        "name_en": "National Cultural Heritage Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260929-peoples_politics-d8c56f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082361.htm",
+      "title_zh": "国务院任免国家工作人员（2026年9月29日）",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705605.shtml",
+      "title_zh": "国务院任免国家工作人员",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

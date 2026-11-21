@@ -1,0 +1,93 @@
+{
+  "id": "20260815-xinhua_politics-b9e5f8",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260815/355285b049ee4e9ab66f03fd24e55353/c.html",
+  "title_zh": "水利部：沙颍河周口段水位今明两天仍将维持超保",
+  "title_en": "Ministry: Shaying River Water Level at Zhoukou to Remain Above Warning Level",
+  "summary_zh": "8月15日，水利部称贾鲁河堤坝溃口成功合龙，沙颍河周口段水位仍将超保，已派工作组指导抢险。",
+  "summary_en": "On August 15, the Ministry of Water Resources said the breach of the Jialu River levee was closed, but the water level at Zhoukou section of the Shaying River remains above warning level.",
+  "body_zh": "新华社北京8月15日电（记者魏弘毅、翟濯）记者15日从水利部获悉，经全力抢险处置，沙颍河支流贾鲁河堤坝溃口15日晚成功合龙。目前沙颍河洪峰已通过周口段，但沙颍河周口段水位今明两天仍将维持超保。\n受台风“白海豚”及其残留云系带来的持续强降雨影响，8月13日，沙颍河支流贾鲁河周口段左堤发生溃口险情。为应对汛情，水利部主要负责人带队赴河南一线指导堤坝溃口险情处置工作。此外，水利部连续组织会商研判，密切监视沙颍河流域雨水情态势；指导地方科学调度沙颍河上游前坪、燕山等6座大型水库全力拦洪；第一时间派出工作组、专家组和水文应急监测队赶赴现场，开展溃口处水位、流量、水深、流速实时监测。\n记者了解到，受近期持续强降雨影响，8月12日淮河流域沙颍河发生2026年第1号洪水。按照蓄滞洪区运用预案，13日2时泥河洼蓄滞洪区启用，14日9时停止分洪，蓄滞洪区运用各项工作平稳有序进行。\n水利部相关负责人表示，将继续指导地方对合龙堤段进行防渗防漏、加高培厚，强化堤防巡查防守，全力做好淹没区排水工作，及时排查消除风险隐患，确保防洪安全。",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛",
+    "抢险",
+    "台风"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA-ZK",
+      "name_zh": "周口",
+      "name_en": "Zhoukou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抢险",
+      "name_en": "Emergency Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风",
+      "name_en": "Typhoon"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "周口",
+    "防汛",
+    "抢险",
+    "台风"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Zhoukou",
+    "Flood Control",
+    "Emergency Rescue",
+    "Typhoon"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HA-ZK"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260815-xinhua_politics-b9e5f8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

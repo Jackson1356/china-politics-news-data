@@ -1,0 +1,81 @@
+{
+  "id": "20260825-guancha_politics-4ab676",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_25_828514.shtml",
+  "title_zh": "李家超：维护国家安全，没有完成时",
+  "title_en": "John Lee: No Finish Line for Safeguarding National Security",
+  "summary_zh": "李家超表示，维护国家安全没有完成时，强调香港需持续做好维护国家安全工作。",
+  "summary_en": "John Lee said safeguarding national security has no finish line, stressing Hong Kong must continue such efforts.",
+  "body_zh": "双台风来袭，中央气象台继续发布台风黄色预警 2026-08-25 08:45\n韩红基金会捐赠救护车因“动力不足”停在车棚等报废？湖北长阳通报 2026-08-24 21:59\n李家超：香港是内地独角兽企业进军国际的最强跳板 2026-08-24 21:33 香港\n贵阳市委书记调整 2026-08-24 20:30\n全国政协副主席陈武逝世 2026-08-24 18:18\n一场地震，两方说法，四条声明：四川4.7级地震预警争议始末 2026-08-24 17:39\n北京大学原副校长任羽中，被判8年 2026-08-24 17:12 廉政风暴\n国家体育总局体育基金管理中心副主任、纪委书记罗建彬被查 2026-08-24 16:59 廉政风暴\n厦门一公司用敌敌畏给数十家餐厅消杀？当地最新通报 2026-08-24 15:08\n农发行湖南省分行原党委书记、行长吴晓轮被开除党籍 2026-08-24 10:36 廉政风暴\n新疆维吾尔自治区政协原副主席金之镇被提起公诉 2026-08-24 10:29 廉政风暴\n四川宜宾市长宁县发生4.7级地震 2026-08-24 09:28\n“蘸甲醛”白菜流向江苏宿迁？当地通报 2026-08-24 08:41\n儿童能否单独乘火车？列车有无儿童托管服务？铁路官方解答 2026-08-23 22:16\n针对“甲醛白菜”，三部门出手 2026-08-23 20:21 食品安全\n广西发布洪水红色预警：崇左等地多处被淹 2026-08-23 20:17 极端天气\n“旅客买票占座放零食”是否合规？专家解读争议 2026-08-23 19:20\n“赛考斯”：这简直是个奇迹 2026-08-23 18:33\n受台风影响，海南环岛高铁将部分临时停运 2026-08-23 16:48 极端天气",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "party",
+  "keywords": [
+    "国家安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李家超",
+      "name_en": "John Lee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家安全",
+      "name_en": "National Security"
+    }
+  ],
+  "tags_zh": [
+    "李家超",
+    "香港",
+    "国家安全"
+  ],
+  "tags_en": [
+    "John Lee",
+    "Hong Kong",
+    "National Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260825-guancha_politics-4ab676",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_25_828523.shtml",
+      "title_zh": "中美1.5轨对话今天在北京举行",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

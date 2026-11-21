@@ -1,0 +1,132 @@
+{
+  "id": "20261106-qiushi-ed455c",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20261106/1d7f85f4af5643aba661cbbb1ae61b73/c.html",
+  "title_zh": "中华人民共和国主席令（第八十六号）",
+  "title_en": "Presidential Order No. 86 of the People's Republic of China",
+  "summary_zh": "2026年11月6日，全国人大常委会通过《中华人民共和国检察公益诉讼法》，国家主席习近平签署第八十六号主席令予以公布，该法自2027年1月1日起施行。",
+  "summary_en": "On Nov 6, 2026, the NPC Standing Committee adopted China's Procuratorial Public Interest Litigation Law; President Xi Jinping signed Order No. 86 to promulgate it, effective Jan 1, 2027.",
+  "body_zh": "新华社北京11月6日电\n中华人民共和国主席令\n第八十六号\n《中华人民共和国检察公益诉讼法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十五次会议于2026年11月6日通过，现予公布，自2027年1月1日起施行。\n中华人民共和国主席 习近平\n网站编辑 -\n王雅雯\n韩辰 审核 - 刘小畅",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "party",
+  "keywords": [
+    "检察公益诉讼法",
+    "立法",
+    "公益诉讼"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人民代表大会常务委员会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "检察公益诉讼法",
+      "name_en": "Procuratorial Public Interest Litigation Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立法",
+      "name_en": "Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公益诉讼",
+      "name_en": "Public Interest Litigation"
+    }
+  ],
+  "tags_zh": [
+    "全国人民代表大会常务委员会",
+    "北京",
+    "检察公益诉讼法",
+    "立法",
+    "公益诉讼"
+  ],
+  "tags_en": [
+    "NPC Standing Committee",
+    "Beijing",
+    "Procuratorial Public Interest Litigation Law",
+    "Legislation",
+    "Public Interest Litigation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人民代表大会常务委员会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261106-qiushi-ed455c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085372.htm",
+      "title_zh": "中华人民共和国主席令（第九十号）",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261106/ce205f1e3d91479bae042e3ec4917f18/c.html",
+      "title_zh": "中华人民共和国主席令（第九十号）",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261106/8a43937cb5e249e98bc225b31b95d5e5/c.html",
+      "title_zh": "中华人民共和国主席令（第八十九号）",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261106/3f98df6f427241d49c2c1e1470e9c1ea/c.html",
+      "title_zh": "中华人民共和国主席令（第八十八号）",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261106/c764eba2ee3c40c5953fd94764b60213/c.html",
+      "title_zh": "中华人民共和国主席令（第八十七号）",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

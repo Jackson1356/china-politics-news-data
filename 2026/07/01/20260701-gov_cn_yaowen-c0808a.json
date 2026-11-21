@@ -1,0 +1,70 @@
+{
+  "id": "20260701-gov_cn_yaowen-c0808a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202607/content_7073996.htm",
+  "title_zh": "前5个月我国服务进出口总额同比增长6%",
+  "title_en": "China's Service Trade Total Grows 6% in First Five Months",
+  "summary_zh": "商务部7月1日发布数据显示，2026年1至5月我国服务进出口总额同比增长6%，其中服务出口增长较快，贸易逆差有所缩小。",
+  "summary_en": "The Ministry of Commerce announced on July 1 that China's total service trade grew by 6% from January to May 2026, with strong growth in service exports and a narrowing trade deficit.",
+  "body_zh": "新华社北京7月1日电（记者 谢希瑶）商务部1日发布数据显示，2026年1至5月，我国服务进出口总额30994.8亿元，同比增长6%。\n数据显示，1至5月，我国服务出口12304.6亿元，同比增长15.9%；服务进口18690.2亿元，同比增长0.4%。服务贸易逆差6385.6亿元，比上年同期缩小1607.2亿元。\n具体来看，知识密集型服务出口增长较快。1至5月，知识密集型服务进出口13687.4亿元，同比增长5.4%，占服务进出口总额的44.2%。知识密集型服务出口6677.5亿元，同比增长12.2%，其中，知识产权使用费、个人文化和娱乐服务出口增长最快，增速分别为64.9%和50.1%。知识密集型服务进口7009.9亿元，同比下降0.3%。\n旅行服务出口和运输服务进口增长较快。1至5月，旅行服务出口1885亿元，同比增长31.3%，在前五大服务出口领域中增速最快；运输服务进口4025.2亿元，同比增长26.7%，在前五大服务进口领域中增速最快。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "economy",
+  "keywords": [
+    "服务贸易",
+    "进出口"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Service Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进出口",
+      "name_en": "Import and Export"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "服务贸易",
+    "进出口"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Service Trade",
+    "Import and Export"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260701-gov_cn_yaowen-c0808a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

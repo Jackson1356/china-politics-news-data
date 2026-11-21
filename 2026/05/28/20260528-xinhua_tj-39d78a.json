@@ -1,0 +1,94 @@
+{
+  "id": "20260528-xinhua_tj-39d78a",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_url": "http://tj.news.cn/20260529/84ce84518ee249fbacad2c2dd58d60bb/c.html",
+  "title_zh": "2026世界智能产业博览会开幕 “人工智能+”催生智能经济新形态",
+  "title_en": "2026 World Intelligent Industry Expo Opens, 'AI+' Spawns New Forms of Intelligent Economy",
+  "summary_zh": "2026年5月28日，由天津市和重庆市人民政府共同主办的世界智能产业博览会在天津召开，探讨“人工智能+”赋能产业升级及智能经济新形态。",
+  "summary_en": "The 2026 World Intelligent Industry Expo, co-hosted by Tianjin and Chongqing governments, opened in Tianjin on May 28, focusing on 'AI+' empowering industrial upgrades and the new intelligent economy.",
+  "body_zh": "新华社天津5月28日电（记者杨文、宋瑞）由天津市人民政府、重庆市人民政府共同主办的2026世界智能产业博览会28日在天津市召开。与会人士认为，人工智能全面赋能传统产业效率升级，催生一批引领未来发展的新赛道、新业态。\n中国科学院党组副书记、副院长吴朝晖介绍，我国聚焦“人工智能+”发展方向，从2024年战略起航、2025年场景落地，到2026年打造智能经济新形态，标志着我国人工智能已经进入体系化布局、规模化应用的新时期。他说，“人工智能+”深度融入实体经济，体现在研发端缩短研发周期、降低试错成本，生产端提升制造效率，产业端引领系统性重塑、提升整体效能。\n据了解，智能经济催生数据、词元、模型等新要素驱动的生产、交易、消费新范式，涌现出行业Agent、群体Agents、人机混合智能等应用模式。\n中国科协主席万钢说，人工智能推动科研从“依赖实验试错”的传统模式转向“数据驱动正向设计”的跨越，例如在蛋白结构预测、药物分子设计、新材料研发等场景中，人工智能大幅加快研发进程。\n《全国数据资源调查报告（2025年）》显示，2025年，我国数据生产总量达到52.26泽字节（ZB），其中，用于人工智能训练和推理的数据总量为199.48艾字节（EB），推理数据首次超过训练数据量，标志着人工智能正在从训练驱动向训练与推理双驱动加速演进。\n工信部党组成员、副部长柯吉欣表示，工信部将以推进新型工业化为契机培育壮大智能产业、着力深化赋能应用、完善产业生态，下一步将推进人形机器人实景实训，打造一批高价值应用场景。\n大会以“智行天下 能动未来”为主题，展示智能科技领域新技术、新产品、新场景，并设置人工智能核心技术、具身智能、智能网联车、低空经济与商业航天、智能制造、智慧生活等展区。（完）",
+  "image_url": null,
+  "published_at": "2026-05-29T12:00:00+00:00",
+  "event_date": "2026-05-28",
+  "ingested_at": "2026-05-29T08:02:21Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能+",
+    "智能经济",
+    "新型工业化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CAS",
+      "name_zh": "中国科学院",
+      "name_en": "Chinese Academy of Sciences"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能+",
+      "name_en": "AI+"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能经济",
+      "name_en": "Intelligent Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型工业化",
+      "name_en": "New Industrialization"
+    }
+  ],
+  "tags_zh": [
+    "中国科学院",
+    "天津",
+    "人工智能+",
+    "智能经济",
+    "新型工业化"
+  ],
+  "tags_en": [
+    "Chinese Academy of Sciences",
+    "Tianjin",
+    "AI+",
+    "Intelligent Economy",
+    "New Industrialization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "吴朝晖"
+      }
+    ],
+    "institutions": [
+      "CAS"
+    ],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260528-xinhua_tj-39d78a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

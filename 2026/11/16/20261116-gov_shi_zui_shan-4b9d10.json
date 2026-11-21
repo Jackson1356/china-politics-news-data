@@ -1,0 +1,110 @@
+{
+  "id": "20261116-gov_shi_zui_shan-4b9d10",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/home/toutu/202611/content_7086233.htm",
+  "title_zh": "习近平在广东中山考察",
+  "title_en": "Xi Jinping Inspects Zhongshan, Guangdong",
+  "summary_zh": "11月16日，习近平在广东省中山市考察，先后到访深中通道西人工岛、湾区未来科技城和孙中山故居纪念馆。",
+  "summary_en": "On November 16, Xi Jinping inspected Zhongshan, Guangdong, visiting the Shenzhen-Zhongshan Link's west artificial island, the Greater Bay Area Future Sci-Tech City and the Sun Yat-sen Former Residence Memorial Hall.",
+  "body_zh": "11月16日，中共中央总书记、国家主席、中央军委主席习近平在广东省中山市考察。这是习近平在深中通道西人工岛考察。\n11月16日，中共中央总书记、国家主席、中央军委主席习近平在广东省中山市考察。这是习近平在湾区未来科技城考察。\n11月16日，中共中央总书记、国家主席、中央军委主席习近平在广东省中山市考察。这是习近平在湾区未来科技城考察时，同现场的中小企业负责人和科技人员代表亲切交流。\n11月16日，中共中央总书记、国家主席、中央军委主席习近平在广东省中山市考察。这是习近平在孙中山故居纪念馆参观“中国民主革命的伟大先驱——孙中山”展览。\n11月16日，中共中央总书记、国家主席、中央军委主席习近平在广东省中山市考察。这是习近平在孙中山故居纪念馆考察时，同纪念馆工作人员、孙中山生平和思想研究人员代表等亲切交流。",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "party",
+  "keywords": [
+    "地方考察",
+    "粤港澳大湾区",
+    "中小企业创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZS",
+      "name_zh": "中山",
+      "name_en": "Zhongshan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方考察",
+      "name_en": "Local Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粤港澳大湾区",
+      "name_en": "Guangdong-Hong Kong-Macao Greater Bay Area"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中小企业创新",
+      "name_en": "SME Innovation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "广东",
+    "中山",
+    "地方考察",
+    "粤港澳大湾区",
+    "中小企业创新"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Guangdong",
+    "Zhongshan",
+    "Local Inspection",
+    "Guangdong-Hong Kong-Macao Greater Bay Area",
+    "SME Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD",
+      "CN-GD-ZS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261116-gov_shi_zui_shan-4b9d10",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chi_feng",
+      "source_tier": null,
+      "url": "http://www.chifeng.gov.cn/ywdt/jrtt/202611/t20261117_2848819.html",
+      "title_zh": "习近平在广东中山考察",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

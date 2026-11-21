@@ -1,0 +1,79 @@
+{
+  "id": "20260906-gov_wu_xi-e2caeb",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/09/06/4827434.shtml",
+  "title_zh": "美国驻上海总领事访问无锡",
+  "title_en": "U.S. Consul General in Shanghai Visits Wuxi",
+  "summary_zh": "9月4日，无锡市长蒋锋会见美国驻上海总领事马志安一行，双方就深化友好互信和拓展多领域合作进行交流。",
+  "summary_en": "On September 4, Wuxi Mayor Jiang Feng met with U.S. Consul General in Shanghai Ma Zhi'an and his delegation, exchanging views on deepening mutual trust and expanding cooperation.",
+  "body_zh": "发布时间：2026-09-06 07:52 文字大小： [ 大 中 小 ] 浏览次数：\n9月4日，市长蒋锋会见来锡访问的美国驻上海总领事马志安一行，双方围绕加深友好互信、拓展多领域合作深入交流。副市长孙玮，市政府秘书长陈寿彬参加会见。\n蒋锋对马志安一行的到来表示欢迎，并简要介绍近年来无锡经济社会发展以及与美国友好交往情况。他说，今年，习近平主席同特朗普总统举行会谈，两国元首赞同将构建“中美建设性战略稳定关系”作为中美关系新定位，为两国关系发展作出战略指引。当前无锡正深入贯彻落实习近平主席重要指示精神，聚力深化与美国合作交流，为巩固中美关系贡献力量。希望双方进一步加强互相了解、深化双边合作，推动两地实现互利共赢，同时强化在文化、体育、医疗、教育、音乐等民间交往领域务实合作，持续增进相互理解和友谊，为稳定、健康、可持续的中美关系增添更多韧性和活力。\n马志安感谢无锡长期以来给予在锡美资企业的关心帮助。他表示，无锡扎实的产业基础、浓厚的人文氛围、优良的城市环境令人印象深刻，众多美资企业在此深耕发展、成长壮大，充分印证了这一点。未来，期待双方在已有良好合作的基础上，深挖经贸、人文、体育等领域合作潜力，常态化开展民间交流互动，为稳固中美地方友好往来添砖加瓦。",
+  "image_url": null,
+  "published_at": "2026-09-06T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美地方交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-feng-wuxi",
+      "name_zh": "蒋锋",
+      "name_en": "Jiang Feng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美地方交流",
+      "name_en": "China-US Local Exchange"
+    }
+  ],
+  "tags_zh": [
+    "蒋锋",
+    "无锡",
+    "中美地方交流"
+  ],
+  "tags_en": [
+    "Jiang Feng",
+    "Wuxi",
+    "China-US Local Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-feng-wuxi",
+      {
+        "id": null,
+        "name_zh": "陈寿彬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260906-gov_wu_xi-e2caeb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

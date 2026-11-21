@@ -1,0 +1,101 @@
+{
+  "id": "20260625-peoples_hb-5453a7",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_url": "http://hb.people.com.cn/n2/2026/0625/c194063-41620135.html",
+  "title_zh": "2026年全国老年健康宣传周启动",
+  "title_en": "2026 National Elderly Health Promotion Week Launched",
+  "summary_zh": "国家卫生健康委和国家中医药局于2026年6月启动全国老年健康宣传周活动，主题为“用药有方，银龄安康”，旨在推广老年人安全合理用药。",
+  "summary_en": "The National Health Commission and the National Administration of Traditional Chinese Medicine launched the 2026 National Elderly Health Promotion Week from June 22 to 28, focusing on safe and rational medication for the elderly.",
+  "body_zh": "2026年全国老年健康宣传周启动\n本报北京6月24日电 （记者申少铁）日前，国家卫生健康委和国家中医药局启动2026年全国老年健康宣传周活动。今年的宣传主题为“用药有方，银龄安康”，时间为6月22日至28日。\n据介绍，如何确保老年人正确用药、合理用药、安全用药，不仅关系到医疗质量与患者安全，也直接影响老年人群的健康和生活质量。今年全国老年健康宣传周期间，各地聚焦老年健康、安全用药等话题，举办合理用药宣传、义诊、健康问答等多种形式的宣传活动。\n《 人民日报 》（ 2026年06月25日 06 版）",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "老年健康",
+    "安全用药"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家中医药局",
+      "name_en": "National Administration of Traditional Chinese Medicine"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老年健康",
+      "name_en": "Elderly Health"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全用药",
+      "name_en": "Safe Medication"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "国家中医药局",
+    "北京",
+    "老年健康",
+    "安全用药"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "National Administration of Traditional Chinese Medicine",
+    "Beijing",
+    "Elderly Health",
+    "Safe Medication"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家中医药局",
+        "name_en": "National Administration of Traditional Chinese Medicine"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260625-peoples_hb-5453a7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0625/c134768-41620490.html",
+      "title_zh": "2026年全国老年健康宣传周启动",
+      "published_at": "2026-06-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

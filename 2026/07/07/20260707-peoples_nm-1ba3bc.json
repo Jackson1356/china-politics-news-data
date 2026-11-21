@@ -1,0 +1,96 @@
+{
+  "id": "20260707-peoples_nm-1ba3bc",
+  "source": "peoples_nm",
+  "source_name_zh": "人民网 内蒙古",
+  "source_name_en": "People's Daily Inner Mongolia",
+  "source_url": "http://nm.people.com.cn/n2/2026/0707/c192247-41631480.html",
+  "title_zh": "包钢主持召开内蒙古自治区人民政府常务会议",
+  "title_en": "Bao Gang Chairs Inner Mongolia Autonomous Region Government Executive Meeting",
+  "summary_zh": "7月6日，内蒙古自治区主席包钢主持召开政府常务会议，研究防汛抗旱、食品药品安全及挖掘开放应用场景等工作。",
+  "summary_en": "On July 6, Bao Gang, Chairman of Inner Mongolia Autonomous Region, chaired an executive meeting to discuss flood and drought control, food and drug safety, and the development of application scenarios.",
+  "body_zh": "包钢主持召开自治区人民政府常务会议\n7月6日，自治区党委副书记、自治区人民政府主席包钢主持召开自治区人民政府常务会议，传达贯彻习近平总书记近期重要讲话重要指示精神，研究防汛抗旱、食品药品安全、挖掘开放应用场景等工作。\n会议强调，深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神，要同深刻领悟习近平党建思想贯通起来，坚决维护党中央权威和集中统一领导，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”；要同落实习近平总书记对内蒙古系列重要讲话重要指示精神和自治区党委“1571”工作部署结合起来，做好稳增长、促消费、扩投资工作，促进三次产业融合发展，防范化解金融风险，抓好中央巡视反馈问题整改，集中整治群众身边不正之风和腐败问题，深化京蒙协作，推动经济社会高质量发展。\n会议要求，要认真落实6月30日中共中央政治局会议精神，树牢底线思维、极限思维，加强雨情水情旱情监测预警，系统排查整治水库堤防、城市内涝、山洪灾害等风险隐患，落实河湖引水、墒情监测等抗旱举措，配齐应急物资和救援力量，强化防灾避险宣传，保障人民群众生命财产安全。\n会议指出，食品药品安全关系每个人身体健康和生命安全，要加强种植养殖、生产加工、流通环节全链条监管，聚焦肉蛋奶果蔬刚需食品和老年人营养食品、婴幼儿配方食品、校园食品等重点领域加大监管力度，提升网售食品、预制菜监管水平，完善农产品质量安全追溯管理办法和“快检+精检”相结合的检验检测体系，注重行刑衔接，严厉打击食品安全领域违法犯罪。\n会议审定了《内蒙古自治区关于挖掘和开放应用场景 加快新质生产力高质量发展的三年行动方案（2026—2028年）》，要求重点挖掘和培育清洁能源、制造业、现代农牧业、交通运输、政务服务、医疗卫生、养老助残托育等领域应用场景，有序开放重点产业链和重大项目场景，搭建应用场景发布平台，推动建设一批应用场景创新实验室和试验区，加强部门协同，健全监管机制，营造良好创新生态。\n会议还研究部署了中央生态环境保护督察反馈问题整改和清理拖欠企业账款、化解政府隐性债务等工作。（记者 宋爽）",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "防汛抗旱",
+    "食品药品安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "bao-gang",
+      "name_zh": "包钢",
+      "name_en": "Bao Gang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛抗旱",
+      "name_en": "Flood and Drought Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品药品安全",
+      "name_en": "Food and Drug Safety"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "包钢",
+    "内蒙古",
+    "新质生产力",
+    "防汛抗旱",
+    "食品药品安全"
+  ],
+  "tags_en": [
+    "Bao Gang",
+    "Inner Mongolia",
+    "New Quality Productive Forces",
+    "Flood and Drought Control",
+    "Food and Drug Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "bao-gang",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260707-peoples_nm-1ba3bc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

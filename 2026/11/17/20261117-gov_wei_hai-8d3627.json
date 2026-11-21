@@ -1,0 +1,108 @@
+{
+  "id": "20261117-gov_wei_hai-8d3627",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/11/17/art_58817_6747965.html",
+  "title_zh": "孔凡萍主持召开市政府常务会议",
+  "title_en": "Kong Fanping Chairs Weihai Municipal Government Executive Meeting",
+  "summary_zh": "11月16日，威海市市长孔凡萍主持召开市政府第78次常务会议，传达学习习近平总书记重要讲话精神，部署迎峰度冬保暖保供、黄河保护治理及水资源管理等工作。",
+  "summary_en": "On Nov 16, Weihai Mayor Kong Fanping chaired the 78th executive meeting of the municipal government, conveying Xi Jinping's recent instructions and deploying winter heating and energy supply, Yellow River protection and water resource management work.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯 11月16日，市委副书记、市长孔凡萍主持召开市政府第78次常务会议，传达学习习近平总书记近期重要讲话、重要指示精神，安排部署迎峰度冬保暖保供等工作，审议有关事项。\n会议强调，要深入学习习近平总书记对进一步做好黄河保护治理工作作出的重要指示精神，共同抓好大保护、协同推进大治理，强化水资源节约集约利用，提升水网工程统筹调配能力，加强水生态环境保护，为高质量发展提供坚实水安全保障。要落实最严格水资源管理制度，坚持“四水四定”，强化水资源刚性约束，落实用水总量和强度双控，持续推进节水型社会建设。要系统推进水生态环境保护治理，全面落实河湖长制，加快补齐城乡污水收集处理设施短板，坚决守牢水安全底线。要坚定不移走生态优先、绿色发展之路，协同推进降碳减污扩绿增长，不断提升经济发展“含绿量”。要凝聚治水兴水工作合力，形成齐抓共管、协同推进的良好局面，确保各项工作有人抓、有人管、能落地。\n会议传达全省迎峰度冬保暖保供视频会议精神，强调各级各有关部门要从讲政治、保民生、守安全的高度出发，精准研判形势，全力抓好能源保供措施落实，确保全市供暖平稳有序。要统筹推进煤、电、油、气协同保障，深化供需研判，优化调度机制，完善工作预案，全面细致做好居民供暖保障。要加强各类管网、线路、设施设备检查维修，及时消除风险隐患，牢牢守住保暖保供底线。\n会议还研究了其他事项。（全媒体新闻中心通讯员 施福）",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "welfare",
+  "keywords": [
+    "迎峰度冬保暖保供",
+    "黄河流域生态保护",
+    "水资源管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "迎峰度冬保暖保供",
+      "name_en": "Winter Heating and Energy Supply"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河流域生态保护",
+      "name_en": "Yellow River Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水资源管理",
+      "name_en": "Water Resource Management"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "迎峰度冬保暖保供",
+    "黄河流域生态保护",
+    "水资源管理",
+    "习近平"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Winter Heating and Energy Supply",
+    "Yellow River Ecological Protection",
+    "Water Resource Management"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "施设备"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261117-gov_wei_hai-8d3627",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

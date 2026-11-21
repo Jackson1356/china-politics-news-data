@@ -1,0 +1,97 @@
+{
+  "id": "20260911-qianlong-e524cf",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/0911/8725688.shtml",
+  "title_zh": "殷勇会见美国标普全球集团总裁兼首席执行官",
+  "title_en": "Beijing Mayor Yin Yong Meets S&P Global CEO Martina Cheung",
+  "summary_zh": "9月10日上午，北京市市长殷勇会见美国标普全球集团总裁兼首席执行官玛蒂娜·张，双方就深化绿色经济、科技创新、证券交易等领域务实合作交换意见。",
+  "summary_en": "On the morning of September 10, Beijing Mayor Yin Yong met with Martina Cheung, President and CEO of S&P Global, to discuss deeper cooperation in green economy, technological innovation and securities trading.",
+  "body_zh": "昨天（9月10日）上午，市长殷勇会见美国标普全球集团总裁兼首席执行官玛蒂娜·张。\n玛蒂娜表示，标普全球对中国经济发展前景十分看好，将持续深耕中国市场、扎根北京发展，深化绿色经济、科技创新、证券交易等方面务实合作，服务北京高质量发展。\n市政府秘书长曾劲参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "绿色经济",
+    "科技创新",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色经济",
+      "name_en": "Green Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "殷勇",
+    "北京",
+    "绿色经济",
+    "科技创新",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Yin Yong",
+    "Beijing",
+    "Green Economy",
+    "Technological Innovation",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong",
+      {
+        "id": null,
+        "name_zh": "曾劲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260911-qianlong-e524cf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

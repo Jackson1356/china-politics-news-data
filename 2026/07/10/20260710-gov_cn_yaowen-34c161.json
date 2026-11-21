@@ -1,0 +1,68 @@
+{
+  "id": "20260710-gov_cn_yaowen-34c161",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074898.htm",
+  "title_zh": "上半年新能源汽车出口同比增长1.2倍",
+  "title_en": "China's New Energy Vehicle Exports Grew by 1.2 Times in First Half of Year",
+  "summary_zh": "中国汽车工业协会数据显示，今年1-6月我国汽车出口509.6万辆，其中新能源汽车出口235.5万辆，同比增长1.2倍。",
+  "summary_en": "According to the China Association of Automobile Manufacturers, China exported 5.096 million vehicles from January to June, with NEV exports increasing by 1.2 times to 2.355 million units.",
+  "body_zh": "中国汽车工业协会发布的最新数据显示：我国汽车出口延续高增长态势，1—6月，汽车出口509.6万辆，同比增长65.3%；新能源汽车出口235.5万辆，同比增长1.2倍。\n上半年，汽车产销分别完成1499.3万辆和1501.7万辆，同比分别下降4%和4.1%，降幅比前5月进一步收窄。其中，新能源汽车产销分别完成743.8万辆和744.6万辆，同比分别增长6.7%和7.3%，新能源汽车新车销量达到汽车新车总销量的49.6%。\n中国汽车工业协会相关负责人表示，“两新”政策继续实施，汽车后市场消费有望迎来新的增量机遇，企业新品供给持续丰富，市场价格相对稳定，行业整体经济运行将进一步好转。（记者 王政）",
+  "image_url": null,
+  "published_at": "2026-07-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-11T06:31:06Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车",
+    "汽车出口"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车出口",
+      "name_en": "Automobile Exports"
+    }
+  ],
+  "tags_zh": [
+    "新能源汽车",
+    "汽车出口"
+  ],
+  "tags_en": [
+    "New Energy Vehicles",
+    "Automobile Exports"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260710-gov_cn_yaowen-34c161",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0710/c352664-41634826.html",
+      "title_zh": "上半年新能源汽车出口同比增长1.2倍",
+      "published_at": "2026-07-10T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

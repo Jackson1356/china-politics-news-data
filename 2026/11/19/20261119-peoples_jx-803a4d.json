@@ -1,0 +1,93 @@
+{
+  "id": "20261119-peoples_jx-803a4d",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jx.people.com.cn/n2/2026/1119/c186330-41754782.html",
+  "title_zh": "江西省第十六次党代会主席团举行第一次会议",
+  "title_en": "Presidium of 16th Jiangxi Provincial Party Congress Holds First Meeting",
+  "summary_zh": "11月18日晚，中国共产党江西省第十六次代表大会主席团举行第一次会议，尹弘主持，通过主席团常务委员会成员名单、大会议程等。",
+  "summary_en": "On the evening of Nov 18, the presidium of the 16th Jiangxi Provincial Party Congress held its first meeting, chaired by Yin Hong, approving the presidium standing committee roster and the congress agenda.",
+  "body_zh": "江西省第十六次党代会主席团举行第一次会议\n尹弘主持 通过大会主席团常务委员会成员名单等\n11月18日晚，中国共产党江西省第十六次代表大会主席团举行第一次会议，尹弘主持。\n会议首先通过了省第十六次党代会主席团常务委员会成员名单，由尹弘、陈永奇、庄兆林、任珠峰、黄喜忠、时玉宝、盛秋平、陈敏、卢小青、张莹、刘金波等11人组成。随后，主席团常务委员会委员在主席台就座。\n会议通过了大会副秘书长名单、大会代表资格审查委员会关于代表资格的审查报告、大会日程、大会秘书处机构设置及任务分工；通过了关于全省党费收缴、使用和管理情况的报告。\n会议听取了省第十六次党代会关于特邀代表出席会议、邀请人员出席大会开幕式和列席人员列席会议的说明；通过了大会特邀代表名单、列席人员名单。（全媒体记者魏星、刘斐）",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党内选举",
+    "党费管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-hong",
+      "name_zh": "尹弘",
+      "name_en": "Yin Hong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-party Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党费管理",
+      "name_en": "Party Dues Management"
+    }
+  ],
+  "tags_zh": [
+    "尹弘",
+    "江西",
+    "党代会",
+    "党内选举",
+    "党费管理"
+  ],
+  "tags_en": [
+    "Yin Hong",
+    "Jiangxi",
+    "Party Congress",
+    "Intra-party Elections",
+    "Party Dues Management"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-hong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-peoples_jx-803a4d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

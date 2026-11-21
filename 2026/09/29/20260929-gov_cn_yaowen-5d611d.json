@@ -1,0 +1,93 @@
+{
+  "id": "20260929-gov_cn_yaowen-5d611d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7082400.htm",
+  "title_zh": "中国人民银行调整完善若干货币政策工具",
+  "title_en": "PBOC Adjusts and Improves Several Monetary Policy Tools",
+  "summary_zh": "9月29日，中国人民银行宣布下调抵押补充贷款利率0.25个百分点，扩大支持领域，并增加科技创新、支农支小再贷款额度，以支持实体经济。",
+  "summary_en": "On September 29, the People's Bank of China announced a 0.25 percentage point cut to the Pledged Supplementary Lending rate, expanded its supported sectors, and increased relending quotas for tech innovation and rural/small-business lending to support the real economy.",
+  "body_zh": "新华社北京9月29日电（记者吴雨、任军）9月29日，中国人民银行宣布调整完善若干货币政策工具，为经济平稳增长、高质量发展和金融市场稳定运行创造适宜的货币金融环境，推动经济持续向新向优向好发展，支持“十五五”实现良好开局。\n一是下调抵押补充贷款（PSL）利率0.25个百分点。一年期抵押补充贷款利率从1.75%降至1.5%，更好激励政策性银行支持实体经济、服务国家战略。\n二是扩大抵押补充贷款支持领域。将水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等“六张网”建设纳入抵押补充贷款支持领域，引导政策性银行加大对“六张网”建设的金融支持，助力扩大有效投资，深入挖掘内需潜力。\n三是增加科技创新和技术改造再贷款额度2000亿元，并将该项再贷款支持比例统一从60%提高至100%。调增后，科技创新和技术改造再贷款额度从1.2万亿元增至1.4万亿元，且支持比例更高，有助于引导银行加大对中小科技型企业贷款投放，更好地支持企业扩大重点领域设备更新投资。\n四是增加支农支小再贷款额度5000亿元，其中民营企业再贷款额度增加3000亿元。调增后，支农支小再贷款和再贴现额度从4.35万亿元增至4.85万亿元，其中民营企业再贷款额度从1万亿元增至1.3万亿元，将进一步激励地方法人银行加大对涉农、小微企业，尤其是中小微民营企业的信贷支持。\n中国人民银行表示，将继续根据宏观经济运行情况、物价走势和宏观调控需要，综合运用多种货币政策工具，保持流动性充裕，引导调控好利率水平，服务实体经济高质量发展。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "economy",
+  "keywords": [
+    "货币政策",
+    "实体经济",
+    "科技创新"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货币政策",
+      "name_en": "Monetary Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "北京",
+    "货币政策",
+    "实体经济",
+    "科技创新"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Beijing",
+    "Monetary Policy",
+    "Real Economy",
+    "Technological Innovation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260929-gov_cn_yaowen-5d611d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20261005-gov_cn_yaowen-6d79cb",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082652.htm",
+  "title_zh": "升级交通服务 强化返程保障",
+  "title_en": "Transport Services Upgraded to Ensure Smooth Holiday Return Travel",
+  "summary_zh": "10月5日国庆假期返程客流启动，全社会跨区域人员流动量超3亿人次，交通运输部指导各地加开列车、延长地铁运营、增开接驳公交，保障旅客顺利返程。",
+  "summary_en": "On Oct 5, cross-regional trips exceeded 300 million as National Day return travel peaked; the Ministry of Transport mobilized extra trains, extended metro hours and added shuttle services.",
+  "body_zh": "记者从交通运输部了解到，今天（10月5日）全社会跨区域人员流动量超3亿人次。全国交通出行今天陆续迎来返程客流，交通部门服务升级，畅通出行“最后一公里”。\n全国铁路今天预计发送旅客2105万人次，预计加开列车1463列。全国多个火车站相继进行停车场改造，便捷旅客换乘出行。\n公路方面，根据交通运输部动态研判，今天全国高速公路有36个路段易发拥堵，针对短时集中返程客流，多地交通部门协调地铁延长运营时间、加密夜班公交频次，在热门景区，增加网约车和出租车运力补充，增开往返火车站、机场、市区的公交一体化接驳，保障旅客顺利返程。\n为便捷旅客租车出行，今年国庆假期200万人次机场和一类高铁站枢纽已实现租车站点全覆盖。交通运输部指导企业优化租车流程，推出免费或者低费率异地还车。",
+  "image_url": null,
+  "published_at": "2026-10-05T12:00:00+00:00",
+  "event_date": "2026-10-05",
+  "ingested_at": "2026-10-07T11:06:49Z",
+  "topic": "economy",
+  "keywords": [
+    "交通保障",
+    "国庆假期返程",
+    "公共交通服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通保障",
+      "name_en": "Transport Service Assurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期返程",
+      "name_en": "National Day Holiday Return Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共交通服务",
+      "name_en": "Public Transport Services"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "交通保障",
+    "国庆假期返程",
+    "公共交通服务"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Transport Service Assurance",
+    "National Day Holiday Return Travel",
+    "Public Transport Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261005-gov_cn_yaowen-6d79cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

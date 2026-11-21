@@ -1,0 +1,101 @@
+{
+  "id": "20261120-gov_na_qu-574a3a",
+  "source": "gov_na_qu",
+  "source_name_zh": "那曲市政府网",
+  "source_name_en": "那曲 Government Portal",
+  "source_media_id": "gov-cn-prefecture-na_qu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.naqu.gov.cn/nqsrmzf/c100003/202611/c65acb958ebc44faa682c08bd88f767d.shtml",
+  "title_zh": "党的二十届五中全会精神自治区宣讲团报告会在那曲举行",
+  "title_en": "Autonomous Region Lecture Team Holds Report Meeting on Fifth Plenary Session Spirit in Nagqu",
+  "summary_zh": "11月18日，自治区宣讲团在那曲举行党的二十届五中全会精神宣讲报告会，自治区党委组织部副部长刘永华作报告，全市970名党员干部通过视频会议参加。",
+  "summary_en": "On Nov 18, an autonomous region lecture team held a report meeting in Nagqu on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee, with Liu Yonghua, deputy head of the regional Party Committee's organization department, delivering the report to 970 Party members and officials via video link.",
+  "body_zh": "学习宣传贯彻党的二十届五中全会精神，是当前和今后一个时期的一项重大政治任务。11月18日，自治区宣讲团来到那曲开展宣讲，与基层干部群众面对面互动交流，推动全会精神在那曲落地生根、走深走实。\n报告会上，自治区宣讲团成员、自治区党委组织部副部长刘永华作题为《以自我革命引领新征程 以忠诚实干担当新使命》的宣讲报告。报告紧紧围绕习近平总书记在党的二十届五中全会上的重要讲话精神和《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，从深刻把握全会的重大意义、核心要义、实践要求等方面，紧密结合西藏区情，对全会精神作了重点解读。\n全会通过的《决定》，以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平党建思想，总结新时代全面从严治党伟大成就和宝贵经验，分析党的建设面临的形势和任务，对持之以恒推进全面从严治党作出战略部署，是推进新时代党的建设新的伟大工程的纲领性文件，对于进一步开创新时代管党治党、兴党强党新局面，团结带领全国各族人民以中国式现代化全面推进强国建设、民族复兴伟业，具有重大现实意义和长远指导意义。\n整场报告主题鲜明、内涵丰富，兼具理论高度和实践深度。报告会以视频会议形式召开，在各县区设分会场，全市共970名党员干部参加。近两个小时的宣讲中，大家认真记录、深入思考，进一步明晰了工作思路、找准了奋进方向。\n宣讲报告会结束后，宣讲团还走进色尼区黑河街道林廓社区，与社区干部、基层党员、居民代表和驻村工作队面对面互动交流，把全会精神送到基层一线、送到群众身边。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NQ",
+      "name_zh": "那曲",
+      "name_en": "Nagqu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣讲",
+      "name_en": "Theoretical Outreach"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "那曲",
+    "西藏",
+    "党的二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲",
+    "习近平"
+  ],
+  "tags_en": [
+    "Nagqu",
+    "Tibet",
+    "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee",
+    "Full and Rigorous Party Governance",
+    "Theoretical Outreach"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NQ",
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261119-gov_na_qu-e5eb76",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

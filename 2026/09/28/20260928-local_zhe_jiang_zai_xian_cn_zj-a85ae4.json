@@ -1,0 +1,107 @@
+{
+  "id": "20260928-local_zhe_jiang_zai_xian_cn_zj-a85ae4",
+  "source": "local_zhe_jiang_zai_xian_cn_zj",
+  "source_name_zh": "浙江在线",
+  "source_name_en": "浙江在线",
+  "source_media_id": "cac-cn-zj-f8a922b59a",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-ZJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.chinanews.com.cn/tw/shipin/cns/2026/09-28/news1070468.shtml",
+  "title_zh": "台湾人士议中美八点成果共识：民进党当局“台独”路线已经走不通了",
+  "title_en": "Taiwan Figures on China-US Eight-Point Consensus: DPP's \"Taiwan Independence\" Line Is a Dead End",
+  "summary_zh": "9月27日，多位台湾人士在台北受访表示，习近平9月23日至25日对美国事访问及中美达成的八点成果共识传递和平共处信号，民进党当局应放弃对抗思维、通过两岸对话寻找出路。",
+  "summary_en": "On Sept 27 in Taipei, several Taiwan figures said Xi Jinping's Sept 23-25 state visit to the US and the eight-point China-US consensus signal peaceful coexistence, urging the DPP to drop confrontation and pursue cross-strait dialogue.",
+  "body_zh": "台湾人士议中美八点成果共识：民进党当局“台独”路线已经走不通了\n当地时间9月23日至25日，国家主席习近平对美国进行国事访问，其间，中美达成八点成果共识。9月27日，多位台湾人士受访表示，此访传递了中美相向而行、和平共处、互利共赢的积极信号，民进党当局应放弃对抗思维，通过两岸对话与和平谈判寻找出路。(记者 朱贺 刘子衿 台北报道）\n版权声明：中新视频版权属中新社所有，未经书面许可的使用行为，本社将依法追究其法律责任。\n本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件，务经书面授权。\n未经授权禁止转载、摘编、复制及建立镜像，违者将依法追究法律责任。\nchinanews.com. All Rights Reserved",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-27",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "两岸关系",
+    "反对台独"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "台北",
+      "name_en": "Taipei"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸关系",
+      "name_en": "Cross-Strait Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反对台独",
+      "name_en": "Opposing Taiwan Independence"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "台北",
+    "美国",
+    "中美关系",
+    "两岸关系",
+    "反对台独"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Taipei",
+    "United States",
+    "China-US Relations",
+    "Cross-Strait Relations",
+    "Opposing Taiwan Independence"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260928-local_zhe_jiang_zai_xian_cn_zj-a85ae4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+      "source_tier": null,
+      "url": "https://news.cnjiwang.com/gnyw/202609/4086099.html",
+      "title_zh": "台湾人士议中美八点成果共识：民进党当局“台独”路线已经走不通了",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

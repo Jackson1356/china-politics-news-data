@@ -1,0 +1,93 @@
+{
+  "id": "20260821-xinhua_politics-14120e",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260821/3c0e83fc94794acaaa9a39e8821b1921/c.html",
+  "title_zh": "7月全社会用电量再次突破万亿千瓦时 创历史新高",
+  "title_en": "July Electricity Consumption Exceeds One Trillion kWh Again, Hits Record High",
+  "summary_zh": "国家能源局8月21日发布数据显示，7月全社会用电量达10400亿千瓦时，同比增长1.7%，创月度用电量历史新高。",
+  "summary_en": "The National Energy Administration reported on Aug 21 that total electricity consumption in July reached 1.04 trillion kWh, up 1.7% year-on-year, setting a new monthly record.",
+  "body_zh": "新华社北京8月21日电（记者王悦阳）国家能源局8月21日发布数据显示，7月份，全社会用电量达10400亿千瓦时，同比增长1.7%。\n2025年7月，我国单月用电量曾首次突破1万亿千瓦时。2026年7月，用电量在再次突破1万亿千瓦时基础上，比上年同期还多174.5亿千瓦时，创月度用电量历史新高。\n从分产业用电看，第一产业用电量167亿千瓦时，同比下降2%；第二产业用电量6116亿千瓦时，同比增长3%，其中，工业用电量6055亿千瓦时，同比增长3.3%；第三产业用电量2183亿千瓦时，同比增长4.8%，其中，充换电服务业、互联网数据服务用电量分别为164亿千瓦时、99亿千瓦时，增速分别达到50.3%、40.1%。城乡居民生活用电量1935亿千瓦时，同比下降5.1%。\n中国电力企业联合会统计与数智部主任助理吴立强表示，本月电力消费中，第三产业用电量增速为各产业中最快，高技术及装备制造业用电量表现突出，新动能用电量保持高速增长，新质生产力对用电的支撑作用持续强化。“7月当月，互联网数据服务和充换电服务业用电量增量合计超过第三产业用电增量比重的80%。”吴立强说。\n此外，1月至7月，全社会用电量累计达61399亿千瓦时，同比增长4.7%。从分产业用电看，第一产业用电量877亿千瓦时，同比增长3.5%；第二产业用电量39173亿千瓦时，同比增长4.7%，其中，工业用电量38815亿千瓦时，同比增长4.9%；第三产业用电量12100亿千瓦时，同比增长7.4%，其中，充换电服务业、互联网数据服务用电量分别为974亿千瓦时、593亿千瓦时，增速分别达到55.8%、43.3%。城乡居民生活用电量9249亿千瓦时，同比增长1.3%。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "economy",
+  "keywords": [
+    "用电量",
+    "能源消费",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "用电量",
+      "name_en": "Electricity Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源消费",
+      "name_en": "Energy Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "北京",
+    "用电量",
+    "能源消费",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Beijing",
+    "Electricity Consumption",
+    "Energy Consumption",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260821-guancha_politics-76e726",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

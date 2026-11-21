@@ -1,0 +1,110 @@
+{
+  "id": "20261117-peoples_hi-73a41a",
+  "source": "peoples_hi",
+  "source_name_zh": "人民网 海南",
+  "source_name_en": "People's Daily Hainan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hi.people.com.cn/n2/2026/1117/c231190-41752631.html",
+  "title_zh": "海南省举办纪念孙中山先生诞辰160周年座谈会",
+  "title_en": "Hainan Province Holds Symposium Marking 160th Anniversary of Sun Yat-sen's Birth",
+  "summary_zh": "11月16日，海南省五会联合办公室在海口举办纪念孙中山先生诞辰160周年座谈会，省黄埔军校同学会40多名会员参加。",
+  "summary_en": "On Nov 16, Hainan Province held a symposium in Haikou commemorating the 160th anniversary of Sun Yat-sen's birth, attended by over 40 members of the provincial Whampoa Military Academy Alumni Association.",
+  "body_zh": "海南省举办纪念孙中山先生诞辰160周年座谈会\n11月16日，由海南省五会联合办公室主办的纪念孙中山先生诞辰160周年座谈会在海口召开。省五会联合办公室有关人员以及省黄埔军校同学会40多名会员参加座谈会。\n会议传达学习习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话精神，组织与会人员观看孙中山先生原声影像短片。省黄埔军校同学会会长林青作主题讲座。省黄埔军校同学会多名会员围绕“继承中山思想 致力民族复兴”会议主题进行交流发言。\n省黄埔军校同学会会员一致表示，将永远铭记孙中山先生的卓越功勋，传承孙中山先生的崇高精神与伟大风范，弘扬“爱国、革命”的黄埔精神，不忘初心、砥砺奋进，凝心聚力、携手同行，为海南自贸港建设贡献力量。\n会议指出，要广泛凝聚共识，从重要讲话中汲取强大动力，进一步增强做好新时代黄埔工作的使命感和责任感，牢牢把握黄埔工作的正确方向，坚定做好海南黄埔工作的信心决心。要传承中山精神，致力推动祖国统一大业和民族复兴伟业。要夯实组织基础，在服务海南自贸港建设中提升黄埔工作质效。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "孙中山思想",
+    "黄埔精神",
+    "祖国统一",
+    "海南自贸港建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-HK",
+      "name_zh": "海口",
+      "name_en": "Haikou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山思想",
+      "name_en": "Sun Yat-sen Thought"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄埔精神",
+      "name_en": "Whampoa Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "祖国统一",
+      "name_en": "National Reunification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海南自贸港建设",
+      "name_en": "Hainan Free Trade Port Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "海南",
+    "海口",
+    "孙中山思想",
+    "黄埔精神",
+    "祖国统一",
+    "海南自贸港建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Hainan",
+    "Haikou",
+    "Sun Yat-sen Thought",
+    "Whampoa Spirit",
+    "National Reunification",
+    "Hainan Free Trade Port Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI",
+      "CN-HI-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261117-peoples_hi-73a41a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

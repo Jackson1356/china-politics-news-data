@@ -1,0 +1,112 @@
+{
+  "id": "20260802-gov_xin_yang-36c49c",
+  "source": "gov_xin_yang",
+  "source_name_zh": "信阳市政府网",
+  "source_name_en": "信阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xin_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xinyang.gov.cn/2026/08-02/797020.html",
+  "title_zh": "苏信合作工作座谈会在苏州召开",
+  "title_en": "Suzhou-Xinyang Cooperation Symposium Held in Suzhou",
+  "summary_zh": "7月31日，苏信对口合作座谈会在苏州举行，苏州市市长王维、信阳市市长卢希望出席并讲话，总结工作进展，谋划合作事宜，推动两地对口合作走深走实。",
+  "summary_en": "On July 31, the Suzhou-Xinyang counterpart cooperation symposium was held in Suzhou. Mayors Wang Wei and Lu Xiwang attended and spoke, summarizing progress and planning further cooperation.",
+  "body_zh": "7月31日，苏信对口合作座谈会在苏州举行，总结工作进展，谋划合作事宜，落实苏信对口合作实施方案（2026-2030年），进一步推动苏州、信阳两市对口合作工作走深走实。苏州市市长王维、信阳市市长卢希望出席并讲话，苏州市委常委、政法委书记、副市长韩卫，河南省发改委二级巡视员曾兵，市领导张劲松、袁钢参加。\n卢希望首先对苏州长期以来给予信阳的大力支持表示感谢。他表示，推动苏信合作，是牢记习近平总书记“两个更好”殷殷嘱托，落实党中央、国务院关于加快革命老区振兴发展战略部署的具体行动。近年来，在苏州市的关心帮助下，苏信双方在产业协同、人力协作、产销对接、文旅合作等领域成果丰硕。信阳将立足自身区位、资源、生态等优势，围绕共育产业集群、共链消费市场、共通物流航线、共建文旅廊道等目标，主动对接苏州发展需求，细化合作举措、畅通对接渠道，推动合作领域不断拓展、合作层次不断深化、两地交往更加紧密，努力打造全国革命老区重点城市对口合作的典范。\n王维代表苏州市委、市政府对卢希望一行的到来表示欢迎，对信阳市近年来经济社会发展取得的成绩表示祝贺。他说，苏州与信阳建立对口合作关系以来，两地深入贯彻落实习近平总书记关于革命老区振兴发展的重要讲话重要指示精神，各领域交流日益密切，合作基础不断夯实。希望双方进一步围绕产业、文旅、民生等重点领域，找准结合点和发力点，逐项抓好落实、务求实效，持续推动对口合作走深走实。苏州将充分发挥产业、创新、市场等优势，积极为信阳对接长三角资源牵线搭桥、创造条件，全力支持革命老区振兴发展。\n会前，卢希望一行还前往苏州怡养老年公寓、苏州市科技馆学习考察。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "economy",
+  "keywords": [
+    "对口合作",
+    "革命老区振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-wei-suzhou",
+      "name_zh": "王维",
+      "name_en": "Wang Wei"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢希望",
+      "name_en": "Lu Xiwang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-SZ",
+      "name_zh": "苏州",
+      "name_en": "Suzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对口合作",
+      "name_en": "Counterpart Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "革命老区振兴",
+      "name_en": "Revitalization of Old Revolutionary Base Areas"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王维",
+    "卢希望",
+    "苏州",
+    "对口合作",
+    "革命老区振兴",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Wei",
+    "Lu Xiwang",
+    "Suzhou",
+    "Counterpart Cooperation",
+    "Revitalization of Old Revolutionary Base Areas"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wei-suzhou",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "卢希望"
+      },
+      {
+        "id": null,
+        "name_zh": "袁钢"
+      },
+      {
+        "id": null,
+        "name_zh": "谢他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260802-gov_xin_yang-36c49c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

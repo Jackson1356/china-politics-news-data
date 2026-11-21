@@ -1,0 +1,84 @@
+{
+  "id": "20260817-chinanews_gn-1004ee",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-17/10678906.shtml",
+  "title_zh": "黑龙江发生2026年第2号洪水",
+  "title_en": "Flood No.2 of 2026 Hits Heilongjiang",
+  "summary_zh": "8月17日8时，黑龙江漠河水文站水位涨至警戒水位，洪水编号为2026年第2号。水利部维持Ⅳ级应急响应，派组协助防汛。",
+  "summary_en": "At 08:00 on August 17, the water level at Mohe Hydrological Station in Heilongjiang reached the warning level, triggering the designation of Flood No.2 of 2026. The Ministry of Water Resources maintained a Level-IV emergency response and dispatched work groups to assist flood control.",
+  "body_zh": "黑龙江发生2026年第2号洪水\n中新网8月17日电 据水利部网站消息，受上游来水影响，8月17日8时，黑龙江漠河水文站(黑龙江省漠河市)水位涨至警戒水位(293.69米)，依据主要江河洪水编号规定，此次洪水编号为“黑龙江2026年第2号洪水”。\n水利部紧盯黑龙江汛情发展态势，维持针对黑龙江省的洪水防御Ⅳ级应急响应，加强雨水情监测预报预警，督促地方强化堤防巡查防守，落实落细洪水防御各项措施，提前做好危险区群众转移工作，全力确保人民群众生命安全。\n目前，水利部2个工作组正在黑龙江省暴雨洪水防御一线协助指导。\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年08月16日 20:34:16\n- 2026年08月16日 10:52:44\n- 2026年08月15日 11:41:14\n- 2026年08月14日 18:36:50\n- 2026年08月14日 16:53:39\n- 2026年08月14日 16:18:09\n- 2026年08月14日 14:18:40\n- 2026年08月14日 14:18:36\n- 2026年08月14日 11:07:06\n- 2026年08月14日 08:40:16",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "welfare",
+  "keywords": [
+    "洪水",
+    "防汛"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洪水",
+      "name_en": "Flood"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "黑龙江",
+    "洪水",
+    "防汛"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Heilongjiang",
+    "Flood",
+    "Flood Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260817-chinanews_gn-1004ee",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

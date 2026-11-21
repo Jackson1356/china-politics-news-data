@@ -1,0 +1,105 @@
+{
+  "id": "20261015-chinanews_gn-a12d05",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-15/10715098.shtml",
+  "title_zh": "商务部：中欧双方在混动汽车领域达成的谅解是对等互利的",
+  "title_en": "MOFCOM: China-EU Understanding on Hybrid Vehicles Is Mutually Beneficial",
+  "summary_zh": "2026年10月15日，商务部例行新闻发布会上，发言人何亚东表示中欧在混动汽车领域达成的谅解对等互利，基于全流程合规、尊重事实、非歧视三大原则，避免贸易摩擦升级。",
+  "summary_en": "At the Ministry of Commerce's regular press conference on October 15, 2026, spokesperson He Yadong said the China-EU understanding on hybrid vehicles is mutually beneficial, based on full-process compliance, respect for facts and non-discrimination, averting an escalation of trade friction.",
+  "body_zh": "商务部：中欧双方在混动汽车领域达成的谅解是对等互利的\n在今天举行的商务部例行新闻发布会上，新闻发言人就中欧在混动汽车领域达成的谅解作出回应。\n商务部新闻发言人何亚东表示，双方在混动汽车领域达成的谅解是对等互利的，是基于双方在世贸组织规则框架下强调并确认的三大原则，也就是全流程合规、尊重事实和非歧视。有关共识有力维护了中国企业的实际利益，避免了中欧贸易摩擦局面升级。这充分说明，中欧通过基于规则的共识而进行了磋商，不仅能够解决问题，而且会深化互利合作，推动中欧贸易向上平衡、向前发展。\n(总台央视记者 陈茜)\n国内新闻精选：\n- 2026年10月15日 11:00:15\n- 2026年10月15日 09:08:17\n- 2026年10月14日 21:06:01\n- 2026年10月14日 12:10:08\n- 2026年10月14日 12:07:46\n- 2026年10月14日 10:13:11\n- 2026年10月14日 09:08:24\n- 2026年10月13日 16:06:00\n- 2026年10月13日 13:58:53\n- 2026年10月13日 13:31:45",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧经贸",
+    "新能源汽车",
+    "世贸组织规则",
+    "贸易摩擦"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸",
+      "name_en": "China-EU Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世贸组织规则",
+      "name_en": "WTO Rules"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易摩擦",
+      "name_en": "Trade Friction"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中欧经贸",
+    "新能源汽车",
+    "世贸组织规则",
+    "贸易摩擦"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "China-EU Trade",
+    "New Energy Vehicles",
+    "WTO Rules",
+    "Trade Friction"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "何亚东"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261015-chinanews_gn-a12d05",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_yang_zi_wan_bao_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://www.yzwb.net/news/txs/202610/t20261015_402743.html",
+      "title_zh": "商务部：中欧双方在混动汽车领域达成的谅解是对等互利的",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

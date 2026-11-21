@@ -1,0 +1,105 @@
+{
+  "id": "20261104-gov_cn_yaowen-d078d5",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/04/VIDEwOnZwEop8KG1kaK26OKk261104.shtml",
+  "title_zh": "李强会见世界知识产权组织总干事",
+  "title_en": "Li Qiang Meets WIPO Director General Daren Tang",
+  "summary_zh": "11月4日，国务院总理李强在北京会见世界知识产权组织总干事邓鸿森，双方就深化知识产权合作、全球知识产权治理交换意见。",
+  "summary_en": "On November 4, Premier Li Qiang met in Beijing with WIPO Director General Daren Tang, with the two sides exchanging views on deepening intellectual property cooperation and global IP governance.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强4日在京会见世界知识产权组织总干事邓鸿森。\n李强表示，近年来，中国和世界知识产权组织开展了富有成效的合作。当前，世界经济增长乏力，知识产权的价值愈发凸显。中方愿同世界知识产权组织一道，推动双方合作不断走深走实，促进知识产权国际合作，为世界创新发展作出更大贡献。中方愿在全球知识产权治理中发挥更大作用，建设性参与全球知识产权服务体系现代化改革进程，开展面向全球南方国家的能力建设合作。希望世界知识产权组织继续支持中国知识产权事业发展。\n邓鸿森表示，世界知识产权组织期待同中方深化合作，推进“一带一路”合作，落实全球发展倡议、全球文明倡议，促进科技创新和经济发展。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "知识产权",
+    "国际合作",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "知识产权",
+      "name_en": "Intellectual Property"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "知识产权",
+    "国际合作",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Intellectual Property",
+    "International Cooperation",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "邓鸿森"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261104-gov_cn_yaowen-d078d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085014.htm",
+      "title_zh": "李强会见世界知识产权组织总干事邓鸿森",
+      "published_at": "2026-11-04T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

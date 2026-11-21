@@ -1,0 +1,110 @@
+{
+  "id": "20260520-cpcnews-05b765",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://politics.people.com.cn/n1/2026/0521/c1024-40724111.html",
+  "title_zh": "习近平同俄罗斯总统普京茶叙",
+  "title_en": "Xi Jinping Holds Tea Meeting with Russian President Vladimir Putin",
+  "summary_zh": "2026年5月20日晚，国家主席习近平在北京人民大会堂同俄罗斯总统普京举行茶叙，双方就推进中俄全面战略协作伙伴关系达成新共识。",
+  "summary_en": "On the evening of May 20, 2026, President Xi Jinping held a tea meeting with Russian President Vladimir Putin at the Great Hall of the People in Beijing, reaching new consensuses on the China-Russia comprehensive strategic partnership.",
+  "body_zh": "习近平同俄罗斯总统普京茶叙\n新华社北京5月20日电 （记者孙奕）5月20日晚，国家主席习近平在北京人民大会堂同俄罗斯总统普京举行茶叙。\n习近平指出，多年来，我同普京总统保持频密交往，共同引领中俄新时代全面战略协作伙伴关系持续走深走实，推动两国睦邻友好更加深入人心，开创了相互尊重、公平正义、合作共赢的新型大国关系范式，为变乱交织的世界持续注入宝贵的稳定性。今天我同普京总统又就推进中俄全面战略协作伙伴关系达成新的重要共识。为者常成，行者常至。相信在双方不懈努力下，中俄关系一定会延续高质量发展态势，竿头日进，更上层楼。\n普京表示，此访务实高效、成果丰硕。我同习近平主席共同回顾了俄中关系的发展历程，就广泛议题深入交换意见，明确了下一步两国合作方向，有利于确保俄中关系始终保持蓬勃发展势头。俄方期待继续同中方保持密切沟通，加强战略协调，以俄中关系的确定性、稳定性为世界和平繁荣作出新贡献。\n两国元首还就乌克兰危机等问题交换了意见。\n蔡奇、王毅参加。\n《 人民日报 》（ 2026年05月21日 01 版）",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "全面战略协作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "普京",
+      "name_en": "Vladimir Putin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略协作伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership of Coordination"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "cai-qi",
+      "name_zh": "蔡奇",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "普京",
+    "北京",
+    "中俄关系",
+    "全面战略协作伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Vladimir Putin",
+    "Beijing",
+    "China-Russia Relations",
+    "Comprehensive Strategic Partnership of Coordination"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-qi",
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260520-cpcnews-05b765",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-05/21/content_9392380.html",
+      "title_zh": "习近平同俄罗斯总统普京茶叙",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

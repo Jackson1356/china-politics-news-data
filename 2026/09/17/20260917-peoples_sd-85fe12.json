@@ -1,0 +1,83 @@
+{
+  "id": "20260917-peoples_sd-85fe12",
+  "source": "peoples_sd",
+  "source_name_zh": "人民网 山东",
+  "source_name_en": "People's Daily Shandong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sd.people.com.cn/n2/2026/0917/c166192-41698790.html",
+  "title_zh": "全国首个“熔盐储能+二氧化碳发电”项目在山东开工",
+  "title_en": "China's First Molten Salt Storage Plus CO2 Power Generation Project Breaks Ground in Shandong",
+  "summary_zh": "9月16日，全国首个熔盐储能与二氧化碳发电结合项目“睿碳号”在华能山东八角电厂开工，标志我国在该融合领域进入实体工程建设阶段。",
+  "summary_en": "On Sept 16, China's first project combining molten salt energy storage with CO2 power generation, the \"Ruitan Hao\" project, broke ground at Huaneng Shandong's Bajiao Power Plant, marking a step into physical construction.",
+  "body_zh": "全国首个“熔盐储能+二氧化碳发电”项目在山东开工\n9月16日，我国首个将熔盐储能与二氧化碳发电结合的项目——“睿碳号”项目，在华能山东发电有限公司八角电厂开工。作为国家科技重大专项“二氧化碳‘热力电池’关键技术开发与工程示范”的载体工程，其开工标志着我国在二氧化碳发电与新型储能融合领域进入实体工程建设阶段。\n“睿碳号”项目由熔盐储能系统、超临界二氧化碳循环发电系统、蒸汽发生系统三部分组成，将全面提升煤电机组调峰、调频和供热保障能力，最大程度提高能源综合利用效率。项目经理王林介绍，用电低谷时，利用火电机组富余电能加热熔盐储存热能；用电高峰时，高温熔盐释放热量加热二氧化碳驱动发电机发电，余热再进入蒸汽发生系统对外供热、供汽，实现储能、发电、供热、供汽一体化。\n“与传统火电机组主要靠水蒸气推动设备发电不同，超临界二氧化碳发电机组具有效率更高、体积更小、灵活性更强等优势。”华能八角电厂党委书记、执行董事柯波介绍，项目以超临界二氧化碳作为循环工质驱动机组发电，不仅可实现0至100%负荷连续平滑调节，响应调峰速度是传统蒸汽机组的4倍以上，还因设备紧凑、近零水耗，在密集空间、沙戈荒等特殊应用场景具有独特优势。\n柯波认为，“睿碳号”项目的落地对我国抢占全球先进动力循环技术制高点、加快建设新型能源体系意义重大，将为全球能源低碳转型、提升可再生能源消纳能力提供中国样本。同时还可推进压缩机、二氧化碳透平、印刷电路板换热器、干气密封等关键核心设备国产化迭代，带动相关技术装备产业链整体进步。\n据了解，“睿碳号”项目首期建设1台50兆瓦超临界二氧化碳发电机组，配套100兆瓦/400兆瓦时熔盐储能系统，计划2027年投产。（刘童 从春龙 潘燕 孙凯丽）",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "industry",
+  "keywords": [
+    "熔盐储能",
+    "二氧化碳发电",
+    "新型能源体系"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "熔盐储能",
+      "name_en": "Molten Salt Energy Storage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二氧化碳发电",
+      "name_en": "CO2 Power Generation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型能源体系",
+      "name_en": "New Energy System"
+    }
+  ],
+  "tags_zh": [
+    "山东",
+    "熔盐储能",
+    "二氧化碳发电",
+    "新型能源体系"
+  ],
+  "tags_en": [
+    "Shandong",
+    "Molten Salt Energy Storage",
+    "CO2 Power Generation",
+    "New Energy System"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-peoples_sd-85fe12",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "20260819-gov_cn_yaowen-ec2405",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078668.htm",
+  "title_zh": "王毅将访问韩国、印尼",
+  "title_en": "Wang Yi to Visit South Korea and Indonesia",
+  "summary_zh": "外交部发言人19日宣布，应韩国外长赵显、印尼外长苏吉约诺邀请，王毅将于8月19日至22日访问韩国、印尼，并主持中印尼全面战略对话机制首次会议。",
+  "summary_en": "Foreign Ministry spokesman announced on Aug 19 that Wang Yi will visit South Korea and Indonesia from Aug 19 to 22 at the invitation of their foreign ministers, and will chair the first meeting of the China-Indonesia Comprehensive Strategic Dialogue.",
+  "body_zh": "新华社北京8月19日电 外交部发言人19日宣布：应韩国外长赵显、印尼外长苏吉约诺邀请，中共中央政治局委员、外交部长王毅将于8月19日至22日访问韩国、印尼。访问印尼期间，王毅将主持中国印尼全面战略对话机制首次会议，与国防部长董军共同出席中印尼外长防长“2＋2”对话机制第二次部长级会议。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交访问",
+    "全面战略对话",
+    "2+2对话"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "韩国",
+      "name_en": "South Korea"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "印尼",
+      "name_en": "Indonesia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略对话",
+      "name_en": "Comprehensive Strategic Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "2+2对话",
+      "name_en": "2+2 Dialogue"
+    },
+    {
+      "kind": "person",
+      "id": "dong-jun",
+      "name_zh": "董军",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王毅将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "韩国",
+    "印尼",
+    "外交访问",
+    "全面战略对话",
+    "2+2对话",
+    "董军",
+    "王毅将"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "South Korea",
+    "Indonesia",
+    "Diplomatic Visit",
+    "Comprehensive Strategic Dialogue",
+    "2+2 Dialogue"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "dong-jun",
+      "dong-jun-defense",
+      {
+        "id": null,
+        "name_zh": "王毅将"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260819-gov_cn_yaowen-ec2405",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

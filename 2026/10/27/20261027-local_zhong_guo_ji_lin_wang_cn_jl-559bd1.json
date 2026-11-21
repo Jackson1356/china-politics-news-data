@@ -1,0 +1,96 @@
+{
+  "id": "20261027-local_zhong_guo_ji_lin_wang_cn_jl-559bd1",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gnyw/202610/4093439.html",
+  "title_zh": "国家统计局：1至9月全国规模以上工业企业利润同比增长15.5%",
+  "title_en": "NBS: China's Industrial Profits Up 15.5% Year-on-Year in First Nine Months",
+  "summary_zh": "国家统计局10月27日发布数据，1至9月全国规模以上工业企业利润同比增长15.5%，高技术制造业利润增长52.0%，产业结构向新、向优升级。",
+  "summary_en": "The National Bureau of Statistics said on Oct 27 that profits at China's major industrial firms rose 15.5% year-on-year in the first nine months of 2026, with high-tech manufacturing profits up 52.0% as the industrial mix upgrades.",
+  "body_zh": "央视网消息：国家统计局10月27日发布数据：1至9月份，全国规模以上工业企业利润同比增长15.5%；今年前三季度，我国工业生产稳中有进，随着一系列更加积极有为的宏观政策落地显效，全国规模以上工业企业利润实现较快增长。\n数据显示，1—9月份，全国规模以上工业企业利润同比增长15.5%，共实现利润总额60337.4亿元。其中，采矿业、制造业利润分别增长38.2%和17.0%。\n新动能对工业企业效益的引领作用更为明显。规模以上高技术制造业利润1—9月份同比增长52.0%，占全部规模以上工业企业利润比重超四分之一。从行业看，算力与数据中心建设带动光纤制造、光缆制造行业利润同比分别增长5.7倍和1.1倍。\n电子行业对利润增长贡献显著。今年，产业升级与技术迭代不断推进，电子行业发展动能持续释放。1—9月份，电子行业利润同比增长1.0倍，是规模以上工业企业利润较快增长的重要支撑。从细分行业看，新一代信息技术加速发展，AI算力、先进存储等领域需求增加，带动光电子器件制造、电子专用材料制造利润同比分别增长69.8%和2.2倍。\n国家发展改革委产业经济与技术经济研究所工业室主任徐建伟介绍称，随着转型发展加快，整个产业结构都在向新、向优、向好升级，高技术制造业、新兴产业占比不断提高，价值链中高端环节突破，发展的成效非常显著，对产业增效益形成有效推动。\n初审：  郭龙\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "economy",
+  "keywords": [
+    "工业企业利润",
+    "高技术制造业",
+    "产业结构升级"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业企业利润",
+      "name_en": "Industrial Enterprise Profits"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术制造业",
+      "name_en": "High-tech Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业结构升级",
+      "name_en": "Industrial Upgrading"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "工业企业利润",
+    "高技术制造业",
+    "产业结构升级"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Industrial Enterprise Profits",
+    "High-tech Manufacturing",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐建伟"
+      }
+    ],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261027-local_zhong_guo_ji_lin_wang_cn_jl-559bd1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": 3,
+      "url": "https://www.dzwww.com/xinwen/guoneixinwen/202610/t20261027_18244444.htm",
+      "title_zh": "从利润增长15.5%透视工业生产稳中有进 产业结构向新、向优、向好升级_时政新闻_大众网",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

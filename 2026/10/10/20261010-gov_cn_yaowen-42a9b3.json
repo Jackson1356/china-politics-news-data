@@ -1,0 +1,105 @@
+{
+  "id": "20261010-gov_cn_yaowen-42a9b3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082920.htm",
+  "title_zh": "《国家残疾预防行动计划（2026—2030年）》印发",
+  "title_en": "China Issues National Disability Prevention Action Plan (2026-2030)",
+  "summary_zh": "经国务院同意，国务院残疾人工作委员会近日印发《国家残疾预防行动计划（2026—2030年）》，明确18项主要指标、6大行动和19条任务举措，提出到2030年完善残疾预防政策和防控网络。",
+  "summary_en": "With State Council approval, the State Council Working Committee on Disability has issued the National Disability Prevention Action Plan (2026-2030), setting 18 key indicators, six major actions and 19 task measures to improve prevention systems by 2030.",
+  "body_zh": "记者10月10日获悉，经国务院同意，国务院残疾人工作委员会近日印发《国家残疾预防行动计划（2026—2030年）》，明确了“十五五”时期我国残疾预防工作的指导思想、主要指标、主要行动、专栏项目和组织实施。\n行动计划明确18项主要指标、6大主要行动和19条任务举措；提出到2030年，残疾预防政策体系和防控网络更加完善，全社会残疾预防意识显著增强，重点领域主要致残因素得到有效控制，残疾风险综合防控能力进一步提升，为健康中国建设、人口高质量发展和残疾人事业全面发展提供坚实支撑。\n记者：魏冠宇\n海报制作：魏冠宇\n新华社国内部出品",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-10",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "welfare",
+  "keywords": [
+    "残疾预防",
+    "健康中国",
+    "民生保障",
+    "公共卫生"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院残疾人工作委员会",
+      "name_en": "State Council Working Committee on Disability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "残疾预防",
+      "name_en": "Disability Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康中国",
+      "name_en": "Healthy China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "People's Livelihood"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共卫生",
+      "name_en": "Public Health"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "国务院残疾人工作委员会",
+    "残疾预防",
+    "健康中国",
+    "民生保障",
+    "公共卫生"
+  ],
+  "tags_en": [
+    "State Council",
+    "State Council Working Committee on Disability",
+    "Disability Prevention",
+    "Healthy China",
+    "People's Livelihood",
+    "Public Health"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国务院残疾人工作委员会",
+        "name_en": "State Council Working Committee on Disability"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261010-gov_cn_yaowen-42a9b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20261121-local_zhong_guo_ji_lin_wang_cn_jl-b54df5",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gj/202611/4100469.html",
+  "title_zh": "国际人士：中俄美元首会晤为维护全球战略稳定提出合作路径",
+  "title_en": "International Figures: China-Russia-US Leaders' Summit Offers Cooperation Path for Global Strategic Stability",
+  "summary_zh": "多国智库人士评价中俄美元首在深圳的会晤，认为习近平提出的四点看法为维护全球战略稳定提供了现实合作路径。",
+  "summary_en": "Think tank experts from Indonesia, Russia, Thailand and elsewhere praised the China-Russia-US summit in Shenzhen, saying Xi Jinping's four-point proposal offers a realistic path to global strategic stability.",
+  "body_zh": "印尼雅加达伦敦公共关系学院中国研究中心顾问 里诺：习近平主席、普京总统和特朗普总统能够齐聚一堂，本身就具有重要意义，也向国际社会释放了积极信号。努力缓和国际局势十分重要，国际社会应予以支持。\n莫斯科国际关系学院外交教研室主任 巴尔斯基：中俄美三国就大国责任达成一致，包括对世界未来的责任，核战争打不赢也打不得。三位领导人还达成了一些共识，认为有必要在某些领域开展合作。期待这次会晤会成为后续行动的基础。\n泰国亚太智库主任 威伦·披差翁帕迪：习近平主席指出，“大国和则世界安，大国斗则世界乱”。这句话深刻揭示了大国关系与世界和平之间的紧密联系。习近平主席提出的坚持相互尊重、坚持和平共处、坚持合作共赢、坚持对话协商4点看法，不仅为中俄美三国正确相处提供了重要思路，也为维护全球战略稳定提出了具有现实意义的合作路径。\n墨西哥韦拉克鲁斯大学人类命运共同体研究中心主任 阿尼巴尔·卡洛斯·索特雷：我相信，在深圳举行的这次三国元首会晤将为国际局势发展带来新的合作契机。面对国际局势种种不确定性，中国展现出推动建立和平解决冲突机制的强大能力，也推动全球南方国家在多边合作中发挥越来越重要的作用。世界上很多国家的人民都希望以此次会晤为契机，让各国在面对重大分歧时，能以新的角度看待外交关系，并将这一理念付诸实践。\n南非全球南方新闻网首席执行官 艾比·马科：我认为习近平主席就大国正确相处提出的4点看法，相互关联、互为支撑、相辅相成，最终目标就是维护世界和平，为全球和平发展营造稳定环境。习近平主席倡导对话协商、相互尊重，倡导大国在平等基础上开展对话，各方彼此尊重，都是对话中平等的参与者，这是习近平主席提出的适用于当代国际关系的良方。",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "大国关系",
+    "全球战略稳定",
+    "对话协商"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大国关系",
+      "name_en": "Major-Country Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球战略稳定",
+      "name_en": "Global Strategic Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对话协商",
+      "name_en": "Dialogue and Consultation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "大国关系",
+    "全球战略稳定",
+    "对话协商"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Major-Country Relations",
+    "Global Strategic Stability",
+    "Dialogue and Consultation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261121-local_zhong_guo_ji_lin_wang_cn_jl-b54df5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://www.scol.com.cn/zlts_ss/202611/83360980.html",
+      "title_zh": "国际人士：中俄美元首会晤为维护全球战略稳定提出合作路径",
+      "published_at": "2026-11-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

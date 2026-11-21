@@ -1,0 +1,105 @@
+{
+  "id": "20261016-gov_cn_yaowen-13e006",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083464.htm",
+  "title_zh": "我国智能粮仓建设取得显著成效",
+  "title_en": "China's Smart Grain Silo Construction Achieves Notable Results",
+  "summary_zh": "2026年秋粮旺季收购期间，国家粮食和物资储备局数据显示全国累计收购中晚稻1800万吨，同比增加160万吨，全国标准仓房完好仓容达7.3亿吨。",
+  "summary_en": "During the autumn grain purchasing season, the National Food and Strategic Reserves Administration reported 18 million tonnes of mid-late rice purchased, up 1.6 million tonnes year on year, with完好 warehouse capacity reaching 730 million tonnes nationwide.",
+  "body_zh": "目前，各地秋粮旺季收购正有序展开，一大批现代化智能粮仓投入使用，保障粮食安全。\n国家粮食和物资储备局最新发布数据显示，截至目前，全国各类粮食经营主体累计收购中晚稻1800万吨，同比增加160万吨。在中储粮秦皇岛直属库海港分库，今年新投入使用28个仓房。工作人员正在实时监测全库区80多万吨的粮食，粮仓内500多个测温点实时将粮堆不同点位的温度传送到粮食仓储智慧管控平台。\n目前，全国粮食标准仓房完好仓容已达到7.3亿吨，特别是粮食仓储技术方面，我国已达到世界先进水平。在广州黄埔区，今年8月建成投运的这个国有粮库采用包装粮食和散装粮食结合的楼房仓结构，较传统仓型仓容提升约80%。同时，通过氮气气调、准低温储粮等技术，储粮能耗降低约20%。\n“十五五”时期，我国将持续推动高标准粮仓建设和现有仓房升级改造，建设100个以上绿色储粮技术集成应用示范点，覆盖全国7个储粮生态区。此外，我国还将深入实施全谷物行动计划，推进谷物适度加工，把节粮减损从粮仓延伸到餐桌。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "智能粮仓",
+    "绿色储粮"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE-QHD",
+      "name_zh": "秦皇岛",
+      "name_en": "Qinhuangdao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能粮仓",
+      "name_en": "Smart Grain Silos"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色储粮",
+      "name_en": "Green Grain Storage"
+    }
+  ],
+  "tags_zh": [
+    "国家粮食和物资储备局",
+    "秦皇岛",
+    "广州",
+    "粮食安全",
+    "智能粮仓",
+    "绿色储粮"
+  ],
+  "tags_en": [
+    "National Food and Strategic Reserves Administration",
+    "Qinhuangdao",
+    "Guangzhou",
+    "Food Security",
+    "Smart Grain Silos",
+    "Green Grain Storage"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HE-QHD",
+      "CN-GD-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_cn_yaowen-13e006",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

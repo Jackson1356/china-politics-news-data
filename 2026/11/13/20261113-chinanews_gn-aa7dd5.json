@@ -1,0 +1,86 @@
+{
+  "id": "20261113-chinanews_gn-aa7dd5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-13/10731540.shtml",
+  "title_zh": "中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发",
+  "title_en": "Chinese Team Reveals Brain's Real-Time 3D Spatial Navigation System, Boosting Next-Generation Brain-Computer Interfaces",
+  "summary_zh": "中国科学院自动化研究所11月13日发布消息，余山团队通过猕猴实验揭示大脑运动皮层存在三维手位置表征，为新一代脑机接口提供神经科学基础。",
+  "summary_en": "The CAS Institute of Automation said on Nov 13 that Yu Shan's team found macaque motor cortex explicitly encodes real-time 3D hand position, offering a neural basis for next-generation brain-computer interfaces.",
+  "body_zh": "中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发\n中国科学院自动化研究所11月13日向媒体发布消息说，该所脑图谱与类脑智能实验室主任余山研究员团队最近在这方面取得突破性进展，他们通过灵长类动物实验研究，揭示了猕猴大脑初级运动皮层(M1，负责运动执行)和背侧前运动皮层(PMd，负责运动规划)中存在显式的三维空间手位置表征。\n该研究发现，大脑不仅编码“怎么动”，还维护着一张类似全球定位系统(GPS)的“动态三维手位置地图”，特别是仅用数十个编码位置的神经元，就能精确解码三维手部轨迹，从而为更高效的新一代脑机接口研发提供了坚实的底层神经科学原理。相关成果论文近日在国际专业学术期刊《神经科学杂志》(Journal of Neuroscience)发表。\n两个脑区导航分工\n研究团队介绍，在以往的大脑运动皮层研究中，相关实验往往将猕猴的运动范围限于少量离散位置，导致手的位置和运动方向高度相关，不容易分辨神经元究竟在编码什么。\n为解开这个难题，本项研究设计了一个无约束的三维抓取任务，猕猴可完全自由决定何时伸手、伸向何处，使得同一空间位置可以被不同轨迹、不同方向反复经过，从而在统计上自然解耦了“位置”与“方向”。\n研究团队在猕猴左侧的PMd和M1植入微电极阵列，记录单神经元放电，通过对三维空间运动过程中细胞放电率的计算，发现M1中有36.2%、PMd中有21.3%的神经元对手的实时位置有编码。这意味着，负责规划运动的PMd以及发出运动执行指令的M1，都直接表征着手在空间中的位置。\n进一步分析显示，这些神经元的位置编码方式并非早期研究认为的“线性梯度”，而是呈现为局域化的“拉长的椭球体”，三维高斯模型显著优于平面梯度模型的拟合结果。\n更特别的是，M1和PMd这两张“地图”的组织方式截然不同：M1的位置场系统性地沿空间主轴(前后、上下、左右)排列，并呈现出多尺度聚集的特征(如同城市有街区、街区有建筑)；PMd的位置场方向更分散，分布更接近随机。\n研究团队推测，这种差异可能反映了两个脑区在运动控制中的不同分工，M1可能需要为精细手部控制提供专门坐标框架，而PMd参与更高层运动规划，表征结构更加抽象。\n印证大脑编码高效\n研究团队认为，对脑机接口而言，本项研究最具直接价值的结果来自解码实验，即分别以全部细胞、位置细胞、随机抽取同等数量非位置细胞这三组神经元解码手运动的三维轨迹。\n实验数据显示，在PMd中，仅占记录细胞17.7%的位置细胞，达到全群体解码性能的94.1%；在M1中，占32.8%的位置细胞，达到92.9%的性能。进一步分析表明，要达到全群体90%的解码性能，PMd仅需约2.8个位置调谐细胞，M1仅需约16.4个。这些结果印证了大脑编码的极高效率，“少而精”的神经元群即可支撑高精度的空间解码。\n同时，研究团队还发现大脑运动皮层中也存在对于抓取目标位置的编码，说明同样的一套“导航地图”，不仅可以用于解码运动轨迹，还可以直接解码运动目标的位置，这为直接解码运动位置、实现“所想即所得”的脑机接口提供了理论支撑。\n解码复杂时空信息\n论文第一作者、中国科学院自动化研究所博士曹盛浩表示，本项研究表明，相较于繁琐的执行过程，大脑皮层更擅长宏观的意图规划。脑机接口若能直接提取这些规划好的轨迹，不仅能让外部设备的控制更顺滑，还能大幅降低对硬件通道的依赖。\n论文通讯作者余山研究员指出，脑机接口未来的发展，需要不断从神经科学的底层突破中获得助力，“我们对大脑理解的越深，脑机接口的效能就可以发挥得越好”。\n据悉，作为余山团队在大脑运动皮层空间编码领域的系列成果之一，最新发表论文是该团队在2025年于PMd中首次发现手位置场相关研究基础上，将研究从PMd扩展到M1+PMd，并对三维空间中的位置编码组织方式进行系统解析，完成从运动规划脑区到规划+执行双脑区、从平面位置编码到三维空间表征的关键跨越。\n研究团队透露，后续将进一步探索PMd的时空维度，有望将“空间编码”升级为“时空编码”，即解析一条运动轨迹中包含过去、当下和未来的手位置。如果能解码这些复杂的时空信息，脑机接口设备将能理解大脑规划好的完整行动方案，从而更加高效地执行。(完)\n国内新闻精选：\n- 2026年11月13日 16:23:35\n- 2026年11月13日 15:08:35\n- 2026年11月12日 16:26:45\n- 2026年11月12日 15:43:54\n- 2026年11月12日 15:20:47\n- 2026年11月12日 10:56:01\n- 2026年11月11日 20:04:08\n- 2026年11月11日 07:00:01\n- 2026年11月10日 22:03:06\n- 2026年11月10日 15:38:19",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "industry",
+  "keywords": [
+    "脑机接口",
+    "神经科学",
+    "三维空间编码"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国科学院自动化研究所",
+      "name_en": "Institute of Automation, Chinese Academy of Sciences"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "脑机接口",
+      "name_en": "Brain-Computer Interface"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "神经科学",
+      "name_en": "Neuroscience"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三维空间编码",
+      "name_en": "3D Spatial Encoding"
+    }
+  ],
+  "tags_zh": [
+    "中国科学院自动化研究所",
+    "脑机接口",
+    "神经科学",
+    "三维空间编码"
+  ],
+  "tags_en": [
+    "Institute of Automation, Chinese Academy of Sciences",
+    "Brain-Computer Interface",
+    "Neuroscience",
+    "3D Spatial Encoding"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国科学院自动化研究所",
+        "name_en": "Institute of Automation, Chinese Academy of Sciences"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261113-chinanews_gn-aa7dd5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

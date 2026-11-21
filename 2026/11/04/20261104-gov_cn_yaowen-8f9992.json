@@ -1,0 +1,92 @@
+{
+  "id": "20261104-gov_cn_yaowen-8f9992",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085027.htm",
+  "title_zh": "前三季度农业农村发展保持良好势头",
+  "title_en": "Agricultural and Rural Development Maintains Sound Momentum in First Three Quarters",
+  "summary_zh": "11月4日，农业农村部介绍前三季度农业农村发展保持良好势头，粮食有望再获丰收，农村居民人均可支配收入达18809元。",
+  "summary_en": "On November 4, the Ministry of Agriculture and Rural Affairs reported that China's agricultural and rural development maintained sound momentum in the first three quarters, with another bumper grain harvest expected and rural per capita disposable income reaching 18,809 yuan.",
+  "body_zh": "记者今天（11月4日）从农业农村部了解到，前三季度，我国农业农村发展保持良好势头，为国民经济延续总体平稳、向新向优态势提供有力支撑。\n今年，我国粮食有望再获丰收。夏粮首次突破3000亿斤，创历史新高。早稻连续6年稳定在560亿斤以上。目前，秋粮收获已过九成，全年粮食产量有望连续3年保持在1.4万亿斤以上。\n今年是常态化帮扶的第一年，常态化帮扶稳健开局。截至9月底，全国共有防止返贫致贫对象270多万人，均已落实针对性帮扶措施，牢牢守住了不发生规模性返贫致贫底线。\n前三季度，宜居宜业和美乡村建设扎实推进。全国规模以上农副食品加工业增加值同比增长4.6%；休闲旅游、科普研学等乡村体验式消费新场景不断涌现，有效激发乡村消费活力。乡村建设有序推进，农村人居环境持续改善。\n农业农村发展活力持续增强。全面开展第二轮土地承包到期后再延长30年整省试点，目前全国已签订合同3000多万份。农民收入稳步增长，前三季度农村居民人均可支配收入达18809元，实际增长5.6%。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "乡村振兴",
+    "防止返贫",
+    "农民增收"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防止返贫",
+      "name_en": "Preventing Return to Poverty"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农民增收",
+      "name_en": "Rural Income Growth"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "粮食安全",
+    "乡村振兴",
+    "防止返贫",
+    "农民增收"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Food Security",
+    "Rural Revitalization",
+    "Preventing Return to Poverty",
+    "Rural Income Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261104-gov_cn_yaowen-8f9992",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

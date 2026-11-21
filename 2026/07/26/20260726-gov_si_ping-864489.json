@@ -1,0 +1,91 @@
+{
+  "id": "20260726-gov_si_ping-864489",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/sj_1/zyhd/202607/t20260726_771810.html",
+  "title_zh": "王相民主持召开市委常委会会议 传达学习习近平总书记重要讲话精神",
+  "title_en": "Wang Xiangmin Presides over Standing Committee Meeting of Siping Municipal CPC Committee",
+  "summary_zh": "7月24日，四平市委书记王相民主持召开市委常委会会议，传达学习习近平总书记重要讲话精神，研究部署科技创新工作。",
+  "summary_en": "On July 24, Siping Municipal Party Secretary Wang Xiangmin presided over a standing committee meeting to convey and study the spirit of President Xi Jinping's important speech on science and technology innovation.",
+  "body_zh": "市直\n区县\n四平市发展和改革委员会\n四平市教育局\n四平市科学技术局\n四平市工业和信息化局\n四平市民族事务委员会(宗教事务局)\n四平市公安局\n四平市民政局\n四平市司法局\n四平市财政局\n四平市人力资源和社会保障局\n四平市自然资源局\n四平市生态环境局\n四平市住房和城乡建设局\n四平市交通运输局\n四平市水利局\n四平市农业农村局\n四平市商务局\n四平市文化广播电视和旅游局(市体育局)\n四平市卫生健康委员会\n四平市应急管理局\n四平市市场监督管理局\n四平市粮食和物资储备局\n四平市国防动员办公室\n四平市政务服务和数字化建设管理局\n四平市林业局\n2026-07-27\n7月24日，市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的重要讲话精神，研究我市贯彻落实意见。\n会议指出，习近平总书记的重要讲话立足强国建设、民族复兴战略全局，明确了实现高水平科技自立自强的核心任务，擘画了新时代科技创新宏伟蓝图，为抓好科技工作、赋能经济社会高质量发展提供了根本遵循和行动指南。四平作为老工业基地城市，要打好打赢四平经济攻坚战、荣誉保卫战，实现传统产业转型升级、新兴产业和未来产业占据一席之地，必须深刻把握科技创新的政治性、战略性、基础性地位，主动对标党中央、省委部署要求，推动习近平总书记重要讲话精神落地生根、开花结果。要强化政治引领，始终把党的全面领导贯穿科技创新工作全过程各方面，心怀“国之大者”，扛牢主体责任，履职尽责、主动作为，强化协同联动，自觉把地方科技工作融入国家、全省发展大局，凝聚全域科创强大合力。要聚力产业赋能，坚持把科技创新作为服务实体经济的重要抓手，立足现有产业基础、资源禀赋，统筹推进产学研协同攻关、重点领域关键技术攻关，健全科技成果落地转化机制，加快培育壮大新质生产力，推动创新链产业链深度融合。要厚植人才生态，大力弘扬科学家精神，坚持引育并重，深化科技评价改革，健全人才激励保障机制，筑牢科创发展坚实支撑。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-07-26T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "party",
+  "keywords": [
+    "科技创新",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Science and Technology Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四平",
+    "科技创新",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Siping",
+    "Science and Technology Innovation",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260726-gov_si_ping-864489",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_si_ping",
+      "source_tier": 4,
+      "url": "http://www.siping.gov.cn/zw/spdt/202607/t20260726_771808.html",
+      "title_zh": "市直",
+      "published_at": "2026-07-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

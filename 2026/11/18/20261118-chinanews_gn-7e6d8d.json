@@ -1,0 +1,104 @@
+{
+  "id": "20261118-chinanews_gn-7e6d8d",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-18/10734382.shtml",
+  "title_zh": "香港与智利在APEC会议期间签署协议 促两地青年交流",
+  "title_en": "Hong Kong and Chile Sign Agreement on Sidelines of APEC to Boost Youth Exchange",
+  "summary_zh": "11月18日，香港与智利在深圳举行的APEC领导人非正式会议期间签署“工作假期计划”协议，李家超与智利总统卡斯特共同见证。",
+  "summary_en": "On Nov 18, Hong Kong and Chile signed a working holiday scheme agreement in Shenzhen during the APEC Economic Leaders' Meeting, witnessed by John Lee and Chilean President Kast.",
+  "body_zh": "（深圳APEC）香港与智利在APEC会议期间签署协议 促两地青年交流\n中新社深圳11月18日电 18日，香港与智利于亚太经合组织(APEC)第三十三次领导人非正式会议期间在深圳签署协议，设立让两地青年参与的“工作假期计划”，增进彼此了解、促进人文交流。\n当天，在香港特区行政长官李家超与智利总统卡斯特的共同见证下，香港特区政府劳工及福利局局长孙玉菡与智利外长佩雷斯签署上述协议。\n根据该“工作假期计划”，香港青年和智利青年申请签证后，可在智利和香港逗留最多12个月。其间，他们可从事短期工作以赚取旅费，或修读短期课程。双方每年各有100个名额。\n孙玉菡说，智利是香港在拉丁美洲的首个“工作假期计划”合作伙伴。该计划将为香港和智利青年提供开拓视野的机会，让他们亲身体验在不同文化中生活和工作。\n佩雷斯表示，香港是东西方文化交融之地，拥有国际化的视野和充满活力的经济，将为智利青年带来丰富体验。他期待香港青年来智利探索当地文化、民风和风光，从而增进两地对彼此的了解，促进人文交流。\n智利是香港的第15个“工作假期计划”伙伴。自2001年至今，已有超过10.9万名香港青年参与相关计划。(完)\n国内新闻精选：\n- 2026年11月19日 14:03:39\n- 2026年11月19日 12:04:43\n- 2026年11月19日 10:41:32\n- 2026年11月19日 10:07:26\n- 2026年11月19日 06:03:33\n- 2026年11月18日 22:55:01\n- 2026年11月18日 22:22:48\n- 2026年11月18日 21:52:08\n- 2026年11月18日 20:01:36\n- 2026年11月18日 09:52:37",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "工作假期计划",
+    "青年交流",
+    "亚太经合组织"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工作假期计划",
+      "name_en": "Working Holiday Scheme"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年交流",
+      "name_en": "Youth Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "雷斯",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "香港",
+    "工作假期计划",
+    "青年交流",
+    "亚太经合组织",
+    "雷斯"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "Hong Kong",
+    "Working Holiday Scheme",
+    "Youth Exchange",
+    "APEC"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "雷斯"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ",
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261118-chinanews_gn-7e6d8d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

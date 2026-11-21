@@ -1,0 +1,110 @@
+{
+  "id": "20260824-gov_yue_yang-7ded73",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2395261.html",
+  "title_zh": "2026年第3期巴陵大讲堂举行",
+  "title_en": "2026 3rd Baling Forum Held",
+  "summary_zh": "8月22日，2026年第3期巴陵大讲堂在岳阳举行，行云集团董事长王维作人工智能与Token经济专题讲座，岳阳市委书记谢卫江等出席。",
+  "summary_en": "On August 22, the 3rd Baling Forum of 2026 was held in Yueyang. Wang Wei, chairman of Xingyun Group, gave a lecture on AI and Token economy, attended by Yueyang Party Secretary Xie Weijiang and others.",
+  "body_zh": "8月22日，2026年第3期巴陵大讲堂在岳阳文化艺术会展中心举行。行云集团创始人、董事长，行云科技实控人王维应邀作专题讲座。省委副书记、岳阳市委书记谢卫江，市委副书记、代理市长唐浩然，市政协主席汪涛出席。\n讲座中，王维立足全球科技前沿，围绕Token 经济与人工智能未来形势，深刻剖析了Token 经济的增长逻辑、AI 行业演进趋势，并现场模拟人工智能体的运行，以具体案例全面解读了人工智能对社会经济结构带来的深层影响。讲座高度融合岳阳发展实际，提出了算力资源储备、核心技术壁垒构建等务实举措，现场答疑解惑，为我市深刻认识AI 时代特征、抢抓历史机遇提供了有益借鉴。\n在家的全体在职市级领导，市直各单位主要负责同志，城区产业园区和部分市直单位领导班子、干部参加。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-22",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "party",
+  "keywords": [
+    "人工智能",
+    "Token经济",
+    "干部培训"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "Token经济",
+      "name_en": "Token Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部培训",
+      "name_en": "Cadre Training"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳市委",
+    "岳阳",
+    "人工智能",
+    "Token经济",
+    "干部培训"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang Municipal Party Committee",
+    "Yueyang",
+    "Artificial Intelligence",
+    "Token Economy",
+    "Cadre Training"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "汪涛"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260824-gov_yue_yang-7ded73",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

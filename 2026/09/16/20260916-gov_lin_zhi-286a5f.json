@@ -1,0 +1,117 @@
+{
+  "id": "20260916-gov_lin_zhi-286a5f",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202609/4b4d2cbc63c848fab5db733e779efc75.shtml",
+  "title_zh": "首届“院士西藏行”科普活动启动仪式在拉萨举行",
+  "title_en": "First Academicians' Tibet Tour Science Popularization Event Launches in Lhasa",
+  "summary_zh": "9月15日，首届“院士西藏行”科普活动启动仪式在拉萨举行，西藏自治区副主席罗梅出席讲话并宣布启动，多吉、尼玛扎西、汪双杰等中国工程院院士参加。",
+  "summary_en": "On September 15, the launch ceremony of the first Academicians' Tibet Tour science popularization event was held in Lhasa, where Tibet Vice Chairman Luo Mei spoke and declared it open, joined by Chinese Academy of Engineering academicians.",
+  "body_zh": "首届“院士西藏行”科普活动启动仪式举行\n罗梅出席\n本报拉萨9月15日讯（记者 耿锐仙）15日，首届“院士西藏行”科普活动启动仪式在拉萨举行。自治区副主席罗梅出席并讲话，宣布活动正式启动。中国工程院院士多吉、尼玛扎西、汪双杰参加。\n罗梅指出，“院士西藏行”科普活动进校园，是坚持教育优先发展，落实科教兴国和人才强国战略的具体行动，是推动优质科普资源下沉、夯实科技后备人才根基的重要举措。各地各部门和各类学校要提高政治站位、深化思想认识，统筹资源力量、丰富内容载体、创新传播方式，推动全区科普工作提质增效。她强调，要聚焦生态保护、防灾减灾等重点领域，面向青少年、农牧民等，开发通俗易懂的科普资源，健全科普人才培养和激励机制，推动科技创新与科学普及协同发展。要加强宣传力度和服务供给，打造“院士西藏行”科普品牌，做优“科普援藏”“科技下乡”等活动，以高质量科普为社会主义现代化新西藏建设蓄力赋能。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "industry",
+  "keywords": [
+    "科学普及",
+    "科教兴国",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗梅",
+      "name_en": "Luo Mei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科学普及",
+      "name_en": "Science Popularization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科教兴国",
+      "name_en": "Revitalizing the Nation through Science and Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Cultivation"
+    }
+  ],
+  "tags_zh": [
+    "罗梅",
+    "拉萨",
+    "西藏",
+    "科学普及",
+    "科教兴国",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Luo Mei",
+    "Lhasa",
+    "Tibet",
+    "Science Popularization",
+    "Revitalizing the Nation through Science and Education",
+    "Talent Cultivation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "罗梅"
+      },
+      {
+        "id": null,
+        "name_zh": "汪双杰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS",
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260916-gov_lin_zhi-286a5f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202609/t20260916_176708.html",
+      "title_zh": "罗梅：首届“院士西藏行”科普活动启动仪式举行",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

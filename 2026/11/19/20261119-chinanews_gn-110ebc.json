@@ -1,0 +1,98 @@
+{
+  "id": "20261119-chinanews_gn-110ebc",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-19/10734816.shtml",
+  "title_zh": "中俄美元首和平宣言",
+  "title_en": "China-Russia-US Presidential Peace Declaration",
+  "summary_zh": "2026年11月19日，习近平、普京、特朗普在深圳举行会晤并发表和平宣言，就联合国改革、能源稳定、国际刑事法院管辖权及核风险等问题达成共识。",
+  "summary_en": "On Nov 19, 2026, Xi Jinping, Vladimir Putin and Donald Trump met in Shenzhen and issued a peace declaration covering UN reform, energy stability, ICC jurisdiction and nuclear risk reduction.",
+  "body_zh": "中俄美元首和平宣言\n新华社深圳11月19日电\n中俄美元首和平宣言\n中国国家主席习近平、俄罗斯总统普京、美国总统特朗普于2026年11月19日在深圳举行会晤。俄美领导人感谢中方主办此次历史性会晤。三国元首就当前国际形势深入交换了意见，致力于维护战略稳定和国际安全。\n一、中国、俄罗斯、美国作为联合国安理会常任理事国，致力于推动联合国改革，使之更有效应对全球性挑战，并履行其维护国际和平与安全的基本使命。\n二、三国计划增加精炼石油产品的生产和供应，以造福世界各国。三国重申能源稳定流动的重要性。\n三、三国元首认可国家同意原则和尊重国家官员享有豁免至关重要，一致认为国际刑事法院以及其他类似机构不得滥用管辖权。\n四、三国元首重申核战争打不赢也打不得。三国将就减少核风险、防止核扩散进行对话。\n国内新闻精选：\n- 2026年11月19日 14:03:39\n- 2026年11月19日 12:04:43\n- 2026年11月19日 10:41:32\n- 2026年11月19日 10:07:26\n- 2026年11月19日 06:03:33\n- 2026年11月18日 22:55:01\n- 2026年11月18日 22:22:48\n- 2026年11月18日 21:52:08\n- 2026年11月18日 20:01:36\n- 2026年11月18日 09:52:37",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "战略稳定",
+    "联合国改革",
+    "核不扩散"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国改革",
+      "name_en": "UN Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "核不扩散",
+      "name_en": "Nuclear Nonproliferation"
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "战略稳定",
+    "联合国改革",
+    "核不扩散"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "Strategic Stability",
+    "UN Reform",
+    "Nuclear Nonproliferation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261119-chinanews_gn-110ebc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20261119/52ee3a20593f4b3db7642db2a7ece1a7/c.html",
+      "title_zh": "中俄美元首和平宣言",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086723.htm",
+      "title_zh": "中俄美元首和平宣言",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

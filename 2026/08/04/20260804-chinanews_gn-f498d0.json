@@ -1,0 +1,83 @@
+{
+  "id": "20260804-chinanews_gn-f498d0",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-04/10671648.shtml",
+  "title_zh": "才让太辞去青海省副省长职务",
+  "title_en": "Cai Rangtai Resigns as Vice Governor of Qinghai Province",
+  "summary_zh": "近日，青海省十四届人大常委会第二十三次会议接受才让太辞去青海省副省长职务的请求。",
+  "summary_en": "Recently, the 23rd session of the Standing Committee of the 14th Qinghai Provincial People's Congress accepted Cai Rangtai's resignation as Vice Governor of Qinghai.",
+  "body_zh": "才让太辞去青海省副省长职务（附简历）\n近日，青海省第十四届人民代表大会常务委员会第二十三次会议决定：接受才让太辞去青海省人民政府副省长职务的请求。报青海省人民代表大会备案。\n此番履新前，才让太任青海省委常委、副省长。\n才让太，男，藏族，青海平安人，1968年8月出生，1987年7月参加工作，1991年10月加入中国共产党，2015年任中共青海省玉树藏族自治州委副书记、玉树州人民政府州长。\n记者：胡贵龙\n国内新闻精选：\n- 2026年08月04日 12:16:05\n- 2026年08月04日 11:14:47\n- 2026年08月03日 16:43:41\n- 2026年08月03日 13:23:45\n- 2026年08月03日 11:02:06\n- 2026年08月03日 10:26:02\n- 2026年08月02日 13:19:04\n- 2026年08月02日 13:04:41\n- 2026年08月02日 11:20:10\n- 2026年08月02日 07:19:05",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "personnel",
+  "keywords": [
+    "辞职",
+    "人事变动"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cairangtai",
+      "name_zh": "才让太",
+      "name_en": "Cai Rangtai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "辞职",
+      "name_en": "Resignation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事变动",
+      "name_en": "Personnel Change"
+    }
+  ],
+  "tags_zh": [
+    "才让太",
+    "青海",
+    "辞职",
+    "人事变动"
+  ],
+  "tags_en": [
+    "Cai Rangtai",
+    "Resignation",
+    "Personnel Change"
+  ],
+  "entities": {
+    "politicians": [
+      "cairangtai"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260804-chinanews_gn-f498d0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260916-gov_yue_yang-b825c8",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2401328.html",
+  "title_zh": "谢卫江主持召开市委常委会会议",
+  "title_en": "Xie Weijiang Chairs Yueyang Municipal Party Committee Standing Committee Meeting",
+  "summary_zh": "9月15日，湖南省委副书记、岳阳市委书记谢卫江主持召开市委常委会会议，传达学习习近平关于青岛一货轮火灾事故的重要指示精神，并研究第四届岳阳市旅游发展大会筹备工作。",
+  "summary_en": "On Sept 15, Yueyang Party Secretary Xie Weijiang chaired a standing committee meeting on Xi Jinping's instructions over a cargo ship fire in Qingdao and on hosting the city's 4th tourism conference.",
+  "body_zh": "9月15日，省委副书记、岳阳市委书记谢卫江主持召开市委常委会会议，传达学习习近平总书记对山东青岛市北海造船厂一货轮火灾事故作出的重要指示精神，研究我市贯彻意见；听取第四届岳阳市旅游发展大会筹备工作情况汇报，审议《第四届岳阳市旅游发展大会总体方案》。\n会议强调，要深入学习贯彻习近平总书记重要指示精神，时刻牢记“人民至上、生命至上”，始终把保障人民群众生命财产安全放在首位，把安全生产工作抓在日常、严在经常、落在细微，真正做到警钟长鸣、防微杜渐、常抓不懈。要坚持以案为鉴，聚焦重点行业、重点领域、重点部位，持续深化安全生产风险隐患大排查大整治，健全长效机制，坚决把各类风险隐患消灭在萌芽状态、未发之时。要从严抓实责任闭环，推动各项安全防范工作落地落实。\n会议指出，举办第四届市旅发大会，是做好第四届省旅发大会“后半篇文章”、深化文旅体商融合促进消费的重要举措。要提高认识站位，坚持产业思维、市场运作、运营前置，精心组织、统筹推进，真正激活赛会效益，推动文旅体商融合高质量发展，实现办会兴城、办会兴业目标。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "event_date": "2026-09-15",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "party",
+  "keywords": [
+    "安全生产",
+    "文旅融合",
+    "旅游发展大会"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文旅融合",
+      "name_en": "Culture-Tourism Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅游发展大会",
+      "name_en": "Tourism Development Conference"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "安全生产",
+    "文旅融合",
+    "旅游发展大会"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Work Safety",
+    "Culture-Tourism Integration",
+    "Tourism Development Conference"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "江主持"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260916-gov_yue_yang-b825c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

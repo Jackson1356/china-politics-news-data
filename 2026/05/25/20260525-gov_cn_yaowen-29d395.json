@@ -1,0 +1,79 @@
+{
+  "id": "20260525-gov_cn_yaowen-29d395",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202605/content_7070233.htm",
+  "title_zh": "前4月商品和服务零售合并计算同比增长3.2%",
+  "title_en": "Combined Retail Sales of Goods and Services Grow 3.2% in First Four Months",
+  "summary_zh": "商务部25日介绍，今年1—4月商品和服务零售合并计算同比增长3.2%，消费市场运行平稳，绿色智能产品及服务消费增长明显。",
+  "summary_en": "The Ministry of Commerce reported on May 25 that combined retail sales of goods and services grew 3.2% YoY from January to April, driven by trade-in policies and growth in smart products.",
+  "body_zh": "25日，商务部消费促进司负责人介绍，1—4月，随着提振消费专项行动深入实施，消费品以旧换新、有奖发票、离境退税等政策效果持续显现，消费市场呈现平稳运行、向新向优发展态势。商品和服务零售合并计算同比（下同）增长3.2%。其中，社会消费品零售总额增长1.9%，扣除汽车、石油增长3.7%；服务零售额增长5.6%。\n基本生活类商品平稳增长，绿色智能产品需求旺盛。4月，限额以上单位粮油食品、服装鞋帽零售额分别增长4.1%、3.6%。消费品以旧换新带动绿色智能产品销售较快增长。商务部商务大数据显示，4月重点平台智能眼镜销售额增长5.9倍，手持摄影设备销售额增长26.9%，一级能效洗衣机销售额增长10.4%；新能源乘用车市场渗透率达61.4%，首次超过60%。\n消费结构优化升级，服务消费稳步扩大。1—4月，服务零售额增速比去年同期加快0.5个百分点。其中，餐饮收入增长3.8%；旅游咨询租赁服务、交通出行服务、文体休闲服务零售额均保持两位数增长。\n乡村消费增长快于城镇，下沉市场潜力释放。1—4月，乡村消费品零售额增长2.8%，增速比城镇快1个百分点。包含镇区和乡村地区的县乡消费品零售额占社会消费品零售总额的比重达39.7%，比上年同期提高0.3个百分点。（记者 罗珊珊）",
+  "image_url": null,
+  "published_at": "2026-05-26T12:00:00+00:00",
+  "event_date": "2026-05-25",
+  "ingested_at": "2026-05-27T08:22:37Z",
+  "topic": "economy",
+  "keywords": [
+    "消费升级",
+    "以旧换新",
+    "零售增长"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费升级",
+      "name_en": "Consumption Upgrade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "以旧换新",
+      "name_en": "Trade-in Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "零售增长",
+      "name_en": "Retail Growth"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "消费升级",
+    "以旧换新",
+    "零售增长"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Consumption Upgrade",
+    "Trade-in Policy",
+    "Retail Growth"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260525-gov_cn_yaowen-29d395",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

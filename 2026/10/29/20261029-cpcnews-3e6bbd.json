@@ -1,0 +1,101 @@
+{
+  "id": "20261029-cpcnews-3e6bbd",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1029/c64387-40823751.html",
+  "title_zh": "今年以来消费品以旧换新带动销售额超2万亿元",
+  "title_en": "Consumer Goods Trade-In Program Drives Over 2 Trillion Yuan in Sales This Year",
+  "summary_zh": "2026年以来，消费品以旧换新政策带动相关品类销售额超2万亿元，惠及超2.5亿人次。商务部10月28日召开全国电视电话会议，部署下一步重点任务。",
+  "summary_en": "Since the start of 2026, China's consumer goods trade-in program has driven over 2 trillion yuan in sales, benefiting more than 250 million people. The Ministry of Commerce held a national teleconference on October 28 to deploy next steps.",
+  "body_zh": "本报北京10月28日电 （记者王珂）记者从商务部获悉：2026年以来，消费品以旧换新政策实施带动相关品类销售额超2万亿元，惠及超2.5亿人次，有力推动消费增长，助力转型升级，畅通循环利用，取得多重政策效果。\n商务部28日召开全国消费品以旧换新工作推进电视电话会议，总结政策实施进展成效，部署下一步重点任务。会议强调，各地区要盯住关键环节，拿出更实举措，以更高标准抓好政策实施，保障全年工作圆满收官、取得扎实成效；要结合本地实际，加强部门协同联动，加大工作力度，创新打造线下消费场景，加快补贴兑付，切实增强群众获得感。\n《 人民日报 》（ 2026年10月29日 01 版）",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "economy",
+  "keywords": [
+    "消费品以旧换新",
+    "扩大消费",
+    "循环利用"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费品以旧换新",
+      "name_en": "Consumer Goods Trade-In"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩大消费",
+      "name_en": "Boosting Consumption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "循环利用",
+      "name_en": "Recycling"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "北京",
+    "消费品以旧换新",
+    "扩大消费",
+    "循环利用"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Beijing",
+    "Consumer Goods Trade-In",
+    "Boosting Consumption",
+    "Recycling"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261029-cpcnews-3e6bbd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261029/5f89eaed37d84d9fb2c713c86a18c2ad/c.html",
+      "title_zh": "今年以来消费品以旧换新带动销售额超2万亿元",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

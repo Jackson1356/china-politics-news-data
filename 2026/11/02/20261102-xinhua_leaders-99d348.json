@@ -1,0 +1,115 @@
+{
+  "id": "20261102-xinhua_leaders-99d348",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261102/6de867bee7034a88b66543cbcbc8e709/c.html",
+  "title_zh": "习近平总书记的黄河牵挂",
+  "title_en": "Xi Jinping's Abiding Commitment to the Yellow River",
+  "summary_zh": "新华社梳理党的十八大以来习近平总书记考察黄河上中下游9省区的一线调研场景，展现其对黄河保护发展的深切牵挂。",
+  "summary_en": "Xinhua reviews scenes from Xi Jinping's inspections across nine provinces along the Yellow River since the 18th Party Congress, highlighting his sustained attention to the river's protection and development.",
+  "body_zh": "黄河，从青藏高原出发，穿高山、越峡谷、汇百川、奔东海，哺育了千千万万的华夏儿女、滋养了辉煌灿烂的中华文明。\n党的十八大以来，习近平总书记踏遍黄河上中下游9省区，多次亲赴一线考察调研，目光所及、驻足所思，尽是对母亲河未来的深谋远虑。我们撷取其中一些场景，一起感悟总书记对黄河保护发展的深切牵挂。\n新华社新媒体中心制作\n新华社出品",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "party",
+  "keywords": [
+    "黄河流域生态保护",
+    "高质量发展",
+    "生态文明建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "XINHUA",
+      "name_zh": "新华社",
+      "name_en": "Xinhua News Agency"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河流域生态保护",
+      "name_en": "Yellow River Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明建设",
+      "name_en": "Ecological Civilization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "新华社",
+    "黄河流域生态保护",
+    "高质量发展",
+    "生态文明建设"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Xinhua News Agency",
+    "Yellow River Ecological Protection",
+    "High-Quality Development",
+    "Ecological Civilization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "XINHUA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261102-xinhua_leaders-99d348",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cjn",
+      "source_tier": 4,
+      "url": "http://news.cjn.cn/asy/ttxw/202611/t5355141.htm",
+      "title_zh": "学习新语｜习近平总书记的黄河牵挂",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "source": "local_hong_wang_cn_hn",
+      "source_tier": 3,
+      "url": "https://news.rednet.cn/nograb/646055/94/16435115.html",
+      "title_zh": "学习新语｜习近平总书记的黄河牵挂",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://news.jschina.com.cn/bdzj/202611/t20261102_s6ae88c1be4b0ed623b00dfe4.shtml",
+      "title_zh": "学习新语｜习近平总书记的黄河牵挂_中国江苏网",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

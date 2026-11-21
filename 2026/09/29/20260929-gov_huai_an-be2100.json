@@ -1,0 +1,106 @@
+{
+  "id": "20260929-gov_huai_an-be2100",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17881920/1790665830128eLzuRJ5V.html",
+  "title_zh": "淮安市委书记顾坤调研市政协工作",
+  "title_en": "Huai'an Party Secretary Gu Kun Inspects Municipal CPPCC Work",
+  "summary_zh": "9月28日上午，淮安市委书记顾坤调研市政协工作，强调要深入学习贯彻习近平总书记关于加强和改进人民政协工作的重要思想，履职尽责、创新实干。",
+  "summary_en": "On the morning of Sept 28, Huai'an Party Secretary Gu Kun inspected the municipal CPPCC, urging thorough study and implementation of Xi Jinping's thinking on improving CPPCC work and calling for diligent, innovative efforts.",
+  "body_zh": "9月28日上午，市委书记顾坤调研市政协工作，强调要深入学习贯彻习近平总书记关于加强和改进人民政协工作的重要思想，认真落实习近平总书记对江苏工作重要讲话精神、对淮安殷切嘱托，深刻把握省委对淮安提出的“保持好势头、提升贡献度”总体要求，紧扣市第九次党代会精神特别是“九个更高质效”“九个新”的部署，牢固树立和践行正确政绩观，履职尽责、创新实干，为奋力推动中国式现代化淮安新实践贡献智慧力量。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "party",
+  "keywords": [
+    "人民政协工作",
+    "履职尽责"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "履职尽责",
+      "name_en": "Diligent Duty Performance"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "人民政协工作",
+    "履职尽责"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "CPPCC Work",
+    "Diligent Duty Performance"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260929-gov_huai_an-be2100",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16654_124374/art/17881920/1790665963741y7cCBSMD.html",
+      "title_zh": "淮安市人民政府 市领导调研市人大工作",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17881920/1790637329674i9dDL4hU.html",
+      "title_zh": "淮安市人民政府 市领导调研市政协工作",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17881920/1790637389613egso1HRw.html",
+      "title_zh": "淮安市人民政府 市领导调研市人大工作",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

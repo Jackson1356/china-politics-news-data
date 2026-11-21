@@ -1,0 +1,141 @@
+{
+  "id": "20261121-xinhua_js-5a0fc8",
+  "source": "xinhua_js",
+  "source_name_zh": "新华网 江苏",
+  "source_name_en": "Xinhua Jiangsu",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.news.cn/20261121/a3d37fadd30c4a638e1b354883a96865/c.html",
+  "title_zh": "中共江苏省委召开民主协商会 信长星主持会议",
+  "title_en": "CPC Jiangsu Provincial Committee Holds Democratic Consultation Meeting, Chaired by Xin Changxing",
+  "summary_zh": "11月20日，中共江苏省委召开民主协商会，省委书记信长星主持，省委组织部部长胡立杰就有关人事安排事项作说明，与会各民主党派、工商联负责人和无党派人士代表一致赞同。",
+  "summary_en": "On November 20, the CPC Jiangsu Provincial Committee held a democratic consultation meeting chaired by provincial party secretary Xin Changxing; Hu Lijie, head of the provincial party committee's organization department, explained personnel arrangements, which non-CPC party and business federation representatives unanimously endorsed.",
+  "body_zh": "11月20日，中共江苏省委召开民主协商会。省委书记信长星主持会议。\n省委常委、省委组织部部长胡立杰就有关人事安排事项作了说明。省委常委、省委宣传部部长徐缨，省委常委、省委秘书长陈忠伟出席会议。与会各民主党派省委会、省工商联负责人和无党派人士代表进行了认真协商，一致赞同有关人事安排意见。\n王学锋、洪慧民、周岚等各民主党派省委会、省工商联负责人和无党派人士代表，省有关部门负责同志参加会议。（黄伟）\n中共江苏省委召开民主协商会 信长星主持会议\n11/21",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "party",
+  "keywords": [
+    "民主协商",
+    "人事安排",
+    "统一战线"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共江苏省委",
+      "name_en": "CPC Jiangsu Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主协商",
+      "name_en": "Democratic Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事安排",
+      "name_en": "Personnel Arrangement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front"
+    },
+    {
+      "kind": "person",
+      "id": "xu-ying-jiangsu",
+      "name_zh": "徐缨",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "chen-zhongwei-jiangsu",
+      "name_zh": "陈忠伟",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "苏省委",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "中共江苏省委",
+    "江苏",
+    "民主协商",
+    "人事安排",
+    "统一战线",
+    "徐缨",
+    "陈忠伟",
+    "苏省委"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "CPC Jiangsu Provincial Committee",
+    "Jiangsu",
+    "Democratic Consultation",
+    "Personnel Arrangement",
+    "United Front"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing",
+      "xu-ying-jiangsu",
+      "chen-zhongwei-jiangsu",
+      {
+        "id": null,
+        "name_zh": "苏省委"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共江苏省委",
+        "name_en": "CPC Jiangsu Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-xinhua_js-5a0fc8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_xin_hua_ri_bao_cn_js",
+      "source_tier": 3,
+      "url": "https://www.xhby.net/content/s6b01548fe4b07ff74d0d9fbe.html",
+      "title_zh": "中共江苏省委召开民主协商会 信长星主持会议",
+      "published_at": "2026-11-20T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

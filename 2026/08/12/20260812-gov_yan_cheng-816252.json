@@ -1,0 +1,108 @@
+{
+  "id": "20260812-gov_yan_cheng-816252",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/8/12/art_60096_11815052.html",
+  "title_zh": "刘小涛会见哈电集团董事长黄伟",
+  "title_en": "Liu Xiaotao Meets Huang Wei, Chairman of Harbin Electric Group",
+  "summary_zh": "8月10日，江苏省省长刘小涛会见哈尔滨电气集团董事长黄伟，并共同见证镇江市与哈电集团签署战略合作协议。",
+  "summary_en": "On August 10, Liu Xiaotao, Governor of Jiangsu Province, met with Huang Wei, Chairman of Harbin Electric Group, and witnessed the signing of a strategic cooperation agreement between Zhenjiang City and Harbin Electric Group.",
+  "body_zh": "当前位置：\n刘小涛会见哈电集团董事长黄伟\n8月10日，省长刘小涛会见哈尔滨电气集团有限公司董事长黄伟一行，并共同见证镇江市与哈电集团签署战略合作协议。\n刘小涛对哈电集团长期以来给予江苏发展的支持表示感谢。刘小涛说，江苏正深入推进制造业智能化、绿色化、融合化发展，大力实施“人工智能+制造”，加快经济社会发展全面绿色转型，与哈电集团深化合作空间广阔。希望以此次签约为契机，聚焦高端装备制造、新能源等领域携手拓展产业布局，共同推进关键核心技术攻关，积极搭建电力装备产业链供应链合作平台，打造央地合作新标杆。我们将持续优化营商环境，全力保障企业在苏更好发展。\n黄伟表示，哈电集团将紧扣国家重大战略，围绕江苏发展需要，积极推动科技创新和产业创新深度融合，不断深化央地合作，共同促进装备制造业高质量发展，为保障国家能源安全作出积极贡献。\n哈电集团总经理刘清勇，哈电集团副总经理陈辉，省政府秘书长赵建军参加。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-10",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "高端装备制造",
+    "央地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-xiaotao",
+      "name_zh": "刘小涛",
+      "name_en": "Liu Xiaotao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高端装备制造",
+      "name_en": "High-end Equipment Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-local Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘小涛",
+    "江苏",
+    "战略合作",
+    "高端装备制造",
+    "央地合作",
+    "黄伟"
+  ],
+  "tags_en": [
+    "Liu Xiaotao",
+    "Jiangsu",
+    "Strategic Cooperation",
+    "High-end Equipment Manufacturing",
+    "Central-local Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-xiaotao",
+      {
+        "id": null,
+        "name_zh": "黄伟"
+      },
+      {
+        "id": null,
+        "name_zh": "赵建军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-gov_yan_cheng-816252",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

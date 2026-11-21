@@ -1,0 +1,91 @@
+{
+  "id": "20261109-bjnews-665216",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1794208449129502.html",
+  "title_zh": "商务部新闻发言人就调整出口管制管控名单措施答记者问",
+  "title_en": "MOFCOM Spokesperson Answers Questions on Adjusting Export Control List Measures",
+  "summary_zh": "商务部新闻发言人11月9日表示，为落实中美第八轮经贸磋商共识，中方决定自2026年11月10日起继续暂停实施针对16家美国实体的出口管制措施两个月。",
+  "summary_en": "A MOFCOM spokesperson said on Nov 9 that China will extend the suspension of export controls on 16 US entities for another two months from Nov 10, 2026, to implement the consensus reached in the eighth round of China-US trade talks.",
+  "body_zh": "新京报讯 据商务部网站消息，商务部新闻发言人就调整出口管制管控名单措施答记者问。\n问：有消息称，根据中美第八轮经贸磋商共识，中方将调整一批针对美国的非关税措施。请问在出口管制管控名单方面有什么考虑？\n答：根据出口管制相关法律法规规定，商务部于2025年4月4日发布2025年21号公告，将16家美国实体列入出口管制管控名单，禁止向其出口两用物项。为落实中美第八轮经贸磋商共识安排，中方决定自2026年11月10日起，继续暂停实施2025年第21号公告的相关措施2个月。出口经营者如需向上述实体出口两用物项，应当根据《中华人民共和国两用物项出口管制条例》相关规定向商务部提出申请，商务部将依法依规进行审查，符合规定的将准予许可。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "economy",
+  "keywords": [
+    "出口管制",
+    "中美经贸磋商",
+    "两用物项"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出口管制",
+      "name_en": "Export Controls"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸磋商",
+      "name_en": "China-US Trade Talks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两用物项",
+      "name_en": "Dual-Use Items"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "出口管制",
+    "中美经贸磋商",
+    "两用物项"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Export Controls",
+    "China-US Trade Talks",
+    "Dual-Use Items"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261109-bjnews-665216",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1794211258129541.html",
+      "title_zh": "商务部新闻发言人就调整不可靠实体清单措施答记者问",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

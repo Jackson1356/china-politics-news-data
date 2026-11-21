@@ -1,0 +1,135 @@
+{
+  "id": "20261114-peoples_js-ce5204",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/1114/c358232-41750661.html",
+  "title_zh": "第五届中国—阿拉伯国家政党对话会举行",
+  "title_en": "Fifth China-Arab States Political Parties Dialogue Held in Suzhou",
+  "summary_zh": "11月13日，第五届中国—阿拉伯国家政党对话会在苏州举行，由中共中央对外联络部与中共江苏省委共同主办，来自22个阿拉伯国家的百余位代表参会。",
+  "summary_en": "On Nov 13, the Fifth China-Arab States Political Parties Dialogue was held in Suzhou, co-hosted by the CPC International Department and the CPC Jiangsu Provincial Committee, with over 100 delegates from 22 Arab states attending.",
+  "body_zh": "人民日报丨第五届中国—阿拉伯国家政党对话会举行\n第五届中国—阿拉伯国家政党对话会举行\n《人民日报》（2026年11月14日第2版）\n本报苏州11月13日电 （记者王伟健）11月13日，由中共中央对外联络部和中共江苏省委共同举办的第五届中国—阿拉伯国家政党对话会在苏州举行，主题为“百年变局下的中阿命运共同体建设：政党的责任与使命”。来自22个阿拉伯国家的100余位政党和政治组织领导人、政府官员、议会议员、驻华使节、工商界人士、智库媒体代表等参会。\n11月14日，《人民日报》第2版版面。\n中联部部长刘海星表示，今年是中国同阿拉伯国家开启外交关系70周年，也是中阿政党对话会机制建立10周年。面对百年变局加速演进和中东格局深刻调整，中国共产党愿同阿拉伯国家政党扛起历史责任，为构建面向新时代的中阿命运共同体贡献力量。\n阿方祝贺中共二十届五中全会胜利召开，支持习近平主席提出的系列重大倡议，愿同中国共产党加强交流合作，开辟阿中关系更广阔前景。",
+  "image_url": null,
+  "published_at": "2026-11-14T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "中阿命运共同体",
+    "政党对话",
+    "中阿合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-haixing",
+      "name_zh": "刘海星",
+      "name_en": "Liu Haixing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央对外联络部",
+      "name_en": "International Department of the CPC Central Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共江苏省委",
+      "name_en": "CPC Jiangsu Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-SZ",
+      "name_zh": "苏州",
+      "name_en": "Suzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中阿命运共同体",
+      "name_en": "China-Arab Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党对话",
+      "name_en": "Political Party Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中阿合作",
+      "name_en": "China-Arab Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘海星",
+    "中共中央对外联络部",
+    "中共江苏省委",
+    "苏州",
+    "江苏",
+    "中阿命运共同体",
+    "政党对话",
+    "中阿合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Liu Haixing",
+    "International Department of the CPC Central Committee",
+    "CPC Jiangsu Provincial Committee",
+    "Suzhou",
+    "Jiangsu",
+    "China-Arab Community with a Shared Future",
+    "Political Party Dialogue",
+    "China-Arab Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "liu-haixing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-SZ",
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央对外联络部",
+        "name_en": "International Department of the CPC Central Committee"
+      },
+      {
+        "name_zh": "中共江苏省委",
+        "name_en": "CPC Jiangsu Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261114-gov_yan_cheng-470ac7",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

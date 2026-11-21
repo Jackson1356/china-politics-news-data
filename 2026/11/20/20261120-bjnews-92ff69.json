@@ -1,0 +1,103 @@
+{
+  "id": "20261120-bjnews-92ff69",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1795130128129601.html",
+  "title_zh": "王毅介绍中俄美元首会晤情况",
+  "title_en": "Wang Yi Briefs Media on China-Russia-US Presidential Summit",
+  "summary_zh": "2026年11月19日，外交部长王毅在深圳向中外记者介绍中俄美元首会晤情况，称三方发表《和平宣言》，是载入史册的“和平峰会”。",
+  "summary_en": "On November 19, 2026, Foreign Minister Wang Yi briefed Chinese and foreign reporters in Shenzhen on the China-Russia-US presidential summit, calling the meeting a historic \"peace summit\" that produced a joint Peace Declaration.",
+  "body_zh": "新京报讯 据外交部网站消息，2026年11月19日，中共中央政治局委员、外交部长王毅在深圳向中外记者介绍了中俄美元首会晤情况。\n王毅表示，习近平主席、普京总统、特朗普总统就事关全球和平安全与稳定的重要问题深入交换了意见。会晤气氛坦诚、友好，富有建设性，取得了一系列共识，发表了面向世界的《和平宣言》，核心就是共同维护世界和平，促进大国关系战略稳定。这是一次“和平峰会”，意义重大，影响深远，是载入史册的标志性事件，向世界发出了积极信号。\n首先，这是一次具有开创意义的历史性会晤。大国关系牵动国际格局演变，事关全球战略稳定。三国元首历史上首次举行面对面会晤，开创了三国最高领导人交往的新纪录，为新时期大国协调互动构建了新范式，也是推进新型大国关系的新实践，堪称国际关系史上的重大创举。\n其次，这是一次体现大国担当的标志性会晤。当前，世界百年变局加速演进，各种风险挑战层出不穷，国际社会对和平与稳定的期盼日益强烈，对大国加强沟通协调的呼声日益高涨。会晤顺应时代潮流，符合世界期待。习近平主席强调，大国和则世界安，大国斗则世界乱。三国元首面对面阐明了各自战略意图，愿意防止发生冲突对抗，守住和平共处底线，期待形成和平共处、总体稳定、均衡发展的大国关系格局，既惠及彼此，又造福世界。\n第三，这是一次深入沟通互动的建设性会晤。中方一贯主张大小国家一律平等，致力于实现国际关系的民主化，构建平等有序的多极化。我们认为，大国拥有更多资源、更大能力，应展现大国胸怀、大国担当，在国际上带头讲平等、守诚信、尊道义、重合作、作表率。会晤发布的《和平宣言》凝聚了三方共识，对更有效应对全球性挑战，维护好世界和平稳定具有重大积极意义。正像习近平主席所说，今天播下的种子必将生根发芽、开花结果。中方将同俄美全面高效落实三国元首会晤共识，并通过工作层保持沟通协调，朝着建设一个更美好的世界作出不懈努力。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "元首会晤",
+    "大国关系",
+    "世界和平"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首会晤",
+      "name_en": "Presidential Summit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大国关系",
+      "name_en": "Major-Power Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界和平",
+      "name_en": "World Peace"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "深圳",
+    "元首会晤",
+    "大国关系",
+    "世界和平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Shenzhen",
+    "Presidential Summit",
+    "Major-Power Relations",
+    "World Peace"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261120-bjnews-92ff69",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

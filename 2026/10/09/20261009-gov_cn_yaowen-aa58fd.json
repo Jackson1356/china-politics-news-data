@@ -1,0 +1,93 @@
+{
+  "id": "20261009-gov_cn_yaowen-aa58fd",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202610/content_7082828.htm",
+  "title_zh": "财政部安排使用5500亿元地方政府债务结存限额",
+  "title_en": "Ministry of Finance Allocates 550 Billion Yuan of Local Government Debt Carryover Quota",
+  "summary_zh": "10月9日，财政部安排使用地方政府债务结存限额5500亿元，用于提高县区一般公共预算保障能力和支持地方扩大有效投资。",
+  "summary_en": "On October 9, China's Ministry of Finance allocated 550 billion yuan of local government debt carryover quota to strengthen county-level fiscal capacity and support expanded effective investment.",
+  "body_zh": "新华社北京10月9日电（记者 申铖）记者10月9日从财政部了解到，按照党中央和国务院决策部署，财政部近日安排使用地方政府债务结存限额5500亿元，用于提高县区一般公共预算保障能力和支持地方扩大有效投资。\n据介绍，此次下达地方的5500亿元地方政府债务结存限额中，一般债务结存限额3000亿元，全部分配县区使用，专门用于提高县区一般公共预算保障能力；专项债务结存限额2500亿元，分配给今年第四季度有实际项目资金需求的地区，并向经济大省倾斜，支持优先保障在建项目资金需求，新建项目聚焦“六张网”建设等重点领域，有效发挥政府投资带动作用。\n财政部称，将指导督促各地更好衔接项目储备和债券发行，加快发行节奏，畅通拨付链条，尽快形成实物工作量，促进政策早落地、早见效。",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-09",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "economy",
+  "keywords": [
+    "地方政府债务",
+    "有效投资",
+    "财政政策"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方政府债务",
+      "name_en": "Local Government Debt"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "有效投资",
+      "name_en": "Effective Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政政策",
+      "name_en": "Fiscal Policy"
+    }
+  ],
+  "tags_zh": [
+    "财政部",
+    "北京",
+    "地方政府债务",
+    "有效投资",
+    "财政政策"
+  ],
+  "tags_en": [
+    "Ministry of Finance",
+    "Beijing",
+    "Local Government Debt",
+    "Effective Investment",
+    "Fiscal Policy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261009-gov_cn_yaowen-aa58fd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

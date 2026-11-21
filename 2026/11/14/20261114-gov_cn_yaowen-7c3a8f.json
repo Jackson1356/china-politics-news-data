@@ -1,0 +1,111 @@
+{
+  "id": "20261114-gov_cn_yaowen-7c3a8f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086040.htm",
+  "title_zh": "何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞",
+  "title_en": "He Lifeng Attends Opening of APEC Business Advisory Council Meeting in Shenzhen and Delivers Remarks",
+  "summary_zh": "11月14日，国务院副总理何立峰在深圳出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞，期间会见理事会代表。",
+  "summary_en": "On Nov 14, Vice Premier He Lifeng attended the opening of the fourth APEC Business Advisory Council meeting in Shenzhen, delivered remarks and met with council representatives.",
+  "body_zh": "新华社深圳11月14日电（记者潘洁、孙飞）11月14日，中共中央政治局委员、国务院副总理何立峰在深圳出席亚太经合组织（APEC）工商咨询理事会第四次会议开幕式并致辞。\n何立峰指出，亚太经合组织第三十三次领导人非正式会议即将在深圳举行，为亚太合作明确方向、凝聚力量。希望工商咨询理事会继续发扬开拓进取、开放创新的企业家精神，推动APEC向着构建亚太共同体目标再启航，为亚太区域协同合作、创新发展、互联互通做出新的贡献。\n出席会议期间，何立峰还会见了工商咨询理事会部分代表，就深化亚太地区经贸合作等相关问题交换意见。",
+  "image_url": null,
+  "published_at": "2026-11-14T12:00:00+00:00",
+  "event_date": "2026-11-14",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太合作",
+    "经贸合作",
+    "互联互通"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互联互通",
+      "name_en": "Connectivity"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "深圳",
+    "亚太合作",
+    "经贸合作",
+    "互联互通"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "Shenzhen",
+    "Asia-Pacific Cooperation",
+    "Trade and Economic Cooperation",
+    "Connectivity"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261114-gov_cn_yaowen-7c3a8f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/1115/c64094-40833930.html",
+      "title_zh": "何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞",
+      "published_at": "2026-11-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

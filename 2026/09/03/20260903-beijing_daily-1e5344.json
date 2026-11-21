@@ -1,0 +1,95 @@
+{
+  "id": "20260903-beijing_daily-1e5344",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/03/11944466.shtml",
+  "title_zh": "墨西哥外长贝拉斯科将访华 外交部介绍中方期待",
+  "title_en": "Mexican Foreign Minister Velasco to Visit China; MFA Outlines Expectations",
+  "summary_zh": "9月3日，外交部发言人郭嘉昆宣布，应王毅外长邀请，墨西哥外长贝拉斯科将于9月6日至7日访华，中方期待深化中墨关系。",
+  "summary_en": "On Sept 3, MFA spokesperson Guo Jiakun announced that Mexican Foreign Minister Velasco will visit China from Sept 6-7 at the invitation of Foreign Minister Wang Yi, expecting to deepen bilateral ties.",
+  "body_zh": "9月3日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆宣布，应中共中央政治局委员、外交部长王毅邀请，墨西哥外长贝拉斯科将于9月6日至7日对中国进行访问。\n有记者提问，请问中方如何评价当前中墨关系？对此访有何期待？\n郭嘉昆表示，墨西哥是拉美地区大国和重要新兴市场国家，中国和墨西哥是全面战略伙伴。建交50多年来，两国关系持续深入发展，各领域交流合作成果丰硕，双方在国际和地区事务中保持密切协调配合。\n郭嘉昆说，此访是贝拉斯科先生今年4月就任外长以来首次访华。中方期待通过此访，同墨方就双边关系以及共同关心的国际和地区问题深入交换意见，持续增进政治互信，深化互利合作，推动中墨关系稳定发展，更好造福两国人民。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": "2026-09-03",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "foreign",
+  "keywords": [
+    "中墨关系",
+    "外交访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "贝拉斯科",
+      "name_en": "Velasco"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中墨关系",
+      "name_en": "China-Mexico Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "贝拉斯科",
+    "外交部",
+    "中墨关系",
+    "外交访问",
+    "王毅"
+  ],
+  "tags_en": [
+    "Velasco",
+    "Ministry of Foreign Affairs",
+    "China-Mexico Relations",
+    "Diplomatic Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260903-beijing_daily-1e5344",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

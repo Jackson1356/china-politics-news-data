@@ -1,0 +1,92 @@
+{
+  "id": "20260617-cpcnews-158731",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0617/c64387-40741966.html",
+  "title_zh": "中国共产党与德国联盟党第十四次政党对话举行",
+  "title_en": "14th Party Dialogue Between the Communist Party of China and the German Alliance Held",
+  "summary_zh": "2026年6月16日，中国共产党与德国联盟党第十四次政党对话在北京举行，双方围绕应对世界变局、深化中德对话合作进行深入交流。",
+  "summary_en": "The 14th party dialogue between the Communist Party of China and the German Alliance was held in Beijing on June 16, 2026, focusing on deepening bilateral cooperation and addressing global changes.",
+  "body_zh": "新华社北京6月16日电 6月16日，中国共产党与德国联盟党第十四次政党对话在北京举行。中方有关部委、智库、高校代表，德国联盟党议会党团成员等与会。双方围绕“着眼应对世界变局、持续深化中德对话合作”的主题进行深入对话交流。\n中共中央对外联络部部长刘海星表示，今年年初，习近平主席会见来华访问的德国总理默茨，达成重要共识，为中德关系发展指明方向。中方愿同德方拓展政党对话的广度和深度，树立正确的相互认知，积极搭建“政党+”合作平台，不断造福两国人民。\n德国联盟党议会党团主席施潘表示，近年来德中关系保持良好发展势头。德方赞同自由公平贸易，主张有序竞争，反对贸易战，希望通过坦诚沟通对话，增进相互理解，妥善处理分歧，促进和扩大共同利益。\n《 人民日报 》（ 2026年06月17日 03 版）",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "政党对话",
+    "中德关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-haixing",
+      "name_zh": "刘海星",
+      "name_en": "Liu Haixing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党对话",
+      "name_en": "Party Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中德关系",
+      "name_en": "China-Germany Relations"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "刘海星",
+    "北京",
+    "政党对话",
+    "中德关系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Liu Haixing",
+    "Beijing",
+    "Party Dialogue",
+    "China-Germany Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "liu-haixing",
+      {
+        "id": null,
+        "name_zh": "施潘"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260617-cpcnews-158731",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

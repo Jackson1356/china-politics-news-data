@@ -1,0 +1,96 @@
+{
+  "id": "20260930-gov_bao_ji-008f9e",
+  "source": "gov_bao_ji",
+  "source_name_zh": "宝鸡市政府网",
+  "source_name_en": "宝鸡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_ji",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoji.gov.cn/col46/col54/202609/t20260930_1306354.html",
+  "title_zh": "牛恺主持召开市政府第十六次常务会议",
+  "title_en": "Niu Kai Chairs 16th Executive Meeting of Baoji Municipal Government",
+  "summary_zh": "9月29日，宝鸡市市长牛恺主持召开市政府第十六次常务会议，研究部署先进制造业发展、国庆期间安全稳定及常态化帮扶等工作。",
+  "summary_en": "On Sept 29, Baoji Mayor Niu Kai chaired the municipal government's 16th executive meeting, focusing on advanced manufacturing, holiday safety and rural revitalization.",
+  "body_zh": "9月29日，市长牛恺主持召开市政府今年第十六次常务会议，认真学习习近平总书记就发展先进制造业作出的重要指示，传达学习全国先进制造业大会、全省安全稳定工作会议、全省常态化帮扶暨“千万工程”工作推进会议精神，听取相关工作情况汇报，研究贯彻落实意见。\n会议强调，国庆假期将至，做好安全稳定工作至关重要。要时刻绷紧安全之弦，认真落实“三管三必须”和“谁主管谁负责”要求，切实抓好保安全、护稳定、惠民生、守底线各项工作。要深入推进安全生产治本攻坚三年行动，紧盯煤矿、非煤矿山、道路交通、危化品运输、森林草原防灭火、旅游景区、烟花爆竹、消防、高层建筑、城镇燃气等重点领域，扎实开展隐患排查治理，坚决防范遏制重特大事故发生。要深入开展矛盾纠纷排查化解，持续抓好信访“三个专项”工作，扎实推进案结事了、事心双解。要严格落实值班值守要求，不断提升应急处置能力，全力守护社会安定、人民安宁。\n会议要求，要坚持把发展先进制造业作为重要战略任务，立足宝鸡产业优势，持续强化科技创新、数智赋能、龙头带动，系统推动制造业向智能化、绿色化、融合化方向转型，加快建设全国先进制造业名城。要坚持问题导向、结果导向，推动常态化帮扶提质增效，守牢不发生规模性返贫致贫底线。要统筹抓好粮食安全、产业发展、和美乡村建设等各项工作，持续推动乡村全面振兴取得新成效。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "economy",
+  "keywords": [
+    "先进制造业",
+    "安全生产",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "牛恺",
+      "name_en": "Niu Kai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-BJ",
+      "name_zh": "宝鸡",
+      "name_en": "Baoji"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "牛恺",
+    "宝鸡",
+    "先进制造业",
+    "安全生产",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Niu Kai",
+    "Baoji",
+    "Advanced Manufacturing",
+    "Work Safety",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "牛恺"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260930-gov_bao_ji-008f9e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

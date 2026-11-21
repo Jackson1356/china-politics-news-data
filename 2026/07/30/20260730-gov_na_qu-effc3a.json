@@ -1,0 +1,91 @@
+{
+  "id": "20260730-gov_na_qu-effc3a",
+  "source": "gov_na_qu",
+  "source_name_zh": "那曲市政府网",
+  "source_name_en": "那曲 Government Portal",
+  "source_media_id": "gov-cn-prefecture-na_qu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.naqu.gov.cn/nqsrmzf/c100003/202607/041217be03e54442b570871f2c2462dd.shtml",
+  "title_zh": "扎西多吉主持召开市政府党组理论学习中心组学习会议",
+  "title_en": "Zhaxi Dorje Chairs Municipal Government Party Group Study Session",
+  "summary_zh": "近日，那曲市政府党组理论学习中心组举行学习会，市长扎西多吉主持并讲话，强调系统学习习近平总书记重要讲话精神和习近平党建思想。",
+  "summary_en": "Recently, the Theoretical Learning Center Group of Naqu Municipal Government held a study session. Mayor Zhaxi Dorje presided and emphasized systematic study of General Secretary Xi Jinping's important speech and Party building thought.",
+  "body_zh": "近日，那曲市政府党组理论学习中心组举行学习会。市委副书记、市政府党组书记、市长扎西多吉主持并讲话。中心组成员围绕学习内容作了交流发言。\n扎西多吉强调，全市政府系统要在系统“学”上下功夫，完整准确全面学习领会习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神和习近平党建思想，从理论本源上校准思想航向、夯实认知根基，确保各项工作始终沿着党指引的正确方向笃定前行。要在深刻“悟”上下功夫，悟透旗帜鲜明的政治属性、刀刃向内的自我革命、人民至上的根本立场、科学严谨的思想方法，真正做到知其然、知其所以然。要在熟练“用”上下功夫，压实管党治党政治责任，推动党建业务深度融合，健全常态长效落实机制，以高质量党建引领高质量发展。",
+  "image_url": null,
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "理论学习",
+    "党建"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "扎西多吉",
+      "name_en": "Zhaxi Dorje"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NQ",
+      "name_zh": "那曲",
+      "name_en": "Naqu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "扎西多吉",
+    "那曲",
+    "理论学习",
+    "党建",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhaxi Dorje",
+    "Naqu",
+    "Theoretical Study",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260730-gov_na_qu-effc3a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

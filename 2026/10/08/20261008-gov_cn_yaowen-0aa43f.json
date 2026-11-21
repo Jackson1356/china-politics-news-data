@@ -1,0 +1,91 @@
+{
+  "id": "20261008-gov_cn_yaowen-0aa43f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202610/content_7082698.htm",
+  "title_zh": "国庆假期全社会跨区域人员流动量预计21.44亿人次",
+  "title_en": "Cross-Region Travel During National Day Holiday Estimated at 2.144 Billion Trips",
+  "summary_zh": "2026年10月1日至7日国庆假期，全社会跨区域人员流动量预计达21.44亿人次，交通运输部称行业运行总体平稳有序。",
+  "summary_en": "China's Ministry of Transport said cross-region passenger trips during the Oct 1-7 National Day holiday are estimated at 2.144 billion, with rail passenger volume up 13.1% year on year.",
+  "body_zh": "记者从交通运输部获悉：今年国庆假期，交通运输行业运行总体平稳有序。10月1日至7日，累计全社会跨区域人员流动量预计21.44亿人次，日均3.06亿人次。\n公路出行仍为主要方式。累计公路人员流动量预计196420万人次，日均28060万人次。其中，累计公路营业性客运量预计28676万人次，日均4097万人次，同比增长6.8%。\n铁路、民航、水运客流量同比分别增长。累计铁路客运量预计15236万人次，日均2177万人次，同比增长13.1%。累计水路客运量预计1099万人次，日均157万人次，同比增长7.8%。累计民航客运量预计1695万人次，日均242万人次，同比基本持平。（记者 韩鑫）",
+  "image_url": null,
+  "published_at": "2026-10-08T12:00:00+00:00",
+  "event_date": "2026-10-07",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "交通运输",
+    "国庆假期出行",
+    "人员流动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期出行",
+      "name_en": "National Day Holiday Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人员流动",
+      "name_en": "Passenger Mobility"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "交通运输",
+    "国庆假期出行",
+    "人员流动"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Transportation",
+    "National Day Holiday Travel",
+    "Passenger Mobility"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261008-gov_cn_yaowen-0aa43f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/lianbo/202610/content_7082728.htm",
+      "title_zh": "国庆假期交通出行人数超21亿人次",
+      "published_at": "2026-10-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

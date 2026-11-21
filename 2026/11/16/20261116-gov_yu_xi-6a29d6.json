@@ -1,0 +1,96 @@
+{
+  "id": "20261116-gov_yu_xi-6a29d6",
+  "source": "gov_yu_xi",
+  "source_name_zh": "玉溪市政府网",
+  "source_name_en": "玉溪 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yuxi.gov.cn/yxs/tt/20261116/1689343.html",
+  "title_zh": "李强抵马尼拉出席中国—东盟领导人会议",
+  "title_en": "Li Qiang Arrives in Manila for China-ASEAN Leaders' Meeting",
+  "summary_zh": "11月15日晚，国务院总理李强乘包机抵达马尼拉，应邀出席中国—东盟领导人会议，此前他结束了对泰国的正式访问。",
+  "summary_en": "Chinese Premier Li Qiang arrived in Manila on the evening of Nov 15 to attend the China-ASEAN Leaders' Meeting, following an official visit to Thailand.",
+  "body_zh": "李强抵马尼拉出席中国—东盟领导人会议\n应东盟轮值主席国菲律宾总统马科斯邀请，国务院总理李强乘包机于11月15日晚抵达马尼拉尼诺伊·阿基诺国际机场，将出席中国—东盟领导人会议。\n菲律宾财政部长吴诗泽和中国驻菲律宾大使井泉、驻东盟大使王擎等到机场迎接。\n李强是在结束对泰国正式访问后赴马尼拉的。离开曼谷时，泰国副总理兼财政部长艾尼迪和中国驻泰国大使张建卫等到机场送行。",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-15",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "中国—东盟合作",
+    "领导人外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "马尼拉",
+      "name_en": "Manila"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—东盟合作",
+      "name_en": "China-ASEAN Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领导人外交",
+      "name_en": "Leader Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "马尼拉",
+    "中国—东盟合作",
+    "领导人外交"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Manila",
+    "China-ASEAN Cooperation",
+    "Leader Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "马尼拉"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261116-gov_cn_yaowen-25fb6f",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

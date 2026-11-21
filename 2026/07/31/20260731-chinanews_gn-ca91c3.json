@@ -1,0 +1,74 @@
+{
+  "id": "20260731-chinanews_gn-ca91c3",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-31/10669948.shtml",
+  "title_zh": "北斗卫星导航系统已全面完成在轨升级",
+  "title_en": "BeiDou Navigation Satellite System Completes Full In-orbit Upgrade",
+  "summary_zh": "中国卫星导航系统管理办公室7月31日宣布，北斗卫星导航系统已全面完成在轨升级，将提供更稳定可靠的定位导航授时服务。",
+  "summary_en": "China's Satellite Navigation System Administration announced on July 31 that the BeiDou system has completed its in-orbit upgrade, aiming to provide more stable and reliable positioning, navigation and timing services.",
+  "body_zh": "北斗卫星导航系统已全面完成在轨升级\n中新网北京7月31日电 (记者 马帅莎)据中国卫星导航系统管理办公室31日消息，北斗卫星导航系统已全面完成在轨升级。\n后续，系统将在全力确保稳定运行的基础上，丰富发展新的导航技术手段，向全球用户提供更加稳定可靠的定位导航授时服务，努力实现2035年前建设完善更加泛在、更加融合、更加智能的综合时空体系的目标。(完）\n国内新闻精选：\n- 2026年07月31日 20:41:53\n- 2026年07月31日 15:43:22\n- 2026年07月31日 15:19:39\n- 2026年07月31日 12:44:21\n- 2026年07月31日 10:15:46\n- 2026年07月31日 08:02:01\n- 2026年07月30日 22:01:28\n- 2026年07月30日 17:26:28\n- 2026年07月30日 16:57:46\n- 2026年07月30日 16:18:12",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-01T07:03:02Z",
+  "topic": "industry",
+  "keywords": [
+    "北斗导航",
+    "在轨升级"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "北斗导航",
+      "name_en": "BeiDou Navigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "在轨升级",
+      "name_en": "In-orbit Upgrade"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "北斗导航",
+    "在轨升级"
+  ],
+  "tags_en": [
+    "Beijing",
+    "BeiDou Navigation",
+    "In-orbit Upgrade"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-chinanews_gn-ca91c3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

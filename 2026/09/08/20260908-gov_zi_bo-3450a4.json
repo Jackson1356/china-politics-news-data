@@ -1,0 +1,119 @@
+{
+  "id": "20260908-gov_zi_bo-3450a4",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/9/8/art_14322_3019633.html",
+  "title_zh": "林武会见全国新的社会阶层人士“科创中国”服务团一行",
+  "title_en": "Lin Wu Meets Delegation of \"Sci-Tech China\" Service Group for New Social Strata",
+  "summary_zh": "9月7日下午，山东省委书记林武在济南会见中央统战部副部长王瑞军及“科创中国”服务团一行，双方就科技创新与产业合作交流。",
+  "summary_en": "Shandong Party Secretary Lin Wu met with Central United Front Work Department Deputy Head Wang Ruijun and the \"Sci-Tech China\" service delegation in Jinan on Sept. 7 to discuss sci-tech innovation and industrial cooperation.",
+  "body_zh": "林武会见全国新的社会阶层人士“科创中国”服务团一行\n中央统战部组织全国新的社会阶层人士“科创中国”服务团到我省，开展服务考察活动。9月7日下午，省委书记林武在济南会见了中央统战部副部长王瑞军及服务团一行。\n林武向中央统战部长期以来对山东工作的关心支持表示感谢，对服务团一行表示欢迎，并简要介绍了山东经济社会发展情况。他说，近年来，我们深入学习贯彻习近平总书记视察山东重要讲话和重要指示批示精神，牢记嘱托、感恩奋进，锚定“走在前、挑大梁”，稳扎稳打、踏踏实实做好各项工作，现代化强省建设迈出坚实步伐。我们高度重视科创工作，科技创新成效持续显现、展现出良好发展势头。此次服务考察活动，既是一次智汇齐鲁的科创之行，也为我们深化合作提供了难得机会。希望中央统战部一如既往关心支持山东发展，期待各位嘉宾朋友多为山东建言献策，加强交流对接，推动更多项目落地见效，更好助力山东高质量发展。\n王瑞军代表服务团一行对山东长期以来的支持表示感谢。他说，服务团将充分发挥自身优势，进一步加强与山东的产业对接和项目合作，为山东现代化强省建设贡献更多力量。\n阿里云、宁德时代、纬景储能、腾讯、科大讯飞、蚂蚁集团、微博、特斯拉等多家企业负责人出席，部分企业负责人作了发言。\n省委常委邓云锋、单义参加。（记者 于新悦 李子路）",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "科技创新",
+    "新的社会阶层人士",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lin-wu",
+      "name_zh": "林武",
+      "name_en": "Lin Wu"
+    },
+    {
+      "kind": "institution",
+      "id": "CCUFWD",
+      "name_zh": "中央统战部",
+      "name_en": "United Front Work Department of CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新的社会阶层人士",
+      "name_en": "New Social Strata"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "shan-yi-shandong",
+      "name_zh": "单义",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "deng-yunfeng",
+      "name_zh": "邓云锋",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林武",
+    "中央统战部",
+    "济南",
+    "科技创新",
+    "新的社会阶层人士",
+    "产业合作",
+    "单义",
+    "邓云锋"
+  ],
+  "tags_en": [
+    "Lin Wu",
+    "United Front Work Department of CPC Central Committee",
+    "Jinan",
+    "Scientific and Technological Innovation",
+    "New Social Strata",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "shan-yi-shandong",
+      "deng-yunfeng",
+      "lin-wu"
+    ],
+    "institutions": [
+      "CCUFWD"
+    ],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-gov_zi_bo-3450a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20261112-local_si_chuan_zai_xian_cn_sc-f13103",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202611/83355753.html",
+  "title_zh": "习言道丨激励和团结海内外全体中华儿女为实现中华民族伟大复兴而共同奋斗",
+  "title_en": "Xi Yan Dao: Unite All Chinese at Home and Abroad to Strive Together for National Rejuvenation",
+  "summary_zh": "11月12日孙中山先生诞辰160周年之际，习近平总书记指出，要缅怀革命先驱的历史功勋，激励和团结海内外全体中华儿女为实现中华民族伟大复兴而共同奋斗。",
+  "summary_en": "On the 160th anniversary of Sun Yat-sen's birth on Nov 12, Xi Jinping called for honoring the historic achievements of revolutionary forerunners and uniting all Chinese at home and abroad to strive for national rejuvenation.",
+  "body_zh": "习近平总书记指出，缅怀孙中山先生等革命先驱的历史功勋，就是要学习和弘扬他们为振兴中华而矢志不渝的崇高精神，激励和团结海内外全体中华儿女为实现中华民族伟大复兴而共同奋斗。今天是孙中山先生诞辰160周年纪念日，一起聆听总书记重要讲话，学习和继承孙中山先生的宝贵精神，为振兴中华继续奋斗。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "中华民族伟大复兴",
+    "孙中山精神",
+    "爱国主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族伟大复兴",
+      "name_en": "National Rejuvenation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山精神",
+      "name_en": "Sun Yat-sen's Legacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义",
+      "name_en": "Patriotism"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中华民族伟大复兴",
+    "孙中山精神",
+    "爱国主义"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "National Rejuvenation",
+    "Sun Yat-sen's Legacy",
+    "Patriotism"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261112-local_si_chuan_zai_xian_cn_sc-f13103",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

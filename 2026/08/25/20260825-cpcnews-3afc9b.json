@@ -1,0 +1,84 @@
+{
+  "id": "20260825-cpcnews-3afc9b",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0825/c87393-40785575.html",
+  "title_zh": "陈武同志逝世",
+  "title_en": "Comrade Chen Wu Passes Away",
+  "summary_zh": "全国政协副主席陈武因病医治无效，于2026年8月24日15时05分在北京逝世，享年72岁。",
+  "summary_en": "Chen Wu, Vice Chairman of the National Committee of the Chinese People's Political Consultative Conference, passed away from illness in Beijing on August 24, 2026, at the age of 72.",
+  "body_zh": "中国共产党的优秀党员，忠诚的共产主义战士，我国民族工作和经济建设战线的杰出领导人\n新华社北京8月24日电 中国共产党的优秀党员，忠诚的共产主义战士，我国民族工作和经济建设战线的杰出领导人，中国人民政治协商会议第十四届全国委员会副主席陈武同志，因病于2026年8月24日15时05分在北京逝世，享年72岁。\n《 人民日报 》（ 2026年08月25日 01 版）",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "民族工作",
+    "经济建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-wu-cppcc",
+      "name_zh": "陈武",
+      "name_en": "Chen Wu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族工作",
+      "name_en": "Ethnic Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济建设",
+      "name_en": "Economic Development"
+    }
+  ],
+  "tags_zh": [
+    "陈武",
+    "北京",
+    "民族工作",
+    "经济建设"
+  ],
+  "tags_en": [
+    "Chen Wu",
+    "Beijing",
+    "Ethnic Affairs",
+    "Economic Development"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-wu-cppcc"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260825-cpcnews-3afc9b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "20261119-gov_yan_cheng-e4e988",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/11/19/art_60096_11861841.html",
+  "title_zh": "以优质金融服务更好支持江苏企业海外布局投资",
+  "title_en": "Quality Financial Services to Better Support Jiangsu Firms' Overseas Expansion",
+  "summary_zh": "11月17日下午，金融支持苏企“走出去”活动在南京举行，江苏省委常委、常务副省长张文兵、中国银行行长张辉出席并致辞，会上发布首批海外综合金融服务点。",
+  "summary_en": "On the afternoon of Nov 17, an event on financial support for Jiangsu companies going global was held in Nanjing, addressed by Executive Vice Governor Zhang Wenbing and Bank of China President Zhang Hui; the first batch of overseas integrated financial service points was released.",
+  "body_zh": "当前位置：\n以优质金融服务更好支持江苏企业海外布局投资\n11月17日下午，“苏企出海 金融护航”金融支持苏企“走出去”活动在南京举行，50家境内外金融机构、60余家重点“走出去”企业参会。省委常委、常务副省长张文兵，中国银行党委副书记、行长张辉出席并致辞。\n张文兵表示，江苏牢记习近平总书记谆谆嘱托，正坚定不移扩大高水平对外开放。希望各金融机构紧扣江苏优势产业、重点领域需求，积极扩大资源投放和机构布局。江苏将进一步健全海外综合服务体系、完善服务网络，护航企业更好开拓全球市场。\n张辉表示，中国银行将发挥全球化、综合化优势，深化境内外机构联动，推动“苏企出海 中银护航”，构建“启航”“远航”两大服务体系，助力“出海环球通合作联盟”与江苏海外综合服务体系有效衔接，让江苏企业在本地即可对接全球金融资源。\n亚洲基础设施投资银行、新开发银行等国际多边机构，摩根大通、花旗、汇丰、渣打、法国兴业、摩根士丹利、野村证券等知名外资金融机构参会。大家纷纷表示江苏发展前景良好、市场空间广阔，将不断深化联动境内外金融服务，携手推进金融资源互补与业务协同，继续将自身全球网络优势、专业服务能力，与江苏开放优势、产业优势深度结合，为更多江苏企业出海提供更加优质、高效、安全的金融服务。据悉，今年前三季度，全省跨境人民币收付金额达2.7万亿元，近4万家江苏企业获得出口信用保险支持，有力支撑全省进出口总额大幅增长29.8%。\n会上发布了江苏首批海外综合金融服务点、《江苏省支持企业“走出去”金融产品手册》，签订多项合作协议。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "金融服务",
+    "企业出海",
+    "高水平对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "institution",
+      "id": "BOC",
+      "name_zh": "中国银行",
+      "name_en": "Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务",
+      "name_en": "Financial Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "企业出海",
+      "name_en": "Companies Going Global"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Level Opening Up"
+    }
+  ],
+  "tags_zh": [
+    "张文兵",
+    "中国银行",
+    "江苏",
+    "南京",
+    "金融服务",
+    "企业出海",
+    "高水平对外开放"
+  ],
+  "tags_en": [
+    "Zhang Wenbing",
+    "Bank of China",
+    "Jiangsu",
+    "Nanjing",
+    "Financial Services",
+    "Companies Going Global",
+    "High-Level Opening Up"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing",
+      {
+        "id": null,
+        "name_zh": "张辉"
+      }
+    ],
+    "institutions": [
+      "BOC"
+    ],
+    "locations": [
+      "CN-JS",
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-gov_yan_cheng-e4e988",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

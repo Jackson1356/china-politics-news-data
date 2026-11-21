@@ -1,0 +1,121 @@
+{
+  "id": "20261029-gov_shi_zui_shan-825008",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/home/toutu/202610/content_7084491.htm",
+  "title_zh": "中国共产党第二十届中央委员会第五次全体会议在北京举行",
+  "title_en": "Fifth Plenary Session of the 20th CPC Central Committee Held in Beijing",
+  "summary_zh": "2026年10月26日至29日，中国共产党第二十届中央委员会第五次全体会议在北京举行，中央委员会总书记习近平作重要讲话，中央政治局主持会议。",
+  "summary_en": "The Fifth Plenary Session of the 20th CPC Central Committee was held in Beijing from October 26 to 29, 2026. General Secretary Xi Jinping delivered an important speech, and the Political Bureau presided over the session.",
+  "body_zh": "中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。中央委员会总书记习近平作重要讲话。\n中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。中央政治局主持会议。\n中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。这是习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希等在主席台上。\n中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "party",
+  "keywords": [
+    "中央全会",
+    "党的建设和治理",
+    "政策部署"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央政治局",
+      "name_en": "Political Bureau of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央全会",
+      "name_en": "Plenary Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设和治理",
+      "name_en": "Party Building and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政策部署",
+      "name_en": "Policy Deployment"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央政治局",
+    "北京",
+    "中央全会",
+    "党的建设和治理",
+    "政策部署"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Political Bureau of the CPC Central Committee",
+    "Beijing",
+    "Plenary Session",
+    "Party Building and Governance",
+    "Policy Deployment"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央政治局",
+        "name_en": "Political Bureau of the CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261029-gov_shi_zui_shan-825008",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2115980679334981633.html",
+      "title_zh": "中国共产党第二十届中央委员会第五次全体会议在京举行",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202610/f7dc913cceb645b6830646cefe1f3f80.shtml",
+      "title_zh": "中国共产党第二十届中央委员会第五次全体会议在京举行",
+      "published_at": "2026-10-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

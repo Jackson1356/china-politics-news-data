@@ -1,0 +1,119 @@
+{
+  "id": "20260521-peoples_politics-062928",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_url": "http://politics.people.com.cn/n1/2026/0522/c1001-40724992.html",
+  "title_zh": "王毅同摩尔多瓦副总理兼外长波普绍伊会谈",
+  "title_en": "Wang Yi Holds Talks with Moldovan Deputy Prime Minister and Foreign Minister Popșoi",
+  "summary_zh": "5月21日，外交部长王毅在京同摩尔多瓦副总理兼外长波普绍伊举行会谈，双方就共建“一带一路”、多边主义及乌克兰危机等议题交换意见。",
+  "summary_en": "On May 21, Foreign Minister Wang Yi held talks with Moldovan Deputy Prime Minister and Foreign Minister Popșoi in Beijing to discuss the Belt and Road Initiative, multilateralism, and the Ukraine crisis.",
+  "body_zh": "王毅同摩尔多瓦副总理兼外长波普绍伊会谈\n新华社北京5月22日电（记者曹嘉玥）中共中央政治局委员、外交部长王毅21日在京同摩尔多瓦副总理兼外长波普绍伊举行会谈。\n王毅表示，中国主张国家不分大小一律平等，赞赏摩方在涉及中方核心利益问题上坚持正确立场，欢迎摩方更深入参与高质量共建“一带一路”。双方要携手践行四大全球倡议，维护好广大发展中国家正当权益。\n波普绍伊表示，摩尔多瓦赞赏中国在国际事务中发挥的引领作用。摩方恪守一个中国原则，愿同中方共同维护多边主义。\n双方还就乌克兰危机交换意见。王毅重申中方劝和促谈立场。",
+  "image_url": null,
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "event_date": "2026-05-21",
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "一带一路",
+    "多边主义",
+    "乌克兰危机"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "波普绍伊",
+      "name_en": "Popșoi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乌克兰危机",
+      "name_en": "Ukraine Crisis"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "波普绍伊",
+    "北京",
+    "一带一路",
+    "多边主义",
+    "乌克兰危机"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Popșoi",
+    "Beijing",
+    "Belt and Road Initiative",
+    "Multilateralism",
+    "Ukraine Crisis"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260521-peoples_politics-062928",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260522/2a0cb67910eb4206bc9ad759ca5847e8/c.html",
+      "title_zh": "王毅同摩尔多瓦副总理兼外长波普绍伊会谈",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/05-22/10626271.shtml",
+      "title_zh": "王毅：中方赞赏摩尔多瓦在涉及中方核心利益问题上坚持正确立场",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    },
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/05-22/10626262.shtml",
+      "title_zh": "王毅同摩尔多瓦副总理兼外长波普绍伊会谈",
+      "published_at": "2026-05-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

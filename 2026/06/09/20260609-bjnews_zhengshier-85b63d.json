@@ -1,0 +1,110 @@
+{
+  "id": "20260609-bjnews_zhengshier-85b63d",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1780976870129165.html",
+  "title_zh": "李钧任陕西省委秘书长",
+  "title_en": "Li Jun Appointed Secretary-General of Shaanxi Provincial Party Committee",
+  "summary_zh": "6月8日，陕西省委书记赵一德在咸阳市旬邑县检查煤矿安全生产，相关消息显示李钧已任陕西省委秘书长。",
+  "summary_en": "On June 8, Shaanxi Provincial Party Committee Secretary Zhao Yide inspected coal mine safety in Xunyi County, Xianyang, confirming Li Jun's appointment as Secretary-General of the Provincial Party Committee.",
+  "body_zh": "李钧已任陕西省委秘书长\n陕西日报消息，6月8日，陕西省委书记赵一德到咸阳市旬邑县检查煤矿安全生产工作并主持召开专题会。省委常委、常务副省长王晓，省委常委、省委秘书长李钧，省直有关部门、部分中央驻陕单位和咸阳市负责同志参加。\n上述消息显示，陕西省委常委李钧，已任陕西省委秘书长。",
+  "image_url": null,
+  "published_at": "2026-06-09T11:55:28+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-jun-shaanxi",
+      "name_zh": "李钧",
+      "name_en": "Li Jun"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-yide",
+      "name_zh": "赵一德",
+      "name_en": "Zhao Yide"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "陕西省委",
+      "name_en": "Shaanxi Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "咸阳",
+      "name_en": "Xianyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Production Safety"
+    }
+  ],
+  "tags_zh": [
+    "李钧",
+    "赵一德",
+    "陕西省委",
+    "陕西",
+    "咸阳",
+    "人事任免",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Li Jun",
+    "Zhao Yide",
+    "Shaanxi Provincial Party Committee",
+    "Shaanxi",
+    "Xianyang",
+    "Personnel Appointment",
+    "Production Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "li-jun-shaanxi",
+      "zhao-yide"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN"
+    ],
+    "companies": [
+      {
+        "name_zh": "陕西省委",
+        "name_en": "Shaanxi Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260609-bjnews_zhengshier-85b63d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

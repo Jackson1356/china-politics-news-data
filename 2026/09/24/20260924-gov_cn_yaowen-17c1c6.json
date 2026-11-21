@@ -1,0 +1,118 @@
+{
+  "id": "20260924-gov_cn_yaowen-17c1c6",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/24/VIDE5OLyynbrdZIJ9xqglJfL260924.shtml",
+  "title_zh": "李强会见吉尔吉斯斯坦总理卡瑟马利耶夫",
+  "title_en": "Li Qiang Meets Kyrgyz Prime Minister Kasymaliev",
+  "summary_zh": "9月23日，国务院总理李强在杭州会见吉尔吉斯斯坦总理卡瑟马利耶夫，双方就落实元首共识、共建“一带一路”及深化经贸、互联互通合作交换意见。",
+  "summary_en": "On Sept 23, Chinese Premier Li Qiang met Kyrgyz Prime Minister Kasymaliev in Hangzhou to discuss implementing leaders' consensus, high-quality Belt and Road cooperation and deeper trade, connectivity and cultural ties.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强23日在杭州会见吉尔吉斯斯坦总理卡瑟马利耶夫。\n李强表示，近年来，在两国元首战略引领下，中吉关系稳步向前，双方合作进入快速发展的“黄金期”。中方愿同吉方加强协调配合，抓紧落实元首访问成果，深入对接发展战略，继续高质量共建“一带一路”，深化经贸、互联互通、人文等领域合作，推动中吉命运共同体建设取得更多成效。双方要密切多边协作，推动落实上海合作组织峰会成果，进一步做优做强中国—中亚机制，积极践行四大全球倡议。\n卡瑟马利耶夫盛赞中国共产党领导中国人民取得巨大发展成就，表示吉方坚定恪守一个中国原则，愿同中方落实好两国元首重要共识，深化各领域交流合作，更好造福两国人民。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "一带一路",
+    "中国—中亚机制",
+    "上海合作组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ-HZ",
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—中亚机制",
+      "name_en": "China-Central Asia Mechanism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organisation"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杭州",
+    "一带一路",
+    "中国—中亚机制",
+    "上海合作组织"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Hangzhou",
+    "Belt and Road Initiative",
+    "China-Central Asia Mechanism",
+    "Shanghai Cooperation Organisation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-ZJ-HZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260924-gov_cn_yaowen-17c1c6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_zj",
+      "source_tier": 3,
+      "url": "http://zj.people.com.cn/n2/2026/0924/c186327-41706378.html",
+      "title_zh": "李强会见吉尔吉斯斯坦总理卡瑟马利耶夫",
+      "published_at": "2026-09-24T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081896.htm",
+      "title_zh": "李强会见吉尔吉斯斯坦总理卡瑟马利耶夫",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

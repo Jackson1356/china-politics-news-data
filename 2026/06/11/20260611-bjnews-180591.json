@@ -1,0 +1,83 @@
+{
+  "id": "20260611-bjnews-180591",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1781179648129944.html",
+  "title_zh": "中方对菲律宾国防部长特奥多罗及其亲属实施制裁",
+  "title_en": "China Imposes Sanctions on Philippine Defense Secretary Teodoro and His Relatives",
+  "summary_zh": "中国外交部宣布对菲律宾国防部长特奥多罗及其亲属实施制裁，禁止其入境中国内地、香港及澳门，并禁止境内组织个人与其交易合作。",
+  "summary_en": "China's Ministry of Foreign Affairs announced sanctions against Philippine Defense Secretary Teodoro and his relatives, banning them from entering mainland China, Hong Kong, and Macau.",
+  "body_zh": "新京报讯 据外交部消息，外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁。\n菲律宾国防部长特奥多罗多次发表涉华谬论，损害中方正当利益，破坏中菲两国关系。为维护中国国家主权、安全、发展利益，中方决定，禁止特奥多罗及其配偶、子女入境中国内地和香港、澳门，禁止中国境内的组织、个人与特奥多罗及其配偶、子女进行任何交易、合作等活动。",
+  "image_url": null,
+  "published_at": "2026-06-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "制裁",
+    "中菲关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特奥多罗",
+      "name_en": "Gilberto Teodoro"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "制裁",
+      "name_en": "Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中菲关系",
+      "name_en": "China-Philippines Relations"
+    }
+  ],
+  "tags_zh": [
+    "特奥多罗",
+    "外交部",
+    "制裁",
+    "中菲关系"
+  ],
+  "tags_en": [
+    "Gilberto Teodoro",
+    "Ministry of Foreign Affairs",
+    "Sanctions",
+    "China-Philippines Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "罗多次"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20260611-bjnews-180591",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

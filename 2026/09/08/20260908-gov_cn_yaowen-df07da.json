@@ -1,0 +1,110 @@
+{
+  "id": "20260908-gov_cn_yaowen-df07da",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/08/VIDEcMfN1oa79e7HzNb8rFu8260908.shtml",
+  "title_zh": "李强主持国务院第二十一次专题学习",
+  "title_en": "Li Qiang Chairs State Council's 21st Thematic Study Session on Urban Renewal",
+  "summary_zh": "9月8日，国务院举行第二十一次专题学习，总理李强主持并强调高质量推进城市更新、促进城市内涵式发展，建立可持续城市更新模式。",
+  "summary_en": "On Sept 8, Premier Li Qiang chaired the State Council's 21st thematic study session on high-quality urban renewal and connotative development, stressing sustainable urban renewal models.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：9月8日，国务院以“高质量推进城市更新、促进城市内涵式发展”为主题，进行第二十一次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于城市更新工作的重要指示精神和党中央有关决策部署，建立可持续的城市更新模式，促进城市结构优化、功能完善、文脉赓续、品质提升，以城市高质量发展更好满足人民美好生活需要。\n中国城市规划学会理事长杨保军作讲解。国务院副总理丁薛祥、何立峰，国务委员吴政隆作交流发言。\n李强在听取讲解和交流发言后指出，要在实践中深化对城市发展规律的认识，坚持以人为本高质量推进城市更新。要全面践行人民城市理念，把最好的资源留给人民，将盘活改造的公共空间、生态资源等优先用于满足民生需求。把解决群众急难愁盼摆在优先位置，拿出实实在在举措改善居住生活条件。要准确把握城市更新的实践内涵，突出增强防灾减灾能力，积极防范应对各类灾害。突出提高宜居宜业水平，全面提升城市功能品质和发展活力。突出塑造城市特色风貌，保护好景观格局、历史文脉，传承好城市记忆。\n李强强调，城市更新是个系统工程，必须加强统筹协调，凝聚强大合力。要加大政府投入力度，加强要素资源保障，推动重大工程项目建设。要更好发挥市场力量作用，构建多元化可持续投融资体系。要根据需要适时调整优化规划、用地、财税、金融等方面的相关政策、法律法规和标准规范。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "城市更新",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "城市更新",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Urban Renewal",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "李强在"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260908-gov_cn_yaowen-df07da",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080439.htm",
+      "title_zh": "李强主持国务院第二十一次专题学习",
+      "published_at": "2026-09-08T12:00:00+00:00"
+    },
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34030861",
+      "title_zh": "李强主持国务院第二十一次专题学习",
+      "published_at": "2026-09-08T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/0909/c64094-40795125.html",
+      "title_zh": "李强主持国务院第二十一次专题学习",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

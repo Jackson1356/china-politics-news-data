@@ -1,0 +1,109 @@
+{
+  "id": "20261114-gov_cn_yaowen-63bd49",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/14/VIDEn5k7cXxPCHMagS09nHM2261114.shtml",
+  "title_zh": "李强会见泰国国会主席兼下议长索蓬",
+  "title_en": "Li Qiang Meets Thai House Speaker Sophon in Bangkok",
+  "summary_zh": "11月14日上午，国务院总理李强在曼谷会见泰国国会主席兼下议长索蓬，双方就深化经贸、铁路、新能源等领域合作及立法机构交流交换意见。",
+  "summary_en": "On the morning of November 14, Premier Li Qiang met with Thai House Speaker Sophon in Bangkok, discussing deeper cooperation in trade, the China-Thailand railway, new energy and legislative exchanges.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：11月14日上午，国务院总理李强在曼谷会见泰国国会主席兼下议长索蓬，泰国国会副主席兼上议长蒙坤等参加会见。\n李强表示，这些年，在习近平主席和哇集拉隆功国王战略引领下，中泰关系持续稳健发展，各领域合作富有成效。去年，中泰隆重庆祝了建交50周年暨友谊金色50年，两国关系站上新的历史起点，迎来新的发展契机。面向未来，中方愿同泰方一道弘扬传统友谊，筑牢政治互信，推动中泰命运共同体建设不断走深走实，为双方人民带来更多福祉，更好服务两国现代化建设。\n李强指出，中方愿同泰方深化经贸往来，加快推进中泰铁路建设，鼓励两国企业开展新能源、电子信息等新兴领域合作，加强协同创新，共促产业升级。双方要深化文化、青年、教育、地方等领域交流合作，增进国民相互了解和友谊，厚植友好民意基础。加强多边协调配合，维护两国共同利益和国际公平正义。希望两国立法机构加强交流合作，支持两国重大项目建设和务实合作，在提供法治保障、促进民心相通等方面发挥更大作用。\n索蓬表示，泰中友谊源远流长。中国共产党带领中国人民取得举世瞩目发展成就，泰方深表敬佩。泰方坚定奉行一个中国政策，愿同中方继续密切高层交往，推进互联互通、人文教育、执法安全、旅游等领域交流合作，加强国际协作，携手应对共同挑战。泰国会愿为两国务实互利合作提供良好法治环境和保障，更好造福两国人民。",
+  "image_url": null,
+  "published_at": "2026-11-14T12:00:00+00:00",
+  "event_date": "2026-11-14",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "中泰命运共同体",
+    "中泰铁路",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "曼谷",
+      "name_en": "Bangkok"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中泰命运共同体",
+      "name_en": "China-Thailand Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中泰铁路",
+      "name_en": "China-Thailand Railway"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "曼谷",
+    "中泰命运共同体",
+    "中泰铁路",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Bangkok",
+    "China-Thailand Community with a Shared Future",
+    "China-Thailand Railway",
+    "Trade and Economic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261114-gov_cn_yaowen-63bd49",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086033.htm",
+      "title_zh": "李强会见泰国国会主席兼下议长索蓬",
+      "published_at": "2026-11-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "20261031-gov_shuo_zhou-709693",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202610/t20261031_809228.shtml",
+  "title_zh": "朔州市召开全市服务业大会",
+  "title_en": "Shuozhou Holds Citywide Service Industry Conference",
+  "summary_zh": "10月29日，朔州市召开全市服务业大会，市长吴秀玲出席并讲话，部署服务业扩能提质工作。",
+  "summary_en": "On Oct 29, Shuozhou held a citywide service industry conference. Mayor Wu Xiuling attended and spoke, deploying work to expand and upgrade the service sector.",
+  "body_zh": "10月29日，全市服务业大会召开。会议深入学习贯彻习近平总书记关于服务业发展的重要论述和对山西工作的重要讲话重要指示精神，全面落实全国、全省服务业大会精神，研究分析我市服务业发展面临的新形势新任务，部署当前和今后一个时期的服务业扩能提质工作。市委副书记、市长吴秀玲出席并讲话，市领导高喜全、刘亮、魏元平、邵平安、赵香花出席。\n会议指出，党的十八大以来，以习近平同志为核心的党中央高度重视服务业发展，围绕服务业发展作出了一系列重要指示批示。各级各部门要深入学习领会习近平总书记重要指示批示精神，切实把思想和行动统一到党中央决策部署及省委工作要求上来，坚决克服惯性思维，把推动服务业发展放在更加重要位置，以更大力度、更实举措推动服务业扩能提质和优质高效发展，努力开创全市服务业高质量发展新局面。\n会议指出，“十五五”时期是我市加快服务业扩能提质的关键机遇期。要深入实施创新驱动发展战略，加快构建全链条科技服务体系，大力发展现代物流产业，打造高效畅通的物流体系，优化金融服务供给，办好用好展会平台，推进生产性服务业向专业化和价值链高端延伸。要创新方式方法，持续促进大宗商品消费，稳步提振乡村消费，做精做细特色文旅服务，培育壮大升级医养健康产业，积极拓展冰雪、生态康养、赛事体育等新业态、新模式，促进生活性服务业高品质多样化便利化发展。要树牢“一盘棋”思想，加强信息共享、协同联动，精准谋划储备一批补短板、强功能、增后劲的服务业项目，加快服务业集聚区建设，分类梯次培育优质服务企业，全力优化发展环境，做细做实服务保障，凝聚推动高质量发展的强大合力，为谱写中国式现代化朔州篇章作出新的更大贡献。\n会议以视频会议形式开至县（市、区）一级。市发展改革委通报了有关情况，市工信局、市商务局、市文旅局、朔城区和怀仁市政府负责人作了发言。\n（文/孙权 符烨邦 闫红祥 高文武）",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "economy",
+  "keywords": [
+    "服务业发展",
+    "扩能提质",
+    "现代物流"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务业发展",
+      "name_en": "Service Industry Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩能提质",
+      "name_en": "Capacity Expansion and Quality Improvement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代物流",
+      "name_en": "Modern Logistics"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "服务业发展",
+    "扩能提质",
+    "现代物流",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Service Industry Development",
+    "Capacity Expansion and Quality Improvement",
+    "Modern Logistics"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "任务"
+      },
+      {
+        "id": null,
+        "name_zh": "赵香花"
+      },
+      {
+        "id": null,
+        "name_zh": "吴秀玲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261031-gov_shuo_zhou-709693",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

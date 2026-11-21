@@ -1,0 +1,105 @@
+{
+  "id": "20261022-paper_zhengjing-ad964b",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34310053",
+  "title_zh": "习近平：新征程是党和人民的新长征",
+  "title_en": "Xi Jinping: The New Journey Is the Party and People's New Long March",
+  "summary_zh": "10月22日上午，纪念中国工农红军长征胜利90周年大会在北京人民大会堂举行，习近平发表重要讲话，称新征程是党和人民的新长征。",
+  "summary_en": "On the morning of Oct 22, a meeting marking the 90th anniversary of the Long March victory was held in Beijing, where Xi Jinping said the new journey is the Party and people's new Long March.",
+  "body_zh": "纪念中国工农红军长征胜利90周年大会22日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话指出，新征程是充满光荣和梦想的远征，是党和人民的新长征。抚今追昔、展望未来，我们要大力弘扬伟大长征精神，同心协力走好新的长征路。\nAndroid版\niPhone版\niPad版\n沪公网安备31010602008124号",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "新征程"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新征程",
+      "name_en": "New Journey"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央",
+    "北京",
+    "长征精神",
+    "新征程"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "Beijing",
+    "Long March Spirit",
+    "New Journey"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261022-paper_zhengjing-ad964b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://news.jschina.com.cn/bdzj/202610/t20261022_s6ad9fecbe4b04cee9c70af75.shtml",
+      "title_zh": "习近平：新征程是党和人民的新长征_中国江苏网",
+      "published_at": "2026-10-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

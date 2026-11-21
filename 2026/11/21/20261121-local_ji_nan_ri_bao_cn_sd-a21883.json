@@ -1,0 +1,84 @@
+{
+  "id": "20261121-local_ji_nan_ri_bao_cn_sd-a21883",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/content/2026-11-21/2026B2100068.html",
+  "title_zh": "聚焦APEC丨追梦的热土 共同的家园",
+  "title_en": "APEC Spotlight: A Land of Dreams, a Shared Home",
+  "summary_zh": "在亚太经合组织第三十三次领导人非正式会议欢迎晚宴的祝酒辞中，习近平主席指出，深圳是一个有大故事的地方，深圳的故事是中国改革开放的缩影，也是亚太合作的成功范例。",
+  "summary_en": "In a toast at the welcome banquet of the 33rd APEC Economic Leaders' Meeting, President Xi Jinping said Shenzhen has a great story to tell, calling it a microcosm of China's reform and opening up and a successful example of Asia-Pacific cooperation.",
+  "body_zh": "聚焦APEC丨追梦的热土 共同的家园\n在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞中，习近平主席指出：深圳是一个有大故事的地方。深圳的故事是中国改革开放的缩影，也是亚太合作的成功范例。\n统筹：詹勇 王攀\n执行：汤丹鹭 彭纯 黄玫 毕秋兰\n创意：梁甜甜 杨立原\n记者：许丹睿 邱虹 朱静 王小玉 王亚梅 侯鸿博\n视频制作：杨立原 高杰 陈凯昊 李俊豪\n新华网、新华社广东分社\n联合出品\n(新华网原创作品)\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太合作",
+    "改革开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "改革开放",
+      "name_en": "Reform and Opening Up"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "亚太合作",
+    "改革开放"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "Asia-Pacific Cooperation",
+    "Reform and Opening Up"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-local_ji_nan_ri_bao_cn_sd-a21883",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

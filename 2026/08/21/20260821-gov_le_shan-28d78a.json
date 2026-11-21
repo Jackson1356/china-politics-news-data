@@ -1,0 +1,94 @@
+{
+  "id": "20260821-gov_le_shan-28d78a",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078822.htm",
+  "title_zh": "刘国中安排部署秋粮生产和农业防灾减灾工作",
+  "title_en": "Liu Guozhong Arranges Autumn Grain Production and Agricultural Disaster Prevention and Reduction",
+  "summary_zh": "8月21日，中共中央政治局委员、国务院副总理刘国中到农业农村部召开视频调度会，安排部署秋粮生产和农业防灾减灾工作，强调全力以赴夺取全年粮食丰收。",
+  "summary_en": "On August 21, Liu Guozhong, member of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council, held a video conference at the Ministry of Agriculture and Rural Affairs to arrange autumn grain production and agricultural disaster prevention and reduction, stressing efforts to achieve a full-year grain harvest.",
+  "body_zh": "刘国中在安排部署秋粮生产和农业防灾减灾工作时强调\n扎实做好农业防灾减灾工作\n全力以赴夺取全年粮食丰收\n新华社北京8月21日电 中共中央政治局委员、国务院副总理刘国中8月21日到农业农村部召开视频调度会，安排部署秋粮生产和农业防灾减灾工作。他强调，要认真贯彻落实习近平总书记重要指示批示精神，按照党中央、国务院部署，盯紧盯牢关键环节，落实落细关键措施，扎实做好农业防灾减灾工作，牢牢把握住秋粮生产主动权，全力以赴夺取全年粮食丰收。\n刘国中强调，秋粮是全年粮食生产的大头，当前正处于产量形成关键期。要密切监测雨情、汛情、墒情、苗情和病虫情，及时发布预报预警，开展精准技术指导。要分区分类推进秋粮田管，落实各项稳产增产措施，抓紧组织“一喷多促”作业。要突出关口前移，防范应对后期各类气象灾害和病虫害，提升粮食烘干能力，尽量降低灾害损失。对因灾出现返贫致贫风险的农户及时进行帮扶。要持续开展农田沟渠修复整治和平原涝区治理，因地制宜做好灾后恢复生产，高质量推进高标准农田建设。\n刘国中强调，秋粮生产是当前“三农”工作重点任务，各地要落实粮食安全党政同责要求，做到工作到位、政策落实、措施落地，有关部门要各司其职、密切配合，把粮食生产目标任务落到实处。\n8月20日，刘国中还到河北调研秋粮长势、高标准农田建设、农资供应保障和气象为农服务情况。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-21",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "economy",
+  "keywords": [
+    "秋粮生产",
+    "农业防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-guozhong",
+      "name_zh": "刘国中",
+      "name_en": "Liu Guozhong"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮生产",
+      "name_en": "Autumn Grain Production"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业防灾减灾",
+      "name_en": "Agricultural Disaster Prevention and Reduction"
+    }
+  ],
+  "tags_zh": [
+    "刘国中",
+    "农业农村部",
+    "北京",
+    "秋粮生产",
+    "农业防灾减灾"
+  ],
+  "tags_en": [
+    "Liu Guozhong",
+    "Ministry of Agriculture and Rural Affairs",
+    "Beijing",
+    "Autumn Grain Production",
+    "Agricultural Disaster Prevention and Reduction"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-guozhong"
+    ],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260821-gov_cn_yaowen-28d78a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

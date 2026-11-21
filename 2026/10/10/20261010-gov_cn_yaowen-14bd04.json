@@ -1,0 +1,125 @@
+{
+  "id": "20261010-gov_cn_yaowen-14bd04",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082890.htm",
+  "title_zh": "中欧贸易投资磋商机制第二次例会发布联合声明",
+  "title_en": "Second Meeting of China-EU Trade and Investment Consultation Mechanism Issues Joint Statement",
+  "summary_zh": "10月8日至9日，商务部部长王文涛在北京与欧盟委员谢夫乔维奇共同主持中欧贸易投资磋商机制第二次例会，形成16条成果共识并发表联合声明。",
+  "summary_en": "On Oct 8-9 in Beijing, Commerce Minister Wang Wentao and EU Commissioner Šefčovič co-chaired the second China-EU trade and investment consultation meeting, issuing a joint statement with 16 agreed outcomes.",
+  "body_zh": "新华社北京10月9日电（记者谢希瑶、王聿昊）10月8日至9日，商务部部长王文涛在北京与欧盟委员会贸易和经济安全委员谢夫乔维奇共同主持召开中欧贸易投资磋商机制第二次例会并发表联合声明。双方进行了务实、富有成效的讨论，并形成成果共识清单。\n清单围绕贸易和投资平衡、出口管制、知识产权、世贸组织改革等方面形成了16条具体成果共识。其中包括：双方将继续探讨在世贸组织规则框架下，降低部分商品关税的可能性；双方以符合世贸组织规则的方式就混动汽车贸易达成谅解；双方将继续电动汽车反补贴案企业价格承诺和复审相关程序；双方同意就欧盟外国补贴条例（FSR）开展技术对话；中方愿通过“绿色通道”机制，为稀土及永磁体对欧出口许可审批继续提供便利，欧方将继续与成员国一道，为解决两用领域对华重点许可个案提供便利；双方同意探讨投资合作，促进彼此经济发展，并讨论开展面向未来的合作等。\n双方重申，作为关键贸易伙伴，在世贸组织规则框架下，妥善处理双方分歧，致力于继续稳定双边经贸关系，并使其更加平衡。双方商定，将于2027年3月召开机制第三次例会，在此之前双方将保持密切沟通，包括1月举行部长级视频会议。\n双方均认为，第二次例会是中欧深化合作的新起点，责成工作团队持续推进后续工作，推动相关成果共识尽早落地，为中欧贸易投资磋商机制第三次例会做好准备。",
+  "image_url": null,
+  "published_at": "2026-10-10T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-11T10:43:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧经贸关系",
+    "贸易投资磋商",
+    "世贸组织改革",
+    "电动汽车反补贴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-wentao",
+      "name_zh": "王文涛",
+      "name_en": "Wang Wentao"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "欧盟委员会",
+      "name_en": "European Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易投资磋商",
+      "name_en": "Trade and Investment Consultation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世贸组织改革",
+      "name_en": "WTO Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电动汽车反补贴",
+      "name_en": "EV Anti-Subsidy"
+    }
+  ],
+  "tags_zh": [
+    "王文涛",
+    "商务部",
+    "欧盟委员会",
+    "北京",
+    "中欧经贸关系",
+    "贸易投资磋商",
+    "世贸组织改革",
+    "电动汽车反补贴"
+  ],
+  "tags_en": [
+    "Wang Wentao",
+    "Ministry of Commerce",
+    "European Commission",
+    "Beijing",
+    "China-EU Economic and Trade Relations",
+    "Trade and Investment Consultation",
+    "WTO Reform",
+    "EV Anti-Subsidy"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-wentao"
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "欧盟委员会",
+        "name_en": "European Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261010-gov_cn_yaowen-14bd04",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

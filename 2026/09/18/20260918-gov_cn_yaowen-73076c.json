@@ -1,0 +1,122 @@
+{
+  "id": "20260918-gov_cn_yaowen-73076c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081393.htm",
+  "title_zh": "王毅会见印度尼西亚国家经济委员会主席卢胡特",
+  "title_en": "Wang Yi Meets with Luhut, Chair of Indonesia's National Economic Council",
+  "summary_zh": "9月17日，中共中央政治局委员、外交部长王毅在北京会见印度尼西亚国家经济委员会主席卢胡特，双方就中印尼全面战略伙伴关系及务实合作交换意见。",
+  "summary_en": "On September 17, Chinese Foreign Minister Wang Yi met in Beijing with Luhut, Chair of Indonesia's National Economic Council, to discuss the China-Indonesia comprehensive strategic partnership and practical cooperation.",
+  "body_zh": "新华社北京9月17日电 中共中央政治局委员、外交部长王毅17日在北京会见印度尼西亚国家经济委员会主席卢胡特。\n王毅转达习近平主席对普拉博沃总统的亲切问候，表示在两国元首战略引领下，中印尼全面战略伙伴关系持续深入发展。中国愿同印尼携手推进全球南方联合自强。两国要加强发展战略对接，推动合作转型升级。中国愿帮助印尼提高自主发展能力，加快现代化进程。\n卢胡特转达普拉博沃总统对习近平主席的诚挚问候，表示印尼高度重视对华关系，愿同中方一道努力，将两国全面战略伙伴关系切实转化为更多务实合作成果。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "中印尼全面战略伙伴关系",
+    "全球南方",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "卢胡特",
+      "name_en": "Luhut Binsar Pandjaitan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "印度尼西亚国家经济委员会",
+      "name_en": "National Economic Council of Indonesia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中印尼全面战略伙伴关系",
+      "name_en": "China-Indonesia Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球南方",
+      "name_en": "Global South"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "卢胡特",
+    "北京",
+    "印度尼西亚国家经济委员会",
+    "中印尼全面战略伙伴关系",
+    "全球南方",
+    "务实合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Luhut Binsar Pandjaitan",
+    "Beijing",
+    "National Economic Council of Indonesia",
+    "China-Indonesia Comprehensive Strategic Partnership",
+    "Global South",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "印度尼西亚国家经济委员会",
+        "name_en": "National Economic Council of Indonesia"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260918-gov_cn_yaowen-73076c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

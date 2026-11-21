@@ -1,0 +1,86 @@
+{
+  "id": "20261003-gov_cn_yaowen-16dcda",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202610/content_7082629.htm",
+  "title_zh": "国庆假期第三天全国道路交通平稳有序",
+  "title_en": "Nationwide Road Traffic Remains Orderly on Third Day of National Day Holiday",
+  "summary_zh": "10月3日，公安部交通管理局表示，国庆假期第三天全国道路交通流量持续回落但仍处高位，各地交管部门加强重点路段疏导管控、严查交通违法，截至19时全国道路交通总体平稳有序。",
+  "summary_en": "On October 3, the Traffic Management Bureau of the Ministry of Public Security said traffic volume kept falling but stayed high on the third day of the National Day holiday, as traffic police stepped up guidance on key routes and crackdowns on violations; by 19:00 nationwide road traffic was generally orderly.",
+  "body_zh": "新华社北京10月3日电（记者孙鹏程）记者10月3日从公安部交通管理局获悉，国庆假期第三天，全国道路交通流量持续回落，但仍处于高位运行。各级公安交管部门针对假期出行特点，科学调配勤务部署，加强对景区周边等重点路段疏导管控，持续严管严查交通违法，广泛开展交通安全宣传提示，全力保障人民群众假期出行平安顺畅。截至19时，全国道路交通总体平稳有序。",
+  "image_url": null,
+  "published_at": "2026-10-03T12:00:00+00:00",
+  "event_date": "2026-10-03",
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "welfare",
+  "keywords": [
+    "交通安全",
+    "国庆假期出行",
+    "交通管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "公安部交通管理局",
+      "name_en": "Traffic Management Bureau of the Ministry of Public Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通安全",
+      "name_en": "Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期出行",
+      "name_en": "National Day Holiday Travel"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通管理",
+      "name_en": "Traffic Management"
+    }
+  ],
+  "tags_zh": [
+    "公安部交通管理局",
+    "交通安全",
+    "国庆假期出行",
+    "交通管理"
+  ],
+  "tags_en": [
+    "Traffic Management Bureau of the Ministry of Public Security",
+    "Traffic Safety",
+    "National Day Holiday Travel",
+    "Traffic Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "公安部交通管理局",
+        "name_en": "Traffic Management Bureau of the Ministry of Public Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261003-gov_cn_yaowen-16dcda",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

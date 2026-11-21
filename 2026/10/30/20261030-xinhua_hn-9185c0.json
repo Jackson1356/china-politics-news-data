@@ -1,0 +1,84 @@
+{
+  "id": "20261030-xinhua_hn-9185c0",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261030/7c4515da4e294ac99774f8ae1aebcf18/c.html",
+  "title_zh": "谢卫江任湖南省代省长",
+  "title_en": "Xie Weijiang Appointed Acting Governor of Hunan Province",
+  "summary_zh": "湖南省十四届人大常委会第二十六次会议10月30日接受沈晓明辞去省人大常委会主任、毛伟明辞去省长职务，任命谢卫江为副省长、代理省长。",
+  "summary_en": "The Standing Committee of the Hunan Provincial People's Congress accepted Shen Xiaoming's resignation as its director and Mao Weiming's as governor on Oct 30, appointing Xie Weijiang as vice governor and acting governor.",
+  "body_zh": "新华社长沙10月30日电 湖南省第十四届人民代表大会常务委员会第二十六次会议10月30日决定：接受沈晓明辞去湖南省人大常委会主任职务的请求，接受毛伟明辞去湖南省人民政府省长职务的请求，任命谢卫江为湖南省人民政府副省长、代理省长。",
+  "image_url": null,
+  "published_at": "2026-10-30T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "地方政府领导调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方政府领导调整",
+      "name_en": "Local Government Leadership Change"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "湖南",
+    "人事任免",
+    "地方政府领导调整"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Hunan",
+    "Personnel Appointment",
+    "Local Government Leadership Change"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261030-xinhua_hn-9185c0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

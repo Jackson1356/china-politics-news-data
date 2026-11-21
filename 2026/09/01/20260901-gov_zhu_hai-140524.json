@@ -1,0 +1,88 @@
+{
+  "id": "20260901-gov_zhu_hai-140524",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3936966.html",
+  "title_zh": "吴泽桐调研教育并检查开学准备工作",
+  "title_en": "Wu Zetong Inspects Education and School Preparation",
+  "summary_zh": "8月31日，珠海市长吴泽桐赴高新区调研教育并检查开学准备工作，强调以高水平教育支撑高质量发展。",
+  "summary_en": "On August 31, Zhuhai Mayor Wu Zetong visited the high-tech zone to inspect education and school preparation, emphasizing high-quality education for high-quality development.",
+  "body_zh": "吴泽桐调研教育并检查开学准备工作 以高水平教育支撑高质量发展\n8月31日，市委副书记、市长吴泽桐赴高新区调研教育并检查开学准备工作，强调要深入学习贯彻习近平总书记关于教育和平安建设的重要论述，认真落实省委、省政府及市委部署要求，持续推动教育扩优提质，全力筑牢校园安全与健康防线，以高水平教育支撑高质量发展。\n在北京师范大学（珠海）附属高级中学、北京理工大学附属实验学校、北师香港浸会大学，吴泽桐走进教学楼、教室、饭堂、监控室、实验室等地，实地察看校舍加固改造项目建设、九年一贯制办学和一体化课程设置、食品安全及防蚊灭蚊等情况，向师生致以新学期的问候。他指出，教育事业关乎千家万户，更关系着现代化建设人才的培养。要全面落实立德树人根本任务，持续推动基础教育均衡发展，加快构建优质的基本公共教育服务体系，努力办好人民满意的教育。要紧紧围绕教学所需，坚持长短结合、统筹兼顾，分步推进校舍建设工作，努力提供更好的硬件设施，让师生舒心、家长放心。要优化完善校地合作常态化对接机制，发挥母校纽带、校友资源作用，加强与香港高校、科研机构联系合作，加大区域产业发展关键共性技术瓶颈协同攻关力度，在科技创新、平台建设、成果转化等方面协同发力，让更多科技成果从“实验室”走向“生产线”，更好地服务地方经济社会高质量发展。要扎实做好校园安全各项工作，加强校园及周边治安环境综合治理，全面排查整治消防、交通、用水用电、校园餐等各类安全隐患，加强防风防汛工作，切实筑牢校园安全防线。要扎实做好校园传染病多病同防工作，抢抓开学“窗口期”，深入开展爱国卫生运动和重点场所清洁消杀工作，加强监测预警和应急处置准备，积极引导师生自觉做好个人防护，全力守护广大师生身体健康和生命安全。",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "教育",
+    "校园安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-zetong-zhuhai",
+      "name_zh": "吴泽桐",
+      "name_en": "Wu Zetong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育",
+      "name_en": "Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校园安全",
+      "name_en": "Campus Safety"
+    }
+  ],
+  "tags_zh": [
+    "吴泽桐",
+    "珠海",
+    "教育",
+    "校园安全"
+  ],
+  "tags_en": [
+    "Wu Zetong",
+    "Zhuhai",
+    "Education",
+    "Campus Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zetong-zhuhai",
+      {
+        "id": null,
+        "name_zh": "高新区"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260901-gov_zhu_hai-140524",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

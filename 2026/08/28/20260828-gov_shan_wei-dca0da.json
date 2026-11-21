@@ -1,0 +1,96 @@
+{
+  "id": "20260828-gov_shan_wei-dca0da",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1271947.html",
+  "title_zh": "汕尾市八届人大常委会第四十七次会议召开",
+  "title_en": "Shanwei Municipal People's Congress Standing Committee Convenes 47th Session",
+  "summary_zh": "会议审议通过国民经济与预算调整方案，修改九项地方性法规，并作出人事任免事项。",
+  "summary_en": "The 47th meeting of Shanwei Municipal People's Congress Standing Committee approved adjustments to economic plans and fiscal budget, amended nine local regulations, and made personnel decisions.",
+  "body_zh": "会议听取和审议市政府关于汕尾市2026年上半年国民经济和社会发展计划执行情况的报告、关于汕尾市2026年重点建设项目计划调整方案的报告、关于汕尾市2026年上半年预算执行情况的报告、关于汕尾市2026年市级财政预算调整方案的报告，决定批准汕尾市2026年重点建设项目计划调整方案、汕尾市2026年市级财政预算调整方案。\n会议审议《汕尾市海岸线保护和利用条例（草案）》、《<汕尾市水环境保护条例>等九项地方性法规的修正案（草案）》，通过《汕尾市人民代表大会常务委员会关于修改<汕尾市水环境保护条例>等九项地方性法规的决定》，报请省人大常委会批准。\n会议决定汕尾市第九届人民代表大会代表名额分配和选举时间；审议通过市人大常委会代表资格审查委员会关于代表资格终止的报告；还进行了人事任免事项，并举行宪法宣誓仪式。\n市人大常委会副主任黄宏伟、李惠文、吴国华、吴城鑫、曾繁文出席会议。副市长周小壮，市检察院检察长杨明哲，市监委、市法院负责同志，市直有关单位、各县（市、区）人大常委会负责同志等列席会议。（记者 林舒雅）",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "economy",
+  "keywords": [
+    "国民经济",
+    "财政预算",
+    "地方立法",
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国民经济",
+      "name_en": "National Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政预算",
+      "name_en": "Fiscal Budget"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方立法",
+      "name_en": "Local Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    }
+  ],
+  "tags_zh": [
+    "汕尾",
+    "国民经济",
+    "财政预算",
+    "地方立法",
+    "人事任免"
+  ],
+  "tags_en": [
+    "National Economy",
+    "Fiscal Budget",
+    "Local Legislation",
+    "Personnel Appointments"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "曾繁文"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260828-gov_shan_wei-dca0da",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

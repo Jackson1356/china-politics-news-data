@@ -1,0 +1,133 @@
+{
+  "id": "20261118-gov_cn_yaowen-91f87f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086540.htm",
+  "title_zh": "王小洪会见马来西亚内政部部长赛义夫丁",
+  "title_en": "Wang Xiaohong Meets Malaysian Minister of Home Affairs Saifuddin",
+  "summary_zh": "11月18日，国务委员、公安部部长王小洪在深圳会见马来西亚内政部部长赛义夫丁，双方就联合打击跨国犯罪、共建国际打击电信网络诈骗联盟等合作达成共识，并签署有关合作文件。",
+  "summary_en": "On November 18, State Councilor and Public Security Minister Wang Xiaohong met Malaysian Home Affairs Minister Saifuddin in Shenzhen; the two sides agreed to deepen joint action against transnational crime and build an international anti-telecom fraud alliance, signing cooperation documents.",
+  "body_zh": "新华社深圳11月18日电（记者曹嘉玥）国务委员、公安部部长王小洪18日在深圳会见马来西亚内政部部长赛义夫丁。\n王小洪表示，中方愿同马方一道，认真落实两国领导人重要共识，深入开展联合打击跨国犯罪行动，共同推动国际打击电信网络诈骗联盟建设，加强重点领域合作，不断提升两国执法安全合作水平，助力构建高水平战略性中马命运共同体，更好造福两国人民。\n赛义夫丁表示，愿同中方保持密切沟通，推动两国执法安全合作不断向前发展。\n双方签署有关合作文件。",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "执法安全合作",
+    "打击跨国犯罪",
+    "电信网络诈骗治理",
+    "中马命运共同体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xiaohong",
+      "name_zh": "王小洪",
+      "name_en": "Wang Xiaohong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赛义夫丁",
+      "name_en": "Saifuddin"
+    },
+    {
+      "kind": "institution",
+      "id": "MPS",
+      "name_zh": "公安部",
+      "name_en": "Ministry of Public Security"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "马来西亚内政部",
+      "name_en": "Malaysian Ministry of Home Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "执法安全合作",
+      "name_en": "Law Enforcement and Security Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "打击跨国犯罪",
+      "name_en": "Combating Transnational Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电信网络诈骗治理",
+      "name_en": "Telecom and Online Fraud Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中马命运共同体",
+      "name_en": "China-Malaysia Community with a Shared Future"
+    }
+  ],
+  "tags_zh": [
+    "王小洪",
+    "赛义夫丁",
+    "公安部",
+    "马来西亚内政部",
+    "深圳",
+    "执法安全合作",
+    "打击跨国犯罪",
+    "电信网络诈骗治理",
+    "中马命运共同体"
+  ],
+  "tags_en": [
+    "Wang Xiaohong",
+    "Saifuddin",
+    "Ministry of Public Security",
+    "Malaysian Ministry of Home Affairs",
+    "Shenzhen",
+    "Law Enforcement and Security Cooperation",
+    "Combating Transnational Crime",
+    "Telecom and Online Fraud Governance",
+    "China-Malaysia Community with a Shared Future"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-xiaohong"
+    ],
+    "institutions": [
+      "MPS"
+    ],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "马来西亚内政部",
+        "name_en": "Malaysian Ministry of Home Affairs"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261118-gov_cn_yaowen-91f87f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

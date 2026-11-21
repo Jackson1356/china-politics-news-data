@@ -1,0 +1,83 @@
+{
+  "id": "20261110-xinhua_politics-d90231",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261110/fcdb4fc973e24280b139c7281531995d/c.html",
+  "title_zh": "中国记协举办新闻茶座 聚焦党的理论创新",
+  "title_en": "All-China Journalists Association Holds Press Salon on Party Theoretical Innovation",
+  "summary_zh": "11月10日，中国记协在北京举办“习近平党建思想与党的理论创新”主题新闻茶座，邀请教授韩强与境内外记者交流并回答提问。",
+  "summary_en": "On November 10, the All-China Journalists Association held a press salon in Beijing on Xi Jinping's thought on Party building and Party theoretical innovation, inviting Professor Han Qiang to exchange views with domestic and foreign journalists.",
+  "body_zh": "新华社北京11月10日电（记者唐健辉）中国记协11月10日在京举办“习近平党建思想与党的理论创新”主题新闻茶座，邀请北京外国语大学马克思主义学院原院长、教授韩强，与境内外记者进行交流。\n中国共产党二十届五中全会总结新时代全面从严治党伟大成就和宝贵经验，对持之以恒推进全面从严治党作出战略部署。韩强结合全会精神，与现场记者交流，并回答了提问。\n据了解，中国记协自2008年起举办新闻茶座活动，搭建媒体沟通交流平台，邀请权威专家解读中国政策理念、阐释中方立场主张。",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "党的理论创新",
+    "全面从严治党",
+    "习近平党建思想"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的理论创新",
+      "name_en": "Party Theoretical Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "习近平党建思想",
+      "name_en": "Xi Jinping's Thought on Party Building"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "党的理论创新",
+    "全面从严治党",
+    "习近平党建思想"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Party Theoretical Innovation",
+    "Full and Rigorous Party Governance",
+    "Xi Jinping's Thought on Party Building"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261110-xinhua_politics-d90231",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

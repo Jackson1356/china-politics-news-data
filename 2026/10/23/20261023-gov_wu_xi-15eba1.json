@@ -1,0 +1,101 @@
+{
+  "id": "20261023-gov_wu_xi-15eba1",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/10/23/4847866.shtml",
+  "title_zh": "TCL来锡对接深化合作",
+  "title_en": "TCL Visits Wuxi to Deepen Cooperation",
+  "summary_zh": "10月22日，无锡市委书记蒋锋、代市长蔡剑峰与TCL创始人李东生一行会谈，围绕集成电路产业深化合作。",
+  "summary_en": "On Oct 22, Wuxi Party Secretary Jiang Feng and Acting Mayor Cai Jianfeng met TCL founder Li Dongsheng to discuss deepening cooperation in integrated circuits.",
+  "body_zh": "发布时间：2026-10-23 07:52 文字大小： [ 大 中 小 ] 浏览次数：\n10月22日，TCL来锡对接深化合作。市委书记蒋锋、代市长蔡剑峰与TCL创始人、董事长李东生一行会谈。TCL科技高级副总裁、TCL中环副董事长、中环领先总经理王彦君，TCL科技高级副总裁、董事会秘书廖骞，市领导刘建东、周文栋参加会谈。\n蒋锋、蔡剑峰感谢TCL多年来给予无锡发展的大力支持。他们表示，当前无锡正深入学习贯彻习近平总书记对江苏工作重要讲话精神，围绕国家打造集成电路新兴支柱产业的部署要求，按照市第十五次党代会明确的目标任务，加快推动集成电路产业提质提效，力争产业发展能级稳居全国第一方阵。TCL在集成电路领域技术领先、品牌卓越，与无锡发展契合度高、优势互补性强。希望双方携手把握人工智能这一影响未来发展的关键变量，紧扣智能算力对高端芯片的迫切需求，扩大现有产能规模，加快先进制程硅片的研发与产业化，推动电子信息领域更多上下游和生态圈企业来锡布局，不断拓展共赢合作空间。无锡将着力打造一流营商环境，全方位服务保障TCL在锡深耕发展。\n李东生感谢无锡长期以来对TCL给予的关心支持，并简要介绍了企业整体发展规划和在锡生产经营情况。其中，作为中国半导体硅片产业核心重要力量的中环领先，正在加速重大项目的实施。他表示，无锡产业体系完备、科创资源丰富、营商环境优越，是享誉全国的工商名城和集成电路产业高地，希望无锡能给予TCL一如既往的大力支持。TCL十分看好无锡未来发展，将坚定扎根无锡、加码无锡，持续加大在半导体材料、新能源光伏、智能终端等领域布局，实现高质量发展，更好助力无锡打造集成电路产业地标和产业创新智造强市。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "industry",
+  "keywords": [
+    "集成电路",
+    "深化合作",
+    "半导体材料"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-feng-wuxi",
+      "name_zh": "蒋锋",
+      "name_en": "Jiang Feng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "集成电路",
+      "name_en": "Integrated Circuits"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "深化合作",
+      "name_en": "Deepened Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体材料",
+      "name_en": "Semiconductor Materials"
+    }
+  ],
+  "tags_zh": [
+    "蒋锋",
+    "无锡",
+    "集成电路",
+    "深化合作",
+    "半导体材料"
+  ],
+  "tags_en": [
+    "Jiang Feng",
+    "Wuxi",
+    "Integrated Circuits",
+    "Deepened Cooperation",
+    "Semiconductor Materials"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-feng-wuxi",
+      {
+        "id": null,
+        "name_zh": "周文栋"
+      },
+      {
+        "id": null,
+        "name_zh": "施他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-gov_wu_xi-15eba1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

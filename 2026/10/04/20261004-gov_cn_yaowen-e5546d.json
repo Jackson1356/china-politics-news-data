@@ -1,0 +1,98 @@
+{
+  "id": "20261004-gov_cn_yaowen-e5546d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082647.htm",
+  "title_zh": "智慧交通助力国庆假期出行",
+  "title_en": "Smart Transportation Facilitates National Day Holiday Travel",
+  "summary_zh": "10月4日，交通运输部预计国庆假期全社会跨区域人员流动量超3亿人次，铁路、公路、民航依托智慧调度、AI客流预测和大数据共享提升出行效率与安全。",
+  "summary_en": "On October 4, the Ministry of Transport estimated that cross-regional passenger flows during the National Day holiday would exceed 300 million trips, as railways, highways and civil aviation used smart dispatching, AI passenger forecasting and shared data to make travel more efficient and safer.",
+  "body_zh": "记者从交通运输部了解到，今天（10月4日）预计全社会跨区域人员流动量超3亿人次。这个国庆假期，科技赋能让交通出行更高效、安全。\n全国铁路客流今天仍保持高位运行。在全国客流量最大的广州南站，依托智慧调度平台和AI客流预测，实现动车组高密度公交化开行，动车组最短接、发车间隔压缩到40秒，可满足单日到发旅客100万人次的运力需求。\n公路方面，跨省出行和新能源车流量持续增长。根据大数据研判，今天全国高速公路有33个路段易发拥堵，主要集中在江苏、四川、广东、湖南、浙江、安徽等省份。交通部门打通交警、运营、导航数据，实现数据共享、数字化协同，提前2至4小时预测流量峰值，联动实施信息发布、客货分流和应急车道开放。\n今天，民航客运量预计233万人次，多个机场在国内出发全面启用智能安检体系、集中安检验证设备便捷旅客出行。随着海岛游、水上观光游持续火热，海事部门通过智慧海事平台开展船舶轨迹跟踪，对重点航线实施跟船保障、海巡艇伴航，全力保障水上出行安全。",
+  "image_url": null,
+  "published_at": "2026-10-04T12:00:00+00:00",
+  "event_date": "2026-10-04",
+  "ingested_at": "2026-10-05T11:00:40Z",
+  "topic": "welfare",
+  "keywords": [
+    "智慧交通",
+    "国庆假期出行保障",
+    "大数据与人工智能应用"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧交通",
+      "name_en": "Smart Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国庆假期出行保障",
+      "name_en": "National Day Holiday Travel Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大数据与人工智能应用",
+      "name_en": "Big Data and AI Applications"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "广州",
+    "智慧交通",
+    "国庆假期出行保障",
+    "大数据与人工智能应用"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Guangzhou",
+    "Smart Transportation",
+    "National Day Holiday Travel Services",
+    "Big Data and AI Applications"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "施信息"
+      }
+    ],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261004-gov_cn_yaowen-e5546d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

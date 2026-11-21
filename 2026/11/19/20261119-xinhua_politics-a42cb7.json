@@ -1,0 +1,92 @@
+{
+  "id": "20261119-xinhua_politics-a42cb7",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261119/7eb0b18759ee4885ab05e387ad87d69d/c.html",
+  "title_zh": "国产轻型直升机AC311A完成应急漂浮装置验证试飞",
+  "title_en": "Domestically Developed AC311A Light Helicopter Completes Verification Flight of Emergency Flotation System",
+  "summary_zh": "我国自主研制的“吉祥鸟”AC311A轻型直升机日前在江西景德镇完成应急漂浮装置验证试飞，这是国产轻型直升机首次开展此类一类风险试飞科目。",
+  "summary_en": "China's self-developed AC311A \"Auspicious Bird\" light helicopter recently completed a verification flight of its emergency flotation system in Jingdezhen, Jiangxi, the first such high-risk test for a domestic light helicopter.",
+  "body_zh": "我国自主研制的“吉祥鸟”AC311A 轻型直升机日前在江西景德镇顺利完成应急漂浮装置验证试飞。\n此次试飞属于一类风险试飞科目，也是国产轻型直升机首次开展此类试飞，填补了国产轻型直升机应急漂浮系统研制空白。\n作者：李美娟 汤向伟 黄木荻\n新华社音视频部制作\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "industry",
+  "keywords": [
+    "通用航空",
+    "应急救援装备",
+    "国产装备研制"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX-JD",
+      "name_zh": "景德镇",
+      "name_en": "Jingdezhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "通用航空",
+      "name_en": "General Aviation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急救援装备",
+      "name_en": "Emergency Rescue Equipment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国产装备研制",
+      "name_en": "Domestic Equipment Development"
+    }
+  ],
+  "tags_zh": [
+    "江西",
+    "景德镇",
+    "通用航空",
+    "应急救援装备",
+    "国产装备研制"
+  ],
+  "tags_en": [
+    "Jiangxi",
+    "Jingdezhen",
+    "General Aviation",
+    "Emergency Rescue Equipment",
+    "Domestic Equipment Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JX",
+      "CN-JX-JD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261119-xinhua_politics-a42cb7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

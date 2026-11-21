@@ -1,0 +1,119 @@
+{
+  "id": "20261106-gov_cn_yaowen-5de6f3",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085397.htm",
+  "title_zh": "李强同奥地利总理施托克尔会谈",
+  "title_en": "Li Qiang Holds Talks with Austrian Chancellor Stocker",
+  "summary_zh": "11月6日上午，国务院总理李强在北京人民大会堂同来华正式访问的奥地利总理施托克尔举行会谈，双方见证签署经贸、社会保障等多项合作文件。",
+  "summary_en": "On the morning of Nov 6, Premier Li Qiang held talks with Austrian Chancellor Stocker, who is on an official visit to China, at the Great Hall of the People in Beijing; the two witnessed the signing of cooperation documents on trade and social security.",
+  "body_zh": "新华社北京11月6日电（记者 温馨）11月6日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的奥地利总理施托克尔举行会谈。\n李强表示，今年是中奥建交55周年。过去半个多世纪，双方坚持互尊互信、开放合作、互利共赢，推动两国关系持续发展，取得丰硕合作成果。当前，受地缘冲突延宕反复、单边主义和保护主义抬头等影响，世界经济复苏艰难。中奥同为多边主义和自由贸易的支持者、受益者，应当坚定推进开放合作，为各自发展增添动力，也为世界经济注入正能量。习近平主席将同总理先生举行会晤，就深化中奥关系与合作作出规划指引。中方愿同奥方加强对话沟通，夯实政治互信，尊重彼此核心利益和重大关切，拓展全方位合作，为两国人民带来更多实实在在的利益。\n施托克尔表示，建交55年来，奥中关系始终保持积极发展势头。今年，双方高层交往密切，经贸合作持续深化，人文交流更加活跃。中国是奥地利最重要的贸易伙伴之一。在当前复杂动荡的国际形势下，奥方致力于推进两国友好战略伙伴关系，愿同中方增进相互理解，深化经贸、人工智能、投资、旅游、文化等领域务实合作，加强在联合国等多边平台沟通协调。奥方主张本着互信精神加强对话协商，愿为推进欧中关系发展作出积极努力。\n会谈后，两国总理共同见证签署经贸、社会保障等多项合作文件。\n会谈前，李强在人民大会堂北大厅为施托克尔举行欢迎仪式。\n吴政隆参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "foreign",
+  "keywords": [
+    "中奥关系",
+    "经贸合作",
+    "多边主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "施托克尔",
+      "name_en": "Christian Stocker"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中奥关系",
+      "name_en": "China-Austria Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "施托克尔",
+    "国务院",
+    "北京",
+    "中奥关系",
+    "经贸合作",
+    "多边主义",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Christian Stocker",
+    "State Council",
+    "Beijing",
+    "China-Austria Relations",
+    "Trade and Economic Cooperation",
+    "Multilateralism"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261106-gov_cn_yaowen-26d0d9",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "20261029-gov_xi_an-c3384b",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.xa.gov.cn/xw/jrgz/2115980679334981633.html",
+  "title_zh": "中国共产党第二十届中央委员会第五次全体会议在京举行",
+  "title_en": "Fifth Plenary Session of the 20th CPC Central Committee Held in Beijing",
+  "summary_zh": "2026年10月26日至29日，中共二十届五中全会在北京举行，习近平作重要讲话，中央政治局主持会议。",
+  "summary_en": "The Fifth Plenary Session of the 20th CPC Central Committee was held in Beijing from Oct 26 to 29, 2026, with Xi Jinping delivering an important speech.",
+  "body_zh": "中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。中央委员会总书记习近平作重要讲话。\n中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。中央政治局主持会议。\n中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。这是习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希等在主席台上。\n中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "party",
+  "keywords": [
+    "五中全会",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "五中全会",
+      "name_en": "Fifth Plenary Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "五中全会",
+    "党的建设"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Fifth Plenary Session",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261029-gov_xi_an-c3384b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shi_zui_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/home/toutu/202610/content_7084491.htm",
+      "title_zh": "中国共产党第二十届中央委员会第五次全体会议在京举行_头条图片",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2115980679334981633.html",
+      "title_zh": "中国共产党第二十届中央委员会第五次全体会议在京举行",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "20260831-gov_chi_feng-efa4a1",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202608/t20260831_2811782.html",
+  "title_zh": "中国民主促进会赤峰市第五次代表大会召开",
+  "title_en": "The 5th Congress of China Association for Promoting Democracy Chifeng Committee Convened",
+  "summary_zh": "8月29日，中国民主促进会赤峰市第五次代表大会召开，选举产生第五届委员会，黄双燕当选主任委员。",
+  "summary_en": "On August 29, the 5th Congress of China Association for Promoting Democracy Chifeng Committee was held, electing the 5th committee with Huang Shuangyan as chairman.",
+  "body_zh": "8月29日，中国民主促进会赤峰市第五次代表大会召开，民进内蒙古区委会主委、内蒙古自治区政府副主席孙俊青，市委常委、统战部部长王生才，市委常委、常务副市长张国华，民建赤峰市委会主委、市人大常委会副主任骆秀燕，市人大常委会党组成员、副主任孟和达来，市政府副市长黄双燕，民革赤峰市总支主委、市政协副主席王健出席大会。\n孙俊青充分肯定了民进赤峰市第四届委员会的工作，希望民进赤峰市新一届委员会持续强化思想政治引领，聚焦中心大局履职担当，紧扣自治区党委“1571”工作部署，立足民进教育、文化、出版、传媒界别特色和人才优势，积极建言资政、服务社会发展，从严抓实自身建设，以学促建、以干践责，团结带领全市广大会员锐意进取、实干担当，在助力赤峰高质量发展的新征程上展现新担当、作出新贡献。\n王生才代表中共赤峰市委向大会表示热烈祝贺。他表示，民进赤峰市委会要深化思想政治引领，坚守合作初心，增强责任担当意识，服务发展大局，全面加强自身建设，锤炼过硬队伍，努力建设成为政治坚定、组织坚实、履职有力、作风优良、制度健全的中国特色社会主义参政党地方组织。\n会议听取和审议了刘彦华代表民进赤峰市第四届委员会作的工作报告，选举产生了中国民主促进会赤峰市第五届委员会，通过授权选举出席中国民主促进会内蒙古自治区第九次代表大会的代表决定，黄双燕当选为民进赤峰市第五届委员会主任委员。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-29",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "party",
+  "keywords": [
+    "民主党派",
+    "换届选举"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民主党派",
+      "name_en": "Democratic Parties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "person",
+      "id": "wang-jian-taizhou",
+      "name_zh": "王健",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赤峰",
+    "民主党派",
+    "换届选举",
+    "王健"
+  ],
+  "tags_en": [
+    "Chifeng",
+    "Democratic Parties",
+    "Leadership Election"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jian-taizhou",
+      {
+        "id": null,
+        "name_zh": "贺他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260831-gov_chi_feng-0164a6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chi_feng",
+      "source_tier": 4,
+      "url": "http://www.chifeng.gov.cn/ywdt/cfyw/202608/t20260831_2811787.html",
+      "title_zh": "九三学社赤峰市第八次代表大会召开",
+      "published_at": "2026-08-31T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20261106-gov_lin_zhi-d272ec",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/4cea77cdfe3546b8a5c450c20423cdba.shtml",
+  "title_zh": "国务院办公厅关于2027年部分节假日安排的通知",
+  "title_en": "General Office of the State Council Issues Notice on 2027 Holiday Arrangements",
+  "summary_zh": "国务院办公厅2026年11月发出通知，经国务院批准，公布2027年元旦、春节、清明节、劳动节、端午节、中秋节和国庆节的放假调休安排。",
+  "summary_en": "China's General Office of the State Council issued a notice on holiday arrangements for 2027, detailing days off and make-up working days for New Year, Spring Festival, Qingming, Labor Day, Dragon Boat, Mid-Autumn and National Day.",
+  "body_zh": "国务院办公厅关于2027年\n部分节假日安排的通知\n国办发明电〔2026〕10号\n各省、自治区、直辖市人民政府，国务院各部委、各直属机构：\n经国务院批准，现将2027年元旦、春节、清明节、劳动节、端午节、中秋节和国庆节放假调休日期的具体安排通知如下。\n一、元旦：1月1日（周五）至3日（周日）放假，共3天。\n二、春节：2月5日（农历除夕、周五）至13日（农历正月初八、周六）放假调休，共9天。1月31日（周日）、2月14日（周日）上班。\n三、清明节：4月3日（周六）至5日（周一）放假，共3天。\n四、劳动节：5月1日（周六）至5日（周三）放假调休，共5天。5月8日（周六）上班。\n五、端午节：6月9日（周三）放假，共1天。\n六、中秋节：9月15日（周三）放假，共1天。\n七、国庆节：10月1日（周五）至7日（周四）放假调休，共7天。9月26日（周日）、10月9日（周六）上班。\n鼓励单位和个人结合落实带薪年休假等制度，实际形成较长假期，推动错峰出行。节假日期间，各地区、各部门要妥善安排好值班和安全、保卫、疫情防控等工作，遇有重大突发事件，要按规定及时报告并妥善处置，确保人民群众祥和平安度过节日假期。\n国务院办公厅",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "节假日安排",
+    "调休制度",
+    "带薪年休假"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GOSC",
+      "name_zh": "国务院办公厅",
+      "name_en": "General Office of the State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节假日安排",
+      "name_en": "Holiday Arrangements"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "调休制度",
+      "name_en": "Make-up Working Days"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "带薪年休假",
+      "name_en": "Paid Annual Leave"
+    }
+  ],
+  "tags_zh": [
+    "国务院办公厅",
+    "国务院",
+    "节假日安排",
+    "调休制度",
+    "带薪年休假"
+  ],
+  "tags_en": [
+    "General Office of the State Council",
+    "State Council",
+    "Holiday Arrangements",
+    "Make-up Working Days",
+    "Paid Annual Leave"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GOSC",
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261106-gov_lin_zhi-d272ec",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yin_chuan",
+      "source_tier": null,
+      "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "title_zh": "国务院办公厅关于2027年部分节假日安排的通知",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

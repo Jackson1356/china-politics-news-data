@@ -1,0 +1,98 @@
+{
+  "id": "20261104-gov_cn_yaowen-e80e21",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085025.htm",
+  "title_zh": "中国人民银行加力实施股票回购增持再贷款政策",
+  "title_en": "PBOC Strengthens Relending Policy for Stock Buybacks and Shareholding Increases",
+  "summary_zh": "11月4日起，中国人民银行下调股票回购增持再贷款利率0.25个百分点至1%，以维护资本市场平稳运行。",
+  "summary_en": "Starting Nov 4, the People's Bank of China cut the relending rate for stock buybacks and shareholding increases by 0.25 percentage points to 1% to support capital market stability.",
+  "body_zh": "为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。自今天（11月4日）起，下调股票回购增持再贷款利率0.25个百分点至1%。股票回购增持再贷款的支持对象为21家全国性银行和5家系统重要性城商行，支持比例为100%，期限1年。银行可在再贷款利率基础上适当加点，合理确定股票回购增持贷款期限和利率，加快贷款投放，增强上市公司、主要股东市值管理能力。\n目前，各银行已向中国人民银行报送股票回购增持再贷款额度申请超过2000亿元。后续，中国人民银行将向银行提供充足的再贷款额度保障，支持银行积极对接上市公司、主要股东融资需求。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "economy",
+  "keywords": [
+    "股票回购增持再贷款",
+    "资本市场稳定",
+    "市值管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "股票回购增持再贷款",
+      "name_en": "Relending for Stock Buybacks and Shareholding Increases"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "资本市场稳定",
+      "name_en": "Capital Market Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "市值管理",
+      "name_en": "Market Value Management"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "股票回购增持再贷款",
+    "资本市场稳定",
+    "市值管理"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Relending for Stock Buybacks and Shareholding Increases",
+    "Capital Market Stability",
+    "Market Value Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261104-gov_cn_yaowen-e80e21",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+      "source_tier": 3,
+      "url": "https://news.cnjiwang.com/gnyw/202611/4095921.html",
+      "title_zh": "中国人民银行加力实施股票回购增持再贷款政策",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "source": "local_ji_nan_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "http://news.e23.cn/content/2026-11-05/2026B0500233.html",
+      "title_zh": "中国人民银行加力实施股票回购增持再贷款政策",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

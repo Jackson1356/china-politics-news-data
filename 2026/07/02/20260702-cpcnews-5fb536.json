@@ -1,0 +1,61 @@
+{
+  "id": "20260702-cpcnews-5fb536",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "https://cpc.people.com.cn/n1/2026/0702/c435113-40752148.html",
+  "title_zh": "庆祝中国共产党成立105周年大会在京隆重举行",
+  "title_en": "Celebration Meeting for the 105th Anniversary of the Founding of the Communist Party of China Held in Beijing",
+  "summary_zh": "7月1日上午，庆祝中国共产党成立105周年大会在北京人民大会堂举行，习近平发表重要讲话。",
+  "summary_en": "On the morning of July 1, a celebration meeting for the 105th anniversary of the founding of the Communist Party of China was held at the Great Hall of the People in Beijing, where Xi Jinping delivered an important speech.",
+  "body_zh": "登录人民网通行证 立即注册\n忘记密码？\n7月1日上午，庆祝中国共产党成立105周年大会在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话。\n学习路上\n时习之\n习近平系列重要讲话数据库\n中央文件\n学习宣传贯彻党的二十大精神\n跟着总书记学党史数据库\n中央和国家机关建设模范机关\n言之有理\n学习文选",
+  "image_url": null,
+  "published_at": "2026-07-02T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "party",
+  "keywords": [
+    "建党周年"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "建党周年",
+      "name_en": "Party Anniversary"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "建党周年"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Party Anniversary"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260702-cpcnews-5fb536",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

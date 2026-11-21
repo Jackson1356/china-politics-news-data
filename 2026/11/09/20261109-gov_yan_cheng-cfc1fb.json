@@ -1,0 +1,105 @@
+{
+  "id": "20261109-gov_yan_cheng-cfc1fb",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/11/9/art_49_4466285.html",
+  "title_zh": "盐城市第九届人民代表大会第八次会议举行预备会议",
+  "title_en": "Preparatory Meeting Held for 8th Session of 9th Yancheng Municipal People's Congress",
+  "summary_zh": "11月8日下午，盐城市第九届人民代表大会第八次会议举行预备会议，王荣主持，选举产生大会主席团和秘书长并表决通过会议议程。",
+  "summary_en": "On the afternoon of Nov 8, a preparatory meeting for the 8th session of the 9th Yancheng Municipal People's Congress was held, chaired by Wang Rong, electing the presidium and secretary-general and approving the agenda.",
+  "body_zh": "严汉平等在主席台就座 王荣主持\n11月8日下午，盐城市第九届人民代表大会第八次会议举行预备会议。市委书记严汉平，市人大常委会主任、党组书记王荣，市人大常委会党组副书记陈卫红、杨雪峰，市人大常委会副主任徐华明、刘光球、刘向阳，市人大常委会秘书长施建霞在主席台就座。\n王荣主持会议。他说，按照省委、市委的部署要求，经过各方面的共同努力，盐城市第九届人民代表大会第八次会议的各项准备工作已经全部就绪，11月8日下午正式开幕。\n盐城市第九届人民代表大会应到代表524名，出席预备会议的代表491名，符合法定人数。\n预备会以举手表决方式，选举了大会主席团和秘书长。市九届人大八次会议主席团由74人组成，陈卫红为秘书长。\n预备会表决通过了盐城市第九届人民代表大会第八次会议议程，共两项：一是选举；二是其他。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "personnel",
+  "keywords": [
+    "人民代表大会",
+    "会议议程",
+    "选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王荣",
+      "name_en": "Wang Rong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民代表大会",
+      "name_en": "People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "会议议程",
+      "name_en": "Meeting Agenda"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "选举",
+      "name_en": "Election"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "王荣",
+    "盐城",
+    "人民代表大会",
+    "会议议程",
+    "选举"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Wang Rong",
+    "Yancheng",
+    "People's Congress",
+    "Meeting Agenda",
+    "Election"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "王荣"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261109-gov_yan_cheng-cfc1fb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

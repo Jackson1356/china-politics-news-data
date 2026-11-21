@@ -1,0 +1,100 @@
+{
+  "id": "20261117-gov_shuo_zhou-22b816",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202611/t20261117_814169.shtml",
+  "title_zh": "王帅红主持召开朔州市委财经委员会第一次会议",
+  "title_en": "Wang Shuaihong Chairs First Meeting of Shuozhou Municipal Party Committee Financial and Economic Committee",
+  "summary_zh": "11月15日，朔州市委书记王帅红主持召开八届市委财经委员会第一次会议，研究谋划2027年经济重点工作及项目布局。",
+  "summary_en": "On November 15, Shuozhou Party Secretary Wang Shuaihong chaired the first meeting of the eighth Municipal Party Committee Financial and Economic Committee, mapping out key economic priorities and projects for 2027.",
+  "body_zh": "11月15日，王帅红主持召开八届市委财经委员会第一次会议。会议深入学习贯彻习近平总书记对山西工作的重要讲话重要指示精神，对照贯彻落实省第十三次党代会部署及市第八次党代会有关安排，研究谋划2027年重点工作。吴秀玲，张震海、高喜全、刘亮、苏明、郝云、魏元平、黄勇、邵平安出席会议。\n会上，各位副市长分别汇报了分管领域经济工作谋划情况，各县（市、区）委、朔州经济开发区党工委作了工作汇报。\n会议指出，2027年是深入贯彻党的二十届五中全会精神的重要一年，做好经济工作意义重大。要坚定扛牢习近平总书记赋予的重大使命，牢牢把握党中央赋予山西的战略定位，认真贯彻落实省第十三次党代会部署及市第八次党代会有关安排，对标对表省、市“十五五”规划战略目标，牢固树立和践行正确政绩观，统筹好一年与五年关系，真抓实干、奋勇争先，一步一步把蓝图变为现实，以实际行动推动中国式现代化朔州实践迈出新步伐。要统筹各领域项目谋划和建设，扎实推进“两重”项目和“两新”政策落实，有序实施城市更新和“六张网”等规划建设，分行业分领域谋划实施更多基础设施重大项目、产业类项目和民生类项目，抓紧推进项目前期和施工进度，为明年经济发展提供有力支撑。要统筹一二三产协同发展，持续推动一产企稳回升、全力稳定工业经济增长、加快推动服务业提质增效，实现经济质的有效提升和量的合理增长。\n会议强调，当前正值高质量发展的关键期。要更好统筹发展和安全，加大民生保障力度，切实抓好各领域安全生产工作，深入排查化解风险隐患，扎实推进基础性、兜底性民生建设，用心用情解决群众急难愁盼问题，增进民生福祉，以高水平安全保障高质量发展，奋力谱写中国式现代化朔州新篇章。\n（文/刘晓广 符烨邦 薛礼伟）",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-15",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "economy",
+  "keywords": [
+    "经济工作谋划",
+    "重大项目布局",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济工作谋划",
+      "name_en": "Economic Work Planning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大项目布局",
+      "name_en": "Major Project Layout"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "Livelihood Security"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "经济工作谋划",
+    "重大项目布局",
+    "民生保障",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Economic Work Planning",
+    "Major Project Layout",
+    "Livelihood Security"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "邵平安"
+      },
+      {
+        "id": null,
+        "name_zh": "王帅红"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261117-gov_shuo_zhou-22b816",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

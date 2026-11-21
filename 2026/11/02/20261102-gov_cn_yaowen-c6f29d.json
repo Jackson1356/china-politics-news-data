@@ -1,0 +1,96 @@
+{
+  "id": "20261102-gov_cn_yaowen-c6f29d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/02/VIDEr2Jg8LMdq1vttKo83NLJ261102.shtml",
+  "title_zh": "习近平举行仪式欢迎阿曼苏丹海赛姆访华",
+  "title_en": "Xi Jinping Holds Welcoming Ceremony for Oman's Sultan Haitham",
+  "summary_zh": "11月2日上午，国家主席习近平在人民大会堂北大厅举行仪式，欢迎阿曼苏丹海赛姆·本·塔里克对中国进行国事访问，王毅等出席。",
+  "summary_en": "On the morning of November 2, President Xi Jinping held a welcoming ceremony at the Great Hall of the People for Oman's Sultan Haitham bin Tariq, who is on a state visit to China; Wang Yi also attended.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平2日上午在人民大会堂北大厅举行仪式，欢迎阿曼苏丹国苏丹海赛姆·本·塔里克对我国进行国事访问。\n天安门广场上鸣礼炮21响。\n陪同海赛姆访华的有国防事务副首相、宫廷大臣、苏丹办公厅大臣等。\n中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席欢迎仪式。\n军乐团奏阿中两国国歌。\n海赛姆在习近平陪同下检阅中国人民解放军仪仗队。\n两国元首回到检阅台观看仪仗队分列式。\n海赛姆是应习近平的邀请对我国进行国事访问的。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中阿关系",
+    "外交礼仪"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中阿关系",
+      "name_en": "China-Oman Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交礼仪",
+      "name_en": "Diplomatic Protocol"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "王毅",
+    "国事访问",
+    "中阿关系",
+    "外交礼仪"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Wang Yi",
+    "State Visit",
+    "China-Oman Relations",
+    "Diplomatic Protocol"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王毅等"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261102-gov_cn_yaowen-c6f29d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

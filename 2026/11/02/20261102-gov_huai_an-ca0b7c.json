@@ -1,0 +1,97 @@
+{
+  "id": "20261102-gov_huai_an-ca0b7c",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17934624/17936065961584KtRyGRu.html",
+  "title_zh": "2026投资淮安金秋经贸恳谈会开幕",
+  "title_en": "2026 Huai'an Autumn Investment and Trade Conference Opens",
+  "summary_zh": "10月31日，2026投资淮安金秋经贸恳谈会在江苏淮安开幕，市委书记顾坤致辞，代市长杨新忠主持，企业嘉宾及市四套班子领导参加。",
+  "summary_en": "On October 31, the 2026 Huai'an Autumn Investment and Trade Conference opened in Huai'an, Jiangsu. Party Secretary Gu Kun delivered remarks, acting mayor Yang Xinzhong presided, and business guests and city leaders attended.",
+  "body_zh": "您所在的位置：　首页 > 新闻资讯 > 图片新闻\n2026投资淮安金秋经贸恳谈会开幕\n关联阅读:\n10月31日，2026投资淮安金秋经贸恳谈会开幕。市委书记顾坤出席并致辞。中天钢铁集团总裁董力源、台华新材料董事长施清岛、中国巨石副总裁曹国荣、南高齿总经理顾晓斌等嘉宾参加活动。市委副书记、代市长杨新忠主持活动。市政协主席赵正兰，市委副书记、统战部部长胡毅等市四套班子领导参加活动。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-10-31",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "经贸合作",
+    "地方经济发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Economic and Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方经济发展",
+      "name_en": "Local Economic Development"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "招商引资",
+    "经贸合作",
+    "地方经济发展"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Investment Promotion",
+    "Economic and Trade Cooperation",
+    "Local Economic Development"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "杨新忠"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261102-gov_huai_an-ca0b7c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

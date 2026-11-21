@@ -1,0 +1,109 @@
+{
+  "id": "20260618-cyol-9fd2ff",
+  "source": "cyol",
+  "source_name_zh": "中国青年报",
+  "source_name_en": "China Youth Daily",
+  "source_url": "http://news.cyol.com/gb/articles/2026-06/18/content_WVL9Z6S7xR.html",
+  "title_zh": "广东高考评卷引入人工智能技术辅助质检",
+  "title_en": "Guangdong Introduces AI Technology for Gaokao Grading Quality Inspection",
+  "summary_zh": "2026年6月14日，广东省高考评卷工作在华南师范大学启动，通过引入人工智能技术辅助质检及强化封闭管理，保障评卷质量与数据安全。",
+  "summary_en": "On June 14, 2026, Guangdong started Gaokao grading at South China Normal University, introducing AI for quality inspection and enhancing security to ensure grading quality and data safety.",
+  "body_zh": "广东高考评卷引入人工智能技术辅助质检\n今年，广东省高考评卷工作于6月14日开始，在华南师范大学石牌校区、大学城校区同步开展。华南师范大学副校长阳成伟介绍，今年是华南师范大学承担广东高考评卷任务的第38个年头，共遴选6197名评卷教师，覆盖九大学科、五个小语种学科，队伍经逐级推荐、严格审查组成，专业可靠。\n广东省教育考试院副院长高雷介绍，广东实行“学科组长—题组长—小组长”三级管理梯队，各级组长随时抽查已评试卷，确保标准执行始终如一。评卷前，面向评卷教师开展业务培训与纪律教育，严格执行“不培训不上岗、不明确职责不上岗、不掌握标准不上岗”的要求；各学科抽取不同地区、不同层次考生的答卷进行试评，精细化制定评分细则。对主观题实行“双评制”，引入人工智能技术对评分工作进行辅助质检，双重保障评卷质量。正式评卷期间，系统定时随机调度样卷进行检测，检测合格方可继续评卷。\n评卷现场实行封闭管理，广东省教育考试院今年首次在华南师范大学两个校区投入使用32台智能安检门，严格人员入场检查及物品管理，工作人员需凭证件出入。通信设备及个人物品集中封存，全场实现5G信号屏蔽覆盖；严格数据安全管理，答题卡扫描后隐去考生个人信息并生成加密编号，图像按题块切割后随机分发至评卷教师，评卷数据采用专用加密链路传输，严控信息泄露风险，保障数据安全。",
+  "image_url": null,
+  "published_at": "2026-06-18T12:00:00+00:00",
+  "event_date": "2026-06-14",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "高考评卷",
+    "数据安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省教育考试院",
+      "name_en": "Guangdong Provincial Education Examinations Authority"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "华南师范大学",
+      "name_en": "South China Normal University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高考评卷",
+      "name_en": "Gaokao Grading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据安全",
+      "name_en": "Data Security"
+    }
+  ],
+  "tags_zh": [
+    "广东省教育考试院",
+    "华南师范大学",
+    "广东",
+    "人工智能",
+    "高考评卷",
+    "数据安全"
+  ],
+  "tags_en": [
+    "Guangdong Provincial Education Examinations Authority",
+    "South China Normal University",
+    "Guangdong",
+    "Artificial Intelligence",
+    "Gaokao Grading",
+    "Data Security"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "高雷"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省教育考试院",
+        "name_en": "Guangdong Provincial Education Examinations Authority"
+      },
+      {
+        "name_zh": "华南师范大学",
+        "name_en": "South China Normal University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260618-cyol-9fd2ff",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

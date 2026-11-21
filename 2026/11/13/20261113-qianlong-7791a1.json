@@ -1,0 +1,101 @@
+{
+  "id": "20261113-qianlong-7791a1",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/1113/8750500.shtml",
+  "title_zh": "北京市召开学习贯彻党的二十届五中全会精神宣讲工作动员会",
+  "title_en": "Beijing Holds Mobilization Meeting for Promoting the Spirit of the Fifth Plenary Session of the 20th CPC Central Committee",
+  "summary_zh": "11月12日上午，北京市召开学习贯彻中共二十届五中全会精神宣讲工作动员会，市委常委、宣传部部长孙军民出席并作动员部署。",
+  "summary_en": "On the morning of November 12, Beijing held a mobilization meeting to promote the spirit of the Fifth Plenary Session of the 20th CPC Central Committee, with Sun Junmin, member of the municipal Party standing committee and head of the publicity department, delivering the mobilization and deployment.",
+  "body_zh": "昨天（11月12日）上午，本市召开学习贯彻党的二十届五中全会精神宣讲工作动员会。市委常委、宣传部部长孙军民出席会议并对全市宣讲工作作动员部署。\n会议指出，深入学习贯彻党的二十届五中全会精神，是当前和今后一个时期全党的重大政治任务。要深刻认识组织开展学习宣讲的重要意义，以全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》为依据，深入宣讲全会的重大意义和习近平总书记在全会上的重要讲话精神，深入宣讲新时代全面从严治党的伟大成就，深入宣讲习近平党建思想的重大指导意义，深入宣讲持之以恒推进全面从严治党的重要性紧迫性、指导思想和原则、战略任务和重大举措，引导全市广大党员干部自觉把思想和行动统一到全会精神上来，更加深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，以首善标准把全会擘画的各项部署落实落细，以更高标准、更实举措做好管党治党各项工作，为率先基本实现社会主义现代化提供坚强保障。\n会议强调，要高质量高水平开展宣讲工作，把准政治方向和基调导向，紧密结合首都经济社会发展实际和管党治党成就，创新方式方法，深入讲好新时代全面从严治党故事，让广大干部群众听得懂、记得住、用得上，更好推动全会精神深入人心。\n（本文摘自北京日报第3版）",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会精神宣讲",
+    "全面从严治党",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "sun-junmin",
+      "name_zh": "孙军民",
+      "name_en": "Sun Junmin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神宣讲",
+      "name_en": "Promoting the Spirit of the Fifth Plenary Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Self-Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "孙军民",
+    "北京",
+    "党的二十届五中全会精神宣讲",
+    "全面从严治党",
+    "党的建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Sun Junmin",
+    "Beijing",
+    "Promoting the Spirit of the Fifth Plenary Session",
+    "Full and Rigorous Party Self-Governance",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "sun-junmin",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261113-qianlong-7791a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

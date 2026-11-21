@@ -1,0 +1,126 @@
+{
+  "id": "20261118-xinhua_politics-eee781",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261118/a39303cd3ba74a50b39ad0503c2efe69/c.html",
+  "title_zh": "海南推行“交海即交证”改革 用海获批当天领证",
+  "title_en": "Hainan Rolls Out Reform Allowing Same-Day Property Certificates Upon Sea-Use Approval",
+  "summary_zh": "2026年11月18日，海南省自然资源和规划厅宣布推行“交海即交证”改革，将海籍调查前置、用海审批与不动产登记并联办理，用海获批当天即可领证。",
+  "summary_en": "Hainan launched a reform letting sea-use applicants obtain property certificates the same day approval is granted, with surveys and registration handled in parallel, the provincial natural resources department said on Nov 18, 2026.",
+  "body_zh": "新华社海口11月18日电（记者王存福）记者18日从海南省自然资源和规划厅获悉，海南推行“交海即交证”改革，将海籍调查前置、用海审批与不动产登记并联办理，用海获批当天即可领取不动产权证书。\n以往，企业取得海域使用权后，还需依次完成测绘、海籍调查、价款缴纳等手续，办证周期普遍长达一至两个月。海口市自然资源和规划局将海籍调查前置至海域报批阶段，将登记审核与用海审批并联推进，审批办结后用海数据自动推送至配号、登记环节。\n改革红利直达养殖户。海南省临高县将51家深水网箱养殖个体户纳入“交海即交证”服务范围，签订海域使用权出让合同当天即可申领不动产权证书。当地对符合条件的当地农村集体经济组织成员养殖用海项目实行政府直接审批，无须招拍挂公开出让；沿海农村集体经济组织成员每户50亩以内养殖用海免征海域使用金。\n“这次签合同当天就能申领证书，海域使用金也减免了，我们搞养殖更有底气了。”养殖户辛琼贤说。审批、配号、登记流程全程线上留痕，证书登簿后信息同步回传至用海监管系统。\n海南省自然资源和规划厅有关负责人表示，将建立多系统联动机制，完善海域海岛全生命周期数字化治理体系。",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "交海即交证",
+    "用海审批改革",
+    "海域使用权登记",
+    "水产养殖"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "海南省自然资源和规划厅",
+      "name_en": "Hainan Provincial Department of Natural Resources and Planning"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "海口市自然资源和规划局",
+      "name_en": "Haikou Municipal Bureau of Natural Resources and Planning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-HK",
+      "name_zh": "海口",
+      "name_en": "Haikou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交海即交证",
+      "name_en": "Same-Day Certification for Sea Use"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "用海审批改革",
+      "name_en": "Sea-Use Approval Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海域使用权登记",
+      "name_en": "Sea Area Use Rights Registration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水产养殖",
+      "name_en": "Aquaculture"
+    }
+  ],
+  "tags_zh": [
+    "海南省自然资源和规划厅",
+    "海口市自然资源和规划局",
+    "海南",
+    "海口",
+    "交海即交证",
+    "用海审批改革",
+    "海域使用权登记",
+    "水产养殖"
+  ],
+  "tags_en": [
+    "Hainan Provincial Department of Natural Resources and Planning",
+    "Haikou Municipal Bureau of Natural Resources and Planning",
+    "Hainan",
+    "Haikou",
+    "Same-Day Certification for Sea Use",
+    "Sea-Use Approval Reform",
+    "Sea Area Use Rights Registration",
+    "Aquaculture"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HI",
+      "CN-HI-HK"
+    ],
+    "companies": [
+      {
+        "name_zh": "海南省自然资源和规划厅",
+        "name_en": "Hainan Provincial Department of Natural Resources and Planning"
+      },
+      {
+        "name_zh": "海口市自然资源和规划局",
+        "name_en": "Haikou Municipal Bureau of Natural Resources and Planning"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261118-xinhua_politics-eee781",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

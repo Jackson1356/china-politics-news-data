@@ -1,0 +1,91 @@
+{
+  "id": "20261119-peoples_cq-092f26",
+  "source": "peoples_cq",
+  "source_name_zh": "人民网 重庆",
+  "source_name_en": "People's Daily Chongqing",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cq.people.com.cn/n2/2026/1119/c367698-41754840.html",
+  "title_zh": "双江航电枢纽船闸启动试运行",
+  "title_en": "Shuangjiang Navigation-Power Hub Ship Lock Begins Trial Operation",
+  "summary_zh": "11月18日，双江航电枢纽船闸试运行正式启动，涪江重庆双江段航运瓶颈被打通，川渝涪江航道首次实现千吨级船舶通航。",
+  "summary_en": "On Nov 18, the ship lock of the Shuangjiang navigation-power hub began trial operation, clearing a shipping bottleneck on the Fu River in Chongqing and enabling 1,000-tonne vessels on the Sichuan-Chongqing Fu River waterway for the first time.",
+  "body_zh": "双江航电枢纽船闸启动试运行\n川渝涪江航道首次实现千吨级船舶通航\n11月18日，双江航电枢纽船闸试运行正式启动。\n11月18日，双江航电枢纽船闸试运行正式启动。至此，涪江航道迎来复航关键里程碑，涪江重庆双江段航运瓶颈被打通，川渝涪江航道首次实现千吨级船舶通航功能。\n双江航电枢纽是成渝地区双城经济圈首批16个重大项目之一，也是川渝合作的标杆示范项目。作为“涪江入渝第一哨”，船闸投运后，双江航电枢纽将发挥川渝合作桥头堡功能，与涪江沿线其他枢纽协同联动，共同构建一条从四川绵阳至重庆合川的“水上高速”。这不仅实现了交通层面的重要突破，更将在发电、供水、防洪、经济、战略等多个维度产生深远影响。\n据了解，待涪江沿线项目全部通航后，千吨级船舶可从四川绵阳经涪江、嘉陵江直达重庆朝天门码头，让川渝货物走向全国、通达四海。（新重庆-重庆日报记者 赵伟平）",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "成渝地区双城经济圈",
+    "内河航运",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "合川",
+      "name_en": "Hechuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "成渝地区双城经济圈",
+      "name_en": "Chengdu-Chongqing Economic Circle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "内河航运",
+      "name_en": "Inland Waterway Shipping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "重庆",
+    "合川",
+    "成渝地区双城经济圈",
+    "内河航运",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Chongqing",
+    "Hechuan",
+    "Chengdu-Chongqing Economic Circle",
+    "Inland Waterway Shipping",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-peoples_cq-092f26",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

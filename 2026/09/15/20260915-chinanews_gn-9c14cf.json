@@ -1,0 +1,101 @@
+{
+  "id": "20260915-chinanews_gn-9c14cf",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-15/10696808.shtml",
+  "title_zh": "巴西总统首席特别顾问阿莫林将访华",
+  "title_en": "Brazilian President's Chief Special Advisor Amorim to Visit China",
+  "summary_zh": "外交部发言人9月15日宣布，巴西总统首席特别顾问阿莫林将于9月16日至17日访华，中共中央政治局委员、中央外事工作委员会办公室主任王毅将同其举行会见。",
+  "summary_en": "China's Foreign Ministry announced on September 15 that Brazilian President's Chief Special Advisor Amorim will visit China from September 16 to 17 and will meet with Wang Yi, member of the Political Bureau of the CPC Central Committee and Director of the Office of the Central Commission for Foreign Affairs.",
+  "body_zh": "巴西总统首席特别顾问阿莫林将访华\n外交部发言人宣布：\n巴西总统首席特别顾问阿莫林将于9月16日至17日访华，中共中央政治局委员、中央外事工作委员会办公室主任王毅将同其举行会见。\n(外交部网站)\n国内新闻精选：\n- 2026年09月15日 12:39:29\n- 2026年09月15日 10:31:29\n- 2026年09月15日 09:29:43\n- 2026年09月15日 09:24:27\n- 2026年09月14日 20:38:15\n- 2026年09月14日 10:57:08\n- 2026年09月14日 10:46:53\n- 2026年09月14日 10:23:20\n- 2026年09月14日 09:05:05\n- 2026年09月13日 20:34:53",
+  "image_url": null,
+  "published_at": "2026-09-15T12:00:00+00:00",
+  "event_date": "2026-09-16",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "中巴关系",
+    "外交访问",
+    "高层会见"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "阿莫林",
+      "name_en": "Amorim"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中巴关系",
+      "name_en": "China-Brazil Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层会见",
+      "name_en": "High-level Meeting"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "阿莫林",
+    "外交部",
+    "中巴关系",
+    "外交访问",
+    "高层会见"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Amorim",
+    "Ministry of Foreign Affairs",
+    "China-Brazil Relations",
+    "Diplomatic Visit",
+    "High-level Meeting"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260915-chinanews_gn-9c14cf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

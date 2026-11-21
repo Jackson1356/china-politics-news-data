@@ -1,0 +1,101 @@
+{
+  "id": "20261013-bjnews-b205f5",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1791872519129597.html",
+  "title_zh": "外交部：坚决反对印方公布所谓标准地名，印方此举是非法的、无效的",
+  "title_en": "Foreign Ministry: China Firmly Opposes India's Publication of So-Called Standard Place Names, Calling the Move Illegal and Invalid",
+  "summary_zh": "10月13日，外交部发言人毛宁在例行记者会上表示，中方从不承认印方非法设立的所谓“拉达克中央直辖区”，坚决反对印方公布所谓标准地名。",
+  "summary_en": "On October 13, Chinese Foreign Ministry spokesperson Mao Ning said at a regular press briefing that China has never recognized India's so-called \"Central Ladakh\" administrative region and firmly opposes India's publication of standard place names, calling the move illegal and invalid.",
+  "body_zh": "据央视新闻消息，10月13日，外交部发言人毛宁主持例行记者会。记者就印度内政部发表声明称已确定包含位于边境争议地区、中方实控区域的28处地点的规范地名，并在印官方地图标注提问。\n对此，毛宁表示，中方从不承认印方单方面非法设立的所谓“拉达克中央直辖区”，坚决反对印方公布所谓标准地名，印方此举是非法的、无效的，不能改变中印边境西段地区历来属于中国的客观事实。",
+  "image_url": null,
+  "published_at": "2026-10-13T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "foreign",
+  "keywords": [
+    "中印关系",
+    "边境争议",
+    "领土主权"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "印度内政部",
+      "name_en": "Indian Ministry of Home Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中印关系",
+      "name_en": "China-India Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "边境争议",
+      "name_en": "Border Dispute"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领土主权",
+      "name_en": "Territorial Sovereignty"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "印度内政部",
+    "中印关系",
+    "边境争议",
+    "领土主权"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Indian Ministry of Home Affairs",
+    "China-India Relations",
+    "Border Dispute",
+    "Territorial Sovereignty"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "印度内政部",
+        "name_en": "Indian Ministry of Home Affairs"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261013-bjnews-b205f5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

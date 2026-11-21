@@ -1,0 +1,114 @@
+{
+  "id": "20260613-gov_cn_yaowen-6c1065",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072014.htm",
+  "title_zh": "蒙古国总统呼日勒苏赫会见王毅",
+  "title_en": "Mongolian President Khurelsukh Meets Wang Yi",
+  "summary_zh": "6月13日，蒙古国总统呼日勒苏赫在乌兰巴托会见中国外交部长王毅，双方探讨深化中蒙全面战略伙伴关系及共建命运共同体。",
+  "summary_en": "On June 13, Mongolian President Khurelsukh met with Chinese Foreign Minister Wang Yi in Ulaanbaatar to discuss deepening the China-Mongolia comprehensive strategic partnership and building a community with a shared future.",
+  "body_zh": "新华社乌兰巴托6月13日电（记者 宝乐日其其格）6月13日，蒙古国总统呼日勒苏赫在乌兰巴托会见甫抵蒙古国的中共中央政治局委员、外交部长王毅。\n呼日勒苏赫请王毅转达对习近平主席的诚挚问候和良好祝愿。呼日勒苏赫表示，我很荣幸同习近平主席建立了深厚友谊和互信，保持着密切沟通，共同引领两国全面战略伙伴关系不断发展。蒙中关系已成为地区国家间关系的典范。中国是蒙古国永远的好邻居，对华友好是蒙古国外交政策的首要方针。蒙方理解尊重中方的立场和关切，坚定恪守一个中国原则，认为台湾是中国领土不可分割的一部分，不支持任何形式的“台独”行径，涉港、涉藏、涉疆问题也都是中国内政。蒙古国不会因为同其他国家关系做任何损害中方利益的事情。蒙方积极支持习主席提出的重大理念倡议，愿同中方在国际地区事务中加强合作、共同践行。\n王毅转达习近平主席对呼日勒苏赫的亲切问候。王毅表示，在两国元首战略引领下，中蒙关系保持总体发展势头。双方同意朝着共建和平共处、守望相助、合作共赢的中蒙命运共同体作出努力。中方愿同蒙方积极探讨把这一共识转化为具体政策和实际举措。\n王毅说，中国对蒙政策保持稳定性连续性，始终把发展中蒙关系置于周边外交重要位置。中方尊重蒙古国的独立、主权和领土完整，尊重蒙方自主选择的发展道路。中方愿同蒙方在中俄蒙、上海合作组织等多边平台加强团结协作，同全球南方国家联合自强，推动构建更加公正合理的全球治理体系。\n访蒙期间，王毅还将会见蒙古国总理乌其尔勒，并将同外长巴特策策格举行会谈。",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-13",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "中蒙关系",
+    "全面战略伙伴关系",
+    "一个中国原则"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "乌兰巴托",
+      "name_en": "Ulaanbaatar"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "蒙古国",
+      "name_en": "Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中蒙关系",
+      "name_en": "China-Mongolia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One China Principle"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "苏赫",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "乌兰巴托",
+    "蒙古国",
+    "中蒙关系",
+    "全面战略伙伴关系",
+    "一个中国原则",
+    "习近平",
+    "苏赫"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ulaanbaatar",
+    "Mongolia",
+    "China-Mongolia Relations",
+    "Comprehensive Strategic Partnership",
+    "One China Principle"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "苏赫"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260613-gov_cn_yaowen-6c1065",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "20261015-gov_cn_yaowen-c6f221",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/15/VIDERQtoZWkWd7jinyVkcZkc261015.shtml",
+  "title_zh": "李强举行仪式欢迎多哥部长会议主席福雷访华",
+  "title_en": "Li Qiang Holds Ceremony to Welcome Togolese Prime Minister Faure on Visit to China",
+  "summary_zh": "10月15日下午，国务院总理李强在北京人民大会堂举行仪式，欢迎对华进行正式访问的多哥部长会议主席福雷，并陪同其检阅仪仗队。",
+  "summary_en": "On the afternoon of October 15, Premier Li Qiang held a welcome ceremony at the Great Hall of the People in Beijing for Togolese Prime Minister Faure, who is on an official visit to China, and accompanied him in inspecting the honor guard.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：15日下午，国务院总理李强在北京人民大会堂举行仪式，欢迎多哥部长会议主席福雷对我国进行正式访问。\n国务委员兼国务院秘书长吴政隆等出席欢迎仪式。\n军乐团奏多中两国国歌。\n随后，李强陪同福雷检阅了中国人民解放军仪仗队。\n[视频]李强举行仪式欢迎多哥部长会议主席访华\n简介\n视频简介李强举行仪式欢迎多哥部长会议主席访华。",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "中多关系",
+    "外交访问",
+    "欢迎仪式"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "多哥",
+      "name_en": "Togo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中多关系",
+      "name_en": "China-Togo Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "欢迎仪式",
+      "name_en": "Welcome Ceremony"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "多哥",
+    "中多关系",
+    "外交访问",
+    "欢迎仪式",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "Togo",
+    "China-Togo Relations",
+    "Diplomatic Visit",
+    "Welcome Ceremony"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261015-gov_cn_yaowen-c6f221",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "20260827-xinhua_leaders-9a09ae",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260827/d9b435d964b3497796bd21829f068174/c.html",
+  "title_zh": "习近平将出席上合组织比什凯克峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+  "title_en": "Xi Jinping to Attend SCO Summit in Bishkek and Pay State Visits to Kyrgyzstan and Egypt",
+  "summary_zh": "8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应邀对吉尔吉斯斯坦和埃及进行国事访问。",
+  "summary_en": "From Aug 30 to Sep 3, President Xi Jinping will attend the 2026 SCO Summit in Bishkek and pay state visits to Kyrgyzstan and Egypt upon invitation.",
+  "body_zh": "8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。\n2013年以来，习近平主席出席历次上合组织峰会，始终倡导弘扬“上海精神”，促进共同发展，推动构建更加紧密的上海合作组织命运共同体。\n一年前，上合组织天津峰会对未来10年发展作出战略擘画，开启上合高质量发展新阶段。\n天津峰会期间，习近平主席郑重提出全球治理倡议，得到国际社会迅速支持响应。当前，中国同上合大家庭致力于当好践行全球治理倡议的表率，不断壮大全球治理正能量。\n此次比什凯克峰会期间，习近平主席将同各方共商合作大计，擘画上合发展蓝图，携手各方弘扬“上海精神”、展现“上合担当”，沿着构建人类命运共同体的人间正道不断前行。\n统筹：孙浩 王丰丰 王璐\n编导：王沛 周欣 张远 淡然",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-30",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "foreign",
+  "keywords": [
+    "上海合作组织",
+    "外交关系",
+    "全球治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上海合作组织",
+      "name_en": "Shanghai Cooperation Organization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交关系",
+      "name_en": "Diplomatic Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "上海合作组织",
+    "外交关系",
+    "全球治理"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Shanghai Cooperation Organization",
+    "Diplomatic Relations",
+    "Global Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "郑重"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260827-xinhua_leaders-9a09ae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-08/27/content_9447904.html",
+      "title_zh": "学习新语｜习近平主席生动阐述上合务实合作",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    },
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-08/27/content_9447905.html",
+      "title_zh": "视频画报｜弘扬“上海精神” 展现“上合担当”",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202608/t20260827_5078716.html",
+      "title_zh": "习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问-总书记信息-沈阳市人民政府",
+      "published_at": "2026-08-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

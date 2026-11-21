@@ -1,0 +1,105 @@
+{
+  "id": "20260904-gov_cn_yaowen-27950a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080213.htm",
+  "title_zh": "医保高质量发展助力中国式现代化建设",
+  "title_en": "High-Quality Development of Medical Insurance Supports Chinese Modernization",
+  "summary_zh": "9月4日上午，国务院新闻办公室举行发布会，介绍推进医保高质量发展情况。国家医保局表示将稳步提升参保质量，每年调整药品目录，扩大创新药纳入报销范围。",
+  "summary_en": "On the morning of September 4, the State Council Information Office held a press conference on advancing high-quality medical insurance development. The National Healthcare Security Administration pledged to steadily improve coverage quality, adjust the drug list annually, and include more innovative drugs for reimbursement.",
+  "body_zh": "今天（9月4日）上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍推进医保高质量发展，更好服务中国式现代化建设有关情况。\n国家医保局有关负责人介绍，“十五五”时期，我国将持续夯实全民医保基础，稳步提升参保质量，不断优化全民参保结构，扩大灵活就业人员、农民工、新就业形态人员等重点人群参加职工医保规模。据介绍，截至目前，医保药品目录动态调整机制累计新增纳入949种药品，其中199种为创新药；面对“十五五”时期医药产业快速发展的新形势，医保部门将继续每年调整基本医保药品目录，将更多符合条件的肿瘤、慢性病、罕见病、儿童疾病等重大疾病、重点领域的创新药纳入医保报销；持续推动超大城市全面取消就业地、常住地参保户籍限制；着力推动医疗服务项目和医用耗材报销目录全国统一，进一步缩小地区之间政策差异；长护险将在“十五五”时期由加快建制转向全面推行，到2028年底，长护险制度要在全国基本上全面覆盖。",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "welfare",
+  "keywords": [
+    "医疗保障",
+    "全民医保",
+    "创新药",
+    "长期护理保险"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家医保局",
+      "name_en": "National Healthcare Security Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗保障",
+      "name_en": "Medical Insurance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全民医保",
+      "name_en": "Universal Healthcare Coverage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新药",
+      "name_en": "Innovative Drugs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长期护理保险",
+      "name_en": "Long-term Care Insurance"
+    }
+  ],
+  "tags_zh": [
+    "国家医保局",
+    "国务院新闻办公室",
+    "医疗保障",
+    "全民医保",
+    "创新药",
+    "长期护理保险"
+  ],
+  "tags_en": [
+    "National Healthcare Security Administration",
+    "State Council Information Office",
+    "Medical Insurance",
+    "Universal Healthcare Coverage",
+    "Innovative Drugs",
+    "Long-term Care Insurance"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家医保局",
+        "name_en": "National Healthcare Security Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260904-gov_cn_yaowen-27950a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

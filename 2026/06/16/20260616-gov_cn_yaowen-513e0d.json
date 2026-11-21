@@ -1,0 +1,114 @@
+{
+  "id": "20260616-gov_cn_yaowen-513e0d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/16/VIDEl8fqrhjBAfl5hR2ZfWCu260616.shtml",
+  "title_zh": "李强会见缅甸总统",
+  "title_en": "Li Qiang Meets Myanmar President",
+  "summary_zh": "6月16日下午，国务院总理李强在北京会见来华进行国事访问的缅甸总统敏昂莱，双方就深化中缅关系及经贸、安全等领域合作进行交流。",
+  "summary_en": "On June 16, Premier Li Qiang met with Myanmar President Min Aung Hlaing in Beijing to discuss deepening China-Myanmar relations and cooperation in trade, investment, and security.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：6月16日下午，国务院总理李强在北京人民大会堂会见来华进行国事访问的缅甸总统敏昂莱。\n李强表示，今天上午，习近平主席同总统先生举行会谈，就深化发展中缅关系作出进一步规划。中方愿同缅方遵循两国元首战略引领，弘扬传统友谊，巩固政治互信，深化贸易投资、执法安全、人文等领域合作，深入推进中缅经济走廊建设，更好服务两国现代化建设。双方应密切多边协调配合，捍卫发展中国家共同利益，推动构建更加公正合理的全球治理体系。\n敏昂莱表示，缅方恪守一个中国原则，愿同中方密切经贸、人文领域合作，加强多边协作，推动缅中关系迈向更高水平。缅方将采取有力措施保障中方在缅人员、机构和项目安全。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "中缅关系",
+    "中缅经济走廊",
+    "双边合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中缅关系",
+      "name_en": "China-Myanmar Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中缅经济走廊",
+      "name_en": "China-Myanmar Economic Corridor"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边合作",
+      "name_en": "Bilateral Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "中缅关系",
+    "中缅经济走廊",
+    "双边合作"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "China-Myanmar Relations",
+    "China-Myanmar Economic Corridor",
+    "Bilateral Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260616-gov_cn_yaowen-513e0d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072352.htm",
+      "title_zh": "李强会见缅甸总统敏昂莱",
+      "published_at": "2026-06-16T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

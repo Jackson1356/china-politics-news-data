@@ -1,0 +1,117 @@
+{
+  "id": "20261108-gov_cn_yaowen-9c12fc",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085537.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在海南宣讲",
+  "title_en": "Central Publicity Team on Fifth Plenary Session of 20th CPC Central Committee Holds Briefings in Hainan",
+  "summary_zh": "11月7日至8日，中央宣讲团成员、中共中央办公厅分管日常工作的副主任孟祥锋在海南宣讲党的二十届五中全会精神，并赴三亚博后村互动交流。",
+  "summary_en": "Meng Xiangfeng, a member of the central publicity team and executive deputy director of the CPC Central Committee General Office, delivered briefings on the Fifth Plenary Session of the 20th CPC Central Committee in Hainan on Nov 7-8 and held exchanges with local party members in Sanya.",
+  "body_zh": "新华社海口11月8日电（记者刘博、夏天）学习贯彻党的二十届五中全会精神中央宣讲团11月7日至8日在海南宣讲，中央宣讲团成员、中共中央办公厅分管日常工作的副主任孟祥锋作宣讲报告。\n报告会上，孟祥锋紧扣宣讲主题，围绕学习贯彻习近平总书记在党的二十届五中全会上的重要讲话精神和全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，从深入学习领会全会的重大意义、新时代全面从严治党的伟大成就，全面准确把握持之以恒推进全面从严治党的重要性紧迫性、总体要求、战略任务和重大举措等方面，结合海南实际，以鲜活案例和详实数据，对党的二十届五中全会精神作了全面宣讲和深入阐释。\n孟祥锋强调，按照党中央的统一部署和要求，要把学习贯彻党的二十届五中全会精神作为重大政治任务，与学习领会习近平党建思想贯通起来，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，以实际行动迎接党的二十一大胜利召开。\n报告会后，孟祥锋还到三亚市吉阳区博后村开展互动宣讲，围绕学习贯彻党的二十届五中全会精神与当地党员群众面对面交流。",
+  "image_url": null,
+  "published_at": "2026-11-08T12:00:00+00:00",
+  "event_date": "2026-11-07",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孟祥锋",
+      "name_en": "Meng Xiangfeng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央办公厅",
+      "name_en": "General Office of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Discipline"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣讲",
+      "name_en": "Policy Briefings"
+    }
+  ],
+  "tags_zh": [
+    "孟祥锋",
+    "中共中央办公厅",
+    "海南",
+    "党的二十届五中全会精神",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags_en": [
+    "Meng Xiangfeng",
+    "General Office of the CPC Central Committee",
+    "Hainan",
+    "Fifth Plenary Session of the 20th CPC Central Committee",
+    "Full and Rigorous Party Discipline",
+    "Policy Briefings"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孟祥锋"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央办公厅",
+        "name_en": "General Office of the CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261108-gov_cn_yaowen-9c12fc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/1109/c64387-40830276.html",
+      "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在海南宣讲",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

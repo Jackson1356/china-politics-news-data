@@ -1,0 +1,113 @@
+{
+  "id": "20260909-gov_cn_yaowen-ac279c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080545.htm",
+  "title_zh": "何立峰会见加拿大加中贸易理事会名誉主席安德烈·德马雷",
+  "title_en": "He Lifeng Meets Honorary Chairman of the Canada-China Business Council Andre Desmarais",
+  "summary_zh": "9月9日下午，中共中央政治局委员、国务院副总理何立峰在人民大会堂会见加拿大加中贸易理事会名誉主席安德烈·德马雷，双方就推动中加经贸关系发展交换意见。",
+  "summary_en": "On the afternoon of September 9, Chinese Vice Premier He Lifeng met in Beijing with Andre Desmarais, Honorary Chairman of the Canada-China Business Council, to discuss advancing bilateral trade and economic ties.",
+  "body_zh": "新华社北京9月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在人民大会堂会见加拿大加中贸易理事会名誉主席安德烈·德马雷。\n何立峰表示，今年1月习近平主席会见卡尼总理，双方一致同意推动构建中加新型战略伙伴关系，为两国关系向前发展作出新的战略指引。欢迎加拿大企业共享中国高质量发展机遇，希望加中贸易理事会发挥桥梁作用，为中加经贸关系发展作出更多贡献。\n德马雷表示，加工商界对中国经济前景充满信心，加中贸易理事会愿继续助力加中经贸关系健康稳定发展。",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中加经贸关系",
+    "战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中加经贸关系",
+      "name_en": "China-Canada Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "马雷",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "北京",
+    "中加经贸关系",
+    "战略伙伴关系",
+    "习近平",
+    "马雷"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "Beijing",
+    "China-Canada Trade Relations",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "马雷"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260909-gov_cn_yaowen-ac279c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

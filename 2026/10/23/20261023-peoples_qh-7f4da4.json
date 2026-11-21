@@ -1,0 +1,135 @@
+{
+  "id": "20261023-peoples_qh-7f4da4",
+  "source": "peoples_qh",
+  "source_name_zh": "人民网 青海",
+  "source_name_en": "People's Daily Qinghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://qh.people.com.cn/n2/2026/1023/c378418-41730201.html",
+  "title_zh": "截至10月23日凌晨3时 玉树州未出现人员伤亡",
+  "title_en": "No Casualties in Yushu as of 3 AM Oct 23 After 7.0-Magnitude Tibet Quake",
+  "summary_zh": "10月22日22时33分西藏那曲市巴青县发生7.0级地震，玉树杂多、囊谦有震感；截至23日凌晨3时玉树州无人员伤亡，基础设施总体正常。",
+  "summary_en": "A magnitude-7.0 earthquake hit Baqeng County in Nagqu, Tibet at 22:33 on Oct 22, shaking Zadoi and Nangqian in Yushu; by 3 am Oct 23 Yushu reported no casualties and normal infrastructure.",
+  "body_zh": "截至10月23日凌晨3时 玉树州未出现人员伤亡\n人民网西宁10月23日电 10月22日22时33分，西藏那曲市巴青县发生7.0级地震，玉树境内杂多县、囊谦县有震感。截至10月23日凌晨3时，全州未出现人员伤亡，交通、通信、电力等基础设施总体正常，社会秩序稳定，各类应急救援物资储备充足。\n据玉树州消息：根据中共青海省委书记罗东川的工作要求和省委省政府工作安排，玉树州委书记马锐第一时间到州应急指挥部开展视频调度，对玉树境内震情核查和相关工作作出安排，要求持续做好震情核查和隐患排查，特别是抓好余震防范各项工作，确保人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗震救灾",
+    "地震应急调度",
+    "隐患排查",
+    "群众生命财产安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "luo-dongchuan",
+      "name_zh": "罗东川",
+      "name_en": "Luo Dongchuan"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共青海省委",
+      "name_en": "CPC Qinghai Provincial Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "玉树州委",
+      "name_en": "CPC Yushu Prefectural Committee"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "玉树州",
+      "name_en": "Yushu Prefecture"
+    },
+    {
+      "kind": "location",
+      "id": "CN-QH",
+      "name_zh": "青海",
+      "name_en": "Qinghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗震救灾",
+      "name_en": "Earthquake Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地震应急调度",
+      "name_en": "Emergency Dispatch"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "隐患排查",
+      "name_en": "Hazard Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众生命财产安全",
+      "name_en": "Public Safety"
+    }
+  ],
+  "tags_zh": [
+    "罗东川",
+    "中共青海省委",
+    "玉树州委",
+    "玉树州",
+    "青海",
+    "抗震救灾",
+    "地震应急调度",
+    "隐患排查",
+    "群众生命财产安全"
+  ],
+  "tags_en": [
+    "Luo Dongchuan",
+    "CPC Qinghai Provincial Committee",
+    "CPC Yushu Prefectural Committee",
+    "Yushu Prefecture",
+    "Qinghai",
+    "Earthquake Relief",
+    "Emergency Dispatch",
+    "Hazard Inspection",
+    "Public Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "luo-dongchuan"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-QH"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共青海省委",
+        "name_en": "CPC Qinghai Provincial Committee"
+      },
+      {
+        "name_zh": "玉树州委",
+        "name_en": "CPC Yushu Prefectural Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261023-peoples_qh-7f4da4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

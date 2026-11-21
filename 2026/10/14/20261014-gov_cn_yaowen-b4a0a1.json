@@ -1,0 +1,83 @@
+{
+  "id": "20261014-gov_cn_yaowen-b4a0a1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083276.htm",
+  "title_zh": "9月末社会融资规模存量同比增长7.1%",
+  "title_en": "China's Outstanding Social Financing Reaches 468.17 Trillion Yuan, Up 7.1% Year-on-Year at End of September",
+  "summary_zh": "10月14日，中国人民银行公布金融数据显示，9月末广义货币（M2）余额359.63万亿元，同比增长7.2%；社会融资规模存量468.17万亿元，同比增长7.1%。",
+  "summary_en": "On October 14, the People's Bank of China reported that at the end of September, M2 money supply stood at 359.63 trillion yuan, up 7.2% year-on-year, while outstanding social financing reached 468.17 trillion yuan, up 7.1%.",
+  "body_zh": "今天（10月14日），中国人民银行公布的金融数据显示，9月末，广义货币（M2）余额359.63万亿元，同比增长7.2%；社会融资规模存量468.17万亿元，同比增长7.1%。二者增速同经济增长、价格总水平预期目标相匹配，显示金融总量增长合理，助力经济持续向新向优向好发展。\n前三季度社会融资规模增量中，债券、股票融资合计占比49.5%，超过贷款占比近7个百分点，债券股票融资加快，融资渠道更加多元化。\n前三季度，人民币贷款增加11.52万亿元，资金更多流向科技创新、绿色发展和中小微企业等重点领域。",
+  "image_url": null,
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "社会融资",
+    "货币供应",
+    "金融服务实体经济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会融资",
+      "name_en": "Social Financing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货币供应",
+      "name_en": "Money Supply"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务实体经济",
+      "name_en": "Financial Support for the Real Economy"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "社会融资",
+    "货币供应",
+    "金融服务实体经济"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Social Financing",
+    "Money Supply",
+    "Financial Support for the Real Economy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261014-gov_cn_yaowen-b4a0a1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "20260823-gov_cn_yaowen-a32580",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078934.htm",
+  "title_zh": "王毅会见约旦副首相兼外交大臣萨法迪",
+  "title_en": "Wang Yi Meets Jordanian Deputy Prime Minister and Foreign Minister Safadi",
+  "summary_zh": "中共中央政治局委员、外交部长王毅8月23日在北京会见陪同约旦国王访华的约旦副首相兼外交大臣萨法迪。",
+  "summary_en": "On August 23, Wang Yi, member of the Political Bureau of the CPC Central Committee and Foreign Minister, met in Beijing with Jordanian Deputy Prime Minister and Foreign Minister Safadi, who accompanied King Abdullah II on his visit to China.",
+  "body_zh": "新华社北京8月23日电 中共中央政治局委员、外交部长王毅23日在北京会见陪同阿卜杜拉二世国王访华的约旦副首相兼外交大臣萨法迪。\n王毅表示，习近平主席珍视同阿卜杜拉二世国王建立的友谊与互信。这是阿卜杜拉二世国王时隔11年再次访华，相信此访将取得圆满成功。中方赞赏约方坚定奉行对华友好政策，恪守一个中国原则。\n萨法迪感谢中方为阿卜杜拉二世国王访华所作热情周到安排，表示约方高度重视对华关系，愿同中方深化各领域合作。约方高度赞赏中国在中东问题上发挥的积极、负责任作用。",
+  "image_url": null,
+  "published_at": "2026-08-23T12:00:00+00:00",
+  "event_date": "2026-08-23",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "中约关系",
+    "外交合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "萨法迪",
+      "name_en": "Safadi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中约关系",
+      "name_en": "Sino-Jordanian Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交合作",
+      "name_en": "Diplomatic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "萨法迪",
+    "外交部",
+    "北京",
+    "中约关系",
+    "外交合作"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Safadi",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Sino-Jordanian Relations",
+    "Diplomatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260823-gov_cn_yaowen-a32580",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

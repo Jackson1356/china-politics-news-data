@@ -1,0 +1,91 @@
+{
+  "id": "20260728-gov_zi_bo-3d592c",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/7/28/art_14322_3012873.html",
+  "title_zh": "山东省政府党组会议召开 学习习近平总书记重要讲话",
+  "title_en": "Shandong Provincial Government Party Leadership Group Meeting Held to Study Xi Jinping's Important Speeches",
+  "summary_zh": "7月27日，山东省省长周乃翔主持召开省政府党组会议，学习习近平总书记近期重要讲话和指示精神。",
+  "summary_en": "On July 27, Governor Zhou Naixiang chaired the Shandong Provincial Government Party Leadership Group meeting to study Xi Jinping's recent important speeches and instructions.",
+  "body_zh": "省政府党组会议召开\n认真学习习近平总书记重要讲话重要指示精神\n7月27日，省委副书记、省长、省政府党组书记周乃翔主持召开省政府党组会议，认真学习习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的重要讲话精神，在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话精神，在上海考察时的重要讲话精神，对基础教育工作作出的重要指示精神，研究有关工作事项。\n会议指出，习近平总书记的重要讲话、重要指示，具有很强的政治性、针对性、指导性，要深入学习领会、抓好贯彻落实。要扎实做好科技工作，增强科技创新体系化攻关能力，推动科技创新和产业创新深度融合，加大对科研人员支持力度，加快建设科技强省。要深入实施“人工智能+制造”行动，促进人工智能科技创新、产业发展、场景应用，加快打造智能经济新形态。要全面践行人民城市理念，高质量推进城市更新，统筹抓好老旧小区改造、街区改造，不断增强居民群众的获得感、幸福感、安全感。要全面贯彻党的教育方针，落实立德树人根本任务，优化办学资源配置，不断开创基础教育高质量发展新局面。\n会议研究了省政府党组落实统战工作责任制有关情况，强调要深入学习贯彻习近平总书记关于做好新时代党的统一战线工作的重要思想，拧紧责任链条，推动政府系统统战工作提质增效，为现代化强省建设汇聚强大力量。\n会议研究了省委第九轮巡视发现问题整改工作，要求认真履行“一岗双责”，加强研究部署、指导督促，推动问题整改取得实效。（记者 毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "event_date": "2026-07-27",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "party",
+  "keywords": [
+    "科技创新",
+    "人工智能",
+    "基础教育"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础教育",
+      "name_en": "Basic Education"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "科技创新",
+    "人工智能",
+    "基础教育",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Scientific and Technological Innovation",
+    "Artificial Intelligence",
+    "Basic Education"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260728-gov_zi_bo-3d592c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

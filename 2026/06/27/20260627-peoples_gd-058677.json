@@ -1,0 +1,94 @@
+{
+  "id": "20260627-peoples_gd-058677",
+  "source": "peoples_gd",
+  "source_name_zh": "人民网 广东",
+  "source_name_en": "People's Daily Guangdong",
+  "source_url": "http://gd.people.com.cn/n2/2026/0627/c123932-41622674.html",
+  "title_zh": "首个自动驾驶系统全球技术法规获批发布",
+  "title_en": "First Global Technical Regulation for Automated Driving Systems Approved and Released",
+  "summary_zh": "6月22日至26日，联合国世界车辆法规协调组织在日内瓦召开会议，正式获批发布由中国等国牵头制定的首个自动驾驶系统全球技术法规。",
+  "summary_en": "From June 22 to 26, the UN World Forum for Harmonization of Vehicle Regulations met in Geneva and approved the first Global Technical Regulation for Automated Driving Systems (ADS GTR), co-led by China and other nations.",
+  "body_zh": "首个自动驾驶系统全球技术法规获批发布\n据新华社北京6月26日电 记者26日从工业和信息化部获悉，全球首个自动驾驶系统全球技术法规获批发布。我国在这一法规制定过程中发挥了重要的牵头与推动作用。\n6月22日至26日，联合国世界车辆法规协调组织第199次全体会议在瑞士日内瓦召开。会上，由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动驾驶系统全球技术法规（ADS GTR）经全体缔约方投票表决，正式获批发布。这一法规明确了自动驾驶系统产品核心技术指标等，构建起覆盖产品全生命周期的法规框架。作为全球首个自动驾驶全球技术法规，将为自动驾驶技术有序安全落地提供统一遵循。",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "自动驾驶",
+    "全球技术法规"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "日内瓦",
+      "name_en": "Geneva"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "瑞士",
+      "name_en": "Switzerland"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自动驾驶",
+      "name_en": "Autonomous Driving"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球技术法规",
+      "name_en": "Global Technical Regulation"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "日内瓦",
+    "瑞士",
+    "自动驾驶",
+    "全球技术法规"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Geneva",
+    "Switzerland",
+    "Autonomous Driving",
+    "Global Technical Regulation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260627-peoples_gd-058677",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0627/c378440-41622773.html",
+      "title_zh": "首个自动驾驶系统全球技术法规获批发布",
+      "published_at": "2026-06-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

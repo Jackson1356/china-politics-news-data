@@ -1,0 +1,74 @@
+{
+  "id": "20260807-beijing_daily-dc8172",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/08/07/11904616.shtml",
+  "title_zh": "最高法、最高检、司法部部署专项斗争",
+  "title_en": "Supreme Court, Procuratorate and Justice Ministry Deploy Anti-Crime Campaign",
+  "summary_zh": "最高检召开全国检察机关动员部署会，应勇强调深化扫黑除恶专项斗争是重要政治任务。",
+  "summary_en": "The Supreme People's Procuratorate held a national mobilization meeting, with Procurator-General Ying Yong stressing the campaign as a key political task.",
+  "body_zh": "据新华社8月2日消息，近日，党中央就深化扫黑除恶专项斗争作出部署，明确从今年7月开始，利用1年左右时间，在全国范围开展深化扫黑除恶专项斗争。\n据“最高人民检察院”8月4日消息，近日，最高人民检察院召开全国检察机关开展深化扫黑除恶专项斗争动员部署会，部署检察机关开展深化扫黑除恶专项斗争工作。\n“开展深化扫黑除恶专项斗争，是当前一项重要的政治任务。”最高检党组书记、检察长应勇指出，党中央部署开展深化扫黑除恶专项斗争，既是持续巩固扫黑除恶斗争成果的重要举措，也是积极应对黑恶犯罪新形势新挑战的必然要求。\n会议强调，要依法履职尽责，统筹好立足审判执行主责主业与促推形成工作合力、依法严厉打击与严格依法办案、全面发力与突出重点、深化专项斗争与推动常治长效，做到是黑恶一个不漏、不是黑恶一个不凑。\n要依法严格加强涉黑涉恶罪犯收押、管理和改造，依法开展涉黑涉恶案件律师辩护代理，大力开展反有组织犯罪法等法律法规宣传，加强对涉信息网络黑恶犯罪、“软暴力”等法律问题研究，强化帮教对象管理和帮扶，更好预防和减少重新犯罪，立足职责推进健全黑恶犯罪预防治理长效机制。\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "discipline",
+  "keywords": [
+    "扫黑除恶",
+    "专项斗争"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SPP",
+      "name_zh": "最高人民检察院",
+      "name_en": "Supreme People's Procuratorate"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Anti-Gang Crime"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专项斗争",
+      "name_en": "Special Campaign"
+    }
+  ],
+  "tags_zh": [
+    "最高人民检察院",
+    "扫黑除恶",
+    "专项斗争"
+  ],
+  "tags_en": [
+    "Supreme People's Procuratorate",
+    "Anti-Gang Crime",
+    "Special Campaign"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SPP"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260807-beijing_daily-dc8172",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

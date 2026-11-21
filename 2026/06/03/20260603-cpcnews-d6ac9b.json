@@ -1,0 +1,101 @@
+{
+  "id": "20260603-cpcnews-d6ac9b",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0603/c64094-40732880.html",
+  "title_zh": "李鸿忠在河北调研县乡两级人大换届选举工作",
+  "title_en": "Li Hongzhong Inspects County and Township People's Congress Elections in Hebei",
+  "summary_zh": "2026年6月2日，全国人大常委会副委员长李鸿忠在河北省廊坊、沧州等地调研县乡两级人大换届选举工作，强调要践行全过程人民民主，确保选举风清气正。",
+  "summary_en": "On June 2, 2026, Li Hongzhong, Vice Chairperson of the NPC Standing Committee, inspected county and township People's Congress elections in Hebei to ensure the practice of whole-process people's democracy.",
+  "body_zh": "新华社石家庄6月2日电 中共中央政治局委员、全国人大常委会副委员长李鸿忠6月2日在河北调研县乡两级人大换届选举工作。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平总书记关于坚持和完善人民代表大会制度的重要思想，坚定不移走中国特色社会主义政治发展道路，践行全过程人民民主，坚持党的领导、充分发扬民主、严格依法办事，立足人大职责做好选举组织工作，确保换届选举工作风清气正，选举结果人民满意。\n李鸿忠先后到廊坊、沧州，在广阳区、黄骅市等县级人大常委会机关，调研代表名额分配、选区划分和选民登记等工作进展；在安次区银河南路街道人大代表联络站、黄骅市羊三木回族乡，了解直接选举工作准备和全过程人民民主基层实践等情况。他指出，选举人大代表是人民代表大会制度的基础，地方各级人大常委会要在同级党委领导下，全面贯彻落实党中央决策部署和宪法法律规定，认真履行对本行政区域内县乡人大换届选举工作的指导、组织职责，保证人民依法行使选举权利，民主选举产生人大代表。要充分保障选民的知情权、参与权、表达权、监督权，发挥代表联系人民群众工作平台和网络平台的作用，调动选民参与选举的积极性，依法介绍代表候选人、组织选民投票，加强选举全过程监督和当选代表资格审查。要加强换届选举宣传工作，广泛宣传全过程人民民主、人民代表大会制度，为换届选举营造良好舆论氛围和社会环境。\n《 人民日报 》（ 2026年06月03日 02 版）",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": "2026-06-02",
+  "ingested_at": "2026-06-03T09:39:25Z",
+  "topic": "party",
+  "keywords": [
+    "全过程人民民主",
+    "人大换届选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hongzhong",
+      "name_zh": "李鸿忠",
+      "name_en": "Li Hongzhong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全过程人民民主",
+      "name_en": "Whole-process People's Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大换届选举",
+      "name_en": "NPC Elections"
+    }
+  ],
+  "tags_zh": [
+    "李鸿忠",
+    "全国人大常委会",
+    "河北",
+    "全过程人民民主",
+    "人大换届选举"
+  ],
+  "tags_en": [
+    "Li Hongzhong",
+    "NPC Standing Committee",
+    "Hebei",
+    "Whole-process People's Democracy",
+    "NPC Elections"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hongzhong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HE"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260602-paper_zhengjing-a2f082",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/0603/c1001-40732686.html",
+      "title_zh": "李鸿忠在河北调研县乡两级人大换届选举工作",
+      "published_at": "2026-06-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

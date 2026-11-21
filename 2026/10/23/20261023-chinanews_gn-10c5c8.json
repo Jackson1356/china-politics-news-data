@@ -1,0 +1,90 @@
+{
+  "id": "20261023-chinanews_gn-10c5c8",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-23/10719739.shtml",
+  "title_zh": "海军第48批护航编队完成亚丁湾护航任务",
+  "title_en": "Chinese Navy's 48th Escort Task Force Completes Gulf of Aden Escort Mission",
+  "summary_zh": "10月23日上午，海军第48批护航编队完成亚丁湾护航任务，返回山东青岛某军港。编队历时378天、航程15万余海里，安全护送中外船舶423艘。",
+  "summary_en": "On the morning of Oct 23, the Chinese Navy's 48th escort task force returned to a naval port in Qingdao, Shandong, after completing its Gulf of Aden escort mission. Over 378 days and more than 150,000 nautical miles, it safely escorted 423 Chinese and foreign vessels.",
+  "body_zh": "海军第48批护航编队完成亚丁湾护航任务\n今天(23日)上午，由导弹驱逐舰唐山舰、导弹护卫舰大庆舰和综合补给舰太湖舰组成的海军第48批护航编队，圆满完成亚丁湾护航任务，返回山东青岛某军港，数百名官兵和家属代表迎接编队凯旋。\n去年10月11日，编队从青岛解缆起航，历时378天，航程15万余海里，安全护送中外船舶423艘。任务期间，编队组织了武力营救、直升机跨昼夜飞行等针对性训练，先后赴南非和巴基斯坦参加“和平意志-2026”海上联合演习、中巴“海洋卫士-4”联合演习，赴塞舌尔参加该国独立50周年庆祝阅兵活动，友好访问了孟加拉国、缅甸、马来西亚，技术停靠阿曼、肯尼亚、新加坡等国。\n国内新闻精选：\n- 2026年10月23日 14:31:34\n- 2026年10月23日 10:02:49\n- 2026年10月22日 21:50:31\n- 2026年10月22日 17:18:32\n- 2026年10月22日 17:08:26\n- 2026年10月22日 16:05:16\n- 2026年10月22日 10:17:41\n- 2026年10月22日 08:32:34\n- 2026年10月22日 07:48:01\n- 2026年10月22日 07:33:13",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚丁湾护航",
+    "远海训练",
+    "国际军事合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚丁湾护航",
+      "name_en": "Gulf of Aden Escort"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "远海训练",
+      "name_en": "Open-Sea Training"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际军事合作",
+      "name_en": "International Military Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "山东",
+    "青岛",
+    "亚丁湾护航",
+    "远海训练",
+    "国际军事合作"
+  ],
+  "tags_en": [
+    "Gulf of Aden Escort",
+    "Open-Sea Training",
+    "International Military Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD",
+      "CN-SD-QD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-chinanews_gn-10c5c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

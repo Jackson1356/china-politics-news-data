@@ -1,0 +1,101 @@
+{
+  "id": "20261029-chinanews_gn-593204",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-29/10722753.shtml",
+  "title_zh": "外交部：希望有关方面正视朝鲜半岛问题的根源",
+  "title_en": "Foreign Ministry: Relevant Parties Should Face the Root Cause of the Korean Peninsula Issue",
+  "summary_zh": "10月29日，外交部发言人郭嘉昆在北京例行记者会上就朝鲜发射短程弹道导弹答问，呼吁有关方面正视半岛问题根源、坚持政治解决方向。",
+  "summary_en": "On October 29, Foreign Ministry spokesperson Guo Jiakun, at a regular briefing in Beijing, responded to North Korea's launch of short-range ballistic missiles, urging relevant parties to face the root cause of the peninsula issue and pursue political settlement.",
+  "body_zh": "外交部：希望有关方面正视朝鲜半岛问题的根源\n中新网北京10月29日电 (记者 谢雁冰)中国外交部发言人郭嘉昆29日主持例行记者会。\n有记者提问：29日朝鲜向海上发射了10余枚短程弹道导弹，此举违反了联合国安理会有关朝鲜问题的决议。请问中方如何看待此次发射消息？\n郭嘉昆：我们注意到，有关方面对发射物的界定存在不同看法。我们希望有关方面正视半岛问题的根源，坚持政治解决的大方向，为维护地区和平稳定作出努力。(完）\n国内新闻精选：\n- 2026年10月29日 16:37:37\n- 2026年10月29日 15:56:09\n- 2026年10月29日 13:30:47\n- 2026年10月29日 12:40:44\n- 2026年10月29日 10:52:10\n- 2026年10月29日 10:48:40\n- 2026年10月29日 10:20:32\n- 2026年10月29日 10:17:10\n- 2026年10月28日 20:18:50\n- 2026年10月28日 14:59:17",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "foreign",
+  "keywords": [
+    "朝鲜半岛局势",
+    "政治解决",
+    "地区和平稳定"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "朝鲜半岛局势",
+      "name_en": "Korean Peninsula Situation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治解决",
+      "name_en": "Political Settlement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地区和平稳定",
+      "name_en": "Regional Peace and Stability"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "朝鲜半岛局势",
+    "政治解决",
+    "地区和平稳定"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Korean Peninsula Situation",
+    "Political Settlement",
+    "Regional Peace and Stability"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261029-chinanews_gn-593204",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722757.shtml",
+      "title_zh": "外交部：中国发展军力从不针对任何国家也不搞军事扩张",
+      "published_at": "2026-10-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

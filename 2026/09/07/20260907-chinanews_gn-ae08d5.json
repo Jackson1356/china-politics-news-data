@@ -1,0 +1,96 @@
+{
+  "id": "20260907-chinanews_gn-ae08d5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/09-07/10691934.shtml",
+  "title_zh": "外交部：中方将继续及时发布关于吉隆泥石流灾情和救援行动最新情况",
+  "title_en": "China Vows Timely Updates on Jilong Landslide Disaster and Rescue",
+  "summary_zh": "9月7日，外交部发言人毛宁主持例行记者会，就中方组织外媒记者进入西藏吉隆泥石流灾区采访作出回应，表示将继续及时发布灾情和救援行动最新情况。",
+  "summary_en": "On September 7, Foreign Ministry spokesperson Mao Ning told a regular press conference that China will continue to provide timely updates on the Jilong landslide disaster and rescue operations, responding to foreign media visits to the affected area in Tibet.",
+  "body_zh": "外交部：中方将继续及时发布关于吉隆泥石流灾情和救援行动最新情况\n9月7日，外交部发言人毛宁主持例行记者会。有记者问：据了解，中方近日组织了外媒记者进入西藏自治区吉隆泥石流灾区采访，请问发言人能否进一步介绍有关情况？\n(总台央视记者 赵超逸 张雪松)\n国内新闻精选：\n- 2026年09月07日 13:50:13\n- 2026年09月07日 13:10:34\n- 2026年09月07日 11:54:07\n- 2026年09月07日 11:49:29\n- 2026年09月07日 11:33:48\n- 2026年09月07日 11:04:39\n- 2026年09月06日 18:45:53\n- 2026年09月05日 20:54:54\n- 2026年09月05日 18:05:14\n- 2026年09月05日 16:14:21",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "泥石流灾害",
+    "救援行动",
+    "信息发布"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "泥石流灾害",
+      "name_en": "Landslide Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "救援行动",
+      "name_en": "Rescue Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息发布",
+      "name_en": "Information Release"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "泥石流灾害",
+    "救援行动",
+    "信息发布"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Landslide Disaster",
+    "Rescue Operations",
+    "Information Release"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260907-chinanews_gn-ae08d5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691935.shtml",
+      "title_zh": "外媒披露台当局“金元外交” 外交部回应",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

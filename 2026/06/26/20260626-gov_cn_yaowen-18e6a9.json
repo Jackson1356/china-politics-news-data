@@ -1,0 +1,101 @@
+{
+  "id": "20260626-gov_cn_yaowen-18e6a9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://tv.cctv.com/2026/06/26/VIDEY0DThpVaNmkG17kkrvIw260626.shtml",
+  "title_zh": "习近平签署国家主席令",
+  "title_en": "Xi Jinping Signs Presidential Orders",
+  "summary_zh": "2026年6月26日，国家主席习近平签署第77、78、79号主席令，公布修订后的《商标法》和《注册会计师法》，并免去关志鸥的自然资源部部长职务。",
+  "summary_en": "On June 26, 2026, President Xi Jinping signed Presidential Orders No. 77, 78, and 79 to promulgate the revised Trademark Law and Certified Public Accountants Law, and to remove Guan Zhiou from the post of Minister of Natural Resources.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平6月26日签署第七十七号、第七十八号、第七十九号主席令。\n第七十七号主席令说，《中华人民共和国商标法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十三次会议于2026年6月26日修订通过，现予公布，自2027年1月1日起施行。\n第七十八号主席令说，《全国人民代表大会常务委员会关于修改〈中华人民共和国注册会计师法〉的决定》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十三次会议于2026年6月26日通过，现予公布，自2027年1月1日起施行。\n第七十九号主席令说，根据中华人民共和国第十四届全国人民代表大会常务委员会第二十三次会议于2026年6月26日的决定：\n免去关志鸥的自然资源部部长职务。",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "personnel",
+  "keywords": [
+    "法律修订",
+    "人事调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人民代表大会常务委员会",
+      "name_en": "Standing Committee of the National People's Congress"
+    },
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法律修订",
+      "name_en": "Law Revision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "全国人民代表大会常务委员会",
+    "自然资源部",
+    "法律修订",
+    "人事调整"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Standing Committee of the National People's Congress",
+    "Ministry of Natural Resources",
+    "Law Revision",
+    "Personnel Adjustment"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "全国人民代表大会常务委员会",
+        "name_en": "Standing Committee of the National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260626-gov_cn_yaowen-18e6a9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_33461219",
+      "title_zh": "习近平签署国家主席令",
+      "published_at": "2026-06-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

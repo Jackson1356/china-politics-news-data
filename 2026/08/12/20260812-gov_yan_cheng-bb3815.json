@@ -1,0 +1,114 @@
+{
+  "id": "20260812-gov_yan_cheng-bb3815",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/12/art_49_4446419.html",
+  "title_zh": "严汉平吴炜会见现代汽车集团副社长李赫埈一行",
+  "title_en": "Yan Hanping and Wu Wei Meet Hyundai Motor Vice Chairman Lee Hyuk-jun",
+  "summary_zh": "8月11日下午，盐城市委书记严汉平、代市长吴炜在盐会见现代汽车集团副社长李赫埈一行，双方就深化汽车产业及新兴领域合作交流。",
+  "summary_en": "On Aug 11, Yancheng Party Secretary Yan Hanping and Acting Mayor Wu Wei met Hyundai Motor Group Vice Chairman Lee Hyuk-jun in Yancheng to strengthen cooperation on automobiles and emerging sectors.",
+  "body_zh": "8月11日下午，市委书记严汉平，市委副书记、代市长吴炜在盐会见现代汽车集团副社长、中国区总裁李赫埈一行。\n严汉平、吴炜对李赫埈一行来盐深化战略合作表示欢迎。严汉平说，汽车产业是驱动盐城经济社会发展的“发动机”。悦达起亚集聚中韩优质资源，历经多年发展不断壮大。当前，盐城正坚定不移推动汽车产业高质量发展，持续深化与韩资韩企务实合作。希望双方立足合作基础，发挥各自优势，依托中韩（盐城）产业园等平台载体，稳步扩大汽车产能，携手打造全球出口基地，加大智能汽车与新能源汽车研发力度，持续延伸汽车产业链上下游，加强在机器人、低空经济等领域的合作，实现互惠互利、合作共赢。\n李赫埈感谢盐城市委、市政府长期以来对现代汽车集团发展的关心支持，并介绍集团最新发展情况和业务规划。他表示，中国拥有全球最完备的供应链，发展韧性强、市场空间广。集团高度重视与盐城的合作，将持续优化在盐业务布局，稳步增加全球出口份额，加大与盐城企业合作力度，积极拓展在智能驾驶、电动化、低空经济等领域的交流，推动双方合作不断迈上新台阶。\n市领导唐敬、祁从峰、张乃文参加会见。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-11",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "industry",
+  "keywords": [
+    "汽车产业",
+    "中韩合作",
+    "新能源汽车"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李赫埈",
+      "name_en": "Lee Hyuk-jun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车产业",
+      "name_en": "Automobile Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中韩合作",
+      "name_en": "China-South Korea Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "吴炜",
+    "李赫埈",
+    "盐城",
+    "汽车产业",
+    "中韩合作",
+    "新能源汽车"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Wu Wei",
+    "Lee Hyuk-jun",
+    "Yancheng",
+    "Automobile Industry",
+    "China-South Korea Cooperation",
+    "New Energy Vehicles"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "张乃文"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-gov_yan_cheng-bb3815",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

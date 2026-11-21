@@ -1,0 +1,123 @@
+{
+  "id": "20261023-peoples_politics-94bbc2",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/1023/c461001-40820379.html",
+  "title_zh": "李乐成当选中共安徽省委书记",
+  "title_en": "Li Lecheng Elected Secretary of the CPC Anhui Provincial Committee",
+  "summary_zh": "10月23日，中共安徽省第十二届委员会第一次全体会议选举李乐成为省委书记，王东伟、单向前为省委副书记；省纪委全会选举许永锞为省纪委书记。",
+  "summary_en": "On Oct 23, the first plenary session of the 12th CPC Anhui Provincial Committee elected Li Lecheng as provincial party secretary, with Wang Dongwei and Shan Xiangqian as deputy secretaries; Xu Yongke was elected head of the provincial discipline inspection commission.",
+  "body_zh": "李乐成当选中共安徽省委书记\n新华社合肥10月23日电 中共安徽省第十二届委员会第一次全体会议10月23日选举李乐成为省委书记，王东伟、单向前为省委副书记，当选为省委常委的还有孙红梅（女，满族）、许永锞、蔚盛斌、覃卫国（壮族）、王金良、范付中、何淳宽、桂桢（女）、朱浩东、蒋曦。中共安徽省第十二届纪委第一次全体会议选举许永锞为省纪委书记，陈学东、李敏（女）、时志远、金更华为省纪委副书记。",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "personnel",
+  "keywords": [
+    "换届选举",
+    "人事任免",
+    "党内监督"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-lecheng",
+      "name_zh": "李乐成",
+      "name_en": "Li Lecheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共安徽省委",
+      "name_en": "CPC Anhui Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内监督",
+      "name_en": "Intra-Party Oversight"
+    }
+  ],
+  "tags_zh": [
+    "李乐成",
+    "中共安徽省委",
+    "安徽",
+    "合肥",
+    "换届选举",
+    "人事任免",
+    "党内监督"
+  ],
+  "tags_en": [
+    "Li Lecheng",
+    "CPC Anhui Provincial Committee",
+    "Anhui",
+    "Hefei",
+    "Leadership Transition",
+    "Personnel Appointments",
+    "Intra-Party Oversight"
+  ],
+  "entities": {
+    "politicians": [
+      "li-lecheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH",
+      "CN-AH-HF"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共安徽省委",
+        "name_en": "CPC Anhui Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261023-peoples_politics-94bbc2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ah",
+      "source_tier": 3,
+      "url": "http://ah.people.com.cn/n2/2026/1023/c358428-41730633.html",
+      "title_zh": "李乐成当选中共安徽省委书记",
+      "published_at": "2026-10-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

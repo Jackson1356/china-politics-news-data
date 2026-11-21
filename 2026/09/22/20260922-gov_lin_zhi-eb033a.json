@@ -1,0 +1,135 @@
+{
+  "id": "20260922-gov_lin_zhi-eb033a",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/441ea2c843fd4f5bb31de22eda921a8f.shtml",
+  "title_zh": "丁薛祥接见“向国旗敬礼”港澳青少年升旗队代表访京团",
+  "title_en": "Ding Xuexiang Meets Hong Kong and Macao Youth Flag-Raising Delegation in Beijing",
+  "summary_zh": "9月21日，中共中央政治局常委、国务院副总理丁薛祥在北京人民大会堂接见“向国旗敬礼”港澳青少年升旗队代表访京团，转达习近平主席问候并勉励青少年爱国爱港爱澳。",
+  "summary_en": "On Sept 21, Vice Premier Ding Xuexiang met a Hong Kong and Macao youth flag-raising delegation at the Great Hall of the People in Beijing and conveyed Xi Jinping's greetings.",
+  "body_zh": "新华社北京9月21日电 21日上午，中共中央政治局常委、国务院副总理丁薛祥在人民大会堂接见“向国旗敬礼”港澳青少年升旗队代表访京团并合影留念。\n丁薛祥首先转达习近平主席对访京团全体成员的亲切问候，并代表中央政府对大家表示热烈欢迎。\n丁薛祥指出，习近平主席始终关心关怀港澳青少年成长成才，强调港澳青少年发展得好，香港、澳门就会发展得好，国家就会发展得好。香港、澳门迎来了历史上最好的发展时期，希望同学们读懂国旗，把对伟大祖国的情感融入到血液中、体现到行动上；守护国旗，争做新时代的爱国爱港爱澳标兵；为国旗增光，用火热的青春书写精彩的人生，当好“一国两制”事业的建设者和接班人。\n港澳大中小学升旗队代表等近1200人参加访京团。\n夏宝龙参加接见。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "一国两制",
+    "港澳青少年",
+    "爱国主义教育"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "person",
+      "id": "xia-baolong",
+      "name_zh": "夏宝龙",
+      "name_en": "Xia Baolong"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港澳青少年",
+      "name_en": "Hong Kong and Macao Youth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义教育",
+      "name_en": "Patriotic Education"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "夏宝龙",
+    "国务院",
+    "北京",
+    "一国两制",
+    "港澳青少年",
+    "爱国主义教育",
+    "习近平",
+    "薛祥"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "Xia Baolong",
+    "State Council",
+    "Beijing",
+    "One Country, Two Systems",
+    "Hong Kong and Macao Youth",
+    "Patriotic Education"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      "xia-baolong",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "龙参加"
+      },
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260922-gov_lin_zhi-eb033a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "20260701-peoples_ln-665e21",
+  "source": "peoples_ln",
+  "source_name_zh": "人民网 辽宁",
+  "source_name_en": "People's Daily Liaoning",
+  "source_url": "http://ln.people.com.cn/n2/2026/0701/c400018-41626145.html",
+  "title_zh": "清北学子“辽宁行”活动周启动",
+  "title_en": "Liaoning Trip Activity Week for Tsinghua and Peking University Students Launches",
+  "summary_zh": "6月29日，由辽宁省人社厅主办的清北学子“辽宁行”活动周在沈阳启动，旨在吸引优秀学子来辽就业，助力辽宁全面振兴。",
+  "summary_en": "On June 29, the \"Liaoning Trip\" activity week for students from Tsinghua and Peking Universities launched in Shenyang to attract top talent for Liaoning's revitalization.",
+  "body_zh": "清北学子“辽宁行”活动周启动\n6月29日，清北学子“辽宁行”活动周在沈阳启动。本次活动由辽宁省人力资源社会保障厅主办，来自北京大学、清华大学的34名青年学子在沈阳、大连开展参访。\n下一步，辽宁省人力资源社会保障厅将与更多“双一流”高校开展合作，常态化开展校园招聘、岗位推送、政策宣传等活动，搭建学生与用人单位面对面沟通交流平台，吸引更多优秀学子来辽就业，为加快推进辽宁全面振兴集聚人才力量。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-29",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "personnel",
+  "keywords": [
+    "人才引进",
+    "辽宁全面振兴"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "辽宁省人力资源社会保障厅",
+      "name_en": "Liaoning Provincial Department of Human Resources and Social Security"
+    },
+    {
+      "kind": "institution",
+      "id": "PKU",
+      "name_zh": "北京大学",
+      "name_en": "Peking University"
+    },
+    {
+      "kind": "institution",
+      "id": "TSINGHUA",
+      "name_zh": "清华大学",
+      "name_en": "Tsinghua University"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "沈阳",
+      "name_en": "Shenyang"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "大连",
+      "name_en": "Dalian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才引进",
+      "name_en": "Talent Introduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "辽宁全面振兴",
+      "name_en": "Comprehensive Revitalization of Liaoning"
+    }
+  ],
+  "tags_zh": [
+    "辽宁省人力资源社会保障厅",
+    "北京大学",
+    "清华大学",
+    "沈阳",
+    "大连",
+    "辽宁",
+    "人才引进",
+    "辽宁全面振兴"
+  ],
+  "tags_en": [
+    "Liaoning Provincial Department of Human Resources and Social Security",
+    "Peking University",
+    "Tsinghua University",
+    "Shenyang",
+    "Dalian",
+    "Liaoning",
+    "Talent Introduction",
+    "Comprehensive Revitalization of Liaoning"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PKU",
+      "TSINGHUA"
+    ],
+    "locations": [
+      "CN-LN"
+    ],
+    "companies": [
+      {
+        "name_zh": "辽宁省人力资源社会保障厅",
+        "name_en": "Liaoning Provincial Department of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260701-peoples_ln-665e21",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

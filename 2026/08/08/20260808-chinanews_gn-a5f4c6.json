@@ -1,0 +1,92 @@
+{
+  "id": "20260808-chinanews_gn-a5f4c6",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-08/10674099.shtml",
+  "title_zh": "交通运输部启动台风二级防御响应",
+  "title_en": "Ministry of Transport Activates Level-II Typhoon Defense Response",
+  "summary_zh": "交通运输部8月8日启动台风二级防御响应，应对第13号台风“白海豚”带来的大风和强降雨影响。",
+  "summary_en": "On August 8, the Ministry of Transport activated a Level-II typhoon defense response to cope with strong winds and heavy rain brought by Typhoon Dolphin.",
+  "body_zh": "交通运输部启动台风二级防御响应\n今年第13号台风“白海豚”(强台风级)的中心今天(8日)9点钟位于距离浙江省温州市偏东方向约520公里的东海南部海面上，预计将以每小时10-15公里的速度向偏西方向移动，强度变化不大或略有增强。\n大风预报：8日08时至9日08时，黄海南部、长江口、杭州湾、东海大部及钓鱼岛附近海域、台湾以东洋面、巴士海峡、江苏沿海、上海沿海、浙江沿海、福建东北部沿海、台湾岛北部沿海将有6-8级大风、阵风9-10级，其中东海大部及钓鱼岛附近海域、浙江沿海将有9-12级大风、阵风11-14级，“白海豚”中心经过的附近海域风力有13-15级，阵风15-17级。\n降雨预报：8日08时至9日08时，台湾岛北部和浙江中东部的部分地区有大到暴雨，局地大暴雨(100-150毫米)。\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年08月07日 18:32:55\n- 2026年08月07日 17:28:17\n- 2026年08月07日 15:22:09\n- 2026年08月07日 15:21:03\n- 2026年08月07日 12:22:48\n- 2026年08月07日 11:18:54\n- 2026年08月07日 10:41:17\n- 2026年08月07日 08:59:57\n- 2026年08月07日 06:16:15\n- 2026年08月06日 20:50:13",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-08",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "台风防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "浙江",
+    "台风防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Zhejiang",
+    "Typhoon Defense",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260808-chinanews_gn-a5f4c6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_08_08_826564.shtml",
+      "title_zh": "台风“白海豚”将于9日晚至10日早晨登陆，多家航司发布通知",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

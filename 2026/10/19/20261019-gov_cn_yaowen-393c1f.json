@@ -1,0 +1,113 @@
+{
+  "id": "20261019-gov_cn_yaowen-393c1f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/19/VIDEiMs1DyxJ1geZnzeVk3KX261019.shtml",
+  "title_zh": "李强会见塔吉克斯坦总统",
+  "title_en": "Li Qiang Meets Tajik President",
+  "summary_zh": "当地时间10月19日上午，国务院总理李强在杜尚别会见塔吉克斯坦总统拉赫蒙，双方就深化政治互信与各领域合作交换意见。",
+  "summary_en": "On the morning of Oct 19 local time, Premier Li Qiang met Tajik President Emomali Rahmon in Dushanbe, with both sides agreeing to deepen political trust and cooperation across various fields.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：当地时间10月19日上午，国务院总理李强在杜尚别会见塔吉克斯坦总统拉赫蒙。\n李强表示，当前，中塔正推动构建两国命运共同体。今年5月，习近平主席同拉赫蒙总统举行会晤，就双边关系发展进一步作出规划。中方愿同塔方巩固深化政治互信，坚定支持彼此核心利益，加强经贸、基建、矿产、执法安全等领域合作，在实现现代化的道路上持续携手前行。双方要加强多边协作，推动上合组织更高质量发展，积极践行四大全球倡议，携手构建人类命运共同体。\n拉赫蒙表示，塔方十分珍视同中国的伙伴关系，坚定恪守一个中国原则，愿同中方深化各领域合作，促进人文交流，加强多边协作，共建两国命运共同体。\n吴政隆参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塔关系",
+    "命运共同体",
+    "上合组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杜尚别",
+      "name_en": "Dushanbe"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塔关系",
+      "name_en": "China-Tajikistan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "上合组织",
+      "name_en": "SCO"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "杜尚别",
+    "中塔关系",
+    "命运共同体",
+    "上合组织",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Dushanbe",
+    "China-Tajikistan Relations",
+    "Community with a Shared Future",
+    "SCO"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zhenglong",
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "杜尚别"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261019-chinanews_gn-9225e4",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

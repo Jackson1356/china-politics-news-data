@@ -1,0 +1,83 @@
+{
+  "id": "20260731-gov_cn_yaowen-9114bf",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077253.htm",
+  "title_zh": "我国推动退役军人工作提质增效",
+  "title_en": "China Promotes Quality and Efficiency of Veterans Affairs",
+  "summary_zh": "国务院新闻办公室7月31日举行发布会，退役军人事务部介绍“十五五”时期推动退役军人工作提质增效情况，包括拓宽安置渠道、完善就业创业支持体系等。",
+  "summary_en": "On July 31, the State Council Information Office hosted a press conference where the Ministry of Veterans Affairs introduced plans to enhance veterans work, including wider placement channels and better employment support.",
+  "body_zh": "国务院新闻办公室今天（7月31日）举行“开局起步‘十五五’”系列主题新闻发布会。退役军人事务部相关负责人介绍了“十五五”时期推动退役军人工作提质增效有关情况。\n按照“十五五”规划相关部署，我国将持续拓宽退役军人优质安置渠道，完善就业创业支持体系。2018年以来，全国已有122万名退役军人参与职业技能培训，164万名退役军人参加适应性培训。与此同时，各地将持续常态化搭建就业供需对接平台，帮助退役军人稳定就业创业。\n“十五五”时期，我国将提升退役军人服务保障效能。加强全国61万余个退役军人服务中心和站点标准化、数字化建设，筑牢精细化的基层服务阵地。退役军人事务部将联合相关部门完善困难退役军人帮扶援助体系，继续健全抚恤补助标准动态调整机制，持续拓展优待证使用场景。\n此外，我国双拥共建、英烈褒扬工作也将同步推进。各地继续引导社会资源加大拥军力度，持续完善随军家属就业、军人子女教育优待机制。同时，实施烈士纪念设施提质改造，有序推进零散烈士墓集中管护。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-02T07:10:37Z",
+  "topic": "welfare",
+  "keywords": [
+    "退役军人工作",
+    "就业创业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "退役军人工作",
+      "name_en": "Veterans Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业创业",
+      "name_en": "Employment and Entrepreneurship"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "退役军人事务部",
+    "退役军人工作",
+    "就业创业"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Ministry of Veterans Affairs",
+    "Veterans Affairs",
+    "Employment and Entrepreneurship"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "MVA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260731-gov_cn_yaowen-9114bf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

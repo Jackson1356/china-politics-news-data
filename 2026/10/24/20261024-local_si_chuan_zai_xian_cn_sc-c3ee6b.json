@@ -1,0 +1,102 @@
+{
+  "id": "20261024-local_si_chuan_zai_xian_cn_sc-c3ee6b",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202610/83345103.html",
+  "title_zh": "经纬线·让总书记驻足的长征故事：一场会议",
+  "title_en": "A Long March Story That Drew the General Secretary's Attention: The Zunyi Conference",
+  "summary_zh": "2015年6月，习近平在贵州考察时参观遵义会议会址，叮嘱讲解员讲清党的来路；文章回顾遵义会议作为伟大转折的历史意义。",
+  "summary_en": "In June 2015, Xi Jinping visited the Zunyi Conference site in Guizhou and urged guides to explain how the Party came through the Long March; the article recalls the meeting as a great turning point.",
+  "body_zh": "这是一棵老槐树。树干分叉，形成一个象征胜利的“V”字，人们叫它“胜利树”。\n2015年6月，习近平总书记到贵州考察，专程参观了遵义会议会址和遵义会议陈列馆，叮嘱讲解员“要给大家好好讲，告诉大家我们党是怎么走过来的”。\n艰苦卓绝的长征，“实现了在追求真理、坚持真理的基础上全党的空前团结、红军的空前团结。”\n今天，阔步行进在全面建设社会主义现代化国家的新征程上，“两个确立”这个党在新时代取得的重大政治成果，成为战胜一切艰难险阻、应对一切不确定性的最大确定性、最大底气、最大保证。\n一场会议，标志着伟大的转折，也见证了此后一次又一次的胜利。",
+  "image_url": null,
+  "published_at": "2026-10-24T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "遵义会议",
+    "党的领导"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-ZY",
+      "name_zh": "遵义",
+      "name_en": "Zunyi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "遵义会议",
+      "name_en": "Zunyi Conference"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的领导",
+      "name_en": "Party Leadership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "贵州",
+    "遵义",
+    "长征精神",
+    "遵义会议",
+    "党的领导"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Guizhou",
+    "Zunyi",
+    "Long March Spirit",
+    "Zunyi Conference",
+    "Party Leadership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ",
+      "CN-GZ-ZY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261024-local_si_chuan_zai_xian_cn_sc-c3ee6b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

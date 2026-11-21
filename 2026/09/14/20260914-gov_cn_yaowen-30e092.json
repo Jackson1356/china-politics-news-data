@@ -1,0 +1,88 @@
+{
+  "id": "20260914-gov_cn_yaowen-30e092",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081066.htm",
+  "title_zh": "推动健康中国建设取得决定性进展",
+  "title_en": "China Pushes for Decisive Progress in Building a Healthy China",
+  "summary_zh": "9月14日，国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委等介绍推动健康中国建设情况，提出实施健康优先发展战略。",
+  "summary_en": "On Sept 14, the State Council Information Office briefed on Healthy China progress, with the National Health Commission outlining the health-first development strategy and the 2035 goal.",
+  "body_zh": "国务院新闻办公室今天（9月14日）举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委等单位介绍推动健康中国建设取得决定性进展有关情况。\n国家卫生健康委介绍，到2035年建成健康中国，是党中央作出的一项战略决策，“十五五”是实现这一目标的关键时期。我国将实施健康优先发展战略，加快形成有利于健康的生产生活方式和经济社会发展模式，全面提高国民健康水平。\n当前，我国已建成世界上规模最大的医疗服务体系。全国有110多万个医疗卫生机构，90%以上的居民都可以在15分钟内到达最近的医疗服务点。“十五五”期间，我国基层医疗卫生服务将从“有”向“优”转变，明晰各级各类医疗机构的职责定位，推动二、三级医院派出医务人员到基层医疗机构提供服务，二、三级医院的门诊号源要优先向基层医疗卫生机构开放。今年将新增1000个社区卫生服务中心和乡镇卫生院能够提供儿科诊疗服务。预计到今年底，全国95%以上的社区卫生服务中心和乡镇卫生院都能够提供儿科的诊疗服务。",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-14",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "welfare",
+  "keywords": [
+    "健康中国",
+    "十五五规划",
+    "基层医疗卫生服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康中国",
+      "name_en": "Healthy China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层医疗卫生服务",
+      "name_en": "Primary Healthcare Services"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "健康中国",
+    "十五五规划",
+    "基层医疗卫生服务"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Healthy China",
+    "15th Five-Year Plan",
+    "Primary Healthcare Services"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "康委"
+      }
+    ],
+    "institutions": [
+      "SCIO"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260914-gov_cn_yaowen-30e092",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

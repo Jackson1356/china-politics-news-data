@@ -1,0 +1,101 @@
+{
+  "id": "20260919-gov_tai_zhou-e4912a",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_c7d8d80ad6334a72bda74ddd92ecd835.html",
+  "title_zh": "全市党委（党组）理论学习中心组学习会召开",
+  "title_en": "Taizhou Holds Party Committee Theoretical Study Session on Ecological Environment Code",
+  "summary_zh": "9月18日，泰州市委理论学习中心组学习会召开，专题学习《中华人民共和国生态环境法典》，市委书记姜冬冬主持学习会。",
+  "summary_en": "On September 18, Taizhou held a municipal Party committee theoretical study session on China's Ecological Environment Code, presided over by Party Secretary Jiang Dongdong.",
+  "body_zh": "泰州要闻\n全市党委（党组）理论学习中心组学习会召开\n- 发布日期：2026-09-19 07:33\n- 浏览次数：\n9月18日，全市党委（党组）理论学习中心组学习会召开，专题学习《中华人民共和国生态环境法典》。学习会邀请全国人大常委会法工委备案审查室副主任、生态环境法典编纂工作专班骨干成员李恩正作专题辅导。市委书记姜冬冬主持学习会。\n学习会上，李恩正围绕《生态环境法典》的编纂背景、重大意义、体系框架、制度创新和贯彻实施等方面作了系统讲解，报告深入浅出、贴近实际，对与会人员全面学习、准确理解、深入贯彻《生态环境法典》具有很强的针对性和指导性。\n会议强调，要提高政治站位，从深刻领悟“两个确立”的决定性意义、坚决做到“两个维护”的政治高度，准确理解把握法典颁布实施的重大意义，切实增强学习贯彻的政治自觉、思想自觉和行动自觉。强化学习宣传，创新宣传方式，广泛开展法典进机关、进企业、进学校、进社区、进乡村活动，推动法典精神深入人心。坚持学以致用，聚焦美丽泰州建设，持续深入打好蓝天、碧水、净土保卫战，协同推进降碳、减污、扩绿、增长。健全完善党委领导、政府主导、企业主体、社会组织和公众共同参与的现代环境治理体系，加大生态环境执法司法力度，以严密法治守护泰州的蓝天碧水净土，为建设美丽江苏、美丽中国贡献更多泰州力量。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-18",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "party",
+  "keywords": [
+    "生态环境法典",
+    "生态文明建设",
+    "理论学习"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境法典",
+      "name_en": "Ecological Environment Code"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明建设",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "泰州",
+    "生态环境法典",
+    "生态文明建设",
+    "理论学习"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Taizhou",
+    "Ecological Environment Code",
+    "Ecological Civilization",
+    "Theoretical Study"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260919-gov_tai_zhou-e4912a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_c7d8d80ad6334a72bda74ddd92ecd835.html",
+      "title_zh": "全市党委（党组）理论学习中心组学习会召开",
+      "published_at": "2026-09-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

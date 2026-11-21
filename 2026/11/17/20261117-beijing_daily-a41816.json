@@ -1,0 +1,100 @@
+{
+  "id": "20261117-beijing_daily-a41816",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/17/12033905.shtml",
+  "title_zh": "中方是否会延长对西班牙、法国、德国等国的免签政策？外交部回应",
+  "title_en": "Will China Extend Visa-Free Policy for Spain, France and Germany? MFA Responds",
+  "summary_zh": "11月17日，外交部发言人郭嘉昆在例行记者会上就西班牙、法国、德国等国免签政策年底到期一事表示，中方重视中外人员往来便利化，正在认真研究相关政策。",
+  "summary_en": "On November 17, MFA spokesperson Guo Jiakun said at a regular press briefing that China values facilitation of cross-border personnel exchanges and is carefully studying its visa-free policy, which expires for Spain, France, Germany and others at the end of the year.",
+  "body_zh": "11月17日，外交部发言人郭嘉昆主持例行记者会。\n法新社记者提问，针对包括西班牙、法国、德国在内的部分国家实施的免签政策将于今年年底到期。请问中方是否会延长这项免签政策？预计何时会发布相关公告？\n郭嘉昆表示，中方重视中外人员往来便利化，正在认真研究相关的政策。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "免签政策",
+    "人员往来便利化",
+    "中欧关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "免签政策",
+      "name_en": "Visa-Free Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人员往来便利化",
+      "name_en": "Facilitation of Personnel Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-Europe Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "免签政策",
+    "人员往来便利化",
+    "中欧关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Visa-Free Policy",
+    "Facilitation of Personnel Exchanges",
+    "China-Europe Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      },
+      {
+        "id": null,
+        "name_zh": "何时会"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261117-beijing_daily-a41816",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/11/17/12033909.shtml",
+      "title_zh": "外交部：深圳成为中国高质量发展和高水平对外开放的靓丽名片之一",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

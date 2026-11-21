@@ -1,0 +1,123 @@
+{
+  "id": "20260914-gov_wei_hai-4a1d3d",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/9/14/art_58817_6610767.html",
+  "title_zh": "住济南市全国、省人大代表来威开展专题调研",
+  "title_en": "National and Provincial People's Congress Deputies Based in Jinan Conduct Thematic Research in Weihai",
+  "summary_zh": "9月10日至11日，济南市人大常委会主任韩金峰带领部分住济南市全国、省人大代表来威海，围绕精致城市建设和重点项目建设情况开展专题调研，并实地查看多个重点项目。",
+  "summary_en": "From Sept 10 to 11, Han Jinfeng, director of the Jinan Municipal People's Congress Standing Committee, led national and provincial people's congress deputies based in Jinan on a thematic research trip to Weihai focused on refined urban development and key project construction.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 张宇）9月10日至11日，济南市人大常委会主任韩金峰带领部分住济南市全国、省人大代表来威，围绕精致城市建设和重点项目建设情况开展专题调研。市领导张海波、贾瑞霭、于宁、毕兴全、乔新跃分别陪同有关活动。\n调研组一行先后到迪尚集团、威高集团、至海港湾、招商船舶工业威海船厂、威海泓淋电力技术股份有限公司、威海上善堂有机农业观光产业园、威海拓展纤维有限公司，实地查看重点项目建设进展，详细了解我市在科技创新赋能产业发展、产业链培育以及精致城市建设、乡村产业融合发展等方面的工作举措，并就企业自主创新、产业能级提升、开展城市更新行动等进行深入交流。\n调研组对我市经济社会发展取得的成效给予充分肯定，认为近年来威海牢记习近平总书记“威海要向精致城市方向发展”殷切嘱托，着力打造全域精致城市样板，扎实推动城市更新，提升城市治理能力，精致城市品牌效应进一步放大；锚定高质量发展首要任务，大力实施工业经济“头号工程”，加快培育发展标志性产业链，一批产业带动性强、科技含量高的重点项目落地推进，延链补链强链成效明显，实体经济根基不断夯实。调研组表示，将认真学习借鉴威海的好经验好做法，主动把调研所获运用到代表履职实践当中，为推动全省高质量发展建真言、献良策。",
+  "image_url": null,
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "economy",
+  "keywords": [
+    "精致城市建设",
+    "重点项目建设",
+    "城市更新",
+    "人大代表调研"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "济南市人大常委会",
+      "name_en": "Jinan Municipal People's Congress Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "精致城市建设",
+      "name_en": "Refined Urban Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重点项目建设",
+      "name_en": "Key Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大代表调研",
+      "name_en": "People's Congress Deputy Research"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "济南市人大常委会",
+    "威海",
+    "济南",
+    "精致城市建设",
+    "重点项目建设",
+    "城市更新",
+    "人大代表调研",
+    "张海波"
+  ],
+  "tags_en": [
+    "Jinan Municipal People's Congress Standing Committee",
+    "Weihai",
+    "Jinan",
+    "Refined Urban Development",
+    "Key Project Construction",
+    "Urban Renewal",
+    "People's Congress Deputy Research"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH",
+      "CN-SD-JN"
+    ],
+    "companies": [
+      {
+        "name_zh": "济南市人大常委会",
+        "name_en": "Jinan Municipal People's Congress Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260914-gov_wei_hai-4a1d3d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

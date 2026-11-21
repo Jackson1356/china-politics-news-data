@@ -1,0 +1,114 @@
+{
+  "id": "20261121-gov_tai_zhou-8c3876",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_a919bf684d4643928e42610ecd11d204.html",
+  "title_zh": "市委书记姜冬冬会见上海浦东发展银行南京分行党委书记李智一行",
+  "title_en": "Taizhou Party Secretary Jiang Dongdong Meets SPDB Nanjing Branch Party Secretary Li Zhi",
+  "summary_zh": "11月18日，泰州市委书记姜冬冬会见上海浦东发展银行南京分行党委书记李智一行，双方就深化政银合作、以金融赋能产业发展进行交流。",
+  "summary_en": "On Nov 18, Taizhou Party Secretary Jiang Dongdong met Li Zhi, Party Secretary of Shanghai Pudong Development Bank's Nanjing Branch, to discuss deeper government-bank cooperation and financial support for local industry.",
+  "body_zh": "泰州要闻\n市委书记姜冬冬会见上海浦东发展银行南京分行党委书记李智一行\n- 发布日期：2026-11-21 01:09\n- 浏览次数：\n11月18日，市委书记姜冬冬会见上海浦东发展银行南京分行党委书记李智一行，双方就深化合作进行交流。\n姜冬冬代表市委、市政府对李智一行的到来表示欢迎，对浦发银行长期以来给予泰州发展的关心支持表示感谢。他说，当前泰州正抢抓长三角一体化发展、锡常泰跨江融合发展等重大机遇，深耕生物医药、船舶海工、新材料等优势产业，全力构建“大海新晨”现代化产业体系。希望浦发银行深度扎根泰州市场，持续加大对重大项目建设、重点产业培育、城市更新、绿色转型、乡村振兴等领域的支持力度。希望双方深化战略合作，积极开展金融创新探索，丰富综合金融服务场景，精准赋能产业发展，助力泰州实体经济提质增效。我们将持续打造“到泰州、泰周到”发展环境，强化对接服务保障，推动政银合作走深走实、互利共赢。\n李智感谢泰州市委、市政府对浦发银行一直以来的关心与支持。他表示，浦发银行南京分行将高度聚焦泰州发展布局，依托总行综合金融优势，紧扣地方发展需求，深耕细作金融“五篇大文章”。通过强化集团内外协同，创新多元化金融产品与服务模式，优化融资服务体系，精准对接泰州重点产业链、重大工程项目等融资需求，以优质金融创新服务赋能地方产业转型升级，为泰州经济社会高质量发展注入强劲金融动能。\n浦发银行南京分行党委副书记、副行长秦正云，市领导秦猛等参加会见。",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "economy",
+  "keywords": [
+    "政银合作",
+    "实体经济",
+    "长三角一体化",
+    "金融服务创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李智",
+      "name_en": "Li Zhi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政银合作",
+      "name_en": "Government-Bank Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "实体经济",
+      "name_en": "Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长三角一体化",
+      "name_en": "Yangtze River Delta Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务创新",
+      "name_en": "Financial Service Innovation"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "李智",
+    "泰州",
+    "政银合作",
+    "实体经济",
+    "长三角一体化",
+    "金融服务创新"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Li Zhi",
+    "Taizhou",
+    "Government-Bank Cooperation",
+    "Real Economy",
+    "Yangtze River Delta Integration",
+    "Financial Service Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js",
+      {
+        "id": null,
+        "name_zh": "李智"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261121-gov_tai_zhou-8c3876",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

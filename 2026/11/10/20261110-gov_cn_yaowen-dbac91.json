@@ -1,0 +1,110 @@
+{
+  "id": "20261110-gov_cn_yaowen-dbac91",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085713.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在广西宣讲",
+  "title_en": "Central Propaganda Team on Fifth Plenary Session Spirit Delivers Lecture in Guangxi",
+  "summary_zh": "11月10日，中央宣讲团成员、中国工程院院长张玉卓在广西南宁宣讲党的二十届五中全会精神，并到平陆运河马道枢纽与基层干部群众互动交流。",
+  "summary_en": "On November 10, Zhang Yuzhuo, a member of the central propaganda team and president of the Chinese Academy of Engineering, delivered a lecture on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee in Nanning, Guangxi, and later exchanged views with grassroots officials and residents at the Madao hub of the Pinglu Canal.",
+  "body_zh": "新华社南宁11月10日电（记者 杨驰）学习贯彻党的二十届五中全会精神中央宣讲团11月10日在广西壮族自治区南宁市宣讲，中央宣讲团成员、中国工程院院长张玉卓作宣讲报告。\n报告会上，张玉卓紧扣宣讲主题，围绕习近平总书记在党的二十届五中全会上的重要讲话精神和全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，从深刻认识全会的重大意义，深入学习领会习近平总书记在全会上的重要讲话精神，全面准确理解党中央持之以恒推进全面从严治党的总体要求、战略任务和重大举措，对全会精神作了系统宣讲和深入阐释。\n张玉卓在宣讲中表示，要深刻领会党中央持之以恒推进全面从严治党的战略考量，自觉把思想和行动统一到全会作出的决策部署上来。把学习贯彻全会精神作为重大政治任务，聚焦《决定》的重大部署、重要任务、重点工作，结合实际抓落实，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面。\n10日下午，张玉卓来到平陆运河马道枢纽，面向基层党员干部群众宣讲党的二十届五中全会精神，并与干部群众互动交流。",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党的二十届五中全会",
+    "全会精神宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yuzhuo",
+      "name_zh": "张玉卓",
+      "name_en": "Zhang Yuzhuo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-NN",
+      "name_zh": "南宁",
+      "name_en": "Nanning"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Self-Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会",
+      "name_en": "Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全会精神宣讲",
+      "name_en": "Spreading Plenary Session Spirit"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "张玉卓",
+    "广西",
+    "南宁",
+    "全面从严治党",
+    "党的二十届五中全会",
+    "全会精神宣讲",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhang Yuzhuo",
+    "Guangxi",
+    "Nanning",
+    "Full and Rigorous Party Self-Governance",
+    "Fifth Plenary Session of the 20th CPC Central Committee",
+    "Spreading Plenary Session Spirit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "zhang-yuzhuo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX",
+      "CN-GX-NN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261110-gov_cn_yaowen-12ab7b",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

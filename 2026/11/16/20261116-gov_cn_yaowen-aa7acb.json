@@ -1,0 +1,100 @@
+{
+  "id": "20261116-gov_cn_yaowen-aa7acb",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/16/VIDEQaMPmnEcrH9pquintd07261116.shtml",
+  "title_zh": "习近平致信祝贺暨南大学建校120周年",
+  "title_en": "Xi Jinping Sends Congratulatory Letter on Jinan University's 120th Anniversary",
+  "summary_zh": "11月16日，习近平致信祝贺暨南大学建校120周年，希望学校加强港澳台侨青年人才培养、传承弘扬中华文化。",
+  "summary_en": "On November 16, Xi Jinping sent a letter congratulating Jinan University on its 120th anniversary, urging it to strengthen training of young people from Hong Kong, Macao, Taiwan and overseas Chinese communities and to carry forward Chinese culture.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺暨南大学建校120周年，向全体师生员工和广大校友致以祝贺。\n习近平在贺信中强调，新起点上，希望暨南大学以新时代中国特色社会主义思想为指导，继承爱国传统，坚持办学特色，加强港澳台侨青年人才培养，传承弘扬中华文化，促进中外友好交流，不断提升教育教学质量，为凝聚侨心侨力、推进中国式现代化作出新贡献。\n暨南大学创办于1906年。120年来，学校牢记办学使命，与时俱进、守正创新，为世界170多个国家和港澳台地区培养了大批优秀人才。",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "港澳台侨青年培养",
+    "传承中华文化",
+    "中外友好交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "暨南大学",
+      "name_en": "Jinan University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港澳台侨青年培养",
+      "name_en": "Training of Youth from Hong Kong, Macao, Taiwan and Overseas"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传承中华文化",
+      "name_en": "Carrying Forward Chinese Culture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中外友好交流",
+      "name_en": "People-to-People Exchanges"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "暨南大学",
+    "港澳台侨青年培养",
+    "传承中华文化",
+    "中外友好交流"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Jinan University",
+    "Training of Youth from Hong Kong, Macao, Taiwan and Overseas",
+    "Carrying Forward Chinese Culture",
+    "People-to-People Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "贺信中"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "暨南大学",
+        "name_en": "Jinan University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261116-gov_cn_yaowen-aa7acb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

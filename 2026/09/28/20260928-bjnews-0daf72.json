@@ -1,0 +1,122 @@
+{
+  "id": "20260928-bjnews-0daf72",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1790563193129071.html",
+  "title_zh": "北京汽车集团有限公司原党委书记、董事长徐和谊一审被判死缓",
+  "title_en": "Former BAIC Group Party Secretary and Chairman Xu Heyi Sentenced to Death with Reprieve in First Instance",
+  "summary_zh": "2026年9月28日，北京市第三中级人民法院一审宣判，北汽集团原党委书记、董事长徐和谊因受贿、洗钱罪被判死刑缓期二年执行，并处没收个人全部财产。",
+  "summary_en": "On September 28, 2026, Beijing No. 3 Intermediate People's Court sentenced Xu Heyi, former Party Secretary and Chairman of BAIC Group, to death with a two-year reprieve for bribery and money laundering, with all personal assets confiscated.",
+  "body_zh": "新京报讯 据北京市第三中级人民法院消息，2026年9月28日，北京市第三中级人民法院依法公开宣判北京汽车集团有限公司原党委书记、董事长徐和谊受贿、洗钱案，对被告人徐和谊以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；以洗钱罪判处有期徒刑二年，并处罚金人民币二十万元；决定执行死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产。对被告人徐和谊受贿犯罪所得及孳息予以没收，上缴国库。",
+  "image_url": null,
+  "published_at": "2026-09-28T12:00:00+00:00",
+  "event_date": "2026-09-28",
+  "ingested_at": "2026-09-29T10:35:54Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "司法审判",
+    "受贿",
+    "洗钱"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "徐和谊",
+      "name_en": "Xu Heyi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市第三中级人民法院",
+      "name_en": "Beijing No. 3 Intermediate People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法审判",
+      "name_en": "Judicial Trial"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿",
+      "name_en": "Bribery"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "洗钱",
+      "name_en": "Money Laundering"
+    }
+  ],
+  "tags_zh": [
+    "徐和谊",
+    "北京市第三中级人民法院",
+    "北京",
+    "反腐败",
+    "司法审判",
+    "受贿",
+    "洗钱"
+  ],
+  "tags_en": [
+    "Xu Heyi",
+    "Beijing No. 3 Intermediate People's Court",
+    "Beijing",
+    "Anti-corruption",
+    "Judicial Trial",
+    "Bribery",
+    "Money Laundering"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "徐和谊"
+      },
+      {
+        "id": null,
+        "name_zh": "钱罪"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市第三中级人民法院",
+        "name_en": "Beijing No. 3 Intermediate People's Court"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 5,
+  "cluster_id": "evt-20260928-bjnews-0daf72",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

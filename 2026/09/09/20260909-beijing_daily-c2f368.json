@@ -1,0 +1,88 @@
+{
+  "id": "20260909-beijing_daily-c2f368",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/09/11952248.shtml",
+  "title_zh": "美国安机构指责中国企业蒸馏美国模型，外交部：不要进行不实的指责和抹黑",
+  "title_en": "Foreign Ministry Urges US to Stop Baseless Accusations and Smearing on AI",
+  "summary_zh": "9月9日，外交部发言人毛宁表示，中国AI发展是高水平科技自立自强的成果，应加强合作，并呼吁美方落实元首共识，不要进行不实指责和抹黑。",
+  "summary_en": "On September 9, Foreign Ministry Spokesperson Mao Ning called on the US to stop baseless accusations and smearing, emphasizing China's AI development as a result of high-level self-reliance and openness to cooperation.",
+  "body_zh": "9月9日，外交部发言人毛宁主持例行记者会。\n毛宁表示，具体的报告我没有看，但是我可以告诉你的是，中国人工智能的发展是高水平科技自立自强的成果，也得益于我们始终秉持共商、共建、共享和开放合作的理念。我们始终认为，各方应当加强合作，推动人工智能开放、包容、普惠、向善发展，服务全人类的福祉。\n“我们希望美方能够认真地落实两国元首达成的重要共识，不要对中国进行不实的指责和抹黑。中美都是人工智能大国，应当加强合作。”毛宁说。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "人工智能",
+    "中美关系",
+    "科技自立自强"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技自立自强",
+      "name_en": "Scientific Self-Reliance"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "人工智能",
+    "中美关系",
+    "科技自立自强"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Artificial Intelligence",
+    "China-US Relations",
+    "Scientific Self-Reliance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260909-beijing_daily-c2f368",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20260813-gov_cn_yaowen-39a5ef",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078015.htm",
+  "title_zh": "金融服务实体经济质效不断提升",
+  "title_en": "Financial Services for Real Economy Improve in Quality and Efficiency",
+  "summary_zh": "中国人民银行发布报告称，适度宽松的货币政策效果持续显现，科技、绿色、普惠、养老及数字经济产业贷款增速均高于全部贷款，中小微民营企业融资成本下降。",
+  "summary_en": "The People's Bank of China reported that the moderately loose monetary policy has been effective, with loans to technology, green, inclusive, elderly care, and digital economy sectors growing faster than overall loans, and financing costs for small and micro private enterprises declining.",
+  "body_zh": "中国人民银行发布的最新报告显示，今年以来，我国适度宽松的货币政策效果持续显现，社会融资条件较为宽松，金融服务实体经济质效不断提升。6月末，科技贷款、绿色贷款、普惠贷款、养老产业贷款、数字经济产业贷款持续高于全部贷款增速。新发放中小微民营企业贷款加权平均利率较去年同期下降40个基点，惠及市场经营主体约250万户。\n下一阶段，中国人民银行将根据国内外经济金融形势和金融市场运行情况，综合运用并适时调整货币政策工具，保持流动性充裕和社会融资条件相对宽松。加强与财政政策协同配合，充分发挥各项存量政策效能，及时谋划出台务实管用的增量政策，加大逆周期调节力度，加力扩大内需、优化供给，推动经济持续向新向优向好发展。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "金融服务实体经济",
+    "适度宽松货币政策"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务实体经济",
+      "name_en": "Financial Services for Real Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "适度宽松货币政策",
+      "name_en": "Moderately Loose Monetary Policy"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "金融服务实体经济",
+    "适度宽松货币政策"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Financial Services for Real Economy",
+    "Moderately Loose Monetary Policy"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260813-gov_cn_yaowen-39a5ef",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

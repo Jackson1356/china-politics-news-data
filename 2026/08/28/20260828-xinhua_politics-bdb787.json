@@ -1,0 +1,74 @@
+{
+  "id": "20260828-xinhua_politics-bdb787",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260828/40abac9837234a7bbde32724372c67c9/c.html",
+  "title_zh": "全国医疗卫生机构总诊疗人次超106亿",
+  "title_en": "China's Medical Institutions Record Over 10.6 Billion Patient Visits",
+  "summary_zh": "国家卫生健康委8月28日发布《2025年我国卫生健康事业发展统计公报》，显示2025年全国医疗卫生机构总诊疗人次106.5亿，居民人均预期寿命79.25岁。",
+  "summary_en": "The National Health Commission released its 2025 statistical bulletin on August 28, showing 10.65 billion patient visits at medical institutions and an average life expectancy of 79.25 years.",
+  "body_zh": "新华社北京8月28日电（记者李恒）国家卫生健康委8月28日发布的《2025年我国卫生健康事业发展统计公报》显示，2025年，全国医疗卫生机构总诊疗人次106.5亿，比上年增加5.1亿人次，居民人均预期寿命达到79.25岁，孕产妇死亡率下降到13.4/10万，婴儿死亡率下降至3.8‰。\n根据公报，我国卫生资源总量持续稳步增长。2025年末，全国医疗卫生机构总数1108335个，全国卫生人员总数1612.1万人，卫生技术人员1345.5万人，执业（助理）医师530.6万人，注册护士606.2万人。2025年，每千人口执业（助理）医师3.78人，每千人口执业医师3.25人，每千人口注册护士4.32人，每万人口全科医生4.91人。\n公报表明，我国次均医疗费用控制有成效。2025年，医院次均住院费用9768.9元，按当年价格比上年下降1.0%，按可比价格下降1.0%；次均门诊费用357.7元，按当年价格比上年下降0.9%，按可比价格下降0.9%。\n2025年全国卫生总费用初步推算为93367.2亿元，其中政府卫生支出占25.2%，社会卫生支出占47.7%，个人卫生支出占27.1%。人均卫生总费用6637.9元，卫生总费用占GDP的比重为6.7%。\n此外，2025年末全国每千人口拥有3岁以下婴幼儿托位数达到4.73个，托育服务县级覆盖率98.8%。托育服务机构总数12.6万家，托位总数665.7万个，托育从业人员143.1万人。",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "welfare",
+  "keywords": [
+    "卫生健康",
+    "医疗服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生健康",
+      "name_en": "Health"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗服务",
+      "name_en": "Medical Services"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "卫生健康",
+    "医疗服务"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Health",
+    "Medical Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260828-xinhua_politics-bdb787",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

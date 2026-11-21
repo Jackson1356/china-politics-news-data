@@ -1,0 +1,114 @@
+{
+  "id": "20260804-gov_yue_yang-8df2ac",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2392720.html",
+  "title_zh": "谢卫江与中国能建集团董事长倪真一行座谈",
+  "title_en": "Xie Weijiang Holds Talks with Ni Zhen, Chairman of China Energy Engineering Group",
+  "summary_zh": "8月3日，湖南省委副书记、岳阳市委书记谢卫江与中国能建集团董事长倪真一行座谈，双方就深化能源建设、产业发展等领域合作进行交流。",
+  "summary_en": "On August 3, Xie Weijiang, Deputy Secretary of Hunan Provincial Committee and Yueyang Municipal Party Secretary, held talks with Ni Zhen, Chairman of China Energy Engineering Group, to deepen cooperation in energy construction and industrial development.",
+  "body_zh": "8月3日，省委副书记、岳阳市委书记谢卫江与中国能源建设集团有限公司党委书记、董事长倪真一行座谈。\n谢卫江代表市委、市政府对倪真一行表示欢迎，对中国能建支持岳阳经济社会发展表示感谢。他说，岳阳与中国能建自去年达成战略合作以来，双方紧密协作，合作成效明显。希望中国能建进一步发挥优势，与岳阳在电化洞庭湖、交能融合、产业发展、人工智能等方面深化务实合作，共同打造更多示范成果，实现共赢发展。\n倪真简要介绍了企业改革发展情况。他表示，中国能建与岳阳在能源建设领域发展战略高度契合，将与岳阳加强对接、相向而行，加快合作事项落地转化，持续拓展合作深度，为岳阳高质量发展贡献更多中国能建力量。\n中国能源建设集团有限公司党委常委、副总经理徐陆，市领导邓灿、林军华参加。",
+  "image_url": null,
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "event_date": "2026-08-03",
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "economy",
+  "keywords": [
+    "战略合作",
+    "能源建设",
+    "产业发展",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "倪真",
+      "name_en": "Ni Zhen"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源建设",
+      "name_en": "Energy Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业发展",
+      "name_en": "Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "倪真",
+    "岳阳",
+    "战略合作",
+    "能源建设",
+    "产业发展",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Ni Zhen",
+    "Yueyang",
+    "Strategic Cooperation",
+    "Energy Construction",
+    "Industrial Development",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "林军华"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260804-gov_yue_yang-8df2ac",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "20260616-cpcnews-614e9e",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "https://cpc.people.com.cn/n1/2026/0616/c435113-40741605.html",
+  "title_zh": "习近平同缅甸总统敏昂莱会谈",
+  "title_en": "Xi Jinping Holds Talks with Myanmar President Min Aung Hlaing",
+  "summary_zh": "6月16日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的缅甸总统敏昂莱举行会谈并举行欢迎仪式。",
+  "summary_en": "On the morning of June 16, President Xi Jinping held talks and a welcome ceremony for Myanmar President Min Aung Hlaing, who is paying a state visit to China, at the Great Hall of the People in Beijing.",
+  "body_zh": "登录人民网通行证 立即注册\n忘记密码？\n6月16日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的缅甸总统敏昂莱举行会谈。这是会谈前，习近平在人民大会堂北大厅为敏昂莱举行欢迎仪式。\n学习路上\n时习之\n习近平系列重要讲话数据库\n中央文件\n学习宣传贯彻党的二十大精神\n跟着总书记学党史数据库\n中央和国家机关建设模范机关\n言之有理\n学习文选",
+  "image_url": null,
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "event_date": "2026-06-16",
+  "ingested_at": "2026-06-17T09:43:30Z",
+  "topic": "foreign",
+  "keywords": [
+    "中缅关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "敏昂莱",
+      "name_en": "Min Aung Hlaing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中缅关系",
+      "name_en": "China-Myanmar Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "敏昂莱",
+    "北京",
+    "中缅关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Min Aung Hlaing",
+    "Beijing",
+    "China-Myanmar Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260616-cpcnews-614e9e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

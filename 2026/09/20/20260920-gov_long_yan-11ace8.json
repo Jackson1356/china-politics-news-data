@@ -1,0 +1,113 @@
+{
+  "id": "20260920-gov_long_yan-11ace8",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202609/t20260920_2314099.htm",
+  "title_zh": "龙岩市人大常委会党组（扩大）会议召开",
+  "title_en": "Longyan Municipal People's Congress Standing Committee Holds Enlarged Party Group Meeting",
+  "summary_zh": "9月18日，龙岩市人大常委会党组（扩大）会议召开，传达学习习近平总书记近期重要讲话重要指示批示精神及省委常委会会议精神，研究贯彻落实措施，主任陈厦生主持。",
+  "summary_en": "On September 18, the Party Group of the Longyan Municipal People's Congress Standing Committee held an enlarged meeting to study recent speeches and directives of Xi Jinping and the provincial Party committee meeting, and to discuss implementation measures.",
+  "body_zh": "龙岩市人大常委会党组（扩大）会议召开\n时间：2026-09-19 10:31\n9月18日，市人大常委会党组（扩大）会议召开，学习习近平总书记近期重要讲话重要指示批示精神，以及省委常委会会议精神，研究贯彻落实措施。市人大常委会党组书记、主任陈厦生主持，陈泽亮、苏炎洪、李达武、马桂秋、张亮春出席，张子平列席。\n会议强调，要坚持以习近平新时代中国特色社会主义思想统揽人大各项工作，找准服务科教兴市、人才强市、创新驱动发展战略的切入点、着力点，不断提升我市基础研究水平和原始创新能力。要传承弘扬“漳州110”先进事迹，扎实做好公安机关执法规范化建设情况调研的“下半篇文章”，助力统筹推进高质量发展和高水平安全。要主动融入和服务国家总体外交和地方经济社会发展大局，在深化中央单位对口支援、广龙对口合作、厦龙新时代山海协作、海峡两岸融合发展示范区建设等重点工作中展现人大新担当新作为。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-18",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻",
+    "人大工作",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "龙岩市人大常委会",
+      "name_en": "Longyan Municipal People's Congress Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Policy Implementation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "龙岩市人大常委会",
+    "龙岩",
+    "学习贯彻",
+    "人大工作",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Longyan Municipal People's Congress Standing Committee",
+    "Longyan",
+    "Policy Implementation",
+    "People's Congress Work",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "陈厦生"
+      },
+      {
+        "id": null,
+        "name_zh": "张亮春"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": [
+      {
+        "name_zh": "龙岩市人大常委会",
+        "name_en": "Longyan Municipal People's Congress Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260920-gov_long_yan-11ace8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

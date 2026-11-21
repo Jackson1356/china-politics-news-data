@@ -1,0 +1,97 @@
+{
+  "id": "20260919-gov_wu_xi-bc0825",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/09/19/4833320.shtml",
+  "title_zh": "中科曙光高层来锡考察 无锡市长蒋锋会谈深化战略合作",
+  "title_en": "Sugon Executives Visit Wuxi as Mayor Jiang Feng Holds Talks on Deepening Strategic Cooperation",
+  "summary_zh": "9月17日，无锡市市长蒋锋与来锡考察的中科曙光董事长、总裁历军一行举行工作会谈，双方围绕半导体、先进计算等领域深化战略合作洽谈交流。",
+  "summary_en": "On Sept 17, Wuxi Mayor Jiang Feng held talks with Sugon Chairman and President Li Jun during a visit to Wuxi, discussing deeper strategic cooperation in semiconductors and advanced computing.",
+  "body_zh": "发布时间：2026-09-19 07:38 文字大小： [ 大 中 小 ] 浏览次数：\n9月17日，市委副书记、市长蒋锋与来锡考察的中科曙光董事长、总裁历军一行工作会谈，双方围绕深化战略合作洽谈交流。中科曙光副总裁曹振南，副市长周文栋，市政府秘书长陈寿彬参加会谈。\n蒋锋对历军一行的到来表示欢迎。他说，当前无锡正深入学习贯彻习近平总书记对江苏工作重要讲话精神，锚定“人工智能+”标杆城市建设目标，不断推动相关产业强链补链延链，加快培育壮大新质生产力。中科曙光是我国核心信息基础设施领军企业，在先进计算、算力服务等领域积淀深厚、优势突出，此前已与我省、我市相继签订战略合作协议，为政企深度合作奠定了坚实基础。希望中科曙光立足合作新起点，抢抓词元经济发展机遇，聚焦超智融合发展趋势，在锡导入更多高端产业、技术和人才资源，共同打造新的经济增长点，实现双向赋能、互利共赢。\n历军说，无锡在人工智能、高端制造等产业领域发展势头强劲，与中科曙光战略方向高度契合。未来，中科曙光将在半导体、先进计算等领域持续发力，努力在锡落地更多创新成果，同时积极发挥自身优势，牵引集聚产业链上下游优质企业，构建完善区域产业配套体系，全方位服务无锡乃至江苏企业转型升级，为地方经济社会高质量发展作出新贡献。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能+",
+    "先进计算",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-feng-wuxi",
+      "name_zh": "蒋锋",
+      "name_en": "Jiang Feng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能+",
+      "name_en": "AI Plus"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进计算",
+      "name_en": "Advanced Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "蒋锋",
+    "无锡",
+    "人工智能+",
+    "先进计算",
+    "战略合作"
+  ],
+  "tags_en": [
+    "Jiang Feng",
+    "Wuxi",
+    "AI Plus",
+    "Advanced Computing",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-feng-wuxi",
+      {
+        "id": null,
+        "name_zh": "陈寿彬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260919-gov_wu_xi-bc0825",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

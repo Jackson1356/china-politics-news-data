@@ -1,0 +1,109 @@
+{
+  "id": "20261022-gov_lin_zhi-0ec798",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202610/b0b88a3973764053bcd483b8e40e44fd.shtml",
+  "title_zh": "嘎玛泽登主持召开西藏自治区人民政府党组（扩大）会议",
+  "title_en": "Karma Tenzin Chairs Expanded Party Group Meeting of Tibet Autonomous Region Government",
+  "summary_zh": "10月20日，西藏自治区主席、政府党组书记嘎玛泽登在拉萨主持召开政府党组（扩大）会议，传达学习习近平总书记重要讲话重要指示重要贺信精神，部署意识形态与文化强区建设工作。",
+  "summary_en": "On Oct 20, Tibet Autonomous Region Chairman and government Party group secretary Karma Tenzin chaired an expanded Party group meeting in Lhasa to convey and study Xi Jinping's key speeches and instructions and to plan ideological and cultural development work.",
+  "body_zh": "嘎玛泽登主持召开自治区人民政府党组（扩大）会议\n沿着习近平总书记擘画的蓝图勇毅前行 奋力谱写中国式现代化西藏篇章\n本报拉萨10月21日讯（记者 刘倩茹）20日，区党委副书记、自治区主席、自治区政府党组书记嘎玛泽登主持召开自治区人民政府党组（扩大）会议，传达学习习近平总书记重要讲话重要指示重要贺信精神，落实区党委常委会会议要求，研究部署政府系统贯彻落实工作。\n会议强调，意识形态工作是党的一项极端重要的工作。要深入学习贯彻习近平文化思想，持续加强思想建设，抓实理论宣传教育，落实意识形态工作责任制，严守安全底线，规范网络与文化市场，讲好西藏故事，全面掌握主动权、守牢主阵地、弘扬主旋律。要坚持文化润心，进一步铸牢中华民族共同体意识，推进文化强区建设，做好文化遗产保护，推广普及国家通用语言文字，促进优秀传统文化创造性转化、创新性发展，为谱写中国式现代化西藏篇章凝聚强大精神力量、提供智力支持。\n甲热·洛桑丹增列席。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "party",
+  "keywords": [
+    "意识形态工作",
+    "中华民族共同体意识",
+    "文化强区建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "嘎玛泽登",
+      "name_en": "Karma Tenzin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "意识形态工作",
+      "name_en": "Ideological Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族共同体意识",
+      "name_en": "Sense of Community for the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化强区建设",
+      "name_en": "Cultural Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "嘎玛泽登",
+    "拉萨",
+    "西藏",
+    "意识形态工作",
+    "中华民族共同体意识",
+    "文化强区建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Karma Tenzin",
+    "Lhasa",
+    "Tibet",
+    "Ideological Work",
+    "Sense of Community for the Chinese Nation",
+    "Cultural Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS",
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261022-gov_lin_zhi-0ec798",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

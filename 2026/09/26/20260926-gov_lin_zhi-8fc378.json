@@ -1,0 +1,95 @@
+{
+  "id": "20260926-gov_lin_zhi-8fc378",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/137ae422f95b4c9e85d3afcfe5fcf44d.shtml",
+  "title_zh": "中国共产党林芝市第三次代表大会举行第二次全体会议",
+  "title_en": "CPC Linzhi City Third Congress Holds Second Plenary Session",
+  "summary_zh": "9月25日上午，中国共产党林芝市第三次代表大会举行第二次全体会议，选举产生新一届市委委员、候补委员、市纪委委员及出席西藏自治区第十一次党代会代表。",
+  "summary_en": "On Sept 25, the third CPC Linzhi City Congress held its second plenary session, electing new municipal Party committee members and delegates to Tibet's 11th Party congress.",
+  "body_zh": "9月25日上午,中国共产党林芝市第三次代表大会举行第二次全体会议,选举产生了中国共产党林芝市第三届委员会委员、候补委员和中国共产党林芝市第三届纪律检查委员会委员、林芝市出席中国共产党西藏自治区第十一次代表大会代表。\n大会由巴塔同志主持。\n大会应到代表310名,实到代表293名,符合规定人数。\n大会通过了《中国共产党林芝市第三次代表大会选举办法》和大会总监票人、监票人建议名单,宣布了大会总监票人、计票人名单。\n在总监票人和监票人的监督下,参会代表按照大会选举办法规定的程序依次投票,选举产生34名中国共产党林芝市第三届委员会委员、7名候补委员组成中国共产党林芝市第三届委员会;选举产生23名委员组成中国共产党林芝市第三届纪律检查委员会。\n9月25日上午,中国共产党林芝市第三次代表大会主席团还举行了第四次会议。",
+  "image_url": null,
+  "published_at": "2026-09-26T12:00:00+00:00",
+  "event_date": "2026-09-25",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "党的纪律检查"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Linzhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的纪律检查",
+      "name_en": "Party Discipline Inspection"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "林芝市",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林芝",
+    "党代会",
+    "换届选举",
+    "党的纪律检查",
+    "林芝市"
+  ],
+  "tags_en": [
+    "Linzhi",
+    "Party Congress",
+    "Leadership Election",
+    "Party Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "林芝市"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260926-gov_lin_zhi-8fc378",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

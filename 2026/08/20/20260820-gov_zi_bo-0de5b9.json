@@ -1,0 +1,101 @@
+{
+  "id": "20260820-gov_zi_bo-0de5b9",
+  "source": "gov_zi_bo",
+  "source_name_zh": "淄博市政府网",
+  "source_name_en": "淄博 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zi_bo",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zibo.gov.cn/art/2026/8/20/art_14322_3016494.html",
+  "title_zh": "省政府党组会议召开 认真学习习近平总书记重要讲话精神",
+  "title_en": "Provincial Government Party Group Meeting Held to Study General Secretary Xi Jinping's Important Speech",
+  "summary_zh": "8月19日，山东省委副书记、省长周乃翔主持召开省政府党组会议，学习习近平总书记重要讲话和关于三农工作重要论述，研究落实措施。",
+  "summary_en": "On August 19, Zhou Naixiang, Deputy Secretary of the CPC Shandong Provincial Committee and Governor, chaired a provincial government party group meeting to study Xi Jinping's important speeches and measures for implementation.",
+  "body_zh": "省政府党组会议召开\n认真学习习近平总书记重要讲话精神\n8月19日，省委副书记、省长、省政府党组书记周乃翔主持召开省政府党组会议，认真学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，围绕学习贯彻习近平总书记关于“三农”工作的重要论述、视察山东重要讲话精神开展交流研讨，研究落实措施。\n会议指出，习近平总书记的重要讲话，全面回顾江泽民同志光辉战斗的一生，高度评价江泽民同志为党和人民建立的不朽功勋，强调要学习江泽民同志的崇高风范，具有很强的政治性、思想性、指导性。要深入学习领会、抓好贯彻落实，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，牢固树立和践行正确政绩观，锚定“走在前、挑大梁”，扎实推动高质量发展，加快推进现代化强省建设，为全国大局多作贡献。\n会议指出，习近平总书记对山东“三农”工作寄予厚望，要求打造乡村振兴的齐鲁样板，强调以扎实举措推进农业农村现代化，为我们做好新时代“三农”工作指明了努力方向、提供了根本遵循。要牢记习近平总书记嘱托，坚定扛牢农业大省、粮食大省责任，毫不放松抓好粮食生产，全面加强高标准农田建设，不断提升农业综合生产能力和质量效益，大力发展乡村富民产业，积极探索完善片区化推进乡村振兴机制，建设齐风鲁韵宜居宜业和美乡村，深入实施村集体和农民收入“双增计划”，高质量打造乡村振兴齐鲁样板，不断开创农业强、农村美、农民富的农业农村现代化新局面。（记者 毛鑫鑫）",
+  "image_url": null,
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻习近平总书记重要讲话精神",
+    "三农工作",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhou-naixiang",
+      "name_zh": "周乃翔",
+      "name_en": "Zhou Naixiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻习近平总书记重要讲话精神",
+      "name_en": "Studying and Implementing the Spirit of General Secretary Xi Jinping's Important Speech"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三农工作",
+      "name_en": "Agriculture, Rural Areas, and Farmers"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "周乃翔",
+    "山东",
+    "学习贯彻习近平总书记重要讲话精神",
+    "三农工作",
+    "乡村振兴",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhou Naixiang",
+    "Shandong",
+    "Studying and Implementing the Spirit of General Secretary Xi Jinping's Important Speech",
+    "Agriculture, Rural Areas, and Farmers",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "zhou-naixiang",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260820-gov_zi_bo-0de5b9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20261027-gov_cn_yaowen-36b38f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084360.htm",
+  "title_zh": "我国风电光伏累计装机容量突破20亿千瓦",
+  "title_en": "China's Cumulative Wind and Solar Power Capacity Exceeds 2 Billion Kilowatts",
+  "summary_zh": "国家能源局数据显示，截至9月底，全国风电光伏累计装机容量达20.1亿千瓦，前三季度新增约1.7亿千瓦，风光发电增量占全社会新增用电量的64%。",
+  "summary_en": "Data from the National Energy Administration shows China's cumulative wind and solar power capacity reached 2.01 billion kilowatts by the end of September, with about 170 million kilowatts added in the first three quarters, accounting for 64% of new electricity demand.",
+  "body_zh": "国家能源局最新发布的数据显示，今年前三季度，风电光伏发电新增装机容量约1.7亿千瓦。截至9月底，全国风电光伏累计装机容量突破20亿千瓦，达到20.1亿千瓦。风光发电增量占全社会新增用电量的64%，新能源大规模替代传统化石能源的减碳效益持续释放。\n新能源也成为拉动能源投资的重要引擎。今年前三季度，全国风电和太阳能发电完成投资额约占能源领域完成投资额的三分之一，有力带动了新能源装备制造、材料研发、智能运维等上下游产业的协同发展。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源",
+    "风电光伏",
+    "能源投资",
+    "碳减排"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "风电光伏",
+      "name_en": "Wind and Solar Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源投资",
+      "name_en": "Energy Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "碳减排",
+      "name_en": "Carbon Emission Reduction"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "新能源",
+    "风电光伏",
+    "能源投资",
+    "碳减排"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "New Energy",
+    "Wind and Solar Power",
+    "Energy Investment",
+    "Carbon Emission Reduction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261027-gov_cn_yaowen-36b38f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

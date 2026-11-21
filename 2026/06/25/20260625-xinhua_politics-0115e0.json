@@ -1,0 +1,89 @@
+{
+  "id": "20260625-xinhua_politics-0115e0",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260625/ea95f64df6264ae59fb06d7265ea1671/c.html",
+  "title_zh": "2025年全国共调配血液358.9万单位",
+  "title_en": "China Allocated 3.589 Million Units of Blood Nationwide in 2025",
+  "summary_zh": "国家卫生健康委近日在京披露，2025年全国共调配血液358.9万单位，并计划配合司法部推进《献血法》修订以提升血液保障能力。",
+  "summary_en": "The National Health Commission reported that 3.589 million units of blood were allocated nationwide in 2025 and plans to work with the Ministry of Justice to revise the Blood Donation Law.",
+  "body_zh": "新华社北京6月25日电（记者李恒）记者从国家卫生健康委近日在京举办的重点建议提案办理沟通会暨服务代表委员能力提升班上获悉，2025年全国共调配血液358.9万单位，其中省际间共调配血液63.1万单位，同比增长8.79%。\n国家卫生健康委医疗应急司负责人介绍，相关单位持续每日开展血液库存监测，加强重要节点和采供血淡季血液保障工作，建立全国血液联动保障机制，精准开展跨区域血液调配。\n“十五五”规划纲要明确提出“提升血液保障和应急能力”。2025年12月，国家卫生健康委就献血法修订草案征求意见稿向社会公开征求意见，其中拟对献血年龄、采血间隔、献血点规划设置及激励保障措施等作出科学调整，健全完善无偿献血法治体系。\n上述负责人表示，下一步将持续推进无偿献血工作，积极配合司法部推进献血法修订，加强献血者权益保障，加大团体献血组织力度。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-25",
+  "ingested_at": "2026-06-25T07:59:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "血液保障",
+    "献血法修订"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MOJ",
+      "name_zh": "司法部",
+      "name_en": "Ministry of Justice"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "血液保障",
+      "name_en": "Blood Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "献血法修订",
+      "name_en": "Revision of Blood Donation Law"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "司法部",
+    "北京",
+    "血液保障",
+    "献血法修订"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Ministry of Justice",
+    "Beijing",
+    "Blood Security",
+    "Revision of Blood Donation Law"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC",
+      "MOJ"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260625-xinhua_politics-0115e0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

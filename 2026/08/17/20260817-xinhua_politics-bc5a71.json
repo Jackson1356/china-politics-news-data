@@ -1,0 +1,84 @@
+{
+  "id": "20260817-xinhua_politics-bc5a71",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260817/780e2c5d7419436faa034d76c9c6a4f4/c.html",
+  "title_zh": "国家防办、应急管理部向新疆增调中央抗旱物资",
+  "title_en": "National Flood Control Office and Emergency Management Ministry Send Drought Relief Supplies to Xinjiang",
+  "summary_zh": "应新疆防汛抗旱总指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局向新疆增调抗旱水泵等中央抗旱物资，支持抗旱减灾。",
+  "summary_en": "At Xinjiang's request, the National Flood Control Office and Emergency Management Ministry, with the National Food and Strategic Reserves Administration, sent drought relief supplies including pumps and generators.",
+  "body_zh": "国家防总办公室、应急管理部向新疆增调中央抗旱物资支持做好抗旱减灾工作\n8月17日，应新疆维吾尔自治区防汛抗旱总指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局增调抗旱水泵55台、发电机37台、储水罐100个等中央抗旱物资，支持新疆做好抗旱减灾工作。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "welfare",
+  "keywords": [
+    "抗旱减灾",
+    "物资调拨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "抗旱减灾",
+      "name_en": "Drought Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物资调拨",
+      "name_en": "Material Allocation"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "新疆",
+    "抗旱减灾",
+    "物资调拨"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Xinjiang",
+    "Drought Relief",
+    "Material Allocation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-XJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260817-xinhua_politics-bc5a71",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "20261019-peoples_sh-42c3df",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/1019/c134768-41725819.html",
+  "title_zh": "我国已累计发布1775项食品安全国家标准",
+  "title_en": "China Has Issued 1,775 National Food Safety Standards in Total",
+  "summary_zh": "10月18日，国家卫生健康委在北京举办2026年全国食品安全宣传周主题日活动，会上介绍我国已累计发布1775项食品安全国家标准，并推广食品数字标签。",
+  "summary_en": "On October 18, the National Health Commission held a themed event in Beijing for the 2026 National Food Safety Awareness Week, announcing that China has issued a total of 1,775 national food safety standards and is promoting digital food labeling.",
+  "body_zh": "我国已累计发布1775项食品安全国家标准\n新华社北京10月18日电（记者李恒）我国筑牢“最严谨”标准防线，累计发布1775项食品安全国家标准，让从农田到餐桌的全过程均有标准可依，并积极推广应用食品数字标签，让食品信息获取更便捷高效。\n这是记者10月18日从以“尚德守法，共享食安——深化全链条监管”为主题的2026年全国食品安全宣传周国家卫生健康委主题日活动上了解到的信息。\n国家卫生健康委食品司有关负责人表示，我国持续强化风险监测评估，及时识别食品安全隐患，加强风险预警提示，把好“病从口入”第一道关口。此外，食安与营养协同推进，加强学生餐、老年餐等重点人群膳食指导，推出儿童青少年肥胖等11项食养指南，普及“减油、增豆、加奶”“多吃蔬菜水果、全谷物和水产品”等合理膳食理念，促进养成科学饮食习惯。",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-18",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "welfare",
+  "keywords": [
+    "食品安全",
+    "国家标准",
+    "全链条监管",
+    "营养健康"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家标准",
+      "name_en": "National Standards"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全链条监管",
+      "name_en": "Whole-Chain Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营养健康",
+      "name_en": "Nutrition and Health"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "北京",
+    "食品安全",
+    "国家标准",
+    "全链条监管",
+    "营养健康"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Beijing",
+    "Food Safety",
+    "National Standards",
+    "Whole-Chain Supervision",
+    "Nutrition and Health"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261019-peoples_sh-42c3df",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/1019/c378440-41725717.html",
+      "title_zh": "我国已累计发布1775项食品安全国家标准",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

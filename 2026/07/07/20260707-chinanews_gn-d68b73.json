@@ -1,0 +1,105 @@
+{
+  "id": "20260707-chinanews_gn-d68b73",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-07/10654228.shtml",
+  "title_zh": "自然资源部对甘肃启动地质灾害防御Ⅲ级响应",
+  "title_en": "Ministry of Natural Resources Initiates Level III Response to Geological Disasters in Gansu",
+  "summary_zh": "自然资源部对甘肃启动地质灾害防御Ⅲ级响应，要求省自然资源厅及相关技术机构派出专家组，协助开展搜救、抢险及监测预警工作。",
+  "summary_en": "The Ministry of Natural Resources has initiated a Level III response to geological disasters in Gansu, directing provincial authorities and expert groups to provide technical support for rescue and monitoring.",
+  "body_zh": "自然资源部对甘肃启动地质灾害防御Ⅲ级响应\n自然资源部要求甘肃省自然资源厅立即先行派出专家工作组前往现场，协助地方做好人员搜救、抢险救援期间技术支撑等工作，并举一反三，做好类似情况下地质灾害巡查排查、监测预警和防范应对等工作；请中国地质调查局、自然资源部地质灾害技术指导中心加强专家调度、组织协调、会商研判，全力协助指导做好技术支撑等工作。\n国内新闻精选：\n- 2026年07月06日 20:28:03\n- 2026年07月06日 16:50:05\n- 2026年07月06日 16:49:55\n- 2026年07月06日 16:41:21\n- 2026年07月06日 16:05:37\n- 2026年07月06日 14:41:21\n- 2026年07月06日 14:40:47\n- 2026年07月06日 06:26:28\n- 2026年07月05日 21:07:09\n- 2026年07月05日 15:10:11",
+  "image_url": null,
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "event_date": "2026-07-06",
+  "ingested_at": "2026-07-07T07:51:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害防御",
+    "应急响应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "甘肃省自然资源厅",
+      "name_en": "Gansu Provincial Department of Natural Resources"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国地质调查局",
+      "name_en": "China Geological Survey"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害防御",
+      "name_en": "Geological Disaster Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "甘肃省自然资源厅",
+    "中国地质调查局",
+    "甘肃",
+    "地质灾害防御",
+    "应急响应"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Gansu Provincial Department of Natural Resources",
+    "China Geological Survey",
+    "Gansu",
+    "Geological Disaster Prevention",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "甘肃省自然资源厅",
+        "name_en": "Gansu Provincial Department of Natural Resources"
+      },
+      {
+        "name_zh": "中国地质调查局",
+        "name_en": "China Geological Survey"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260707-chinanews_gn-d68b73",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

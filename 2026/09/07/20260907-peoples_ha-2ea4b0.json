@@ -1,0 +1,124 @@
+{
+  "id": "20260907-peoples_ha-2ea4b0",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0907/c351638-41688321.html",
+  "title_zh": "2026年中国农民丰收节金秋消费季全面启动",
+  "title_en": "2026 China Farmers' Harvest Festival Golden Autumn Consumption Season Fully Launched",
+  "summary_zh": "2026年中国农民丰收节金秋消费季近日在上海启动，由农业农村部等多部门共同发起，将开展数商兴农、菜篮子产品消费促进等活动，累计带动农产品销售额超1600亿元。",
+  "summary_en": "The 2026 Golden Autumn Consumption Season of China's Farmers' Harvest Festival was recently launched in Shanghai, co-initiated by multiple ministries including the Ministry of Agriculture and Rural Affairs. It features activities to boost agricultural product sales, having driven cumulative sales of over 160 billion yuan.",
+  "body_zh": "2026年中国农民丰收节金秋消费季全面启动\n多年累计带动农产品销售额超1600亿元\n本报北京9月6日电 （记者郁静娴）近日，由农业农村部、商务部、文化和旅游部、中央广播电视总台、国家林业和草原局、中华全国供销合作总社共同发起的2026年中国农民丰收节金秋消费季在上海启动。\n今年金秋消费季以“丰收开新局 实干促振兴”为主题，持续到11月底。将开展数商兴农庆丰收、全国36个大中城市“菜篮子”产品消费促进、乡村“小而美”文旅业态提升行动交流对接等重点活动，各地各部门也将组织开展丰富多彩的庆丰收促消费活动。\n据悉，金秋消费季是中国农民丰收节的品牌活动之一。多年来，金秋消费季的社会影响力不断提升，市场拉动作用日益显著，已累计带动农产品销售额超1600亿元。\n《 人民日报 》（ 2026年09月07日 04 版）",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-07T09:02:00Z",
+  "topic": "economy",
+  "keywords": [
+    "农民丰收节",
+    "金秋消费季",
+    "促消费",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农民丰收节",
+      "name_en": "Farmers' Harvest Festival"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金秋消费季",
+      "name_en": "Golden Autumn Consumption Season"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "促消费",
+      "name_en": "Consumption Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "上海",
+    "农民丰收节",
+    "金秋消费季",
+    "促消费",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Shanghai",
+    "Farmers' Harvest Festival",
+    "Golden Autumn Consumption Season",
+    "Consumption Promotion",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260907-peoples_ha-2ea4b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0907/c352664-41688373.html",
+      "title_zh": "2026年中国农民丰收节金秋消费季全面启动",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/0907/c192237-41688392.html",
+      "title_zh": "2026年中国农民丰收节金秋消费季全面启动",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0907/c378440-41688430.html",
+      "title_zh": "2026年中国农民丰收节金秋消费季全面启动",
+      "published_at": "2026-09-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

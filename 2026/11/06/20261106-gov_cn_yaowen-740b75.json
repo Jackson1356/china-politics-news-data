@@ -1,0 +1,87 @@
+{
+  "id": "20261106-gov_cn_yaowen-740b75",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/06/VIDEvj2ogkvUNXFQ4LQjNV2q261106.shtml",
+  "title_zh": "习近平举行仪式欢迎加蓬总统访华",
+  "title_en": "Xi Jinping Holds Welcome Ceremony for Gabonese President's State Visit",
+  "summary_zh": "11月6日下午，国家主席习近平在人民大会堂北大厅举行仪式，欢迎加蓬总统恩圭马对我国进行国事访问。",
+  "summary_en": "On the afternoon of November 6, President Xi Jinping held a welcome ceremony at the Great Hall of the People for Gabonese President Brice Clotaire Oligui Nguema, who is on a state visit to China.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国家主席习近平6日下午在人民大会堂北大厅举行仪式，欢迎加蓬共和国总统布里斯·克洛泰尔·奥利吉·恩圭马对我国进行国事访问。\n天安门广场上鸣礼炮21响。\n陪同恩圭马访华的有国务部长兼交通部部长，外交部部长等。\n中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席欢迎仪式。\n军乐团奏加中两国国歌。\n恩圭马在习近平陪同下检阅中国人民解放军仪仗队。\n两国元首回到检阅台观看仪仗队分列式。\n恩圭马是应习近平的邀请对我国进行国事访问的。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中加关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中加关系",
+      "name_en": "China-Gabon Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "王毅",
+    "国事访问",
+    "中加关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Wang Yi",
+    "State Visit",
+    "China-Gabon Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王毅等"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261106-gov_cn_yaowen-740b75",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "20260908-xinhua_gz-1d3550",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260908/153107b3d980419b8919c16ce629c814/c.html",
+  "title_zh": "徐麟会见吉利控股集团首席执行官、吉利汽车董事会主席安聪慧一行",
+  "title_en": "Xu Lin Meets An Conghui, CEO of Geely Holding Group and Chairman of Geely Automobile",
+  "summary_zh": "9月7日，贵州省委书记徐麟在贵阳会见吉利控股集团首席执行官、吉利汽车董事会主席安聪慧一行，希望深化合作，推动新能源汽车产业发展。",
+  "summary_en": "On September 7, Xu Lin, Secretary of Guizhou Provincial Party Committee, met with An Conghui, CEO of Geely Holding, in Guiyang to deepen NEV cooperation.",
+  "body_zh": "9月7日，省委书记徐麟在贵阳会见吉利控股集团首席执行官、吉利汽车董事会主席安聪慧一行。省领导曲林、罗强，吉利控股集团高级副总裁毛勇参加。\n徐麟代表省委、省政府对安聪慧一行表示欢迎和感谢。他说，全省上下正深入学习贯彻习近平总书记考察贵州重要讲话精神和党中央决策部署，坚持以高质量发展统揽全局，发挥比较优势打造“六大产业集群”，加快构建贵州特色现代化产业体系。希望吉利控股集团与贵州进一步深化务实合作、更好实现互利共赢。贵州将为企业在黔发展营造良好环境。\n安聪慧感谢贵州对吉利控股集团的关心支持，并表示将进一步发挥科技、人才、品牌等优势，顺应市场需求持续深化与贵州合作，做大做强吉利在黔项目，共同推动新能源汽车产业提质扩量增效，为贵州经济社会高质量发展作出更大贡献。\n吉利控股集团，贵阳市、黔西南自治州和省有关部门负责人参加。（记者 曾书慧）",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源汽车产业",
+    "产业合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-lin",
+      "name_zh": "徐麟",
+      "name_en": "Xu Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车产业",
+      "name_en": "New Energy Vehicle Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "qu-lin-guizhou",
+      "name_zh": "曲林",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "徐麟",
+    "贵阳",
+    "新能源汽车产业",
+    "产业合作",
+    "曲林"
+  ],
+  "tags_en": [
+    "Xu Lin",
+    "Guiyang",
+    "New Energy Vehicle Industry",
+    "Industrial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xu-lin",
+      "xu-lin-guizhou",
+      "qu-lin-guizhou",
+      {
+        "id": null,
+        "name_zh": "毛勇"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260908-xinhua_gz-1d3550",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

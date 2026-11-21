@@ -1,0 +1,108 @@
+{
+  "id": "20261104-local_si_chuan_zai_xian_cn_sc-b1983a",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202611/83351303.html",
+  "title_zh": "习近平以做“三个伙伴”引领中阿战略合作",
+  "title_en": "Xi Jinping Charts China-Oman Strategic Cooperation With 'Three Partners'",
+  "summary_zh": "11月2日，习近平在北京同来华进行国事访问的阿曼苏丹海赛姆举行会谈，提出做能源、投资、高技术“三个伙伴”，推动中阿战略伙伴关系向更高水平迈进。",
+  "summary_en": "On November 2, Xi Jinping held talks in Beijing with Oman's Sultan Haitham, proposing energy, investment and high-tech 'three partners' to advance the China-Oman strategic partnership.",
+  "body_zh": "【本期导读】\n11月2日，中国国家主席习近平在北京同来华进行国事访问的阿曼苏丹海赛姆举行会谈。习近平指出，拓展和深化中阿关系是双方共同的战略选择，顺应时代潮流和历史大势，符合两国人民共同期盼。中方愿同阿方一道，推动中阿战略伙伴关系向更高水平迈进，更好造福两国人民，为地区和平、稳定、繁荣作出贡献。\n“做稳定可靠的能源合作伙伴、富有潜力的投资合作伙伴、协同创新的高技术合作伙伴”。阿曼人士及媒体认为，阿中传统友好，一直相互尊重、相互信任。阿曼“2040愿景”与中国共建“一带一路”倡议明显契合，此次访问印证了两国之间深厚的历史和文明纽带，是阿中关系发展历史上的里程碑，标志着两国关系进入新阶段，将为阿曼经济多元化发展打开新的大门。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中阿战略伙伴关系",
+    "一带一路",
+    "能源合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中阿战略伙伴关系",
+      "name_en": "China-Oman Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中阿战略伙伴关系",
+    "一带一路",
+    "能源合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Oman Strategic Partnership",
+    "Belt and Road Initiative",
+    "Energy Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261104-local_si_chuan_zai_xian_cn_sc-b1983a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://news.jschina.com.cn/bdzj/202611/t20261104_s6aeb2627e4b0818dcdbfdfee.shtml",
+      "title_zh": "【讲习所·中国与世界】习近平以做“三个伙伴”引领中阿战略合作_中国江苏网",
+      "published_at": "2026-11-04T12:00:00+00:00"
+    },
+    {
+      "source": "local_hai_xia_wang_cn_fj",
+      "source_tier": 3,
+      "url": "http://www.hxnews.com/news/gn/szxw/202611/05/2277160.shtml",
+      "title_zh": "【讲习所·中国与世界】习近平以做“三个伙伴”引领中阿战略合作",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

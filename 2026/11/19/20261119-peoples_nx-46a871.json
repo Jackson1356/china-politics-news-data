@@ -1,0 +1,92 @@
+{
+  "id": "20261119-peoples_nx-46a871",
+  "source": "peoples_nx",
+  "source_name_zh": "人民网 宁夏",
+  "source_name_en": "People's Daily Ningxia",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://nx.people.com.cn/n2/2026/1119/c192482-41754849.html",
+  "title_zh": "中卫330千伏都跃Ⅰ线投运",
+  "title_en": "Zhongwei 330kV Duyue I Transmission Line Goes into Operation",
+  "summary_zh": "11月17日，中卫330千伏都跃Ⅰ线一次带电成功投运，为宁夏新增一条绿电外送通道，并成为“宁电入湘”特高压直流配套网架的一环。",
+  "summary_en": "On Nov 17, the 330kV Duyue I line in Zhongwei was energized successfully on its first attempt, adding a new green-power transmission channel in Ningxia and a link in the supporting grid for the Ningxia-to-Hunan UHV project.",
+  "body_zh": "中卫330千伏都跃Ⅰ线投运\n11月17日，中卫330千伏都跃Ⅰ线新设备启动投运，冲击合闸、核相等操作一气呵成，一次带电成功。这条线路把中卫送往龙跃变电站的新能源接进天都山750千伏枢纽站，再汇入宁夏主网，标志着中卫又增加了一条绿电的外送通道。\n都跃Ⅰ线还是“宁电入湘”特高压直流送端交流配套网架的一环。线路投运后，中卫新能源送出能力将得到进一步提升，局部消纳压力将得到缓解。\n为确保绿电送得出去、稳得住，国网宁夏超高压公司对电压、电流、温度、保护动作信号及通道工况实行24小时监测，运维人员同步对新投设备开展特殊巡视和红外测温。此前都湛Ⅰ线、都澈Ⅰ线相继投运，此次都跃Ⅰ线补齐龙跃片区接入节点，天都山站的新能源汇集功能将得到进一步完善，为宁夏新型电力系统建设、绿电规模化外送提供支撑。（记者 赵磊）",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "industry",
+  "keywords": [
+    "绿电外送",
+    "宁电入湘",
+    "新型电力系统"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-ZW",
+      "name_zh": "中卫",
+      "name_en": "Zhongwei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX",
+      "name_zh": "宁夏",
+      "name_en": "Ningxia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿电外送",
+      "name_en": "Green Power Transmission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宁电入湘",
+      "name_en": "Ningxia-to-Hunan Power Transmission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型电力系统",
+      "name_en": "New-Type Power System"
+    }
+  ],
+  "tags_zh": [
+    "中卫",
+    "宁夏",
+    "绿电外送",
+    "宁电入湘",
+    "新型电力系统"
+  ],
+  "tags_en": [
+    "Zhongwei",
+    "Ningxia",
+    "Green Power Transmission",
+    "Ningxia-to-Hunan Power Transmission",
+    "New-Type Power System"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-NX-ZW",
+      "CN-NX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261119-peoples_nx-46a871",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260615-xinhua_politics-5ef31e",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260615/72ef9483bd8041258bcad68b8e5921ec/c.html",
+  "title_zh": "前5个月全国铁路货运发送量超21亿吨",
+  "title_en": "National Railway Freight Volume Exceeds 2.1 Billion Tons in First Five Months",
+  "summary_zh": "国家铁路局6月15日公布数据显示，今年1至5月份全国铁路货运发送量达21.86亿吨，同比增长3.1%，客运量及固定资产投资均实现增长。",
+  "summary_en": "The National Railway Administration reported on June 15 that national railway freight volume reached 2.186 billion tons from January to May, a 3.1% year-on-year increase, with growth also seen in passenger volume and fixed asset investment.",
+  "body_zh": "新华社北京6月15日电（记者叶昊鸣）记者15日从国家铁路局获悉，1至5月份，全国铁路累计完成货运发送量21.86亿吨，同比增长3.1%；完成货物周转量15636.55亿吨公里，同比增长6.2%。\n从分品类运输情况看，1至5月份，全国铁路累计发送煤炭11.64亿吨、集装箱4.47亿吨、粮食2398万吨，同比分别增长4.5%、8.4%、4.7%，货物运输稳定畅通。\n客运方面，1至5月份，全国铁路累计完成旅客发送量19.69亿人，同比增长5.7%；完成旅客周转量6977.39亿人公里，同比增长4.2%。\n固定资产投资方面，1至5月份，全国铁路固定资产投资完成2485亿元，同比增长2.6%，铁路建设稳步推进。\n国家铁路局有关负责人表示，1至5月份，全国铁路客货运量保持高位，铁路建设稳步推进，有效发挥辐射带动作用，为区域经济社会发展注入新动能。",
+  "image_url": null,
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "event_date": "2026-06-15",
+  "ingested_at": "2026-06-15T10:23:29Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路运输",
+    "货运量"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家铁路局",
+      "name_en": "National Railway Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货运量",
+      "name_en": "Freight Volume"
+    }
+  ],
+  "tags_zh": [
+    "国家铁路局",
+    "北京",
+    "铁路运输",
+    "货运量"
+  ],
+  "tags_en": [
+    "National Railway Administration",
+    "Beijing",
+    "Railway Transport",
+    "Freight Volume"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家铁路局",
+        "name_en": "National Railway Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260615-xinhua_politics-5ef31e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
