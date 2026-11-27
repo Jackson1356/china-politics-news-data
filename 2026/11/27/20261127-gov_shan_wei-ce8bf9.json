@@ -1,0 +1,100 @@
+{
+  "id": "20261127-gov_shan_wei-ce8bf9",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1315250.html",
+  "title_zh": "汕尾市八届人大常委会第五十二次会议召开",
+  "title_en": "Shanwei Municipal People's Congress Standing Committee Holds 52nd Session, Approves Personnel Changes",
+  "summary_zh": "11月26日，汕尾市八届人大常委会召开第五十二次会议，接受王辉华、温树斌、周小壮辞职请求，任命陈健代理市监委主任、赵颖为副市长。",
+  "summary_en": "On Nov 26, the Standing Committee of the 8th Shanwei Municipal People's Congress held its 52nd session, accepting resignations of three officials and appointing Chen Jian as acting city supervisory commission head and Zhao Ying as vice mayor.",
+  "body_zh": "11月26日，市八届人大常委会召开第五十二次会议。受市委书记，市人大常委会党组书记、主任逯峰委托，市人大常委会党组副书记、副主任林军主持会议。市人大常委会副主任李惠文、吴国华、吴城鑫、曾繁文出席会议。\n会议传达学习习近平总书记在党的二十届五中全会上的重要讲话和全会精神、习近平总书记视察广东和出席亚太经合组织第三十三次领导人非正式会议及相关活动重要讲话重要指示精神，以及省市相关会议精神，强调要深刻认识党的二十届五中全会的重大意义，深学笃行习近平总书记重要讲话重要指示精神，持之以恒推进全面从严治党，以高质量立法夯实善治根基、以刚性监督提升履职效能、以代表主体作用汇聚民智民力、以“四个机关”建设锻造过硬队伍，真抓实干推动人大工作高质量发展，为汕尾现代化建设提供良好法治保障。\n会议审议王辉华因工作岗位变动辞去市监察委员会主任职务的请求，温树斌、周小壮因工作岗位变动辞去市政府副市长职务的请求，决定接受王辉华辞去市监察委员会主任职务，温树斌、周小壮辞去市政府副市长职务，报市人民代表大会备案。\n会议任命陈健为市监察委员会副主任，决定陈健代理市监察委员会主任职务；决定任命赵颖为市政府副市长。\n会议还通过其他人事任免事项，组织新任命的国家工作人员向宪法宣誓。\n副市长庄红琴，市检察院检察长杨明哲，市监委、市法院负责同志等列席会议。（记者林舒雅）",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "人大监督",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "Congressional Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "lu-feng-shanwei",
+      "name_zh": "逯峰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕尾",
+    "人事任免",
+    "人大监督",
+    "全面从严治党",
+    "习近平",
+    "逯峰"
+  ],
+  "tags_en": [
+    "Shanwei",
+    "Personnel Appointments",
+    "Congressional Oversight",
+    "Full and Rigorous Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "lu-feng-shanwei"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261127-gov_shan_wei-ce8bf9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20261015-beijing_daily-54fc70",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/15/11996198.shtml",
+  "title_zh": "外交部：中方高度重视津巴布韦方面债务处置的诉求，双方保持着沟通",
+  "title_en": "Foreign Ministry: China Highly Values Zimbabwe's Debt Treatment Request, Both Sides Stay in Communication",
+  "summary_zh": "10月15日，外交部发言人毛宁在例行记者会上表示，中方高度重视津巴布韦方面债务处置的诉求，双方有关部门和金融机构保持着沟通。",
+  "summary_en": "On Oct 15, MFA spokesperson Mao Ning said at a regular press briefing that China highly values Zimbabwe's debt treatment request, with relevant departments and financial institutions of both sides in communication.",
+  "body_zh": "10月15日，外交部发言人毛宁主持例行记者会。\n彭博社记者提问，有报道称，津巴布韦财政部长称，中方已同意对津巴布韦的债务进行部分重组，发言人能否确认上述报道？\n毛宁表示，中国和津巴布韦两国传统友好，我们高度重视津巴布韦方面债务处置的诉求，双方有关部门和金融机构保持着沟通。具体的进展你可以向中方的主管部门了解。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "foreign",
+  "keywords": [
+    "债务重组",
+    "中津关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "债务重组",
+      "name_en": "Debt Restructuring"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中津关系",
+      "name_en": "China-Zimbabwe Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "债务重组",
+    "中津关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Debt Restructuring",
+    "China-Zimbabwe Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261015-beijing_daily-54fc70",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "20261123-peoples_jx-e90c34",
+  "source": "peoples_jx",
+  "source_name_zh": "人民网 江西",
+  "source_name_en": "People's Daily Jiangxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://jx.people.com.cn/n2/2026/1123/c186330-41757957.html",
+  "title_zh": "尹弘当选中共江西省委书记",
+  "title_en": "Yin Hong Elected Secretary of the CPC Jiangxi Provincial Committee",
+  "summary_zh": "11月22日，中共江西省第十六届委员会第一次全体会议选举尹弘为省委书记，陈永奇、庄兆林为省委副书记；省纪委全会选举时玉宝为省纪委书记。",
+  "summary_en": "On November 22, the first plenary session of the 16th CPC Jiangxi Provincial Committee elected Yin Hong as its secretary, with Chen Yongqi and Zhuang Zhaolin as deputy secretaries. The provincial discipline commission elected Shi Yubao as its secretary.",
+  "body_zh": "尹弘当选中共江西省委书记\n本报南昌11月22日电 （记者杨义、姚雪青）中共江西省第十六届委员会第一次全体会议11月22日选举尹弘为省委书记，陈永奇、庄兆林为省委副书记，当选为省委常委的还有黄喜忠、时玉宝、盛秋平、陈敏、张莹（女）、刘金波、杨勇、许南吉、严允、陈克龙。\n中共江西省第十六届纪委第一次全体会议选举时玉宝为省纪委书记，许朝杰、饶华东、郭素芳（女）、熊明为省纪委副书记。\n《 人民日报 》（ 2026年11月23日 04 版）",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "personnel",
+  "keywords": [
+    "党委换届",
+    "干部人事",
+    "纪律检查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-hong",
+      "name_zh": "尹弘",
+      "name_en": "Yin Hong"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共江西省委",
+      "name_en": "CPC Jiangxi Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX",
+      "name_zh": "江西",
+      "name_en": "Jiangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JX-NC",
+      "name_zh": "南昌",
+      "name_en": "Nanchang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党委换届",
+      "name_en": "Party Committee Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部人事",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律检查",
+      "name_en": "Discipline Inspection"
+    }
+  ],
+  "tags_zh": [
+    "尹弘",
+    "中共江西省委",
+    "江西",
+    "南昌",
+    "党委换届",
+    "干部人事",
+    "纪律检查"
+  ],
+  "tags_en": [
+    "Yin Hong",
+    "CPC Jiangxi Provincial Committee",
+    "Jiangxi",
+    "Nanchang",
+    "Party Committee Election",
+    "Personnel Appointments",
+    "Discipline Inspection"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-hong"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JX",
+      "CN-JX-NC"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共江西省委",
+        "name_en": "CPC Jiangxi Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20261122-paper_zhengjing-b8df54",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

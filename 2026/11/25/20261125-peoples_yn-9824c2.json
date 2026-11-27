@@ -1,0 +1,140 @@
+{
+  "id": "20261125-peoples_yn-9824c2",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://yn.people.com.cn/n2/2026/1125/c378439-41760043.html",
+  "title_zh": "云南省政府与中国农大举行工作会谈",
+  "title_en": "Yunnan Provincial Government Holds Working Talks with China Agricultural University",
+  "summary_zh": "11月23日，云南省政府与中国农业大学在昆明举行工作会谈，代省长刘奇凡与中国农大校长陈卫出席，双方商定在农业绿色转型、人才培养等方面深化合作。",
+  "summary_en": "On Nov 23, the Yunnan Provincial Government and China Agricultural University held working talks in Kunming, where acting governor Liu Qifan and CAU president Chen Wei agreed to deepen cooperation in green agriculture and talent training.",
+  "body_zh": "云南省政府与中国农大举行工作会谈\n11月23日，云南省政府与中国农业大学在昆明举行工作会谈。\n省委副书记、代省长刘奇凡，中国农业大学校长、中国工程院院士陈卫出席。\n刘奇凡对中国农大团队长期扎根云南、帮助云南表示感谢。他指出，云南省正深入贯彻落实党的二十届五中全会和习近平总书记考察云南重要讲话精神，加快建设特色农业强省，奋力开创发展新局面。希望与中国农大加强对接交流，在农业绿色转型、农产品精深加工、乡村建设和高原湖泊保护治理、高等教育发展等方面深化务实合作，推动农大科研团队与云南省龙头企业共建科企融合体，促进创新成果转化应用，协同做好特色资源开发大文章，为高质量发展注入新动能。\n陈卫表示，云南农业发展优势得天独厚，校地合作基础扎实、前景广阔。学校将持续做好定点帮扶、建好科技小院，推动更多优秀人才和创新资源汇聚云南，在现代农业、生态环保、人才培养等方面加强合作，加快落地一批农业科技项目，更好助力云南经济社会发展。\n云南省姜山，中国农大田见晖，省级有关部门单位负责同志参加会谈。（记者 张寅 岳晓琼）",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "economy",
+  "keywords": [
+    "校地合作",
+    "特色农业",
+    "农业绿色转型",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qifan",
+      "name_zh": "刘奇凡",
+      "name_en": "Liu Qifan"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈卫",
+      "name_en": "Chen Wei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国农业大学",
+      "name_en": "China Agricultural University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN-KM",
+      "name_zh": "昆明",
+      "name_en": "Kunming"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "校地合作",
+      "name_en": "University-Local Government Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "特色农业",
+      "name_en": "Characteristic Agriculture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业绿色转型",
+      "name_en": "Green Agricultural Transformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Training"
+    }
+  ],
+  "tags_zh": [
+    "刘奇凡",
+    "陈卫",
+    "中国农业大学",
+    "云南",
+    "昆明",
+    "校地合作",
+    "特色农业",
+    "农业绿色转型",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Liu Qifan",
+    "Chen Wei",
+    "China Agricultural University",
+    "Yunnan",
+    "Kunming",
+    "University-Local Government Cooperation",
+    "Characteristic Agriculture",
+    "Green Agricultural Transformation",
+    "Talent Training"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qifan",
+      {
+        "id": null,
+        "name_zh": "谢他"
+      },
+      {
+        "id": null,
+        "name_zh": "陈卫"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN",
+      "CN-YN-KM"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国农业大学",
+        "name_en": "China Agricultural University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261125-peoples_yn-9824c2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

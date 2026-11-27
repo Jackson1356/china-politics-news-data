@@ -1,0 +1,96 @@
+{
+  "id": "20261123-beijing_daily-2c4df4",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/23/12040746.shtml",
+  "title_zh": "荷兰外交大臣贝伦德森将访华，外交部介绍中方期待",
+  "title_en": "Dutch Foreign Minister Berendsen to Visit China; Foreign Ministry Outlines Expectations",
+  "summary_zh": "11月23日，外交部发言人郭嘉昆在例行记者会上宣布，荷兰外交大臣贝伦德森应邀于11月23日至25日访华。",
+  "summary_en": "On Nov 23, Foreign Ministry spokesperson Guo Jiakun announced at a regular press briefing that Dutch Foreign Minister Berendsen will visit China on Nov 23-25 at Wang Yi's invitation.",
+  "body_zh": "11月23日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆宣布：应中共中央政治局委员、外交部长王毅邀请，荷兰外交大臣贝伦德森将于11月23日至25日访华。\n有记者提问，中方如何评价当前中荷关系？对此访有何期待？\n郭嘉昆表示，中荷都是全球重要经济体，互为重要合作伙伴。近年来，在两国元首战略引领下，中荷高层交往密切，农业、水利、环境、科技等领域务实合作稳步推进，人文交流持续深化。\n他指出，此次访问是贝伦德森外交大臣就任后首次访华。中方期待通过此访，同荷方就双边关系和共同关心的国际地区问题深入交流，增进了解和互信，促进各领域合作，推动中荷开放务实的全面合作伙伴关系持续健康稳定发展，更好造福两国人民。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中荷关系",
+    "外交访问",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "贝伦德森",
+      "name_en": "Berendsen"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中荷关系",
+      "name_en": "China-Netherlands Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交访问",
+      "name_en": "Diplomatic Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Pragmatic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "贝伦德森",
+    "外交部",
+    "中荷关系",
+    "外交访问",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Berendsen",
+    "Ministry of Foreign Affairs",
+    "China-Netherlands Relations",
+    "Diplomatic Visit",
+    "Pragmatic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261123-beijing_daily-2c4df4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

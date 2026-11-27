@@ -1,0 +1,88 @@
+{
+  "id": "20260808-gov_huai_an-518b19",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17855136/1786181648522WftJWJW4.html",
+  "title_zh": "淮安市长顾坤接待信访群众",
+  "title_en": "Huai'an Mayor Gu Kun Receives Petitioners",
+  "summary_zh": "8月5日，淮安市市长顾坤到市人民来访接待中心开展接访活动并调研信访工作，强调要用心用情用力解决群众急难愁盼。",
+  "summary_en": "On August 5, Huai'an Mayor Gu Kun visited the city's petition reception center to receive petitioners and inspect petition work, stressing efforts to resolve people's urgent concerns.",
+  "body_zh": "市领导接待信访群众\n8月5日，市长顾坤到市人民来访接待中心开展接访活动并调研信访工作。他强调，要深入学习贯彻习近平总书记关于加强和改进人民信访工作的重要思想，认真落实省委省政府决策部署和市委工作要求，牢固树立和践行正确政绩观，厚植为民情怀，走好新时代党的群众路线，用心用情用力解决群众急难愁盼，扎实推动民生领域信访问题集中治理取得过硬成效，切实维护群众合法权益和社会大局和谐稳定。\n在接访中，顾坤耐心听取群众反映问题和诉求，与属地和相关部门负责同志共同研究解决方案，并现场给予回应。他指出，群众利益无小事，要坚持将心比心、换位思考，依法依规解决群众合理诉求，同时要认真复盘、举一反三、源头防范，进一步完善日常机制，推动从“解决一件事”向“办好一类事”转变，从事后被动处置向源头主动治理转变。\n顾坤强调，信访工作是送上门来的群众工作。各地各部门要始终牢记为民造福是最大政绩，切实把群众的心上事作为干部的上心事，带着感情和责任做好信访工作。要进一步树牢法治理念，深入推进信访工作法治化，着力纠治“四应四不”问题，有效促进信访工作办理和群众信访行为“双向规范”。要进一步强化积案攻坚，以民生领域信访问题集中治理为抓手，聚焦民生痛点，找准问题症结，坚持实事求是、求真务实，注重法理情相结合，积极推动复杂问题实质性化解，真正把信访工作做到群众心坎上，实现案结事了、事心双解。要进一步加强源头治理，坚持和发展新时代“枫桥经验”，持续完善排查预警、多元化解机制，着力提高初信初访一次性解决成效，做到矛盾纠纷发现在早、化解在小。要进一步压实工作责任，大力弘扬“四下基层”优良作风，认真落实领导干部接访下访、包案化解等工作机制，面对面倾听群众心声，实打实回应民生关切，以信访工作提质增效促进带动政府系统效率效能持续提升。\n副市长任瑜，市政府秘书长马乃骏参加活动。",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "welfare",
+  "keywords": [
+    "信访工作",
+    "民生"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信访工作",
+      "name_en": "Petition Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生",
+      "name_en": "Livelihood"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "信访工作",
+    "民生"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Petition Work",
+    "Livelihood"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "马乃骏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260808-gov_huai_an-518b19",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

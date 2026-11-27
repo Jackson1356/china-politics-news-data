@@ -1,0 +1,115 @@
+{
+  "id": "20261103-gov_san_ya-8370bf",
+  "source": "gov_san_ya",
+  "source_name_zh": "三亚市政府网",
+  "source_name_en": "三亚 Government Portal",
+  "source_media_id": "gov-cn-prefecture-san_ya",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HI",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.sanya.gov.cn/sanyasite/tpxw/202611/5b504f7823154d61887892652c1e71da.shtml",
+  "title_zh": "国际农科院院长高层研讨会会址永久落地三亚",
+  "title_en": "Permanent Venue of Global Agricultural Research Institutes Heads Meeting Settled in Sanya",
+  "summary_zh": "11月2日，第八届国际农科院院长高层研讨会在三亚宣布，其会址将永久落地三亚；黄三文、王祺扬等嘉宾共同发布。",
+  "summary_en": "On November 2, the 8th Global Agricultural Research Institutes Heads Meeting announced in Sanya that its permanent venue will be located in the city, with Huang Sanwen and Wang Qiyang among the guests releasing the announcement.",
+  "body_zh": "首页>新闻>图片新闻\n11月2日，第八届国际农科院院长高层研讨会（GLAST）发布，GLAST会址永久落地三亚。农业农村部党组成员、中国农业科学院院长、中国科学院院士黄三文，省委常委、市委书记王祺扬等与会嘉宾一同发布。\n国际农科院院长高层研讨会于2006年发起，由中国农业科学院、联合国粮食及农业组织、国际农业研究磋商组织、国际原子能机构共同举办。二十年来，论坛汇聚全球农业科研机构、行业专家，围绕粮食安全、农业技术革新、全球农食系统转型开展深度交流，致力于推动建设更高效、包容、富有韧性、可持续的全球农业体系，是国际农业科技领域极具影响力的合作交流载体。\n海南自贸港的政策红利，为跨国农业交流、投资对接与项目落地提供广阔空间。三亚光照充足、雨量丰沛，热带农业资源禀赋得天独厚，坐拥南繁育种“天然温室”，集聚大批科研平台、标准化试验场地与专业科研力量，可充分支撑国际会议举办、联合科研攻关、跨国人才联合培养等各类工作。当地完善的会务接待、科研配套设施，为论坛常态化运行、技术示范落地、创新成果转化筑牢硬件根基。\n永久会址落地三亚之后，将充分释放三亚热带区位与南繁科创优势，广泛汇聚全球农业创新要素，推动跨国联合科研、种质资源互通共享、先进农业技术示范推广，推动农业科研成果走出实验室、走向田间地头，把农业科技创新切实转化为守护全球粮食安全的现实力量。\n（记者 王昊 刘少珠/文 陈聪聪/图）\n相关稿件",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "industry",
+  "keywords": [
+    "农业科技合作",
+    "粮食安全",
+    "南繁育种",
+    "海南自贸港"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qiyang",
+      "name_zh": "王祺扬",
+      "name_en": "Wang Qiyang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国农业科学院",
+      "name_en": "Chinese Academy of Agricultural Sciences"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业科技合作",
+      "name_en": "Agricultural Science Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南繁育种",
+      "name_en": "Nanfan Breeding"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海南自贸港",
+      "name_en": "Hainan Free Trade Port"
+    }
+  ],
+  "tags_zh": [
+    "王祺扬",
+    "中国农业科学院",
+    "三亚",
+    "农业科技合作",
+    "粮食安全",
+    "南繁育种",
+    "海南自贸港"
+  ],
+  "tags_en": [
+    "Wang Qiyang",
+    "Chinese Academy of Agricultural Sciences",
+    "Sanya",
+    "Agricultural Science Cooperation",
+    "Food Security",
+    "Nanfan Breeding",
+    "Hainan Free Trade Port"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-qiyang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国农业科学院",
+        "name_en": "Chinese Academy of Agricultural Sciences"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261103-gov_san_ya-8370bf",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

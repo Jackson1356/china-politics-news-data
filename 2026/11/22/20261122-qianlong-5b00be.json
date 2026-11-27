@@ -1,0 +1,126 @@
+{
+  "id": "20261122-qianlong-5b00be",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/1122/8754027.shtml",
+  "title_zh": "尹力会见新加坡总理黄循财",
+  "title_en": "Yin Li Meets Singaporean Prime Minister Lawrence Wong",
+  "summary_zh": "日前，北京市委书记尹力会见新加坡总理黄循财，双方就深化科技创新、新兴产业、金融开放和城市治理等务实合作交换意见。",
+  "summary_en": "Beijing Party Secretary Yin Li met Singaporean Prime Minister Lawrence Wong, with both sides pledging deeper cooperation in tech innovation, emerging industries, financial opening and urban governance.",
+  "body_zh": "日前，市委书记尹力会见新加坡总理黄循财。\n尹力对黄循财的到访表示欢迎，并介绍北京市经济社会发展情况。他说，习近平主席在深圳同总理先生举行会晤，达成一系列重要共识，必将引领中新全方位高质量的前瞻性伙伴关系不断迈上新台阶。近年来，北京与新加坡在经贸、科技、文化、民生等方面交流合作不断深化，我们愿与新方共同落实好重要共识，进一步加强对接互动、深化务实合作。北京是一座古今交融、富有活力的国际大都市，科技创新活跃，人工智能、人形机器人、新能源汽车、医药健康等以高新技术为特点的新兴产业蓬勃发展。希望两地进一步深化各层级往来互动，增进彼此间信任和友谊。加强科技创新和新兴产业协作，围绕人工智能、人形机器人、智能驾驶、生物医药等领域，畅通产业对接渠道，共同培育发展新质生产力。深化金融开放和服务贸易合作，拓展双向投资新模式，提升两地经贸规模和质量。促进城市治理和社会事业交流互鉴，共同提升城市治理水平、增进民众福祉。\n黄循财表示，新中关系保持良好发展势头，合作领域不断丰富。北京历史文化底蕴深厚，科技创新活力满满，是一座了不起的城市。新加坡与北京有许多发展契合点，我们愿与北京在科技创新、金融服务、城市治理等方面进一步深化务实合作，携手在京津冀区域内拓展发展新机遇，加强不同层级交流互动，共同推动两地关系实现新的更大发展。\n中国驻新加坡大使曹忠明，北京市领导赵磊、唐文弘参加会见。\n（本文摘自北京日报第1版）",
+  "image_url": null,
+  "published_at": "2026-11-22T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中新关系",
+    "科技创新",
+    "新兴产业",
+    "城市治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-li",
+      "name_zh": "尹力",
+      "name_en": "Yin Li"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "黄循财",
+      "name_en": "Lawrence Wong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中新关系",
+      "name_en": "China-Singapore Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Sci-Tech Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新兴产业",
+      "name_en": "Emerging Industries"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市治理",
+      "name_en": "Urban Governance"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-lei-beijing",
+      "name_zh": "赵磊",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "尹力",
+    "黄循财",
+    "北京",
+    "中新关系",
+    "科技创新",
+    "新兴产业",
+    "城市治理",
+    "赵磊"
+  ],
+  "tags_en": [
+    "Yin Li",
+    "Lawrence Wong",
+    "Beijing",
+    "China-Singapore Relations",
+    "Sci-Tech Innovation",
+    "Emerging Industries",
+    "Urban Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-li",
+      "zhao-lei-beijing",
+      {
+        "id": null,
+        "name_zh": "黄循财"
+      },
+      {
+        "id": null,
+        "name_zh": "唐文弘"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261122-qianlong-5b00be",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

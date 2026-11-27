@@ -1,0 +1,110 @@
+{
+  "id": "20261021-xinhua_ha-dbe094",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.news.cn/20261021/370dea04037e43908712abc9ba30b9ca/c.html",
+  "title_zh": "河南省第十二次党代会代表资格审查委员会举行会议",
+  "title_en": "Credentials Review Committee of 12th Henan Provincial Party Congress Holds Meeting",
+  "summary_zh": "10月19日下午，中共河南省第十二次党代会代表资格审查委员会举行会议，听取代表选举和资格初步审查情况汇报，通过提请大会主席团审议的资格审查报告（草案）。",
+  "summary_en": "On the afternoon of Oct 19, the credentials review committee of the 12th Henan Provincial Party Congress met, heard a report on delegate elections and preliminary qualification reviews, and approved a draft report for the congress presidium.",
+  "body_zh": "省第十二次党代会代表资格审查委员会举行会议\n会议听取关于代表选举和代表资格初步审查情况的汇报，通过提请大会主席团审议的关于代表资格的审查报告（草案）\n中国共产党河南省第十二次代表大会代表资格审查委员会10月19日下午举行会议，听取关于代表选举和代表资格初步审查情况的汇报，通过提请大会主席团审议的关于代表资格的审查报告（草案）。\n会议由代表资格审查委员会主任张巍主持，代表资格审查委员会副主任秦国文、王刚出席会议。王刚作关于中国共产党河南省第十二次代表大会代表选举和代表资格初步审查情况的汇报。\n根据省委十一届十一次全会通过的《关于召开中国共产党河南省第十二次代表大会的决议》和省委《关于中共河南省第十二次代表大会代表选举工作的通知》要求，全省划分了29个选举单位，由选举单位召开党代表大会或党代表会议，选举产生省第十二次党代表大会代表。在省第十二次党代表大会代表的选举工作中，全省各级党组织认真履行职责，认真贯彻执行民主集中制原则，代表候选人初步人选和预备人选的酝酿、提名、推选，坚持自下而上、上下结合、反复酝酿、逐级遴选，进行严格的组织考察、代表资格联审和代表资格初步审查，广泛听取了各方面的意见。严格执行党章和中央、省委的有关规定，所有代表均采用无记名投票方式进行差额选举。出席大会的代表具有较好的政治素质、良好的品行作风和较强的履职能力，在各自岗位上做出了显著成绩，是全省党员中的优秀分子，充分体现了代表的先进性、纯洁性和广泛性，实现了中央和省委关于切实提高代表质量的要求。\n会议表决通过了提请大会主席团审议的关于代表资格的审查报告（草案）。（全媒体记者 刘婵 赵若郡）",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "代表资格审查",
+    "党内选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-wei-henan",
+      "name_zh": "张巍",
+      "name_en": "Zhang Wei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国共产党河南省第十二次代表大会代表资格审查委员会",
+      "name_en": "Credentials Review Committee of the 12th Henan Provincial Party Congress"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代表资格审查",
+      "name_en": "Delegate Qualification Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党内选举",
+      "name_en": "Intra-Party Elections"
+    }
+  ],
+  "tags_zh": [
+    "张巍",
+    "中国共产党河南省第十二次代表大会代表资格审查委员会",
+    "河南",
+    "党代会",
+    "代表资格审查",
+    "党内选举"
+  ],
+  "tags_en": [
+    "Zhang Wei",
+    "Credentials Review Committee of the 12th Henan Provincial Party Congress",
+    "Henan",
+    "Party Congress",
+    "Delegate Qualification Review",
+    "Intra-Party Elections"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wei-henan",
+      {
+        "id": null,
+        "name_zh": "任张巍"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国共产党河南省第十二次代表大会代表资格审查委员会",
+        "name_en": "Credentials Review Committee of the 12th Henan Provincial Party Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261021-xinhua_ha-dbe094",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20261124-gov_wu_hu-d385b2",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41415268.html",
+  "title_zh": "市人大常委会召开第七十四次主任会议",
+  "title_en": "Wuhu Municipal People's Congress Standing Committee Holds 74th Chairpersons' Meeting",
+  "summary_zh": "11月23日，芜湖市人大常委会主任张峰主持第七十四次主任会议，听取人事任免报告、讨论全民健康促进条例草案，并决定11月26日召开常委会第四十二次会议。",
+  "summary_en": "On Nov 23, Wuhu Municipal People's Congress Standing Committee Director Zhang Feng chaired the 74th chairpersons' meeting, reviewing personnel appointment reports and a draft public health regulation.",
+  "body_zh": "市人大常委会召开第七十四次主任会议\n本报讯（通讯员 吴仁轩）11月23日，市人大常委会召开第七十四次主任会议，市人大常委会党组书记、主任张峰主持会议，副主任程刚、王芳、吴瑞新、方忠，秘书长刘萍出席。\n会议听取了市人民政府、市中级人民法院关于人事任免情况的报告，听取了市人大法制委员会关于《芜湖市全民健康促进条例（草案）》修改情况的说明，讨论了关于市十七届人大六次会议代表议案建议处理情况的报告、关于提请审议《芜湖市人民代表大会常务委员会关于召开市第十八届人民代表大会第一次会议的决定（草案）》的议案，同意将上述报告、条例草案修改稿、议案提请市十七届人大常委会第四十二次会议审议。会议讨论了关于我市扩大内需提振消费工作情况的调研报告（讨论稿），同意印发市十七届人大常委会第四十二次会议，供常委会组成人员审议相关议题时参考。\n会议决定，市十七届人大常委会第四十二次会议于11月26日举行，会期一天半。",
+  "image_url": null,
+  "published_at": "2026-11-24T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "人事任免",
+    "全民健康促进条例",
+    "扩大内需提振消费"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全民健康促进条例",
+      "name_en": "Public Health Promotion Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩大内需提振消费",
+      "name_en": "Expanding Domestic Demand"
+    }
+  ],
+  "tags_zh": [
+    "芜湖",
+    "人事任免",
+    "全民健康促进条例",
+    "扩大内需提振消费"
+  ],
+  "tags_en": [
+    "Wuhu",
+    "Personnel Appointments",
+    "Public Health Promotion Regulation",
+    "Expanding Domestic Demand"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "于提请"
+      },
+      {
+        "id": null,
+        "name_zh": "张峰"
+      },
+      {
+        "id": null,
+        "name_zh": "任张峰"
+      },
+      {
+        "id": null,
+        "name_zh": "刘萍"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261124-gov_wu_hu-d385b2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

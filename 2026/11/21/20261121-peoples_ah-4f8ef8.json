@@ -1,0 +1,135 @@
+{
+  "id": "20261121-peoples_ah-4f8ef8",
+  "source": "peoples_ah",
+  "source_name_zh": "人民网 安徽",
+  "source_name_en": "People's Daily Anhui",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.people.com.cn/n2/2026/1121/c378917-41756980.html",
+  "title_zh": "2026\"看中国 听世界\"论坛举行",
+  "title_en": "2026 \"Watch China, Hear the World\" Forum Held in Hefei",
+  "summary_zh": "11月20日，中共中央对外联络部与中共安徽省委在合肥共同举办2026\"看中国 听世界\"论坛，来自33个国家的约300名中外代表与会。",
+  "summary_en": "On Nov 20, the International Department of the CPC Central Committee and the Anhui Provincial Party Committee co-hosted the 2026 \"Watch China, Hear the World\" Forum in Hefei, drawing about 300 delegates from 33 countries.",
+  "body_zh": "2026“看中国 听世界”论坛举行\n本报合肥11月20日电 （记者徐靖）11月20日，由中共中央对外联络部和中共安徽省委共同举办的2026“看中国 听世界”论坛在合肥举办，论坛主题为“智联世界：共绘发展合作新图景”。来自亚洲、欧洲、大洋洲共33个国家的政党、智库、工商界、媒体等中外方代表约300人与会。\n中联部部长刘海星表示，以习近平同志为核心的中共中央带领中国走出一条守正创新的中国特色科技发展之路。中国愿与国际社会一道，推动人工智能发展惠及世界各国特别是全球南方国家，共同营造多元开放创新生态，助力推进各自国家现代化进程，为构建人类命运共同体贡献力量。\n外方祝贺中共二十届五中全会胜利召开，表示愿同中国共产党加强治国理政经验互学互鉴，促进人工智能等领域交流合作，更多增进民众福祉。\n《 人民日报 》（ 2026年11月21日 03 版）",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "政党交流",
+    "人工智能",
+    "全球南方"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-haixing",
+      "name_zh": "刘海星",
+      "name_en": "Liu Haixing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央对外联络部",
+      "name_en": "International Department of the CPC Central Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共安徽省委",
+      "name_en": "CPC Anhui Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政党交流",
+      "name_en": "Inter-party Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球南方",
+      "name_en": "Global South"
+    }
+  ],
+  "tags_zh": [
+    "刘海星",
+    "中共中央对外联络部",
+    "中共安徽省委",
+    "合肥",
+    "安徽",
+    "政党交流",
+    "人工智能",
+    "全球南方"
+  ],
+  "tags_en": [
+    "Liu Haixing",
+    "International Department of the CPC Central Committee",
+    "CPC Anhui Provincial Committee",
+    "Hefei",
+    "Anhui",
+    "Inter-party Exchange",
+    "Artificial Intelligence",
+    "Global South"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-haixing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HF",
+      "CN-AH"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央对外联络部",
+        "name_en": "International Department of the CPC Central Committee"
+      },
+      {
+        "name_zh": "中共安徽省委",
+        "name_en": "CPC Anhui Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-peoples_ah-4f8ef8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_hb",
+      "source_tier": 3,
+      "url": "http://hb.people.com.cn/n2/2026/1121/c192237-41756842.html",
+      "title_zh": "2026“看中国 听世界”论坛举行",
+      "published_at": "2026-11-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

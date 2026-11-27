@@ -1,0 +1,91 @@
+{
+  "id": "20260903-gov_cn_yaowen-b2f2c7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/lianbo/202609/content_7080017.htm",
+  "title_zh": "国家能源局部署新型电网建设重大任务",
+  "title_en": "National Energy Administration Deploys Major Tasks for New-Type Power Grid Construction",
+  "summary_zh": "近日，国家能源局召开新型电网建设工作部署会，部署“十五五”时期新型电网建设任务，强调夯实基础设施、创新引领、多元支撑和安全运行。",
+  "summary_en": "The National Energy Administration held a meeting to deploy major tasks for new-type power grid construction during the 15th Five-Year Plan period, focusing on infrastructure, innovation, support, and safety.",
+  "body_zh": "近日，国家能源局召开新型电网建设工作部署会，全面部署新型电网建设重大任务。会议提出，“十五五”时期，新能源占比进一步提高，高端产业对绿色高质量电能需求稳步增长，新模式新业态加速涌现，对新型电网建设提出更高要求。\n要着力夯实基础设施长板，构建提升大电网安全稳定水平、充分发挥配电网公共平台作用、促进智能微电网灵活多元互动的主配微协同电网新架构；着力发挥创新引领作用，加快研发应用人工智能+、柔性构网、智能调控、长时储能等电网新技术，发展新质生产力；着力加强多元支撑保障，升级新能源高效并网消纳、高品质供电、算电协同等新业态友好适配的电网新服务，更好满足产业发展和人民群众需求；着力守牢安全运行底线，确保大电网安全稳定运行，加强工程安全质量管理，提升电网防灾应急能力，增强安全韧性水平。（记者 王云杉）",
+  "image_url": null,
+  "published_at": "2026-09-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "industry",
+  "keywords": [
+    "新型电网",
+    "新能源消纳",
+    "电力安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型电网",
+      "name_en": "New-Type Power Grid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源消纳",
+      "name_en": "Renewable Energy Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力安全",
+      "name_en": "Power Grid Safety"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "新型电网",
+    "新能源消纳",
+    "电力安全"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "New-Type Power Grid",
+    "Renewable Energy Integration",
+    "Power Grid Safety"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260903-gov_cn_yaowen-b2f2c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0903/c378440-41685208.html",
+      "title_zh": "国家能源局部署新型电网建设重大任务",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

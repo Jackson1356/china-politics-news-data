@@ -1,0 +1,91 @@
+{
+  "id": "20261113-local_hai_xia_wang_cn_fj-457831",
+  "source": "local_hai_xia_wang_cn_fj",
+  "source_name_zh": "海峡网",
+  "source_name_en": "海峡网",
+  "source_media_id": "cac-cn-fj-148595a132",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.hxnews.com/news/fj/fj/202611/13/2278384.shtml",
+  "title_zh": "福建油价下调：92号汽油每升8.33元，95号汽油每升8.89元",
+  "title_en": "Fujian Cuts Fuel Prices: 92-Grade Gasoline at 8.33 Yuan per Liter",
+  "summary_zh": "11月12日，福建省发改委发布公告，自当日24时起下调成品油最高零售价，92号汽油每升降至8.33元，95号汽油每升降至8.89元。",
+  "summary_en": "On Nov 12, Fujian's Development and Reform Commission announced cuts to fuel retail price ceilings effective midnight, with 92-grade gasoline at 8.33 yuan and 95-grade at 8.89 yuan per liter.",
+  "body_zh": "油价终于降了！\n12日晚福建成品油价下调\n每升降幅均超过0.5元\n11月12日，福建省发改委发布公告：\n根据国家发展改革委门户网站发布的成品油价格调价信息，现将我省汽、柴油最高零售价格和最高批发价格公布如下，自2026年11月12日24时起执行。车用乙醇汽油按同标号车用汽油价格执行。\n- 福建省两岸标准共通标准化技术委员会成立 390项共通标准已实施2026-11-13\n- 向海而兴 赓续“闽海风流”2026-11-13\n- 福建省法院举办首届行政（国家赔偿）审判法官技能邀请赛2026-11-13\n- 福建省县乡两级人大换届选举首个投票日见闻2026-11-13\n- 公示！福建拟授予161人次一级、二级、三级运动员称号2026-11-13\n- 福建省“十五五”家庭教育发展规划出炉 全方位升级校家社协同育人2026-11-13\n- 赵龙郭宁宁会见我省参加第20届亚运会运动员教练员代表2026-11-13\n- 福建省出台措施推进科技服务业扩能提质2026-11-12\n- 福建前10个月进出口1.7万亿元 多项数据创新高2026-11-12\n- 油价今晚有望大幅下降 92号汽油每升预计降0.34元2026-11-12",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "成品油价格",
+    "油价下调"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "成品油价格",
+      "name_en": "Refined Oil Pricing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "油价下调",
+      "name_en": "Fuel Price Cut"
+    },
+    {
+      "kind": "person",
+      "id": "zhao-long-fujian",
+      "name_zh": "赵龙",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "guo-ningning",
+      "name_zh": "郭宁宁",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "福建",
+    "成品油价格",
+    "油价下调",
+    "赵龙",
+    "郭宁宁"
+  ],
+  "tags_en": [
+    "Fujian",
+    "Refined Oil Pricing",
+    "Fuel Price Cut"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-long-fujian",
+      "guo-ningning"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261113-local_hai_xia_wang_cn_fj-457831",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

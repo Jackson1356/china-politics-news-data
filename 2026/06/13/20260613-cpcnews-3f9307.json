@@ -1,0 +1,70 @@
+{
+  "id": "20260613-cpcnews-3f9307",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0613/c64387-40739583.html",
+  "title_zh": "前4月全国新改建农村公路1.6万公里",
+  "title_en": "16,000 km of Rural Roads Newly Built or Renovated Nationwide in First Four Months",
+  "summary_zh": "交通运输部数据显示，2026年前4月全国新改建农村公路1.6万公里，固定资产投资821.1亿元，并实施养护工程2.6万公里。",
+  "summary_en": "According to the Ministry of Transport, 16,000 km of rural roads were newly built or renovated in China during the first four months of 2026, with fixed asset investment reaching 82.11 billion yuan.",
+  "body_zh": "本报北京6月12日电 （记者韩鑫）今年以来，我国深入实施新一轮农村公路提升行动，持续优化完善农村公路网络。交通运输部最新数据显示：今年前4月，农村公路完成固定资产投资821.1亿元，全国新改建农村公路1.6万公里。\n农村公路，既要建好，也要管好、护好、运营好。前4月，全国实施农村公路养护工程总里程2.6万公里。截至4月底，全国路长总人数66.4万，其中县级路长2.1万，乡级路长7.7万，村级路长56.6万。\n《 人民日报 》（ 2026年06月13日 01 版）",
+  "image_url": null,
+  "published_at": "2026-06-13T12:00:00+00:00",
+  "event_date": "2026-06-12",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "industry",
+  "keywords": [
+    "农村公路",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农村公路",
+      "name_en": "Rural Roads"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "农村公路",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Rural Roads",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260613-cpcnews-3f9307",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20260822-gov_tai_zhou-9b5dc8",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_0f17cb8892da4dabaa1e6cbd7e45b409.html",
+  "title_zh": "泰州市委常委会召开会议",
+  "title_en": "Taizhou Municipal Party Committee Standing Committee Holds Meeting",
+  "summary_zh": "8月20日，泰州市委常委会召开会议，传达学习习近平总书记重要讲话精神，研究部署高铁建设、社会工作等重点工作，市委书记姜冬冬主持并讲话。",
+  "summary_en": "On August 20, the Standing Committee of the Taizhou Municipal Party Committee held a meeting to convey and study the spirit of President Xi Jinping's important speech, and to arrange key work on high-speed rail construction and social work, chaired by Party Secretary Jiang Dongdong.",
+  "body_zh": "- 发布日期：2026-08-22 07:12\n- 浏览次数：\n8月20日，市委常委会召开会议，学习贯彻习近平总书记重要讲话精神，研究部署当前重点工作。市委书记姜冬冬主持会议并讲话。\n会议学习了习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神。会议强调，要坚定理想信念，沿着习近平总书记指引的方向奋勇前进，更加深刻领悟“两个确立”的决定性意义、坚决做到“两个维护”，把对江泽民同志的深切缅怀，转化为干事创业的强大动力，扎扎实实推进中国式现代化泰州新实践。要站稳人民立场，坚持以实干出政绩、为人民出政绩，加大保障和改善民生力度，更好解决群众急难愁盼，不断厚植“最具幸福感城市”的民生底色。要坚持“大抓经济、大抓产业、大抓项目”，不断增强研究新情况、解决新问题、推动高质量发展的能力本领，更好统筹发展和安全，奋力推动“十五五”实现良好开局。\n会议研究部署了涉高铁相关工作。会议指出，要坚持系统思维、整体推进，统筹兼顾铁路枢纽片区、沿线地区生产力布局、功能架构以及衔接，为完善城市形态、功能业态打下基础，更好发挥出综合性牵引作用。要立足提升群众出行便捷度、提升要素流动便利度、提升城市对外显示度，从简务实推进实施，细致抓好工程质量和施工安全，让项目成为群众认可的民心工程。要坚持合成化、扁平化、专业化，健全铁路枢纽综合治理机制，强化建管衔接，不断提升综合治理效能。\n会议传达学习了《关于加强新时代社会工作的意见》。会议强调，要深入学习贯彻习近平总书记关于社会工作的重要论述和重要指示精神，准确把握新时代社会工作的使命任务，推动新兴领域党建提质增效，促进党建引领高效能治理，以党组织战斗力的提升凝聚群众向心力、提升社会治理质效。要突出大抓基层的鲜明导向，进一步推动资源、力量、服务向基层倾斜，巩固深化“基层吹哨、部门报到”等经验做法，切实为基层履职增势赋能。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-22T12:00:00+00:00",
+  "event_date": "2026-08-20",
+  "ingested_at": "2026-08-23T04:51:01Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻",
+    "高铁建设",
+    "社会工作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Study and Implementation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高铁建设",
+      "name_en": "High-speed Rail Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会工作",
+      "name_en": "Social Work"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "泰州",
+    "学习贯彻",
+    "高铁建设",
+    "社会工作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Taizhou",
+    "Study and Implementation",
+    "High-speed Rail Construction",
+    "Social Work"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260822-gov_tai_zhou-9b5dc8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

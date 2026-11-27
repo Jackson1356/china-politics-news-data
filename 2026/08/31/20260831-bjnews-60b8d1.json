@@ -1,0 +1,96 @@
+{
+  "id": "20260831-bjnews-60b8d1",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1788162127129262.html",
+  "title_zh": "外交部：中美应维护好当前经贸领域来之不易的良好势头",
+  "title_en": "Foreign Ministry: China and US Should Maintain Hard-Won Good Momentum in Trade",
+  "summary_zh": "8月31日，外交部发言人郭嘉昆在例行记者会上回应美国财长言论，表示中美经贸关系互利共赢，反对单边关税，应维护当前良好势头。",
+  "summary_en": "On August 31, Foreign Ministry spokesperson Guo Jiakun said at a regular press conference that China-US trade ties are mutually beneficial, opposes unilateral tariffs, and both sides should maintain the hard-won good momentum.",
+  "body_zh": "据央视新闻消息，8月31日，外交部发言人郭嘉昆主持例行记者会。回答美国财政部长贝森特发表的有关言论时，郭嘉昆回应指出，中美经贸关系的本质是互利共赢，中方从不刻意追求贸易顺差，反对各种形式的单边关税措施。我们坚持高水平对外开放，以中国大市场为包括美国在内的各方提供新机遇。中美应当共同落实好两国元首重要共识，在平等、尊重、互惠的基础上协商解决有关问题，维护好当前经贸领域来之不易的良好势头。\n（总台央视记者 赵晶 朱若梦）",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美经贸",
+    "互利共赢",
+    "单边关税"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "郭嘉昆",
+      "name_en": "Guo Jiakun"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸",
+      "name_en": "China-US Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利共赢",
+      "name_en": "Mutual Benefit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边关税",
+      "name_en": "Unilateral Tariffs"
+    }
+  ],
+  "tags_zh": [
+    "郭嘉昆",
+    "外交部",
+    "中美经贸",
+    "互利共赢",
+    "单边关税"
+  ],
+  "tags_en": [
+    "Guo Jiakun",
+    "Ministry of Foreign Affairs",
+    "China-US Trade",
+    "Mutual Benefit",
+    "Unilateral Tariffs"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260831-bjnews-60b8d1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

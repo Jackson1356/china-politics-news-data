@@ -1,0 +1,106 @@
+{
+  "id": "20261103-chinanews_gn-193c37",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-03/10725443.shtml",
+  "title_zh": "最高法报告：现有港澳地区人民陪审员124人",
+  "title_en": "Supreme People's Court Report: 124 People's Assessors from Hong Kong and Macao",
+  "summary_zh": "11月3日，最高人民法院关于人民陪审员工作情况的报告提请十四届全国人大常委会审议，报告显示现有港澳地区人民陪审员124人、台胞180人，全国人民陪审员共34万人。",
+  "summary_en": "On November 3, the Supreme People's Court submitted a report on people's assessors to the NPC Standing Committee, showing 124 assessors from Hong Kong and Macao, 180 from Taiwan, and 340,000 nationwide.",
+  "body_zh": "最高法报告：现有港澳地区人民陪审员124人\n中新社北京11月3日电 (记者 谢雁冰 张素)最高人民法院关于人民法院人民陪审员工作情况的报告3日提请十四届全国人大常委会审议。报告称，现有港澳地区人民陪审员124人、台胞人民陪审员180人。\n人民陪审员依法享有参加审判活动、独立发表意见等权利，被称为“无袍法官”。2018年4月，全国人大常委会审议通过人民陪审员法。\n报告显示，截至今年6月，全国共有人民陪审员34万人，较人民陪审员法实施前增长61.9%。其中，基层干部、农民、社区工作者及灵活就业人员占比超过50%，少数民族人民陪审员3.7万人。\n报告称，人民陪审员法施行以来，人民陪审员参与审结案件1550万件。其中，刑事366万余件、民事1038万余件、行政145万余件；组成七人合议庭审结案件4.5万件，参与审理了“3·07”长江特大非法采砂案、孕妇境外坠崖案等一批社会影响重大案件。\n“以往实践中‘陪而不审、审而不议’问题不断改进，人民陪审员实质参审持续深化，社会主义司法民主成色更足。”最高人民法院院长张军3日代表最高法作报告时说。\n报告也指出，人民陪审员工作面临一些新情况新问题和深化发展中的困难。\n报告建议，适时启动人民陪审员法修订工作，进一步研究完善人民陪审员参审案件范围等事项。此外，推动出台人民陪审员经费保障管理办法，强化其履职保障。(完)\n国内新闻精选：\n- 2026年11月03日 16:59:45\n- 2026年11月03日 14:58:13\n- 2026年11月03日 14:56:55\n- 2026年11月03日 08:50:23\n- 2026年11月02日 10:19:41\n- 2026年11月01日 13:59:13\n- 2026年11月01日 13:39:22\n- 2026年10月31日 14:37:20\n- 2026年10月30日 17:44:45\n- 2026年10月30日 16:32:19",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-03",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "discipline",
+  "keywords": [
+    "人民陪审员制度",
+    "司法民主",
+    "港澳台"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SPC",
+      "name_zh": "最高人民法院",
+      "name_en": "Supreme People's Court"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民陪审员制度",
+      "name_en": "People's Assessor System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法民主",
+      "name_en": "Judicial Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港澳台",
+      "name_en": "Hong Kong, Macao and Taiwan"
+    }
+  ],
+  "tags_zh": [
+    "最高人民法院",
+    "全国人大常委会",
+    "北京",
+    "人民陪审员制度",
+    "司法民主",
+    "港澳台"
+  ],
+  "tags_en": [
+    "Supreme People's Court",
+    "NPC Standing Committee",
+    "Beijing",
+    "People's Assessor System",
+    "Judicial Democracy",
+    "Hong Kong, Macao and Taiwan"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SPC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261103-chinanews_gn-193c37",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

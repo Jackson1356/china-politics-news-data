@@ -1,0 +1,104 @@
+{
+  "id": "20261118-gov_tai_an-038374",
+  "source": "gov_tai_an",
+  "source_name_zh": "泰安市政府网",
+  "source_name_en": "泰安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taian.gov.cn/art/2026/11/18/art_46736_10372966.html",
+  "title_zh": "李国强主持召开市人民政府常务会议",
+  "title_en": "Li Guoqiang Chairs Tai'an Municipal Government Executive Meeting",
+  "summary_zh": "2026年11月17日，泰安市市长李国强主持召开市政府常务会议，学习习近平总书记关于黄河保护治理的重要指示精神，并研究农业普查、教育事业发展等工作。",
+  "summary_en": "On Nov 17, 2026, Tai'an Mayor Li Guoqiang chaired a municipal government executive meeting on studying Xi Jinping's instructions on Yellow River protection and on the agricultural census and education development.",
+  "body_zh": "李国强主持召开市人民政府常务会议\n发布日期：2026-11-18 11:51\n浏览次数：\n17日，市委副书记、市长李国强主持召开市人民政府常务会议，集体学习习近平总书记对进一步做好黄河保护治理工作作出的重要指示精神，研究农业普查、教育事业发展等工作。\n会议指出，习近平总书记的重要讲话和重要指示精神，对系统做好黄河保护治理指明了前进方向、提供了根本遵循。要认真贯彻落实习近平总书记关于黄河保护治理的重要指示精神，主动融入黄河流域大保护大协同格局，统筹抓好水安全保障、水资源节约集约利用、水生态保护修复等重点任务，以高水平生态保护支撑全市高质量发展。\n会议学习《全国农业普查条例》，指出要进一步提高政治站位，健全跨部门协同推进机制，严格对照条例规定规范普查流程，确保高标准高质量完成普查各项任务。\n会议强调，要牢牢把握立德树人根本任务，健全五育并举育人体系，把价值引领贯穿教育教学全过程。要优化教育资源布局和供给，持续促进教育公平。要坚持教育与产业同频共振，深化产教融合、校地协同，集聚更多优秀人才扎根泰安、服务泰安，以高质量教育赋能全市经济社会高质量发展。\n会议还研究了其他事项。\n打印",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "黄河保护治理",
+    "农业普查",
+    "教育事业发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李国强",
+      "name_en": "Li Guoqiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-TA",
+      "name_zh": "泰安",
+      "name_en": "Tai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河保护治理",
+      "name_en": "Yellow River Protection and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业普查",
+      "name_en": "Agricultural Census"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育事业发展",
+      "name_en": "Education Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李国强",
+    "泰安",
+    "黄河保护治理",
+    "农业普查",
+    "教育事业发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Guoqiang",
+    "Tai'an",
+    "Yellow River Protection and Governance",
+    "Agricultural Census",
+    "Education Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "李国强"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-TA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261118-gov_tai_an-038374",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

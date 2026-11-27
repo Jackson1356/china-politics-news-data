@@ -1,0 +1,92 @@
+{
+  "id": "20261126-gov_cn_yaowen-399266",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087328.htm",
+  "title_zh": "中荷外长共识声明",
+  "title_en": "Joint Consensus Statement by the Chinese and Dutch Foreign Ministers",
+  "summary_zh": "11月25日，中荷两国外长发表共识声明，同意深化经贸、科技、气候等领域务实合作，荷兰重申坚持一个中国政策，双方强调就半导体及出口管制保持密切沟通。",
+  "summary_en": "On November 25, the Chinese and Dutch foreign ministers issued a joint consensus statement, agreeing to deepen cooperation in trade, science and climate, with the Netherlands reaffirming the one-China policy and both sides stressing dialogue on semiconductors and export controls.",
+  "body_zh": "新华社北京11月25日电\n中荷外长共识声明\n双方同意保持密切交往，秉持2014年建立的开放务实的全面合作伙伴关系和2025年达成的六点共识精神开展工作。\n双方同意以2027年两国建立大使级外交关系55周年为契机，深化在经贸、气候和能源、科技、农业、文化、医疗健康、体育、水利等领域务实合作，扩大人文交流，推动双边关系稳健发展。荷兰重申坚持一个中国政策。\n双方讨论了双边经贸关系中的机遇和关切，认识到通过现有渠道，就半导体等多领域合作保持密切沟通交流的重要性，并重申双边出口管制对话的重要性。\n双方致力于维护以世界贸易组织（WTO）为核心的多边贸易体制，认为对WTO进行有意义的、必要的、全面的改革非常重要。双方强调以规则为基础的自由开放国际贸易和公平竞争的重要性。\n双方重申支持多边主义，尊重以联合国为核心的国际体系和以《联合国宪章》宗旨和原则为基础的国际关系基本准则，承诺在联合国改革进程中维护上述准则，推动联合国切实履职，改革完善全球治理。双方承诺维护《联合国宪章》、国际法以及联合国三大支柱，即和平与安全、发展和人权。双方同意建立多边事务磋商机制。双方同意就军控、裁军和核不扩散开展双边磋商。\n双方认识到人工智能技术对经济社会发展的潜在影响，认可有必要开展人工智能国际合作，应对该技术相关机遇和风险。双方支持加强军事应用人工智能多边治理，支持联合国发挥应有作用。双方注意到彼此对人工智能发展与安全讨论作出的贡献，欢迎继续就此议题开展沟通。\n荷兰与中国是气候合作伙伴，双方通过在气候适应、绿色转型等领域加强交流、深化合作，共同推进气候行动。两国强调将继续密切合作，推动《联合国气候变化框架公约》（UNFCCC）和《巴黎协定》得到全面有效落实，并重申这两份文件是多边气候治理的根本法律基础和主渠道。\n实现所有人的平等权利需要在全球范围采取重要行动。双方重申共同推动实现这一目标。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中荷关系",
+    "半导体与出口管制",
+    "多边主义",
+    "气候变化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中荷关系",
+      "name_en": "China-Netherlands Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体与出口管制",
+      "name_en": "Semiconductors and Export Controls"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "气候变化",
+      "name_en": "Climate Change"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "中荷关系",
+    "半导体与出口管制",
+    "多边主义",
+    "气候变化"
+  ],
+  "tags_en": [
+    "Beijing",
+    "China-Netherlands Relations",
+    "Semiconductors and Export Controls",
+    "Multilateralism",
+    "Climate Change"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-gov_cn_yaowen-399266",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20261119-peoples_tj-162c26",
+  "source": "peoples_tj",
+  "source_name_zh": "人民网 天津",
+  "source_name_en": "People's Daily Tianjin",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.people.com.cn/n2/2026/1119/c375366-41755058.html",
+  "title_zh": "中共天津市委十二届九次全会将于11月20日召开",
+  "title_en": "Ninth Plenary Session of 12th Tianjin Municipal Party Committee to Convene on November 20",
+  "summary_zh": "天津市委常委会研究决定，中共天津市第十二届委员会第九次全体会议将于2026年11月20日召开，主题为持之以恒推进全面从严治党。",
+  "summary_en": "The Standing Committee of the Tianjin Municipal Party Committee has decided that the Ninth Plenary Session of the 12th Tianjin Municipal Party Committee will be held on November 20, 2026, focused on advancing full and rigorous Party governance.",
+  "body_zh": "中共天津市委十二届九次全会将于11月20日召开\n近日，天津市委常委会会议研究决定，中国共产党天津市第十二届委员会第九次全体会议将于2026年11月20日召开。\n会议主题是：以习近平新时代中国特色社会主义思想为指导，深入学习贯彻党的二十届五中全会精神，全面贯彻习近平党建思想，认真落实习近平总书记视察天津重要讲话精神和对天津工作一系列重要指示要求，审议《中共天津市委关于深入贯彻落实党的二十届五中全会精神持之以恒推进全面从严治党的意见（讨论稿）》，推动全面从严治党各项部署落到实处，为全面建设社会主义现代化大都市、奋力谱写中国式现代化天津篇章提供坚强保障。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党的建设",
+    "党的二十届五中全会精神"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共天津市委",
+      "name_en": "CPC Tianjin Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中共天津市委",
+    "天津",
+    "全面从严治党",
+    "党的建设",
+    "党的二十届五中全会精神",
+    "习近平"
+  ],
+  "tags_en": [
+    "CPC Tianjin Municipal Committee",
+    "Tianjin",
+    "Full and Rigorous Party Governance",
+    "Party Building",
+    "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共天津市委",
+        "name_en": "CPC Tianjin Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-peoples_tj-162c26",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

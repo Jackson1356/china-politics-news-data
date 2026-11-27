@@ -1,0 +1,88 @@
+{
+  "id": "20260601-chinanews_gn-71f869",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-01/10632233.shtml",
+  "title_zh": "外交部对日方推进同北约合作动向表示严重关切",
+  "title_en": "Ministry of Foreign Affairs Expresses Serious Concern Over Japan's Cooperation with NATO",
+  "summary_zh": "2026年6月1日，外交部发言人林剑在例行记者会上表示，中方对日本推进同北约合作、扩大自卫队活动范围的动向表示严重关切。",
+  "summary_en": "On June 1, 2026, MFA spokesperson Lin Jian expressed serious concern over Japan's moves to promote cooperation with NATO and expand the activities of the Self-Defense Forces.",
+  "body_zh": "外交部：对日方推进同北约合作动向表示严重关切\n新华社北京6月1日电(记者董雪、马卓言)针对日本防卫省近日表示多名自卫队员将进驻北约乌克兰安全援助和训练计划总部，从俄乌冲突中“学习经验”，外交部发言人林剑1日在例行记者会上答问时表示，中方对日方推进同北约合作的动向表示严重关切。日本大肆推进“再军事化”，同域外军事组织互动频繁，扩大自卫队的活动范围，打造可以实战的作战体系。这是在突破日本宪法、国际法、国内法规制和“专守防卫”等原则，挑战战后国际秩序，与日方自诩的“和平国家”形象背道而驰。日本“新型军国主义”成势为患，威胁地区和平稳定。国际社会必须高度警惕，坚决遏制。\n国内新闻精选：\n- 2026年06月01日 14:52:54\n- 2026年06月01日 10:00:30\n- 2026年05月31日 20:42:29\n- 2026年05月31日 13:15:47\n- 2026年05月31日 11:14:42\n- 2026年05月30日 17:00:19\n- 2026年05月30日 15:37:27\n- 2026年05月30日 15:16:10\n- 2026年05月30日 13:36:04\n- 2026年05月30日 11:33:24",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "foreign",
+  "keywords": [
+    "再军事化",
+    "北约"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "再军事化",
+      "name_en": "Remilitarization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "北约",
+      "name_en": "NATO"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "再军事化",
+    "北约"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Remilitarization",
+    "NATO"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260601-chinanews_gn-71f869",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1780299472129500.html",
+      "title_zh": "外交部：对日方推进同北约合作动向表示严重关切",
+      "published_at": "2026-06-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

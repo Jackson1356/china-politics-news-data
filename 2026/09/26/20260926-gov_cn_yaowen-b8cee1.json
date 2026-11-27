@@ -1,0 +1,111 @@
+{
+  "id": "20260926-gov_cn_yaowen-b8cee1",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082160.htm",
+  "title_zh": "全国秋粮收获有序推进",
+  "title_en": "China's Autumn Grain Harvest Progresses Steadily",
+  "summary_zh": "农业农村部农情调度显示，全国秋粮收获近两成，湖北、河南、黑龙江等主产区抢抓晴好天气加快抢收，确保粮食颗粒归仓。",
+  "summary_en": "China's autumn grain harvest is nearly 20 percent complete, with Hubei, Henan and Heilongjiang stepping up harvesting to bring in crops before rain, the Ministry of Agriculture and Rural Affairs said.",
+  "body_zh": "秋粮约占全年粮食产量的四分之三。眼下，全国秋粮陆续迎来收获，主产区多举措提升抢收效率，确保粮食颗粒归仓。\n农业农村部最新农情调度显示，全国秋粮收获近两成。其中，西南收获过半，长江中下游收获过三成。眼下，全国部分秋收区迎来降雨，抢收成熟作物成为重要一环。\n湖北3000多万亩中稻开镰收割。在鄂州太和镇，受连阴雨天气影响，成熟地块还未完全干透。当地紧急调来宽履带收割机下田抢收，提高收割效率。\n河南7600多万亩秋粮收获进度过半。在周口，针对阴雨天气导致田间湿度大、玉米籽粒水分偏高，农户将刚收割的潮粮第一时间运送至附近的烘干塔集中烘干，实现收割、转运、烘干无缝衔接。\n黑龙江大豆迎来大面积收获。在鹤岗高蛋白大豆种植和单产提升核心示范基地，两台大型联合收割机可一次性完成大豆脱粒、秸秆粉碎等作业，每日收割量达1000亩。\n农业农村部将分区分类推进后期田管，提早组织农机供需对接，抢抓晴好天气推进秋粮收获。",
+  "image_url": null,
+  "published_at": "2026-09-26T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "秋粮收获",
+    "农业机械化"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋粮收获",
+      "name_en": "Autumn Grain Harvest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "湖北",
+    "河南",
+    "黑龙江",
+    "粮食安全",
+    "秋粮收获",
+    "农业机械化"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Hubei",
+    "Henan",
+    "Heilongjiang",
+    "Food Security",
+    "Autumn Grain Harvest",
+    "Agricultural Mechanization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-HB",
+      "CN-HA",
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260926-gov_cn_yaowen-b8cee1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

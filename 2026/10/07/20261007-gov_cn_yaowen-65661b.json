@@ -1,0 +1,83 @@
+{
+  "id": "20261007-gov_cn_yaowen-65661b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082688.htm",
+  "title_zh": "国庆假期出行需求旺盛 发展活力持续释放",
+  "title_en": "Robust National Day Holiday Travel Demand Reflects Sustained Development Vitality",
+  "summary_zh": "交通运输部10月7日发布数据，今年国庆七天假期全社会跨区域人员流动量预计达21.44亿人次，同比增长0.7%，铁路、公路、民航客流均保持高位。",
+  "summary_en": "The Ministry of Transport said on Oct 7 that cross-regional passenger trips during the seven-day National Day holiday were expected to reach 2.144 billion, up 0.7% year on year, with rail, road and air travel all running at high levels.",
+  "body_zh": "记者从交通运输部了解到，今年国庆假期，全社会跨区域人员流动量超21亿人次。随着综合交通运输体系持续完善，旺盛的出行需求得到有力支撑，我国发展活力持续释放。\n交通运输部今天（10月7日）发布的最新数据显示，国庆七天假期，全社会跨区域人员流动量预计达21.44亿人次，同比增长0.7%。\n国庆假期，铁路客流持续旺盛，连续三天旅客发送量超2000万人次。随着高铁网络不断延伸，“说走就走”的旅行更加便捷。假期前开通的京港高铁雄商段、哈尔滨至伊春高铁等4条高铁，串联起华北、东北等地区，带动沿线旅游升温。\n这个假期，超19.6亿人次选择公路出行。其中，自驾出行比例近八成，新能源车流量同比增长35%。全国高速公路10公里以上严重拥堵路段数量同比下降70%。今年，汽车租赁市场十分活跃，日均租车率同比增长25%。\n这个假期，民航旅客运输量日均约240万人次。大城市航空客流保持高位，随着支线机场的不断完善，带动了特色旅游城市客流快速增长。",
+  "image_url": null,
+  "published_at": "2026-10-07T12:00:00+00:00",
+  "event_date": "2026-10-07",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "假日经济",
+    "交通运输",
+    "综合交通体系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "假日经济",
+      "name_en": "Holiday Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "综合交通体系",
+      "name_en": "Integrated Transport Network"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "假日经济",
+    "交通运输",
+    "综合交通体系"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Holiday Economy",
+    "Transportation",
+    "Integrated Transport Network"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261007-gov_cn_yaowen-65661b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

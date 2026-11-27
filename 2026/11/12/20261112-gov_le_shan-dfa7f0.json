@@ -1,0 +1,111 @@
+{
+  "id": "20261112-gov_le_shan-dfa7f0",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085913.htm",
+  "title_zh": "何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格",
+  "title_en": "He Lifeng Meets Invesco President and CEO Andrew Schlossberg",
+  "summary_zh": "11月12日，何立峰在北京人民大会堂会见美国景顺集团总裁施洛斯伯格，表示中国将扩大金融高水平开放，欢迎外企深化对华投资合作。",
+  "summary_en": "On Nov 12, Vice Premier He Lifeng met Invesco CEO Andrew Schlossberg at the Great Hall of the People in Beijing, pledging greater financial opening and welcoming foreign investment.",
+  "body_zh": "新华社北京11月12日电 中共中央政治局委员、国务院副总理何立峰12日在人民大会堂会见美国景顺集团总裁兼首席执行官施洛斯伯格时表示，当前中国经济动能向新、结构向优，展现出强大韧性与活力。“十五五”时期是建设金融强国的重要阶段，中国正按照《金融强国建设“十五五”规划》，深入推进金融高质量发展，扩大金融高水平开放。欢迎包括景顺集团在内的各国企业继续深化对华投资合作，实现互利共赢。\n施洛斯伯格表示，看好中国经济发展前景，愿继续深耕中国市场，拓展务实合作。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "economy",
+  "keywords": [
+    "金融开放",
+    "对华投资",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": "He Lifeng"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融开放",
+      "name_en": "Financial Opening"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对华投资",
+      "name_en": "Investment in China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "何立峰",
+    "国务院",
+    "北京",
+    "金融开放",
+    "对华投资",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "He Lifeng",
+    "State Council",
+    "Beijing",
+    "Financial Opening",
+    "Investment in China",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261112-gov_cn_yaowen-dfa7f0",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20261113/d26dfca9-ab97-4bf7-84e1-5f5d3629ecbb.html",
+      "title_zh": "何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

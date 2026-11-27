@@ -1,0 +1,106 @@
+{
+  "id": "20261121-cpcnews-e20dda",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1121/c64094-40838020.html",
+  "title_zh": "赵乐际会见澳大利亚总理阿尔巴尼斯",
+  "title_en": "Zhao Leji Meets Australian Prime Minister Albanese",
+  "summary_zh": "2026年11月20日下午，全国人大常委会委员长赵乐际在北京会见澳大利亚总理阿尔巴尼斯，阿方表示支持澳中立法机构继续保持良好交往。",
+  "summary_en": "On the afternoon of Nov 20, 2026, NPC Standing Committee Chairman Zhao Leji met Australian Prime Minister Anthony Albanese in Beijing, who voiced support for continued exchanges between the two countries' legislatures.",
+  "body_zh": "新华社北京11月20日电 全国人大常委会委员长赵乐际20日下午在北京会见澳大利亚总理阿尔巴尼斯。\n阿尔巴尼斯表示，祝贺中国成功举办亚太经合组织领导人非正式会议。我同习近平主席进行了富有成果的战略性沟通，达成重要共识。支持澳中立法机构继续保持良好交往，促进人民友谊。\n《 人民日报 》（ 2026年11月21日 01 版）",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中澳关系",
+    "立法机构交往",
+    "亚太经合组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-leji",
+      "name_zh": "赵乐际",
+      "name_en": "Zhao Leji"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中澳关系",
+      "name_en": "China-Australia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立法机构交往",
+      "name_en": "Legislative Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    }
+  ],
+  "tags_zh": [
+    "赵乐际",
+    "全国人大常委会",
+    "北京",
+    "中澳关系",
+    "立法机构交往",
+    "亚太经合组织"
+  ],
+  "tags_en": [
+    "Zhao Leji",
+    "NPC Standing Committee",
+    "Beijing",
+    "China-Australia Relations",
+    "Legislative Exchanges",
+    "APEC"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-leji"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261121-cpcnews-e20dda",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

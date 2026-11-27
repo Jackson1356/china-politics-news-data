@@ -1,0 +1,100 @@
+{
+  "id": "20261125-gov_huai_an-62107b",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1795562495417o7SObggU.html",
+  "title_zh": "淮安市代表团继续审议省党代会报告",
+  "title_en": "Huai'an Delegation Continues Deliberation of Provincial Party Congress Report",
+  "summary_zh": "11月24日，出席江苏省第十五次党代会的淮安市代表团召开分组会议，继续审议信长星代表中共江苏省第十四届委员会所作的报告，马士光、方伟、顾坤、杨新忠等参加。",
+  "summary_en": "On Nov 24, the Huai'an delegation to the 15th Jiangsu Provincial Party Congress held group meetings to continue deliberating the report delivered by Xin Changxing on behalf of the 14th Jiangsu Provincial Party Committee, with Ma Shiguang, Fang Wei, Gu Kun and Yang Xinzhong taking part.",
+  "body_zh": "我市代表团继续审议省党代会报告\n11月24日，出席省第十五次党代会的我市代表团召开分组会议，继续审议信长星同志代表中共江苏省第十四届委员会所作的报告。马士光、方伟、顾坤、杨新忠等参加审议。\n审议现场气氛热烈，代表们围绕报告谈体会、话落实、谋发展。大家认为，报告政治站位高远、总结成绩实事求是、谋划未来催人奋进，是一个高举旗帜、牢记嘱托、凝聚人心、团结奋进的好报告，必将激励全省上下在推进中国式现代化中走在前、做示范，奋力谱写“强富美高”新江苏现代化建设新篇章。\n代表们一致认为，报告紧紧围绕深入学习贯彻习近平总书记对江苏工作重要讲话精神这一主线，全面彰显了坚定拥护“两个确立”、坚决做到“两个维护”的高度政治自觉。过去五年，全省上下牢记嘱托、感恩奋进，坚决扛起经济大省挑大梁责任，“强富美高”新江苏现代化建设取得了重要阶段性成果。大家深切体会到，江苏发展的每一步跨越、每一份成果，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想科学指引。\n代表们纷纷表示，将把习近平总书记对江苏工作重要讲话精神领悟透、落实好，立足自身岗位职责，找准贯彻落实的切入点和着力点，把感恩之心转化为奋进之力，以更加务实的举措推动省党代会各项部署落地见效，一步一个脚印，把习近平总书记亲自擘画的建设“强富美高”新江苏宏伟蓝图变成美好现实。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "省党代会",
+    "中国式现代化",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省党代会",
+      "name_en": "Provincial Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "省党代会",
+    "中国式现代化",
+    "党的建设",
+    "习近平",
+    "顾坤"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Provincial Party Congress",
+    "Chinese Modernization",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261125-gov_huai_an-62107b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

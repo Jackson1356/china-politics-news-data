@@ -1,0 +1,70 @@
+{
+  "id": "20260710-gov_cn_yaowen-1c4119",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075015.htm",
+  "title_zh": "历史性突破 长征十号乙完成全球首次海上网系回收",
+  "title_en": "Historic Breakthrough: Long March 10B Completes World's First Sea-Based Net Recovery",
+  "summary_zh": "7月10日，长征十号乙运载火箭在海南商业航天发射场成功发射，并完成全球首次海上网系回收，为后续火箭复用飞行奠定基础。",
+  "summary_en": "On July 10, the Long March 10B rocket was launched from Hainan Commercial Space Launch Site, achieving the world's first sea-based net recovery of its first stage.",
+  "body_zh": "今天（7月10日），长征十号乙运载火箭在海南商业航天发射场发射升空，将卫星送入预定轨道，一子级完成全球首次海上网系回收。网系回收是依靠回收船的井字形阻拦索，挂住火箭挂钩，从而实现一子级回收。该技术实现了箭上设备的轻量化和简单化，提高火箭可靠性。截至目前，我国是唯一将这项技术用于实践的国家。\n本次任务成功突破了复杂力热环境适应性、高精度导航控制、海上平台网系捕获回收等关键核心技术。为后续的火箭复用飞行奠定了坚实基础。\n后续，火箭研制团队还将持续优化火箭性能，预计在今年年底前完成今天回收的一子级火箭复用飞行。",
+  "image_url": null,
+  "published_at": "2026-07-10T12:00:00+00:00",
+  "event_date": "2026-07-10",
+  "ingested_at": "2026-07-11T06:31:06Z",
+  "topic": "industry",
+  "keywords": [
+    "商业航天",
+    "火箭回收"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "商业航天",
+      "name_en": "Commercial Aerospace"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "火箭回收",
+      "name_en": "Rocket Recovery"
+    }
+  ],
+  "tags_zh": [
+    "海南",
+    "商业航天",
+    "火箭回收"
+  ],
+  "tags_en": [
+    "Hainan",
+    "Commercial Aerospace",
+    "Rocket Recovery"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260710-gov_cn_yaowen-1c4119",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "20261102-gov_cn_yaowen-26fd7e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/02/VIDEYAtxeTWd4NOWDhMyhUXo261102.shtml",
+  "title_zh": "李强会见阿曼苏丹海赛姆",
+  "title_en": "Li Qiang Meets with Sultan Haitham of Oman",
+  "summary_zh": "11月2日，国务院总理李强在北京会见来华进行国事访问的阿曼苏丹海赛姆，双方就深化中阿战略伙伴关系、拓展能源经贸合作交换意见。",
+  "summary_en": "On November 2, Premier Li Qiang met in Beijing with Oman's Sultan Haitham, who is on a state visit to China. The two sides discussed deepening the China-Oman strategic partnership and expanding energy and trade cooperation.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强2日在京会见来华进行国事访问的阿曼苏丹海赛姆。\n李强表示，中阿两国友谊源远流长。习近平主席同苏丹陛下举行会晤，就进一步深化中阿战略伙伴关系作出新的规划。中方愿同阿方一道弘扬传统友好，坚定相互支持，拓展能源、经贸、人文等领域合作，推动尽早结束中海自贸协定谈判，实现更高水平的互利共赢。近期，中东局势反复震荡。中方愿秉持习近平主席提出的一系列重大倡议和主张，为早日恢复中东海湾地区和平安宁作出不懈努力。\n海赛姆表示，中国发展成就举世瞩目，阿方对此深表钦佩，期待深化两国各领域互利合作，开辟阿中战略伙伴关系更广阔前景。\n吴政隆参加会见。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "战略伙伴关系",
+    "能源合作",
+    "中海自贸协定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略伙伴关系",
+      "name_en": "Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中海自贸协定",
+      "name_en": "GCC-China Free Trade Agreement"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "战略伙伴关系",
+    "能源合作",
+    "中海自贸协定",
+    "习近平",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Strategic Partnership",
+    "Energy Cooperation",
+    "GCC-China Free Trade Agreement"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "li-qiang",
+      "wu-zhenglong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261102-gov_cn_yaowen-26fd7e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084792.htm",
+      "title_zh": "李强会见阿曼苏丹海赛姆",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

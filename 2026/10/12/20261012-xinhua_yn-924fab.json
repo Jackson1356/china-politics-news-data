@@ -1,0 +1,115 @@
+{
+  "id": "20261012-xinhua_yn-924fab",
+  "source": "xinhua_yn",
+  "source_name_zh": "新华网 云南",
+  "source_name_en": "Xinhua Yunnan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261012/f784016dd25546eab3e1f862ef977d92/c.html",
+  "title_zh": "第三轮第七批中央生态环保督察启动",
+  "title_en": "Third Round, Seventh Batch of Central Ecological and Environmental Inspections Launched",
+  "summary_zh": "10月12日，经党中央、国务院批准，第三轮第七批中央生态环境保护督察启动，对住建部、农业农村部开展例行督察，并对7省区市开展溶洞天坑污染专项督察。",
+  "summary_en": "On Oct 12, with approval from the CPC Central Committee and the State Council, the seventh batch of the third round of central ecological and environmental inspections was launched, covering two ministries and seven provincial-level regions.",
+  "body_zh": "新华社北京10月12日电（记者高敬）记者12日从生态环境部获悉，经党中央、国务院批准，第三轮第七批中央生态环境保护督察全面启动。\n本批次督察组建2个中央生态环境保护例行督察组，分别对住房城乡建设部、农业农村部开展例行督察，进驻时间1个月。同时，组建3个中央生态环境保护专项督察组，分别对湖北、湖南、广西3省（区），重庆、四川2省（市），贵州、云南2省开展溶洞天坑山谷污染问题生态环境保护专项督察，进驻时间两周左右。\n记者同时了解到，为统筹经济发展、民生保障和生态环境保护，中央生态环境保护督察工作领导小组办公室专门致函上述被督察对象，要求坚决贯彻落实中央决策部署，精准科学依法推进边督边改，禁止搞“一刀切”，并简化督察接待安排，切实减轻基层负担。\n文件强调，严禁为应付督察采取紧急停工停业停产等简单粗暴行为，以及“一律关停”“先停再说”等敷衍应对做法。有关部门和省（区、市）要依法依规，统筹推进生态环境问题整改。要给直接负责整改工作的单位和人员留足时间，妥善处理、有序推进，禁止层层加码、级级提速。对于采取“一刀切”方式消极应对督察的，督察组将严肃处理，发现一起、查处一起。\n文件要求，有关部门和省（区、市）在督察进驻过程中，对需要问责的突出生态环境问题，要严格按照“严肃、精准、有效”的原则做好问责工作，避免以问责代替整改以及乱问责、滥问责、简单化问责等行为。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "discipline",
+  "keywords": [
+    "生态环境保护督察",
+    "边督边改",
+    "溶洞天坑山谷污染治理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "住房城乡建设部",
+      "name_en": "Ministry of Housing and Urban-Rural Development"
+    },
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护督察",
+      "name_en": "Ecological and Environmental Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "边督边改",
+      "name_en": "Rectification Alongside Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "溶洞天坑山谷污染治理",
+      "name_en": "Karst Cave and Sinkhole Pollution Control"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "住房城乡建设部",
+    "农业农村部",
+    "北京",
+    "生态环境保护督察",
+    "边督边改",
+    "溶洞天坑山谷污染治理"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Ministry of Housing and Urban-Rural Development",
+    "Ministry of Agriculture and Rural Affairs",
+    "Beijing",
+    "Ecological and Environmental Inspection",
+    "Rectification Alongside Inspection",
+    "Karst Cave and Sinkhole Pollution Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEE",
+      "MARA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "住房城乡建设部",
+        "name_en": "Ministry of Housing and Urban-Rural Development"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261012-xinhua_politics-cbde17",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

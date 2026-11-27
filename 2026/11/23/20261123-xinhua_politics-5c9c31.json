@@ -1,0 +1,83 @@
+{
+  "id": "20261123-xinhua_politics-5c9c31",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261123/4718538da12b406aa1595a5087082bb3/c.html",
+  "title_zh": "信息窗口乱跳转、无法关闭 多款App被通报",
+  "title_en": "MIIT Reports Multiple Apps for Unclosable, Redirecting Pop-ups",
+  "summary_zh": "11月23日，工业和信息化部通报23款App及SDK存在信息窗口乱跳转、无法关闭等侵害用户权益问题，并要求整改。",
+  "summary_en": "On Nov 23, China's Ministry of Industry and Information Technology reported 23 apps and SDKs for pop-ups that redirect or cannot be closed, ordering rectification.",
+  "body_zh": "工业和信息化部11月23日发布通报称，依据相关法律法规，工业和信息化部对App、SDK（软件开发工具包）商业信息弹窗问题开展专项治理。近期，经组织第三方检测机构进行抽查，共发现23款App及SDK存在信息窗口乱跳转、信息窗口无法关闭等侵害用户权益行为。\n据悉，上述App及SDK应按有关规定进行整改，整改落实不到位的，工业和信息化部将依法依规组织开展相关处置工作。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "industry",
+  "keywords": [
+    "App治理",
+    "用户权益保护",
+    "信息弹窗"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "App治理",
+      "name_en": "App Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "用户权益保护",
+      "name_en": "User Rights Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息弹窗",
+      "name_en": "Pop-up Ads"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "App治理",
+    "用户权益保护",
+    "信息弹窗"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "App Governance",
+    "User Rights Protection",
+    "Pop-up Ads"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261123-xinhua_politics-5c9c31",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

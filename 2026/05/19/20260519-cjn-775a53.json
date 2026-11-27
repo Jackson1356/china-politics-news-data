@@ -1,0 +1,88 @@
+{
+  "id": "20260519-cjn-775a53",
+  "source": "cjn",
+  "source_name_zh": "长江日报",
+  "source_name_en": "Yangtze Daily (Wuhan)",
+  "source_url": "http://news.cjn.cn/asy/ttxw/202605/t5295316.htm",
+  "title_zh": "中俄元首北京会晤",
+  "title_en": "China-Russia Heads of State Meeting in Beijing",
+  "summary_zh": "应习近平主席邀请，俄罗斯总统普京于5月19日至20日对中国进行国事访问，两国元首在北京举行会晤。",
+  "summary_en": "At the invitation of President Xi Jinping, Russian President Vladimir Putin paid a state visit to China from May 19 to 20, meeting with President Xi in Beijing.",
+  "body_zh": "国家重点新闻网 长江流域核心门户\nA首页\n长江头条\nB首页\n呼叫长江\n武汉\n视频\n城区\n图库\n湖北\n话题\n都市圈\n长江时评\n中游城市群\n文章 直播\n长江经济带\n活动 文旅\n国内\n教育\n国际\n生态\n专题\n宜居\nEnglish\n健康\n财经\n出行\n法治\n水电气\n我们\n留言板\n应国家主席习近平邀请，俄罗斯总统普京于5月19日至20日对中国进行国事访问。这是普京总统第25次访华。\n今年是中俄战略协作伙伴关系建立30周年、《中俄睦邻友好合作条约》签署25周年，也是“中俄教育年”启动之年。面对纷繁复杂的国际局势，在中俄元首战略引领下，两国关系始终“风雨不动安如山”，为世界提供稳定性和确定性。\n第一观察｜中俄迈向更高质量的全面战略协作",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-19",
+  "ingested_at": "2026-05-22T03:17:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "战略协作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "俄罗斯",
+      "name_en": "Russia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略协作伙伴关系",
+      "name_en": "Strategic Coordination Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "俄罗斯",
+    "中俄关系",
+    "战略协作伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Russia",
+    "China-Russia Relations",
+    "Strategic Coordination Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260519-cjn-775a53",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

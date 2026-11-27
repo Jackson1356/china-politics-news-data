@@ -1,0 +1,95 @@
+{
+  "id": "20260810-peoples_sc-1f14f1",
+  "source": "peoples_sc",
+  "source_name_zh": "人民网 四川",
+  "source_name_en": "People's Daily Sichuan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sc.people.com.cn/n2/2026/0810/c345167-41663473.html",
+  "title_zh": "全球首创M-G同步并网装备技术成果发布",
+  "title_en": "World's First M-G Synchronous Grid-Connection Equipment Technology Released",
+  "summary_zh": "近日，东方电气集团东方电机有限公司与国网江苏电力在江苏盐城联合发布全球首创M-G同步并网装备技术成果，世界首套兆瓦级装备已在盐城大丰海上风电试验基地稳定运行超2000小时。",
+  "summary_en": "Recently, Dongfang Electric Machinery and State Grid Jiangsu Electric Power jointly released the world's first M-G synchronous grid-connection equipment technology in Yancheng, Jiangsu. The first MW-level equipment has operated stably for over 2,000 hours at the Dafeng offshore wind power test base.",
+  "body_zh": "全球首创新能源电动机-发电机（M-G）同步并网装备技术成果发布\n通过“缓冲”保大电网稳定运行\n●历时4年技术攻关建成全球首个兆瓦级M-G支撑风电并网示范工程，为新能源大规模集中并网开辟国产化技术新路径\n近日，位于四川的东方电气集团东方电机有限公司与国网江苏省电力有限公司在江苏盐城联合发布新能源电动机-发电机（M-G）同步并网装备技术成果。据现场发布，应用该技术的世界首套兆瓦级M-G同步并网装备已在盐城大丰海上风电试验基地稳定运行超过2000小时，经受住高温、高湿、盐雾等复杂环境考验，并网装备的核心指标均达设计预期。\n随着“双碳”目标深入推进，新能源装机规模快速增长，但风电、光伏等新能源发电具有间歇性和波动性，大规模集中并网后容易导致电网频率波动、电压不稳，给电力系统安全运行带来挑战。此次发布的M-G同步并网装备，采用“机械直连、电磁隔离”结构，将电动机与发电机通过同一根转轴刚性连接，在新能源发电单元与电网之间形成一道物理隔离屏障。“简单来说，新能源发出的电先驱动电动机旋转，电动机再带动发电机发电，最终向电网输送稳定可控的电能。”东方电机技术咨询委员会专家郑小康表示，这一方式相当于为电网提供了一个“缓冲”，能有效平抑新能源出力波动带来的冲击，同时增强电网对频率和电压的调控能力，保障大电网安全稳定运行。\n东方电机历时4年技术攻关，联合国网江苏电力建成全球首个兆瓦级M-G支撑风电并网示范工程，为新能源大规模集中并网开辟了国产化技术新路径。未来，东方电气集团还将联合电网企业、发电集团、设计院及高校院所，持续推进M-G装备技术迭代，加快从示范验证向规模化应用过渡，为新型电力系统安全稳定运行提供装备支撑。（四川日报全媒体记者 陈丽霏）",
+  "image_url": null,
+  "published_at": "2026-08-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "industry",
+  "keywords": [
+    "新能源",
+    "大电网安全",
+    "技术装备"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": ""
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源",
+      "name_en": "New Energy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大电网安全",
+      "name_en": "Large Grid Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技术装备",
+      "name_en": "Technical Equipment"
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "盐城",
+    "新能源",
+    "大电网安全",
+    "技术装备"
+  ],
+  "tags_en": [
+    "New Energy",
+    "Large Grid Safety",
+    "Technical Equipment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郑小康"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260810-peoples_sc-1f14f1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

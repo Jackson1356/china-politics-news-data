@@ -1,0 +1,119 @@
+{
+  "id": "20261109-gov_huai_an-870fb4",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794181756560n3TbTcPi.html",
+  "title_zh": "淮安市九届人大七次会议主席团举行第四次会议",
+  "title_en": "Presidium of 9th Huai'an Municipal People's Congress Seventh Session Holds Fourth Meeting",
+  "summary_zh": "11月8日，淮安市九届人大七次会议主席团举行第四次会议，市委书记顾坤主持，会议听取选举计票情况报告并通过大会主席团公告。",
+  "summary_en": "On Nov 8, the presidium of the seventh session of the 9th Huai'an Municipal People's Congress held its fourth meeting, chaired by Party Secretary Gu Kun, hearing a report on election vote counting and adopting the presidium announcement.",
+  "body_zh": "11月8日，市九届人大七次会议主席团举行第四次会议。大会主席团常务主席顾坤、胡毅、李森、吴晓丹、周青、董国喜、范更生、王向红、朱海波、江山出席会议。大会主席团常务主席，市委书记、市人大常委会党组书记顾坤主持会议。\n会议听取关于选举计票情况的报告；讨论并通过大会主席团公告。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "personnel",
+  "keywords": [
+    "人大会议",
+    "选举计票",
+    "地方人事"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大会议",
+      "name_en": "People's Congress Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "选举计票",
+      "name_en": "Election Vote Counting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方人事",
+      "name_en": "Local Personnel"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "人大会议",
+    "选举计票",
+    "地方人事"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "People's Congress Session",
+    "Election Vote Counting",
+    "Local Personnel"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "江山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261109-gov_huai_an-5e90a2",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794181992651Xc9FvTLb.html",
+      "title_zh": "淮安市人民政府 市九届人大七次会议召开预备会议",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794181886789J9jKYWR7.html",
+      "title_zh": "淮安市人民政府 市九届人大七次会议主席团举行第一次会议",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "source": "gov_huai_an",
+      "source_tier": 4,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794181841679HgqGwm52.html",
+      "title_zh": "淮安市人民政府 市九届人大七次会议主席团举行第二次会议",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

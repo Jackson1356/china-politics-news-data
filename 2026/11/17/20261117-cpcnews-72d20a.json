@@ -1,0 +1,133 @@
+{
+  "id": "20261117-cpcnews-72d20a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1117/c64387-40835717.html",
+  "title_zh": "《习近平法治思想干部读本》出版发行",
+  "title_en": "Reader on Xi Jinping Thought on the Rule of Law Published for Officials",
+  "summary_zh": "中央全面依法治国委员会办公室组织编写的《习近平法治思想干部读本》近日由人民出版社、法律出版社联合出版，并在全国发行。",
+  "summary_en": "A reader on Xi Jinping Thought on the Rule of Law, compiled by the Office of the Central Commission for Comprehensive Law-Based Governance, has been jointly published by People's Publishing House and Law Press and released nationwide.",
+  "body_zh": "新华社北京11月17日电 中央全面依法治国委员会办公室组织编写的《习近平法治思想干部读本》（以下简称《读本》）一书，近日由人民出版社、法律出版社联合出版，在全国发行。\n《读本》的出版，有利于广大党员干部深入学习习近平法治思想，切实用这一重要思想武装头脑、指导实践、推动工作，努力建设更加完善的中国特色社会主义法治体系、建设更高水平的社会主义法治国家。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "习近平法治思想",
+    "全面依法治国",
+    "干部理论学习"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "习近平法治思想",
+      "name_en": "Xi Jinping Thought on the Rule of Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面依法治国",
+      "name_en": "Law-Based Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部理论学习",
+      "name_en": "Cadre Theoretical Study"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "习近平法治思想",
+    "全面依法治国",
+    "干部理论学习"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Xi Jinping Thought on the Rule of Law",
+    "Law-Based Governance",
+    "Cadre Theoretical Study"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261117-cpcnews-72d20a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/1117/c461001-40835555.html",
+      "title_zh": "《习近平法治思想干部读本》出版发行--时政--人民网",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086315.htm",
+      "title_zh": "《习近平法治思想干部读本》出版发行",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "http://www.qstheory.cn/20261117/aa47526320e24d319c7cfc6d80f992d4/c.html",
+      "title_zh": "《习近平法治思想干部读本》出版发行",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "qiushi",
+      "source_tier": 1,
+      "url": "https://www.qstheory.cn/20261117/aa47526320e24d319c7cfc6d80f992d4/c.html",
+      "title_zh": "《习近平法治思想干部读本》出版发行",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491704",
+      "title_zh": "《习近平法治思想干部读本》出版发行",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-11/17/content_39105181.htm",
+      "title_zh": "《习近平法治思想干部读本》出版发行",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2122593448396607490.html",
+      "title_zh": "《习近平法治思想干部读本》出版发行",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

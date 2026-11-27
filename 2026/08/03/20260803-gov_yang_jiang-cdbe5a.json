@@ -1,0 +1,92 @@
+{
+  "id": "20260803-gov_yang_jiang-cdbe5a",
+  "source": "gov_yang_jiang",
+  "source_name_zh": "阳江市政府网",
+  "source_name_en": "阳江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yang_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.yangjiang.gov.cn/yj/ywdt/yjyw/content/post_971421.html",
+  "title_zh": "市委常委会会议召开",
+  "title_en": "Yangjiang Municipal Party Committee Standing Committee Meeting Convened",
+  "summary_zh": "7月31日，阳江市委常委会会议召开，市委书记卢一先主持，传达学习习近平总书记重要讲话精神，部署科技创新工作。",
+  "summary_en": "On July 31, the Yangjiang Municipal Party Committee held a standing committee meeting, chaired by Secretary Lu Yixian, to convey the spirit of General Secretary Xi Jinping's important speech and deploy sci-tech innovation work.",
+  "body_zh": "市委常委会会议召开\n时间:  2026-08-03 09:14:58\n阅读量:-\n【打印】\n7月31日，市委常委会会议召开，传达学习习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的重要讲话精神，以及省委常委会会议精神，听取我市科技创新、科协工作情况汇报。市委书记卢一先主持会议。\n会议指出，习近平总书记的重要讲话，为做好新时代科技工作指明了前进方向、提供了根本遵循。要认真学习贯彻习近平总书记重要讲话精神，把科技创新工作摆在突出重要位置来抓，同谋划“十五五”发展、建设“4+4+X”现代化产业体系等工作结合起来，探索更多“四链融合”有效路径，让科技创新成为阳江高质量发展的关键变量、战略支撑和长远之策。\n会议强调，要聚焦科技创新和产业创新深度融合，集中力量把阳江优势产业做强做优。建强科创平台，健全“揭榜挂帅”机制，全力攻关“卡脖子”技术，推动产业技术从“点状突破”走向“链条贯通”；坚持产业科技互促双强，依托绿能优势，延伸绿氢氨醇链条、推动绿电就地消纳，探索发展算电协同新模式，巩固风电产业集群优势，推动新材料、现代农业等优势产业科技赋能提质增效，加快推动传统产业向高端化、智能化、绿色化升级；统筹做好育才、引才、用才文章，深化科技体制改革，畅通成果转化链条，发挥科技金融作用，持续营造支撑科技创新的良好生态。要加强党对科技工作的领导，提升抓科技的专业能力，围绕企业创新需求靠前服务，用心用情服务科技工作者，以务实作风把各项部署落到实处。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "科技创新",
+    "现代化产业体系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lu-yixian-yangjiang",
+      "name_zh": "卢一先",
+      "name_en": "Lu Yixian"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-YJ",
+      "name_zh": "阳江",
+      "name_en": "Yangjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化产业体系",
+      "name_en": "Modern Industrial System"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "卢一先",
+    "阳江",
+    "科技创新",
+    "现代化产业体系",
+    "习近平"
+  ],
+  "tags_en": [
+    "Lu Yixian",
+    "Yangjiang",
+    "Scientific and Technological Innovation",
+    "Modern Industrial System"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-yixian-yangjiang",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-YJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260803-gov_yang_jiang-cdbe5a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

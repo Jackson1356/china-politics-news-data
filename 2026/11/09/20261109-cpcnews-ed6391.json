@@ -1,0 +1,93 @@
+{
+  "id": "20261109-cpcnews-ed6391",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1109/c64387-40830310.html",
+  "title_zh": "农村居民人均可支配收入前三季度实际增长5.6%",
+  "title_en": "Rural Residents' Per Capita Disposable Income Grows 5.6% in Real Terms in First Three Quarters",
+  "summary_zh": "据农业农村部数据，前三季度全国农村居民人均可支配收入18809元，实际增长5.6%，增速比城镇居民快2个百分点；农产品进出口总额2523.6亿美元，同比增长9.7%。",
+  "summary_en": "Data from the Ministry of Agriculture and Rural Affairs show China's rural per capita disposable income reached 18,809 yuan in the first three quarters, up 5.6% in real terms and two percentage points faster than urban income, while agricultural trade totaled $252.36 billion, up 9.7% year on year.",
+  "body_zh": "本报北京11月8日电 （记者朱隽、郁静娴）记者从农业农村部获悉：前三季度，农业农村发展活力持续增强。从农民收入看，全国农村居民人均可支配收入18809元，实际增长5.6%，增速比城镇居民快2个百分点。数据显示，全面开展第二轮土地承包到期后再延长30年整省试点，目前全国已签订合同3000多万份。各地累计培育家庭农场、农民合作社约600万个，108万个经营性主体开展社会化服务。\n农产品进出口表现亮眼。前三季度，农产品进出口总额2523.6亿美元、同比增长9.7%，其中进口1714.6亿美元、增长10.2%，出口809亿美元、增长8.7%。\n《 人民日报 》（ 2026年11月09日 02 版）",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "economy",
+  "keywords": [
+    "农民增收",
+    "农产品贸易",
+    "土地承包延包"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农民增收",
+      "name_en": "Rural Income Growth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农产品贸易",
+      "name_en": "Agricultural Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "土地承包延包",
+      "name_en": "Land Contract Extension"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "北京",
+    "农民增收",
+    "农产品贸易",
+    "土地承包延包"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Beijing",
+    "Rural Income Growth",
+    "Agricultural Trade",
+    "Land Contract Extension"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261109-cpcnews-ed6391",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

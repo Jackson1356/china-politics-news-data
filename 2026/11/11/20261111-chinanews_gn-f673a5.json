@@ -1,0 +1,83 @@
+{
+  "id": "20261111-chinanews_gn-f673a5",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-11/10730284.shtml",
+  "title_zh": "2026年APEC领导人会议周新闻中心启用",
+  "title_en": "News Center for 2026 APEC Leaders' Meeting Week Opens in Shenzhen",
+  "summary_zh": "11月11日，2026年APEC领导人会议周新闻中心在深圳会展中心启用，面积约1.5万平方米，将为近5000名中外记者提供服务。",
+  "summary_en": "On Nov 11, the news center for 2026 APEC Leaders' Meeting Week opened at the Shenzhen Convention and Exhibition Center, a 15,000-square-meter facility serving nearly 5,000 Chinese and foreign journalists.",
+  "body_zh": "2026年APEC领导人会议周新闻中心启用\n11月11日，2026年亚太经合组织(APEC)领导人会议周新闻中心在东道主城市深圳启用并投入运行。\n新闻中心是举办国际盛会的重要组成部分。位于深圳会展中心(福田)2号馆的APEC会议周新闻中心，面积约1.5万平方米，设有媒体工作区、技术支持区、新闻发布区、“记者之家”服务区、休憩茶歇区等功能区，将为参加报道的近5000名中外记者提供会议资讯、广播电视公共信号、新闻发布、智能采编等服务。\n(总台记者 章林 韩冰)\n国内新闻精选：\n- 2026年11月11日 07:00:01\n- 2026年11月10日 22:03:06\n- 2026年11月10日 15:38:19\n- 2026年11月10日 12:05:41\n- 2026年11月10日 08:45:47\n- 2026年11月09日 16:49:56\n- 2026年11月09日 13:48:47\n- 2026年11月09日 13:13:37\n- 2026年11月08日 20:38:02\n- 2026年11月08日 17:31:16",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太经合组织领导人会议周",
+    "国际会议服务",
+    "媒体保障"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织领导人会议周",
+      "name_en": "APEC Leaders' Meeting Week"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际会议服务",
+      "name_en": "International Conference Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "媒体保障",
+      "name_en": "Media Support"
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "亚太经合组织领导人会议周",
+    "国际会议服务",
+    "媒体保障"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "APEC Leaders' Meeting Week",
+    "International Conference Services",
+    "Media Support"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-chinanews_gn-f673a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "20261022-gov_cn_yaowen-046c70",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084051.htm",
+  "title_zh": "新动能加速成长 带动作用不断增强",
+  "title_en": "New Growth Drivers Accelerate, Driving Role Continues to Strengthen",
+  "summary_zh": "国家发展改革委数据显示，今年前三季度我国新动能加速成长，创新成果涌现，产业结构持续优化，对经济带动作用增强。",
+  "summary_en": "Data from the National Development and Reform Commission show that in the first three quarters, China's new growth drivers accelerated, innovation outcomes emerged, and industrial structure continued to improve.",
+  "body_zh": "记者从国家发展改革委了解到，今年以来，我国新动能加速成长，对经济带动作用不断增强。\n前三季度，创新成果加速涌现。集成电路关键核心技术攻关取得突破。AI开源大模型全球累计下载量突破100亿次。人形机器人出货量全球占比超过90%。前三季度，创新药对外技术授权1300亿美元，接近去年全年。新能源汽车渗透率达到53.6%。\n产业结构不断优化。高技术制造业、装备制造业增加值均保持较快增长，服务业增加值同比增长5.2%。数据产业规模超过6万亿元。",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "economy",
+  "keywords": [
+    "新动能",
+    "创新成果",
+    "产业结构优化",
+    "新能源汽车"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新动能",
+      "name_en": "New Growth Drivers"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "创新成果",
+      "name_en": "Innovation Outcomes"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业结构优化",
+      "name_en": "Industrial Structure Optimization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "新动能",
+    "创新成果",
+    "产业结构优化",
+    "新能源汽车"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "New Growth Drivers",
+    "Innovation Outcomes",
+    "Industrial Structure Optimization",
+    "New Energy Vehicles"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261022-gov_cn_yaowen-046c70",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

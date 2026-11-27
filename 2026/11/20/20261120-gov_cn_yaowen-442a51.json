@@ -1,0 +1,129 @@
+{
+  "id": "20261120-gov_cn_yaowen-442a51",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/20/VIDEAnHbzTm20Tbs60BuD5Gw261120.shtml",
+  "title_zh": "丁薛祥将访问新加坡并主持中新双边合作机制会议",
+  "title_en": "Ding Xuexiang to Visit Singapore and Chair China-Singapore Bilateral Cooperation Mechanism Meetings",
+  "summary_zh": "应新加坡副总理颜金勇邀请，国务院副总理丁薛祥将于11月22日至23日访问新加坡，并与他共同主持中新双边合作联委会等四场机制会议。",
+  "summary_en": "At the invitation of Singaporean Deputy Prime Minister Gan Kim Yong, Vice Premier Ding Xuexiang will visit Singapore on Nov 22-23 and co-chair four bilateral cooperation mechanism meetings, including the Joint Council for Bilateral Cooperation.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：应新加坡副总理颜金勇邀请，中共中央政治局常委、国务院副总理丁薛祥将于11月22日至23日访问新加坡，同颜金勇副总理共同主持中新双边合作联委会第二十二次会议、中新苏州工业园区联合协调理事会第二十七次会议、中新天津生态城联合协调理事会第十八次会议、中新（重庆）战略性互联互通示范项目联合协调理事会第十次会议。\n[视频]丁薛祥将访问新加坡并主持中新双边合作机制会议\n简介\n视频简介丁薛祥将访问新加坡并主持中新双边合作机制会议。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中新双边合作",
+    "苏州工业园区",
+    "互联互通"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "SG",
+      "name_zh": "新加坡",
+      "name_en": "Singapore"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中新双边合作",
+      "name_en": "China-Singapore Bilateral Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "苏州工业园区",
+      "name_en": "Suzhou Industrial Park"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互联互通",
+      "name_en": "Connectivity"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥将",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "国务院",
+    "新加坡",
+    "中新双边合作",
+    "苏州工业园区",
+    "互联互通",
+    "薛祥将"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "State Council",
+    "Singapore",
+    "China-Singapore Bilateral Cooperation",
+    "Suzhou Industrial Park",
+    "Connectivity"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "薛祥将"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "SG"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261120-gov_cn_yaowen-442a51",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086871.htm",
+      "title_zh": "丁薛祥将访问新加坡并主持中新双边合作机制会议",
+      "published_at": "2026-11-20T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/1121/c64094-40838023.html",
+      "title_zh": "丁薛祥将访问新加坡并主持中新双边合作机制会议",
+      "published_at": "2026-11-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

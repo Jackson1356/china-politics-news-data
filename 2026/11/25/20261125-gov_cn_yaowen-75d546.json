@@ -1,0 +1,112 @@
+{
+  "id": "20261125-gov_cn_yaowen-75d546",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/25/VIDEuQ64Jk6Z32NIZqaOTDDv261125.shtml",
+  "title_zh": "丁薛祥会见荷兰外交大臣贝伦德森",
+  "title_en": "Ding Xuexiang Meets Dutch Foreign Minister Berendsen",
+  "summary_zh": "11月25日，中共中央政治局常委、国务院副总理丁薛祥在北京会见荷兰外交大臣贝伦德森，双方就深化中荷务实合作、维护产供链稳定等交换意见。",
+  "summary_en": "On November 25, Ding Xuexiang, member of the CPC Central Committee Political Bureau Standing Committee and Vice Premier, met Dutch Foreign Minister Berendsen in Beijing to discuss deepening practical cooperation and keeping supply chains stable.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：11月25日，中共中央政治局常委、国务院副总理丁薛祥在北京会见荷兰外交大臣贝伦德森。\n丁薛祥表示，中荷是开放务实的全面合作伙伴，双边合作走在中欧合作前列。明年是两国建立大使级外交关系55周年。中方愿同荷方一道，落实好两国元首重要共识，加强各领域交流合作，促进双边关系健康稳定发展。中荷都是世界重要经济体，双方应合力维护产供链稳定畅通，为两国和全球共同发展不断注入新动能。\n贝伦德森祝贺中方成功举办亚太经合组织领导人非正式会议，高度赞赏中国发展取得的巨大成就，表示荷方愿同中方加强高层交往，深化各领域务实合作，通过对话协商妥处分歧，实现共同发展和繁荣。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中荷关系",
+    "产供链稳定",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中荷关系",
+      "name_en": "China-Netherlands Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产供链稳定",
+      "name_en": "Supply Chain Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "北京",
+    "中荷关系",
+    "产供链稳定",
+    "务实合作",
+    "薛祥"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "Beijing",
+    "China-Netherlands Relations",
+    "Supply Chain Stability",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261125-cpcnews-069eb8",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087301.htm",
+      "title_zh": "丁薛祥会见荷兰外交大臣贝伦德森",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

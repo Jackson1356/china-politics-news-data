@@ -1,0 +1,128 @@
+{
+  "id": "20261125-gov_lin_zhi-9bb6a5",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202611/5fa749b8fcf74fb9a929c21724c3bb9a.shtml",
+  "title_zh": "嘎玛泽登会见中国银行行长张辉一行",
+  "title_en": "Gama Zedeng Meets Bank of China President Zhang Hui",
+  "summary_zh": "11月24日，西藏自治区党委副书记、自治区主席嘎玛泽登在拉萨会见中国银行行长张辉一行，就金融支持西藏经济社会发展交换意见。",
+  "summary_en": "On Nov 24, Tibet Autonomous Region Chairman Gama Zedeng met with Bank of China President Zhang Hui in Lhasa to discuss financial support for Tibet's economic and social development.",
+  "body_zh": "嘎玛泽登会见张辉一行\n《西藏日报》（2026年11月25日 第 01 版）\n本报拉萨11月24日讯（记者 唐启胜）24日，自治区党委副书记、自治区主席嘎玛泽登在拉萨会见中国银行行长张辉一行。\n嘎玛泽登代表自治区党委、政府，代表胡昌升书记对张辉一行表示欢迎，向中国银行长期以来给予西藏经济社会发展的支持帮助表示感谢。他说，当前，西藏正深入贯彻落实习近平总书记关于西藏工作的重要讲话重要指示批示精神和新时代党的治藏方略，全面推进社会主义现代化新西藏建设。希望中国银行继续发挥优势，紧紧围绕持续深入抓好“四件大事”，把资源向西藏发展所需、民生所盼的重点方向集聚，立足西藏区情、适配高原特点、优化创新服务，做好金融“五篇大文章”，共建中华民族共同体、书写美丽西藏新篇章。西藏将持续优化营商环境，全力做好服务保障，支持企业在藏发展壮大。\n张辉对西藏自治区党委、政府一直以来给予中国银行的关心支持表示感谢。他表示，将积极发挥国有大行金融主力军作用，为推动西藏长治久安和高质量发展作出更大贡献。\n韦秀长及李宏军参加。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "economy",
+  "keywords": [
+    "金融服务",
+    "政银合作",
+    "西藏发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gama-cedain",
+      "name_zh": "嘎玛泽登",
+      "name_en": "Gama Zedeng"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "张辉",
+      "name_en": "Zhang Hui"
+    },
+    {
+      "kind": "institution",
+      "id": "BOC",
+      "name_zh": "中国银行",
+      "name_en": "Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融服务",
+      "name_en": "Financial Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政银合作",
+      "name_en": "Government-Bank Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "西藏发展",
+      "name_en": "Tibet Development"
+    },
+    {
+      "kind": "person",
+      "id": "hu-changsheng",
+      "name_zh": "胡昌升",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "嘎玛泽登",
+    "张辉",
+    "中国银行",
+    "拉萨",
+    "金融服务",
+    "政银合作",
+    "西藏发展",
+    "胡昌升"
+  ],
+  "tags_en": [
+    "Gama Zedeng",
+    "Zhang Hui",
+    "Bank of China",
+    "Lhasa",
+    "Financial Services",
+    "Government-Bank Cooperation",
+    "Tibet Development"
+  ],
+  "entities": {
+    "politicians": [
+      "gama-cedain",
+      "gama-zedeng",
+      "hu-changsheng",
+      {
+        "id": null,
+        "name_zh": "李宏军"
+      },
+      {
+        "id": null,
+        "name_zh": "谢他"
+      }
+    ],
+    "institutions": [
+      "BOC"
+    ],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261125-gov_lin_zhi-9bb6a5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

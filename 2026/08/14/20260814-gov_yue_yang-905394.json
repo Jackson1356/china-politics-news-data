@@ -1,0 +1,104 @@
+{
+  "id": "20260814-gov_yue_yang-905394",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2393756.html",
+  "title_zh": "唐浩然与五凌电力总经理谭本刚、湖南盐业集团总经理陈伟一行座谈",
+  "title_en": "Tang Haoran Holds Talks with Executives of Wuling Power and Hunan Salt Industry Group",
+  "summary_zh": "8月13日，岳阳市代市长唐浩然与五凌电力、湖南盐业集团负责人座谈，就新能源开发、废盐利用等深化合作。",
+  "summary_en": "On August 13, Yueyang's acting mayor Tang Haoran met with executives of Wuling Power and Hunan Salt Industry Group to deepen cooperation on new energy and salt utilization.",
+  "body_zh": "8月13日，市委副书记、代理市长唐浩然与五凌电力总经理谭本刚、湖南盐业集团总经理陈伟一行座谈。\n唐浩然代表市委、市政府对谭本刚、陈伟一行来岳考察表示欢迎，对五凌电力、湖南盐业长期支持岳阳经济社会发展表示感谢。他说，当前岳阳正深入贯彻落实党中央决策部署和省委、省政府工作要求，积极服务和融入国家重大战略，加快构建“1+3+X”现代化产业体系。希望五凌电力、湖南盐业进一步发挥优势，与岳阳在新能源开发、废盐综合利用一体化、绿电直连耦合、氢基能源布局等方面深化合作，共同打造更多示范成果，实现共赢发展。\n谭本刚、陈伟分别介绍了在岳项目合作情况及投资意向，并表示，将与岳阳加强对接、双向赋能，加快合作事项落地转化，为岳阳产业转型升级、绿色低碳发展注入强劲动能。\n副市长段宁，市政府秘书长孙志诚参加。",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-13",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "economy",
+  "keywords": [
+    "新能源开发",
+    "产业合作",
+    "绿色低碳"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "唐浩然",
+      "name_en": "Tang Haoran"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源开发",
+      "name_en": "New Energy Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳",
+      "name_en": "Green and Low-Carbon"
+    },
+    {
+      "kind": "person",
+      "id": "chen-wei-jiaxing",
+      "name_zh": "陈伟",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "唐浩然",
+    "岳阳",
+    "新能源开发",
+    "产业合作",
+    "绿色低碳",
+    "陈伟"
+  ],
+  "tags_en": [
+    "Tang Haoran",
+    "Yueyang",
+    "New Energy Development",
+    "Industrial Cooperation",
+    "Green and Low-Carbon"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-wei-jiaxing",
+      {
+        "id": null,
+        "name_zh": "孙志诚"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260814-gov_yue_yang-905394",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

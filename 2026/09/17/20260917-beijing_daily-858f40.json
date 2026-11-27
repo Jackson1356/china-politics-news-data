@@ -1,0 +1,98 @@
+{
+  "id": "20260917-beijing_daily-858f40",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/09/17/11962676.shtml",
+  "title_zh": "外交部：在“一国两制”下，香港的国际金融、航运、贸易中心地位持续巩固",
+  "title_en": "Foreign Ministry: Under \"One Country, Two Systems,\" Hong Kong's Status as an International Financial, Shipping and Trade Hub Keeps Consolidating",
+  "summary_zh": "9月17日，外交部发言人郭嘉昆在例行记者会上表示，“一国两制”下香港经济蓬勃发展，今年上半年港股IPO融资额达2033亿港元，位居全球第二。",
+  "summary_en": "On September 17, Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing that Hong Kong's economy is thriving under \"One Country, Two Systems,\" with IPO fundraising of HK$203.3 billion in the first half of the year, second globally.",
+  "body_zh": "9月17日，外交部发言人郭嘉昆主持例行记者会。\n郭嘉昆表示，在“一国两制”下，香港经济蓬勃发展，国际金融、航运、贸易中心地位持续巩固。今年上半年，港股市场IPO融资额高达2033亿港元，位居全球第二。有关报告又一次充分肯定香港作为国际金融中心的强劲吸引力、影响力和竞争力。这是国际社会对香港独特地位和优势以及“一国两制”发展前景投下的又一张信任票。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-09-17T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-17T09:25:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "一国两制",
+    "国际金融中心",
+    "港股IPO融资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HK",
+      "name_zh": "香港",
+      "name_en": "Hong Kong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际金融中心",
+      "name_en": "International Financial Center"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港股IPO融资",
+      "name_en": "Hong Kong IPO Fundraising"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "香港",
+    "一国两制",
+    "国际金融中心",
+    "港股IPO融资"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Hong Kong",
+    "One Country, Two Systems",
+    "International Financial Center",
+    "Hong Kong IPO Fundraising"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-HK"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260917-beijing_daily-858f40",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

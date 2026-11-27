@@ -1,0 +1,84 @@
+{
+  "id": "20260805-peoples_hlj-632b2e",
+  "source": "peoples_hlj",
+  "source_name_zh": "人民网 黑龙江",
+  "source_name_en": "People's Daily Heilongjiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hlj.people.com.cn/n2/2026/0805/c220005-41659111.html",
+  "title_zh": "许勤督导检查哈尔滨市内涝应急处置工作",
+  "title_en": "Xu Qin Supervises Harbin's Waterlogging Emergency Response",
+  "summary_zh": "8月4日下午哈尔滨遭强降雨出现内涝，当晚省委书记许勤赴市城市防内涝指挥调度中心和道里区河松街积水现场督导检查，慰问一线人员。",
+  "summary_en": "Xu Qin inspected Harbin's waterlogging response on Aug 4 evening after heavy rains, visiting the command center and a Daoli district site to direct work and comfort staff.",
+  "body_zh": "许勤督导检查哈尔滨市内涝应急处置工作\n8月4日下午，哈尔滨市遭遇短时极端强降雨，城区部分路段、低洼区域、老旧小区出现积水内涝，市区两级闻令而动，公安、住建、城管、社区、交通、交警等部门单位迅速响应、有效应对。当晚，省委书记许勤来到哈尔滨市城市防内涝指挥调度中心，了解本轮降雨和积水点位以及排涝情况，来到道里区河松街积水部位现场踏查调度，对一线值守和抢险人员表示慰问。\n许勤来到哈尔滨市城市防内涝指挥调度中心，了解本轮降雨和积水点位以及排涝情况。\n许勤来到哈尔滨市道里区河松街积水部位现场踏查调度，对一线值守和抢险人员表示慰问。\n省领导于洪涛、徐向国、丛丽，哈尔滨市有关领导，省和哈尔滨市住建、应急、水利以及水务集团等相关部门单位负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-05T06:57:26Z",
+  "topic": "welfare",
+  "keywords": [
+    "城市内涝",
+    "应急处置"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-qin",
+      "name_zh": "许勤",
+      "name_en": "Xu Qin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL-HRB",
+      "name_zh": "哈尔滨",
+      "name_en": "Harbin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市内涝",
+      "name_en": "Urban Waterlogging"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急处置",
+      "name_en": "Emergency Response"
+    }
+  ],
+  "tags_zh": [
+    "许勤",
+    "哈尔滨",
+    "城市内涝",
+    "应急处置"
+  ],
+  "tags_en": [
+    "Xu Qin",
+    "Harbin",
+    "Urban Waterlogging",
+    "Emergency Response"
+  ],
+  "entities": {
+    "politicians": [
+      "xu-qin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HL-HRB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260805-peoples_hlj-632b2e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

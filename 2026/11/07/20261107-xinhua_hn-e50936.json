@@ -1,0 +1,111 @@
+{
+  "id": "20261107-xinhua_hn-e50936",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hn.news.cn/20261107/a706462a1acd4d62a0f1374949e4b0b0/c.html",
+  "title_zh": "第二十七届中国中部（湖南）农业博览会在长沙开幕",
+  "title_en": "27th China Central (Hunan) Agricultural Expo Opens in Changsha",
+  "summary_zh": "11月6日，第二十七届中国中部（湖南）农业博览会在长沙国际会展中心开幕，湖南省委副书记靳伟出席并宣布开幕，马达加斯加农业和粮食主权部部长致辞。",
+  "summary_en": "On Nov 6, the 27th China Central (Hunan) Agricultural Expo opened in Changsha, with Hunan Deputy Party Secretary Jin Wei declaring it open and Madagascar's agriculture minister delivering remarks.",
+  "body_zh": "第二十七届中国中部（湖南）农业博览会在长沙开幕\n靳伟出席并宣布开幕\n湖南日报11月6日讯（全媒体记者 李毅）6日上午，第二十七届中国中部（湖南）农业博览会开幕式在长沙国际会展中心举行。省委副书记靳伟出席并宣布展会开幕。马达加斯加农业和粮食主权部部长拉明杜·加埃坦出席并致辞。中国农产品市场协会会长李敬辉、省人大常委会副主任陈飞、省政协副主席肖百灵出席。\n开幕式前，与会嘉宾一同巡看展馆，了解农业装备、产品展销及协作帮扶相关情况。\n开幕式上，中国工程院院士罗锡文、柏连阳等嘉宾，围绕智慧农业研究和实践、杂交水稻技术革新与产业化实践等主题作主旨演讲。\n本届农博会以“科技引领、品牌赋能，助力乡村全面振兴”为主题，为期4天，展览面积8万平方米，设6个展馆，3500多家企业参展，展出产品3万余种。展会邀请马达加斯加担任主宾国，越南、泰国、马来西亚、缅甸等多国组团参展。期间还将举办2026农业现代化与产业振兴大会、同纬度地区柑橘新品种展示暨产业对接会、湖南农业产业招商引资大会、2026湘菜食材产业链博览会等20余场专题活动。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "industry",
+  "keywords": [
+    "农业博览会",
+    "乡村振兴",
+    "智慧农业",
+    "农业现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jin-wei",
+      "name_zh": "靳伟",
+      "name_en": "Jin Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-CS",
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业博览会",
+      "name_en": "Agricultural Expo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧农业",
+      "name_en": "Smart Agriculture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业现代化",
+      "name_en": "Agricultural Modernization"
+    }
+  ],
+  "tags_zh": [
+    "靳伟",
+    "长沙",
+    "湖南",
+    "农业博览会",
+    "乡村振兴",
+    "智慧农业",
+    "农业现代化"
+  ],
+  "tags_en": [
+    "Jin Wei",
+    "Changsha",
+    "Hunan",
+    "Agricultural Expo",
+    "Rural Revitalization",
+    "Smart Agriculture",
+    "Agricultural Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "jin-wei"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-CS",
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-xinhua_hn-e50936",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

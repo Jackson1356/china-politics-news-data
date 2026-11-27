@@ -1,0 +1,81 @@
+{
+  "id": "20260627-xinhua_zj-24c437",
+  "source": "xinhua_zj",
+  "source_name_zh": "新华网 浙江",
+  "source_name_en": "Xinhua Zhejiang",
+  "source_url": "http://zj.news.cn/20260627/8a19679a42aa45d7a53fd3c2b13178bf/c.html",
+  "title_zh": "我国科研团队发布海洋关键材料AI科研助手",
+  "title_en": "Chinese Research Team Releases AI Assistant for Key Marine Materials",
+  "summary_zh": "中国科学院宁波材料所与文献情报中心于26日联合发布“MarineMat AI”海洋关键材料AI科研助手，旨在为海洋关键材料研发提供智能化支撑。",
+  "summary_en": "The Ningbo Institute of Materials Technology and Engineering and the National Science Library of the Chinese Academy of Sciences jointly released 'MarineMat AI' on the 26th to provide intelligent support for marine materials research.",
+  "body_zh": "中国科学院宁波材料技术与工程研究所与中国科学院文献情报中心26日联合对外发布“MarineMat AI”海洋关键材料AI科研助手。这一平台旨在以人工智能技术打通文献、数据与知识之间的连接，为海洋关键材料研发提供智能化支撑。\n据介绍，海洋关键材料研发长期面临研发周期长、文献信息分散等瓶颈。一种新材料从实验室到工程应用，动辄耗费数年时间，而大量已有研究成果散落在海量文献中，科研人员查阅特定配方的背景和性能参数，常常需要在大量论文中逐一筛选。\n针对上述痛点，MarineMat AI着力打造知识问答、材料检索和性能对比三个核心功能模块。宁波材料所研究员、海洋关键材料全国重点实验室副主任常可可介绍，知识问答模块对论文进行深度处理，将文献信息转化为结构化问答对，能精准定位与问题相关的论文并给出有针对性回答，每条回答均附有来源出处；材料检索模块集成多元化查询方式，锁定相关材料后可得到经结构化梳理的核心信息与数据摘要，对于需要深入考证的内容可一键跳转至原文具体表述；性能对比模块将不同来源文献的同类性能参数映射至相同单位并进行标准化处理，支持按性能类型和取值排序筛选，帮助科研人员快速锁定特定性能最优的候选材料。\nMarineMat AI的发布是宁波材料所与文献情报中心长期合作的重要成果。宁波材料所在海洋关键材料领域深耕多年，拥有全国重点实验室等重要平台支撑；文献情报中心则在数据挖掘、知识服务及AI4S知识底座建设方面具备深厚技术积累。\n据悉，平台目前主要聚焦于耐磨耐蚀金属陶瓷复合材料体系，这是深海钻探装备关键部件的重要支撑方向之一。接下来，MarineMat AI将持续迭代升级，逐步整合涵盖长效防腐有机复合涂料、高性能无机防护涂层在内的多元数据资源，着力构建推理分析能力更强、功能更加完备的智能体，从“能查会搜”走向“能思考、会建议”。（记者许舜达）",
+  "image_url": null,
+  "published_at": "2026-06-27T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "海洋关键材料"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国科学院宁波材料技术与工程研究所",
+      "name_en": "Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "宁波",
+      "name_en": "Ningbo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋关键材料",
+      "name_en": "Key Marine Materials"
+    }
+  ],
+  "tags_zh": [
+    "中国科学院宁波材料技术与工程研究所",
+    "宁波",
+    "人工智能",
+    "海洋关键材料"
+  ],
+  "tags_en": [
+    "Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences",
+    "Ningbo",
+    "Artificial Intelligence",
+    "Key Marine Materials"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国科学院宁波材料技术与工程研究所",
+        "name_en": "Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260627-xinhua_zj-24c437",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

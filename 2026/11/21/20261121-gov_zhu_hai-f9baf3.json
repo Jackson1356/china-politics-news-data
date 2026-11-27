@@ -1,0 +1,112 @@
+{
+  "id": "20261121-gov_zhu_hai-f9baf3",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3961207.html",
+  "title_zh": "珠海市十届人大常委会主任会议召开 决定常委会第五十一次会议11月30日召开",
+  "title_en": "Zhuhai Municipal People's Congress Standing Committee Chairs' Meeting Decides Nov 30 Session",
+  "summary_zh": "11月20日上午，珠海市人大常委会主任潘江主持第127次主任会议，决定市十届人大常委会第五十一次会议于11月30日召开，议程含预算调整、工作评议及人事事项。",
+  "summary_en": "On the morning of Nov 20, Zhuhai Municipal People's Congress Standing Committee Director Pan Jiang chaired the 127th chairs' meeting, deciding the 51st standing committee session will open on Nov 30 to review budget adjustments, departmental performance evaluations and personnel matters.",
+  "body_zh": "市十届人大常委会主任会议召开 决定市十届人大常委会第五十一次会议于11月30日召开\n11月20日上午，市十届人大常委会第127次主任会议在香洲召开。市人大常委会主任潘江主持会议。\n会议决定，市十届人大常委会第五十一次会议于11月30日召开，会期一天。建议议程：传达学习习近平总书记在党的二十届五中全会上的重要讲话和全会精神、习近平总书记视察广东和出席亚太经合组织第三十三次领导人非正式会议及相关活动重要讲话重要指示精神；听取和审议市人民政府关于珠海市2026年市本级第二次预算调整方案的报告，审查和批准2026年市本级第二次预算调整方案；听取和审议市人民政府关于珠海市2026年市政府投资项目计划调整方案的报告，批准2026年市政府投资项目计划调整方案；听取和审议市科技创新局、市工业和信息化局、市自然资源局、市交通运输局、市农业农村局、市文化广电旅游体育局工作情况的报告，开展工作评议及满意度测评；审议有关人事事项；听取和审议珠海市第十届人民代表大会常务委员会代表资格审查委员会关于个别代表资格审查的报告等。\n市人大常委会副主任赵建国、吕红珍、潘伟明出席会议。",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "party",
+  "keywords": [
+    "预算调整",
+    "人大监督",
+    "工作评议"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预算调整",
+      "name_en": "Budget Adjustment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "Congressional Oversight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工作评议",
+      "name_en": "Performance Evaluation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "珠海",
+    "预算调整",
+    "人大监督",
+    "工作评议",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhuhai",
+    "Budget Adjustment",
+    "Congressional Oversight",
+    "Performance Evaluation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "潘伟明"
+      },
+      {
+        "id": null,
+        "name_zh": "任会议"
+      },
+      {
+        "id": null,
+        "name_zh": "任潘江"
+      },
+      {
+        "id": null,
+        "name_zh": "方案"
+      },
+      {
+        "id": null,
+        "name_zh": "潘江"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261121-gov_zhu_hai-f9baf3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

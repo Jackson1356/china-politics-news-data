@@ -1,0 +1,114 @@
+{
+  "id": "20261126-xinhua_tj-224fae",
+  "source": "xinhua_tj",
+  "source_name_zh": "新华网 天津",
+  "source_name_en": "Xinhua Tianjin",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://tj.news.cn/20261126/5607136a990244ee9c5004e13d51cd24/c.html",
+  "title_zh": "张工会见联想集团董事长杨元庆",
+  "title_en": "Tianjin Mayor Zhang Gong Meets Lenovo Chairman Yang Yuanqing",
+  "summary_zh": "11月25日上午，天津市市长张工在迎宾馆会见联想集团董事长兼CEO杨元庆，双方就深化技术研发、产业链配套与算力产业合作达成共识。",
+  "summary_en": "On the morning of Nov 25, Tianjin Mayor Zhang Gong met Lenovo Chairman and CEO Yang Yuanqing in Tianjin, with both sides agreeing to deepen cooperation in R&D, industrial chain support and computing power.",
+  "body_zh": "11月25日上午，市委副书记、市长张工在迎宾馆会见联想集团董事长兼CEO杨元庆一行。\n张工说，近年来，我们深入贯彻落实习近平总书记视察天津重要讲话精神，推动科技创新和产业创新深度融合，加快发展壮大新质生产力。联想集团是天津重要战略合作伙伴，在津布局持续拓展，增长动力强劲，为区域发展作出积极贡献。希望以高性能服务器产线落成、超节点服务器项目启动为新起点，进一步深化双方在技术研发、产品布局、要素导入、产业链招商等领域合作，携手做大产业集群，实现共赢发展。\n杨元庆表示，联想集团将加快新项目建设，发挥天津工厂智能化、绿色化优势，不断提升产业能级，积极拓展算力产品研发、产业体系配套等方面合作，助推天津高质量发展。\n联想集团有关负责人，副市长翟立新、王秀峰和市政府党组成员陈宇参加。（记者 周志强 佟迎宾）",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "economy",
+  "keywords": [
+    "新质生产力",
+    "科技创新与产业创新融合",
+    "算力产业",
+    "产业链合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-gong",
+      "name_zh": "张工",
+      "name_en": "Zhang Gong"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨元庆",
+      "name_en": "Yang Yuanqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新与产业创新融合",
+      "name_en": "Integration of Technological and Industrial Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力产业",
+      "name_en": "Computing Power Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业链合作",
+      "name_en": "Industrial Chain Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "张工",
+    "杨元庆",
+    "天津",
+    "新质生产力",
+    "科技创新与产业创新融合",
+    "算力产业",
+    "产业链合作"
+  ],
+  "tags_en": [
+    "Zhang Gong",
+    "Yang Yuanqing",
+    "Tianjin",
+    "New Quality Productive Forces",
+    "Integration of Technological and Industrial Innovation",
+    "Computing Power Industry",
+    "Industrial Chain Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-gong",
+      {
+        "id": null,
+        "name_zh": "杨元庆"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-xinhua_tj-224fae",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

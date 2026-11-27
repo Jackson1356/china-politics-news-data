@@ -1,0 +1,109 @@
+{
+  "id": "20261127-beijing_daily-359b21",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/27/90095492.shtml",
+  "title_zh": "陈健辞去北京市监察委员会主任职务",
+  "title_en": "Chen Jian Resigns as Director of Beijing Municipal Supervisory Commission",
+  "summary_zh": "11月27日，北京市十六届人大常委会第二十七次会议接受陈健因工作变动辞去北京市监察委员会主任职务的请求，并报市人民代表大会备案。",
+  "summary_en": "On November 27, the 27th session of the 16th Beijing Municipal People's Congress Standing Committee accepted Chen Jian's resignation as director of the Beijing Municipal Supervisory Commission due to a change in work assignment, to be reported to the municipal people's congress for the record.",
+  "body_zh": "根据陈健同志请求，依照地方组织法和北京市人大常委会任免国家机关工作人员条例规定，11月27日下午，市十六届人大常委会第二十七次会议决定：接受陈健因工作变动辞去北京市监察委员会主任职务的请求，并报北京市人民代表大会备案。（北京日报社原创新闻作品）\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-27",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "纪检监察"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-jian-beijing",
+      "name_zh": "陈健",
+      "name_en": "Chen Jian"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市人大常委会",
+      "name_en": "Standing Committee of the Beijing Municipal People's Congress"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "北京市监察委员会",
+      "name_en": "Beijing Municipal Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪检监察",
+      "name_en": "Discipline Inspection and Supervision"
+    }
+  ],
+  "tags_zh": [
+    "陈健",
+    "北京市人大常委会",
+    "北京市监察委员会",
+    "北京",
+    "人事任免",
+    "纪检监察"
+  ],
+  "tags_en": [
+    "Chen Jian",
+    "Standing Committee of the Beijing Municipal People's Congress",
+    "Beijing Municipal Supervisory Commission",
+    "Beijing",
+    "Personnel Appointment and Removal",
+    "Discipline Inspection and Supervision"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-jian-beijing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "北京市人大常委会",
+        "name_en": "Standing Committee of the Beijing Municipal People's Congress"
+      },
+      {
+        "name_zh": "北京市监察委员会",
+        "name_en": "Beijing Municipal Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261127-beijing_daily-359b21",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

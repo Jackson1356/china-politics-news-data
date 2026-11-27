@@ -1,0 +1,95 @@
+{
+  "id": "20260815-xinhua_leaders-594e34",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260815/130b782918c448b9ae0d954e07b12c4e/c.html",
+  "title_zh": "学习新语｜绿色承诺一以贯之",
+  "title_en": "Unwavering Green Commitment",
+  "summary_zh": "8月15日是第四个全国生态日，生态环境法典正式实施。习近平生态文明思想引领我国生态文明建设取得历史性成就。",
+  "summary_en": "August 15 marks the fourth National Ecology Day and the official implementation of the Ecological Environment Code. Xi Jinping's thought on ecological civilization has led historic achievements in China's ecological progress.",
+  "body_zh": "今年8月15日是第四个全国生态日，也是生态环境法典正式实施的日子。\n建设生态文明，关系人民福祉，关乎民族未来。2005年8月15日，时任浙江省委书记习近平同志来到安吉余村考察调研，首次提出“绿水青山就是金山银山”科学论断。党的十八大以来，习近平生态文明思想凝聚起保护生态环境、践行绿色发展的强大共识与行动自觉，引领推动我国生态文明建设发生历史性、转折性、全局性变化，一幅天蓝地绿水清的美丽中国画卷生动铺展。\n统筹：黄庆华 周年钧\n编导/制作：胡碧霞 吴斯洋\n新华社新媒体中心制作\n新华社出品",
+  "image_url": null,
+  "published_at": "2026-08-15T12:00:00+00:00",
+  "event_date": "2026-08-15",
+  "ingested_at": "2026-08-15T04:45:31Z",
+  "topic": "economy",
+  "keywords": [
+    "生态文明",
+    "绿色发展",
+    "全国生态日"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态文明",
+      "name_en": "Ecological Civilization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色发展",
+      "name_en": "Green Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全国生态日",
+      "name_en": "National Ecology Day"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "生态文明",
+    "绿色发展",
+    "全国生态日"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Ecological Civilization",
+    "Green Development",
+    "National Ecology Day"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "余村"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260815-xinhua_leaders-594e34",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "legaldaily",
+      "source_tier": 5,
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-08/15/content_9441373.html",
+      "title_zh": "学习新语｜绿色承诺一以贯之",
+      "published_at": "2026-08-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

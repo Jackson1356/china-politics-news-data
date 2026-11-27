@@ -1,0 +1,108 @@
+{
+  "id": "20261110-gov_cn_yaowen-0fec12",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/10/VIDEJxUmyIpsVaaGevxoMvgO261110.shtml",
+  "title_zh": "习近平同志《论减贫脱贫》出版发行",
+  "title_en": "Xi Jinping's Collected Writings on Poverty Reduction Published",
+  "summary_zh": "中共中央党史和文献研究院编辑的习近平同志《论减贫脱贫》近日由中央文献出版社出版，在全国发行，收入重要文稿55篇。",
+  "summary_en": "Edited by the Institute of Party History and Literature of the CPC Central Committee, Xi Jinping's collected writings on poverty alleviation have been published by the Central Literature Publishing House and distributed nationwide, containing 55 key texts.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：中共中央党史和文献研究院编辑的习近平同志《论减贫脱贫》，近日由中央文献出版社出版，在全国发行。\n这部专题文集，收入习近平同志关于减贫脱贫的重要文稿55篇，其中部分文稿是首次公开发表。\n消除贫困，是人类共同理想。消除贫困、改善民生、实现共同富裕，是中国特色社会主义的本质要求，是中国共产党的重要使命。党的十八大以来，以习近平同志为核心的党中央把脱贫攻坚摆在治国理政的突出位置，作为全面建成小康社会的底线任务，组织开展声势浩大的脱贫攻坚战并取得全面胜利，完成消除绝对贫困的艰巨任务，创造了人类减贫史上的奇迹，走出了一条中国特色减贫道路，形成了中国特色反贫困理论。习近平同志围绕减贫脱贫发表的一系列重要论述，立足我国国情，把握减贫规律，是我国脱贫攻坚的理论结晶，是马克思主义反贫困理论中国化最新成果，对于巩固拓展脱贫攻坚成果、全面推进乡村振兴，推动实现全体人民共同富裕的现代化，携手建设远离贫困、共同繁荣的美好世界，具有十分重要的指导意义。",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "减贫脱贫",
+    "共同富裕",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CIPL",
+      "name_zh": "中共中央党史和文献研究院",
+      "name_en": "Institute of Party History and Literature of the CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "减贫脱贫",
+      "name_en": "Poverty Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "共同富裕",
+      "name_en": "Common Prosperity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央党史和文献研究院",
+    "减贫脱贫",
+    "共同富裕",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Institute of Party History and Literature of the CPC Central Committee",
+    "Poverty Reduction",
+    "Common Prosperity",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CIPL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261110-gov_cn_yaowen-0fec12",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_bao_ji",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085657.htm",
+      "title_zh": "习近平同志《论减贫脱贫》出版发行",
+      "published_at": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/1111/c64387-40831719.html",
+      "title_zh": "习近平同志《论减贫脱贫》出版发行",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

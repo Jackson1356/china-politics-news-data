@@ -1,0 +1,93 @@
+{
+  "id": "20261120-xinhua_politics-40591b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261120/234c1ff1bc7c40a79f5ff8bb4f992ab2/c.html",
+  "title_zh": "我国电动汽车充电基础设施（枪）总数达2539.1万个",
+  "title_en": "China's EV Charging Infrastructure Total Reaches 25.39 Million Units",
+  "summary_zh": "国家能源局11月20日发布数据，截至2026年10月底，全国电动汽车充电基础设施（枪）总数达2539.1万个，同比增长36.2%。",
+  "summary_en": "The National Energy Administration said on Nov 20 that China's EV charging points totaled 25.39 million units by the end of October 2026, up 36.2 percent year on year.",
+  "body_zh": "新华社北京11月20日电 国家能源局20日发布数据显示，根据国家充电设施监测服务平台数据，截至2026年10月底，我国电动汽车充电基础设施（枪）总数达到2539.1万个，同比增长36.2%。\n其中，公共充电设施（枪）528.3万个，同比增长16.5%，额定总功率达到2.71亿千瓦，单枪平均功率约为51.37千瓦；私人充电设施（枪）2010.8万个，同比增长42.5%，私人充电设施报装用电容量达到1.71亿千伏安。\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "industry",
+  "keywords": [
+    "充电基础设施",
+    "新能源汽车",
+    "新型基础设施"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NEA",
+      "name_zh": "国家能源局",
+      "name_en": "National Energy Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "充电基础设施",
+      "name_en": "Charging Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型基础设施",
+      "name_en": "New Infrastructure"
+    }
+  ],
+  "tags_zh": [
+    "国家能源局",
+    "北京",
+    "充电基础设施",
+    "新能源汽车",
+    "新型基础设施"
+  ],
+  "tags_en": [
+    "National Energy Administration",
+    "Beijing",
+    "Charging Infrastructure",
+    "New Energy Vehicles",
+    "New Infrastructure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NEA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261120-xinhua_politics-40591b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

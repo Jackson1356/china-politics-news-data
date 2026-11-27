@@ -1,0 +1,114 @@
+{
+  "id": "20261122-gov_cn_yaowen-dbadf7",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087010.htm",
+  "title_zh": "加强能源保供 全力保障群众温暖过冬",
+  "title_en": "Strengthening Energy Supply to Ensure a Warm Winter for Residents",
+  "summary_zh": "11月以来北方全面开启冬季供暖，山东海阳核电余热、内蒙古煤炭增产、新疆煤炭外运与天然气资源落实协同发力，保障群众温暖过冬。",
+  "summary_en": "Northern China has fully started winter heating since November, with nuclear waste heat in Shandong, expanded coal output in Inner Mongolia, rail transport from Xinjiang and over 200 billion cubic meters of natural gas combining to keep residents warm.",
+  "body_zh": "我国北方地区已经全面开启冬季供暖，煤炭、天然气以及清洁电能等能源供应协同发力，全力保障群众温暖过冬。\n早晨8点多，在山东海阳核电供热站，值班人员正根据室外温度调整供热参数，将核电回收的余热通过热水管道送往烟台、威海两地，保障40万居民冬季采暖。\n作为冬季供暖主力，煤炭产能也在加快释放。在内蒙古鄂尔多斯神东煤炭生产基地，19座煤矿正开足马力组织生产，10月以来产量已达2700万吨。与此同时，国家加大新疆煤炭外运力度，目前每日开行疆煤外运列车达80列。为了提高运煤效率，很多列车采取长编组方式运行。\n最新数据显示，截至11月18日，环渤海港口存煤达到2803万吨，比去年同期增加54万吨。记者从国家发展改革委了解到，今冬供暖季，全国已落实天然气资源超2000亿立方米，储气能力和管网调峰能力较上年都进一步提升。",
+  "image_url": null,
+  "published_at": "2026-11-22T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "economy",
+  "keywords": [
+    "能源保供",
+    "冬季供暖",
+    "煤炭产能",
+    "天然气供应"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源保供",
+      "name_en": "Energy Supply"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "冬季供暖",
+      "name_en": "Winter Heating"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "煤炭产能",
+      "name_en": "Coal Production Capacity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "天然气供应",
+      "name_en": "Natural Gas Supply"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "山东",
+    "内蒙古",
+    "能源保供",
+    "冬季供暖",
+    "煤炭产能",
+    "天然气供应"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Shandong",
+    "Inner Mongolia",
+    "Energy Supply",
+    "Winter Heating",
+    "Coal Production Capacity",
+    "Natural Gas Supply"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD",
+      "CN-NM"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261122-gov_cn_yaowen-dbadf7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

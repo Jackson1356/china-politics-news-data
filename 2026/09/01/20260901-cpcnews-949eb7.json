@@ -1,0 +1,111 @@
+{
+  "id": "20260901-cpcnews-949eb7",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0901/c64094-40789966.html",
+  "title_zh": "王沪宁会见奥地利国民议会议长罗森克兰茨",
+  "title_en": "Wang Huning Meets Austrian National Council President Rosenkranz",
+  "summary_zh": "全国政协主席王沪宁8月31日在北京会见奥地利国民议会议长罗森克兰茨，双方就深化中奥友好战略伙伴关系交换意见。",
+  "summary_en": "Wang Huning, chairman of the CPPCC National Committee, met with Austrian National Council President Rosenkranz in Beijing on August 31 to discuss deepening the China-Austria friendly strategic partnership.",
+  "body_zh": "新华社北京8月31日电 全国政协主席王沪宁31日在京会见奥地利国民议会议长罗森克兰茨。\n王沪宁表示，2018年，习近平主席同访华的范德贝伦总统共同确立中奥友好战略伙伴关系，开启两国关系新篇章。双方要以建交55周年为契机，落实两国领导人重要共识，密切高层交往，巩固政治互信，深化务实合作，加强人文交流，更好造福两国人民。中国全国政协愿同奥方加强友好交往，为深化中奥关系添砖加瓦。\n罗森克兰茨表示，奥中两国都具有悠久历史和文化。建交55年来，双方坚持相互平等，两国友谊不断深化。近年来，奥中高层交往密切，这是两国关系深入发展的积极信号。奥地利坚持一个中国政策，愿加强双方务实合作，推动奥中友好战略伙伴关系取得新发展。\n王东峰等参加会见。\n《 人民日报 》（ 2026年09月01日 03 版）",
+  "image_url": null,
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-09-01T09:20:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "中奥关系",
+    "友好合作",
+    "高层交往"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-huning",
+      "name_zh": "王沪宁",
+      "name_en": "Wang Huning"
+    },
+    {
+      "kind": "institution",
+      "id": "CPPCC",
+      "name_zh": "全国政协",
+      "name_en": "CPPCC National Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中奥关系",
+      "name_en": "China-Austria Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "友好合作",
+      "name_en": "Friendly Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层交往",
+      "name_en": "High-level Exchanges"
+    },
+    {
+      "kind": "person",
+      "id": "wang-dongfeng",
+      "name_zh": "王东峰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王沪宁",
+    "全国政协",
+    "北京",
+    "中奥关系",
+    "友好合作",
+    "高层交往",
+    "王东峰"
+  ],
+  "tags_en": [
+    "Wang Huning",
+    "CPPCC National Committee",
+    "Beijing",
+    "China-Austria Relations",
+    "Friendly Cooperation",
+    "High-level Exchanges"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-huning",
+      "wang-dongfeng"
+    ],
+    "institutions": [
+      "CPPCC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260901-cpcnews-949eb7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

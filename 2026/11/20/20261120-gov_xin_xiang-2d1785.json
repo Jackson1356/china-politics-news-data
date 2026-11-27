@@ -1,0 +1,90 @@
+{
+  "id": "20261120-gov_xin_xiang-2d1785",
+  "source": "gov_xin_xiang",
+  "source_name_zh": "新乡市政府网",
+  "source_name_en": "新乡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xin_xiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HA",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xinxiang.gov.cn/zwzx/jrxx/10776339.html",
+  "title_zh": "新乡市政府第84次常务会议召开",
+  "title_en": "Xinxiang Municipal Government Holds 84th Executive Meeting",
+  "summary_zh": "11月19日，新乡市市长陈维忠主持召开市政府第84次常务会议，传达学习习近平总书记近期重要讲话重要指示精神，部署黄河流域生态保护、产业发展和群众身边不正之风整治等工作。",
+  "summary_en": "On Nov 19, Mayor Chen Weizhong chaired the 84th executive meeting of the Xinxiang Municipal Government, deploying Yellow River ecological protection, industrial development and corruption rectification.",
+  "body_zh": "市政府第84次常务会议召开\n11月19日，市长陈维忠主持召开市政府第84次常务会议，传达学习习近平总书记近期重要讲话重要指示精神，深入学习贯彻习近平总书记关于黄河流域生态保护和高质量发展的重要论述、对进一步做好黄河保护治理工作的重要指示，强调要牢牢把握“重在保护、要在治理”战略要求，持续加强生态环境保护，提升防灾减灾能力，强化水资源节约集约利用，大力传承弘扬黄河文化，让母亲河在新时代焕发新活力，持续造福牧野儿女。\n会议指出，要认真贯彻落实省第十二次党代会部署，按照省委副书记、代省长王陆进莅新调研要求，切实抓好中原农谷建设、科技创新、产业发展、黄河保护治理、污染防治、安全生产等工作，推动全市经济社会发展再上新台阶。\n会议听取群众身边不正之风和腐败问题集中整治工作汇报，强调要纵深推进“4+3”整治项目和“10+3”民生实事，打好打赢集中整治收官战，确保整治成果真正惠及群众、取信于民。\n会议还研究了其他事项。\n市领导陈红阳、刘兵、张艳华、杜玉坤、李海潮、时博、丁雷敏，市政府秘书长王志勇出席会议。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "economy",
+  "keywords": [
+    "黄河流域生态保护",
+    "产业发展",
+    "群众身边不正之风和腐败问题整治"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河流域生态保护",
+      "name_en": "Yellow River Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业发展",
+      "name_en": "Industrial Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "群众身边不正之风和腐败问题整治",
+      "name_en": "Rectification of Corruption Around the Public"
+    },
+    {
+      "kind": "person",
+      "id": "wang-lujin",
+      "name_zh": "王陆进",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄河流域生态保护",
+    "产业发展",
+    "群众身边不正之风和腐败问题整治",
+    "王陆进"
+  ],
+  "tags_en": [
+    "Yellow River Ecological Protection",
+    "Industrial Development",
+    "Rectification of Corruption Around the Public"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-lujin",
+      {
+        "id": null,
+        "name_zh": "王志勇"
+      },
+      {
+        "id": null,
+        "name_zh": "陈维忠"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261120-gov_xin_xiang-2d1785",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

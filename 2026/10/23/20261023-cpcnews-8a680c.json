@@ -1,0 +1,110 @@
+{
+  "id": "20261023-cpcnews-8a680c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1023/c64094-40820113.html",
+  "title_zh": "陈文清会见俄罗斯联邦最高法院院长克拉斯诺夫",
+  "title_en": "Chen Wenqing Meets Russian Supreme Court President Krasnov",
+  "summary_zh": "10月22日，中共中央政治局委员、中央政法委书记陈文清在北京会见俄罗斯联邦最高法院院长克拉斯诺夫，双方就深化司法交流合作、加强人工智能司法应用等交换意见。",
+  "summary_en": "On Oct 22, Chen Wenqing, Politburo member and head of the Political and Legal Affairs Commission, met in Beijing with Krasnov, President of the Russian Supreme Court, to discuss deeper judicial cooperation including AI applications in courts.",
+  "body_zh": "新华社北京10月22日电 中共中央政治局委员、中央政法委书记陈文清22日在京会见俄罗斯联邦最高法院院长克拉斯诺夫。\n陈文清指出，今年是中俄战略协作伙伴关系建立30周年，两国元首就新形势下深化各领域合作达成共识。希望双方落实两国元首重要共识，加强法官教育培训、人工智能司法应用等交流合作，提升跨境司法协助质效，强化多边法治平台协作，为两国发展提供法治保障。\n克拉斯诺夫表示，愿深化两国司法交流合作，服务俄中关系高水平发展。\n张军参加会见。\n《 人民日报 》（ 2026年10月23日 03 版）",
+  "image_url": null,
+  "published_at": "2026-10-23T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄关系",
+    "司法合作",
+    "人工智能司法应用"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-wenqing",
+      "name_zh": "陈文清",
+      "name_en": "Chen Wenqing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "俄罗斯联邦最高法院",
+      "name_en": "Supreme Court of the Russian Federation"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄关系",
+      "name_en": "China-Russia Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法合作",
+      "name_en": "Judicial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能司法应用",
+      "name_en": "AI in Judicial Work"
+    }
+  ],
+  "tags_zh": [
+    "陈文清",
+    "俄罗斯联邦最高法院",
+    "北京",
+    "中俄关系",
+    "司法合作",
+    "人工智能司法应用"
+  ],
+  "tags_en": [
+    "Chen Wenqing",
+    "Supreme Court of the Russian Federation",
+    "Beijing",
+    "China-Russia Relations",
+    "Judicial Cooperation",
+    "AI in Judicial Work"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-wenqing",
+      {
+        "id": null,
+        "name_zh": "张军"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "俄罗斯联邦最高法院",
+        "name_en": "Supreme Court of the Russian Federation"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261023-cpcnews-8a680c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

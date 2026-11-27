@@ -1,0 +1,100 @@
+{
+  "id": "20260824-chinanews_gn-a67cf2",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-24/10683210.shtml",
+  "title_zh": "国家体育总局体育基金管理中心副主任罗建彬被查",
+  "title_en": "Luo Jianbin, Deputy Director of Sports Fund Management Center, Investigated",
+  "summary_zh": "国家体育总局体育基金管理中心副主任、纪委书记罗建彬涉嫌严重违纪违法，正接受中央纪委国家监委驻国家体育总局纪检监察组纪律审查和广东省韶关市监委监察调查。",
+  "summary_en": "Luo Jianbin, deputy director of the Sports Fund Management Center, is under investigation for suspected serious disciplinary and legal violations.",
+  "body_zh": "国家体育总局体育基金管理中心副主任罗建彬被查\n中新网8月24日电 据中央纪委国家监委驻国家体育总局纪检监察组、广东省纪委监委消息：国家体育总局体育基金管理中心副主任、纪委书记罗建彬涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家体育总局纪检监察组纪律审查和广东省韶关市监委监察调查。\n国内新闻精选：\n- 2026年08月25日 10:39:02\n- 2026年08月25日 09:42:23\n- 2026年08月25日 07:28:18\n- 2026年08月24日 20:45:07\n- 2026年08月24日 14:00:54\n- 2026年08月23日 20:31:26\n- 2026年08月23日 18:38:45\n- 2026年08月23日 17:41:53\n- 2026年08月23日 16:43:22\n- 2026年08月23日 11:37:23",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗建彬",
+      "name_en": "Luo Jianbin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省韶关市监委",
+      "name_en": "Shaoguan Municipal Supervision Commission of Guangdong Province"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SG",
+      "name_zh": "韶关",
+      "name_en": "Shaoguan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    }
+  ],
+  "tags_zh": [
+    "罗建彬",
+    "广东省韶关市监委",
+    "韶关",
+    "反腐败",
+    "纪律审查"
+  ],
+  "tags_en": [
+    "Luo Jianbin",
+    "Shaoguan Municipal Supervision Commission of Guangdong Province",
+    "Shaoguan",
+    "Anti-corruption",
+    "Disciplinary Review"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "罗建彬"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SG"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省韶关市监委",
+        "name_en": "Shaoguan Municipal Supervision Commission of Guangdong Province"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20260824-chinanews_gn-a67cf2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

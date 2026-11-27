@@ -1,0 +1,99 @@
+{
+  "id": "20261106-gov_cn_yaowen-26d0d9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/06/VIDEYy87uMveN2eMV7nJwMO9261106.shtml",
+  "title_zh": "李强同奥地利总理施托克尔举行会谈",
+  "title_en": "Li Qiang Holds Talks with Austrian Chancellor Stocker",
+  "summary_zh": "2026年11月6日，李强与奥地利总理施托克尔举行会谈，就深化中奥经贸、人工智能、旅游等领域合作交换意见，并共同见证签署多项合作文件。",
+  "summary_en": "On November 6, 2026, Li Qiang held talks with Austrian Chancellor Stocker, discussing deeper China-Austria cooperation in trade, AI and tourism, and witnessing the signing of several cooperation documents.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：欢迎仪式后，李强同施托克尔举行会谈。\n李强表示，当前，受单边主义和保护主义抬头等影响，世界经济复苏艰难。中奥同为多边主义和自由贸易的支持者、受益者，应当坚定推进开放合作，为各自发展增添动力，也为世界经济注入正能量。习近平主席同总理先生举行会晤，就深化中奥关系与合作作出规划指引。中方愿同奥方加强对话沟通，尊重彼此核心利益和重大关切，拓展全方位合作，为两国人民带来更多实实在在的利益。\n施托克尔表示，奥方致力于推进两国友好战略伙伴关系，愿同中方增进相互理解，深化经贸、人工智能、旅游等领域务实合作，加强多边事务沟通协调。奥方主张本着互信精神加强对话协商，愿为推进欧中关系发展作出积极努力。\n会谈后，两国总理共同见证签署经贸、社会保障等多项合作文件。\n吴政隆参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中奥关系",
+    "经贸合作",
+    "多边主义"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中奥关系",
+      "name_en": "China-Austria Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "中奥关系",
+    "经贸合作",
+    "多边主义",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "China-Austria Relations",
+    "Trade and Economic Cooperation",
+    "Multilateralism"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "wu-zhenglong"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261106-gov_cn_yaowen-26d0d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085397.htm",
+      "title_zh": "李强同奥地利总理施托克尔会谈",
+      "published_at": "2026-11-06T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "20261105-gov_wei_hai-b32ebe",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/11/5/art_58817_6724505.html",
+  "title_zh": "全市重点项目谋划推进及项目招引专题会议召开",
+  "title_en": "Citywide Special Meeting on Key Project Planning and Investment Promotion Convened",
+  "summary_zh": "11月4日，威海市召开重点项目谋划推进及项目招引专题会议，市委书记张海波主持并讲话，部署招商引资和项目建设工作。",
+  "summary_en": "On November 4, Weihai held a special meeting on key project planning and investment promotion. Party Secretary Zhang Haibo presided over the meeting and outlined priorities for attracting investment and advancing projects.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）11月4日，全市重点项目谋划推进及项目招引专题会议召开，分析当前形势，研究部署下步工作，推动全市上下形成全力以赴抓招商、上项目的浓厚氛围。市委书记张海波主持会议并讲话，市领导孔凡萍、李建、邓勇、徐明等出席。\n会上，各区市、开发区和相关部门汇报了项目推进及谋划招引情况，相关市领导作了发言。张海波指出，项目是扩投资、稳增长的“牛鼻子”，全市上下要进一步提高认识，增强大抓项目的紧迫感，正视问题，抢抓机遇，坚定信心，全力以赴抓招商、上项目，为高质量发展提供强力支撑。\n张海波强调，要紧盯关键，集中力量突破招商引资和项目建设，推动形成抓项目、扩投资、稳增长的良性循环。要加快实施一批，把现有项目牢牢抓在手上，推动项目快建设、早投产，形成新的增长点。要精心谋划一批，聚焦特色优势、重点产业、重大战略和上级政策，高质量做好重点项目谋划储备，夯实扩大有效投资的基础。要对接招引一批，突出招大引强，强化精准招商，广泛借助外力，抓好后续跟踪，提升招商引资成效。要深入挖潜一批，了解企业投资意向，争取企业总部支持，进一步释放投资潜力。要坚持全市“一盘棋”，加强统筹，完善机制，压实责任，狠抓落实，构建合力攻坚的工作格局，以项目建设和招引的实际成效为全市经济回升向好提供坚实支撑。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": "2026-11-04",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "economy",
+  "keywords": [
+    "招商引资",
+    "项目建设",
+    "扩大投资",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "项目建设",
+      "name_en": "Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扩大投资",
+      "name_en": "Expanding Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "招商引资",
+    "项目建设",
+    "扩大投资",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Investment Promotion",
+    "Project Construction",
+    "Expanding Investment",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "徐明等"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261105-gov_wei_hai-b32ebe",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wei_hai",
+      "source_tier": 4,
+      "url": "https://www.weihai.gov.cn/art/2026/11/5/art_60663_6724745.html",
+      "title_zh": "全市重点项目谋划推进及项目招引专题会议召开",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

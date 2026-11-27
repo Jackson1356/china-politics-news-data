@@ -1,0 +1,101 @@
+{
+  "id": "20261102-gov_lin_zhi-47e4ac",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/705ce4ebeebc4e6ca9648057e2d48bc6.shtml",
+  "title_zh": "习近平同德国总统施泰因迈尔会谈",
+  "title_en": "Xi Jinping Holds Talks with German President Steinmeier",
+  "summary_zh": "10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈，并举行欢迎仪式。",
+  "summary_en": "On the afternoon of October 30, President Xi Jinping held talks with German President Frank-Walter Steinmeier, who is on a state visit to China, at the Great Hall of the People in Beijing, following a welcome ceremony.",
+  "body_zh": "10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。这是会谈前，习近平和夫人彭丽媛同施泰因迈尔和夫人比登本德合影。\n10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。这是会谈前，习近平在人民大会堂东门外广场为施泰因迈尔举行欢迎仪式。\n10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "中德关系",
+    "国事访问",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中德关系",
+      "name_en": "China-Germany Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中德关系",
+    "国事访问",
+    "元首外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Germany Relations",
+    "State Visit",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261030-gov_cn_yaowen-ac4f49",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "http://www.xa.gov.cn/xw/jrgz/2117137226782593025.html",
+      "title_zh": "习近平同阿曼苏丹海赛姆会谈",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

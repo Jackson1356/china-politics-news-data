@@ -1,0 +1,93 @@
+{
+  "id": "20261122-local_hong_wang_cn_hn-a27d76",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646055/66/16496880.html",
+  "title_zh": "习近平出席深圳APEC会议并主持领导人非正式会议",
+  "title_en": "Xi Jinping Attends APEC Meetings in Shenzhen and Chairs Leaders' Informal Meeting",
+  "summary_zh": "11月18日至19日，国家主席习近平在深圳出席亚太经合组织工商领导人峰会并主持第三十三次领导人非正式会议，同多位外国领导人举行双边会晤。",
+  "summary_en": "On Nov 18-19, President Xi Jinping attended the APEC CEO Summit in Shenzhen, chaired the 33rd APEC Economic Leaders' Informal Meeting, and held bilateral talks with several foreign leaders.",
+  "body_zh": "11月18日上午，国家主席习近平在深圳出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲。19日上午，习主席在深圳国际交流中心主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话。APEC会议期间，习主席同多位外国领导人举行双边会晤。\n如何以中国式现代化新成就为亚太和世界提供更多新机遇？推动建设什么样的亚太共同体？如何促进亚太共同繁荣？在一场场多边活动和双边会晤中，中国理念、中国方案不断为亚太未来发展注入丰沛的思想动能、提供明确的方向指引。“亚太是我们共同发展的天地，也是我们并肩合作的舞台。”亚太合作从深圳再出发！",
+  "image_url": null,
+  "published_at": "2026-11-22T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太合作",
+    "中国式现代化",
+    "多边外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边外交",
+      "name_en": "Multilateral Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "亚太合作",
+    "中国式现代化",
+    "多边外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "Asia-Pacific Cooperation",
+    "Chinese Modernization",
+    "Multilateral Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261122-local_hong_wang_cn_hn-a27d76",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

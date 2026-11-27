@@ -1,0 +1,92 @@
+{
+  "id": "20261126-local_hai_xia_wang_cn_fj-c9db06",
+  "source": "local_hai_xia_wang_cn_fj",
+  "source_name_zh": "海峡网",
+  "source_name_en": "海峡网",
+  "source_media_id": "cac-cn-fj-148595a132",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.hxnews.com/news/fj/fj/202611/26/2280167.shtml",
+  "title_zh": "扭住新福建建设目标不放松，凝心聚力在中国式现代化建设中奋勇争先",
+  "title_en": "Stay Focused on the Goal of Building a New Fujian, Strive to Lead in Chinese-Style Modernization",
+  "summary_zh": "大会确定主题：以习近平新时代中国特色社会主义思想为指导，贯彻习近平党建思想，扭住新福建建设目标，在中国式现代化建设中奋勇争先。",
+  "summary_en": "A congress set its theme: guided by Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era and Xi's Party-building thought, it will hold firm to the goal of building a new Fujian and strive to lead in Chinese-style modernization.",
+  "body_zh": "这次大会的主题是：高举中国特色社会主义伟大旗帜，坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻习近平党建思想，认真贯彻落实习近平总书记重要讲话重要指示批示精神和党中央决策部署，坚定拥护“两个确立”、坚决做到“两个维护”，扭住新福建建设目标不放松，扛牢新征程使命任务不懈怠，凝心聚力在中国式现代化建设中奋勇争先。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "中国式现代化",
+    "新福建建设",
+    "党的建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-FJ",
+      "name_zh": "福建",
+      "name_en": "Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese-Style Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新福建建设",
+      "name_en": "Building a New Fujian"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "福建",
+    "中国式现代化",
+    "新福建建设",
+    "党的建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Fujian",
+    "Chinese-Style Modernization",
+    "Building a New Fujian",
+    "Party Building"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-local_hai_xia_wang_cn_fj-c9db06",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

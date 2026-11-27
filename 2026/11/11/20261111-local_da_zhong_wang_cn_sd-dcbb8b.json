@@ -1,0 +1,85 @@
+{
+  "id": "20261111-local_da_zhong_wang_cn_sd-dcbb8b",
+  "source": "local_da_zhong_wang_cn_sd",
+  "source_name_zh": "大众网",
+  "source_name_en": "大众网",
+  "source_media_id": "cac-cn-sd-9149c52ad8",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://hb.dzwww.com/p/pa4YL1Vwx3.html",
+  "title_zh": "事关黄金交易！多家银行发布公告",
+  "title_en": "Multiple Banks Announce Pending-Order Function for Gold Accumulation Trading",
+  "summary_zh": "中信银行11月9日公告，将于11月16日上线积存金“挂单”功能；今年以来南京银行、兴业银行等多家银行已陆续推出该功能。",
+  "summary_en": "China CITIC Bank said on Nov 9 it will launch a pending-order function for gold accumulation accounts on Nov 16, as Bank of Nanjing, Industrial Bank and others have rolled out similar features this year.",
+  "body_zh": "事关黄金交易！多家银行发布公告\n中信银行11月9日发布公告称，将于11月16日上线积存金“挂单”功能。\n根据中信银行在公告里发布的最新版本积存金业务协议书，该行客户可通过该行电子银行渠道设置积存金的“挂单”价格、“挂单”数量以及“挂单”有效期并提交“挂单”，在有效期内，当满足成交条件时由中信银行为客户自动买入或卖出积存金。\n业内人士告诉记者，所谓积存金“挂单”，是一种限价委托交易方式，客户预先设定积存金的买入或赎回价格，当市场价格达到相应设定时，系统按照交易规则自动执行交易。\n今年以来，已有多家银行上线积存金“挂单”功能。\n南京银行自10月26日起，新增个人积存金业务委托“挂单”功能。\n兴业银行此前也公告，自6月8日起，该行积存金活期产品支持“挂单”购买、“挂单”赎回交易功能。\n天府立言金融研究院院长曾刚介绍，过去客户买卖积存金，要么按实时价格即时成交，要么按固定周期定投。而积存金“挂单”功能则可以帮助投资者降低盯盘成本，让投资者能够“逢低买入、逢高止盈”。但需要注意的是，“挂单”不一定保证成交，金价若始终没有触及设定值，有可能会导致投资者错过行情。同时，曾刚提示，近期金价波动明显，建议投资者不要一味追涨，可以在回调位置分批设置低位买入“挂单”，避免单一价位重仓；对于已有浮盈的投资者，可设置高于现价的止盈赎回“挂单”，锁定收益；同时投资者应注意，“挂单”有效期不宜过长，还应随行情定期调整价位。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "economy",
+  "keywords": [
+    "黄金积存",
+    "贵金属交易",
+    "银行理财"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄金积存",
+      "name_en": "Gold Accumulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贵金属交易",
+      "name_en": "Precious Metals Trading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "银行理财",
+      "name_en": "Bank Wealth Management"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "曾刚",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄金积存",
+    "贵金属交易",
+    "银行理财",
+    "曾刚"
+  ],
+  "tags_en": [
+    "Gold Accumulation",
+    "Precious Metals Trading",
+    "Bank Wealth Management"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "曾刚"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261111-local_da_zhong_wang_cn_sd-dcbb8b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

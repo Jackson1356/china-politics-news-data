@@ -1,0 +1,105 @@
+{
+  "id": "20260701-cpcnews-8f16d9",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0701/c64094-40751383.html",
+  "title_zh": "习近平同塞舌尔总统赫米尼耶就中塞建交50周年互致贺电",
+  "title_en": "Xi Jinping and Seychelles President Ramkalawan Exchange Congratulatory Messages on 50th Anniversary of Diplomatic Ties",
+  "summary_zh": "6月30日，国家主席习近平同塞舌尔总统赫米尼耶互致贺电，庆祝两国建交50周年，并表示愿深化互利合作，推动中塞战略伙伴关系迈上新台阶。",
+  "summary_en": "On June 30, President Xi Jinping and Seychelles President Ramkalawan exchanged congratulatory messages to celebrate the 50th anniversary of diplomatic ties and agreed to deepen mutual cooperation.",
+  "body_zh": "新华社北京6月30日电 6月30日，国家主席习近平同塞舌尔总统赫米尼耶互致贺电，庆祝两国建交50周年。\n习近平指出，建交50年来，无论国际形势如何变化，中国和塞舌尔始终彼此信赖，坚定守望相助，两国友好坚如磐石。我坚信，只要双方秉持建交初心、并肩同行，中塞关系发展的大道就必将越走越宽广，双边合作前景就必将更加光明。我高度重视中塞关系发展，愿同赫米尼耶总统一道努力，以建交50周年为新起点，赓续传统友谊，在高质量共建“一带一路”和中非合作论坛等框架内深化互利合作，促进共同发展，引领中塞战略伙伴关系不断迈上新台阶，更好造福两国人民。\n赫米尼耶表示，建交50年来，塞中关系在相互尊重、相互信任和共同发展的基础上稳步发展。中国始终是塞舌尔的宝贵伙伴，为塞方改善民生福祉、实现国家发展目标给予诸多支持。塞方坚定奉行一个中国原则，愿继续在共建“一带一路”和中非合作论坛框架内加强合作，持续深化两国关系。\n《 人民日报 》（ 2026年07月01日 01 版）",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "foreign",
+  "keywords": [
+    "中塞关系",
+    "一带一路",
+    "中非合作论坛"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赫米尼耶",
+      "name_en": "Wavel Ramkalawan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中塞关系",
+      "name_en": "China-Seychelles Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中非合作论坛",
+      "name_en": "Forum on China-Africa Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "赫米尼耶",
+    "北京",
+    "中塞关系",
+    "一带一路",
+    "中非合作论坛"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Wavel Ramkalawan",
+    "Beijing",
+    "China-Seychelles Relations",
+    "Belt and Road Initiative",
+    "Forum on China-Africa Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260701-cpcnews-8f16d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://news.gmw.cn/2026-07/01/content_38860007.htm",
+      "title_zh": "习近平同塞舌尔总统赫米尼耶就中塞建交50周年互致贺电",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

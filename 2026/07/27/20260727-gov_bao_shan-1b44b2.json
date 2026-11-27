@@ -1,0 +1,83 @@
+{
+  "id": "20260727-gov_bao_shan-1b44b2",
+  "source": "gov_bao_shan",
+  "source_name_zh": "保山市政府网",
+  "source_name_en": "保山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoshan.gov.cn/zwzx/ywsl.htm",
+  "title_zh": "云岭大地各族干部群众集中收听收看中国共产党成立105周年庆祝大会盛况",
+  "title_en": "Yunnan People Watch Live Broadcast of CPC's 105th Anniversary Celebration",
+  "summary_zh": "2026年7月2日，云南各族干部群众集中收听收看中国共产党成立105周年庆祝大会盛况。",
+  "summary_en": "On July 2, 2026, people of all ethnic groups in Yunnan gathered to watch the live broadcast of the grand celebration of the 105th anniversary of the Communist Party of China.",
+  "body_zh": "当前位置：\n网站首页\n要闻速览\n《云南省旅居发展正负面清单》落实情况如何？请您评一评~\n2026-07-27\n新闻发布会丨“十五五”时期，我省教育卫生工作怎么干？这场发布会划重点\n2026-07-21\n【云岭大地同庆伟大时刻】云岭大地各族干部群众集中收听收看中国共产党成立105周年庆祝大会盛...\n2026-07-02\n事关你我生活！云南省“十五五”规划纲要里的民生好事\n2026-05-12\n云南省委书记：把树种在群众身边\n2026-05-12\n云南用“家门口”就业托起稳稳的幸福\n2026-04-28\n花样多多！云南“五一”期间文旅活动清单来啦~\n2026-04-23\n民生回应丨无犯罪记录证明如何网上申办？操作指南来啦！\n2026-04-23\n云南省委书记：农民增收始终是第一位的任务\n2026-04-21\n守好祖国西南大门——云南的“大安全”答卷\n2026-04-13\n李强主持召开国务院常务会议\n2026-03-13\n第二场部长通道 回应关切真抓实干（现场·部长通道）\n2026-03-10\n世界看两会丨国际人士：中国高质量发展为全球经济注入稳定性\n2026-03-09\n视频丨代表委员积极建言献策 有关部门全面记录梳理高效转办回应\n2026-03-09\n人工智能让产业更“能”（融观察）\n2026-03-09",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": "2026-07-02",
+  "ingested_at": "2026-07-29T06:55:01Z",
+  "topic": "party",
+  "keywords": [
+    "中国共产党成立105周年",
+    "庆祝大会"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国共产党成立105周年",
+      "name_en": "105th Anniversary of CPC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "庆祝大会",
+      "name_en": "Celebration Ceremony"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "云南",
+    "中国共产党成立105周年",
+    "庆祝大会",
+    "李强"
+  ],
+  "tags_en": [
+    "Yunnan",
+    "105th Anniversary of CPC",
+    "Celebration Ceremony"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260727-gov_bao_shan-1b44b2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

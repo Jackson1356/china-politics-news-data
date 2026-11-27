@@ -1,0 +1,104 @@
+{
+  "id": "20261125-gov_huang_shi-359b05",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.huangshi.gov.cn/xwdt/tt/202611/t20261125_1376539.html",
+  "title_zh": "全力抓好岁末年初各项工作 持之以恒推进高质量发展",
+  "title_en": "Huangshi Focuses on Year-End Tasks and Sustained High-Quality Development",
+  "summary_zh": "11月24日，黄石市委书记陈红辉主持召开市委常委会会议，研究市委报告和市纪委工作报告，并部署岁末年初工作与老龄工作。",
+  "summary_en": "On Nov 24, Huangshi Party Secretary Chen Honghui chaired a municipal Party committee meeting to review the Party and discipline reports and plan year-end work and elderly care.",
+  "body_zh": "24日，市委书记陈红辉主持召开市委常委会会议，传达学习习近平总书记近期重要讲话和重要指示批示精神，研究拟提交市委十四届十二次全体会议审议的市委报告、市纪委工作报告，安排部署有关工作。\n会议指出，要深入学习贯彻习近平总书记在亚太经合组织第三十三次领导人非正式会议及相关活动上的重要讲话精神，持续扩大高水平对外开放，推动科技创新和产业创新深度融合，全方位、多维度融入武汉都市圈，着力营造一流营商环境，全面激发经济社会发展动力活力，奋力开创黄石高质量发展新局面。\n会议强调，要深入学习贯彻习近平总书记关于老龄工作的重要论述和重要指示精神，坚持政府、市场、社会、家庭协同发力，兜牢基本养老服务底线，大力发展银发经济，加快建设老年友好社会，努力让全市老年人的生活更加幸福美满。\n会议要求，要继续完善好市委报告、市纪委工作报告，为开好市第十五次党代会打牢坚实基础。要严明换届纪律和规矩，营造风清气正的良好氛围。要抓好岁末年初工作，全力以赴保平安、护稳定，确保今年收好官、明年开好局。（郑言实）",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "高质量发展",
+    "老龄工作",
+    "换届纪律"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB-HS",
+      "name_zh": "黄石",
+      "name_en": "Huangshi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "老龄工作",
+      "name_en": "Elderly Care Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届纪律",
+      "name_en": "Leadership Transition Discipline"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄石",
+    "高质量发展",
+    "老龄工作",
+    "换届纪律",
+    "习近平"
+  ],
+  "tags_en": [
+    "Huangshi",
+    "High-Quality Development",
+    "Elderly Care Work",
+    "Leadership Transition Discipline"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "陈红辉"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB-HS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261125-gov_huang_shi-359b05",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huang_shi",
+      "source_tier": 4,
+      "url": "https://www.huangshi.gov.cn/xwdt/tt/202611/t20261125_1376539.html",
+      "title_zh": "全力抓好岁末年初各项工作 持之以恒推进高质量发展",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

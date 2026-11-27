@@ -1,0 +1,91 @@
+{
+  "id": "20261009-xinhua_ha-1d85e2",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.news.cn/20261009/b05a96803be34a9ea02be6ef2d0513fe/c.html",
+  "title_zh": "国庆假期河南省新能源汽车充电量再创历史新高",
+  "title_en": "Henan NEV Charging Volume Hits Record High During National Day Holiday",
+  "summary_zh": "10月1日至7日国庆假期，国网河南电力运营的电动汽车充电设施总充电量达1023万千瓦时，同比增长47.6%，创历史新高。",
+  "summary_en": "During the Oct 1-7 National Day holiday, EV charging facilities operated by State Grid Henan Electric Power delivered 10.23 million kWh, up 47.6% year on year, setting a record high.",
+  "body_zh": "随着旅游出行方式向智能化、绿色化转变，在刚刚过去的国庆假期，我省新能源汽车充电量再创新高。10月8日，记者从国网河南省电力公司获悉，10月1日至7日，该公司在全省运营的电动汽车充电设施利用效率大幅上升，总充电量达1023万千瓦时，相较去年同期增长47.6%，其中单日充电量连续6天刷新历史纪录、最高达到175.8万千瓦时。\n从河南骨干高速公路充电桩使用情况来看，国庆7天假期，全省高速路网总充电量达677.79万千瓦时，同比增长45.65%，是平日的5.08倍。其中，连霍高速服务区充电站总电量106.60万千瓦时，同比增长49.62%；京港澳高速服务区充电站总电量73.29万千瓦时，同比增长56.33%。\n针对今年国庆假期激增的充电需求，国网河南电力节前提前完成充电设施检修，实现故障桩动态清零。假期期间，在京港澳等重点高速充电站及充电高峰时段，组织80余名人员驻站值守，现场引导并维持充电秩序，缓解充电压力；利用充电服务监控中心，实行7×24小时充电状态监控预警，协同调配移动式应急充电设备，做好充电引流疏导和应急支援，全力护航绿色出行。\n“我们利用覆盖所有充电场站的自动监控系统，实时查看附近充电车辆、场站卫生等情况，发现排队、占位等问题，第一时间组织开展处理，提高充电效率。”国网河南电动汽车服务有限公司负责人说。\n近年来，国网河南电力依托全省优越的交通区位，陆续打造绿色出行“护航工程”“百站工程”等项目，累计在全省建设运营充电站1341座，其中高速公路充电站268座，实现省内高速公路充电站全覆盖、全省县域充电站全覆盖。截至今年6月底，该公司运营新能源汽车充电设施年度充电量较去年提前两个多月突破1亿千瓦时，同比增长51.79%。（全媒体记者 宋敏 通讯员 霍鑫）",
+  "image_url": null,
+  "published_at": "2026-10-09T12:00:00+00:00",
+  "event_date": "2026-10-08",
+  "ingested_at": "2026-10-09T11:11:51Z",
+  "topic": "economy",
+  "keywords": [
+    "新能源汽车",
+    "充电基础设施",
+    "绿色出行"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "充电基础设施",
+      "name_en": "Charging Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色出行",
+      "name_en": "Green Travel"
+    }
+  ],
+  "tags_zh": [
+    "河南",
+    "新能源汽车",
+    "充电基础设施",
+    "绿色出行"
+  ],
+  "tags_en": [
+    "Henan",
+    "New Energy Vehicles",
+    "Charging Infrastructure",
+    "Green Travel"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261009-xinhua_ha-1d85e2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/1009/c351638-41716568.html",
+      "title_zh": "国庆假期河南新能源汽车充电量再创历史新高",
+      "published_at": "2026-10-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

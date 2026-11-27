@@ -1,0 +1,74 @@
+{
+  "id": "20260803-gov_cn_yaowen-f0cc64",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077430.htm",
+  "title_zh": "上半年全国生态环境质量持续改善",
+  "title_en": "National Ecological Environment Quality Continues to Improve in First Half of Year",
+  "summary_zh": "今年上半年，全国生态环境质量持续改善，PM2.5平均浓度同比下降6.6%，地表水优良水质比例同比上升。",
+  "summary_en": "In the first half of this year, national ecological environment quality continued to improve, with PM2.5 concentration down 6.6% and surface water good quality ratio up.",
+  "body_zh": "记者从生态环境部了解到，今年上半年，我国深入打好污染防治攻坚战，生态环境质量持续改善。\n今年以来，生态环境部聚焦PM2.5浓度持续下降目标，发挥新的环境空气质量标准引领作用，组织实施一批重点减排工程和专项治理行动，推动空气质量持续改善。全国339个地级及以上城市PM2.5平均浓度为29.9微克/立方米，同比下降6.6%；平均空气质量优良天数比例达到82.8%，同比上升4.5个百分点。蓝天白云、清新空气成为人们生活的常态。\n地表水方面，生态环境部持续推进美丽河湖建设，加强群众身边水体保护治理，以更高标准打好碧水保卫战。全国地表水Ⅰ至Ⅲ类优良水质比例达87.4%，同比上升3个百分点；劣Ⅴ类断面比例为0.9%，同比下降1.2个百分点。长江、黄河、珠江等七大流域及监测的145个重点湖（库）水质总体呈改善势头，越来越多的河湖重现水清岸绿、鱼翔浅底景象，群众饮水安全得到更有力保障。",
+  "image_url": null,
+  "published_at": "2026-08-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-04T06:51:41Z",
+  "topic": "welfare",
+  "keywords": [
+    "生态环境质量",
+    "污染防治"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEE",
+      "name_zh": "生态环境部",
+      "name_en": "Ministry of Ecology and Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境质量",
+      "name_en": "Ecological Environment Quality"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "污染防治",
+      "name_en": "Pollution Prevention and Control"
+    }
+  ],
+  "tags_zh": [
+    "生态环境部",
+    "生态环境质量",
+    "污染防治"
+  ],
+  "tags_en": [
+    "Ministry of Ecology and Environment",
+    "Ecological Environment Quality",
+    "Pollution Prevention and Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEE"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260803-gov_cn_yaowen-f0cc64",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

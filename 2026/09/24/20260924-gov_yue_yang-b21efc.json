@@ -1,0 +1,88 @@
+{
+  "id": "20260924-gov_yue_yang-b21efc",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2412014.html",
+  "title_zh": "岳阳市第九次党代会主席团举行第三次会议",
+  "title_en": "Presidium of Ninth Yueyang Municipal Party Congress Holds Third Meeting",
+  "summary_zh": "9月23日下午，中国共产党岳阳市第九次代表大会主席团举行第三次会议，谢卫江主持，通过市委委员、市纪委委员及省党代会代表候选人预选名单。",
+  "summary_en": "On Sept 23, the presidium of the 9th CPC Yueyang Municipal Congress held its third meeting, chaired by Xie Weijiang, approving candidate lists for municipal and provincial party posts.",
+  "body_zh": "9月23日下午，中国共产党岳阳市第九次代表大会主席团举行第三次会议。\n会议由谢卫江同志主持。\n会议听取了各代表团关于九届市委委员、候补委员、市纪委委员和岳阳市出席省第十三次党代会代表候选人建议名单酝酿情况的汇报；通过了九届市委委员、市纪委委员和岳阳市出席省第十三次党代会代表候选人预选名单；通过了大会选举总监票人、监票人建议名单；确定了计票人名单。",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "人事选举"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事选举",
+      "name_en": "Personnel Election"
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "党代会",
+    "人事选举"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Party Congress",
+    "Personnel Election"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "江同志"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260924-gov_yue_yang-1f63d4",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

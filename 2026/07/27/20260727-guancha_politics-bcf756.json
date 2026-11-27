@@ -1,0 +1,95 @@
+{
+  "id": "20260727-guancha_politics-bcf756",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_07_27_825174.shtml",
+  "title_zh": "重庆彭水山体崩塌现场发现人体残骸",
+  "title_en": "Human Remains Found at Landslide Site in Pengshui, Chongqing",
+  "summary_zh": "重庆彭水发生山体崩塌，现场发现人体残骸，救援工作正在进行。",
+  "summary_en": "Human remains were discovered at a landslide site in Pengshui, Chongqing. Rescue operations are underway.",
+  "body_zh": "九寨沟景区局部强降雨引发泥石流，无人员伤亡2026-07-27 06:54\n甘肃渭源山洪已致10人遇难，23人受伤，两部门派出工作组赴现场2026-07-26 19:13\n写二次元、张靓颖，菲尔兹奖得主邓煜的诗火了2026-07-26 18:20\n极氪回应境外锁车事件2026-07-26 14:21\n上海交大医学院：已成立专项工作组，对事件进行全面调查2026-07-26 13:57\n“板凳男孩”，已被录取2026-07-26 13:33\n广东发布“红霞”登陆后首个洪水红色预警2026-07-26 13:11\n国家防减救灾委工作组，赶赴广东2026-07-26 13:11\n国安部：日本右翼用AI炮制“南京大屠杀是谎言”“日本善待平民”等信息2026-07-26 11:55\n一年内18次操纵证券市场，方某军被罚没1.75亿2026-07-26 11:28\n一越南船舶在南海遇险沉没，36人获救26人失联2026-07-26 06:34\n台风“红霞”登陆广东惠州2026-07-26 06:16 极端天气\n“红霞”加强为强台风，中央气象台发布今年首个台风红色预警2026-07-25 22:30 极端天气\n新疆电影功勋人物、“阿凡提”扮演者吐依贡去世，享年80岁2026-07-25 22:04\n18岁少年吞18粒药，父亲向四家游戏公司索赔10元：游戏把这代少年毁了2026-07-25 21:26\n女子赌气将宠物狗放在散装货架上，超市工作人员：涉事区域的货品将下架2026-07-25 17:18\n女子刚提新车就连闯5个红灯，被罚750元扣30分2026-07-25 16:28\n携程公布十九项整改措施2026-07-25 15:38\n女儿幼儿园毕业照有15张走光，家长找摄影机构理论竟被骂“祖宗十八代”2026-07-25 14:59",
+  "image_url": null,
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "welfare",
+  "keywords": [
+    "山体崩塌",
+    "自然灾害"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "山体崩塌",
+      "name_en": "Landslide"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害",
+      "name_en": "Natural Disaster"
+    }
+  ],
+  "tags_zh": [
+    "重庆",
+    "山体崩塌",
+    "自然灾害"
+  ],
+  "tags_en": [
+    "Landslide",
+    "Natural Disaster"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260727-guancha_politics-30f314",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_27_825209.shtml",
+      "title_zh": "宁夏贺兰山东麓葡萄酒产业园区党工委原书记黄思明被查",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_27_825185.shtml",
+      "title_zh": "毫州连夜通报：已成立调查组",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_07_27_825180.shtml",
+      "title_zh": "携程发布公告，公布反垄断调查行政处罚决定",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

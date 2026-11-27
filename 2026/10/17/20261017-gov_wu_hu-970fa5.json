@@ -1,0 +1,101 @@
+{
+  "id": "20261017-gov_wu_hu-970fa5",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/tpxw/41370538.html",
+  "title_zh": "习近平在内蒙古乌兰察布考察",
+  "title_en": "Xi Jinping Inspects Ulanqab, Inner Mongolia",
+  "summary_zh": "10月16日，习近平在内蒙古乌兰察布市考察，先后察看黄旗海自然保护区、察哈尔高新技术开发区绿色算力产业，并与技术人员交流。",
+  "summary_en": "On October 16, Xi Jinping inspected Ulanqab in Inner Mongolia, visiting the Huangqihai Nature Reserve and the Chahar High-Tech Development Zone to learn about green computing industry development and talk with technical staff.",
+  "body_zh": "习近平在内蒙古乌兰察布考察\n10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平在察哈尔右翼前旗的黄旗海自然保护区考察。\n10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平在察哈尔高新技术开发区考察时，同有关算力中心项目负责人、技术人员、察哈尔高新区工作人员等亲切交流。\n10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平在察哈尔高新技术开发区考察，了解绿色算力产业发展等情况。\n10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平在察哈尔高新技术开发区考察时，察看当地特色农牧产品展示。",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "绿色算力",
+    "生态保护"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-WLCB",
+      "name_zh": "乌兰察布",
+      "name_en": "Ulanqab"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色算力",
+      "name_en": "Green Computing Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Conservation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "内蒙古",
+    "乌兰察布",
+    "绿色算力",
+    "生态保护"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Inner Mongolia",
+    "Ulanqab",
+    "Green Computing Power",
+    "Ecological Conservation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM",
+      "CN-NM-WLCB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261016-gov_xi_an-e7e2f1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202610/f2c80dc4cd394995b53947c0ea3bffd5.shtml",
+      "title_zh": "习近平在内蒙古乌兰察布考察",
+      "published_at": "2026-10-20T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

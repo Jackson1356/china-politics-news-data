@@ -1,0 +1,105 @@
+{
+  "id": "20261125-gov_shi_zui_shan-de8f3f",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/szfxx/202611/t20261125_5414618.html",
+  "title_zh": "石嘴山市委十一届十六次全会召开",
+  "title_en": "Sixteenth Plenary Session of the 11th Shizuishan Municipal Party Committee Convened",
+  "summary_zh": "11月25日，中共石嘴山市委十一届十六次全会在石嘴山召开，部署全市学习贯彻党的二十届五中全会及自治区党委十三届十三次全会精神，推进全面从严治党。",
+  "summary_en": "On November 25, the 11th Shizuishan Municipal Party Committee held its 16th plenary session in Shizuishan, arranging citywide efforts to study and implement the spirit of the Fifth Plenary Session of the 20th CPC Central Committee and the 13th Plenary Session of the regional Party committee, and to advance full and rigorous Party governance.",
+  "body_zh": "石嘴山市委十一届十六次全会召开\n会议现场\n11月25日，中国共产党石嘴山市第十一届委员会第十六次全体会议召开，会议坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平党建思想和党的二十届五中全会精神，全面贯彻习近平总书记考察宁夏重要讲话精神，认真落实自治区党委十三届十三次全会精神，对全市深入学习贯彻党的二十届五中全会及自治区党委十三届十三次全会精神进行安排部署，持之以恒推进全面从严治党，为奋力谱写中国式现代化石嘴山新篇章提供坚强政治保证。（记者 叶聿琦 赖盛龙）",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党的二十届五中全会精神",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NX-SZ",
+      "name_zh": "石嘴山",
+      "name_en": "Shizuishan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NX",
+      "name_zh": "宁夏",
+      "name_en": "Ningxia"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "石嘴山",
+    "宁夏",
+    "全面从严治党",
+    "党的二十届五中全会精神",
+    "中国式现代化",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shizuishan",
+    "Ningxia",
+    "Full and Rigorous Party Governance",
+    "Spirit of the Fifth Plenary Session of the 20th CPC Central Committee",
+    "Chinese Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "夏重要"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NX-SZ",
+      "CN-NX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261125-gov_shi_zui_shan-de8f3f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

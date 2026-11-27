@@ -1,0 +1,121 @@
+{
+  "id": "20261022-chinanews_gn-230e5a",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-22/10719251.shtml",
+  "title_zh": "北京市委常委、副市长夏林茂任上被查",
+  "title_en": "Beijing Party Standing Committee Member and Deputy Mayor Xia Linmao Placed Under Investigation",
+  "summary_zh": "2026年10月22日，官方通报北京市委常委、副市长夏林茂涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。",
+  "summary_en": "On October 22, 2026, authorities announced that Xia Linmao, standing committee member of the Beijing Municipal Party Committee and deputy mayor, is under disciplinary review and supervisory investigation for suspected serious violations of discipline and law.",
+  "body_zh": "北京市委常委、副市长夏林茂任上被查\n中新社北京10月22日电 中国官方22日通报，北京市委常委、副市长夏林茂涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n公开资料显示，夏林茂生于1970年5月，江苏建湖人，1993年7月参加工作，1997年11月加入中国共产党，工学博士。\n夏林茂在北京工作多年，曾任北京市石景山区委副书记、区长，北京市密云区委书记，北京市东城区委书记，北京市委常委、教育工委书记等职，2023年起担任北京市委常委，市政府党组副书记、副市长。\n北京市人民政府官方网站显示，夏林茂负责市政府常务工作，负责发展改革、财政、应急管理、外事(港澳)、统计方面工作，协助负责规划、审计方面工作。(完)\n国内新闻精选：\n- 2026年10月23日 14:31:34\n- 2026年10月23日 10:02:49\n- 2026年10月22日 21:50:31\n- 2026年10月22日 17:18:32\n- 2026年10月22日 17:08:26\n- 2026年10月22日 16:05:16\n- 2026年10月22日 10:17:41\n- 2026年10月22日 08:32:34\n- 2026年10月22日 07:48:01\n- 2026年10月22日 07:33:13",
+  "image_url": null,
+  "published_at": "2026-10-22T12:00:00+00:00",
+  "event_date": "2026-10-22",
+  "ingested_at": "2026-10-23T09:19:43Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查",
+    "违纪违法"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xia-linmao",
+      "name_zh": "夏林茂",
+      "name_en": "Xia Linmao"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "违纪违法",
+      "name_en": "Discipline and Law Violations"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "任上",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "夏林茂",
+    "中央纪委国家监委",
+    "北京",
+    "反腐败",
+    "纪律审查",
+    "违纪违法",
+    "任上"
+  ],
+  "tags_en": [
+    "Xia Linmao",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Beijing",
+    "Anti-corruption",
+    "Disciplinary Review",
+    "Discipline and Law Violations"
+  ],
+  "entities": {
+    "politicians": [
+      "xia-linmao",
+      {
+        "id": null,
+        "name_zh": "任上"
+      },
+      {
+        "id": null,
+        "name_zh": "方日"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261022-chinanews_gn-230e5a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

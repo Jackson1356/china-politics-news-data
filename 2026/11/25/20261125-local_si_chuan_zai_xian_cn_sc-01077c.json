@@ -1,0 +1,128 @@
+{
+  "id": "20261125-local_si_chuan_zai_xian_cn_sc-01077c",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202611/83362644.html",
+  "title_zh": "习言道｜跟随习近平主席推介 从四座城市感知千年中国",
+  "title_en": "Xi Yan Dao: Four Cities, a Millennium of China — Following Xi Jinping's Pitch",
+  "summary_zh": "11月18日，习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上表示，看千年中国去西安、五百年去北京、一百年去上海、五十年去深圳。",
+  "summary_en": "At the welcome banquet of the 33rd APEC Economic Leaders' Meeting on Nov 18, Xi Jinping said: see 1,000 years of China in Xi'an, 500 in Beijing, 100 in Shanghai and 50 in Shenzhen.",
+  "body_zh": "11月18日，在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上，习近平主席指出，看千年的中国去西安，看五百年的中国去北京，看一百年的中国去上海，看五十年的中国来深圳。中国历史悠久、幅员辽阔，一起跟随习近平主席推介，通过四座城市感知千年中国。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "城市文化",
+    "历史文化",
+    "国家形象"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市文化",
+      "name_en": "Urban Culture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史文化",
+      "name_en": "History and Culture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国家形象",
+      "name_en": "National Image"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "西安",
+    "北京",
+    "上海",
+    "深圳",
+    "城市文化",
+    "历史文化",
+    "国家形象"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Xi'an",
+    "Beijing",
+    "Shanghai",
+    "Shenzhen",
+    "Urban Culture",
+    "History and Culture",
+    "National Image"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA",
+      "CN-BJ",
+      "CN-SH",
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261122-local_hong_wang_cn_hn-e7d76d",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-11/25/content_39120026.htm",
+      "title_zh": "【和合共生】习言道｜跟随习近平主席推介 从四座城市感知千年中国",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

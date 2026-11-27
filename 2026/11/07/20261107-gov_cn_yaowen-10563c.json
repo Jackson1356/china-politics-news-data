@@ -1,0 +1,110 @@
+{
+  "id": "20261107-gov_cn_yaowen-10563c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085501.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团在陕西宣讲",
+  "title_en": "Central Lecture Team on Fifth Plenary Session Spirit of the 20th CPC Central Committee Holds Briefing in Shaanxi",
+  "summary_zh": "11月7日，学习贯彻党的二十届五中全会精神中央宣讲团报告会在陕西西安举行，中央宣讲团成员韩文秀作宣讲报告，并赴鄠邑区栗峪口村调研宣讲。",
+  "summary_en": "On Nov 7, a report meeting of the Central Lecture Team on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee was held in Xi'an, Shaanxi, where team member Han Wenxiu delivered the lecture and later visited Liyukou Village for grassroots discussions.",
+  "body_zh": "新华社西安11月7日电（记者许祖华）学习贯彻党的二十届五中全会精神中央宣讲团报告会11月7日在陕西西安举行。中央宣讲团成员、中央财办分管日常工作的副主任、中央农办主任韩文秀作宣讲报告。\n报告会上，韩文秀紧紧围绕习近平总书记在全会上的重要讲话精神和全会通过的《决定》，从深刻认识全会的重大意义，深入学习领会习近平总书记在全会上的重要讲话精神，全面准确理解持之以恒推进全面从严治党的总体要求、战略任务和重大举措等方面，对全会精神作了系统宣讲和深入阐释。\n韩文秀在宣讲中表示，要深刻领会党中央持之以恒推进全面从严治党的战略考量，自觉把思想和行动统一到全会作出的决策部署上来。把学习贯彻全会精神作为重大政治任务，聚焦《决定》的重大部署、重要任务、重点工作，结合实际抓落实，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面。\n7日下午，韩文秀前往西安市鄠邑区石井街道栗峪口村调研并开展宣讲，围绕深入推进抓党建促乡村全面振兴等方面的内容与当地基层党员干部群众进行互动交流。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-07",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会精神",
+    "全面从严治党",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "han-wenxiu",
+      "name_zh": "韩文秀",
+      "name_en": "Han Wenxiu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会精神",
+      "name_en": "Fifth Plenary Session Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "韩文秀",
+    "陕西",
+    "西安",
+    "二十届五中全会精神",
+    "全面从严治党",
+    "乡村振兴",
+    "习近平"
+  ],
+  "tags_en": [
+    "Han Wenxiu",
+    "Shaanxi",
+    "Xi'an",
+    "Fifth Plenary Session Spirit",
+    "Full and Rigorous Party Governance",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "han-wenxiu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN",
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-gov_cn_yaowen-10563c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

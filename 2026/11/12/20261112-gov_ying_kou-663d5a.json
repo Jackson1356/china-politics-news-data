@@ -1,0 +1,111 @@
+{
+  "id": "20261112-gov_ying_kou-663d5a",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001003/20261112/2e7889e6-9c10-4da3-8730-dd128c6b27f4.html",
+  "title_zh": "王毅同美国国务卿鲁比奥通电话",
+  "title_en": "Wang Yi Holds Phone Call with US Secretary of State Rubio",
+  "summary_zh": "11月11日，中共中央政治局委员、外交部长王毅同美国国务卿鲁比奥通电话，就中美关系及两国元首互动深入交换意见，通话积极、建设性。",
+  "summary_en": "On November 11, Chinese Foreign Minister Wang Yi held a phone call with US Secretary of State Rubio, exchanging views on China-US relations and leader interactions in a positive and constructive call.",
+  "body_zh": "新华社北京11月11日电 中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。\n王毅表示，习近平主席9月访美顺利、成功，两国元首一致同意丰富中美关系新定位的内涵，为探索中美正确相处之道提供了更加明确的战略指引。中美关系稳定势头来之不易，是两个大国从各自和共同利益出发作出的理性选择。中国对美政策保持稳定性和连续性，愿同美方加强沟通合作，妥善处理分歧和敏感问题，相互支持办好2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会，推动中美建设性战略稳定关系落地见效。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "中美关系",
+    "元首外交",
+    "战略稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "鲁比奥",
+      "name_en": "Marco Rubio"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Leader Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "鲁比奥",
+    "外交部",
+    "北京",
+    "中美关系",
+    "元首外交",
+    "战略稳定"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Marco Rubio",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-US Relations",
+    "Leader Diplomacy",
+    "Strategic Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261112-gov_cn_yaowen-af31ed",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

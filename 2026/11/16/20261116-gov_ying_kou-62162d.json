@@ -1,0 +1,103 @@
+{
+  "id": "20261116-gov_ying_kou-62162d",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001003/20261116/aad13fd7-9af8-4e82-8c80-ed14ade0c708.html",
+  "title_zh": "《习近平的文化情缘》《习主席的来信》国际版在APEC成员经济体主流媒体播出",
+  "title_en": "International Editions of \"Xi Jinping's Cultural Ties\" and \"Letters from President Xi\" Air on Mainstream Media in APEC Economies",
+  "summary_zh": "11月15日，中央广播电视总台制作的《习近平的文化情缘》《习主席的来信》国际版在俄罗斯、韩国、印尼等APEC成员经济体主流媒体启播。",
+  "summary_en": "On November 15, international editions of two China Media Group productions, \"Xi Jinping's Cultural Ties\" and \"Letters from President Xi,\" began airing on mainstream media in APEC member economies including Russia, South Korea and Indonesia.",
+  "body_zh": "新华社北京11月15日电 在亚太经合组织第三十三次领导人非正式会议即将举行之际，由中央广播电视总台制作的专题片《习近平的文化情缘》（国际版）和《习主席的来信》（国际版）11月15日起在APEC成员经济体主流媒体启播。\n《习近平的文化情缘》（国际版）讲述习近平主席高度重视、亲自擘画和推动中华优秀传统文化传承发展的故事，展现习近平主席的深厚文化情怀和对赓续中华文脉、坚定文化自信的深邃思考。\n《习主席的来信》（国际版）精选习近平主席给多位国际友人、艺术家、青少年等的回信，讲述一封封书信背后的温暖故事。\n即日起，《习近平的文化情缘》（国际版）和《习主席的来信》（国际版）在俄罗斯大亚洲电视台、韩国OBS京仁电视台、印尼国家广播电台等APEC成员经济体主流媒体平台陆续播出。",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-15",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "文化自信",
+    "对外传播",
+    "亚太经合组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化自信",
+      "name_en": "Cultural Confidence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外传播",
+      "name_en": "International Communication"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央广播电视总台",
+    "北京",
+    "文化自信",
+    "对外传播",
+    "亚太经合组织"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China Media Group",
+    "Beijing",
+    "Cultural Confidence",
+    "International Communication",
+    "APEC"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261116-gov_ying_kou-62162d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

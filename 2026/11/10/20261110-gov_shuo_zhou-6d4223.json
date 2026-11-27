@@ -1,0 +1,105 @@
+{
+  "id": "20261110-gov_shuo_zhou-6d4223",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202611/t20261110_810510.shtml",
+  "title_zh": "朔州市委常委会召开会议 研究黄河保护治理、地下水超采治理和社会稳定工作",
+  "title_en": "Shuozhou Municipal Party Committee Standing Committee Meets on Yellow River Protection and Groundwater Governance",
+  "summary_zh": "11月8日，朔州市委常委会召开会议，学习黄河保护治理重要指示精神，传达何立峰在山西调研要求，部署地下水超采治理和社会稳定工作，王帅红主持。",
+  "summary_en": "On Nov 8, Shuozhou's Party Standing Committee met to study Yellow River protection, convey He Lifeng's Shanxi inspection requirements, and deploy groundwater and stability work. Wang Shuaihong chaired.",
+  "body_zh": "11月8日，市委常委会召开会议，学习习近平总书记对进一步做好黄河保护治理工作的重要指示精神，传达贯彻何立峰同志在山西调研时的工作要求，听取全市浅层地下水超采区治理、社会稳定工作情况汇报，研究部署下一步工作。王帅红主持。\n会议强调，要深入学习领会习近平总书记对进一步做好黄河保护治理工作的重要指示精神，认真落实全面推进黄河保护治理工作会议部署，牢牢把握重在保护、要在治理的战略要求，坚持节水优先、空间均衡、系统治理、两手发力的治水思路，紧密结合朔州实际，严格落实“四水四定”，强化水资源刚性约束制度，实施节水控水行动，建设节水型社会，深化农业节水控水，健全监测计量体系，统筹地下水超采区综合治理，推动水位持续回升、采补逐步平衡，为经济社会高质量发展提供水支撑。\n会议强调，要深入学习贯彻习近平总书记对山西工作的重要讲话重要指示精神，认真贯彻落实何立峰同志11月1日至2日在山西调研时的工作要求，坚定不移推动转型发展，加快把转型势能转化为发展实效，在做优传统产业、壮大新兴产业、培育未来产业上协同发力，着力稳就业、稳企业、稳市场、稳预期，统筹做好防风险、保民生各项工作，守好安全生产、社会稳定、民生保障等各方面底线，推动中国式现代化朔州实践迈出更大步伐。\n会议强调，今年以来，全市各级各部门坚持总体国家安全观，统筹发展和安全，扎实做好防风险、保安全、护稳定各项工作，社会大局总体平稳。要坚持和发展新时代“枫桥经验”，持续增强忧患意识，深入开展矛盾纠纷排查化解，不断强化社会治安整体防控，进一步深化安全生产风险整治，全力维护社会大局安全稳定。\n会议还研究了其他事项。\n（文/图 刘晓广 符烨邦 薛礼伟）",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "黄河保护治理",
+    "地下水超采治理",
+    "社会稳定",
+    "转型发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "黄河保护治理",
+      "name_en": "Yellow River Protection and Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地下水超采治理",
+      "name_en": "Groundwater Overexploitation Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "社会稳定",
+      "name_en": "Social Stability"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "转型发展",
+      "name_en": "Transformative Development"
+    },
+    {
+      "kind": "person",
+      "id": "he-lifeng",
+      "name_zh": "何立峰",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "黄河保护治理",
+    "地下水超采治理",
+    "社会稳定",
+    "转型发展",
+    "何立峰"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Yellow River Protection and Governance",
+    "Groundwater Overexploitation Control",
+    "Social Stability",
+    "Transformative Development"
+  ],
+  "entities": {
+    "politicians": [
+      "he-lifeng",
+      {
+        "id": null,
+        "name_zh": "王帅红"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261110-gov_shuo_zhou-6d4223",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

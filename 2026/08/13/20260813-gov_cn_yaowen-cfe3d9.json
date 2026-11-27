@@ -1,0 +1,92 @@
+{
+  "id": "20260813-gov_cn_yaowen-cfe3d9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078014.htm",
+  "title_zh": "我国加快推动新一代通信网建设",
+  "title_en": "China Accelerates Construction of Next-Generation Communication Networks",
+  "summary_zh": "今年以来，我国加快新一代通信网建设，推进5G-A升级、6G部署和卫星互联网组网，持续完善空天地海一体化信息通信布局。",
+  "summary_en": "Since the beginning of this year, China has accelerated the construction of next-generation communication networks, promoting 5G-A upgrades, 6G deployment, and satellite internet networking to improve the integrated space-air-ground-sea information communication layout.",
+  "body_zh": "今年以来，我国加快推动新一代通信网建设，推动相关基础设施升级与前沿技术创新，持续完善空天地海一体化信息通信布局。\n重庆涪陵的这家化工企业是国家首批万兆光网试点项目。企业通过万兆光网结合AI算法开发的智能报警系统，能以毫秒级速率发送预警，并实时回传8K高清视频。目前，重庆已经在园区、工厂、小区等多个场景部署这样的万兆光网试点项目。\n作为新一代通信网的重要组成部分，我国从2025年开展万兆光网试点，目前已建设136个试点项目。\n不仅是万兆光网，今年以来，5G基站全面向5G-A升级演进，支撑智能网联新能源汽车、具身智能等新兴产业连接需要，6G也在加快技术部署。日前，工业和信息化部组织开展6G创新发展部省协同试点专项行动，计划到2029年，形成一批自主创新的6G技术方案，为6G商用落地提供支撑。\n同时，卫星互联网配套建设也在提速。国家星网低轨星座、千帆商业星座持续批量发射组网，手机直连卫星技术完成实测验证。下一步，国家将加速相关技术试验和标准体系构建，推动建设陆海空天一体化的全域通信底座。",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "industry",
+  "keywords": [
+    "新一代通信网",
+    "万兆光网",
+    "6G",
+    "卫星互联网"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新一代通信网",
+      "name_en": "Next-Generation Communication Networks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "万兆光网",
+      "name_en": "10G PON"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "6G",
+      "name_en": "6G"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星互联网",
+      "name_en": "Satellite Internet"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "新一代通信网",
+    "万兆光网",
+    "6G",
+    "卫星互联网"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Next-Generation Communication Networks",
+    "10G PON",
+    "6G",
+    "Satellite Internet"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260813-gov_cn_yaowen-cfe3d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

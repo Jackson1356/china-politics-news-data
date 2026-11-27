@@ -1,0 +1,91 @@
+{
+  "id": "20261015-gov_shi_zui_shan-7a67c6",
+  "source": "gov_shi_zui_shan",
+  "source_name_zh": "石嘴山市政府网",
+  "source_name_en": "石嘴山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shi_zui_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-NX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shizuishan.gov.cn/xwzx/zwxx/qzfxx/202610/t20261015_5372622.html",
+  "title_zh": "自治区政府召开常务会议",
+  "title_en": "Ningxia Autonomous Region Government Holds Executive Meeting",
+  "summary_zh": "10月14日，自治区主席张雨浦主持自治区政府常务会议，学习贯彻习近平总书记在全国卫生与健康大会上的重要讲话精神，研究耕地保护、秋收和防范非法集资等事项。",
+  "summary_en": "On Oct 14, Ningxia Chairman Zhang Yupu chaired a government executive meeting on health, farmland protection, autumn harvest and illegal fundraising.",
+  "body_zh": "10月14日，自治区主席张雨浦主持召开自治区政府2026年第25次常务会议，深入学习贯彻习近平总书记在全国卫生与健康大会上的重要讲话精神，部署贯彻落实工作。研究耕地保护和秋产秋收、防范和处置非法集资等事项。\n会议强调，要全面落实全国卫生与健康大会精神，坚持人民至上、生命至上，坚定实施健康优先发展战略，把保障人民健康融入政府各项政策和工作之中。要主动适应人口发展新形势和群众多样化健康需求，进一步加大投入力度，补齐基层短板弱项，抓好群众急难愁盼，着力提升健康管理、疾病防控、医疗服务、医保支撑、医药创新、人才培养能力，着力抓好优质资源扩容下沉、“一老一小”健康服务、体制机制改革、食品安全监管等各项工作任务，不断提高人民健康水平，奋力推动我区“十五五”卫生健康事业高质量发展。\n会议听取全区耕地保护、秋收生产和秋粮收购情况汇报，强调要全面落实党政同责要求，统筹抓好产量产能、生产生态、增产增收，严格耕地占补平衡管理，依法依规治粮管粮用粮，做实做强现代特色农业，统筹做好高标准农田建设管理、农业科技创新、耕地提质改造、联农带农富农等各项工作，确保完成全年粮食生产任务，牢牢守住粮食安全底线。\n会议审议《自治区防范和处置非法集资工作实施细则》，强调要坚持防范为主、打早打小、综合治理、稳妥处置工作原则，加强监测预警，密切协同联动，深化宣传教育，有力防范和打击非法集资活动，切实维护全区金融市场秩序、保障人民群众财产安全。\n会议审议通过自治区行政程序规定、殡葬管理办法、人工影响天气管理办法3个修订草案，自治区药品和医疗器械流通监督管理办法以及自治区人民政府关于废止部分政府规章的决定、关于废止和修改部分行政规范性文件的决定3个草案。\n会前集中学习了《中华人民共和国粮食安全保障法》。会议还研究了其他事项。（记者 周一青 陈瑶）",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-14",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "economy",
+  "keywords": [
+    "卫生健康",
+    "粮食安全",
+    "防范非法集资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-yupu",
+      "name_zh": "张雨浦",
+      "name_en": "Zhang Yupu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫生健康",
+      "name_en": "Health"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防范非法集资",
+      "name_en": "Preventing Illegal Fundraising"
+    }
+  ],
+  "tags_zh": [
+    "张雨浦",
+    "卫生健康",
+    "粮食安全",
+    "防范非法集资"
+  ],
+  "tags_en": [
+    "Zhang Yupu",
+    "Health",
+    "Food Security",
+    "Preventing Illegal Fundraising"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-yupu"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261015-gov_shi_zui_shan-7a67c6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_yin_chuan",
+      "source_tier": null,
+      "url": "https://www.nx.gov.cn/zwxx_11337/nxyw/202610/t20261014_5372570.html",
+      "title_zh": "自治区政府召开常务会议 部署卫生与健康、耕地保护等工作",
+      "published_at": "2026-10-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

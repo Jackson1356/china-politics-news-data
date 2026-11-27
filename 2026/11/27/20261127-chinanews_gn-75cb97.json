@@ -1,0 +1,129 @@
+{
+  "id": "20261127-chinanews_gn-75cb97",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-27/10738875.shtml",
+  "title_zh": "浙江大学金融研究院上市公司研究中心原主任包纯田接受审查调查",
+  "title_en": "Former Director of Zhejiang University Financial Research Institute's Listed Company Research Center Bao Chuntian Under Investigation",
+  "summary_zh": "据浙江大学纪委、浙江省纪委监委11月27日消息，浙江大学金融研究院上市公司研究中心原主任包纯田涉嫌严重违纪违法，主动投案，正接受纪律审查和监察调查。",
+  "summary_en": "Bao Chuntian, former director of the Listed Company Research Center at Zhejiang University's Financial Research Institute and former deputy director of the Zhejiang provincial government's financial office, has voluntarily surrendered and is under disciplinary review and supervisory investigation for suspected serious violations, authorities said on Nov 27.",
+  "body_zh": "浙江大学金融研究院上市公司研究中心原主任包纯田接受审查调查\n中新网11月27日电 据浙江大学纪委、浙江省纪委监委消息：浙江大学金融研究院上市公司研究中心原主任(原浙江省政府金融工作办公室党组成员、副主任)包纯田涉嫌严重违纪违法，主动投案，目前正接受中共浙江大学纪律检查委员会纪律审查和浙江省监察委员会监察调查。\n国内新闻精选：\n- 2026年11月27日 18:21:01\n- 2026年11月27日 15:47:31\n- 2026年11月27日 15:32:10\n- 2026年11月27日 14:14:22\n- 2026年11月27日 12:24:56\n- 2026年11月27日 08:50:30\n- 2026年11月26日 21:29:05\n- 2026年11月26日 19:54:54\n- 2026年11月26日 18:36:28\n- 2026年11月26日 17:27:34",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-27",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "纪律审查",
+    "金融领域反腐"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "包纯田",
+      "name_en": "Bao Chuntian"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "浙江大学",
+      "name_en": "Zhejiang University"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "浙江省纪委监委",
+      "name_en": "Zhejiang Provincial Commission for Discipline Inspection and Supervisory Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪律审查",
+      "name_en": "Disciplinary Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融领域反腐",
+      "name_en": "Anti-corruption in Finance"
+    }
+  ],
+  "tags_zh": [
+    "包纯田",
+    "浙江大学",
+    "浙江省纪委监委",
+    "浙江",
+    "反腐败",
+    "纪律审查",
+    "金融领域反腐"
+  ],
+  "tags_en": [
+    "Bao Chuntian",
+    "Zhejiang University",
+    "Zhejiang Provincial Commission for Discipline Inspection and Supervisory Commission",
+    "Zhejiang",
+    "Anti-corruption",
+    "Disciplinary Review",
+    "Anti-corruption in Finance"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "包纯田"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "浙江大学",
+        "name_en": "Zhejiang University"
+      },
+      {
+        "name_zh": "浙江省纪委监委",
+        "name_en": "Zhejiang Provincial Commission for Discipline Inspection and Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261127-chinanews_gn-75cb97",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738878.shtml",
+      "title_zh": "广东省珠海市人大常委会原副主任邓群芳接受审查调查",
+      "published_at": "2026-11-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

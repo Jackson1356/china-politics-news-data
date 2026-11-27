@@ -1,0 +1,126 @@
+{
+  "id": "20260814-chinanews_gn-582833",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-14/10677554.shtml",
+  "title_zh": "两部门对河南启动国家四级救灾应急响应",
+  "title_en": "Two Departments Launch Level-IV Disaster Relief Emergency Response for Henan",
+  "summary_zh": "8月14日，国家防灾减灾救灾委员会针对台风残涡及强降雨对河南的灾害影响，启动国家四级救灾应急响应，并调拨3万件中央救灾物资支持灾区。",
+  "summary_en": "On Aug 14, the National Disaster Prevention, Mitigation and Relief Committee activated a Level-IV emergency response for Henan due to typhoon remnants and heavy rainfall, and allocated 30,000 relief supplies.",
+  "body_zh": "两部门对河南启动国家四级救灾应急响应\n按照《国家自然灾害救助应急预案》，8月14日，国家防灾减灾救灾委员会针对今年第13号台风“白海豚”残涡及强降雨对河南的严重灾害影响，启动国家四级救灾应急响应，前期派出的救灾工作组继续在灾区实地查看灾情，指导和协助地方做好灾情核查、群众转移安置、基本生活保障等救灾救助工作。\n同日，国家防灾减灾救灾委员会办公室、应急管理部针对近期持续暴雨洪涝灾害导致河南周口、许昌等地险情灾情，根据灾区群众避险转移和安置救助需要，会同国家粮食和物资储备局调拨折叠床、褥子、毛毯、夏凉被、夏装、家庭应急包等3万件中央救灾物资，支持河南做好受灾群众安置救助工作。\n(总台央视记者 唐国荣)\n- 专题：聚焦防汛抗洪\n国内新闻精选：\n- 2026年08月14日 11:07:06\n- 2026年08月14日 08:40:16\n- 2026年08月14日 07:25:11\n- 2026年08月13日 21:58:04\n- 2026年08月13日 21:53:25\n- 2026年08月13日 16:38:20\n- 2026年08月13日 14:29:05\n- 2026年08月13日 09:25:04\n- 2026年08月12日 21:25:29\n- 2026年08月12日 17:02:53",
+  "image_url": null,
+  "published_at": "2026-08-14T12:00:00+00:00",
+  "event_date": "2026-08-14",
+  "ingested_at": "2026-08-14T05:49:40Z",
+  "topic": "welfare",
+  "keywords": [
+    "救灾应急",
+    "自然灾害",
+    "物资调拨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家防灾减灾救灾委员会",
+      "name_en": "National Disaster Prevention, Mitigation and Relief Committee"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家粮食和物资储备局",
+      "name_en": "National Food and Strategic Reserves Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "救灾应急",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自然灾害",
+      "name_en": "Natural Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "物资调拨",
+      "name_en": "Material Allocation"
+    }
+  ],
+  "tags_zh": [
+    "国家防灾减灾救灾委员会",
+    "应急管理部",
+    "国家粮食和物资储备局",
+    "河南",
+    "救灾应急",
+    "自然灾害",
+    "物资调拨"
+  ],
+  "tags_en": [
+    "National Disaster Prevention, Mitigation and Relief Committee",
+    "Ministry of Emergency Management",
+    "National Food and Strategic Reserves Administration",
+    "Henan",
+    "Disaster Relief",
+    "Natural Disaster",
+    "Material Allocation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家防灾减灾救灾委员会",
+        "name_en": "National Disaster Prevention, Mitigation and Relief Committee"
+      },
+      {
+        "name_zh": "国家粮食和物资储备局",
+        "name_en": "National Food and Strategic Reserves Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260814-chinanews_gn-582833",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_yang_zi_wan_bao_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://www.yzwb.net/news/txs/202608/t20260814_382572.html",
+      "title_zh": "两部门对河南启动国家四级救灾应急响应",
+      "published_at": "2026-08-14T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

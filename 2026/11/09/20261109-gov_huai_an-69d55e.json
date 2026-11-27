@@ -1,0 +1,97 @@
+{
+  "id": "20261109-gov_huai_an-69d55e",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1794182033112eO4T2i0U.html",
+  "title_zh": "淮安市九届人大七次会议召开各代表团召集人会议",
+  "title_en": "Huai'an Convenes Delegation Conveners Meeting for 7th Session of 9th Municipal People's Congress",
+  "summary_zh": "11月8日上午，淮安市九届人大七次会议召开各代表团召集人会议，市委书记顾坤主持会议并提出要求，会议酝酿了大会主席团和秘书长建议名单。",
+  "summary_en": "On the morning of Nov 8, Huai'an held a meeting of delegation conveners for the 7th session of the 9th Municipal People's Congress. Party Secretary Gu Kun presided and set out requirements; the meeting deliberated the proposed presidium and secretary-general list.",
+  "body_zh": "市九届人大七次会议召开各代表团召集人会议\n11月8日上午，市九届人大七次会议召开各代表团召集人会议。市委书记、市人大常委会党组书记顾坤主持会议，并就开好大会提出要求。市人大常委会常务副主任、党组副书记周青介绍了大会的筹备情况。\n顾坤指出，市九届人大七次会议是在全市上下深入学习贯彻党的二十届五中全会精神、奋力实现“十五五”良好开局的关键时刻，召开的一次重要会议。希望大家站在政治和全局的高度，充分认识这次大会的重要性，自觉把思想行动统一到省委部署和市委要求上来，对照大会各项议程安排，以严肃认真的态度履行召集人职责，团结组织全体代表同心协力、依法履职，共同完成好大会各项任务。各代表团要加强正确引导，组织代表认真酝酿讨论候选人名单，审慎投好神圣一票。要充分发扬民主，有效保障代表的知情权、参与权、表达权、监督权，使当选同志得到代表真心拥护和群众广泛认可。各位召集人要带头严格遵守政治纪律和政治规矩，引导代表从政治上思考和处理问题。要严格遵守“十严禁”的换届纪律规定，坚决杜绝各种非组织行为和违纪违法行为。大会期间，市委设立了临时党委，各代表团也建立了临时党支部，各党组织要坚决贯彻省市委主张和意图，扛牢责任、发挥作用，切实把大会开成讲民主、顾大局、重团结、促和谐的大会。\n会议酝酿了大会主席团和秘书长建议名单，就大会议程（草案）、大会日程（草案）征求了意见。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-08",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "personnel",
+  "keywords": [
+    "人民代表大会",
+    "换届选举",
+    "十五五开局"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民代表大会",
+      "name_en": "People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Election and Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五开局",
+      "name_en": "15th Five-Year Plan Start"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "人民代表大会",
+    "换届选举",
+    "十五五开局"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "People's Congress",
+    "Election and Leadership Transition",
+    "15th Five-Year Plan Start"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian",
+      {
+        "id": null,
+        "name_zh": "周青"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261109-gov_huai_an-69d55e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

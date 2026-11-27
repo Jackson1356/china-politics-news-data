@@ -1,0 +1,102 @@
+{
+  "id": "20261111-gov_cn_yaowen-d9a41d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085823.htm",
+  "title_zh": "全国冬小麦播种过八成",
+  "title_en": "Winter Wheat Sowing Tops 80% Nationwide",
+  "summary_zh": "农业农村部最新农情调度显示，当前全国冬小麦播种已过八成，黄淮海、安徽、山东等主产区抢抓农时推进秋冬种，确保播种质量。",
+  "summary_en": "China's winter wheat sowing has surpassed 80% nationwide, according to the Ministry of Agriculture and Rural Affairs, with major producing areas racing to complete autumn and winter planting with high quality.",
+  "body_zh": "当前，我国粮食主产区正抢抓农时，加紧推进秋冬种。农业农村部最新农情调度显示，冬小麦播种过八成。\n秋冬种面积占全年粮食播种面积的近四分之一，主要作物是冬小麦，播种面积和质量关系到明年夏粮产量。在全国最大的冬小麦主产区黄淮海，今年，为应对超强厄尔尼诺可能造成的暖冬，冬小麦播期比常年推迟5到7天，防止冬前旺长。\n安徽冬小麦面积预计稳定在4300万亩以上。在亳州，当地投入近5000台高性能播种机，搭载的北斗导航系统精准定位，确保播种行距、深度一致，不重播、不漏播，提高播种质量。\n山东6000多万亩冬小麦播种进入扫尾阶段。在莱西，当地通过智慧农业平台，推行线上线下“双线”服务。航测仪提前采集土壤墒情、田间环境等数据上传平台，农技专家再针对性给出播种方案，精准反馈给农民。\n秋冬种农用化肥需求预计占全年的27%左右。全国供销系统加大采购调运力度，保障农资量足价稳。\n目前，全国冬小麦主产区墒情适宜，播种质量高，出苗较好，秋冬种进展顺利。",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "economy",
+  "keywords": [
+    "秋冬种",
+    "冬小麦",
+    "粮食安全"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋冬种",
+      "name_en": "Autumn and Winter Planting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "冬小麦",
+      "name_en": "Winter Wheat"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "安徽",
+    "山东",
+    "秋冬种",
+    "冬小麦",
+    "粮食安全"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Anhui",
+    "Shandong",
+    "Autumn and Winter Planting",
+    "Winter Wheat",
+    "Food Security"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-AH",
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-gov_cn_yaowen-d9a41d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

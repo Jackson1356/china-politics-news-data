@@ -1,0 +1,104 @@
+{
+  "id": "20261127-chinanews_gn-86413b",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-27/10738889.shtml",
+  "title_zh": "全球首个海洋通用基座大模型“沧穹 CEORION”发布",
+  "title_en": "World's First General-Purpose Ocean Foundation Model \"CEORION\" Released",
+  "summary_zh": "11月27日，哈尔滨工程大学深海机器人研究院在哈尔滨成立，并发布全球首个海洋通用基座大模型“沧穹 CEORION”。",
+  "summary_en": "On Nov 27, Harbin Engineering University inaugurated its Deep-Sea Robotics Research Institute in Harbin and released CEORION, the world's first general-purpose ocean foundation model.",
+  "body_zh": "全球首个海洋通用基座大模型“沧穹 CEORION”发布\n中新社哈尔滨11月27日电 (记者 史轶夫)哈尔滨工程大学深海机器人研究院成立大会27日在哈尔滨举行。成立仪式上发布了全球首个海洋通用基座大模型“沧穹 CEORION”。\n该模型基于语言—世界—动作模型统一架构，动态融合视觉、声学、压力、流体、姿态等多维度传感数据，搭建端到端统一神经网络，能够实现语义理解、环境建模和动作生成的融合，并且实现水下环境感知、任务研判、路径规划、自主作业、应急处置等全流程自主闭环以及指数级泛化的通用智能能力。\n哈尔滨工程大学是“三海一核”(船舶工业、海军装备、海洋开发、核能应用)领域重要的科学研究和人才培养基地，建有智能海洋航行器技术全国重点实验室、水声技术全国重点实验室等一批高水平科研平台。\n深海机器人研究院由哈尔滨工程大学与世航智能科技股份有限公司联合共建，聚焦深海机器人、新概念海洋机器人等前沿方向，打造集基础研究探索、关键技术攻关、产品技术创新、成果转化、人才培养、行业服务于一体的高水平创新载体。\n未来，哈尔滨工程大学深海机器人研究院将推动学校科研成果与大模型深度融合，推动深海智能技术在深海复杂场景应用。(完)\n国内新闻精选：\n- 2026年11月27日 18:21:01\n- 2026年11月27日 15:47:31\n- 2026年11月27日 15:32:10\n- 2026年11月27日 14:14:22\n- 2026年11月27日 12:24:56\n- 2026年11月27日 08:50:30\n- 2026年11月26日 21:29:05\n- 2026年11月26日 19:54:54\n- 2026年11月26日 18:36:28\n- 2026年11月26日 17:27:34",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-27",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "industry",
+  "keywords": [
+    "海洋智能",
+    "人工智能大模型",
+    "深海机器人"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "哈尔滨工程大学",
+      "name_en": "Harbin Engineering University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL-HRB",
+      "name_zh": "哈尔滨",
+      "name_en": "Harbin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋智能",
+      "name_en": "Ocean Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能大模型",
+      "name_en": "AI Foundation Models"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "深海机器人",
+      "name_en": "Deep-Sea Robotics"
+    }
+  ],
+  "tags_zh": [
+    "哈尔滨工程大学",
+    "哈尔滨",
+    "海洋智能",
+    "人工智能大模型",
+    "深海机器人"
+  ],
+  "tags_en": [
+    "Harbin Engineering University",
+    "Harbin",
+    "Ocean Intelligence",
+    "AI Foundation Models",
+    "Deep-Sea Robotics"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL-HRB"
+    ],
+    "companies": [
+      {
+        "name_zh": "哈尔滨工程大学",
+        "name_en": "Harbin Engineering University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261127-chinanews_gn-86413b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738903.shtml",
+      "title_zh": "哈尔滨工程大学深海机器人研究院成立",
+      "published_at": "2026-11-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

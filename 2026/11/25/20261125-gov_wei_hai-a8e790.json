@@ -1,0 +1,109 @@
+{
+  "id": "20261125-gov_wei_hai-a8e790",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/11/25/art_58817_6765786.html",
+  "title_zh": "孔凡萍调研重点企业发展",
+  "title_en": "Kong Fanping Inspects Development of Key Enterprises",
+  "summary_zh": "11月24日，威海市市长孔凡萍到环翠区、高区调研医药和电子信息等重点企业，强调落实药品质量安全责任、强化科技创新和“链长制”。",
+  "summary_en": "On Nov 24, Weihai Mayor Kong Fanping visited key pharmaceutical and electronic-information enterprises in Huancui District and the High-tech Zone, stressing drug quality and safety, technological innovation and the \"chain chief\" mechanism.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 李文思）11月24日，市委副书记、市长孔凡萍到环翠区、高区调研重点企业发展，强调要强化企业科技创新主体地位，深化“链长制”推进机制，压紧压实药品质量安全责任，做优做强医药产业和新一代信息技术产业，为全市经济高质量发展注入新动能。\n在威海人生药业集团股份有限公司，孔凡萍走进企业展厅和药品生产车间，详细了解企业发展历程、生产经营、产品研发和质量管控等情况，实地查看提取、浓缩等生产环节。孔凡萍强调，药品质量安全事关人民群众生命健康，是企业发展的生命线。企业要严格落实药品安全主体责任，健全全流程质量管控体系，严把原料采购、生产工艺、出厂检验等关口，确保药品安全有效、质量可靠。要坚守主业方向，保证产品效果，切实以过硬质量赢得市场信誉。要加大研发投入，强化产品创新，推动中医药传承创新，不断丰富产品种类。要加强品牌宣传推广，拓宽市场渠道，让更多优质产品惠及群众。\n在威海东兴电子有限公司，孔凡萍走进展厅，详细了解电子变压器、制氧机等产品研发制造和市场应用情况，勉励企业坚定发展信心，深耕细分领域，持续提升核心竞争力。在威海华菱光电股份有限公司，孔凡萍实地查看生产车间，仔细询问图像传感器技术攻关、订单生产等情况，鼓励企业坚持创新驱动发展，加强技术攻关，持续巩固行业领先优势。孔凡萍强调，各级各部门要围绕产业链谋划推动企业发展，加强政策指导，落实联系服务企业机制，及时帮助企业解决实际困难。要支持企业加大产品创新力度，深化关键核心技术攻关，加快产品迭代升级，抢占行业发展制高点。要认真落实“链长制”工作机制，强化产业链上下游协同配套，推动龙头企业和配套企业集聚发展，延伸产业链、提升价值链，培育壮大特色优势产业集群，夯实工业经济稳增长根基。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "economy",
+  "keywords": [
+    "企业发展",
+    "医药产业",
+    "科技创新",
+    "链长制"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "孔凡萍",
+      "name_en": "Kong Fanping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "企业发展",
+      "name_en": "Enterprise Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医药产业",
+      "name_en": "Pharmaceutical Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "链长制",
+      "name_en": "Chain Chief System"
+    }
+  ],
+  "tags_zh": [
+    "孔凡萍",
+    "威海",
+    "企业发展",
+    "医药产业",
+    "科技创新",
+    "链长制"
+  ],
+  "tags_en": [
+    "Kong Fanping",
+    "Weihai",
+    "Enterprise Development",
+    "Pharmaceutical Industry",
+    "Technological Innovation",
+    "Chain Chief System"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "孔凡萍"
+      },
+      {
+        "id": null,
+        "name_zh": "高区"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261125-gov_wei_hai-a8e790",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

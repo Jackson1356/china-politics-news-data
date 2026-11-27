@@ -1,0 +1,73 @@
+{
+  "id": "20260907-xinhua_politics-7b2774",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260907/05daeec7f3c44f8eaf2164c09ed05d62/c.html",
+  "title_zh": "院士解读西藏吉隆泥石流：真正危险的不止是冰川",
+  "title_en": "Academician Explains Mudslide in Gyirong, Xizang: The Real Danger Is More Than Glaciers",
+  "summary_zh": "8月26日，尼泊尔一侧泥石流造成西藏吉隆口岸重大人员伤亡和失联。中国工程院院士殷跃平接受新华社采访，剖析灾害成因，提示风险不止冰川。",
+  "summary_en": "On August 26, a mudslide from Nepal caused major casualties and missing persons at Gyirong Port, Xizang. Yin Yueping, academician of Chinese Academy of Engineering, explained the disaster mechanism, warning risks are not limited to glaciers.",
+  "body_zh": "8月26日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。记者近日采访中国工程院院士、自然资源部地质灾害技术指导中心首席科学家殷跃平，解读此次灾害成因。\n记者：索朗德吉、洛卓嘉措、黄智琪、普布次仁、张宝亢\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-08-26",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害",
+      "name_en": "Geohazard"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    }
+  ],
+  "tags_zh": [
+    "西藏",
+    "地质灾害",
+    "防灾减灾"
+  ],
+  "tags_en": [
+    "Geohazard",
+    "Disaster Prevention and Reduction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260907-xinhua_politics-7b2774",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "20261126-xinhua_cq-564401",
+  "source": "xinhua_cq",
+  "source_name_zh": "新华网 重庆",
+  "source_name_en": "Xinhua Chongqing",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cq.news.cn/20261126/1e1a6a5b92374a60b4cbcda850cd3354/c.html",
+  "title_zh": "袁家军陈新武会见共青团中央书记处第一书记阿东",
+  "title_en": "Yuan Jiajun and Chen Xinwu Meet with A Dong, First Secretary of the Communist Youth League Central Secretariat",
+  "summary_zh": "11月25日下午，重庆市委书记袁家军、市长陈新武会见共青团中央第一书记阿东一行，就青年工作、建设青年发展型城市等合作交流。",
+  "summary_en": "On the afternoon of Nov 25, Chongqing Party Secretary Yuan Jiajun and Mayor Chen Xinwu met with A Dong, First Secretary of the Communist Youth League Central Secretariat, to discuss cooperation on youth work and building a youth-development-oriented city.",
+  "body_zh": "▲11月25日下午，市委书记袁家军会见共青团中央书记处第一书记阿东。记者 苏思 摄/视觉重庆\n11月25日下午，市委书记袁家军，市委副书记、市长陈新武会见了共青团中央书记处第一书记阿东一行。\n袁家军代表市委、市政府欢迎阿东一行来渝，感谢共青团中央长期以来对重庆的关心支持。袁家军说，当前，全市上下正全面学习全面贯彻党的二十届五中全会精神，深学笃行习近平总书记关于青年工作的重要思想，坚持党管青年工作原则，全面加强青少年思想政治引领，加快推进全市域青年发展型城市建设，全方位服务赋能青年成长成才，动员引领广大青年为奋力谱写中国式现代化重庆篇章贡献青春力量。希望共青团中央一如既往关心重庆发展，在加强党建带团建、建设青年发展型城市、促进青年对外交流合作、深化共青团改革等方面加大指导支持力度，更好推动重庆共青团和青少年工作高质量发展。\n阿东感谢重庆市委、市政府对共青团和青少年工作的重视关心。他说，共青团中央将深入学习贯彻党的二十届五中全会精神，全面贯彻习近平总书记关于青年工作的重要思想，在落实党建带团建制度机制、加强思想政治引领、编制实施新一轮中长期青年发展规划、做好青年志愿服务等方面深化同重庆合作，更好团结引领广大青年立足岗位、担当奋斗，为强国建设、民族复兴伟业贡献青春力量。\n共青团中央有关部门和单位，市有关部门和团市委负责人参加。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "青年工作",
+    "青年发展型城市",
+    "党建带团建"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yuan-jiajun",
+      "name_zh": "袁家军",
+      "name_en": "Yuan Jiajun"
+    },
+    {
+      "kind": "person",
+      "id": "chen-xinwu",
+      "name_zh": "陈新武",
+      "name_en": "Chen Xinwu"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "阿东",
+      "name_en": "A Dong"
+    },
+    {
+      "kind": "institution",
+      "id": "CYL",
+      "name_zh": "共青团中央",
+      "name_en": "Communist Youth League Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年工作",
+      "name_en": "Youth Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "青年发展型城市",
+      "name_en": "Youth-Development-Oriented City"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党建带团建",
+      "name_en": "Party Building Guiding League Building"
+    }
+  ],
+  "tags_zh": [
+    "袁家军",
+    "陈新武",
+    "阿东",
+    "共青团中央",
+    "重庆",
+    "青年工作",
+    "青年发展型城市",
+    "党建带团建"
+  ],
+  "tags_en": [
+    "Yuan Jiajun",
+    "Chen Xinwu",
+    "A Dong",
+    "Communist Youth League Central Committee",
+    "Chongqing",
+    "Youth Work",
+    "Youth-Development-Oriented City",
+    "Party Building Guiding League Building"
+  ],
+  "entities": {
+    "politicians": [
+      "yuan-jiajun",
+      "chen-xinwu",
+      {
+        "id": null,
+        "name_zh": "阿东"
+      }
+    ],
+    "institutions": [
+      "CYL"
+    ],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-xinhua_cq-564401",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

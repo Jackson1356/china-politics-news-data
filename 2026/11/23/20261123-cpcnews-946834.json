@@ -1,0 +1,101 @@
+{
+  "id": "20261123-cpcnews-946834",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1123/c64387-40838556.html",
+  "title_zh": "前10月铁路完成固定资产投资6773亿元",
+  "title_en": "Railway Fixed-Asset Investment Hits 677.3 Billion Yuan in First 10 Months",
+  "summary_zh": "记者从中国国家铁路集团有限公司获悉，前10月全国铁路完成固定资产投资6773亿元，同比增长0.9%，一批重点铁路项目取得积极进展。",
+  "summary_en": "China's railway fixed-asset investment reached 677.3 billion yuan in the first 10 months of the year, up 0.9 percent year on year, with a batch of major rail projects making progress, according to China State Railway Group.",
+  "body_zh": "本报北京11月22日电 （记者李心萍）记者从中国国家铁路集团有限公司获悉：前10月全国铁路完成固定资产投资6773亿元，同比增长0.9%，有效发挥铁路投资拉动作用。\n10月以来，一批重点工程项目取得积极进展。天府新区至蒲江铁路正式开通运营，与成都至雅安铁路、成都至自贡至宜宾高速铁路衔接，雅安站至天府机场站最快80分钟可达；淮北至宿州至蚌埠城际铁路、阜阳至蒙城至宿州（淮北）铁路、巢湖至马鞍山城际铁路启动试运行；重庆至万州高速铁路、银川至巴彦浩特铁路启动联调联试；渝昆高铁宜宾至昆明南段铺轨完成；成都至达州至万州高速铁路、兰州至张掖高速铁路武威至张掖段、南通至宁波高速铁路相继进入铺轨阶段。\n《 人民日报 》（ 2026年11月23日 02 版）",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路投资",
+    "基础设施",
+    "固定资产投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路投资",
+      "name_en": "Railway Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "固定资产投资",
+      "name_en": "Fixed-Asset Investment"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "北京",
+    "铁路投资",
+    "基础设施",
+    "固定资产投资"
+  ],
+  "tags_en": [
+    "China State Railway Group",
+    "Beijing",
+    "Railway Investment",
+    "Infrastructure",
+    "Fixed-Asset Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261123-cpcnews-946834",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087021.htm",
+      "title_zh": "前10月铁路完成固定资产投资6773亿元",
+      "published_at": "2026-11-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

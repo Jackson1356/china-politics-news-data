@@ -1,0 +1,84 @@
+{
+  "id": "20260818-chinanews_gn-db0bf7",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/08-18/10679654.shtml",
+  "title_zh": "中方回应帕劳总统涉中国导弹试射言论：用心险恶，不值一评",
+  "title_en": "China Responds to Palau President's Missile Test Remarks: Malicious and Not Worth Commenting",
+  "summary_zh": "8月18日，外交部发言人林剑在例行记者会上回应帕劳总统惠普斯涉中国导弹试射言论，称其毫无根据、用心险恶、不值一评。",
+  "summary_en": "On August 18, Foreign Ministry spokesman Lin Jian responded to Palau President Surangel Whipps Jr.'s remarks on China's missile test, calling them baseless, malicious, and not worth commenting.",
+  "body_zh": "中方回应帕劳总统涉中国导弹试射言论：用心险恶，不值一评\n中新网北京8月18日电(记者 李京泽 邢翀)中国外交部发言人林剑18日主持例行记者会。\n有记者提问：据报道，帕劳总统惠普斯称，希望太平洋岛国就中国近期洲际弹道导弹试射一事形成“统一立场”。他称，“从中国的角度来看，他们是想让我们知道，你们的任何一座岛屿，我们都能摧毁。”惠普斯还质疑，中国为何选择在靠近图瓦卢和所罗门群岛的海域试射具备核打击能力的导弹，而不是选择中美之间的公海。中方对此有何回应？\n林剑：中方已就试射活动阐明立场。帕方上述言论毫无根据，用心险恶，不值一评。(完)\n国内新闻精选：\n- 2026年08月18日 16:38:32\n- 2026年08月18日 14:11:32\n- 2026年08月18日 11:21:45\n- 2026年08月18日 11:15:17\n- 2026年08月18日 11:07:44\n- 2026年08月17日 16:38:14\n- 2026年08月17日 15:15:29\n- 2026年08月17日 14:36:57\n- 2026年08月17日 14:35:15\n- 2026年08月17日 14:26:28",
+  "image_url": null,
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "event_date": "2026-08-18",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交回应",
+    "导弹试射"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交回应",
+      "name_en": "Diplomatic Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "导弹试射",
+      "name_en": "Missile Test"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "外交回应",
+    "导弹试射"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Diplomatic Response",
+    "Missile Test"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260818-chinanews_gn-db0bf7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

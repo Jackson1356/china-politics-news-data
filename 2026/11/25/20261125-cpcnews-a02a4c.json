@@ -1,0 +1,94 @@
+{
+  "id": "20261125-cpcnews-a02a4c",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://fanfu.people.com.cn/n1/2026/1125/c64371-40839948.html",
+  "title_zh": "10月全国查处违反中央八项规定精神问题28934起",
+  "title_en": "China Handles 28,934 Cases Violating the Central Eight-Point Rules in October",
+  "summary_zh": "中央纪委国家监委11月24日通报，10月全国查处违反中央八项规定精神问题28934起，批评教育和处理35193人，其中党纪政务处分23996人。",
+  "summary_en": "On Nov 24, the CCDI and National Supervisory Commission reported 28,934 cases of violating the Central Eight-Point Rules in October, with 35,193 people handled and 23,996 disciplined.",
+  "body_zh": "本报北京11月24日电 （记者史一棋）中央纪委国家监委24日公布了10月全国查处违反中央八项规定精神问题汇总情况。通报显示，10月，全国共查处违反中央八项规定精神问题28934起，批评教育和处理35193人，其中党纪政务处分23996人。\n根据通报，10月，在履职尽责、服务经济社会发展和生态环境保护方面不担当、不作为、乱作为、假作为，严重影响高质量发展方面，共查处问题13020起，占查处的形式主义、官僚主义问题总数的84.5%。查处的违规收送名贵特产和礼品礼金、违规吃喝、违规发放津补贴或福利3类问题，分别占当月查处的享乐主义、奢靡之风问题总数的63.7%、17.1%、11.4%。\n通报显示，10月，全国共查处省部级领导干部问题2起，查处地厅级领导干部问题94起，县处级领导干部问题1591起，乡科级及以下干部问题27247起。其中，乡科级及以下干部问题占查处问题总数的94.2%。\n《 人民日报 》（ 2026年11月25日 02 版）",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "discipline",
+  "keywords": [
+    "中央八项规定",
+    "作风建设",
+    "形式主义官僚主义"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央八项规定",
+      "name_en": "Central Eight-Point Rules"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "作风建设",
+      "name_en": "Work Style Improvement"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "形式主义官僚主义",
+      "name_en": "Formalism and Bureaucratism"
+    }
+  ],
+  "tags_zh": [
+    "中央纪委国家监委",
+    "中央八项规定",
+    "作风建设",
+    "形式主义官僚主义"
+  ],
+  "tags_en": [
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Central Eight-Point Rules",
+    "Work Style Improvement",
+    "Formalism and Bureaucratism"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261125-cpcnews-a02a4c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_politics",
+      "source_tier": 1,
+      "url": "http://politics.people.com.cn/n1/2026/1125/c461001-40839849.html",
+      "title_zh": "10月全国查处违反中央八项规定精神问题28934起 --时政--人民网",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

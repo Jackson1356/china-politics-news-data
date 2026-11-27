@@ -1,0 +1,104 @@
+{
+  "id": "20261111-chinanews_gn-266fdc",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-11/10730298.shtml",
+  "title_zh": "山东省司法厅原党委书记、厅长解维俊受贿案一审宣判",
+  "title_en": "Former Shandong Justice Department Chief Xie Weijun Sentenced in First-Instance Bribery Ruling",
+  "summary_zh": "2026年11月11日，山东省司法厅原党委书记、厅长解维俊受贿案由枣庄市中级人民法院一审宣判，法院认定其受贿折合人民币1490万余元。",
+  "summary_en": "On Nov 11, 2026, the Zaozhuang Intermediate People's Court issued a first-instance verdict in the bribery case of Xie Weijun, former Party secretary and director of Shandong's Justice Department, finding he took over 14.9 million yuan in bribes.",
+  "body_zh": "山东省司法厅原党委书记、厅长解维俊受贿案一审宣判\n经审理查明：2001年3月至2025年11月，被告人解维俊利用担任淄博市临淄区委副书记、区长，临淄区委书记，淄博齐鲁化学工业区党工委书记，潍坊市委常委、政法委书记等职务上的便利，为相关单位或个人在案件办理、企业经营、项目承揽等方面提供帮助，非法收受财物共计折合人民币1490万余元，其中738万余元未实际取得。\n枣庄市中级人民法院认为，被告人解维俊的行为构成受贿罪，且数额特别巨大。鉴于解维俊具有未遂情节；到案后如实供述自己的罪行，主动交代调查机关尚未掌握的部分受贿事实；积极退赃，受贿犯罪所得及孳息已全部追缴；自愿认罪认罚，依法可对其从轻、从宽处罚。法庭遂作出上述判决。\n枣庄市中级人民法院于2026年9月23日公开开庭审理了该案。庭审中，公诉机关出示了相关证据，被告人解维俊及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见，解维俊进行了最后陈述，并当庭表示认罪悔罪。\n国内新闻精选：\n- 2026年11月11日 07:00:01\n- 2026年11月10日 22:03:06\n- 2026年11月10日 15:38:19\n- 2026年11月10日 12:05:41\n- 2026年11月10日 08:45:47\n- 2026年11月09日 16:49:56\n- 2026年11月09日 13:48:47\n- 2026年11月09日 13:13:37\n- 2026年11月08日 20:38:02\n- 2026年11月08日 17:31:16",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-11",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "discipline",
+  "keywords": [
+    "受贿案",
+    "反腐败",
+    "司法系统"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "解维俊",
+      "name_en": "Xie Weijun"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "枣庄市中级人民法院",
+      "name_en": "Zaozhuang Intermediate People's Court"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿案",
+      "name_en": "Bribery Case"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-Corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法系统",
+      "name_en": "Judicial System"
+    }
+  ],
+  "tags_zh": [
+    "解维俊",
+    "枣庄市中级人民法院",
+    "山东",
+    "受贿案",
+    "反腐败",
+    "司法系统"
+  ],
+  "tags_en": [
+    "Xie Weijun",
+    "Zaozhuang Intermediate People's Court",
+    "Shandong",
+    "Bribery Case",
+    "Anti-Corruption",
+    "Judicial System"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SD"
+    ],
+    "companies": [
+      {
+        "name_zh": "枣庄市中级人民法院",
+        "name_en": "Zaozhuang Intermediate People's Court"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261111-chinanews_gn-266fdc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

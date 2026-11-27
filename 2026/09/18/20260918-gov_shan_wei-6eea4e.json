@@ -1,0 +1,92 @@
+{
+  "id": "20260918-gov_shan_wei-6eea4e",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1277723.html",
+  "title_zh": "汕尾市政府党组会议、常务会议召开 研究部署安全稳定、经济发展等工作",
+  "title_en": "Shanwei Municipal Government Holds Party Group and Executive Meetings on Safety, Stability and Economic Development",
+  "summary_zh": "9月18日，汕尾市政府召开党组会议、常务会议，传达学习习近平总书记重要指示精神，研究部署安全生产、社会稳定和三、四季度经济发展等工作。",
+  "summary_en": "On Sept 18, the Shanwei Municipal Government held party group and executive meetings to implement General Secretary Xi Jinping's instructions and plan work on safety, stability and economic development.",
+  "body_zh": "市政府党组会议、常务会议召开\n认真学习贯彻习近平总书记重要指示精神\n研究部署安全稳定、经济发展等工作\n9月18日，市政府召开党组会议、常务会议，传达学习习近平总书记重要指示精神，部署抓好安全稳定、经济发展等工作。\n会议强调，要深入学习贯彻习近平总书记对山东青岛市北海造船厂一货轮火灾事故作出的重要指示精神，落实落细“面上普查+重点详查”，紧盯船舶修造企业、“九小场所”、“三合一”场所等重点整治各类火灾隐患，坚决遏制重特大事故发生。要毫不松懈抓好中秋、国庆假期交通运输、旅游景区、大型活动、食品安全等各项安全保障工作，切实维护人民群众生命财产安全和社会大局稳定。\n会议传达学习省政府常务会议精神，认真分析1-8月经济运行情况，强调要深入学习贯彻习近平总书记、党中央关于经济工作的决策部署，全面落实省委、省政府和市委工作要求，坚定信心、实干争先，以更加有力举措冲刺三季度、四季度各项目标任务，全力争取更好发展结果。要促进工业平稳增长，靠前助企纾困解难、开拓市场，加力推动重点企业稳产扩产，支持企业工业设备升级、产线优化改造。要抓紧抓实项目建设和投资工作，深入实施招商引资“敲门行动”，打好重点项目“百日攻坚”行动，全力破解项目落地堵点卡点，推动在建项目形成更多实物工作量、拟新开工项目及早开工。要多措并举推动消费扩容升级，用好“以旧换新”“广东优品购”资金，办好中秋、国庆等重要节假日旅游推广和促消费活动，加快培育壮大“赛事+文旅”“美食+节庆”等融合消费模式。要抓实外贸提质增长，扩大“新三品”“新三样”优势产品出海，深化“跨境电商+产业带”发展，大力开拓多元化国际市场。要毫不放松抓好粮食生产，加强病虫灾害监测防控和自然灾害预警，保障粮食作物稳产丰产，促进海洋牧场养殖规模持续扩大。要强化“四税收入”征管，全面盘活政府性资源资产，持续做大财政“蛋糕”。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-18",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "economy",
+  "keywords": [
+    "安全生产",
+    "经济发展",
+    "招商引资"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济发展",
+      "name_en": "Economic Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Promotion"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "汕尾",
+    "安全生产",
+    "经济发展",
+    "招商引资",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shanwei",
+    "Work Safety",
+    "Economic Development",
+    "Investment Promotion"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260918-gov_shan_wei-6eea4e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

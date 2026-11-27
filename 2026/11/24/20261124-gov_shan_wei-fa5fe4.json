@@ -1,0 +1,113 @@
+{
+  "id": "20261124-gov_shan_wei-fa5fe4",
+  "source": "gov_shan_wei",
+  "source_name_zh": "汕尾市政府网",
+  "source_name_en": "汕尾 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shan_wei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zwdt/zwyw/content/post_1314020.html",
+  "title_zh": "逯峰会见广东省全国人大代表视察组",
+  "title_en": "Lu Feng Meets Guangdong Provincial NPC Deputies Inspection Team",
+  "summary_zh": "11月23日，汕尾市委书记逯峰会见到访的广东省全国人大代表视察组，介绍经济社会发展情况，并希望代表为老区振兴建言。",
+  "summary_en": "On Nov 23, Shanwei Party Secretary Lu Feng met a delegation of Guangdong NPC deputies visiting Shanwei, briefing them on local development and seeking support for the old revolutionary area.",
+  "body_zh": "11月23日，市委书记、市人大常委会主任逯峰会见了来汕尾开展视察活动的广东省全国人大代表视察组一行。市委副书记刘星参加会见。\n逯峰代表市委、市政府对广东省全国人大代表视察组表示欢迎和感谢，并简要介绍了汕尾经济社会发展情况。逯峰说，当前，汕尾正深入学习贯彻习近平总书记视察广东和出席亚太经合组织第三十三次领导人非正式会议及相关活动重要讲话重要指示精神，锚定省委赋予的“西承东联桥头堡、东海岸重要支点”战略定位，坚持“海洋强市、融湾先行”，以深入实施“百千万工程”为总牵引，全力打好“四大会战”，奋力开创汕尾高质量发展和现代化建设新局面。希望人大代表一如既往关心支持汕尾工作，积极为海陆丰革命老区振兴发展鼓与呼，聚焦产业科技融合发展、“百千万工程”实施、深度融入粤港澳大湾区建设、民生事业发展等重点领域，提出更多具有建设性、实操性的意见建议，助推汕尾高质量发展增创新优势、实现新突破。\n视察组成员一致表示，大家真切感受到汕尾近年来经济社会发展所取得的新进展新成效，将认真履行人大代表职责，充分发挥人大代表了解民情、反映民意、集中民智的独特作用，梳理吸纳视察中了解到的情况和意见建议，围绕革命老区振兴发展、区域协调发展、深汕产业协作、绿电资源开发利用等重点问题深入研究、积极建言，促进有关意见建议更好转化为务实举措，为汕尾高质量发展争取更多支持、汇聚更大合力。\n市领导周毅、林军、郭文炯参加会见。\n记者：钟佳韦　　通讯员：单伟宗",
+  "image_url": null,
+  "published_at": "2026-11-24T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "人大代表视察",
+    "百千万工程",
+    "革命老区振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lu-feng-shanwei",
+      "name_zh": "逯峰",
+      "name_en": "Lu Feng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SW",
+      "name_zh": "汕尾",
+      "name_en": "Shanwei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大代表视察",
+      "name_en": "NPC Deputies Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "百千万工程",
+      "name_en": "Hundred-Thousand-Ten Thousand Project"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "革命老区振兴",
+      "name_en": "Revitalization of Old Revolutionary Areas"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "逯峰",
+    "汕尾",
+    "人大代表视察",
+    "百千万工程",
+    "革命老区振兴",
+    "习近平"
+  ],
+  "tags_en": [
+    "Lu Feng",
+    "Shanwei",
+    "NPC Deputies Inspection",
+    "Hundred-Thousand-Ten Thousand Project",
+    "Revitalization of Old Revolutionary Areas"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-feng-shanwei",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "郭文炯"
+      },
+      {
+        "id": null,
+        "name_zh": "任逯峰"
+      },
+      {
+        "id": null,
+        "name_zh": "刘星"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SW"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261124-gov_shan_wei-fa5fe4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

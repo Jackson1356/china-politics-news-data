@@ -1,0 +1,117 @@
+{
+  "id": "20261117-local_da_zhong_wang_cn_sd-ae2e3a",
+  "source": "local_da_zhong_wang_cn_sd",
+  "source_name_zh": "大众网",
+  "source_name_en": "大众网",
+  "source_media_id": "cac-cn-sd-9149c52ad8",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.dzwww.com/xinwen/guoneixinwen/202611/t20261117_18307742.htm",
+  "title_zh": "习近平广东行：走进孙中山故居纪念馆",
+  "title_en": "Xi Jinping Visits Sun Yat-sen Former Residence Museum in Zhongshan, Guangdong",
+  "summary_zh": "11月16日上午，习近平总书记在广东中山市考察调研，参观孙中山故居纪念馆，向孙中山先生铜像敬献花篮并察看故居保护情况。",
+  "summary_en": "On the morning of Nov 16, Xi Jinping inspected Zhongshan in Guangdong, visiting the Sun Yat-sen Former Residence Museum, laying a floral basket before Sun's bronze statue and reviewing preservation of the residence.",
+  "body_zh": "16日上午，习近平总书记来到中山市考察调研。他来到孙中山故居纪念馆，向孙中山先生铜像敬献花篮，参观“中国民主革命的伟大先驱——孙中山”展览，察看故居保护情况。\n广东省中山市翠亨村，是伟大的民族英雄、伟大的爱国主义者、中国民主革命的伟大先驱孙中山先生的出生地。\n1892年，孙中山亲自设计并主持建成故居主楼。如今，孙中山故居纪念馆已成为国家一级博物馆，全国爱国主义教育示范基地。\n100多年来，孙中山先生“振兴中华”的口号鼓舞了一代又一代中国人，不断被赋予新的时代意义和内涵。\n追寻伟人足迹\n缅怀不朽功勋\n感悟宝贵精神\n审核：杨童童",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "爱国主义教育",
+    "历史文化保护",
+    "孙中山精神"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZS",
+      "name_zh": "中山",
+      "name_en": "Zhongshan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义教育",
+      "name_en": "Patriotic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史文化保护",
+      "name_en": "Cultural Heritage Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山精神",
+      "name_en": "Sun Yat-sen Legacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "广东",
+    "中山",
+    "爱国主义教育",
+    "历史文化保护",
+    "孙中山精神"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Guangdong",
+    "Zhongshan",
+    "Patriotic Education",
+    "Cultural Heritage Protection",
+    "Sun Yat-sen Legacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD",
+      "CN-GD-ZS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261117-local_da_zhong_wang_cn_sd-ae2e3a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-11/17/content_39104385.htm",
+      "title_zh": "习近平广东行丨复兴薪火永相传——走进孙中山故居纪念馆",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": 3,
+      "url": "https://www.dzwww.com/xinwen/guoneixinwen/202611/t20261117_18308779.htm",
+      "title_zh": "时政现场说丨赓续先驱之志 奋进复兴征程_时政新闻_大众网",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

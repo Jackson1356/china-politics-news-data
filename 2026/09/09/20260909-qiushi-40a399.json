@@ -1,0 +1,128 @@
+{
+  "id": "20260909-qiushi-40a399",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260909/30dfb2fe9e61450294447c6283263039/c.html",
+  "title_zh": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+  "title_en": "Xi Jinping Extends Festive Greetings to Teachers and Educators Nationwide on 42nd Teachers' Day",
+  "summary_zh": "9月9日，在第四十二个教师节到来之际，习近平代表党中央向全国广大教师和教育工作者致以节日祝贺和诚挚问候，强调加强教师队伍建设、弘扬教育家精神。",
+  "summary_en": "On September 9, ahead of the 42nd Teachers' Day, Xi Jinping extended festive greetings and sincere regards to teachers and educators nationwide on behalf of the CPC Central Committee, stressing teacher workforce development.",
+  "body_zh": "新华社北京9月9日电 在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。\n习近平指出，长期以来，全国广大教师认真贯彻党的教育方针，躬耕教坛、传道授业，为党和国家事业发展作出了重要贡献。\n习近平强调，新征程上，希望广大教师牢记为党育人、为国育才的初心使命，落实立德树人根本任务，大力弘扬教育家精神，涵养高尚师德师风，提升专业素质能力，努力培养担当民族复兴大任的时代新人。各级党委和政府要重视加强教师队伍建设，在全社会营造尊师重教良好氛围，汇聚起教育强国建设的强大合力。\n网站编辑 -\n王雅雯\n张盼 审核 - 于波",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "welfare",
+  "keywords": [
+    "教师队伍建设",
+    "教育强国",
+    "立德树人"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教师队伍建设",
+      "name_en": "Teacher Workforce Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育强国",
+      "name_en": "Building an Education Powerhouse"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立德树人",
+      "name_en": "Fostering Virtue Through Education"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中共中央",
+    "北京",
+    "教师队伍建设",
+    "教育强国",
+    "立德树人"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "CPC Central Committee",
+    "Beijing",
+    "Teacher Workforce Development",
+    "Building an Education Powerhouse",
+    "Fostering Virtue Through Education"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260909-local_qing_dao_ri_bao_cn_sd-6ebaeb",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://tv.cctv.com/2026/09/09/VIDEMpXPw1zhPlfJWvrzhANd260909.shtml",
+      "title_zh": "[视频]在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080532.htm",
+      "title_zh": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chang_de",
+      "source_tier": 4,
+      "url": "http://www.hunan.gov.cn/hnyw/sy/tt1/202609/t20260909_34060553.html",
+      "title_zh": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

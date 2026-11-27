@@ -1,0 +1,102 @@
+{
+  "id": "20261117-cpcnews-2bf418",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1117/c64387-40835309.html",
+  "title_zh": "第三轮第七批中央生态环保督察完成进驻",
+  "title_en": "Third Round, Seventh Batch of Central Eco-Environmental Inspections Completes Deployment",
+  "summary_zh": "2026年10月13日至15日，5个中央生态环保督察组陆续进驻住房城乡建设部、农业农村部，并对湖北、湖南、广西、重庆、四川、贵州、云南7省区市开展溶洞天坑污染专项督察。",
+  "summary_en": "Five central eco-environmental inspection teams were deployed from Oct 13 to 15, 2026 to the housing and agriculture ministries and to seven provincial-level regions to probe cave and sinkhole pollution.",
+  "body_zh": "第三轮第七批5个中央生态环境保护督察组于2026年10月13日至10月15日陆续进驻住房城乡建设部、农业农村部两部门开展例行督察，对湖北、湖南、广西、重庆、四川、贵州、云南7省（区、市）开展溶洞天坑山谷污染问题生态环境保护专项督察。\n各督察组把解决群众反映突出的生态环境问题作为督察工作的重点，深入一线、深入现场，查实一批突出生态环境问题，核实一批不作为、慢作为，不担当、不碰硬，甚至敷衍应对、弄虚作假等问题。有关部门和省（区、市）高度重视中央生态环境保护督察工作，大力推动整改落实。在解决群众信访问题中，既认真查处、坚决整改，也实事求是、分类施策，做到精准科学依法。\n《 人民日报 》（ 2026年11月17日 11 版）",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "discipline",
+  "keywords": [
+    "生态环境保护督察",
+    "溶洞天坑污染治理",
+    "整改落实"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MARA",
+      "name_zh": "农业农村部",
+      "name_en": "Ministry of Agriculture and Rural Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HB",
+      "name_zh": "湖北",
+      "name_en": "Hubei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护督察",
+      "name_en": "Eco-Environmental Inspection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "溶洞天坑污染治理",
+      "name_en": "Karst Cave and Sinkhole Pollution Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "整改落实",
+      "name_en": "Rectification Implementation"
+    }
+  ],
+  "tags_zh": [
+    "农业农村部",
+    "湖北",
+    "四川",
+    "生态环境保护督察",
+    "溶洞天坑污染治理",
+    "整改落实"
+  ],
+  "tags_en": [
+    "Ministry of Agriculture and Rural Affairs",
+    "Hubei",
+    "Sichuan",
+    "Eco-Environmental Inspection",
+    "Karst Cave and Sinkhole Pollution Control",
+    "Rectification Implementation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MARA"
+    ],
+    "locations": [
+      "CN-HB",
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261117-cpcnews-2bf418",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

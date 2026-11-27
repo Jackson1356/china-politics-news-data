@@ -1,0 +1,82 @@
+{
+  "id": "20261110-xinhua_politics-8be06b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261110/4fbb3570a88d4a0a8bc4b53b9bcc45a8/c.html",
+  "title_zh": "第43次南极考察：“雪龙”号穿越赤道进入南半球",
+  "title_en": "Xuelong Crosses Equator as China's 43rd Antarctic Expedition Heads South",
+  "summary_zh": "北京时间11月9日16时25分，执行中国第43次南极考察任务的“雪龙”号穿越赤道进入南半球，考察队举行穿越赤道纪念活动。",
+  "summary_en": "At 16:25 Beijing time on Nov 9, the icebreaker Xuelong, on China's 43rd Antarctic expedition, crossed the equator into the Southern Hemisphere, and the team held a ceremony on board.",
+  "body_zh": "赤道是南北半球的分界线。北京时间11月9日16时25分，正在执行中国第43次南极考察任务的“雪龙”号穿越赤道，进入南半球。\n考察队当天在“雪龙”号上举行了穿越赤道纪念活动。队员们排列成“43”字样的队形合影留念，参与了拔河、套圈、投壶等游戏，以简单而热烈的方式告别北半球，继续向南极挺进。\n中国第43次南极考察队由自然资源部组织，考察任务由“雪龙”号、“雪龙2”号和“大洋号”三船共同保障，来自国内100多家单位的600余名队员参加，预计将于2027年4月完成任务后返航。\n记者：邹多为\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "industry",
+  "keywords": [
+    "极地科学考察",
+    "海洋科考"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MNR",
+      "name_zh": "自然资源部",
+      "name_en": "Ministry of Natural Resources"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "南极",
+      "name_en": "Antarctica"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "极地科学考察",
+      "name_en": "Polar Scientific Expedition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海洋科考",
+      "name_en": "Marine Research"
+    }
+  ],
+  "tags_zh": [
+    "自然资源部",
+    "南极",
+    "极地科学考察",
+    "海洋科考"
+  ],
+  "tags_en": [
+    "Ministry of Natural Resources",
+    "Antarctica",
+    "Polar Scientific Expedition",
+    "Marine Research"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MNR"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 1,
+  "cluster_id": "evt-20261109-xinhua_politics-3def26",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "20261021-peoples_sh-aae194",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/1021/c138654-41728089.html",
+  "title_zh": "国际航运周在浦东开幕 浦东新区出台航运服务人才发展实施方案",
+  "title_en": "International Shipping Week Opens in Pudong as District Unveils Plan for Shipping Talent Development",
+  "summary_zh": "10月20日下午，为期六天的国际航运周在浦东开幕，上海海事局推出五方面首创举措，浦东新区同步出台航运服务人才发展实施方案。",
+  "summary_en": "The six-day International Shipping Week opened in Pudong, Shanghai on Oct 20, where the Shanghai Maritime Safety Administration launched five pioneering measures and Pudong released a plan to develop shipping service talent.",
+  "body_zh": "国际航运周在浦东开幕 《浦东新区关于促进航运服务人才发展的实施方案》正式出台\n国际航运周在浦东开幕\n昨天下午，为期六天的国际航运周在浦东正式开幕，来自19个国家和地区、110余位外籍嘉宾出席，包括波罗的海国际航运公会、国际船级社协会、伦敦海事服务协会等一批国际知名航运经济组织与企业高管参会。\n开幕式上，上海海事局推出安全、效率、产业、绿色、标准五方面首创举措，包括联合气象部门依托“妈祖”方案部署气象站群、组建全国首个船舶新型污染物处置研发中心、编制国内首部PCTC检查指南等。10个领域浦东航运创新发展应用场景落地，集中展示航运大模型Hi-Reader海阅数字人、长江多式联运数据协同链、国产邮轮和国产CPGC M450双燃料中速发动机、全球航贸智能决策平台、生物医药冷链港等一批航运智能化数字化绿色化标杆实践。\n此外，《浦东新区关于促进航运服务人才发展的实施方案》正式出台。同时，浦东新区宣布联动波罗的海国际航运公会、亚太运输资产保护协会、英国皇家航空学会等国际机构，携手中远海运集团、中国船东协会、中国海事仲裁委员会上海总部等单位，搭建国际化人才培育体系，匹配航运人才服务保障举措。\n市委常委、浦东新区区委书记、中国（上海）自由贸易试验区管委会主任李政，副市长贺青出席活动。",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "industry",
+  "keywords": [
+    "航运服务",
+    "人才发展",
+    "绿色航运",
+    "国际航运中心"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-zheng-shanghai",
+      "name_zh": "李政",
+      "name_en": "Li Zheng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "上海海事局",
+      "name_en": "Shanghai Maritime Safety Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航运服务",
+      "name_en": "Shipping Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才发展",
+      "name_en": "Talent Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色航运",
+      "name_en": "Green Shipping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际航运中心",
+      "name_en": "International Shipping Center"
+    }
+  ],
+  "tags_zh": [
+    "李政",
+    "上海海事局",
+    "上海",
+    "航运服务",
+    "人才发展",
+    "绿色航运",
+    "国际航运中心"
+  ],
+  "tags_en": [
+    "Li Zheng",
+    "Shanghai Maritime Safety Administration",
+    "Shanghai",
+    "Shipping Services",
+    "Talent Development",
+    "Green Shipping",
+    "International Shipping Center"
+  ],
+  "entities": {
+    "politicians": [
+      "li-zheng-shanghai",
+      {
+        "id": null,
+        "name_zh": "方案"
+      },
+      {
+        "id": null,
+        "name_zh": "贺青"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": [
+      {
+        "name_zh": "上海海事局",
+        "name_en": "Shanghai Maritime Safety Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261021-peoples_sh-aae194",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

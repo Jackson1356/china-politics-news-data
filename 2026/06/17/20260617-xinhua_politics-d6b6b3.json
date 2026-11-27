@@ -1,0 +1,80 @@
+{
+  "id": "20260617-xinhua_politics-d6b6b3",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260617/0ca4cd6735a543cb8960bcd5df919669/c.html",
+  "title_zh": "水利部安排部署新一轮强降雨防范应对工作",
+  "title_en": "Ministry of Water Resources Deploys Measures to Combat New Round of Heavy Rainfall",
+  "summary_zh": "水利部于6月17日在北京组织会商，针对6月18日至22日我国多地将出现的强降雨过程，部署防范应对工作。",
+  "summary_en": "On June 17, the Ministry of Water Resources held a meeting in Beijing to deploy prevention and response measures for a new round of heavy rainfall expected across China from June 18 to 22.",
+  "body_zh": "新华社北京6月17日电（记者魏弘毅）记者从水利部获悉，未来几天我国将有新一轮强降雨过程。水利部17日组织会商，分析研判雨情汛情形势，针对性安排部署强降雨防范应对工作。\n记者了解到，6月18日至22日，受冷暖空气共同影响，江淮、江南北部西部、华南中部西部、西南东部南部及湖北大部等地将有一次强降雨过程，以大到暴雨为主。广西南部和西北部、云南东南部、湖北东部、安徽南部、江苏中部南部、江西东北部等地部分地区将有大暴雨，并伴有短时强降雨。受其影响，珠江流域西江干流及支流柳江、桂江、郁江，长江中下游干流及洞庭湖水系沅江澧水、鄱阳湖水系昌江乐安河、汉江中下游及鄂东四水，淮河上中游干流及支流史灌河、淠河，太湖及钱塘江等河流将出现明显涨水过程，暴雨区内部分中小河流可能发生超警以上洪水。\n为应对可能出现的汛情，水利部指导督促落实落细各项防御措施。一是密切监视雨情水情汛情发展态势，滚动预测预报，及时发布预警信息；二是科学精准调度水工程拦洪削峰错峰，有效减轻防洪压力；三是强化水库安全度汛，严格落实水库“三个责任人”和“三个重点环节”，特别要做好中小水库、病险水库巡查防守，病险水库原则上一律空库运行；四是突出抓好强降雨区中小河流洪水和山洪灾害防御，加强山洪灾害监测预警，严格落实“谁组织、转移谁、何时转、转何处、不擅返”五个关键环节责任和措施。",
+  "image_url": null,
+  "published_at": "2026-06-17T12:00:00+00:00",
+  "event_date": "2026-06-17",
+  "ingested_at": "2026-06-19T09:43:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "强降雨防范",
+    "防汛"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降雨防范",
+      "name_en": "Heavy Rainfall Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛",
+      "name_en": "Flood Control"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "北京",
+    "强降雨防范",
+    "防汛"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Beijing",
+    "Heavy Rainfall Prevention",
+    "Flood Control"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260617-xinhua_politics-d6b6b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

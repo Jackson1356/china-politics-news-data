@@ -1,0 +1,103 @@
+{
+  "id": "20261019-bjnews-e18a49",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1792398685129541.html",
+  "title_zh": "央行公布系列措施：扩大常备借贷便利适用机构范围等",
+  "title_en": "PBOC Unveils Series of Measures, Including Expanding Scope of Standing Lending Facility",
+  "summary_zh": "2026年10月19日，中国人民银行行长潘功胜在2026金融街论坛年会开幕式上宣布设立非银机构流动性支持工具、扩大常备借贷便利适用机构范围、推动债券市场互联互通等系列政策措施。",
+  "summary_en": "On October 19, 2026, PBOC Governor Pan Gongsheng announced at the opening of the 2026 Financial Street Forum a series of measures, including a liquidity support tool for non-bank institutions, expanding the standing lending facility's scope, and advancing bond market connectivity.",
+  "body_zh": "据央视新闻消息，2026金融街论坛年会今天下午开幕，论坛主题为“开放·合作·包容——共筑全球金融发展新生态”。\n开幕式上，中国人民银行行长潘功胜宣布中国人民银行即将推动出台的一系列政策措施，包括设立应对非银机构大额赎回的流动性支持工具、扩大常备借贷便利的适用机构范围、推动债券市场互联互通落地、便利境外金融机构在境内外汇市场开展人民币购售业务、出台金融支持建设北京（京津冀）等国际科技创新中心的指导意见。中国人民银行还将顺应市场需求，增强高质量的政策供给，推进人民币国际化。\n（总台央视记者 孙艳）",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "货币政策",
+    "人民币国际化",
+    "流动性支持"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "pan-gongsheng",
+      "name_zh": "潘功胜",
+      "name_en": "Pan Gongsheng"
+    },
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货币政策",
+      "name_en": "Monetary Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民币国际化",
+      "name_en": "RMB Internationalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "流动性支持",
+      "name_en": "Liquidity Support"
+    }
+  ],
+  "tags_zh": [
+    "潘功胜",
+    "中国人民银行",
+    "北京",
+    "货币政策",
+    "人民币国际化",
+    "流动性支持"
+  ],
+  "tags_en": [
+    "Pan Gongsheng",
+    "People's Bank of China",
+    "Beijing",
+    "Monetary Policy",
+    "RMB Internationalization",
+    "Liquidity Support"
+  ],
+  "entities": {
+    "politicians": [
+      "pan-gongsheng"
+    ],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261019-bjnews-e18a49",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20261125-xinhua_politics-5347db",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261125/2b4343e5a8ea4675b18d7219d45ca62f/c.html",
+  "title_zh": "神舟二十四号出征仪式现场观众：祝成功，待凯旋",
+  "title_en": "Spectators at Shenzhou-24 Send-off Ceremony: Wishing Success and a Triumphant Return",
+  "summary_zh": "11月25日，神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行，现场观众送上祝福，期盼凯旋。",
+  "summary_en": "On November 25, the send-off ceremony for the Shenzhou-24 crew was held at the Jiuquan Satellite Launch Center, where spectators wished the astronauts success and a triumphant return.",
+  "body_zh": "11月25日，神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行。现场观众：祝你们成功，等你们凯旋。\n记者：新华社前方报道组\n编导：龙泠宇\n新华社音视频部\n新华社解放军分社\n新华社内蒙古分社\n联合制作\n新华网 >  > 正文",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "industry",
+  "keywords": [
+    "载人航天",
+    "神舟二十四号"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-JQ",
+      "name_zh": "酒泉",
+      "name_en": "Jiuquan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Manned Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "神舟二十四号",
+      "name_en": "Shenzhou-24 Mission"
+    }
+  ],
+  "tags_zh": [
+    "酒泉",
+    "载人航天",
+    "神舟二十四号"
+  ],
+  "tags_en": [
+    "Jiuquan",
+    "Manned Spaceflight",
+    "Shenzhou-24 Mission"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS-JQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261125-xinhua_politics-5347db",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20261125/736ed59c9e1f4b76a3621496dcb13cf9/c.html",
+      "title_zh": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    },
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20261125/43f27523435848c0930c693e85926801/c.html",
+      "title_zh": "60秒回顾神舟二十四号发射精彩瞬间",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

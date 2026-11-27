@@ -1,0 +1,142 @@
+{
+  "id": "20261011-gov_huai_bei-6abcf8",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/tpxw/65181600.html",
+  "title_zh": "蒋曦调研中国农大淮北试验基地和秸秆禁烧工作",
+  "title_en": "Jiang Xi Inspects CAU Huaibei Experimental Base and Straw Burning Ban Work",
+  "summary_zh": "10月11日上午，淮北市委书记蒋曦前往濉溪县、烈山区，调研中国农业大学淮北试验基地和秸秆禁烧工作，强调以科技创新赋能农业现代化。",
+  "summary_en": "On the morning of October 11, Jiang Xi, Party Secretary of Huaibei, inspected the China Agricultural University Huaibei Experimental Base and straw burning ban work in Suixi County and Lieshan District, stressing tech-driven agricultural modernization.",
+  "body_zh": "蒋曦调研中国农大淮北试验基地和秸秆禁烧工作\n10月11日上午，市委书记蒋曦前往濉溪县、烈山区，调研中国农业大学淮北试验基地和秸秆禁烧工作。他强调，要深入学习贯彻习近平总书记关于“三农”工作的重要论述和考察安徽重要讲话精神，认真落实市第十次党代会精神，以科技创新赋能农业现代化，标本兼治抓好抓实秸秆禁烧，扎实推进乡村全面振兴。\n市委有关副秘书长，市直相关部门及濉溪县委、烈山区委主要负责同志分别参加上述活动。",
+  "image_url": null,
+  "published_at": "2026-10-11T12:00:00+00:00",
+  "event_date": "2026-10-11",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "economy",
+  "keywords": [
+    "三农工作",
+    "科技创新",
+    "秸秆禁烧",
+    "乡村振兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "蒋曦",
+      "name_en": "Jiang Xi"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国农业大学",
+      "name_en": "China Agricultural University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HB",
+      "name_zh": "淮北",
+      "name_en": "Huaibei"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "濉溪县",
+      "name_en": "Suixi County"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "烈山区",
+      "name_en": "Lieshan District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "三农工作",
+      "name_en": "Agriculture, Rural Areas and Farmers"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Scientific and Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秸秆禁烧",
+      "name_en": "Straw Burning Ban"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    }
+  ],
+  "tags_zh": [
+    "蒋曦",
+    "中国农业大学",
+    "淮北",
+    "濉溪县",
+    "烈山区",
+    "三农工作",
+    "科技创新",
+    "秸秆禁烧",
+    "乡村振兴"
+  ],
+  "tags_en": [
+    "Jiang Xi",
+    "China Agricultural University",
+    "Huaibei",
+    "Suixi County",
+    "Lieshan District",
+    "Agriculture, Rural Areas and Farmers",
+    "Scientific and Technological Innovation",
+    "Straw Burning Ban",
+    "Rural Revitalization"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "蒋曦"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HB"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国农业大学",
+        "name_en": "China Agricultural University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261011-gov_huai_bei-6abcf8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_bei",
+      "source_tier": null,
+      "url": "https://www.huaibei.gov.cn/xwzx/zwyw/65181597.html",
+      "title_zh": "蒋曦调研中国农大淮北试验基地和秸秆禁烧工作",
+      "published_at": "2026-10-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

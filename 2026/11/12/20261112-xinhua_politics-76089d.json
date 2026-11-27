@@ -1,0 +1,111 @@
+{
+  "id": "20261112-xinhua_politics-76089d",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261112/c3f62c519228403bb1b16f738d38f74b/c.html",
+  "title_zh": "第六届中国城市国际传播论坛在山东青岛举行",
+  "title_en": "Sixth China City International Communication Forum Held in Qingdao, Shandong",
+  "summary_zh": "11月12日，第六届中国城市国际传播论坛在山东青岛举行，新华社副社长袭艳春、青岛市委书记曾赞荣致辞，论坛发布城市国际影响力报告。",
+  "summary_en": "The 6th China City International Communication Forum was held Nov 12 in Qingdao, Shandong. Xinhua deputy head Xi Yanchun and Qingdao party chief Zeng Zanrong spoke; a city influence report was released.",
+  "body_zh": "新华社青岛11月12日电（记者李傲秋、陈向阳）第六届中国城市国际传播论坛12日在山东青岛举行。\n新华社副社长、党组成员袭艳春在致辞中说，城市是展示国家形象的重要窗口，是中国式现代化可感知、可体验、可共情的生动样本。做好城市国际传播，要树立城市形象，打造独具特色的城市IP；放大城市声音，推动传播方式转变；赋能城市发展，把城市国际传播转化为驱动城市发展的动能；共建城市品牌，更好打开国际传播格局。新华社将发挥全媒体、全球化、多语种的综合优势，为城市国际传播提供强大助力。\n山东省委常委、青岛市委书记曾赞荣在致辞中说，青岛是我国沿海重要的中心城市，开放优势突出、对外交往活跃，在推进地方国际传播中具有良好条件。工作中，青岛突出发展主题，融入开放大局，深化文明互鉴，用心用情讲好新时代青岛故事，努力为国际传播工作大局贡献青岛力量。\n论坛发布了《中国城市国际影响力发展报告（2026）》，公布了“中国城市国际传播十大年度热词”，并发布了《第六届中国城市国际传播论坛（青岛）倡议》。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-12",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际传播",
+    "城市形象",
+    "城市IP",
+    "对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "XINHUA",
+      "name_zh": "新华社",
+      "name_en": "Xinhua News Agency"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-QD",
+      "name_zh": "青岛",
+      "name_en": "Qingdao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际传播",
+      "name_en": "International Communication"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市形象",
+      "name_en": "City Image"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市IP",
+      "name_en": "City IP"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    }
+  ],
+  "tags_zh": [
+    "新华社",
+    "青岛",
+    "山东",
+    "国际传播",
+    "城市形象",
+    "城市IP",
+    "对外开放"
+  ],
+  "tags_en": [
+    "Xinhua News Agency",
+    "Qingdao",
+    "Shandong",
+    "International Communication",
+    "City Image",
+    "City IP",
+    "Opening Up"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "XINHUA"
+    ],
+    "locations": [
+      "CN-SD-QD",
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261112-xinhua_politics-76089d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

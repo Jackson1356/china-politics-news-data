@@ -1,0 +1,70 @@
+{
+  "id": "20260701-peoples_bj-05ae6e",
+  "source": "peoples_bj",
+  "source_name_zh": "人民网 北京",
+  "source_name_en": "People's Daily Beijing",
+  "source_url": "http://bj.people.com.cn/n2/2026/0701/c14540-41626227.html",
+  "title_zh": "北京市郊铁路城市副中心线西段提升工程投运",
+  "title_en": "Western Section of Beijing Suburban Railway City Sub-center Line Upgrade Project Starts Operation",
+  "summary_zh": "北京市郊铁路城市副中心线西段提升工程于2026年7月1日投运，新增3个车站并加密开行，实现房山与通州直连。",
+  "summary_en": "The western section upgrade of the Beijing Suburban Railway City Sub-center Line started operation on July 1, 2026, adding three stations and enabling direct connection between Fangshan and Tongzhou.",
+  "body_zh": "北京市郊铁路城市副中心线西段提升工程今日投运\n副中心线西段提升工程投入运营后，北京市房山、丰台、石景山三区分别新增房山东站、后吕村站、衙门口东站3个市郊铁路车站。同时，城市副中心线列车数增至26列，其中早晚高峰时段加密开行。同步安排12列车实现房山与通州的直连贯通，其中10列车通达副中心。\n据悉，除12306铁路客票外，旅客还可通过中铁银通卡、铁路e卡通等铁路票种乘车，也可使用已开通市郊铁路功能的普通实体一卡通、北京一卡通APP（含NFC）、支付宝APP乘车码、亿通行APP二维码等方式扫码进站。",
+  "image_url": null,
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "event_date": "2026-07-01",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "industry",
+  "keywords": [
+    "基础设施建设",
+    "公共交通"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共交通",
+      "name_en": "Public Transportation"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "基础设施建设",
+    "公共交通"
+  ],
+  "tags_en": [
+    "Beijing",
+    "Infrastructure Construction",
+    "Public Transportation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260701-peoples_bj-05ae6e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "20261019-local_hai_xia_wang_cn_fj-4e3761",
+  "source": "local_hai_xia_wang_cn_fj",
+  "source_name_zh": "海峡网",
+  "source_name_en": "海峡网",
+  "source_media_id": "cac-cn-fj-148595a132",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-FJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.hxnews.com/news/gn/szxw/202610/19/2274635.shtml",
+  "title_zh": "习近平总书记乌兰察布行",
+  "title_en": "Xi Jinping Inspects Ulanqab, Inner Mongolia",
+  "summary_zh": "10月16日，习近平总书记在内蒙古乌兰察布市考察黄旗海自然保护区生态治理和“东数西算”枢纽节点建设，强调因地制宜推动高质量发展。",
+  "summary_en": "On October 16, Xi Jinping inspected Ulanqab in Inner Mongolia, reviewing ecological restoration at Huangqihai Nature Reserve and the construction of an \"East Data, West Computing\" hub, urging locally tailored high-quality development.",
+  "body_zh": "金秋十月，习近平总书记来到内蒙古自治区乌兰察布市考察。\n16日上午，习近平来到位于乌兰察布市察哈尔右翼前旗的黄旗海自然保护区，听取内蒙古自治区加强生态环境保护和当地推进黄旗海环境综合治理、生态系统修复等情况汇报，并实地察看水岸滩涂生态、栖息鸟类等。\n随后，习近平前往察哈尔高新技术开发区，了解内蒙古自治区推进“东数西算”工程枢纽节点建设和绿色算力产业发展等情况，察看当地特色农牧产品展示，并同有关算力中心项目负责人、技术人员、察哈尔高新区工作人员等亲切交流。\n考察途中，习近平强调，各地区要按照党中央战略决策和规划部署，立足自身条件、发挥比较优势，因地制宜推动高质量发展。",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "economy",
+  "keywords": [
+    "生态环境保护",
+    "东数西算",
+    "绿色算力",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM",
+      "name_zh": "内蒙古",
+      "name_en": "Inner Mongolia"
+    },
+    {
+      "kind": "location",
+      "id": "CN-NM-WLCB",
+      "name_zh": "乌兰察布",
+      "name_en": "Ulanqab"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态环境保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东数西算",
+      "name_en": "East Data, West Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色算力",
+      "name_en": "Green Computing Power"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "内蒙古",
+    "乌兰察布",
+    "生态环境保护",
+    "东数西算",
+    "绿色算力",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Inner Mongolia",
+    "Ulanqab",
+    "Ecological Protection",
+    "East Data, West Computing",
+    "Green Computing Power",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM",
+      "CN-NM-WLCB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261016-gov_xi_an-e7e2f1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "local_ji_nan_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "http://news.e23.cn/content/2026-10-19/2026A1900080.html",
+      "title_zh": "时政微纪录丨习近平总书记乌兰察布行",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "20260918-gov_ji_nan-187e9d",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_110757cbcfb44b54b91c907213401b0c.html",
+  "title_zh": "第29届中国临床肿瘤学会学术年会在济南召开",
+  "title_en": "29th CSCO Annual Meeting Opens in Jinan",
+  "summary_zh": "9月17日，第29届中国临床肿瘤学会学术年会在济南开幕，济南市委书记刘强出席并致辞，省委常委邓云锋出席政企专家座谈交流会并讲话。",
+  "summary_en": "The 29th Annual Meeting of the Chinese Society of Clinical Oncology (CSCO) opened in Jinan on Sept 17, with Jinan Party Secretary Liu Qiang delivering remarks and provincial official Deng Yunfeng addressing a government-enterprise expert symposium.",
+  "body_zh": "第29届中国临床肿瘤学会学术年会在济南召开\n9月17日，第29届中国临床肿瘤学会（CSCO）学术年会在济南开幕。省委副书记、济南市委书记刘强出席开幕式并致辞，省委常委、统战部部长邓云锋出席政企专家座谈交流会并讲话。\n在政企专家座谈交流会上，院士专家、医药器械企业代表围绕医工交叉融合、科研成果创新转化、肿瘤防治人才队伍建设等交流发言。邓云锋表示，要深化政企学研四方联动，拓展合作空间，共享发展机遇，实现医疗服务提质与产业发展升级的双向赋能。\n本届年会以“守正规范 数智创新”为主题，汇聚20余位国内外肿瘤领域院士专家参会，这是中国临床肿瘤学会学术年会连续第二年落地济南。年会为期3天，设置85个学术专场，全方位展现我国临床肿瘤诊疗与研究领域最新进展，为助力健康中国建设、守护人民健康注入更多专业力量。",
+  "image_url": null,
+  "published_at": "2026-09-18T12:00:00+00:00",
+  "event_date": "2026-09-17",
+  "ingested_at": "2026-09-19T08:52:55Z",
+  "topic": "welfare",
+  "keywords": [
+    "肿瘤防治",
+    "医工交叉融合",
+    "科研成果转化",
+    "健康中国"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "person",
+      "id": "deng-yunfeng",
+      "name_zh": "邓云锋",
+      "name_en": "Deng Yunfeng"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国临床肿瘤学会",
+      "name_en": "Chinese Society of Clinical Oncology (CSCO)"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "肿瘤防治",
+      "name_en": "Cancer Prevention and Treatment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医工交叉融合",
+      "name_en": "Medicine-Engineering Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科研成果转化",
+      "name_en": "Translation of Research Results"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康中国",
+      "name_en": "Healthy China"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "邓云锋",
+    "中国临床肿瘤学会",
+    "济南",
+    "肿瘤防治",
+    "医工交叉融合",
+    "科研成果转化",
+    "健康中国"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Deng Yunfeng",
+    "Chinese Society of Clinical Oncology (CSCO)",
+    "Jinan",
+    "Cancer Prevention and Treatment",
+    "Medicine-Engineering Integration",
+    "Translation of Research Results",
+    "Healthy China"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      "deng-yunfeng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国临床肿瘤学会",
+        "name_en": "Chinese Society of Clinical Oncology (CSCO)"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260918-gov_ji_nan-187e9d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

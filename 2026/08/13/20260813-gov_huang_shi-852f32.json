@@ -1,0 +1,86 @@
+{
+  "id": "20260813-gov_huang_shi-852f32",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huangshi.gov.cn/xwdt/hsyw/202608/t20260813_1350462.html",
+  "title_zh": "深入学习贯彻中央政治局会议精神 奋力完成全年经济社会发展目标任务",
+  "title_en": "Wu Zhiling Chairs Huangshi Government Standing Meeting on Economic Tasks",
+  "summary_zh": "8月12日，黄石市市长吴之凌主持召开市政府常务会议，传达学习中央政治局会议精神，研究农业农村、港口物流、应急体系等'十五五'发展规划。",
+  "summary_en": "On August 12, Huangshi Mayor Wu Zhiling chaired a government standing meeting to convey the spirit of the CPC Central Political Bureau meeting and discuss the 15th Five-Year Plan for agriculture, port logistics, and emergency response.",
+  "body_zh": "12日，市委副书记、市长吴之凌主持召开市政府党组理论学习中心组（扩大）学习暨市政府第117次常务会议，传达学习习近平总书记在中央政治局会议、党外人士座谈会上的重要讲话精神和省委常委会（扩大）会议暨省委经济工作座谈会精神以及中央、省委学习教育工作专班有关通报精神，研究农业农村、港口物流、应急体系和应急能力建设等“十五五”发展规划。\n会议强调，要深入学习贯彻习近平总书记在中央政治局会议上的重要讲话精神，把思想和行动统一到党中央和省委、市委对当前经济形势的科学判断上来，进一步坚定完成全年目标任务的信心和决心。要聚焦项目建设、招商引资、服务企业等重点任务精准发力，加压奋进、真抓实干，推动经济健康平稳运行，确保党中央决策部署和省委、市委工作要求落地见效。要统筹发展和安全，抓好防台风、防汛抗旱、安全生产等工作，切实筑牢安全屏障。要坚持严字当头，认真吸取反面典型案例教训，全面抓好整改整治，认真做好评估总结，慎终如始抓好学习教育各项工作。\n会议要求，要以推进乡村全面振兴为抓手，紧盯农业产业化，大力发展品牌特色农业，狠抓新型农村集体经济培育，加强乡村人居环境整治，一体推进农业农村现代化，奋力打造全省城乡融合发展示范区、全省现代都市农业示范区。要发挥黄石新港对区域经济服务带动作用，提升多式联运效率，加强与武汉阳逻港分工协作，与上海、宁波舟山等沿海港口的联动，全力推动黄石港口物流高质量发展。要强化应急教育培训，加强监管执法，提升本质安全，注重智慧预警，完善快速科学应急处置体系，全面提升应急保障能力。\n会议还审议了《黄石市促进武汉都市圈公共交通一体化条例（草案）》等。（王若梦）",
+  "image_url": null,
+  "published_at": "2026-08-13T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "economy",
+  "keywords": [
+    "经济工作",
+    "乡村振兴",
+    "港口物流"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济工作",
+      "name_en": "Economic Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乡村振兴",
+      "name_en": "Rural Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港口物流",
+      "name_en": "Port Logistics"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "经济工作",
+    "乡村振兴",
+    "港口物流",
+    "习近平"
+  ],
+  "tags_en": [
+    "Economic Work",
+    "Rural Revitalization",
+    "Port Logistics"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "吴之凌"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260813-gov_huang_shi-852f32",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

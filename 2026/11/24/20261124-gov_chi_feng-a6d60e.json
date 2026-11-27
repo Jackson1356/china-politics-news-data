@@ -1,0 +1,83 @@
+{
+  "id": "20261124-gov_chi_feng-a6d60e",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/jrtt/202611/t20261124_2852627.html",
+  "title_zh": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
+  "title_en": "Single-Volume Edition of Xi Jinping's Speech at Sun Yat-sen 160th Anniversary Commemoration Published",
+  "summary_zh": "中共中央总书记、国家主席、中央军委主席习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本已由人民出版社出版，2026年11月24日起在全国新华书店发行。",
+  "summary_en": "The single-volume edition of Xi Jinping's speech at the commemoration of the 160th anniversary of Sun Yat-sen's birth, published by the People's Publishing House, went on sale at Xinhua Bookstores nationwide on November 24, 2026.",
+  "body_zh": "中共中央总书记、国家主席、中央军委主席习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本，已由人民出版社出版，即日起在全国新华书店发行。\n习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版\n新华社\n发布时间：2026-11-24 07:40\n相关文件链接",
+  "image_url": null,
+  "published_at": "2026-11-24T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "领导人讲话",
+    "孙中山诞辰160周年",
+    "出版物发行"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "领导人讲话",
+      "name_en": "Leadership Speech"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山诞辰160周年",
+      "name_en": "160th Anniversary of Sun Yat-sen's Birth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出版物发行",
+      "name_en": "Publication Release"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "领导人讲话",
+    "孙中山诞辰160周年",
+    "出版物发行"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Leadership Speech",
+    "160th Anniversary of Sun Yat-sen's Birth",
+    "Publication Release"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261124-gov_chi_feng-a6d60e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

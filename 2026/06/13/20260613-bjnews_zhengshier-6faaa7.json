@@ -1,0 +1,83 @@
+{
+  "id": "20260613-bjnews_zhengshier-6faaa7",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1781320537129897.html",
+  "title_zh": "陇东学院拟注销6名聘用人员事业编制",
+  "title_en": "Longdong University Proposes to Cancel Public Institution Status of Six Employees",
+  "summary_zh": "陇东学院于6月13日发布公告，拟依法解除与6名擅自离校或未按期返校人员的聘用关系并注销其事业编制。",
+  "summary_en": "Longdong University announced on June 13 its proposal to terminate employment and cancel the public institution status of six employees who left without approval or failed to return from studies.",
+  "body_zh": "6人拟被注销事业编，陇东学院公告详情\n陇东学院6月13日在《甘肃日报》发布公告。\n公告称，该校迟某某、曹某某、施某、孙某某、刘某5名聘用人员外出读博后未按期返校，史某某未经批准擅自离校脱岗，依据《事业单位人事管理条例》第十五条之规定，经学校党委常委会会议研究决定，拟依法解除与迟某某等6名聘用人员的聘用关系并注销其事业编制。因未与本人取得有效联系或本人收到通知后未到校办理解聘手续，现通过公告方式予以送达。请以上人员自公告登报之日起30个工作日内到所在部门及学校人事处办理工作交接手续或进行申辩陈述。逾期视为放弃权利，学校将按规定办理相关手续，并保留追偿权利。\n公告公示了6人姓名、身份信息等。据介绍，陇东学院是一所全日制综合性省属普通本科院校，地处甘肃省庆阳市。\n《事业单位人事管理条例》第十五条规定，事业单位工作人员连续旷工超过15个工作日，或者1年内累计旷工超过30个工作日的，事业单位可以解除聘用合同。",
+  "image_url": null,
+  "published_at": "2026-06-13T11:16:12+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "personnel",
+  "keywords": [
+    "事业编制",
+    "人事管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "陇东学院",
+      "name_en": "Longdong University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "事业编制",
+      "name_en": "Public Institution Establishment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事管理",
+      "name_en": "Personnel Management"
+    }
+  ],
+  "tags_zh": [
+    "陇东学院",
+    "甘肃",
+    "事业编制",
+    "人事管理"
+  ],
+  "tags_en": [
+    "Longdong University",
+    "Gansu",
+    "Public Institution Establishment",
+    "Personnel Management"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS"
+    ],
+    "companies": [
+      {
+        "name_zh": "陇东学院",
+        "name_en": "Longdong University"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 1,
+  "cluster_id": "evt-20260613-bjnews_zhengshier-6faaa7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

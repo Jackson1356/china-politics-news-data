@@ -1,0 +1,119 @@
+{
+  "id": "20260802-local_si_chuan_zai_xian_cn_sc-7bb92c",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202608/83299259.html",
+  "title_zh": "学习新语丨坚定不移走中国特色强军之路",
+  "title_en": "Xi Jinping Emphasizes Unswervingly Following the Path of Building a Strong Military with Chinese Characteristics",
+  "summary_zh": "今天是八一建军节，文章回顾习近平总书记领航强军事业取得历史性成就，强调坚定不移走中国特色强军之路、如期实现建军一百年奋斗目标。",
+  "summary_en": "On Army Day, the article reviews Xi Jinping's leadership in achieving historic accomplishments in military development and his emphasis on firmly following the path of building a strong military with Chinese characteristics and achieving the centenary goal of the PLA.",
+  "body_zh": "今天是八一建军节。千秋伟业大道如砥，强国强军征途如虹。党的十八大以来，在习近平总书记领航掌舵下，在习近平强军思想科学指引下，新时代强军事业取得历史性成就、发生历史性变革。\n从边防哨所到军队院校，从训练一线到海军舰艇⋯⋯习近平总书记一次次来到官兵中间，问冷暖、鼓干劲，强调“坚定不移走中国特色强军之路”“如期实现建军一百年奋斗目标，加快把人民军队建成世界一流军队”。",
+  "image_url": null,
+  "published_at": "2026-08-02T12:00:00+00:00",
+  "event_date": "2026-08-01",
+  "ingested_at": "2026-08-03T07:32:13Z",
+  "topic": "party",
+  "keywords": [
+    "强军",
+    "中国特色强军之路",
+    "建军一百年奋斗目标"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强军",
+      "name_en": "Strong Military"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国特色强军之路",
+      "name_en": "Path of Building a Strong Military with Chinese Characteristics"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "建军一百年奋斗目标",
+      "name_en": "Centenary Goal of the PLA"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "强军",
+    "中国特色强军之路",
+    "建军一百年奋斗目标"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Strong Military",
+    "Path of Building a Strong Military with Chinese Characteristics",
+    "Centenary Goal of the PLA"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260801-xinhua_leaders-21cf1c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-08/02/content_23749275.htm",
+      "title_zh": "学习新语｜坚定不移走中国特色强军之路",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "local_ji_nan_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "http://news.e23.cn/content/2026-08-02/2026080200220.html",
+      "title_zh": "学习新语｜坚定不移走中国特色强军之路",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "local_qing_dao_ri_bao_cn_sd",
+      "source_tier": 4,
+      "url": "https://www.dailyqd.com/guanhai/466039_1.html",
+      "title_zh": "学习新语｜坚定不移走中国特色强军之路",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": 3,
+      "url": "https://www.dzwww.com/xinwen/guoneixinwen/202608/t20260802_17987352.htm",
+      "title_zh": "学习新语｜坚定不移走中国特色强军之路_时政新闻_大众网",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "sznews",
+      "source_tier": null,
+      "url": "https://www.sznews.com/news/content/2026-08/01/content_32139305.htm",
+      "title_zh": "坚定不移走中国特色强军之路",
+      "published_at": "2026-08-01T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

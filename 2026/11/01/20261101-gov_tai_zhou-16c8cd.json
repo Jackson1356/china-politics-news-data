@@ -1,0 +1,93 @@
+{
+  "id": "20261101-gov_tai_zhou-16c8cd",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_07f6655fa4b64669889a23f20e2352ff.html",
+  "title_zh": "市政府党组会议召开",
+  "title_en": "Taizhou Municipal Government Party Group Meeting Convenes to Study Plenum Spirit",
+  "summary_zh": "10月30日，泰州市政府党组会议召开，市长李晖主持，传达学习党的二十届五中全会精神，研究部署全面从严治党和党风廉政建设举措。",
+  "summary_en": "On Oct 30, Taizhou Mayor Li Hui chaired a meeting of the municipal government's Party group to convey and study the spirit of the 20th Central Committee's Fifth Plenum and plan measures on strict Party governance and clean government.",
+  "body_zh": "- 发布日期：2026-11-01 01:34\n- 浏览次数：\n10月30日，市政府党组会议召开，传达学习党的二十届五中全会精神，按照市委部署要求，研究贯彻落实举措。市政府党组书记、市长李晖主持会议。\n会议指出，党的二十届五中全会是在中国共产党成立105周年重要节点、中华民族伟大复兴关键时期举行的一次十分重要的会议。会议聚焦持之以恒推进全面从严治党，充分体现了我们党对加强自身建设的高度清醒和坚强意志，对于巩固党的长期执政地位、实现党的使命任务、推动党和国家事业行稳致远意义重大。这次全会审议通过的《决定》和习近平总书记所作的重要讲话、工作报告、说明，思想深邃、内涵丰富。我们要自觉把思想和行动统一到全会精神上来，认真学习领会，坚决贯彻落实，确保党中央决策部署在泰州不折不扣落到实处。\n会议强调，要进一步坚定全面从严治党的政治自觉，持续强化党的创新理论武装，深刻领会“持之以恒推进全面从严治党”的政治考量和具体指向，全面把握总书记重要讲话精神的精髓要义和实践准则，真正把全面从严治党的要求内化于心、外化于行，持续推动政府系统党风廉政建设和作风建设向纵深发展。要进一步扛牢党风廉政建设的政治责任，政府系统各级党组织要压实主体责任，持续正风肃纪，坚持把党风廉政建设紧紧抓在手上，保持惩治行业性系统性腐败高压态势，深化整治群众身边腐败问题，大力推进依法行政，持续优化营商环境，坚决铲除腐败滋生土壤和条件，让人民群众切身感受到良好党风政风就在身边、社会新风正气就在眼前。要进一步深化改进工作作风的政治担当，牢固树立和践行正确政绩观，大力弘扬勤政廉政优良作风，坚决纠治形式主义官僚主义，狠刹“四风”隐形变异，深入推进作风建设常态化长效化，多到基层一线和企业群众中间了解实情、破解难题，以扎扎实实的举措、踏踏实实的作风，实打实地推动政府各项工作见行见效、落地落实，更好肩负起党和人民赋予的职责使命。",
+  "image_url": null,
+  "published_at": "2026-11-01T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党风廉政建设",
+    "学习贯彻二十届五中全会精神"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Strict Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党风廉政建设",
+      "name_en": "Clean Government Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻二十届五中全会精神",
+      "name_en": "Studying the Fifth Plenum Spirit"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "全面从严治党",
+    "党风廉政建设",
+    "学习贯彻二十届五中全会精神"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Strict Party Governance",
+    "Clean Government Building",
+    "Studying the Fifth Plenum Spirit"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261101-gov_tai_zhou-16c8cd",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

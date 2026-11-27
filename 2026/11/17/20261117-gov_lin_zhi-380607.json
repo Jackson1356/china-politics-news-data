@@ -1,0 +1,127 @@
+{
+  "id": "20261117-gov_lin_zhi-380607",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/4fb65f36f077433186d3a5e18c0b3e7d.shtml",
+  "title_zh": "习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤",
+  "title_en": "Xi Jinping to Hold China-Russia-US Summit with Putin and Trump in Shenzhen",
+  "summary_zh": "外交部11月16日宣布，国家主席习近平将于11月19日在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。",
+  "summary_en": "The Chinese Foreign Ministry announced on Nov 16 that President Xi Jinping will hold a China-Russia-US heads-of-state meeting with Russian President Vladimir Putin and US President Donald Trump in Shenzhen on Nov 19.",
+  "body_zh": "中国政府网\n西藏自治区人民政府网\n无障碍\n繁\n关怀版\n网站支持IPv6\n新闻\n政策\n服务\n互动\n醉美林芝\n您当前的位置：\n新闻中心\n党中央国务院\n习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤\n新华社\n发布时间：\n浏览量：\n大\n中\n小\n新华社北京11月16日电外交部发言人11月16日宣布:11月19日,国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。\n相关附件\n打印\n相关信息",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "元首外交",
+    "中俄美关系",
+    "大国外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "普京",
+      "name_en": "Vladimir Putin"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Donald Trump"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Heads-of-State Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄美关系",
+      "name_en": "China-Russia-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大国外交",
+      "name_en": "Major-Country Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "普京",
+    "特朗普",
+    "外交部",
+    "深圳",
+    "元首外交",
+    "中俄美关系",
+    "大国外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Vladimir Putin",
+    "Donald Trump",
+    "Ministry of Foreign Affairs",
+    "Shenzhen",
+    "Heads-of-State Diplomacy",
+    "China-Russia-US Relations",
+    "Major-Country Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261117-gov_lin_zhi-380607",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/e0a64ed1fff84f869ed4d77789f11dc0.shtml",
+      "title_zh": "习近平会见越共中央总书记、国家主席苏林",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

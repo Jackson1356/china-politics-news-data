@@ -1,0 +1,78 @@
+{
+  "id": "20260520-xinhua_ah-e76e02",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_url": "http://ah.news.cn/20260521/fa6096f1db3549c0be5d6f018ee57267/c.html",
+  "title_zh": "安徽省出台方案实施“AI+好房子”行动",
+  "title_en": "Anhui Province Launches \"AI + Good House\" Action Plan",
+  "summary_zh": "5月20日，安徽省出台住房城乡建设领域“人工智能+”行动方案，通过实施“AI+好房子”行动，旨在改善百姓居住条件并提升房屋安全监测水平。",
+  "summary_en": "On May 20, Anhui Province released an \"AI+\" action plan for housing and urban-rural construction to improve living conditions and enhance building safety monitoring.",
+  "body_zh": "5月20日，记者从省住建厅获悉，安徽出台住房城乡建设领域“人工智能+”行动方案，明确提出实施“AI+好房子”行动，着力改善百姓居住条件。\n在房地产市场精准服务方面，建立覆盖人、房、地、钱全要素的房地产市场智能监测体系，动态跟踪市场交易、价格波动、资金流向等关键指标，实现风险早期预警与趋势精准研判。推动AI在房屋交易与租赁中的应用，智能分析用户需求，让房屋购买、置换、租赁、装修补贴申请等智能匹配，加快形成房地产市场发展新模式。\n全省计划建立房屋安全智能监测网络，整合物联网传感与人工智能分析技术，对城乡房屋等既有建筑的沉降、裂缝、倾斜等数据进行实时监测与智能诊断，形成分级预警机制，支撑改造精准实施。开展AI在建筑设备自动诊断、智能运行、自主优化等方面的应用，推动用能设备的自动智能调节和绿色低碳运行，提升公共建筑智慧运维水平。\n运用计算机视觉技术，对高空抛物、电动车入楼、消防通道占用等安全隐患进行智能识别与实时报警，提升社区安全管理水平。推广“AI+空中成像”“AI+多模态交互”等技术在垃圾分类场景的应用。拓展适老适幼智能服务，加强对独居老人、未成年人、残疾人等特殊群体的智能关怀。（合肥日报-合新闻记者 吴奇）",
+  "image_url": null,
+  "published_at": "2026-05-21T12:00:00+00:00",
+  "event_date": "2026-05-20",
+  "ingested_at": "2026-05-21T15:19:05Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "住房建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "住房建设",
+      "name_en": "Housing Construction"
+    }
+  ],
+  "tags_zh": [
+    "安徽",
+    "人工智能",
+    "住房建设"
+  ],
+  "tags_en": [
+    "Anhui",
+    "Artificial Intelligence",
+    "Housing Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260520-xinhua_ah-e76e02",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ah",
+      "source_tier": 3,
+      "url": "http://ah.people.com.cn/n2/2026/0521/c358428-41586727.html",
+      "title_zh": "安徽实施“AI+好房子”行动 改善百姓居住条件",
+      "published_at": "2026-05-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

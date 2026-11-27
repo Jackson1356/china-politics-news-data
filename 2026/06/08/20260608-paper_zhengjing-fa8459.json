@@ -1,0 +1,87 @@
+{
+  "id": "20260608-paper_zhengjing-fa8459",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33334565",
+  "title_zh": "国家数据局发布推进行业高质量数据集建设行动实施方案",
+  "title_en": "National Data Bureau Releases Implementation Plan for High-Quality Industry Dataset Construction",
+  "summary_zh": "国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，首次在国家层面系统部署数据赋能人工智能发展。",
+  "summary_en": "The National Data Bureau released an implementation plan to promote high-quality industry dataset construction, marking the first systematic national-level deployment for data-empowered AI development.",
+  "body_zh": "事关数据赋能人工智能发展，国家层面首次系统部署\n吴昊、刘柏煊/央视新闻\n今天，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，这是国家层面首次对数据赋能人工智能发展作出的系统性部署。\n《实施方案》围绕行业高质量数据集供给、流通、应用等关键环节，部署六大专项行动，提出面向人工智能应用需求，持续推进文本、图像、音视频等多模态高质量数据集建设；聚焦智能体、具身智能和世界模型等重点方向，要求加快推进数据集建设；引导具备条件的地区因地制宜开展数据标注创新试验区建设。\n专家表示，数据是人工智能训练的核心原料，高质量数据集可以加快提升大模型的性能。\n国家数据发展研究院院长 胡坚波：《实施方案》围绕数据集建设全链条作出了系统部署。聚焦科学研究、工业制造、低空经济、具身智能等重点和创新领域，有针对性地推进数据集建设，同步推动数据标注转型升级，全面提升数据供给能力与水平。",
+  "image_url": null,
+  "published_at": "2026-06-08T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能",
+    "高质量数据集",
+    "数据赋能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家数据局",
+      "name_en": "National Data Bureau"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量数据集",
+      "name_en": "High-quality Datasets"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据赋能",
+      "name_en": "Data Empowerment"
+    }
+  ],
+  "tags_zh": [
+    "国家数据局",
+    "人工智能",
+    "高质量数据集",
+    "数据赋能"
+  ],
+  "tags_en": [
+    "National Data Bureau",
+    "Artificial Intelligence",
+    "High-quality Datasets",
+    "Data Empowerment"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方向"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家数据局",
+        "name_en": "National Data Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260608-paper_zhengjing-fa8459",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

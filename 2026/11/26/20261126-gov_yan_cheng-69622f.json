@@ -1,0 +1,102 @@
+{
+  "id": "20261126-gov_yan_cheng-69622f",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/11/26/art_60096_11865615.html",
+  "title_zh": "江苏省生物制造产业联盟成立暨产业发展大会在南京举办",
+  "title_en": "Jiangsu Biotechnology Manufacturing Industry Alliance Established at Nanjing Conference",
+  "summary_zh": "近日，江苏省生物制造产业联盟成立暨产业发展大会在南京举办，常务副省长张文兵出席致辞，多位院士出席，联盟现有成员单位170家。",
+  "summary_en": "Jiangsu Province recently held the founding conference of its Biotechnology Manufacturing Industry Alliance in Nanjing, attended by Executive Vice Governor Zhang Wenbing and several academicians; the alliance has 170 member units.",
+  "body_zh": "当前位置：\n江苏省生物制造产业联盟成立暨产业发展大会在南京举办\n近日，江苏省生物制造产业联盟成立暨产业发展大会在南京举办。省委常委、常务副省长张文兵出席并致辞。中国工程院院士黄和、沈其荣，中国科学院院士郭子建等出席。\n张文兵表示，省委、省政府高度重视生物制造产业发展，将其纳入“6+6”产业发展体系统筹谋划，出台产业规划和三年行动方案，扎实推进产业高质量发展。期待各方持续深化协同创新，夯实关键核心技术底座，做强中试放大能力，加快培育富有国际竞争力的标志性产品。江苏将持续优化服务，统筹布局和开放各类创新平台，积极拓展应用场景，推动更多优质成果落地。\n与会嘉宾共同为江苏省生物制造产业联盟揭牌，该联盟旨在搭建“政、产、学、研、用”协同平台，推动创新链与产业链深度对接，为技术交流、供需对接、产业合作等搭建桥梁纽带，着力构建协同共生、开放高效的生物制造产业生态。联盟现有成员单位170家，汇集全省生物制造领域骨干企业、高校院所、科研平台、金融机构等。联盟各成员单位表示，将紧扣产业共性技术难题，立足企业实际需求开展协同攻关，促进省内中试平台信息共享、标准互认，持续深化产业与人才精准对接。\n据悉，近年来江苏生物制造产业创新支撑持续增强，建有国家生物药技术创新中心等国家级创新平台，苏州工业园区等入选第一批生物制造领域国家新兴产业发展示范基地，全省生物制造产业发明专利申请公开量、授权量均居全国前列。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "industry",
+  "keywords": [
+    "生物制造",
+    "产业联盟",
+    "协同创新"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物制造",
+      "name_en": "Biomanufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业联盟",
+      "name_en": "Industry Alliance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "协同创新",
+      "name_en": "Collaborative Innovation"
+    }
+  ],
+  "tags_zh": [
+    "张文兵",
+    "南京",
+    "江苏",
+    "生物制造",
+    "产业联盟",
+    "协同创新"
+  ],
+  "tags_en": [
+    "Zhang Wenbing",
+    "Nanjing",
+    "Jiangsu",
+    "Biomanufacturing",
+    "Industry Alliance",
+    "Collaborative Innovation"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ",
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-gov_yan_cheng-69622f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

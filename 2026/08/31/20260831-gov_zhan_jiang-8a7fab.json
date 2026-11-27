@@ -1,0 +1,102 @@
+{
+  "id": "20260831-gov_zhan_jiang-8a7fab",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/qxdt/content/post_2216791.html",
+  "title_zh": "政协第十一届遂溪县委员会常务委员会召开第二十八次会议",
+  "title_en": "Suixi County CPPCC Standing Committee Convened for 28th Meeting",
+  "summary_zh": "8月28日下午，政协第十一届遂溪县委员会常务委员会召开第28次会议，传达学习习近平总书记重要讲话和生态环境法典，听取上半年经济运行汇报并围绕典型村培育开展专题议政。",
+  "summary_en": "On the afternoon of August 28, the Standing Committee of the 11th Suixi County CPPCC Committee held its 28th meeting to convey the spirit of General Secretary Xi Jinping's important speech and the Ecological Environment Code, hear a report on the first-half economic performance, and conduct special consultation on typical village cultivation.",
+  "body_zh": "8月28日下午，政协第十一届遂溪县委员会常务委员会召开第二十八次会议。\n遂溪县领导温观寿、朱凌静、洪武松、李实秋、梁成章、沈保、崔凯旭，遂溪县政协秘书长郭志诚，县政协常委，有关单位和镇负责人，县政协机关全体干部职工参加会议。\n会议传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，传达学习《中华人民共和国生态环境法典》。\n遂溪县人民政府副县长洪武松通报遂溪县2026年上半年经济运行情况。会议围绕推进遂溪县典型村培育工作情况进行了专题议政。听取县政协各专委会汇报2026年上半年工作情况。\n遂溪县政协副主席梁成章代表调研考察组作简要调研报告；与会常委发表了意见，相关部门和县政府领导也作了积极的回应和讲话。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "party",
+  "keywords": [
+    "典型村培育",
+    "经济运行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "遂溪县政协",
+      "name_en": "Suixi County CPPCC Committee"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "遂溪县",
+      "name_en": "Suixi County"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "典型村培育",
+      "name_en": "Typical Village Cultivation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Performance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "遂溪县政协",
+    "遂溪县",
+    "典型村培育",
+    "经济运行",
+    "习近平"
+  ],
+  "tags_en": [
+    "Suixi County CPPCC Committee",
+    "Suixi County",
+    "Typical Village Cultivation",
+    "Economic Performance"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "武松"
+      },
+      {
+        "id": null,
+        "name_zh": "洪武松"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "遂溪县政协",
+        "name_en": "Suixi County CPPCC Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260831-gov_zhan_jiang-8a7fab",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

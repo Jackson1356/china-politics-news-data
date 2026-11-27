@@ -1,0 +1,83 @@
+{
+  "id": "20260919-bjnews-af771d",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1789818988129621.html",
+  "title_zh": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
+  "title_en": "Commerce Ministry Responds to US Signing of Graham Sanctions Bill Against Russia and Iran into Law",
+  "summary_zh": "针对美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，中国商务部新闻发言人表示，中方一贯反对缺乏联合国授权和国际法依据的单边制裁及次级制裁。",
+  "summary_en": "China's Ministry of Commerce spokesperson said Beijing opposes unilateral sanctions and secondary sanctions lacking UN authorization or legal basis, after the US signed the 2026 Graham Sanctions Against Russia and Iran Act into law.",
+  "body_zh": "新京报讯 据商务部消息，商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问。\n答：我们注意到有关情况。中方一贯反对缺乏联合国授权和国际法依据的单边制裁，反对以涉及第三方为由，对他国采取所谓次级制裁措施。中国历来在平等互利的基础上同世界各国开展正常的经贸合作，有关合作既不针对第三方，也不受第三方的干扰和胁迫。",
+  "image_url": null,
+  "published_at": "2026-09-19T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "单边制裁",
+    "次级制裁",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "单边制裁",
+      "name_en": "Unilateral Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "次级制裁",
+      "name_en": "Secondary Sanctions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "单边制裁",
+    "次级制裁",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Unilateral Sanctions",
+    "Secondary Sanctions",
+    "Trade and Economic Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260919-bjnews-af771d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

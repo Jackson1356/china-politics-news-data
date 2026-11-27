@@ -1,0 +1,125 @@
+{
+  "id": "20261127-gov_xi_an-63f656",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/xayw/2126151497205506049.html",
+  "title_zh": "蒿慧杰叶牛平赵璟王吉德李婧等参加区人大代表换届选举投票",
+  "title_en": "Hao Huijie, Ye Niuping, Zhao Jing, Wang Jide, Li Jing and Others Cast Votes in District People's Congress Elections",
+  "summary_zh": "11月26日，西安市委书记蒿慧杰、市长叶牛平等市领导以普通选民身份，在各自选区参加区县、镇两级人大代表换届选举投票。",
+  "summary_en": "On Nov 26, Xi'an Party Secretary Hao Huijie, Mayor Ye Niuping and other city leaders cast ballots as ordinary voters in their respective constituencies for district and township people's congress elections.",
+  "body_zh": "西安市区县、镇两级人大换届选举正依法有序进行。11月26日，省委常委、市委书记蒿慧杰，市委副书记、市长叶牛平，市人大常委会主任赵璟，市政协主席王吉德，市委副书记李婧等分别以普通选民的身份参加了所在选区人大代表换届选举投票。\n上午9时30分，蒿慧杰来到未央区张家堡街道第一选区市委投票站。投票站内五星红旗鲜艳夺目，镶嵌着国徽的红色票箱端放正中，现场氛围庄重热烈。蒿慧杰仔细听取选举投票有关事项及代表候选人情况，拿出选民证交给工作人员核验并领取选票，在写票处认真填写选票后，走到投票箱前，郑重投下自己的一票。\n叶牛平、赵璟、王吉德、李婧分别在未央区张家堡街道第一选区市政府投票站、市人大投票站、市政协投票站、市委投票站参加了投票。\n市委常委，市人大常委会、市政府、市政协领导同志，市中级人民法院、市人民检察院负责同志等分别在各自选区投票或委托他人投票。\n据了解，11月10日至26日，我市举行区县、镇人大代表换届选举投票，全市共设立投票站8174个，通过差额选举，将产生新一届区县人大代表3986人、镇人大代表2470人。",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "人大换届选举",
+    "基层民主",
+    "选民投票"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hao-huijie",
+      "name_zh": "蒿慧杰",
+      "name_en": "Hao Huijie"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "叶牛平",
+      "name_en": "Ye Niuping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赵璟",
+      "name_en": "Zhao Jing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN-XA",
+      "name_zh": "西安",
+      "name_en": "Xi'an"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "未央区",
+      "name_en": "Weiyang District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大换届选举",
+      "name_en": "People's Congress Elections"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基层民主",
+      "name_en": "Grassroots Democracy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "选民投票",
+      "name_en": "Voter Balloting"
+    }
+  ],
+  "tags_zh": [
+    "蒿慧杰",
+    "叶牛平",
+    "赵璟",
+    "西安",
+    "未央区",
+    "人大换届选举",
+    "基层民主",
+    "选民投票"
+  ],
+  "tags_en": [
+    "Hao Huijie",
+    "Ye Niuping",
+    "Zhao Jing",
+    "Xi'an",
+    "Weiyang District",
+    "People's Congress Elections",
+    "Grassroots Democracy",
+    "Voter Balloting"
+  ],
+  "entities": {
+    "politicians": [
+      "hao-huijie",
+      {
+        "id": null,
+        "name_zh": "叶牛平"
+      },
+      {
+        "id": null,
+        "name_zh": "赵璟"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SN-XA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261127-gov_xi_an-63f656",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

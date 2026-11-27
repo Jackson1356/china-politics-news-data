@@ -1,0 +1,105 @@
+{
+  "id": "20261017-local_si_chuan_zai_xian_cn_sc-6df228",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.scol.com.cn/zlts_ss/202610/83341231.html",
+  "title_zh": "广西职教“出海” 老挝兄弟求学",
+  "title_en": "Guangxi Vocational Education Goes Global as Lao Brothers Study in China",
+  "summary_zh": "广西柳州铁道职业技术学院老挝籍留学生王畅扬在铁道交通运营管理专业就读，其兄此前也在此学习并成为中老铁路动车司机，该校近5年培养东盟留学生1200余人。",
+  "summary_en": "Lao student Wang Changyang studies railway operations at a Guangxi vocational college where his brother trained before becoming a China-Laos Railway driver; the school has trained 1,200+ ASEAN students.",
+  "body_zh": "柳州铁道职业技术学院老挝籍留学生王畅扬，如今正在铁道交通运营管理专业学习，此前他的哥哥也在这所中国学校学习，现已成为中老铁路上的一名动车司机。\n像这样兄弟跨国“接力”求学的故事，是近年来广西职教“出海”的生动缩影。该校面向马来西亚、越南、泰国、老挝等东盟国家开展铁路、新能源汽车等领域人才培养，近5年累计培养东盟留学生1200余人。\n记者：李亚光 黄凯莹 覃广华\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-10-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "foreign",
+  "keywords": [
+    "职教出海",
+    "中国—东盟合作",
+    "人才培养",
+    "中老铁路"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "柳州铁道职业技术学院",
+      "name_en": "Liuzhou Railway Vocational Technical College"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职教出海",
+      "name_en": "Vocational Education Going Global"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国—东盟合作",
+      "name_en": "China-ASEAN Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Training"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中老铁路",
+      "name_en": "China-Laos Railway"
+    }
+  ],
+  "tags_zh": [
+    "柳州铁道职业技术学院",
+    "广西",
+    "职教出海",
+    "中国—东盟合作",
+    "人才培养",
+    "中老铁路"
+  ],
+  "tags_en": [
+    "Liuzhou Railway Vocational Technical College",
+    "Guangxi",
+    "Vocational Education Going Global",
+    "China-ASEAN Cooperation",
+    "Talent Training",
+    "China-Laos Railway"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GX"
+    ],
+    "companies": [
+      {
+        "name_zh": "柳州铁道职业技术学院",
+        "name_en": "Liuzhou Railway Vocational Technical College"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261017-local_si_chuan_zai_xian_cn_sc-6df228",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

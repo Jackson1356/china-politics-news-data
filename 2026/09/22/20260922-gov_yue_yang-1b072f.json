@@ -1,0 +1,108 @@
+{
+  "id": "20260922-gov_yue_yang-1b072f",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2410935.html",
+  "title_zh": "中国共产党岳阳市第九次代表大会举行预备会议",
+  "title_en": "Preparatory Meeting Held for the 9th CPC Yueyang Municipal Congress",
+  "summary_zh": "9月21日下午，中国共产党岳阳市第九次代表大会举行预备会议，谢卫江讲话，唐浩然主持，462名代表出席并通过主席团名单及大会议程。",
+  "summary_en": "On the afternoon of Sept 21, the 9th CPC Yueyang Municipal Congress held its preparatory meeting, addressed by Xie Weijiang and chaired by Tang Haoran, with 462 delegates approving the presidium list and congress agenda.",
+  "body_zh": "9月21日下午，中国共产党岳阳市第九次代表大会举行预备会议。谢卫江同志讲话，唐浩然同志主持。\n市第九次党代会应到代表476人。出席预备会议的代表462人，符合规定人数。\n会议听取了关于中国共产党岳阳市第九次代表大会筹备工作的报告；表决并通过了大会主席团成员名单、秘书长名单、代表资格审查委员会名单和各代表团正、副团长名单及大会议程。\n市第九次党代会的议程是：听取和审查中国共产党岳阳市第八届委员会报告；审查中国共产党岳阳市第八届纪律检查委员会工作报告；审查党费收缴、使用和管理情况的报告；选举中国共产党岳阳市第九届委员会；选举中国共产党岳阳市第九届纪律检查委员会；选举岳阳市出席中国共产党湖南省第十三次代表大会代表。\n谢卫江同志强调，将于22日开幕的市第九次党代会，是在中国共产党成立105周年、“十五五”开局之年召开的一次十分重要的会议，是全市人民政治生活中的一件大事。全体党代表要提高政治站位，切实把思想和行动统一到党中央决策部署和省委、市委工作要求上来，以高度的政治责任感和历史使命感开好党代会，以实际行动深刻领悟“两个确立”的决定性意义、坚决做到“两个维护”。要聚焦中心大局，集中精力审议市委报告和市纪委工作报告，把人民群众的意见和建议反映上来，把广大党员的智慧和力量凝聚起来，谋大事、议大事、定大事。要正确行使权力，站在讲政治、讲党性、讲大局、讲纪律的高度，认真履行代表职责，投好神圣一票，确保选举圆满成功。要严守纪律规矩，严格执行“十严禁”“六不得”“八不准”换届纪律要求，严格落实中央八项规定及其实施细则精神，确保会议风清气正。\n预备会议期间，与会代表还观看了警示教育片。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-21",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "党代会换届",
+    "党的建设",
+    "换届纪律"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会换届",
+      "name_en": "Party Congress and Leadership Transition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届纪律",
+      "name_en": "Election Discipline"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江同志",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳",
+    "党代会换届",
+    "党的建设",
+    "换届纪律",
+    "江同志"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang",
+    "Party Congress and Leadership Transition",
+    "Party Building",
+    "Election Discipline"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      {
+        "id": null,
+        "name_zh": "江同志"
+      },
+      {
+        "id": null,
+        "name_zh": "程是"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260922-gov_yue_yang-1b072f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20260731-xinhua_gx-ad1d3f",
+  "source": "xinhua_gx",
+  "source_name_zh": "新华网 广西",
+  "source_name_en": "Xinhua Guangxi",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gx.news.cn/20260731/25cf555c10b24aba8989d8c216ee9e9c/c.html",
+  "title_zh": "广西壮族自治区人民代表大会常务委员会关于批准2025年自治区本级决算的决议",
+  "title_en": "Guangxi Regional People's Congress Standing Committee Approves 2025 Local Final Accounts",
+  "summary_zh": "广西壮族自治区十四届人大常委会第二十六次会议于2026年7月30日通过决议，批准2025年自治区本级决算。",
+  "summary_en": "On July 30, 2026, the 26th Session of the Standing Committee of the 14th Guangxi Regional People's Congress approved the final accounts for 2025.",
+  "body_zh": "（2026年7月30日广西壮族自治区第十四届人民代表大会常务委员会第二十六次会议通过）\n广西壮族自治区第十四届人民代表大会常务委员会第二十六次会议听取了自治区财政厅厅长李春阳受自治区人民政府委托作的《自治区人民政府关于2025年广西壮族自治区本级决算的报告》和自治区审计厅厅长桂忠才受自治区人民政府委托作的《自治区人民政府关于2025年度自治区本级预算执行和其他财政收支的审计工作报告》。会议结合审议审计工作报告，对2025年自治区本级决算草案进行了审查。会议同意自治区人大财政经济委员会提出的审查结果报告，决定批准2025年自治区本级决算。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "决算审批",
+    "预算执行"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广西壮族自治区人民代表大会常务委员会",
+      "name_en": "Standing Committee of Guangxi Zhuang Autonomous Region People's Congress"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "决算审批",
+      "name_en": "Final Accounts Approval"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预算执行",
+      "name_en": "Budget Execution"
+    }
+  ],
+  "tags_zh": [
+    "广西壮族自治区人民代表大会常务委员会",
+    "广西",
+    "决算审批",
+    "预算执行"
+  ],
+  "tags_en": [
+    "Standing Committee of Guangxi Zhuang Autonomous Region People's Congress",
+    "Guangxi",
+    "Final Accounts Approval",
+    "Budget Execution"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GX"
+    ],
+    "companies": [
+      {
+        "name_zh": "广西壮族自治区人民代表大会常务委员会",
+        "name_en": "Standing Committee of Guangxi Zhuang Autonomous Region People's Congress"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-xinhua_gx-ad1d3f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

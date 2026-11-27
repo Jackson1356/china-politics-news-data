@@ -1,0 +1,91 @@
+{
+  "id": "20261117-local_yang_zi_wan_bao_wang_cn_js-d981a4",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202611/t20261117_413328.html",
+  "title_zh": "全球超算500强新榜单发布 中国超算蝉联榜首",
+  "title_en": "New Global Supercomputer TOP500 List Released, China's Supercomputer Retains Top Spot",
+  "summary_zh": "2026年11月16日，全球超级计算机500强新榜单在芝加哥发布，部署于国家超级计算深圳中心的“灵晟”以每秒219.8亿亿次蝉联榜首。",
+  "summary_en": "On Nov 16, 2026, the new TOP500 supercomputer list was released in Chicago, with China's Ling Sheng at the Shenzhen National Supercomputing Center retaining first place at 219.8 petaflops.",
+  "body_zh": "全球超算500强新榜单发布 中国超算蝉联榜首\n新一期全球超级计算机500强榜单16日在美国芝加哥举行的2026年国际超级计算大会上发布，中国超算“灵晟”以每秒219.8亿亿次的实测运算速度蝉联榜首。这是“灵晟”继今年6月首次登顶全球超算500强榜单后，连续第二期位居全球第一。\n部署在国家超级计算深圳中心的“灵晟”E级超算此次以每秒219.8亿亿次的Linpack双精度实测性能蝉联世界第一，领先排名第二的美国劳伦斯利弗莫尔国家实验室开发的超算“酋长岩”约21%。“灵晟”还在高性能共轭梯度（HPCG）测试中以每秒22000万亿次的运算速度位居第一。\n位列第三至第五的超算分别是美国橡树岭国家实验室开发的“前沿”、美国阿尔贡国家实验室的“极光”以及德国超算“朱庇特”。本次榜单显示，中国共有18台超算上榜，数量位列第七；美国以163台位居第一。\n全球超级计算机500强榜单由国际组织“TOP500”编制，约每半年发布一次，是给全球已安装的超级计算机排座次的知名榜单。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "industry",
+  "keywords": [
+    "超级计算机",
+    "高性能计算",
+    "全球排名"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "芝加哥",
+      "name_en": "Chicago"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "超级计算机",
+      "name_en": "Supercomputing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高性能计算",
+      "name_en": "High-Performance Computing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球排名",
+      "name_en": "Global Rankings"
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "芝加哥",
+    "超级计算机",
+    "高性能计算",
+    "全球排名"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "Chicago",
+    "Supercomputing",
+    "High-Performance Computing",
+    "Global Rankings"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261117-local_yang_zi_wan_bao_wang_cn_js-d981a4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

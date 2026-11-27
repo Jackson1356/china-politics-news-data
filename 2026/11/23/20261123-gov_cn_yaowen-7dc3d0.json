@@ -1,0 +1,83 @@
+{
+  "id": "20261123-gov_cn_yaowen-7dc3d0",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087021.htm",
+  "title_zh": "前10月铁路完成固定资产投资6773亿元",
+  "title_en": "Railway Fixed-Asset Investment Reaches 677.3 Billion Yuan in First 10 Months",
+  "summary_zh": "2026年前10个月，全国铁路完成固定资产投资6773亿元，同比增长0.9%，多个重点铁路项目取得进展。",
+  "summary_en": "In the first 10 months of 2026, China's railways completed 677.3 billion yuan in fixed-asset investment, up 0.9% year on year, with progress reported on multiple key railway projects.",
+  "body_zh": "记者从中国国家铁路集团有限公司获悉：前10月全国铁路完成固定资产投资6773亿元，同比增长0.9%，有效发挥铁路投资拉动作用。\n10月以来，一批重点工程项目取得积极进展。天府新区至蒲江铁路正式开通运营，与成都至雅安铁路、成都至自贡至宜宾高速铁路衔接，雅安站至天府机场站最快80分钟可达；淮北至宿州至蚌埠城际铁路、阜阳至蒙城至宿州（淮北）铁路、巢湖至马鞍山城际铁路启动试运行；重庆至万州高速铁路、银川至巴彦浩特铁路启动联调联试；渝昆高铁宜宾至昆明南段铺轨完成；成都至达州至万州高速铁路、兰州至张掖高速铁路武威至张掖段、南通至宁波高速铁路相继进入铺轨阶段。（记者 李心萍）",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路投资",
+    "基础设施建设",
+    "重点工程项目"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路投资",
+      "name_en": "Railway Investment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重点工程项目",
+      "name_en": "Key Projects"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路投资",
+    "基础设施建设",
+    "重点工程项目"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Investment",
+    "Infrastructure Construction",
+    "Key Projects"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261123-gov_cn_yaowen-7dc3d0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

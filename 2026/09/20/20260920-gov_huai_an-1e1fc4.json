@@ -1,0 +1,84 @@
+{
+  "id": "20260920-gov_huai_an-1e1fc4",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17881920/1789975006717EMw6RMpF.html",
+  "title_zh": "顾坤任淮安市委书记，杨新忠任淮安市委副书记",
+  "title_en": "Gu Kun Appointed Huai'an Party Secretary, Yang Xinzhong Appointed Deputy Party Secretary",
+  "summary_zh": "9月19日上午，淮安市召开全市领导干部会议，宣布江苏省委决定：顾坤任淮安市委书记，杨新忠任淮安市委委员、常委、副书记。",
+  "summary_en": "On the morning of Sept 19, Huai'an held a city leadership meeting where the Jiangsu Provincial Party Committee announced that Gu Kun was appointed Huai'an Party Secretary and Yang Xinzhong was named a member, standing committee member and deputy secretary of the Huai'an Municipal Party Committee.",
+  "body_zh": "9月19日上午，全市领导干部会议召开，宣布省委有关决定。省委决定：顾坤同志任淮安市委书记；杨新忠同志任淮安市委委员、常委、副书记。省委常委、省委组织部部长胡立杰出席会议并讲话。省委组织部副部长张震宣读省委决定。顾坤主持会议并发言。杨新忠发言。",
+  "image_url": null,
+  "published_at": "2026-09-20T12:00:00+00:00",
+  "event_date": "2026-09-19",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "personnel",
+  "keywords": [
+    "干部任免",
+    "地方党委"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "gu-kun-huaian",
+      "name_zh": "顾坤",
+      "name_en": "Gu Kun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "干部任免",
+      "name_en": "Cadre Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方党委",
+      "name_en": "Local Party Committee"
+    }
+  ],
+  "tags_zh": [
+    "顾坤",
+    "淮安",
+    "干部任免",
+    "地方党委"
+  ],
+  "tags_en": [
+    "Gu Kun",
+    "Huai'an",
+    "Cadre Appointment",
+    "Local Party Committee"
+  ],
+  "entities": {
+    "politicians": [
+      "gu-kun-huaian"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260920-gov_huai_an-1e1fc4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

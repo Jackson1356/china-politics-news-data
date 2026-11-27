@@ -1,0 +1,109 @@
+{
+  "id": "20261001-cpcnews-7471a1",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1001/c64094-40808528.html",
+  "title_zh": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
+  "title_en": "Xi Jinping and Brunei Sultan Hassanal Exchange Congratulatory Messages on 35th Anniversary of China-Brunei Diplomatic Ties",
+  "summary_zh": "9月30日，国家主席习近平同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年，双方表示将深化战略对接与互利合作。",
+  "summary_en": "On Sept 30, President Xi Jinping and Brunei's Sultan Hassanal exchanged congratulatory messages marking 35 years of diplomatic ties, pledging deeper strategic alignment and cooperation.",
+  "body_zh": "新华社北京9月30日电 9月30日，国家主席习近平同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。\n习近平指出，中文传统友谊源远流长、历久弥坚，两国在携手现代化进程中树立了大小国家相互尊重、平等相待、共同发展的典范。建交35年来，中文政治互信不断深化，各领域合作成果丰硕，人文交流更加密切。去年哈桑纳尔苏丹对中国进行国事访问，双方就共建中文命运共同体达成重要共识，引领两国关系进入新的历史发展阶段。\n习近平强调，我高度重视中文关系发展，愿同哈桑纳尔苏丹一道努力，以两国建交35周年为契机，赓续传统友谊，加强发展战略对接，持续深化互利合作，推动中文命运共同体建设不断走深走实，更好造福两国人民，为地区繁荣稳定作出更大贡献。\n哈桑纳尔表示，建交35年来，文中两国始终相互信任、相互尊重、相互理解。2025年，两国就构建命运共同体达成重要共识。我期待以文中建交35周年为契机，进一步拉紧两国关系纽带，深化经贸投资、国防、人文等领域交流合作，携手实现两国繁荣进步，更好惠及两国人民。\n《 人民日报 》（ 2026年10月01日 01 版）",
+  "image_url": null,
+  "published_at": "2026-10-01T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-03T09:53:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "中文建交35周年",
+    "命运共同体",
+    "互利合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "哈桑纳尔",
+      "name_en": "Hassanal Bolkiah"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中文建交35周年",
+      "name_en": "35th Anniversary of China-Brunei Diplomatic Ties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "命运共同体",
+      "name_en": "Community with a Shared Future"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利合作",
+      "name_en": "Mutually Beneficial Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "哈桑纳尔",
+    "北京",
+    "中文建交35周年",
+    "命运共同体",
+    "互利合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Hassanal Bolkiah",
+    "Beijing",
+    "35th Anniversary of China-Brunei Diplomatic Ties",
+    "Community with a Shared Future",
+    "Mutually Beneficial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260930-qiushi-6a47bf",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/09/30/VIDELlfHmTJYg7Wr6ZUoVfLA260930.shtml",
+      "title_zh": "习近平同文莱苏丹就中文建交35周年互致贺电",
+      "published_at": "2026-09-30T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "20260927-peoples_hlj-74a97c",
+  "source": "peoples_hlj",
+  "source_name_zh": "人民网 黑龙江",
+  "source_name_en": "People's Daily Heilongjiang",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hlj.people.com.cn/n2/2026/0927/c220005-41708598.html",
+  "title_zh": "黑河（步行）口岸对外开放通过国家验收",
+  "title_en": "Heihe (Pedestrian) Port Passes National Acceptance for Opening to Foreign Traffic",
+  "summary_zh": "国家口岸管理办公室、外交部、海关总署、国家移民管理局、军委联合参谋部等单位组成验收组，对黑河（步行）口岸对外开放准备工作实地查验并封闭评审，正式同意其通过国家验收。",
+  "summary_en": "A joint inspection team from China's national port authorities, foreign ministry, customs, immigration and military bodies carried out on-site checks and a closed-door review in Heihe, Heilongjiang, and formally approved the Heihe (pedestrian) port for opening to foreign traffic.",
+  "body_zh": "黑河（步行）口岸对外开放通过国家验收\n日前，由国家口岸管理办公室、外交部、海关总署、国家移民管理局、军委联合参谋部等单位组成的验收组，对黑河（步行）口岸对外开放准备工作进行全面“体检”。经过严格评审，验收组正式同意黑河（步行）口岸对外开放通过国家验收。\n验收组一行深入黑河（步行）口岸一线，实地查看了旅客查验通道、体温复测室、监控指挥中心及各类配套设施；并前往黑河公路口岸和水运口岸进行调研，全方位了解口岸的综合运行保障情况。在验收工作会议上，验收组听取了相关汇报，各部委结合实地情况提出了反馈意见。经过封闭评审，国家相关部委与省、黑河市代表共同签署了验收纪要。\n验收组对黑河（步行）口岸建设成效给予肯定，并对口岸未来的运行管理、服务提升和综合保障提出了指导性意见。黑河市将严格对标验收要求，细化责任分工与整改时限，持续完善多部门协同联动机制，确保口岸高水平开放、高质量发展。（李冰 记者 赵吉会）",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "economy",
+  "keywords": [
+    "口岸开放",
+    "对外开放",
+    "边境贸易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家移民管理局",
+      "name_en": "National Immigration Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL-HH",
+      "name_zh": "黑河",
+      "name_en": "Heihe"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "口岸开放",
+      "name_en": "Port Opening"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "边境贸易",
+      "name_en": "Border Trade"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "国家移民管理局",
+    "黑河",
+    "口岸开放",
+    "对外开放",
+    "边境贸易"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "National Immigration Administration",
+    "Heihe",
+    "Port Opening",
+    "Opening Up",
+    "Border Trade"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [
+      "CN-HL-HH"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家移民管理局",
+        "name_en": "National Immigration Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260927-peoples_hlj-74a97c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

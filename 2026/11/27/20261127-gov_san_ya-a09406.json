@@ -1,0 +1,113 @@
+{
+  "id": "20261127-gov_san_ya-a09406",
+  "source": "gov_san_ya",
+  "source_name_zh": "三亚市政府网",
+  "source_name_en": "三亚 Government Portal",
+  "source_media_id": "gov-cn-prefecture-san_ya",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HI",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.sanya.gov.cn/sanyasite/tpxw/202611/19061ae6e53248e1a69c4a29a25994a7.shtml",
+  "title_zh": "王祺扬盛勇军看望慰问报道市第九次党代会新闻工作者",
+  "title_en": "Wang Qiyang and Sheng Yongjun Meet Journalists Who Covered the Ninth Sanya Party Congress",
+  "summary_zh": "11月26日，三亚市第九次党代会闭幕后，省委常委、市委书记王祺扬与代理市长盛勇军看望慰问参与大会报道的新闻工作者，感谢他们的付出并提出希望。",
+  "summary_en": "On Nov 26, after the Ninth Sanya Party Congress closed, Hainan Provincial Standing Committee member and Sanya Party Secretary Wang Qiyang and acting mayor Sheng Yongjun met journalists who covered the congress, thanking them and setting out expectations for future reporting.",
+  "body_zh": "首页>新闻>图片新闻\n11月26日，市第九次党代会胜利闭幕后，省委常委、市委书记王祺扬，市委副书记、代理市长盛勇军看望慰问参与采访报道的新闻工作者。\n王祺扬一行来到市委党校第二报告厅，与中央驻琼媒体、省级媒体和市属媒体记者互动交流，详细了解市第九次党代会宣传报道情况，对大家的辛勤付出表示感谢。\n王祺扬指出，市第九次党代会的圆满成功，离不开广大新闻工作者的辛勤努力和大力支持。会前会中，大家从不同视角深入采访报道，推出了一系列有深度、有温度、有力度的宣传报道，多维度、全方位展示了三亚经济社会发展的丰硕成果，为大会营造了良好舆论氛围。希望大家不断增强脚力、眼力、脑力、笔力，深入宣传习近平新时代中国特色社会主义思想、习近平党建思想、党的二十大和二十届历次全会精神在三亚落地生根、开花结果的生动实践，全面展现全市上下在党中央、国务院和省委、省政府正确领导下砥砺奋进、团结拼搏的精神风貌，不断弘扬主旋律、凝聚正能量，引导全市干部群众坚定沿着习近平总书记指引的方向阔步前进，认真落实党中央决策部署和省委、省政府工作要求，共同把市第九次党代会擘画的蓝图、作出的部署落细落实，奋力谱写中国式现代化三亚精彩篇章。\n市领导杨希义、李英挺参加。\n（记者 刘少珠/文 袁永东/图）\n相关稿件",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "新闻宣传",
+    "舆论引导"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qiyang",
+      "name_zh": "王祺扬",
+      "name_en": "Wang Qiyang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "盛勇军",
+      "name_en": "Sheng Yongjun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新闻宣传",
+      "name_en": "News and Publicity Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "舆论引导",
+      "name_en": "Public Opinion Guidance"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王祺扬",
+    "盛勇军",
+    "三亚",
+    "党代会",
+    "新闻宣传",
+    "舆论引导",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Qiyang",
+    "Sheng Yongjun",
+    "Sanya",
+    "Party Congress",
+    "News and Publicity Work",
+    "Public Opinion Guidance"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-qiyang",
+      {
+        "id": null,
+        "name_zh": "盛勇军"
+      },
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261127-gov_san_ya-a09406",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

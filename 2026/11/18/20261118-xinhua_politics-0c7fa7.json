@@ -1,0 +1,105 @@
+{
+  "id": "20261118-xinhua_politics-0c7fa7",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261118/c9acce324eb04afca346392fbdcff9bc/c.html",
+  "title_zh": "我国首款电动商用飞机有了“中国心”",
+  "title_en": "China's First Electric Commercial Aircraft Gets a 'Chinese Heart'",
+  "summary_zh": "11月18日获悉，中国科学院电工研究所自研的10台分布式电涵道推进电机系统完成实飞验证，总功率2兆瓦，为中国商飞CE-25A电动商用飞机提供全部动力。",
+  "summary_en": "On Nov 18 it was learned that the Institute of Electrical Engineering of the Chinese Academy of Sciences completed flight validation of 10 self-developed distributed electric ducted propulsion motor systems totaling 2 MW, powering COMAC's CE-25A electric commercial aircraft.",
+  "body_zh": "新华社北京11月18日电（记者刘祯）记者11月18日获悉，中国科学院电工研究所自研的10台分布式电涵道推进电机系统近日完成实飞验证，系统总功率2兆瓦，为我国自主研制的首款电动商用飞机CE-25A提供全部动力。\nCE-25A是中国商飞研制的首款10吨级电动商用飞机。不同于传统燃油客机，纯电动航空对动力系统功重比提出极高要求。\n为此，中国科学院电工研究所团队确立了基于涵道流场强迫风冷的技术路线，创新采用电机—变流器深度融合一体化构型，突破多项关键技术，大幅提升飞行安全性，有效解决了液冷方案辅件繁杂、重量偏大带来的适航取证难度大、航程受限等痛点。未来，这颗“中国心”将为我国新能源飞机动力核心部件自主可控筑牢基础，助力我国航空工业迈向绿色化、智能化。",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "industry",
+  "keywords": [
+    "电动航空",
+    "航空工业",
+    "自主可控",
+    "新能源飞机"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国科学院电工研究所",
+      "name_en": "Institute of Electrical Engineering, Chinese Academy of Sciences"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电动航空",
+      "name_en": "Electric Aviation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航空工业",
+      "name_en": "Aviation Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自主可控",
+      "name_en": "Self-Reliance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源飞机",
+      "name_en": "New-Energy Aircraft"
+    }
+  ],
+  "tags_zh": [
+    "中国科学院电工研究所",
+    "北京",
+    "电动航空",
+    "航空工业",
+    "自主可控",
+    "新能源飞机"
+  ],
+  "tags_en": [
+    "Institute of Electrical Engineering, Chinese Academy of Sciences",
+    "Beijing",
+    "Electric Aviation",
+    "Aviation Industry",
+    "Self-Reliance",
+    "New-Energy Aircraft"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国科学院电工研究所",
+        "name_en": "Institute of Electrical Engineering, Chinese Academy of Sciences"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261118-xinhua_politics-0c7fa7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

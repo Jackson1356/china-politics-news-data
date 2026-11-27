@@ -1,0 +1,97 @@
+{
+  "id": "20261020-gov_wei_hai-fad68a",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/10/20/art_58817_6685146.html",
+  "title_zh": "张海波调研重大基础设施建设和森林防火工作",
+  "title_en": "Zhang Haibo Inspects Major Infrastructure Construction and Forest Fire Prevention Work",
+  "summary_zh": "10月19日，威海市委书记张海波到威海机场、昆嵛山机场项目、文登抽水蓄能电站和文登区森林消防中队调研，部署基础设施提质提速和秋冬季森林防火工作。",
+  "summary_en": "On Oct 19, Weihai Party Secretary Zhang Haibo inspected Weihai Airport, the Kunyushan airport project, the Wendeng pumped-storage power station and a forest fire brigade, urging faster infrastructure construction and strict autumn-winter fire prevention.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 匙亮）10月19日，市委书记张海波调研重大基础设施建设和森林防火工作，强调要提质提速重大基础设施建设，守住守牢森林防火等安全底线，为城市高质量发展提供坚实支撑。市领导于宁、董晓阳参加。\n在威海机场，张海波来到商务区、候机厅和运行指挥中心，了解机场运行管理和数智化建设情况，希望持续优化航线网络，完善服务配套，提升旅客出行体验。在威海昆嵛山机场项目现场，张海波了解项目前期工作开展情况，叮嘱相关部门精细规划、周密论证，强化要素保障，破解瓶颈制约，确保项目稳妥推进。在文登抽水蓄能电站，张海波了解电站运行和管理情况，希望充分发挥调峰调频和应急备用作用，严守安全规程，保障电网平稳运行。张海波强调，重大基础设施事关城市长远发展和群众切身利益，要统筹推进在建项目建设和现有设施运营管护，持续完善综合交通和能源保障体系，更好赋能城市发展、便利群众生活。要严格规范施工建设和日常运营流程，坚决守牢安全发展底线。\n我市已进入森林防火期，张海波来到文登区森林消防中队，听取人员配备、值班备勤情况汇报，了解无人机巡查、视频监控等技防手段应用情况，希望进一步强化训练备战，持续提升早期预警和快速处置能力。张海波强调，秋冬季风干物燥、火险等级攀升，要压实各方责任，坚决克服麻痹思想和侥幸心理，毫不松懈抓好森林防火工作。要坚持预防为主、管控从严，充分运用人防、物防、技防等手段，健全常态化巡护机制，加强风险隐患排查整治，严管严控野外火源，严厉打击违规用火行为。要加强管护队伍专业培训和应急演练，确保火情抓早抓小、快速处置。要强化宣传引导，突出以案示警，推动防火知识深入人心，切实筑牢人民防线。\n一审：小丽 二审：史雅斐 三审：刘观达",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "重大基础设施建设",
+    "森林防火",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-haibo",
+      "name_zh": "张海波",
+      "name_en": "Zhang Haibo"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大基础设施建设",
+      "name_en": "Major Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "森林防火",
+      "name_en": "Forest Fire Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "张海波",
+    "威海",
+    "重大基础设施建设",
+    "森林防火",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Zhang Haibo",
+    "Weihai",
+    "Major Infrastructure Construction",
+    "Forest Fire Prevention",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-haibo",
+      {
+        "id": null,
+        "name_zh": "董晓阳"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261020-gov_wei_hai-fad68a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20261120-peoples_js-facfe8",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/1120/c360300-41756731.html",
+  "title_zh": "任栋任扬州市副市长、代市长",
+  "title_en": "Ren Dong Appointed Deputy Mayor and Acting Mayor of Yangzhou",
+  "summary_zh": "11月20日，扬州市九届人大常委会第四十次会议决定任命任栋为扬州市副市长、代市长，并接受郑海涛辞去市长职务。",
+  "summary_en": "On Nov 20, the Standing Committee of Yangzhou Municipal People's Congress appointed Ren Dong as deputy mayor and acting mayor, and accepted Zheng Haitao's resignation as mayor.",
+  "body_zh": "11月20日下午，扬州市九届人大常委会召开第四十次会议。新任扬州市委书记郑海涛到会通报江苏省委关于扬州市人民政府主要负责同志调整的决定。\n会议决定任命任栋为扬州市人民政府副市长，并决定其代理扬州市人民政府市长职务。会议还通过了关于接受郑海涛辞去扬州市人民政府市长职务请求的决定。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任命",
+    "地方政府"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "任栋",
+      "name_en": "Ren Dong"
+    },
+    {
+      "kind": "person",
+      "id": "zheng-haitao-yangzhou",
+      "name_zh": "郑海涛",
+      "name_en": "Zheng Haitao"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YZ",
+      "name_zh": "扬州",
+      "name_en": "Yangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任命",
+      "name_en": "Personnel Appointment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方政府",
+      "name_en": "Local Government"
+    }
+  ],
+  "tags_zh": [
+    "任栋",
+    "郑海涛",
+    "扬州",
+    "人事任命",
+    "地方政府"
+  ],
+  "tags_en": [
+    "Ren Dong",
+    "Zheng Haitao",
+    "Yangzhou",
+    "Personnel Appointment",
+    "Local Government"
+  ],
+  "entities": {
+    "politicians": [
+      "zheng-haitao-yangzhou"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261120-peoples_js-facfe8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "20261126-gov_cn_yaowen-171d6c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087327.htm",
+  "title_zh": "王毅同荷兰外交大臣贝伦德森会谈",
+  "title_en": "Wang Yi Holds Talks with Dutch Foreign Minister Berendsen",
+  "summary_zh": "11月25日，中共中央政治局委员、外交部长王毅在北京同荷兰外交大臣贝伦德森举行会谈，双方就中荷关系、中欧关系及务实合作交换意见。",
+  "summary_en": "On November 25, Wang Yi, member of the CPC Central Committee Political Bureau and Foreign Minister, held talks in Beijing with Dutch Foreign Minister Berendsen on China-Netherlands relations, China-EU ties and practical cooperation.",
+  "body_zh": "新华社北京11月25日电（记者伍岳）中共中央政治局委员、外交部长王毅25日在北京同荷兰外交大臣贝伦德森举行会谈。\n王毅表示，中方愿推动中荷开放务实的全面合作伙伴关系取得更多积极成果，希望并相信荷方将以实际行动恪守一个中国原则。双方要加强高层交往和各层级交流，打造智慧农业、绿色能源、生物制药、银发经济等新增长点，推动务实合作提质升级。希望荷方为中欧关系健康稳定发展发挥建设性作用。\n贝伦德森表示，荷政府奉行一个中国政策，高度重视对华关系，愿为欧中关系健康稳定发展发挥建设性作用。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中荷关系",
+    "中欧关系",
+    "务实合作",
+    "一个中国原则"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "贝伦德森",
+      "name_en": "Berendsen"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中荷关系",
+      "name_en": "China-Netherlands Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-EU Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "贝伦德森",
+    "北京",
+    "中荷关系",
+    "中欧关系",
+    "务实合作",
+    "一个中国原则"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Berendsen",
+    "Beijing",
+    "China-Netherlands Relations",
+    "China-EU Relations",
+    "Practical Cooperation",
+    "One-China Principle"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "贝伦德森"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261125-xinhua_leaders-e5c5a0",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

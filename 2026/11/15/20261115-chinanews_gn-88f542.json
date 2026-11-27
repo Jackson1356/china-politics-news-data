@@ -1,0 +1,104 @@
+{
+  "id": "20261115-chinanews_gn-88f542",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-15/10732330.shtml",
+  "title_zh": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+  "title_en": "12 APEC Economy Leaders to Attend APEC CEO Summit in Shenzhen",
+  "summary_zh": "11月15日，中国贸促会在深圳举行发布会宣布，2026年APEC工商领导人峰会将于11月17日至18日在深圳举办，习近平主席等12位APEC经济体领导人将出席。",
+  "summary_en": "At a press conference in Shenzhen on Nov 15, the China Council for the Promotion of International Trade announced that the 2026 APEC CEO Summit will be held in Shenzhen on Nov 17-18, with President Xi Jinping and leaders of 11 other APEC economies attending.",
+  "body_zh": "（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会\n中新社深圳11月15日电 (记者 刘文文)15日在深圳举行的2026年亚太经合组织(APEC)工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，12位APEC经济体领导人将出席APEC工商领导人峰会。\n李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、加拿大、智利、中国香港、印度尼西亚、韩国、马来西亚、墨西哥、俄罗斯、泰国、越南APEC经济体领导人将出席峰会并发表演讲、致辞或参与专题研讨。\n李庆霜还透露，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、日本等经济体商协会负责人也将到场，共襄盛举。(完)\n国内新闻精选：\n- 2026年11月15日 17:03:22\n- 2026年11月15日 16:02:21\n- 2026年11月15日 14:36:24\n- 2026年11月15日 12:04:38\n- 2026年11月14日 12:42:40\n- 2026年11月14日 11:15:49\n- 2026年11月14日 09:51:06\n- 2026年11月13日 16:23:35\n- 2026年11月13日 15:08:35\n- 2026年11月12日 16:26:45",
+  "image_url": null,
+  "published_at": "2026-11-15T12:00:00+00:00",
+  "event_date": "2026-11-15",
+  "ingested_at": "2026-11-15T11:28:23Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太经合组织合作",
+    "工商峰会",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李庆霜",
+      "name_en": "Li Qingshuang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织合作",
+      "name_en": "APEC Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工商峰会",
+      "name_en": "CEO Summit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "李庆霜",
+    "深圳",
+    "亚太经合组织合作",
+    "工商峰会",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Li Qingshuang",
+    "Shenzhen",
+    "APEC Cooperation",
+    "CEO Summit",
+    "Trade and Economic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "李庆霜"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261115-chinanews_gn-88f542",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732363.shtml",
+      "title_zh": "（深圳APEC）APEC工商领导人峰会将发布深圳倡议",
+      "published_at": "2026-11-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

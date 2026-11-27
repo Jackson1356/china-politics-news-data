@@ -1,0 +1,88 @@
+{
+  "id": "20260610-cpcnews-fb2933",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0610/c64094-40737299.html",
+  "title_zh": "习近平向加拿大新任总督路易丝·阿伯致贺电",
+  "title_en": "Xi Jinping Sends Congratulatory Message to New Canadian Governor General Louise Arbor",
+  "summary_zh": "6月8日，国家主席习近平向加拿大新任总督路易丝·阿伯致贺电，祝贺其就任并表达推动中加新型战略伙伴关系发展的愿望。",
+  "summary_en": "On June 8, President Xi Jinping sent a congratulatory message to Louise Arbor on her appointment as the 31st Governor General of Canada, expressing a desire to promote the China-Canada new strategic partnership.",
+  "body_zh": "新华社北京6月9日电 6月8日，国家主席习近平致电路易丝·阿伯，祝贺她就任加拿大第三十一任总督。\n习近平指出，中加关系健康稳定发展符合两国共同利益，也有利于世界和平稳定和发展繁荣。我高度重视中加关系发展，愿同阿伯总督一道努力，本着相互尊重、互利共赢、求同存异的精神，推动中加新型战略伙伴关系在健康、稳定、可持续的轨道上向前发展，更好造福两国人民。\n《 人民日报 》（ 2026年06月10日 01 版）",
+  "image_url": null,
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中加关系",
+    "新型战略伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "加拿大",
+      "name_en": "Canada"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中加关系",
+      "name_en": "China-Canada Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型战略伙伴关系",
+      "name_en": "New Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "加拿大",
+    "中加关系",
+    "新型战略伙伴关系"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Canada",
+    "China-Canada Relations",
+    "New Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260609-cpcnews-dc672a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

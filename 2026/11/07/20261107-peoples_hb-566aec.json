@@ -1,0 +1,124 @@
+{
+  "id": "20261107-peoples_hb-566aec",
+  "source": "peoples_hb",
+  "source_name_zh": "人民网 湖北",
+  "source_name_en": "People's Daily Hubei",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hb.people.com.cn/n2/2026/1107/c194063-41744151.html",
+  "title_zh": "全国消防宣传月活动启动仪式举行",
+  "title_en": "Launch Ceremony Held for National Fire Safety Awareness Month",
+  "summary_zh": "11月6日，国务院安委会办公室、应急管理部、国家消防救援局在京举行2026年全国消防宣传月活动启动仪式，应急管理部部长张成中出席并讲话。",
+  "summary_en": "On November 6, the State Council Work Safety Committee Office, the Ministry of Emergency Management and the National Fire and Rescue Administration held the launch ceremony for the 2026 National Fire Safety Awareness Month in Beijing, with Minister Zhang Chengzhong speaking.",
+  "body_zh": "全国消防宣传月活动启动仪式举行\n本报北京11月6日电 （记者刘温馨）11月6日上午，国务院安委会办公室、应急管理部、国家消防救援局在京举行2026年全国消防宣传月活动启动仪式。启动仪式上，视频连线了辽宁、湖北、四川、云南4省活动现场，播放了全国消防宣传月活动主题宣传片和消防公益广告。\n国务院安委会副主任、应急管理部部长张成中表示，要多措并举大力提升全民消防安全素质，统筹用好各类宣传教育资源，组织开展形式多样的宣传教育活动，大力推进消防常识普及、基本技能实操实训、疏散自救演练、案例教育警示，鼓励职工和群众报告身边的火灾隐患。\n《 人民日报 》（ 2026年11月07日 05 版）",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "消防安全",
+    "宣传教育",
+    "火灾隐患"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-chengzhong",
+      "name_zh": "张成中",
+      "name_en": "Zhang Chengzhong"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家消防救援局",
+      "name_en": "National Fire and Rescue Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消防安全",
+      "name_en": "Fire Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宣传教育",
+      "name_en": "Public Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "火灾隐患",
+      "name_en": "Fire Hazards"
+    }
+  ],
+  "tags_zh": [
+    "张成中",
+    "应急管理部",
+    "国家消防救援局",
+    "北京",
+    "消防安全",
+    "宣传教育",
+    "火灾隐患"
+  ],
+  "tags_en": [
+    "Zhang Chengzhong",
+    "Ministry of Emergency Management",
+    "National Fire and Rescue Administration",
+    "Beijing",
+    "Fire Safety",
+    "Public Education",
+    "Fire Hazards"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-chengzhong"
+    ],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家消防救援局",
+        "name_en": "National Fire and Rescue Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-peoples_hb-566aec",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/1107/c134768-41744157.html",
+      "title_zh": "全国消防宣传月活动启动仪式举行",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

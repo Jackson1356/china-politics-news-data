@@ -1,0 +1,101 @@
+{
+  "id": "20260607-xinhua_hn-197f5d",
+  "source": "xinhua_hn",
+  "source_name_zh": "新华网 湖南",
+  "source_name_en": "Xinhua Hunan",
+  "source_url": "http://hn.news.cn/20260607/54e1d765b81644a7b115b64c6548a430/c.html",
+  "title_zh": "毛伟明会见中德汽车人协会代表团",
+  "title_en": "Mao Weiming Meets Delegation of Sino-German Automotive Association",
+  "summary_zh": "6月6日下午，湖南省长毛伟明在长沙会见中德汽车人协会代表团，探讨深化对德汽车产业合作，推动产业升级与补链强链。",
+  "summary_en": "On June 6, Hunan Governor Mao Weiming met with a delegation from the Sino-German Automotive Association in Changsha to discuss deepening automotive industry cooperation and promoting industrial upgrading.",
+  "body_zh": "深化对德合作 共促产业升级\n毛伟明会见中德汽车人协会代表团\n湖南日报6月6日讯（全媒体记者 孙敏坚）6日下午，省委副书记、省长毛伟明在长沙会见了由伟巴斯特集团中国区总裁兼首席执行官张丽华率领的中德汽车人协会代表团一行。\n副省长余红胜，省政府秘书长王卫安参加。\n中德汽车人协会是国内中德汽车产业合作的行业高端平台，会员涵盖舍弗勒、博世、伟巴斯特等近百家龙头企业的中国区高管，是链接德国工业资源与国内产业的重要桥梁。\n毛伟明对客人的到来表示欢迎并简要介绍湖南汽车产业发展情况。他说，近年来，湖南深入贯彻习近平总书记关于湖南工作的重要讲话和指示批示精神，锚定“三高四新”美好蓝图，持续用力打造国家重要先进制造业高地，加快构建现代化产业体系，着力推动汽车产业转型升级迈出坚实步伐，产业链条逐步完备，规模体量持续扩大，智能网联汽车产业加快发展、保持全国领先地位。目前，全省构建了从电池材料、电机电控、动力电池到整车制造的完整新能源产业链。去年，全省生产汽车162.6万辆、增长30.7%，其中新能源汽车104万辆、增长34.9%，产量居全国前列。毛伟明表示，德国是湖南在欧洲的第一大贸易伙伴，去年，湖南与德国累计进出口170.9亿元，同比增长14.1%。汽车产业是双方合作最紧密的领域，博世、舍弗勒、马勒等一批德企在湘发展壮大，双方合作基础扎实、互补优势明显。希望中德汽车人协会认真落实两国领导人重要共识，发挥桥梁纽带作用，推介更多德企在湘布局更多新产品、新技术、新产能，加强关键技术协同攻关，共同拓展应用场景，助力湖南汽车产业补链强链，提高产业附加值和竞争力。\n张丽华等嘉宾表示，湖南汽车工业有基础、有优势、有前景。中德汽车人协会将积极宣传湖南、推介湖南，推动更多德国企业与湖南紧密携手，在零部件、新能源、新材料、智能网联汽车等领域深化合作，加快两国汽车产业协同发展和技术创新，实现互利共赢。",
+  "image_url": null,
+  "published_at": "2026-06-07T12:00:00+00:00",
+  "event_date": "2026-06-06",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "industry",
+  "keywords": [
+    "汽车产业",
+    "中德合作",
+    "产业升级"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "mao-weiming",
+      "name_zh": "毛伟明",
+      "name_en": "Mao Weiming"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "长沙",
+      "name_en": "Changsha"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN",
+      "name_zh": "湖南",
+      "name_en": "Hunan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "汽车产业",
+      "name_en": "Automotive Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中德合作",
+      "name_en": "Sino-German Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业升级",
+      "name_en": "Industrial Upgrading"
+    }
+  ],
+  "tags_zh": [
+    "毛伟明",
+    "长沙",
+    "湖南",
+    "汽车产业",
+    "中德合作",
+    "产业升级"
+  ],
+  "tags_en": [
+    "Mao Weiming",
+    "Changsha",
+    "Hunan",
+    "Automotive Industry",
+    "Sino-German Cooperation",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [
+      "mao-weiming",
+      {
+        "id": null,
+        "name_zh": "王卫安"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260607-xinhua_hn-197f5d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "20261119-xinhua_politics-acd8a3",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261119/f1f0de4fff3641cd9501d5118322579f/c.html",
+  "title_zh": "2027届全国普通高校毕业生规模预计1299万人",
+  "title_en": "Graduates in 2027 Expected to Reach 12.99 Million",
+  "summary_zh": "11月19日，教育部在北京获悉，2027届高校毕业生预计1299万人；当天召开的就业创业工作会议，部署了五方面促就业举措。",
+  "summary_en": "On Nov 19, the Ministry of Education said graduates in 2027 will reach about 12.99 million; a national employment conference in Beijing that day deployed five measures to boost graduate jobs.",
+  "body_zh": "新华社北京11月19日电（记者王明玉、王鹏）记者11月19日从教育部获悉，2027届全国普通高校毕业生规模预计1299万人。\n当日在京召开的2027届全国普通高校毕业生就业创业工作会议，对做好高校毕业生就业工作作出部署，从健全政策支持体系、挖潜更多岗位资源、推动服务提质升级、做实做细暖心帮扶、加快推进产教融合5个方面提出促就业的务实举措。\n会议要求，各有关部门共同研究破解就业工作重点难点问题，各地各高校守好就业安全底线，确保2027届高校毕业生就业各项部署要求落到实处。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "高校毕业生就业",
+    "就业创业政策",
+    "产教融合"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校毕业生就业",
+      "name_en": "Graduate Employment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业创业政策",
+      "name_en": "Employment and Entrepreneurship Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产教融合",
+      "name_en": "Industry-Education Integration"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "北京",
+    "高校毕业生就业",
+    "就业创业政策",
+    "产教融合"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "Beijing",
+    "Graduate Employment",
+    "Employment and Entrepreneurship Policy",
+    "Industry-Education Integration"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面"
+      }
+    ],
+    "institutions": [
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261119-xinhua_politics-acd8a3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

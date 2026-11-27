@@ -1,0 +1,110 @@
+{
+  "id": "20261121-gov_san_ya-e54ebc",
+  "source": "gov_san_ya",
+  "source_name_zh": "三亚市政府网",
+  "source_name_en": "三亚 Government Portal",
+  "source_media_id": "gov-cn-prefecture-san_ya",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HI",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.sanya.gov.cn/sanyasite/tpxw/202611/45956bff47914facb0ae3fd3d7791e1d.shtml",
+  "title_zh": "王祺扬会见中国农业大学客人",
+  "title_en": "Wang Qiyang Meets China Agricultural University Delegation",
+  "summary_zh": "11月20日，三亚市委书记王祺扬在三亚会见中国农业大学校长陈卫一行，双方就种业研发、南繁硅谷建设与产教研用融合交流合作。",
+  "summary_en": "On Nov 20, Sanya Party Secretary Wang Qiyang met China Agricultural University President Chen Wei to discuss seed research, the Nanfan Silicon Valley and university-industry collaboration.",
+  "body_zh": "11月20日，省委常委、市委书记王祺扬在三亚会见中国农业大学校长、党委副书记陈卫一行。双方围绕发挥中国农大在科技创新、种业研发、农业绿色发展等领域优势，促进创新资源集聚、深化产教研用融合、强化平台和人才支撑，为打造南繁硅谷、服务种业振兴和农业强国建设贡献力量进行交流。市领导杨希义参加会见。\n（记者 刘少珠/文 李学仕/图）",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "industry",
+  "keywords": [
+    "南繁硅谷",
+    "种业振兴",
+    "产教研用融合"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qiyang",
+      "name_zh": "王祺扬",
+      "name_en": "Wang Qiyang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国农业大学",
+      "name_en": "China Agricultural University"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南繁硅谷",
+      "name_en": "Nanfan Silicon Valley"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "种业振兴",
+      "name_en": "Seed Industry Revitalization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产教研用融合",
+      "name_en": "Industry-Academia-Research Integration"
+    }
+  ],
+  "tags_zh": [
+    "王祺扬",
+    "中国农业大学",
+    "三亚",
+    "南繁硅谷",
+    "种业振兴",
+    "产教研用融合"
+  ],
+  "tags_en": [
+    "Wang Qiyang",
+    "China Agricultural University",
+    "Sanya",
+    "Nanfan Silicon Valley",
+    "Seed Industry Revitalization",
+    "Industry-Academia-Research Integration"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-qiyang",
+      {
+        "id": null,
+        "name_zh": "杨希义"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国农业大学",
+        "name_en": "China Agricultural University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-gov_san_ya-746a44",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

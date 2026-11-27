@@ -1,0 +1,114 @@
+{
+  "id": "20261123-peoples_yn-835300",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://yn.people.com.cn/n2/2026/1123/c378439-41757817.html",
+  "title_zh": "云南大理白族自治州庆祝成立七十周年",
+  "title_en": "Dali Bai Autonomous Prefecture in Yunnan Celebrates 70th Anniversary",
+  "summary_zh": "11月22日，云南大理白族自治州举行成立70周年庆祝大会，全国人大常委会、国务院发来贺电。",
+  "summary_en": "On Nov 22, Dali Bai Autonomous Prefecture in Yunnan held a meeting celebrating its 70th anniversary; the NPC Standing Committee and State Council sent congratulatory messages.",
+  "body_zh": "云南大理白族自治州庆祝成立七十周年\n本报大理11月22日电 （记者李茂颖）22日上午，云南省大理白族自治州举行成立70周年庆祝大会。当地各族群众满怀喜悦，载歌载舞，展示在党的领导下团结奋进、昂扬向上的精神风貌。\n全国人大常委会、国务院发来贺电。贺电说，70年来，在党中央坚强领导下，大理各族人民共同当家作主，经济社会全面发展，人民生活极大改善，大理的面貌、大理各族人民的面貌发生了翻天覆地的历史性巨变。特别是党的十八大以来，在以习近平同志为核心的党中央坚强领导下，大理全面打赢脱贫攻坚战，基础设施加快建设，文化事业繁荣发展，社会事业全面进步，生态环境保护成效显著，党的领导和党的建设全面加强，各项事业取得新的历史性成就。希望大理各族干部群众高举中国特色社会主义伟大旗帜，坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，将铸牢中华民族共同体意识作为自治州各项工作的主线，加快推动大理高质量发展，不断推进中华民族共同体建设，同全国各族人民一道为全面建成社会主义现代化强国、全面推进中华民族伟大复兴而团结奋斗。\n大理州地处云南省中部偏西，是我国唯一的白族自治州。1956年11月22日，大理白族自治州正式成立。70年来，大理各族人民团结奋斗、砥砺前行，苍洱大地发展成为产业兴旺、通达四方、充满活力的开放热土。\n2025年，大理州地区生产总值达2087.51亿元，是1956年建州时的1285倍。\n《 人民日报 》（ 2026年11月23日 04 版）",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "民族区域自治",
+    "民族团结",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "Standing Committee of the National People's Congress"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "大理",
+      "name_en": "Dali"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族区域自治",
+      "name_en": "Regional Ethnic Autonomy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族团结",
+      "name_en": "Ethnic Unity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    }
+  ],
+  "tags_zh": [
+    "全国人大常委会",
+    "国务院",
+    "云南",
+    "大理",
+    "民族区域自治",
+    "民族团结",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Standing Committee of the National People's Congress",
+    "State Council",
+    "Yunnan",
+    "Dali",
+    "Regional Ethnic Autonomy",
+    "Ethnic Unity",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-YN"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "Standing Committee of the National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261123-peoples_yn-835300",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

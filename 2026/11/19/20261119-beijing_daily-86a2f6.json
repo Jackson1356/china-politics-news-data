@@ -1,0 +1,96 @@
+{
+  "id": "20261119-beijing_daily-86a2f6",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/19/90095187.shtml",
+  "title_zh": "商务部：中美两国经贸团队在各层级保持沟通",
+  "title_en": "Commerce Ministry: China-US Trade Teams Maintain Communication at All Levels",
+  "summary_zh": "11月19日，商务部新闻发言人何亚东在例行发布会上介绍，中美经贸团队在各层级保持沟通，11月13日双方视频举行贸易理事会首次会议。",
+  "summary_en": "At a regular press briefing on November 19, Commerce Ministry spokesperson He Yadong said China-US trade teams remain in communication at all levels, noting the first Trade Council meeting was held via video on November 13.",
+  "body_zh": "商务部新闻发言人何亚东在11月19日举行的例行新闻发布会上介绍，中美两国经贸团队在各层级保持沟通。11月13日，中美双方通过视频会议方式举行了中美经贸磋商机制项下贸易理事会首次会议。贸易理事会下设的农业工作组也将于近期召开首次会议。（北京日报社原创新闻作品）\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "中美经贸关系",
+    "经贸磋商机制",
+    "农业合作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美经贸关系",
+      "name_en": "China-US Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸磋商机制",
+      "name_en": "Trade Consultation Mechanism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业合作",
+      "name_en": "Agricultural Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "中美经贸关系",
+    "经贸磋商机制",
+    "农业合作"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "China-US Economic and Trade Relations",
+    "Trade Consultation Mechanism",
+    "Agricultural Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "于近期"
+      }
+    ],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-beijing_daily-86a2f6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1795071424129098.html",
+      "title_zh": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

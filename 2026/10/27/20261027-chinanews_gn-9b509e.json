@@ -1,0 +1,103 @@
+{
+  "id": "20261027-chinanews_gn-9b509e",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-27/10721679.shtml",
+  "title_zh": "外交部：希望欧方尊重市场经济和公平竞争原则 推动中欧关系健康稳定发展",
+  "title_en": "Foreign Ministry: China Hopes EU Respects Market Economy and Fair Competition Principles to Promote Healthy, Stable China-EU Relations",
+  "summary_zh": "10月27日，外交部发言人郭嘉昆在例行记者会上就中欧经贸关系表示，希望欧方尊重市场经济和公平竞争原则，避免滥用贸易救济工具，以实际行动推动中欧关系健康稳定发展。",
+  "summary_en": "On October 27, Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing that China hopes the EU will respect market economy and fair competition principles, avoid abusing trade remedy tools, and take concrete action to promote healthy and stable China-EU relations.",
+  "body_zh": "外交部：希望欧方尊重市场经济和公平竞争原则 推动中欧关系健康稳定发展\n10月27日，外交部发言人郭嘉昆主持例行记者会。有记者就中欧经贸关系提问。\n郭嘉昆表示，中方始终认为中欧关系的本质是伙伴，中欧经贸关系的底色是互利共赢。近期，中欧贸易投资磋商机制第二次例会取得积极进展，说明双方完全可以通过对话协商妥善解决经贸分歧。双方在相互尊重基础上加强对话协商、深化经贸合作，符合共同利益，也是双方企业和民众的普遍期待。我们希望欧方尊重市场经济和公平竞争原则，避免滥用贸易救济工具，以实际行动推动中欧关系健康稳定发展。\n(总台央视记者 赵超逸 黄惠馨)\n国内新闻精选：\n- 2026年10月27日 15:30:36\n- 2026年10月27日 14:46:30\n- 2026年10月27日 11:29:13\n- 2026年10月27日 06:42:27\n- 2026年10月26日 15:19:28\n- 2026年10月26日 15:06:54\n- 2026年10月26日 13:43:35\n- 2026年10月26日 12:22:53\n- 2026年10月26日 11:51:27\n- 2026年10月26日 11:02:46",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧经贸关系",
+    "公平竞争",
+    "贸易救济"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧经贸关系",
+      "name_en": "China-EU Economic and Trade Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公平竞争",
+      "name_en": "Fair Competition"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "贸易救济",
+      "name_en": "Trade Remedies"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "中欧经贸关系",
+    "公平竞争",
+    "贸易救济"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "China-EU Economic and Trade Relations",
+    "Fair Competition",
+    "Trade Remedies"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261027-chinanews_gn-9b509e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1793086003129796.html",
+      "title_zh": "外交部：希望欧方尊重市场经济和公平竞争原则 推动中欧关系健康稳定发展",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    },
+    {
+      "source": "beijing_daily",
+      "source_tier": 4,
+      "url": "https://news.bjd.com.cn/2026/10/27/12008602.shtml",
+      "title_zh": "外媒称欧盟计划减少从中国进口相关产品，外交部回应",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

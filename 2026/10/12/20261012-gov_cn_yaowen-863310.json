@@ -1,0 +1,128 @@
+{
+  "id": "20261012-gov_cn_yaowen-863310",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/10/12/VIDE0JtoYgYWQ1ARkQSovvfb261012.shtml",
+  "title_zh": "李强会见越南国会主席陈青敏",
+  "title_en": "Li Qiang Meets Vietnamese National Assembly Chairman Tran Thanh Man",
+  "summary_zh": "10月12日，国务院总理李强在北京会见越南国会主席陈青敏，双方表示将深化贸易投资、互联互通、人工智能等领域互利合作。",
+  "summary_en": "On October 12, Premier Li Qiang met in Beijing with Vietnamese National Assembly Chairman Tran Thanh Man; both sides agreed to deepen cooperation in trade, investment, connectivity and AI.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强12日在京会见越南国会主席陈青敏。\n李强表示，今年4月，习近平总书记、国家主席同苏林总书记、国家主席举行会晤，为深化两党两国关系进一步指明方向。作为“同志加兄弟”，我们愿同越方一道赓续传统友谊，增进团结互信，加强发展战略对接，深化贸易投资、互联互通、人工智能、清洁能源、人文等领域互利合作，加强多边沟通协作，更好造福两国人民。希望两国立法机构大力支持双方务实合作，在提供法治保障、促进民心相通等方面发挥更大作用。\n陈青敏表示，越方坚定奉行一个中国政策，将按照两党两国最高领导人重要共识，推进构建更高水平具有战略意义的越中命运共同体。\n王东明参加会见。",
+  "image_url": null,
+  "published_at": "2026-10-12T12:00:00+00:00",
+  "event_date": "2026-10-12",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "foreign",
+  "keywords": [
+    "中越关系",
+    "务实合作",
+    "立法机构交流"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "陈青敏",
+      "name_en": "Tran Thanh Man"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中越关系",
+      "name_en": "China-Vietnam Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "立法机构交流",
+      "name_en": "Legislative Exchange"
+    },
+    {
+      "kind": "person",
+      "id": "wang-dongming",
+      "name_zh": "王东明",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "陈青敏",
+    "国务院",
+    "中越关系",
+    "务实合作",
+    "立法机构交流",
+    "王东明"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "Tran Thanh Man",
+    "State Council",
+    "China-Vietnam Relations",
+    "Practical Cooperation",
+    "Legislative Exchange"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "wang-dongming",
+      {
+        "id": null,
+        "name_zh": "陈青敏"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261012-gov_cn_yaowen-863310",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083041.htm",
+      "title_zh": "李强会见越南国会主席陈青敏",
+      "published_at": "2026-10-12T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/1013/c64094-40813391.html",
+      "title_zh": "李强会见越南国会主席陈青敏",
+      "published_at": "2026-10-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

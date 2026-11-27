@@ -1,0 +1,82 @@
+{
+  "id": "20260625-xinhua_politics-ca686d",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_url": "https://www.news.cn/politics/20260625/6dcb9a029b804444b638ee89bceb5f1d/c.html",
+  "title_zh": "国产智能盾构换刀机器人正式投用",
+  "title_en": "Domestic Intelligent Shield Tunneling Machine Cutter Replacement Robot Officially Put into Use",
+  "summary_zh": "2026年6月25日，国产智能盾构换刀机器人在厦门厦金大桥环岛路隧道正式投用，实现了软硬件100%国产化，显著提升了盾构施工的安全性和效率。",
+  "summary_en": "On June 25, 2026, a domestic intelligent shield tunneling machine cutter replacement robot was officially put into use at the Xia-Jin Bridge tunnel in Xiamen, achieving 100% localization of hardware and software.",
+  "body_zh": "新华社北京6月25日电（记者樊曦）记者从中铁十四局集团获悉，25日，在厦金大桥（厦门段）环岛路隧道“厦金号”盾构机掘进现场，国产智能盾构换刀机器人正式投用。\n据了解，机器人拥有11个独立可控活动关节，具备高避障能力与精细操作能力，凭借500公斤的负载能力和灵活伸缩的结构，可覆盖10米至18米级超大直径盾构机的整个刀盘，轻松抓取重型滚刀，精准完成更换。机器人整机软硬件实现100%国产化，拥有完全自主知识产权。\n盾构机是穿江越海的“大国重器”，在隧道掘进过程中，刀盘上的滚刀如同“牙齿”，持续切削岩石泥土，磨损极快，需要频繁更换。传统换刀需3名作业人员带压进舱更换，耗时长、风险高。中铁十四局项目负责人刘四进表示，技术团队经过反复论证和技术攻关，在迭代研发常压换刀技术、盾构饱和带压换刀技术等基础上，打造智能盾构换刀机器人，实现盾构换刀技术升级。\n“机器人搭配数字孪生智慧管控系统，依靠3D红外机器视觉定位技术，可在盾构舱内快速扫描识别每把刀具的精确位置与磨损状态，并通过数据分析自动规划最优换刀顺序和机械臂运动路径，大幅提升换刀效率。同时，盾构舱内无需人员进入，有效提升了盾构施工安全性。”刘四进说。\n在投用现场，中国工程院院士钱七虎表示，智能换刀机器人的研发，为我国交通工程装备自主化、无人化、智能化发展探索了新路径，也为产业化应用奠定了基础。\n厦金大桥（厦门段）环岛路隧道全长3291米，由厦门路桥工程投资发展有限公司建设，盾构隧道部分采用开挖直径达16.15米的超大盾构机施工。项目建成后，将进一步完善厦门跨岛交通体系，助推区域经济社会高质量发展。",
+  "image_url": null,
+  "published_at": "2026-06-25T12:00:00+00:00",
+  "event_date": "2026-06-25",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "industry",
+  "keywords": [
+    "智能制造",
+    "国产化",
+    "基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "厦门",
+      "name_en": "Xiamen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能制造",
+      "name_en": "Intelligent Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国产化",
+      "name_en": "Localization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "厦门",
+    "智能制造",
+    "国产化",
+    "基础设施建设"
+  ],
+  "tags_en": [
+    "Xiamen",
+    "Intelligent Manufacturing",
+    "Localization",
+    "Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "钱七虎"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260625-xinhua_politics-ca686d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

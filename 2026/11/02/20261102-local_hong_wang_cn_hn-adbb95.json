@@ -1,0 +1,122 @@
+{
+  "id": "20261102-local_hong_wang_cn_hn-adbb95",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646055/94/16435110.html",
+  "title_zh": "习近平同阿曼苏丹海赛姆举行会谈",
+  "title_en": "Xi Jinping Holds Talks with Oman's Sultan Haitham",
+  "summary_zh": "11月2日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的阿曼苏丹海赛姆举行会谈，表示此访将成为中阿关系史上的重要一页。",
+  "summary_en": "On the morning of Nov 2, President Xi Jinping held talks at the Great Hall of the People in Beijing with Oman's Sultan Haitham on a state visit, saying the meeting will be an important page in bilateral relations.",
+  "body_zh": "内容为转载\n11月2日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的阿曼苏丹海赛姆举行会谈。\n习近平指出，此访是中阿建交48年来阿曼国家元首首次访华，相信我们这次会谈将成为中阿关系史上的重要一页，为双边关系发展注入强劲动力。",
+  "image_url": null,
+  "published_at": "2026-11-02T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "中阿关系",
+    "国事访问",
+    "双边合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中阿关系",
+      "name_en": "China-Oman Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双边合作",
+      "name_en": "Bilateral Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "中阿关系",
+    "国事访问",
+    "双边合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "China-Oman Relations",
+    "State Visit",
+    "Bilateral Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261102-local_hong_wang_cn_hn-adbb95",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-11/02/content_39081322.htm",
+      "title_zh": "习近平同阿曼苏丹海赛姆会谈",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/705ce4ebeebc4e6ca9648057e2d48bc6.shtml",
+      "title_zh": "习近平同德国总统施泰因迈尔会谈",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "http://www.xa.gov.cn/xw/jrgz/2117137226782593025.html",
+      "title_zh": "习近平同阿曼苏丹海赛姆会谈",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "source": "gov_xi_an",
+      "source_tier": 4,
+      "url": "https://www.xa.gov.cn/xw/jrgz/2117137226782593025.html",
+      "title_zh": "习近平同阿曼苏丹海赛姆会谈",
+      "published_at": "2026-11-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

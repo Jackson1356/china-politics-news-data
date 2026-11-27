@@ -1,0 +1,107 @@
+{
+  "id": "20261027-gov_huang_shi-773673",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.huangshi.gov.cn/xwdt/tt/202610/t20261027_1369352.html",
+  "title_zh": "弘扬伟大长征精神 兜牢兜实民生底线",
+  "title_en": "Carry Forward the Great Long March Spirit and Firmly Safeguard the Baseline of People's Livelihoods",
+  "summary_zh": "10月26日，黄石市委副书记、代市长叶杨主持召开市政府党组理论学习中心组（扩大）学习暨市政府第123次常务会议，传达学习习近平总书记近期重要讲话重要指示精神，研究现代服务业等工作。",
+  "summary_en": "On Oct 26, Huangshi acting mayor Ye Yang chaired the city government's party group study session and 123rd executive meeting, conveying Xi Jinping's recent speeches and studying modern service industry work.",
+  "body_zh": "26日，市委副书记、代市长叶杨主持召开市政府党组理论学习中心组（扩大）学习暨市政府第123次常务会议，传达学习习近平总书记近期重要讲话重要指示重要文章重要贺信精神，研究现代服务业等工作。\n会议强调，要深入学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神，从伟大长征精神中汲取奋进力量，走好新的长征路，奋力创造新业绩。要深入学习贯彻习近平总书记对西藏那曲市巴青县7.0级地震作出的重要指示精神，树牢底线思维、极限思维，深化重点领域隐患排查整治，坚决守牢安全底线。要深入学习贯彻习近平总书记在全国卫生与健康大会上的重要讲话精神，坚定实施健康优先发展战略，补齐短板，优化供给，强化全方位全周期健康服务。\n会议要求，要深入学习领会习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》精神，坚持以人民为中心的发展思想，统筹做好就业、教育、医疗、住房、养老等工作，把好事办好、实事办实。要深入学习贯彻习近平总书记致第140届中国进出口商品交易会的重要贺信精神，找准对外开放发力点，培育外贸新优势新动能。要深入学习贯彻习近平总书记在乌兰察布市考察时的重要讲话重要指示精神，树立和践行正确政绩观，严守生态底线，强化实数融合，坚定不移走生态优先、绿色发展之路。\n会议要求，要深入学习贯彻习近平总书记就服务业发展作出的重要指示精神，深入实施服务业扩能提质行动，鼓励企业进规进限，积极培育服务业新增长点，推动现代服务业高质量发展。要深入贯彻落实新修订审计法实施条例，推动审计监督关口前移，规范行政决策程序，持续提升依法履职能力。\n会议还研究了其他事项。（朱达）",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "party",
+  "keywords": [
+    "现代服务业",
+    "民生保障",
+    "安全生产",
+    "长征精神"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代服务业",
+      "name_en": "Modern Service Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "People's Livelihood Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "现代服务业",
+    "民生保障",
+    "安全生产",
+    "长征精神",
+    "习近平"
+  ],
+  "tags_en": [
+    "Modern Service Industry",
+    "People's Livelihood Security",
+    "Work Safety",
+    "Long March Spirit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "叶杨"
+      },
+      {
+        "id": null,
+        "name_zh": "杨主持"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261027-gov_huang_shi-773673",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huang_shi",
+      "source_tier": 4,
+      "url": "https://www.huangshi.gov.cn/xwdt/tt/202610/t20261027_1369352.html",
+      "title_zh": "弘扬伟大长征精神 兜牢兜实民生底线",
+      "published_at": "2026-10-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

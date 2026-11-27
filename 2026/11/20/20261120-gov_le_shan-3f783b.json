@@ -1,0 +1,111 @@
+{
+  "id": "20261120-gov_le_shan-3f783b",
+  "source": "gov_le_shan",
+  "source_name_zh": "乐山市政府网",
+  "source_name_en": "乐山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-le_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SC",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086970.htm",
+  "title_zh": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
+  "title_en": "Li Qiang and Australian PM Albanese Attend Ninth China-Australia CEO Roundtable",
+  "summary_zh": "11月20日晚，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会，近30位中澳商会和企业负责人出席。",
+  "summary_en": "On the evening of Nov 20, Premier Li Qiang and Australian PM Anthony Albanese co-attended the 9th China-Australia CEO Roundtable at the Diaoyutai State Guesthouse in Beijing, with nearly 30 business representatives from both countries.",
+  "body_zh": "新华社北京11月20日电（记者伍岳）11月20日晚，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。近30位中澳商会和企业负责人出席。\n在听取两国工商界代表发言后，李强表示，过去一年，中澳关系与合作在两国领导人战略引领下，取得不少新进展。这些成绩是在国际贸易遭受严重冲击、世界经济增长乏力的背景下取得的，来之不易，充分彰显了两国合作的强大内生动力。实践反复表明，中澳经济优势互补、共同利益广泛，两国既是天然合作伙伴，也是彼此发展机遇。当前，全球发展仍然面临诸多不确定性。越是这样的时候，越需要稳定可靠的伙伴。中澳应当进一步拉紧经贸关系，实现更广泛领域、更高水平的互利共赢。\n李强强调，中国政府愿同澳大利亚政府一道努力，把握两国关系发展正确方向，坚持合作共赢主流，排除对正常经贸的干扰，为两国企业合作提供良好环境和稳定预期。中国开放的大门只会越开越大，欢迎更多澳企深耕中国市场。希望两国工商界继续做互利合作的开拓者、两国友好的促进者，推动中澳经贸合作不断取得新成果。\n阿尔巴尼斯在致辞中表示，中国是澳方最大的贸易伙伴，澳中经贸合作有利于两国经济发展，给两国人民带来实实在在的利益。明年是澳中建交55周年，也是“澳中旅游年”，澳方愿以此为契机，同中方加强在人工智能、绿色转型、现代农业等领域互利合作，深化人文交流。期待两国商界相互学习，相互借鉴，拓展合作，为澳中关系发展作出更大贡献。\n吴政隆出席圆桌会。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "中澳经贸合作",
+    "互利共赢",
+    "开放合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中澳经贸合作",
+      "name_en": "China-Australia Trade Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利共赢",
+      "name_en": "Mutual Benefit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放合作",
+      "name_en": "Opening Up and Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wu-zhenglong",
+      "name_zh": "吴政隆",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "北京",
+    "中澳经贸合作",
+    "互利共赢",
+    "开放合作",
+    "吴政隆"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Beijing",
+    "China-Australia Trade Cooperation",
+    "Mutual Benefit",
+    "Opening Up and Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "wu-zhenglong"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261120-gov_cn_yaowen-3f783b",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

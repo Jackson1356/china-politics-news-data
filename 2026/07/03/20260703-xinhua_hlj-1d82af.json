@@ -1,0 +1,87 @@
+{
+  "id": "20260703-xinhua_hlj-1d82af",
+  "source": "xinhua_hlj",
+  "source_name_zh": "新华网 黑龙江",
+  "source_name_en": "Xinhua Heilongjiang",
+  "source_url": "http://hlj.news.cn/20260703/b55ccea45ac64b54bbbd797f88606ac1/c.html",
+  "title_zh": "黑龙江省启动俄语特色学校招生改革试点",
+  "title_en": "Heilongjiang Province Launches Enrollment Reform Pilot for Russian-Language Specialty Schools",
+  "summary_zh": "黑龙江省启动普通高中俄语特色学校招生改革试点，旨在构建俄语贯通人才培养体系，服务国家向北开放战略。",
+  "summary_en": "Heilongjiang Province has launched an enrollment reform pilot for Russian-language specialty high schools to build a talent cultivation system supporting the national strategy of opening to the north.",
+  "body_zh": "日前，记者从省教育厅获悉，随着2026年“中俄教育年”启幕，黑龙江省正式启动普通高中俄语特色学校招生改革试点工作，以中俄中学联盟为平台，以俄语特色办学为抓手，着力构建俄语贯通人才培养体系，为服务国家向北开放战略夯实人才根基。\n此次招生改革试点，针对俄语生源体量偏小、分布不均、优质生源短缺等突出问题推进。经学校申报、地市审核、省级综合评估，确定三地先行先试。\n三地试点各有侧重、错位发展。哈尔滨市第六中学校是中俄中学联盟发起单位，拥有近80年俄语办学历史，2026年面向全省招收50名属地外俄语考生，发挥示范引领作用。黑河市第一中学依托地缘优势面向黑河市域招生，探索边境地区俄语特色办学路径。绥芬河市高级中学面向牡丹江市招生，直接服务当地对俄经贸往来和人文交流。三地试点形成“省级示范—市级带动—边境覆盖”的梯度布局。\n中俄中学联盟是黑龙江推进对俄基础教育合作的核心平台。2018年，在教育部大力支持和省教育厅直接指导下，哈尔滨市第六中学校牵头成立全国首个中俄基础教育领域战略合作平台。成立八年来，联盟成员单位从初创时的30家扩展至145家。俄方成员95家，覆盖莫斯科、圣彼得堡、喀山等主要城市，基本实现俄罗斯全境辐射；中方成员50家，覆盖东北、华北、西北、华中、西南及东南等重点地区。（记者赵一诺）",
+  "image_url": null,
+  "published_at": "2026-07-03T12:00:00+00:00",
+  "event_date": "2026-07-03",
+  "ingested_at": "2026-07-03T07:43:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "俄语教育",
+    "向北开放",
+    "人才培养"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "俄语教育",
+      "name_en": "Russian Language Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "向北开放",
+      "name_en": "Opening to the North"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才培养",
+      "name_en": "Talent Cultivation"
+    }
+  ],
+  "tags_zh": [
+    "黑龙江",
+    "俄语教育",
+    "向北开放",
+    "人才培养"
+  ],
+  "tags_en": [
+    "Heilongjiang",
+    "Russian Language Education",
+    "Opening to the North",
+    "Talent Cultivation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-HL"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260703-xinhua_hlj-1d82af",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_hlj",
+      "source_tier": 3,
+      "url": "http://hlj.people.com.cn/n2/2026/0703/c220005-41628191.html",
+      "title_zh": "黑龙江省启动俄语特色学校招生改革试点",
+      "published_at": "2026-07-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

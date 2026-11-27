@@ -1,0 +1,101 @@
+{
+  "id": "20260824-gov_lin_zhi-52703d",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202608/3b17730da43f48eb89393aff61f67dea.shtml",
+  "title_zh": "2026年西藏自治区大面积停电事件应急演练举行",
+  "title_en": "2026 Tibet Autonomous Region Large-Scale Power Outage Emergency Drill Held",
+  "summary_zh": "8月19日，2026年西藏自治区大面积停电事件应急演练在拉萨举行，区党委常委、自治区常务副主席旦巴出席并讲话，检验电力保供和应急管理能力。",
+  "summary_en": "On August 19, Tibet Autonomous Region held a large-scale power outage emergency drill in Lhasa. Danba, member of the regional Party committee standing committee and executive vice chairman, attended and spoke, testing power supply and emergency management capabilities.",
+  "body_zh": "2026年西藏自治区大面积停电事件应急演练举行\n旦巴出席并讲话\n本报拉萨8月21日讯（记者 次仁片多）19日，2026年西藏自治区大面积停电事件应急演练在拉萨举行。区党委常委、自治区常务副主席旦巴出席并讲话，国家能源局电力安全监管司主要负责同志现场观摩指导演练。\n本次演练聚焦重大工程、重点场所和民生保供等用电领域，设定受突发自然灾害影响发生大面积停电的事故场景，设置跨区电力支援以及大型医院、交通枢纽、重大项目工区、重点文物单位应急处置等17个演练科目，全方位检验我区电力保供和应急管理能力。各参演单位全流程高效协同、全要素规范处置、全环节实打实操作，展示了过硬的实战素质，增强了应对真实大面积停电事件的底气，达到了检验预案、实战应战、锤炼队伍的效果。\n旦巴强调，我区电网薄弱、自然灾害频发，电力安全风险形势严峻，各级各相关部门要深入贯彻习近平总书记关于国家能源安全和应急管理的重要论述，认真落实区党委、政府有关决策部署，以“时时放心不下”的责任感抓实抓细各项防范应对工作。要加快电源结构优化，推动主网提档升级，强化负荷精准调控，切实加强电力保供；要强化大电网安全风险管控，加强建设施工安全管理，扎实做好防汛防灾工作，切实筑牢电力生产安全屏障；要健全应急预案体系，强化实战演练，加强应急救援队伍建设和科普宣传，不断提升应急能力，为西藏长治久安和高质量发展提供坚强可靠的能源电力保障。",
+  "image_url": null,
+  "published_at": "2026-08-24T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "industry",
+  "keywords": [
+    "电力保供",
+    "应急演练",
+    "能源安全"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "danba-xizang",
+      "name_zh": "旦巴",
+      "name_en": "Danba"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电力保供",
+      "name_en": "Power Supply Guarantee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急演练",
+      "name_en": "Emergency Drill"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源安全",
+      "name_en": "Energy Security"
+    }
+  ],
+  "tags_zh": [
+    "旦巴",
+    "拉萨",
+    "电力保供",
+    "应急演练",
+    "能源安全"
+  ],
+  "tags_en": [
+    "Danba",
+    "Lhasa",
+    "Power Supply Guarantee",
+    "Emergency Drill",
+    "Energy Security"
+  ],
+  "entities": {
+    "politicians": [
+      "danba-xizang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260824-gov_lin_zhi-52703d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shan_nan",
+      "source_tier": 4,
+      "url": "https://www.shannan.gov.cn/xwzx/xzyw/202608/t20260824_175393.html",
+      "title_zh": "旦巴：2026年西藏自治区大面积停电事件应急演练举行",
+      "published_at": "2026-08-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

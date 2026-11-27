@@ -1,0 +1,101 @@
+{
+  "id": "20261122-qianlong-2e767d",
+  "source": "qianlong",
+  "source_name_zh": "千龙网",
+  "source_name_en": "Qianlong (Beijing)",
+  "source_media_id": "qianlong",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://beijing.qianlong.com/2026/1122/8754028.shtml",
+  "title_zh": "殷勇会见美国万事达卡公司首席执行官孟轲",
+  "title_en": "Yin Yong Meets Mastercard CEO Michael Miebach",
+  "summary_zh": "日前，北京市市长殷勇会见美国万事达卡公司首席执行官孟轲，双方就金融开放、跨境支付与金融科技合作交换意见。",
+  "summary_en": "Beijing Mayor Yin Yong met with Mastercard CEO Michael Miebach to discuss financial opening, cross-border payments and fintech cooperation in the Chinese capital.",
+  "body_zh": "日前，市长殷勇会见美国万事达卡公司首席执行官孟轲。\n殷勇说，作为国家金融管理中心，北京市近年来坚定不移推进高水平开放，依托“两区”建设，在全国率先实施跨境融资便利化等开放政策，金融业开放发展步伐加快，为全球金融机构来京开展业务创造了良好环境。万事达卡是全球领先的支付科技公司，希望万事达卡发挥全球支付网络和清算技术优势，用好北京金融开放试点政策，继续拓展在京业务布局，与北京企业在跨境支付、金融科技创新等领域开展更多合作，为广大境内外人士提供更加优质便捷多元的跨境支付服务。我们将持续打造国际一流的营商环境，全力服务各类企业来京投资展业。\n孟轲表示，万事达卡多年来始终将北京作为公司在华业务拓展的核心支点，愿紧抓北京金融业开放发展机遇，加大在京投资和业务布局，与北京企业机构深化人工智能支付技术应用、人才培养等领域合作，为合作伙伴和消费者提供更多数字支付解决方案，促进跨境支付互联互通。\n市政府秘书长曾劲参加会见。\n（本文摘自北京日报第1版）",
+  "image_url": null,
+  "published_at": "2026-11-22T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "economy",
+  "keywords": [
+    "金融业开放",
+    "跨境支付",
+    "金融科技"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yin-yong",
+      "name_zh": "殷勇",
+      "name_en": "Yin Yong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融业开放",
+      "name_en": "Financial Opening"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境支付",
+      "name_en": "Cross-border Payments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融科技",
+      "name_en": "Fintech"
+    }
+  ],
+  "tags_zh": [
+    "殷勇",
+    "北京",
+    "金融业开放",
+    "跨境支付",
+    "金融科技"
+  ],
+  "tags_en": [
+    "Yin Yong",
+    "Beijing",
+    "Financial Opening",
+    "Cross-border Payments",
+    "Fintech"
+  ],
+  "entities": {
+    "politicians": [
+      "yin-yong",
+      {
+        "id": null,
+        "name_zh": "孟轲"
+      },
+      {
+        "id": null,
+        "name_zh": "曾劲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261122-qianlong-2e767d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

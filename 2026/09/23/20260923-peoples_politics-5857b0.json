@@ -1,0 +1,106 @@
+{
+  "id": "20260923-peoples_politics-5857b0",
+  "source": "peoples_politics",
+  "source_name_zh": "人民网 政治",
+  "source_name_en": "People's Daily Politics",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://politics.people.com.cn/n1/2026/0923/c1001-40804425.html",
+  "title_zh": "《中华民族交往交流交融史》出版座谈会在京召开",
+  "title_en": "Symposium in Beijing Marks Publication of the History of Exchange, Communication and Integration of the Chinese Nation",
+  "summary_zh": "9月23日，《中华民族交往交流交融史》出版座谈会在北京召开，中共中央政治局委员、中央统战部部长李干杰出席会议并讲话，强调深化中华民族共同体理论研究。",
+  "summary_en": "A symposium marking the publication of the History of Exchange, Communication and Integration of the Chinese Nation was held in Beijing on Sept 23, where Li Ganji, Political Bureau member and head of the CPC Central Committee's United Front Work Department, delivered a speech.",
+  "body_zh": "《中华民族交往交流交融史》出版座谈会在京召开\n新华社北京9月23日电 《中华民族交往交流交融史》出版座谈会23日在京召开。中共中央政治局委员、中央统战部部长李干杰出席会议并讲话。\n会议指出，《中华民族交往交流交融史》共11卷、420余万字，以习近平总书记关于加强和改进民族工作的重要思想为根本遵循，坚持以“五个共同”的中华民族历史观著史立传，为铸牢中华民族共同体意识提供了深厚历史依据；坚持“两个结合”跳出西方民族理论窠臼，为建设中国自主的中华民族共同体史料体系、话语体系、理论体系提供了重要学理支撑；坚持以史为鉴回应新时代我国各民族交往交流交融的实践需要，为推动民族团结进步事业高质量发展提供了宝贵经验启示。\n会议强调，要以该书出版为契机，持续做好宣传阐释、学术研究和转化利用等工作，进一步深化中华民族共同体重大基础理论问题研究攻关，夯实中华民族共同体的史料基础，加强中国自主的学术话语建设，构建科学完备的中华民族共同体理论体系，为铸牢中华民族共同体意识、推进中华民族共同体建设奠定坚实理论基础。\n编纂工作领导小组成员单位、编纂委员会有关负责同志出席会议。中央统战部、国家民委相关部门同志，专家委员会、专家评审组、分卷主编以及有关专家学者、青年学生、基层干部和群众代表等参加会议。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "party",
+  "keywords": [
+    "中华民族共同体意识",
+    "民族团结",
+    "民族工作"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CCUFWD",
+      "name_zh": "中央统战部",
+      "name_en": "United Front Work Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族共同体意识",
+      "name_en": "Sense of Community for the Chinese Nation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族团结",
+      "name_en": "Ethnic Unity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族工作",
+      "name_en": "Ethnic Affairs Work"
+    }
+  ],
+  "tags_zh": [
+    "中央统战部",
+    "北京",
+    "中华民族共同体意识",
+    "民族团结",
+    "民族工作"
+  ],
+  "tags_en": [
+    "United Front Work Department of the CPC Central Committee",
+    "Beijing",
+    "Sense of Community for the Chinese Nation",
+    "Ethnic Unity",
+    "Ethnic Affairs Work"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "史为鉴"
+      }
+    ],
+    "institutions": [
+      "CCUFWD"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260923-peoples_politics-5857b0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_leaders",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/leaders/20260923/37bc8ef2469348498452d49f010add73/c.html",
+      "title_zh": "《中华民族交往交流交融史》出版座谈会在京召开",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

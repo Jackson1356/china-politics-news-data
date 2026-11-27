@@ -1,0 +1,82 @@
+{
+  "id": "20260731-beijing_daily-0b48df",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/07/31/11894255.shtml",
+  "title_zh": "国家发改委回应二季度GDP增速回落",
+  "title_en": "NDRC Responds to Q2 GDP Growth Slowdown",
+  "summary_zh": "7月31日，国家发改委举行7月新闻发布会，回应二季度GDP增速回落，称5、6月份指标回升，经济长期向好。",
+  "summary_en": "On July 31, the National Development and Reform Commission held a press conference, responding to the Q2 GDP growth slowdown, saying indicators rebounded in May and June and the economy remains sound in the long run.",
+  "body_zh": "7月31日上午，国家发展改革委举行7月份新闻发布会，回应近期宏观经济热点问题。\n今年上半年，我国经济增长4.7%，但二季度以来部分指标有所走弱，当季GDP增长4.3%，比一季度出现了一定程度回落。\n国家发展改革委国民经济综合司副司长周宏伟表示，今年以来，国际局势更趋复杂严峻，对世界经济运行和全球产业链供应链稳定造成严重冲击。4月份受外部冲击等阶段性扰动因素影响，主要指标有所回落，但5、6月份实现回升，供需两端指标均有所好转。\n“今年以来，全球能源市场出现剧烈波动，一些国家能源短缺、价格飞涨，而我国加快建设新型能源体系，精准实施成品油价格调控，实现供需总体平衡、价格总体稳定，经受住了冲击、展现出了强大韧性。6月末我国电力装机规模突破40亿千瓦，稳居世界首位。”周宏伟说。\n周宏伟强调，当前我国经济运行仍面临一些困难挑战，国际环境不确定性依然较大，外部冲击影响仍在持续，部分地区洪涝等自然灾害偏重发生，新旧动能转换过程还存在一些困难梗阻。但更要看到，我国经济基础稳、优势多、韧性强、潜力大，长期向好的支撑条件和基本趋势没有改变，随着党中央、国务院各项既定部署加快落实落地，我们完全有条件、有能力、有信心、有底气克服发展中的各种困难挑战，用好各种机遇和优势，确保实现全年经济社会发展预期目标和“十五五”良好开局。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-31",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "economy",
+  "keywords": [
+    "宏观经济",
+    "GDP增速"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "宏观经济",
+      "name_en": "Macroeconomy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "GDP增速",
+      "name_en": "GDP Growth"
+    }
+  ],
+  "tags_zh": [
+    "国家发展改革委",
+    "宏观经济",
+    "GDP增速"
+  ],
+  "tags_en": [
+    "National Development and Reform Commission",
+    "Macroeconomy",
+    "GDP Growth"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "周宏伟"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260731-beijing_daily-0b48df",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

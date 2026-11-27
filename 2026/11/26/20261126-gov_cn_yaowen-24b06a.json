@@ -1,0 +1,108 @@
+{
+  "id": "20261126-gov_cn_yaowen-24b06a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087412.htm",
+  "title_zh": "我国发布《新一代通信网建设实施方案》",
+  "title_en": "China Releases Implementation Plan for Next-Generation Communications Network",
+  "summary_zh": "工业和信息化部、国家网信办、国家发展改革委近日联合印发《新一代通信网建设实施方案》，明确到2030年建成性能领先的新一代通信网。",
+  "summary_en": "The MIIT, CAC and NDRC jointly issued an implementation plan to build a next-generation communications network by 2030, covering 6G, 5G-A and satellite internet.",
+  "body_zh": "工业和信息化部、国家网信办、国家发展改革委近日印发《新一代通信网建设实施方案》。实施方案明确，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨卫星互联网系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。工业互联网、车联网等融合网络实现规模化发展。通感导算智一体化服务能力明显增强，智能化发展水平大幅提升。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "industry",
+  "keywords": [
+    "新一代通信网",
+    "6G网络",
+    "卫星互联网"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新一代通信网",
+      "name_en": "Next-Generation Communications Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "6G网络",
+      "name_en": "6G Networks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星互联网",
+      "name_en": "Satellite Internet"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "国家网信办",
+    "国家发展改革委",
+    "新一代通信网",
+    "6G网络",
+    "卫星互联网"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Cyberspace Administration of China",
+    "National Development and Reform Commission",
+    "Next-Generation Communications Network",
+    "6G Networks",
+    "Satellite Internet"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家网信办",
+        "name_en": "Cyberspace Administration of China"
+      },
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-gov_cn_yaowen-24b06a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

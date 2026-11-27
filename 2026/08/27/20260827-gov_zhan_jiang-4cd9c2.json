@@ -1,0 +1,101 @@
+{
+  "id": "20260827-gov_zhan_jiang-4cd9c2",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/qxdt/content/post_2215749.html",
+  "title_zh": "我市组织收看湛江市防风防汛调度会并部署防风防汛工作",
+  "title_en": "Local City Attends Zhanjiang Typhoon and Flood Prevention Meeting and Deploys Measures",
+  "summary_zh": "8月25日，湛江市召开防风防汛调度会，市委书记余钢部署台风“紫檀”防御工作，我市设分会场收听收看并部署本级工作。",
+  "summary_en": "On August 25, Zhanjiang Party Secretary Yu Gang chaired a typhoon and flood prevention meeting to deploy defense against Typhoon Zitan. Our city watched via sub-venue and held its own meeting to implement directives.",
+  "body_zh": "8月25日上午，我市组织收听收看湛江市防风防汛调度会，会后立即召开本级会议，部署落实我市防风防汛工作。\n湛江市委书记、市人大常委会党组书记、主任余钢主持召开湛江市防风防汛调度会，对台风“紫檀”防御工作进行分析研判和动员部署。\n我市领导庞晓冬、柯造、韩阳、钟红春、梁信文，市有关部门负责人及各镇（街道）党（工）委主要负责同志，在我市分会场集中收听收看湛江市防风防汛调度会。\n湛江市会议结束后，我市随即召开会议，贯彻落实湛江市防风防汛调度会精神，部署落实我市防风防汛工作。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防风防汛",
+    "台风防御"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yu-gang-zhanjiang",
+      "name_zh": "余钢",
+      "name_en": "Yu Gang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湛江市委",
+      "name_en": "Zhanjiang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防风防汛",
+      "name_en": "Typhoon and Flood Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台风防御",
+      "name_en": "Typhoon Defense"
+    }
+  ],
+  "tags_zh": [
+    "余钢",
+    "湛江市委",
+    "湛江",
+    "防风防汛",
+    "台风防御"
+  ],
+  "tags_en": [
+    "Yu Gang",
+    "Zhanjiang Municipal Party Committee",
+    "Zhanjiang",
+    "Typhoon and Flood Prevention",
+    "Typhoon Defense"
+  ],
+  "entities": {
+    "politicians": [
+      "yu-gang-zhanjiang",
+      {
+        "id": null,
+        "name_zh": "任余钢"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "湛江市委",
+        "name_en": "Zhanjiang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260827-gov_zhan_jiang-4cd9c2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

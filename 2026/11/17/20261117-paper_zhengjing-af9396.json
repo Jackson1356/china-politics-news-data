@@ -1,0 +1,83 @@
+{
+  "id": "20261117-paper_zhengjing-af9396",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34491222",
+  "title_zh": "我国北斗终端设备应用数量近4200万",
+  "title_en": "China's BeiDou Terminal Device Applications Near 42 Million Units",
+  "summary_zh": "11月17日，中国卫星导航定位协会在北京发布《2026中国北斗产业发展指数报告》，称截至2026年上半年，我国北斗终端设备应用数量近4200万台/套，同比增长约27%。",
+  "summary_en": "On Nov 17, the China Satellite Navigation and Location Services Association released a BeiDou industry report in Beijing, showing China's BeiDou terminal applications neared 42 million units in H1 2026, up about 27% year on year.",
+  "body_zh": "我国北斗终端设备应用数量近4200万\n11月17日，在北京举办的北斗时空产业发展论坛上，中国卫星导航定位协会发布的《2026中国北斗产业发展指数报告》显示，截至2026年上半年，我国各种类型的北斗终端设备（不含消费类电子）应用数量接近4200万台/套，较去年同期增加近900万台/套，同比增长约27%，北斗综合应用渗透率超过90%。\n大众消费领域，2026年上半年，国内智能手机出货量达1.24亿部，超过98%支持北斗定位；国内搭载北斗终端的乘用车出货量约1000万辆；具有北斗定位功能的电动自行车销量达到2600万辆。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "industry",
+  "keywords": [
+    "北斗产业",
+    "卫星导航",
+    "产业应用"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "北斗产业",
+      "name_en": "BeiDou Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星导航",
+      "name_en": "Satellite Navigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业应用",
+      "name_en": "Industrial Application"
+    }
+  ],
+  "tags_zh": [
+    "北京",
+    "北斗产业",
+    "卫星导航",
+    "产业应用"
+  ],
+  "tags_en": [
+    "Beijing",
+    "BeiDou Industry",
+    "Satellite Navigation",
+    "Industrial Application"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261117-paper_zhengjing-af9396",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20260905-xinhua_gz-7eb18d",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20260905/fae5bb6b11b1424eb624195439684fde/c.html",
+  "title_zh": "李炳军会见中盐集团董事长申兆军一行",
+  "title_en": "Li Bingjun Meets Chairman of China Salt Group Shen Zhaojun",
+  "summary_zh": "9月4日，贵州省委副书记、省长李炳军在贵阳会见中盐集团董事长申兆军一行，双方就深化央地合作、加大在黔投资等交流。",
+  "summary_en": "On September 4, Li Bingjun, Deputy Secretary of the Guizhou Provincial Party Committee and Governor, met with Shen Zhaojun, Chairman of China Salt Group, in Guiyang to discuss deepening central-local cooperation and increasing investment in Guizhou.",
+  "body_zh": "9月4日，省委副书记、省长李炳军在贵阳会见中盐集团党委书记、董事长申兆军一行。副省长罗强，中盐集团党委委员、副总经理王云参加。\n李炳军代表省委、省政府对申兆军一行表示欢迎和感谢。他说，当前，全省上下正深入贯彻落实习近平总书记在贵州考察时的重要讲话精神，坚持以高质量发展统揽全局，在守好巩固拓展脱贫攻坚成果、生态、安全、民生等底线任务基础上，立足比较优势和产业基础，协同推进三次产业发展，加快打造具有贵州特色的现代化产业体系。希望中盐集团进一步加大在黔投资布局，持续深化央地务实合作，加强民生食盐供应保障，带动盐业及盐化工产业加快发展，更好实现互利共赢。\n申兆军感谢贵州省对中盐集团的关心支持。他表示，中盐集团将坚持优势互补、互惠互利，精准对接贵州发展所需，不断拓展合作领域、提升合作实效，为贵州高质量发展贡献更大力量。\n省政府秘书长魏树旺，中盐集团和省有关部门负责同志参加。（记者 陈毓钊）",
+  "image_url": null,
+  "published_at": "2026-09-05T12:00:00+00:00",
+  "event_date": "2026-09-04",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "economy",
+  "keywords": [
+    "央地合作",
+    "盐业",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "申兆军",
+      "name_en": "Shen Zhaojun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地合作",
+      "name_en": "Central-Local Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "盐业",
+      "name_en": "Salt Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    }
+  ],
+  "tags_zh": [
+    "李炳军",
+    "申兆军",
+    "贵阳",
+    "央地合作",
+    "盐业",
+    "高质量发展"
+  ],
+  "tags_en": [
+    "Li Bingjun",
+    "Shen Zhaojun",
+    "Guiyang",
+    "Central-Local Cooperation",
+    "Salt Industry",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "王云"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260905-xinhua_gz-7eb18d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20261119-gov_wei_hai-320f4a",
+  "source": "gov_wei_hai",
+  "source_name_zh": "威海市政府网",
+  "source_name_en": "威海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wei_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.weihai.gov.cn/art/2026/11/19/art_58817_6753765.html",
+  "title_zh": "威海市委常委会召开会议 研究迎峰度冬保暖保供等工作",
+  "title_en": "Weihai Municipal Party Committee Standing Committee Meets on Winter Heating Supply and Other Work",
+  "summary_zh": "11月18日，威海市委书记张海波主持召开市委常委会会议，传达学习习近平总书记近期重要讲话、重要指示精神，并研究迎峰度冬保暖保供等工作。",
+  "summary_en": "On November 18, Weihai Party Secretary Zhang Haibo chaired a meeting of the Municipal Party Committee Standing Committee to convey and study recent speeches and directives by Xi Jinping and to discuss winter peak-season heating and energy supply work.",
+  "body_zh": "时间：\n点击次数：\n威海新闻网讯（全媒体新闻中心记者 李文思）11月18日，市委常委会召开会议，传达学习习近平总书记近期重要讲话、重要指示、重要文章精神，研究我市贯彻落实意见。市委书记张海波主持会议并讲话。\n会议指出，要深入学习贯彻习近平总书记对国有企业党的建设工作作出的重要指示，全面贯彻习近平党建思想，加强党对国有企业的全面领导，切实提升国有企业管理能力和经营效益，狠抓干部队伍建设，持之以恒推进正风肃纪反腐，以高质量党建引领国有企业高质量发展。要认真学习贯彻习近平总书记对人民法院工作作出的重要指示，深入践行司法为民，规范司法权力运行，凝聚司法工作合力，进一步提升人民法院工作质效。要深入学习贯彻习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话，学习、继承、发扬孙中山先生的宝贵精神，更加自觉用习近平新时代中国特色社会主义思想凝心铸魂，巩固和发展最广泛的爱国统一战线。要认真学习贯彻习近平总书记在广东中山考察时的重要讲话，坚持以改革创新为根本动力，营造优良营商环境，深化对外经贸合作，不断开创高质量发展新局面。\n会议传达学习了省委书记林武来威调研有关要求，强调要全力抓好经济运行，巩固提升优势，加快补齐短板，努力为全省发展大局多作贡献。要大力推动科技创新与产业创新深度融合，深化产学研协同创新，加力培育标志性产业链，构建现代化产业体系。要更好统筹发展和安全，紧盯修造船、海上安全、森林防火、道路交通、建筑施工、城镇燃气、消防安全、恶劣天气等重点领域，强化风险排查整治，维护社会大局和谐稳定。要狠抓大气污染防治，持续改善空气质量。要保持良好工作作风，严格落实属地责任、行业管理责任和领导责任，切实做到守土有责、守土负责、守土尽责。\n会议研究了我市迎峰度冬保暖保供工作，强调要统筹抓好各类能源保供，科学调度热源管网，全面优化供热服务，做好安全检查和宣传引导，确保群众温暖过冬、安全过冬。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "party",
+  "keywords": [
+    "保暖保供",
+    "国有企业党建",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SD-WH",
+      "name_zh": "威海",
+      "name_en": "Weihai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "保暖保供",
+      "name_en": "Heating and Energy Supply"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国有企业党建",
+      "name_en": "Party Building in State-owned Enterprises"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "威海",
+    "保暖保供",
+    "国有企业党建",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Weihai",
+    "Heating and Energy Supply",
+    "Party Building in State-owned Enterprises",
+    "High-quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261119-gov_wei_hai-320f4a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

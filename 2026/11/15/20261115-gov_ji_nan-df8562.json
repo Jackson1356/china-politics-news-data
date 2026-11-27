@@ -1,0 +1,116 @@
+{
+  "id": "20261115-gov_ji_nan-df8562",
+  "source": "gov_ji_nan",
+  "source_name_zh": "济南市政府网",
+  "source_name_en": "济南 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ji_nan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jinan.gov.cn/col/col52/art/2026/art_355a8d13d8174e84983967203dce304e.html",
+  "title_zh": "济南国际贸易产业园高质量发展推进会举行",
+  "title_en": "Jinan International Trade Industrial Park High-Quality Development Promotion Meeting Held",
+  "summary_zh": "11月14日，济南国际贸易产业园高质量发展推进会在济南举行，市委书记刘强出席，副省长温暖致辞，现场举行园区启用仪式和项目签约。",
+  "summary_en": "On Nov 14, Jinan held a promotion meeting for the high-quality development of its International Trade Industrial Park; Party Secretary Liu Qiang attended, Vice Governor Wen Nuan spoke, and the park's launch and project signings took place.",
+  "body_zh": "济南国际贸易产业园高质量发展推进会举行\n刘强出席 温暖致辞\n11月14日，以“链动全球 融通未来”为主题的济南国际贸易产业园高质量发展推进会举行。\n市委书记刘强出席，副省长温暖出席并致辞，市委常委，济南高新区党工委书记、管委会主任常绪扩出席，副市长杨丽致辞。\n温暖在致辞时说，济南国际贸易产业园集聚国际贸易口岸服务、跨境电商等要素资源，致力打造区域性国际贸易总部基地和对外开放标杆园区，充分展现了推动全省扩大高水平对外开放的国企担当。“十五五”时期，是山东加快从贸易大省向贸易强省迈进的关键时期。省委、省人民政府将坚定不移扩大高水平对外开放，进一步提升对外贸易与产业投资协同发展水平，推动货物贸易、服务贸易、数字贸易深度融合、提质增效。\n杨丽在致辞时说，近年来，济南市扛牢省会城市担当，充分挖掘资源，发挥区位优势，对外开放能级不断跃升。全市商贸工作逐步由传统业态向新兴业态转变、侧重内贸向内外贸协同转变、属地集聚向区域辐射转变，为全市经济高质量发展提供了有力支撑。欢迎更多国内外企业来济发展，与济南携手合作共赢、共创美好未来。\n山东能源集团党委书记、董事长李伟致欢迎词并作了园区推介。欧美国际能源公司董事长伊德里斯·塔哈、京东集团副总裁龙宝正作为嘉宾代表分别致辞。\n活动现场举行了园区启用仪式。入驻企业、战略合作伙伴分别与贸易产业园区进行了项目签约。",
+  "image_url": null,
+  "published_at": "2026-11-15T12:00:00+00:00",
+  "event_date": "2026-11-14",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "economy",
+  "keywords": [
+    "高水平对外开放",
+    "国际贸易",
+    "跨境电商",
+    "产业园区建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD",
+      "name_zh": "山东",
+      "name_en": "Shandong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高水平对外开放",
+      "name_en": "High-Standard Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际贸易",
+      "name_en": "International Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "跨境电商",
+      "name_en": "Cross-Border E-Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业园区建设",
+      "name_en": "Industrial Park Development"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "山东",
+    "高水平对外开放",
+    "国际贸易",
+    "跨境电商",
+    "产业园区建设"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "Shandong",
+    "High-Standard Opening Up",
+    "International Trade",
+    "Cross-Border E-Commerce",
+    "Industrial Park Development"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "常绪扩"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN",
+      "CN-SD"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261115-gov_ji_nan-df8562",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

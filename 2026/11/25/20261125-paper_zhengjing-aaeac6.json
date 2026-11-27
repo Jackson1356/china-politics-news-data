@@ -1,0 +1,83 @@
+{
+  "id": "20261125-paper_zhengjing-aaeac6",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34553999",
+  "title_zh": "普速旅客列车和旅游列车车次变更今日实施",
+  "title_en": "New Train Number Codes for Conventional Passenger and Tourist Trains Take Effect",
+  "summary_zh": "11月24日至25日，国铁集团实施第一批列车车次变更，涉及客货列车4700余列，运行区段和时刻基本不变。",
+  "summary_en": "China Railway implemented the first batch of train number changes on Nov 24-25, covering more than 4,700 passenger and freight trains, with routes and schedules largely unchanged.",
+  "body_zh": "普速旅客列车和旅游列车车次变更今日实施\n记者从中国国家铁路集团有限公司（以下简称“国铁集团”）获悉，全国铁路列车车次编排改革顺利推进，第一批车次变更今日实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车正式启用新车次，按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车4700余列。变更后，新车次的列车开行区段、运行时刻基本保持不变，动车组列车车次此次变更暂时不变，将于12月下旬实施变更。\n该负责人介绍，在新旧列车车次变更过渡期间，国铁集团将加强安全督导检查，做好新车次宣传推广和信息服务，持续为旅客货主提供高品质的铁路运输服务。铁路12306加大信息推送力度，各大车站通过广播、站内公告、电子显示屏等方式及时公告列车开行动态和旅客出行指引，站车工作人员加强现场乘降组织，为有需要的旅客提供咨询和引导服务，保障旅客平安有序出行。有出行需求的旅客请务必详细核对列车车次、到发车站、运行时刻等信息，以免误购误乘、影响行程。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路运输",
+    "车次编排改革",
+    "旅客服务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CRG",
+      "name_zh": "中国国家铁路集团有限公司",
+      "name_en": "China State Railway Group Co., Ltd."
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路运输",
+      "name_en": "Railway Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "车次编排改革",
+      "name_en": "Train Number Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "旅客服务",
+      "name_en": "Passenger Services"
+    }
+  ],
+  "tags_zh": [
+    "中国国家铁路集团有限公司",
+    "铁路运输",
+    "车次编排改革",
+    "旅客服务"
+  ],
+  "tags_en": [
+    "China State Railway Group Co., Ltd.",
+    "Railway Transport",
+    "Train Number Reform",
+    "Passenger Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CRG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261125-paper_zhengjing-aaeac6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

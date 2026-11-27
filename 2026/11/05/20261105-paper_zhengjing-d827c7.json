@@ -1,0 +1,88 @@
+{
+  "id": "20261105-paper_zhengjing-d827c7",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34411436",
+  "title_zh": "海关总署就冒充海关实施招聘诈骗发布严正声明",
+  "title_en": "General Administration of Customs Issues Solemn Statement on Scams Impersonating Customs in Fake Recruitment",
+  "summary_zh": "近期有不法分子冒充海关总署及各级海关名义在网络上发布虚假招聘信息实施诈骗，海关总署就此发布严正声明，并将会同公安机关严厉打击。",
+  "summary_en": "Recently, criminals have posed as the General Administration of Customs and its local branches to post fake recruitment information online and commit fraud. The GACC issued a solemn statement and said it will work with police to crack down on such crimes.",
+  "body_zh": "不法分子冒充海关实施招聘诈骗，海关总署发布严正声明\n近期，我单位发现有不法分子冒充海关总署、直属海关和隶属海关名义，通过网络平台发布虚假海关招聘职位（岗位）信息实施诈骗。为维护全国海关公务员录用、事业单位公开招聘工作秩序，切实保障人民群众财产安全，现严正声明如下：\n一、全国海关公务员录用有关工作按照国家公务员局统一部署，由海关总署及各直属海关单位组织实施；事业单位公开招聘工作由各级人力资源社会保障部门指导，海关总署及各直属海关单位、直属事业单位组织实施。全国海关从未委托、授权第三方中介机构、营利性组织或个人进行公务员录用、事业单位公开招聘。\n二、全国海关年度公务员录用职位、面试人员名单、拟录用人员名单等信息均会通过中央机关及其直属机构考试录用公务员专题网站、海关总署和直属海关单位官方网站发布。全国海关事业单位年度公开招聘岗位、面试人员名单、拟聘用人员名单等信息，按照招聘单位和招聘对象等不同，通过中央和国家机关所属事业单位公开招聘服务平台、海关总署、直属海关单位、隶属海关和直属事业单位官方网站发布。全国海关从未委托、授权第三方中介机构、营利性组织或个人通过自媒体平台发布公务员录用、事业单位公开招聘信息。\n三、我单位将联合公安机关严厉打击以海关名义，通过网络平台发布虚假公务员录用、事业单位公开招聘信息实施诈骗等违法犯罪行为，并采取法律手段维护我单位合法权益。如发现假借海关名义开展公务员录用、事业单位公开招聘的，请广大群众提高警惕并及时向当地公安机关报案，谨防上当受骗。",
+  "image_url": null,
+  "published_at": "2026-11-05T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "discipline",
+  "keywords": [
+    "招聘诈骗",
+    "公务员录用",
+    "反诈防骗"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "GAC",
+      "name_zh": "海关总署",
+      "name_en": "General Administration of Customs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招聘诈骗",
+      "name_en": "Recruitment Fraud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公务员录用",
+      "name_en": "Civil Servant Recruitment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反诈防骗",
+      "name_en": "Fraud Prevention"
+    }
+  ],
+  "tags_zh": [
+    "海关总署",
+    "招聘诈骗",
+    "公务员录用",
+    "反诈防骗"
+  ],
+  "tags_en": [
+    "General Administration of Customs",
+    "Recruitment Fraud",
+    "Civil Servant Recruitment",
+    "Fraud Prevention"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方网站"
+      }
+    ],
+    "institutions": [
+      "GAC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 2,
+  "cluster_id": "evt-20261105-paper_zhengjing-d827c7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

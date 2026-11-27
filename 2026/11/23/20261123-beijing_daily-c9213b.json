@@ -1,0 +1,96 @@
+{
+  "id": "20261123-beijing_daily-c9213b",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/23/12040719.shtml",
+  "title_zh": "中俄美元首会晤是否讨论了乌克兰危机？外交部回应",
+  "title_en": "Did the China-Russia-US Summit Discuss the Ukraine Crisis? MFA Responds",
+  "summary_zh": "11月23日，外交部发言人郭嘉昆在例行记者会上回应泽连斯基相关表态，表示中方在乌克兰危机上的立场一贯明确，认为对话谈判是唯一可行出路。",
+  "summary_en": "On November 23, MFA spokesperson Guo Jiakun told a regular press briefing, in response to remarks by Zelensky, that China's position on the Ukraine crisis is consistent and clear, and that dialogue and negotiation are the only viable way out.",
+  "body_zh": "11月23日，外交部发言人郭嘉昆主持例行记者会。\n土耳其阿纳多卢通讯社记者提问，乌克兰总统泽连斯基称，如果乌克兰方面不参加中俄美元首会晤，那么此次会晤讨论乌克兰危机是错误的。请问这次会晤有没有讨论乌克兰危机？\n郭嘉昆表示，关于中俄美元首会晤的情况，中方已经发布了消息。关于乌克兰危机，中方的立场是一贯明确的，始终认为对话谈判是解决危机的唯一可行出路，中方支持一切有利于和平的努力。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "乌克兰危机",
+    "中俄美关系",
+    "对话谈判"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "乌克兰危机",
+      "name_en": "Ukraine Crisis"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄美关系",
+      "name_en": "China-Russia-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对话谈判",
+      "name_en": "Dialogue and Negotiation"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "乌克兰危机",
+    "中俄美关系",
+    "对话谈判"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Ukraine Crisis",
+    "China-Russia-US Relations",
+    "Dialogue and Negotiation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "方面不"
+      },
+      {
+        "id": null,
+        "name_zh": "方已经"
+      },
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261123-beijing_daily-c9213b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

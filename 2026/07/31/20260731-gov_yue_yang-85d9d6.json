@@ -1,0 +1,114 @@
+{
+  "id": "20260731-gov_yue_yang-85d9d6",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2392023.html",
+  "title_zh": "市九届人大常委会举行第86次主任会议",
+  "title_en": "Yueyang Municipal People's Congress Standing Committee Holds 86th Director Meeting",
+  "summary_zh": "7月30日，岳阳市九届人大常委会举行第86次主任会议，听取多项报告并研究人事事项。",
+  "summary_en": "On July 30, the Standing Committee of the 9th Yueyang Municipal People's Congress held its 86th director meeting, hearing multiple reports and discussing personnel matters.",
+  "body_zh": "7月30日，市九届人大常委会举行第86次主任会议。市人大常委会副主任喻文主持，副主任张中于、王文华、李勇、曾平原，秘书长王亚丹出席，副市长张世愚列席。\n会议听取了市人大常委会执法检查组关于检查养老服务“两规定一条例”实施情况的报告，市人民政府关于2025年度市级预算执行和其他财政收支的审计工作报告，市人大常委会代表资格审查委员会关于部分岳阳市第九届人民代表大会代表的代表资格审查报告，市人大常委会“两官”履职评议调查组关于2026年度法官、检察官履职评议暨类案评查工作报告，市人大监察和司法委关于全市行政诉讼工作情况的调研报告，市人大财经委、常委会预算工委关于《市本级政府投资项目2025年计划执行和2026年计划（草案）编制情况的报告》的审议意见，书面听取了市人民政府关于全市行政诉讼工作情况的报告、关于2026年市本级政府投资项目计划调整事项的报告。\n会议研究了岳阳市人大常委会《中华人民共和国国防动员法》《中华人民共和国军事设施保护法》执法检查方案（草案），《岳阳市人民代表大会常务委员会关于岳阳市第十届人民代表大会代表名额分配的决定（草案）》，市九届人大常委会第四十次会议议程（草案）、日程安排（草案）。\n会议还听取了人事事项的情况汇报。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "party",
+  "keywords": [
+    "人大监督",
+    "养老服务",
+    "预算执行",
+    "司法监督"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市人大常委会",
+      "name_en": "Yueyang Municipal People's Congress Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大监督",
+      "name_en": "People's Congress Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预算执行",
+      "name_en": "Budget Execution"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "司法监督",
+      "name_en": "Judicial Supervision"
+    }
+  ],
+  "tags_zh": [
+    "岳阳市人大常委会",
+    "岳阳",
+    "人大监督",
+    "养老服务",
+    "预算执行",
+    "司法监督"
+  ],
+  "tags_en": [
+    "Yueyang Municipal People's Congress Standing Committee",
+    "Yueyang",
+    "People's Congress Supervision",
+    "Elderly Care Services",
+    "Budget Execution",
+    "Judicial Supervision"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "王亚丹"
+      },
+      {
+        "id": null,
+        "name_zh": "任喻文"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市人大常委会",
+        "name_en": "Yueyang Municipal People's Congress Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260731-gov_yue_yang-85d9d6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

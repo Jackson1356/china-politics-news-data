@@ -1,0 +1,97 @@
+{
+  "id": "20260913-cpcnews-312dfb",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://cpc.people.com.cn/n1/2026/0913/c435113-40797713.html",
+  "title_zh": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+  "title_en": "Xi Jinping Attends First Session of 18th BRICS Leaders' Meeting and Delivers Important Speech",
+  "summary_zh": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议，并发表题为《共担时代责任 勇做先锋力量》的重要讲话。",
+  "summary_en": "On the afternoon of September 12 local time, President Xi Jinping attended the first session of the 18th BRICS Leaders' Meeting in New Delhi and delivered an important speech titled \"Shouldering Our Common Responsibility and Being Pioneers of Our Times.\"",
+  "body_zh": "登录人民网通行证 立即注册\n忘记密码？\n当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平发表题为《共担时代责任 勇做先锋力量》的重要讲话。\n学习路上\n时习之\n习近平系列重要讲话数据库\n中央文件\n学习宣传贯彻党的二十大精神\n跟着总书记学党史数据库\n中央和国家机关建设模范机关\n言之有理\n学习文选",
+  "image_url": null,
+  "published_at": "2026-09-13T12:00:00+00:00",
+  "event_date": "2026-09-12",
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "金砖合作",
+    "多边外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "新德里",
+      "name_en": "New Delhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金砖合作",
+      "name_en": "BRICS Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边外交",
+      "name_en": "Multilateral Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "新德里",
+    "金砖合作",
+    "多边外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "New Delhi",
+    "BRICS Cooperation",
+    "Multilateral Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260912-cpcnews-27d5a6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "cpcnews",
+      "source_tier": null,
+      "url": "http://cpc.people.com.cn/n1/2026/0913/c64094-40797688.html",
+      "title_zh": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "published_at": "2026-09-13T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/09/12/VIDEc5pcFmmAbzBLZGZFBteX260912.shtml",
+      "title_zh": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "published_at": "2026-09-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

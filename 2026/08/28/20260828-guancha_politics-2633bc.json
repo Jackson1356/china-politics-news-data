@@ -1,0 +1,109 @@
+{
+  "id": "20260828-guancha_politics-2633bc",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_media_id": "legacy:guancha_politics",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.guancha.cn/politics/2026_08_28_829019.shtml",
+  "title_zh": "外交部回应泥石流伤亡人员国籍构成：还在核实中",
+  "title_en": "Foreign Ministry: Nationalities of Mudslide Victims Still Being Verified",
+  "summary_zh": "2026年8月28日，外交部就西藏吉隆泥石流灾害伤亡人员国籍构成问题回应称，相关信息正在核实中。",
+  "summary_en": "On August 28, 2026, the Foreign Ministry responded to queries about the nationalities of casualties in the Jilong mudslide in Tibet, stating that relevant information is still being verified.",
+  "body_zh": "李强在西藏吉隆指导抢险救援和应急处置工作 2026-08-28 16:03\n无人机“空投”消防员，消防救援队已抵达吉隆受灾核心区 2026-08-28 16:03\n西藏吉隆：现阶段请社会救援队伍、志愿团体等不自行赶赴灾区 2026-08-28 15:22\n教师因成绩差上台拍“耻辱”合影？这是解决问题还是制造问题 2026-08-28 15:00\n湖南省商务厅原书记、厅长徐湘平被开除党籍，曾为他人在项目承揽谋利 2026-08-28 14:58\n西藏吉隆口岸上游堰塞湖最新画面 2026-08-28 14:30\n上半年我国服务进出口总额3.8万亿元，同比增长8.3% 2026-08-28 14:30 中国经济\n中共中央政治局召开会议，习近平作出重要指示 2026-08-28 14:10 观察者头条\n四川内江市隆昌市发生5.1级地震 2026-08-28 14:08\n发改委：发展机器人产业需因地制宜，防止盲目跟风 2026-08-28 14:06\n“中华第一舰”112舰今日光荣退役 2026-08-28 11:17\n手机怼脸骚扰老人等她发怒后剪成“恶婆婆骂人”：普通人成镜头资源了？ 2026-08-28 10:54\n“沙德尔”来袭，中央气象台发布台风红色预警 2026-08-28 07:34 极端天气\n破坏力极强！国家移民管理局：暂停签发通行证 2026-08-28 07:14 观察者头条\n痛心！吉隆口岸灾害前后对比图公布 2026-08-27 21:02 观察者头条\n通了！吉隆口岸成功抢通一座通信基站，新增两座 2026-08-27 21:00\n国防部谈《龙餐馆》：真正的强大在于守护更多人远离战火 2026-08-27 20:12\n吉隆口岸现状！受灾前后对比 2026-08-27 18:54\n《剑网3》郭炜炜官宣离职，雷军回应 2026-08-27 18:03\n受习近平总书记委托，李强抵达西藏吉隆指导抢险救灾工作 2026-08-27 16:45",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "泥石流灾害",
+    "灾害救援",
+    "外交事务"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "泥石流灾害",
+      "name_en": "Mudslide Disaster"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灾害救援",
+      "name_en": "Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交事务",
+      "name_en": "Foreign Affairs"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "西藏",
+    "泥石流灾害",
+    "灾害救援",
+    "外交事务",
+    "李强"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Mudslide Disaster",
+    "Disaster Relief",
+    "Foreign Affairs"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "徐湘平"
+      },
+      {
+        "id": null,
+        "name_zh": "雷军"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260828-guancha_politics-2633bc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

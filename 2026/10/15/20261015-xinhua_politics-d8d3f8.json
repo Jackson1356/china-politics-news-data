@@ -1,0 +1,127 @@
+{
+  "id": "20261015-xinhua_politics-d8d3f8",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261015/d19fd8ba9ab24db1a4ee7faf620cae5e/c.html",
+  "title_zh": "第五届中国考古学大会开幕",
+  "title_en": "Fifth China Archaeology Congress Opens",
+  "summary_zh": "第五届中国考古学大会10月15日在山西运城开幕，主题为“考古学的历史与未来”，将持续至10月17日。",
+  "summary_en": "The Fifth China Archaeology Congress opened on Oct 15 in Yuncheng, Shanxi, under the theme 'The History and Future of Archaeology,' and will run through Oct 17.",
+  "body_zh": "第五届中国考古学大会10月15日在山西运城开幕。大会以“考古学的历史与未来”为主题，包括开幕式、主题发言、28场分组研讨，将推出570余场学术报告、举办22场公共讲座。大会将持续至10月17日。\n中国考古学大会自2016年创办以来，此前已成功举办四届，致力于展示中国考古学发展现状和成果，促进考古学对外开放和国际学术交流，推动中国考古学的全面发展。\n本届大会由中国社会科学院、国家文物局、山西省人民政府指导，中国考古学会、中国社会科学院考古研究所、山西省文物局、运城市人民政府主办。\n记者：王子铭、王学涛\n海报制作：王子铭\n新华社国内部、新华社山西分社联合出品",
+  "image_url": null,
+  "published_at": "2026-10-15T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-15T09:15:29Z",
+  "topic": "industry",
+  "keywords": [
+    "考古学",
+    "国际学术交流",
+    "学术研讨"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CASS",
+      "name_zh": "中国社会科学院",
+      "name_en": "Chinese Academy of Social Sciences"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家文物局",
+      "name_en": "National Cultural Heritage Administration"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国考古学会",
+      "name_en": "Archaeological Society of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SX",
+      "name_zh": "山西",
+      "name_en": "Shanxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SX-YC",
+      "name_zh": "运城",
+      "name_en": "Yuncheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "考古学",
+      "name_en": "Archaeology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际学术交流",
+      "name_en": "International Academic Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学术研讨",
+      "name_en": "Academic Symposium"
+    }
+  ],
+  "tags_zh": [
+    "中国社会科学院",
+    "国家文物局",
+    "中国考古学会",
+    "山西",
+    "运城",
+    "考古学",
+    "国际学术交流",
+    "学术研讨"
+  ],
+  "tags_en": [
+    "Chinese Academy of Social Sciences",
+    "National Cultural Heritage Administration",
+    "Archaeological Society of China",
+    "Shanxi",
+    "Yuncheng",
+    "Archaeology",
+    "International Academic Exchange",
+    "Academic Symposium"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CASS"
+    ],
+    "locations": [
+      "CN-SX",
+      "CN-SX-YC"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家文物局",
+        "name_en": "National Cultural Heritage Administration"
+      },
+      {
+        "name_zh": "中国考古学会",
+        "name_en": "Archaeological Society of China"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261015-xinhua_politics-d8d3f8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

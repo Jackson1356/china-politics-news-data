@@ -1,0 +1,93 @@
+{
+  "id": "20260731-xinhua_politics-cc678d",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260731/f72f153269654b549e079a00cfa3f5b8/c.html",
+  "title_zh": "应急管理部对陕西甘肃启动国家地质灾害四级应急响应",
+  "title_en": "Emergency Management Ministry Activates Level-IV Geo-hazard Emergency Response for Shaanxi and Gansu",
+  "summary_zh": "应急管理部7月30日针对陕西、甘肃启动国家地质灾害四级应急响应，要求相关地区做好防范应对，确保人员安全。",
+  "summary_en": "The Ministry of Emergency Management activated a Level-IV national geo-hazard emergency response for Shaanxi and Gansu on July 30, urging local authorities to strengthen prevention and ensure public safety.",
+  "body_zh": "据气象部门预测，7月30日至8月1日，西北地区东部、四川盆地等地有大到暴雨，部分地区有大暴雨。经与自然资源部联合会商研判，陕西西南部、甘肃南部发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于7月30日针对陕西、甘肃启动国家地质灾害四级应急响应。\n应急管理部要求，相关强降雨地区要切实做好地质灾害防范应对工作，压实地方防范应对主体责任，加强部门协同联动工作机制，密切监视雨情汛情和地质灾害灾情险情，加强会商研判和预警响应联动，预置前置救援力量、物资、装备，强化巡查排查和监测预警，坚决果断组织转移避险，确保应转尽转、应转早转，最大限度避免人员伤亡。",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "地质灾害应急",
+    "防汛防灾"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SN",
+      "name_zh": "陕西",
+      "name_en": "Shaanxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地质灾害应急",
+      "name_en": "Geo-hazard Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防灾",
+      "name_en": "Flood and Disaster Prevention"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "陕西",
+    "甘肃",
+    "地质灾害应急",
+    "防汛防灾"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Shaanxi",
+    "Gansu",
+    "Geo-hazard Emergency Response",
+    "Flood and Disaster Prevention"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-SN",
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260731-xinhua_politics-cc678d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

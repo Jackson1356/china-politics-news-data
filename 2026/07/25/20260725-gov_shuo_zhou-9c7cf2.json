@@ -1,0 +1,87 @@
+{
+  "id": "20260725-gov_shuo_zhou-9c7cf2",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.shuozhou.gov.cn/xwzx/jrsz/szsyw/202607/t20260725_780606.shtml",
+  "title_zh": "朔州市举办干部大讲堂学习习近平党建思想",
+  "title_en": "Shuozhou Holds Cadre Lecture on Xi Jinping's Thought on Party Building",
+  "summary_zh": "7月24日，朔州市举办干部大讲堂，邀请专家辅导习近平党建思想，市委书记王帅红等领导参加。",
+  "summary_en": "On July 24, Shuozhou City held a cadre lecture featuring an expert lecture on Xi Jinping's Thought on Party Building, with municipal leaders including Party Secretary Wang Shuaihong attending.",
+  "body_zh": "7月24日，全市干部大讲堂暨市委理论学习中心组（扩大）学习会召开。会议邀请省委党校教授、中国社会科学院马克思主义研究院博士王海燕作“深入学习贯彻习近平党建思想”专题辅导。市委书记王帅红，市委副书记、市长吴秀玲，市政协主席张立新等市四套班子领导参加。市委常委、组织部部长杨波主持。\n王海燕长期从事马克思主义基本原理、中国特色社会主义理论、习近平新时代中国特色社会主义思想等教学和科研工作，学术造诣深厚，理论功底扎实。她从习近平党建思想的生成脉络、科学内涵和学习贯彻习近平党建思想的实践要求三个方面进行了系统辅导和重点解读。辅导主题鲜明、内容丰富、条理清晰，政治性、思想性、针对性强，对深入学习贯彻习近平党建思想具有重要的指导、启发意义。\n聆听讲座后，大家纷纷表示，将结合今天学习内容，联系工作实际，带头抓好贯彻落实。要以习近平党建思想为引领，更加深刻领悟“两个确立”的决定性意义，更加自觉做到“两个维护”。要树立“把抓好党建作为最大的政绩”鲜明导向，对照“十四个坚持”，树立和践行正确政绩观，把党组织建设得更加坚强有力，把党员队伍锻造得更加过硬可靠，以高质量党建引领推动“十五五”时期经济社会高质量发展。\n（文/图 刘晓广 符烨邦 薛礼伟）",
+  "image_url": null,
+  "published_at": "2026-07-25T12:00:00+00:00",
+  "event_date": "2026-07-24",
+  "ingested_at": "2026-07-27T07:31:03Z",
+  "topic": "party",
+  "keywords": [
+    "习近平党建思想",
+    "理论学习"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-SZ",
+      "name_zh": "朔州",
+      "name_en": "Shuozhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "习近平党建思想",
+      "name_en": "Xi Jinping's Thought on Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "朔州",
+    "习近平党建思想",
+    "理论学习",
+    "习近平"
+  ],
+  "tags_en": [
+    "Shuozhou",
+    "Xi Jinping's Thought on Party Building",
+    "Theoretical Study"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "杨波"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SX-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260725-gov_shuo_zhou-9c7cf2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

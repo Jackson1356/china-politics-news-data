@@ -1,0 +1,102 @@
+{
+  "id": "20261104-gov_tai_zhou-fbe520",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.jiangsu.gov.cn/art/2026/11/4/art_60096_11854187.html",
+  "title_zh": "省领导赴泰州调研检查重点产业重大项目和安全生产工作",
+  "title_en": "Jiangsu Executive Vice Governor Zhang Wenbing Inspects Taizhou's Key Industries, Major Projects and Work Safety",
+  "summary_zh": "11月2日至3日，江苏省委常委、常务副省长张文兵赴泰州调研检查重点产业、重大项目建设及安全生产工作，实地察看多家企业。",
+  "summary_en": "From Nov 2 to 3, Zhang Wenbing, executive vice governor of Jiangsu, inspected key industries, major projects and work safety in Taizhou, visiting several enterprises.",
+  "body_zh": "当前位置：\n省领导赴泰州调研检查重点产业重大项目和安全生产工作\n11月2日至3日，省委常委、常务副省长张文兵赴泰州调研重点产业和重大项目建设，实地察看企业生产经营、创新发展及安全生产等情况。\n在医药博览馆、雀巢健康科学（中国）有限公司、江苏荃信生物医药股份有限公司，张文兵走进生产车间和实验室，了解产品管线、专利申报及项目配套等情况。他强调，要紧盯人工智能驱动医药创新前沿趋势，布局完善生物医药公共服务平台体系，强化关键领域科研攻关；要凝聚海内外创新力量，扩大市场份额、放大品牌效应，持续推动生物医药产业高质量发展。\n在泰州三福船舶工程有限公司、江苏新时代造船有限公司，张文兵深入舾装码头、智能化分段生产车间，详细询问企业技改投入、高风险作业管控等情况。他强调，要抢抓全球船舶产业发展机遇，以重大项目为牵引，聚力做强船舶智造高端产品，持续扩大有效投资；压紧压实企业主体责任，对密闭空间、高危岗位等实行智能化隐患排查，提高本质安全水平；加强技能和安全培训，探索建立台阶式激励机制，不断改善员工生产生活条件。\n在江苏先锋精密科技股份有限公司、江苏东华测试技术股份有限公司，张文兵指出，要充分释放细分赛道专精特新企业优势，加快人工智能技术向工业场景渗透融合，聚力做强做优集成电路产业，延伸拓展传感器产业链，以科技创新持续赋能制造业降本增效、提质升级。\n调研中，张文兵强调，地方与部门要落实落细“苏政办30条”“四张清单”政策举措，加快培育壮大新质生产力，为全省高质量发展积蓄新动能。",
+  "image_url": null,
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-05T11:26:43Z",
+  "topic": "economy",
+  "keywords": [
+    "重大项目建设",
+    "生物医药产业",
+    "船舶制造",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重大项目建设",
+      "name_en": "Major Project Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物医药产业",
+      "name_en": "Biomedical Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "船舶制造",
+      "name_en": "Shipbuilding Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "张文兵",
+    "泰州",
+    "重大项目建设",
+    "生物医药产业",
+    "船舶制造",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Zhang Wenbing",
+    "Taizhou",
+    "Major Project Construction",
+    "Biomedical Industry",
+    "Shipbuilding Industry",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261104-gov_tai_zhou-fbe520",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

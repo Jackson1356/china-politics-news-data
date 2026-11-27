@@ -1,0 +1,102 @@
+{
+  "id": "20261016-gov_cn_yaowen-e7bca8",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083477.htm",
+  "title_zh": "4100多家境外企业参展第九届进博会",
+  "title_en": "Over 4,100 Overseas Companies to Exhibit at Ninth CIIE",
+  "summary_zh": "国务院新闻办10月16日举行发布会，商务部介绍第九届进博会将于11月5日至10日在上海举办，4100多家境外企业参展，数量创历届之最。",
+  "summary_en": "At an Oct 16 press conference, the Ministry of Commerce said the ninth China International Import Expo will be held in Shanghai from Nov 5 to 10, with more than 4,100 overseas exhibitors, a record high.",
+  "body_zh": "国务院新闻办公室今天（10月16日）举行新闻发布会，商务部有关负责人介绍，第九届中国国际进口博览会将于11月5日至10日在上海举办，162个国家、地区和国际组织参与，4100多家境外企业参展，参展企业数量为历届之最，首次参展的企业超2000家。本届进博会企业展面积首次突破37万平方米，截至目前，全球首发、亚洲首展、中国首秀的代表性展品超过480件，创历年新高。",
+  "image_url": null,
+  "published_at": "2026-10-16T12:00:00+00:00",
+  "event_date": "2026-10-16",
+  "ingested_at": "2026-10-17T08:39:16Z",
+  "topic": "economy",
+  "keywords": [
+    "进博会",
+    "对外开放",
+    "国际贸易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "SCIO",
+      "name_zh": "国务院新闻办公室",
+      "name_en": "State Council Information Office"
+    },
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进博会",
+      "name_en": "China International Import Expo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际贸易",
+      "name_en": "International Trade"
+    }
+  ],
+  "tags_zh": [
+    "国务院新闻办公室",
+    "商务部",
+    "上海",
+    "进博会",
+    "对外开放",
+    "国际贸易"
+  ],
+  "tags_en": [
+    "State Council Information Office",
+    "Ministry of Commerce",
+    "Shanghai",
+    "China International Import Expo",
+    "Opening Up",
+    "International Trade"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "SCIO",
+      "MOFCOM"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261016-gov_cn_yaowen-e7bca8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

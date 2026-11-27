@@ -1,0 +1,89 @@
+{
+  "id": "20260907-xinhua_politics-487055",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260907/db7b681439144a9e954f2458c24daaed/c.html",
+  "title_zh": "国家卫健委：夸大血浆置换、三氧疗法等治疗效果属违法违规",
+  "title_en": "National Health Commission: Exaggerating Effects of Plasma Exchange, Ozone Therapy Is Illegal",
+  "summary_zh": "9月7日，国家卫健委新闻发言人胡强强在新闻发布会上提醒，将血浆置换、三氧疗法用于健康人群抗衰老、调理属违法违规行为。",
+  "summary_en": "On Sept 7, 2026, Hu Qiangqiang, spokesperson of the National Health Commission, warned at a press conference that using plasma exchange or ozone therapy on healthy people for anti-aging or health conditioning is illegal.",
+  "body_zh": "新华社北京9月7日电（记者李恒）国家卫生健康委新闻发言人胡强强在9月7日举行的新闻发布会上提醒，血浆置换、三氧疗法等均非针对健康人群的预防性保健项目，将其用于健康人群“抗衰老、亚健康调理”属于超适应证使用医疗器械及医疗技术，属于违法违规行为。\n近期监测发现，个别医疗机构存在超适应证开展血浆置换、三氧疗法等行为，夸大治疗效果，将医疗技术包装成抗衰、防病的“神技”，宣称能够“净化血液”，给群众身体健康和财产安全带来隐患。\n胡强强介绍，血浆置换是一种清除血液中大分子物质的血液净化疗法，是特定重症领域治疗手段。三氧疗法全称三氧自体血回输疗法，主要用于疼痛治疗和部分炎症的辅助治疗。健康人群进行血浆置换可能破坏人体内环境稳态，引起生理机能紊乱，还可能因为穿刺造成感染，甚至存在远期未知风险。",
+  "image_url": null,
+  "published_at": "2026-09-07T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "welfare",
+  "keywords": [
+    "医疗安全",
+    "健康保健"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医疗安全",
+      "name_en": "Medical Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康保健",
+      "name_en": "Health Care"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "北京",
+    "医疗安全",
+    "健康保健"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Beijing",
+    "Medical Safety",
+    "Health Care"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "胡强强"
+      }
+    ],
+    "institutions": [
+      "NHC"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260907-xinhua_politics-487055",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

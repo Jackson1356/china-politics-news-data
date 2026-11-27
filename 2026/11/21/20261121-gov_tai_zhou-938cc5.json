@@ -1,0 +1,92 @@
+{
+  "id": "20261121-gov_tai_zhou-938cc5",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_273419a746564f04b0af697e54f61294.html",
+  "title_zh": "全市经济运行分析会召开",
+  "title_en": "Citywide Economic Operations Analysis Meeting Convened",
+  "summary_zh": "11月20日，泰州市召开全市经济运行分析会，市长李晖出席并讲话，要求全力冲刺完成全年经济目标。",
+  "summary_en": "On November 20, Taizhou held a citywide economic operations analysis meeting, where Mayor Li Hui urged a strong push to meet the full-year economic targets.",
+  "body_zh": "泰州要闻\n全市经济运行分析会召开\n- 发布日期：2026-11-21 01:08\n- 浏览次数：\n11月20日，全市经济运行分析会召开，深入学习贯彻党的二十届五中全会精神，按照省、市委部署要求，分析当前经济运行情况，以更大力度更实举措抓好经济工作，推动全市经济持续回升向好。市长李晖出席会议并讲话。\n李晖指出，当前距离全年收官还剩不到两个月的时间，已经到了冲刺决胜的关键时刻。要坚定信心决心、保持韧劲拼劲，以钉钉子的精神把各项工作任务抓实抓出成效。要通盘考虑，上下同心提干劲，各市（区）要全力以赴抓冲刺，增速靠前的能好则好，增速靠后的能快则快，努力为全市挑大梁、作贡献；各条线部门要树立发展意识，多为经济发展出政策，多为板块工作解难题，多为项目招引想办法，让力量拧成一股绳、资源效益最大化。\n市领导秦猛、成海燕结合各自分管工作提出工作要求。市政府秘书长包亚参加会议。市发改委、市统计局、市财政局及各市（区）发言。",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "economy",
+  "keywords": [
+    "经济运行",
+    "稳增长"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-hui-taizhou-js",
+      "name_zh": "李晖",
+      "name_en": "Li Hui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济运行",
+      "name_en": "Economic Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "稳增长",
+      "name_en": "Stabilizing Growth"
+    }
+  ],
+  "tags_zh": [
+    "李晖",
+    "泰州",
+    "经济运行",
+    "稳增长"
+  ],
+  "tags_en": [
+    "Li Hui",
+    "Taizhou",
+    "Economic Operations",
+    "Stabilizing Growth"
+  ],
+  "entities": {
+    "politicians": [
+      "li-hui-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261121-gov_tai_zhou-938cc5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_273419a746564f04b0af697e54f61294.html",
+      "title_zh": "全市经济运行分析会召开",
+      "published_at": "2026-11-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

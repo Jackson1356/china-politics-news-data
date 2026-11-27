@@ -1,0 +1,104 @@
+{
+  "id": "20260708-chinanews_gn-743ad8",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/07-08/10655329.shtml",
+  "title_zh": "严汉平任盐城市委书记",
+  "title_en": "Yan Hanping Appointed Party Secretary of Yancheng",
+  "summary_zh": "2026年7月8日，江苏省委决定任命严汉平为盐城市委书记，周斌不再担任该职务。",
+  "summary_en": "On July 8, 2026, the Jiangsu Provincial Party Committee appointed Yan Hanping as the Party Secretary of Yancheng, replacing Zhou Bin.",
+  "body_zh": "严汉平任盐城市委书记\n中新网盐城7月8日电(记者 谷华)据江苏省委组织部7月8日消息，江苏省委决定：严汉平同志任盐城市委书记，周斌同志不再担任盐城市委书记、常委、委员职务。\n官方公布简历显示，严汉平，男，汉族，1974年11月生，研究生，博士，中共党员。(完)\n国内新闻精选：\n- 2026年07月09日 06:22:23\n- 2026年07月08日 20:05:53\n- 2026年07月08日 19:34:33\n- 2026年07月08日 18:15:42\n- 2026年07月08日 17:54:10\n- 2026年07月08日 12:39:04\n- 2026年07月08日 11:39:11\n- 2026年07月08日 10:13:59\n- 2026年07月07日 21:52:35\n- 2026年07月07日 16:36:21",
+  "image_url": null,
+  "published_at": "2026-07-08T12:00:00+00:00",
+  "event_date": "2026-07-08",
+  "ingested_at": "2026-07-09T07:39:19Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省委",
+      "name_en": "Jiangsu Provincial Party Committee"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "盐城市委",
+      "name_en": "Yancheng Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "江苏省委",
+    "盐城市委",
+    "盐城",
+    "江苏",
+    "人事任免"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Jiangsu Provincial Party Committee",
+    "Yancheng Municipal Party Committee",
+    "Yancheng",
+    "Jiangsu",
+    "Personnel Appointment"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省委",
+        "name_en": "Jiangsu Provincial Party Committee"
+      },
+      {
+        "name_zh": "盐城市委",
+        "name_en": "Yancheng Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260708-chinanews_gn-743ad8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

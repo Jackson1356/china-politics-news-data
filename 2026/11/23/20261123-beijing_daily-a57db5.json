@@ -1,0 +1,111 @@
+{
+  "id": "20261123-beijing_daily-a57db5",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/23/12040247.shtml",
+  "title_zh": "全国人大常委会、国务院等致贺电 祝贺大理白族自治州成立70周年",
+  "title_en": "NPC Standing Committee, State Council Send Congratulatory Messages on 70th Anniversary of Dali Bai Autonomous Prefecture",
+  "summary_zh": "11月22日，大理白族自治州成立70周年庆祝大会在大理市举行，全国人大常委会、国务院及云南省多方发去贺电，国家民委专职委员秦宜智等出席并讲话。",
+  "summary_en": "On Nov 22, Dali Bai Autonomous Prefecture held a grand gathering marking its 70th anniversary; the NPC Standing Committee, State Council and Yunnan authorities sent congratulatory messages, with ethnic affairs official Qin Yizhi attending.",
+  "body_zh": "据云南日报报道，11月22日，大理白族自治州成立70周年庆祝大会暨主题文艺演出在大理市全民健身中心举行。\n全国人大常委会、国务院，中共云南省委、云南省人大常委会、云南省人民政府、政协云南省委员会、云南省军区分别发去贺电，向大理州各族人民致以亲切慰问。\n同济大学、中国冶金地质总局等单位，成都市、张家界市等州市也发去贺电，对大理各族人民表达美好祝福。\n大会上，中央有关部门祝贺团团长、国家民委专职委员（正部长级）秦宜智，云南省祝贺团团长、省委常委、省委统战部部长李保俊出席大会并讲话。中央有关部门祝贺团副团长、全国人大民族委员会办公室主任李养第，云南省祝贺团副团长、省人大常委会副主任徐畅江分别宣读贺电。\n大理白族自治州于1956年11月22日正式成立，七十载砥砺深耕，大理综合实力实现跨越式增长。2025年全州地区生产总值达2087.51亿元，是建州之初的1285倍，经济发展质效稳步攀升。\n七十年来，大理持续推进湖泊系统治理，推动洱海保护从“一湖之治”升级为“流域之治”“生态之治”。大理市获评云南首个国际湿地城市，大理州入选全国首批美丽城市先行区建设城市，生态福祉持续惠及千家万户。\n此外，大理全州打赢脱贫攻坚战，42.08万建档立卡贫困人口全部脱贫，11个贫困县、541个贫困村全部出列，实现全面小康的历史性跨越。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "party",
+  "keywords": [
+    "民族区域自治",
+    "自治州成立70周年",
+    "生态保护",
+    "脱贫攻坚"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN-DL",
+      "name_zh": "大理白族自治州",
+      "name_en": "Dali Bai Autonomous Prefecture"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族区域自治",
+      "name_en": "Regional Ethnic Autonomy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自治州成立70周年",
+      "name_en": "70th Anniversary of the Autonomous Prefecture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生态保护",
+      "name_en": "Ecological Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "脱贫攻坚",
+      "name_en": "Poverty Alleviation"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "大理白族自治州",
+    "云南",
+    "民族区域自治",
+    "自治州成立70周年",
+    "生态保护",
+    "脱贫攻坚"
+  ],
+  "tags_en": [
+    "State Council",
+    "Dali Bai Autonomous Prefecture",
+    "Yunnan",
+    "Regional Ethnic Autonomy",
+    "70th Anniversary of the Autonomous Prefecture",
+    "Ecological Protection",
+    "Poverty Alleviation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-YN-DL",
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261123-beijing_daily-a57db5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

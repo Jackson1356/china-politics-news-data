@@ -1,0 +1,93 @@
+{
+  "id": "20260731-cpcnews-b6a042",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0731/c64387-40771448.html",
+  "title_zh": "养老服务消费补贴惠及约200万名中度以上失能老年人",
+  "title_en": "Elderly Care Consumption Subsidies Benefit About 2 Million Disabled Seniors",
+  "summary_zh": "民政部7月30日发布会透露，养老服务消费补贴项目已核销消费券1079.92万次，金额65.12亿元，约200万名中度以上失能老年人受益。",
+  "summary_en": "At a July 30 press conference, the Ministry of Civil Affairs said the elderly care consumption subsidy program had redeemed 10.7992 million vouchers worth 6.512 billion yuan, benefiting about 2 million moderately or severely disabled seniors.",
+  "body_zh": "本报北京7月30日电 （记者吴储岐）记者7月30日从民政部第三季度例行新闻发布会获悉：截至目前，向中度以上失能老年人发放养老服务消费补贴项目在全国范围内累计核销消费券1079.92万次，核销金额65.12亿元，带动养老服务消费金额290.93亿元，约200万名中度以上失能老年人从中受益。\n《 人民日报 》（ 2026年07月31日 10 版）",
+  "image_url": null,
+  "published_at": "2026-07-31T12:00:00+00:00",
+  "event_date": "2026-07-30",
+  "ingested_at": "2026-07-31T07:27:16Z",
+  "topic": "welfare",
+  "keywords": [
+    "养老服务",
+    "消费补贴",
+    "失能老年人"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MCA",
+      "name_zh": "民政部",
+      "name_en": "Ministry of Civil Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "养老服务",
+      "name_en": "Elderly Care Services"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费补贴",
+      "name_en": "Consumption Subsidy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "失能老年人",
+      "name_en": "Disabled Seniors"
+    }
+  ],
+  "tags_zh": [
+    "民政部",
+    "北京",
+    "养老服务",
+    "消费补贴",
+    "失能老年人"
+  ],
+  "tags_en": [
+    "Ministry of Civil Affairs",
+    "Beijing",
+    "Elderly Care Services",
+    "Consumption Subsidy",
+    "Disabled Seniors"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MCA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260731-cpcnews-b6a042",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

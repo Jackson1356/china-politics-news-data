@@ -1,0 +1,124 @@
+{
+  "id": "20261121-cpcnews-bbba8a",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1121/c64094-40838016.html",
+  "title_zh": "第三届兰花奖颁奖典礼在京举行",
+  "title_en": "Third Orchid Awards Ceremony Held in Beijing",
+  "summary_zh": "11月20日，第三届兰花奖颁奖典礼在北京举行，中央宣传部部长李书磊出席并致辞，10位国际友人获奖。",
+  "summary_en": "The third Orchid Awards ceremony was held in Beijing on Nov 20, with Central Propaganda Department head Li Shulei attending and delivering remarks; 10 international figures received the award.",
+  "body_zh": "本报北京11月20日电 （记者李卓尔、李锋、张光政）11月20日，第三届兰花奖颁奖典礼在京举行。中共中央政治局委员、中央宣传部部长李书磊出席并致辞。\n兰花奖旨在践行习近平主席提出的全球文明倡议，表彰奖励为弘扬全人类共同价值、促进中外文明交流互鉴作出突出贡献的国际友人和机构。来自法国的让—马里·居斯塔夫·勒克莱齐奥、新加坡的马凯硕、美国的亚当·福斯特等10位国际友人获得本届兰花奖。\n与会嘉宾认为，兰花奖源于中国、连通世界，设立以来，国际影响力持续提升，为不同文明和合共生注入了新动能，也成为各国文明同心同理、互促互进的见证。\n与会嘉宾表示，要坚持平等相待，促进多元文明包容共存；守护文化根脉，推动人类文明薪火相传；加强数智赋能，助力文明成果普惠共享，为推动人类文明进步贡献更多智慧和力量。\n第三届兰花奖颁奖典礼由中国外文局主办，兰花奖秘书处承办。来自中央有关部门、国际组织、驻华使节、中外智库、媒体机构代表等300余人参会。11月21日至26日，部分获奖者等还将赴山西开展“走读中国”参访活动。\n《 人民日报 》（ 2026年11月21日 04 版）",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "party",
+  "keywords": [
+    "全球文明倡议",
+    "中外文明交流互鉴",
+    "兰花奖"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-shulei",
+      "name_zh": "李书磊",
+      "name_en": "Li Shulei"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Central Propaganda Department"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国外文局",
+      "name_en": "China International Communications Group"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球文明倡议",
+      "name_en": "Global Civilization Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中外文明交流互鉴",
+      "name_en": "Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "兰花奖",
+      "name_en": "Orchid Awards"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李书磊",
+    "中央宣传部",
+    "中国外文局",
+    "北京",
+    "全球文明倡议",
+    "中外文明交流互鉴",
+    "兰花奖",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Shulei",
+    "Central Propaganda Department",
+    "China International Communications Group",
+    "Beijing",
+    "Global Civilization Initiative",
+    "Cultural Exchange",
+    "Orchid Awards"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "li-shulei"
+    ],
+    "institutions": [
+      "CCPD"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国外文局",
+        "name_en": "China International Communications Group"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-cpcnews-bbba8a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

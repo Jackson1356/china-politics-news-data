@@ -1,0 +1,96 @@
+{
+  "id": "20260821-gov_yan_cheng-6ea300",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/21/art_49_4448553.html",
+  "title_zh": "省人大常委会来盐调研",
+  "title_en": "Provincial People's Congress Standing Committee Conducts Research in Yancheng",
+  "summary_zh": "8月19日至20日，省人大常委会副主任魏国强率队来盐，调研南北共建园区高质量发展、宜居宜业和美乡村建设和湖泊保护工作。",
+  "summary_en": "From August 19 to 20, Wei Guoqiang, Vice Chairman of the Provincial People's Congress Standing Committee, led a team to Yancheng to inspect the high-quality development of north-south co-built industrial parks, livable and beautiful villages, and lake protection.",
+  "body_zh": "魏国强带队\n8月19日至20日，省人大常委会副主任、省总工会主席魏国强率队来盐，调研南北共建园区高质量发展、宜居宜业和美乡村建设、湖泊保护情况。省人大农业农村委副主任委员张忠文参加。市人大常委会主任王荣陪同。\n座谈会上，调研组先后听取市政府、市相关部门工作情况汇报，听取园区负责人、企业负责人和部分省市人大代表的意见建议，对我市在南北共建园区建设、宜居宜业和美乡村打造、湖泊保护等方面开展的工作和取得的成效给予充分肯定。\n调研组指出，要深入贯彻落实党中央和省委决策部署，高度重视南北共建园区建设工作，准确把握共建园区运行发展特点规律，立足自身比较优势，持续强化要素保障，坚定不移走特色化发展道路，不断增强园区发展内生动力活力。要强化规划引领，坚持因地制宜、分类施策，大力推进片区化统筹、持续化建设提升，学习运用“千万工程”经验，循序渐进、久久为功，着力提升宜居宜业和美乡村建设水平。要牢固树立和践行绿水青山就是金山银山理念，坚持科学定位、科学规划，统筹湖泊系统治理、科学修复与绿色发展，做到在保护中发展、在发展中保护，实现生态效益、经济效益、社会效益协同提升。\n在盐期间，调研组先后赴大丰区、盐都区，实地察看常盐工业园园区推介中心、谷登重型机械装备、大中街道恒北村和大纵湖、台创园李庄村等现场。\n市人大常委会副主任徐华明，副市长董彩凤，市人大常委会秘书长施建霞陪同。",
+  "image_url": null,
+  "published_at": "2026-08-21T12:00:00+00:00",
+  "event_date": "2026-08-19",
+  "ingested_at": "2026-08-21T04:51:42Z",
+  "topic": "economy",
+  "keywords": [
+    "南北共建园区",
+    "和美乡村",
+    "湖泊保护"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "南北共建园区",
+      "name_en": "North-South Co-built Industrial Parks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "和美乡村",
+      "name_en": "Beautiful Villages"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "湖泊保护",
+      "name_en": "Lake Protection"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-zhong-jiangsu",
+      "name_zh": "张忠",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "盐城",
+    "南北共建园区",
+    "和美乡村",
+    "湖泊保护",
+    "张忠"
+  ],
+  "tags_en": [
+    "Yancheng",
+    "North-South Co-built Industrial Parks",
+    "Beautiful Villages",
+    "Lake Protection"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-zhong-jiangsu",
+      {
+        "id": null,
+        "name_zh": "张忠文"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260821-gov_yan_cheng-6ea300",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

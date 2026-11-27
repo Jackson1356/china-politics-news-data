@@ -1,0 +1,101 @@
+{
+  "id": "20261021-peoples_sx-c3e866",
+  "source": "peoples_sx",
+  "source_name_zh": "人民网 山西",
+  "source_name_en": "People's Daily Shanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sx.people.com.cn/n2/2026/1021/c189130-41727757.html",
+  "title_zh": "国内首个城市停车AI智能体“泊邻”发布",
+  "title_en": "China's First Urban Parking AI Agent 'Bolin' Unveiled",
+  "summary_zh": "10月15日，2026城市停车产业大会在太原举行，会上发布国内首个城市停车AI智能体“泊邻”，该智能体由山西建投集团依托自研智慧停车平台打造。",
+  "summary_en": "On Oct 15, the 2026 Urban Parking Industry Conference in Taiyuan saw the release of 'Bolin', China's first urban parking AI agent, built by Shanxi Construction Investment Group on its self-developed smart parking platform.",
+  "body_zh": "国内首个城市停车AI智能体“泊邻”发布\n依托山西建投集团自研智慧停车平台打造\n10月15日，2026城市停车产业大会在太原举行。会上发布国内首个城市停车AI智能体——“泊邻”。该智能体依托山西建投集团自研智慧停车平台打造，采用“云端大脑+手机端匹配+终端数字保安”三层架构，构建起完整闭环的智能停车生态。\n立足城市发展需求，山西建投集团前瞻布局静态交通新赛道，组建静态交通建设运营有限公司，搭建省级静态交通数字化运营平台。历经两年技术攻关，城市停车AI智能体“泊邻”正式面世，实现云端智能决策、手机端供需精准匹配、终端数字保安提供无人化服务，推动静态交通管理由人力驱动向数据驱动转型。\n平台依托自研车位级地图，汇聚路侧泊位、公共停车场、小区共享车位实时数据，无需大规模地磁设备即可完成车位感知。系统可生成停车热力图、停车困难指数，预测区域供需缺口，支撑泊位规划、交通治理科学决策。实测数据显示，依托智能体，城市静态交通管理人工巡查成本下降68%，车位匹配成功率达94%。\n在便民服务层面，“泊邻”内置AI助手，可迅速响应并处理九成以上咨询。市民通过小程序即可查询周边车位余位、收费标准，一键预约导航；车位业主可自主设置租价和时段，盘活闲置车位增加收入，还能生成访客数字通行证，化解访客停车难题。非注册用户无需提前下载注册，扫码即可预约车位、享受入场及异常处置全流程自动化服务。\n本次大会由中国城市公共交通协会主办、山西建投静态交通公司承办。（记者晋帅妮）",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-15",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "industry",
+  "keywords": [
+    "智慧停车",
+    "静态交通",
+    "人工智能",
+    "数字化转型"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SX-TY",
+      "name_zh": "太原",
+      "name_en": "Taiyuan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SX",
+      "name_zh": "山西",
+      "name_en": "Shanxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智慧停车",
+      "name_en": "Smart Parking"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "静态交通",
+      "name_en": "Static Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字化转型",
+      "name_en": "Digital Transformation"
+    }
+  ],
+  "tags_zh": [
+    "太原",
+    "山西",
+    "智慧停车",
+    "静态交通",
+    "人工智能",
+    "数字化转型"
+  ],
+  "tags_en": [
+    "Taiyuan",
+    "Shanxi",
+    "Smart Parking",
+    "Static Transportation",
+    "Artificial Intelligence",
+    "Digital Transformation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SX-TY",
+      "CN-SX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261021-peoples_sx-c3e866",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

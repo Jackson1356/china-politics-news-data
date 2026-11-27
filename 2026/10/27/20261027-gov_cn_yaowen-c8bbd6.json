@@ -1,0 +1,110 @@
+{
+  "id": "20261027-gov_cn_yaowen-c8bbd6",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084362.htm",
+  "title_zh": "各地秋收秋种有序推进",
+  "title_en": "Autumn Harvest and Winter Wheat Planting Advance Smoothly Across China",
+  "summary_zh": "2026年10月下旬，江苏、浙江、黑龙江、河北等地加快秋季农业生产，有序推进秋粮收获、秋整地和冬小麦播种，确保粮食安全入仓。",
+  "summary_en": "In late October 2026, Jiangsu, Zhejiang, Heilongjiang and Hebei accelerated autumn farming, advancing rice and corn harvesting, soil preparation and winter wheat sowing to ensure grain is safely stored.",
+  "body_zh": "眼下，各地加快秋季农业生产进度，有序推进秋粮收获和冬麦播种。\n南方水稻正陆续收获。在江苏，3300万亩水稻陆续成熟，当地农业部门组织调度履带式联合收割机8.1万台、烘干机3.4万台，全力投入抢收烘作业，确保水稻机收率稳定在99%以上。目前，江苏全省水稻收获进度近三成。在浙江，单季晚稻已经收获超186万亩，整体进度近三成，当地农事服务部门提前与农户对接收割、运输时间，做好湿稻谷接收、烘干、入仓等环节有序衔接，确保粮食安全入仓。\n黑龙江省秋粮收获目前已超九成，当地抢抓晴好天气收尾。在肇源县浩德蒙古族乡，近4万亩玉米抓紧收割。当地调配20多台大型农机在田间昼夜作业，每天可高效抢收玉米近5000亩。\n粮食一归仓，黑土地就进入了“保养期”。黑龙江各地正利用大马力农机进行秋整地，通过粉碎秸秆，土壤深松，耙地、起垄，秸秆还田等，增强土壤蓄水保墒能力，提升土壤肥力。\n各地秋种也陆续展开。目前，河北省冬小麦已播种3300多万亩，占计划播种面积的近98%。在武邑县，加装了北斗导航辅助驾驶系统的大马力拖拉机牵引翻转犁，精准完成土地深耕作业，依次推进施肥、旋耕等工序，再利用耙播一体精量播种机播种。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "economy",
+  "keywords": [
+    "粮食安全",
+    "秋收秋种",
+    "农业机械化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HL",
+      "name_zh": "黑龙江",
+      "name_en": "Heilongjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HE",
+      "name_zh": "河北",
+      "name_en": "Hebei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粮食安全",
+      "name_en": "Food Security"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "秋收秋种",
+      "name_en": "Autumn Harvest and Planting"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业机械化",
+      "name_en": "Agricultural Mechanization"
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "浙江",
+    "黑龙江",
+    "河北",
+    "粮食安全",
+    "秋收秋种",
+    "农业机械化"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Zhejiang",
+    "Heilongjiang",
+    "Hebei",
+    "Food Security",
+    "Autumn Harvest and Planting",
+    "Agricultural Mechanization"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-ZJ",
+      "CN-HL",
+      "CN-HE"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261027-gov_cn_yaowen-c8bbd6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

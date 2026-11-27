@@ -1,0 +1,104 @@
+{
+  "id": "20261117-gov_chen_yang-6306e2",
+  "source": "gov_chen_yang",
+  "source_name_zh": "沈阳市政府网",
+  "source_name_en": "沈阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chen_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-LN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202611/t20261117_5118563.html",
+  "title_zh": "习近平致暨南大学建校120周年的贺信",
+  "title_en": "Xi Jinping Sends Congratulatory Letter on Jinan University's 120th Anniversary",
+  "summary_zh": "2026年11月16日，习近平致信祝贺暨南大学建校120周年，希望学校加强港澳台侨青年人才培养、传承中华文化。",
+  "summary_en": "On Nov 16, 2026, Xi Jinping congratulated Jinan University on its 120th anniversary and urged stronger training of young people from Hong Kong, Macao, Taiwan and overseas.",
+  "body_zh": "新华社北京11月16日电\n习近平致暨南大学建校120周年的贺信\n值此暨南大学建校120周年之际，我向全体师生员工和广大校友致以祝贺！\n新起点上，希望暨南大学以新时代中国特色社会主义思想为指导，继承爱国传统，坚持办学特色，加强港澳台侨青年人才培养，传承弘扬中华文化，促进中外友好交流，不断提升教育教学质量，为凝聚侨心侨力、推进中国式现代化作出新贡献。\n习近平 2026年11月16日\n习近平致暨南大学建校120周年的贺信\n中国政府网",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "教育发展",
+    "港澳台侨人才培养",
+    "中华文化传承"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "暨南大学",
+      "name_en": "Jinan University"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育发展",
+      "name_en": "Education Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港澳台侨人才培养",
+      "name_en": "Youth Talent Training for Hong Kong, Macao, Taiwan and Overseas Chinese"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华文化传承",
+      "name_en": "Chinese Cultural Heritage"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "暨南大学",
+    "教育发展",
+    "港澳台侨人才培养",
+    "中华文化传承"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Jinan University",
+    "Education Development",
+    "Youth Talent Training for Hong Kong, Macao, Taiwan and Overseas Chinese",
+    "Chinese Cultural Heritage"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "暨南大学",
+        "name_en": "Jinan University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261116-gov_cn_yaowen-aa7acb",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202611/t20261117_5118564.html",
+      "title_zh": "习近平致信祝贺暨南大学建校120周年-总书记信息-沈阳市人民政府",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

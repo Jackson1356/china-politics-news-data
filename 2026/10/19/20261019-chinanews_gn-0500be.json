@@ -1,0 +1,114 @@
+{
+  "id": "20261019-chinanews_gn-0500be",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/10-19/10717185.shtml",
+  "title_zh": "高市早苗向靖国神社供奉祭品祭祀费 中方提出强烈抗议",
+  "title_en": "China Protests After Takaichi Sanae Sends Ritual Offering to Yasukuni Shrine",
+  "summary_zh": "10月19日，中国外交部发言人毛宁在北京例行记者会上表示，中方已就日方在靖国神社问题上的消极动向向日方提出严正交涉和强烈抗议。",
+  "summary_en": "On October 19, Chinese Foreign Ministry spokesperson Mao Ning said in Beijing that China has lodged a solemn representation and strong protest with Japan over the negative move concerning Yasukuni Shrine.",
+  "body_zh": "高市早苗向靖国神社供奉祭品祭祀费 中方提出强烈抗议\n中新网北京10月19日电 (记者 曾玥)中国外交部发言人毛宁19日主持例行记者会。\n毛宁：中方坚决反对、严厉谴责日方有关消极动向，已向日方提出严正交涉、强烈抗议。靖国神社是日本军国主义对外发动侵略战争的精神工具和象征，供奉有对侵略战争负有严重罪责的14名甲级战犯。日本领导人和政客心知肚明，却仍顶礼膜拜，暴露其在历史问题上根深蒂固的错误认知，以及为战犯脱罪、为侵略翻案、为“再军事化”铺路的险恶用心。\n今年是东京审判开庭80周年。我们再次严正要求日方正视历史、反省罪责，停止在历史问题上倒行逆施，以实际行动取信亚洲邻国和国际社会。(完)\n国内新闻精选：\n- 2026年10月19日 15:20:58\n- 2026年10月19日 12:17:08\n- 2026年10月19日 07:54:00\n- 2026年10月18日 20:49:57\n- 2026年10月18日 16:41:17\n- 2026年10月18日 15:44:56\n- 2026年10月18日 15:12:01\n- 2026年10月18日 11:41:57\n- 2026年10月18日 10:56:27\n- 2026年10月18日 10:39:46",
+  "image_url": null,
+  "published_at": "2026-10-19T12:00:00+00:00",
+  "event_date": "2026-10-19",
+  "ingested_at": "2026-10-19T09:31:55Z",
+  "topic": "foreign",
+  "keywords": [
+    "靖国神社问题",
+    "历史问题",
+    "中日关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "高市早苗",
+      "name_en": "Takaichi Sanae"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "靖国神社问题",
+      "name_en": "Yasukuni Shrine Issue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "历史问题",
+      "name_en": "Historical Issues"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    }
+  ],
+  "tags_zh": [
+    "高市早苗",
+    "外交部",
+    "北京",
+    "靖国神社问题",
+    "历史问题",
+    "中日关系"
+  ],
+  "tags_en": [
+    "Takaichi Sanae",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Yasukuni Shrine Issue",
+    "Historical Issues",
+    "China-Japan Relations"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "严正"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261019-bjnews-b26054",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "chinanews_gn",
+      "source_tier": 1,
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717190.shtml",
+      "title_zh": "外交部：严厉谴责日方涉靖国神社消极动向",
+      "published_at": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "20261123-gov_xi_an-6c56d4",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/jrgz/2125036571506335745.html",
+  "title_zh": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
+  "title_en": "Xi Jinping's Speech at the 160th Anniversary of Sun Yat-sen's Birth Published as a Standalone Volume",
+  "summary_zh": "11月23日，习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本由人民出版社出版，即日起在全国新华书店发行。",
+  "summary_en": "On November 23, the standalone volume of Xi Jinping's speech at the 160th anniversary of Sun Yat-sen's birth was published by the People's Publishing House and is now on sale at Xinhua bookstores nationwide.",
+  "body_zh": "中央人民政府门户网站\n陕西省人民政府\nENGLISH\n繁\n退出\n无障碍\n长者专版\n新闻\n公开\n服务\n互动\n市情\n数据\n专题\n搜索\n新闻\n正文\n习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版\n发布时间：2026-11-23 16:51\n浏览次数：\n打印\n保存\n大\n中\n小\n新华社北京11月23日电 中共中央总书记、国家主席、中央军委主席习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本，已由人民出版社出版，即日起在全国新华书店发行。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "孙中山诞辰160周年",
+    "讲话单行本出版",
+    "理论宣传"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山诞辰160周年",
+      "name_en": "160th Anniversary of Sun Yat-sen's Birth"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "讲话单行本出版",
+      "name_en": "Publication of Standalone Speech Volume"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣传",
+      "name_en": "Theoretical Publicity"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "孙中山诞辰160周年",
+    "讲话单行本出版",
+    "理论宣传"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "160th Anniversary of Sun Yat-sen's Birth",
+    "Publication of Standalone Speech Volume",
+    "Theoretical Publicity"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261123-gov_xi_an-6c56d4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chi_feng",
+      "source_tier": 4,
+      "url": "http://www.chifeng.gov.cn/ywdt/jrtt/202611/t20261124_2852627.html",
+      "title_zh": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
+      "published_at": "2026-11-24T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202611/t20261124_5122045.html",
+      "title_zh": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版-总书记信息-沈阳市人民政府",
+      "published_at": "2026-11-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

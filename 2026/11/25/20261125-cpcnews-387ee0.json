@@ -1,0 +1,98 @@
+{
+  "id": "20261125-cpcnews-387ee0",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1125/c64094-40839910.html",
+  "title_zh": "习近平向\"声援巴勒斯坦人民国际日\"纪念大会致贺电",
+  "title_en": "Xi Jinping Sends Congratulatory Message to UN Meeting Marking International Day of Solidarity with the Palestinian People",
+  "summary_zh": "11月23日，联合国举行\"声援巴勒斯坦人民国际日\"纪念大会，国家主席习近平致贺电，表示中国坚定支持巴勒斯坦人民恢复民族合法权利的正义事业，推动巴勒斯坦问题全面公正持久解决。",
+  "summary_en": "On Nov 23, the UN held a meeting marking the International Day of Solidarity with the Palestinian People. President Xi Jinping sent a message affirming China's firm support for the Palestinian people's just cause and for a comprehensive, fair and lasting settlement.",
+  "body_zh": "新华社北京11月24日电 11月23日，联合国举行“声援巴勒斯坦人民国际日”纪念大会，国家主席习近平向大会致贺电。\n习近平强调，公道自在人心，正义不容缺席。中国一贯坚定支持巴勒斯坦人民恢复民族合法权利的正义事业，将继续同国际社会所有热爱和平、坚守正义的国家一道，以国际法治为基础，以标本兼治为目标，务实推动巴勒斯坦问题早日得到全面、公正、持久解决，促进中东地区长治久安，为世界和平稳定和发展繁荣作出积极贡献。\n《 人民日报 》（ 2026年11月25日 01 版）",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "巴勒斯坦问题",
+    "中东和平",
+    "国际法治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巴勒斯坦问题",
+      "name_en": "Palestinian Question"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中东和平",
+      "name_en": "Middle East Peace"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际法治",
+      "name_en": "International Rule of Law"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "巴勒斯坦问题",
+    "中东和平",
+    "国际法治"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Palestinian Question",
+    "Middle East Peace",
+    "International Rule of Law"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261124-qiushi-57d4df",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202611/t20261125_5122729.html",
+      "title_zh": "习近平向“声援巴勒斯坦人民国际日”纪念大会致贺电-总书记信息-沈阳市人民政府",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    },
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/11/24/VIDEb21PXT3mic7y5AErc3YS261124.shtml",
+      "title_zh": "习近平向\"声援巴勒斯坦人民国际日\"纪念大会致贺电",
+      "published_at": "2026-11-24T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

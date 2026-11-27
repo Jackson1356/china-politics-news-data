@@ -1,0 +1,96 @@
+{
+  "id": "20260808-local_si_chuan_zai_xian_cn_sc-4f1492",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202608/83302433.html",
+  "title_zh": "习言道丨健康是1 其他是后面的0",
+  "title_en": "Xi's Quotes: Health is 1, All Else is 0",
+  "summary_zh": "习近平总书记强调'健康是幸福生活最重要的指标'，全民健身日之际重温讲话，倡导健康生活方式。",
+  "summary_en": "President Xi Jinping stressed that health is the most important indicator of happiness. On National Fitness Day, his remarks are revisited to promote healthy lifestyles.",
+  "body_zh": "天下\n高层动态\n> 正文\n习言道丨健康是1 其他是后面的0\n中国新闻网\n习近平总书记一直高度重视人民健康，指出“健康是幸福生活最重要的指标，健康是1，其他是后面的0，没有1，再多的0也没有意义。”全民健身日之际，一起重温总书记重要讲话，践行健康生活方式，一起健身动起来！",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-09T05:17:42Z",
+  "topic": "party",
+  "keywords": [
+    "全民健身",
+    "健康中国"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全民健身",
+      "name_en": "National Fitness"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "健康中国",
+      "name_en": "Healthy China"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "全民健身",
+    "健康中国"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "National Fitness",
+    "Healthy China"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260808-local_si_chuan_zai_xian_cn_sc-4f1492",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "sznews",
+      "source_tier": 4,
+      "url": "https://www.sznews.com/news/content/2026-08/08/content_32143773.htm",
+      "title_zh": "习言道｜健康是1 其他是后面的0",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    },
+    {
+      "source": "cjn",
+      "source_tier": 4,
+      "url": "http://news.cjn.cn/asy/ttxw/202608/t5327394.htm",
+      "title_zh": "习言道｜健康是1 其他是后面的0",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    },
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-08/08/content_23750270.htm",
+      "title_zh": "习言道｜健康是1 其他是后面的0",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

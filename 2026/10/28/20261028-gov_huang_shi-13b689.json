@@ -1,0 +1,109 @@
+{
+  "id": "20261028-gov_huang_shi-13b689",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huangshi.gov.cn/xwdt/hsyw/202610/t20261028_1369685.html",
+  "title_zh": "黄石市十五届人大常委会召开第三十四次会议",
+  "title_en": "Huangshi Municipal People's Congress Standing Committee Holds 34th Session",
+  "summary_zh": "10月27日，黄石市十五届人大常委会召开第三十四次会议，审议财政预算调整方案、公共交通一体化条例草案，并表决通过人事议案。",
+  "summary_en": "On Oct 27, Huangshi's 15th Municipal People's Congress Standing Committee held its 34th session, reviewing budget adjustment and transit legislation plans and approving personnel appointments.",
+  "body_zh": "27日，市十五届人大常委会召开第三十四次会议。市人大常委会主任俞远汉、副主任王建华先后主持会议。\n会议审议了市人民政府关于提请审议2026年市直财政预算调整方案（草案）的议案、《黄石市促进武汉都市圈公共交通一体化条例（草案二审稿）》，听取和审议了市人大常委会执法检查组关于检查《黄石市养犬管理条例》实施情况的报告、关于开展涉及生态环境法典决议、决定清理情况的报告、关于促进高质量充分就业工作情况的报告和关于个别代表的代表资格的审查报告。会议还书面审议了相关审议意见、评议意见处理情况的报告。\n会议对全市发改、财政、住房和城市更新、农业农村、商务、文化和旅游、应急管理工作开展评议。\n会议审议通过了有关人事议案，向新任命人员颁发任命书，并举行宪法宣誓仪式。\n会议强调，要强化财经监督，严格预算执行，培育壮大财源，抓实债务管控，护航经济平稳运行。要强化法治引领，优化交通立法供给，深化养犬执法监督，规范开展文件清理，提升城市治理现代化水平。要深化工作评议，做深做实以评促改、以评促建、以评促优，助推政府依法履职。要坚持就业优先，聚力供需两端发力，聚焦重点群体施策，聚合多方资源联动，筑牢民生稳定基本盘。\n市人大常委会副主任祝红梅、赵重迎、汪国栋、王斌，秘书长严荣勇出席会议，副市长郭宝，市法院院长郭龙梅，市检察院代理检察长周伟，市纪委监委相关负责人列席会议。（胡波）",
+  "image_url": null,
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "event_date": "2026-10-27",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "财政预算调整",
+    "公共交通一体化立法",
+    "工作评议",
+    "高质量充分就业"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB-HS",
+      "name_zh": "黄石",
+      "name_en": "Huangshi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政预算调整",
+      "name_en": "Fiscal Budget Adjustment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共交通一体化立法",
+      "name_en": "Public Transport Integration Legislation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工作评议",
+      "name_en": "Work Performance Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量充分就业",
+      "name_en": "High-Quality Full Employment"
+    },
+    {
+      "kind": "person",
+      "id": "wang-bin-hainan",
+      "name_zh": "王斌",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄石",
+    "财政预算调整",
+    "公共交通一体化立法",
+    "工作评议",
+    "高质量充分就业",
+    "王斌"
+  ],
+  "tags_en": [
+    "Huangshi",
+    "Fiscal Budget Adjustment",
+    "Public Transport Integration Legislation",
+    "Work Performance Review",
+    "High-Quality Full Employment"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-bin-hainan",
+      {
+        "id": null,
+        "name_zh": "严荣勇"
+      },
+      {
+        "id": null,
+        "name_zh": "于提请"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB-HS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261028-gov_huang_shi-13b689",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

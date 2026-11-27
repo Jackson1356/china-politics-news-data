@@ -1,0 +1,105 @@
+{
+  "id": "20261115-gov_si_ping-391e95",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/sj_1/zyhd/202611/t20261115_780417.html",
+  "title_zh": "四平市委常委会会议传达学习习近平总书记致中央社会主义学院建院70周年贺信精神",
+  "title_en": "Siping Municipal Party Committee Standing Committee Meeting Conveys and Studies Xi Jinping's Congratulatory Letter on the 70th Anniversary of the Central Institute of Socialism",
+  "summary_zh": "11月13日，四平市委书记王相民主持召开市委常委会会议，传达学习习近平总书记致中央社会主义学院建院70周年贺信精神及王沪宁讲话精神，研究贯彻落实意见。",
+  "summary_en": "On Nov 13, Siping Party Secretary Wang Xiangmin chaired a meeting of the Municipal Party Committee Standing Committee to convey and study Xi Jinping's congratulatory letter on the 70th anniversary of the Central Institute of Socialism and Wang Huning's speech, and to discuss implementation measures.",
+  "body_zh": "2026-11-16\n11月13日，市委书记王相民主持召开市委常委会会议，传达学习习近平总书记致中央社会主义学院建院70周年贺信精神和中共中央政治局常委、全国政协主席王沪宁在中央社会主义学院建院70周年庆祝大会上的讲话精神，研究我市贯彻落实意见。\n会议指出，习近平总书记的贺信充分肯定了中央社会主义学院建院70年来的重大成就，深刻阐明了新时代社院办学方向使命，为强化党外人士思想政治引领、建强统一战线人才队伍提供了根本遵循、注入了强大动力。要紧密结合四平实际，对标对表、不折不扣抓好贯彻落实。要提高政治站位，深刻认识“社院姓社”，把坚持党的全面领导贯穿办学治院、教学管理全过程各环节，持续深化思想政治引领，确保各项工作始终沿着正确政治方向稳步前行。要聚焦主责主业，立足我市社院在市委党校挂牌运行的体制特点，一体谋划推进教学体系建设，紧扣新时代统战工作要求，进一步优化课程布局，突出政治共识教育核心地位，统筹设置教学模块，分类办好重点班次，坚持理论教学、现场教学、交流研讨相结合，加快培育一支政治坚定、业务精湛、作风过硬的党外骨干人才队伍。要服务发展大局，以社院教育培训为纽带，引领带动统一战线各方面成员，围绕实施市委“1288”总体工作思路，聚焦重点领域，深入开展调研、积极建言资政，共同画好新时代四平统一战线最大同心圆，为打好打赢四平经济攻坚战、荣誉保卫战凝聚磅礴合力。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-11-15T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "统一战线",
+    "党外人士培养",
+    "中央社会主义学院"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党外人士培养",
+      "name_en": "Training of Non-Party Figures"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中央社会主义学院",
+      "name_en": "Central Institute of Socialism"
+    },
+    {
+      "kind": "person",
+      "id": "wang-huning",
+      "name_zh": "王沪宁",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四平",
+    "统一战线",
+    "党外人士培养",
+    "中央社会主义学院",
+    "王沪宁"
+  ],
+  "tags_en": [
+    "Siping",
+    "United Front",
+    "Training of Non-Party Figures",
+    "Central Institute of Socialism"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-huning",
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王相民"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261115-gov_si_ping-391e95",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_si_ping",
+      "source_tier": 4,
+      "url": "http://www.siping.gov.cn/zw/spdt/202611/t20261115_780412.html",
+      "title_zh": "四平市人民政府",
+      "published_at": "2026-11-15T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

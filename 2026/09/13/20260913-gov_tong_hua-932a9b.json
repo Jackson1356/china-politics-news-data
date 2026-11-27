@@ -1,0 +1,115 @@
+{
+  "id": "20260913-gov_tong_hua-932a9b",
+  "source": "gov_tong_hua",
+  "source_name_zh": "通化市政府网",
+  "source_name_en": "通化 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tong_hua",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jl.gov.cn/yaowen/202609/t20260913_3670072.html",
+  "title_zh": "黄强会见国际大学生体育联合会主席雷诺·艾德",
+  "title_en": "Huang Qiang Meets with FISU President Leonz Eder on Changchun Winter World University Games",
+  "summary_zh": "9月13日，吉林省委书记黄强在长春会见国际大学生体育联合会主席雷诺·艾德一行，就长春大冬会筹备工作交换意见。",
+  "summary_en": "On September 13, Jilin Provincial Party Secretary Huang Qiang met with FISU President Leonz Eder in Changchun to discuss preparations for the Changchun Winter World University Games.",
+  "body_zh": "黄强会见国际大学生体育联合会主席雷诺·艾德\n9月13日，省委书记黄强在长春会见国际大学生体育联合会主席雷诺·艾德一行。\n黄强向雷诺·艾德一行表示欢迎。他说，长春大冬会成功申办以来，在国际大学生体育联合会以及教育部、国家体育总局等国家部委的指导支持下，吉林秉承简约、安全、精彩的办赛理念，高效完成各项任务，在场馆改造、竞赛准备、宣传预热、开闭幕式及大型活动策划等方面取得积极进展。我们将认真听取各方面意见建议，精益求精做好各项筹备工作，切实扛起东道主责任，不折不扣兑现申办承诺。希望国际大学生体育联合会在赛事海外推广、世界学术大会筹办、中国首个大冬会博物馆建设上给予更大支持，多渠道讲好长春大冬会故事，大力弘扬体育精神，为世界注入更多青春正能量。\n雷诺·艾德感谢吉林省委、省政府对长春大冬会筹备工作的大力支持，感谢长春大冬会组委会、执委会所付出的辛勤努力。他表示，大冬会和大运会不仅是体育比赛，更是全世界青年大学生增进交流的平台。国际大学生体育联合会将与吉林加强协作，共同做好国际宣传、活动组织等工作，支持建设大冬会博物馆，吸引更多不同文化背景的大学生运动员参加比赛。相信长春大冬会一定能成为一届高水平青春体育盛会。\n省领导张恩惠、王子联、金育辉，国际大学生体育联合会秘书长兼首席执行官马蒂亚斯·雷蒙德等参加会见。（刘宁宁）",
+  "image_url": null,
+  "published_at": "2026-09-13T12:00:00+00:00",
+  "event_date": "2026-09-13",
+  "ingested_at": "2026-09-15T09:25:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "大冬会筹备",
+    "体育交流",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "huang-qiang",
+      "name_zh": "黄强",
+      "name_en": "Huang Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "吉林省委",
+      "name_en": "Jilin Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-CC",
+      "name_zh": "长春",
+      "name_en": "Changchun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL",
+      "name_zh": "吉林",
+      "name_en": "Jilin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大冬会筹备",
+      "name_en": "Winter World University Games Preparations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "体育交流",
+      "name_en": "Sports Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "黄强",
+    "吉林省委",
+    "长春",
+    "吉林",
+    "大冬会筹备",
+    "体育交流",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Huang Qiang",
+    "Jilin Provincial Party Committee",
+    "Changchun",
+    "Jilin",
+    "Winter World University Games Preparations",
+    "Sports Exchange",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "huang-qiang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-CC",
+      "CN-JL"
+    ],
+    "companies": [
+      {
+        "name_zh": "吉林省委",
+        "name_en": "Jilin Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260913-gov_tong_hua-932a9b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

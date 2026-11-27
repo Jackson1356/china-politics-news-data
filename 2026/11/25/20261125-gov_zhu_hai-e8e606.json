@@ -1,0 +1,96 @@
+{
+  "id": "20261125-gov_zhu_hai-e8e606",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3961977.html",
+  "title_zh": "市政协召开党组会议暨十届七十九次主席会议 深入学习贯彻习近平总书记重要讲话重要指示精神",
+  "title_en": "Zhuhai CPPCC Holds Party Group Meeting and 79th Chairman Meeting to Study Xi Jinping's Important Speeches and Instructions",
+  "summary_zh": "11月24日，珠海市政协召开党组会议暨十届七十九次主席会议，传达学习习近平总书记近期重要讲话重要指示精神，研究贯彻落实意见。",
+  "summary_en": "On Nov 24, the Zhuhai CPPCC held a Party group and chairman meeting to study recent important speeches and instructions by Xi Jinping and discuss implementation.",
+  "body_zh": "市政协召开党组会议暨十届七十九次主席会议 深入学习贯彻习近平总书记重要讲话重要指示精神\n11月24日下午，市政协召开党组会议暨十届七十九次主席会议，套开理论学习中心组学习会，认真传达学习习近平总书记近期重要讲话重要指示精神，以及省、市有关会议精神，研究贯彻落实意见。市政协党组书记、主席候选人杨海主持会议并讲话。\n会议传达学习习近平总书记视察广东和出席亚太经合组织第三十三次领导人非正式会议及相关活动重要讲话重要指示精神，强调要在全市政协系统迅速兴起学习贯彻热潮，把思想共识广泛凝聚到习近平总书记重要讲话重要指示精神上来。要把发挥珠海先导作用作为协商议政重点，围绕服务粤港澳大湾区建设、珠江口东西两岸融合发展、支持横琴粤澳深度合作区建设等领域深入调查研究，积极建言献策，为推进中国式现代化的珠海实践贡献政协智慧和力量。\n会议传达学习习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神，强调要深刻领会习近平总书记重要讲话精神，把弘扬伟大长征精神、走好新的长征路“五个必须”的明确要求，与政治协商、民主监督、参政议政职责紧密结合起来，进一步提高市政协履职质效。\n会议传达学习习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话精神，强调要更加紧密地团结在以习近平同志为核心的党中央周围，把学习、继承、发扬孙中山先生宝贵精神融入政协履职实践，落实到思想政治引领、联系界别群众、反映社情民意和团结联谊等工作中。\n会议传达学习习近平总书记在全国卫生与健康大会上的重要讲话精神，强调要围绕健康珠海建设调研协商、建言出力。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻",
+    "政协履职",
+    "粤港澳大湾区"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Study and Implementation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协履职",
+      "name_en": "CPPCC Duties"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粤港澳大湾区",
+      "name_en": "Guangdong-Hong Kong-Macao Greater Bay Area"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "珠海",
+    "学习贯彻",
+    "政协履职",
+    "粤港澳大湾区",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhuhai",
+    "Study and Implementation",
+    "CPPCC Duties",
+    "Guangdong-Hong Kong-Macao Greater Bay Area"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "杨海"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261125-gov_zhu_hai-e8e606",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "20261127-gov_ying_kou-ad54f5",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001001/20261127/356730d6-b505-4c2c-9e53-dcca536ce103.html",
+  "title_zh": "营口市人大常委会决定召开市第十八届人民代表大会第一次会议",
+  "title_en": "Yingkou Municipal People's Congress Standing Committee Decides to Convene First Session of the 18th Municipal People's Congress",
+  "summary_zh": "营口市第十七届人大常委会第四十六次会议决定，营口市第十八届人民代表大会第一次会议于2027年1月6日召开、8日闭幕，会议将审议政府工作报告、计划与预算报告等事项。",
+  "summary_en": "The 46th session of the Standing Committee of the 17th Yingkou Municipal People's Congress decided that the first session of the 18th Municipal People's Congress will open on January 6, 2027, and close on January 8, reviewing the government work report, development plans and budgets.",
+  "body_zh": "营口市第十七届人民代表大会常务委员会第四十六次会议决定：营口市第十八届人民代表大会第一次会议于2027年1月6日召开，8日闭幕（特殊情况由主任会议决定）。\n建议会议讨论的主要事项：1.审议营口市人民政府工作报告。2.审查营口市2026年国民经济和社会发展计划执行情况与2027年国民经济和社会发展计划草案的报告、营口市2027年国民经济和社会发展计划草案。3.审查营口市2026年预算执行情况和2027年预算草案的报告、营口市2027年市本级预算草案。4.审议营口市人民代表大会常务委员会工作报告。5.审议营口市中级人民法院工作报告。6.审议营口市人民检察院工作报告。7.审议营口市2026年重点民生实事项目完成情况及2027年重点民生实事项目拟安排意见。8.选举。9.表决。",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "人民代表大会",
+    "预算审查",
+    "民生实事"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "营口市人民代表大会常务委员会",
+      "name_en": "Standing Committee of the Yingkou Municipal People's Congress"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-YK",
+      "name_zh": "营口",
+      "name_en": "Yingkou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民代表大会",
+      "name_en": "People's Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "预算审查",
+      "name_en": "Budget Review"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生实事",
+      "name_en": "Public Welfare Projects"
+    }
+  ],
+  "tags_zh": [
+    "营口市人民代表大会常务委员会",
+    "营口",
+    "人民代表大会",
+    "预算审查",
+    "民生实事"
+  ],
+  "tags_en": [
+    "Standing Committee of the Yingkou Municipal People's Congress",
+    "Yingkou",
+    "People's Congress",
+    "Budget Review",
+    "Public Welfare Projects"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-LN-YK"
+    ],
+    "companies": [
+      {
+        "name_zh": "营口市人民代表大会常务委员会",
+        "name_en": "Standing Committee of the Yingkou Municipal People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261127-gov_ying_kou-ad54f5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

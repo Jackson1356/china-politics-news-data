@@ -1,0 +1,109 @@
+{
+  "id": "20261021-gov_huang_shi-cc837d",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huangshi.gov.cn/xwdt/hsyw/202610/t20261021_1368071.html",
+  "title_zh": "市十五届人大常委会召开第60次主任会议",
+  "title_en": "Huangshi Municipal People's Congress Standing Committee Holds 60th Chairpersons' Meeting",
+  "summary_zh": "10月20日，黄石市人大常委会主任俞远汉主持召开第60次主任会议，审议财政预算调整、公共交通条例、就业等议题，决定10月下旬召开常委会会议。",
+  "summary_en": "On Oct 20, Huangshi's municipal people's congress standing committee held its 60th chairpersons' meeting, chaired by Yu Yuanhan, to review budget, public transport and employment issues.",
+  "body_zh": "20日，市十五届人大常委会召开第60次主任会议。市人大常委会主任俞远汉主持会议。\n会议拟定了市十五届人大常委会第三十四次会议方案，决定本次常委会会议于10月下旬召开。\n会议审议了市人民政府关于提请审议2026年市直财政预算调整方案（草案）的议案、《黄石市促进武汉都市圈公共交通一体化条例（草案二审稿）》，听取和审议了市人大常委会执法检查组关于检查《黄石市养犬管理条例》实施情况的报告、关于2026年省市十大民生项目实施情况集中视察工作意见、关于开展涉及生态环境法典决议、决定清理情况的报告和市人大常委会关于废止《关于综合整治开山塘口的决议》的决定（草案）。\n会议听取和审议了关于促进高质量充分就业工作情况的调查报告、关于个别代表变动情况的报告和有关报告的审核意见（草案），听取和审议了关于对全市发展和改革、财政、商务、文化和旅游、住房和城市更新、农业农村、应急管理等工作评议的调研报告，听取和审议了人事议案，决定将上述报告、议案、工作意见、条例草案、决定草案、审核意见草案等提请市十五届人大常委会第三十四次会议审议。\n市人大常委会副主任祝红梅、赵重迎、汪国栋、王斌，秘书长严荣勇参加会议。（胡波）",
+  "image_url": null,
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "party",
+  "keywords": [
+    "人大工作",
+    "财政预算",
+    "公共交通一体化",
+    "高质量就业"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-HB-HS",
+      "name_zh": "黄石",
+      "name_en": "Huangshi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大工作",
+      "name_en": "People's Congress Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "财政预算",
+      "name_en": "Fiscal Budget"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公共交通一体化",
+      "name_en": "Public Transport Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量就业",
+      "name_en": "High-Quality Employment"
+    },
+    {
+      "kind": "person",
+      "id": "wang-bin-hainan",
+      "name_zh": "王斌",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄石",
+    "人大工作",
+    "财政预算",
+    "公共交通一体化",
+    "高质量就业",
+    "王斌"
+  ],
+  "tags_en": [
+    "Huangshi",
+    "People's Congress Work",
+    "Fiscal Budget",
+    "Public Transport Integration",
+    "High-Quality Employment"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-bin-hainan",
+      {
+        "id": null,
+        "name_zh": "严荣勇"
+      },
+      {
+        "id": null,
+        "name_zh": "于提请"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HB-HS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261021-gov_huang_shi-cc837d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

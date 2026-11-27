@@ -1,0 +1,109 @@
+{
+  "id": "20261126-gov_cn_yaowen-0a5f8c",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/11/26/VIDEMZFnEhCvLStvqOHA4Npa261126.shtml",
+  "title_zh": "李强会见亚洲开发银行行长神田真人",
+  "title_en": "Li Qiang Meets Asian Development Bank President Masato Kanda",
+  "summary_zh": "11月26日，国务院总理李强在北京会见亚洲开发银行行长神田真人，双方就提高合作水平、推动区域经济一体化交换意见。",
+  "summary_en": "On Nov 26, Premier Li Qiang met ADB President Masato Kanda in Beijing, with both sides pledging to raise cooperation to a higher level and advance regional economic integration.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：国务院总理李强26日在京会见亚洲开发银行行长神田真人。\n李强表示，在上周亚太经合组织领导人非正式会议上，习近平主席指出要推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体。中方愿同区域各方一道紧密协作，努力实现这一美好愿景。亚行是区域经济一体化的重要推动者，中方将继续支持亚行相关工作，不断提高双方合作水平。中国经济为亚洲和世界经济注入了宝贵的稳定性确定性。我们将推动经济持续向新向优向好，为区域发展贡献力量。\n神田真人表示，中国经济展现韧性保持增长，新动能成效显著，亚行对此表示祝贺，愿支持中国式现代化建设和“十五五”规划实施，推动双方合作伙伴关系迈向更高水平。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太共同体",
+    "区域经济一体化",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": "Li Qiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太共同体",
+      "name_en": "Asia-Pacific community"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域经济一体化",
+      "name_en": "Regional Economic Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李强",
+    "国务院",
+    "亚太共同体",
+    "区域经济一体化",
+    "十五五规划",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Qiang",
+    "State Council",
+    "Asia-Pacific community",
+    "Regional Economic Integration",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      "xi-jinping"
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261126-gov_cn_yaowen-0a5f8c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087404.htm",
+      "title_zh": "李强会见亚洲开发银行行长神田真人",
+      "published_at": "2026-11-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

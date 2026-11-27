@@ -1,0 +1,114 @@
+{
+  "id": "20261123-gov_zhan_jiang-b76d9a",
+  "source": "gov_zhan_jiang",
+  "source_name_zh": "湛江市政府网",
+  "source_name_en": "湛江 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhan_jiang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhanjiang.gov.cn/bmsd/content/post_2249829.html",
+  "title_zh": "湛江市水务局赴廉江市调研水利重点项目",
+  "title_en": "Zhanjiang Water Affairs Bureau Inspects Key Water Projects in Lianjiang",
+  "summary_zh": "11月19日上午，湛江市水务局局长刘伟带队赴廉江市调研水利重点项目建设进展，现场考察并召开座谈会，部署年末攻坚任务。",
+  "summary_en": "On the morning of Nov 19, Liu Wei, head of the Zhanjiang Water Affairs Bureau, led a team to Lianjiang to inspect key water conservancy projects, conducting on-site checks and a meeting to push year-end construction targets.",
+  "body_zh": "11月19日上午，湛江市水务局党组书记、局长刘伟率队前往廉江市开展水利重点项目调研，通过现场考察、召开座谈会等方式协调调度环北广东工程二期安铺试点镇建设工程、营仔河灌区续建配套与节水改造工程、江洲围生态海堤建设工程等项目建设的进展情况和卡点堵点问题，督促廉江市水务局压实属地主体责任，紧盯上级考核要求和年度目标任务，破除项目建设障碍，加快推进项目施工和资金支付，确保重点项目按期高质量完成年度建设目标。\n工作组到工程实地查看施工进度，详细了解工程最新进展、制约施工进度因素等情况。现场考察后召开交流座谈会，听取廉江汇报今年水利工作情况，部署推动水利重点项目年末攻坚任务。\n会议强调，廉江市水务局、相关职能部门要压实主体责任，加强业务沟通协调，尽早解决用林用海审批等项目建设卡点堵点，项目建设单位要积极主动与廉江市相关职能部门沟通对接，及时反馈制约施工进展的需协调解决事项，及时补充完善相关工程材料和审批手续，对照年度目标逐项明确施工进度节点，倒排工期加快施工，共同推进水利重点项目建设完成年度建设任务。\n工作组强调，上级领导高度重视湛江水利事业发展，相关责任部门要对照上级考核要求和项目年度建设任务，坚持问题导向、结果导向、全面发力、突出重点，在确保安全和质量的前提下，全力推动水利重点项目建设提速增效，推动各项水利民生工程尽早落地见效。全市各级水利部门共同努力，谱写新时代湛江水利事业高质量发展新篇章。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "economy",
+  "keywords": [
+    "水利重点项目",
+    "基础设施建设",
+    "年度目标任务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-wei-transport",
+      "name_zh": "刘伟",
+      "name_en": "Liu Wei"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "湛江市水务局",
+      "name_en": "Zhanjiang Water Affairs Bureau"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZJ",
+      "name_zh": "湛江",
+      "name_en": "Zhanjiang"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "廉江",
+      "name_en": "Lianjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水利重点项目",
+      "name_en": "Key Water Conservancy Projects"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "年度目标任务",
+      "name_en": "Annual Targets"
+    }
+  ],
+  "tags_zh": [
+    "刘伟",
+    "湛江市水务局",
+    "湛江",
+    "廉江",
+    "水利重点项目",
+    "基础设施建设",
+    "年度目标任务"
+  ],
+  "tags_en": [
+    "Liu Wei",
+    "Zhanjiang Water Affairs Bureau",
+    "Zhanjiang",
+    "Lianjiang",
+    "Key Water Conservancy Projects",
+    "Infrastructure Construction",
+    "Annual Targets"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-wei-transport"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "湛江市水务局",
+        "name_en": "Zhanjiang Water Affairs Bureau"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261123-gov_zhan_jiang-b76d9a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

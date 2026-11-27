@@ -1,0 +1,106 @@
+{
+  "id": "20261107-gov_lin_zhi-764a3b",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/f37bf18c3bea426084ef963f5b7dbda3.shtml",
+  "title_zh": "国家主席习近平任免驻外大使",
+  "title_en": "President Xi Jinping Appoints and Removes Ambassadors Abroad",
+  "summary_zh": "11月6日，国家主席习近平根据全国人大常委会的决定，任免驻挪威、捷克、意大利、基里巴斯、斐济、新西兰等多国驻外大使。",
+  "summary_en": "On November 6, President Xi Jinping appointed and removed Chinese ambassadors to Norway, the Czech Republic, Italy, Kiribati, Fiji, New Zealand and other countries, in line with a decision by the NPC Standing Committee.",
+  "body_zh": "新华社北京11月6日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使：\n一、免去侯悦（女）的中华人民共和国驻挪威王国特命全权大使职务；\n任命周景兴为中华人民共和国驻挪威王国特命全权大使。\n二、免去冯飚的中华人民共和国驻捷克共和国特命全权大使职务；\n任命周谦为中华人民共和国驻捷克共和国特命全权大使。\n三、免去贾桂德的中华人民共和国驻意大利共和国特命全权大使兼驻圣马力诺共和国特命全权大使职务；\n任命侯悦（女）为中华人民共和国驻意大利共和国特命全权大使兼驻圣马力诺共和国特命全权大使。\n四、免去周立民的中华人民共和国驻基里巴斯共和国特命全权大使职务；\n任命姚飞为中华人民共和国驻基里巴斯共和国特命全权大使。\n五、免去周剑的中华人民共和国驻斐济共和国特命全权大使职务；\n任命陈海平为中华人民共和国驻斐济共和国特命全权大使。\n六、免去王小龙的中华人民共和国驻新西兰特命全权大使兼驻库克群岛特命全权大使、驻纽埃特命全权大使职务；\n任命赵星为中华人民共和国驻新西兰特命全权大使兼驻库克群岛特命全权大使、驻纽埃特命全权大使。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-09T11:51:03Z",
+  "topic": "personnel",
+  "keywords": [
+    "驻外大使",
+    "人事任免",
+    "外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人民代表大会常务委员会",
+      "name_en": "NPC Standing Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "驻外大使",
+      "name_en": "Ambassadorial Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交",
+      "name_en": "Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "全国人民代表大会常务委员会",
+    "北京",
+    "驻外大使",
+    "人事任免",
+    "外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "NPC Standing Committee",
+    "Beijing",
+    "Ambassadorial Appointments",
+    "Personnel Appointments",
+    "Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人民代表大会常务委员会",
+        "name_en": "NPC Standing Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261107-cpcnews-293ae1",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

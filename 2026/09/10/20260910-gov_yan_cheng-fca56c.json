@@ -1,0 +1,106 @@
+{
+  "id": "20260910-gov_yan_cheng-fca56c",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/9/10/art_49_4453005.html",
+  "title_zh": "盐城市委书记严汉平会见中铁二十四局支卫清一行",
+  "title_en": "Yancheng Party Secretary Yan Hanping Meets China Railway 24th Bureau Delegation Led by Zhi Weiqing",
+  "summary_zh": "9月9日，盐城市委书记严汉平会见中铁二十四局董事长支卫清、世纪互联集团总裁鲍益一行，就项目落地、基础设施建设和数字经济合作交换意见。",
+  "summary_en": "On Sept 9, Yancheng Party Secretary Yan Hanping met China Railway 24th Bureau chairman Zhi Weiqing and 21Vianet president Bao Yi to discuss project investment, infrastructure and digital economy cooperation.",
+  "body_zh": "9月9日，市委书记严汉平会见中铁二十四局集团有限公司党委书记、董事长支卫清，世纪互联集团总裁鲍益一行。\n支卫清感谢盐城市委、市政府的关心支持，介绍集团产业布局和与盐合作等情况。他说，盐城发展态势迅猛，绿电资源丰富，数字经济迸发，基建市场广阔，是企业战略布局的理想之地，中铁二十四局将积极融入盐城发展大局，推动重要项目落地，参与重大基础设施建设，守好安全、环保和质量关，为城市高质量发展贡献更大力量。鲍益介绍企业核心业务、拟在盐投资项目等情况，表示将发挥好科创型数字新基建龙头优势，全面融入盐城数字经济生态，实现互利共赢发展。\n市领导王连春、黄正桂，中铁二十四局、世纪互联集团、中国科学院自动化研究所等单位相关负责同志参加。",
+  "image_url": null,
+  "published_at": "2026-09-10T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "政企合作",
+    "基础设施建设",
+    "数字经济"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "盐城市委",
+      "name_en": "Yancheng Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政企合作",
+      "name_en": "Government-Enterprise Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施建设",
+      "name_en": "Infrastructure Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字经济",
+      "name_en": "Digital Economy"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "盐城市委",
+    "盐城",
+    "政企合作",
+    "基础设施建设",
+    "数字经济"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Yancheng Municipal Party Committee",
+    "Yancheng",
+    "Government-Enterprise Cooperation",
+    "Infrastructure Construction",
+    "Digital Economy"
+  ],
+  "entities": {
+    "politicians": [
+      "yan-hanping-yancheng"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": [
+      {
+        "name_zh": "盐城市委",
+        "name_en": "Yancheng Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260910-gov_yan_cheng-fca56c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

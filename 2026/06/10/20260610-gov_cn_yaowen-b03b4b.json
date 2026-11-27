@@ -1,0 +1,60 @@
+{
+  "id": "20260610-gov_cn_yaowen-b03b4b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071706.htm",
+  "title_zh": "全国夏粮小麦已收获近七成",
+  "title_en": "Nearly 70% of National Summer Wheat Harvested",
+  "summary_zh": "截至6月9日17时，全国夏粮小麦收获进度达68.54%，安徽、河南等省份收获工作进展顺利。",
+  "summary_en": "As of 5 p.m. on June 9, 68.54% of China's summer wheat has been harvested, with significant progress in provinces such as Anhui and Henan.",
+  "body_zh": "截至6月9日17时，全国已收获夏粮小麦2.33亿亩，收获进度68.54%。当日收获1337万亩、投入联合收割机18.38万台（去年同期日收1572万亩、投入联合收割机20.05万台）。从各地看，安徽麦收圆满完成，河南基本结束，江苏进度过八成，山东过四成半，陕西过三成，河北近两成，山西过一成半。（记者 郁静娴）",
+  "image_url": null,
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "event_date": "2026-06-09",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "economy",
+  "keywords": [
+    "夏粮收获",
+    "农业生产"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "夏粮收获",
+      "name_en": "Summer Grain Harvest"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业生产",
+      "name_en": "Agricultural Production"
+    }
+  ],
+  "tags_zh": [
+    "夏粮收获",
+    "农业生产"
+  ],
+  "tags_en": [
+    "Summer Grain Harvest",
+    "Agricultural Production"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260610-gov_cn_yaowen-b03b4b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

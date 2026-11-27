@@ -1,0 +1,102 @@
+{
+  "id": "20261117-xinhua_leaders-2533da",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261117/dc7e705e182649da82c57b525e069fde/c.html",
+  "title_zh": "和总书记面对面丨为强国建设、民族复兴伟业接续奋斗",
+  "title_en": "Face to Face with the General Secretary: Striving On for a Strong Nation and National Rejuvenation",
+  "summary_zh": "11月16日，习近平总书记在广东省中山市南朗街道考察孙中山故居纪念馆，同纪念馆工作人员及孙中山生平和思想研究人员代表亲切交流。",
+  "summary_en": "On November 16, Xi Jinping visited the Former Residence Memorial Hall of Sun Yat-sen in Nanlang, Zhongshan, Guangdong, and held cordial talks with staff and researchers of Sun Yat-sen's life and thought.",
+  "body_zh": "11月16日，习近平总书记前往位于广东省中山市南朗街道的孙中山故居纪念馆考察调研，同纪念馆工作人员、孙中山生平和思想研究人员代表等亲切交流。\n记者：许杨 李嘉乐 刘春晖 李姝莛 董博涵 韩依格\n编导：杨云燕 王洪流 徐思远\n新华社音视频部制作\n新华社第一工作室出品",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "爱国主义教育",
+    "孙中山思想研究",
+    "民族复兴"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZS",
+      "name_zh": "中山",
+      "name_en": "Zhongshan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国主义教育",
+      "name_en": "Patriotic Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "孙中山思想研究",
+      "name_en": "Sun Yat-sen Studies"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民族复兴",
+      "name_en": "National Rejuvenation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "广东",
+    "中山",
+    "爱国主义教育",
+    "孙中山思想研究",
+    "民族复兴"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Guangdong",
+    "Zhongshan",
+    "Patriotic Education",
+    "Sun Yat-sen Studies",
+    "National Rejuvenation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD",
+      "CN-GD-ZS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261117-xinhua_leaders-2533da",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

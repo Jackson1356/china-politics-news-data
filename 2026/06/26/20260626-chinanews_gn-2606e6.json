@@ -1,0 +1,123 @@
+{
+  "id": "20260626-chinanews_gn-2606e6",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-26/10647992.shtml",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Appoints and Removes State Personnel",
+  "summary_zh": "2026年6月26日，国务院任免国家工作人员，任命岳修虎、张光军等四人为副部长或副局长，并免去关志鸥、卞志刚职务。",
+  "summary_en": "On June 26, 2026, the State Council appointed four officials to vice-ministerial or deputy director positions and removed two officials from their posts.",
+  "body_zh": "国务院任免国家工作人员\n中新网6月26日电 据人社部网站消息，国务院任免国家工作人员。\n任命岳修虎为国家发展和改革委员会副主任；任命张光军为科学技术部副部长；任命罗天舒为国家税务总局副局长；任命胡今扬为国家国际发展合作署副署长。\n免去关志鸥的国家自然资源总督察职务；免去卞志刚的国家国防科技工业局副局长职务。\n国内新闻精选：\n- 2026年06月27日 13:16:40\n- 2026年06月27日 10:04:38\n- 2026年06月26日 21:41:11\n- 2026年06月26日 20:52:50\n- 2026年06月26日 16:44:24\n- 2026年06月26日 16:22:57\n- 2026年06月26日 14:09:55\n- 2026年06月26日 13:51:53\n- 2026年06月26日 12:52:24\n- 2026年06月26日 08:31:47",
+  "image_url": null,
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "event_date": "2026-06-26",
+  "ingested_at": "2026-06-27T07:43:52Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免",
+    "政府架构"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "NDRC",
+      "name_zh": "国家发展和改革委员会",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MOST",
+      "name_zh": "科学技术部",
+      "name_en": "Ministry of Science and Technology"
+    },
+    {
+      "kind": "institution",
+      "id": "STA",
+      "name_zh": "国家税务总局",
+      "name_en": "State Taxation Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "CIDCA",
+      "name_zh": "国家国际发展合作署",
+      "name_en": "China International Development Cooperation Agency"
+    },
+    {
+      "kind": "institution",
+      "id": "SASTIND",
+      "name_zh": "国家国防科技工业局",
+      "name_en": "State Administration for Defense Technology Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政府架构",
+      "name_en": "Government Structure"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "国家发展和改革委员会",
+    "科学技术部",
+    "国家税务总局",
+    "国家国际发展合作署",
+    "国家国防科技工业局",
+    "人事任免",
+    "政府架构"
+  ],
+  "tags_en": [
+    "State Council",
+    "National Development and Reform Commission",
+    "Ministry of Science and Technology",
+    "State Taxation Administration",
+    "China International Development Cooperation Agency",
+    "State Administration for Defense Technology Industry",
+    "Personnel Appointment and Removal",
+    "Government Structure"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL",
+      "NDRC",
+      "MOST",
+      "STA",
+      "CIDCA",
+      "SASTIND"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260626-chinanews_gn-2606e6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073418.htm",
+      "title_zh": "国务院任免国家工作人员（2026年6月26日）",
+      "published_at": "2026-06-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "20260930-paper_zhengjing-b7944a",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34180769",
+  "title_zh": "天津市行政区全域为无人驾驶航空器管制空域",
+  "title_en": "Tianjin Designates Entire Municipal Area as Controlled Airspace for Unmanned Aircraft",
+  "summary_zh": "2026年9月30日，天津市人民政府发布通告，将本市行政区全域划为无人驾驶航空器管制空域，并废止6月4日的适飞空域通告。",
+  "summary_en": "On Sept 30, 2026, the Tianjin Municipal People's Government designated the city's entire administrative area as controlled airspace for unmanned aircraft, repealing its June 4 notice on permitted flight areas.",
+  "body_zh": "天津市人民政府关于公布本市无人驾驶航空器管制空域范围的通告\n根据《无人驾驶航空器飞行管理暂行条例》有关规定，现将本市无人驾驶航空器管制空域范围公布如下：\n天津市行政区全域为无人驾驶航空器管制空域。\n本通告自发布之日起施行。2026年6月4日发布的《天津市人民政府关于公布本市微型轻型小型无人驾驶航空器适飞空域范围的通告》同时废止。\n特此通告。\n天津市人民政府\nAndroid版\niPhone版\niPad版\n沪公网安备31010602008124号",
+  "image_url": null,
+  "published_at": "2026-09-30T12:00:00+00:00",
+  "event_date": "2026-09-30",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "industry",
+  "keywords": [
+    "无人驾驶航空器管制",
+    "空域管理",
+    "低空经济监管"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-TJ",
+      "name_zh": "天津",
+      "name_en": "Tianjin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "无人驾驶航空器管制",
+      "name_en": "Unmanned Aircraft Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空域管理",
+      "name_en": "Airspace Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "低空经济监管",
+      "name_en": "Low-Altitude Economy Regulation"
+    }
+  ],
+  "tags_zh": [
+    "天津",
+    "无人驾驶航空器管制",
+    "空域管理",
+    "低空经济监管"
+  ],
+  "tags_en": [
+    "Tianjin",
+    "Unmanned Aircraft Control",
+    "Airspace Management",
+    "Low-Altitude Economy Regulation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-TJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260930-paper_zhengjing-b7944a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

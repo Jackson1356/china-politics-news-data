@@ -1,0 +1,109 @@
+{
+  "id": "20260924-cpcnews-12be99",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/0924/c64094-40804885.html",
+  "title_zh": "习近平离京对美国进行国事访问",
+  "title_en": "Xi Jinping Departs Beijing for State Visit to the United States",
+  "summary_zh": "9月23日下午，国家主席习近平乘专机离开北京，应美国总统特朗普邀请对美国进行国事访问，蔡奇、王毅等陪同出访。",
+  "summary_en": "On Sept 23, President Xi Jinping left Beijing for a state visit to the United States at the invitation of President Trump. Cai Qi and Wang Yi accompanied him.",
+  "body_zh": "本报北京9月23日电 9月23日下午，国家主席习近平乘专机离开北京，应美国总统特朗普邀请，对美国进行国事访问。\n陪同习近平出访的有：习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等。\n《 人民日报 》（ 2026年09月24日 01 版）",
+  "image_url": null,
+  "published_at": "2026-09-24T12:00:00+00:00",
+  "event_date": "2026-09-23",
+  "ingested_at": "2026-09-25T09:32:41Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中美关系",
+    "元首外交"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-U.S. Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-State Diplomacy"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "美国",
+    "国事访问",
+    "中美关系",
+    "元首外交"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "United States",
+    "State Visit",
+    "China-U.S. Relations",
+    "Head-of-State Diplomacy"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260924-cpcnews-12be99",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": null,
+      "url": "https://tv.cctv.com/2026/09/23/VIDEixpLN7ffuej9bmZeKDaG260923.shtml",
+      "title_zh": "习近平离京对美国进行国事访问",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

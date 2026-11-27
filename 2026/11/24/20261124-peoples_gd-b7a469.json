@@ -1,0 +1,114 @@
+{
+  "id": "20261124-peoples_gd-b7a469",
+  "source": "peoples_gd",
+  "source_name_zh": "人民网 广东",
+  "source_name_en": "People's Daily Guangdong",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gd.people.com.cn/n2/2026/1124/c123932-41759719.html",
+  "title_zh": "中共广东省委十三届九次全会11月30日在广州召开",
+  "title_en": "Guangdong Provincial Party Committee to Hold 9th Plenary Session of 13th Term on Nov 30 in Guangzhou",
+  "summary_zh": "广东省委常委会决定，中共广东省委十三届九次全会将于11月30日在广州召开，会期一天，黄坤明将作工作报告。",
+  "summary_en": "The Standing Committee of the Guangdong Provincial Party Committee has decided that the 9th Plenary Session of its 13th term will be held in Guangzhou on Nov 30 for one day, with Huang Kunming delivering a work report.",
+  "body_zh": "中共广东省委十三届九次全会11月30日在广州召开\n近日，广东省委常委会会议研究决定，中国共产党广东省第十三届委员会第九次全体会议将于11月30日在广州召开，会期1天。\n本次会议的主要任务是：深入学习贯彻党的二十届五中全会精神和习近平总书记视察广东、出席亚太经合组织第三十三次领导人非正式会议及相关活动重要讲话重要指示精神，持之以恒推进全面从严治党，奋力开创粤港澳大湾区高质量发展新局面。\n本次会议的主要议题有：一是省委书记黄坤明代表省委常委会向全会作工作报告；二是审议通过有关文件稿；三是审议通过全会《决议》。\n南方日报记者 陈嵘伟\n通讯员 粤宗",
+  "image_url": null,
+  "published_at": "2026-11-24T12:00:00+00:00",
+  "event_date": "2026-11-30",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "粤港澳大湾区",
+    "高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "huang-kunming",
+      "name_zh": "黄坤明",
+      "name_en": "Huang Kunming"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共广东省委",
+      "name_en": "CPC Guangdong Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粤港澳大湾区",
+      "name_en": "Guangdong-Hong Kong-Macao Greater Bay Area"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "黄坤明",
+    "中共广东省委",
+    "广州",
+    "全面从严治党",
+    "粤港澳大湾区",
+    "高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Huang Kunming",
+    "CPC Guangdong Provincial Committee",
+    "Guangzhou",
+    "Full and Rigorous Party Governance",
+    "Guangdong-Hong Kong-Macao Greater Bay Area",
+    "High-Quality Development"
+  ],
+  "entities": {
+    "politicians": [
+      "huang-kunming",
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共广东省委",
+        "name_en": "CPC Guangdong Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261124-peoples_gd-b7a469",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

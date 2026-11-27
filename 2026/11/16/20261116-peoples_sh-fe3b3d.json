@@ -1,0 +1,83 @@
+{
+  "id": "20261116-peoples_sh-fe3b3d",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/1116/c134768-41751872.html",
+  "title_zh": "上海出台科学数据管理办法",
+  "title_en": "Shanghai Issues Measures for Science Data Management",
+  "summary_zh": "上海近日出台《上海市科学数据管理办法（试行）》，明确科学数据与人工智能融合发展机制，将高质量科学数据集纳入科研评价体系并推动开放共享。",
+  "summary_en": "Shanghai has issued trial measures for science data management, setting up a mechanism linking science data with AI, counting high-quality datasets in research evaluation, and promoting open sharing.",
+  "body_zh": "上海出台科学数据管理办法\n本报上海11月15日电 （记者黄晓慧）《上海市科学数据管理办法（试行）》近日出台，明确科学数据与人工智能融合发展机制，建立面向人工智能的数据治理与产品开发导向，人工智能企业与数据生产主体协同合作、共享成果。\n办法明确将高质量科学数据集作为研究成果纳入科研评价体系，评估采取积分制等方式，反映数据汇交的及时性与完整性、开放共享的广度与活跃度、数据加工与标准化成果、数据被访问引用和二次开发应用等情况。\n办法鼓励科学数据开放共享，将发布全市统一的科学数据目录，协同提供数据检索、访问、下载、分析等服务。\n上海市科学数据管理与共享服务平台已于今年6月30日上线试运行，9月14日在浦江创新论坛公开发布。目前，平台已打通科学数据汇交全流程、上线智能审核功能，初步建成全市统一、全域覆盖的科学数据归集体系。\n《 人民日报 》（ 2026年11月16日 13 版）",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-15",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "industry",
+  "keywords": [
+    "科学数据管理",
+    "数据开放共享",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科学数据管理",
+      "name_en": "Science Data Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数据开放共享",
+      "name_en": "Data Open Sharing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    }
+  ],
+  "tags_zh": [
+    "上海",
+    "科学数据管理",
+    "数据开放共享",
+    "人工智能"
+  ],
+  "tags_en": [
+    "Shanghai",
+    "Science Data Management",
+    "Data Open Sharing",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261116-peoples_sh-fe3b3d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

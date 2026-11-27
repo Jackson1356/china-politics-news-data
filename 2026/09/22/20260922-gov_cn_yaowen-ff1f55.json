@@ -1,0 +1,122 @@
+{
+  "id": "20260922-gov_cn_yaowen-ff1f55",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://tv.cctv.com/2026/09/22/VIDEzDeKdvAhj31ixiXqMGvA260922.shtml",
+  "title_zh": "丁薛祥会见哈萨克斯坦第一副总理",
+  "title_en": "Ding Xuexiang Meets with Kazakh First Deputy Prime Minister",
+  "summary_zh": "9月22日下午，中共中央政治局常委、国务院副总理丁薛祥在北京会见哈萨克斯坦第一副总理纳利巴耶夫，双方就深化贸易投资、人工智能等领域务实合作交换意见。",
+  "summary_en": "On the afternoon of Sept 22, Ding Xuexiang, member of the CPC Central Committee Political Bureau Standing Committee and Vice Premier of the State Council, met in Beijing with Kazakh First Deputy Prime Minister Nalibayev to discuss deeper practical cooperation in trade, investment and AI.",
+  "body_zh": "主要内容\n央视网消息（新闻联播）：22日下午，中共中央政治局常委、国务院副总理丁薛祥在北京会见哈萨克斯坦第一副总理纳利巴耶夫。\n丁薛祥表示，中哈两国是山水相连、命运与共的好邻居、好朋友、好伙伴。今年7月，习近平主席同托卡耶夫总统举行会晤，为发展两国关系和深化务实合作指明了方向。作为中哈合作委员会双方主席，我们要全面落实两国元首重要共识，充分发挥统筹协调作用，围绕贸易投资、人工智能、绿色矿产等重点领域，推动务实合作取得新成效，更好增进两国人民福祉。\n纳利巴耶夫表示，哈方愿同中方按照两国元首战略指引，进一步发展紧密而富有成效的合作，促进哈中关系发展迈上更高水平。",
+  "image_url": null,
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "foreign",
+  "keywords": [
+    "中哈关系",
+    "务实合作",
+    "人工智能"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中哈关系",
+      "name_en": "China-Kazakhstan Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "薛祥",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "国务院",
+    "北京",
+    "中哈关系",
+    "务实合作",
+    "人工智能",
+    "薛祥"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "State Council",
+    "Beijing",
+    "China-Kazakhstan Relations",
+    "Practical Cooperation",
+    "Artificial Intelligence"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "薛祥"
+      }
+    ],
+    "institutions": [
+      "STATE-COUNCIL"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260922-gov_cn_yaowen-ff1f55",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081779.htm",
+      "title_zh": "丁薛祥会见哈萨克斯坦第一副总理纳利巴耶夫",
+      "published_at": "2026-09-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "20261127-gov_lin_zhi-c53f11",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/58330760d6b34b2491592d1768e6c0f5.shtml",
+  "title_zh": "中共林芝市人民政府党组召开2026年第11次会议",
+  "title_en": "Party Group of Linzhi Municipal People's Government Holds 11th Meeting of 2026",
+  "summary_zh": "11月23日，林芝市市长尹李峰主持召开市政府党组2026年第11次会议，传达学习习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话精神，并研究贯彻落实举措。",
+  "summary_en": "On Nov 23, Linzhi Mayor Yin Lifeng chaired the 11th meeting of the municipal government's Party group in 2026, conveying and studying Xi Jinping's speech at the commemoration of the 160th anniversary of Sun Yat-sen's birth and arranging implementation measures.",
+  "body_zh": "11月23日,市委副书记、市政府党组书记、市长尹李峰主持召开中共林芝市人民政府党组2026年第11次会议,传达学习习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话精神,研究安排政府系统贯彻落实举措。\n会议强调,要深入学习贯彻习近平总书记重要讲话精神,大力弘扬孙中山先生爱国救国、心系民众、追求真理、百折不挠、倡导团结、胸怀天下的宝贵精神,抢抓新机遇,担当新使命,奋力推动林芝长治久安和高质量发展;要始终站稳人民立场,牢记为民造福是最大政绩,用心用情用力解决好群众急难愁盼,不断提升各族群众的获得感、幸福感、安全感;要在团结协作中凝聚更强合力,认真听取各方面对政府工作的意见建议,不断扩大团结基础,为高质量发展增助力、添活力。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "学习贯彻讲话精神",
+    "高质量发展",
+    "民生保障"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Linzhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻讲话精神",
+      "name_en": "Studying and Implementing Speech Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高质量发展",
+      "name_en": "High-Quality Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民生保障",
+      "name_en": "People's Livelihood"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "林芝",
+    "学习贯彻讲话精神",
+    "高质量发展",
+    "民生保障",
+    "习近平"
+  ],
+  "tags_en": [
+    "Linzhi",
+    "Studying and Implementing Speech Spirit",
+    "High-Quality Development",
+    "People's Livelihood"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261127-gov_lin_zhi-c53f11",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

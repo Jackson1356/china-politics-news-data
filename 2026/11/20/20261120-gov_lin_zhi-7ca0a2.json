@@ -1,0 +1,104 @@
+{
+  "id": "20261120-gov_lin_zhi-7ca0a2",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/xwzx/202611/e51a193e7cb2436098c499888d0d10a0.shtml",
+  "title_zh": "巴塔主持召开市委理论学习中心组学习会",
+  "title_en": "Bata Chairs Municipal Party Committee Theoretical Study Session",
+  "summary_zh": "林芝市委召开理论学习中心组学习会，由巴塔主持，学习贯彻党的二十届五中全会精神，部署全面从严治党与党建工作。",
+  "summary_en": "Bata chaired a theoretical study session of the Linzhi Municipal Party Committee, which studied the spirit of the 20th CPC Central Committee's Fifth Plenum and set out work on full and rigorous Party self-governance.",
+  "body_zh": "会议指出，习近平总书记在党的二十届五中全会上的重要讲话和全会通过的《决定》，是推进新时代党的建设新的伟大工程的纲领性文件，要深刻认识持之以恒推进全面从严治党的重大意义，把深入学习贯彻习近平党建思想和党的二十届五中全会精神作为当前和今后一个时期重大政治任务，常委班子和各级领导干部要深学细悟，在思想上、政治上、行动上同以习近平同志为核心的党中央保持高度一致，坚定拥护“两个确立”、坚决做到“两个维护”，以永远在路上的坚韧和执着，持之以恒推进全面从严治党，以高质量党建引领林芝高质量发展和长治久安。\n会议强调，要筑牢对党忠诚，锤炼坚强党性，强化对党忠诚教育，坚持用党的创新理论凝心铸魂，严明党的政治纪律和政治规矩，永葆绝对纯粹政治本色。要恪守为政准则，坚持和加强党中央集中统一领导，完善和落实民主集中制各项制度，树立和践行正确政绩观，筑牢依规用权制度防线。要坚持大抓基层的鲜明导向，落实新时代“雪域堡垒工程”，打造“北斗星领航”党建品牌，大力弘扬老西藏精神、“两路”精神，锻造堪当民族复兴重任的高素质干部队伍。要切实扛牢全面从严治党政治责任，履行好“一岗双责”，坚持五廉并举、强化主动创廉，按照“政治标准要更高、党性要求要更严、组织纪律要更强”要求，一体推进“三不腐”，让清正廉洁、担当作为、干净干事在林芝蔚然成风。\n在家市级领导和市直相关部门负责同志参加会议。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "party",
+  "keywords": [
+    "全面从严治党",
+    "党的建设",
+    "理论学习"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "巴塔",
+      "name_en": "Bata"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-NY",
+      "name_zh": "林芝",
+      "name_en": "Linzhi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Self-Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习",
+      "name_en": "Theoretical Study"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "巴塔",
+    "林芝",
+    "全面从严治党",
+    "党的建设",
+    "理论学习",
+    "习近平"
+  ],
+  "tags_en": [
+    "Bata",
+    "Linzhi",
+    "Full and Rigorous Party Self-Governance",
+    "Party Building",
+    "Theoretical Study"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "高党性"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-NY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261120-gov_lin_zhi-7ca0a2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

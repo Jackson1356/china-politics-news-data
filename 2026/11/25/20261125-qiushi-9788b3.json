@@ -1,0 +1,94 @@
+{
+  "id": "20261125-qiushi-9788b3",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20261125/1671ba40b4494946bcadd7a6a6820147/c.html",
+  "title_zh": "美媒：美国中情局及国家情报总监办公室疑遭网络入侵",
+  "title_en": "US Media: CIA and Office of the Director of National Intelligence Suspected of Cyber Intrusion",
+  "summary_zh": "据CNN报道，美国中央情报局与国家情报总监办公室的开源情报分析系统疑遭网络入侵，部分非机密信息受影响，涉密系统未受波及。",
+  "summary_en": "CNN reported that the CIA and ODNI's open-source intelligence analysis systems were suspected of being hacked; some non-classified information was affected, while classified systems were not.",
+  "body_zh": "中新网11月25日电 据美国有线电视新闻网(CNN)援引4位消息人士的话报道，美国中央情报局(CIA)以及国家情报总监办公室疑似遭到网络入侵，部分非机密信息受到影响。\n报道称，一名消息人士称，遭网络入侵的是两家机构用于开源情报分析的系统。\n目前尚不清楚具体哪些资料外泄，但有关官员强调，涉密信息未受波及。国家情报总监办公室一名官员对CNN表示：“核心业务能力和涉密系统均未受到干扰。”CIA则拒绝置评。\n报道称，暂不清楚该事件是在何时发生的，也不清楚该问题是否已得到解决。\n美国中文网报道称，近来，美国多个联邦机构相继披露网络安全事件。农业部此前报告过一起类似事件，联邦调查局(FBI)近期披露了两起独立的网络入侵事件。五角大楼和国土安全部也曾受到网络安全事件波及。\n网站编辑 -\n王慧\n张盼 审核 - 于波",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "网络安全",
+    "网络入侵",
+    "情报机构"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "美国中央情报局",
+      "name_en": "Central Intelligence Agency"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "美国",
+      "name_en": "United States"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络安全",
+      "name_en": "Cybersecurity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络入侵",
+      "name_en": "Cyber Intrusion"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "情报机构",
+      "name_en": "Intelligence Agencies"
+    }
+  ],
+  "tags_zh": [
+    "美国中央情报局",
+    "美国",
+    "网络安全",
+    "网络入侵",
+    "情报机构"
+  ],
+  "tags_en": [
+    "Central Intelligence Agency",
+    "United States",
+    "Cybersecurity",
+    "Cyber Intrusion",
+    "Intelligence Agencies"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "美国中央情报局",
+        "name_en": "Central Intelligence Agency"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20261125-qiushi-9788b3",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

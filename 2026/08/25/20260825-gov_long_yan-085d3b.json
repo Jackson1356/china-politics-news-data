@@ -1,0 +1,87 @@
+{
+  "id": "20260825-gov_long_yan-085d3b",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202608/t20260825_2309405.htm",
+  "title_zh": "龙岩市领导调研推进消防救援能力体系建设",
+  "title_en": "Longyan Mayor Inspects Fire Rescue Capability Construction",
+  "summary_zh": "8月24日，龙岩市长蔡琳赴中心城区调研消防救援能力体系建设，实地察看消防信息化和装备更新，强调提升防灾减灾能力。",
+  "summary_en": "On August 24, Longyan Mayor Cai Lin inspected fire rescue capability construction in urban areas, viewing informatization and equipment updates, emphasizing disaster prevention and response.",
+  "body_zh": "8月24日，市长蔡琳赴中心城区调研推进消防救援能力体系建设，强调要深入学习贯彻习近平总书记关于安全生产的重要论述，坚持以人民为中心的发展思想，持续提升防灾减灾救灾能力，全力防范化解各类安全风险，为建设闽西革命老区高质量发展示范区营造安定环境。市领导陈荣水参加。\n蔡琳先后前往新罗区翠莲路消防救援站、市消防救援支队、龙岩消防救援机动支队和龙岩经济技术开发区消防救援大队，实地察看消防调度指挥信息化建设、灭火救援装备更新和高层建筑灭火救援体系建设等情况，并看望慰问一线消防救援指战员。他强调，消防救援队伍是同老百姓贴得最近、联系最紧的队伍，承担着防范化解安全风险、应对处置灾害事故的重要职责。要牢记习近平总书记重要训词精神，牢固树立底线思维、极限思维，着力补短板、固基础、强能力、提质效，以高水平安全护航高质量发展。要坚持科技赋能，加快智慧消防建设步伐，立足高层建筑、园区企业等重点场所消防安全治理需求，迭代升级应急救援装备，持续提升科学化、智能化救援水平。要建强应急救援专业队伍，始终保持枕戈待旦、快速反应的备战状态，持续锤炼专业本领，增强实战攻坚打赢能力，用实际行动守护万家灯火和百姓安宁。",
+  "image_url": null,
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "event_date": "2026-08-24",
+  "ingested_at": "2026-08-25T04:52:02Z",
+  "topic": "welfare",
+  "keywords": [
+    "消防救援",
+    "安全生产"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": "Cai Lin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消防救援",
+      "name_en": "Fire Rescue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    }
+  ],
+  "tags_zh": [
+    "蔡琳",
+    "龙岩",
+    "消防救援",
+    "安全生产"
+  ],
+  "tags_en": [
+    "Cai Lin",
+    "Fire Rescue",
+    "Work Safety"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-lin-longyan",
+      {
+        "id": null,
+        "name_zh": "陈荣水"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260825-gov_long_yan-085d3b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

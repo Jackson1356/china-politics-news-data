@@ -1,0 +1,92 @@
+{
+  "id": "20261031-beijing_daily-1535a6",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/31/12012967.shtml",
+  "title_zh": "中国人民银行调整公开市场操作机制",
+  "title_en": "PBOC Adjusts Open Market Operations to Refine Short-Term Rate Framework",
+  "summary_zh": "10月30日，中国人民银行发布公告，自11月2日起调整公开市场操作机制：每个工作日开展隔夜逆回购招标，7天期逆回购改为固定数量、利率招标。",
+  "summary_en": "On Oct 30, the People's Bank of China announced changes to its open market operations from Nov 2, adding daily overnight reverse repo auctions at 1.25% and shifting 7-day operations to fixed-quantity, rate-based tenders.",
+  "body_zh": "据中国人民银行网站，10月30日，中国人民银行发布公告称，为进一步优化短端利率调控机制，从2026年11月2日（下周一）起，公开市场操作进行调整。\n一、每个工作日开展隔夜逆回购操作招标，采用固定利率、数量招标。目前操作利率为1.25%。\n二、7天期逆回购操作调整为固定数量、利率招标、多重价位中标，主要在税期、月末等时点开展。\n三、原在7天期逆回购操作利率基础上加减点的其他工具，包括临时正/逆回购、境外央行类机构回购工具等，均调整为在隔夜逆回购操作利率基础上加减点，加减点幅度不变。\n10月19日，央行行长潘功胜表示，将推动贷款利率定价基准改革。“过去几十年来，贷款基准利率、贷款市场报价利率等在我国不同时期较好发挥了贷款定价基准作用。近期，一些金融机构在人民银行指导下，同客户协商一致，引入银行间隔夜回购利率等市场利率作为浮动利率贷款的定价基准，较好满足了市场多元化的贷款定价需求，也有利于提升货币政策传导效率。”（此前报道）\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-31T12:00:00+00:00",
+  "event_date": "2026-10-30",
+  "ingested_at": "2026-10-31T10:28:09Z",
+  "topic": "economy",
+  "keywords": [
+    "货币政策",
+    "公开市场操作",
+    "利率调控机制"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "货币政策",
+      "name_en": "Monetary Policy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "公开市场操作",
+      "name_en": "Open Market Operations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "利率调控机制",
+      "name_en": "Interest Rate Framework"
+    },
+    {
+      "kind": "person",
+      "id": "pan-gongsheng",
+      "name_zh": "潘功胜",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "货币政策",
+    "公开市场操作",
+    "利率调控机制",
+    "潘功胜"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "Monetary Policy",
+    "Open Market Operations",
+    "Interest Rate Framework"
+  ],
+  "entities": {
+    "politicians": [
+      "pan-gongsheng"
+    ],
+    "institutions": [
+      "PBOC"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261031-beijing_daily-1535a6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "20261121-chinanews_gn-99ff13",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-21/10735781.shtml",
+  "title_zh": "特朗普盛赞深圳城市建设：干净整洁、路面平整",
+  "title_en": "Trump Praises Shenzhen's Urban Development at White House Press Conference",
+  "summary_zh": "当地时间11月20日，美国总统特朗普在白宫记者会上高度评价深圳城市建设，称其干净整洁、在短时间内建成，并批评美国部分城市治理。",
+  "summary_en": "On Nov 20 local time, US President Trump praised Shenzhen's urban development at a White House press conference, calling it spotless and built in a short time, while criticizing conditions in some US cities.",
+  "body_zh": "特朗普盛赞深圳城市建设：干净整洁、路面平整，看看人家，再看看我们自己……\n当地时间11月20日，美国总统特朗普在白宫举行记者会。会上，特朗普高度评价了亚太经合组织第三十三次领导人非正式会议的主办城市深圳。\n特朗普盛赞深圳，称整座城市干净整洁，一尘不染，而这一切都是在短时间内建成的，40多年前这里还只是个渔村。他同时表示，美国一些城市的发展与治理“让人汗颜”，城市脏乱，道路坑洼，轨道也破旧，“看着很恶心”，犯罪率也很高。\n国内新闻精选：\n- 2026年11月20日 21:05:09\n- 2026年11月20日 15:45:03\n- 2026年11月19日 20:40:37\n- 2026年11月19日 19:45:56\n- 2026年11月19日 14:03:39\n- 2026年11月19日 12:04:43\n- 2026年11月19日 10:41:32\n- 2026年11月19日 10:07:26\n- 2026年11月19日 06:03:33\n- 2026年11月18日 22:55:01",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-20",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "城市建设",
+    "城市治理",
+    "亚太经合组织"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Donald Trump"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市建设",
+      "name_en": "Urban Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市治理",
+      "name_en": "Urban Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    }
+  ],
+  "tags_zh": [
+    "特朗普",
+    "深圳",
+    "城市建设",
+    "城市治理",
+    "亚太经合组织"
+  ],
+  "tags_en": [
+    "Donald Trump",
+    "Shenzhen",
+    "Urban Construction",
+    "Urban Governance",
+    "APEC"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261121-chinanews_gn-99ff13",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

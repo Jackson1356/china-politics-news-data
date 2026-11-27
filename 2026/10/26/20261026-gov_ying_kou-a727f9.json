@@ -1,0 +1,129 @@
+{
+  "id": "20261026-gov_ying_kou-a727f9",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001008/20261026/7268531d-1d91-4030-a403-17afb9954a45.html",
+  "title_zh": "李军曹阳会见中铁九局集团有限公司党委副书记、总经理岳志军",
+  "title_en": "Li Jun and Cao Yang Meet Yue Zhijun, General Manager of China Railway No.9 Group",
+  "summary_zh": "10月23日，营口市委书记李军、代市长曹阳会见中铁九局总经理岳志军，就深化央地战略合作、推进城市更新和港口集疏运项目深入交流。",
+  "summary_en": "On Oct 23, Yingkou Party Secretary Li Jun and acting mayor Cao Yang met Yue Zhijun of China Railway No.9 Group to discuss deeper central-local cooperation in urban renewal and port logistics.",
+  "body_zh": "10月23日，市委书记李军，市委副书记、代市长曹阳会见中铁九局集团有限公司党委副书记、总经理岳志军一行，就进一步深化央地战略合作深入交流。\n岳志军对营口市委、市政府给予企业的支持和信任表示感谢。他说，中铁九局高度重视与营口的战略合作，看好营口独特的区位优势、厚实的产业基础和向好的发展态势。下一步，企业将在原有合作基础上，进一步深化与营口全方位战略合作，精准对接地方发展所需，持续加大资源投入，聚焦城市更新、港口集疏运等领域谋划实施一批带动性强的优质项目，为营口全面振兴注入央企动能。\n市领导韩冰、李人杰参加会见。",
+  "image_url": null,
+  "published_at": "2026-10-26T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-27T09:41:08Z",
+  "topic": "economy",
+  "keywords": [
+    "央地战略合作",
+    "城市更新",
+    "港口集疏运"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "李军",
+      "name_en": "Li Jun"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "曹阳",
+      "name_en": "Cao Yang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "岳志军",
+      "name_en": "Yue Zhijun"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "营口市委",
+      "name_en": "Yingkou Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN-YK",
+      "name_zh": "营口",
+      "name_en": "Yingkou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "央地战略合作",
+      "name_en": "Central-Local Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "城市更新",
+      "name_en": "Urban Renewal"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "港口集疏运",
+      "name_en": "Port Collection and Distribution"
+    }
+  ],
+  "tags_zh": [
+    "李军",
+    "曹阳",
+    "岳志军",
+    "营口市委",
+    "营口",
+    "央地战略合作",
+    "城市更新",
+    "港口集疏运"
+  ],
+  "tags_en": [
+    "Li Jun",
+    "Cao Yang",
+    "Yue Zhijun",
+    "Yingkou Municipal Party Committee",
+    "Yingkou",
+    "Central-Local Strategic Cooperation",
+    "Urban Renewal",
+    "Port Collection and Distribution"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "曹阳"
+      },
+      {
+        "id": null,
+        "name_zh": "李人杰"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-LN-YK"
+    ],
+    "companies": [
+      {
+        "name_zh": "营口市委",
+        "name_en": "Yingkou Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261026-gov_ying_kou-a727f9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

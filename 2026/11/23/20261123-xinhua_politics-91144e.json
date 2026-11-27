@@ -1,0 +1,127 @@
+{
+  "id": "20261123-xinhua_politics-91144e",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261123/30c10710faee445d98aaefd8936b56d3/c.html",
+  "title_zh": "第六批鼓励研发申报儿童药品清单公布 共18个品种",
+  "title_en": "China Releases Sixth List of Children's Medicines Encouraged for R&D, Covering 18 Varieties",
+  "summary_zh": "2026年11月23日，国家卫生健康委等四部门公布第六批鼓励研发申报儿童药品清单，共18个品种，覆盖抗肿瘤、心血管、呼吸及血液系统等领域。",
+  "summary_en": "On Nov 23, 2026, China's National Health Commission and three other departments released the sixth list of children's medicines encouraged for R&D, covering 18 varieties in areas such as antitumor, cardiovascular, respiratory and blood system treatments.",
+  "body_zh": "新华社北京11月23日电（记者李恒）记者23日从国家卫生健康委获悉，2026年，国家卫生健康委、工业和信息化部、国家医保局和国家药监局通过组织专家遴选、社会公示等，研究制定《第六批鼓励研发申报儿童药品清单》。第六批清单有18个品种，涉及27个规格、8种剂型，覆盖抗肿瘤、心血管、呼吸及血液系统等领域治疗用药。\n据了解，2016年以来，国家卫生健康委会同有关部门，先后制定并发布了五批含144种药品的鼓励研发申报儿童药品清单。目前，其中的54种药品已获批上市，覆盖消化道和新陈代谢用药、神经系统用药、心血管系统用药等11个治疗领域，其中超30%是罕见病用药。\n下一步，国家卫生健康委将会同有关部门进一步健全儿童用药政策，不断丰富儿童适宜药品的品种、剂型和规格，全面提高儿科供药用药能力。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "儿童用药",
+    "药品研发",
+    "罕见病用药"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NHC",
+      "name_zh": "国家卫生健康委",
+      "name_en": "National Health Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家医保局",
+      "name_en": "National Healthcare Security Administration"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家药监局",
+      "name_en": "National Medical Products Administration"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "儿童用药",
+      "name_en": "Children's Medication"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "药品研发",
+      "name_en": "Drug Research and Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "罕见病用药",
+      "name_en": "Rare Disease Drugs"
+    }
+  ],
+  "tags_zh": [
+    "国家卫生健康委",
+    "工业和信息化部",
+    "国家医保局",
+    "国家药监局",
+    "北京",
+    "儿童用药",
+    "药品研发",
+    "罕见病用药"
+  ],
+  "tags_en": [
+    "National Health Commission",
+    "Ministry of Industry and Information Technology",
+    "National Healthcare Security Administration",
+    "National Medical Products Administration",
+    "Beijing",
+    "Children's Medication",
+    "Drug Research and Development",
+    "Rare Disease Drugs"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NHC",
+      "MIIT"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "国家医保局",
+        "name_en": "National Healthcare Security Administration"
+      },
+      {
+        "name_zh": "国家药监局",
+        "name_en": "National Medical Products Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261123-xinhua_politics-91144e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

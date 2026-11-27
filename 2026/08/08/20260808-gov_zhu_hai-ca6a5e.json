@@ -1,0 +1,96 @@
+{
+  "id": "20260808-gov_zhu_hai-ca6a5e",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3931212.html",
+  "title_zh": "市政协召开党组会议暨十届七十二次主席会议 发挥政协职能优势 服务珠海现代化建设",
+  "title_en": "Zhuhai CPPCC Holds Party Group Meeting and 72nd Chairman's Meeting to Serve Modernization",
+  "summary_zh": "8月7日，珠海市政协召开党组会议暨主席会议，学习贯彻习近平总书记重要讲话精神，强调发挥政协职能优势服务珠海现代化建设。",
+  "summary_en": "On August 7, Zhuhai CPPCC held its Party Group and Chairman's meetings to study Xi Jinping's important speech and emphasize serving Zhuhai's modernization through CPPCC functions.",
+  "body_zh": "市政协召开党组会议暨十届七十二次主席会议 发挥政协职能优势 服务珠海现代化建设\n8月7日，市政协召开党组会议暨十届七十二次主席会议，深入学习贯彻习近平总书记在中共中央政治局会议、党外人士座谈会上的重要讲话精神，传达学习《中华人民共和国民族团结进步促进法》、全省上半年经济形势分析会暨省委财经委会议、省委统一战线工作领导小组会议及市委常委会会议精神，研究贯彻落实意见。市政协党组书记、主席王开洲主持会议并讲话。\n会议强调，要深入学习贯彻习近平总书记重要讲话精神，充分认识上半年珠海经济社会发展稳中有进，经济指标向好、产业发展向新、城市发展向上、区域协同向深、民生社会向优的良好态势。要认真落实市委“全年都要加力”的要求，发挥专门协商机构作用，围绕全市经济工作重点任务，持续深化研究，提出对策建议，为珠海实现“十五五”良好开局贡献政协智慧和力量。要发挥政协职能优势，深化团结联谊，加强与各族各界代表人士沟通联系，把方方面面的积极因素汇聚起来，服务珠海现代化建设。",
+  "image_url": null,
+  "published_at": "2026-08-08T12:00:00+00:00",
+  "event_date": "2026-08-07",
+  "ingested_at": "2026-08-08T05:18:54Z",
+  "topic": "party",
+  "keywords": [
+    "政协工作",
+    "经济发展",
+    "现代化建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经济发展",
+      "name_en": "Economic Development"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "现代化建设",
+      "name_en": "Modernization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "珠海",
+    "政协工作",
+    "经济发展",
+    "现代化建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Zhuhai",
+    "CPPCC Work",
+    "Economic Development",
+    "Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王开洲"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260808-gov_zhu_hai-ca6a5e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

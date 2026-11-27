@@ -1,0 +1,97 @@
+{
+  "id": "20260807-gov_yan_cheng-5b2364",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yancheng.gov.cn/art/2026/8/7/art_49_4445291.html",
+  "title_zh": "严汉平吴炜会见金鹰集团中国纤维业务总裁张文涛",
+  "title_en": "Yan Hanping and Wu Wei Meet with Zhang Wentao, President of RGE's China Fiber Business",
+  "summary_zh": "8月5日下午，盐城市委书记严汉平、代市长吴炜会见金鹰集团中国纤维业务总裁张文涛，双方就深化产业合作进行交流。",
+  "summary_en": "On August 5, Yancheng Party Secretary Yan Hanping and acting Mayor Wu Wei met with Zhang Wentao, President of RGE's China Fiber Business, to discuss deepening industrial cooperation.",
+  "body_zh": "8月5日下午，市委书记严汉平，市委副书记、代市长吴炜在盐会见金鹰集团中国纤维业务总裁张文涛，双方就深化产业合作、推进协同发展进行交流。\n严汉平、吴炜对张文涛一行表示欢迎，对金鹰集团为盐城发展作出的贡献表示感谢。严汉平说，金鹰集团发展战略布局与我市产业发展方向高度契合，双方合作基础扎实、成果丰硕。做好为企服务是优化营商环境的应有之义，凝聚发展动能的现实需求。希望双方坚定信心、齐心协力，按照既定合作内容，着力破解堵点卡点，加快推进合作项目早落地、早投产、早达效，携手实现共赢发展。我们将持续打造市场化、法治化、国际化一流营商环境，为企业在盐发展提供良好服务保障。\n张文涛感谢盐城市委、市政府一直以来给予金鹰集团在盐项目的关心支持，并简要介绍集团产业发展、项目进展等情况。他表示，集团对盐城发展始终充满信心，将深耕盐城市场，拓展合作领域，深度融入本地产业链、创新链，带动更多上下游企业集聚发展，推动双方机遇共享、优势互补，携手提升盐城新材料产业的整体竞争力，为经济社会高质量发展注入新动能。\n赛得利集团总裁刘涛、金鹰集团中国区副总裁马康参加。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-05",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "industry",
+  "keywords": [
+    "产业合作",
+    "营商环境"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "yan-hanping-yancheng",
+      "name_zh": "严汉平",
+      "name_en": "Yan Hanping"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-yancheng",
+      "name_zh": "吴炜",
+      "name_en": "Wu Wei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YC",
+      "name_zh": "盐城",
+      "name_en": "Yancheng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    }
+  ],
+  "tags_zh": [
+    "严汉平",
+    "吴炜",
+    "盐城",
+    "产业合作",
+    "营商环境"
+  ],
+  "tags_en": [
+    "Yan Hanping",
+    "Wu Wei",
+    "Yancheng",
+    "Industrial Cooperation",
+    "Business Environment"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-wei-yancheng",
+      "yan-hanping-yancheng",
+      {
+        "id": null,
+        "name_zh": "马康"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260807-gov_yan_cheng-5b2364",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

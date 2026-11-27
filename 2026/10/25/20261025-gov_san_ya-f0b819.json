@@ -1,0 +1,97 @@
+{
+  "id": "20261025-gov_san_ya-f0b819",
+  "source": "gov_san_ya",
+  "source_name_zh": "三亚市政府网",
+  "source_name_en": "三亚 Government Portal",
+  "source_media_id": "gov-cn-prefecture-san_ya",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HI",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.sanya.gov.cn/sanyasite/tpxw/202610/51bb02748a8748c48c77e7356de36822.shtml",
+  "title_zh": "三亚开展周末卫生大扫除活动",
+  "title_en": "Sanya Launches Weekend Sanitation Cleanup Campaign",
+  "summary_zh": "10月24日，三亚启动为期两天的全市周末卫生大扫除活动，市委书记王祺扬、市长陈希等带队深入社区清理卫生死角，防控蚊媒孳生。",
+  "summary_en": "On October 24, Sanya launched a two-day citywide weekend sanitation cleanup, with Party Secretary Wang Qiyang and Mayor Chen Xi leading officials into communities to clear hygiene blind spots and curb mosquito breeding.",
+  "body_zh": "首页>新闻>图片新闻\n三亚开展周末卫生大扫除活动\n王祺扬陈希邹家明林鹏参加\n10月24日，为期两天的全市周末卫生大扫除活动启动。省委常委、市委书记王祺扬，市委副书记、市长陈希，市人大常委会党组书记邹家明，市政协党组书记林鹏等，与市直机关、企事业单位干部职工深入社区（村）开展集中清理整治，以实际行动示范带动广大市民群众积极参与“清洁家园”行动。\n当天上午，王祺扬、陈希、邹家明、林鹏等分别来到吉阳区海罗社区、南新社区、卓达社区、东河社区、抱坡村等地，了解常态化卫生保洁责任落实、日常巡查和垃圾清运情况。他们走进背街小巷、房前屋后，查看易积水点位，动手翻盆倒罐、清理积水、整治卫生死角，从源头消除蚊媒孳生环境。同时，向周边居民科普蚊媒防控知识，提醒大家及时清理院落积水、做好个人防护。\n王祺扬强调，各区各部门要坚持联防联控、群防群控，常态化开展爱国卫生运动，强化环境卫生整治和蚊媒孳生地清理，持续将蚊媒密度控制在安全水平。要加强健康宣教，提高公众防护意识和能力，推动健康文明生活方式进家庭、进社区，让“人人动手、共建美丽家园”成为社会共识和自觉行动。\n（记者刘少珠/文陈聪聪/图）\n相关稿件",
+  "image_url": null,
+  "published_at": "2026-10-25T12:00:00+00:00",
+  "event_date": "2026-10-24",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "welfare",
+  "keywords": [
+    "爱国卫生运动",
+    "蚊媒防控",
+    "环境卫生整治"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qiyang",
+      "name_zh": "王祺扬",
+      "name_en": "Wang Qiyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "爱国卫生运动",
+      "name_en": "Patriotic Health Campaign"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "蚊媒防控",
+      "name_en": "Mosquito-borne Disease Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "环境卫生整治",
+      "name_en": "Environmental Sanitation"
+    }
+  ],
+  "tags_zh": [
+    "王祺扬",
+    "三亚",
+    "爱国卫生运动",
+    "蚊媒防控",
+    "环境卫生整治"
+  ],
+  "tags_en": [
+    "Wang Qiyang",
+    "Sanya",
+    "Patriotic Health Campaign",
+    "Mosquito-borne Disease Control",
+    "Environmental Sanitation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-qiyang",
+      {
+        "id": null,
+        "name_zh": "林鹏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261025-gov_san_ya-f0b819",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

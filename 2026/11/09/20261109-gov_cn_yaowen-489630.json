@@ -1,0 +1,114 @@
+{
+  "id": "20261109-gov_cn_yaowen-489630",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085619.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团报告会在广东举行",
+  "title_en": "Central Lecture Team Holds Report Meeting in Guangdong on the Fifth Plenary Session of the 20th CPC Central Committee",
+  "summary_zh": "11月9日，中央宣讲团成员、中共中央政治局委员、广东省委书记黄坤明在广州作宣讲报告，阐释党的二十届五中全会精神及全面从严治党要求。",
+  "summary_en": "On November 9, Huang Kunming, a member of the CPC Central Committee Political Bureau and Guangdong Party Secretary, delivered a lecture in Guangzhou explaining the spirit of the Fifth Plenary Session of the 20th CPC Central Committee and its requirements on full and rigorous Party self-governance.",
+  "body_zh": "新华社广州11月9日电（记者李雄鹰）学习贯彻党的二十届五中全会精神中央宣讲团11月9日在广东省宣讲。中央宣讲团成员、中共中央政治局委员、广东省委书记黄坤明作宣讲报告。\n报告会上，黄坤明紧紧围绕学习贯彻习近平总书记在党的二十届五中全会上的重要讲话精神和全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，从深入学习领会全会的重大意义、新时代全面从严治党的伟大成就，全面准确把握持之以恒推进全面从严治党的重要性紧迫性、总体要求、战略任务和重大举措等方面，结合广东实际，对党的二十届五中全会精神作了全面宣讲和深入阐释。\n黄坤明强调，各级党员干部要全面深入学习好贯彻好习近平总书记重要讲话和党的二十届五中全会精神，深学细悟习近平党建思想，始终保持赶考的清醒和坚定，持之以恒推进全面从严治党，为广东在推进中国式现代化建设中走在前列提供坚强保障。\n会前，黄坤明还与广东省委党校师生代表开展面对面交流互动，回答了师生们关于全会议题和重大意义、怎样结合广东实际推进各项事业发展等问题。",
+  "image_url": null,
+  "published_at": "2026-11-09T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会",
+    "全面从严治党",
+    "理论学习宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "huang-kunming",
+      "name_zh": "黄坤明",
+      "name_en": "Huang Kunming"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省委",
+      "name_en": "CPC Guangdong Provincial Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会",
+      "name_en": "Fifth Plenary Session of the 20th CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Full and Rigorous Party Self-Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论学习宣讲",
+      "name_en": "Theory Study and Outreach"
+    }
+  ],
+  "tags_zh": [
+    "黄坤明",
+    "广东省委",
+    "广东",
+    "党的二十届五中全会",
+    "全面从严治党",
+    "理论学习宣讲"
+  ],
+  "tags_en": [
+    "Huang Kunming",
+    "CPC Guangdong Provincial Committee",
+    "Guangdong",
+    "Fifth Plenary Session of the 20th CPC Central Committee",
+    "Full and Rigorous Party Self-Governance",
+    "Theory Study and Outreach"
+  ],
+  "entities": {
+    "politicians": [
+      "huang-kunming"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省委",
+        "name_en": "CPC Guangdong Provincial Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261109-gov_cn_yaowen-489630",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_shuo_zhou",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085619.htm",
+      "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团报告会在广东举行",
+      "published_at": "2026-11-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

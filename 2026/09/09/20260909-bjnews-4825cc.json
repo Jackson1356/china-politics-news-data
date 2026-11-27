@@ -1,0 +1,82 @@
+{
+  "id": "20260909-bjnews-4825cc",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1788938798129278.html",
+  "title_zh": "国务院港澳办：对董建华先生逝世表示沉痛哀悼",
+  "title_en": "State Council's HKMO Office Mourns Death of Tung Chee-hwa",
+  "summary_zh": "9月9日，国务院港澳事务办公室致唁电，对董建华先生逝世表示沉痛哀悼，并对其亲属表示深切慰问。",
+  "summary_en": "On September 9, the Hong Kong and Macao Affairs Office of the State Council sent condolence messages to express deep grief over the death of Mr. Tung Chee-hwa and extend sympathy to his family.",
+  "body_zh": "新京报讯 据国务院港澳事务办公室消息，9月9日，国务院港澳事务办公室致唁电对董建华先生逝世表示沉痛哀悼，并对其亲属表示深切慰问。电文如下：\n唁 电\n董建华先生夫人董赵洪娉女士：\n惊悉董建华先生溘然长逝，谨表沉痛哀悼，并致以深切慰问。\n董建华先生是\"一国两制\"杰出贡献者，著名的爱国人士，杰出的社会活动家，中国共产党的亲密朋友，中国人民政治协商会议第十届、十一届、十二届、十三届全国委员会副主席，香港特别行政区第一任、第二任行政长官。董建华先生一生爱国至诚、爱港至深、胸怀大局、立场坚定，为香港顺利回归与平稳过渡和\"一国两制\"成功实践作出重大的历史性贡献。\n董建华先生担任行政长官时期，是\"一国两制\"由科学构想变为生动实践的开创性阶段。董建华先生全面准确、坚定不移贯彻\"一国两制\"、\"港人治港\"、高度自治方针，全面贯彻落实香港基本法，团结带领特别行政区政府和社会各界同心同德、坚毅奋进，沉着应对、妥善处置了一系列复杂政治、经济和社会难题，坚定维护国家主权、安全、发展利益，保持香港社会大局稳定，为\"一国两制\"实践行稳致远做了大量卓有成效的工作。董建华先生在卸任行政长官后，继续以国家和香港的根本利益为重，在全国政协副主席岗位上履职尽责，以宽广的胸怀，支持历任行政长官和历届特区政府的工作，为国家发展和\"一国两制\"事业继续贡献力量。董建华先生坚定支持国家改革开放和现代化建设，高度重视发挥香港独特优势，积极推动香港加强同祖国内地的交流合作，充分利用深厚人脉和广泛影响力，广交海内外朋友，为促进中国与世界各国的交往发挥了重要作用。\n斯人已逝，风范长存。董建华先生的一生是爱国的一生，奋斗的一生，奉献的一生。\"香港好，国家好；国家好，香港更好\"是董建华先生一生的名言，也是毕生贡献国家、服务香港的生动写照，为世人树立了光辉的榜样，永远值得我们尊敬和怀念。\n望节哀珍重！",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-09",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "party",
+  "keywords": [
+    "一国两制",
+    "香港事务"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "董建华",
+      "name_en": "Tung Chee-hwa"
+    },
+    {
+      "kind": "institution",
+      "id": "HKMAO",
+      "name_zh": "国务院港澳事务办公室",
+      "name_en": "Hong Kong and Macao Affairs Office of the State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一国两制",
+      "name_en": "One Country, Two Systems"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "香港事务",
+      "name_en": "Hong Kong Affairs"
+    }
+  ],
+  "tags_zh": [
+    "董建华",
+    "国务院港澳事务办公室",
+    "一国两制",
+    "香港事务"
+  ],
+  "tags_en": [
+    "Tung Chee-hwa",
+    "Hong Kong and Macao Affairs Office of the State Council",
+    "One Country, Two Systems",
+    "Hong Kong Affairs"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "HKMAO"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260909-bjnews-4825cc",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

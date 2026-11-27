@@ -1,0 +1,93 @@
+{
+  "id": "20260812-gov_cn_yaowen-c3aff4",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077948.htm",
+  "title_zh": "各地各部门积极应对强降雨天气",
+  "title_en": "Regions and Departments Actively Respond to Heavy Rainfall",
+  "summary_zh": "受“白海豚”残余环流影响，中东部出现强降雨，河南、湖北、北京等地积极应对，国家防总将河南防汛应急响应提升至三级。",
+  "summary_en": "Heavy rain caused by the residual circulation of Typhoon Baiting hit central and eastern China. Henan, Hubei and Beijing took active measures including rescue, drainage and evacuation; China's national flood control authority raised the emergency response for Henan to Level III.",
+  "body_zh": "受“白海豚”残余环流影响，我国中东部地区出现强降雨，各地各部门采取多种措施积极应对。\n连日来，河南多地出现持续性强降雨，洛阳、郑州、南阳、许昌等地局地出现特大暴雨。今天（8月12日）早晨，河南许昌禹州市郑湾村突发山洪，一名村民被洪水冲走，情急之下抱紧大树避险。救援人员借助安全绳顶着水流阻力，将她成功营救上岸。\n在郑州，连续强降雨导致部分低洼路段积水，城管、市政等部门日夜值守，及时进行排水作业。今天，途经国铁集团郑州局管辖区段的多趟列车临时停运，郑州局对陇海线、京广线等管内普速铁路强降雨区段，实行了降速运行等措施。国家防总、应急管理部今天将针对河南省的防汛四级应急响应提升至三级。\n受持续强降雨影响，湖北襄阳部分市区县出现水库超汛限水位、道路损毁、房屋被淹等险情，当地加紧开展水库坝体防渗加固、危险区域群众转移等各项工作。截至今天下午3时，襄阳全市累计转移撤离人员14100多人。\n从昨天下午开始，北京开始出现明显降雨，目前全市仍处于暴雨橙色预警。截至今天下午3时，北京排水部门累计出动人员2600多人前置值守，全力保障城市运行安全，并将77条地势较高的道路，作为紧急避险停车区域向市民开放。\n中央气象台预计，未来三天，东北到江南北部多地将出现强降雨，局地降雨量可达500毫米以上，公众需及时查看天气预警预报信息。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-13T05:58:30Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛救灾",
+    "应急响应",
+    "强降雨应对"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛救灾",
+      "name_en": "Flood Control and Disaster Relief"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急响应",
+      "name_en": "Emergency Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "强降雨应对",
+      "name_en": "Response to Heavy Rainfall"
+    }
+  ],
+  "tags_zh": [
+    "应急管理部",
+    "河南",
+    "防汛救灾",
+    "应急响应",
+    "强降雨应对"
+  ],
+  "tags_en": [
+    "Ministry of Emergency Management",
+    "Henan",
+    "Flood Control and Disaster Relief",
+    "Emergency Response",
+    "Response to Heavy Rainfall"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-gov_cn_yaowen-c3aff4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

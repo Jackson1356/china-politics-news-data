@@ -1,0 +1,93 @@
+{
+  "id": "20261121-gmw-7f238e",
+  "source": "gmw",
+  "source_name_zh": "光明网 时政",
+  "source_name_en": "Guangming Daily Politics",
+  "source_media_id": "guangming_daily",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://politics.gmw.cn/2026-11/21/content_39113334.htm",
+  "title_zh": "习近平在深圳同普京、特朗普举行中俄美元首会晤",
+  "title_en": "Xi Jinping Holds First China-Russia-US Summit with Putin and Trump in Shenzhen",
+  "summary_zh": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤，会后三方发表《中俄美元首和平宣言》。",
+  "summary_en": "On the afternoon of Nov 19, President Xi Jinping met with Russian President Putin and US President Trump in Shenzhen for the first-ever China-Russia-US summit, which ended with a trilateral peace declaration.",
+  "body_zh": "朋友圈\n11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。\n这是中俄美三国最高领导人有史以来首次聚首，具有开创性意义。习近平指出，大国如何正确相处、共同为世界和平托底，是必须答好的时代课题。会后，三国发表《中俄美元首和平宣言》。以对话聚共识，以担当迎挑战，以合作促和平，三国元首会晤播下的种子，必将生根发芽、开花结果。\n阅读剩余全文（）",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "foreign",
+  "keywords": [
+    "大国关系",
+    "世界和平",
+    "战略稳定"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "大国关系",
+      "name_en": "Major-Power Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "世界和平",
+      "name_en": "World Peace"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略稳定",
+      "name_en": "Strategic Stability"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "大国关系",
+    "世界和平",
+    "战略稳定"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "Major-Power Relations",
+    "World Peace",
+    "Strategic Stability"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261121-gmw-7f238e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

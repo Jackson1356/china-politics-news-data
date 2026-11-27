@@ -1,0 +1,125 @@
+{
+  "id": "20260911-xinhua_xj-94145a",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xj.news.cn/20260911/cc2d9915cabe43ddbd6c8a7edc89f577/c.html",
+  "title_zh": "陈小江会见中国国民党前主席洪秀柱",
+  "title_en": "Chen Xiaojiang Meets with Former KMT Chairman Hung Hsiu-chu",
+  "summary_zh": "新疆维吾尔自治区党委书记陈小江9月10日在乌鲁木齐会见中国国民党前主席洪秀柱，双方希望推动台湾与新疆加强交流互动与互利合作。",
+  "summary_en": "Chen Xiaojiang, Party Secretary of Xinjiang, met with former KMT Chairman Hung Hsiu-chu in Urumqi on Sept 10, with both sides pledging to boost exchanges and mutually beneficial cooperation between Taiwan and Xinjiang.",
+  "body_zh": "陈小江会见中国国民党前主席洪秀柱\n努尔兰·阿不都满金参加会见\n自治区党委书记陈小江9月10日在乌鲁木齐会见了中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱。\n自治区政协主席努尔兰·阿不都满金参加会见。\n洪秀柱表示，这是我第三次来到新疆，每次来都留下十分深刻的印象，都感受到中华民族大家庭手足相亲、守望相助的深厚情谊。此次来新疆出席第六届“携手圆梦——两岸同胞交流研讨活动”，希望借此机会进一步推动台湾与新疆加强交流互动，促进两地年轻人加深了解，助力深化双方各领域互利合作。新疆各方面优势得天独厚，相信在中国式现代化进程中一定会取得更大发展成就、开创更加美好明天。\n木合亚提·加尔木哈买提，中央台办有关同志，自治区有关单位负责同志参加会见。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": "2026-09-10",
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "party",
+  "keywords": [
+    "两岸交流",
+    "携手圆梦活动",
+    "互利合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-xiaojiang",
+      "name_zh": "陈小江",
+      "name_en": "Chen Xiaojiang"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "洪秀柱",
+      "name_en": "Hung Hsiu-chu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ-WLMQ",
+      "name_zh": "乌鲁木齐",
+      "name_en": "Urumqi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸交流",
+      "name_en": "Cross-Strait Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "携手圆梦活动",
+      "name_en": "Hand in Hand for a Shared Dream Event"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "互利合作",
+      "name_en": "Mutually Beneficial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金参加",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "陈小江",
+    "洪秀柱",
+    "新疆",
+    "乌鲁木齐",
+    "两岸交流",
+    "携手圆梦活动",
+    "互利合作",
+    "金参加"
+  ],
+  "tags_en": [
+    "Chen Xiaojiang",
+    "Hung Hsiu-chu",
+    "Xinjiang",
+    "Urumqi",
+    "Cross-Strait Exchanges",
+    "Hand in Hand for a Shared Dream Event",
+    "Mutually Beneficial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-xiaojiang",
+      {
+        "id": null,
+        "name_zh": "金参加"
+      },
+      {
+        "id": null,
+        "name_zh": "洪秀柱"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ",
+      "CN-XJ-WLMQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260911-peoples_xj-05fe9c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

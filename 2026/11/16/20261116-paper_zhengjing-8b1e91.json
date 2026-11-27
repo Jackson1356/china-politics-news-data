@@ -1,0 +1,128 @@
+{
+  "id": "20261116-paper_zhengjing-8b1e91",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_34490045",
+  "title_zh": "暨南大学建校120周年高质量发展大会举行，李干杰出席并讲话",
+  "title_en": "Li Ganjie Attends Jinan University's 120th Anniversary Conference on High-Quality Development",
+  "summary_zh": "11月16日，暨南大学建校120周年高质量发展大会在广州举行，会上宣读了习近平总书记的贺信，中央统战部部长李干杰出席并讲话。",
+  "summary_en": "On November 16, Jinan University held a conference in Guangzhou marking its 120th anniversary and high-quality development, where Xi Jinping's congratulatory letter was read and Li Ganjie, head of the United Front Work Department, delivered a speech.",
+  "body_zh": "暨南大学建校120周年高质量发展大会举行，李干杰出席并讲话\n新华社\n暨南大学建校120周年高质量发展大会16日在广州举行。会上宣读了习近平总书记的贺信。中共中央政治局委员、中央统战部部长李干杰出席并讲话。\n李干杰表示，习近平总书记的重要贺信，深刻阐明新起点上暨南大学建设发展的方向和要求，充分体现了习近平总书记对统一战线和华侨教育事业的高度重视，为新征程上推动学校高质量发展提供了根本遵循。\n李干杰表示，新征程上，暨南大学要深入学习贯彻习近平党建思想和党的二十届五中全会精神，以习近平总书记重要贺信精神为指引，坚持党的领导，把牢正确办学方向，坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂；立足侨校特色，深入实施“侨校+名校”发展战略；勇担时代使命，积极服务国家重大战略和地方经济社会发展；加强自身建设，持之以恒推进全面从严治党，努力锻造政治素质过硬、业务能力精湛、育人水平高超、具有国际竞争力的教师队伍，为凝聚侨心侨力、推进中国式现代化作出新贡献。\n中央和国家机关有关部门负责同志、广东省有关负责同志，有关高校负责人、两院院士和专家学者代表，暨南大学校董、校友、师生代表等参加大会。",
+  "image_url": null,
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "party",
+  "keywords": [
+    "华侨教育",
+    "统一战线",
+    "高校高质量发展"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-ganjie",
+      "name_zh": "李干杰",
+      "name_en": "Li Ganjie"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "暨南大学",
+      "name_en": "Jinan University"
+    },
+    {
+      "kind": "institution",
+      "id": "CCUFWD",
+      "name_zh": "中央统战部",
+      "name_en": "United Front Work Department of the CPC Central Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-GZ",
+      "name_zh": "广州",
+      "name_en": "Guangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "华侨教育",
+      "name_en": "Overseas Chinese Education"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校高质量发展",
+      "name_en": "High-Quality Development of Universities"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李干杰",
+    "暨南大学",
+    "中央统战部",
+    "广州",
+    "华侨教育",
+    "统一战线",
+    "高校高质量发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Li Ganjie",
+    "Jinan University",
+    "United Front Work Department of the CPC Central Committee",
+    "Guangzhou",
+    "Overseas Chinese Education",
+    "United Front Work",
+    "High-Quality Development of Universities"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "li-ganjie",
+      {
+        "id": null,
+        "name_zh": "方向和"
+      }
+    ],
+    "institutions": [
+      "CCUFWD"
+    ],
+    "locations": [
+      "CN-GD-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "暨南大学",
+        "name_en": "Jinan University"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261116-paper_zhengjing-8b1e91",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

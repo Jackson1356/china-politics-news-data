@@ -1,0 +1,74 @@
+{
+  "id": "20261118-peoples_sx-29184d",
+  "source": "peoples_sx",
+  "source_name_zh": "人民网 山西",
+  "source_name_en": "People's Daily Shanxi",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sx.people.com.cn/n2/2026/1118/c352664-41753713.html",
+  "title_zh": "神舟二十四号计划近日择机实施发射",
+  "title_en": "Shenzhou-24 Mission Scheduled for Launch in Coming Days",
+  "summary_zh": "11月17日，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体转运至酒泉发射区，计划近日择机实施发射。",
+  "summary_en": "On November 17, the Shenzhou-24 crewed spacecraft and its Long March-2F Y24 rocket were transferred to the launch area in Jiuquan, with launch planned in the coming days.",
+  "body_zh": "神舟二十四号计划近日择机实施发射\n船箭组合体转运至发射区\n新华社酒泉11月17日电 （李国利、邓孟）神舟二十四号计划近日择机实施发射，船箭组合体17日转运至发射区。\n据中国载人航天工程办公室介绍，17日，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作，计划近日择机实施发射。\n《 人民日报 》（ 2026年11月18日 06 版）",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "industry",
+  "keywords": [
+    "载人航天",
+    "航天发射"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-JQ",
+      "name_zh": "酒泉",
+      "name_en": "Jiuquan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Crewed Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航天发射",
+      "name_en": "Space Launch"
+    }
+  ],
+  "tags_zh": [
+    "酒泉",
+    "载人航天",
+    "航天发射"
+  ],
+  "tags_en": [
+    "Jiuquan",
+    "Crewed Spaceflight",
+    "Space Launch"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS-JQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261117-chinanews_gn-8a513c",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

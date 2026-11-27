@@ -1,0 +1,101 @@
+{
+  "id": "20260921-gov_tai_zhou-b44b4c",
+  "source": "gov_tai_zhou",
+  "source_name_zh": "台州市政府网",
+  "source_name_en": "台州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-tai_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-ZJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_51c2b755cef3491e909b6355ba697627.html",
+  "title_zh": "泰州市第七次党代会举行预备会议和主席团第一次会议",
+  "title_en": "Taizhou's 7th Party Congress Holds Preparatory Meeting and First Presidium Meeting",
+  "summary_zh": "9月20日下午，中国共产党泰州市第七次代表大会举行预备会议和主席团第一次会议，姜冬冬主持，通过大会议程、主席团名单等事项，并强调严明换届纪律。",
+  "summary_en": "On Sept 20, Taizhou's 7th Party Congress held its preparatory and first presidium meetings, chaired by Jiang Dongdong, approving the agenda and stressing strict election discipline.",
+  "body_zh": "泰州要闻\n市第七次党代会举行预备会议和主席团第一次会议\n- 发布日期：2026-09-21 07:35\n- 浏览次数：\n9月20日下午，中国共产党泰州市第七次代表大会举行预备会议，审议通过有关事项。姜冬冬主持会议并讲话。\n会议听取了中国共产党泰州市第七次代表大会筹备工作报告，通过了大会主席团名单、秘书长名单、代表资格审查委员会名单和大会议程，通过了代表资格审查报告。\n与会同志集中观看了警示教育片《清风护航》。\n会议指出，为开好这次大会，市委多次召开专题会议，认真学习全省市县乡换届工作会议和有关政策要求，对严明换届纪律、确保换届风清气正提出严格要求，有力保障了大会各项筹备工作的顺利推进。会议强调，要认真学习“十严禁”换届纪律规定，自觉绷紧换届纪律这根弦，始终做到心有所畏、言有所戒、行有所止。要严格遵守纪律，切实增强政治责任感和使命感，讲政治、顾大局、守规矩，自觉服从组织安排。要切实维护纪律，始终保持“零容忍”高压态势，真正以铁的纪律确保换届风清气正。要严格遵守会风会纪相关要求，确保会议有序高效、顺利召开。\n9月20日下午，中国共产党泰州市第七次代表大会主席团第一次会议举行。姜冬冬主持会议。\n会议听取并审议通过市第七次党代会代表资格审查委员会关于代表资格的审查报告；推举了大会主席团常务委员会委员；通过了大会主席团执行主席分组名单；通过了大会副秘书长名单和秘书处各工作机构负责人名单；通过了大会列席人员名单；通过了大会日程；通过了关于市管党费收缴、使用和管理情况的报告。",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": "2026-09-20",
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届纪律",
+    "党组织建设"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "jiang-dongdong-taizhou-js",
+      "name_zh": "姜冬冬",
+      "name_en": "Jiang Dongdong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-TZ",
+      "name_zh": "泰州",
+      "name_en": "Taizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届纪律",
+      "name_en": "Election Discipline"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党组织建设",
+      "name_en": "Party Organization Building"
+    }
+  ],
+  "tags_zh": [
+    "姜冬冬",
+    "泰州",
+    "党代会",
+    "换届纪律",
+    "党组织建设"
+  ],
+  "tags_en": [
+    "Jiang Dongdong",
+    "Taizhou",
+    "Party Congress",
+    "Election Discipline",
+    "Party Organization Building"
+  ],
+  "entities": {
+    "politicians": [
+      "jiang-dongdong-taizhou-js"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-TZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20260921-gov_tai_zhou-b44b4c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_tai_zhou",
+      "source_tier": 4,
+      "url": "https://www.taizhou.gov.cn/xwzx/tzyw/art/2026/art_51c2b755cef3491e909b6355ba697627.html",
+      "title_zh": "市第七次党代会举行预备会议和主席团第一次会议",
+      "published_at": "2026-09-21T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

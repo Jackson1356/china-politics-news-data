@@ -1,0 +1,88 @@
+{
+  "id": "20261123-beijing_daily-8b43e0",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/23/12040742.shtml",
+  "title_zh": "中方是否认为国际刑事法院存在管辖权滥用？外交部回应",
+  "title_en": "Does China See an Abuse of Jurisdiction by the ICC? Foreign Ministry Responds",
+  "summary_zh": "11月23日，外交部发言人郭嘉昆在例行记者会上回应国际刑事法院对以色列官员发出逮捕令一事，表示中方主张国际刑事法院应秉持客观公正立场、依法行使职权。",
+  "summary_en": "On November 23, Foreign Ministry spokesperson Guo Jiakun told a regular press briefing that China holds that the ICC should maintain an objective and impartial stance and exercise its functions in accordance with the law, responding to a question on arrest warrants for Israeli officials.",
+  "body_zh": "11月23日，外交部发言人郭嘉昆主持例行记者会。\n土耳其阿纳多卢通讯社记者提问，在中俄美元首会晤中，三国领导人宣布认可国家同意原则和尊重国家官员享有豁免至关重要，一致认为国际刑事法院（ICC）以及其他类似机构不得滥用管辖权。国际刑事法院已对以色列总理和国防部长涉嫌战争罪和危害人类罪展开调查，并对他们发出了逮捕令。请问中方是否认为这些命令和行为构成管辖权的滥用？豁免权的界限应当如何界定？\n郭嘉昆表示，在巴勒斯坦问题上，中方支持任何有助于实现公平正义、维护国际法权威的努力。一贯主张国际刑事法院应该秉持客观公正立场，依法行使职权，按照统一标准，全面善意解释和适用《罗马规约》和一般国际法。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "国际刑事法院",
+    "巴勒斯坦问题",
+    "国际法与豁免权"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际刑事法院",
+      "name_en": "International Criminal Court"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巴勒斯坦问题",
+      "name_en": "Palestinian Issue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际法与豁免权",
+      "name_en": "International Law and Immunity"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "国际刑事法院",
+    "巴勒斯坦问题",
+    "国际法与豁免权"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "International Criminal Court",
+    "Palestinian Issue",
+    "International Law and Immunity"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261123-beijing_daily-8b43e0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "20260929-gov_cn_yaowen-50a53a",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082377.htm",
+  "title_zh": "纪念邹家华同志诞辰100周年座谈会在京举行 赵乐际出席",
+  "title_en": "Symposium Marking the 100th Anniversary of Zou Jiahua's Birth Held in Beijing, Zhao Leji Attends",
+  "summary_zh": "9月29日，纪念邹家华同志诞辰100周年座谈会在北京举行，中共中央政治局常委、全国人大常委会委员长赵乐际出席座谈会并会前会见其亲属。",
+  "summary_en": "On September 29, a symposium commemorating the 100th anniversary of the birth of Zou Jiahua was held in Beijing. Zhao Leji, member of the CPC Central Committee Political Bureau Standing Committee and Chairman of the NPC Standing Committee, attended and met Zou's relatives beforehand.",
+  "body_zh": "纪念邹家华同志诞辰100周年座谈会在京举行\n赵乐际出席\n9月29日，纪念邹家华同志诞辰100周年座谈会在北京举行。中共中央政治局常委、全国人大常委会委员长赵乐际出席座谈会，并在会前会见了邹家华同志亲属。\n新华社北京9月29日电 纪念邹家华同志诞辰100周年座谈会29日在京举行。中共中央政治局常委、全国人大常委会委员长赵乐际出席座谈会，并在会前会见了邹家华同志亲属。\n邹家华同志是中国共产党的优秀党员，久经考验的忠诚的共产主义战士，无产阶级革命家，中国共产党第十四届中央政治局委员，国务院原副总理，第九届全国人民代表大会常务委员会副委员长。\n中共中央政治局委员、国务院副总理张国清在座谈会上缅怀了邹家华同志光辉的一生，表示要学习他信念坚定、对党忠诚的政治品格，实事求是、求真务实的工作作风，锐意改革、敢于作为的奋斗精神，朴实无华、严于律己的优良风范，为以中国式现代化全面推进强国建设、民族复兴伟业不断作出新的更大贡献。\n全国人大常委会副委员长丁仲礼主持座谈会。",
+  "image_url": null,
+  "published_at": "2026-09-29T12:00:00+00:00",
+  "event_date": "2026-09-29",
+  "ingested_at": "2026-10-01T10:46:43Z",
+  "topic": "party",
+  "keywords": [
+    "纪念活动",
+    "党史",
+    "革命传统"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhao-leji",
+      "name_zh": "赵乐际",
+      "name_en": "Zhao Leji"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "邹家华",
+      "name_en": "Zou Jiahua"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-guoqing",
+      "name_zh": "张国清",
+      "name_en": "Zhang Guoqing"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "全国人大常委会",
+      "name_en": "Standing Committee of the National People's Congress"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪念活动",
+      "name_en": "Commemorative Event"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党史",
+      "name_en": "Party History"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "革命传统",
+      "name_en": "Revolutionary Tradition"
+    }
+  ],
+  "tags_zh": [
+    "赵乐际",
+    "邹家华",
+    "张国清",
+    "全国人大常委会",
+    "北京",
+    "纪念活动",
+    "党史",
+    "革命传统"
+  ],
+  "tags_en": [
+    "Zhao Leji",
+    "Zou Jiahua",
+    "Zhang Guoqing",
+    "Standing Committee of the National People's Congress",
+    "Beijing",
+    "Commemorative Event",
+    "Party History",
+    "Revolutionary Tradition"
+  ],
+  "entities": {
+    "politicians": [
+      "zhao-leji",
+      "zhang-guoqing",
+      {
+        "id": null,
+        "name_zh": "丁仲礼"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "全国人大常委会",
+        "name_en": "Standing Committee of the National People's Congress"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260929-gov_cn_yaowen-50a53a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

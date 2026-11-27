@@ -1,0 +1,96 @@
+{
+  "id": "20261107-gov_lin_zhi-ee8689",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202611/3b00d08ef82144fc99e45dabefd900e2.shtml",
+  "title_zh": "赵鹏：西藏组团参加第九届进博会",
+  "title_en": "Zhao Peng: Tibet Delegation Attends the 9th China International Import Expo",
+  "summary_zh": "2026年11月5日至10日，西藏自治区副主席赵鹏在上海出席第九届进博会开幕式、巡展西藏展馆并参加经贸对接活动。",
+  "summary_en": "From Nov 5 to 10, 2026, Zhao Peng, vice chairman of Tibet Autonomous Region, attended the opening of the 9th CIIE in Shanghai, toured the Tibet pavilion and joined trade matchmaking events.",
+  "body_zh": "西藏组团参加第九届进博会\n赵鹏出席相关活动并巡展\n《西藏日报》（2026年11月07日 第 02 版）\n本报上海11月6日电（记者 耿锐仙 张琪）11月5日至10日，第九届中国国际进口博览会在国家会展中心（上海）举办。自治区副主席赵鹏出席相关活动并巡展。\n进博会期间，赵鹏出席第九届中国国际进口博览会开幕式，参加巡馆巡展、日喀则市产业投资推介会暨日喀则沪藏经贸协作展区揭牌启动仪式、边贸物流和数字经济产业对接会等活动。走进西藏展馆，赵鹏详细参观每个展位，与各参展商频频交流互动，深入了解企业参展特色和经营状况。\n赵鹏指出，进博会是连接全球创新、产业和市场的重要平台。希望各参展企业借助进博会这一国家级平台，广泛开展经贸洽谈、文化交流等活动，积极对外展示西藏新发展、推介特色产品和优势资源，吸引更多国内外投资者了解西藏、投资西藏，以高水平对外开放为高原经济高质量发展持续注入新动能。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "economy",
+  "keywords": [
+    "进博会",
+    "对外开放",
+    "经贸合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "赵鹏",
+      "name_en": "Zhao Peng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "进博会",
+      "name_en": "China International Import Expo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening Up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸合作",
+      "name_en": "Trade and Economic Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "赵鹏",
+    "上海",
+    "进博会",
+    "对外开放",
+    "经贸合作"
+  ],
+  "tags_en": [
+    "Zhao Peng",
+    "Shanghai",
+    "China International Import Expo",
+    "Opening Up",
+    "Trade and Economic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "赵鹏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261107-gov_lin_zhi-ee8689",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

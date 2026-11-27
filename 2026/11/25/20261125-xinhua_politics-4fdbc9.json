@@ -1,0 +1,83 @@
+{
+  "id": "20261125-xinhua_politics-4fdbc9",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261125/dbc2dcf955f14f498ddb92ed6a0049f4/c.html",
+  "title_zh": "神舟二十四号载人飞船发射取得圆满成功",
+  "title_en": "Shenzhou-24 Manned Spaceship Launch a Complete Success",
+  "summary_zh": "11月25日8时18分，神舟二十四号载人飞船在酒泉卫星发射中心由长征二号F遥二十四火箭发射升空，约10分钟后船箭分离并进入预定轨道，航天员乘组状态良好。",
+  "summary_en": "At 08:18 on Nov 25, the Shenzhou-24 manned spaceship lifted off from the Jiuquan Satellite Launch Center atop a Long March-2F Y24 rocket; the craft separated about 10 minutes later and entered its planned orbit with the crew in good condition.",
+  "body_zh": "新华社酒泉11月25日电（记者李国利、刘艺、黄一宸）11月25日08时18分，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射，约10分钟后，飞船与火箭成功分离，进入预定轨道，航天员乘组状态良好，发射取得圆满成功。\n据中国载人航天工程办公室介绍，飞船入轨后，将按照预定程序与空间站组合体进行自主快速交会对接，神舟二十四号航天员乘组将进驻中国空间站。任务期间，将在空间生命与人体研究、微重力物理科学、空间新技术等领域实施多项实（试）验与应用任务，包括多项中外合作科学实验项目。\n这次任务是中国载人航天工程进入空间站应用与发展阶段的第8次载人飞行任务，是工程立项实施以来的第41次发射任务，也是第一次有外籍航天员参与的载人飞行任务。截至目前，已有31名中国航天员、1名外籍航天员，共50人次进入太空执行飞行任务。\n此次任务也是长征系列运载火箭第680次飞行、神舟飞船第24次飞行。\n目前，空间站组合体已进入对接轨道，工作状态良好，满足与神舟二十四号载人飞船交会对接和航天员进驻条件。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "industry",
+  "keywords": [
+    "载人航天",
+    "空间站应用",
+    "国际航天合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-JQ",
+      "name_zh": "酒泉",
+      "name_en": "Jiuquan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Manned Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空间站应用",
+      "name_en": "Space Station Application"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际航天合作",
+      "name_en": "International Space Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "酒泉",
+    "载人航天",
+    "空间站应用",
+    "国际航天合作"
+  ],
+  "tags_en": [
+    "Jiuquan",
+    "Manned Spaceflight",
+    "Space Station Application",
+    "International Space Cooperation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS-JQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261125-xinhua_politics-4fdbc9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

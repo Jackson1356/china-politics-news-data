@@ -1,0 +1,97 @@
+{
+  "id": "20260902-cpcnews-bccc31",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://cpc.people.com.cn/n1/2026/0902/c435113-40790921.html",
+  "title_zh": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+  "title_en": "Xi Jinping Attends 26th SCO Council of Heads of State Meeting and Delivers Important Speech",
+  "summary_zh": "当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话。",
+  "summary_en": "On the morning of September 1, local time, President Xi Jinping attended the 26th Meeting of the Council of Heads of State of the Shanghai Cooperation Organization in Bishkek and delivered an important speech.",
+  "body_zh": "登录人民网通行证 立即注册\n忘记密码？\n当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议。习近平发表题为《推动上海合作组织实现更高质量发展》的重要讲话。\n学习路上\n时习之\n习近平系列重要讲话数据库\n中央文件\n学习宣传贯彻党的二十大精神\n跟着总书记学党史数据库\n中央和国家机关建设模范机关\n言之有理\n学习文选",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "多边外交",
+    "国际合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "比什凯克",
+      "name_en": "Bishkek"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边外交",
+      "name_en": "Multilateral Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "比什凯克",
+    "多边外交",
+    "国际合作"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Bishkek",
+    "Multilateral Diplomacy",
+    "International Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260902-cpcnews-5b7dc6",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_xi_an",
+      "source_tier": null,
+      "url": "http://www.xa.gov.cn/xw/jrgz/2094692683490582529.html",
+      "title_zh": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+      "published_at": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "source": "gov_fu_shun",
+      "source_tier": null,
+      "url": "https://www.fushun.gov.cn/011/20260902/7da6b7fd-d32c-4e66-84bd-ff4fbbd87eb4.html",
+      "title_zh": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+      "published_at": "2026-09-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

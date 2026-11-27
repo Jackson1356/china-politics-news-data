@@ -1,0 +1,88 @@
+{
+  "id": "20260608-gov_cn_yaowen-173d31",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7071438.htm",
+  "title_zh": "教育部部署相关行动促进高校毕业生顺利就业",
+  "title_en": "Ministry of Education Deploys Actions to Promote Employment for College Graduates",
+  "summary_zh": "教育部部署于6月至8月开展2026届高校毕业生就业“百日冲刺”行动，通过举办招聘活动、拓展岗位及整治招聘市场，全力促进毕业生顺利就业。",
+  "summary_en": "The Ministry of Education has launched a \"100-day sprint\" action from June to August to promote employment for 2026 college graduates through recruitment events and market regulation.",
+  "body_zh": "新华社北京6月8日电（记者 王鹏）记者8日从教育部获悉，为抓住离校前后促就业关键期，全力促进高校毕业生顺利就业，教育部部署于6月至8月开展2026届高校毕业生就业“百日冲刺”行动。\n数据显示，行动期间，各地各高校预计举办校园招聘活动4000余场，提供岗位信息超500万个。国家大学生就业服务平台持续推出线上专场招聘10余场，汇集提供岗位超150万个。\n据了解，本次行动以“百日冲刺再发力 精准服务促就业”为主题。根据教育部要求，行动期间，各地各高校要聚焦当前就业工作重点难点，加力拓展市场化就业岗位。针对就业进展缓慢的省份、高校、学科专业和二级院系，重点组织人社厅（局）长、就业局长开展高校“一对一”定点联系，加力组织“小而精、专而优”的院系专场招聘。\n此外，教育部还要求从严做好就业数据登记，认真落实毕业去向登记制度，对违反相关规定的单位和人员严肃追责问责；切实维护毕业生就业权益，深入开展人力资源市场秩序清理整顿专项行动，严厉打击“招转培（贷）”欺诈、“付费内推”、虚假招聘、滥用试用期等违法行为。",
+  "image_url": null,
+  "published_at": "2026-06-08T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-09T07:57:01Z",
+  "topic": "welfare",
+  "keywords": [
+    "高校毕业生就业",
+    "百日冲刺行动"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOE",
+      "name_zh": "教育部",
+      "name_en": "Ministry of Education"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高校毕业生就业",
+      "name_en": "College Graduate Employment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "百日冲刺行动",
+      "name_en": "100-day Sprint Action"
+    }
+  ],
+  "tags_zh": [
+    "教育部",
+    "北京",
+    "高校毕业生就业",
+    "百日冲刺行动"
+  ],
+  "tags_en": [
+    "Ministry of Education",
+    "Beijing",
+    "College Graduate Employment",
+    "100-day Sprint Action"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOE"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260608-gov_cn_yaowen-173d31",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_hn",
+      "source_tier": 2,
+      "url": "http://hn.news.cn/20260608/a87462560e4f487d98538b6d8b178f7c/c.html",
+      "title_zh": "教育部部署相关行动促进高校毕业生顺利就业",
+      "published_at": "2026-06-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

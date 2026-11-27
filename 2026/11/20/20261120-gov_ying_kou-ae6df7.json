@@ -1,0 +1,86 @@
+{
+  "id": "20261120-gov_ying_kou-ae6df7",
+  "source": "gov_ying_kou",
+  "source_name_zh": "营口市政府网",
+  "source_name_en": "营口 Government Portal",
+  "source_media_id": "gov-cn-prefecture-ying_kou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yingkou.gov.cn/001/001009/20261120/18f71183-0539-4ccd-9607-75eac1a64ae3.html",
+  "title_zh": "营口市政协党组召开（扩大）会议",
+  "title_en": "Yingkou CPPCC Party Group Holds Expanded Meeting",
+  "summary_zh": "11月19日，营口市政协党组召开（扩大）会议，传达学习中共中央政治局会议精神、习近平总书记在纪念长征胜利90周年大会上的重要讲话精神及省市委常委会会议精神，研究贯彻落实工作。市政协主席、党组书记李红莉主持并讲话。",
+  "summary_en": "On Nov 19, the Yingkou CPPCC Party Group held an expanded meeting to study the spirit of the Oct 23 CPC Politburo meeting and Xi Jinping's speech at the 90th anniversary of the Long March victory, and to plan implementation. CPPCC Chairman and Party Group Secretary Li Hongli presided.",
+  "body_zh": "11月19日，市政协党组召开（扩大）会议，传达学习10月23日中共中央政治局会议精神，习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神及省委、市委常委会会议精神，研究市政协贯彻落实工作。市政协主席、党组书记李红莉主持会议并讲话。\n会议强调，要把学习贯彻10月23日中共中央政治局会议精神，同学习习近平总书记关于巡视工作的重要论述、关于加强和改进人民政协工作的重要思想贯通起来，强化“第一议题”学习。把各地区、各领域、各部门巡察反馈和监督检查指出的问题作为鲜活教材，做到举一反三、深入检视，切实把学习成果转化为提升工作水平和履职质效的实际行动。要用好市委巡察工作成果，把巡察中形成的好流程、好办法、好作风传下去、用到位，坚决避免各类问题反弹回潮。\n会议要求，要坚持旗帜鲜明讲政治，深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，始终在党的领导下找准方位、履行使命。要深刻把握政协职能定位，聚焦重大课题，发扬长征中脚踏实地、实事求是的精神，多建务实之言、多献管用之策。要从伟大长征精神中汲取智慧和力量，团结引导各党派团体和各族各界人士从伟大长征精神中增进认同，引导广大政协委员在履职一线感悟长征精神、锤炼履职本领。要深入贯彻习近平党建思想，持之以恒推进全面从严治党，以过硬作风保障政协履职提质增效，以更加昂扬的姿态走好新时代营口政协人的长征路。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "party",
+  "keywords": [
+    "政协工作",
+    "巡视整改",
+    "长征精神"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政协工作",
+      "name_en": "CPPCC Work"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "巡视整改",
+      "name_en": "Inspection Rectification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "政协工作",
+    "巡视整改",
+    "长征精神",
+    "习近平"
+  ],
+  "tags_en": [
+    "CPPCC Work",
+    "Inspection Rectification",
+    "Long March Spirit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "李红莉"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261120-gov_ying_kou-ae6df7",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

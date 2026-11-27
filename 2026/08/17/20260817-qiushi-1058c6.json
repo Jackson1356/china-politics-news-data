@@ -1,0 +1,116 @@
+{
+  "id": "20260817-qiushi-1058c6",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260817/a8ad4e02713746a38e440727bddd3177/c.html",
+  "title_zh": "阿塞拜疆语版节目《习近平的文化情缘》启播活动在巴库举行",
+  "title_en": "Azerbaijani Version of Xi Jinping's Cultural Bonds Launches in Baku",
+  "summary_zh": "由中央广播电视总台译制的首部阿塞拜疆语版节目《习近平的文化情缘》启播活动日前在阿塞拜疆首都巴库举行，旨在向国际受众阐释习近平文化思想。",
+  "summary_en": "The Azerbaijani-language premiere of China Media Group's program Xi Jinping's Cultural Bonds was held in Baku, showcasing Xi's thoughts on cultural inheritance and promoting cross-cultural exchange.",
+  "body_zh": "新华社巴库8月17日电（记者周良）由中央广播电视总台译制的首部阿塞拜疆语版节目《习近平的文化情缘》启播活动日前在阿塞拜疆首都巴库举行。\n《习近平的文化情缘》选取习近平主席心系文化传承发展的生动故事，展现他对“文化兴国运兴，文化强民族强”的深邃思考和珍爱文化遗产、赓续历史文脉的深沉情怀，向国际受众阐释习近平文化思想的精髓要义和习近平主席治国理政理念的深厚文化根基。\n中国驻阿塞拜疆大使鲁梅在活动上致辞表示，《习近平的文化情缘》在阿启播，标志着中阿媒体合作迈上新台阶，有助于阿塞拜疆观众更加深入理解习近平文化思想的核心要义，感知习近平主席治国理政理念所根植的深厚文化底蕴。\n阿塞拜疆国民会议文化委员会副主席叶芬季耶娃说，阿塞拜疆和中国都拥有悠久的历史，在诸多纽带之外，今天两国还因对保护文化遗产所持的共同理念而紧密相连。在阿塞拜疆播出《习近平的文化情缘》具有极为重要的意义。\n活动结束后，阿塞拜疆国家电视广播公司文化频道和阿塞拜疆ARB24电视台先后播出该片。\n网站编辑 -\n朱豫\n张盼 审核 - 刘小畅",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "foreign",
+  "keywords": [
+    "文化传承",
+    "中外文化交流",
+    "习近平文化思想"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "institution",
+      "id": "CMG",
+      "name_zh": "中央广播电视总台",
+      "name_en": "China Media Group"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "巴库",
+      "name_en": "Baku"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化传承",
+      "name_en": "Cultural Heritage"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中外文化交流",
+      "name_en": "International Cultural Exchange"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "习近平文化思想",
+      "name_en": "Xi Jinping Thought on Culture"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "中央广播电视总台",
+    "巴库",
+    "文化传承",
+    "中外文化交流",
+    "习近平文化思想"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "China Media Group",
+    "Baku",
+    "Cultural Heritage",
+    "International Cultural Exchange",
+    "Xi Jinping Thought on Culture"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [
+      "CMG"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260817-qiushi-1058c6",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078318.htm",
+      "title_zh": "阿塞拜疆语版节目《习近平的文化情缘》启播活动在巴库举行",
+      "published_at": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": 4,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202608/11c514218a154b87abb52257148d7aa0.shtml",
+      "title_zh": "阿塞拜疆语版节目《习近平的文化情缘》启播活动在巴库举行",
+      "published_at": "2026-08-18T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

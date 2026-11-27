@@ -1,0 +1,83 @@
+{
+  "id": "20261120-peoples_cq-a35c4f",
+  "source": "peoples_cq",
+  "source_name_zh": "人民网 重庆",
+  "source_name_en": "People's Daily Chongqing",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cq.people.com.cn/n2/2026/1120/c365402-41756098.html",
+  "title_zh": "重庆：客车高速路服务区违规上客被查处",
+  "title_en": "Chongqing Investigates Bus for Illegally Picking Up Passengers at Highway Service Area",
+  "summary_zh": "重庆市交通执法人员通过数字执法系统查处一辆在高速公路服务区违规上客的川籍营运大客车，罚款1000元并责令停运5天。",
+  "summary_en": "Transportation law enforcement officers in Chongqing, acting on digital tracking and surveillance footage, penalized a Sichuan-registered passenger bus for illegally picking up riders at a highway service area, imposing a 1,000 yuan fine and a five-day suspension.",
+  "body_zh": "重庆：客车高速路服务区违规上客被查处\n客车高速路服务区违规上客被查处。\n调查中，交通执法人员通过数字执法系统倒查车辆通行轨迹，复盘服务区监控画面，锁定一辆川籍营运大客车并固定违法证据。在联系车辆所属单位及当班驾驶员张某后，张某在视频证据面前承认违规上客事实。\n客车在高速公路服务区违规上客，脱离站场安检、实名查验和客流组织管理，乘客及行李未经安检即上车，乘客安全难以保障。同时，乘客违规进入高速公路区域，还可能演变为高速公路行人违法事件，危及自身和他人生命安全。\n为压紧企业主体责任，交通执法人员同步向客运企业通报违法情况，要求驾驶员与公司安全负责人到队部接受调查。并依据《重庆市道路运输管理条例》第七十一条第一项，执法部门对该公司处以罚款1000元，并责令违规车辆停止营运5天。同时，交通执法人员结合近年同类事故案例开展警示教育，要求企业举一反三，加强驾驶员日常警示和出车前提醒，并将上门走访并组织集中约谈，督促企业完善动态监控、趟次提醒、违规追责等制度。",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "welfare",
+  "keywords": [
+    "交通安全",
+    "道路运输管理",
+    "执法监管"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-CQ",
+      "name_zh": "重庆",
+      "name_en": "Chongqing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通安全",
+      "name_en": "Traffic Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "道路运输管理",
+      "name_en": "Road Transport Regulation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "执法监管",
+      "name_en": "Law Enforcement and Supervision"
+    }
+  ],
+  "tags_zh": [
+    "重庆",
+    "交通安全",
+    "道路运输管理",
+    "执法监管"
+  ],
+  "tags_en": [
+    "Chongqing",
+    "Traffic Safety",
+    "Road Transport Regulation",
+    "Law Enforcement and Supervision"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-CQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261120-peoples_cq-a35c4f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

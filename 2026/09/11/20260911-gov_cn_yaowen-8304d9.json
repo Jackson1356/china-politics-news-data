@@ -1,0 +1,83 @@
+{
+  "id": "20260911-gov_cn_yaowen-8304d9",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080795.htm",
+  "title_zh": "今年全国新增84个重点外资项目",
+  "title_en": "China Adds 84 Major Foreign-Invested Projects Nationwide This Year",
+  "summary_zh": "商务部11日表示，今年以来全国新增84个重点外资项目，总投资额194.6亿美元，涉及机电装备、化工能源、汽车、医疗健康等领域。",
+  "summary_en": "The Ministry of Commerce said that 84 major foreign-invested projects have been added across China this year, with total investment of US$19.46 billion, spanning machinery, chemicals and energy, automobiles and healthcare.",
+  "body_zh": "记者从商务部了解到，今年以来，全国新增84个重点外资项目，总投资额194.6亿美元，涉及机电装备、化工能源、汽车、医疗健康等领域。一批投资规模大、技术先进性强的重点外资项目加快落地。\n下一步，商务部将持续跟踪项目实施进度，营造更优的营商环境，进一步巩固吸引外资基本盘。",
+  "image_url": null,
+  "published_at": "2026-09-11T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-13T08:57:00Z",
+  "topic": "economy",
+  "keywords": [
+    "吸引外资",
+    "营商环境",
+    "重点外资项目"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOFCOM",
+      "name_zh": "商务部",
+      "name_en": "Ministry of Commerce"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "吸引外资",
+      "name_en": "Foreign Investment Attraction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "重点外资项目",
+      "name_en": "Major Foreign-Invested Projects"
+    }
+  ],
+  "tags_zh": [
+    "商务部",
+    "吸引外资",
+    "营商环境",
+    "重点外资项目"
+  ],
+  "tags_en": [
+    "Ministry of Commerce",
+    "Foreign Investment Attraction",
+    "Business Environment",
+    "Major Foreign-Invested Projects"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOFCOM"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260911-gov_cn_yaowen-8304d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

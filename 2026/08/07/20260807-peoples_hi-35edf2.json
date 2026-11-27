@@ -1,0 +1,93 @@
+{
+  "id": "20260807-peoples_hi-35edf2",
+  "source": "peoples_hi",
+  "source_name_zh": "人民网 海南",
+  "source_name_en": "People's Daily Hainan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://hi.people.com.cn/n2/2026/0807/c231190-41661356.html",
+  "title_zh": "海南获国务院最严格水资源管理制度考核优秀等次",
+  "title_en": "Hainan Wins Excellent Rating in State Council's Strictest Water Resources Management Assessment",
+  "summary_zh": "近日，水利部公布2025年度实行最严格水资源管理制度考核结果，海南省获优秀等次。",
+  "summary_en": "Recently, the Ministry of Water Resources announced the 2025 assessment results for the strictest water resources management system, and Hainan Province received an excellent rating.",
+  "body_zh": "海南获国务院最严格水资源管理制度考核优秀等次\n近日，水利部公布2025年度实行最严格水资源管理制度考核结果，我省获优秀等次。\n实行最严格水资源管理制度考核是国务院对各省级人民政府考核事项，重点评价地方水资源管理、节约用水和河湖长制重点任务落实情况。该考核是压实地方水资源管理主体责任、推动经济社会绿色转型发展的重要抓手。\n近年来，我省提升水资源节约集约利用水平，推进水资源刚性约束制度走深走实，水资源管理、节约、保护等各项工作取得显著成效。据统计，2025年我省万元GDP用水量、万元工业增加值用水量较2020年分别下降21.5%、29.8%，26个合同节水项目落地实施，年节水量为35.33万立方米，全省累计完成35宗用水权交易，交易水量超5000万立方米。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "industry",
+  "keywords": [
+    "水资源管理",
+    "节约用水",
+    "河湖长制"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MWR",
+      "name_zh": "水利部",
+      "name_en": "Ministry of Water Resources"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI",
+      "name_zh": "海南",
+      "name_en": "Hainan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "水资源管理",
+      "name_en": "Water Resources Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "节约用水",
+      "name_en": "Water Conservation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "河湖长制",
+      "name_en": "River and Lake Chief System"
+    }
+  ],
+  "tags_zh": [
+    "水利部",
+    "海南",
+    "水资源管理",
+    "节约用水",
+    "河湖长制"
+  ],
+  "tags_en": [
+    "Ministry of Water Resources",
+    "Hainan",
+    "Water Resources Management",
+    "Water Conservation",
+    "River and Lake Chief System"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MWR"
+    ],
+    "locations": [
+      "CN-HI"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260807-peoples_hi-35edf2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

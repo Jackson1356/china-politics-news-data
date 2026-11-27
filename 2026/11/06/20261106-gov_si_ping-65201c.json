@@ -1,0 +1,104 @@
+{
+  "id": "20261106-gov_si_ping-65201c",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/zw/spdt/202611/t20261106_779824.html",
+  "title_zh": "王相民主持召开四平市委常委会会议研究先进制造业发展",
+  "title_en": "Wang Xiangmin Chairs Siping Municipal Party Committee Standing Committee Meeting on Advanced Manufacturing",
+  "summary_zh": "11月5日，四平市委书记王相民主持召开市委常委会会议，传达学习习近平总书记关于发展先进制造业的重要指示精神和李强总理讲话精神，研究贯彻落实意见并部署信访安保工作。",
+  "summary_en": "On November 5, Siping Party Secretary Wang Xiangmin chaired a meeting of the municipal Party Committee Standing Committee to study Xi Jinping's instructions on advanced manufacturing and Premier Li Qiang's remarks, and to deploy work on public complaints and security.",
+  "body_zh": "2026-11-06\n王相民主持\n11月5日，市委书记王相民主持召开市委常委会会议，传达学习习近平总书记就发展先进制造业作出的重要指示精神和李强总理在全国先进制造业大会上的讲话精神，研究我市贯彻落实意见；听取关于我市在党的二十届五中全会期间信访安保情况的汇报。省委第三巡视组有关同志到会指导。\n会议指出，全国先进制造业加速迭代升级为我市传统产业转型带来了重大政策窗口期。要主动对标国家和省级战略部署，找准差距、靶向发力、赶超进位，为打好打赢四平经济攻坚战、荣誉保卫战提供坚实产业支撑。要发挥比较优势，坚持智能化、绿色化、融合化发展方向，支持龙头企业开展关键核心技术攻关，加快汽车零部件产业融入一汽配套体系，努力提升配套层级、形成特色优势。要推进“智改数转”，纵深开展“人工智能+制造”行动，扎实推进冶金建材行业节能降碳改造、化工行业延链补链、农产品加工产业提升附加值，抢抓零碳园区建设启动重要机遇，走出一条具有四平特色的产业发展路径。要做好服务保障，依托体检、诊断、治疗“三个报告”，“一企一策”帮助企业解决发展难题，强化先进制造业项目要素保障，推动各项惠企政策精准落地落实，为先进制造业发展壮大创造更好条件、注入强大动力。\n会议强调，要端正认识，永葆“人民至上”的思想境界、深厚情怀和价值追求，不折不扣地回应好群众呼声，克服松劲心态、麻痹思想，以“时时放心不下”的责任感，扎实做好信访安全保障。要压实责任，各县（市）区党委主要负责同志带头抓、负总责，领导干部接访下访真接真办、真下真访，清单管理、跟踪问效。要在方法举措上持续发力，紧紧盯住“两个专项”，对排查发现的各类信访问题做到底数清、情况明，层层压实责任、逐级推动落实。要从严监督，把信访工作责任落实纳入监督范围，强化纪信联动，坚决维护好和谐稳定社会大局。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-11-06T12:00:00+00:00",
+  "event_date": "2026-11-05",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "industry",
+  "keywords": [
+    "先进制造业",
+    "产业转型升级",
+    "信访工作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "王相民",
+      "name_en": "Wang Xiangmin"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "先进制造业",
+      "name_en": "Advanced Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业转型升级",
+      "name_en": "Industrial Upgrading"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信访工作",
+      "name_en": "Public Complaints Work"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王相民",
+    "四平",
+    "先进制造业",
+    "产业转型升级",
+    "信访工作",
+    "李强"
+  ],
+  "tags_en": [
+    "Wang Xiangmin",
+    "Siping",
+    "Advanced Manufacturing",
+    "Industrial Upgrading",
+    "Public Complaints Work"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "王相民"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261106-gov_si_ping-65201c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

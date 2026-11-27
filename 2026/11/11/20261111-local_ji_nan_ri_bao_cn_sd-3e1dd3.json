@@ -1,0 +1,106 @@
+{
+  "id": "20261111-local_ji_nan_ri_bao_cn_sd-3e1dd3",
+  "source": "local_ji_nan_ri_bao_cn_sd",
+  "source_name_zh": "济南日报",
+  "source_name_en": "济南日报",
+  "source_media_id": "cac-cn-sd-0a2a8429e2",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-SD",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.e23.cn/jnnews/2026-11-11/2026B1100030.html",
+  "title_zh": "刘强会见中国西电电气股份有限公司客人",
+  "title_en": "Liu Qiang Meets China XD Electric Chairman Zhao Yongzhi",
+  "summary_zh": "11月10日，济南市委书记刘强在龙奥大厦会见中国西电电气股份有限公司董事长赵永志一行，就新能源装备产业和输变电技术合作交换意见。",
+  "summary_en": "On Nov 10, Jinan Party Secretary Liu Qiang met China XD Electric Chairman Zhao Yongzhi in Jinan to discuss cooperation on new energy equipment and power transmission technology.",
+  "body_zh": "刘强会见中国西电电气股份有限公司客人\n本报11月10日讯(记者 王端鹏 邢晓然)今天，市委书记刘强在龙奥大厦会见了中国西电电气股份有限公司党委书记、董事长赵永志一行。\n刘强、赵永志分别介绍了济南市新能源装备产业发展情况和中国西电电气股份有限公司发展情况，围绕输变电装备产业发展、新型电力技术研发、固态变压器高端转型等领域合作交换了意见。双方表示，将建立完善常态化沟通对接机制，加快推进现有合作项目进展，合力打造新能源装备产业生态，携手推动全市新能源高效利用和经济社会绿色低碳转型。\n市委常委、秘书长韩伟，山东电工电气集团有限公司党委书记、董事长朱琦琦参加活动。\n新闻排行\n进入新闻中心",
+  "image_url": null,
+  "published_at": "2026-11-11T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "economy",
+  "keywords": [
+    "新能源装备产业",
+    "输变电装备",
+    "绿色低碳转型"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "liu-qiang-jinan",
+      "name_zh": "刘强",
+      "name_en": "Liu Qiang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-JN",
+      "name_zh": "济南",
+      "name_en": "Jinan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源装备产业",
+      "name_en": "New Energy Equipment Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "输变电装备",
+      "name_en": "Power Transmission Equipment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "绿色低碳转型",
+      "name_en": "Green Low-Carbon Transition"
+    }
+  ],
+  "tags_zh": [
+    "刘强",
+    "济南",
+    "新能源装备产业",
+    "输变电装备",
+    "绿色低碳转型"
+  ],
+  "tags_en": [
+    "Liu Qiang",
+    "Jinan",
+    "New Energy Equipment Industry",
+    "Power Transmission Equipment",
+    "Green Low-Carbon Transition"
+  ],
+  "entities": {
+    "politicians": [
+      "liu-qiang-jinan",
+      "liu-qiang-shandong",
+      {
+        "id": null,
+        "name_zh": "朱琦琦"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-JN"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261111-gov_ji_nan-c1df12",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "gov_ji_nan",
+      "source_tier": 4,
+      "url": "https://www.jinan.gov.cn/col/col52/art/2026/art_de28936af502439aa09d8b0e9025cc13.html",
+      "title_zh": "刘强会见中国西电电气股份有限公司客人",
+      "published_at": "2026-11-11T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

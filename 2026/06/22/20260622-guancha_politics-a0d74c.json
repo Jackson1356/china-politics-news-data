@@ -1,0 +1,101 @@
+{
+  "id": "20260622-guancha_politics-a0d74c",
+  "source": "guancha_politics",
+  "source_name_zh": "观察者网 政治",
+  "source_name_en": "Guancha Politics",
+  "source_url": "https://www.guancha.cn/politics/2026_06_22_821248.shtml",
+  "title_zh": "多部门成立联合调查组，核查“婴幼儿纸尿裤甲酰胺问题”",
+  "title_en": "Multiple Departments Establish Joint Investigation Team to Probe Formamide Issue in Baby Diapers",
+  "summary_zh": "中国多个部门成立联合调查组，针对婴幼儿纸尿裤中存在的甲酰胺问题展开核查。",
+  "summary_en": "Multiple Chinese departments have formed a joint investigation team to investigate the presence of formamide in baby diapers.",
+  "body_zh": "李强将出席第十七届夏季达沃斯论坛2026-06-22 15:14 中国外交\n滴露道歉2026-06-22 13:40\n涉留神峪煤矿事故，耿青禄被查2026-06-22 11:56\n江西省政协原副主席尹建业被“双开”2026-06-22 11:46 廉政风暴\n礼赞社科大师｜陈子展：中国古典文学园地的“楚狂老人”2026-06-22 09:14 礼赞社科大师\n特朗普：美国可以当霍尔木兹的“守护天使”，并抽取两成收益2026-06-21 23:12\n新疆：坚决拥护党中央决定2026-06-21 20:55 廉政风暴\n“河水遭严重污染，鱼虾死亡”，当地通报2026-06-21 17:24\n弹窗广告“弹”出了间谍? !2026-06-21 07:52 国家安全\n今年第7号台风“米克拉”逐渐增强，最新路径公布2026-06-21 07:52 极端天气\n张颂文回应获金爵奖影帝：本以为拿奖会哭，但表现得却很平静2026-06-20 23:03 新潮观鱼\n新疆维吾尔自治区政府原副主席朱昌杰被查2026-06-20 16:30 廉政风暴\n礼赞社科大师｜潘念之：孜孜不怠于社会主义法学研究2026-06-20 14:16 礼赞社科大师\n甲酰胺纸尿裤当事记者发声2026-06-20 10:44\n郑州一车业广场火灾已致2人遇难，实际控制人被采取强制措施2026-06-20 09:28\n武汉大学领导班子调整2026-06-20 09:15\n黄子韬致歉2026-06-20 07:29\n“华人该被看见，印尼应直面历史，而非粉饰太平”2026-06-19 21:01 光影皆故事\n绿城中国：香港主要办公场所遭香港廉政公署搜查2026-06-19 16:23 大公司",
+  "image_url": null,
+  "published_at": "2026-06-22T12:00:00+00:00",
+  "event_date": "2026-06-22",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "产品质量",
+    "市场监管",
+    "消费者权益"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产品质量",
+      "name_en": "Product Quality"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "市场监管",
+      "name_en": "Market Supervision"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "消费者权益",
+      "name_en": "Consumer Rights"
+    },
+    {
+      "kind": "person",
+      "id": "li-qiang",
+      "name_zh": "李强",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "产品质量",
+    "市场监管",
+    "消费者权益",
+    "李强"
+  ],
+  "tags_en": [
+    "Product Quality",
+    "Market Supervision",
+    "Consumer Rights"
+  ],
+  "entities": {
+    "politicians": [
+      "li-qiang",
+      {
+        "id": null,
+        "name_zh": "朱昌杰"
+      },
+      {
+        "id": null,
+        "name_zh": "李强将"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260622-guancha_politics-a0d74c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_22_821293.shtml",
+      "title_zh": "国安部：落入间谍陷阱的他，“自救”成功",
+      "published_at": "2026-06-22T12:00:00+00:00"
+    },
+    {
+      "source": "guancha_politics",
+      "source_tier": 1,
+      "url": "https://www.guancha.cn/politics/2026_06_22_821291.shtml",
+      "title_zh": "全国人大常委会法工委：注册会计师法拟大幅提高违法成本",
+      "published_at": "2026-06-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

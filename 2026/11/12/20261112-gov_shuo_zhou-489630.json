@@ -1,0 +1,97 @@
+{
+  "id": "20261112-gov_shuo_zhou-489630",
+  "source": "gov_shuo_zhou",
+  "source_name_zh": "朔州市政府网",
+  "source_name_en": "朔州 Government Portal",
+  "source_media_id": "gov-cn-prefecture-shuo_zhou",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SX",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085619.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团报告会在广东举行",
+  "title_en": "Central Lecture Team Holds Report Meeting in Guangdong on the Spirit of the Fifth Plenary Session",
+  "summary_zh": "11月9日，中央宣讲团成员、广东省委书记黄坤明在广州作宣讲报告，阐释党的二十届五中全会精神及持之以恒推进全面从严治党的部署。",
+  "summary_en": "On November 9, Huang Kunming, a member of the CPC Central Committee Political Bureau and Guangdong Party Secretary, delivered a lecture report in Guangzhou explaining the spirit of the Fifth Plenary Session and its push for sustained strict Party governance.",
+  "body_zh": "新华社广州11月9日电（记者李雄鹰）学习贯彻党的二十届五中全会精神中央宣讲团11月9日在广东省宣讲。中央宣讲团成员、中共中央政治局委员、广东省委书记黄坤明作宣讲报告。\n报告会上，黄坤明紧紧围绕学习贯彻习近平总书记在党的二十届五中全会上的重要讲话精神和全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，从深入学习领会全会的重大意义、新时代全面从严治党的伟大成就，全面准确把握持之以恒推进全面从严治党的重要性紧迫性、总体要求、战略任务和重大举措等方面，结合广东实际，对党的二十届五中全会精神作了全面宣讲和深入阐释。\n黄坤明强调，各级党员干部要全面深入学习好贯彻好习近平总书记重要讲话和党的二十届五中全会精神，深学细悟习近平党建思想，始终保持赶考的清醒和坚定，持之以恒推进全面从严治党，为广东在推进中国式现代化建设中走在前列提供坚强保障。\n会前，黄坤明还与广东省委党校师生代表开展面对面交流互动，回答了师生们关于全会议题和重大意义、怎样结合广东实际推进各项事业发展等问题。",
+  "image_url": null,
+  "published_at": "2026-11-12T12:00:00+00:00",
+  "event_date": "2026-11-09",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会",
+    "全面从严治党"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "huang-kunming",
+      "name_zh": "黄坤明",
+      "name_en": "Huang Kunming"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "广东省委",
+      "name_en": "Guangdong Provincial Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD",
+      "name_zh": "广东",
+      "name_en": "Guangdong"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会",
+      "name_en": "Fifth Plenary Session"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": "Strict Party Governance"
+    }
+  ],
+  "tags_zh": [
+    "黄坤明",
+    "广东省委",
+    "广东",
+    "二十届五中全会",
+    "全面从严治党"
+  ],
+  "tags_en": [
+    "Huang Kunming",
+    "Guangdong Provincial Party Committee",
+    "Guangdong",
+    "Fifth Plenary Session",
+    "Strict Party Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "huang-kunming"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD"
+    ],
+    "companies": [
+      {
+        "name_zh": "广东省委",
+        "name_en": "Guangdong Provincial Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261109-gov_cn_yaowen-489630",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

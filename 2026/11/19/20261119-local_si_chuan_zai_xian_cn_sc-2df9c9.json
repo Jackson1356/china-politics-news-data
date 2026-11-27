@@ -1,0 +1,131 @@
+{
+  "id": "20261119-local_si_chuan_zai_xian_cn_sc-2df9c9",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://focus.scol.com.cn/gcdt/202611/83359881.html",
+  "title_zh": "习近平在深圳为出席APEC会议来宾举行欢迎宴会",
+  "title_en": "Xi Jinping Hosts Welcome Banquet in Shenzhen for APEC Guests",
+  "summary_zh": "11月18日晚，习近平主席和夫人彭丽媛在深圳为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会。",
+  "summary_en": "On the evening of Nov 18, President Xi Jinping and his wife Peng Liyuan hosted a welcome banquet in Shenzhen for guests attending the 33rd APEC Economic Leaders' Meeting.",
+  "body_zh": "11月18日晚，习近平主席和夫人彭丽媛在深圳为出席亚太经合组织（APEC）第三十三次领导人非正式会议的来宾举行欢迎宴会。12年前，在APEC北京会议欢迎宴会上，习近平主席的一段讲话让人记忆犹新。这12年，正是中国参与和推动亚太经济合作的一段缩影。面向未来，中国将不断以中国式现代化新成就为亚太和世界作出新贡献、提供新机遇。\n统筹：黄庆华\n编导：饶力文、胡玥聪、张博令",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太经合组织",
+    "亚太经济合作",
+    "元首外交",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经合组织",
+      "name_en": "APEC"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太经济合作",
+      "name_en": "Asia-Pacific Economic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-state Diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "亚太经合组织",
+    "亚太经济合作",
+    "元首外交",
+    "中国式现代化"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "APEC",
+    "Asia-Pacific Economic Cooperation",
+    "Head-of-state Diplomacy",
+    "Chinese Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261119-local_si_chuan_zai_xian_cn_sc-2df9c9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://news.xmnn.cn/gnxw/202611/t20261119_462506.html",
+      "title_zh": "近镜头｜以“不懈的努力”书写“大故事” _新闻频道_厦门网",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "local_chang_cheng_wang_cn_he",
+      "source_tier": 3,
+      "url": "https://news.hebccw.cn/system/2026/11/19/102245209.shtml",
+      "title_zh": "近镜头｜以“不懈的努力”书写“大故事”_新闻频道_长城网",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "local_da_zhong_wang_cn_sd",
+      "source_tier": 3,
+      "url": "https://www.dzwww.com/xinwen/guoneixinwen/202611/t20261119_18316947.htm",
+      "title_zh": "近镜头｜以“不懈的努力”书写“大故事”_时政新闻_大众网",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    },
+    {
+      "source": "local_hong_wang_cn_hn",
+      "source_tier": 3,
+      "url": "https://news.rednet.cn/nograb/646055/53/16489345.html",
+      "title_zh": "近镜头｜以“不懈的努力”书写“大故事”",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

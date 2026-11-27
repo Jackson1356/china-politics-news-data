@@ -1,0 +1,93 @@
+{
+  "id": "20260923-gov_yan_cheng-a73f73",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/9/23/art_60096_11833732.html",
+  "title_zh": "省领导赴扬州开展安全生产检查",
+  "title_en": "Jiangsu Official Zhang Wenbing Inspects Yangzhou on Work Safety",
+  "summary_zh": "9月22日，江苏省委常委、省政府党组副书记张文兵赴扬州开展安全生产检查，深入企业厂区车间督导责任落实。",
+  "summary_en": "On September 22, Zhang Wenbing, Standing Committee member of the Jiangsu Provincial Party Committee and deputy secretary of the provincial government's Party group, inspected workplaces in Yangzhou to press for stronger work-safety enforcement.",
+  "body_zh": "当前位置：\n省领导赴扬州开展安全生产检查\n9月22日，省委常委、省政府党组副书记张文兵赴扬州市开展安全生产检查，深入厂区车间等生产一线，采取实地检查和“四不两直”等方式，督导责任落实。他强调，要深入学习贯彻习近平总书记关于安全生产的重要论述，认真落实省委、省政府部署，抓实抓细安全防范工作，促进安全生产形势平稳向好。\n当天，张文兵来到盈德气体、新大洋造船、尚杰针织品、扬州国联制衣厂等单位，详细询问消防设施、隐患排查整治等情况，现场察看重大危险源管控、现场作业规范、员工安全培训、应急准备等落实情况。\n张文兵强调，要紧盯危化品企业安全管控，常态化开展设备巡检和厂区安全环境治理，提升本质安全水平。加强船舶修造行业安全管理，从严规范有限空间和动火等作业审批，做好重点岗位人员安全培训。深刻汲取广东顺德一纺织公司厂房火灾事故教训，抓实轻工纺织等劳动密集型企业消防安全，聚焦车间仓库等重点部位，规范物资堆放和防火分区管理，强化消防设施检修维保。持续抓好建筑施工、交通运输、特种设备、文化旅游、商贸等重点领域安全防范，深入排查整治风险隐患。严格值班值守，备足应急力量，织牢安全生产防护网，全力维护人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "event_date": "2026-09-22",
+  "ingested_at": "2026-09-23T09:15:54Z",
+  "topic": "welfare",
+  "keywords": [
+    "安全生产",
+    "隐患排查整治",
+    "危化品安全管控"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": "Zhang Wenbing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-YZ",
+      "name_zh": "扬州",
+      "name_en": "Yangzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "隐患排查整治",
+      "name_en": "Hazard Inspection and Rectification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "危化品安全管控",
+      "name_en": "Hazardous Chemicals Safety Control"
+    }
+  ],
+  "tags_zh": [
+    "张文兵",
+    "扬州",
+    "安全生产",
+    "隐患排查整治",
+    "危化品安全管控"
+  ],
+  "tags_en": [
+    "Zhang Wenbing",
+    "Yangzhou",
+    "Work Safety",
+    "Hazard Inspection and Rectification",
+    "Hazardous Chemicals Safety Control"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-YZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260923-gov_yan_cheng-a73f73",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

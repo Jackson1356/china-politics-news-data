@@ -1,0 +1,109 @@
+{
+  "id": "20261126-bjnews-46937e",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_media_id": "bjnews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "beijing_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.bjnews.com.cn/detail/1795687263129695.html",
+  "title_zh": "中央宣传部原副部长、原国家新闻出版广电总局局长蔡赴朝被开除党籍",
+  "title_en": "Cai Fuchao, Former Deputy Head of the CPC Central Committee Propaganda Department and Former Director of the State Administration of Press, Publication, Radio, Film and Television, Expelled from the Party",
+  "summary_zh": "经中共中央批准，中央纪委国家监委对严重违纪违法并涉嫌受贿犯罪的蔡赴朝给予开除党籍处分，并将其移送检察机关审查起诉。",
+  "summary_en": "With approval from the CPC Central Committee, the Central Commission for Discipline Inspection and National Supervisory Commission expelled Cai Fuchao from the Party for serious disciplinary and legal violations, including suspected bribery, and transferred his case to prosecutors.",
+  "body_zh": "新京报讯 据中央纪委国家监委网站消息，经中共中央批准，中央纪委国家监委对中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法问题进行了立案审查调查。\n经查，蔡赴朝丧失理想信念，背弃初心使命，对抗组织审查；违反中央八项规定精神，违规收受礼品、礼金，违规接受宴请和旅游活动安排；在职工录用工作中违规为他人谋取利益；违规从事营利活动；贪欲膨胀，以权谋私，大搞权钱交易，利用职务便利为他人在影视作品审批及销售、广告经营权获取、旅游项目开发等方面谋利，并非法收受巨额财物。\n蔡赴朝严重违反党的政治纪律、组织纪律和廉洁纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予蔡赴朝开除党籍处分；按规定取消其享受的待遇；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "discipline",
+  "keywords": [
+    "反腐败",
+    "开除党籍",
+    "受贿"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "蔡赴朝",
+      "name_en": "Cai Fuchao"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中央纪委国家监委",
+      "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "CCPD",
+      "name_zh": "中央宣传部",
+      "name_en": "Propaganda Department of the CPC Central Committee"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "反腐败",
+      "name_en": "Anti-corruption"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开除党籍",
+      "name_en": "Expulsion from the Party"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "受贿",
+      "name_en": "Bribery"
+    }
+  ],
+  "tags_zh": [
+    "蔡赴朝",
+    "中央纪委国家监委",
+    "中央宣传部",
+    "反腐败",
+    "开除党籍",
+    "受贿"
+  ],
+  "tags_en": [
+    "Cai Fuchao",
+    "Central Commission for Discipline Inspection and National Supervisory Commission",
+    "Propaganda Department of the CPC Central Committee",
+    "Anti-corruption",
+    "Expulsion from the Party",
+    "Bribery"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "蔡赴朝"
+      }
+    ],
+    "institutions": [
+      "CCPD"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中央纪委国家监委",
+        "name_en": "Central Commission for Discipline Inspection and National Supervisory Commission"
+      }
+    ]
+  },
+  "sentiment": "negative",
+  "importance": 4,
+  "cluster_id": "evt-20261126-bjnews-46937e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

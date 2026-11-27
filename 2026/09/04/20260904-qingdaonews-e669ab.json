@@ -1,0 +1,97 @@
+{
+  "id": "20260904-qingdaonews-e669ab",
+  "source": "qingdaonews",
+  "source_name_zh": "青岛新闻网",
+  "source_name_en": "Qingdao News",
+  "source_media_id": "qingdaonews",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "qingdao_media_group",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://news.qingdaonews.com/zonghe/2026-09/04/content_23754727.htm",
+  "title_zh": "习近平抵达开罗对埃及进行国事访问",
+  "title_en": "Xi Jinping Arrives in Cairo for State Visit to Egypt",
+  "summary_zh": "当地时间9月1日，国家主席习近平抵达埃及开罗，对埃及进行国事访问。此访正值中埃建交70周年，两国元首在尼罗河畔擘画合作新蓝图。",
+  "summary_en": "On September 1, President Xi Jinping arrived in Cairo, Egypt, for a state visit at the invitation of President Sisi. The visit marks the 70th anniversary of China-Egypt diplomatic ties.",
+  "body_zh": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。\n这是一次赓续友好之旅，更是一次拓展合作之旅。摩托车队、礼兵、马队......习主席时隔10年再次访埃，埃及用最高礼仪迎接远道而来的中国贵宾。此访正值中埃建交70周年，两国元首在尼罗河畔为中埃合作共赢擘画了新的蓝图。中埃两个文明古国跨越亚非大陆的相向而行，再次证明不同文明完全可以跳出对立逻辑，并肩追寻振兴梦想，携手实现美美与共。\n公安部备案号：37020202000008\n邮编：266071\n邮箱：editor@qingdaonews.com\n增值电信许可证：鲁B2-20040044\n鲁B2-20051014-1",
+  "image_url": null,
+  "published_at": "2026-09-04T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-05T08:35:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "国事访问",
+    "中埃建交70周年"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "开罗",
+      "name_en": "Cairo"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中埃建交70周年",
+      "name_en": "70th Anniversary of China-Egypt Diplomatic Relations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "开罗",
+    "国事访问",
+    "中埃建交70周年"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Cairo",
+    "State Visit",
+    "70th Anniversary of China-Egypt Diplomatic Relations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260904-qingdaonews-e669ab",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_lin_zhi",
+      "source_tier": null,
+      "url": "http://www.linzhi.gov.cn/linzhi/xwzx/202609/84baea2a1398475fba715636f71436f0.shtml",
+      "title_zh": "习近平抵达开罗对埃及进行国事访问",
+      "published_at": "2026-09-02T12:00:00+00:00"
+    },
+    {
+      "source": "gov_chi_feng",
+      "source_tier": null,
+      "url": "http://www.chifeng.gov.cn/ywdt/jrtt/202609/t20260902_2812710.html",
+      "title_zh": "习近平抵达开罗对埃及进行国事访问",
+      "published_at": "2026-09-02T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

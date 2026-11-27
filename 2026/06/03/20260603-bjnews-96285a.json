@@ -1,0 +1,80 @@
+{
+  "id": "20260603-bjnews-96285a",
+  "source": "bjnews",
+  "source_name_zh": "新京报",
+  "source_name_en": "The Beijing News",
+  "source_url": "https://www.bjnews.com.cn/detail/1780406888129518.html",
+  "title_zh": "外交部：文字游戏无法洗白日本整军扩武的实际行动",
+  "title_en": "Foreign Ministry: Word Games Cannot Whitewash Japan's Actual Military Expansion",
+  "summary_zh": "外交部发言人毛宁6月3日在例行记者会上表示，日本企图通过偷换概念掩盖其“再军事化”和加强进攻性力量的实际行动。",
+  "summary_en": "Foreign Ministry spokesperson Mao Ning stated on June 3 that Japan is attempting to use word games to disguise its \"re-militarization\" and actual military expansion.",
+  "body_zh": "据新华社北京6月3日电 针对日本防卫省发言人的错误言论，外交部发言人毛宁6月3日在例行记者会上答问时表示，日本避重就轻、自欺欺人的所谓事实，完全是对“再军事化”的伪装。日本避而不谈军国主义侵略扩张罪行、自身背负的国际法义务，始终未能深刻反省历史，反而以“集体自卫权”包装海外派兵，以“发展反击能力”粉饰加强进攻性力量，以“装备技术合作”掩盖杀伤性武器出口，企图通过偷换概念欺骗日本国内和国际社会。\n毛宁说，数字不会说谎，文字游戏无法洗白日本整军扩武的实际行动。日本越是遮掩，国际社会越应该高度警惕。",
+  "image_url": null,
+  "published_at": "2026-06-03T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-05T08:17:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "再军事化",
+    "中日关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "再军事化",
+      "name_en": "Re-militarization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中日关系",
+      "name_en": "China-Japan Relations"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "再军事化",
+    "中日关系"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "Re-militarization",
+    "China-Japan Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "negative",
+  "importance": 3,
+  "cluster_id": "evt-20260603-bjnews-96285a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

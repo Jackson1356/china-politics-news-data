@@ -1,0 +1,111 @@
+{
+  "id": "20261124-gov_cn_yaowen-784b65",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087089.htm",
+  "title_zh": "中国瑞士举行第五轮外长级战略对话",
+  "title_en": "China and Switzerland Hold Fifth Round of Foreign Minister-Level Strategic Dialogue",
+  "summary_zh": "11月23日，王毅在南京同瑞士联邦副主席兼外长卡西斯举行中瑞第五轮外长级战略对话，双方强调深化政治互信、维护自由贸易。",
+  "summary_en": "On Nov 23, Wang Yi held the fifth China-Switzerland foreign minister-level strategic dialogue with Swiss Vice President and Foreign Minister Cassis in Nanjing, with both sides stressing deeper mutual trust and free trade.",
+  "body_zh": "新华社南京11月23日电 中共中央政治局委员、外交部长王毅23日在南京同瑞士联邦副主席兼外长卡西斯共同举行中瑞第五轮外长级战略对话。\n王毅说，在两国领导人引领下，中瑞关系加速向新向优，稳步走在中欧关系前列。习近平主席同帕姆兰主席共同见证签署自贸协定升级议定书等合作文件，对外发出坚持开放合作、维护自由贸易的积极信号。\n王毅表示，中瑞关系的进展践行了中国外交坚持的原则：一是坚持大小国家一律平等、反对强权政治；二是尊重自主选择的发展道路、不干涉内政；三是坚持优势互补，实现互利共赢。中方愿同瑞方一道，落实好两国元首达成的共识，密切各领域各层级交往，夯实高水平政治互信。\n王毅说，中欧应跳出所谓“贸易不平衡”叙事陷阱，通过对话协商妥处分歧，通过做大合作蛋糕实现互利共赢，希望瑞方为中欧平稳解决经贸分歧发挥积极影响。\n卡西斯表示，瑞方将坚定恪守一个中国原则，同中方增进相互理解信任，密切各领域合作。明年是习近平主席在达沃斯世界经济论坛发表历史性演讲10周年，演讲影响深远，至今仍有重要指导意义。10年来，中国已成为推动全球化、应对世界挑战的重要力量。瑞方愿同中方一道，维护自由贸易、反对保护主义，携手应对气候变化，加强人工智能全球治理，共同建设开放进步的世界，期待中方继续扮演重要角色。",
+  "image_url": null,
+  "published_at": "2026-11-24T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "中瑞关系",
+    "战略对话",
+    "自由贸易"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中瑞关系",
+      "name_en": "China-Switzerland Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略对话",
+      "name_en": "Strategic Dialogue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自由贸易",
+      "name_en": "Free Trade"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "外交部",
+    "南京",
+    "中瑞关系",
+    "战略对话",
+    "自由贸易",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Ministry of Foreign Affairs",
+    "Nanjing",
+    "China-Switzerland Relations",
+    "Strategic Dialogue",
+    "Free Trade"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261123-chinanews_gn-bf4182",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

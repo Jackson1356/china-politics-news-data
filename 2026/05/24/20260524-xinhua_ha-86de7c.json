@@ -1,0 +1,104 @@
+{
+  "id": "20260524-xinhua_ha-86de7c",
+  "source": "xinhua_ha",
+  "source_name_zh": "新华网 河南",
+  "source_name_en": "Xinhua Henan",
+  "source_url": "http://ha.news.cn/20260525/992913a321b94c2cbf67a70088d8d001/c.html",
+  "title_zh": "2026年河南省科技活动周启动",
+  "title_en": "2026 Henan Province Science and Technology Activity Week Launches",
+  "summary_zh": "2026年5月24日，河南省科技活动周启动式在濮阳市举行，副省长宋争辉出席并宣布启动，旨在展示科技创新成果并宣传“十五五”部署。",
+  "summary_en": "On May 24, 2026, the 2026 Henan Province Science and Technology Activity Week launched in Puyang. Vice Governor Song Zhenghui attended and announced the start of the event.",
+  "body_zh": "5月24日，由省科技厅、省委宣传部、省科协、濮阳市政府、中国石化中原油田主办的2026年河南省科技活动周启动式在濮阳市中原文化宫举行。\n副省长宋争辉出席并宣布启动。\n本次活动周以“奋进‘十五五’ 科技谱新篇”为主题，旨在学习贯彻习近平总书记关于科技创新的重要论述，大力弘扬科学家精神，宣传《中华人民共和国科学技术普及法》，全面展示我省“十四五”科技创新重大成果，深入宣传“十五五”科技创新重大部署。活动周期间，将举办主场展览、科普讲解大赛、科普巡讲、科普公开课等系列群众性科技活动，在全社会营造尊重创新、崇尚科学的良好氛围。启动式上，与会领导为2025年度河南省科普讲解大赛、科学实验展演汇演活动获奖代表和2026年河南省“小小科学家科技创新操作室”建设单位代表颁奖授牌。\n河南省科普工作联席会议成员单位、地市科技部门、濮阳市有关部门、高校院所、科技企业、科技工作者和学生代表等800余人参加启动式。（全媒体记者 张晓静 刘泽林）",
+  "image_url": null,
+  "published_at": "2026-05-25T12:00:00+00:00",
+  "event_date": "2026-05-24",
+  "ingested_at": "2026-05-25T19:10:08Z",
+  "topic": "industry",
+  "keywords": [
+    "科技创新",
+    "科普",
+    "十五五规划"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "濮阳",
+      "name_en": "Puyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HA",
+      "name_zh": "河南",
+      "name_en": "Henan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技创新",
+      "name_en": "Science and Technology Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科普",
+      "name_en": "Science Popularization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "十五五规划",
+      "name_en": "15th Five-Year Plan"
+    }
+  ],
+  "tags_zh": [
+    "濮阳",
+    "河南",
+    "科技创新",
+    "科普",
+    "十五五规划"
+  ],
+  "tags_en": [
+    "Puyang",
+    "Henan",
+    "Science and Technology Innovation",
+    "Science Popularization",
+    "15th Five-Year Plan"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "宋争辉"
+      },
+      {
+        "id": null,
+        "name_zh": "余人"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260524-xinhua_ha-86de7c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_ha",
+      "source_tier": 3,
+      "url": "http://ha.people.com.cn/n2/2026/0525/c351638-41589831.html",
+      "title_zh": "2026年河南省科技活动周启动",
+      "published_at": "2026-05-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

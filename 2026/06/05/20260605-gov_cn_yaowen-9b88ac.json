@@ -1,0 +1,124 @@
+{
+  "id": "20260605-gov_cn_yaowen-9b88ac",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071218.htm",
+  "title_zh": "国务院任免国家工作人员",
+  "title_en": "State Council Appoints and Removes State Personnel",
+  "summary_zh": "2026年6月5日，国务院任免国家工作人员，包括任命丁向群为国家金融监督管理总局局长等。",
+  "summary_en": "On June 5, 2026, the State Council announced the appointment and removal of state personnel, including the appointment of Ding Xiangqun as Director of the National Financial Regulatory Administration.",
+  "body_zh": "国务院任免国家工作人员。\n任命刘苏社为文化和旅游部副部长；任命洪宗明为退役军人事务部副部长；任命丁向群（女）为国家金融监督管理总局局长。\n免去刘苏社的国家发展和改革委员会副主任职务；免去陈家昌的科学技术部副部长职务；免去马飞雄的退役军人事务部副部长职务；免去张玉卓的国务院国有资产监督管理委员会主任职务；免去韩冬的国家广播电视总局副局长职务。",
+  "image_url": null,
+  "published_at": "2026-06-05T12:00:00+00:00",
+  "event_date": "2026-06-05",
+  "ingested_at": "2026-06-07T08:12:27Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事任免"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "STATE-COUNCIL",
+      "name_zh": "国务院",
+      "name_en": "State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "MCT",
+      "name_zh": "文化和旅游部",
+      "name_en": "Ministry of Culture and Tourism"
+    },
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "institution",
+      "id": "NFRA",
+      "name_zh": "国家金融监督管理总局",
+      "name_en": "National Financial Regulatory Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "NDRC",
+      "name_zh": "国家发展和改革委员会",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "institution",
+      "id": "MOST",
+      "name_zh": "科学技术部",
+      "name_en": "Ministry of Science and Technology"
+    },
+    {
+      "kind": "institution",
+      "id": "SASAC",
+      "name_zh": "国务院国有资产监督管理委员会",
+      "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+    },
+    {
+      "kind": "institution",
+      "id": "NRTA",
+      "name_zh": "国家广播电视总局",
+      "name_en": "National Radio and Television Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事任免",
+      "name_en": "Personnel Appointment and Removal"
+    }
+  ],
+  "tags_zh": [
+    "国务院",
+    "文化和旅游部",
+    "退役军人事务部",
+    "国家金融监督管理总局",
+    "国家发展和改革委员会",
+    "科学技术部",
+    "国务院国有资产监督管理委员会",
+    "国家广播电视总局",
+    "人事任免"
+  ],
+  "tags_en": [
+    "State Council",
+    "Ministry of Culture and Tourism",
+    "Ministry of Veterans Affairs",
+    "National Financial Regulatory Administration",
+    "National Development and Reform Commission",
+    "Ministry of Science and Technology",
+    "State-owned Assets Supervision and Administration Commission of the State Council",
+    "National Radio and Television Administration",
+    "Personnel Appointment and Removal"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "STATE-COUNCIL",
+      "MCT",
+      "MVA",
+      "NFRA",
+      "NDRC",
+      "MOST",
+      "SASAC",
+      "NRTA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260605-gov_cn_yaowen-9b88ac",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "20261125-local_zhong_guo_jiang_su_wang_cn_js-ab2953",
+  "source": "local_zhong_guo_jiang_su_wang_cn_js",
+  "source_name_zh": "中国江苏网",
+  "source_name_en": "中国江苏网",
+  "source_media_id": "cac-cn-js-97d8bc0710",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://jsnews.jschina.com.cn/jsyw/202611/t20261125_s6b06d0bfe4b05291cf162508.shtml",
+  "title_zh": "江苏省第十五次党代会主席团举行第四次会议",
+  "title_en": "Presidium of 15th Jiangsu Provincial Party Congress Holds Fourth Meeting",
+  "summary_zh": "11月25日下午，中国共产党江苏省第十五次代表大会主席团举行第四次会议，信长星主持会议，通过十五届省委委员、省纪委委员候选人名单及省委候补委员候选人预选名单。",
+  "summary_en": "On the afternoon of Nov 25, the presidium of the 15th Jiangsu Provincial Party Congress held its fourth meeting, chaired by Xin Changxing, approving candidate lists for the provincial Party committee, discipline inspection commission, and alternate members.",
+  "body_zh": "省第十五次党代会主席团\n举行第四次会议\n信长星主持\n交汇点讯 中国共产党江苏省第十五次代表大会主席团25日下午举行第四次会议。信长星同志主持会议。\n会议听取了关于十五届省委委员、省纪委委员候选人预选情况的汇报，通过了十五届省委委员、省纪委委员候选人名单，通过了十五届省委候补委员候选人预选名单。\n新华日报·交汇点记者 黄伟\n江苏省第十五次党代会主席团举行第四次会议",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "换届选举",
+    "人事安排"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xin-changxing",
+      "name_zh": "信长星",
+      "name_en": "Xin Changxing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "换届选举",
+      "name_en": "Leadership Transition Election"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事安排",
+      "name_en": "Personnel Arrangement"
+    }
+  ],
+  "tags_zh": [
+    "信长星",
+    "江苏",
+    "党代会",
+    "换届选举",
+    "人事安排"
+  ],
+  "tags_en": [
+    "Xin Changxing",
+    "Jiangsu",
+    "Party Congress",
+    "Leadership Transition Election",
+    "Personnel Arrangement"
+  ],
+  "entities": {
+    "politicians": [
+      "xin-changxing"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20261125-local_zhong_guo_jiang_su_wang_cn_js-ab2953",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_wu_xi",
+      "source_tier": 4,
+      "url": "https://www.wuxi.gov.cn/doc/2026/11/25/4862237.shtml",
+      "title_zh": "省第十五次党代会主席团举行第二次会议",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    },
+    {
+      "source": "gov_yan_cheng",
+      "source_tier": 4,
+      "url": "http://www.jiangsu.gov.cn/art/2026/11/25/art_60096_11865146.html",
+      "title_zh": "江苏省人民政府 要闻关注 省第十五次党代会主席团举行第二次会议 信长星主持",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    },
+    {
+      "source": "local_zhong_guo_jiang_su_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://jsnews.jschina.com.cn/jsyw/202611/t20261125_s6b06d0c6e4b0f1ee38a87f6b.shtml",
+      "title_zh": "江苏省第十五次党代会主席团举行第三次会议_中国江苏网",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

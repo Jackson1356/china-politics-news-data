@@ -1,0 +1,92 @@
+{
+  "id": "20261118-gov_cn_yaowen-d3e38f",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086571.htm",
+  "title_zh": "2026年APEC工商领导人峰会发布深圳倡议",
+  "title_en": "2026 APEC CEO Summit Releases Shenzhen Initiative",
+  "summary_zh": "11月18日，《2026年亚太经合组织工商领导人峰会深圳倡议》在深圳发布，呼吁深化开放型区域经济、以技术创新驱动包容增长、携手实现共同繁荣。",
+  "summary_en": "On Nov 18, the 2026 APEC CEO Summit Shenzhen Initiative was released in Shenzhen, calling for deeper open regional economic integration, innovation-driven inclusive growth and shared prosperity across Asia-Pacific.",
+  "body_zh": "新华社深圳11月18日电（记者潘洁、黄垚）《2026年亚太经合组织工商领导人峰会深圳倡议》18日对外发布，呼吁深化开放型区域经济、以技术创新驱动包容增长、畅通区域一体化动脉、携手实现共同繁荣。这是APEC工商领导人峰会创办30年来首次以倡议形式发布成果文件。\n倡议指出，在开放包容、创新增长、互联互通、合作共赢四大优先领域引领下，亚太工商界愿与所有经济体一道，全面落实《2040年亚太经合组织布特拉加亚愿景》，共建开放、活力、强韧、和平的亚太共同体，并将今年APEC“建设亚太共同体，促进共同繁荣”的主题转化为实际行动，使亚太继续成为世界最具活力的增长引擎和共同繁荣的共同体。",
+  "image_url": null,
+  "published_at": "2026-11-18T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "economy",
+  "keywords": [
+    "开放型区域经济",
+    "区域一体化",
+    "技术创新",
+    "共同繁荣"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放型区域经济",
+      "name_en": "Open Regional Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域一体化",
+      "name_en": "Regional Integration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "技术创新",
+      "name_en": "Technological Innovation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "共同繁荣",
+      "name_en": "Shared Prosperity"
+    }
+  ],
+  "tags_zh": [
+    "深圳",
+    "开放型区域经济",
+    "区域一体化",
+    "技术创新",
+    "共同繁荣"
+  ],
+  "tags_en": [
+    "Shenzhen",
+    "Open Regional Economy",
+    "Regional Integration",
+    "Technological Innovation",
+    "Shared Prosperity"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261118-gov_cn_yaowen-d3e38f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

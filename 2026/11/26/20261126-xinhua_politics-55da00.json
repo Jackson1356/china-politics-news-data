@@ -1,0 +1,125 @@
+{
+  "id": "20261126-xinhua_politics-55da00",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261126/f2b9443106ea4399927649fbf5d80689/c.html",
+  "title_zh": "新一代通信网建设迎来路线图",
+  "title_en": "Roadmap Issued for Building the Next-Generation Communications Network",
+  "summary_zh": "11月26日，工业和信息化部、国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》，提出到2030年建成新一代通信网，并适时开展6G网络建设。",
+  "summary_en": "On Nov 26, MIIT, CAC and NDRC released an implementation plan for a next-generation communications network, aiming to complete it by 2030 with timely 6G deployment and a basic LEO satellite internet system.",
+  "body_zh": "新一代通信网建设迎来路线图。工业和信息化部、国家网信办、国家发展改革委11月26日对外发布《新一代通信网建设实施方案》。\n实施方案提出，到2030年，建成覆盖完善、性能领先的新一代通信网，适时开展6G网络建设，低轨卫星互联网系统基本建成，工业互联网、车联网等融合网络实现规模化发展，智能化发展水平大幅提升，产业生态更加完善。\n记者：周圆、唐诗凝、高亢\n海报制作：周圆\n新华社国内部出品",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "industry",
+  "keywords": [
+    "新一代通信网",
+    "6G网络",
+    "卫星互联网",
+    "工业互联网"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家网信办",
+      "name_en": "Cyberspace Administration of China"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家发展改革委",
+      "name_en": "National Development and Reform Commission"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新一代通信网",
+      "name_en": "Next-Generation Communications Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "6G网络",
+      "name_en": "6G Networks"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "卫星互联网",
+      "name_en": "Satellite Internet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业互联网",
+      "name_en": "Industrial Internet"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "国家网信办",
+    "国家发展改革委",
+    "新一代通信网",
+    "6G网络",
+    "卫星互联网",
+    "工业互联网"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Cyberspace Administration of China",
+    "National Development and Reform Commission",
+    "Next-Generation Communications Network",
+    "6G Networks",
+    "Satellite Internet",
+    "Industrial Internet"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家网信办",
+        "name_en": "Cyberspace Administration of China"
+      },
+      {
+        "name_zh": "国家发展改革委",
+        "name_en": "National Development and Reform Commission"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-gov_cn_yaowen-24b06a",
+  "is_cluster_canonical": false,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1795651937129257.html",
+      "title_zh": "6G要来了！《新一代通信网建设实施方案》发布",
+      "published_at": "2026-11-26T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

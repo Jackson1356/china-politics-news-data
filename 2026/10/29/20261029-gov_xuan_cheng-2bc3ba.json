@@ -1,0 +1,86 @@
+{
+  "id": "20261029-gov_xuan_cheng-2bc3ba",
+  "source": "gov_xuan_cheng",
+  "source_name_zh": "宣城市政府网",
+  "source_name_en": "宣城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xuan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xuancheng.gov.cn/Content/show/1735234.html",
+  "title_zh": "市政府党组（扩大）会议暨市政府党组理论学习中心组会议召开",
+  "title_en": "Xuancheng Government Party Group Holds Expanded Meeting and Theoretical Study Session",
+  "summary_zh": "10月28日上午，宣城市政府党组召开扩大会议暨理论学习中心组会议，市长邓继敢主持，学习中央精神并部署安全生产、民营经济等工作。",
+  "summary_en": "On the morning of Oct 28, Xuancheng Mayor Deng Jigang chaired an expanded meeting of the municipal government Party group and a theoretical study session, deploying work on safety and the private economy.",
+  "body_zh": "10月28日上午，市政府党组（扩大）会议暨市政府党组理论学习中心组会议召开。市政府党组书记、市长邓继敢主持会议并讲话，市领导蔡毅、董红明、陶晓海出席。\n会议集中学习了习近平总书记重要讲话、重要指示精神，传达学习近期国务院常务会议、全国安全生产视频会议精神，学习省第十二次党代会以及省委十二届一次全会精神，听取《中华人民共和国民营经济促进法》解读学习讲座。\n会议指出，要深学细悟习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话精神，坚守理想信念宗旨，在奋力往前赶、打造“桥头堡”上持续发力、担当尽责，同心协力走好新的长征路。要认真学习贯彻习近平总书记在10月23日中共中央政治局会议上的重要讲话精神，以更高标准、更实举措抓好全面从严治党各项工作，纵深推进政府系统党风廉政建设，持续营造风清气正的政治生态。要深刻汲取云南腾冲旅居小镇违规扩建问题教训，坚持以案为鉴、抓好检视整改，努力以实干实绩践行正确政绩观。\n会议强调，要深入学习贯彻总书记在内蒙古乌兰察布考察时的重要讲话重要指示精神，认真落实国务院常务会议部署要求，准确把握国家宏观政策导向，统筹抓好“人工智能+”行动、服务业扩能提质、全面绿色转型等各项工作，因地制宜推动高质量发展。要认真学习贯彻省第十二次党代会精神，对标省、市党代会新部署、新要求提早谋划，确保党中央及省委、市委决策部署在市政府系统落地生根。\n会议指出，要严格落实《中国共产党领导全面依法治国工作条例》，发挥法治固根本、稳预期、利长远的保障作用，不断提升政府系统依法行政水平。要认真贯彻落实《中华人民共和国民营经济促进法》，持续创优营商环境，规范涉企执法，推动全市民营经济高质量发展。\n会议强调，要深入学习贯彻习近平总书记对西藏那曲市巴青县7.0级地震作出的重要指示精神和全国安全生产视频会议精神，树立极限思维、底线思维，紧盯秋冬季矿山、城镇燃气、建筑施工、森林防火等重点领域、重点环节，进一步压紧压实工作责任，提高风险隐患排查整治质效，确保人民群众生命财产安全。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-28",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "安全生产",
+    "民营经济",
+    "党风廉政建设"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "安全生产",
+      "name_en": "Work Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民营经济",
+      "name_en": "Private Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党风廉政建设",
+      "name_en": "Party Conduct and Clean Government"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "安全生产",
+    "民营经济",
+    "党风廉政建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "Work Safety",
+    "Private Economy",
+    "Party Conduct and Clean Government"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "邓继敢"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261029-gov_xuan_cheng-2bc3ba",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20260910-gov_wu_hu-afeac5",
+  "source": "gov_wu_hu",
+  "source_name_zh": "芜湖市政府网",
+  "source_name_en": "芜湖 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_hu",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuhu.gov.cn/xwzx/zwyw/41314369.html",
+  "title_zh": "中国人民银行芜湖市分行与湾沚区政府签订战略合作协议",
+  "title_en": "PBOC Wuhu Branch Signs Strategic Cooperation Agreement with Wanzhi District Government",
+  "summary_zh": "日前，中国人民银行芜湖市分行与芜湖市湾沚区人民政府签署战略合作协议，聚焦金融支持低空经济高质量发展，助力打造通用航空产业基地。",
+  "summary_en": "The Wuhu branch of the People's Bank of China signed a strategic cooperation agreement with the Wanzhi District government in Wuhu to boost the high-quality development of the low-altitude economy and build a general aviation industry base.",
+  "body_zh": "中国人民银行芜湖市分行与湾沚区政府签订战略合作协议\n本报讯（记者 吕成）日前，中国人民银行芜湖市分行与湾沚区人民政府正式签署《金融支持低空经济高质量发展战略合作协议》，双方将立足湾沚区低空经济产业特色，引导金融资源配置，助力湾沚区加快打造全国领先的通用航空产业基地和创新高地。\n“此次合作是芜湖金融部门进一步深化央地合作，扎实推进‘金融小院’建设，探索区域金融管理与服务新模式的重要举措。”中国人民银行芜湖市分行相关负责人表示。据介绍，此次战略合作协议的签订聚焦政策协调与信息共享、货币政策工具运用与信贷支持、信贷联动与产业基金、融资租赁与多元化融资、服务保障与金融生态建设五方面内容，通过在合作过程中共同探索创新，推动金融与低空经济产业深度融合，努力构建覆盖低空经济企业全生命周期、“股贷债保租”全谱系的金融服务体系，助力低空经济成为区域经济高质量发展的重要增长极。",
+  "image_url": null,
+  "published_at": "2026-09-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-11T08:53:51Z",
+  "topic": "economy",
+  "keywords": [
+    "低空经济",
+    "金融支持",
+    "战略合作",
+    "通用航空"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-WH",
+      "name_zh": "芜湖",
+      "name_en": "Wuhu"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "湾沚区",
+      "name_en": "Wanzhi District"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "低空经济",
+      "name_en": "Low-Altitude Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融支持",
+      "name_en": "Financial Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "通用航空",
+      "name_en": "General Aviation"
+    }
+  ],
+  "tags_zh": [
+    "芜湖",
+    "湾沚区",
+    "低空经济",
+    "金融支持",
+    "战略合作",
+    "通用航空"
+  ],
+  "tags_en": [
+    "Wuhu",
+    "Wanzhi District",
+    "Low-Altitude Economy",
+    "Financial Support",
+    "Strategic Cooperation",
+    "General Aviation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH-WH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260910-gov_wu_hu-afeac5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

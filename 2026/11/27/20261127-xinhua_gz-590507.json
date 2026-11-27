@@ -1,0 +1,127 @@
+{
+  "id": "20261127-xinhua_gz-590507",
+  "source": "xinhua_gz",
+  "source_name_zh": "新华网 贵州",
+  "source_name_en": "Xinhua Guizhou",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://gz.news.cn/20261127/1ace6031f4ae44c3a05fc1658abe09fc/c.html",
+  "title_zh": "李炳军会见中国科学技术大学校长常进一行",
+  "title_en": "Li Bingjun Meets USTC President Chang Jin in Guiyang",
+  "summary_zh": "11月26日，贵州省长李炳军在贵阳会见中国科学技术大学校长、中国科学院院士常进一行，双方就深化学科建设、人才培养等省校合作事项进行交流。",
+  "summary_en": "On Nov 26, Guizhou Governor Li Bingjun met USTC President and CAS academician Chang Jin in Guiyang to discuss deepening provincial-university cooperation in disciplines, talent training and research.",
+  "body_zh": "11月26日，省委副书记、省长李炳军在贵阳会见中国科学技术大学校长、中国科学院院士常进一行。副省长蔡朝林参加。\n李炳军代表省委、省政府对常进一行表示欢迎和感谢。他说，当前全省上下正深入学习宣传贯彻党的二十届五中全会精神，认真落实习近平总书记在贵州考察时的重要讲话精神，按照省委十三届九次全会部署，坚持以高质量发展统揽全局，把产业发展作为重中之重，加快构建贵州特色现代化产业体系，一体推进教育科技人才发展，因地制宜发展新质生产力。希望与中国科学技术大学进一步深化合作，在重点学科建设、人才交流培养等方面取得更多务实成果。\n常进表示，将进一步发挥中国科学技术大学优势，精准对接贵州发展所需，在提升高校办学水平、科技协同攻关、定点帮扶等方面深化省校合作，为贵州高质量发展和现代化建设贡献力量。\n中国科学技术大学和省有关部门、贵州大学、六盘水师范学院负责同志参加。（记者 谌晗）",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "industry",
+  "keywords": [
+    "省校合作",
+    "教育科技人才",
+    "新质生产力"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-bingjun",
+      "name_zh": "李炳军",
+      "name_en": "Li Bingjun"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "常进",
+      "name_en": "Chang Jin"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国科学技术大学",
+      "name_en": "University of Science and Technology of China"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ-GY",
+      "name_zh": "贵阳",
+      "name_en": "Guiyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GZ",
+      "name_zh": "贵州",
+      "name_en": "Guizhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "省校合作",
+      "name_en": "Provincial-University Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "教育科技人才",
+      "name_en": "Education, Science and Technology Talent"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    }
+  ],
+  "tags_zh": [
+    "李炳军",
+    "常进",
+    "中国科学技术大学",
+    "贵阳",
+    "贵州",
+    "省校合作",
+    "教育科技人才",
+    "新质生产力"
+  ],
+  "tags_en": [
+    "Li Bingjun",
+    "Chang Jin",
+    "University of Science and Technology of China",
+    "Guiyang",
+    "Guizhou",
+    "Provincial-University Cooperation",
+    "Education, Science and Technology Talent",
+    "New Quality Productive Forces"
+  ],
+  "entities": {
+    "politicians": [
+      "li-bingjun",
+      {
+        "id": null,
+        "name_zh": "常进"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GZ-GY",
+      "CN-GZ"
+    ],
+    "companies": [
+      {
+        "name_zh": "中国科学技术大学",
+        "name_en": "University of Science and Technology of China"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261127-xinhua_gz-590507",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

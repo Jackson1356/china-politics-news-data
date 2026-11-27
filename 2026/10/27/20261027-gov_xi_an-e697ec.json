@@ -1,0 +1,93 @@
+{
+  "id": "20261027-gov_xi_an-e697ec",
+  "source": "gov_xi_an",
+  "source_name_zh": "西安市政府网",
+  "source_name_en": "西安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-xi_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.xa.gov.cn/xw/jrgz/2114885362817028097.html",
+  "title_zh": "习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本出版",
+  "title_en": "Booklet of Xi Jinping's Speech at the Commemorative Meeting for the 90th Anniversary of the Victory of the Long March Is Published",
+  "summary_zh": "据新华社北京10月26日消息，习近平在纪念中国工农红军长征胜利90周年大会上的讲话单行本已由人民出版社出版，即日起在全国新华书店发行。",
+  "summary_en": "Xinhua News Agency reported on Oct 26 that a booklet of Xi Jinping's speech at the commemorative meeting marking the 90th anniversary of the victory of the Red Army's Long March has been published by the People's Publishing House and is now available at Xinhua Bookstores nationwide.",
+  "body_zh": "中央人民政府门户网站\n陕西省人民政府\nENGLISH\n繁\n退出\n无障碍\n长者专版\n新闻\n公开\n服务\n互动\n市情\n数据\n专题\n搜索\n新闻\n正文\n习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本出版\n发布时间：2026-10-27 09:01\n浏览次数：\n打印\n保存\n大\n中\n小\n新华社北京10月26日电 中共中央总书记、国家主席、中央军委主席习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本，已由人民出版社出版，即日起在全国新华书店发行。",
+  "image_url": null,
+  "published_at": "2026-10-27T12:00:00+00:00",
+  "event_date": "2026-10-26",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "长征精神",
+    "党史学习",
+    "出版物发行"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "长征精神",
+      "name_en": "Long March Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党史学习",
+      "name_en": "Study of Party History"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "出版物发行",
+      "name_en": "Publication Release"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "长征精神",
+    "党史学习",
+    "出版物发行"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Long March Spirit",
+    "Study of Party History",
+    "Publication Release"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261026-qiushi-c43e10",
+  "is_cluster_canonical": false,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

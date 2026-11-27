@@ -1,0 +1,106 @@
+{
+  "id": "20261120-gov_san_ya-f87b5c",
+  "source": "gov_san_ya",
+  "source_name_zh": "三亚市政府网",
+  "source_name_en": "三亚 Government Portal",
+  "source_media_id": "gov-cn-prefecture-san_ya",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HI",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.sanya.gov.cn/sanyasite/tpxw/202611/0e899cbb852148d8b9b704c1ed727214.shtml",
+  "title_zh": "王祺扬会见吉利控股集团客人",
+  "title_en": "Wang Qiyang Meets Geely Holding Group Delegation",
+  "summary_zh": "11月19日，海南省委常委、三亚市委书记王祺扬在三亚会见吉利控股集团董事长李书福一行，双方就深化新能源汽车、智能出行、高等教育等领域务实合作进行交流。",
+  "summary_en": "On Nov 19, Wang Qiyang, Hainan provincial Party standing committee member and Sanya Party secretary, met Geely Holding Group chairman Li Shufu in Sanya to discuss deeper cooperation in new energy vehicles, smart mobility and higher education.",
+  "body_zh": "11月19日，省委常委、市委书记王祺扬在三亚会见吉利控股集团董事长李书福一行。双方围绕用好海南自由贸易港政策，发挥吉利控股集团技术和产业优势、三亚应用场景优势，持续深化新能源汽车、智能出行、高等教育、深海制造和金融开放等领域的务实合作，推动企地互利共赢进行交流。市委常委、秘书长杨希义参加会见。\n（记者 刘少珠/文 袁永东/图）",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "economy",
+  "keywords": [
+    "新能源汽车",
+    "智能出行",
+    "海南自由贸易港",
+    "企地合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-qiyang",
+      "name_zh": "王祺扬",
+      "name_en": "Wang Qiyang"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HI-SY",
+      "name_zh": "三亚",
+      "name_en": "Sanya"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新能源汽车",
+      "name_en": "New Energy Vehicles"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能出行",
+      "name_en": "Smart Mobility"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "海南自由贸易港",
+      "name_en": "Hainan Free Trade Port"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "企地合作",
+      "name_en": "Enterprise-Local Government Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王祺扬",
+    "三亚",
+    "新能源汽车",
+    "智能出行",
+    "海南自由贸易港",
+    "企地合作"
+  ],
+  "tags_en": [
+    "Wang Qiyang",
+    "Sanya",
+    "New Energy Vehicles",
+    "Smart Mobility",
+    "Hainan Free Trade Port",
+    "Enterprise-Local Government Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-qiyang",
+      {
+        "id": null,
+        "name_zh": "杨希义"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HI-SY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261120-gov_san_ya-f87b5c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

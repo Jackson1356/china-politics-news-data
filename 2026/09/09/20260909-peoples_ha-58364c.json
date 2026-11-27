@@ -1,0 +1,105 @@
+{
+  "id": "20260909-peoples_ha-58364c",
+  "source": "peoples_ha",
+  "source_name_zh": "人民网 河南",
+  "source_name_en": "People's Daily Henan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ha.people.com.cn/n2/2026/0909/c351638-41690551.html",
+  "title_zh": "《信息通信行业发展“十五五”规划》发布",
+  "title_en": "15th Five-Year Plan for Information and Communication Industry Released",
+  "summary_zh": "工业和信息化部9月8日发布《信息通信行业发展“十五五”规划》，提出到2030年全面建成新一代通信网，明确5G用户普及率、智能算力等目标。",
+  "summary_en": "On Sept 8, 2026, MIIT released the 15th Five-Year Plan for the ICT industry, aiming to complete next-generation networks by 2030, with 5G penetration of 95% and specific computing targets.",
+  "body_zh": "《信息通信行业发展“十五五”规划》发布\n预计二〇三〇年全面建成新一代通信网\n本报北京9月8日电 （记者王政）工业和信息化部发布《信息通信行业发展“十五五”规划》提出：预计到2030年，全面建成覆盖完善、性能领先的新一代通信网，为到2035年基本实现信息通信行业现代化奠定坚实基础。\n规划集中列出了信息通信行业的多个主要指标。其中包括：到2030年，信息通信行业收入达到4.1万亿元，每万人拥有5G（含5G—A）基站数50个，5G（含5G—A）用户普及率达到95%，千兆以上宽带用户数达到3.2亿户，智能算力规模达到每秒9800百亿亿次浮点运算等。\n规划还提出，推动卫星网络与地面通信网络深度融合，统筹建设星地互联中心，开展手机直连卫星、卫星物联网等应用。研制6G基站、6G智能手机，强化光通信、算力网络、量子通信等信息通信重点领域标准体系建设。\n《 人民日报 》（ 2026年09月09日 02 版）",
+  "image_url": null,
+  "published_at": "2026-09-09T12:00:00+00:00",
+  "event_date": "2026-09-08",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "industry",
+  "keywords": [
+    "信息通信产业",
+    "5G/6G",
+    "新型基础设施建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信息通信产业",
+      "name_en": "Information and Communication Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "5G/6G",
+      "name_en": "5G/6G"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新型基础设施建设",
+      "name_en": "New-type Infrastructure Construction"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "信息通信产业",
+    "5G/6G",
+    "新型基础设施建设"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "Information and Communication Industry",
+    "5G/6G",
+    "New-type Infrastructure Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260909-peoples_ha-58364c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "peoples_sx",
+      "source_tier": 3,
+      "url": "http://sx.people.com.cn/n2/2026/0909/c352664-41690502.html",
+      "title_zh": "《信息通信行业发展“十五五”规划》发布",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_sh",
+      "source_tier": 3,
+      "url": "http://sh.people.com.cn/n2/2026/0909/c134768-41690890.html",
+      "title_zh": "《信息通信行业发展“十五五”规划》发布",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    },
+    {
+      "source": "peoples_yn",
+      "source_tier": 3,
+      "url": "http://yn.people.com.cn/n2/2026/0909/c378440-41690619.html",
+      "title_zh": "《信息通信行业发展“十五五”规划》发布",
+      "published_at": "2026-09-09T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "20260902-gov_chi_feng-ac9fa5",
+  "source": "gov_chi_feng",
+  "source_name_zh": "赤峰市政府网",
+  "source_name_en": "赤峰 Government Portal",
+  "source_media_id": "gov-cn-prefecture-chi_feng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.chifeng.gov.cn/ywdt/cfyw/202609/t20260902_2812736.html",
+  "title_zh": "中国农工民主党赤峰市第八次代表大会召开",
+  "title_en": "8th Congress of CPWDP Chifeng Committee Convened",
+  "summary_zh": "9月1日，中国农工民主党赤峰市第八次代表大会召开，选举产生第八届委员会，白凤强当选主任委员。",
+  "summary_en": "On September 1, the 8th Congress of the Chinese Peasants' and Workers' Democratic Party (CPWDP) Chifeng Committee was held, electing its 8th committee; Bai Fengqiang was elected chairman.",
+  "body_zh": "9月1日，中国农工民主党（以下简称农工党）赤峰市第八次代表大会召开。农工党内蒙古区委会专职副主委徐玉平，市委常委、统战部部长王生才，民建赤峰市委会主委、市人大常委会副主任骆秀燕，市政府党组成员、副市长杨牧，农工党内蒙古区委会常委、市政协副主席郜昕煜，民革赤峰市总支主委、市政协副主席王健出席大会。\n徐玉平充分肯定了五年来农工党赤峰市第七届委员会的工作，希望新一届委员会和全体农工党党员要保持昂扬进取的精神状态，牢记参政党职责使命，深入践行新时代、新征程农工党三大基本任务，切实担负起中国共产党好参谋、好帮手、好同事的政治责任，为推动自治区和赤峰市经济社会高质量发展贡献农工党智慧和力量。\n王生才代表中共赤峰市委向大会表示热烈祝贺。他表示，农工党赤峰市委会要强化政治引领凝聚共识，筑牢团结奋斗的思想根基；发挥界别优势服务大局，践行履职为民的使命担当；加强自身建设锤炼本领，提升代表队伍的整体素质，以奋发有为的精神状态和扎扎实实的履职成果，在建设社会主义现代化赤峰的新征程中书写多党合作事业的崭新篇章。\n会议听取和审议了农工党赤峰市第七届委员会工作报告，选举产生了农工党赤峰市第八届委员会，通过农工党赤峰市第八次代表大会决议，白凤强当选为农工党赤峰市第八届委员会主任委员。",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-01",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-NM-CF",
+      "name_zh": "赤峰",
+      "name_en": "Chifeng"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multi-party Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "wang-jian-taizhou",
+      "name_zh": "王健",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "赤峰",
+    "多党合作",
+    "王健"
+  ],
+  "tags_en": [
+    "Chifeng",
+    "Multi-party Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-jian-taizhou",
+      {
+        "id": null,
+        "name_zh": "贺他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-NM-CF"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260902-gov_chi_feng-ac9fa5",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

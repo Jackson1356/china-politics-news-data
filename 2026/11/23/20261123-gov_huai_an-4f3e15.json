@@ -1,0 +1,117 @@
+{
+  "id": "20261123-gov_huai_an-4f3e15",
+  "source": "gov_huai_an",
+  "source_name_zh": "淮安市政府网",
+  "source_name_en": "淮安 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_an",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaian.gov.cn/col/16654_124374/art/17934624/1795422560781S9X5hDAN.html",
+  "title_zh": "省第十五次党代会淮安市代表团举行第一次全体会议",
+  "title_en": "Huai'an Delegation to Jiangsu Provincial 15th Party Congress Holds First Plenary Meeting",
+  "summary_zh": "2026年11月22日下午，江苏省第十五次党代会淮安市代表团举行第一次全体会议，市委书记顾坤主持会议并讲话。",
+  "summary_en": "On the afternoon of Nov 22, 2026, the Huai'an delegation to the 15th Jiangsu Provincial Party Congress held its first plenary meeting, chaired by municipal party secretary Gu Kun, who also delivered remarks.",
+  "body_zh": "您所在的位置：　首页 > 新闻资讯 > 图片新闻\n省第十五次党代会淮安市代表团举行第一次全体会议\n关联阅读:\n中国共产党江苏省第十五次代表大会11月23日开幕。22日下午，省第十五次党代会淮安市代表团举行第一次全体会议。省党代表、省委常委、常务副省长张文兵，省党代表、副省长马士光，省党代表、省政协副主席方伟出席会议，省党代表、市委书记顾坤主持会议并讲话，省党代表、市委副书记、市长杨新忠出席会议。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党的建设",
+    "代表履职"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-HA",
+      "name_zh": "淮安",
+      "name_en": "Huai'an"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "代表履职",
+      "name_en": "Delegate Duties"
+    },
+    {
+      "kind": "person",
+      "id": "zhang-wenbing",
+      "name_zh": "张文兵",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江苏",
+    "淮安",
+    "党代会",
+    "党的建设",
+    "代表履职",
+    "张文兵"
+  ],
+  "tags_en": [
+    "Jiangsu",
+    "Huai'an",
+    "Party Congress",
+    "Party Building",
+    "Delegate Duties"
+  ],
+  "entities": {
+    "politicians": [
+      "zhang-wenbing",
+      {
+        "id": null,
+        "name_zh": "杨新忠"
+      },
+      {
+        "id": null,
+        "name_zh": "方伟"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-HA"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261123-gov_huai_an-4f3e15",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huai_an",
+      "source_tier": null,
+      "url": "https://www.huaian.gov.cn/col/16655_185673/art/17934624/1795391143186A9NmjuT0.html",
+      "title_zh": "省第十五次党代会淮安市代表团举行第一次全体会议",
+      "published_at": "2026-11-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

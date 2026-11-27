@@ -1,0 +1,97 @@
+{
+  "id": "20261024-gov_zhu_hai-db41ad",
+  "source": "gov_zhu_hai",
+  "source_name_zh": "珠海市政府网",
+  "source_name_en": "珠海 Government Portal",
+  "source_media_id": "gov-cn-prefecture-zhu_hai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-GD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.zhuhai.gov.cn/xw/xwzx/zhyw/content/post_3952357.html",
+  "title_zh": "2026粤港澳大湾区服务贸易大会珠海活动启动",
+  "title_en": "Zhuhai Events at 2026 Greater Bay Area Services Trade Conference Kick Off",
+  "summary_zh": "10月23日，2026粤港澳大湾区服务贸易大会珠海活动在珠海规划展览馆启动，市长吴泽桐出席并致辞，现场举行重点项目集中签约。",
+  "summary_en": "On Oct 23, the Zhuhai program of the 2026 Guangdong-Hong Kong-Macao Greater Bay Area Services Trade Conference opened at the Zhuhai Planning Exhibition Hall, with Mayor Wu Zetong attending and key projects signed on site.",
+  "body_zh": "2026粤港澳大湾区服务贸易大会珠海活动启动 共享湾区发展新机遇 共谱开放合作新篇章\n珠海活动场外展示区。\n2026粤港澳大湾区服务贸易大会珠海活动展区现场。\n10月23日，2026粤港澳大湾区服务贸易大会珠海活动启动仪式在珠海规划展览馆举办。市委副书记、市长吴泽桐，省政府副秘书长郭亦乐出席活动。\n吴泽桐向各位嘉宾的到来表示欢迎，向长期以来关心支持珠海开放发展的社会各界朋友表示感谢。他说，近年来，珠海深入学习贯彻习近平总书记关于贸易强国建设的重要论述，认真落实省委、省政府决策部署，依托区位独特、平台集聚、制度创新等优势，推动服务贸易向新向优发展。珠海将以办好本次大会为契机，以争创国家服务贸易创新发展示范区为牵引，加快建设港珠澳大桥经贸新通道，强化珠港澳机场合作，用足“两车北上”“粤港澳游艇自由行”等政策红利，主动对接国际高标准经贸规则，让更多“珠海服务”“湾区服务”走向世界。珠海诚邀海内外企业与业界朋友实地考察、对接合作，与大家共享湾区发展新机遇，共谱开放合作新篇章。\n启动仪式上，香港机场管理局、澳门国际机场专营股份有限公司、香港游艇会代表分别作主旨发言，并举行重点项目集中签约仪式。其间，2026粤港澳美食嘉年华暨粤味21厨味争霸赛同步启动。\n粤港澳大湾区服务贸易大会连续五年落地珠海。本届大会聚焦跨境物流、服务消费、粤港澳游艇自由行三大板块，通过“展览展示、供需对接、实地考察、互动体验”等形式，全面展示粤港澳大湾区在服务贸易领域的新场景、新实践。\n省商务厅副厅长何军，市领导黄晓鹏，珠海出入境边防检查总站副总站长梁建伟，珠海海事局二级巡视员梁宗盛，来自全国7个省及省内12个地市的商务部门负责同志，各企业家和商协会代表等参加活动。",
+  "image_url": null,
+  "published_at": "2026-10-24T12:00:00+00:00",
+  "event_date": "2026-10-23",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "economy",
+  "keywords": [
+    "服务贸易",
+    "粤港澳大湾区",
+    "对外开放合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wu-zetong-zhuhai",
+      "name_zh": "吴泽桐",
+      "name_en": "Wu Zetong"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-ZH",
+      "name_zh": "珠海",
+      "name_en": "Zhuhai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "服务贸易",
+      "name_en": "Services Trade"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "粤港澳大湾区",
+      "name_en": "Guangdong-Hong Kong-Macao Greater Bay Area"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放合作",
+      "name_en": "Opening-Up and Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "吴泽桐",
+    "珠海",
+    "服务贸易",
+    "粤港澳大湾区",
+    "对外开放合作"
+  ],
+  "tags_en": [
+    "Wu Zetong",
+    "Zhuhai",
+    "Services Trade",
+    "Guangdong-Hong Kong-Macao Greater Bay Area",
+    "Opening-Up and Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wu-zetong-zhuhai",
+      {
+        "id": null,
+        "name_zh": "郭亦乐"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-ZH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261024-gov_zhu_hai-db41ad",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

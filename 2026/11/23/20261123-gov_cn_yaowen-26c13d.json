@@ -1,0 +1,123 @@
+{
+  "id": "20261123-gov_cn_yaowen-26c13d",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087065.htm",
+  "title_zh": "刑事法律援助全球会议在京开幕 王小洪出席并致辞",
+  "title_en": "Global Conference on Criminal Legal Aid Opens in Beijing; Wang Xiaohong Attends and Addresses the Event",
+  "summary_zh": "11月23日，刑事法律援助全球会议在北京开幕，国务委员、公安部部长王小洪出席并致辞，会前集体会见联合国毒罪办执行主任朱马及与会代表。",
+  "summary_en": "On Nov 23, the Global Conference on Criminal Legal Aid opened in Beijing, where State Councilor and Public Security Minister Wang Xiaohong delivered remarks and met UNODC Executive Director Ghada Waly and other delegates beforehand.",
+  "body_zh": "刑事法律援助全球会议在京开幕\n王小洪出席并致辞\n新华社北京11月23日电（记者 伍岳）刑事法律援助全球会议23日在京开幕，国务委员、公安部部长王小洪出席并致辞。\n王小洪指出，在习近平法治思想科学指引下，中国坚持全面依法治国，统筹推进科学立法、严格执法、公正司法、全民守法，深化公共法律服务体系建设，有力保障了人民群众合法权益。\n王小洪表示，中方愿同各方积极践行习近平主席提出的四大全球倡议，遵守国际法治、坚定维护联合国权威和地位，坚守公平正义、推动法治成果惠及各国人民，深化团结协作、提升预防和打击犯罪能力，以法治方式应对安全风险挑战，促进共同发展进步，携手推动构建人类命运共同体。\n开幕式前，王小洪集体会见联合国毒罪办执行主任朱马、与会国家司法部长和专家代表。\n刑事法律援助全球会议23日至25日在京召开，由中国司法部与联合国毒罪办联合举办，主题是“刑事法律援助——变革，科技和以人为本的司法”，来自25个国家的法律界及相关社会团体、学术界代表以及相关国际组织代表等200余人参会。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "刑事法律援助",
+    "法治建设",
+    "国际司法合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xiaohong",
+      "name_zh": "王小洪",
+      "name_en": "Wang Xiaohong"
+    },
+    {
+      "kind": "institution",
+      "id": "MOJ",
+      "name_zh": "司法部",
+      "name_en": "Ministry of Justice"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "刑事法律援助",
+      "name_en": "Criminal Legal Aid"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "法治建设",
+      "name_en": "Rule of Law"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际司法合作",
+      "name_en": "International Judicial Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王小洪",
+    "司法部",
+    "北京",
+    "刑事法律援助",
+    "法治建设",
+    "国际司法合作",
+    "习近平"
+  ],
+  "tags_en": [
+    "Wang Xiaohong",
+    "Ministry of Justice",
+    "Beijing",
+    "Criminal Legal Aid",
+    "Rule of Law",
+    "International Judicial Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      "wang-xiaohong",
+      {
+        "id": null,
+        "name_zh": "洪集体"
+      }
+    ],
+    "institutions": [
+      "MOJ"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261123-gov_cn_yaowen-26c13d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087065.htm",
+      "title_zh": "刑事法律援助全球会议在京开幕 王小洪出席并致辞",
+      "published_at": "2026-11-23T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "20261127-gov_huang_shi-34f555",
+  "source": "gov_huang_shi",
+  "source_name_zh": "黄石市政府网",
+  "source_name_en": "黄石 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huang_shi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HB",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.huangshi.gov.cn/xwdt/tt/202611/t20261127_1377049.html",
+  "title_zh": "市人大常委会机关举行11月份“人大讲堂”活动",
+  "title_en": "Huangshi Municipal People's Congress Standing Committee Holds November \"People's Congress Lecture Hall\"",
+  "summary_zh": "11月26日，黄石市人大常委会机关举行11月份“人大讲堂”活动，市人大常委会党组书记、主任俞远汉出席并讲话，强调高质量办好人大代表议案建议。",
+  "summary_en": "On Nov 26, the Huangshi Municipal People's Congress Standing Committee held its November \"People's Congress Lecture Hall\" event, where Party secretary and director Yu Yuanhan called for high-quality handling of deputies' proposals and suggestions.",
+  "body_zh": "26日，市人大常委会机关举行11月份“人大讲堂”（悦读月享、专题论坛）活动。市人大常委会党组书记、主任俞远汉出席活动并讲话。\n俞远汉强调，高质量办好人大代表议案、建议，是一项严肃的政治工作，是坚持人民代表大会制度、保证人民当家作主的必然要求、法定性工作，是积极回应人民关切、助力增长极建设的重要实践，是政府部门履行法定职责、不断改进工作的群众路线、民心工程。要严把“提”的关口，深挖调研端、畅通沟通端、严把审核端，让建议在源头立得住。要校准“交”的方位，精准研判、精准配对、精准认领，让责任在起点捊得清。要下足“办”的功夫，坚持见面问诊、开门办理、办结验收，让办理在全过程有实招。要强化“督”的刚性，做到建账销号、协同联动、较真碰硬，让承诺在中途不落空。要树好“评”的标尺，抓实评价、抓严评议、抓好评选，让成效在终端见真章。\n市人大常委会党组副书记李文波，市人大常委会党组副书记、副主任王建华，副主任赵重迎、汪国栋、王斌出席活动，秘书长严荣勇主持活动。（胡波）",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-26",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "party",
+  "keywords": [
+    "人大代表议案建议办理",
+    "人民代表大会制度",
+    "民心工程"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人大代表议案建议办理",
+      "name_en": "Handling of NPC Deputy Proposals"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人民代表大会制度",
+      "name_en": "People's Congress System"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "民心工程",
+      "name_en": "Livelihood Projects"
+    },
+    {
+      "kind": "person",
+      "id": "wang-bin-hainan",
+      "name_zh": "王斌",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "人大代表议案建议办理",
+    "人民代表大会制度",
+    "民心工程",
+    "王斌"
+  ],
+  "tags_en": [
+    "Handling of NPC Deputy Proposals",
+    "People's Congress System",
+    "Livelihood Projects"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-bin-hainan"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261127-gov_huang_shi-34f555",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_huang_shi",
+      "source_tier": 4,
+      "url": "https://www.huangshi.gov.cn/xwdt/tt/202611/t20261127_1377049.html",
+      "title_zh": "市人大常委会机关举行11月份“人大讲堂”活动",
+      "published_at": "2026-11-27T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

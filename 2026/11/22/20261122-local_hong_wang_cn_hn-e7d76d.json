@@ -1,0 +1,101 @@
+{
+  "id": "20261122-local_hong_wang_cn_hn-e7d76d",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646055/66/16497887.html",
+  "title_zh": "习近平出席亚太经合组织领导人非正式会议欢迎宴会并致辞",
+  "title_en": "Xi Jinping Delivers Remarks at Welcome Banquet for APEC Economic Leaders' Meeting",
+  "summary_zh": "11月18日晚，国家主席习近平和夫人彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会，习近平发表致辞。",
+  "summary_en": "On the evening of Nov 18, President Xi Jinping and his wife Peng Liyuan hosted a welcome banquet for guests attending the 33rd APEC Economic Leaders' Meeting, where Xi delivered remarks.",
+  "body_zh": "11月18日晚，国家主席习近平和夫人彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会。习近平主席发表致辞。\n习近平指出，看千年的中国去西安，看五百年的中国去北京，看一百年的中国去上海，看五十年的中国来深圳。",
+  "image_url": null,
+  "published_at": "2026-11-22T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "元首外交",
+    "亚太合作",
+    "对外开放"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "元首外交",
+      "name_en": "Head-of-state diplomacy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "对外开放",
+      "name_en": "Opening-up"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "元首外交",
+    "亚太合作",
+    "对外开放"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "Head-of-state diplomacy",
+    "Asia-Pacific cooperation",
+    "Opening-up"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261122-local_hong_wang_cn_hn-e7d76d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "qingdaonews",
+      "source_tier": 4,
+      "url": "http://news.qingdaonews.com/zonghe/2026-11/22/content_23767927.htm",
+      "title_zh": "独家视频丨习近平：看五十年的中国来深圳",
+      "published_at": "2026-11-22T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

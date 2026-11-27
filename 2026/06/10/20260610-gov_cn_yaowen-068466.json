@@ -1,0 +1,88 @@
+{
+  "id": "20260610-gov_cn_yaowen-068466",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/lianbo/202606/content_7071714.htm",
+  "title_zh": "人形机器人与具身智能实景实训专项行动启动",
+  "title_en": "Special Action for Real-scene Training of Humanoid Robots and Embodied AI Launched",
+  "summary_zh": "工业和信息化部与国务院国资委联合启动2026年度人形机器人与具身智能实景实训专项行动，旨在通过实景应用验证推动产业高质量发展。",
+  "summary_en": "MIIT and SASAC jointly launched the 2026 Special Action for Real-scene Training of Humanoid Robots and Embodied AI to drive high-quality industrial development through real-scene application verification.",
+  "body_zh": "工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动，提出到2026年底，人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署，开启“作业模式”；形成百个以上高价值应用场景，进一步丰富具身智能应用谱系，带动形成万台级规模落地能力。\n专项行动聚焦工业、服务、特种等领域重点场景，部署打造实景实训空间、组建创新应用联合体、攻关实用化作业技能、加强实景应用验证与常态部署、强化关键要素保障、凝练成熟经验等六项重点任务，加速构建“实景实训—数据沉淀—产品迭代—规模部署”闭环，支撑人形机器人与具身智能产业高质量发展。\n其中，将重点面向生产制造、检测分析、维修维护、仓储物流、餐饮零售、医疗康养、安全生产、应急救援、防灾减灾等重点场景，依托国家人工智能创新应用先导区，推动构建高水平实训空间、高泛化具身智能模型、高质量实景数据集、高性能整机产品。（记者 刘温馨）",
+  "image_url": null,
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "industry",
+  "keywords": [
+    "人形机器人",
+    "具身智能"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MIIT",
+      "name_zh": "工业和信息化部",
+      "name_en": "Ministry of Industry and Information Technology"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国务院国资委",
+      "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人形机器人",
+      "name_en": "Humanoid Robots"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "具身智能",
+      "name_en": "Embodied AI"
+    }
+  ],
+  "tags_zh": [
+    "工业和信息化部",
+    "国务院国资委",
+    "人形机器人",
+    "具身智能"
+  ],
+  "tags_en": [
+    "Ministry of Industry and Information Technology",
+    "State-owned Assets Supervision and Administration Commission of the State Council",
+    "Humanoid Robots",
+    "Embodied AI"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "常态"
+      }
+    ],
+    "institutions": [
+      "MIIT"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国务院国资委",
+        "name_en": "State-owned Assets Supervision and Administration Commission of the State Council"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260610-gov_cn_yaowen-068466",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

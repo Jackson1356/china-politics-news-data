@@ -1,0 +1,100 @@
+{
+  "id": "20260902-xinhua_politics-58f94b",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20260902/d9fd379956f14ee9a1f126b60f2b931e/c.html",
+  "title_zh": "“新疆两史”发布：立足中华民族共同体讲好新疆故事",
+  "title_en": "Publication of 'Two Histories of Xinjiang': Telling Xinjiang's Story from Perspective of Chinese National Community",
+  "summary_zh": "9月2日，由新疆维吾尔自治区党委宣传部主办的《中国新疆地区历史》《中国新疆地区宗教史》新书发布仪式在北京举行。",
+  "summary_en": "On September 2, the publication ceremony for 'The History of China's Xinjiang Region' and 'The History of Religion in China's Xinjiang Region' was held in Beijing, hosted by the Publicity Department of the Xinjiang Uygur Autonomous Regional Committee of the CPC.",
+  "body_zh": "9月2日，由新疆维吾尔自治区党委宣传部主办的《中国新疆地区历史》《中国新疆地区宗教史》新书发布仪式在北京举行。\n作为通史类著作，《中国新疆地区历史》和《中国新疆地区宗教史》立足中华民族共同体视野，系统梳理新疆历史脉络、精准阐释新疆宗教演变规律，展现了大一统国家治理体系下新疆繁荣发展的恢弘史诗和多种宗教并存格局演进的历史图景，深刻讲述中国共产党治理新疆的光辉历程，全面呈现新时代党的治疆方略的成功实践。\n“新疆两史”坚持历史唯物主义，坚持以铸牢中华民族共同体意识为主线，坚持我国宗教中国化方向，兼具学术深度与现实意义，对普及新疆地区历史、凝聚思想共识，讲好新时代新疆故事，引导海内外受众正确认识新疆地区历史、宗教史具有积极作用。\n记者：梅元龙 范思翔\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "event_date": "2026-09-02",
+  "ingested_at": "2026-09-03T08:50:32Z",
+  "topic": "party",
+  "keywords": [
+    "新疆历史",
+    "中华民族共同体"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "新疆维吾尔自治区党委宣传部",
+      "name_en": "Publicity Department of the CPC Xinjiang Uygur Autonomous Regional Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新疆历史",
+      "name_en": "Xinjiang History"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中华民族共同体",
+      "name_en": "Chinese National Community"
+    }
+  ],
+  "tags_zh": [
+    "新疆维吾尔自治区党委宣传部",
+    "北京",
+    "新疆历史",
+    "中华民族共同体"
+  ],
+  "tags_en": [
+    "Publicity Department of the CPC Xinjiang Uygur Autonomous Regional Committee",
+    "Beijing",
+    "Xinjiang History",
+    "Chinese National Community"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "史新书"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "新疆维吾尔自治区党委宣传部",
+        "name_en": "Publicity Department of the CPC Xinjiang Uygur Autonomous Regional Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260902-xinhua_politics-58f94b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_si_chuan_zai_xian_cn_sc",
+      "source_tier": 3,
+      "url": "https://www.scol.com.cn/zlts_ss/202609/83315626.html",
+      "title_zh": "“新疆两史”发布：立足中华民族共同体讲好新疆故事",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

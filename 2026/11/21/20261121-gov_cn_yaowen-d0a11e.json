@@ -1,0 +1,82 @@
+{
+  "id": "20261121-gov_cn_yaowen-d0a11e",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086999.htm",
+  "title_zh": "10月份工业经济总体平稳 发展质量持续提升",
+  "title_en": "Industrial Economy Remains Stable in October as Development Quality Continues to Improve",
+  "summary_zh": "10月份我国工业生产总体平稳，装备制造业和高技术制造业较快增长，高技术制造业增速创近五年新高，工业品出口交货值创近五年最高增速。",
+  "summary_en": "China's industrial output held steady in October, with high-tech manufacturing growing 17.6 percent, its fastest pace in nearly five years, and export delivery value hitting a five-year high.",
+  "body_zh": "10月份，我国工业生产总体平稳，新动能支撑有力，工业经济持续向新向优向好发展。\n10月份，我国工业生产保持较快增长，多数行业实现增长。规模以上装备制造业增加值同比增长10.6%，占全部规模以上工业比重为37.9%，同比提高1.8个百分点，产业结构持续改善。规模以上高技术制造业增加值同比增长17.6%，增速较上月加快2.3个百分点，创下了近五年来的最高增速。\n从具体的产品看，10月份，我国集成电路产量增长了21.9%，工业机器人产量增长26%；3D打印设备表现尤其突出，产量增长了85.9%。\n工业品出口再创新高，规模以上工业企业出口交货值创近五年来最高增速，出口结构进一步优化。",
+  "image_url": null,
+  "published_at": "2026-11-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "economy",
+  "keywords": [
+    "工业经济",
+    "高技术制造业",
+    "工业品出口",
+    "产业结构优化"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业经济",
+      "name_en": "Industrial Economy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高技术制造业",
+      "name_en": "High-tech Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "工业品出口",
+      "name_en": "Industrial Exports"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业结构优化",
+      "name_en": "Industrial Upgrading"
+    }
+  ],
+  "tags_zh": [
+    "工业经济",
+    "高技术制造业",
+    "工业品出口",
+    "产业结构优化"
+  ],
+  "tags_en": [
+    "Industrial Economy",
+    "High-tech Manufacturing",
+    "Industrial Exports",
+    "Industrial Upgrading"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261121-gov_cn_yaowen-d0a11e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

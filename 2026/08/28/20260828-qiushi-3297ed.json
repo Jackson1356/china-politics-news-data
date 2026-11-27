@@ -1,0 +1,99 @@
+{
+  "id": "20260828-qiushi-3297ed",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20260828/55b9d500d0464183ae88e93750242027/c.html",
+  "title_zh": "国家主席习近平任免驻外大使",
+  "title_en": "President Xi Jinping Appoints and Recalls Ambassadors",
+  "summary_zh": "国家主席习近平根据全国人大常委会决定，任免驻斯里兰卡、乌干达、澳大利亚等国的驻外大使，涉及多名大使的卸任与任命。",
+  "summary_en": "President Xi Jinping, based on decisions of the NPC Standing Committee, appointed and recalled ambassadors to Sri Lanka, Uganda, Australia, and other countries.",
+  "body_zh": "新华社北京8月28日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使：\n一、免去戚振宏的中华人民共和国驻斯里兰卡民主社会主义共和国特命全权大使职务；\n任命魏华祥为中华人民共和国驻斯里兰卡民主社会主义共和国特命全权大使。\n二、免去张利忠的中华人民共和国驻乌干达共和国特命全权大使职务；\n任命邬光荣为中华人民共和国驻乌干达共和国特命全权大使。\n三、免去肖千的中华人民共和国驻澳大利亚联邦特命全权大使职务；\n任命刘劲松为中华人民共和国驻澳大利亚联邦特命全权大使。\n四、免去沈健的中华人民共和国常驻联合国日内瓦办事处和瑞士其他国际组织副代表、特命全权裁军事务大使职务；\n任命李驰江为中华人民共和国常驻联合国日内瓦办事处和瑞士其他国际组织副代表、特命全权裁军事务大使。\n网站编辑 -\n王雅雯\n张盼 审核 - 刘小畅",
+  "image_url": null,
+  "published_at": "2026-08-28T12:00:00+00:00",
+  "event_date": "2026-08-28",
+  "ingested_at": "2026-08-29T10:49:46Z",
+  "topic": "foreign",
+  "keywords": [
+    "外交人事",
+    "驻外大使"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交人事",
+      "name_en": "Diplomatic Personnel Changes"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "驻外大使",
+      "name_en": "Ambassadors Abroad"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "外交人事",
+    "驻外大使"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Diplomatic Personnel Changes",
+    "Ambassadors Abroad"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260828-qiushi-3297ed",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_cn_yaowen",
+      "source_tier": 1,
+      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079428.htm",
+      "title_zh": "国家主席习近平任免驻外大使",
+      "published_at": "2026-08-28T12:00:00+00:00"
+    },
+    {
+      "source": "cpcnews",
+      "source_tier": 1,
+      "url": "http://cpc.people.com.cn/n1/2026/0829/c64094-40788421.html",
+      "title_zh": "国家主席习近平任免驻外大使",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

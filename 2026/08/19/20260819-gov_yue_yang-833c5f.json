@@ -1,0 +1,133 @@
+{
+  "id": "20260819-gov_yue_yang-833c5f",
+  "source": "gov_yue_yang",
+  "source_name_zh": "岳阳市政府网",
+  "source_name_en": "岳阳 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yue_yang",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-HN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yueyang.gov.cn/zwdt/content_2394382.html",
+  "title_zh": "谢卫江会见博鼎集团董事长王立峰等一行",
+  "title_en": "Xie Weijiang Meets Boding Group Chairman Wang Lifeng and Delegation",
+  "summary_zh": "8月17日，湖南省委副书记、岳阳市委书记谢卫江会见博鼎集团董事长王立峰一行，双方就深化合作、推动项目落地进行交流，谢卫江表示将优化营商环境。",
+  "summary_en": "On August 17, Xie Weijiang, Deputy Secretary of the Hunan Provincial Party Committee and Secretary of the Yueyang Municipal Party Committee, met with Wang Lifeng, Chairman of Boding Group, and his delegation to discuss deepening cooperation and project implementation, pledging to optimize the business environment.",
+  "body_zh": "8月17日，省委副书记、岳阳市委书记谢卫江会见博鼎集团董事长王立峰、山东融汇物产集团党委副书记张雷、海锋集团董事长吴伟锋一行。市委副书记、代理市长唐浩然参加。\n谢卫江代表市委、市政府对王立峰、张雷、吴伟锋一行表示欢迎，对大家支持岳阳经济社会发展表示感谢。希望大家与岳阳进一步加强交流对接，找到更多契合点，谋划落地更多优质项目，实现共赢发展。市委、市政府将持续优化营商环境，为企业在岳投资发展提供良好服务。\n王立峰、张雷、吴伟锋表示，将抢抓机遇优势，深度参与岳阳现代化产业体系建设，为岳阳高质量发展贡献力量。\n市领导李劲松参加。",
+  "image_url": null,
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-19T04:49:15Z",
+  "topic": "economy",
+  "keywords": [
+    "营商环境",
+    "产业合作",
+    "招商引资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xie-weijiang",
+      "name_zh": "谢卫江",
+      "name_en": "Xie Weijiang"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "岳阳市委",
+      "name_en": "Yueyang Municipal Party Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-HN-YY",
+      "name_zh": "岳阳",
+      "name_en": "Yueyang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营商环境",
+      "name_en": "Business Environment"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "产业合作",
+      "name_en": "Industrial Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "招商引资",
+      "name_en": "Investment Attraction"
+    },
+    {
+      "kind": "person",
+      "id": "wu-wei-shanghai",
+      "name_zh": "吴伟",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "吴伟锋",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "谢卫江",
+    "岳阳市委",
+    "岳阳",
+    "营商环境",
+    "产业合作",
+    "招商引资",
+    "吴伟",
+    "吴伟锋"
+  ],
+  "tags_en": [
+    "Xie Weijiang",
+    "Yueyang Municipal Party Committee",
+    "Yueyang",
+    "Business Environment",
+    "Industrial Cooperation",
+    "Investment Attraction"
+  ],
+  "entities": {
+    "politicians": [
+      "xie-weijiang",
+      "wu-wei-shanghai",
+      {
+        "id": null,
+        "name_zh": "吴伟锋"
+      },
+      {
+        "id": null,
+        "name_zh": "唐浩然"
+      },
+      {
+        "id": null,
+        "name_zh": "李劲松"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-HN-YY"
+    ],
+    "companies": [
+      {
+        "name_zh": "岳阳市委",
+        "name_en": "Yueyang Municipal Party Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260819-gov_yue_yang-833c5f",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

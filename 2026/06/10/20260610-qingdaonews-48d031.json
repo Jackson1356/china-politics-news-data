@@ -1,0 +1,78 @@
+{
+  "id": "20260610-qingdaonews-48d031",
+  "source": "qingdaonews",
+  "source_name_zh": "青岛新闻网",
+  "source_name_en": "Qingdao News",
+  "source_url": "http://news.qingdaonews.com/zonghe/2026-06/10/content_23739364.htm",
+  "title_zh": "习近平访问朝鲜 开启中朝友谊新篇章",
+  "title_en": "Xi Jinping Visits North Korea to Open New Chapter of China-DPRK Friendship",
+  "summary_zh": "6月8日至9日，国家主席习近平对朝鲜进行国事访问，同金正恩总书记举行会谈并达成一系列重要共识。",
+  "summary_en": "From June 8 to 9, President Xi Jinping paid a state visit to North Korea, held talks with General Secretary Kim Jong Un, and reached a series of important consensuses.",
+  "body_zh": "6月8日至9日，中共中央总书记、国家主席习近平对朝鲜民主主义人民共和国进行国事访问。\n出席盛大欢迎仪式、同金正恩总书记举行会谈、出席欢迎宴会、观看专场文艺演出、参谒中朝友谊塔、参访朝鲜劳动党中央干部学校、出席小范围午宴⋯⋯习近平总书记同金正恩总书记共同出席多场活动，共商中朝关系发展大计，共话两国社会主义美好未来，达成一系列新的重要共识。\n新华社音视频部制作\n公安部备案号：37020202000008\n邮编：266071\n邮箱：editor@qingdaonews.com\n增值电信许可证：鲁B2-20040044\n鲁B2-20051014-1",
+  "image_url": null,
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "event_date": "2026-06-08",
+  "ingested_at": "2026-06-11T09:26:48Z",
+  "topic": "foreign",
+  "keywords": [
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "朝鲜",
+      "name_en": "North Korea"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中朝关系",
+      "name_en": "China-DPRK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国事访问",
+      "name_en": "State Visit"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "朝鲜",
+    "中朝关系",
+    "国事访问"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "North Korea",
+    "China-DPRK Relations",
+    "State Visit"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20260610-qingdaonews-48d031",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

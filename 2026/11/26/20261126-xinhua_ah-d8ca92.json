@@ -1,0 +1,140 @@
+{
+  "id": "20261126-xinhua_ah-d8ca92",
+  "source": "xinhua_ah",
+  "source_name_zh": "新华网 安徽",
+  "source_name_en": "Xinhua Anhui",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://ah.news.cn/20261126/35e0342fb8064e5d93574679ec55fb9d/c.html",
+  "title_zh": "李乐成、王东伟与杨元庆举行工作会谈",
+  "title_en": "Li Lecheng and Wang Dongwei Hold Working Talks with Yang Yuanqing",
+  "summary_zh": "11月25日下午，安徽省委书记李乐成、代省长王东伟在合肥与联想集团董事长兼CEO杨元庆举行工作会谈，就深化人工智能等领域合作进行交流。",
+  "summary_en": "On the afternoon of Nov 25, Anhui Party Secretary Li Lecheng and Acting Governor Wang Dongwei held working talks in Hefei with Lenovo Chairman and CEO Yang Yuanqing on deepening cooperation in AI and other fields.",
+  "body_zh": "11月25日下午，省委书记李乐成、代省长王东伟在合肥与联想集团董事长兼首席执行官杨元庆举行工作会谈。省领导覃卫国、蒋曦、王翠凤参加。\n李乐成对杨元庆一行表示欢迎。他说，在习近平总书记重要讲话指示精神指引下，安徽正以新一代智能制造为主攻方向，推动先进制造业扩容提质，因地制宜发展新质生产力。希望联想集团充分发挥优势，进一步提升价值创造能力，与我们深化人工智能等领域合作，联合培养高层次人才，携手实现互利共赢。我们将优化服务保障，为企业发展营造良好环境。\n杨元庆表示，对投资安徽充满信心，将顺应产业变革趋势，优化在皖发展战略，加大投资布局力度，更好助力安徽高质量发展。（宗禾）",
+  "image_url": null,
+  "published_at": "2026-11-26T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "economy",
+  "keywords": [
+    "人工智能",
+    "智能制造",
+    "新质生产力",
+    "战略合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "li-lecheng",
+      "name_zh": "李乐成",
+      "name_en": "Li Lecheng"
+    },
+    {
+      "kind": "person",
+      "id": "wang-dongwei",
+      "name_zh": "王东伟",
+      "name_en": "Wang Dongwei"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "杨元庆",
+      "name_en": "Yang Yuanqing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH-HF",
+      "name_zh": "合肥",
+      "name_en": "Hefei"
+    },
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能制造",
+      "name_en": "Smart Manufacturing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "新质生产力",
+      "name_en": "New Quality Productive Forces"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作",
+      "name_en": "Strategic Cooperation"
+    },
+    {
+      "kind": "person",
+      "id": "tan-weiguo",
+      "name_zh": "覃卫国",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "李乐成",
+    "王东伟",
+    "杨元庆",
+    "合肥",
+    "安徽",
+    "人工智能",
+    "智能制造",
+    "新质生产力",
+    "战略合作",
+    "覃卫国"
+  ],
+  "tags_en": [
+    "Li Lecheng",
+    "Wang Dongwei",
+    "Yang Yuanqing",
+    "Hefei",
+    "Anhui",
+    "Artificial Intelligence",
+    "Smart Manufacturing",
+    "New Quality Productive Forces",
+    "Strategic Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "li-lecheng",
+      "wang-dongwei",
+      {
+        "id": null,
+        "name_zh": "杨元庆"
+      },
+      "tan-weiguo"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HF",
+      "CN-AH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261126-xinhua_ah-d8ca92",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

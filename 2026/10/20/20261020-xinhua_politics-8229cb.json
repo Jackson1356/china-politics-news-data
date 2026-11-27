@@ -1,0 +1,97 @@
+{
+  "id": "20261020-xinhua_politics-8229cb",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261020/24e186cdfb6d4527a16646a2d92b1df1/c.html",
+  "title_zh": "柳梧铁路顺利接入国家铁路网",
+  "title_en": "Liuzhou-Wuzhou Railway Successfully Connects to National Rail Network",
+  "summary_zh": "10月20日，柳梧铁路在柳州枢纽进德站插入道岔，顺利接入柳南客运专线，从而接入国家铁路网，为下一步开通运营奠定基础。",
+  "summary_en": "On October 20, the Liuzhou-Wuzhou railway was connected to the Liuzhou-Nanning passenger line at Jinde Station in the Liuzhou rail hub, integrating it into the national rail network and laying the groundwork for operations.",
+  "body_zh": "新华社南宁10月20日电（记者梁舜、林凡诗）20日，随着广西柳州铁路枢纽进德站Ⅰ场120号道岔顺利插入连接柳州与南宁的柳南客运专线，新建广西柳州至广东广州铁路柳州至梧州段顺利接入国家铁路网。\n国铁南宁局柳州铁路工程建设指挥部工程管理部主任马辉山介绍，柳梧铁路接入柳南客专施工共需要在进德站插铺道岔20组，并进行配套的软硬件改造调试。站改完成后，柳梧铁路将全面接入国家铁路网，为下一步开通运营奠定基础。\n“柳梧铁路正线铺轨已基本完成，目前正在有序开展静态验收，其中房建专业现场检查验收工作已经完成，其他专业也按计划稳步推进验收和缺陷整治等工作，计划11月启动全线动态检测。”广西柳梧铁路有限公司工程管理部轨道工程师陈志新说。\n新建柳州至广州铁路是国家中长期铁路网规划西南地区至珠三角重要的普速铁路通道，其中柳梧段正线全长238.167公里，接入益湛铁路梧州站，是国铁Ⅰ级双线电气化客货共线铁路，设计时速160公里。",
+  "image_url": null,
+  "published_at": "2026-10-20T12:00:00+00:00",
+  "event_date": "2026-10-20",
+  "ingested_at": "2026-10-21T09:19:17Z",
+  "topic": "economy",
+  "keywords": [
+    "铁路建设",
+    "交通基础设施",
+    "区域互联互通"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GX",
+      "name_zh": "广西",
+      "name_en": "Guangxi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GX-LZ",
+      "name_zh": "柳州",
+      "name_en": "Liuzhou"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "铁路建设",
+      "name_en": "Railway Construction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通基础设施",
+      "name_en": "Transport Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区域互联互通",
+      "name_en": "Regional Connectivity"
+    }
+  ],
+  "tags_zh": [
+    "广西",
+    "柳州",
+    "铁路建设",
+    "交通基础设施",
+    "区域互联互通"
+  ],
+  "tags_en": [
+    "Guangxi",
+    "Liuzhou",
+    "Railway Construction",
+    "Transport Infrastructure",
+    "Regional Connectivity"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "马辉山"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GX",
+      "CN-GX-LZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261020-xinhua_politics-8229cb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

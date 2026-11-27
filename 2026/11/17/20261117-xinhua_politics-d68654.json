@@ -1,0 +1,96 @@
+{
+  "id": "20261117-xinhua_politics-d68654",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261117/042b31d8108b4658be9777ad2f761c5e/c.html",
+  "title_zh": "医保钱包代缴居民医保费统筹地区范围不断扩大",
+  "title_en": "More Pooling Regions Now Allow Medical Insurance Wallet to Pay Resident Premiums",
+  "summary_zh": "国家医保局11月17日披露，截至11月15日，全国380个统筹地区支持用医保钱包2.0代缴居民医保费，累计代缴141.09万人次、金额5.4亿元。",
+  "summary_en": "China's National Healthcare Security Administration said on Nov 17 that as of Nov 15, 380 pooling regions nationwide allow residents to pay medical insurance premiums via the upgraded insurance wallet, covering 1.41 million payments worth 540 million yuan.",
+  "body_zh": "新华社北京11月17日电（记者李恒、彭韵佳）记者17日从国家医保局获悉，截至11月15日，全国医保钱包2.0版业务运行平稳有序。\n全国31个省（自治区、直辖市）和新疆生产建设兵团的380个统筹地区支持被共济人使用医保钱包2.0版共济金额缴纳所在地的参保费，占统筹地区总数的96.45%。累计代缴居民医保141.09万人次、金额5.4亿元。\n其中，河北、河南、山西、甘肃、湖南等五省的居民医保缴费金额，占到全国缴费总金额的67.81%。\n据悉，国家医保局会同财政部、国家税务总局全面推进职工医保个人账户跨省共济工作，2026年10月16日，各省份和新疆生产建设兵团医保钱包2.0版全部升级上线运行。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-17",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "welfare",
+  "keywords": [
+    "医保个人账户跨省共济",
+    "居民医保参保缴费",
+    "医保钱包"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "国家医保局",
+      "name_en": "National Healthcare Security Administration"
+    },
+    {
+      "kind": "institution",
+      "id": "MOF",
+      "name_zh": "财政部",
+      "name_en": "Ministry of Finance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医保个人账户跨省共济",
+      "name_en": "Cross-provincial Sharing of Medical Insurance Personal Accounts"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "居民医保参保缴费",
+      "name_en": "Resident Medical Insurance Premium Payments"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "医保钱包",
+      "name_en": "Medical Insurance Wallet"
+    }
+  ],
+  "tags_zh": [
+    "国家医保局",
+    "财政部",
+    "医保个人账户跨省共济",
+    "居民医保参保缴费",
+    "医保钱包"
+  ],
+  "tags_en": [
+    "National Healthcare Security Administration",
+    "Ministry of Finance",
+    "Cross-provincial Sharing of Medical Insurance Personal Accounts",
+    "Resident Medical Insurance Premium Payments",
+    "Medical Insurance Wallet"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOF"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "国家医保局",
+        "name_en": "National Healthcare Security Administration"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261117-xinhua_politics-d68654",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

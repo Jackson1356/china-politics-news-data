@@ -1,0 +1,110 @@
+{
+  "id": "20261124-gov_cn_yaowen-3217e2",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087253.htm",
+  "title_zh": "各地全力推进冬修水利",
+  "title_en": "Localities Push Ahead with Winter Water Conservancy Projects",
+  "summary_zh": "眼下正值冬修水利黄金期，安徽引江济淮、雷州半岛灌区、辽宁防洪设施改造、甘肃病险水闸重建等工程加速推进，农田水利设施建设全面提速。",
+  "summary_en": "Localities across China are accelerating winter water conservancy projects, including the Yangtze-Huaihe water diversion in Anhui, the Leizhou Peninsula irrigation district, flood-control upgrades in Liaoning and sluice reconstruction in Gansu.",
+  "body_zh": "眼下，冬修水利正值黄金期，农田水利设施加速建设。\n在安徽，作为引江济淮二期核心输水干线之一的淮水北调扩大延伸线工程——濠城站、宿东站等控制性节点开足马力，持续推进土建和设备安装；部分输水管道同步调试。预计明年全面完工后，数百万皖北缺水区域群众就能喝上优质的淮河水。\n大型灌区也在扩容增效。我国今年新建最大灌区——雷州半岛灌区，10.8万亩先行试点近日开始全面施工，为明年灌区主体工程全面铺开打好基础。灌区通过新建及改造渠道、输水管道、泵站等，构建起灌溉输水网络，建成后将成为华南第一大灌区，有464万亩农田受益。\n今年夏天，辽宁浑河、太子河流域遭遇洪水，目前，当地正在对防洪设施进行改造提升。在浑河辽阳市五星镇段，部分河堤由于使用多年，出现欠高等情况，当地趁枯水季，加快土料调运，将河堤加高至6—7米，后续还采用培厚等措施，进一步提升农村段的防洪标准。\n甘肃高台运行了30多年的丰稔渠渠首中型水闸正在原址拆除重建，进入水闸混凝土浇筑阶段。预计明年9月建成后，将有效增强灌区的灌溉、泄洪能力。同时，甘肃全省9座病险水库除险加固工作也在展开，持续加强水利安全保障。",
+  "image_url": null,
+  "published_at": "2026-11-24T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "economy",
+  "keywords": [
+    "冬修水利",
+    "农田水利",
+    "防洪工程",
+    "灌区建设"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH",
+      "name_zh": "安徽",
+      "name_en": "Anhui"
+    },
+    {
+      "kind": "location",
+      "id": "CN-LN",
+      "name_zh": "辽宁",
+      "name_en": "Liaoning"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GS",
+      "name_zh": "甘肃",
+      "name_en": "Gansu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "冬修水利",
+      "name_en": "Winter Water Conservancy"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农田水利",
+      "name_en": "Farmland Irrigation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防洪工程",
+      "name_en": "Flood Control"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "灌区建设",
+      "name_en": "Irrigation District Construction"
+    }
+  ],
+  "tags_zh": [
+    "安徽",
+    "辽宁",
+    "甘肃",
+    "冬修水利",
+    "农田水利",
+    "防洪工程",
+    "灌区建设"
+  ],
+  "tags_en": [
+    "Anhui",
+    "Liaoning",
+    "Gansu",
+    "Winter Water Conservancy",
+    "Farmland Irrigation",
+    "Flood Control",
+    "Irrigation District Construction"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-AH",
+      "CN-LN",
+      "CN-GS"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261124-gov_cn_yaowen-3217e2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

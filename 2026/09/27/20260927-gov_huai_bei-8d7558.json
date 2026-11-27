@@ -1,0 +1,92 @@
+{
+  "id": "20260927-gov_huai_bei-8d7558",
+  "source": "gov_huai_bei",
+  "source_name_zh": "淮北市政府网",
+  "source_name_en": "淮北 Government Portal",
+  "source_media_id": "gov-cn-prefecture-huai_bei",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-AH",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.huaibei.gov.cn/xwzx/tpxw/65171499.html",
+  "title_zh": "中国共产党淮北市第十次代表大会隆重开幕",
+  "title_en": "10th CPC Huaibei City Congress Opens",
+  "summary_zh": "9月27日上午，中国共产党淮北市第十次代表大会在淮北矿业会议中心开幕，蒋曦代表第九届市委向大会作报告。",
+  "summary_en": "On the morning of Sept 27, the 10th Congress of the CPC Huaibei City Committee opened at the Huaibei Mining Conference Center, with Jiang Xi delivering a report on behalf of the 9th city committee.",
+  "body_zh": "中国共产党淮北市第十次代表大会隆重开幕\n9月27日上午，中国共产党淮北市第十次代表大会在淮北矿业会议中心隆重开幕。蒋曦代表中国共产党淮北市第九届委员会向大会作报告。\n大会的主题是：以习近平新时代中国特色社会主义思想为指导，深入学习贯彻党的二十大和二十届历次全会精神，全面落实习近平总书记考察安徽重要讲话精神，深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，锚定“一城一地”定位，聚焦打好“三仗”目标任务，奋进新征程、建功新时代，凝心聚力谱写中国式现代化淮北篇章！\n扫描二维码随身看资讯",
+  "image_url": null,
+  "published_at": "2026-09-27T12:00:00+00:00",
+  "event_date": "2026-09-27",
+  "ingested_at": "2026-09-27T09:53:56Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党的建设",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-AH-HB",
+      "name_zh": "淮北",
+      "name_en": "Huaibei"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese-style Modernization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "淮北",
+    "党代会",
+    "党的建设",
+    "中国式现代化",
+    "习近平"
+  ],
+  "tags_en": [
+    "Huaibei",
+    "Party Congress",
+    "Party Building",
+    "Chinese-style Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-AH-HB"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260927-gov_huai_bei-8d7558",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

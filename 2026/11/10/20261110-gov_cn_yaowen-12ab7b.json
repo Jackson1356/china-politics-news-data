@@ -1,0 +1,89 @@
+{
+  "id": "20261110-gov_cn_yaowen-12ab7b",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085712.htm",
+  "title_zh": "学习贯彻党的二十届五中全会精神中央宣讲团报告会在四川举行",
+  "title_en": "Central Lecture Team Holds Report Meeting in Sichuan on the Fifth Plenary Session of the 20th CPC Central Committee",
+  "summary_zh": "11月10日，中央宣讲团成员谢春涛在四川宣讲党的二十届五中全会精神，会前到成都郫都区战旗村与基层干部群众交流。",
+  "summary_en": "On November 10, Xie Chuntao, a member of the central lecture team, delivered a report in Sichuan on the spirit of the Fifth Plenary Session of the 20th CPC Central Committee, and earlier visited Zhanqi Village in Chengdu's Pidu District to talk with grassroots officials and residents.",
+  "body_zh": "新华社成都11月10日电（记者 唐文豪）学习贯彻党的二十届五中全会精神中央宣讲团11月10日在四川省宣讲。中央宣讲团成员、中央党校（国家行政学院）分管日常工作的副校长（副院长）谢春涛作宣讲报告。\n报告会上，谢春涛深刻阐明了党的二十届五中全会的重大意义，紧紧围绕习近平总书记在全会上的重要讲话精神和《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，从新时代全面从严治党的伟大成就，习近平党建思想的重大指导意义，以及持之以恒推进全面从严治党的重要性和紧迫性、指导思想和原则、战略任务和重大举措等方面，作了全面宣讲和深入阐释。\n会前，谢春涛来到四川省成都市郫都区唐昌镇战旗村开展宣讲，与基层干部群众代表互动交流。",
+  "image_url": null,
+  "published_at": "2026-11-10T12:00:00+00:00",
+  "event_date": "2026-11-10",
+  "ingested_at": "2026-11-11T11:19:49Z",
+  "topic": "party",
+  "keywords": [
+    "二十届五中全会",
+    "全面从严治党",
+    "理论宣讲"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "二十届五中全会",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面从严治党",
+      "name_en": ""
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "理论宣讲",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四川",
+    "二十届五中全会",
+    "全面从严治党",
+    "理论宣讲",
+    "习近平"
+  ],
+  "tags_en": [
+    "Sichuan"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261110-gov_cn_yaowen-12ab7b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

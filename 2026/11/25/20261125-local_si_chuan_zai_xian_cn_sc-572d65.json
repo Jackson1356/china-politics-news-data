@@ -1,0 +1,149 @@
+{
+  "id": "20261125-local_si_chuan_zai_xian_cn_sc-572d65",
+  "source": "local_si_chuan_zai_xian_cn_sc",
+  "source_name_zh": "四川在线",
+  "source_name_en": "四川在线",
+  "source_media_id": "cac-cn-sc-41f549a4b1",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-SC",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://sichuan.scol.com.cn/gcdt/202611/83363022.html",
+  "title_zh": "王晓晖施小琳会见退役军人事务部部长裴金佳",
+  "title_en": "Wang Xiaohui and Shi Xiaolin Meet with Veterans Affairs Minister Pei Jinjia",
+  "summary_zh": "11月25日，四川省委书记王晓晖、省长施小琳在成都会见退役军人事务部部长裴金佳，双方就完善退役军人服务保障体系、双拥工作机制等交换意见。",
+  "summary_en": "On Nov 25, Sichuan Party Secretary Wang Xiaohui and Governor Shi Xiaolin met in Chengdu with Veterans Affairs Minister Pei Jinjia to discuss improving veteran services, support systems and employment.",
+  "body_zh": "11月25日，省委书记、省人大常委会主任王晓晖，省委副书记、省长施小琳，在成都会见退役军人事务部党组书记、部长裴金佳。\n会见中，双方围绕贯彻落实党的二十届五中全会精神和习近平总书记关于退役军人工作重要论述，就进一步完善退役军人服务保障体系，加强红色教育基地建设，健全双拥工作机制，促进退役军人就业创业，引导更多优秀退役军人积极投身四川现代化建设，共同推进新时代新征程退役军人工作高质量发展等交换了意见。\n省直有关部门负责同志参加。\n四川在线记者 付真卿",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "welfare",
+  "keywords": [
+    "退役军人服务保障",
+    "双拥工作",
+    "就业创业"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-xiaohui",
+      "name_zh": "王晓晖",
+      "name_en": "Wang Xiaohui"
+    },
+    {
+      "kind": "person",
+      "id": "shi-xiaolin",
+      "name_zh": "施小琳",
+      "name_en": "Shi Xiaolin"
+    },
+    {
+      "kind": "person",
+      "id": "pei-jinjia",
+      "name_zh": "裴金佳",
+      "name_en": "Pei Jinjia"
+    },
+    {
+      "kind": "institution",
+      "id": "MVA",
+      "name_zh": "退役军人事务部",
+      "name_en": "Ministry of Veterans Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC-CD",
+      "name_zh": "成都",
+      "name_en": "Chengdu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SC",
+      "name_zh": "四川",
+      "name_en": "Sichuan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "退役军人服务保障",
+      "name_en": "Veterans Service Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "双拥工作",
+      "name_en": "Military-Civilian Mutual Support"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "就业创业",
+      "name_en": "Employment and Entrepreneurship"
+    },
+    {
+      "kind": "person",
+      "id": "wang-xiao-shaanxi",
+      "name_zh": "王晓",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "金佳",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "王晓晖",
+    "施小琳",
+    "裴金佳",
+    "退役军人事务部",
+    "成都",
+    "四川",
+    "退役军人服务保障",
+    "双拥工作",
+    "就业创业",
+    "王晓",
+    "金佳"
+  ],
+  "tags_en": [
+    "Wang Xiaohui",
+    "Shi Xiaolin",
+    "Pei Jinjia",
+    "Ministry of Veterans Affairs",
+    "Chengdu",
+    "Sichuan",
+    "Veterans Service Support",
+    "Military-Civilian Mutual Support",
+    "Employment and Entrepreneurship"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-xiaolin",
+      "wang-xiaohui",
+      "wang-xiao-shaanxi",
+      "pei-jinjia",
+      {
+        "id": null,
+        "name_zh": "金佳"
+      }
+    ],
+    "institutions": [
+      "MVA"
+    ],
+    "locations": [
+      "CN-SC-CD",
+      "CN-SC"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261125-local_si_chuan_zai_xian_cn_sc-572d65",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

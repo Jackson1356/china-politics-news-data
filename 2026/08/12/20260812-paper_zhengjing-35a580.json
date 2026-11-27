@@ -1,0 +1,81 @@
+{
+  "id": "20260812-paper_zhengjing-35a580",
+  "source": "paper_zhengjing",
+  "source_name_zh": "澎湃新闻 时政",
+  "source_name_en": "The Paper — Politics & Economy",
+  "source_media_id": "legacy:paper_zhengjing",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "project_curated",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_33765631",
+  "title_zh": "平陆运河实船试验正式启动，工程进度超98%",
+  "title_en": "Pinglu Canal Full-scale Ship Trial Officially Launched, Project Progress Exceeds 98%",
+  "summary_zh": "8月12日，平陆运河实船试验正式启动，首次进行全航道、全船型试验，工程整体进度已超98%，预计9月正式通航。",
+  "summary_en": "On August 12, the full-scale ship trial of the Pinglu Canal was officially launched, marking the first all-channel, all-vessel-type test. The project progress has exceeded 98%, with official navigation expected in September.",
+  "body_zh": "平陆运河实船试验正式启动，工程进度超98%\n李伟代、廖汨/央视新闻\n今天（8月12日），平陆运河实船试验正式启动。这是平陆运河首次进行全航道、全船型实船试验，也是平陆运河全线通航前的最后一次“大考”。\n本次试验调配1000吨级、3000吨级和5000吨级共四艘代表性船舶，将沿平陆运河主航道，分阶段完成不同工况通航验证与全线航标效能检测，全面核验运河航道、船闸、锚地、服务区的安全性、稳定性等，为平陆运河如期通航奠定坚实基础。\n平陆运河是西部陆海新通道骨干工程，也是新中国成立以来第一条国家层面统筹的通江达海的运河工程，目前工程建设整体进度已超98%，预计今年9月正式通航。",
+  "image_url": null,
+  "published_at": "2026-08-12T12:00:00+00:00",
+  "event_date": "2026-08-12",
+  "ingested_at": "2026-08-12T05:49:56Z",
+  "topic": "economy",
+  "keywords": [
+    "基础设施",
+    "运河工程",
+    "西部陆海新通道"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "基础设施",
+      "name_en": "Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "运河工程",
+      "name_en": "Canal Project"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "西部陆海新通道",
+      "name_en": "New Western Land-Sea Corridor"
+    }
+  ],
+  "tags_zh": [
+    "基础设施",
+    "运河工程",
+    "西部陆海新通道"
+  ],
+  "tags_en": [
+    "Infrastructure",
+    "Canal Project",
+    "New Western Land-Sea Corridor"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260812-paper_zhengjing-35a580",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "local_yang_zi_wan_bao_wang_cn_js",
+      "source_tier": 3,
+      "url": "https://www.yzwb.net/news/txs/202608/t20260812_381817.html",
+      "title_zh": "平陆运河实船试验正式启动 工程进度超98%",
+      "published_at": "2026-08-12T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

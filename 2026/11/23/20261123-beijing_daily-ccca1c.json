@@ -1,0 +1,96 @@
+{
+  "id": "20261123-beijing_daily-ccca1c",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/11/23/12040721.shtml",
+  "title_zh": "特朗普称只想向中国出售相对落后的芯片，外交部回应",
+  "title_en": "Trump Says US Only Wants to Sell Less Advanced Chips to China, MOFA Responds",
+  "summary_zh": "11月23日，外交部发言人郭嘉昆在例行记者会上回应特朗普称美国只想向中国出售相对落后芯片，表示中方已表明对美出口管制措施的立场。",
+  "summary_en": "On Nov 23, MOFA spokesperson Guo Jiakun responded to Trump's remark that the US only wants to sell less advanced chips to China, saying China has stated its position on US export controls.",
+  "body_zh": "11月23日，外交部发言人郭嘉昆主持例行记者会。\n路透社记者提问，美国总统特朗普称，美国只想向中国出售相对落后的芯片，并称美国政府正就此与中方进行讨论，中方对此有何回应？中方是否正与美方讨论购买此类芯片？\n郭嘉昆表示，关于美国的出口管制措施，中方此前已经表明了立场。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-23",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "foreign",
+  "keywords": [
+    "芯片出口管制",
+    "中美关系",
+    "半导体"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "特朗普",
+      "name_en": "Donald Trump"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "芯片出口管制",
+      "name_en": "Chip Export Controls"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中美关系",
+      "name_en": "China-US Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "半导体",
+      "name_en": "Semiconductors"
+    }
+  ],
+  "tags_zh": [
+    "特朗普",
+    "外交部",
+    "芯片出口管制",
+    "中美关系",
+    "半导体"
+  ],
+  "tags_en": [
+    "Donald Trump",
+    "Ministry of Foreign Affairs",
+    "Chip Export Controls",
+    "China-US Relations",
+    "Semiconductors"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "郭嘉昆"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261123-beijing_daily-ccca1c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

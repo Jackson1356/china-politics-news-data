@@ -1,0 +1,110 @@
+{
+  "id": "20261103-qiushi-21b643",
+  "source": "qiushi",
+  "source_name_zh": "求是网",
+  "source_name_en": "Qiushi Theory",
+  "source_media_id": "qiushi",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://www.qstheory.cn/20261103/7a31d93b2232424d9f5605cb9e4a8b9c/c.html",
+  "title_zh": "外交部发言人谈德国总统、瑞士联邦主席成功访华",
+  "title_en": "Foreign Ministry Spokesperson on Successful Visits by German President and Swiss Federal President",
+  "summary_zh": "11月2日，外交部发言人毛宁在北京表示，德国总统施泰因迈尔、瑞士联邦主席帕姆兰成功访华，为中欧关系发展树立良好范例。",
+  "summary_en": "On Nov 2, Foreign Ministry spokesperson Mao Ning said in Beijing that the successful visits by German President Steinmeier and Swiss Federal President Parmelin set a good example for China-EU relations.",
+  "body_zh": "新华社北京11月2日电（记者邵艺博、马卓言）外交部发言人毛宁2日就德国总统施泰因迈尔、瑞士联邦主席帕姆兰日前访华答记者问时表示，施泰因迈尔总统和帕姆兰主席成功访华，释放了加强沟通协调、密切开放合作、支持多边主义和自由贸易的积极信号，为中欧关系发展树立良好范例。\n当日例行记者会上，有记者问：近日，德国总统施泰因迈尔、瑞士联邦主席帕姆兰成功访华，中方如何评价访问成果？对中德、中瑞关系未来发展有何展望？\n“这是德国总统施泰因迈尔时隔近8年再次对华进行国事访问，瑞士联邦主席时隔7年再次访华。习近平主席分别同两国领导人会谈会见。”毛宁说。\n毛宁表示，中德领导人一致认为，作为世界第二、第三大经济体，两国理应肩负起维护世界和平发展的责任，推动构建更加公正合理的全球治理体系。双方高度评价中德关系丰硕成果，同意坚持相互尊重、平等相待，拓展互利合作，密切人文交流，以对话协商妥处分歧，开启中德全方位战略伙伴关系新篇章。\n毛宁说，中瑞两国元首一致同意，尊重彼此核心利益，筑牢政治互信，充分发挥各领域对话机制作用，深化双多边协作，共同支持多边主义和自由贸易，推动中瑞关系迈向更高水平。两国元首还共同见证签署了中瑞自贸协定升级议定书以及科研、劳动就业、媒体等领域合作文件。\n“当前世界百年变局加速演进，变和乱的一面更加突出。”毛宁表示，施泰因迈尔总统和帕姆兰主席成功访华，释放了加强沟通协调、密切开放合作、支持多边主义和自由贸易的积极信号，为中欧关系发展树立良好范例。中方愿同各方一道，聚焦合作、互利共赢，为世界稳定与繁荣提供更多确定性。\n网站编辑 -\n闫一涵\n张盼 审核 - 于波",
+  "image_url": null,
+  "published_at": "2026-11-03T12:00:00+00:00",
+  "event_date": "2026-11-02",
+  "ingested_at": "2026-11-03T11:31:56Z",
+  "topic": "foreign",
+  "keywords": [
+    "中欧关系",
+    "多边主义",
+    "自由贸易"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中欧关系",
+      "name_en": "China-EU Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多边主义",
+      "name_en": "Multilateralism"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "自由贸易",
+      "name_en": "Free Trade"
+    }
+  ],
+  "tags_zh": [
+    "外交部",
+    "北京",
+    "中欧关系",
+    "多边主义",
+    "自由贸易"
+  ],
+  "tags_en": [
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-EU Relations",
+    "Multilateralism",
+    "Free Trade"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "毛宁"
+      },
+      {
+        "id": null,
+        "name_zh": "何评价"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261103-qiushi-21b643",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gmw",
+      "source_tier": 5,
+      "url": "https://politics.gmw.cn/2026-11/03/content_39082286.htm",
+      "title_zh": "外交部发言人谈德国总统、瑞士联邦主席成功访华",
+      "published_at": "2026-11-03T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "20261029-gov_yan_tai-1f3781",
+  "source": "gov_yan_tai",
+  "source_name_zh": "烟台市政府网",
+  "source_name_en": "烟台 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_tai",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-SD",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.yantai.gov.cn/col/col11794/art/2026/art_15556bfa702e4a1882f07845b950c554.html",
+  "title_zh": "庆祝民建烟台市委会成立70周年大会召开",
+  "title_en": "Conference Marks 70th Anniversary of CDNCA Yantai Municipal Committee",
+  "summary_zh": "10月29日，庆祝中国民主建国会烟台市委会成立70周年大会在烟台召开，民建山东省委会副主委杨丽、中共烟台市委副书记高建广出席并讲话。",
+  "summary_en": "On Oct 29, Yantai hosted a conference marking the 70th anniversary of the China Democratic National Construction Association's Yantai municipal committee, addressed by Yang Li of the provincial committee and Gao Jianguang of the CPC Yantai municipal committee.",
+  "body_zh": "10月29日，庆祝民建烟台市委会成立70周年大会召开。民建中央常委、山东省委会副主委杨丽，中共烟台市委副书记、政法委书记高建广出席并讲话。市政协副主席、民盟烟台市委会主委卢国栋代表市各民主党派、工商联致贺词。民建烟台市委会主委、市人大常委会副秘书长王晓燕作工作回顾。\n杨丽代表民建山东省委会对民建烟台市委会的工作给予充分肯定。她指出，70年来，民建烟台市委会不忘初心、砥砺奋进，为烟台经济社会发展作出积极贡献。希望民建烟台市委会以此次大会为新起点，积极践行习近平总书记“四新”“三好”重要要求，赓续多党合作初心，提升自身建设水平，紧扣中心工作大局，在服务高质量发展中彰显新的担当作为。\n高建广代表中共烟台市委对大会召开表示祝贺。他指出，70年来，民建烟台市委会始终与中共烟台市委想在一起、干在一起，为经济社会发展和人民幸福安康献计出力。希望民建烟台市委会继续团结带领广大会员，坚持正确政治方向，聚力服务中心大局，全面加强自身建设，为加快建设绿色低碳高质量发展示范城市作出新的更大贡献。",
+  "image_url": null,
+  "published_at": "2026-10-29T12:00:00+00:00",
+  "event_date": "2026-10-29",
+  "ingested_at": "2026-10-29T10:33:12Z",
+  "topic": "party",
+  "keywords": [
+    "多党合作",
+    "统一战线",
+    "参政党建设"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共烟台市委",
+      "name_en": "CPC Yantai Municipal Committee"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SD-YT",
+      "name_zh": "烟台",
+      "name_en": "Yantai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "多党合作",
+      "name_en": "Multiparty Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "统一战线",
+      "name_en": "United Front"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "参政党建设",
+      "name_en": "Development of Participatory Parties"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "中共烟台市委",
+    "烟台",
+    "多党合作",
+    "统一战线",
+    "参政党建设",
+    "习近平"
+  ],
+  "tags_en": [
+    "CPC Yantai Municipal Committee",
+    "Yantai",
+    "Multiparty Cooperation",
+    "United Front",
+    "Development of Participatory Parties"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "高建广"
+      },
+      {
+        "id": null,
+        "name_zh": "贺他"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-SD-YT"
+    ],
+    "companies": [
+      {
+        "name_zh": "中共烟台市委",
+        "name_en": "CPC Yantai Municipal Committee"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261029-gov_yan_tai-1f3781",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

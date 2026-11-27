@@ -1,0 +1,78 @@
+{
+  "id": "20260601-xinhua_zj-bc5db2",
+  "source": "xinhua_zj",
+  "source_name_zh": "新华网 浙江",
+  "source_name_en": "Xinhua Zhejiang",
+  "source_url": "http://zj.news.cn/20260601/c8952d09f2104822a21fefb633b80ad9/c.html",
+  "title_zh": "外卖新规实施在即 杭州持续深化外卖聚集区管理",
+  "title_en": "New Delivery Regulations Imminent as Hangzhou Deepens Management of Delivery Clusters",
+  "summary_zh": "6月1日起，《网络餐饮服务经营者落实食品安全主体责任监督管理规定》正式施行，杭州市拱墅区通过推行组团式管理模式加强外卖聚集区监管。",
+  "summary_en": "New food safety regulations for online catering take effect on June 1, with Hangzhou's Gongshu District implementing a cluster management model to enhance supervision of delivery-only shops.",
+  "body_zh": "6月1日起，《网络餐饮服务经营者落实食品安全主体责任监督管理规定》将正式施行，旨在加强网络餐饮服务食品安全监督管理，保证食品安全。\n新规实施在即，记者走进杭州市拱墅区外卖聚集区“菜小递”，这是浙江全省于2025年推行无堂食外卖聚集区组团式管理模式的落地项目。这一管理模式把零散的无堂食外卖商家集中到一起，由专业管理方统一负责，商户各自独立经营，实现集约化运营、规范化管理。\n作者：方秭舒、张璇\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "event_date": "2026-06-01",
+  "ingested_at": "2026-06-01T09:41:44Z",
+  "topic": "industry",
+  "keywords": [
+    "食品安全",
+    "网络餐饮"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "杭州",
+      "name_en": "Hangzhou"
+    },
+    {
+      "kind": "location",
+      "id": "CN-ZJ",
+      "name_zh": "浙江",
+      "name_en": "Zhejiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "食品安全",
+      "name_en": "Food Safety"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "网络餐饮",
+      "name_en": "Online Catering"
+    }
+  ],
+  "tags_zh": [
+    "杭州",
+    "浙江",
+    "食品安全",
+    "网络餐饮"
+  ],
+  "tags_en": [
+    "Hangzhou",
+    "Zhejiang",
+    "Food Safety",
+    "Online Catering"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-ZJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260601-xinhua_zj-bc5db2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

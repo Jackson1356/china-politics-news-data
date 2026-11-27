@@ -1,0 +1,92 @@
+{
+  "id": "20261013-beijing_daily-5fc60b",
+  "source": "beijing_daily",
+  "source_name_zh": "北京日报",
+  "source_name_en": "Beijing Daily",
+  "source_media_id": "cac-cn-bj-5a3205a2e4",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "local-media-system:CN-BJ",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.bjd.com.cn/2026/10/13/11993034.shtml",
+  "title_zh": "中国人民银行批准威士公司筹备银行卡清算机构",
+  "title_en": "PBOC Approves Visa Subsidiary to Prepare Bank Card Clearing Institution",
+  "summary_zh": "中国人民银行10月13日公布，向威士信息技术（北京）有限公司下发准予行政许可决定，批准其筹备银行卡清算机构，须在一年内完成筹备并申请开业。",
+  "summary_en": "China's central bank announced on Oct 13 that it has granted administrative approval to Visa Information Technology (Beijing) Co. to prepare a bank card clearing institution, with preparations to be completed within one year.",
+  "body_zh": "中国人民银行10月13日对外公布，向威士信息技术（北京）有限公司下发准予行政许可决定，批准其筹备银行卡清算机构。后续，威士公司需在一年内完成筹备工作，之后可提交开业申请，中国人民银行会同金融监管总局审批同意后，颁发银行卡清算业务许可证。据介绍，威士信息技术（北京）有限公司是维萨公司在我国境内成立的企业法人，为外商投资企业。\n如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85201664\n扫描二维码",
+  "image_url": null,
+  "published_at": "2026-10-13T12:00:00+00:00",
+  "event_date": "2026-10-13",
+  "ingested_at": "2026-10-13T11:12:59Z",
+  "topic": "economy",
+  "keywords": [
+    "金融开放",
+    "银行卡清算",
+    "外商投资"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "PBOC",
+      "name_zh": "中国人民银行",
+      "name_en": "People's Bank of China"
+    },
+    {
+      "kind": "institution",
+      "id": "NFRA",
+      "name_zh": "金融监管总局",
+      "name_en": "National Financial Regulatory Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "金融开放",
+      "name_en": "Financial Opening-up"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "银行卡清算",
+      "name_en": "Bank Card Clearing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外商投资",
+      "name_en": "Foreign Investment"
+    }
+  ],
+  "tags_zh": [
+    "中国人民银行",
+    "金融监管总局",
+    "金融开放",
+    "银行卡清算",
+    "外商投资"
+  ],
+  "tags_en": [
+    "People's Bank of China",
+    "National Financial Regulatory Administration",
+    "Financial Opening-up",
+    "Bank Card Clearing",
+    "Foreign Investment"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "PBOC",
+      "NFRA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261013-beijing_daily-5fc60b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

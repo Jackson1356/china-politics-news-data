@@ -1,0 +1,96 @@
+{
+  "id": "20260921-xinhua_leaders-1fecd2",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260921/779bc54996bf4527b484f4b2729888eb/c.html",
+  "title_zh": "微视频丨合力筑就繁荣世界",
+  "title_en": "Video: Joining Forces to Build a Prosperous World",
+  "summary_zh": "新华社发布微视频，回顾习近平2021年9月在第七十六届联合国大会上提出全球发展倡议五年来的进展：倡议已获130多个国家和国际组织支持，近100个国家同中方签署合作文件。",
+  "summary_en": "Xinhua released a short video reviewing five years of the Global Development Initiative, proposed by Xi Jinping at the UN General Assembly in September 2021, noting support from over 130 countries and organizations.",
+  "body_zh": "发展是人类社会的永恒主题。2021年9月，国家主席习近平在第七十六届联合国大会一般性辩论上郑重提出全球发展倡议，为促进全球发展事业提供中国方案。五年间，一个个生动的现代化故事，共同绘就世界现代化的壮丽画卷。\n目前，全球发展倡议已得到130多个国家和国际组织支持，近100个国家及国际、地区组织同中方签署合作文件。“全球发展倡议之友小组”已扩员至88国，成为推动全球发展事业的重要力量。\n统筹：韩珅、王志斌\n编导：张旻曦、脱润萱\n记者：吴念、吴昊、马晓冬、余佩璇、马淮钊\n摄像：杜大鹏、凯乔\n配音：王帅龙\n新华社音视频部制作",
+  "image_url": null,
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-09-21T09:34:02Z",
+  "topic": "foreign",
+  "keywords": [
+    "全球发展倡议",
+    "全球治理",
+    "国际合作",
+    "联合国"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球发展倡议",
+      "name_en": "Global Development Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全球治理",
+      "name_en": "Global Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "国际合作",
+      "name_en": "International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "联合国",
+      "name_en": "United Nations"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "全球发展倡议",
+    "全球治理",
+    "国际合作",
+    "联合国"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Global Development Initiative",
+    "Global Governance",
+    "International Cooperation",
+    "United Nations"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "郑重"
+      }
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260921-xinhua_leaders-1fecd2",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

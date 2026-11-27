@@ -1,0 +1,101 @@
+{
+  "id": "20261123-gov_wu_xi-3c5e11",
+  "source": "gov_wu_xi",
+  "source_name_zh": "无锡市政府网",
+  "source_name_en": "无锡 Government Portal",
+  "source_media_id": "gov-cn-prefecture-wu_xi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.wuxi.gov.cn/doc/2026/11/23/4860876.shtml",
+  "title_zh": "省党代会无锡市代表团启程赴宁",
+  "title_en": "Wuxi Delegation Departs for Jiangsu Provincial Party Congress in Nanjing",
+  "summary_zh": "11月22日上午，出席中国共产党江苏省第十五次代表大会的无锡市代表团启程前往南京，大会将于11月23日至27日召开。",
+  "summary_en": "On the morning of Nov 22, the Wuxi delegation to the 15th Jiangsu Provincial Party Congress departed for Nanjing, where the congress will be held from Nov 23 to 27.",
+  "body_zh": "发布时间：2026-11-23 07:44 文字大小： [ 大 中 小 ] 浏览次数：\n全省瞩目的中国共产党江苏省第十五次代表大会将于11月23日至27日在南京召开，筹备工作现已基本就绪。11月22日上午，出席省党代会的无锡市代表团出发前往南京。\n省第十五次党代会，是在基本实现社会主义现代化夯实基础、全面发力的关键时期召开的一次十分重要的大会。开好这次党代会，对于动员全省上下更加紧密地团结在以习近平同志为核心的党中央周围，牢记嘱托、感恩奋进，继往开来、接续奋斗，坚定地在推进中国式现代化中走在前、做示范，奋力谱写“强富美高”新江苏现代化建设新篇章，具有十分重要的意义。大会将总结五年来江苏经济社会发展和党的建设等方面成就，围绕深入学习贯彻习近平总书记对江苏工作重要讲话重要指示精神，科学谋划未来五年江苏经济社会发展和党的建设的重大思路举措，并选举产生新一届省委、省纪委。\n出发时，大家表示，将以饱满的政治热情和高度的政治责任感，认真履职尽责、正确行使权利、遵守各项规定，圆满完成大会各项任务，不辜负全市广大党员和人民群众的殷切期望。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-22",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "party",
+  "keywords": [
+    "党代会",
+    "党的建设",
+    "中国式现代化"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-WX",
+      "name_zh": "无锡",
+      "name_en": "Wuxi"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党代会",
+      "name_en": "Party Congress"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中国式现代化",
+      "name_en": "Chinese Modernization"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "南京",
+    "无锡",
+    "党代会",
+    "党的建设",
+    "中国式现代化",
+    "习近平"
+  ],
+  "tags_en": [
+    "Nanjing",
+    "Wuxi",
+    "Party Congress",
+    "Party Building",
+    "Chinese Modernization"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS-NJ",
+      "CN-JS-WX"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261123-gov_wu_xi-3c5e11",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

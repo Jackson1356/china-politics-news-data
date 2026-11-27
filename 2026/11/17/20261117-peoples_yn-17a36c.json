@@ -1,0 +1,96 @@
+{
+  "id": "20261117-peoples_yn-17a36c",
+  "source": "peoples_yn",
+  "source_name_zh": "人民网 云南",
+  "source_name_en": "People's Daily Yunnan",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://yn.people.com.cn/n2/2026/1117/c378440-41752667.html",
+  "title_zh": "中国发布自主研发电子航海日志系统",
+  "title_en": "China Releases Self-Developed Electronic Navigation Log System",
+  "summary_zh": "11月16日，交通运输部海事局在北京发布我国自主研发的电子航海日志系统，以自动记录和区块链存证推动航运基础文书数字化转型。",
+  "summary_en": "On Nov 16, the Maritime Safety Administration of China's Ministry of Transport released a self-developed electronic navigation log system in Beijing, using automatic recording and blockchain storage to digitalize shipping records.",
+  "body_zh": "中国发布自主研发电子航海日志系统\n据新华社北京11月16日电（记者叶昊鸣）记者16日从交通运输部海事局获悉，当日我国发布自主研发的电子航海日志系统，标志着我国航运基础文书数字化转型迈出关键一步。\n据介绍，航海日志是船舶航行的法定原始记录，也是海事调查、事故溯源、责任判定的核心依据。此次发布的电子航海日志系统以自动记录替代手工誊写，通过船岸数据同步将船舶管理从“翻本子”变为“看数据”，借助数字签名与区块链存证保障记录真实、不可篡改，为海事监管和港口国监督检查提供可信依据。\n电子航海日志系统已完成4艘货船实船试验，基础信息自动抓取、数据回传等功能经测试运行稳定，试验效果良好，计划于2027年1月份在各船型、吨位、航线船舶进行实船试验。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "industry",
+  "keywords": [
+    "数字化转型",
+    "航运管理",
+    "区块链存证"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "交通运输部海事局",
+      "name_en": "Maritime Safety Administration, Ministry of Transport"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "数字化转型",
+      "name_en": "Digital Transformation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "航运管理",
+      "name_en": "Shipping Management"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "区块链存证",
+      "name_en": "Blockchain Verification"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部海事局",
+    "北京",
+    "数字化转型",
+    "航运管理",
+    "区块链存证"
+  ],
+  "tags_en": [
+    "Maritime Safety Administration, Ministry of Transport",
+    "Beijing",
+    "Digital Transformation",
+    "Shipping Management",
+    "Blockchain Verification"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "交通运输部海事局",
+        "name_en": "Maritime Safety Administration, Ministry of Transport"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261117-peoples_yn-17a36c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

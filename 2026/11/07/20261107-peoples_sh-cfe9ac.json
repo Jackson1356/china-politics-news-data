@@ -1,0 +1,93 @@
+{
+  "id": "20261107-peoples_sh-cfe9ac",
+  "source": "peoples_sh",
+  "source_name_zh": "人民网 上海",
+  "source_name_en": "People's Daily Shanghai",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://sh.people.com.cn/n2/2026/1107/c134768-41744178.html",
+  "title_zh": "AI基础设施亮相，中国移动智能网正式发布",
+  "title_en": "AI Infrastructure Debuts as China Mobile Officially Launches Intelligent Network",
+  "summary_zh": "11月6日，中国移动在上海举行的2026移动网络大会上正式发布智能网，这一网络化人工智能基础设施与通信网、算力网协同构建。",
+  "summary_en": "On Nov 6, China Mobile launched its Intelligent Network at the 2026 Mobile Network Conference in Shanghai, a networked AI infrastructure built in tandem with its telecom and computing networks.",
+  "body_zh": "AI基础设施亮相，中国移动智能网正式发布\n人民网上海11月7日电（记者马作鹏）11月6日，中国移动在2026移动网络大会上正式发布智能网。该智能网是与通信网、算力网协同构建的网络化人工智能基础设施。作为智能要素的“交换机”和“路由器”，中国移动智能网通过促进智能要素融合融通，将有效支撑上层智能应用更加泛在普惠、敏捷高效、安全可信、韧性可靠。\n为加快智能网能力建设，中国移动通过全栈创新，打造了覆盖Token生产、分发、应用的全流程核心能力体系。\n在Token生产方面，中国移动打造“芯合”异构超融合平台，屏蔽底层异构硬件差异，实现主流模型在10多款主流国产芯片上跨架构迁移和部署优化。推出国内首个GPU卡间互联开放协议OISA（全向智感互联），推动智算产业加速向超节点演进。创新机间互联协议GSE（全调度以太网），提升智算集群算力效率。升级算网大脑，支持算、网、智一体化调度。\n在Token分发方面，中国移动打造MoMA模型服务平台，以及推理算力网络和算力池，使单位算卡Token产出的效能更高、性能更佳。构建智能分发网AIDN、智能体互联IoA等分发互联网络，实现模型、智能体、数据的云边协同和高效互通。增强超级上行无线接入能力，更好匹配AI流量模型变化。大力推动中国移动主导和定义的IPV6全栈通用互联网协议（G-SRv6）应用，攻关突破新型空芯光纤广域传输技术，持续提升网络确定性，更好支持多智能体协同和具身智能发展。\n在Token应用方面，中国移动创新TraaS（Trust as a service）可信服务机制，以安全可信，构建开放生态。\n加快智能网核心能力建设的同时，中国移动还着力打造系列智能产品。\n面向公众客户，焕新12580“一按我帮您”，升级为个人智能助理。通过增强智能体框架，使其具备更强的需求理解与规划、执行，及中长期记忆等能力，为用户提供便捷接入的12580电话、APP等入口。\n面向政企客户，焕新“移动天工”工业互联网平台，通过增强工业制造和供应链的知识和skills，提升智能体端到端任务的理解、规划、执行能力，为客户提供更加高效的工业网络、平台和工业智能应用。\n同时，中国移动还将构建智能体开放服务空间（OAS），提供可信身份认证、原生网络能力、安全运行环境和长期记忆框架四项服务能力，灵活支持多样化商业模式，为入驻合作伙伴打造智能体一站式工作园区，共同为用户提供智能服务。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-06",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "industry",
+  "keywords": [
+    "人工智能基础设施",
+    "算力网络",
+    "智能体生态"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "CHINA-MOBILE",
+      "name_zh": "中国移动",
+      "name_en": "China Mobile"
+    },
+    {
+      "kind": "location",
+      "id": "CN-SH",
+      "name_zh": "上海",
+      "name_en": "Shanghai"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能基础设施",
+      "name_en": "AI Infrastructure"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力网络",
+      "name_en": "Computing Power Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "智能体生态",
+      "name_en": "AI Agent Ecosystem"
+    }
+  ],
+  "tags_zh": [
+    "中国移动",
+    "上海",
+    "人工智能基础设施",
+    "算力网络",
+    "智能体生态"
+  ],
+  "tags_en": [
+    "China Mobile",
+    "Shanghai",
+    "AI Infrastructure",
+    "Computing Power Network",
+    "AI Agent Ecosystem"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "CHINA-MOBILE"
+    ],
+    "locations": [
+      "CN-SH"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261107-peoples_sh-cfe9ac",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

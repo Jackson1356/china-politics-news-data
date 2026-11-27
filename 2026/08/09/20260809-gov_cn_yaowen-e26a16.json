@@ -1,0 +1,73 @@
+{
+  "id": "20260809-gov_cn_yaowen-e26a16",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077762.htm",
+  "title_zh": "我国加快推进算力网建设",
+  "title_en": "China Accelerates Construction of Computing Power Network",
+  "summary_zh": "全国一体化算力网加快建设，截至6月底智能算力规模同比增长177%，为人工智能等新兴产业提供坚实算力支撑。",
+  "summary_en": "China is accelerating the construction of an integrated computing power network, with intelligent computing capacity up 177% year-on-year by end of June, supporting AI and emerging industries.",
+  "body_zh": "今年以来，全国一体化算力网加快建设，算力底座进一步夯实，更好赋能产业创新发展。\n最近一段时间，全国多个算力节点迎来新一轮算力扩容。位于郑州的国家超算互联网核心节点，采用首个全国产10万卡算力集群，为新材料、创新药等26个领域提供融合算力支持；“东数西算”粤港澳大湾区国家枢纽节点，则直接瞄准新一代大模型研发的智能算力需求。\n进入“十五五”以来，我国算力网加快布局建设，整体规模持续扩大。截至6月底，全国智能算力规模同比增长177%，达到每秒可执行2185百亿亿次浮点运算，为人工智能等新兴产业加快发展提供更坚实的算力支撑。\n瞄准算力资源分布不均，算力网调度大通道建设提速。在鹏城国家实验室里，研究人员正在发起新一轮科技攻关。在显微镜下，这样只有头发丝粗细的新型光纤，却拥有4路通道，传输容量可以提升4倍以上，将为算力调度提供新的物理底座。\n算力资源在算力网上加快流动。围绕“东数西算”八大国家枢纽节点，全国东西部主要地区已形成毫秒级算力服务圈。目前，全新的全国一体化算力网监测调度试验验证平台进入试运行，全国超六成算力已纳入统一监测，算力接入和精准匹配能力不断提升，服务人工智能、工业制造、科学研究等上百个应用场景。",
+  "image_url": null,
+  "published_at": "2026-08-09T12:00:00+00:00",
+  "event_date": null,
+  "ingested_at": "2026-08-10T05:42:09Z",
+  "topic": "industry",
+  "keywords": [
+    "算力网",
+    "人工智能",
+    "东数西算"
+  ],
+  "tags": [
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "算力网",
+      "name_en": "Computing Power Network"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人工智能",
+      "name_en": "Artificial Intelligence"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东数西算",
+      "name_en": "East Data West Computing"
+    }
+  ],
+  "tags_zh": [
+    "算力网",
+    "人工智能",
+    "东数西算"
+  ],
+  "tags_en": [
+    "Computing Power Network",
+    "Artificial Intelligence",
+    "East Data West Computing"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20260809-gov_cn_yaowen-e26a16",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

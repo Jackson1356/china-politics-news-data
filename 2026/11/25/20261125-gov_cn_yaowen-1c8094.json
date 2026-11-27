@@ -1,0 +1,114 @@
+{
+  "id": "20261125-gov_cn_yaowen-1c8094",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087257.htm",
+  "title_zh": "王毅同英国外交大臣米利班德通电话",
+  "title_en": "Wang Yi Holds Phone Call with UK Foreign Secretary Miliband",
+  "summary_zh": "11月24日，中共中央政治局委员、外交部长王毅应约同英国外交大臣米利班德通电话，就中英关系、高层往来及中东、乌克兰等问题交换意见。",
+  "summary_en": "On Nov 24, Chinese Foreign Minister Wang Yi took a call from UK Foreign Secretary Miliband, discussing bilateral ties, high-level exchanges, and the Middle East and Ukraine issues.",
+  "body_zh": "新华社北京11月24日电 中共中央政治局委员、外交部长王毅24日应约同英国外交大臣米利班德通电话。\n王毅表示，今年以来，在两国领导人引领下，中英关系改善势头取得积极进展，值得双方共同珍惜。历史和事实将证明，中英发展长期稳定的全面战略伙伴关系完全符合两国和两国人民根本利益。明年是中英建立大使级外交关系55周年，是两国关系承前启后的重要年份。中方愿同英方一道努力，推动中英关系成熟、稳健、可持续向前发展，为地区和世界和平稳定发挥建设性作用。\n王毅说，双方要沿着两国领导人确定的方向，规划好下阶段高层往来，充分释放各领域合作潜力，不断丰富中英全面战略伙伴关系内涵。希望英方切实恪守一个中国原则，维护好双边关系政治基础。中国“十五五”时期将继续扩大对外开放，为两国务实合作开辟广阔空间，希望英方坚持自贸原则和开放姿态，为中国企业赴英合作提供稳定政策预期和良好营商环境。中方支持英国明年担任二十国集团轮值主席国工作，愿同英方加强多边协作，为动荡世界注入更多稳定性和确定性。\n米利班德祝贺中方成功举办亚太经合组织领导人非正式会议，表示英方高度重视发展对华关系，期待同中方密切高层交往，拓展互利合作，推动英中关系健康稳定发展。英方重申在台湾问题上立场没有改变，愿同中方在气候变化和国际地区热点问题上加强对话沟通，共同应对挑战，维护世界和平。\n双方还就当前的中东局势、乌克兰等问题交换了意见。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中英关系",
+    "全面战略伙伴关系",
+    "高层往来",
+    "一个中国原则"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "米利班德",
+      "name_en": "David Miliband"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中英关系",
+      "name_en": "China-UK Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "全面战略伙伴关系",
+      "name_en": "Comprehensive Strategic Partnership"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "高层往来",
+      "name_en": "High-level Exchanges"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "米利班德",
+    "北京",
+    "中英关系",
+    "全面战略伙伴关系",
+    "高层往来",
+    "一个中国原则"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "David Miliband",
+    "Beijing",
+    "China-UK Relations",
+    "Comprehensive Strategic Partnership",
+    "High-level Exchanges",
+    "One-China Principle"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "米利班德"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261125-gov_cn_yaowen-1c8094",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

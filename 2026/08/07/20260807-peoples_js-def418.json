@@ -1,0 +1,101 @@
+{
+  "id": "20260807-peoples_js-def418",
+  "source": "peoples_js",
+  "source_name_zh": "人民网 江苏",
+  "source_name_en": "People's Daily Jiangsu",
+  "source_media_id": "people_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://js.people.com.cn/n2/2026/0807/c360303-41661317.html",
+  "title_zh": "江苏部署深化扫黑除恶专项斗争等工作",
+  "title_en": "Jiangsu Deploys Campaign Against Gang Crimes and Telecom Fraud",
+  "summary_zh": "8月4日，江苏省公安厅召开视频调度会，部署深化扫黑除恶专项斗争、打击治理电信网络诈骗犯罪和专项打击整治等工作。",
+  "summary_en": "On August 4, Jiangsu Provincial Public Security Department held a video conference to deploy campaigns against gang crimes, telecom fraud, and other targeted crackdowns.",
+  "body_zh": "江苏部署深化扫黑除恶专项斗争等工作\n据《新华日报》报道，8月4日，江苏省公安厅召开全省公安机关视频调度会，部署深化扫黑除恶专项斗争、打击治理电信网络诈骗犯罪和有关专项打击整治等工作。\n会议要求，全力打好扫黑除恶攻坚仗。严打整治软暴力催收、恶意索赔、舆情敲诈、劳务碰瓷、碰瓷敲诈、强迫消费、色情敲诈、裸聊敲诈、网络“套路贷”、网络暴力十类“软暴力”“网络化”新型黑恶犯罪，同步围剿“六霸”等传统黑恶犯罪，特别是农村黑恶势力以及金融放贷、工程建设、市场流通等行业领域黑恶犯罪，以及侵害新就业群体、黄赌恶合流、未成年涉黑涉恶三类突出犯罪，不间断部署集群战役、区域会战、类案打击，加强综合治理，实现新型黑恶犯罪得到有效遏制，传统黑恶犯罪得到重创严打，重点行业领域得到全面整治。同时，认真落实全国公安机关联动打击新机制，深挖严打涉诈“黑灰产”，加强大案攻坚、两金拦截、反诈宣传，最大限度压案降损，全力打好电诈治理持久仗。健全完善部门联动机制，强力推进枪爆犯罪打击、涉油涉烟专项打击和养老、医保专项整治冲刺攻坚以及文物犯罪“云鸮”专项打击行动，全力打好重点犯罪歼灭仗。",
+  "image_url": null,
+  "published_at": "2026-08-07T12:00:00+00:00",
+  "event_date": "2026-08-04",
+  "ingested_at": "2026-08-07T06:00:29Z",
+  "topic": "discipline",
+  "keywords": [
+    "扫黑除恶",
+    "电信网络诈骗",
+    "专项打击整治"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "江苏省公安厅",
+      "name_en": "Jiangsu Provincial Public Security Department"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "扫黑除恶",
+      "name_en": "Combating Gang Crimes"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "电信网络诈骗",
+      "name_en": "Telecom Fraud"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "专项打击整治",
+      "name_en": "Targeted Crackdowns"
+    }
+  ],
+  "tags_zh": [
+    "江苏省公安厅",
+    "江苏",
+    "扫黑除恶",
+    "电信网络诈骗",
+    "专项打击整治"
+  ],
+  "tags_en": [
+    "Jiangsu Provincial Public Security Department",
+    "Jiangsu",
+    "Combating Gang Crimes",
+    "Telecom Fraud",
+    "Targeted Crackdowns"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "江苏"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS"
+    ],
+    "companies": [
+      {
+        "name_zh": "江苏省公安厅",
+        "name_en": "Jiangsu Provincial Public Security Department"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260807-peoples_js-def418",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

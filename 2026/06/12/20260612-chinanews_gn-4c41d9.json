@@ -1,0 +1,101 @@
+{
+  "id": "20260612-chinanews_gn-4c41d9",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/06-12/10639132.shtml",
+  "title_zh": "尼泊尔外交部长希西尔将访华",
+  "title_en": "Nepal's Foreign Minister Shishir to Visit China",
+  "summary_zh": "中国外交部12日宣布，应王毅邀请，尼泊尔外交部长希西尔将于6月14日至17日访问中国，旨在深化两国务实合作并推动战略合作伙伴关系发展。",
+  "summary_en": "China's Foreign Ministry announced on June 12 that Nepal's Foreign Minister Shishir will visit China from June 14 to 17 at the invitation of Wang Yi to deepen bilateral cooperation and strategic partnership.",
+  "body_zh": "尼泊尔外交部长希西尔将访华\n中新网北京6月12日电 (记者 张蔚然 黄钰钦)中国外交部发言人12日宣布：应中共中央政治局委员、外交部长王毅邀请，尼泊尔外交部长希西尔将于6月14日至17日访问中国。\n在当天举行的例行记者会上，外交部发言人林剑介绍中方对此访期待时表示，中国和尼泊尔是传统友好邻邦。自1955年建交以来，两国始终秉持和平共处五项原则，相互支持彼此维护独立、主权和领土完整。2019年10月，习近平主席对尼泊尔进行历史性国事访问，两国关系提升为面向发展与繁荣的世代友好的战略合作伙伴关系。\n林剑说，尼方于今年3月如期平稳完成大选，顺利组建新政府，中方对此表示祝贺，支持尼方实现团结稳定、发展繁荣。中方高度重视中尼关系，愿以此访为契机，同尼泊尔新政府一道努力，增进政治互信，深化务实合作，高质量共建“一带一路”，推动中尼战略合作伙伴关系进一步向前发展。(完)\n国内新闻精选：\n- 2026年06月13日 13:18:30\n- 2026年06月13日 13:10:54\n- 2026年06月13日 12:45:48\n- 2026年06月13日 11:45:58\n- 2026年06月13日 11:45:36\n- 2026年06月13日 11:11:38\n- 2026年06月13日 09:53:39\n- 2026年06月12日 20:33:25\n- 2026年06月12日 13:39:33\n- 2026年06月12日 13:10:03",
+  "image_url": null,
+  "published_at": "2026-06-12T12:00:00+00:00",
+  "event_date": "2026-06-14",
+  "ingested_at": "2026-06-13T08:13:37Z",
+  "topic": "foreign",
+  "keywords": [
+    "中尼关系",
+    "一带一路",
+    "战略合作伙伴关系"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "希西尔",
+      "name_en": "Shishir"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中尼关系",
+      "name_en": "China-Nepal Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一带一路",
+      "name_en": "Belt and Road Initiative"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "战略合作伙伴关系",
+      "name_en": "Strategic Partnership"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "希西尔",
+    "外交部",
+    "中尼关系",
+    "一带一路",
+    "战略合作伙伴关系"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Shishir",
+    "Ministry of Foreign Affairs",
+    "China-Nepal Relations",
+    "Belt and Road Initiative",
+    "Strategic Partnership"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi",
+      {
+        "id": null,
+        "name_zh": "林剑"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260612-chinanews_gn-4c41d9",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

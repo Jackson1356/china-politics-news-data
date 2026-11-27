@@ -1,0 +1,91 @@
+{
+  "id": "20261125-chinanews_gn-a0cb6a",
+  "source": "chinanews_gn",
+  "source_name_zh": "中国新闻网 国内",
+  "source_name_en": "China News Service",
+  "source_media_id": "china_news_service",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.chinanews.com.cn/gn/2026/11-25/10737539.shtml",
+  "title_zh": "神舟二十四号航天员乘组顺利进驻“天宫” 中外航天员实现首次“太空握手”",
+  "title_en": "Shenzhou-24 Crew Enters Tiangong as Chinese and Foreign Astronauts Hold First 'Space Handshake'",
+  "summary_zh": "11月25日，神舟二十四号3名航天员进入中国空间站，与神舟二十三号乘组会师，“天宫”首次迎来外籍航天员。",
+  "summary_en": "On Nov 25, three Shenzhou-24 astronauts entered China's space station and met the Shenzhou-23 crew, marking the first time foreign astronauts have visited Tiangong.",
+  "body_zh": "神舟二十四号航天员乘组顺利进驻“天宫” 中外航天员实现首次“太空握手”\n中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，在载人飞船与空间站组合体成功交会对接后，神舟二十四号航天员乘组从飞船返回舱顺利进入轨道舱。\n北京时间11月25日14时35分，在轨执行任务的神舟二十三号航天员乘组顺利打开“家门”，欢迎远道而来的3名航天员入驻中国空间站，中外航天员实现首次“太空握手”。这是中国航天史上第9次“太空会师”，也是“天宫”首次迎来外籍航天员。随后，6名航天员合影留念，记录下这一历史性时刻。后续，6名航天员将在空间站进行在轨轮换‌。\n几千年来，跨越喀喇昆仑的山河丝路映照着人类文明交流互鉴的坚定脚步；如今，浩瀚无垠宇宙的灿烂星河连接着人类和平利用太空、建设“太空家园”的共同梦想。中国空间站永远值得期待！中国“天宫”欢迎世界各地的伙伴们到访！(完)\n国内新闻精选：\n- 2026年11月25日 17:03:48\n- 2026年11月25日 14:59:09\n- 2026年11月25日 11:24:54\n- 2026年11月24日 15:16:00\n- 2026年11月24日 10:07:37\n- 2026年11月24日 09:21:20\n- 2026年11月23日 21:28:15\n- 2026年11月23日 20:12:59\n- 2026年11月23日 19:45:50\n- 2026年11月23日 16:26:27",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "industry",
+  "keywords": [
+    "载人航天",
+    "空间站国际合作",
+    "在轨轮换"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-GS-JQ",
+      "name_zh": "酒泉",
+      "name_en": "Jiuquan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "载人航天",
+      "name_en": "Manned Spaceflight"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "空间站国际合作",
+      "name_en": "Space Station International Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "在轨轮换",
+      "name_en": "In-orbit Crew Rotation"
+    }
+  ],
+  "tags_zh": [
+    "酒泉",
+    "载人航天",
+    "空间站国际合作",
+    "在轨轮换"
+  ],
+  "tags_en": [
+    "Jiuquan",
+    "Manned Spaceflight",
+    "Space Station International Cooperation",
+    "In-orbit Crew Rotation"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [],
+    "locations": [
+      "CN-GS-JQ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261125-chinanews_gn-a0cb6a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "xinhua_politics",
+      "source_tier": 1,
+      "url": "https://www.news.cn/politics/20261125/df4c2ae532154c3fadd8495bca28a076/c.html",
+      "title_zh": "神舟二十四号丨神二十四乘组进驻“天宫” 中外航天员首次“太空握手”",
+      "published_at": "2026-11-25T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

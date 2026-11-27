@@ -1,0 +1,95 @@
+{
+  "id": "20260908-gov_si_ping-0c6284",
+  "source": "gov_si_ping",
+  "source_name_zh": "四平市政府网",
+  "source_name_en": "四平 Government Portal",
+  "source_media_id": "gov-cn-prefecture-si_ping",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.siping.gov.cn/sj_1/zyhd/202609/t20260908_774909.html",
+  "title_zh": "四平市委常委会会议传达学习习近平总书记重要讲话精神",
+  "title_en": "Siping Party Committee Meeting Studies Xi Jinping's Important Speech",
+  "summary_zh": "9月7日，四平市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，研究贯彻落实意见。",
+  "summary_en": "On Sept 7, Siping Party Secretary Wang Xiangmin chaired a Standing Committee meeting to convey and study Xi Jinping's speech at the memorial conference for the 100th anniversary of Jiang Zemin's birth and discuss implementation.",
+  "body_zh": "2026-09-08\n9月7日，市委书记王相民主持召开市委常委会会议，传达学习习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神，研究我市贯彻落实意见。\n会议指出，要在深学细悟中筑牢政治忠诚。坚持原原本本学、逐字逐句悟，把习近平总书记在纪念江泽民同志诞辰100周年大会上的重要讲话精神与深入贯彻落实习近平党建思想结合起来，与巩固拓展树立和践行正确政绩观学习教育成果结合起来，更加深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，始终在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致。\n会议强调，要在对标对表中汲取奋进力量。以江泽民同志的崇高风范为榜样，立足“英雄之城 红色四平”城市定位，引导全市上下坚定不移养英雄气、传英雄志、创英雄业，崇尚英雄、学习英雄、争做英雄，以永不懈怠的精神状态和一往无前的奋斗姿态，努力闯出一条老工业基地振兴发展新路，真正让英雄之城不负英雄之名。\n会议指出，要在实干笃行中推动振兴发展。紧紧围绕市委“1288”总体工作思路，全力做大做强八个重点产业，进一步强化“项目为王”导向、加快重点项目建设，依托体检、诊断、治疗“三个报告”精准助企纾困，推动传统产业转型升级、新兴产业和未来产业占据一席之地。突出抓好开发区、营商环境等重点领域改革，持续深化向南、向北、向都市圈协同开放，推动经济实现质的有效提升和量的合理增长。\n会议要求，要在践行宗旨中增进民生福祉。坚持把为民造福作为第一政绩，推动财力向民生倾斜、资源向基层下沉、服务向短板聚焦，千方百计解决好就业、教育、医疗、养老、信访等群众急难愁盼问题，让四平百姓既有获得感、幸福感、安全感，更有认同感、归属感、自豪感。\n会议还研究了其他事项。",
+  "image_url": null,
+  "published_at": "2026-09-08T12:00:00+00:00",
+  "event_date": "2026-09-07",
+  "ingested_at": "2026-09-09T08:59:29Z",
+  "topic": "party",
+  "keywords": [
+    "党的建设",
+    "振兴发展"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-JL-SP",
+      "name_zh": "四平",
+      "name_en": "Siping"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的建设",
+      "name_en": "Party Building"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "振兴发展",
+      "name_en": "Revitalization and Development"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "四平",
+    "党的建设",
+    "振兴发展",
+    "习近平"
+  ],
+  "tags_en": [
+    "Siping",
+    "Party Building",
+    "Revitalization and Development"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping",
+      {
+        "id": null,
+        "name_zh": "王相民"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JL-SP"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260908-gov_si_ping-0c6284",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_si_ping",
+      "source_tier": 4,
+      "url": "http://www.siping.gov.cn/zw/spdt/202609/t20260908_774907.html",
+      "title_zh": "四平市人民政府",
+      "published_at": "2026-09-08T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

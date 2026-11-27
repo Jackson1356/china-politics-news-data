@@ -1,0 +1,83 @@
+{
+  "id": "20261025-xinhua_leaders-82c4c1",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261025/ba6df2441de34889b246e54580907b02/c.html",
+  "title_zh": "祖国必须统一，也必然统一",
+  "title_en": "Xi Jinping: The Motherland Must Be Reunified, and It Will Be",
+  "summary_zh": "10月25日台湾光复纪念日，新华社新媒体中心推出“学习新语”产品，重温习近平总书记关于祖国必须统一、也必然统一的重要论述。",
+  "summary_en": "On Oct 25, Taiwan Restoration Day, Xinhua released a short video revisiting Xi Jinping's statements that the motherland must be reunified and inevitably will be.",
+  "body_zh": "10月25日是台湾光复纪念日。1945年，中国人民同世界各国人民一道，取得了中国人民抗日战争暨世界反法西斯战争的伟大胜利，台湾随之光复，重回祖国怀抱。\n“祖国必须统一，也必然统一。”一起聆听习近平总书记重要论述，为推进祖国统一大业凝聚奋进力量。\n统筹：黄庆华 周年钧\n编导：李丽洋\n新华社新媒体中心制作\n新华社出品",
+  "image_url": null,
+  "published_at": "2026-10-25T12:00:00+00:00",
+  "event_date": "2026-10-25",
+  "ingested_at": "2026-10-25T09:10:20Z",
+  "topic": "party",
+  "keywords": [
+    "祖国统一",
+    "台湾光复纪念日",
+    "两岸关系"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "XINHUA",
+      "name_zh": "新华社",
+      "name_en": "Xinhua News Agency"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "祖国统一",
+      "name_en": "National Reunification"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "台湾光复纪念日",
+      "name_en": "Taiwan Restoration Day"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "两岸关系",
+      "name_en": "Cross-Strait Relations"
+    }
+  ],
+  "tags_zh": [
+    "新华社",
+    "祖国统一",
+    "台湾光复纪念日",
+    "两岸关系"
+  ],
+  "tags_en": [
+    "Xinhua News Agency",
+    "National Reunification",
+    "Taiwan Restoration Day",
+    "Cross-Strait Relations"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "XINHUA"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261025-xinhua_leaders-82c4c1",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

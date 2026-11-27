@@ -1,0 +1,120 @@
+{
+  "id": "20261119-gov_yan_cheng-1ff0c8",
+  "source": "gov_yan_cheng",
+  "source_name_zh": "盐城市政府网",
+  "source_name_en": "盐城 Government Portal",
+  "source_media_id": "gov-cn-prefecture-yan_cheng",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-JS",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.jiangsu.gov.cn/art/2026/11/19/art_60096_11861840.html",
+  "title_zh": "江苏举办领导干部树立和践行正确政绩观深入推进科技强农专题研究班",
+  "title_en": "Jiangsu Holds Seminar for Leading Cadres on Correct Performance Outlook and Sci-Tech Agriculture",
+  "summary_zh": "11月16日至18日，江苏省委组织部、省农业农村厅在南京举办专题研究班，徐缨、史志军出席并讲话，部署推进科技强农工作。",
+  "summary_en": "From Nov 16 to 18, Jiangsu's Organization Department and Agriculture Department held a seminar in Nanjing on correct performance outlook and sci-tech agriculture, with Xu Ying and Shi Zhijun speaking.",
+  "body_zh": "当前位置：\n领导干部树立和践行正确政绩观深入推进科技强农专题研究班举办\n11月16日至18日，省委组织部、省农业农村厅在南京国家农创中心举办领导干部树立和践行正确政绩观深入推进科技强农专题研究班。省委常委、省委农村工作领导小组组长徐缨，副省长史志军分别出席开班式、结业式并讲话。\n徐缨强调，习近平总书记关于“三农”工作和科技创新的重要论述，是新时代新征程推进科技强农的根本遵循，必须牢牢把握我省科技强农的着力点，突出关键核心技术攻关，聚焦产业发展导向，建强农业科创载体平台，充分调动农业科技人员成果转化应用的积极性创造性，切实加强农业科技推广体系建设，以更加有力的举措加快科技强农步伐，为推进农业现代化走在前提供更加坚实的科技支撑。要以高度的政治责任感抓农业，以科学务实的态度抓农业，以强烈的为民情怀抓农业，努力锻造懂农业、爱农村、爱农民的“三农”工作队伍。\n史志军在讲话中指出，科技强农是江苏推进农业现代化的必答题。要深刻认识我省农业科技创新的短板弱项，把学习成果转化为科技强农的实际成效，紧盯关键任务，在生物育种、智能装备、生物制造等领域集中攻坚，把“人工智能+农业”作为重要方向，用科技金融支撑农业创新链，以产业集群承载成果落地，推动科技强农早见成效，为江苏在推进农业现代化上走在前多作贡献。\n各市、县（市、涉农区）党委或政府分管负责同志，各市党委农办、农业农村局主要负责同志，省有关部门（单位）职能处室负责同志等参加研究班。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "party",
+  "keywords": [
+    "科技强农",
+    "正确政绩观",
+    "农业现代化",
+    "生物育种"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xu-ying-jiangsu",
+      "name_zh": "徐缨",
+      "name_en": "Xu Ying"
+    },
+    {
+      "kind": "person",
+      "id": "shi-zhijun-huaian",
+      "name_zh": "史志军",
+      "name_en": "Shi Zhijun"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS",
+      "name_zh": "江苏",
+      "name_en": "Jiangsu"
+    },
+    {
+      "kind": "location",
+      "id": "CN-JS-NJ",
+      "name_zh": "南京",
+      "name_en": "Nanjing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "科技强农",
+      "name_en": "Sci-Tech Agriculture"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "正确政绩观",
+      "name_en": "Correct Performance Outlook"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "农业现代化",
+      "name_en": "Agricultural Modernization"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "生物育种",
+      "name_en": "Biological Breeding"
+    }
+  ],
+  "tags_zh": [
+    "徐缨",
+    "史志军",
+    "江苏",
+    "南京",
+    "科技强农",
+    "正确政绩观",
+    "农业现代化",
+    "生物育种"
+  ],
+  "tags_en": [
+    "Xu Ying",
+    "Shi Zhijun",
+    "Jiangsu",
+    "Nanjing",
+    "Sci-Tech Agriculture",
+    "Correct Performance Outlook",
+    "Agricultural Modernization",
+    "Biological Breeding"
+  ],
+  "entities": {
+    "politicians": [
+      "shi-zhijun-huaian",
+      "xu-ying-jiangsu"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-JS",
+      "CN-JS-NJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261119-gov_yan_cheng-1ff0c8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

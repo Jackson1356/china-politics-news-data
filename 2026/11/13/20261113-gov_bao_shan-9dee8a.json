@@ -1,0 +1,100 @@
+{
+  "id": "20261113-gov_bao_shan-9dee8a",
+  "source": "gov_bao_shan",
+  "source_name_zh": "保山市政府网",
+  "source_name_en": "保山 Government Portal",
+  "source_media_id": "gov-cn-prefecture-bao_shan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-YN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.baoshan.gov.cn/zwzx.htm",
+  "title_zh": "保山市委常委会召开会议 学习贯彻党的二十届五中全会精神",
+  "title_en": "Baoshan Municipal Party Standing Committee Meets to Study Spirit of Fifth Plenary Session",
+  "summary_zh": "2026年11月13日，保山市委常委会召开会议，学习贯彻党的二十届五中全会精神，重温习近平总书记考察云南重要讲话精神。",
+  "summary_en": "On Nov 13, 2026, the CPC Baoshan Municipal Standing Committee met to study the spirit of the Party's Fifth Plenary Session and to revisit Xi Jinping's remarks during his inspection of Yunnan.",
+  "body_zh": "当前位置：\n网站首页\n政务资讯\n市委常委会召开会议  学习贯彻党的二十届五中全会精神、重温习近平总书记考察云南重要讲话精...\n2026-11-13\n技能铺就成才路——保山现代职业教育绘就高质量发展新答卷\n2026-11-13\n2026腾冲科学家论坛·城市高质量发展专题活动主论坛将于11月21日启幕\n2026-11-13\n龙陵边寨老手艺！\n2026-11-13\n潞江坝咖啡红了！高黎贡山下迎来小粒咖啡采摘季\n2026-11-13\n全县2026年前三季度经济运行分析会召开\n2026-11-13\n“温泉喷涌·住在保山”文旅主题推介会在保山举行\n2026-11-12\n让每一颗童心被温柔托举——我市以“教联体”抓手补齐育人短板\n2026-11-12\n保山召开腾冲科学家论坛推进全市科技服务业扩能提质专题会议\n2026-11-12\n小融来报丨三连世赛金牌！保山青年打破成才偏见：名校不是唯一出路\n2026-11-12\n【我为群众办实事】隆阳区精准施策筑牢特殊群体温暖安全防线\n2026-11-12\n保山与成都新都区签约共建升庵文化联盟\n2026-11-12\n保山多点发力开展防震减灾宣传活动\n2026-11-12\n龙潭山：环境治理长效机制 托起群众稳稳幸福\n2026-11-12\n广电惠民暖人心｜腾冲这项工程落地见效，群众看上 “舒心电视”\n2026-11-12",
+  "image_url": null,
+  "published_at": "2026-11-13T12:00:00+00:00",
+  "event_date": "2026-11-13",
+  "ingested_at": "2026-11-13T11:45:20Z",
+  "topic": "party",
+  "keywords": [
+    "党的二十届五中全会精神",
+    "学习贯彻"
+  ],
+  "tags": [
+    {
+      "kind": "location",
+      "id": "CN-YN-BS",
+      "name_zh": "保山",
+      "name_en": "Baoshan"
+    },
+    {
+      "kind": "location",
+      "id": "CN-YN",
+      "name_zh": "云南",
+      "name_en": "Yunnan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "党的二十届五中全会精神",
+      "name_en": "Fifth Plenary Session Spirit"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "学习贯彻",
+      "name_en": "Policy Study and Implementation"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "保山",
+    "云南",
+    "党的二十届五中全会精神",
+    "学习贯彻",
+    "习近平"
+  ],
+  "tags_en": [
+    "Baoshan",
+    "Yunnan",
+    "Fifth Plenary Session Spirit",
+    "Policy Study and Implementation"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-YN-BS",
+      "CN-YN"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20261113-gov_bao_shan-9dee8a",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_bao_shan",
+      "source_tier": 4,
+      "url": "https://www.baoshan.gov.cn/zwzx/xqdt.htm",
+      "title_zh": "政务资讯",
+      "published_at": "2026-11-13T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

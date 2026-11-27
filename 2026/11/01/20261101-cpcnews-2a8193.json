@@ -1,0 +1,93 @@
+{
+  "id": "20261101-cpcnews-2a8193",
+  "source": "cpcnews",
+  "source_name_zh": "中国共产党新闻网",
+  "source_name_en": "CPC News",
+  "source_media_id": "cpc_news",
+  "source_admin_level": "central",
+  "source_parent_org_id": "people_daily",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://cpc.people.com.cn/n1/2026/1101/c64387-40825229.html",
+  "title_zh": "前三季度文化企业营业收入同比增长4.3%",
+  "title_en": "Cultural Enterprise Revenue Rises 4.3% Year-on-Year in First Three Quarters",
+  "summary_zh": "国家统计局数据显示，2026年前三季度全国规模以上文化及相关产业企业营业收入108210亿元，同比增长4.3%，文化服务业增长7.3%。",
+  "summary_en": "China's above-scale cultural and related industry enterprises posted 10.82 trillion yuan in revenue in the first three quarters of 2026, up 4.3% year on year, with cultural services rising 7.3%, according to the National Bureau of Statistics.",
+  "body_zh": "本报北京10月31日电 （记者刘志强）记者从国家统计局获悉：前三季度，全国规模以上文化及相关产业企业实现营业收入108210亿元，同比增长4.3%。分领域看，文化核心领域实现营业收入75042亿元，同比增长5.1%。其中，文化投资运营、创意设计服务、新闻信息服务3个行业大类营业收入增长较快，增速分别为11.7%、8.8%、7.3%。\n前三季度，文化服务业实现营业收入65697亿元，同比增长7.3%。文化服务业企业营业收入占规模以上文化企业营业收入的比重为60.7%，同比提高1.7个百分点。\n《 人民日报 》（ 2026年11月01日 04 版）",
+  "image_url": null,
+  "published_at": "2026-11-01T12:00:00+00:00",
+  "event_date": "2026-10-31",
+  "ingested_at": "2026-11-01T11:11:20Z",
+  "topic": "economy",
+  "keywords": [
+    "文化产业",
+    "营业收入",
+    "文化服务业"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "NBS",
+      "name_zh": "国家统计局",
+      "name_en": "National Bureau of Statistics"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化产业",
+      "name_en": "Cultural Industry"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "营业收入",
+      "name_en": "Operating Revenue"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "文化服务业",
+      "name_en": "Cultural Services"
+    }
+  ],
+  "tags_zh": [
+    "国家统计局",
+    "北京",
+    "文化产业",
+    "营业收入",
+    "文化服务业"
+  ],
+  "tags_en": [
+    "National Bureau of Statistics",
+    "Beijing",
+    "Cultural Industry",
+    "Operating Revenue",
+    "Cultural Services"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "NBS"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261101-cpcnews-2a8193",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

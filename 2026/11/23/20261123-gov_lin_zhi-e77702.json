@@ -1,0 +1,102 @@
+{
+  "id": "20261123-gov_lin_zhi-e77702",
+  "source": "gov_lin_zhi",
+  "source_name_zh": "林芝市政府网",
+  "source_name_en": "林芝 Government Portal",
+  "source_media_id": "gov-cn-prefecture-lin_zhi",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "http://www.linzhi.gov.cn/linzhi/c100004/202611/bb7ffb23ef3f403e8817e7ab9596ea88.shtml",
+  "title_zh": "旦巴：2026年全区治理欠薪冬季行动动员部署视频会召开",
+  "title_en": "Danba Chairs 2026 Regional Video Meeting Deploying Winter Campaign Against Unpaid Wages",
+  "summary_zh": "11月18日，西藏全区治理欠薪冬季行动动员部署视频会在拉萨召开，自治区党委常委、常务副主席旦巴主持并讲话，要求畅通欠薪反映渠道、强化源头治理。",
+  "summary_en": "On Nov 18, Tibet held a video meeting in Lhasa to deploy the 2026 winter campaign against unpaid wages, chaired by regional Executive Vice Chairman Danba, who urged unblocked complaint channels and root-cause governance.",
+  "body_zh": "2026年全区治理欠薪冬季行动动员部署视频会召开\n旦巴主持\n《西藏日报》(2026年11月21日第02版)\n本报拉萨11月20日讯(记者王超)18日,2026年全区治理欠薪冬季行动动员部署视频会在拉萨召开,区党委常委、自治区常务副主席旦巴主持并讲话。\n旦巴要求,各级各部门要切实把思想和行动统一到党中央决策部署和区党委、政府工作要求上来,把治理欠薪作为贯彻落实党的二十届五中全会精神的具体举措,作为整治群众身边不正之风和腐败问题的有力抓手,坚决守住“两个确保”底线,全面打赢治理欠薪冬季行动攻坚战。\n旦巴强调,要畅通欠薪问题反映渠道,运用大数据监测、智能预警等手段,加强隐患排查,做到欠薪问题早发现、早识别、早处置。要落实“受理、核查、处置、销号”全流程闭环管理,对欠薪线索分类处置,并坚持多元化调处欠薪问题,依法有效保障劳动者权益。要严格执行用工实名制等刚性制度,加强日常监管,压实企业主体责任,切实强化欠薪问题源头治理。要加强舆情、信访动向监测,做好兜底保障,合力防范各类风险,确保全区社会大局稳定。",
+  "image_url": null,
+  "published_at": "2026-11-23T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-23T12:55:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "治理欠薪",
+    "劳动者权益保障",
+    "源头治理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "danba-xizang",
+      "name_zh": "旦巴",
+      "name_en": "Danba"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ-LS",
+      "name_zh": "拉萨",
+      "name_en": "Lhasa"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XZ",
+      "name_zh": "西藏",
+      "name_en": "Tibet"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "治理欠薪",
+      "name_en": "Unpaid Wages Governance"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "劳动者权益保障",
+      "name_en": "Labor Rights Protection"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "源头治理",
+      "name_en": "Root-Cause Governance"
+    }
+  ],
+  "tags_zh": [
+    "旦巴",
+    "拉萨",
+    "西藏",
+    "治理欠薪",
+    "劳动者权益保障",
+    "源头治理"
+  ],
+  "tags_en": [
+    "Danba",
+    "Lhasa",
+    "Tibet",
+    "Unpaid Wages Governance",
+    "Labor Rights Protection",
+    "Root-Cause Governance"
+  ],
+  "entities": {
+    "politicians": [
+      "danba-xizang"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XZ-LS",
+      "CN-XZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261123-gov_lin_zhi-e77702",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

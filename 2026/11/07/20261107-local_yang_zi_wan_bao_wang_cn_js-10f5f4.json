@@ -1,0 +1,121 @@
+{
+  "id": "20261107-local_yang_zi_wan_bao_wang_cn_js-10f5f4",
+  "source": "local_yang_zi_wan_bao_wang_cn_js",
+  "source_name_zh": "扬子晚报网",
+  "source_name_en": "扬子晚报网",
+  "source_media_id": "cac-cn-js-ba1e37c706",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JS",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.yzwb.net/news/txs/202611/t20261107_410240.html",
+  "title_zh": "两部门会商调度雨雪天气防范应对工作",
+  "title_en": "Two Departments Hold Joint Consultation on Rain and Snow Disaster Prevention and Response",
+  "summary_zh": "11月7日，国家防减救灾委办公室、应急管理部会同中国气象局组织专题会商，调度安徽、江西、北京、河北、辽宁等重点省份，部署暴雪和强降雨防范应对工作。",
+  "summary_en": "On November 7, the Office of the National Disaster Prevention, Reduction and Relief Committee and the Ministry of Emergency Management, together with the China Meteorological Administration, held a special consultation to coordinate blizzard and heavy rain response in key provinces including Anhui, Jiangxi, Beijing, Hebei and Liaoning.",
+  "body_zh": "两部门会商调度雨雪天气防范应对工作\n11月7日，国家防减救灾委办公室、应急管理部会同中国气象局组织专题会商，分析研判本轮雨雪发展趋势，调度安徽、江西、北京、河北、辽宁等重点省份，部署当前暴雪和强降雨防范应对工作。国家防减救灾委办公室副主任、应急管理部副部长陈敏主持会商。\n据气象部门预测，7日至10日，受较强冷空气影响，我国中东部大部地区将有大范围雨雪和降温天气。预计7日至8日，内蒙古东南部、辽宁西部、山西北部、河北中北部、北京西部和北部、天津北部等地部分地区有大到暴雪，其中，辽宁西部、河北东北部等地部分地区有大暴雪；河北东南部、天津南部、贵州东北部、重庆东南部、湖北东部和南部、安徽南部、湖南中北部、江西北部、浙江中西部、云南西南部等地部分地区有大到暴雨，其中，安徽南部、江西东北部局地有大暴雨。",
+  "image_url": null,
+  "published_at": "2026-11-07T12:00:00+00:00",
+  "event_date": "2026-11-07",
+  "ingested_at": "2026-11-07T10:48:18Z",
+  "topic": "welfare",
+  "keywords": [
+    "防灾减灾",
+    "雨雪天气防范",
+    "应急管理"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "chen-min-jiangxi",
+      "name_zh": "陈敏",
+      "name_en": "Chen Min"
+    },
+    {
+      "kind": "institution",
+      "id": "MEM",
+      "name_zh": "应急管理部",
+      "name_en": "Ministry of Emergency Management"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中国气象局",
+      "name_en": "China Meteorological Administration"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Reduction"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "雨雪天气防范",
+      "name_en": "Rain and Snow Response"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "应急管理",
+      "name_en": "Emergency Management"
+    }
+  ],
+  "tags_zh": [
+    "陈敏",
+    "应急管理部",
+    "中国气象局",
+    "防灾减灾",
+    "雨雪天气防范",
+    "应急管理"
+  ],
+  "tags_en": [
+    "Chen Min",
+    "Ministry of Emergency Management",
+    "China Meteorological Administration",
+    "Disaster Prevention and Reduction",
+    "Rain and Snow Response",
+    "Emergency Management"
+  ],
+  "entities": {
+    "politicians": [
+      "chen-min-jiangxi"
+    ],
+    "institutions": [
+      "MEM"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中国气象局",
+        "name_en": "China Meteorological Administration"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 3,
+  "cluster_id": "evt-20261107-local_yang_zi_wan_bao_wang_cn_js-10f5f4",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "bjnews",
+      "source_tier": 4,
+      "url": "https://www.bjnews.com.cn/detail/1794036392129299.html",
+      "title_zh": "两部门会商调度北京、河北、辽宁等地雨雪天气防范应对工作",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    },
+    {
+      "source": "local_sha_men_ri_bao_cn_fj",
+      "source_tier": 4,
+      "url": "https://www.xmnn.cn/news/gnxw/202611/t20261107_460279.html",
+      "title_zh": "两部门会商调度雨雪天气防范应对工作 _新闻频道_厦门网",
+      "published_at": "2026-11-07T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "20260827-gov_long_yan-b492b8",
+  "source": "gov_long_yan",
+  "source_name_zh": "龙岩市政府网",
+  "source_name_en": "龙岩 Government Portal",
+  "source_media_id": "gov-cn-prefecture-long_yan",
+  "source_admin_level": "prefecture",
+  "source_parent_org_id": "government:CN-FJ",
+  "source_authority": "first_party_gov_cn_portal",
+  "source_url": "https://www.longyan.gov.cn/xw/yw2/202608/t20260827_2309961.htm",
+  "title_zh": "全市防汛防台风工作视频会召开",
+  "title_en": "Longyan Holds Citywide Video Conference on Flood and Typhoon Prevention",
+  "summary_zh": "8月25日，龙岩市召开防汛防台风工作视频会，市委书记胡盛强调严之又严实之又实防御，保障人民生命财产安全。",
+  "summary_en": "On August 25, Longyan held a citywide video conference on flood and typhoon prevention. Party Secretary Hu Sheng stressed stringent and practical defense measures to safeguard people's lives and property.",
+  "body_zh": "树牢底线思维极限思维 严之又严实之又实防御\n全市防汛防台风工作视频会召开\n8月25日，全市防汛防台风工作视频会召开。市委书记胡盛出席并讲话，强调要认真学习贯彻习近平总书记关于防汛救灾的重要指示精神，树牢底线思维、极限思维，坚决克服麻痹思想和侥幸心理，毫不松懈抓好防汛防台风各项工作，全力维护人民群众生命财产安全和社会大局稳定。市委副书记、市长蔡琳参加。\n胡盛指出，根据气象分析，受季风涡旋影响，连日来，我市出现持续强降雨，小时雨量大、致灾风险高。18号台风“沙德尔”已进入48小时警戒线，预计将在浙江中部到福建中部一带沿海登陆，给我市带来叠加强降雨。\n胡盛强调，全市各级各部门要坚持人民至上、生命至上，做好打持久战的准备，以“时时放心不下”的责任感和“事事落实到位”的执行力，严之又严、实之又实抓细防汛防台风措施落实。要落实好防雨、防风、防地质灾害、防洪、防内涝“五防”部署，深入开展山塘水库、高陡边坡、临水临崖、漫水桥梁等重点部位风险隐患排查整治，特别注意防范强降雨可能引发的山洪、中小河流洪水和塌方、滑坡、泥石流等次生灾害。要强化转移避险，落实好应急响应联动机制和临灾“叫应”机制，对低洼地带、矿山、尾矿库、宗教场所等重点部位场所人员做到应转尽转、应转早转，确保不漏一户、不漏一人。要强化宣传引导，持续推送预警信息、台风动态，广泛宣传防灾避险常识，不断提升群众应急避险意识和能力。要进一步强化责任落实，严格落实24小时防汛防台风值班和领导带班制度，加强救援力量统筹部署和超前预置，完善应对预案、备足应对之策，以工作的确定性应对自然灾害的不确定性。\n市领导廖深洪参加，市委常委、常务副市长陈荣水主持会议并作工作部署。会议以视频形式召开，各县（市、区）设分会场。",
+  "image_url": null,
+  "published_at": "2026-08-27T12:00:00+00:00",
+  "event_date": "2026-08-25",
+  "ingested_at": "2026-08-27T14:58:10Z",
+  "topic": "welfare",
+  "keywords": [
+    "防汛防台风",
+    "防灾减灾"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "hu-sheng-longyan",
+      "name_zh": "胡盛",
+      "name_en": "Hu Sheng"
+    },
+    {
+      "kind": "location",
+      "id": "CN-FJ-LY",
+      "name_zh": "龙岩",
+      "name_en": "Longyan"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防汛防台风",
+      "name_en": "Flood and Typhoon Prevention"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "防灾减灾",
+      "name_en": "Disaster Prevention and Mitigation"
+    },
+    {
+      "kind": "person",
+      "id": "cai-lin-longyan",
+      "name_zh": "蔡琳",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "胡盛",
+    "龙岩",
+    "防汛防台风",
+    "防灾减灾",
+    "蔡琳"
+  ],
+  "tags_en": [
+    "Hu Sheng",
+    "Longyan",
+    "Flood and Typhoon Prevention",
+    "Disaster Prevention and Mitigation"
+  ],
+  "entities": {
+    "politicians": [
+      "cai-lin-longyan",
+      "hu-sheng-longyan",
+      {
+        "id": null,
+        "name_zh": "陈荣水"
+      },
+      {
+        "id": null,
+        "name_zh": "廖深洪"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-FJ-LY"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20260827-gov_long_yan-b492b8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

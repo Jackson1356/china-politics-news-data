@@ -1,0 +1,109 @@
+{
+  "id": "20261119-xinhua_politics-3000f8",
+  "source": "xinhua_politics",
+  "source_name_zh": "新华网 政治",
+  "source_name_en": "Xinhua Politics",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/20261119/1cf8c92bf6c74050b305f5ed11784635/c.html",
+  "title_zh": "明年起职称评审管理新规将施行",
+  "title_en": "New Rules on Professional Title Evaluation to Take Effect Next Year",
+  "summary_zh": "人力资源社会保障部近日印发决定，修改《职称评审管理暂行规定》，修改10条、新增5条，自2027年1月1日起施行，强化评审监管与信用管理。",
+  "summary_en": "China's Ministry of Human Resources and Social Security issued a decision amending the interim rules on professional title evaluation, revising 10 articles and adding 5, to take effect on Jan 1, 2027, tightening oversight and credit management.",
+  "body_zh": "新华社北京11月19日电（记者张晓洁）记者11月19日获悉，人力资源社会保障部近日印发关于修改《职称评审管理暂行规定》的决定，进一步深化职称制度改革。决定聚焦强化评审监管、加强信用管理、优化评审管理服务等重点问题，对暂行规定修改条文10条、新增条文5条，自2027年1月1日起施行。\n评审监管方面，决定明确评审单位应当建立健全职称评审相关工作制度，依规开展职称活动；人力资源社会保障行政部门建立职称评审委员会质量评估机制，对评审单位进行综合评估、分类管理和常态化监管。\n信用管理方面，决定明确人力资源社会保障行政部门建立健全职称信用管理制度，评审单位落实失信行为认定、处理、记录等具体实施工作。同时，对申报人、评审专家、评审工作人员失信行为具体情形作出规定，并完善了相应法律责任。\n评审管理服务方面，决定进一步畅通非公有制经济组织的专业技术人才和自由职业者职称申报渠道，进一步规范基本申报条件、申报材料补正、评审通过表决等程序要求，保障专业技术人才权益，促进评审公平公正。\n据了解，修改暂行规定有利于压实评审单位主体责任，健全职称评审监管和信用管理体系，更好维护职称评审公平公正，营造识才爱才敬才用才的良好环境。人力资源社会保障部将指导各地各有关单位抓好贯彻落实，持续规范职称评审工作，营造风清气正的人才评价环境，不断提高专业技术人才满意度、获得感。",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-19",
+  "ingested_at": "2026-11-21T11:41:43Z",
+  "topic": "personnel",
+  "keywords": [
+    "职称制度改革",
+    "人才评价",
+    "信用管理"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "人力资源社会保障部",
+      "name_en": "Ministry of Human Resources and Social Security"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "职称制度改革",
+      "name_en": "Professional Title System Reform"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人才评价",
+      "name_en": "Talent Evaluation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "信用管理",
+      "name_en": "Credit Management"
+    }
+  ],
+  "tags_zh": [
+    "人力资源社会保障部",
+    "北京",
+    "职称制度改革",
+    "人才评价",
+    "信用管理"
+  ],
+  "tags_en": [
+    "Ministry of Human Resources and Social Security",
+    "Beijing",
+    "Professional Title System Reform",
+    "Talent Evaluation",
+    "Credit Management"
+  ],
+  "entities": {
+    "politicians": [
+      {
+        "id": null,
+        "name_zh": "程序"
+      }
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": [
+      {
+        "name_zh": "人力资源社会保障部",
+        "name_en": "Ministry of Human Resources and Social Security"
+      }
+    ]
+  },
+  "sentiment": "positive",
+  "importance": 2,
+  "cluster_id": "evt-20261119-xinhua_politics-3000f8",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "paper_zhengjing",
+      "source_tier": 1,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34513083",
+      "title_zh": "明年起职称评审管理新规将施行，进一步深化职称制度改革",
+      "published_at": "2026-11-19T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

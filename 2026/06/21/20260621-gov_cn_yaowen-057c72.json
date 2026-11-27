@@ -1,0 +1,70 @@
+{
+  "id": "20260621-gov_cn_yaowen-057c72",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072811.htm",
+  "title_zh": "端午假期全社会跨区域人员流动量预计超6.5亿人次",
+  "title_en": "Cross-Regional Personnel Flow Expected to Exceed 650 Million During Dragon Boat Festival",
+  "summary_zh": "交通运输部数据显示，端午假期全社会跨区域人员流动量预计超6.5亿人次，铁路部门通过加开列车等措施应对返程客流高峰。",
+  "summary_en": "According to the Ministry of Transport, cross-regional personnel flow is expected to exceed 650 million during the Dragon Boat Festival, with railway departments increasing capacity to handle the return peak.",
+  "body_zh": "全国铁路今天（6月21日）迎来返程客流高峰，预计发送旅客1794万人次。铁路部门在客流集中的线路和区段增加运力投放，计划加开旅客列车1355列。21日夜间至22日凌晨，在京沪、京广、京哈等主要高铁干线通道安排开行夜间高铁。\n今年端午假期，公路人员流动总量超5.9亿人次。假期出游多为近郊和周边省市中短途行程，自驾出行占比较高。\n交通运输部最新数据显示，端午假期三天，预计全社会跨区域人员流动总量超6.5亿人次。",
+  "image_url": null,
+  "published_at": "2026-06-21T12:00:00+00:00",
+  "event_date": "2026-06-21",
+  "ingested_at": "2026-06-23T08:00:32Z",
+  "topic": "industry",
+  "keywords": [
+    "交通运输",
+    "端午假期"
+  ],
+  "tags": [
+    {
+      "kind": "institution",
+      "id": "MOT",
+      "name_zh": "交通运输部",
+      "name_en": "Ministry of Transport"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "交通运输",
+      "name_en": "Transportation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "端午假期",
+      "name_en": "Dragon Boat Festival Holiday"
+    }
+  ],
+  "tags_zh": [
+    "交通运输部",
+    "交通运输",
+    "端午假期"
+  ],
+  "tags_en": [
+    "Ministry of Transport",
+    "Transportation",
+    "Dragon Boat Festival Holiday"
+  ],
+  "entities": {
+    "politicians": [],
+    "institutions": [
+      "MOT"
+    ],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 2,
+  "cluster_id": "evt-20260621-gov_cn_yaowen-057c72",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

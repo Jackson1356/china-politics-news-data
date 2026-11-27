@@ -1,0 +1,114 @@
+{
+  "id": "20260831-xinhua_leaders-a56b6e",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20260831/8d359752fd474a0f9dbfd783d4917f78/c.html",
+  "title_zh": "丁薛祥将赴俄罗斯出席第十一届东方经济论坛并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛",
+  "title_en": "Ding Xuexiang to Attend 11th Eastern Economic Forum and Co-chair Meetings in Russia",
+  "summary_zh": "8月31日，外交部宣布，应俄罗斯联邦政府邀请，丁薛祥将于9月2日至4日赴俄罗斯出席第十一届东方经济论坛，并举行多个双边合作会议。",
+  "summary_en": "On Aug 31, the Foreign Ministry announced that Ding Xuexiang will visit Russia from Sept 2 to 4 to attend the 11th Eastern Economic Forum and co-chair several China-Russia cooperation meetings.",
+  "body_zh": "新华社北京8月31日电 外交部发言人8月31日宣布：应俄罗斯联邦政府邀请，中共中央政治局常委、国务院副总理丁薛祥将于9月2日至4日赴俄罗斯出席第十一届东方经济论坛，并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛。",
+  "image_url": null,
+  "published_at": "2026-08-31T12:00:00+00:00",
+  "event_date": "2026-08-31",
+  "ingested_at": "2026-08-31T10:27:00Z",
+  "topic": "foreign",
+  "keywords": [
+    "中俄合作",
+    "能源合作",
+    "东方经济论坛"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "ding-xuexiang",
+      "name_zh": "丁薛祥",
+      "name_en": "Ding Xuexiang"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中俄合作",
+      "name_en": "China-Russia Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "能源合作",
+      "name_en": "Energy Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "东方经济论坛",
+      "name_en": "Eastern Economic Forum"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "罗斯",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "丁薛祥",
+    "外交部",
+    "北京",
+    "中俄合作",
+    "能源合作",
+    "东方经济论坛",
+    "罗斯"
+  ],
+  "tags_en": [
+    "Ding Xuexiang",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Russia Cooperation",
+    "Energy Cooperation",
+    "Eastern Economic Forum"
+  ],
+  "entities": {
+    "politicians": [
+      "ding-xuexiang",
+      {
+        "id": null,
+        "name_zh": "罗斯"
+      }
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "neutral",
+  "importance": 5,
+  "cluster_id": "evt-20260831-xinhua_leaders-a56b6e",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

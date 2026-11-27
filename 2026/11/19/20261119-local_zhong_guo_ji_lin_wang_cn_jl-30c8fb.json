@@ -1,0 +1,93 @@
+{
+  "id": "20261119-local_zhong_guo_ji_lin_wang_cn_jl-30c8fb",
+  "source": "local_zhong_guo_ji_lin_wang_cn_jl",
+  "source_name_zh": "中国吉林网",
+  "source_name_en": "中国吉林网",
+  "source_media_id": "cac-cn-jl-6505f31674",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-JL",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.cnjiwang.com/gnyw/202611/4099870.html",
+  "title_zh": "国际商界人士：习主席主旨演讲为亚太合作注入信心",
+  "title_en": "International Business Leaders: President Xi's Keynote Speech Boosts Confidence in Asia-Pacific Cooperation",
+  "summary_zh": "11月18日，习近平在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲，多位国际商界人士称演讲为亚太深化开放合作注入信心。",
+  "summary_en": "On Nov 18, Xi Jinping delivered a keynote speech at the opening of the 2026 APEC CEO Summit in Shenzhen; international business leaders said the speech boosted confidence in deeper Asia-Pacific openness and cooperation.",
+  "body_zh": "11月18日，习近平主席在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。多位国际商界人士在接受中国日报采访时表示，习主席的主旨演讲，为亚太地区深化开放合作、促进共同繁荣指明了方向，也为全球企业共享中国发展机遇、拓展合作空间注入了信心。\n（中国日报第一频道出品）\n初审：  郭龙\n复审：  张彦梅\n终审：  朱宝明\n吉网新闻热线：0431-82902222\n中国日报网",
+  "image_url": null,
+  "published_at": "2026-11-19T12:00:00+00:00",
+  "event_date": "2026-11-18",
+  "ingested_at": "2026-11-19T12:11:26Z",
+  "topic": "foreign",
+  "keywords": [
+    "亚太合作",
+    "开放合作",
+    "共同繁荣"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-GD-SZ",
+      "name_zh": "深圳",
+      "name_en": "Shenzhen"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "亚太合作",
+      "name_en": "Asia-Pacific Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "开放合作",
+      "name_en": "Open Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "共同繁荣",
+      "name_en": "Shared Prosperity"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "深圳",
+    "亚太合作",
+    "开放合作",
+    "共同繁荣"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Shenzhen",
+    "Asia-Pacific Cooperation",
+    "Open Cooperation",
+    "Shared Prosperity"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-GD-SZ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261119-local_zhong_guo_ji_lin_wang_cn_jl-30c8fb",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

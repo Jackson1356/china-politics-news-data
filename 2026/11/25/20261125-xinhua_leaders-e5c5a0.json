@@ -1,0 +1,111 @@
+{
+  "id": "20261125-xinhua_leaders-e5c5a0",
+  "source": "xinhua_leaders",
+  "source_name_zh": "新华网 领导人活动",
+  "source_name_en": "Xinhua Leaders' Activities",
+  "source_media_id": "xinhua",
+  "source_admin_level": "central",
+  "source_parent_org_id": null,
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.news.cn/politics/leaders/20261125/4350fc37556c4144846a0e4bff57ed54/c.html",
+  "title_zh": "王毅同荷兰外交大臣贝伦德森会谈",
+  "title_en": "Wang Yi Holds Talks with Dutch Foreign Minister Berendson",
+  "summary_zh": "11月25日，外交部长王毅在北京同荷兰外交大臣贝伦德森会谈，双方就中荷关系、一个中国原则及务实合作新增长点交换意见。",
+  "summary_en": "On November 25, Foreign Minister Wang Yi held talks in Beijing with Dutch Foreign Minister Berendson, discussing China-Netherlands relations, the one-China principle and new areas of practical cooperation.",
+  "body_zh": "新华社北京11月25日电（记者伍岳）中共中央政治局委员、外交部长王毅25日在北京同荷兰外交大臣贝伦德森举行会谈。\n王毅表示，中方愿推动中荷开放务实的全面合作伙伴关系取得更多积极成果，希望并相信荷方将以实际行动恪守一个中国原则。双方要加强高层交往和各层级交流，打造智慧农业、绿色能源、生物制药、银发经济等新增长点，推动务实合作提质升级。希望荷方为中欧关系健康稳定发展发挥建设性作用。\n贝伦德森表示，荷政府奉行一个中国政策，高度重视对华关系，愿为欧中关系健康稳定发展发挥建设性作用。",
+  "image_url": null,
+  "published_at": "2026-11-25T12:00:00+00:00",
+  "event_date": "2026-11-25",
+  "ingested_at": "2026-11-25T13:08:33Z",
+  "topic": "foreign",
+  "keywords": [
+    "中荷关系",
+    "一个中国原则",
+    "务实合作"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "wang-yi",
+      "name_zh": "王毅",
+      "name_en": "Wang Yi"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "贝伦德森",
+      "name_en": "Berendson"
+    },
+    {
+      "kind": "institution",
+      "id": "MFA",
+      "name_zh": "外交部",
+      "name_en": "Ministry of Foreign Affairs"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中荷关系",
+      "name_en": "China-Netherlands Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "一个中国原则",
+      "name_en": "One-China Principle"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "务实合作",
+      "name_en": "Practical Cooperation"
+    }
+  ],
+  "tags_zh": [
+    "王毅",
+    "贝伦德森",
+    "外交部",
+    "北京",
+    "中荷关系",
+    "一个中国原则",
+    "务实合作"
+  ],
+  "tags_en": [
+    "Wang Yi",
+    "Berendson",
+    "Ministry of Foreign Affairs",
+    "Beijing",
+    "China-Netherlands Relations",
+    "One-China Principle",
+    "Practical Cooperation"
+  ],
+  "entities": {
+    "politicians": [
+      "wang-yi"
+    ],
+    "institutions": [
+      "MFA"
+    ],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20261125-xinhua_leaders-e5c5a0",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

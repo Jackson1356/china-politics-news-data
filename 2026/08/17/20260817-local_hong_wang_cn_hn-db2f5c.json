@@ -1,0 +1,81 @@
+{
+  "id": "20260817-local_hong_wang_cn_hn-db2f5c",
+  "source": "local_hong_wang_cn_hn",
+  "source_name_zh": "红网",
+  "source_name_en": "红网",
+  "source_media_id": "cac-cn-hn-9b5b4adac9",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "local-media-system:CN-HN",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://news.rednet.cn/nograb/646042/51/16180557.html",
+  "title_zh": "纪念江泽民同志诞辰100周年大会在京隆重举行",
+  "title_en": "Grand Memorial Meeting Held for 100th Anniversary of Jiang Zemin's Birth",
+  "summary_zh": "8月17日上午，纪念江泽民同志诞辰100周年大会在北京人民大会堂隆重举行，现场全体起立奏唱国歌。",
+  "summary_en": "On the morning of August 17, a grand memorial meeting for the 100th anniversary of Comrade Jiang Zemin's birth was held at the Great Hall of the People in Beijing.",
+  "body_zh": "头条\n国内新闻\n国际新闻\n当前位置:\n湖南红网新闻频道\n头条\n习近平报道集\n正文\n独家视频丨纪念江泽民同志诞辰100周年大会开始 现场奏唱国歌\n时刻新闻\n8月17日上午，纪念江泽民同志诞辰100周年大会在人民大会堂隆重举行。10时整，大会开始。现场全体起立，奏唱中华人民共和国国歌。\n阅读下一篇\n纪念江泽民同志诞辰100周年大会在京隆重举行 习近平出席大会并发表重要讲话\n返回红网首页\n返回湖南红网新闻频道首页",
+  "image_url": null,
+  "published_at": "2026-08-17T12:00:00+00:00",
+  "event_date": "2026-08-17",
+  "ingested_at": "2026-08-17T04:51:50Z",
+  "topic": "party",
+  "keywords": [
+    "纪念活动",
+    "诞辰100周年"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "江泽民",
+      "name_en": "Jiang Zemin"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "纪念活动",
+      "name_en": "Memorial Activity"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "诞辰100周年",
+      "name_en": "100th Anniversary of Birth"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "江泽民",
+    "纪念活动",
+    "诞辰100周年",
+    "习近平"
+  ],
+  "tags_en": [
+    "Jiang Zemin",
+    "Memorial Activity",
+    "100th Anniversary of Birth"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 4,
+  "cluster_id": "evt-20260817-local_hong_wang_cn_hn-db2f5c",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

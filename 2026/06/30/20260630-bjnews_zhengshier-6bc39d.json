@@ -1,0 +1,84 @@
+{
+  "id": "20260630-bjnews_zhengshier-6bc39d",
+  "source": "bjnews_zhengshier",
+  "source_name_zh": "新京报 政事儿",
+  "source_name_en": "The Beijing News — Political Affairs",
+  "source_url": "https://m.bjnews.com.cn/detail/1782832210129124.html",
+  "title_zh": "中共中央决定陆治原任中华全国总工会党组书记",
+  "title_en": "CPC Central Committee Appoints Lu Zhiyuan as Party Group Secretary of All-China Federation of Trade Unions",
+  "summary_zh": "中共中央决定，陆治原任中华全国总工会党组书记。",
+  "summary_en": "The CPC Central Committee has decided to appoint Lu Zhiyuan as the Party Group Secretary of the All-China Federation of Trade Unions.",
+  "body_zh": "中共中央决定，陆治原任中华全国总工会党组书记\n全国总工会6月30日消息，日前，中共中央决定，陆治原同志任中华全国总工会党组书记。\n公开简历显示，陆治原，男，汉族，1964年8月生，研究生学历，经济学博士，中共党员。第二十届中央委员。\n陆治原历任陕西省副省长，辽宁省委常委、组织部部长，山东省委常委、青岛市委书记，山东省委副书记、青岛市委书记等职。2023年10月，陆治原任民政部党组书记，后任民政部部长，至此番调整。",
+  "image_url": null,
+  "published_at": "2026-06-30T23:12:47+00:00",
+  "event_date": "2024-06-30",
+  "ingested_at": "2026-07-01T08:29:07Z",
+  "topic": "personnel",
+  "keywords": [
+    "人事调整"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "lu-zhiyuan",
+      "name_zh": "陆治原",
+      "name_en": "Lu Zhiyuan"
+    },
+    {
+      "kind": "institution",
+      "id": null,
+      "name_zh": "中共中央",
+      "name_en": "CPC Central Committee"
+    },
+    {
+      "kind": "institution",
+      "id": "ACFTU",
+      "name_zh": "中华全国总工会",
+      "name_en": "All-China Federation of Trade Unions"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "人事调整",
+      "name_en": "Personnel Adjustment"
+    }
+  ],
+  "tags_zh": [
+    "陆治原",
+    "中共中央",
+    "中华全国总工会",
+    "人事调整"
+  ],
+  "tags_en": [
+    "Lu Zhiyuan",
+    "CPC Central Committee",
+    "All-China Federation of Trade Unions",
+    "Personnel Adjustment"
+  ],
+  "entities": {
+    "politicians": [
+      "lu-zhiyuan"
+    ],
+    "institutions": [
+      "ACFTU"
+    ],
+    "locations": [],
+    "companies": [
+      {
+        "name_zh": "中共中央",
+        "name_en": "CPC Central Committee"
+      }
+    ]
+  },
+  "sentiment": "neutral",
+  "importance": 4,
+  "cluster_id": "evt-20260630-bjnews_zhengshier-6bc39d",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "gemma-4-31b-it",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

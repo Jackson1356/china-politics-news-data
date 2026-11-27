@@ -1,0 +1,132 @@
+{
+  "id": "20261117-gov_cn_yaowen-dff014",
+  "source": "gov_cn_yaowen",
+  "source_name_zh": "中国政府网 要闻",
+  "source_name_en": "State Council Top News",
+  "source_media_id": "gov_cn",
+  "source_admin_level": "central",
+  "source_parent_org_id": "state_council",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086242.htm",
+  "title_zh": "习近平致电祝贺波黑新一届主席团成员就职",
+  "title_en": "Xi Jinping Sends Congratulatory Message to New Members of Bosnia and Herzegovina's Presidency",
+  "summary_zh": "11月16日，国家主席习近平致电波黑新一届主席团三位成员，祝贺其就职，并表示愿深化两国传统友谊与互利合作。",
+  "summary_en": "On Nov 16, President Xi Jinping sent a message to the three new members of Bosnia and Herzegovina's Presidency, congratulating them on taking office and pledging to deepen friendship and mutually beneficial cooperation.",
+  "body_zh": "新华社北京11月16日电 11月16日，国家主席习近平致电热莉卡·茨维亚诺维奇、戴尼斯·贝契罗维奇、达丽娅娜·菲利波维奇，祝贺他们就任波黑主席团成员。\n习近平指出，波黑是中国在东南欧地区的重要合作伙伴。近年来，两国关系平稳健康发展，政治互信日益牢固，各领域合作富有成果。我高度重视中波关系发展，愿同主席团成员们一道努力，深化两国传统友谊和互利合作，引领双边关系迈向更高水平，更好造福两国人民。",
+  "image_url": null,
+  "published_at": "2026-11-17T12:00:00+00:00",
+  "event_date": "2026-11-16",
+  "ingested_at": "2026-11-17T12:33:57Z",
+  "topic": "foreign",
+  "keywords": [
+    "中波关系",
+    "外交合作",
+    "传统友谊",
+    "政治互信"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": "Xi Jinping"
+    },
+    {
+      "kind": "location",
+      "id": "CN-BJ",
+      "name_zh": "北京",
+      "name_en": "Beijing"
+    },
+    {
+      "kind": "location",
+      "id": null,
+      "name_zh": "波黑",
+      "name_en": "Bosnia and Herzegovina"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中波关系",
+      "name_en": "China-Bosnia and Herzegovina Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "外交合作",
+      "name_en": "Diplomatic Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "传统友谊",
+      "name_en": "Traditional Friendship"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "政治互信",
+      "name_en": "Political Mutual Trust"
+    }
+  ],
+  "tags_zh": [
+    "习近平",
+    "北京",
+    "波黑",
+    "中波关系",
+    "外交合作",
+    "传统友谊",
+    "政治互信"
+  ],
+  "tags_en": [
+    "Xi Jinping",
+    "Beijing",
+    "Bosnia and Herzegovina",
+    "China-Bosnia and Herzegovina Relations",
+    "Diplomatic Cooperation",
+    "Traditional Friendship",
+    "Political Mutual Trust"
+  ],
+  "entities": {
+    "politicians": [
+      "xi-jinping"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-BJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 5,
+  "cluster_id": "evt-20261117-gov_cn_yaowen-dff014",
+  "is_cluster_canonical": true,
+  "also_covered_by": [
+    {
+      "source": "gov_chen_yang",
+      "source_tier": 4,
+      "url": "https://www.shenyang.gov.cn/dwgk/zsjxx/202611/t20261117_5118562.html",
+      "title_zh": "习近平致电祝贺波黑新一届主席团成员就职-总书记信息-沈阳市人民政府",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_le_shan",
+      "source_tier": 4,
+      "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086242.htm",
+      "title_zh": "习近平致电祝贺波黑新一届主席团成员就职",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "gov_ying_kou",
+      "source_tier": 4,
+      "url": "https://www.yingkou.gov.cn/001/001003/20261117/2b58bf7e-b377-4245-9c45-c319bf65d12b.html",
+      "title_zh": "习近平致电祝贺波黑新一届主席团成员就职",
+      "published_at": "2026-11-17T12:00:00+00:00"
+    }
+  ],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}

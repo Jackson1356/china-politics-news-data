@@ -1,0 +1,130 @@
+{
+  "id": "20261127-xinhua_xj-df520b",
+  "source": "xinhua_xj",
+  "source_name_zh": "新华网 新疆",
+  "source_name_en": "Xinhua Xinjiang",
+  "source_media_id": "xinhua_provincial_network",
+  "source_admin_level": "provincial",
+  "source_parent_org_id": "xinhua",
+  "source_authority": "cac_internet_news_sources_2025_06",
+  "source_url": "http://xj.news.cn/20261127/952b5f06dab0404ca148fc50d5d3de96/c.html",
+  "title_zh": "艾尔肯·吐尼亚孜会见伊朗驻华大使法兹里",
+  "title_en": "Erkin Tuniyaz Meets Iranian Ambassador to China Fazli",
+  "summary_zh": "11月24日，新疆维吾尔自治区主席艾尔肯·吐尼亚孜在乌鲁木齐会见伊朗驻华大使法兹里，双方就经贸、能源、农业、文旅等领域务实合作交换意见。",
+  "summary_en": "On November 24, Xinjiang Chairman Erkin Tuniyaz met Iranian Ambassador to China Fazli in Urumqi to discuss practical cooperation in trade, energy, agriculture and tourism.",
+  "body_zh": "24日，自治区党委副书记、自治区主席艾尔肯·吐尼亚孜在乌鲁木齐会见伊朗驻华大使法兹里一行。\n艾尔肯·吐尼亚孜指出，中伊两国传统友谊源远流长，2016年1月，习近平主席对伊朗进行国事访问，两国建立全面战略伙伴关系。中共十八大以来，习近平主席和中共中央从强国建设、民族复兴全局和战略高度谋划推进新疆工作，确立新时代中国共产党的治疆方略，引领新疆经济社会发展取得举世瞩目的重大成就，新疆步入发展最好、变化最大、各族群众得实惠最多的历史时期。中国新疆高度重视发展同伊朗地方间友好关系，愿同伊方一同落实好两国元首达成的重要共识，赓续传统友谊，增进友好往来，深化在经贸投资、能源资源、农林牧业、文旅等领域务实合作，推动互利合作取得更多成果。\n法兹里表示，伊朗高度重视伊中全面战略伙伴关系。此次在中国新疆实地参访，看到了新疆社会稳定、经济繁荣、民族团结、人民幸福的喜人景象。希望进一步拓展与中国新疆在教育、科技、农业、文旅、物流、防沙治沙等领域合作的深度广度，建立起更加深厚牢固的联系，增强政治互信，造福两地人民。\n王建新，自治区有关部门和企业负责同志参加会见。（记者 张艳芳）",
+  "image_url": null,
+  "published_at": "2026-11-27T12:00:00+00:00",
+  "event_date": "2026-11-24",
+  "ingested_at": "2026-11-27T12:52:51Z",
+  "topic": "foreign",
+  "keywords": [
+    "中伊关系",
+    "地方合作",
+    "经贸投资"
+  ],
+  "tags": [
+    {
+      "kind": "person",
+      "id": "erkin-tuniyaz",
+      "name_zh": "艾尔肯·吐尼亚孜",
+      "name_en": "Erkin Tuniyaz"
+    },
+    {
+      "kind": "person",
+      "id": null,
+      "name_zh": "法兹里",
+      "name_en": "Fazli"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ-WLMQ",
+      "name_zh": "乌鲁木齐",
+      "name_en": "Urumqi"
+    },
+    {
+      "kind": "location",
+      "id": "CN-XJ",
+      "name_zh": "新疆",
+      "name_en": "Xinjiang"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "中伊关系",
+      "name_en": "China-Iran Relations"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "地方合作",
+      "name_en": "Sub-national Cooperation"
+    },
+    {
+      "kind": "theme",
+      "id": null,
+      "name_zh": "经贸投资",
+      "name_en": "Trade and Investment"
+    },
+    {
+      "kind": "person",
+      "id": "xi-jinping",
+      "name_zh": "习近平",
+      "name_en": ""
+    },
+    {
+      "kind": "person",
+      "id": "wang-jianxin",
+      "name_zh": "王建新",
+      "name_en": ""
+    }
+  ],
+  "tags_zh": [
+    "艾尔肯·吐尼亚孜",
+    "法兹里",
+    "乌鲁木齐",
+    "新疆",
+    "中伊关系",
+    "地方合作",
+    "经贸投资",
+    "习近平",
+    "王建新"
+  ],
+  "tags_en": [
+    "Erkin Tuniyaz",
+    "Fazli",
+    "Urumqi",
+    "Xinjiang",
+    "China-Iran Relations",
+    "Sub-national Cooperation",
+    "Trade and Investment"
+  ],
+  "entities": {
+    "politicians": [
+      "erkin-tuniyaz",
+      {
+        "id": null,
+        "name_zh": "法兹里"
+      },
+      "xi-jinping",
+      "wang-jianxin"
+    ],
+    "institutions": [],
+    "locations": [
+      "CN-XJ-WLMQ",
+      "CN-XJ"
+    ],
+    "companies": []
+  },
+  "sentiment": "positive",
+  "importance": 3,
+  "cluster_id": "evt-20261127-xinhua_xj-df520b",
+  "is_cluster_canonical": true,
+  "also_covered_by": [],
+  "extraction": {
+    "model": "deepseek-v4-flash",
+    "version": "v1",
+    "deepseek_upgraded": false,
+    "deepseek_notes": null
+  }
+}
